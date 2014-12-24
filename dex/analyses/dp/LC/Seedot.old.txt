@@ -1,0 +1,49 @@
+[Overview]
+
+<p>At first glance, Seedot looks like a poor choice as a Pokemon. It has mediocre stats across the board, with its highest being a Defense stat of 50, something that it can't even effectively utilize. However, with Sunny Day up, Seedot's Speed doubles to an impressive 26. It also has access to Solar Beam and Explosion, two very powerful moves. Unfortunately, the rest of Seedot's movepool is very shallow, but it is still just enough for Seedot to succeed. Even so, it is still slightly outclassed as a sweeper by Exeggcute. All in all, though Seedot isn't a very impressive Pokemon, it should be at least considered for a team slot on a dedicated Sunny Day team.</p>
+
+[SET]
+name: Sunny Day Sweeper
+move 1: Solar Beam
+move 2: Hidden Power Fire / Hidden Power Ground
+move 3: Shadow Ball
+move 4: Explosion
+item: Life Orb
+nature: Hasty / Naive
+evs: 40 Atk / 200 SpA / 36 SpD / 200 Spe
+ivs: 3 HP
+
+[Set Comments]
+
+<p>This is probably the best set that Seedot is capable of running. Obviously, Sunny Day support is necessary in order for Seedot to attempt a sweep. Solar Beam is a very powerful STAB attack, and will not have to charge up under the sun. Hidden Power Fire gets good coverage alongside Solar Beam, and the coverage of the two is resisted only by Fire-types (which aren't very bulky to begin with), and pure Dragon-types (in Dratini and the uncommon Bagon). However, Hidden Power Ground can be used to hit said Fire-types, but loses overall coverage. Shadow Ball is a good coverage move, hitting Ghost-types that may try to come in on a predicted Explosion for super effective damage. Explosion should be used as a last resort, and it allows Seedot to easily OHKO Munchlax before going down, potentially clearing the way for another sweeper on your team. Life Orb boosts the power of all of Seedot's moves, and the EVs further boost them. Speed is also maximized, because Seedot will want and need to outspeed everything it can. The 3 HP IVs drop Seedot's Hit Points to 19, a Life Orb number.</p>
+
+[Additional Comments]
+
+<p>Sunny Day support is absolutely necessary for Seedot to work at all. Koffing, Ponyta, and Diglett are all decent supporters that can provide said weather support whilst having decent synergy with Seedot. Hidden Power Ice is an interesting option to use over the ones mentioned and gets a guaranteed OHKO on Gligar, but it isn't useful outside of that purpose. Other Sunny Day sweepers are also helpful in pulling off a sweep. Thanks to Explosion, Seedot can eliminate a problematic Pokemon, such as Munchlax, to open a sweep for a partner, such as Oddish. If the goal is to open a sweep for Oddish, Pokemon that can remove faster threats are highly recommended. Munchlax can remove Choice Scarf Gastly, while Koffing can beat Choice Scarf Gligar.</p>
+
+[SET]
+name: Nasty Plot
+move 1: Nasty Plot
+move 2: Solar Beam
+move 3: Hidden Power Fire / Hidden Power Ground
+move 4: Shadow Ball
+item: Life Orb
+ability: Chlorophyll
+nature: Timid
+evs: 36 Def / 200 SpA / 36 SpD / 200 Spe
+
+[Set Comments]
+
+<p>Though Seedot doesn't have the greatest Speed in the world, Nasty Plot is the only thing that sets it apart from Exeggcute. After a single Nasty Plot boost, Seedot hits a Special Attack stat of 26, easily tearing apart most of the metagame. Solar Beam is Seedot's strongest STAB attack and, after a Nasty Plot boost, has a high chance of OHKOing any Pokemon that doesn't resist it (excluding Munchlax, who is 2HKOed through Oran Berry). With Sunny Day in play, Hidden Power Fire gets a 1.5x increase, and pairs very well alongside Solar Beam. However, Hidden Power Ground can be used instead to hit Fire-types harder, though not very many can survive a +2 Solar Beam. Finally, Shadow Ball smacks Ghost-types for super effective damage, most notably Gastly, who can stave off a Solar Beam and can OHKO back with Sludge Bomb. The EVs maximize Special Attack and Speed, with an extra point going to Defense and Special Defense. If using Hidden Power Ground, add another 4 EVs to Special Defense to make up for the lost IVs.</p>
+
+[Additional Comments]
+
+<p>Sunny Day support is absolutely necessary for this set; Exeggcute, Diglett, and Koffing are all decent Pokemon that can set up Sunny Day. In addition, this set will lose to many (if not all) Choice Scarf sweepers with 27 Speed or more, namely Gligar, Gastly, and Staryu, all of which can OHKO with a super effective attack. Gastly and Staryu are easy targets for Munchlax, who can stop both of them with little trouble. Wynaut is also a good teammate, as it can Encore an opposing Pokemon into a support move or a weak attack that Seedot resists (like Aqua Jet). With the Encored Pokemon locked in completely, Seedot should be able to switch in and set up Nasty Plot fairly easily.</p>
+
+[Other Options]
+
+<p>There really aren't any other options for Seedot. Return is a potential option to smack Munchlax without having to sacrifice Seedot, but Explosion is still usually a better choice as Return does not even 3HKO Munchlax factoring in Oran Berry. Seedot has Swords Dance, but it won't be able to hit as hard (or get as good coverage) as it would with Nasty Plot. Seed Bomb can be used over Solar Beam, since it still hits Hippopotas hard and does not screw Seedot over when a Snover switches in. Seedot possesses Quick Attack for priority. It can also change its Hidden Power to hit specific threats.</p>
+
+[Checks and Counters]
+
+<p>There aren't many holes in Seedot's coverage, despite its weak attacks. All Snover has to fear is Hidden Power Fire, and it also ends Sunny Day thanks to its ability, Snow Warning. Choice Scarf users with 27 or more Speed and a super effective attack also work well, since Seedot won't be taking many attacks with its thin defenses. Choice Scarf Ponyta and Gligar are both great checks, and the former even gets double STAB on its Fire-type attacks with the sun up. Scarf Staryu, if it can avoid a Solar Beam, can KO Seedot with Ice Beam. Another good way to stop Seedot is by using prediction - switching in a Ghost-type on Explosion is good, but you must watch for a counter-predicted Shadow Ball.</p>

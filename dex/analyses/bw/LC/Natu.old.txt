@@ -1,0 +1,53 @@
+[Overview]
+
+<p>Natu might seem like just a useless little bird, but he has a myriad of useful traits that warrant his consideration on any team. His Psychic / Flying typing is shared only with Woobat and grants him a quadruple resistance to Fighting-type moves, a dominant force in the metagame. Magic Bounce grants Natu an invaluable way to support his teammates by reflecting back all non-attacking moves, whether they be entry hazards or crippling status conditions like burns and paralysis. All in all, Natu has a great niche that makes him perfect for a supporting role.</p>
+
+[SET]
+name: Feather Dance
+move 1: Feather Dance
+move 2: Roost
+move 3: Hidden Power Flying
+move 4: U-turn / Toxic
+item: Eviolite
+ability: Magic Bounce
+nature: Timid
+evs: 200 HP / 80 Def / 196 Spe
+
+[SET COMMENTS]
+
+<p>This set's main goal is to shut down entry hazard setters, such as lead Dwebble and Ferroseed, via Magic Bounce. In fact, the only entry hazard the ability can't reflect is Stealth Rock from Drilbur due to Mold Breaker. Magic Bounce also allows Natu to obliterate Grass-types like Foongus, Shroomish, and Cottonee that rely on support moves. Another perk is that this Natu completely walls parafusion Murkrow, who can otherwise be quite annoying for most teams.</p>
+
+<p>As most hazard setters are physical attackers, Feather Dance is used to allow Natu to render them completely useless and force them to switch out. Roost is for reliable recovery and also temporarily removes Natu's weaknesses to Ice-, Electric-, and Rock-type attacks. Hidden Power Flying is a decently powered STAB move that hits all Pokemon in the metagame and allows Natu to score super effective damage on the many Fighting-types that infest Little Cup. U-turn is a great move to capture momentum as your opponent switches out. Toxic, however, can be used to wear down walls like Lileep more effectively.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>196 Speed EVs with a Timid nature are just enough for Natu to outspeed Dwebble and Feather Dance it. The HP EVs maximize his health and overall bulk while the rest go into Defense to allow Natu to take a hit before using Feather Dance.</p>
+
+<p>Although Dwebble is mentioned extensively in this analysis, it should be noted that Natu cannot switch into it unless there is no doubt it is using Stealth Rock, because Rock Blast is almost always a 2HKO even factoring in Feather Dance. However, Natu does beat Dwebble one-on-one. Anorith can also defeat Natu, as with 18 Speed it can attack before Natu uses Feather Dance. In terms of teammates, Magnemite and Chinchou have great defensive synergy with Natu. Natu can take Ground-type attacks aimed at these Pokemon while they absorb Electric-type attacks aimed at Natu. In addition, Natu shrugs off the Fighting attacks aimed at Magnemite while Magnemite doesn't care about a stray Rock-type attack thrown its way. Chinchou resists Ice-type attacks that could dispatch Natu as well. Magnemite and Chinchou can also form a VoltTurn core together, allowing for great momentum. Also, any Pokemon that appreciates a lack of entry hazards on the field, such as Larvesta, greatly appreciates the Magic Bounce support provided by Natu.</p>
+
+[SET]
+name: Dual Screens
+move 1: Reflect
+move 2: Light Screen
+move 3: U-turn
+move 4: Roost
+item: Eviolite
+ability: Magic Bounce
+nature: Jolly
+evs: 116 HP / 36 Atk / 76 Def / 76 SpD / 196 Spe
+
+[SET COMMENTS]
+
+<p>If you're looking for something to run dual screens, then Natu is your Pokemon. Due to Magic Bounce, the psychic bird is not affected by Taunt and is almost always ensured to set up at least one screen. Screens are the epitome of support, as they reduce the damge Natu and his teammates take from attacks. Roost provides reliable recovery whilst removing Natu's Rock-, Ice-, and Electric-type weaknesses for the turn it is used. U-turn allows Natu to gain momentum and hit Dark-types as they switch in, while possibly providing a free turn for a teammate.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Light Clay can be used in lieu of Eviolite to increase the duration of Natu's screens. However, this sacrifices bulk that is greatly needed to set up those screens. The Speed EVs let Natu hit 17 Speed, which lets it tie with Drilbur and outrun Dwebble. The rest go into Natu's defenses to maximize longevity. All setup sweepers greatly appreciates dual screens; Scraggy, Tirtouga, and Pawniard are good candidates for this role. Tirtouga and Shell Smash Dwebble appreciate Natu's ability to keep entry hazards off of the field so that they can set up with Sturdy intact. Pawniard deserves a special mention, as Natu can easily take Fighting-type attacks aimed at Pawniard. Magnemite and Chinchou have great synergy with Natu and establish an effective VoltTurn core.</p>
+
+[Other Options]
+
+<p>Wish could be used over Roost on the dual screens yet, but not having Roost can become problematic when Natu is in need of quick healing. He is also capable of running a semi-effective attacking set using some combination of Heat Wave, U-turn, Giga Drain, Trick, Psychic, and Hidden Power Flying with a Choice Scarf attached, but the role of attacking Flying-type is played better by Murkrow. Seriously, if you're thinking about using an attacking Natu, don't; it's really bad. Natu already checks defensive Pokemon like Hippopotas, and you don't want to Trick a Choice Scarf onto something like Misdreavus.</p>
+
+[Checks and Counters]
+
+<p>Misdreavus is one of the best counters to Natu, as it takes very little from its attacks. Additionally, offensive Misdreavus can outspeed and kill the dual screens set 100% of the time and the Feather Dance set 75% of the time if you don't switch Natu out. However, Toxic heavily cripples Misdreavus unless it carries Heal Bell, so it has to be careful switching in. Pawniard can set up on Feather Dance Natu thanks to Defiant. Anorith can outspeed and dispatch Natu. Porygon can Trace Magic Bounce and KO with Shadow Ball. Magnemite, Chinchou, and Staryu can all switch into the Feather Dance set. Chinchou is the only one of these three that fears Toxic, but this is only the case if it doesn't carry Heal Bell. However, if they come in on the dual screens set while Light Screen is up, they will have a much harder time obtaining the kill. Murkrow can avoid Feather Dance by using Substitute or just kill it with a Life Orb-boosted Brave Bird. Choice Scarf Snover outspeeds and can kill Natu, but it must not switch into Hidden Power Flying. However, switching anything in on Natu can be completely futile, as U-turn makes him extremely hard to trap and kill.</p>

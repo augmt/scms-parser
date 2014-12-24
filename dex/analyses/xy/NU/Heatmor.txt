@@ -1,0 +1,13 @@
+Wallbreaker
+########
+name: Wallbreaker
+move 1: Fire Blast
+move 2: Focus Blast
+move 3: Giga Drain
+move 4: Sucker Punch / Knock Off
+item: Life Orb / Expert Belt
+ability: Flash Fire
+evs: 4 Atk / 252 SpA / 252 Spe
+nature: Mild / Rash
+
+This is a sample set while we are currently working on analyses in the workshop.

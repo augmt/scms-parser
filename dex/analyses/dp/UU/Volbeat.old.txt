@@ -1,0 +1,55 @@
+[Overview]
+
+<p>At a glance, Volbeat is the epitome of many things you would expect of the average Bug-type; poor stats and a mediocre movepool alongside insubstantial abilities are just some of the things that he has in common with fellow Pokemon of his type. However, this little firefly does possess a few interesting qualities that set him apart from his brethren. Notably, he has access to the rare combination of a +2 Special Attack-boosting move and Baton Pass, and though he's outclassed by other users of the combination, such as Plusle and Minun for the most part, he can be a decent user of it. Furthermore, he is the only Bug-type bar Shedinja who can use Trick, which gives him a unique niche as a Bug-type Choice item user. Overall, don't expect Volbeat to be amazing; he is almost always outclassed in whatever role he plays, but can be an interesting and useful team member when used correctly.</p>
+
+[SET]
+name: Baton Pass
+move 1: Baton Pass
+move 2: Tail Glow
+move 3: Encore
+move 4: Substitute / Bug Buzz
+item: Leftovers 
+ability: Swarm
+nature: Timid
+evs: 248 HP / 8 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>The ability to Baton Pass +2 Special Attack is a rare and coveted ability, and Volbeat is undeniably blessed to have it. While Volbeat is easily a lesser choice for this role, being outclassed by other users of the combination, such as Plusle and Minun, he is nonetheless a respectable option. However, it is hard to deny that Volbeat has a harder time fitting on teams than his fellow Baton Pass users, having poor defenses and a slew of common weaknesses. Volbeat's only real advantages lie in his resistances to Grass-, Ground-, and Fighting-type attacks and his access to Encore. Fortunately, Encore does give Volbeat a means to circumvent his poor defenses, as with the ability to lock an offensively inept Pokemon such as Registeel into a support move, Volbeat gains a slew of new opportunities to set up. Substitute is also fairly helpful in this regard; not only does it prevent Volbeat from being struck by status and provide a cushion for Volbeat, it can also be Baton Passed to another teammate. Bug Buzz can be used if you fear Taunt, but it will typically do pitiful damage against most foes due to Volbeat's pathetic Special Attack.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>This EV spread is designed to boost Volbeat's defensive abilities as much as possible, while keeping his Speed maxed to allow him to tie with other max Speed base 85s. However, should Bug Buzz be used, you may shift Volbeat's HP EVs into Special Attack to make him stronger. You may opt to use a Salac Berry to give an additional Speed boost to Baton Pass; Substitute is recommended if you go down that road to consistently bring Volbeat down to the 25% range. With Substitute, Bug Buzz, Swarm, and a Salac Berry, Volbeat can attempt to sweep with Swarm-boosted Bug Buzz with at least +2 Special Attack and +1 Speed, even with this setup though, Volbeat is still incredibly prone to priority attacks.</p>
+
+<p>Due to the fact that this set revolves around Baton Passing Tail Glow boosts, appropriate Baton Pass recipients are necessary. Unfortunately, due to the copious amount of weaknesses Volbeat possesses, it's difficult to find a recipient who shares few weaknesses with him. Blaziken and Lanturn are arguably the best recipients for this reason; despite being somewhat slow, they boast a means to boost their Speed stat via Agility, and have great type coverage in their STAB moves. Lanturn also has the ability to defeat Milotic, who can otherwise pose an issue for Volbeat with Haze. However, if you aren't too afraid of synergy issues, receivers such as Espeon, Alakazam, Moltres, Mismagius, Rotom, Sceptile, and other such specially-oriented Pokemon are good choices as well.</p>
+
+<p>To deal with special sponges such as Chansey that may give Volbeat and his recipient grief, strong physical attackers such as Rhyperior, Aggron, and Donphan are recommended; they are also helpful for weakening the opposing team via their brutally strong attacks. Furthermore, Donphan can utilize Rapid Spin to prevent Volbeat and the Baton Pass recipient from taking damage from entry hazards. Dugtrio can also be used as a means to guarantee the removal of special sponges, but he can only remove weakened variants due to his mediocre offenses.</p>
+
+[SET]
+name: Choice
+move 1: U-turn
+move 2: Trick
+move 3: Brick Break
+move 4: Zen Headbutt
+item: Choice Scarf / Choice Band
+ability: Swarm
+nature: Adamant / Jolly
+evs: 252 Atk / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>While Volbeat's offenses, physical movepool, and Speed are decidedly mediocre, he has one saving grace in his access to Trick, which gives him a slight niche as a Bug-type Choice item user. This, in tandem with U-turn's ability to scout the opposing team, can make Volbeat tricky to play around, since defensive Pokemon will be crippled by Trick, and offensive Pokemon will take a chunk of damage from U-turn. Furthermore, U-turn will help keep momentum in your favor, as well as doing somewhat respectable damage, despite Volbeat's poor Attack stat, and it's Volbeat's strongest STAB option. Brick Break nails Steel-types such as Registeel and Aggron, and with a Choice Scarf, Volbeat can outspeed +2 Adamant Aggron and do hefty damage to it. Zen Headbutt complements Brick Break and U-turn's coverage by hitting Poison-types who resist them for super effective damage, as well as offering neutral coverage on Ghost-types who take minute damage from U-turn and are immune to Brick Break. Alternatively, Ice Punch and Thunder Punch are options to hit other specific foes -- Flying-types, in particular -- for super effective damage, though they don't hit as many important foes as Zen Headbutt does. Quick Attack is also usable as a form of priority, but it is pitifully weak.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Depending on which item was utilized in the last slot, an appropriate nature must be chosen. Usually, with a Choice Scarf, an Adamant nature will suffice, since this allows Volbeat to outspeed the entire unboosted UU metagame bar Electrode; however, this does mean Volbeat misses out on beating Choice Scarf users with maximum Speed investment and base 80 Speed, which may pose an issue. Therefore, you must decide whether or not these Pokemon are a big enough issue to sacrifice the much needed power boost that Adamant provides in favor of the ability to possibly revenge kill them. If Choice Band is used, a Jolly nature is a must to outspeed max Speed Base 80s, as well as tie with other max Speed Base 85s.</p>
+
+<p>Because Volbeat is simply very weak, even with a boost from a Choice Band, bulky Pokemon tend to be highly annoying. Dugtrio and entry hazards are useful for this reason; Dugtrio can trap weakened walls such as Registeel, whereas entry hazards can slowly wear bulky Pokemon down. Omastar makes an excellent candidate for setting up hazards, with great overall defenses to continually set up throughout the match. With the combination of entry hazards and Volbeat's U-turns, the opponent will find themselves weakening extremely fast. As such, powerhouses who can finish off the opposing team work well alongside Volbeat; Moltres, Alakazam, and Aggron are prime examples, boasting extremely strong attacks to muscle through the opposing team. However, on the flip side, entry hazards are detrimental to Volbeat as he will attempt to switch in and out multiple times during the match, and entry hazards hinder this endeavor greatly. As such, Rapid Spin users such as Hitmontop, Blastoise, and Donphan are good partners.</p>
+
+[Other Options]
+
+<p>Volbeat's movepool is marginally larger than other Bug-types, though this isn't really saying much. For offensive options, Volbeat's special movepool consists of useful and interesting moves such as Thunderbolt, Giga Drain, Shadow Ball, Water Pulse, Charge Beam, and Hidden Power, which can be used alongside Tail Glow, though they'll still be depressingly weak even after a boost. Physically, Volbeat's movepool is barren, with only Double-Edge and Focus Punch as noteworthy options. While both of these attacks have their merits; the former in having an attack that has great neutral coverage, and the latter in hitting Steel-types extremely hard, both typically aren't worth using. In the support department, Volbeat has a few useful options such as Confuse Ray and Thunder Wave, which can be utilized to form the irritating ParaFusion strategy, Roost, which can heal Volbeat, as well as Rain Dance and Sunny Day for weather support. However, due to Volbeat's poor defenses, these options are usually better used by another Pokemon.</p>
+
+[Checks and Counters]
+
+<p>Poor defenses, a barely above-average Speed, weak offensive stats, and a truckload of weaknesses all combine to make Volbeat an easy Pokemon to defeat. Most Pokemon that can outspeed Volbeat will typically be able to KO or at least severely damage him; notable examples include Swellow, Scyther, and Moltres, and they can also take most of Volbeat's attacks with ease. Bulky Pokemon also do well due to Volbeat's mediocre offenses. Rhyperior, Aggron, and Donphan are superb choices, possessing the ability to smash Volbeat's lights out with ridiculously strong attacks. Milotic is a fine choice as well, and her access to Haze allows her to be a surefire counter against any Volbeat set. Finally, Stealth Rock is a huge thorn in this firefly's side, as Volbeat is simply too frail to switch into any attack after Stealth Rock has chipped 25% of its health away.</p>

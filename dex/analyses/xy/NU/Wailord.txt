@@ -1,0 +1,13 @@
+Choice Specs
+########
+name: Choice Specs
+move 1: Water Spout
+move 2: Hydro Pump
+move 3: Ice Beam
+move 4: Hidden Power Grass
+item: Choice Specs
+ability: Water Veil
+evs: 4 Def / 252 SpA / 252 Spe
+nature: Modest
+
+This is a sample set while we are currently working on analyses in the workshop.

@@ -1,0 +1,53 @@
+Overview
+########
+
+Cinccino is a good physical attacker in RU that is capable of beating many common threats, such as Delphox, Rhyperior, and Meloetta. Skill Link works well with Cinccino's access to multi-hit moves such as Tail Slap, Bullet Seed, and Rock Blast, giving it multiple moves with high Base Power as well as the ability to break through Substitutes, a niche that few Pokemon can boast. Cinccino also has a blazing fast base 115 Speed stat that lets it outspeed the majority of the unboosted metagame, backed by a decent base 95 attack. It can also choose between wallbreaking and late-game cleaning, giving it some versatility. However, Cinccino does not come without several flaws. It is very frail and has a poor defensive typing, meaning it is 2HKOed by most neutral STAB moves. It is also susceptible to priority moves that circumvent its great Speed, especially the super effective Mach Punch. Finally, despite its coverage, Cinccino lacks a solid means of hitting the Steel-types that populate the tier. All in all, Cinccino is a decent Pokemon in the RU tier that should be considered on any offensive team.
+
+Physical Attacker
+########
+name: Physical Attacker
+move 1: Tail Slap
+move 2: Bullet Seed
+move 3: Rock Blast
+move 4: Knock Off / U-turn
+ability: Skill Link
+item: Choice Band / Life Orb 
+evs: 252 Atk / 4 Def / 252 Spe
+nature: Jolly
+
+Moves
+========
+
+With 125 Base Power, Tail Slap is Cinccino's most reliable and powerful STAB move, that also has great neutral coverage. Bullet Seed is an important coverage move, hitting Rock-types such as Rhyperior that resist Tail Slap. Rock Blast is used for coverage against the numerous Fire-, Bug-, and Flying-types in the tier, notably Delphox, Moltres, and Braviary. It also limits Shuckle's ability to lay down entry hazards. Finally, Knock Off can be used to hit many of the physically frail Psychic- and Ghost-types in the tier, as well as being Cinccino's best option against Cofagrigus and Doublade. However, U-turn can be used to let Cinccino pivot out of bad situations, while maintaining coverage against Psychic-types.
+
+
+Set Details
+========
+
+The EVs maximize Attack and Speed, Cinccino's only notable stats. Jolly is, by far, the best nature as it allows Cinccino to outspeed almost every unboosted Pokemon in the tier. Adamant is a bad idea as it leaves Cinccino outsped by everything above base 100 Speed, including Pokemon such as Delphox, Durant, and Virizion which is awful since Cinccino's high Speed is one of its selling points. Choice Band gives Cinccino more power and longevity, making it better for wallbreaking, while Life Orb allows Cinccino to change moves, which is preferred for late-game cleaning. King's Rock gives Cinccino's multi-hit moves a 41% chance to flinch, allowing it to potentially take out a counter, but this is unreliable.
+
+Usage Tips
+========
+
+Cinccino is a very good lead against entry hazard-stacking teams, especially those with Sticky Web, as it can limit Shuckle to only one kind of hazard. It is also best brought in on a free switch as Cinccino is very frail and is 2HKOed by most neutral STAB moves. Cinccino should be played carefully if a Steel-type is seen in Team Preview, since they can switch in with impunity and force it out.
+
+Team Options
+========
+
+The best possible teammates for Cinccino are Fire-types such as Moltres and Delphox, since they can roast the Steel-types that completely wall it. Fighting-types can OHKO Cinccino with their powerful STAB moves, especially priority Mach Punch, so having a solid check such as Cofagrigus, Mega Banette, or Aromatisse doesn't go amiss either. Entry hazard support is recommended on teams that use Cinccino as well, since it helps the chinchilla net more KOs. Finally, a slow Volt Switch or U-turn user can be used to bring Cinccino in safely multiple times in a game.
+
+Other Options
+########
+
+Sing is a decent option on Cinccino to put Doublade to sleep, and it will never miss thanks to the latter's No Guard. However, it is very unreliable against other Pokemon. Choice Scarf is a good item choice, since it lets Cinccino revenge kill even boosted threats, but the lack of power can be underwhelming. Dig can be used to hit Steel-types, but it is rather weak, and since it takes two turns, it can be easily worked around. Technician can be used to boost some moves to respectable power, such as Wake-up Slap to hit Steel-types quite hard, but Skill Link's utility is too good to pass up. Cinccino even has a great special movepool, including Thunderbolt, Dazzling Gleam, Focus Blast, and Hyper Voice, but it only has base 60 Special Attack.
+
+Checks & Counters
+########
+
+**Steel-types**: Almost every Steel-type in the metagame walls Cinccino, including top-tier Pokemon such as Cobalion, Registeel, Escavalier, and Durant. None of Cinccino's attacks will do significant damage, and they can all either set up or straight-up KO it.
+
+**Spiritomb**: Spiritomb is immune to Cinccino's STAB moves, and can either burn it or set up with Calm Mind.
+
+**Priority**: Fighting-types such as Hitmonlee and Gurdurr can OHKO with Mach Punch, and others, such as Zoroark's Sucker Punch, Fletchinder's Acrobatics, and Kabutops's Aqua Jet, do serious damage as well.
+
+**Druddigon**: Rough Skin damage makes Cinccino lose over half its health upon using Tail Slap; with Rocky Helmet, Cinccino will end up KOing itself.

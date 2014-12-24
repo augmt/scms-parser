@@ -1,0 +1,89 @@
+[Overview]
+<p>Manaphy is often left in the dust in lieu of its fellow Uber Water-types Kyogre and Palkia. Manaphy absolutely needs rain support from Kyogre to do anything in Ubers, and both Kyogre and Palkia have much better offensive stats as well as movepools. Furthermore, Manaphy also has to compete with fellow rain abusers Kingdra and Kabutops, who both get Swift Swim to boost their Speed stats to astronomical levels. (Kingdra even gets Dragon-type STAB like Palkia.) Faced with these competitors, one may think that there is no reason to use Manaphy at all.</p>
+
+<p>However, Manaphy does have a few tricks up its sleeve. Hydration, when used with Rest and rain support, allows Manaphy to instantly heal itself and remove any status condition, which no other Pokemon in Ubers can do. It may not be as immediately threatening as either Kyogre or Palkia, but its access to Tail Glow means it can power up faster than either of them. Manaphy is also much bulkier than Kingdra and Kabutops.</p>
+
+<p>Its movepool is somewhat limited compared to its fellow Ubers and rain abusers, but what it has is just enough to make it a decent threat.</p>
+
+[SET]
+name: Tail Glow Sweeper
+move 1: Tail Glow
+move 2: Rest
+move 3: Surf
+move 4: Ice Beam / Grass Knot 
+item: Leftovers / Life Orb
+nature: Timid
+evs: 80 HP / 252 SpA / 176 Spe
+
+[SET COMMENTS]
+<p>This is Manaphy's best sweeping set, allowing it to easily increase its Special Attack to astronomical levels with Tail Glow, Rest off the damage, wake up instantly thanks to Hydration, and sweep. Make sure you are packing rain support when using this set, as that is what makes Manaphy truly shine.</p>
+
+<p>Ice Beam is generally the better option in the last slot, giving Manaphy an easy OHKO on Rayquaza, who can negate rain's side-effects with Air Lock, making Hydration useless. It also helps against the other Dragon-types, like Giratina, Latias, and Latios. Grass Knot ensures an OHKO on Kyogre, hits Palkia harder than Ice Beam, and can hit Groudon and Tyranitar who may come in to stop the rain. Neither option leaves you entirely helpless against certain foes, however. For example, if you go with Ice Beam, you can still 2HKO Kyogre with Surf, thanks to boosts from Tail Glow, Life Orb, and Drizzle. If you opt for Grass Knot, then you can still 2HKO Rayquaza with a Life Orb Surf after a Tail Glow boost. Latios can also be 2HKOed by boosted Surfs in the rain, even accounting for Soul Dew (his more defensive sister will usually survive two hits though).</p>
+
+<p>The choice of item depends on your personal preference. Leftovers makes for a sturdier Manaphy and can ease set-up. Life Orb gives it some extra kick, and the 10% recoil can be made up for with Rest, especially with Hydration.</p>
+
+<p>The EVs are fairly straightforward. Max Special Attack is necessary to inflict as much damage as possible. The Speed EVs allow Manaphy to outrun all base 90s who do not hold a Choice Scarf, including Kyogre, Groudon, and Dialga, while also letting Manaphy beat max Speed Adamant Rayquaza. The HP EVs give Manaphy decent bulk to assist in setting up, while also minimizing Life Orb recoil. One could also elect to pull EVs from HP to increase Manaphy's Speed to 319 (Timid, 216 EVs), if you are paranoid about Jolly Rayquaza.</p>
+
+[ADDITIONAL COMMENTS]
+<p>Manaphy needs to mainly watch out for powerful attackers who are faster than it and resist Surf. Palkia has a 4x resistance to Water-type attacks, is not particularly weak to Ice Beam and Grass Knot, and will fry Manaphy with Thunder. Latios and Latias also defeat Manaphy in a similar fashion, but must watch out for Ice Beam. Dialga is not weak to any of Manaphy's assaults, and it also has Thunder to hit Manaphy. Kyogre will also make mincemeat out of those Manaphy running Ice Beam over Grass Knot and can even set up on poor Manaphy with Calm Mind. Manaphy will be unable to get past Blissey if it has Calm Mind. While they can't switch in on a boosted attack, Rayquaza, Groudon, and Tyranitar can come in on the turn Manaphy uses Rest, forcing it to sleep for two turns, while all of them can employ their own stat-boosting moves to prepare for a sweep of their own. Finally, Manaphy is also vulnerable to being revenge killed from Pokemon such as Garchomp, Mewtwo, Shaymin-S, and Darkrai. Blissey can take any special attack thrown at Manaphy and respond with debilitating status, such as Toxic or Thunder Wave. A Choice Scarf Palkia makes a good check to all of these threats (except opposing Choice Scarf Palkia), destroying them all with its powerful Dragon-type attacks. Wobbuffet can trap and KO all of these threats, sans Choice Specs Kyogre or Darkrai, or employ Encore and Safeguard to turn these Pokemon into set-up bait for Manaphy. A specially defensive Dialga provides resists to Manaphy's Grass and Electric weaknesses and can cripple the above threats with Thunder Wave, making them less of a threat for Manaphy. Thunder Wave Kyogre, while sharing weaknesses with Manaphy, acts as a great lure for Manaphy's counters, so it can render them useless by paralyzing them. A Latias of your own is also a great partner, as it is capable of taking down Kyogre and most Palkia with relative ease, although it cannot switch in directly for the fear of Spacial Rend or Outrage, while also being able to take any Electric- or Grass-type moves thrown at Manaphy. Choice Scarf Garchomp can also provide Manaphy with an Electric-type immunity and will outspeed and KO all of these threats with its powerful Earthquake or Outrage. Scizor is also a good teammate to deal with Mewtwo, Darkrai, Shaymin-S, Latios, and Latias, all of whom may try to revenge kill Manaphy, with Bullet Punch or U-turn. Scizor can also take on Choice Scarf Garchomp locked into Outrage.</p>
+
+[SET]
+name: Defensive
+move 1: Toxic
+move 2: Rest
+move 3: Surf
+move 4: Ice Beam / Grass Knot 
+item: Leftovers 
+nature: Calm
+evs: 240 HP / 164 SpA / 104 SpD
+
+[SET COMMENTS]
+<p>This set is designed to abuse Toxic and Rest. Poison your foes and stall them out with Rest, while they slowly die from the intensifying damage. Ice Beam is present to kill off Rayquaza, lest he spoil your fun with Air Lock. Grass Knot will hit Kyogre and also takes a big chunk out of Groudon. Light Screen and Reflect are options in the final two slots for more stalling potential and team support. Heart Swap could also be used here to prevent foes from setting up on you.</p>
+
+<p>Since this is a defensive set, the EVs should reflect it. You'll want this Manaphy to be slow so it can take hits, as even Thunder from Choice Scarf Kyogre fails to OHKO, barring a critical hit. The Special Attack EVs ensure you will always OHKO minimum HP Rayquaza and can then Rest up to full health. Because Manaphy still has a slight chance to OHKO Rayquaza even with minimum Special Attack, it is possible, although not recommended, to switch the Special Attack EVs to either of the defensive stats. You can also opt to simply max out HP and Special Defense. This gives you a chance to survive Thunder from Modest Choice Specs Kyogre, as Manaphy will always survive a hit from Timid versions.</p>
+
+[ADDITIONAL COMMENTS]
+<p>This Manaphy, while being able to outstall some of its common counters with Toxic, still needs to watch out for some of the above threats, more specifically Choice Specs Kyogre, Calm Mind Latias and Latios, and Dialga (especially Bulk Up variants), as they can set up on you now that Dialga does not have to fear boosted Ice Beams and is immune to Toxic. Rest + Sleep Talk Kyogre with Calm Mind can set up on Manaphy without Grass Knot and can Rest off Toxic. Choice Scarf Garchomp is, once again, a great partner, as it is able to switch in on Thunder aimed at Manaphy, outrun all of these threats, and KO them with strong Dragon- and Ground-type strikes. Latias can Calm Mind alongside Kyogre and defeat it with Grass Knot.</p>
+
+<p>Again, this set fears opposing weather changers, such as Groudon, Tyranitar, and Rayquaza, from coming in on Rest and setting up a sweep that could spell doom for your team. Choice Scarf Palkia is a nice check for these threats, able to severely hurt or KO them all with a powerful Draco Meteor (or Aura Sphere for Tyranitar). You can also use Choice Scarf Dialga, who makes a better check to Swords Dance Rayquaza, but will be outsped by Jolly variants of Rayquaza after a single Dragon Dance, meaning you will be unable to revenge kill it. Make sure to use Kyogre to replace the rain after these threats are eliminated.</p>
+
+[SET]
+name: Bulky Calm Mind
+move 1: Calm Mind
+move 2: Rest
+move 3: Surf
+move 4: Ice Beam / Grass Knot
+item: Leftovers
+ability: Hydration
+nature: Timid
+evs: 252 HP / 4 SpA / 252 Spe
+
+[SET COMMENTS]
+<p>This set aims to utilize Manaphy's decent bulk to pull off a slow sweep. The idea is to switch into a Pokemon who can't really threaten Manaphy and set up a Calm Mind. From there, Calm Mind up and Rest off damage when Manaphy's HP gets low. Even after just one Calm Mind, Manaphy manages to survive many attacks with plenty of HP to spare, allowing it to continue to use Calm Mind and Rest until it is powerful enough to sweep. Manaphy is also able to take physical hits reasonably well. For instance, it can survive an unboosted Garchomp's Outrage and KO back with Ice Beam. Surf is Manaphy's STAB move, being bolstered by the rain that Kyogre provides. The last move is for coverage. Ice Beam KOes Rayquaza who can nullify the weather, and hence remove Manaphy's ability to Rest. Ice Beam also hits Dragon-type Pokemon like Garchomp, Giratina, Latias, and Latios for super effective damage while allowing Manaphy to hit Dialga and Palkia for neutral damage. Grass Knot is for Kyogre switch-ins. Here are a few damage calculations to demonstrate Manaphy's ability to take hits:</p>
+
+<ul class="damage_calculation">
+<li>Neutral 252 SpA Kyogre, Palkia, Dialga Thunder vs +1 Manaphy: 48.02% - 56.93%</li>
+<li>Neutral 204 SpA Latias Thunder vs +1 Manaphy: 55.45% - 65.35%</li>
+<li>Neutral 252 SpA Latios Thunder vs +1 Manaphy: 64.85% - 76.73%</li>
+</ul>
+
+<p>As shown above, after a Calm Mind, Manaphy can take on quite a lot of special attacks and Rest off the damage while continuing to build up Calm Minds. It should be noted, however, that Latias and Latios can Calm Mind alongside Manaphy, and Shaymin-S can easily remove the Special Defense boosts gained through Calm Mind with Seed Flare.</p>
+
+[ADDITIONAL COMMENTS]
+<p>The EVs are relatively simple; max Speed allows Manaphy to tie with Palkia and Salamence. Max HP is used for bulk, while the rest go into Special Attack. Like all Manaphy sets, this set requires rain support from Kyogre. Hydration coupled with Rest is what makes Manaphy so deadly, and without it, Manaphy is rather weak and lacks recovery. A bulky Kyogre with Thunder Wave is best for Calm Mind Manaphy, as Kyogre being able to survive most of a match is critical. Thunder Wave Kyogre can also lure out and cripple many of Manaphy's counters, like Latias and Palkia. The hard-hitting Choice Specs Kyogre also fit alongside Manaphy, with Kyogre breaking down special walls with its insanely powerful attacks so Manaphy can clean up later. It should be noted that Kyogre and Manaphy have the same typing, and therefore, the same weaknesses. Swords Dance Garchomp, Latias, and Dialga are great Pokemon to switch into Electric-type attacks with their ability to set up on them.</p>
+
+<p>Automatic weather-inducers (Groudon, Tyranitar, and to an extent Rayquaza) will obviously cause problems for Manaphy, especially if they switch in while Manaphy Rests. Groudon can be lured using Mixed Bulk Up Dialga, who can draw in Groudon and proceed to KO it with Draco Meteor. Garchomp can check any Tyranitar without Ice Beam. Rayquaza is only dangerous should it catch Manaphy Resting, so a Choice Scarf Garchomp or Palkia is sufficient to check it. Manaphy will also has issues with other Pokemon who can Calm Mind alongside it. Kyogre, Latias, Latios, and Giratina can Calm Mind alongside Manaphy and eventually strike it down. Teammates who can defeat such opponents will greatly help Manaphy set up and sweep. Calm Mind Latias can switch into Calm Mind Kyogre and Calm Mind alongside it. Latias and Latios are best defeated by Pursuit users. Tyranitar is generally not a good idea, as its Sand Stream ability will kill the rain that Manaphy desperately needs. Scizor and Metagross are probably the best Pursuit users to use alongside Manaphy, as they resist the Dragon-type STAB moves from Latias and Latios and can Pursuit them to death. Beware, however, that Thunder from either of them can 2HKO both Scizor and Metagross.</p>
+
+[Other Options]
+<p>For EVs in the use in sweeping sets, you'll want Timid with at least 308 Speed (Timid, 176 EVs) to beat Kyogre, Groudon, and Ho-Oh. You can aim for 319 (Timid, 216 EVs) to get ahead of max Speed Rayquaza. Max Speed is only useful if you wish to tie with Timid Palkia. Max out Special Attack afterwards, with anything left placed in HP.</p>
+
+<p>You can use a bulkier spread if you want Manaphy to take hits while setting up Tail Glow. 172 HP EVs allows Manaphy to survive a Choice Scarf Thunder from Kyogre, although you'll have to sacrifice Speed or Special Attack.</p>
+
+<p>For the Toxic stalling set, you'll want lots of HP and some Special Defense. You can aim for 277 Special Attack if you wish to guarantee an OHKO on minimum HP Rayquaza, although even without any EV investment, you still have a small chance of scoring an OHKO. Otherwise, simply max out Special Defense, which will give you a good chance of surviving a Choice Specs Thunder from Modest Kyogre, and will always survive a hit from Timid versions.</p>
+
+<p>Manaphy also has several other moves at its disposal. Heart Swap is Manaphy's signature move and can be used to steal stat boosts from opponents. Calm Mind can go over Tail Glow for a more defensive minded set-up. Energy Ball can replace Grass Knot if you're concerned about other Manaphy, but otherwise, Grass Knot is the better choice against other Ubers. Shadow Ball is a surprisingly poor option, since rain-boosted Surfs do more to the likes of Mewtwo and Deoxys, while Ice Beam does more to Dragon-types, such as Giratina, Latias, and Latios. Substitute is a decent option on sweeper sets, ordinarily over Rest, and can also work with Calm Mind. After a few Calm Minds your Substitute will be increasingly hard to break, especially with the popularity of special attacks in the Ubers metagame. Manaphy also learns Reflect and Light Screen, which it can use to assist it and its teammates in taking the brutal assaults of Ubers play. Manaphy can also run a Choice Specs set if you want power without having to set up. While it does have U-turn and the ability to shrug off status thanks to Hydration, it is largely outclassed in the offensive department by other Choice Specs users, such as Kyogre and Palkia, should you go that route.</p>
+
+[Checks and Counters]
+<p>Calm Mind Blissey makes a fine counter and can stat up alongside Manaphy before finishing it off with Thunder. Dialga can wall its attacks quite effectively and Roar it out or hit back with Thunder. Latias' massive Special Defense stat prevents Ice Beam from hurting her and her superior Speed, backed up with Recover, allows her to set up Calm Minds on Manaphy, eventually firing a powerful Dragon Pulse or Thunder, that would ultimately annihilate it. Her Speed also means that Manaphy won't be fast enough to Heart Swap Latias' Calm Minds before being KOed. Palkia's 4x resistance to Surf and a very good base 120 Special Defense allows it to land a Choice Specs Thunder on Manaphy, easily OHKOing it. If Manaphy does not pack Grass Knot, Kyogre can switch into Manaphy with impunity and throw a very powerful Thunder at it. </p>
+
+<p>Beware of Rayquaza, Groudon, or Tyranitar switching in on Rest, as their ability to change the weather means Manaphy will be stuck sleeping for two turns, giving them ample time to set up for a sweep.</p>

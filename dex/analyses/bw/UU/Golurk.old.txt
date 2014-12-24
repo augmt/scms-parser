@@ -1,0 +1,36 @@
+[Overview]
+
+<p>Golurk is one of the Pokemon that gained a lot of new toys in the transition to BW2. The addition of Stealth Rock and the elemental punches to its movepool only makes Golurk more diverse than it once was. It stands out from the rest of its fully-evolved Ghost-type brethren with a unique Ground / Ghost typing, bringing with it STAB Earthquake as well as a titanic base 124 Attack. A great ability in Iron Fist complements its decent physical movepool, boosting a number of its moves including Shadow Punch and Fire Punch. These qualities allow Golurk to hit like a truck while also having moderate utility in Stealth Rock and spinblocking. Its typing also provides many neat resistances, allowing it to take on the likes of Heracross and Mienshao with ease.</p>
+
+<p>Unfortunately, like any other Pokemon, Golurk does suffer from quite a few drawbacks that hold it back. The biggest problem with Golurk is its poor base 55 Speed. Additionally, its bulk, while good, is not great, meaning a couple of hits can take it down relatively easily; this is compounded by its lack of reliable recovery and its myriad of weaknesses to common attacking types, such as Water, Grass, and Dark, which limit its ability to survive on the battlefield.</p>
+
+[SET]
+name: Tank
+move 1: Stealth Rock
+move 2: Earthquake
+move 3: Fire Punch
+move 4: Shadow Punch
+item: Leftovers
+ability: Iron Fist
+nature: Adamant
+evs: 252 HP / 252 Atk / 4 SpD
+
+[SET COMMENTS]
+
+<p>This is Golurk's best and only viable set in UU. Thanks to its decent 89 / 80 / 80 bulk, great resistances to Bug- , Rock-, and Poison-type attacks, as well as immunities to Normal-, Fighting-, and Electric-type onslaughts, Golurk can hold its own defensively despite being so slow. Golurk's own 124 base Attack ensures it is not a sitting duck either and allows it to fulfill its role as an offensive tank.</p>
+
+<p>Stealth Rock is the main move on this set, providing invaluable team support by limiting the opponent's switch-ins. Golurk is particularly good at setting it up, as not only do its resistances give it ample opportunities to do so, but its Ghost typing also allows it to spinblock, keeping Stealth Rock on the field. Earthquake is the obvious Ground-type STAB move of choice. Fire Punch is the needed coverage move; it complements Earthquake by hitting Grass-types, Heracross, and Bronzong super effectively, all of which resist or are immune to Earthquake. Shadow Punch is the second STAB move; it 2HKOes Slowbro, while also hitting Azelf and Mismagius for serious damage on the switch-in.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread maximizes HP and Attack to ensure Golurk can be a solid tank, providing much needed bulk and firepower. The remaining 4 EVs are invested into Special Defense to make sure that the odd Porygon2 does not obtain a Special Attack boost from Download. Leftovers is the preferred item here for its consistent recovery, which is needed for any tank. An Adamant nature is chosen here to provide the highest Attack stat attainable in order to KO certain targets. Alternatively, a more defensive EV spread is usable to make Golurk bulkier, but it generally needs all the Attack possible to be successful; for example, without max Attack, Golurk cannot KO Heracross with Fire Punch. Ice Punch and Thunder Punch are both decent options over Fire Punch to deal with Gligar and Suicune, respectively, but neither is too useful otherwise.</p>
+
+<p>Life Orb is usable if you want more power; however, the loss of HP is really detrimental to Golurk's role as a tank. Potential teammates for Golurk include Mienshao and Zapdos, as they can deal with Dark-types and Water-types, respectively. Crobat is also a decent choice to force out any Roserade, Shaymin, or Virizion that choose to switch in on Golurk.</p>
+
+[Other Options]
+
+<p>Golurk has quite a few other options in its movepool other than those listed above. Hammer Arm might seem like a good option because it is boosted by Iron Fist, but it has redundant coverage with Earthquake. Rock Polish is a decent way to attempt to transform Golurk into a sweeper; however, Golurk is too slow to utilize it effectively. A SubPunch set is powerful, but Machamp and Heracross do it better; moreover, using Substitute on a tank is counterproductive. A Choice Band set with Earthquake, Shadow Punch, Fire Punch, Ice Punch or Thunder Punch, and an EV spread of 172 HP / 252 Atk / 84 Spe, is also a possibility, and packs the power to OHKO or 2HKO the majority of the tier, but again, Golurk is too slow to pull it off effectively. Dynamic Punch seems like a good option as Golurk has No Guard, but Machamp outclasses it at this role, courtesy of having STAB on Dynamic Punch and a higher Attack stat. Last but not least, Golurk has Stone Edge; however, while it does provide near perfect coverage with Earthquake, it is generally outclassed by Ice Punch.</p>
+
+[Checks and Counters]
+
+<p>Dark-types, such as Scrafty, Weavile, and Krookodile, stand out as the best checks to Golurk. All three can hurt Golurk with their Dark-type STAB, while Weavile and Krookodile in particular can use Pursuit predicting Golurk to switch out. Bulky Water-types, such as Suicune and Swampert, are not 2HKOed by any of Golurk's attacks and can retaliate with Scald or Waterfall. Roserade, Shaymin, and Virizion all threaten Golurk with their Grass-type STAB, but must be wary of an incoming Fire Punch, and Roserade of an Earthquake as well. Gligar also walls most Golurk to no end, but if it has Ice Punch, Gligar is in for trouble. Chandelure and Mismagius can outspeed Golurk and KO it with Shadow Ball, but neither can switch in on Shadow Punch, or even Earthquake in Chandelure's case. Finally, Togekiss and Zapdos take little from any of Golurk's attacks, except Ice Punch and Stone Edge, and can use Air Slash and Hidden Power Ice, respectively, to damage it significantly.</p>

@@ -1,0 +1,13 @@
+Standard
+########
+name: Standard
+move 1: Fake Out
+move 2: Return
+move 3: Taunt
+move 4: U-turn
+ability: Technician
+item: Silk Scarf
+evs: 252 Atk / 4 Def / 252 Spe
+nature: Jolly
+
+This is a sample set while we are currently working on analyses in the workshop.

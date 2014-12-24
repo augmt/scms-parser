@@ -1,0 +1,96 @@
+Overview
+########
+
+Spritzee is one of the few available Fairy-types in Little Cup, and it certainly doesn't disappoint. Its excellent 78 / 60 / 65 defenses and solid defensive typing allow it to sponge many powerful attacks. Spritzee also has access to Wish, a very uncommon move in Little Cup, which allows it to support its teammates and also heal off any damage taken. To top it all off, Aroma Veil grants Spritzee immunity to Taunt, Encore, Torment, Disable, Heal Block, and Attract, moves that would otherwise cripple it. Unfortunately, Spritzee is incredibly slow and is outsped by many common threats, limiting its ability to run offensive sets. Additionally, Spritzee has a somewhat bad case of four-moveslot syndrome as it generally must give up a valuable move for Protect, which limits its coverage options. As a result, Spritzee struggles against the variety of Steel-, Poison-, and Fire-types in Little Cup.
+
+Cleric
+########
+name: Cleric
+move 1: Aromatherapy
+move 2: Wish
+move 3: Protect
+move 4: Moonblast
+ability: Aroma Veil
+item: Eviolite
+Evs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe
+nature: Bold
+
+Moves
+========
+
+This set takes advantage of what Spritzee has over other common team supporters: access to Wish and Aromatherapy. These two moves keep Spritzee's teammates healthy and free of status while improving its own longevity. Protect allows Spritzee to heal from its own Wish if necessary and can also be used to scout Pokemon with Choice items so you can react accordingly. Moonblast is Spritzee's most powerful STAB attack; it hits common Fighting- and Dark-types and comes with a potential Special Attack drop.
+
+Set Details
+========
+
+Spritzee's bulk and good defensive typing allow it to check many dangerous threats in Little Cup, such as Mienfoo, Scraggy, Carvanha, and Timburr. The given EV spread and nature maximize Spritzee's Defense to better take on the aforementioned threats, gives the largest Wish possible, and increases its Special Attack, Special Defense, and Speed by one point each. Eviolite is nearly mandatory as Spritzee already has reliable recovery and is otherwise vulnerable to many 2HKOs. The damage calculations below are indicative of Spritzee's superb bulk:
+
+
+• 196+ Atk Life Orb Carvanha Waterfall vs. 212 HP / 196+ Def Eviolite Spritzee: 9-13 (33.3 - 48.1%) -- guaranteed 3HKO
+• +1 236+ Atk Scraggy Iron Head vs. 212 HP / 196+ Def Eviolite Spritzee: 14-18 (51.8 - 66.6%) -- guaranteed 2HKO
+• +2 236+ Atk Shellder Icicle Spear (five hits) vs. 212 HP / 196+ Def Eviolite Spritzee: 15-20 (55.5 - 74%) -- guaranteed 2HKO
+• 152 SpA Chinchou Hydro Pump vs. 212 HP / 76 SpD Eviolite Spritzee: 7-10 (25.9 - 37%) -- 82.5% chance to 3HKO
+• +1 220+ Atk Axew Poison Jab vs. 212 HP / 196+ Def Eviolite Spritzee: 14-18 (51.8 - 66.6%) -- guaranteed 2HKO
+
+Usage Tips
+========
+
+Spritzee is able to check most Fighting-, Dark-, and Dragon-types throughout the match and is most effective when used as a part of the defensive backbone of a team. Spritzee can use free turns by healing itself with Wish, passing a Wish to a teammate, or curing status with Aromatherapy. It is worth noting that even though Spritzee resists Knock Off, it should be kept away from common users of the move, such as Pawniard, as without its Eviolite, it becomes more difficult for Spritzee to check various threats; however, many of the threats Spritzee can easily wall, such as Mienfoo and Scraggy, often carry Knock Off. It is thus a good idea to carry a Pokemon that can easily take Knock Offs, such as Shellos, Grimer, or Trubbish.
+
+Team Options
+========
+
+As Spritzee is vulnerable to the Fire-, Poison-, and Steel-types that resist Moonblast, teammates that can comfortably mitigate these weaknesses are useful. Munchlax is an excellent teammate as it can sponge the Flamethrowers, Sludge Bombs, and Flash Cannons aimed at Spritzee, and the Fighting-types that love to switch into it will struggle against Spritzee; Berry Juice Munchlax, in particular, also loves Aromatherapy support as burn and poison will limit its walling potential. Ferroseed works very similarly to Munchlax; it makes good use of Wish and Aromatherapy support while handling both of Spritzee's weaknesses. Ferroseed and Spritzee are both vulnerable to Fire-types, however, so having teammates that patch up this weakness, such as Chinchou, is necessary. Tentacool resists both of Spritzee's weaknesses and can handle Fire-types fairly well while providing Rapid Spin support. Drilbur is a more offensive choice for a spinner, as it can also threaten the Fire-, Poison-, and Steel-types that resist Moonblast with Earthquake. Finally, Spritzee walls and removes Fighting-types, so teammates that have difficulty breaking through them, such as Scraggy and Pawniard, will naturally go well with Spritzee. Coincidentally, Fighting-types also work well with Spritzee, as they can take out Spritzee's most common check, Pawniard; be sure to have teammates that can take on Poison-types, though.
+
+Calm Mind
+########
+name: Calm Mind
+move 1: Calm Mind
+move 2: Wish
+move 3: Protect / Aromatherapy
+move 4: Moonblast / Draining Kiss
+ability: Aroma Veil
+item: Eviolite
+evs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe
+nature: Bold
+
+Moves
+========
+
+Spritzee can also take a more offensive route with its access to Calm Mind and reliable recovery in Wish. Because of its bulk, Spritzee can easily boost multiple times and sweep. Moonblast is the primary choice as a STAB move, as it's powerful and has a great secondary effect. Although it is relatively weak and more dependent on the number of boosts Spritzee has accrued, Draining Kiss can also be used as it acts as a good source of recovery. Note that if you use Draining Kiss, Aromatherapy is the best option in the third slot to ensure Toxic doesn't cut a sweep short, as the recovery provided by Draining Kiss lessens the need for immediate Wish recovery.
+
+Set Details
+========
+
+Spritzee has a great offensive and defensive typing, meaning it can tank hits while boosting with Calm Mind to break down the opponent's team late-game. A physically defensive EV spread and a Bold nature is used to even out Spritzee's defenses after a Calm Mind. It is important to note that after a Calm Mind, Spritzee is very hard to OHKO without a super effective STAB. The choice between Aromatherpay and Protect is mainly personal preference. Aromatherapy and Draining Kiss make Spritzee very hard to stop after it has acquired multiple boosts, but it is vulnerable without any Calm Minds. Protect and Moonblast will allow Spritzee to hit moderately hard after just one or two Calm Minds, but it will then be shut down by Toxic. Aroma Veil is certainly the ability of choice on this set as it gives Spritzee immunity to Encore, Taunt, and Torment, all three of which can normally shut down a defensive boosting set such as this.
+
+Usage Tips
+========
+
+Only start setting up when Poison- and Steel-types have either fainted or are heavily weakened, as many of them can overpower Spritzee with their super effective STAB attacks. It may also be wise to eliminate bulky Fire-types such as Larvesta that can take Spritzee's attacks. Spritzee can still be brought in early-game to tank hits for its team, but an unboosted Draining Kiss is weak. Moonblast is thus the better option for maximum early-game utility as it relies less on setup. If Aromatherapy is used over Protect, it is beneficial to use Wish in between Calm Minds to acquire as many boosts as possible. If Protect is selected, be sure to eliminate status users, especially those with Toxic, Sleep Powder, or Spore. Be sure to only set up Calm Mind on something that can't hit Spritzee with a super effective move, as it's bulky enough to take a variety of unboosted neutral attacks and can easily shrug off anything it resists. A few good Pokemon to switch Calm Mind Spritzee into are: anything Choice-locked into something Spritzee resists, Mienfoo or Timburr not carrying Poison Jab, Chinchou, hazard Dwebble, Riolu, Carvanha, and Vullaby.
+
+Team Options
+========
+This Spritzee plays fairly independently because it is self-sufficient, but it does appreciate the removal of the Poison- and Steel-types that it cannot break through easily. Drilbur and other Ground-types can use their STAB attacks to remove Poison-, Steel-, and Fire-types. If Spritzee lacks Aromatherapy, a cleric such as Chinchou might come in handy to remove status while being a good switch-in to Tentacool and Skrelp, which can be problems for this set. Pawniard and Spritzee complement each other well, as Spritzee resists Fighting and Pawniard can defeat most Poison- and Steel-types. Pawniard also provides Knock Off support to make walls much easier for Spritzee to break through. A special mention can be given to Diglett because it traps and eliminates most Poison- and Steel-types such as Grimer, Croagunk, Magnemite, and Tentacool.
+
+Other Options
+########
+Spritzee has a fairly wide movepool to work with, including coverage in Energy Ball, Psychic, Flash Cannon, Thunderbolt, and Hidden Power. These can be used to hit specific threats, but Spritzee generally has no room for them and is too slow to make a full offensive set work. Trick Room is notable because Spritzee resists Dark-type moves, unlike the other Pokemon in Little Cup that have access to the move. An offensive Trick Room set can be potentially viable, but needs an incredible amount of support because Spritzee lacks sheer power with just a Life Orb and its coverage is not that great. Disable can be used to completely shut down any Dragon-type, but they are very uncommon, and Spritzee can beat any Dragon-type one-on-one anyway. Dual screens is an interesting option to consider because Spritzee is immune to Taunt and Encore, something only itself and Natu can boast. Reflect can be a option on the Calm Mind set to make Spritzee a superb mixed boosting tank but this is a bit impractical. Rest and Sleep Talk can be viewed as a compromise if you cannot decide between Aromatherapy and Protect on the Calm Mind set. This allows Spritzee to rid itself of status and completely restore its health, but Sleep Talk can prove to be unreliable. A specially defensive EV spread and nature can be used to better take on special attackers such as Chinchou and Staryu, but most of Spritzee's resistances are physically based in LC.
+
+
+
+Checks & Counters
+########
+**Steel-types**: Magnemite, Ferroseed, Pawniard, and Bronzor are very good checks to Spritzee as they usually have super effective STAB moves. Pawniard can also pick up a potential Defiant boost from Moonblast. However, it is worth noting that without Steel-type STAB, they risk losing to Calm Mind Spritzee.
+
+**Poison-types**: Gastly, Foongus, Tentacool, Croagunk, and Skrelp can tank hits from Spritzee well and eliminate it with their STAB. Gastly can cripple Calm Mind Spritzee with Trick, Foongus has access to Clear Smog, and Tentacool can set up Toxic Spikes. Croagunk is usually able to live quite a few Moonblasts and can 2HKO Spritzee with Sludge Bomb.
+
+**Fire-types**: Physical Fire-types are the best at checking Spritzee because they have an easier time breaking through Calm Mind. Therefore, Larvesta and Ponyta are good options for taking on Spritzee. Vulpix carrying Roar can take on Spritzee fairly well, but will struggle against Calm Mind Spritzee as the last Pokemon if it does not carry Toxic.
+
+**Clear Smog**: Although a niche move, Clear Smog not only hits Spritzee for super effective damage, but also removes its Calm Mind boosts. Foongus, Koffing, Shellos, and Wailmer are potential users of the move. Haze also acts similarly to Clear Smog, but does not cause damage and is rarely seen in Little Cup.
+
+**Knock Off**: Spritzee without an Eviolite can be easily 2HKOed, so Knock Off users such as Pawniard make good checks.
+
+**Status**: If lacking Aromatherapy, Spritzee is very weak to Toxic because it will be unable to stay in and boost for a prolonged period of time. Sleep also shuts down Spritzee completely as it cannot use Aromatherapy when asleep.
+
+**Trick and Switcheroo**: Giving Spritzee a Choice item will severely cripple it, preventing it from walling and boosting. However, note that a large majority of Spritzee carry Protect, so they will be able to scout for these attempts. Gastly, Buneary, and Abra are common users of Trick and Switcheroo. 

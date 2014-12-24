@@ -1,0 +1,49 @@
+[Overview]
+
+<p>Cubchoo's ability, Snow Cloak, makes it a great Pokemon to use in a hail team. It has very high Attack and Special Attack stats, though its downfall is that it has low defensive stats. Cubchoo also has weaknesses to common priority attacks such as Bullet Punch and Mach Punch. Despite these flaws, Cubchoo can function as a powerful attacker, and should not be ignored when building a team.</p>
+
+[SET]
+name: Hail Sweeper
+move 1: Blizzard
+move 2: Surf
+move 3: Hidden Power Grass
+move 4: Toxic
+item: Choice Scarf
+ability: Snow Cloak
+nature: Timid
+evs: 76 HP / 200 SpA / 196 Spe
+
+[SET COMMENTS]
+
+<p>Cubchoo can also make an efficient Choice Scarf user in hail. This set aims to hit as hard and fast as possible with a powerful, accurate STAB Blizzard. Surf KOes Fire-types that pose a big threat to Cubchoo. Hidden Power Grass hits the Water-types which resist Blizzard and Surf. Toxic is a useful move to have in its arsenal, as it prevents Slowpoke from switching in for free. Unfortunately, Cubchoo locked into Toxic is an invitation for Steel- and Poison-types--they can set up with impunity as they force Cubchoo out.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread enables Cubchoo to hit the 21 Speed needed for Choice Scarf users to outspeed all unboosted Pokemon in the tier, while maximizing its Special Attack. Snow Cloak allows Cubchoo to dodge moves occasionally and thus last longer. Timid is a must in order to hit 21 Speed, due to Cubchoo's low base Speed. Snover is an essential teammate to Cubchoo as it can set up hail. Flash Fire support prevents Cubchoo from getting KOed and allows another Pokemon in your party to get a free boost. Cubchoo is also helped by Ghost-type support in the form of Gastly or Duskull, which check Fighting-type Pokemon.</p>
+
+[SET]
+name: SubPunch
+move 1: Encore / Yawn
+move 2: Substitute / Protect
+move 3: Focus Punch
+move 4: Ice Punch
+item: Oran Berry / Eviolite
+ability: Rattled
+nature: Jolly
+evs: 76 HP / 196 Atk / 196 Spe
+
+[SET COMMENTS]
+
+<p>Cubchoo can run the good old SubPunch combination. Yawn is a useful move to have, as it has perfect accuracy and induces sleep, though the one-turn wait can be an issue at times. Encore is useful to lock the opponent into set-up moves, or any move for that matter. This is useful, as it allows Cubchoo to set up Substitute, making it easier for Cubchoo to sweep. Because of STAB, Ice Punch hits even Pokemon that are neutral to Ice-type attacks hard. Focus Punch allows Cubchoo to hit several Pokemon in the Little Cup metagame really hard, and thanks to Substitute, Cubchoo doesn't have to worry about getting attacked when it uses Focus Punch. Protect works well with Yawn, helping Cubchoo waste a turn and put the opponent to sleep safely.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>When hail is set up, the efficiency of this set becomes increased as some Pokemon will miss their attacks, making Substitute last longer. This set hits 14 Speed, which lets it be outrun by numerous Pokemon, including all Choice Scarf users. Protect is meant to be used with Yawn, while Encore is meant to be used with Substitute. Eviolite is useful in giving Cubchoo more bulk, which is useful because Cubchoo is pretty frail as it is. Oran Berry is used to gain HP when Cubchoo is using Substitute. Flash Fire support through Houndour is useful to Cubchoo as it prevents Cubchoo from getting KOed by Fire-type Pokemon and with Flash Fire, and some prediction, Houndour can pick up a boost for itself.</p>
+
+[Other Options]
+
+<p>Cubchoo can successfully run several other sets, such as a RestTalk set. Cubchoo can run a special set with a Life Orb, but it has poor Speed. It can also run a defensive EV spread and a support set with decent success. Hone Claws is Cubchoo's only option if it wishes to raise its Attack. Avalanche is also a good option on Cubchoo.</p>
+
+[Checks and Counters]
+
+<p>Priority users such as Machop and Croagunk are the bane of Cubchoo's existence, KOing it with Bullet Punch and Vaccum Wave, respectively. Frillish and Tentacool resist both Ice Punch and Focus Punch, and thus can be good checks to the SubPunch set. Growlithe resists Ice-type attacks, and KOes Cubchoo with its STAB attacks, but needs to watch out for Surf. Steath Rock also poses problems for Cubchoo, as it will lose a quarter of its HP each time it switches in.</p>

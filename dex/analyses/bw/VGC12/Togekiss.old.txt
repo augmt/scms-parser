@@ -1,0 +1,52 @@
+[Overview]
+
+<p>Togekiss has everything anyone could want in a Pokemon: nice bulk, a movepool out the wazoo, an amazing base 120 Special Attack stat, two great abilities—and to top it all off, it's affably cute as well. It does possess unfortunate weaknesses to common Rock-, Ice-, and Electric-type moves, but these can be played around. Just run it alongside a partner capable of taking out threats to it and Togekiss will not let you down.</p>
+
+[SET]
+name: Follow Me Support 
+move 1: Follow Me
+move 2: Air Slash
+move 3: Thunder Wave / Tailwind
+move 4: Protect / Roost
+item: Sitrus Berry / Lum Berry / Leftovers
+ability: Serene Grace
+nature: Calm
+evs: 252 HP / 4 Def / 252 SpD
+
+[SET COMMENTS]
+
+<p>This is any Togekiss's user's bread-and-butter set, and it's not hard to see why. Great defenses combined with Follow Me and Air Slash make Togekiss one of the premier supporting Pokemon in VGC, so much so that it is often the first thing an opponent would want to eliminate. Consequently, Protect is the main option in the last slot, keeping Togekiss alive for an extra turn so its partner can take out the offending Pokemon. Togekiss has many more options to use in the third slot, but the two listed are the picks of the litter. Thunder Wave cripples fast attackers such as Latios, who would otherwise be problematic, while also forming the ever-so-annoying paraflinch combination. Tailwind is a bit more support-oriented, allowing Togekiss's team members to outrun the opponent; increasing Togekiss's Speed also makes Air Slash more deadly.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>A The listed specially defensive EV spread allows Togekiss to take powerful Blizzards and Thunderbolts with HP to spare; alternatively, a Bold nature with 252 HP / 252 Def / 4 SpD can be used to let Togekiss survive powerful Rock Slides and Stone Edges from Rock-types such as Tyranitar and Rhyperior. If you have access to a Togepi from Pokemon XD Gale of Darkness, Helping Hand is a very viable option, as the combination of Follow Me and Helping Hand is surprisingly useful. While you're dabbling in ADV, Body Slam and Softboiled can be used over Thunder Wave and Roost respectively. If you want to cram as much support as you can on Togekiss, you can forgo the third slot's listed options in favor of moves such as Encore, Safeguard, Reflect, and Light Screen. Be careful about doing this, however, as without Roost or Protect, Togekiss tends to go down rather quickly. If you're using Togekiss to help set up Trick Room, be sure to avoid also running clashing moves such as Tailwind and Thunder Wave. Encore is perhaps the most useful replacement, as most teams rely on double Protecting to stall out Trick Room. If all your team needs is Follow Me support, you can consider more offensive options such as Aura Sphere, Tri Attack, and Heat Wave.</p>
+
+<p>Without Aura Sphere, Togekiss generally struggles against Rock-types such as Tyranitar. It also can't do much to most Electric-types, especially Thundurus and Zapdos. Terrakion makes a fine partner, taking out said Pokemon in one or two hits while Togekiss directs attacks to itself so Terrakion remains relatively untouched. As previously stated, Wide Guard users make excellent teammates. When running Trick Room, Togekiss enjoys a boosting teammate that can take out problematic Pokemon such as Porygon2 and Bronzong. However, note that it is not a good idea to pair Togekiss with a Trick Room user that shares a weakness with it, such as Chandelure, Slowking and Slowbro.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Air Slash
+move 2: Aura Sphere
+move 3: Heat Wave / Tri Attack
+move 4: Trick / Follow Me / Hidden Power Ice
+item: Choice Scarf
+ability: Serene Grace
+nature: Timid
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>Unlike most Togekiss, this set aims to immediately outrun the opponent and start firing off Air Slashes. Aura Sphere is a great coverage move, especially against Moody Smeargle with a few Evasion boosts, and against Pokemon that resist Air Slash such as Tyranitar. Heat Wave is a great spread move, especially considering the fact that it has a 20% chance to burn a Pokemon, but Tri Attack gets a STAB boost and has many different effects that are also boosted by Serene Grace. The last slot is generally preferential; Hidden Power Ice hits Dragons such as Garchomp and Dragonite super effectively, which is always handy for a team. Follow Me is again always a good option, and with Choice Scarf, it can stop Fake Out more effectively, though Follow Me isn't the best move to be Choice-locked into. Trick can lock opposing Pokemon into undesirable moves, possibly removing beneficial items such as Eviolite and miscellaneous Berries.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Togekiss doesn't have many more offensive options, but Fire Blast can be used over Heat Wave for a little extra power. As odd as it may sound, Twister is also an option. With Serene Grace it is essentially a perfectly accurate weaker Rock Slide with a higher flinch rate.
+As this Togekiss is more offensively inclined, and it might be locked into an unfavorable move from time to time, its teammates should be ready to cater to its needs. Wide Guard users such as Hitmontop, Swampert, and Conkeldurr make great teammates, as they protect Togekiss from Rock Slide and Discharge, and can also take on the hail and sand teams that Togekiss doesn't particularly care for. Choice Scarf Togekiss also enjoys harsh sunlight, which boosts Heat Wave, but it isn't required.</p>
+
+[Other Options]
+
+<p>Togekiss gets Psycho Shift, which it can use alongside Flame Orb, but this is generally better left to more defensive Pokemon such as Cresselia. Sunny Day and Rain Dance can be used to let Togekiss mess up opposing weather teams, or even serve as as a backup weather inducer. ExtremeSpeed is a powerful priority move that enables Togekiss to pick off weakened Pokemon; it is a cool addition to your Togekiss if it somehow finds itself with an extra moveslot. As mentioned in the Follow Me set, Togekiss is more than capable of using Light Screen, Reflect, and Safeguard to support its teammates. Togekiss gets Super Luck via the Dream World, and while this might be somewhat useful if it had any moves with boosted critical hit chances, Togekiss prefers the flinch chance that its other luck-based ability, Serene Grace, grants.</p>
+
+[Checks and Counters]
+
+<p>As mentioned before, Electric-types such as Thundurus and Zapdos zap Togekiss right out of the sky with STAB Thunderbolt and Discharge. Tyranitar is a solid check, as are its common partners, Excadrill, Terrakion, and Landorus, though the first three have to be wary of Aura Sphere. Hail-based teams tend to give Togekiss the cold shoulder with STAB 100% accurate Blizzards, which also negate Follow Me, but they have to watch out for Heat Wave.</p>

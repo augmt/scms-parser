@@ -1,0 +1,102 @@
+Overview
+########
+
+Deoxys-D's stellar defenses, decent Speed, and access to excellent auxiliary moves in Recover and Taunt grant it a niche as one of the premier Spikes users in the Ubers metagame. In addition, its typing allows it to check both Mewtwo and Deoxys-A, two of the biggest threats in the tier. Conversely, this typing leaves it very vulnerable to common Dark-, Ghost-, and Bug-type moves, which will still inflict severe damage on Deoxys-D due to its mediocre HP stat. Moreover, the newly buffed Defog makes Deoxys-D's job even more difficult, as the entry hazards it lays can now be removed much more easily than in previous generations. Nevertheless, Deoxys-D remains an effective supporter, provided that its desirable traits are taken full advantage of.
+
+Spikes
+########
+name: Spikes
+move 1: Spikes
+move 2: Recover
+move 3: Taunt / Toxic
+move 4: Knock Off / Night Shade
+ability: Pressure
+item: Leftovers
+evs: 252 HP / 4 Def / 252 SpD
+nature: Careful / Calm
+
+Moves
+========
+
+Spikes is the main reason to use Deoxys-D. With its impressive defenses, it's often able to set up multiple layers before switching out, as well as come in multiple times throughout a match to use the move. Recover makes this significantly easier, and it can render Deoxys-D incredibly difficult to take down in general. Taunt allows Deoxys-D to safely set up Spikes against nearly any defensive Pokemon by protecting it from hindrances such as status moves. It also stops opposing entry hazard users from doing their job and can be used on predicted switches to faster Taunt or Defog users that don't force Deoxys-D out, such as Thundurus, Mewtwo, and support Arceus formes. However, Toxic can be used in its place in order to place a timer on bulky Pokemon that lack the means to cure status, and Deoxys-D is a great Toxic staller thanks to Recover. Knock Off is the preferred move for the final slot due to its overall utility and ability to OHKO Deoxys-A, though Night Shade can be used instead if Mega Mewtwo X is of greater concern. Both moves will manage a 4HKO on Mega Mewtwo Y.
+
+Set Details
+========
+
+A specially defensive EV spread is chosen over a physically defensive one due to the abundance of special attacks in the Ubers environment. If Taunt is used, Speed investment is viable in order to outspeed and Taunt Landorus-T and Pokemon with base 90 Speed.
+
+Usage Tips
+========
+
+Deoxys-D has two main goals in any given match: setting up Spikes and countering opposing Psychic-types. Thus, if a Mewtwo or Deoxys-A is not present on your opponent's team, Deoxys-D should be switched in whenever possible to threaten to get Spikes up. If either of the two is present, however, Deoxys-D should be carefully conserved until the foe's moveset is scouted; it needs most of its health intact in order to safely switch in against Mewtwo with Shadow Ball or Deoxys-A packing Knock Off or Dark Pulse.
+
+Aside from this, Taunt or Toxic should be used on predicted switches to Defog users. Landing a Toxic will usually prove effective for the remainder of the match, as most Defog users cannot cure themselves of status problems without cleric support. It is worth noting that Deoxys-D can stall out low PP moves, such as Sacred Fire and Spacial Rend, with the combination of Pressure and Recover. Taunt and Toxic both complement this strategy nicely.
+
+Team Options
+========
+
+Deoxys-D's primary role is to set up Spikes. As such, Pokemon that can assist it in keeping Spikes up make excellent teammates. Mega Gengar is particularly adept at this&mdash;not only can it spinblock, but it's capable of trapping, Taunting, and KOing the opponent's Defog user. Dark Arceus, Yveltal, and Darkrai can take Ghost- and Dark-type moves for Deoxys-D, and Darkrai in particular can outspeed and Taunt support Arceus formes before they can use Defog. Fairy-types resist Bug- and Dark-type moves, and sweepers such as Geomancy Xerneas and Calm Mind Fairy Arceus appreciate Deoxys-D's Spikes support. Thundurus has access to the useful combination of Prankster and Taunt and can use Volt Switch to bring Deoxys-D in safely. Finally, Sticky Web or paralysis support works wonders for Deoxys-D, allowing it to outpace and Taunt opposing Defog Arceus formes.
+
+Lead
+########
+name: Lead
+move 1: Stealth Rock
+move 2: Spikes
+move 3: Taunt
+move 4: Thunder Wave
+ability: Pressure
+item: Mental Herb
+evs: 248 HP / 8 Def / 252 SpD
+nature: Calm
+
+Moves
+========
+
+When used in a dedicated lead role, Deoxys-D can afford to drop Recover in favor of Stealth Rock; its bulk alone can often guarantee that it sets up Stealth Rock and at least one layer of Spikes. With the combination of Taunt, Thunder Wave, and Mental Herb, Deoxys-D is able to safely set up entry hazards against any Taunt or Defog user that lacks Magic Coat. Taunt is also useful for foiling opposing entry hazard setters, while Thunder Wave can turn Pokemon that rely on their Speed into dead weight.
+
+Set Details
+========
+
+The listed EVs and nature minimize residual damage and make Deoxys-D as bulky as possible on the special side, allowing it to survive many powerful and/or super effective attacks such as Choice Scarf Kyogre's Water Spout and offensive Yveltal's Dark Pulse. A Mental Herb allows Deoxys-D to block Taunt and retaliate with a Thunder Wave followed by its own Taunt.
+
+Usage Tips
+========
+
+As previously mentioned, the combination of Taunt, Thunder Wave, and Mental Herb is key to this set's success. If the opponent leads with a Taunt user, simply use Thunder Wave as the Mental Herb activates and use Taunt on the following turn. Hazards can then be set up freely. In the case of Pokemon with Prankster, use Taunt instead of Thunder Wave. Additionally, this variant of Deoxys-D should not be left in against Magic Coat users, as they wall it completely. If the opponent does not lead with a Taunt or Defog user, however, Deoxys-D should usually start with either Taunt or Thunder Wave and then proceed to set up entry hazards.
+
+Team Options
+========
+
+This variant of Deoxys-D aims to set up as many entry hazards as it can before fainting, so its best teammates are Pokemon that can ensure they stay up. This makes fast Taunt users, particularly those that can outspeed Arceus, mandatory teammates. Darkrai, Mewtwo, and Thundurus are notable examples, though slower Taunt users such as Yveltal can also work if the opponent's Defog user is Taunted on the switch or is slowed by paralysis. Yveltal also poses a major threat to Defog Giratina-O. Mega Gengar is arguably the best teammate for lead Deoxys-D, as once it is Mega-Evolved, it can outspeed, Taunt, and trap support Arceus formes with Shadow Tag, while also being able to spinblock. Other spinblockers such as Ghost Arceus, Aegislash, and the Giratina formes are useful teammates as well.
+
+Other Options
+########
+
+Many other move options are available to Deoxys-D, though it is hard-pressed to find room for them. Magic Coat can bounce status moves and Taunt back to the opponent. Counter and Mirror Coat are each capable of securing a surprise KO. Reflect and Light Screen can be used, but Deoxys-D is better off supporting its team with Spikes. Psycho Boost can surprise Mega Gengar in particular and has a small chance to OHKO it.
+
+Other item choices are also viable. Red Card often allows Deoxys-D to guarantee multiple layers of Spikes or phaze out a boosting sweeper. Shed Shell can be used to escape from Shadow Tag users, but Deoxys-D has methods of dealing with them directly.
+
+Checks & Counters
+########
+
+**Faster Taunt Users**: These include Gengar, Darkrai, Yveltal, Deoxys-S, and Thundurus. The first three are also capable of hitting Deoxys-D with a super effective STAB move. However, every Taunt user needs to be wary of Magic Coat or Mental Herb.
+
+**Mega Gengar**: Though it qualifies as a Taunt user, Mega Gengar is particularly troublesome for Deoxys-D as it can easily trap and eliminate it if running Shadow Ball. Even without Shadow Ball, it can pick off a weakened Deoxys-D with Sludge Wave.
+
+**Genesect**: Genesect can inflict massive damage on Deoxys-D with a +1 U-turn and pivot out to something that can finish the job.
+
+**Scizor**: Scizor threatens Deoxys-D with U-turn and can use Defog to clear the field of entry hazards.
+
+**Giratina-O**: Giratina-O can remove Deoxys-D's hazards with Defog, and mixed variants can KO it with Shadow Ball. However, is severely crippled by Toxic.
+
+**Ghost Arceus**: Ghost Arceus can threaten to set up, use Defog, or outright KO Deoxys-D with a Ghost-type move.
+
+**Dark Arceus**: Calm Mind + Refresh Dark Arceus does not fear any of Deoxys-D's moves and can threaten it with a super effective Judgment.
+
+**Tyranitar**: Tyranitar easily defeats Deoxys-D with its super effective Payback, though it is incapable of reliably Pursuit trapping Deoxys-D due to Recover.
+
+**Powerful Wallbreakers**: Deoxys-D is bulky, but it cannot take extremely powerful attacks, such as Choice Specs Kyogre's Water Spout.
+
+**Magic Coat and Magic Bounce**: Magic Coat users, particularly those that are not weak to Knock Off, can safely reflect hazards, status moves, and Taunt back at Deoxys-D. Similarly, Pokemon with Magic Bounce completely shut down Deoxys-D's attempts at setting up hazards, though they are very rare in Ubers. However, Espeon and Xatu dislike Knock Off.
+
+**Toxic**: Toxic removes any stalling capability that Deoxys-D has, provided that it lacks cleric support.

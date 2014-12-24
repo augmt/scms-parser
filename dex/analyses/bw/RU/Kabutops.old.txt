@@ -1,0 +1,88 @@
+[Overview]
+
+<p>In many senses of the word, Kabutops is at the pinnacle of RU. In a tier chock-full of hazard users, Rapid Spin users are coveted, and Kabutops is the best offensive user of the move available. Not only is Kabutops able to effectively beat every Ghost-type Pokemon in RU switching into it with proper execution, but its respectable offensive prowess provokes several Pokemon to switch out, giving it plenty of opportunities to use Rapid Spin. Kabutops's interesting Water / Rock typing, on top of granting it a STAB combination that is unresisted by most of the tier, provides useful resistances to Fire-, Normal-, and Flying-type attacks, making it capable of switching into common Pokemon such as Entei rather easily. Kabutops can also capitalize on these opportunities with moves such as Swords Dance, becoming a dangerous sweeper at the drop of a hat. Moreover, excellent abilities such as Weak Armor and Swift Swim allow Kabutops to mitigate its somewhat low base 80 Speed stat. Similarly, access to Aqua Jet further supports Kabutops's middling Speed, allowing it to check dangerous Pokemon such as Entei, Moltres, and Aerodactyl rather well.</p>
+
+<p>Of course, Kabutops is by no means without its faults. Common Pokemon such as Poliwrath and Tangrowth can wall Kabutops for extended periods of time without much trouble, and without a reasonable method of hitting fast Grass-types, Kabutops is susceptible to being taken advantage of by dangerous Pokemon such as Sceptile and Lilligant. What's more, weaknesses to common Electric-, Fighting-, and Ground-type attacks severely impede Kabutops's potency against more offensive teams. However, when all is said and done, Kabutops is an excellent Pokemon and should be considered for almost any team.</p>
+
+[SET]
+name: Offensive Rapid Spin
+move 1: Rapid Spin
+move 2: Stone Edge 
+move 3: Aqua Jet
+move 4: Swords Dance / Waterfall
+item: Life Orb / Lum Berry
+ability: Weak Armor
+nature: Adamant 
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Kabutops's excellent offensive capabilities and movepool allow it to serve as an excellent user of Rapid Spin, capable of beating every conventional Ghost-type in the tier that attempts to switch into it. Stone Edge provides a high-powered STAB move, essential to allowing Kabutops to break through defensive Ghost-types such as Calm Mind Spiritomb and Dusknoir, as well as knocking out Pokemon such as Sceptile that try to switch into it and force it out. Aqua Jet is an excellent priority move for Kabutops to have access to, as it not only allows Kabutops to handle an assortment of weakened offensive Pokemon, but also always beats 4 HP Rotom after a Swords Dance after Stealth Rock damage when using Life Orb, preventing Rotom from being able to block Rapid Spin and threaten Kabutops with a powerful Thunderbolt or Volt Switch. As a result of situations like this, Swords Dance is also a very useful move on Kabutops, as it not only allows Kabutops the ability to effectively sweep later in a match, but also allows it to pressure every Ghost-type in the tier, being able to OHKO both Dusknoir and Spiritomb with Stone Edge, and OHKO Rotom with Aqua Jet after a boost with Stealth Rock damage. On the other hand, Waterfall provides Kabutops with a moderately powerful Water-type STAB move, allowing it to hit Fighting- and Steel-types moderately hard without dedicating Kabutops to a sweep, which is invaluable in early stages of a match.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The choice between Life Orb and Lum Berry is hugely important to Kabutops and largely alters how it plays. Life Orb is technically the "better item" for Kabutops to wield purely due to its ability to hit Ghost-types for the extra damage needed to knock them out. Here are some damage calculations that demonstrate this:</p>
+
+<ul class="damage_calculation">
+<li>Stone Edge vs. 252/252+ Spiritomb 48.02 - 56.9%</li>
+<li>+2 Stone Edge vs. 252/252 Spiritomb 96.05 - 113.15%</li>
+<li>Stone Edge vs. 252/104+ Dusknoir 47.61 - 56.12%</li>
+<li>+2 Stone Edge vs. 252/104 Dusknoir 94.21 - 111.56%</li>
+<li>+2 Aqua Jet vs. 4/0 Rotom 87.6 - 103.71%</li>
+</ul>
+
+<p>That being said, teams that absolutely require Rapid Spin support to function, including those with multiple hazard-weak Pokemon or Pokemon such as Moltres that can't function with Stealth Rock on the field, would appreciate Life Orb Kabutops more so than any alternative item choice. In contrast, Lum Berry offers Kabutops leniency in play. The ability to rid itself of status passively is invaluable in match-ups with more defensively based Pokemon, where Thunder Wave, Scald, and Will-O-Wisp are highly common. Moreover, whilst wielding Lum Berry, Kabutops becomes an effective response to Smeargle on offensive teams, being able to absorb a singular Spore, bring it down to its Focus Sash with either Stone Edge or Waterfall, and then proceeding to KO it with either Rapid Spin or Aqua Jet, preventing it from setting up any hazards or passing stat boosts at minimal cost to the team.</p>
+
+<p>While Aqua Jet is useful for more offensive threats, Waterfall can be utilized instead to increase Kabutops's effectiveness against slower teams, allowing it to hit Fighting- and Steel-types much better than it normally would. Though Weak Armor is often better suited for Kabutops, allowing it to switch into attacks such as Entei's Flare Blitz and obtain a Speed boost, Battle Armor grants it a safer ability for maintaining Kabutops's Defense. When using Battle Armor, a bulkier spread such as 120 HP / 252 Atk / 136 Spe with Leftovers should be given thought, increasing Kabutops's longevity and granting it more leniency in spinning hazards in exchange for sweeping capabilities. A Jolly nature can be used to good effect, allowing Kabutops to outpace a few notable targets, the most prominent being Modest Rotom-C, Smeargle, Adamant Gallade, and opposing Adamant Kabutops.</p>
+
+<p>Naturally, hazard-weak Pokemon make for respectable partners for this set, not only in that Kabutops keeps hazards off the field well, but also in that most Stealth Rock weak Pokemon lend themselves to supporting Kabutops well offensively, and vice-versa. Moltres, Pinsir, and Entei all make solid examples of this, with all three being able to threaten Pokemon like Tangrowth with their STAB moves who otherwise wall Kabutops quite aptly. Moltres is even capable of threatening Poliwrath, Kabutops's nemesis, with its powerful Hurricane. Moreover, as Pokemon such as Sceptile and Rotom-C are very capable of switching into everything in Kabutops's arsenal barring Stone Edge, having a respectable switch-in to Grass-types is always appreciated. Druddigon and Escavalier are both good examples of this, being able to shrug off most Grass-type Pokemon's conventional attacks and threatening them with powerful attacks off their own. Kabutops pairs very well with Fire- and Grass-types, as they collectively have excellent offensive and defensive synergy. Aside from the previously mentioned Entei and Moltres, Grass-types such as Sceptile and Rotom-C are very solid partners for Kabutops, being able to threaten bulky Water-types that trouble both Kabutops and its Fire-type partners with their STAB attacks, and also receiving the Scalds from these Water-types better than most.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Stone Edge 
+move 3: Aqua Jet
+move 4: Waterfall
+item: Life Orb / Lum Berry
+ability: Weak Armor
+nature: Adamant 
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>By abandoning the pretense of Rapid Spin, Kabutops is capable of serving as an incredibly potent and dangerous sweeper. Weak Armor compounds upon Kabutops's potency, allowing it to switch into common attacks such as Entei's Flare Blitz to grab a Speed boost, reaching a point where Pokemon such as Sceptile can no longer keep it in check. Stone Edge offers Kabutops a powerful STAB move, hitting Water-, Dragon-, and Grass-types hard and allowing Kabutops to better distinguish itself from similar Water-type sweepers such as Feraligatr. Aqua Jet makes up for Kabutops's lack of immediate Speed, allowing it to KO faster Pokemon such as Manectric and Primeape that would otherwise keep Kabutops under control. Waterfall offers a more powerful Water-type attack, allowing Kabutops to hit slower Fighting-types such as Hariyama for respectable damage, in addition to hitting Pokemon such as Steelix and Aggron hard.</p> 
+
+[ADDITIONAL COMMENTS]
+
+<p>In terms of item choice, Life Orb's ability to procure critical damage on Pokemon is certainly appreciated, allowing Kabutops to take on Pokemon such as Druddigon, Steelix, and offensive Tangrowth with little more than Stealth Rock support after a Swords Dance. However, in a tier where status is so commonplace, Lum Berry is never a bad option on a sweeper such as Kabutops, and the leniency the item grants allows it a much easier time setting up. While Weak Armor's general usefulness is undeniable, Kabutops's other abilities have merit as well. Battle Armor is a useful "safe" ability, keeping Kabutops's Defense intact and removing certain elements of luck from the equation, whereas Swift Swim, in the context of a rain team, is by no extent bad and allows Kabutops to serve as an incredibly dangerous speedy sweeper. A Jolly nature is useful for outpacing Pokemon such as Adamant Gallade and Modest Rotom-C, though the loss in power becomes very evident when facing bulky Pokemon such as Druddigon and Steelix. Superpower is a viable attacking option, allowing Kabutops to hit Ferroseed hard as well as being Kabutops's best bet at damaging Poliwrath, though the Attack drop it ensues hurts its sweeping potential and should be used sparingly if possible.</p>
+
+<p>Kabutops appreciates partners capable of taking on bulkier Water- and Grass-types, Poliwrath, Tangrowth, and Ferroseed being the biggest issues, though faster Grass-types such as Sceptile and Lilligant are moderately threatening as well. Sigilyph is a very useful partner for removing Kabutops's defensive checks, being able to switch into the majority of their attacks with ease courtesy of Magic Guard negating damage from Leech Seed and Scald and threaten them with Psychic, Air Slash, or even Heat Wave. Similarly, Roselia can switch into the majority of Pokemon that threaten Kabutops, taking advantage of such Pokemon to set up Spikes that in turn make Kabutops's job of sweeping that much easier.</p>
+
+[SET]
+name: Choice Band
+move 1: Stone Edge
+move 2: Aqua Jet
+move 3: Waterfall
+move 4: Superpower
+item: Choice Band
+ability: Weak Armor
+nature: Adamant 
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Kabutops is very capable of utilizing a Choice Band to overcome some of its more conventional checks and counters. Stone Edge offers a powerful STAB attack to hit hard with, even being able to 2HKO bulky Pokemon such as Tangrowth with Stealth Rock and Spikes on the field. Aqua Jet offers Kabutops a powerful priority attack, allowing it to revenge kill speedy Pokemon such as Aerodactyl with ease. Waterfall provides Kabutops with a more powerful Water-type STAB move, allowing it to hit slower Fighting-types hard. Superpower rounds off Kabutops's coverage, allowing it to hit Steel-types hard, punishing Ferroseed that would otherwise check Kabutops. This is also Kabutops's best bet at hitting Poliwrath, dealing respectable damage to it and forcing it to use Rest.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Though Weak Armor is generally preferred for its ability to mitigate Kabutops's low base Speed and better fits the hit-and-run style of a Choice Band set, Battle Armor is perfectly viable for those wishing to preserve Kabutops's Defense. A Jolly nature can be used and allows Kabutops to outpace Adamant Gallade and opposing Adamant Kabutops as well as Modest Rotom-C, though otherwise Adamant's extra power is preferred. Rapid Spin, despite being generally ill-suited for a Choice set, still remains a very useful move overall and can be utilized over Waterfall to decent effect. However, it should be noted that this is not a very consistent method of keeping hazards off the field and should not be utilized over a more consistent Rapid Spin user if the team explicitly requires the removal of entry hazards to function.</p>
+
+<p>Entry hazard support, both Stealth Rock and Spikes ideally, are essential to guaranteeing certain KOs on Pokemon such as Tangrowth and Druddigon. Steelix, Druddigon, and Roselia all make reasonable examples of partners for such an end, being able to set up hazards on many Pokemon Kabutops attracts. Moreover, as Kabutops still struggles to play around bulky Water-types, Poliwrath in particular, partners that can exploit such opposing Pokemon are very helpful. Lilligant, Sceptile, and Substitute + Calm Mind Uxie are all excellent examples of this.</p>
+
+[Other Options]
+
+<p>Kabutops is very capable of taking advantage of its Swift Swim ability and serving as a dangerous rain sweeper, though it should be noted that it requires serious support to function. Similarly, a Rock Polish set can be utilized to boost Kabutops's Speed, though it usually is an inferior option to Rain Dance, only serving to prevent opposing rain teams from gaining advantage. Lastly, Kabutops's fairly unique typing, in addition to access to both Stealth Rock and Rapid Spin, makes a defensive set a possibility, though Kabutops is simply better off playing to its strengths rather than serving as a defensive Rapid Spin user, a task Cryogonal does far better.</p>
+
+[Checks and Counters]
+
+<p>Kabutops's most prominent check is Poliwrath, which shrugs off all of its attacks without too much trouble and can either cripple it with a potential Scald burn or phaze it out with Circle Throw, dealing heavy damage in the process. Similarly, Quagsire is capable of handling Kabutops's attacks very well, negating any possible Swords Dance boosts with its Unaware ability and threatening Kabutops with STAB Earthquake. Defensive Grass-types such as Tangrowth and Ferroseed also handle Kabutops well, though Ferroseed needs to be wary of the stray Superpower. Bulky Pokemon such as Steelix and Aggron, despite being weak to Water-type attacks, take Kabutops lacking Waterfall and Superpower quite well, taking very little from Aqua Jet and being able to retaliate with a STAB Earthquake. Speedy Grass-types such as Sceptile, Lilligant, and Rotom-C can all switch in on everything but Stone Edge and Superpower without much trouble and threaten with their STAB moves. Fast Fighting- and Electric-types are capable of outpacing Kabutops and KOing it with their STAB attacks, though if they allow themselves to be worn down, they will fall victim to a powerful Aqua Jet. Rotom in particular is a very prominent example of an Electric-type, as it is also a Ghost-type, and thus is commonly found matched up against Kabutops.</p>

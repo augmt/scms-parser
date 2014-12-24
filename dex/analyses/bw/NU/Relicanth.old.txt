@@ -1,0 +1,49 @@
+[Overview]
+
+<p>Relicanth is a Pokemon that struggles to find its place in NU, as it faces major competition from the likes of Carracosta in both offensive and defensive roles. Its great physical bulk is somewhat offset by its low Speed and Special Defense, as well as weaknesses to some of the most common offensive types in the tier. However, Relicanth does have access to an extremely powerful STAB move in Head Smash, as well as the ability Rock Head, which gives Relicanth a niche in the tier.</p>
+
+[SET]
+name: Choice Band
+move 1: Head Smash
+move 2: Waterfall
+move 3: Earthquake
+move 4: Double-Edge
+item: Choice Band
+ability: Rock Head
+nature: Adamant
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>Thanks to Head Smash and the ability Rock Head, Choice Band Relicanth is a great wallbreaker, even 2HKOing Alomomola with Head Smash. Waterfall is advised as an additional STAB move, and has pretty good coverage in conjunction with Head Smash. Earthquake allows Relicanth to beat Steel-types looking to switch in and absorb a Head Smash, while Double Edge provides additional neutral coverage, and is Relicanth's best move with which to hit Seismitoad.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>An Adamant nature is chosen so Relicanth can hit as hard as possible, allowing Relicanth to 2HKO Alomomola and Tangela most of the time after Stealth Rock. Rock Head allows Relicanth to spam its most powerful STAB, Head Smash, without taking massive amounts of recoil damage. Zen Headbutt and Toxic can be used in the last slot over Double Edge, as Zen Headbutt allows Relicanth to beat Gurdurr, while Toxic can be used for switch-ins that Relicanth struggles to beat such as Torterra or Seismitoad. An alternative EV spread of 176 HP / 252 Atk / 84 Spe can be used to give Relicanth more bulk while still outspeeding minimum Speed Alomomola, but the extra Speed investment is generally more useful. Relicanth should be used with Pokemon that appreciate its ability to lure in and break physical walls, such as Braviary or Primeape, who can easily clean a weakened team. Relicanth also appreciates teammates that can switch into Grass- and Electric-type Pokemon and beat them reliably, such as Charizard and Torterra, respectively.</p>
+
+[SET]
+name: Support
+move 1: Stealth Rock
+move 2: Head Smash
+move 3: Waterfall / Earthquake
+move 4: Toxic / Yawn
+item: Leftovers
+ability: Rock Head
+nature: Impish
+evs: 252 HP / 172 Def / 84 Spe
+
+[SET COMMENTS]
+
+<p>This set aims to take advantage of Relicanth's monstrous Defense stat and set up Stealth Rock reliably. Even without investment, Relicanth is still able to hit hard due to the high Base Power of Head Smash, meaning that it isn't setup fodder for opposing sweepers. Waterfall and Earthquake both have decent coverage with Head Smash, but Waterfall is preferred as it gets the STAB bonus. Yawn is also an option in the last slot, as it can force out a dangerous switch in and rack up hazard damage.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Even though this is a defensive set, Rock Head is chosen as the ability because it allows Relicanth to utilize its most powerful STAB move. The EV spread allows Relicanth to outspeed min Speed Alomomola, and hit it with Toxic before it can do anything. If you are concerned about not hitting hard enough, an EV spread of 172 HP / 252 Atk / 84 Spe could be used with an Adamant nature, but you lose some ability to tank hits. Relicanth really appreciates teammates that can set up Spikes to punish the switches it forces, while also being able to absorb special moves. Roselia deserves special mention, as it forms a great defensive backbone with Relicanth, setting up Spikes and absorbing special Electric- and Grass-type moves. Ludicolo is another good teammate for Relicanth, as it can take Ground-type moves, as well as special Electric-, Grass-, and Fighting-type moves for Relicanth.</p>
+
+[Other Options]
+
+<p>Relicanth doesn't really have a lot of options outside of those listed. A Rock Polish set could be used, but unfortunately, Relicanth fails to outspeed even base 95 Speed Choice Scarf users after a boost. A Swift Swim set could be used on a rain team, but it loses the ability spam recoil-free Head Smash, and still falls short of the key 95 base Speed Choice Scarf users that dominate NU.</p>
+
+[Checks and Counters]
+
+<p>Nothing in the tier likes to switch into Choice Band Relicanth, but Gurdurr can switch into anything bar Zen Headbutt and heal off the damage with Drain Punch. Defensive Seismitoad can switch into Relicanth once and finish it off with Earth Power. The easiest way to deal with Relicanth is to revenge kill it with faster special attackers; Rotom-S, Rotom-F, Samurott, and Serperior are all good options for this. Sawk and Primeape can also come in after Relicanth kills something and force it out with their Fighting-type STABs. Torterra also deserves a special mention, as offensive variants can switch in once and kill it with Wood Hammer. Due to the fact that Relicanth is vulnerable to every entry hazard and has no reliable recovery, it is easily worn down if you keep putting offensive pressure on it.</p>

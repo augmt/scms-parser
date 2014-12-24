@@ -1,0 +1,76 @@
+[Overview]
+
+<p>Mesprit is the classic example of a "jack of all trades, master of none." At a first glance, Mesprit's good stats and wide movepool might make it seem like a powerful and reliable utility Pokemon. And it is, to a certain extent. The problem with Mesprit is that there's usually another Pokemon that does what it does better. In particular, Mesprit faces stiff competition from three other small and cute Psychic-type fairies: Azelf, Uxie, and Mew. Azelf is far better suited to offense, Uxie is a top-notch defensive Pokemon, and Mew's higher Speed, HP, and nigh limitless movepool make it the superior choice in many occasions.</p>
+
+<p>However, Mesprit does have its perks. Its access to Healing Wish and lower Speed than the other Psychic-types make it a fantastic Trick Room supporter. Similarly, a Ground-type immunity, courtesy of Levitate, gives it another way to distinguish itself from Mew, which for the most part runs sets that don't clash with Mesprit's. If you make sure that Mesprit isn't outclassed by its brethren, the little sprite will undoubtedly serve you well.</p>
+
+[SET]
+name: Trick Room
+move 1: Trick Room
+move 2: Psychic
+move 3: Thunderbolt
+move 4: Healing Wish / U-turn
+item: Life Orb / Leftovers
+nature: Quiet
+evs: 252 HP / 4 Def / 252 SpA
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>By taking on the role of a Trick Room supporter, Mesprit manages to pull off a set better than any of its competition. With a Quiet nature and no Speed IVs, Mesprit reaches a rubbish 148 Speed, which is enough to outspeed almost the entire metagame under Trick Room. The main attraction of this set is that Mesprit can function well as a stand-alone sweeper, and when it's on its last dregs, it can throw out a Healing Wish, completely restoring a teammate. That's not to say that Mesprit can't also function on a dedicated Trick Room team. Just be careful to make sure that you don't waste too many turns attacking when another Pokemon on your team could be doing a better job.</p>
+
+<p>Unlike other Trick Room users, Mesprit does not need to waste a turn switching into hard hitters because it has the capability to do so itself. Psychic is Mesprit's main STAB move, and a powerful one at that. It will always OHKO offensive Roserade, and will nearly always knock out specially defensive versions after Stealth Rock. Thunderbolt is the secondary offensive move on the set, as it provides excellent coverage with Mesprit's STAB Psychic; hitting all but Krookodile, Steelix, and Claydol for at least neutral damage. Healing Wish is what sets Mesprit apart from other Trick Room supporters, since it allows Mesprit to fully restore a teammate to peak performance. If sacrificing Mesprit is undesired, U-turn is a perfectly viable option, allowing for either a fast or a slow scout, depending on whether or not Trick Room is up. Both moves have their merits, but without Healing Wish, Mesprit loses one of its few niches.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Mesprit greatly appreciates entry hazard support; although it's a strong Pokemon, it has nowhere near the firepower of other Trick Room supporters, such as Chandelure. Our little pink friend can set up Stealth Rock by sacrificing a moveslot for it, generally Thunderbolt or Healing Wish. This is usually an inferior choice though, since Mesprit needs as much coverage as it can get, and Healing Wish is a key supporting move. Therefore, a teammate such as Claydol, who can also set up both Trick Room and Stealth Rock, is recommended. An even more colorful option (excuse the pun) is Kecleon, which has low Speed and access to Recover, Trick Room, and Stealth Rock. Mesprit's EV spread is the same as any Trick Room-oriented Pokemon: maximum HP and power, and the lowest Speed possible.</p>
+
+<p>Mesprit is walled by a large amount of special walls. Snorlax and Cresselia take very little from Mesprit's attacks and can easily heal off the damage. Fortunately, all of these walls are extremely susceptible to Heracross, which can OHKO all of them with its STAB Close Combat or Megahorn. The icing on the cake is that many of these walls will resort to statusing Mesprit with Toxic, so if Heracross can switch in on it, it will gain a 50% Attack boost courtesy of Guts.</p>
+
+[SET]
+name: Support
+move 1: Stealth Rock
+move 2: Psychic
+move 3: Grass Knot / Ice Beam
+move 4: U-turn
+item: Leftovers
+nature: Bold
+evs: 252 HP / 252 Def / 4 Spe
+
+[SET COMMENTS]
+
+<p>Mesprit can also take on a supporting role. It distinguishes itself from Azelf by not being suicide-oriented, and it differs from Uxie by actually having an offensive presence. This Mesprit set is designed to be able to switch in and counter the vast array of Ground- and Fighting-types that dominate the UU metagame, and set up Stealth Rock.</p>
+
+<p>Stealth Rock is mandatory on practically every team. Mesprit is an ideal candidate to set it up, because it possesses great bulk, and thus it can set it up multiple times during a match if need be. Of course, Mesprit isn't limited to just setting up Stealth Rock. Its STAB Psychic can crush many of the common Fighting-types in UU, such as Machamp and Hitmontop, who can't really do much back to Mesprit. It also deters Hitmontop from coming in to spin Stealth Rock away, because once Hitmontop has been KOed, Mesprit can simply set it up again. Grass Knot allows Mesprit to also counter the top Ground-types in Rhyperior and Mamoswine. As long as Mesprit avoids a Megahorn from the former, it can switch in on their Earthquakes, taking no damage thanks to Levitate, and always OHKO the former with Grass Knot, even without Stealth Rock support. In order to OHKO Mamoswine, Mesprit will need Stealth Rock and a layer of Spikes. Ice Beam is also a viable move in order to deal more damage to the lighter Ground-types, such as Flygon, Gligar, and Hippopotas, none of which can really hurt Mesprit without Toxic. U-turn in the last slot allows Mesprit to gain momentum for its team, and allows it to switch out of predicted Pursuit-using switch-ins without taking damage.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given EV spread allows Mesprit to tank powerful physical hits. Since Mesprit acts as a physical wall, having a special counterpart can form a highly effective defensive core. Snorlax can work in such a role, but in a more offensive vein: it can reliably Pursuit and eliminate the powerful special attackers, such as Mismagius and Chandelure, that Mesprit fears.</p>
+
+[SET]
+name: Weather Support
+move 1: Rain Dance
+move 2: Psychic
+move 3: Thunder
+move 4: Healing Wish / U-turn
+item: Damp Rock
+nature: Modest
+evs: 252 HP / 252 SpA / 4 Spe
+
+[SET COMMENTS]
+
+<p>Mesprit also has the ability to pull off an excellent weather support set. This is particularly effective due to the banning of hail and Hippowdon, meaning that auto-weather inducers have become much rarer in the UU metagame, and are limited to Hippopotas. While it may seem that this set faces stiff competition from Uxie, this is not the case, because Mesprit can use Healing Wish and take advantage of the weather it sets up, thanks to a superior offensive movepool and stats.</p>
+
+<p>Mesprit's weather of choice is Rain Dance. This is mainly due to the vast number of powerful Swift Swimmers that reside in the tier, including but certainly not limited to Kingdra, Omastar, Kabutops, and Ludicolo. Rain Dance halves the power of Fire-type moves, effectively giving Mesprit a resistance to them. Water-type moves get a boost as well, meaning that the many Swift Swimmers can abuse their STAB moves to a destructive degree. Another interesting aspect of Rain Dance is that it gives both Thunder and Hurricane 100% accuracy, meaning that Pokemon like Jolteon and Tornadus can also comfortably fit into rain teams. Psychic is Mesprit's STAB move, and thanks to full Special Attack investment, will be hitting most Pokemon that don't resist it hard. Thunder allows Mesprit to abuse the rain itself, and provides excellent coverage with its STAB Psychic; a 30% chance to paralyze the opponent is also very nifty. The last slot allows Mesprit to bring in its teammates to start a sweep of their own. Healing Wish completely restores a teammate to peak performance, which is extremely valuable to rain sweepers, who will quickly get worn down, but can only be used at the cost of Mesprit's life. While U-turn can be used multiple times, Mesprit loses its niche with Healing Wish.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Mesprit can just as easily pull off a Sunny Day set (albeit with less power), with maximum Attack EVs, an Adamant nature, Fire Punch, and Zen Headbutt over the maximum Special Attack EVs, Modest Nature, Thunder, and Psychic. The set functions virtually identically, but Mesprit will support Grass- and Fire-types. The Grass-types, such as Sawsbuck or Lilligant, can abuse Chlorophyll, doubling their Speed, and set up with Swords Dance or Quiver Dance, respectively. Fire-type powerhouses, such as Darmanitan, Victini, and Charizard, can abuse their massively powerful Flare Blitzes and Fire Blasts.</p>
+
+[Other Options]
+
+<p>Mesprit has an expansive movepool; unfortunately, when Mesprit differs from the listed sets it tends to become outclassed by other Pokemon. Knock Off is an excellent move in the fifth generation, and can cripple the many Eviolite users such as Dusclops and Gligar. Other sets that Mesprit can use to good effect are those with Choice items and Trick. A Choice Band set with Zen Headbutt, the elemental punches, U-turn, and Trick is often unexpected, but faces competition from other physically oriented Psychic-types such as Medicham or Gallade. Choice Specs is also perfectly viable, with moves such as Psychic or Psyshock, BoltBeam coverage, and Trick. Mesprit can also pull off a dual screens set, but is largely outclassed by Uxie, which also has access to Memento. A Calm Mind set is also an option, but faces stiff competition from Mew. Mesprit's lack of a reliable recovery move apart from Rest also hurts it in this regard.</p>
+
+[Checks and Counters]
+
+<p>Since Mesprit normally focuses on using special attacks, the big squishy special walls, Snorlax, can take it on without any trouble. Mesprit can use Psyshock to strike at its weaker Defense, but it's often a futile effort, since Snorlax can boost its Defense with Curse. Dark-types are also a threat to Mesprit, since they can trap Mesprit with their STAB Pursuit and remove it from battle. Of these, Weavile and Houndoom are the most dangerous. Finally, Escavalier doesn't care about anything Mesprit can do to it apart from Fire Punch, thanks to its Steel typing and tremendous bulk, and can either remove it with Pursuit or smash it with its STAB Megahorn.</p>

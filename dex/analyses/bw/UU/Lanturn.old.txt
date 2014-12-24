@@ -1,0 +1,97 @@
+[Overview]
+
+<p>At first glance, Lanturn seems nothing more than an average and easily dismissable Pokemon. When you look at its stats, Lanturn's base 125 HP is its only outstanding aspect; its defensive stats are worse than even Gardevoir's. However, Lanturn's trump card is its excellent typing, and combined with its amazing movepool, Lanturn has the potential to become the number one special-based utility Pokemon. It shares its Water / Electric typing with only one other fully evolved Pokemon in the entire game, Rotom-W, who is safely out of reach in the battlegrounds of OU. This gives Lanturn unique access to two of the best special STABs, key resistances to five types, and a mere 2 weaknesses, albeit to fairly common attacking types, Ground and Grass. Another key to its valuable niche in UU is its ability, Volt Absorb, which enables it to laugh at the futile attempts of Galvantula to make short work of your team. Combined with moves that make it an excellent team player, such as Thunderbolt, Scald, Thunder Wave, Heal Bell, Ice Beam, and Volt Switch,  Lanturn becomes an amazing asset to have on your team.</p>
+
+[SET]
+name: Special Tank
+move 1: Scald
+move 2: Ice Beam
+move 3: Thunderbolt
+move 4: Heal Bell / Thunder Wave
+item: Leftovers
+ability: Volt Absorb
+nature: Calm
+evs: 52 HP / 252 Def / 204 SpD
+
+[SET COMMENTS]
+
+<p>When looking for a special attacker that can fit into any team and offer support in any situation, look no further than Lanturn's Special Tank set. This set has unbelievably good coverage with Scald, Ice Beam, and Thunderbolt, enabling it to easily dispatch even the trickiest of enemies. Lanturn can OHKO several common UU Pokemon, such as Azumarill, Arcanine, and Steelix, with a super effective move after Stealth Rock damage. Lanturn's great bulk--thanks to its huge HP stat--allows it to tank and absorb some of the strongest moves in the tier and yet remain in good health. Thunder Wave is an excellent support option as it lets Lanturn cripple sweepers, whereas Heal Bell enables it to cure itself and its teammates of pesky status, complementing the mixed defensive spread well and allowing Lanturn to act decisively in any situation.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Lanturn's HP stat is already huge, so the EVs on this set focus on Lanturn's defensive stats. 52 HP EVs reach the nearest Leftovers number, maximum Defense investment helps Lanturn take on weaker physical attackers, and the remaining EVs are placed into Special Defense. Surf can be used instead of Scald, but the latter's 30% burn chance may come in handy to cripple some of the deadliest physical sweepers in UU. If using Thunder Wave, however, Surf would be more advisable to avoid status conflicts. Discharge can be used instead of Thunderbolt, but the power drop is very noticeable, and Thunder Wave is a more reliable means of spreading paralysis.</p>
+
+<p>Without Stealth Rock support, almost all of Lanturn's OHKOs become measly 2HKOs, defeating the purpose of using Lanturn in the first place. In addition, Lanturn will be crippled by many faster Pokemon that have Earthquake. Hence, Flying-types and Pokemon with the Levitate ability work excellently with Lanturn, as their Ground-type immunity grants them a free switch in. Notable Pokemon include Claydol, who can set up Stealth Rock and avoid Earthquake, and Zapdos, who can easily dispatch the annoying Quagsire that wall Lanturn with Hidden Power Grass; both of these Pokemon complement Lanturn's weaknesses well. In exchange, Lanturn resists one of Zapdos's two weaknesses, creating great synergy. Wish support is appreciated as Lanturn lacks any form of recovery outside of Volt Absorb and Rest. Clefable is an excellent Wish passer thanks to its high HP stat, while Leafeon is another option as it shares excellent defensive synergy with Lanturn.</p>
+
+[SET]
+name: SubCharge
+move 1: Substitute
+move 2: Charge Beam
+move 3: Surf
+move 4: Ice Beam
+item: Leftovers
+ability: Volt Absorb
+nature: Modest
+evs: 52 HP / 252 SpA / 204 SpD
+
+[SET COMMENTS]
+
+<p>SubCharge is an infamous set that makes a return from DPP UU, but it needs to be played more carefully in BW to achieve success. The strategy is to switch in on a weak, Electric-type, or support move, set up a Substitute, and then spam Charge Beam to net a Special Attack boost. After a few boosts, the combination of Surf and Ice Beam will make short work of most enemies.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>52 HP EVs allow Lanturn to create 101 HP Substitutes that will not be broken by Seismic Toss, maximum Special Attack EVs give Lanturn some much needed firepower, and the remaining EVs are placed into Special Defense to give Lanturn extra bulk. However, even though Lanturn has the ability to sweep many teams, it can still be walled or outplayed by some Pokemon that can set up on Lanturn. Therefore, careful play is the key to accumulate as many boosts as possible and make a comeback if necessary.</p>
+
+<p>An alternative to Surf is Hydro Pump, which trades accuracy for massive power. Support from entry hazards is greatly appreciated, especially Toxic Spikes since they discourage slower boosting sweepers from using Lanturn as setup bait. A great partner to provide entry hazard support is Roserade. An honorable mention goes out to another late-game menace: Flygon. It can switch in on an Earthquake aimed at Lanturn and proceed to continue the sweep with physical attacks instead, easily taking out Pokemon such as Bisharp and Magneton.</p>
+
+[SET]
+name: RestTalk
+move 1: Rest
+move 2: Sleep Talk
+move 3: Scald
+move 4: Thunderbolt
+item: Leftovers
+ability: Volt Absorb
+nature: Calm
+evs: 52 HP / 252 Def / 204 SpD
+
+[SET COMMENTS]
+
+<p>Lanturn's large HP stat enables it to withstand some of the hardest-hitting moves in the game. With RestTalk, Lanturn can absorb status, launch an attack, and heal itself quite easily. While asleep, Lanturn can proceed with Sleep Talk to dish out decent damage. Lanturn received a great gift from BW in Scald, gaining a 30% chance to mess up the best physical sweepers in UU. While Suicune and Milotic might seem to outclass it as a RestTalker, Lanturn's unique typing and ability allows it to stand strong in the face of virtually all special attackers, including Zapdos.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The HP EVs let Lanturn's HP reach a Leftovers number, maximum Defense investment allows Lanturn to take physical hits easier, such as Donphan's Earthquake, and the remaining EVs are placed into Special Defense. Pokemon who can switch into attacks that Lanturn is weak to should be considered. Flygon and Crobat can switch into Grass- and Ground-type moves, and can threaten the opponent with their powerful STAB moves. Ice Beam can be used over Scald if you prefer BoltBeam coverage, but you lose the chance to burn switch-ins.</p>
+
+<p>A cleric is helpful to wake up Lanturn if it has to switch out, and it can also support Lanturn with Wish. Because this set is so good at stalling the opponent, Toxic Spikes should be considered to wear down Pokemon such as Suicune. Roserade can set up Toxic Spikes and poses a decent threat to Ground-types who try to KO Lanturn.</p>
+
+[SET]
+name: Rain Dance
+move 1: Rain Dance 
+move 2: Hydro Pump / Surf / Scald
+move 3: Heal Bell / Ice Beam
+move 4: Volt Switch 
+item: Damp Rock
+ability: Volt Absorb
+nature: Modest
+evs: 40 HP / 252 SpA / 216 SpD
+
+[SET COMMENTS]
+
+<p>Possessing all the tools it needs to take charge of the weather and use it to its full advantage, Lanturn is arguably the best Rain Dance user in all of UU. With excellent typing, a fantastic ability, and great bulk, absorbing Electric-type moves and providing its team with 8 turns of rain is a simple task for Lanturn to accomplish. BW granted Lanturn the amazing move known as Volt Switch, which, thanks to Lanturn's low speed, can be used to bring in a sweeper unharmed.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread allows it to go on the offense with an immensely powerful rain-boosted Hydro Pump, capable of ripping huge holes in an opponent's team. Lanturn's huge movepool gives it a choice between an offensive role and a defensive one, allowing it to complement its teammates fantastically. Offensively, STAB Hydro Pump and 100% accurate STAB Thunder allow it to quickly repel threats that switch in, possibly gaining it free turns to set up. Alternatively, Scald and Discharge trade power for excellent secondary effects, whilst Surf offers greater damage output; pick the option that best fits your team. Support-wise, Lanturn has Heal Bell, Thunder Wave, Confuse Ray, and Volt Switch; all of which can help your teammates set up to sweep. Ice Beam provides great coverage as well.</p>
+
+<p>Lanturn works well with Dragon Dance Swift Swim Kingdra, who has amazing coverage just through STAB Waterfall and Outrage. Other notable Swift Swim Pokemon include Kabutops, Omastar, and Gorebyss. Ludicolo can abuse Rain Dish and Leech Seed, which turns it into an annoying tank; it can also abuse Swift Swim in order to become a threatening sweeper. Zapdos Rotom-H also benefit from the rain as it boosts Thunder's accuracy to 100%.</p>
+
+[Other Options]
+
+<p>Lanturn can run a parafusion set with Water Pulse and Thunder Wave, but this is less effective in BW since switching is seen more commonly in a tier full of Choice users, such as DPP UU. However, parafusion would complement paraflinch  variants of Togekiss very nicely, forming a solid paralysis-spreading core to aid slower sweepers. Lanturn can also be used effectively on rain teams as an all-out sweeper. Lanturn's ability gives it great synergy with most other members of rain teams, allowing it get many free switch ins on Electric-type attacks. With rain-boosted Hydro Pump and 100% accuracy Thunder, it can easily take advantage of the rain to destroy the opposing team. Furthermore, Lanturn has access to Hydro Pump, Thunder, and Blizzard, allowing it to perfectly counter just about every weather out there. Against hail teams, Hidden Power Fire is a great way to dispatch Abomasnow.</p>
+
+<p>With a wide variety of different support moves, Lanturn's set can be catered to fit a team's needs. Other than the options listed above, it also has access to Stockpile, Toxic, and Volt Switch. The latter is especially notable; with a Calm nature and 252 SpD EVs, Lanturn can act as a specially defensive pivot thanks to its low Speed.</p>
+
+[Checks and Counters]
+
+<p>Lanturn lacks the bulk to take any Earthquake other than Impish Donphan's. Grass-types, especially ones with high Special Defense, are great counters to Lanturn. Shaymin is the most notable, but Lilligant and Roserade are huge threats too. Funnily enough, Lanturn also walls itself, so it should be considered an option.</p>

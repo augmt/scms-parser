@@ -1,0 +1,141 @@
+[Overview]
+
+<p>A lot of things can be said about Mew. First, you just can't know what it will do. With 100 on every stat and a great movepool, Mew is unpredictable. And in ADV, a wrong move could turn the tables, so Mew is a very useful Pokemon. Second, a physical Mew can counter Skarmory, a special Mew can beat Blissey easily. And 100 on every stat makes it able to use mixed sets effectively, making it harder to counter. It doesn't die with 100 on defenses, HP, and Soft-Boiled. It often can't be phazed, and even the best walls can't block it. Of course, there's Mewtwo, which is way better than Mew in almost every way. If you're using Mew, be sure to take advantage of its unique movepool, because unless you're using one of those moves, Mewtwo can do just about anything Mew can do, but better. Mew can bluff Explosion sometimes, though, so a Calm Minder can work.</p>
+
+[SET]
+name: Calm Mind + BoltBeam
+move 1: Calm Mind
+move 2: Soft-Boiled
+move 3: Thunderbolt
+move 4: Ice Beam
+item: Leftovers
+nature: Timid
+evs: 36 HP / 252 SpA / 220 Spe
+
+[SET COMMENTS]
+
+<p>Calm Minding Mew. You might want to throw in Substitute somewhere, Mew has 404 HP as well, allowing it to make 101 HP Substitutes. This makes its Substitutes take two hits from Seismic Toss and Night Shade, often the only real damaging moves on Blissey and Deoxys-D. Mewtwo does this better.</p>
+
+[SET]
+name: Taunt
+move 1: Psychic / Ice Beam
+move 2: Soft-Boiled / Thunderbolt
+move 3: Calm Mind
+move 4: Taunt
+item: Leftovers
+nature: Timid
+evs: 36 HP / 252 SpA / 220 Spe
+
+[SET COMMENTS]
+
+<p>Taunt Mew. Mostly inferior to Mewtwo at this, especially since Mewtwo has the threat of Self-Destruct now, Mew can't even scare some things away like it could. If you're using this set, consider using Mewtwo instead. Only use Psychic if it's your only attack, Ice Beam can be paired with Thunderbolt or with Soft-Boiled. Psychic is good to hit everything decently, and is primarily for having a recovery move and for hitting Kyogre. Ice Beam hits all physical attackers in uber harder (Groudon, Metagross, Tyranitar, Rayquaza) as you boost Special Defense with Calm Mind to save yourself from that threat. Soft-Boiled is recommended over Boltbeam, but both work. </p>
+
+[SET]
+name: Support
+move 1: Toxic
+move 2: Soft-Boiled
+move 3: Snatch
+move 4: Ice Beam / Thunder / Flamethrower
+item: Leftovers
+nature: Calm
+evs: 252 HP / 120 Def / 136 SpD
+
+[SET COMMENTS]
+
+<p>A more defensive Mew, if your team needs Toxic support. You'll have problems with Blissey, so Snatch might be useful, but better switch out because of Toxic--or even let it Toxic you, Synchronize activates, then Snatch its Aromatherapy to heal yourself if you trust your prediction. It can be really hard to pull off, but with Snatch, Mew beats Blissey 100%. This works really well with Spikes, because a Toxic + Snatch Mew will force a few switches. Synchronize makes this Mew better than Mewtwo at this, because it can stop enemy stall teams cold. The last attack is to do some actual damage, primarily to break Substitutes. Ice Beam for Groudon, Latias, Latios, and Rayquaza, Thunder for Kyogre and Metagross in the rain, and Flamethrower for Forretress, Groudon, and Metagross in the sun. Flamethrower works best with an ally Groudon, to give Flamethrower pseudo-STAB.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Earthquake
+move 3: Shadow Ball
+move 4: Explosion / Soft-Boiled / Taunt
+item: Leftovers
+nature: Jolly
+evs: 36 HP / 252 Atk / 220 Spe
+
+[SET COMMENTS]
+
+<p>Physical Mew, kind of good because most ubers are Special based, kind of not because of lack of STAB and Mew's mediocre stats. Those with Soft-Boiled may want a more defensive spread.</p>
+
+[SET]
+name: SubPunch + BoltBeam
+move 1: Substitute
+move 2: Focus Punch
+move 3: Thunderbolt
+move 4: Ice Beam
+item: Leftovers
+nature: Brave
+evs: 252 HP / 108 Atk / 148 SpA
+
+[SET COMMENTS]
+
+<p>Use Substitute first unless you predict what your opponent is going to switch to, then attack with the correct moves. Nothing resists Focus Punch + Thunderbolt + Ice Beam except Shedinja. Focus Punch is actually decent in ubers, as it hits Blissey, the rare Snorlax, and the even rarer Regice super effectively, and since they have to devote most of their EVs to Special Defense, that's means less physical Defense. It also hits Lanturn neutral, which shows up on a few Rain teams. Again, Mew's Substitutes are unbreakable by most Blissey and Deoxys-D, so it has more of a use than just easing up prediction.</p>
+
+[SET]
+name: Choice Band
+move 1: Explosion
+move 2: Earthquake
+move 3: Shadow Ball
+move 4: Ice Beam / Overheat / Focus Punch
+item: Choice Band
+nature: Adamant
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Explosion is one of the few things Mew can do and the other ubers can't, if this means something. Unfortunately, Mewtwo stole some of Mew's thunder by learning the move Self-Destruct in XD, which is a slightly weaker Explosion. Ice Beam hits Groudon and Rayquaza harder than any of your other moves, except Explosion. Overheat for Forretress, Groudon, and Skarmory. Focus Punch hits Kyogre harder than any of your other moves, as well as possibly OHKOing Blissey that don't invest in Defense EVs, and still does a bit to Groudon (but not as much as Overheat or Ice Beam).</p>
+
+[SET]
+name: Special Attacker
+move 1: Soft-Boiled
+move 2: Flamethrower / Hidden Power Dark
+move 3: Thunder / Thunderbolt
+move 4: Ice Beam
+item: Leftovers
+nature: Modest
+evs: 80 HP / 252 SpA / 176 Spe
+
+[SET COMMENTS]
+
+<p>Pure special Mew, inferior to the Taunting counterpart. Only Lanturn resists Thunderbolt, Flamethrower, and Ice Beam. Use Hidden Power Dark over Flamethrower if you have a Kyogre, and use Thunderbolt over Thunder if you have Groudon.</p>
+
+[SET]
+name: Hypnosis + Calm Mind
+move 1: Hypnosis
+move 2: Soft-Boiled
+move 3: Calm Mind
+move 4: Ice Beam / Psychic
+item: Leftovers
+nature: Modest
+evs: 80 HP / 252 SpA / 176 Spe
+
+[SET COMMENTS]
+
+<p>You can mess foes up with Hypnosis, buying more time to Calm Mind and blocking more hits. A bit like Lugia, except with no Pressure, worse stats, and no Whirlwind. Hypnosis is cool, though.</p>
+
+[SET]
+name: Transform
+move 1: Soft-Boiled / Explosion
+move 2: Transform
+move 3: Reflect / Light Screen
+move 4: Hypnosis
+item: Leftovers
+nature: Jolly
+evs: 252 HP / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>Hypnotize one Pokemon to put it out of commission, set up a Reflect or a Light Screen to give yourself the advantage, then Transform into the enemy.</p>
+
+[Other Options]
+
+<p>Mew's got the biggest movepool in the game besides Smeargle, so abuse it. Psychic is good only if it's your only attack, otherwise it's horrible. Too much stuff resists Psychic for it to be useful if you have room for two moves. Fake Out is OK for Pokemon that Substitute down to a berry, and can surprise Pokemon with Endure, as well as being very useful in 2v2. Torment is always cool to annoy Choice Banders and Pokemon that carry one attack to help stall them out. Roar can surprise Calm Minders.</p>
+
+[EVs]
+
+<p>If you're going to use Substitute, you'll want Max HP because of 101 HP Substitutes. Otherwise give the stat you are using (Attack for Physical Mews, Special Attack for special Mews, etc.) a ton of EVs, and generally shoot for 320 Speed to beat Latias and Latios, or 280 Speed to beat Adamant Groudon and Modest Kyogre.<p>
+
+[Checks and Counters]
+
+<p>Depends on the Mew set. Try to learn the set your opponent is using. Just directly attack it, because many Mew pack Taunt, but you can try to catch it off guard as well. Stuff that is faster than it and can hit hard do a decent job at countering Mew. Mew's biggest danger is its unpredictability. Once you know its set, its power greatly decreases.</p>

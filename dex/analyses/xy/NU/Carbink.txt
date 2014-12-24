@@ -1,0 +1,62 @@
+Overview
+########
+
+At first, Carbink seems like a forgettable Pokemon. It is weak to the common attacking types, Water, Grass, and Ground, and it has a 4x weakness to Steel. Additionally, it is slow, having a pathetic base 50 Speed, and is weak without Calm Mind boosts, at an extremely low base 50 Special Attack. Carbink also lacks any form of recovery outside of Rest, and its shallow movepool in general limits what it can do on the field, making it a niche choice for a teamslot. However, Carbink's typing gives it some neat resistances to Normal-, Flying-, Fire-, Bug-, and Dark-type moves, as well as an immunity to Dragon. Its decent 50 / 150 / 150 defenses allow it to set up Calm Mind multiple times.
+
+CroBink
+########
+name: CroBink
+move 1: Calm Mind
+move 2: Rest
+move 3: Sleep Talk
+move 4: Moonblast
+ability: Sturdy
+item: Leftovers
+evs: 252 HP / 252 Def / 4 SpA
+ivs: 0 Atk
+nature: Bold
+
+Moves
+========
+
+Calm Mind is a great setup move that takes advantage of Carbink’s bulk, as thanks to it Carbink will often be able to set up many times. Rest is used to increase Carbink’s longevity, and Sleep Talk is to ensure that Carbink can attack or boost while it is asleep. Moonblast is a STAB move that is also Carbink's most powerful special attack.
+
+Set Details
+========
+
+The EV spread makes Carbink physically defensive so that it can more easily handle physical attackers such as Gurdurr, Sawk, Flareon, Tauros, Zangoose, Swellow, and Kangaskhan. Sturdy guarantees that Carbink can take a hit, allowing it to use Rest if needed to regain its health.
+
+Usage Tips
+========
+
+Generally, you should always make sure that you weaken or remove offensive threats that can hit Carbink hard, such as Sceptile, Lilligant, Feraligatr, and Samurott, and defensive threats that Carbink has trouble breaking through, such as Audino and Lickilicky. After these threats are gone, Carbink can set up Calm Mind on anything that fails to do significant damage to it, such as Flareon, Zangoose, or a Pokemon that is Choice-locked into a harmless move. Carbink is prone to being worn down throughout the match, so make sure to use Rest when necessary, and Sleep Talk to inflict damage or boost while asleep.
+
+
+Team Options
+========
+
+Carbink appreciates entry hazard support, particularly Toxic Spikes from Garbodor and Qwilfish. Carbink has a tough time breaking through specially bulky Pokemon and Pokemon that resist Moonblast, so partners such as Sawk, Seismitoad, Gurdurr, and Golurk can clear the way for Carbink. Water-, Grass-, and Ground-types can muscle past Carbink with little difficulty. Hence, it is recommended to have a Pokemon such as Vileplume, Sceptile, Lilligant, Electivire, Typhlosion, and Magmortar that can check these threats.
+
+Other Options
+########
+
+Carbink can use its bulk and typing to set up dual screens and Stealth Rock. Sunny Day is another option to take advantage of Carbink’s bulk and support a different set of Pokemon. However, these jobs are better left to Uxie, as it has access to Memento, which can ease setup for teammates, as well as other utility options such as Yawn, Knock Off, Thunder Wave, Magic Coat, and Foul Play. Carbink can also take advantage of its resistances and low Speed and run a suicide lead set with Trick Room, Stealth Rock, and Explosion to support slow Pokemon. A set with Protect and Toxic can be used to wear down opposing Pokemon to allow Carbink’s teammates to KO them more easily.
+
+Checks & Counters
+########
+
+**Taunt**: Taunt completely stops Carbink from setting up Calm Mind, healing itself with Rest, or using Sleep Talk.
+
+**Trick and Switcheroo**: Carbink cannot stay in on Trick or Switcheroo users, as being given a Choice item severely cripples it.
+
+**Setup Sweepers**: Because Carbink has little offensive presence before several boosts from Calm Mind, most setup sweepers, including Feraligatr, Samurott, Slurpuff, Klinklang, Mesprit, and Kabutops, can beat it one-on-one.
+
+**Water-types**: Seismitoad has access to Knock Off and can use Scald or Hydro Pump to wear Carbink down. Qwilfish has a resistance to Moonblast as well as access to Taunt. Ludicolo can set up Rain Dance on Carbink and threaten a sweep.
+
+**Grass-types**: Sceptile and Lilligant in particular can force out Carbink with Leaf Storm, Giga Drain, or Petal Dance. Lilligant can also set up Quiver Dance on Carbink that lack Calm Mind boosts.
+
+**Ground-types**: Rhydon, Steelix, Golem, and Golurk threaten Carbink with Earthquake and Gyro Ball.
+
+**Special Walls**: Ferroseed, Audino, Lickilicky, and specially defensive Vileplume can stall out Carbink by virtue of their special bulk.
+
+**Phazing**: Users of Roar and Whirlwind can reset Carbink's boosts.

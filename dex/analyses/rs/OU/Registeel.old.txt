@@ -1,0 +1,75 @@
+[Overview]
+
+<p>Registeel is too easily beaten by many other standard Pokemon, and on the whole, it shouldn't be used in OU. It lacks a lot of attack power; in fact, aside from Toxic, its main form of offense is Explosion. However, even this isn't too effective against Skarmory, one of the main counters to Registeel.</p>
+
+<p>Nonetheless, Registeel does fairly well in the Uber metagame. In addition to resisting Hidden Power Flying and Meteor Mash, two big threats most Ubers have a hard time tanking, Registeel also easily shrugs off most special attacks, and can set up with Curse to beat threats one-on-one. Furthermore, it can take out Groudon or any other specific threat with Explosion.</p>
+
+[SET]
+name: RestTalk
+move 1: Rest
+move 2: Sleep Talk	
+move 3: Toxic
+move 4: Seismic Toss / Earthquake
+item: Leftovers
+nature: Careful
+evs: 252 HP / 236 SpD / 20 Spe
+
+[SET COMMENTS]
+
+<p>Seismic Toss is generally preferred to Earthquake due to Registeel's low offenses, but Earthquake can be used to hit Steel- and Poison-types--both of whom are immune to Toxic--for super effective damage. However, note that Skarmory and Weezing are immune to Earthquake, while Steelix and Forretress take more damage from Seismic Toss. The real reason to use Earthquake is in fact to let Registeel take on Substitute Jirachi; with about 100 Attack EVs, Earthquake can break defensive Jirachi's Substitute. Earthquake also takes down Raikou more effectively, 2HKOing it with the aforementioned investment and sandstorm damage. Finally, Earthquake stops Magneton as well. Seismic Toss is needed to defeat Substitute Zapdos, however, so it's a trade-off.</p>
+
+<p>Maximum HP grants as much bulk as possible; focus next on Special Defense. In general, this only works as a special tank alongside Tyranitar.</p>
+
+[SET]
+name: Curse
+move 1: Curse
+move 2: Hidden Power Steel / Rock Slide
+move 3: Earthquake	
+move 4: Rest
+item: Leftovers
+nature: Careful
+evs: 252 HP / 160 Atk / 96 SpD
+
+[SET COMMENTS]
+
+<p>As its defenses are great to begin with, Registeel can take quite the beating while boosting up with Curse, then heal off the damage with Rest. Standard phazers such as Skarmory and Suicune handle this set with ease.</p>
+
+[SET]
+name: Lead
+move 1: Thunder Wave / Counter
+move 2: Earthquake
+move 3: Rock Slide / Hidden Power Steel
+move 4: Rest
+item: Leftovers
+nature: Impish
+evs: 252 HP / 88 Atk / 16 Def / 152 SpD
+
+[SET COMMENTS]
+
+<p>Registeel works well against some common leads, namely Aerodactyl and Zapdos. Due to its immense defensive stats, even Choice Band Aerodactyl cannot beat it. Thunder Wave is very annoying, while Rest keeps Registeel in the game. Hidden Power Steel provides useful STAB, but if Registeel forgoes Rock Slide, it might run into difficulty with lead Substitute Zapdos.</p> 
+
+[SET]
+name: Choice Band
+move 1: Superpower
+move 2: Rock Slide / Hidden Power Rock
+move 3: Earthquake
+move 4: Explosion
+item: Choice Band
+nature: Careful / Adamant
+evs: 252 HP / 252 Atk / 4 SpD
+
+[SET COMMENTS]
+
+<p>Even with a Choice Band, Registeel simply lacks power--its only threatening move is Explosion, and even that doesn't faze Skarmory. Moreover, Regirock is generally superior as it has a higher Attack stat. Registeel has the advantage of being able to take Water-type attacks, but as it can't take down the Water-types it can switch into, this makes little difference.</p>
+
+<p>With this in mind, though, Toxic makes for a better option than one might think, as this cripples Suicune, Vaporeon, and Milotic. Hidden Power Steel is another usable move, but its only purpose is to provide Registeel with a safe attack that damages everything equally--i.e. not at all--if prediction is not your strong suit.</p>
+
+[Other Options]
+
+<p>Thunder and Thunderbolt are Registeel's only realistic options of dealing with Skarmory. Zap Cannon can spread paralysis while doing damage; Regirock has the defenses to be able to cope with its terrible accuracy.</p>
+
+[Checks and Counters]
+
+<p>Physical tanks are the best counters to Registeel. Most notable are those that can phaze, such as Skarmory and Weezing, along with those that have super effective STAB moves, such as Metagross and Swampert.</p>
+
+<p>In Ubers, beware of Groudon and Rayquaza. Kyogre can be a bit of a problem, as well as Reflect + Whirlwind Lugia.</p>

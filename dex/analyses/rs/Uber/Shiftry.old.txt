@@ -1,0 +1,29 @@
+[SET]
+name: Choice Band
+move 1: Shadow Ball
+move 2: Brick Break
+move 3: Solar Beam / Hidden Power Fire / Hidden Power Ice
+move 4: Explosion
+item: Choice Band
+ability: Chlorophyll
+nature: Adamant / Naughty
+evs: 160 HP / 252 Atk / 96 Spe
+
+[SET COMMENTS]
+
+<p>The EVs given are for if you do not have Hidden Power. If you do, you'll need 4 more Speed EVs at the cost of HP to make sure Shiftry is faster than +Speed Deoxys-A in the sun. Choice Band is helpful because Shiftry can only come in on a very limited number of Pokemon and needs to 2HKO the switch-in to survive.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Shadow Ball
+move 3: Brick Break
+move 4: Explosion
+item: Leftovers
+ability: Chlorophyll
+nature: Adamant
+evs: 160 HP / 252 Atk / 96 Spe
+
+[SET COMMENTS]
+
+<p>If you feel you can set up with Shiftry, it learns Swords Dance, which is really helpful.</p>

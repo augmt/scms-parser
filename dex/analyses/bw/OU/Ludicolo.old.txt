@@ -1,0 +1,36 @@
+[Overview] 
+
+<p>Since the ban of Drizzle + Swift Swim, Ludicolo has yet to break away from the depths of NU. Losing its most valued asset, one may wonder why Ludicolo should ever be used in the OU tier again. The answer lies in Ludicolo's new role in the metagame, manual rain teams; Ludicolo can then reach its full potential as a solid special sweeper. With a great offensive and defensive Water / Grass typing, along with a respectable movepool, Ludicolo is more than capable of finding plenty of opportunities to switch in and wreak havoc. However, Ludicolo is the epitome of a niche Pokemon; your entire party should be devoted to setting up rain independently, or it will be of little-to-no use when adding it to your team. Despite these drawbacks, it is imprudent to underestimate a Ludicolo in the rain, as it will decimate your team if given the chance.</p>
+
+[SET]
+name: Special Attacker 
+move 1: Hydro Pump
+move 2: Giga Drain
+move 3: Ice Beam 
+move 4: Rain Dance / Focus Blast 
+item: Life Orb
+ability: Swift Swim 
+nature: Timid / Modest 
+evs: 252 SpA / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>Ludicolo excels as one of the best special sweepers for manual rain teams. Hydro Pump is the go-to STAB of choice; thanks to its high base power, which is further increased by rain and Life Orb, anything that does not resist it will face a 2HKO at worst and an OHKO at best. Giga Drain is the more reliable STAB attack that allows Ludicolo to break through bulky Water-types such as Jellicent and Vaporeon, something its partner Kingdra can't do as easily. Ice Beam rounds out the coverage and hits troublesome rain checks such as Celebi and Dragonite for super effective damage. The final slot is a matter of preference regarding either support or more power. Ludicolo can set up Rain Dance autonomously, which allows it to support its teammates and disrupt the momentum of opposing weather teams, in particular i.e. sand, hail, and sun. Focus Blast on the other hand allows Ludicolo to break through Ferrothorn and the Kyurem formes, which otherwise wall it to no end.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs are pretty straightforward, maximizing Ludicolo's Speed and Special Attack. The remaining 4 EVs are tossed into Special Defense ensuring that Ludicolo ends up with an odd HP number, allowing it to fire off 11 consecutive attacks with a Life Orb as opposed to 10 with an even number (assuming it has not taken prior damage and has not used Giga Drain). A Timid nature is preferred so that Ludicolo can outspeed base 108 Choice Scarf users - most importantly Keldeo and Terrakion. A Modest nature is also acceptable, but Ludicolo simply does not have the bulk to take repeated attacks from fast Choice Scarf users, so it is safer to stick to a Timid nature to outspeed them. In terms of other offensive options, Surf can either be used over Hydro Pump for the sake of accuracy or in the final slot so Ludicolo has the choice of both accuracy and power. Alternatively, Grass Knot can be used over Giga Drain to nail larger opponents such as Gyarados and Jellicent. Substitute allows Ludicolo to dodge Thunder Wave and other status afflictions while also being able to lessen the impact of priority attacks from the likes of Breloom and Dragonite. Choice Specs and Damp Rock are both acceptable item options. Choice Specs gives Ludicolo much more power at the cost of being tied down to one attack, while Damp Rock functions supportively, allowing Ludicolo to extend the duration of Rain Dance from five to eight turns.</p>
+
+<p>Ludicolo is a rather situational Pokemon. If rain is on the field, it will likely be the most dangerous Pokemon in the face of the opposition, but if rain is not present, it will have difficulty leaving much of a mark. To alleviate this problem, Tornadus is an excellent partner, as it can setup Rain Dance with Prankster and break through troublesome threats such as Breloom and Blissey/Chansey. Entry hazards are crucial as even Stealth Rock allows Ludicolo to OHKO Dragonite with Ice Beam and 2HKO defensive Kyurem-B with Focus Blast. Kabutops is a great partner to setup Stealth Rock while also breaking through Blissey and Chansey with its powerful STAB Stone Edge. Choice Specs Kingdra can form a devastating offensive duo with Ludicolo, as Kingdra can easily break past the Kyurem forms and can take a physical approach in order to destroy Blissey/Chansey. Ferrothorn remains a troublesome Pokemon for Ludicolo and its team. For this reason, Gothitelle and Magnezone are useful partners to trap and dispose of it. Dugtrio and Gothitelle can also make themselves useful by removing opposing weather inducers such as Abomasnow, Hippowdon, Ninetales, or Tyranitar.</p>
+
+[Other Options]
+
+<p>Despite its vast movepool, Ludicolo can't really make much use of what it has. A physical Swords Dance set is possible, but between setting up Rain Dance and finding an opportunity to pull off a Swords Dance, it's too strapped for time and will likely have taken too much damage to get a sweep going. A SubSeed set with Rain Dish is also plausible, but there are far too many Pokemon that can simply break through it. Moreover, Ludicolo has neither the have the bulk nor power to abuse it. Finally, a mixed Hone Claws set can also be used, though it experiences the same complications as the Swords Dance set.</p>
+
+[Checks and Counters] 
+
+<p>As with most weather-orientated sweepers, altering their favored weather condition drastically decreases their performance. In Ludicolo's case, it loses its blistering speed and its Water-type attacks weaken, making it susceptible to more powerful attackers. Specially defensive Ninetales is a good check, as it does all the above and can proceed to 2HKO it with Flamethrower. Abomasnow, Tyranitar, and Hippowdon have difficulty switching in, but their ability to change the weather is invaluable.</p>
+
+<p>Blissey and Chansey are above all the best counters to Ludicolo. They can easily sponge any attack and gradually wear it down with Toxic and repeated Seismic Tosses. If Ludicolo lacks Focus Blast, Ferrothorn and the Kyurem forms are also great counters, being able to switch into all attacks and 2HKO with Power Whip and Ice Beam, respectively. Defensive Latias, Celebi, and Toxicroak are also decent checks, all three of them can switch in relatively easily and only have to watch out for Ice Beam. Specially defensive Jirachi can tank a single hit and attempt to paralyze Ludicolo and Tentacruel can potentially stall it out with Toxic + Protect.</p>
+
+<p>Despite Ludicolo's blistering Speed in the rain, it falls short of outspeeding base 110+ Choice Scarf users. As such, Choice Scarf Latios is a great check, even being able to switch in once on Ice Beam - from there, it can outspeed and OHKO with Draco Meteor. Choice Scarf Gengar and Starmie don't have the same power, but can potentially take out a weakened Ludicolo. In the same vein, powerful priority users such as Breloom, Dragonite, Mamoswine, and Lucario can also take out a damaged Ludicolo. If Ludicolo decides to go for a positive attacking nature, then even base 100+ Choice Scarf users can deal with it, the most notable being Garchomp and Thundurus-T.</p>

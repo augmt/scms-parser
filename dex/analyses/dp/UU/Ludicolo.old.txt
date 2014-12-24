@@ -1,0 +1,85 @@
+[Overview]
+<p>Ludicolo is one of the most essential Rain Dance sweepers because of his Grass typing, which allows him to strike down the annoying Water-type Pokemon who cause havoc for Rain Dance teams. In the rain, he outruns the majority of UU Pokemon and has enough power to slay them with Energy Ball, Surf, and Ice Beam. Ludicolo also has impressive special bulk, enabling him to stay in and set up against a wide range of foes. Lastly, Ludicolo has access to Swords Dance and an adequate physical movepool, which allows him to foil foes who think he's running a special moveset.</p>
+
+<p>However, Ludicolo has a couple of problems. His base 90 Special Attack is not especially impressive, even when using Surf in the rain. Ludicolo can also be picked off easily by a number a priority moves, such as Extreme Speed, Fake Out, Quick Attack, and Mach Punch. Even then, Ludicolo stands out as a useful Rain Dance abuser who helps keep the offensive momentum going.</p>
+
+[SET]
+name: Special Attacker
+move 1: Surf / Hydro Pump
+move 2: Energy Ball
+move 3: Ice Beam
+move 4: Rain Dance / Hidden Power Psychic / Focus Punch
+item: Life Orb
+ability: Swift Swim
+nature: Modest
+evs: 32 HP / 252 SpA / 224 Spe
+
+[SET COMMENTS]
+
+<p>This set aims to sweep through teams once Rain Dance is present. As Ludicolo is usually paired with other Rain Dance sweepers, his main role is to remove Water-type Pokemon who may annoy them.</p>
+
+<p>In the rain, Surf will be the main source of damage. If Ludicolo needs more power, then Hydro Pump is a great alternative. Energy Ball allows Ludicolo to strike down Water-type Pokemon who resist Ludicolo's Water attacks. Ice Beam hits Grass-type Pokemon and Altaria for super effective damage. Surf, Energy Ball, and Ice Beam grant Ludicolo great coverage, leaving the fourth slot open for a support move. Rain Dance lets Ludicolo set up rain to maintain offensive momentum. Hidden Power Psychic OHKOes Toxicroak, while Focus Punch can be used to hit Clefable and Chansey while they recover.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>To figure out if you need to use Surf or Hydro Pump on Ludicolo, here are some damage calculations:</p>
+
+<ul class="damage_calculation">
+<li>Surf vs. 236 HP / 156 SpD Careful Registeel: 40.7% - 48.1% </li>
+<li>Hydro Pump vs. 236 HP / 156 SpD Careful Registeel: 51.1% - 60.2% </li>
+<li>Surf vs. 80 HP / 0 SpD Impish Hariyama: 86.9% - 100% </li>
+<li>Hydro Pump vs. 80 HP / 0 SpD Impish Hariyama: 100% </li>
+<li>Surf vs. 52 HP / 0 SpD Jolly Mesprit: 78.7% - 93% </li>
+<li>Hydro Pump vs. 52 HP / 0 SpD Jolly Mesprit: 99.4% - 100% </li>
+<li>Surf vs. 252 HP / 0 SpD Bold Uxie: 39% - 46% </li>
+<li>Hydro Pump vs. 252 HP / 0 SpD Bold Uxie: 49.2% - 57.9% </li>
+</ul>
+
+<p>As seen in the calculations, there are several cases where Hydro Pump's increased Base Power changes 2HKOes into OHKOes. If you're not worried about such Pokemon or have Stealth Rock on your team, then you should use Surf.</p>
+
+<p>When using Focus Punch, you should change the nature to Mild and move the HP EVs to Attack. Grass Knot is also an option over Energy Ball for increased damage on Milotic, but Energy Ball is sufficient enough to 2HKO Milotic EVed in Defense. Energy Ball also deals more damage to Lanturn and Azumarill, with a high chance of OHKOing the latter with Stealth Rock damage.</p>
+
+<p>The EV spread provides Ludicolo with maximum power and enough Speed to outrun most of the UU metagame. 224 Speed EVs put Ludicolo at 464 Speed in the rain, allowing him to outrun Timid Choice Scarf Rotom by two points. The remaining Speed EVs are placed into HP for additional bulk. You can also move the HP EVs into Speed if you want to at worst Speed tie with other Ludicolo.</p>
+
+<p>It should also be noted that Ludicolo can perform on a standard team despite the lack of Rain Dance abusers present on his side. This may seem odd, but using Rain Dance is essentially using Agility, but with the added bonus of increasing the power of Surf.</p>
+
+<p>Pokemon who can survive an attack from Ludicolo and paralyze him, such as Registeel, Clefable, and Lanturn, are a general annoyance. Although Registeel and Lanturn may die the next turn after they use Thunder Wave, Ludicolo will be helpless when the next Pokemon appears. Also, Clefable can stall the rain turns out by using Soft-Boiled repeatedly, waiting for Ludicolo to be fully paralyzed. Rain Dance Lanturn can help against Registeel, absorbing the Thunder Wave and striking back with boosted Surfs or Hydro Pumps. Lum Berry Toxicroak can switch in on Clefable and threaten with Cross Chop. Against Lanturn, Quagsire could be used to absorb Electric-type moves and attack with Earthquake. Dugtrio can be used to trap and eliminate Lanturn, Registeel, and Clefable. Using a Registeel yourself would also be useful since it can Explode on Clefable or Lanturn.</p>
+
+<p>Chansey is a big problem for this Ludicolo since she is only 5HKOed (with Leftovers factored in) by Hydro Pump, while she can cripple Ludicolo with either Thunder Wave or Toxic. Again, Lum Berry Toxicroak can be helpful against Chansey by absorbing a Thunder Wave or Toxic and striking back with Cross Chop. Dugtrio can also switch in on a Thunder Wave and strike Chansey down with two Earthquakes.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Waterfall
+move 3: Seed Bomb
+move 4: Ice Punch / Zen Headbutt
+item: Life Orb
+ability: Swift Swim
+nature: Adamant
+evs: 32 HP / 252 Atk / 224 Spe
+
+[SET COMMENTS]
+
+<p>While Ludicolo is generally seen as a special sweeper, this set can surprise opponents who switch in their special walls on Ludicolo. With a Swords Dance set up, Ludicolo reaches 524 Attack, which is deadly factoring in rain, which improves Waterfall's damage and Ludicolo's Speed, Life Orb, and great coverage.</p>
+
+<p>Swords Dance is the purpose of this set, allowing Ludicolo to boost his pitiful Attack stat to greater levels. Waterfall gives Ludicolo a strong STAB attack in the rain while also having a 20% chance to flinch lethal targets. Seed Bomb uses Ludicolo's secondary STAB to strike down Water-type Pokemon. Ice Punch rounds the set off by hitting Grass-type Pokemon and Altaria. In the last slot, Ice Punch is generally the preferred option for striking down Grass-types and Altaria, but Zen Headbutt can be used for eliminating Toxicroak while still hitting Venusaur.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Adamant and max Attack is needed to give Ludicolo's base 70 Attack as much power as possible. The Speed EVs, like those on the special set, are geared to outrunning Timid Choice Scarf Rotom. Lastly, the remaining EVs are dumped into HP for additional bulk.</p>
+
+<p>Ludicolo appreciates other Rain Dance sweepers who can wear down the opposing team so Ludicolo can finish off the rest. Kabutops and Qwilfish can pair up with Ludicolo as additional Swords Dance sweepers to further break down the opponent's team. Omastar and Gorebyss can aid Ludicolo by attacking on the special side. Pokemon who can set up Rain Dance are beneficial to Ludicolo's ability to sweep. Uxie, Rotom, and Lanturn can all back up Ludicolo well, with Rotom and Lanturn covering Ludicolo's Flying weakness. Rotom also covers Ludicolo's Bug weakness as a bonus.</p>
+
+[Other Options]
+<p>There aren't many other moves to use other than the ones already mentioned. Synthesis has potential outside of Rain Dance for restoring Life Orb recoil or just healing HP in general. Fake Out could potentially be useful on a Ludicolo who switches out frequently for chip damage, but it won't deal much damage. Icy Wind has its use for lowering the foe's Speed, but Ludicolo will likely already have his Speed boosted via rain. Return on the Swords Dance sweeper could work for overall neutral coverage, but the lack of super effective moves will hinder Ludicolo against specific foes.</p>
+
+<p>A Substitute + Leech Seed combination looks fine at first sight, but it is actually mediocre. Ludicolo will become walled by Grass-types (excluding standard Leafeon or Tangrowth) because his Ice Beam will be weakened as a result of pumping EVs into HP and Special Defense and running a defensive nature. It also doesn't help that Ludicolo takes neutral damage from Grass-type moves.</p>
+
+[Checks and Counters]
+<p>Chansey can switch into a Life Orb rain-boosted Surf without taking too much damage from Ludicolo and Thunder Wave or Toxic him. Then, Chansey can stall out the rain with repeated Soft-Boileds or wear Ludicolo down with Seismic Toss. Clefable can do the same, but she must be wary of switching into Surf or Hydro Pump as it will 2HKO her. Both of these Pokemon must beware of the Swords Dance  set, however. Toxicroak is a viable counter to any set without a Psychic-type attack due to his Dry Skin ability and resistance to Grass-type attacks.</p>
+
+<p>Against the Swords Dance set, physically defensive Tangrowth and Leafeon can survive an Ice Punch and threaten back with Sleep Powder or Leaf Blade. Any Hitmontop can threaten physical Ludicolo with either impressive physical bulk and Intimidate or Technician plus Fake Out and Mach Punch. Uxie can usually survive an assault and paralyze Ludicolo with Thunder Wave, but it will end up crippled.</p>
+
+<p>Switching to Pokemon on a predicted attack to outstall the rain is usually the best idea. For example, you can switch in Milotic on a Surf or Ice Beam and then switch to Registeel to take the incoming Energy Ball, and repeat. Doing this also lets Ludicolo take in more Life Orb recoil so you can finally pick it off with a priority move such as Arcanine's Extreme Speed, Hitmontop's Mach Punch, or Scyther's Quick Attack. Pokemon already under a Substitute or with Protect are also great at stalling out Ludicolo's rain.</p>
+
+<p>If all else fails, the best strategy is to let your least important Pokemon faint and then switch in the Pokemon who takes the least amount of damage from all of Ludicolo's attacks.</p>

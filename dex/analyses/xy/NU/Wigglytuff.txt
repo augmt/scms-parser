@@ -1,0 +1,13 @@
+Defensive
+########
+name: Defensive
+move 1: Wish
+move 2: Protect
+move 3: Hyper Voice
+move 4: Dazzling Gleam
+item: Leftovers
+ability: Competitive
+evs: 252 Def / 4 SpA / 252 SpD
+nature: Bold
+
+This is a sample set while we are currently working on analyses in the workshop.

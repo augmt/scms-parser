@@ -1,0 +1,66 @@
+[Overview]
+
+<p>Despite UU being a tier filled with Fighting-types, Cobalion has no trouble distinguishing itself from the rest with its unique typing, which grants it a good number of resistances--including a 4x resistance to Stealth Rock and immunity to poison--on top of its excellent physical bulk, good speed, and access to Swords Dance, Calm Mind, and Stealth Rock. On the other hand, it has problems taking special attacks due to its bad Special Defense. Its Steel typing has notable drawbacks in a metagame full of Fighting-type moves, and its offenses can be somewhat lacking. Nonetheless, Cobalion remains a potent threat.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Close Combat
+move 3: Stone Edge
+move 4: Hidden Power Ice / X-Scissor
+item: Life Orb / Lum Berry
+nature: Naive / Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>This is Cobalion's main offensive set. After setting up a Swords Dance on physical attackers like Snorlax or defensive Pokemon like Registeel, Porygon2, and Roserade, it reaches 558 Attack and can attempt a sweep. Close Combat is a reliable STAB move, doing good damage to anything that doesn't resist it, while Stone Edge is essential for hitting Zapdos and Chandelure super effectively. Hidden Power Ice allows Cobalion to get past Gligar, who would otherwise wall it. X-Scissor hits Slowbro super effectively, but can only 2HKO it with a Life Orb, giving it a turn to cripple Cobalion with Thunder Wave.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given EVs maximize Cobalion's Attack and Speed, both of which are essential when trying to sweep. Life Orb provides much needed power, while Lum Berry is very useful to absorb a paralysis or burn once, which can be used to give Coballion a free turn of set-up. Iron Head can be used as a secondary STAB, but is generally less useful than Hidden Power Ice and X-Scissor. Taunt and Substitute are also good options to avoid status moves. Taunt prevents the opponent from setting up while Substitute allows Cobalion to beat Hitmontop. If using Hidden Power Ice, a Naive nature is preferred; otherwise use Jolly. This set's best counters are Slowbro and Gligar, depending on the choice of move, meaning Grass-types, such as Shaymin, who can switch into and threaten the two pair well with it. Zapdos and Crobat are also good choices as they can take care of Gligar as well as Heracross, who could also pose a threat to Cobalion.</p>
+
+[SET]
+name: Calm Mind
+move 1: Calm Mind
+move 2: Focus Blast
+move 3: Hidden Power Ghost / Hidden Power Ice
+move 4: Flash Cannon / Substitute
+item: Leftovers
+nature: Timid
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>Due to Cobalion normally using physical moves, this set can surprise the opponent with boosted special attacks. Calm Mind is essential for increasing both Cobalion's special attack and defense, patching up its weakness to special moves. Focus Blast is used as the main STAB due to a lack of more reliable alternatives. Hidden Power Ghost hits Slowbro as well as Ghost-types super effectively, while Hidden Power Ice is useful for dealing with Gligar and Zapdos. Flash Cannon is the secondary STAB, but its coverage is mostly redundant with Hidden Power Ice, making it more useful in combination with Hidden Power Ghost. Substitute is used to avoid status moves and sponge weaker special attacks after a boost without fading.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread focuses on having as much Speed and Special Attack as possible, but an alternative spread of 68 HP / 140 SpA / 68 SpD / 232 Spe can be used to guarantee that Slowbro cannot break a Substitute with either Scald or Psyshock after a boost. Taunt is an option over Substitute to avoid status moves without losing health and prevent the opponent from setting up. This set loses to either Chandelure or Zapdos depending on its Hidden Power, so Snorlax makes an excellent partner. Gligar, Crobat, and to a lesser extent Zapdos also work well with Coballion, taking on Heracross, Earthquake from Flygon and Krookodile, and High Jump Kicks from Choice Scarf Mienshao.</p>
+
+
+[SET]
+name: Utility
+move 1: Stealth Rock
+move 2: Sacred Sword / Close Combat
+move 3: Volt Switch
+move 4: Toxic / Hidden Power Ice
+item: Leftovers
+nature: Jolly / Naive
+evs: 248 HP / 28 Atk / 232 Spe
+
+[SET COMMENTS]
+
+<p>This set takes a more defensive approach, supporting its team with Stealth Rock, serving as a pivot for physical attacks and crippling its usual switch-ins with status. Sacred Sword serves as the reliable STAB; Close Combat is a stronger alternative but comes at the cost of defense drops and a worse match-up against Curse Snorlax. Volt Switch preserves momentum against any switch-ins that aren't immune to it. Toxic can cripple defensive switch-ins like Slowbro and Sableye, while Hidden Power Ice scores a 2HKO on Gligar.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs focus on survivability while still making use of Cobalion's good speed; 248 HP hits a Leftovers number and 232 Speed allows it to outspeed everything up to Mienshao. Protect and Taunt are also useful options; the former can scout an upcoming move from Choice-wielding opponents so you can react accordingly; while the latter prevents the opponent from setting up hazards or stat-boosting moves. This set pairs well with Pokemon that benefit from Cobalion's counters being crippled such as Mienshao and Darmanitan. Further, it has problems with opposing Fighting-types, so packing a resist like Slowbro, Crobat, or Gligar is recommended. It also doesn't take special hits well, so walls like Snorlax and Porygon2 make good partners.</p>
+
+[Other Options]
+
+<p>Cobalion has a variety of options not covered in the sets. For example, it can opt for a Choice set instead of relying on set-up moves for power; Choice Specs offers a stronger Volt Switch and Hidden Power Ice while Choice Band doesn't have to rely on Focus Blast's shaky accuracy. Work Up is usable on a mixed attacking set, but is generally not recommended due to Cobalion's lacking offenses. Aerial Ace can be used to deal with Heracross who don't carry a Choice Scarf, and Quick Attack finishes weakened opponents, but is very weak and will rarely be strong enough to KO anything.</p>
+
+[Checks and Counters]
+
+<p>Slowbro is easily Cobalion's best counter; the Swords Dance set's best option against it is a boosted X-Scissor--which will still barely 2HKO. Gligar beats physical sets without Hidden Power Ice, but Iron Head variants can get past it with flinches. Nidoking and Heracross can take almost all hits from Cobalion and OHKO back. Iron Head can help, but Choice Scarf versions leave Cobalion no chance. Choice Scarf users in general almost always have STAB attacks that hit Cobalion super-effectively; Chandelure, Darmanitan, and Mienshao easily OHKO while Flygon and Krookodile come close. Hitmontop has Intimidate and takes physical hits well, meaning it beats physical sets without Substitute easily. Suicune and Blastoise can take boosted Close Combats and either hit back to weaken Cobalion or simply phaze it with Roar. The last mention goes to special Sharpedo, who can use Protect to get a Speed boost and then has a good chance to OHKO with Hydro Pump.</p>

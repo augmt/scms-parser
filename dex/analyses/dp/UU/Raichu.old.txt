@@ -1,0 +1,62 @@
+[Overview]
+
+<p>Raichu's respectable Speed, decent offensive stats, and good movepool make him a dangerous sweeper. Access to both Encore and Nasty Plot differentiates Raichu from other specially oriented sweepers such as Nasty Plot Mismagius and Nasty Plot Toxicroak. Unfortunately, his frailty and lack of useful resistances mean that it is relatively hard to switch Raichu into battle. With that said, if a quick Encore user who also poses as a powerful offensive threat is needed, then Raichu is a great choice.</p>
+
+[SET]
+name: Nasty Plot
+move 1: Nasty Plot
+move 2: Thunderbolt
+move 3: Hidden Power Ice
+move 4: Encore / Focus Blast
+item: Life Orb
+nature: Timid
+evs: 252 SpA / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>Nasty Plot boosts Raichu's modest Special Attack to incredible levels, giving him an opportunity to sweep. Thunderbolt is Raichu's STAB move of choice and OHKOes Milotic and Slowking after a Nasty Plot boost. Hidden Power Ice provides pseudo-BoltBeam coverage and allows Raichu to hit Ground- and Grass-types for super effective damage. Encore gives Raichu a much better chance to set up a Nasty Plot, but Focus Blast may be used to get past certain defensive Pokemon, including Registeel, Clefable, and Steelix.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>While Thunderbolt and Hidden Power Ice provide nearly perfect neutral coverage (only resisted by Lanturn and Shedinja in UU), sometimes that isn't enough for a sweep. Focus Blast can help Raichu break through teams since it scores super effective hits on a number of key targets, as shown in the following damage calculations:</p>
+
+<ul class=+2 LO Focus Blast Damage Calculations >
+<li>vs 252/156+ Registeel: 83.5% - 98.4%</li>
+<li>vs 252/252+ Clefable: 103.6% - 121.8%</li>
+<li>vs 0/252+ Chansey: 57.4% - 67.7%</li>
+<li>vs 252/252+ Steelix: 140.7% - 165.5%</li>
+</ul>
+
+<p>Although Nasty Plot Raichu is incredibly powerful, he still has trouble with some Pokemon depending on which moves he carries. Chansey is a good counter to Raichu, as she can cripple Raichu with Thunder Wave or Toxic; however, if Raichu carries Focus Blast, he can 2HKO Chansey. Raichu also has difficulty getting past Registeel without Focus Blast. Dugtrio is capable of trapping and removing the aforementioned threats with ease, giving non-Focus Blast Raichu an easier time sweeping. Dugtrio is also an excellent check to Raichu, as he can switch into 3 out of 4 of Raichu's moves with ease and OHKO with Earthquake. Houndoom with Sucker Punch can lure and KO Dugtrio, as can Pokemon who utilize Substitute and are weak to Ground-type attacks. Good Dugtrio users might not fall into these traps, however, so any player using Raichu should be wary of signs that the opponent might have Dugtrio, such as the presence of Scyther or Swellow.</p>
+
+<p>Raichu will be hard-pressed to switch into any attack with his sub-par defenses. For example, bulky Water-types will 2HKO Raichu with Surf. Instead, switching into predicted non-damaging moves and using Encore is more reliable. For example, Donphan using Stealth Rock, Toxicroak using Swords Dance or Sucker Punch, and even Chansey using Wish are all opportunities Raichu can use to set up a Nasty Plot. After Raichu has Encored his foe into uselessly repeating a move, he can set up a Nasty Plot on the switch or simply attack with Thunderbolt or Hidden Power Ice to scout.</p>
+
+[SET]
+name: SubPunch
+move 1: Substitute 
+move 2: Focus Punch 
+move 3: Encore / Grass Knot
+move 4: Volt Tackle
+item: Leftovers
+nature: Jolly 
+evs: 252 Atk /4 SpD /252 Spe
+
+[SET COMMENTS] 
+
+<p>Unlike the Nasty Plot set, this Raichu variant attempts to break walls and act as a general annoyer to your opponent's team. The goal of this set is to set up a Substitute on a forced switch, via Encore, and wear down the opponent's team with a combination of Focus Punch and Volt Tackle. Substitute offers Raichu immediate protection and immunity to status, and is necessary to safely pull off a Focus Punch. Focus Punch allows Raichu to smash through many common walls, while also hitting all of the Pokemon that counter the previous set hard. This makes Raichu a decent lure for specially defensive Pokemon such as Chansey and Registeel expecting to easily counter Raichu's Nasty Plot set. Encore is highly important for this set to succeed, as it allows Raichu to set up a Substitute on Pokemon who would otherwise threaten him. For example, Raichu can switch into a Registeel or a Donphan using Stealth Rock, Encore them, then set up a Substitute on the switch. Raichu can also use Encore to give his teammates an opportunity to set up. For example, if Raichu is behind a Substitute and the opposing Pokemon attacks with Earthquake, Raichu can use Encore and switch out to a Pokemon with a Ground-type immunity to give that teammate a free turn to attack or set up.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Raichu can use Life Orb over Leftovers to gain more power. With a Life Orb boost, Raichu is guaranteed to 2HKO Registeel with the combination of Focus Punch and Volt Tackle. However, Life Orb comes with deadly recoil, which when combined with the HP lost from Substitute and recoil from Volt Tackle, will quickly wear out Raichu. Grass Knot is an option over Encore if you want to get by common counters to this set. Pokemon such as Donphan and Rhyperior, who are immune to Volt Tackle and take laughable amounts of damage from Focus Punch, are 2HKOed by Grass Knot.</p>
+
+<p>This Raichu set has a hard time getting past Venusaur, who completely walls all of his moves. If Raichu is lacking Grass Knot, Donphan and Rhyperior stop it cold. This makes Moltres an excellent partner to Raichu. Moltres can switch into all three of the aforementioned Pokemon without trouble (assuming Donphan and Rhyperior don't use a Rock-type attack), and threaten them with his STAB and coverage moves. Additionally, Raichu and Moltres share decent synergy with each other. Moltres is capable of switching into Ground-type attacks aimed at Raichu, while Raichu is capable of switching into certain bulky Water-types and weak Electric-type moves.</p>
+
+[Other Options]
+
+<p>Raichu's movepool is surprisingly wide for an Electric-type; despite this, Raichu ultimately falls into the "jack of all trades, master of none" category. For example, a specialized support set with Encore and Wish can be used, but Clefable is usually a better choice for this role due to her superior defensive stats and her ability, Magic Guard. Raichu can use Choice Specs with Thunderbolt / Hidden Power Ice / Grass Knot / Focus Blast for outstanding coverage and power, but this set is usually outclassed by Manectric, who boasts similar coverage, access to Switcheroo, and more power and much more Speed. An Agility + 3 Attacks set can be used, but Raichu is too weak to actually sweep after an Agility boost. Raichu has access to Teeter Dance, which in conjunction with Thunder Wave allows Raichu to abuse the ParaFusion strategy. However, Raichu is usually outperformed by Lanturn, who boasts significantly more bulk and a better defensive typing. Raichu also has access to moves such as Charm, Tickle, Surf, Magnet Rise, and Yawn, each of which have a use in certain situations but are better off left unused since they are typically unreliable.</p>
+
+[Checks and Counters]
+
+<p>Chansey is as an excellent counter to Nasty Plot Raichu due to her phenomenal HP and high Special Defense stats. Chansey can cripple Raichu with Thunder Wave or Toxic, or simply wear him down with Seismic Toss. She needs to be wary of a Nasty Plot-boosted Focus Blast, however, which will 2HKO. Lanturn and Quagsire are both immune to Thunderbolt, and can easily survive most of Raichu's attacks and cripple him with Thunder Wave and Earthquake, respectively. Quagsire who lack Special Defense investment should be wary of a Nasty Plot-boosted Focus Blast, however, as it can potentially OHKO him. Registeel and Steelix are excellent counters to Nasty Plot Raichu without Focus Blast.</p>
+
+<p>The Substitute + Focus Punch sets are easily countered by Venusaur, who completely walls Raichu. Steelix is an excellent counter to SubPunch sets. His ridiculously high Defense stat allows him to sponge Focus Punch. Donphan and Rhyperior are also immune to Volt Tackle, take very low damage from Focus Punch, but should be aware of Grass Knot, which can deal heavy damage. Priority moves from Pokemon such as Hitmontop and Arcanine can take out Raichu easily due to his frailty. Finally, Dugtrio is a top-notch check to Raichu, since he is able to trap and OHKO Raichu with Arena Trap and Earthquake.</p>

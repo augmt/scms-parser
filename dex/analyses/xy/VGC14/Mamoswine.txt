@@ -1,0 +1,58 @@
+Overview
+########
+
+Although Mamoswine lost a small niche in this year's VGC format without genies to KO, there are still many reasons to use this friendly mammoth. First and foremost, it is still the epitome of an anti-metagame Pokemon. Mamoswine has a superb base 130 Attack stat and an excellent offensive typing, with Ice-type STAB moves such as Icicle Crash being capable of OHKOing Amoonguss and Ice Shard being capable of OHKOing uninvested Garchomp and Salamence without Intimidate. In addition, it has an incredibly strong Earthquake that rips through Steel-types such as Aegislash and Mega Mawile, as well as Tyranitar. Mamoswine also has a nifty Electric immunity, and its ability, Thick Fat, gives it extra bulk to survive Fire-type attacks not boosted by STAB, such as Mega Manectric's Overheat. However, Mamoswine is still fairly slow at base 80 Speed, and with a low Special Defense, it is easily KOed by both Mega Charizard Y and Rotom-W, two very common Pokemon in the metagame. Finally, it is vulnerable to priority moves such as Conkledurr's Mach Punch, Scizor's Bullet Punch, and to a lesser extent, Talonflame's Brave Bird.
+
+Physical Attacker
+########
+name: Physical Attacker
+move 1: Ice Shard
+move 2: Earthquake
+move 3: Icicle Crash / Icicle Spear
+move 4: Protect
+ability: Thick Fat
+item: Life Orb / Focus Sash
+evs: 196 HP / 252 Atk / 60 Spe
+nature: Adamant
+
+Moves
+========
+
+Ice Shard is Mamoswine's trump card, allowing it to OHKO Garchomp and Salamence before they even have the chance to move. It's also great for picking off weakened foes. Earthquake is a powerful spread move that goes well with Mamoswine's Ice STAB, slamming foes like Mega Mawile and Tyranitar. Icicle Crash is Mamoswine's secondary Ice-type STAB attack; it's great for smashing Amoonguss, hitting Earthquake immunities, and for when Mamoswine's partner can't afford to use Protect or get hit by Earthquake. Icicle Spear is less reliable than Icicle Crash due to its multi-hit nature, but it can break through Focus Sash on Pokemon like Garchomp. Protect is Mamoswine's way of avoiding deadly attacks and Will-O-Wisp.
+
+Set Details
+========
+
+The listed EV spread allows Mamoswine to outspeed 4 Speed Rotom-W, giving it a chance of taking out a weakened one. Mamoswine has plenty of options for items. Life Orb is among the best as it lets Mamoswine snipe more Pokemon with Ice Shard. It also allows Mamoswine to always OHKO Amoonguss with Icicle Crash and OHKO Salamence after Intimidate 81.3% of the time. If you are willing to trade KOs for longevity, go with Focus Sash; it allows Mamoswine to comfortably run more Speed instead of bulk. If you want a compromise between power and longevity, consider Expert Belt or Never-Melt Ice. The KOs aren't as appealing as Life Orb, but the lack of recoil can be a life saver in tight situations.
+
+Usage Tips
+========
+
+Mamoswine's biggest targets are Salamence and Garchomp, and to a lesser extent, Amoonguss. However, it doesn't have to charge on with the Ice attacks right away. You can use the offensive pressure Mamoswine provides to predict a Protect or switch to your benefit. For example, it can attack the other target instead of Garchomp or Salamence, or have its other teammate hit a predicted switch-in. While Mamoswine can be a good lead to pressure Salamence and Garchomp, consider saving it for later in the match. Mamoswine can be at its deadliest when your opponent's team is worn down and ready to be sniped by Ice Shard and counters such as Rotom-W have fainted. Using Mamoswine later in the match also makes it less likely to be crippled by Intimidate.
+
+Team Options
+========
+
+Rotom-W is Mamoswine's arch nemesis, so make sure your team can handle it. A good approach is to carry some Grass-types. Good examples include Lum Berry Ferrothorn, Venusaur, and Ludicolo. Mega Charizard Y can also be an issue with its powerful Solarbeam; fast Rock Slide users such as Garchomp are generally good answers to this. Mamoswine can be extra deadly when the team is worn down, so Fake Out users like Mega Kangaskhan and Scrafty, as well as residual damage from Tyranitar's Sand Stream, can do a good job of getting Pokemon in the KO range of Ice Shard. Assault Vest Ludicolo gets special mention for its Earthquake resistance, which can be handy in emergencies when Mamoswine has to use Earthquake. Always consider a Ground-immune Pokemon that can provide additional support to pair with Mamoswine, which can then use its deadly Earthquake more easily. Rotom-W can provide attack control with Will-O-Wisp and Light Screen and beat Gyarados; (semi-colon) Talonflame can provide Tailwind support and defeat Ludicolo; Salamence can soften physical attacks with Intimidate; and Mega Charizard Y can severely damage Rotom-W and Ludicolo, as well as other Mega Charizard Y if it's carrying Ancient Power.
+
+Other Options
+########
+
+A Choice Scarf set can be run with Icicle Spearto outspeed and destroy Focus Sash Garchomp. If you're willing to sacrifice more bulk and a moveslot, Mamoswine can run Freeze Dry with a Naive nature to OHKO Gyarados and 3HKO Rotom-W. Oddly enough, Mamoswine gets access to Reflect and Light Screen; it's hard to fit them in, but they can be a surprise for your opponent. Toxic is a decent way to cripple Rotom-W switch-ins. Rock Slide can be used as a way to hit Rotom-H and Mega Charizard Y, but sadly, Mamoswine is outsped by both threats, and Rotom-H might just cripple it with Will-O-Wisp. Lum Berry isn't as useful as it is on most physical attackers since Rotom-W will usually go for a Hydro Pump. However, Mamoswine can use a Lum Berry with Icicle Spear to avoid Smeargle's Dark Void and have a shot at OHKOing Smeargle through its Focus Sash.
+
+Checks & Counters
+########
+
+**Rotom-W**: Rotom-W is Mamoswine's biggest counter. It's immune to Earthquake, resists Icicle Crash, and can OHKO with Hydro Pump.
+
+**Rotom-H**: Similarly to Rotom-W, Rotom-H resists Mamoswine's STAB moves and canburn Mamoswine with Will-O-Wisp.
+
+**Intimidate**: Intimidate in general severely hampers Mamoswine's effectiveness; for example, Intimidate from Salamence gives it the opportunity to live an Ice Shard from Adamant Life Orb Mamoswine. Gyarados takes neutral damage from Icicle Crash and can smash Mamoswine with Waterfall. Scrafty's Intimidate and STAB Drain Punch can be very troublesome for Mamoswine.
+
+**Mega Charizard Y**: Mega Charizard Y can outspeed Mamoswine and OHKO it with a STAB, sun-boosted Overheat.
+
+**Ludicolo**: Unlike other Grass-types, Ludicolo isn't weak to Ice Shard, and it can outspeed and OHKO Mamoswine in the rain. In a similar manner, Kingdra can usually outspeed and slam Mamoswine with Hydro Pump.
+
+**Priority Attacks**: Conkledurr and Scizor can hit Mamoswine hard with their STAB, super effective priority moves before it can Earthquake.
+
+**Trick Room**: Although Mamoswine isn't fast, it can have problems with Trick Room teams, as Mega Mawile, a common Trick Room threat, will easily OHKO it with Iron Head.

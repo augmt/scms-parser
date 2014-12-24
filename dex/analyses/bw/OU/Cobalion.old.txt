@@ -1,0 +1,82 @@
+[Overview]
+
+<p>When talking about the Musketeers, everyone raves over Terrakion and Keldeo, due to their very potent offensive options. Cobalion, which looks at least as badass as Terrakion, sadly cannot even come close to them when it comes to raw power. However, it has its very own merits, which make it worth using in OU. In addition to Cobalion's great defensive typing, its outstanding base 129 Defense and solid base 91 HP and 108 Speed certainly help Cobalion in finding itself a role as a defensive pivot for almost any team. Access to a variety of supportive moves--such as Thunder Wave, Stealth Rock, and Volt Switch--are extremely uncommon for a Fighting-type Pokemon, and it gives Cobalion a notable niche in OU. In fact, it is the only Musketeer that can join in in the ever-so-common VoltTurn mindgames.</p>
+
+<p>The only other Pokemon that shares its Steel / Fighting typing is Lucario; however, these two play entirely different to each other. Lucario has clearly better offensive stats, compared to Cobalion's still useable base 90 Attack and Special Attack, but doesn't even come close to Cobalion's Speed and Defense. Nonetheless, even though Cobalion's physical Defense is impressive, its Special Defense is simply underwhelming and thus its only real downpoint. Being unable to deal with any special Fire-type move, Focus Blast, and even Earth Power, is what gives Cobalion the most trouble. But such things can be easily fixed by the team it will be on.</p> 
+
+[SET]
+name: Mixed Attacker
+move 1: Close Combat
+move 2: Hidden Power Ice
+move 3: Volt Switch
+move 4: Stealth Rock / Taunt
+item: Expert Belt
+nature: Naive
+evs: 28 Atk / 228 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>Cobalion has great typing and an excellent Speed stat, and this set takes advantage of these traits. Close Combat is a strong STAB move that OHKOes offensive threats such as Heatran and Hydreigon, as well as Blissey, after Stealth Rock. Hidden Power Ice is what allows Cobalion to be such a superb offensive check to physical Dragon-types such as Dragonite and Salamence; Cobalion can OHKO them (the first after Stealth Rock) while easily tanking Outrage, even if they have boosted two or three times. It also OHKOes any Gliscor and Landorus-T expecting a physical set, making Cobalion a good lure for these two. Volt Switch is a perfect scouting tool for offensive teams that lets Cobalion damage common checks such as Gengar and Latios, while gaining switch advantage; it also OHKOes Gyarados after Stealth Rock and deals upwards of 50% to standard Skarmory and Starmie. Stealth Rock is an excellent move for offensive teams, and Cobalion finds plenty of opportunities to set it up, but Taunt prevents Pokemon such as Skarmory, Forretress, and Ferrothorn from setting up.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Maximum Speed with a Naive nature is used to Speed tie with base 108 Speed Pokemon. The following damage calculations highlight the effectiveness of the offensive EVs:</p>
+
+<ul class="damage_calculation">
+<li>Hidden Power Ice vs. 252/0 Gliscor 100.28 - 119.2%</li>
+<li>Hidden Power Ice vs. 200/0 Landorus-T 102.71 - 120.86%</li>
+<li>Hidden Power Ice vs. 0/4 Dragonite (without Multiscale) 86.06 - 102.47%</li>
+<li>Hidden Power Ice vs. 0/0- Salamence 114.5 - 134.74%</li>
+<li>Hidden Power Ice vs. 4/0 Breloom 80.53 - 95.41%</li>
+<li>Volt Switch vs. 56/0 Gyarados 82.02 - 97.39%</li>
+<li>Volt Switch vs. 252/0 Skarmory 56.88 - 66.76%</li>
+<li>Volt Switch vs. 0/4 Starmie 62.45 - 74.32%</li>
+<li>Close Combat vs. 4/252 Blissey 88.65 - 104.9%</li>
+<li>Close Combat vs. 4/0 Terrakion 100 - 117.9%</li>
+<li>Close Combat vs. 0/0 Heatran 86.99 - 102.47%</li>
+</ul>
+
+<p>Expert Belt is the item of choice because Cobalion relies on super effective coverage to hurt its targets; Expert Belt also preserves Cobalion's fantastic physical bulk and helps take advantage of its resilience to passive damage courtesy of its Steel typing. Stone Edge can be used if you want to OHKO offensive Volcarona and seriously dent bulky ones. Thunder Wave is also a good option, as most of Cobalion's checks and counters, such as Latios, Latias, Gengar, Tornadus, and Volcarona, despise it. X-Scissor allows Cobalion to deal with Celebi and Latios and is its strongest option against Latias and Reuniclus. Finally, Leftovers is an acceptable item choice if you want Cobalion to act more as a tank, although the lack of power is really noticeable; without Expert Belt, Cobalion will also miss out on all the OHKOs mentioned above.</p>
+
+<p>As with most Steel-types, Dragon-types are very nice partners, as they have great synergy; in particular, Dragonite, Salamence, Latios, and Latias resist or are immune to every weakness of Cobalion, while Cobalion covers every single one of their weaknesses. Rotom-W is another good partner, as it resists Fire and is immune to Ground and also checks many threats that outspeed and KO Cobalion, such as Starmie and Tornadus. It also has Volt Switch, enabling the two to shuffle the opponent's team, force out each others counters, and rack up hazards damage. Anything that is remotely bulky and not weak to Cobalion's moves easily walls it, unfortunately. For this reason, Latios, Latias, Celebi, Volcarona, Reuniclus, Gastrodon, specially defensive Jirachi, Tentacruel, and specially defensive Hippowdon are all good counters provided Cobalion doesn't carry a move they are afraid of, such as Stone Edge or X-Scissor. Gengar, Alakazam, Tornadus, Starmie, Jolteon, and any special attacker faster than Cobalion that can take some of its attacks and OHKO back is a good check.</p>
+
+[SET]
+name: Defensive
+move 1: Thunder Wave
+move 2: Stealth Rock / Taunt
+move 3: Close Combat / Volt Switch
+move 4: Hidden Power Ice
+item: Leftovers
+nature: Bold / Impish
+evs: 252 HP / 208 Def / 48 Spe
+ivs: 30 Spe
+
+[SET COMMENTS]
+
+<p>Cobalion's great physical Defense is what makes it worthwhile; with this set, it has all the toys it needs to do its best in that role. Tanking physical hits with almost no effort is just great, so Cobalion can spread Thunder Wave across the opponent's team very easily, opening up ways for its sweeper teammates to rip through the opponent's team. Stealth Rock is almost indispensable on any successful team, so Cobalion should carry it. If something else runs Stealth Rock on your team already, Taunt can replace it, giving Cobalion an option to stop the opponent from any form of setup and healing; thanks to its naturally high base Speed, it can stop a good number of threats from doing so, even with so little EV investment.</p>
+
+<p>Close Combat is Cobalion's most powerful STAB move. Even when running a Bold nature, it is the more preferable option over Focus Blast, because Focus Blast's accuracy is just too shaky for Cobalion to use. Defensive Pokemon can all use the momentum advantage gained by Volt Switch extremely well; Cobalion follows suit on this rule. Volt Switch also grants BoltBeam coverage along with Hidden Power Ice, which is an irreplaceable move for Cobalion, denting most Ground-types that switch into it, such as Dugtrio or Gliscor, and most importantly, it's a clean 2HKO on 252 / 0 Gliscor. It also catches the common Dragon-types that are running rampant in OU--mostly Dragonite and Salamence--thanks to its amazing ability to take almost no damage from unboosted Outrage.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>With the given Speed EVs, Cobalion outspeeds positive natured base 70 Speed Pokemon, including Politoed and Breloom; the rest of the EVs are put into HP and Defense to maximize its bulk. Cobalion is able to take even super effective hits--for example, even Choice Band Mamoswine has just a small chance to KO Cobalion at full health. Choice Band Jolly Breloom Low Sweep fails to OHKO (71.5 - 84.72%), and same goes for Jolly Life Orb Terrakion's Close Combat (82.38 - 96.37%). Cobalion can paralyze both with Thunder Wave to essentially remove them as potential threats. However, Choice Band Terrakion has a vital chance to OHKO Cobalion, so it's advised to not stay in on it. When running Volt Switch, Cobalion gains immediate momentum for the team, either switching into an appropriate teammate or checking the upcoming switch-in.</p>
+
+<p>Even though Cobalion's Special Defense isn't nearly as amazing as its Defense, it can take weaker super effective and neutral hits rather well, even when factoring in potential Stealth Rock damage. Outside of rain, Life Orb Starmie and Rotom-W can't KO with Hydro Pump. Politoed needs Choice Specs to safely OHKO with Hydro Pump in the rain and uninvested Life Orb Salamence fails to KO with Fire Blast. In return, however, Cobalion can't hurt any of them particularly hard. Salamence is an exception, as it is OHKOed by a Bold Hidden Power Ice after Stealth Rock damage. In fact, Cobalion doesn't do much damage to anything that is not named Lucario or isn't 4x weak to either Close Combat or Hidden Power Ice.</p>
+
+<p>Cobalion has some other move options it can run on this set. Iron Head gets STAB, and can work well with Thunder Wave, possibly creating a ParaFlinch combo to take the opponent down. Toxic might seem weird at first, but Cobalion naturally scares out most Steel-types that don't have a secondary Bug typing or are named Heatran, so it can cripple bulky Water-types to reduce their survivability. Roar can be used over Thunder Wave if your team has problems with Substitute users and setup sweepers, while it also racks up additional entry hazard damage against the opponent.</p>
+
+<p>Bulky Latias is one of Cobalion's best partners to form a defensive core with; not only do they resist each other's weaknesses, but also a total of 16 out of the 17 attacking types in the game--only Flying-type attacks will hit the two neutrally. Wish is pretty much mandatory in order to keep Cobalion healthy. Latias can use it, but Jirachi and Vaporeon also perform well in the role of Wish-passing; however, they can't replace Latias's spot by any means. Cobalion's Thunder Wave supports slower, bulkier Pokemon, such as Dragonite, Tyranitar, Conkeldurr, and Metagross, letting them set up easier, and giving them better chances to attempt a sweep once their checks and counters are crippled. When running a sandstorm team, Gliscor makes an ideal choice for a sweeper, as it can come in on most attacks aimed at Cobalion and takes advantage of paralyzed opponents, making a set with Substitute and Swords Dance even more reliable.</p>
+
+[Other Options]
+
+<p>Cobalion has a nice list of setup moves, such as Swords Dance, Calm Mind, Work Up, and Rock Polish. However, if you're looking for a Steel / Fighting-type setup sweeper, Lucario does it way better thanks to its higher offensive stats and access to Swords Dance, Nasty Plot and priority moves. Rest and Sleep Talk increase Cobalion's survivability and can work along with Calm Mind as a mono-attacker, however, outside of Flash Cannon, it's hard to find a move that might work on such a set.</p>
+
+<p>In terms of offensive moves, Cobalion can use the Musketeers' signature move, Sacred Sword, to bypass Bulk Up users, giving it a chance to beat things such as weakened Conkeldurr, dealing 24.4 - 29.13% when uninvested and 40.94 - 48.29% when running 252 Atk with a Life Orb. It can also use Focus Blast, Metal Burst, Bounce, X-Scissor, Zen Headbutt, Retaliate, and maybe even Poison Jab. Its supportive movepool also includes Reflect, Toxic, and Safeguard. </p>
+
+<p>An offensive EV spread of 120 Atk / 136 SpA / 252 Spe combined with a Hasty or Naive nature can be used along with Close Combat and Hidden Power Ice to severely dent most Pokemon, if not straight up OHKOing them in the case that they are hit for super effective damage. In the last two slots, one can chose between Volt Switch, Thunder Wave, and Taunt, which all have their merits.</p>
+
+[Checks and Counters]
+
+<p>Cobalion can deal with almost any physical threat, but struggles against special attackers. Especially users of Flamethrower, such as Volcarona, Infernape, Salamence, and Hydreigon, as well as Pokemon with access to Focus Blast and Aura Sphere, such as Gengar, Reuniclus, Alakazam, and Lucario as they will deal heavy damage to Cobalion without question. Volcarona, however, can't manage to KO Cobalion with an unboosted Fiery Dance from full health, and bulky sets are being outsped by Cobalion, so at least Cobalion can paralyze it before going down, rendering Quiver Dance almost useless.</p>
+
+<p>Bulky Water-type Pokemon, such as Politoed, Vaporeon, Jellicent, Tentacruel, and even Starmie--due to Natural Cure--don't care much about Thunder Wave, while tanking uninvested Volt Switches. Magic Bounce is a problem, as it stops Cobalion's defensive playstyle. Espeon outspeeds Cobalion, but even Life Orb boosted Hidden Power Fighting is not able to OHKO it. Bulky Ground-types, such as Hippowdon and Donphan, have an easy time against defensive Cobalion, as unboosted Hidden Power Ice is completely unable to 2HKOeither of them. Donphan might be 3HKOed (32.81 - 39.06%), but Hippowdon is out of reach (26.19 - 30.95%) due to its access to Slack Off.</p>

@@ -1,0 +1,44 @@
+[Overview]
+
+<p>With plenty of fish in the sea to choose from, Gorebyss may seem like a strange choice. While it has a great base 114 Special Attack, its other stats are nothing to write home about. What makes Gorebyss interesting is its access to Swift Swim and Shell Smash. These two qualities allow Gorebyss to outspeed many of its opponents and put that one stat it has to good use. With some support, Gorebyss can become a monstrous glass cannon.</p>
+
+[SET]
+name: Shell Smash
+move 1: Muddy Water / Surf
+move 2: Ice Beam
+move 3: Shell Smash
+move 4: Protect / Hidden Power Bug
+item: Life Orb
+nature: Modest
+ability: Swift Swim
+evs: 28 HP / 252 SpA / 228 Spe
+
+[SET COMMENTS]
+
+<p>Shell Smash is the biggest reason to use Gorebyss, doubling its Speed and Special Attack at the expense of its survivability. After one Shell Smash, Gorebyss reaches 202 Speed and 364 Special Attack. Muddy Water makes good use of Shell Smash boosts, hitting both opponents on the field. Surf can be used over Muddy Water so Gorebyss doesn't miss with its main attack, but the heavy damage it will do to Gorebyss's ally makes it somewhat undesirable. Ice Beam allows Gorebyss to take on Grass- and Dragon-types that resist Water. Finally, Protect gives Gorebyss a way to defend itself for a turn if an unfavourable situation arises. If you prefer an offensive move for the fourth moveslot, Hidden Power Bug can be used instead of Protect.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>228 Speed EVs give Gorebyss 101 Speed, allowing it to outspeed positive natured base 130 Speed Pokemon after a Shell Smash. The EVs then maximize Gorebyss's Special Attack, with the remainder added into HP for a bit more survivability. Once set up, Gorebyss will do massive damage to just about everything, even more so if Rain is set up.</p>
+
+<ul class="damage_calculation">
+<li>Multi-target Surf vs. 252/0 Metagross: 91.98-109.1%</li>
+<li>Multi-target Surf vs. 252/0 Hitmontop: 92.36-109.6%</li>
+<li>Multi-target Surf vs. 252/0 Tyranitar w/ Sand: 102.4-121.7%</li>
+<li>Multi-target Surf vs. 4/0 Latios w/ Rain: 69.87-82.69%</li>
+<li>Multi-target Surf vs. 252/252+ Cresselia w/ Rain: 63.44-74.45%</li>
+<li>Hidden Power Bug vs. 252/0 Abomasnow: 120.8-142.1%</li>
+<li>Hidden Power Bug vs. 252/0 Ludicolo: 111.2-131.6%</li>
+</ul>
+
+<p>Gorebyss will need support if it ever expects to pull off a Shell Smash. Pokemon with Follow Me or Rage Powder, such as Togekiss or Amoonguss, are best for the job; though Fake Out users can work too. After it has set up, Pokemon that can handle opposing Water-types, such as Ludicolo or Zapdos can also be helpful. Using Shell Smash right from the start isn't always the best option; if Gorebyss is partnered with Politoed, it can become an immediate threat, as the rain boosts its Speed and Water-type attacks.</p>
+
+[Other Options]
+
+<p>Hydro Pump gives Gorebyss a devastatingly powerful attack. A +2 Hydro Pump in the rain easily OHKOes 4 HP Latios and Cresselia. However, Hydro Pump's accuracy is somewhat unreliable, making it a less atractive option. Baton Pass passes off the Shell Smash boosts to another Pokemon, but makes setting everything up quite lengthy. Psychic deals with Toxicroak, while Hidden Power Electric or Grass tears through opposing Water Types. A Focus Sash can be used over Life Orb, trading the extra offense for a guarantee to survive any one attack, but Gorebyss will lose out on a lot of OHKOesl. Alternatively, a White Herb can be used to counter the defensive stat drops, but once again, Gorebyss will lose out on a number of its OHKOs.</p>
+
+[Checks and Counters]
+
+<p>Finding a way to keep Gorebyss out of the rain, or from using Shell Smash, will keep the damage it can deal to a minimum. However, with Pokemon that have Follow Me often alongside Gorebyss, this can be a difficult task. The easiest way to do this is to use Pokemon with multi-targeting moves, Discharge in particular. These attacks bypass Follow Me support Pokemon and hit Gorebyss hard, preventing it from properly setting up.</p>
+
+<p>If Gorebyss has managed to set up, there are still ways to handle it. Setting up Trick Room can help as it makes making Gorebyss's Speed work against it, leaving it vulnerable. Pokemon that have Wide Guard, such as Hitmontop, can block Muddy Water or Surf, creating an offensive opening. Lastly, Pokemon like Abomasnow, Ludicolo, and Kingdra can be used as they can withstand Gorebyss's Water attacks and can KO back with Grass- or Dragon-type attacks respectively, although the first two have to watch out for Hidden Power Bug.</p>

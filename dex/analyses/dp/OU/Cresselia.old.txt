@@ -1,0 +1,105 @@
+[Overview]
+
+<p>Cresselia has outstanding overall defenses that allow her to wall many attacks. Combine that with an instant recovery move in Moonlight, and she is extremely hard to take down. However, she has many exploitable weaknesses; the OU metagame is not kind to her. Firstly, the prevalence of sandstorm severely limits her healing capabilities. Secondly, two of her counters--Tyranitar and Scizor--are extremely common. Cresselia's unmatched overall defenses still make her viable in the OU metagame, but she is no longer the defensive behemoth she was in the past.</p>
+
+[SET]
+name: Support
+move 1: Reflect
+move 2: Moonlight / Rest
+move 3: Ice Beam
+move 4: Thunder Wave / Psychic
+item: Leftovers
+nature: Bold
+evs: 252 HP / 252 Def / 4 SpA
+
+[SET COMMENTS]
+
+<p>Cresselia is the bulkiest Pokemon in the OU metagame and can easily support her team. Her high defensive stats allow her to easily take hits and recover the damage off, then cripple the opposing Pokemon.</p>
+
+<p>Reflect allows both Cresselia and her team to take reduced damage from physical attacks, which Cresselia tends to fear. Moonlight replenishes Cresselia's health, but due to the prevalence of sandstorm in OU, Moonlight will often only heal 25% instead of the normal 50%. Hence, you can consider Rest in place of Moonlight, but this comes with the disadvantage of being asleep for two turns. Ice Beam takes down Dragon-types that can pose a major threat to your team, while Thunder Wave cripples other Pokemon that might try to set up on Cresselia. Alternatively, Psychic provides Cresselia with a STAB attack that can take down Infernape and Gengar that might try to 2HKO her with Shadow Ball. However, Psychic has poor coverage in OU, and Thunder Wave is more useful overall as it can cripple those two anyway.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>You can choose to move 68 Defense EVs into Speed to outspeed neutral Tyranitar and Swords Dance Scizor, so as to set up Reflect or cripple them with Thunder Wave before taking a hard hit from one of their STAB attacks.</p>
+
+<p>As previously mentioned, Cresselia's two main nemeses are Tyranitar and Scizor. Both of them can heavily damage Cresselia with their respective STAB attacks or catch a fleeing Cresselia with Pursuit. Tyranitar also summons a sandstorm, which reduces the effectiveness of Moonlight. Gengar too poses a threat, as Life Orb Shadow Ball 2HKOes Cresselia. Blissey can easily stall out Cresselia with Toxic and Soft-Boiled or Wish while Cresselia can't do much back. Scizor is a great partner for Cresselia, as it can easily switch into Tyranitar, Gengar, and Blissey--with the exception of the latter's Flamethrower--and threaten with U-turn, Bullet Punch, and Superpower respectively. Magnezone can deal with opposing Scizor by trapping it and removing it with either Thunderbolt or Hidden Power Fire. Magnezone also resists the Dark- and Ghost-type attacks that Cresselia fears, while Cresselia resists Fighting and is immune to Ground. Finally, non-Seismic Toss Blissey can check Gengar.</p>
+
+<p>Finally, users of Substitute, Rest, or Taunt can easily set up in front of Cresselia, whose only weapons are weak attacks and Thunder Wave; phazers such as Swampert, Suicune, and Skarmory can easily deal with these setup sweepers. Choice Scarf Rotom-H can handle many of the stat-boosters that try to set up in front of Cresselia, such as Metagross, Scizor, and Lucario. It does bear a weakness to both Dark- and Ghost-type moves, though, so step carefully. Jirachi and Scizor can both handle Dragon Dance Tyranitar, while Gliscor can handle Metagross, Lucario, and Tyranitar.</p>
+
+[SET]
+name: RestTalk
+move 1: Rest
+move 2: Sleep Talk
+move 3: Ice Beam
+move 4: Charge Beam / Thunder Wave / Psychic
+item: Leftovers
+nature: Calm
+evs: 252 HP / 200 Def / 56 SpD
+
+[SET COMMENTS]
+
+<p>With the popularity of Tyranitar and Hippowdon, sandstorm has become a common sight in the OU metagame, which has in turn caused Moonlight's effectiveness to plummet. Moonlight also only has 8 PP, which leaves Cresselia easily stalled out. Finally, Cresselia is very susceptible to status, which Moonlight cannot cure. This set attempts to remedy these problems by using a combination of Rest and Sleep Talk to lengthen Cresselia's lifespan. The former allows Cresselia to heal back up to full HP and remove any status effects as well, while the latter prevents Cresselia from becoming full setup bait while sleeping, and can also help with PP issues.</p>
+
+<p>Ice Beam takes care of Dragon-types that might trouble your team, while Charge Beam rounds out the moveset and works particularly well alongside Ice Beam. Thanks to the longevity provided by RestTalk, Cresselia can nab many Special Attack boosts and become a formidable tank. Thunder Wave can cripple opponents Cresselia cannot take out, but it will be useless if Sleep Talk selects it against an opponent already afflicted with status. Psychic provides STAB and can specifically take care of Infernape and Gengar, but will not OHKO either without Stealth Rock and one turn of both sandstorm and Life Orb recoil.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>While this Cresselia has immense longevity, she has even more problems with Tyranitar, Scizor, and Gengar, as well as most setup sweepers, especially if she lacks Thunder Wave to cripple them. Scizor can once again remove Tyranitar and Gengar, and use its resistances to absorb super effective attacks targeted at Cresselia. Magnezone can get rid of opposing Scizor. Skarmory, Swampert, and Suicune can phaze set-up sweepers, while Choice Scarf Rotom-H, Jirachi, and Gliscor can take them on directly.</p>
+
+[SET]
+name: Calm Mind
+move 1: Calm Mind
+move 2: Psychic
+move 3: Hidden Power Fire / Hidden Power Fighting
+move 4: Moonlight
+item: Leftovers
+nature: Modest
+evs: 252 HP / 252 SpA / 4 Spe
+
+[SET COMMENTS]
+
+<p>Cresselia can also take an offensive approach by using Calm Mind, as her bulk allows her to easily set up several boosts. Calm Mind not only raises Cresselia's poor Special Attack to acceptable levels, but also increases her already impressive Special Defense. Psychic is reliable, powerful STAB, while Hidden Power Fire, the main coverage move, hits Scizor along with other Steel-types that resist Psychic. Hidden Power Fighting is viable as it takes down Tyranitar and has good coverage in tandem with Psychic. Moonlight rounds out the set by providing instant recovery, which lets Cresselia continue using Calm Mind.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Rest is an option over Moonlight because sandstorm reduces Moonlight's recovery, but it does force Cresselia to stay asleep for two turns, which gives a counter, such as Scizor or Tyranitar, the opportunity to come in and force her out. The listed EV spread is meant for use alongside Hidden Power Fire: 252 HP EVs provide maximum bulk, while 252 Special Attack EVs along with a Modest nature maximize damage output. The 4 Speed EVs allow Cresselia to Speed tie with other 4 Speed Suicune and Cresselia. If using Hidden Power Fighting, go with a spread of 188 HP / 252 SpA / 68 Spe to outspeed neutral-natured Tyranitar. A 22 Attack IV is needed for a suitable Hidden Power Fighting.</p>
+
+<p>Depending on the Hidden Power selected, Cresselia will have problems with either Tyranitar or Steel-types such as Scizor; the former is immune to Psychic and takes barely any damage from Hidden Power Fire, while the latter can come in and on anything but Hidden Power Fire and use U-turn or Pursuit for massive damage. A lure is therefore recommended; Substitute Gengar can lure and KO Scizor with Hidden Power Fire and Tyranitar with Focus Blast, but note that it compounds your team's weaknesses to Ghost and Dark. More conventionally, Magnezone can trap and KO Scizor with either Thunderbolt or Hidden Power Fire, while Scizor can take Tyranitar's Crunch and retaliate with either Bullet Punch or U-turn, and Gliscor can hit back with STAB Earthquake. Toxic Spikes support is also appreciated as Cresselia's impressive bulk lets her stall out many opponents. Roserade can set them up at the beginning of the game, while Forretress's Steel typing allows it to soak up Dark- and Bug-type attacks aimed at Cresselia. As this Cresselia can herself set up, she is not as vulnerable to opposing setup sweepers. However, a revenge killer, such as Jirachi or Rotom-H, might still be useful to take out physically based sweepers.</p>
+
+[SET]
+name: Dual Screens
+move 1: Reflect
+move 2: Light Screen
+move 3: Lunar Dance
+move 4: Thunder Wave / Ice Beam / Psychic
+item: Light Clay
+nature: Bold
+evs: 252 HP / 148 Def / 40 SpD / 68 Spe
+
+[SET COMMENTS]
+
+<p>Due to Cresselia's enormous bulk, she can easily set up Reflect and Light Screen multiple times to assist your team. She also has one more trick that other dual screen supporters don't: Lunar Dance. As Cresselia's secret weapon, this move lets her sacrifice herself to allow another Pokemon to come in fully healed and cured of any status ailments it might have. All these combine to let Cresselia assist one of your remaining Pokemon in setting up and sweeping the opponent's team. Few teams can handle assaults from the same threatening sweeper twice over, which can secure the game for your team.</p>
+
+<p>Thunder Wave gives Cresselia more time to set up screens, while Ice Beam handles Dragon-types such as Dragonite, as well as Gliscor, who is a common mid-game Taunt user. As an alternative, Psychic provides STAB and a way to take out Infernape.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The listed EV spread helps Cresselia better sponge attacks. Specifically, the defensive investment lets her survive the 2HKO from Choice Band Tyranitar's Crunch after Reflect, Stealth Rock, and one turn of sandstorm damage. The 68 Speed EVs ensure that Cresselia outspeeds Choice Band Tyranitar and Swords Dance Scizor, which allows her to set up Reflect before being hit by Crunch or Bug Bite, respectively. The remaining EVs go into Special Defense to better take special attacks. Light Clay extends the duration of Reflect and Light Screen to make Cresselia a better team supporter.</p>
+
+<p>Plenty of Pokemon appreciate dual screens; however, there are a few that pair especially well with Cresselia. Lucario and Tyranitar can capitalize on the Dark-type moves that your opponent will likely launch at Cresselia to bring her down.</p>
+
+[Other Options]
+
+<p>Psycho Shift can debilitate Cresselia's counters; in particular, a set of Psycho Shift, Trick, Ice Beam, and Rest along with a Flame Orb can cripple Scizor and Tyranitar. This set can also sponge Trick and pass a Flame Orb to the opponent in the process. However, once the Orb activates and burns Cresselia, smart players will avoid switching in physical attackers.</p>
+
+<p>Grass Knot takes care of Swampert should your team not have any other way to dispatch of it, while Hidden Power Electric 2HKOes offensive Gyarados, as well as RestTalk Gyarados after Stealth Rock damage. These moves are extremely situational, however, and Grass is a terrible attacking type in general.</p>
+
+<p>Cresselia can also set up weather as she receives both Sunny Day and Rain Dance; the former also increases Moonlight recovery. Additionally, Cresselia is bulky enough to set up Gravity and Trick Room. Toxic is an option over Thunder Wave to slowly whittle foes down; Protect can be used in conjunction with Toxic to hasten the opponent's death.</p>
+
+[Checks and Counters]
+
+<p>The main way to beat Cresselia is to overpower her. Moonlight has limited PP, and the prevalence of sandstorm limits its effectiveness. Once Moonlight's PP is depleted, it will only be a matter of time before Cresselia falls.</p>
+
+<p>As mentioned throughout the analysis, Tyranitar and Scizor are the biggest problems to Cresselia. The former can hit Cresselia with a Choice Band-boosted Crunch or catch a fleeing one with Pursuit, and its sandstorm reduces Moonlight's effectiveness. Scizor can also Pursuit trap a fleeing Cresselia or severely damage one that stays in with either U-turn or Bug Bite. Although rarer, Heracross and Weavile can hit Cresselia with STAB Megahorn and Night Slash, respectively, for large amounts of damage. Curse Snorlax can set up in front of Cresselia while shrugging off Thunder Wave and Ice Beam due to its already low Speed and Thick Fat ability, respectively. Thunder Wave and Reflect help to mitigate these physical threats, but their sheer offensive power is usually too much for Cresselia to handle.</p>
+
+<p>Gengar has STAB Shadow Ball to take down Cresselia that lack Psychic, and can also set up Substitute to prevent Thunder Wave. Blissey and Heatran can switch into Cresselia and use Toxic to slowly wear her down if she doesn't carry Rest. While Blissey can heal herself with either Wish or Soft-Boiled, Heatran can also prevent status with Substitute or Taunt; the latter restricts Cresselia from healing as well. Taunt users in general cripple Cresselia. Taunt + Dragon Dance Gyarados can set up in front of Cresselia that lack Charge Beam, as all she can do is hit it with a neutral Ice Beam.</p>

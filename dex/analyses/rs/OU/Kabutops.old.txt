@@ -1,0 +1,58 @@
+[Overview]
+
+<p>Thanks to STAB Rock Slide and Swords Dance, Kabutops can put the hurt on Skarmory with some boosts under its belt. However, it has trouble with the common Metagross and Swampert due to its lack of access to Earthquake, which hurts it a lot in terms of usability.</p>
+
+[SET]
+name: Swords Dance + Flail
+move 1: Endure
+move 2: Flail
+move 3: Swords Dance
+move 4: Rock Slide
+item: Salac Berry
+ability: Battle Armor
+nature: Jolly
+evs: 12 HP / 252 Atk / 68 Def / 176 Spe
+
+[SET COMMENTS]
+
+<p>Kabutops's Rock typing grants it immunity to sandstorm, which makes it a viable Flail user. Rock Slide is there for Skarmory; with two Swords Dance boosts, it can possibly 2HKO Skarmory, but even at +6, it will not OHKO.</p>
+
+<p>Kabutops needs to hit a Speed stat of 264 in order to reach 396 after a Salac Berry; therefore, a Jolly nature is required. Substitute can be used instead, but make sure Kabutops's HP is not divisible by four, so it can make four Substitutes and maximize Flail's power.</p>
+
+[SET]
+name: Knock Off
+move 1: Knock Off
+move 2: Rock Slide
+move 3: Hidden Power Ground
+move 4: Swords Dance
+item: Leftovers
+ability: Battle Armor
+nature: Adamant
+evs: 70 HP / 252 Atk / 188 Spe
+
+[SET COMMENTS]
+
+<p>Knock Off makes Kabutops very annoying, and the utility it provides can really help out your team. While this set is usable, it is not the best as Kabutops is slow, has poor HP, and is weak to many common attacks. Nonetheless, it can be particularly useful alongside Tyranitar as the removal of Leftovers makes opponents more vulnerable to sandstorm damage.<p>
+
+[SET]
+name: Choice Band
+move 1: Rock Slide
+move 2: Double-Edge / Return
+move 3: Hidden Power Ground
+move 4: Brick Break / Knock Off
+item: Choice Band
+ability: Battle Armor
+nature: Adamant
+evs: 70 HP / 252 Atk / 188 Spe
+
+[SET COMMENTS]
+
+<p>With some prediction, Kabutops can viably wield a Choice Band thanks to its above-average Attack. First and foremost, Rock Slide is a good STAB option. Double-Edge packs a massive punch, but Return works if you don't like the former's recoil damage. Hidden Power Ground can hit Steel-types, but Kabutops's lack of access to Earthquake hinders its sweeping potential. It's a toss-up between Brick Break and Knock Off; the latter hits Normal-types and does about 10% more damage to Snorlax than Double-Edge does, while Knock Off is a good hit-and-run attack for annoying the opponent.</p>
+
+[Other Options]
+
+<p>Rapid Spin is useful as it clears away Spikes. Giga Drain can let Kabutops hit Ground-, Rock-, and Water-types, most notably Swampert, on the switch. Thief can steal an item, such as Choice Band or Leftovers, and make life hard for your opponents, but Knock Off is superior. Confuse Ray can give Kabutops a bit more time to sweep, while Body Slam has a nice paralysis chance, which can also be useful. </p>
+
+[Checks and Counters]
+
+<p>Metagross and Swampert can both hurt Kabutops badly while Kabutops cannot really damage them much in return. Suicune is a good counter thanks to its high HP and Defense, as are Donphan and Claydol due to their good Defense stats. Flygon is a solid choice too, because it takes little damage from most of Kabutops's moves. However, Claydol, Flygon, and Donphan should all beware of Surf.</p>

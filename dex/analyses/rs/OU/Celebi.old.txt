@@ -1,0 +1,77 @@
+[Overview]
+
+<p>Celebi is mainly used as a stalling machine, but  Perish Song variants can also break stall when used alongside Mean Look + Baton Pass Umbreon. Additionally, Celebi can utilize Baton Pass itself and contribute to a <a href="/rs/articles/baton_pass">Baton Pass chain</a> with Calm Mind, Swords Dance, and high HP Substitutes, and do serious damage to Skarmory with Calm Mind-boosted STAB Psychic. Blissey can't stop special attacking sets either, thanks to Psychic's chance of a Special Defense drop, Celebi's 101 HP Substitutes, its ability to stay healthy with Recover and Natural Cure, as well as its access to Leech Seed. Celebi can take on Electric-types to a great extent as it resists their STAB, especially as most carry Hidden Power Grass for Swampert and hence lack Hidden Power Ice.</p>
+
+<p>In fact, Celebi's power is such that many respected battlers have attempted to get it banned multiple times; Celebi was even banned from the Smogon Tour for a while.</p>
+
+[SET]
+name: Calm Mind + Baton Pass
+move 1: Calm Mind
+move 2: Baton Pass
+move 3: Psychic / Hidden Power Grass
+move 4: Recover / Substitute
+item: Leftovers
+nature: Timid
+evs: 252 HP / 80 Def / 176 Spe
+
+[SET COMMENTS]
+
+<p>This is your bread-and-butter Celebi set. Calm Mind up against the likes of opposing Zapdos and Blissey, then Baton Pass to a special attacker, such as Zapdos or Tyranitar. Psychic and Hidden Power Grass let it do some damage of its own. The former is stronger against Heracross and Zapdos, whereas the latter OHKOes Dugtrio and screws up Tyranitar that try to set up Dragon Dance boosts on Celebi. Substitute blocks status and critical hits as Celebi racks up Calm Mind boosts.</p>
+
+<p>Calm Mind variants should aim to hit 244, 270, 299, or 308 Speed. 244 Speed Celebi outruns uninvested Tyranitar, as well as neutral-natured Magneton and Breloom. 270 Speed variants outpace Adamant Heracross, while 299 Speed variants outrun Jolly Heracross and at worst Speed-ties with most Salamence. Celebi must run a Speed-boosting nature to hit 308, which lets it outrun all base 90 Pokemon. HP is maximized for optimal bulk and 101 HP Substitutes, and Defense EVs are used as Calm Mind boosts Celebi's Special Defense.</p>
+
+[SET]
+name: Heal Bell
+move 1: Psychic
+move 2: Leech Seed
+move 3: Heal Bell
+move 4: Recover
+item: Leftovers
+nature: Bold
+evs: 252 HP / 220 Def / 36 Spe
+
+[SET COMMENTS]
+
+<p>This support-oriented Celebi is a decent Heal Bell user, an awesome Swampert counter, and a very annoying Pokemon in general. You can safely send Celebi in against nearly everything because it can shrug off even super effective non-STAB-boosted hits. An exception is Hidden Power Bug, however, which will almost always 2HKO Celebi.</p>
+
+[SET]
+name: Perish Song
+move 1: Hidden Power Grass / Reflect / Protect
+move 2: Heal Bell / Reflect / Protect
+move 3: Perish Song
+move 4: Recover
+item: Leftovers
+nature: Bold
+evs: 252 HP / 144 Def / 82 SpD / 32 Spe
+
+[SET COMMENTS]
+
+<p>This set must be used in conjunction with Umbreon, who can Baton Pass Mean Look to Celebi; in turn, Celebi can use Perish Song to virtually guarantee a kill. Despite the large amount of support it requires, Perish Song Celebi is extremely effective as even heavy attackers will have a hard time KOing Celebi before Perish Song faints them.</p>
+
+<p>Reflect is an option mostly because Celebi doesn't have much else to do, while Protect can help stall out a couple of Perish Song turns. Reflect is generally superior, though, because Celebi has the defenses to Recover off damage from most special attacks. If it's just stuck in a Recover loop against a move that 2HKOes, such as Metagross's Meteor Mash, it will fall to an Attack boost or a critical hit, whereas Reflect would maintain a defensive boost through critical hits.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Baton Pass
+move 3: Hidden Power Fighting / Shadow Ball
+move 4: Recover
+item: Leftovers
+nature: Jolly
+evs: 252 HP / 80 Atk / 176 Spe
+
+[SET COMMENTS]
+
+<p>Physical Celebi, while not as effective as the others, is a decent Tyranitar counter and has an immense surprise factor. In particular, it messes up Snorlax and Houndoom that think they can counter Celebi. Celebi might have a hard time Baton Passing with Skarmory around, however, as it can't hit Skarmory hard--an issue that's further aggravated by its Flying weakness. Overall, this isn't the best set, but it can work and shows off Celebi's versatility.</p>
+
+[Other Options]
+
+<p>Toxic is for stall teams. Safeguard stops status, but Substitute is better for this purpose, not to mention Celebi has Natural Cure. It can use Light Screen to help its team sponge special hits, but Calm Mind achieves this and more. Giga Drain can be used over Hidden Power Grass, but the lower power and PP will really hurt a stall-oriented Pokemon like Celebi.</p>
+
+[Checks and Counters]
+
+<p>Shiftry and Cacturne sponge all Celebi's attacks bar the rare Hidden Power Fire, but they can't stop Baton Pass variants unless they're carrying Hidden Power Bug. Houndoom can come in on everything except Leech Seed or Calm Mind, and thanks to Pursuit and Fire Blast, can hurt Celebi whether it switches out or stays in. Tyranitar hates Leech Seed and Hidden Power Grass, but shrugs off everything else. Additionally, it can Taunt to stop Celebi from supporting its team, or damage it with Crunch or Dragon Dance-boosted Rock Slide.</p>
+
+<p>Skarmory's Psychic resistance makes it a good counter to Baton Passing Celebi; it also scares Celebi in general with Spikes, Drill Peck, and Hidden Power Flying. However, it doesn't appreciate Leech Seed draining its health, and repeated Psychics--especially Calm Mind-boosted ones--will take their toll. Choice Band Salamence outspeeds most Celebi and OHKOes some with Hidden Power Flying, but has to watch out for Psychic on the switch, as well as physically defensive Celebi. Espeon, Alakazam, Mr. Mime and opposing Celebi also work because they resist Psychic, but once again they won't like Leech Seed, and with the exception of Encore, Taunt, or Trick from Alakazam and Mr. Mime, they cannot really stop the Baton Pass set from doing its job.</p>
+
+<p>Pokemon with Pressure also make good checks. Suicune can either Pressure stall Celebi or Roar it out, preventing it from Baton Passing Calm Mind boosts or stalling out Perish Song. Even Hidden Power Grass doesn't do much to Suicune, and with its measly 8 PP, variants running Giga Drain are even less of an issue. Dusclops has Pressure as well, and 3HKOes with Shadow Ball. Thanks to its huge base 125 Special Defense, Articuno sponges everything bar the nonexistent Ancient Power. Aside from STAB Ice Beam, it can whittle down Leech Seed and Psychic PP with Pressure, and Roar away stat-boosters. Regice counters Celebi well too, as it has insane Special Defense and a powerful STAB Ice Beam, and can even use Psych Up.</p>

@@ -1,0 +1,30 @@
+[Overview]
+
+<p>Unfezant is yet another Normal / Flying type Pokemon found early in the game; unfortunately, this one leaves much to be desired. It has horrible defenses, necessitating the use of a Focus Sash, while its acceptable Attack stat is ruined by its poor offensive movepool. In the regular metagame, this doesn't add up to much; in the fast-paced VGC metagame, however, it's almost useless. Thankfully, it does have some usable traits such as access Tailwind and Hypnosis and a good Speed stat. Because Tornadus and Whimsicott mostly outclass Unfezant in this regard, however, it would be best to avoid using Unfezant at all costs.</p>
+
+[SET]
+name: Support
+move 1: Tailwind
+move 2: Hypnosis
+move 3: Protect
+move 4: Return / Pluck
+item: Focus Sash
+ability: Super Luck
+nature: Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Although its Attack stat suggests otherwise, Unfezant's role in VGC is best oriented towards supporting its teammates. Tailwind bolsters its allies' Speed, allowing them to take down its opponents. Although Tornadus and Whimsicott set up Tailwind better with their Prankster ability, Unfezant also has access to Hypnosis. This can cripple one of its opponents if Hypnosis hits, though this isn't guaranteed due to the move's horrible accuracy. Protect keeps it safe from Fake Out leads, as well helping to scout opponents' attacks. Finally, the last slot is reserved for the obligatory STAB attacking move. While Return does more and consistent damage, Pluck is super effective against the multitude of Fighting-types, as well as Amoonguss, which are common sights in the VGC metagame. Additionally, Pluck has a chance of stealing an opponent's resist berry if they carry it to withstand certain super effective attacks.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs are oriented to give Unfezant as much Speed and power as possible, and a Jolly nature aids it in accomplishing its mission as fast as possible. A Choice Scarf may be used to give it even more Speed, but this only guarantees that it will easily be KOed by a single attack.</p>
+
+[Other Options]
+
+<p>Let's be honest: Unfezant's above moveset stretches its options as it is. Taunt is a possible support option, but then Tornadus and Whimsicott completely outclass it in this aspect. While Sunny Day and Rain Dance are options to use over Tailwind, Unfezant itself cannot benefit from this. Sky Attack in conjunction with a Power Herb gives it a powerful Flying-type attack to use, and can possibly be used in an offensive set with Return, Steel Wing, and U-turn. Other than these options, there isn't much left for Unfezant.</p>
+
+[Checks and Counters]
+
+<p>Any Pokemon with enough Defense or Speed that doesn't mind Taunt can be considered a counter. This includes the majority of the metagame, if not all of it. Thundurus and Terrakion, for example, outspeed and easily defeat Unfezant with little effort. Additionally, rival Tailwind users such as Whimsicott and Tornadus can Prankster Taunt Unfezant, preventing it from using its own Tailwind or Taunt.</p>

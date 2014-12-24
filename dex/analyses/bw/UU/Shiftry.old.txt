@@ -1,0 +1,57 @@
+[Overview]
+
+<p>Shiftry is a Pokemon whose mediocre stats are balanced by its many methods of boosting them. With the moves Swords Dance, Nasty Plot, Growth, and the ability Chlorophyll, Shiftry can use its above average offensive movepool to fill a variety of sweeping roles. Shiftry's biggest issue is that it lacks the sheer power, Speed, or bulk of some other sweepers with whom it competes for a team spot. Nonetheless, Shiftry is certainly not to be underestimated. With proper timing, it can rip holes in your opponent's team like a gust of wind through a flimsy umbrella.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Seed Bomb
+move 3: Sucker Punch
+move 4: Nature Power
+item: Life Orb
+ability: Early Bird
+nature: Adamant
+evs: 96 HP / 252 Atk / 56 Def / 56 SpD / 44 Spe
+
+[SET COMMENTS]
+
+<p>This set aims to sweep with Shiftry's higher Attack stat by using Swords Dance. Shiftry can survive an Ice Beam from Milotic comfortably, making it and other bulky Waters perfect setup fodder. STAB Sucker Punch is very powerful for a priority attack, and at +2 will destroy almost any Choice Scarf user who doesn't resist it. Seed Bomb is your reliable STAB attack, and it hits many of UU's walls, such as Slowbro, for super effective damage. Nature Power, which becomes Earthquake in a Wi-Fi match, pairs well with Seed Bomb, providing coverage on Fire-, Steel-, and Poison-types, most notably Registeel, Nidoqueen, Roserade, and Arcanine.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Anyone using this set should prepare themselves for prediction, as some opponents will require you to predict correctly between Sucker Punch or another attacking option in order to beat them. For instance, Arcanine can be beaten after Stealth Rock damage, but you have to predict either Extreme Speed or Flare Blitz and answer with Earthquake or Sucker Punch, respectively. Many faster threats will use Substitute to dodge Sucker Punch, so you must use another attack to break the Substitutes, only using Sucker Punch when they decide to attack. Rotom-A will often try to Trick a Choice Scarf onto Shiftry in order bypass Sucker Punch, which may require you to switch. Sunny Day support can pretty much nullify this issue, as it allows you to outspeed almost everything without a Choice Scarf. This mostly removes the need to outpredict targets such as Arcanine, Roserade, Alakazam, and Chandelure. Choice Scarf users, on the other hand, mostly use four attacks, making them vulnerable to Sucker Punch.</p>
+
+<p>Thanks to Sucker Punch, Shiftry can afford minimal Speed investment--just enough to outspeed Suicune that don't invest in Speed, and by extension most of the other UU walls. This allows for a substantial investment in HP and defenses, which greatly helps Shiftry switch in and use Swords Dance. In an extreme scenario, Shiftry can even survive a Heat Wave from defensive variants of Zapdos.</p>
+
+<p>When looking for teammates for Shiftry, Victini is a prime option. Victini can easily lure in bulky Waters and catch them with U-turn, allowing Shiftry a perfect opportunity to set up Swords Dance. The two also cover many of each other's weaknesses. Like most Grass-types, Shiftry does well in a Fire-Water-Grass core, with Pokemon such as Milotic, Suicune, Arcanine, and the aforementioned Victini. Rotom-H, Lanturn, and Qwilfish are other Fire- and Water-type options that provide additional type synergy. A bulky Flying- or Ghost-type is recommended as well to help Shiftry deal with Heracross and Hitmontop, some of Shiftry's best counters.</p>
+
+[SET]
+name: Nasty Plot
+move 1: Nasty Plot
+move 2: Giga Drain
+move 3: Dark Pulse
+move 4: Hidden Power Fire
+item: Life Orb
+ability: Chlorophyll
+nature: Modest
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>This Shiftry set is designed specifically for use on a Sunny Day team. The goal here is to sweep with Chlorophyll-boosted Speed and Nasty Plot-boosted special attacks. Dark Pulse and Giga Drain provide great dual STAB moves, each with their own beneficial side effect. Dark Pulse's flinch rate is quite useful with doubled Speed, and Giga Drain allows Shiftry to recover Life Orb recoil while sweeping. Hidden Power Fire allows Shiftry to defeat some of its usual counters, such as Heracross, bulky Grass-types, and Escavalier. Given a turn of setup, this set can be very difficult for your opponent to handle without priority moves.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>252 Speed EVs are used to outspeed as many Choice Scarf users as possible while Sunny Day is active, although Modest is still used to help make up for Shiftry's less-than-stellar base 90 Special Attack. With this spread, Shiftry can outspeed positive base 105 Speed Pokemon and neutral base 120 Speed Pokemon who are holding a Choice Scarf.</p>
+
+<p>Uxie is the ideal teammate to set up Sunny Day for Shiftry, as it can also utilize Stealth Rock to aid in sweeping and Memento to almost guarantee an opportunity for Shiftry to use Nasty Plot. Alone, Shiftry is not likely to sweep a full team, so use other Pokemon who benefit from Sunny Day such as Victini, Sawsbuck, and Charizard.</p>
+
+[Other Options]
+
+<p>Low Kick can be used instead of Nature Power to maintain coverage on Steel-types while helping against Cradily and Snorlax. X-Scissor is an option to hit Grass-types super effectively, but it should be noted that +2 X-Scissor doesn't even 2HKO Tangrowth. Rock Slide can be used to hit Flying-types while maintaining coverage on Fire-types, but of course loses coverage on Steel-types. Extrasensory on the Nasty Plot set provides a way of destroying Fighting- and Poison-types, although the most notable ones, Heracross and Roserade, already go down to Hidden Power while Technitop will take Shiftry out with priority anyway. Solar Beam can also be used with Nasty Plot to provide a great deal of power, but can leave you trapped against Hippopotas and is useless when Sunny Day is not in effect.</p>
+
+<p>Shiftry can use a mixed set with Growth if given Sunny Day support. The best way to go about this is a moveset of Growth / Sucker Punch / Seed Bomb / Hidden Power Fire, with an EV spread of 252 Atk / 148 SpA / 104 Spe. This essentially functions as a variant of the Swords Dance set but with Hidden Power Fire to defeat Heracross and bulky Grass-types. Growth can also be used on a pure physical or special sun sweeper to conceal the identity of the set for an additional turn. Just keep in mind that you won't be able set up effectively if the sun fades.</p>
+
+[Checks and Counters]
+
+<p>Hitmontop is the best counter to Shiftry, as it can switch in and OHKO with both its sets. Intimidate variants will survive a boosted attack, while Technician variants can simply OHKO with priority Mach Punch. Other bulky Fighting-types, such as Hariyama and Throh, function in a similar way. Heracross can survive a boosted attack from the Swords Dance set and OHKO in return, but will fall to a boosted Hidden Power Fire (assuming Sunny Day is in effect). Cobalion works similarly although both Shiftry sets will destroy it in the sun if they have managed to acquire a boost. Bulky Grass-types can wall the Swords Dance set, but usually have to wear Shiftry down slowly. Arcanine can bypass Sucker Punch with Extreme Speed or KO with Flare Blitz, but it must predict correctly to avoid being KOed itself. Defensive Zapdos can use Toxic, Substitute, Roar or Roost to bypass Sucker Punch, but needs to be careful of taking a direct hit from a neutral or super effective attack. Rotom-A resists all but Shiftry's Dark-type attacks and can Trick a Choice Scarf to cripple Shiftry. Dusclops and Confagrius can survive a +2 Seed Bomb and burn Shiftry, although Dusclops can still be beaten as it will be unable to utilize Pain Split effectively with Shiftry taking so much passive damage from Life Orb and burn.</p>

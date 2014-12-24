@@ -1,0 +1,59 @@
+[Overview]
+
+<p>As one of the fastest Pokemon in the entire game, Electrode can roll into the battlefield and unleash swift hell with a handful of useful supportive and offensive options. It's no wonder that its silly grin can also be used as a lightning-fast Taunt to the foe's face, while its ability to call down the rain swiftly and effectively is a niche that only it can claim in the UU tier. Electrode's ability to summon down God's wrath in the form of Thunder makes it all the more terrifying. Combine Thunder with Hidden Power Ice and you've got a neat little Pokemon with great coverage. What makes Electrode even better is its access to Explosion, as unlike Uxie, Ambipom, and Omastar, it is able to immediately take down a dangerous threat while giving a safe switch-in for its Swift Swim buddies.</p>
+
+<p>Unfortunately, the fun stops there. Electrode's mediocre stats across the board (excluding Speed) don't do it justice - it is fragile and, most of the time, doesn't hit hard enough. The fact that rain teams are dropping in usage, due to how easy it is to play around them via Pokemon such as Venusaur, Milotic, and Rotom, ruin Electrode's fame. Electrode's severely limited movepool outside of the ones already mentioned is the last nail in the coffin, sealing Electrode's fate as an almost-forgotten NU Pokemon. Still, once Electrode gets the ball rolling, there's really no stopping it.</p>
+
+[SET] 
+name: Rain Dance Support
+move 1: Rain Dance
+move 2: Taunt
+move 3: Thunder
+move 4: Explosion
+item: Damp Rock
+ability: Static
+nature: Naive
+evs: 252 Atk / 100 SpA / 156 Spe
+
+[SET COMMENTS]
+
+<p>This set aims to stop the foe's plans from succeeding while supporting your rain team. With Damp Rock equipped, Electrode can effectively grant seven turns (given that Electrode uses Explosion right after using Rain Dance) of rain to a Swift Swim sweeper. Taunt stops any foe slower than Electrode from using a dangerous support move, such as Stealth Rock, Sunny Day, Sleep Powder, and Thunder Wave. On the offensive, Electrode has Thunder to vanquish the foe. In addition, Thunder has a neat 30% chance to paralyze the foe and has 100% accuracy under rainy conditions. Lastly, Explosion is what makes Electrode so successful - it can not only potentially eliminate a counter, but it can also give a Swift Swim Pokemon a free switch-in so that it can rampage through the opposing side.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread allows Electrode to deal as much damage as possible with Explosion and Thunder and reach 390 Speed, outspeeding neutral-natured base 80 Pokemon with +1 Speed. Naive is chosen over Hasty to take less damage from physical priority moves such as Fake Out and Mach Punch. Static is also the ability of choice over Soundproof as the 30% chance to paralyze a physical attacker can be useful in the long run; moreover, Soundproof only aids against uncommon moves such as Bug Buzz, Sing, and Roar. As an alternative, Hidden Power Water can be used over Explosion to help eliminate Rock- and Ground-type Pokemon. It also gains a nice power boost from Rain Dance.</p>
+
+<p>Due to the fact that this set is meant for leading, it is inevitable that it will run into poor match-ups, especially against Timid Choice Scarf Venusaur and TrickScarf Uxie. There are two ways to manage these threats: by testing your luck and see if they actually don't have a Choice Scarf by Taunting, or by immediately switching out to a safe pivot, such as RestTalk Registeel and Chansey, or, in Uxie's case, Choiced Pokemon (especially ones with Pursuit). RestTalk Registeel resists both Grass and Psychic attacks and is immune to Poison. Due to its huge defenses, even Venusaur's Earthquake won't be scratching it hard enough. Chansey has Natural Cure to easily mitigate Venusaur's Sleep Powder and enormous special bulk to take on any special attack it delivers. As for Choiced Pokemon, Choice Band Spiritomb stands out as the most successful one due to its immunity to Psychic, great all-round defenses, and access to STAB Pursuit. Another deadly match-up is against Omastar, since Electrode must try its luck with two risky, consecutive Thunders in order to defeat it. If Electrode attempts to set up Rain Dance, it will not only activate Omastar's Swift Swim, but also fail to destroy Omastar's Focus Sash. The safest option here is to switch out to a sleeper such as Venusaur, or if your team doesn't have one, Ludicolo, and either put Omastar out of commission with Sleep Powder or 2HKO it with Energy Ball.</p>
+
+<p>Since this set's goal is setting up the rain, it requires Swift Swim sweepers such as Kabutops, Omastar, Ludicolo, and Qwilfish to take advantage of it. Kabutops is monstrous under the rain; with a single Swords Dance, not much can withstand its might. Omastar is the special equivalent of Kabutops, but it lacks a Special Attack-boosting move to improve its chances of sweeping. Ludicolo is a must-have due to its ability to take care of opposing Water-types, mainly Milotic, which would give other Swift Swim sweepers trouble. Qwilfish is mentioned due to the fact that its STAB Poison Jab can help eliminate a good portion of Grass-types (though sadly, Venusaur is neutral to the attack).</p>
+
+[SET] 
+name: Life Orb
+move 1: Thunderbolt
+move 2: Hidden Power Ice / Hidden Power Water
+move 3: Taunt / Charge Beam
+move 4: Explosion
+item: Life Orb
+ability: Static
+nature: Naive
+evs: 88 Atk / 252 SpA / 168 Spe
+
+[SET COMMENTS]
+
+<p>Despite its mediocre Special Attack, Electrode can be a potent offensive threat to a variety of Pokemon due to its great coverage and incredible Speed. Thunderbolt is Electrode's main STAB attack that can usually 2HKO most Pokemon that don't resist it, excluding specially-bulky walls. Hidden Power Ice goes hand-in-hand with Thunderbolt by striking Ground- and Grass-type for super effective damage. Hidden Power Water is an alternative over Hidden Power Ice to strike Ground- and Rock-type Pokemon, most notably Rhyperior and Steelix, harder. In order to stop incoming status and recovery, Taunt is a great option, but you may find Charge Beam to be more suitable to your tastes if you want Electrode to have a chance to boost its Special Attack. Lastly, Explosion is available to utterly destroy any Pokemon not of the Rock-, Steel-, and Ghost-type, especially Chansey and other special walls.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread maxes out Electrode's special offense while giving it enough Speed to outpace +2 Jolly Rhyperior, Swellow, and +1 neutral-natured base 80 Pokemon. The rest of the EVs are thrown into Attack for a bigger bang with Explosion. Life Orb is the chosen item to dish out as much damage as possible while being able to switch between moves.</p>
+
+<p>Although unusual, this Electrode can make a great Baton Pass receiver. All it requires are Special Attack boosts from either Ambipom's Nasty Plot, Drifblim's Calm Mind, or Espeon's Calm Mind, and it can clean up during late-game like a hot knife through butter. It is not an all-powerful combo, though, especially taking into consideration the physical fragility of both the listed Baton Passers and Electrode, so take caution if you decide to use Electrode like this.</p>
+
+<p>Due to this set's aim to sweep instead of support, entry hazard support is extremely welcome. Stealth Rock from the likes of Uxie or Mesprit and Spikes setup from Omastar or Cloyster help Electrode gain KOs it wouldn't normally get otherwise. Uxie and Mesprit can also absorb Ground-type attacks that threaten Electrode, use Thunder Wave to neutralize Choice Scarf Pokemon, and batter foes, more specifically Grass-types, with a mixture of Psychic, Thunderbolt, Ice Beam, and/or Grass Knot. Omastar may be weak to Ground, but it is still a very reliable Spikes user due to its high physical bulk and deadly Special Attack. Cloyster has even more Defense, a neutrality to Ground, and Explosion to eliminate troublesome Grass-types. For better insurance against Grass-types and Registeel, using a Fire-type such as Moltres is a good idea. It can switch into Ground-, Steel-, and Grass-type attacks with ease, recover off the damage, and apply heavy pressure with Fire Blast onto the opposition.</p>
+
+[Other Options]
+
+<p>With an incredibly limited movepool, it's no wonder that Electrode doesn't have many useful options. A Choice Specs set utilizing Signal Beam in the last slot is a possibility, but it still doesn't deal much damage. Light Screen is an option to lessen the pain for your team on the special side, but funnily enough, Electrode doesn't usually have room to spare for it. It has access to Sucker Punch, which is interesting, though not effective on a Speed demon. A viable option to use is Hidden Power Grass, which can hit Water-, Rock-, and Ground-types for super effective damage - most importantly, Quagsire and Rhyperior. Another set to consider is Substitute + Petaya Berry, which allows Electrode to do three things: scout the switch-in, stop status from affecting it, and always gain a +1 Special Attack boost. However, it can only be used once on the field. Other gimmicky or interesting but ineffective options include, but are not limited to: Magnet Rise, Screech in conjunction with Explosion, Mirror Coat, Taunt in combination with Toxic, Torment, and Thunder Wave. For alternative items, Shuca Berry or Focus Sash can allow Electrode to survive a Ground-type move such as Earthquake, but you have to ask yourself what exactly will Electrode be doing in retaliation other than Explosion?</p>
+
+[Checks and Counters]
+
+<p>Due to Electrode's mediocre offense, it has a plethora of counters. Bulky Grass- and Electric-types such as Venusaur, specially defensive Tangrowth, Rotom, and Lanturn can switch in with ease and 2HKO with Grass-type attacks, Shadow Ball, or Surf, respectively (Stealth Rock must be present to give a guaranteed 2HKO for Surf). Lanturn is immune to Thunderbolt and resistant to Ice, effectively putting a stop to Electrode's shenanigans. As for Rotom, it has a special niche in that it is immune to Explosion due to its Ghost typing and takes little damage from Hidden Power Ice. Speaking of Ghost-types, any bulky Ghost-type, including Spiritomb and Dusclops, can switch in on a predicted Explosion and save a teammate from fainting. Chansey and Clefable should also be noted since with their great special bulk, they can withstand several special attacks while dishing out a 3HKO with Seismic Toss. However, both walls must watch out for Explosion as it will certainly either put a huge dent on them or OHKO them. Registeel is sturdy enough to absorb every attack from Electrode and respond with multiple Seismic Tosses. Bulky Ground-types such as Claydol, Rhyperior, and Steelix make great counters to Electrode since they can easily take on Hidden Power Ice and OHKO back with Earthquake. As a final resort, a revenge killer such as Choice Scarf Dugtrio, Choice Scarf Hitmonlee, and Fake Out + Mach Punch Hitmontop can KO Electrode without much trouble. Do not be surprised if you cannot outright counter Electrode, as it is meant to use Explosion as a last-ditch effort.</p>

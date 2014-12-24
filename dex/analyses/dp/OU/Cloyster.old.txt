@@ -1,0 +1,34 @@
+[Overview]
+
+<p>While Cloyster might seem like an unconventional choice in OU play, it is one of the few viable Spikes users with a STAB priority attack and Explosion in its repertory, which lets it fill the role of lead. Furthermore, Cloyster's decent typing and great physical defense allow it to take hits from many powerful leads, such as Swampert, Aerodactyl, and Jirachi. However, its HP and Special Defense stats are very low by OU standards; powerful neutral special attacks will hence heavily damage it, and super effective hits will almost always eliminate it. On the other hand, Cloyster's decent offensive stats and access to STAB Surf and Ice Shard enable it to run a mixed set that has fantastic coverage against common leads in the OU metagame. Overall, Cloyster is a good choice in OU for teams that need Spikes support from the get-go.</p>
+
+[SET]
+name: Lead
+move 1: Spikes
+move 2: Surf
+move 3: Ice Shard
+move 4: Explosion
+item: Life Orb
+ability: Shell Armor
+nature: Quiet
+evs: 220 HP / 104 Atk / 180 SpA / 4 Spe
+
+[SET COMMENTS]
+
+<p>This set takes advantage of Cloyster's setup capabilities and great physical bulk. In addition to laying Spikes, Cloyster can deal with most leads in the current metagame with just its STAB moves; the combination of Surf and Ice Shard takes down many suicide leads.</p>
+
+<p>As always, Explosion is an excellent move for a lead that has fulfilled its job, as it lets Cloyster deal great amounts of damage while preventing it from becoming setup fodder. Note that Life Orb-boosted Explosion can almost always take down Swampert, so teams that have problems with Stealth Rock can put a quick stop to this by sacrificing Cloyster early. If Stealth Rock isn't a problem for your team, however, Cloyster can easily set up Spikes while taking little damage from Swampert's Earthquake. However, STAB Surf can handle many physically defensive leads, such as Metagross, Gliscor, Hippowdon, Bronzong, Skarmory, and Forretress; Explosion should thus be saved for stat-boosters such as Gyarados and Suicune.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread here is specific, and lets Cloyster beat or set up against most common leads. 220 HP EVs allow Cloyster to always survive Azelf's Fire Blast, as well as sponge Metagross's Meteor Mash and Jirachi's Iron Head, which contribute greatly to its success as a Spikes setter. Additionally, Cloyster always survives Machamp's Dynamic Punch + Bullet Punch. It can therefore lay down one layer of Spikes and attempt to avoid the confusion from Dynamic Punch to finish off Machamp with Explosion. The offensive investment specifically let Cloyster take down Azelf leads with Surf + Ice Shard, while 4 Speed EVs along with a hindering nature allow Cloyster to outpace uninvested Tyranitar, as well as slower Swampert and Machamp. Finally, Shell Armor helps Cloyster avoid random critical hits that might end its setup prematurely.</p>
+
+<p>Cloyster functions well as a member of a Fire / Water / Grass core as Heatran and Celebi cover its weaknesses nicely; as a bonus, they can both set up Stealth Rock for your team. A Ghost-type partner comes in handy to block Rapid Spin; Rotom-A works best as it resists Electric and is immune to Fighting.</p>
+
+[Other Options]
+
+<p>One of Cloyster's main selling points has always been the move Rapid Spin, which is a nice alternative to Explosion. If using Rapid Spin, another viable EV spread is 220 HP / 32 Atk / 252 SpA / 4 Spe, which allows Cloyster to 3HKO Azelf leads with Surf + Rapid Spin + Ice Shard. Additionally, Toxic Spikes can replace Spikes. A Rash nature allows Cloyster to Speed tie with uninvested Metagross, and a few more EVs can be taken out HP to outspeed it. However, this will make Cloyster more vulnerable to Azelf's Fire Blast, so tread carefully. Mystic Water is an alternative item choice that can boost the power of Cloyster's strongest attack, Surf, but doesn't help Ice Shard any.</p>
+
+[Checks and Counters]
+
+<p>As far as lead match-ups are concerned, Cloyster's worst enemies are Roserade, Celebi, Starmie, and Empoleon. Cloyster can badly hurt the former and break its Focus Sash with Ice Shard, but will be put out of commission by Sleep Powder or annihilated by Leaf Storm; it will have to flee for its life against all the others, though. Rotom-A is a common revenge killer that can take down Cloyster as Explosion does not threaten it at all.</p>

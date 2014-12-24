@@ -1,0 +1,86 @@
+Overview
+########
+
+Buneary has access to many useful support moves such as Heal Bell, Healing Wish, Switcheroo, Encore, and Magic Coat, all of which it can use effectively with its 19 Speed. It also has a decent Attack stat along with access to a wide range of attacking options, including Fake Out, Return, Drain Punch, and the elemental punches. Buneary also has an interesting ability in Klutz, which when used with Switcheroo allows Buneary to cripple walls by tricking a Choice item or a status orb onto them. However, Buneary's average defenses, no resistances, weakness to the common Fighting-type, and susceptibility to faster Pokemon and priority users hinder its longevity. It also faces difficulty taking on bulkier Pokemon if it is not running a Switcheroo set. However, Buneary is still quite capable, and its ability to run multiple sets can make it difficult to play around.
+
+Choice Band
+########
+name: Choice Band
+move 1: Return
+move 2: Drain Punch / Jump Kick / Fire Punch
+move 3: Healing Wish / Thunder Wave
+move 4: Switcheroo
+ability: Limber
+item: Choice Band
+evs: 228 Atk / 4 Def / 236 Spe
+nature: Jolly
+
+Moves
+========
+
+Buneary's STAB Return hits foes very hard, considering its high Base Power and the Choice Band boost it receives. Drain Punch is a powerful option to hit the Rock- and Steel-types that resist Return, and it also regains a bit of health back. Jump Kick is a more powerful Fighting-type alternative to Drain Punch; however, it doesn't provide healing, and it can also be a dicey move to be locked into because it gives Ghost-type foes a free switch-in. Fire Punch ensures Buneary isn't walled by Ghost-types, particularly Pumpkaboo and Gastly, and provides super effective coverage against Ferroseed if Fighting-type coverage isn't needed. A boost to all physical attacks is great, but what makes Choice Band viable on Buneary is its ability to use Switcheroo and cripple a troublesome foe by limiting its move options. Healing Wish can be used to completely heal a teammate when Buneary is running low on HP. This can be especially useful in securing a sweep by giving a powerful teammate a second chance. Thunder Wave can be used instead to cripple strong foes such as Mienfoo, Pawniard, and Archen if Buneary is about to go down.
+
+Set Details
+========
+
+The given EVs allow Buneary to reach 19 Speed and a whopping 24 Attack with Choice Band. Limber nullifies the enemy's attempts to ruin Buneary's Speed by paralyzing it and is used over Klutz because Choice Band's 50% boost will not apply with Klutz.
+
+Usage Tips
+========
+
+This set reaches its peak offensive potential mid-game or late-game after foes are softened up a bit, so all-out attacking early in the game is a bad idea, as Buneary's bulk is quite low without Eviolite. Many players will assume Buneary is running Klutz, so you can play mind games by making them think Buneary is running the Switcheroo support set or something not offensive; this bluff can cause the opponent to misplay. Switcheroo should be reserved for a carefully-thought-out play; only use it when you are sure it's the right moment to, as Buneary usually won't get the Choice Band back and its offensive presence becomes stunted afterward. Switcheroo also lets Buneary steal Berry Juice to heal itself, while preventing it from healing the original holder, which is reasonably easy to do with 19 Speed.
+
+Team Options
+========
+
+A strong Dark-type or a Pursuit user such as Pawniard, Stunky, Houndour, or Munchlax helps remove the Ghost-types that wall this set, making Buneary's Return and Drain Punch a lot more spammable. Anything that can take on the bulky Fighting-types that beat Buneary is a good teammate, such as Spritzee and Vullaby.
+
+Switcheroo Support
+########
+name: Switcheroo Support
+move 1: Switcheroo
+move 2: Return / Fake Out
+move 3: Heal Bell / Thunder Wave
+move 4: Healing Wish / Thunder Wave
+ability: Klutz
+item: Choice Band / Flame Orb
+evs: 236 HP / 4 Def / 236 Spe
+nature: Jolly
+
+Moves
+========
+
+Fake Out is a priority move that provides free damage and item scouting so that you can know what to expect upon using Switcheroo. Return is a reliable STAB attack that is decently powerful and can be used with Buneary's 19 Speed to make it less passive under pressure. Switcheroo gives a foe, particularly a bulky wall such as Ferroseed or Spritzee, a crippling item, depriving it of its preferred item. Heal Bell can be used mid- or late-game to rid Buneary's team of all status and often assure victories. Healing Wish has a similar purpose but instead allows any non-fainted teammate to come in with completely restored health and status; this can often make impossible comebacks possible and eliminates the drag of having an important Pokemon degraded to death fodder upon taking a hard hit, being statused, or both. Furthermore, this move has very limited distribution and Buneary is the fastest user of it. Thunder Wave is an option for crippling foes such as Pawniard, Archen, and Mienfoo if Buneary is about to go down.
+
+Set Details
+========
+
+A Jolly nature with 236 Speed EVs allows Buneary to reach the important 19 Speed tier, while the remaining EVs in HP and Defense give Buneary the highest possible physical bulk. The given spread allows Buneary to hit 25 HP, a number that minimizes passive damage from entry hazards or a burn.
+
+Usage Tips
+========
+
+You cannot play recklessly with Buneary. Its defenses aren't stellar even with full investment, and a misprediction can sometimes be disastrous. Fake Out really helps with deciding when to go for Switcheroo, as you can gauge the damage to tell if the foe is holding Eviolite or not; however, Return can be used to clean late-game if necessary but usually should not be used too early in a match unless it will secure a KO. Klutz allows Buneary to hide its item because none of the usual effects will activate, letting Buneary use Switcheroo to cripple a foe out of the blue at an opportune moment. If Buneary is using Flame Orb, it can cripple most physical attackers while also taking away their preferred item; this is effective in the long run because it doesn't miss like Will-O-Wisp and cannot be healed by Heal Bell or Aromatherapy, as it activates at the end of every turn as long as the enemy holds it. If Buneary is using Choice Band, it can cripple most special attackers and walls while taking away their preferred item; locking the foe into an attack can provide a teammate with a valuable free switch, and Pokemon that rely on their support move pool will be severely hindered.
+
+Team Options
+========
+
+Anything that can come in on Fighting-type Pokemon makes for a good teammate, such as Ponyta, Spritzee, and Vullaby. Pokemon that hate being limited by status problems are happy to have Buneary as a teammate to help keep them in good shape if needed. Anything that can get Buneary in safely via U-turn or Volt Switch while forcing switches will allow Buneary the opportunities it needs to scout the opponent's team and find the right time to use Switcheroo; Pokemon that come to mind for this role include Mienfoo, Chinchou, Magnemite, Larvesta, and Vullaby. Things that can deal with Taunt users, particularly Cottonee, Onix, and Mienfoo, also make for good teammates.
+
+Other Options
+########
+
+Buneary has access to Ice Punch, Thunder Punch, Iron Tail, Power-Up Punch, and even Circle Throw, but the offensive options listed in the Choice Band set are generally more viable. Assault Vest can be used on the Klutz set in order to cripple clerics and walls such as Spritzee and Ferroseed; however, a Choice item will normally cripple these foes just as well. Buneary is the only viable Pokemon in LC to get both Baton Pass and Cosmic Power. With Eviolite, Buneary  becomes very bulky after a Cosmic Power boost, which it can then pass to a teammate. Fling can be used with an Iron Ball to get a high-powered attack against the Ghost-types that Buneary has trouble with; however, Switcheroo is generally better anyway due to how it can permanently cripple enemies while stealing their items in the process. Buneary gets Magic Coat, which could be used to deflect Taunt or other disruptive moves that might be aimed at Buneary to cripple it. Focus Sash can be used with Endeavor and Quick Attack, making Buneary an effective user of the FEAR tactic, but its other options are more viable in LC. Buneary also has the high Speed to use Flail after activating its Focus Sash, making it very deadly as long as there are no priority users, faster Pokemon, or Rock-, Steel-, or Ghost-types left on the opponent's team.
+
+Checks & Counters
+########
+
+**Fighting-types**: Vacuum Wave Croagunk and Mach Punch Timburr can negate Buneary's impressive 19 Speed with their STAB priority attacks and often either OHKO Buneary or put it in a bad position. Many other Fighting-types such as Mienfoo and Scraggy are bulky enough to take a Choice Band Return and heal off the damage taken with Drain Punch.
+
+**Ghost-types**: Although not many Ghost-type Pokemon can risk being crippled by a Choice Band, Ghost-types such as Gastly and Pumpkaboo can easily come in on Buneary if it is locked into Return or Drain Punch.
+
+**Taunt Users**: Taunt users can put any support set Buneary runs out of commission; however, Cottonee is the only one that outspeeds Buneary, due to Prankster.
+
+**Physical Walls**: While they don't like to be crippled by items, physically bulky Pokemon such as Vullaby, Timburr, Ponyta, Spritzee, and Tirtouga can come in on a resisted Choice Band attack and either attack or heal.
+
+**Choice Scarf Users**: Mienfoo, Pawniard, Drilbur, and Bunnelby all outspeed Buneary and can hit it very hard, as Buneary isn't very bulky without Eviolite. 

@@ -1,0 +1,50 @@
+[Overview]
+
+<p>Shedinja is a very risky Pokemon to use in NU. While its niche in Wonder Guard lets it wall several dangerous Pokemon, such as Samurott, Jynx, and Ludicolo, it requires a lot of support, as Shedinja easily falls to all forms of residual damage. Rapid Spin and Magic Bounce support is essential when using it; however, this limits the Pokemon usable with Shedinja to only a few choices. On a properly supported team, however, Shedinja can function as an effective pivot, switching into moves and using Baton Pass for momentum and can even take advantage of Wonder Guard to easily set up Swords Dance and attempt a sweep.</p>
+
+[SET]
+name: Pivot
+move 1: Baton Pass
+move 2: Will-O-Wisp
+move 3: Protect
+move 4: Shadow Sneak
+item: Focus Sash / Lum Berry
+nature: Brave
+evs: 252 Atk
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>This set can switch in on offensive threats that do not have a way to hit it and gain switching momentum with Baton Pass. It can also bring in frail teammates safely thanks to its low Speed. Will-O-Wisp helps cripple many physical attackers that try to force Shedinja out. It is also Shedinja's only way to hit Pokemon that are immune to Shadow Sneak. Protect helps Shedinja scout for unexpected moves, such as a super effective Hidden Power. Finally, Shadow Sneak allows Shedinja to pick off weakened foes and prevents it from becoming Taunt bait. In addition, it can OHKO Jynx after entry hazard damage.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The item choice focuses on giving Shedinja a second chance against mispredictions. Focus Sash allows it to live any one hit, while Lum Berry allows it to heal itself from burn or poison. Lum Berry also allows Shedinja to become one of the best Jynx counters in the tier, as it no longer fears Lovely Kiss. Minimum Speed IVs and a Speed hindering nature allows Shedinja to almost always use Baton Pass last, preventing the opponent from predicting and hitting the incoming teammate. Sucker Punch can be used for a more powerful form of priority, but it is very risky against status users.</p>
+
+<p>Shedinja absolutely needs Rapid Spin support, as without it, Shedinja cannot even enter the battlefield. Wartortle makes a good partner, as it is NU's most reliable Rapid Spin user and has good matchups against the Fire-, Flying-, and Rock-type Pokemon that can beat Shedinja. Natu is also a great partner thanks to its ability to bounce back entry hazards. Entry hazard support is also useful thanks to Shedinja's ability to force switches. Garbodor is bulky enough to take hits, doesn't stack weaknesses, and can provide Spikes support. Bastiodon and Probopass resist all of Shedinja's weaknesses bar Fire, have Magic Coat to prevent opposing entry hazards, and can reliably set up Stealth Rock. Golem and Seismitoad resist some of Shedinja's weaknesses and can reliably set up Stealth Rock as well. Sawk and Gurdurr can come in on and defeat the Dark-types that threaten Shedinja. It is generally a good idea to have teammates that resist Shedinja's weaknesses, as they will often be targeted at it, thus granting switch-in opportunities.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Shadow Sneak / Shadow Claw
+move 3: X-Scissor
+move 4: Protect / Will-O-Wisp
+item: Focus Sash / Lum Berry
+nature: Adamant
+evs: 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>This set takes advantage of Shedinja's decent Attack stat, making use of its numerous switch-in opportunities to set up Swords Dance. It is capable of dishing out major damage should it set up, and in tandem with priority Shadow Sneak, it easily cleans up late-game. However, do note that Shedinja would get forced out often thanks to its inability to take hits. Shadow Sneak is Shedinja's priority move, mitigating its low Speed by allowing it to hit first. Shadow Claw is an alternative to hit harder, but the lack of priority makes it inferior, and because this set is supposed to clean up a weakened team, power isn't necessary. X-Scissor is Shedinja's most powerful move, and it grants Shedinja coverage against Normal- and Dark-type Pokemon. Protect helps scout for unexpected moves and preserves Shedinja's life. Will-O-Wisp is an alternative to help cripple physical attackers on the opposing team and lets it avoid Sucker Punch.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The item choice is one between insurance against either attacks or status. Both give Shedinja the opportunity to 2HKO opposing Pokemon. Shedinja absolutely needs entry hazards to be off the field to get its job done. Hence, Rapid Spin users are compulsory teammates. Wartortle is the most reliable spinner and shares decent synergy with Shedinja. However, Shell Smash Torkoal is a superior option if an offensive spinner is needed. Natu is also a good teammate, as it can prevent entry hazards from landing on your side with Magic Bounce. This set also appreciates the presence of entry hazards on the opposing side of the field in order to help it grab the KOs it needs. Garbodor does not stack weaknesses with Shedinja and can provide Spikes. Bastiodon, Seismitoad, and Golem also share decent synergy with Shedinja and can set up Stealth Rock.</p>
+
+[Other Options]
+
+<p>Shedinja's movepool is small, so do not expect to find many viable options here. Toxic is a decent option that gives Shedinja the ability to hurt Fire-types, which Will-O-Wisp cannot do. Dig can be used to break down Steel-types that wall it, but that also means giving Flying-types a free switch, which Shedinja does not appreciate. Hone Claws and Baton Pass can be used to pass boosts to its teammates, which makes use of its immunities to find set-up opportunities, although it's outclassed in this regard by Ninjask, who has better boosts to pass. Night Slash can be used to gain coverage on Fire-, Normal-, and Ghost-types all at once, but it is inferior to Shadow Claw due to the lack of STAB. Sunny Day can be used to negate sandstorm and hail damage, but these are so rare that it's not worth the moveslot to get rid of them. Shedinja can, however, become a decent pivot for sun teams. A Choice Band set can be used, but given that it no longer has the insurance granted by Focus Sash or Lum Berry, it becomes much riskier. Air Balloon can be used to avoid Spikes, but it is extremely gimmicky and has no use otherwise. Confuse Ray or Swagger can be used, but they add to the risk factor. Grudge can be used to discourage Choiced attackers from attacking, but Shedinja's low Speed means it is difficult to pull off.</p>
+
+[Checks and Counters]
+
+<p>Any entry hazard will kill Shedinja immediately, so your best bet is to keep them on the field. Fire-types are great checks to Shedinja, as they are immune to burn and can force it out. Most walls with a status move can switch in and kill it with status, as they often have enough bulk to stay in after Shedinja's Lum Berry has been consumed. Alomomola, Lickilicky, and Tangela can do this easily. Skuntank takes little damage from most of Shedinja's moves and can use Pursuit to defeat it immediately, but it must be wary of Will-O-Wisp. Certain Pokemon with Guts, such as Ursaring and Swellow, are completely immune to Shadow Sneak and do not mind getting burned. Garbodor has the defenses to wall Shedinja and can either KO it through Rocky Helmet recoil, Toxic, or Rock Blast or set up Spikes that would prevent Shedinja from switching in again. Steel-types completely wall Shedinja and often have a move to counter it; Probopass can use Power Gem while Bastiodon can set up Stealth Rock and phaze it out. Golem and Armaldo with Rock Blast can OHKO Shedinja through its Focus Sash, although they don't appreciate burns. Mold Breaker Sawk and Pinsir can bypass Wonder Guard but dislike getting burned. In general, anything carrying a super effective move or damaging status can counter Shedinja due to its low Speed.</p>

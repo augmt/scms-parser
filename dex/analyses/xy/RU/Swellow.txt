@@ -1,0 +1,86 @@
+Overview
+########
+
+Swellow is one of the fastest and strongest Pokemon in the tier with a blazing base 125 Speed stat alongside its ability, Guts, which lets it power through teams with STAB Facade when inflicted with status. It also obtained a new toy this generation in Boomburst, a 140 Base Power STAB move with no drawbacks. Unfortunately, Swellow is crippled by a Stealth Rock weakness that, in conjunction with the residual damage from status and Brave Bird recoil, will wear it down very quickly. Swellow's frailty also holds it back as any faster threat can demolish it with ease. A pathetic base 50 Special Attack stat also forces Swellow to run Choice Specs if it wants to do any significant damage with Boomburst. Additionally, Swellow's reliance on its STAB moves leaves it heavily walled by Rock- and Steel-type Pokemon.
+
+Guts
+########
+name: Guts
+move 1: Facade
+move 2: Brave Bird
+move 3: U-turn
+move 4: Protect / Quick Attack
+ability: Guts
+item: Toxic Orb
+nature: Jolly
+evs: 252 Atk / 4 Def / 252 Spe
+
+Moves
+========
+
+Facade is Swellow's primary STAB move, and once Toxic Orb activates, it does a ton of damage to anything that doesn't resist it. Brave Bird is Swellow's secondary STAB move and hits extremely hard at the cost of recoil damage. U-turn is used to keep up momentum against common switch-ins. Protect is a foolproof way of activating Toxic Orb with few drawbacks, but Quick Attack can be used instead to pick off weakened Pokemon.
+
+Set Details
+========
+
+Maximum Attack and Speed EVs and a Jolly nature are used to outrun as much as possible while hitting very hard. 4 Def EVs slightly lower Swellow's vulnerability to priority such as Mach Punch and gives it an odd HP number. An Adamant nature can be used to help Swellow secure KOs at the cost of much needed Speed. A Toxic Orb is used to activate Guts, which increases Swellow's damage output significantly.
+
+Usage Tips
+========
+
+Swellow shouldn't use Protect recklessly, as it potentially gives a free turn to the opposing Pokemon. Brave Bird recoil in conjunction with Toxic damage can quickly wear down Swellow, so it should generally stick to spamming Facade. On predicted Steel- and Rock-type switch-ins, it should U-turn to something that counters them. All in all, use Swellow to revenge kill throughout the match and clean up late-game.
+
+Team Options
+========
+
+Defog or Rapid Spin support from Pokemon such as Gligar and Claydol is a necessity to keep Stealth Rock away. Fighting-types are great teammates as they can take down most of the Steel- and Rock-type Pokemon that wall Swellow. Volt Switch users such as Jolteon and Rotom-C can be nice to create a VoltTurn core with it. Hitmonlee is an excellent teammate as it threatens every Rock- and Steel-type in the tier and can also spin hazards away. Dugtrio can also be a great teammate as it can trap Rock- and Steel-types and severely damage them with Earthquake.
+
+Boomburst
+########
+name: Boomburst
+move 1: Boomburst
+move 2: Air Slash / Endeavor
+move 3: Hidden Power Grass
+move 4: U-turn
+ability: Scrappy
+item: Choice Specs
+nature: Timid
+evs: 4 Def / 252 SpA / 252 Spe
+
+Moves
+========
+
+Boomburst is extremely powerful, even coming off of Swellow's low base 50 Special Attack, and it has a surprise factor to it. Air Slash provides a secondary STAB, but Endeavor can also be useful in crippling Steel-type switch-ins bar Doublade. Hidden Power Grass is only useful in hitting Rhyperior. U-turn, although weak, is excellent at providing momentum.
+
+Set Details
+========
+
+Maximum Special Attack and Speed EVs alongside a Timid nature are used to outpace as many Pokemon as possible while hitting very hard with Boomburst. 4 Def EVs slightly decrease damage taken from priority moves and give Swellow an odd HP stat. Outspeeding threats like Cincinno and Dugtrio is important, but Swellow can run a Modest nature to increase its power output at the cost of valuable Speed. Choice Specs is the only viable item on this set to make up for Swellow's poor base 50 Special Attack. Scrappy enables Swellow to hit Ghost-types with Boomburst, making it the ability of choice.
+
+Usage Tips
+========
+
+Use Swellow to revenge kill as well as clean up late-game. Boomburst should be the most used move on this set because it hits extremely hard and has a lot more power than Swellow's other moves. If lacking Endeavor, Swellow should use U-turn on predicted Steel- and Rock-type switch-ins; if Endeavor is run, then Swellow should cripple every Rock- and Steel-type switch-in bar Doublade with it so a teammate can switch in and finish them off. Air Slash should only be used if it is super effective against the opposing Pokemon.
+
+Team Options
+========
+
+Fire-, Fighting-, and Ground-type Pokemon such as Moltres, Cobalion, and Rhyperior are excellent at getting rid of Steel-types. Defoggers and Rapid Spinners such as Golbat and Hitmontop are appreciated as they can get rid of Stealth Rock from their side of the field. Volt Switch users like Cobalion and Heliolisk can be beneficial to create a VoltTurn core with Swellow. Hitmonlee is an excellent teammate as it threatens every Steel- and Rock-type in the tier and can Rapid Spin entry hazards away. Dugtrio is also a great teammate as it can trap Steel-types and wipe them out with STAB Earthquake.
+
+Other Options
+########
+
+Pursuit can be useful to trap Psychic- and Ghost-types that may feel threatened by Swellow's presence, but it's difficult to find a spot for it. A set consisting of Substitute, Roost, and Flame Orb can be used to benefit from the switches that Swellow forces, but it prefers to hit and run, especially with the many Rock- and Steel-type that roam the tier. A set utilizing Work Up can be useful, especially against walls that rely on recovery, but it's sadly incompatible with Boomburst. Finally, an Agility Baton Pass set can be utilized to give Swellow a more supportive role and let it capitalize on the switches that it forces, but it's incredibly frail and is outclassed in the role of a Baton Passer by Combusken.
+
+Checks & Counters
+########
+
+**Rock- and Steel-types**: Rock- and Steel-types such as Rhyperior and Doublade resist both of Swellow's STAB moves and laugh at U-turn, but the former must be careful around Hidden Power Grass.
+
+**Jolteon**: Jolteon is the only relevant Pokemon in RU that can naturally outspeed Swellow and OHKO it with STAB Thunderbolt, but it must be wary of Quick Attack, which can deal a nice chuck of damage.
+
+**Choice Scarf, Speed Boost, and Unburden Pokemon**: Pokemon that rely on these items and abilities, such as Delphox, Yanmega, and Hitmonlee, will usually outspeed Swellow and wipe it out with ease.
+
+**Physical Walls**: Physical walls such as Alomomola can stall out the Guts set by staying healthy with Wish and letting Toxic damage rack up, but they must watch out for Boomburst.
+
+**Special Walls and Assault Vest users**: Specially defensive Pokemon and Assault Vest users such as Slowking and Meloetta can take multiple hits from Choice Specs Swellow and threaten it out with their STAB moves.

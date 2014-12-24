@@ -1,0 +1,133 @@
+[Overview]
+
+<p>Houndoom is UU's most powerful Nasty Plot sweeper, and often the most deadly as well. Its great dual STAB and auspicious stat distribution allow Houndoom to cut through unprepared or weakened teams like a hot knife through butter. Although its function is fairly one-dimensional, Houndoom's methods can vary greatly between sets, and this versatility is what makes Houndoom such a dangerous threat. Each of its sets has a different trick up its sleeve, and making assumptions about which set you're facing can often lead to your demise. Unfortunately, Houndoom's Stealth Rock weakness and subpar defensive stats mean it cannot take hits nearly as well as it gives them out.</p>
+
+[SET]
+name: Nasty Plot Mixed Attacker
+move 1: Nasty Plot
+move 2: Fire Blast
+move 3: Dark Pulse
+move 4: Sucker Punch
+item: Life Orb
+ability: Flash Fire
+nature: Hasty
+evs: 100 Atk / 184 SpA / 224 Spe
+
+[SET COMMENTS]
+
+<p>This is Houndoom's bread-and-butter Nasty Plot set. Fire Blast and Dark Pulse are both used on this set to make the most of the excellent coverage afforded by Houndoom's dual STABs. Fire Blast is Houndoom's preferred sweeping move due to its high Base Power, while Dark Pulse hits the Fire-, Water-, and Rock-type Pokemon who resist Fire Blast for heavy damage. After a Nasty Plot, Moltres, Arcanine, and Rhyperior are OHKOed, and Milotic loses upwards of 70% HP.</p>
+
+<p>It may be odd to see Sucker Punch, a physical attack, on a Nasty Plot set, but the move is actually an excellent tool for Houndoom, both in assisting its own sweep and in putting a stop to opposing sweepers. Sucker Punch always OHKOes 4 HP Dugtrio after Stealth Rock, which means without Substitute and good prediction it cannot stop Houndoom's sweep. Sucker Punch also prevents Choice Scarf Rotom, most Alakazam, and some Mismagius from revenge killing Houndoom. Finally, even when Houndoom is not attempting a sweep, Sucker Punch allows it to finish off faster, weakened foes.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Flash Fire is used instead of Early Bird to boost Houndoom's offensive potential; for example, if Houndoom switches into Weezing's or Arcanine's Will-O-Wisp, the subsequent +2 Fire Blast will be able to 2HKO Chansey. Since Houndoom is using both physical and special attacks, a Timid nature isn't optimal. Hasty is advisable instead of Naive because it makes more sense to lower Houndoom's already dismal Defense rather than to sacrifice its decent Special Defense. Also, Houndoom's resistances are usually seen in the form of special attacks (notably Shadow Ball), and higher Special Defense means it is easier to set up on weak special attackers, such as Weezing with Sludge Bomb.</p>
+
+<p>The EVs may seem complicated at first glance, but fulfill specific purposes. 224 Speed EVs and a Hasty nature are used to outpace Timid Rotom along with all slower Pokemon, including Timid Moltres and Venusaur. 100 Attack EVs with a Life Orb are necessary to ensure Sucker Punch always OHKOes 4 HP Dugtrio after Stealth Rock damage. The remaining EVs are put into Special Attack to maximize Houndoom's offensive punch. If you want Houndoom to tie with opposing base 95 Speed Pokemon, such as Leafeon and Drapion, you can shift a few EVs into Speed; however, this isn't the recommended spread since Houndoom needs as many EVs as possible to spread between its attacking stats.</p>
+
+<p>Houndoom is hard to counter perfectly because of its high damage output, but there are a few Pokemon who are good switch-ins. Milotic, particularly specially defensive variants, can take a boosted Dark Pulse at full health and KO Houndoom with Surf. Physically defensive Milotic should be wary of taking too much previous damage, though, as Dark Pulse deals 63.4% - 74.8%. Chansey can stall Houndoom out with Toxic and Wish / Protect as long as Houndoom doesn't get a Flash Fire boost. Note that if Houndoom starts using Nasty Plot on Protect, Chansey will probably have to switch out a turn or two before Toxic kills Houndoom (perhaps to a Pokemon who resists or is immune to Fire, or a sacrifice). Azumarill resists Houndoom's primary STAB, doesn't lose too much HP to an unboosted Dark Pulse, and can use its priority Aqua Jet to OHKO Houndoom before Houndoom can attack again. There are three Pokemon in UU that resist the combination of Fire- and Dark-type attacks: Houndoom, Blaziken, and Thick Fat Hariyama. Against other Houndoom, the Houndoom who has more boosts under its belt wins with Dark Pulse. Blaziken is frail and doesn't appreciate eating Fire Blast too often, but its Vacuum Wave makes quick work of Houndoom. Thick Fat Hariyama with a specially defensive spread is an excellent Houndoom counter. Its "weakness" is its low utility outside of this role, as other common Fire-types in UU either have strong physical attacks (Arcanine and Blaziken) or have a super effective STAB attack (Moltres). Faster Pokemon who can take a Sucker Punch, such as Tauros, Scyther, and Ambipom, are good revenge killers.</p>
+
+<p>If you're not keen on using Sucker Punch on this set, there are some Hidden Powers that may interest you. Hidden Power Flying hits two of the three UU Pokemon who resist Houndoom's STAB combination (the last, other Houndoom, is not a big concern) super effectively, but has no utility outside of that. Hidden Power Grass is one-sixth more powerful than Dark Pulse against Water-types, but even so, cannot OHKO Milotic. Obviously, if you use Hidden Power in the last slot, Houndoom doesn't require any Attack EVs, so a simple 252 SpA / 4 SpD / 252 Spe spread with a Timid nature works best. A Modest nature also becomes more viable with Hidden Power Grass, since Houndoom can then OHKO Bold Milotic with a bit of residual damage.</p>
+
+[SET]
+name: Mixed Attacker
+move 1: Pursuit
+move 2: Sucker Punch
+move 3: Crunch / Thunder Fang
+move 4: Fire Blast / Overheat
+item: Life Orb
+ability: Flash Fire
+nature: Hasty
+evs: 252 Atk / 32 SpA / 224 Spe
+
+[SET COMMENTS]
+
+<p>Even though Houndoom's higher offensive stat is Special Attack, it would be a shame to waste its base 90 Attack stat, especially when it is backed up by STAB attacks like Pursuit and Sucker Punch. The main draw of this set is its ability to efficiently eliminate opposing Ghost-types, especially Rotom and Mismagius. While there are several viable UU Pokemon with STAB Pursuit, Houndoom is the only one immune to Will-O-Wisp, which greatly enhances its performance against defensive Ghost-types.</p>
+
+<p>Pursuit is a given to take advantage of Houndoom's ghostbusting abilities. Sucker Punch is an excellent utility move for Houndoom, as with proper prediction it allows Houndoom to eliminate weakened sweepers and faster threats like Alakazam. Crunch is the preferred option in the third slot; while it may seem odd to use three physical Dark-type attacks on the same set, Pursuit and Sucker Punch are only situationally useful attacks, while Crunch provides reliable power. Thunder Fang is also an option in this slot if you're concerned about hitting Moltres and Milotic for more damage. It almost always OHKOes Moltres after Stealth Rock damage (Crunch doesn't on average) and means Milotic must think twice before switching in if it is moderately weakened. Finally, Houndoom uses a high-powered special Fire-type attack in the last slot to blast through Pokemon like Donphan, Tangrowth, Venusaur, and Registeel. Fire Blast deals more damage than Overheat over two turns, but Overheat is more effective against physically bulky targets neutral to Fire, such as Donphan, and against Pokemon who would force Houndoom out before it gets a second chance to attack.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The Speed EVs let Houndoom outpace Timid Rotom. Attack is maximized, and the remaining EVs are placed into Special Attack to power up Fire Blast. Houndoom needs a Speed-boosting nature that doesn't lower either of its offensive stats; Naive is out of the question as it makes Houndoom take more damage from Mismagius's and Rotom's Shadow Ball and Thunderbolt, so Hasty is chosen.</p>
+
+<p>Mixed Houndoom is arguably the best way to eliminate Ghost-type Pokemon in UU. It cannot be burned, and the combination of Pursuit and Sucker Punch means the only way Rotom and Mismagius can escape is if they use Thunderbolt or Hidden Power Fighting on the switch and also win the subsequent prediction game. Spiritomb, the final UU Ghost-type, is not hit super effectively by Houndoom's Dark-type attacks, but usually cannot deal any significant damage in return. Combined with the possibility of Houndoom using Nasty Plot, Spiritomb is likely to switch out, allowing Houndoom to weaken it with Pursuit. Pokemon that benefit from the absence of Ghosts are good teammates for Houndoom. Donphan is probably the most effective; Houndoom traps and eliminates the Ghost-types that threaten to block Rapid Spin, and in return Donphan spins away Stealth Rock for Houndoom. The pair also have decent synergy together, as Mismagius or Rotom switching into Donphan are more likely to use Shadow Ball or Will-O-Wisp than Thunderbolt or Hidden Power Fighting. Choice Band users like Tauros or Hitmonlee also enjoy Ghost-types out of the way so they can use their STAB attacks with greater freedom. Swords Dance Toxicroak is also a very effective partner. Defensively, Toxicroak loves switching into Water attacks aimed at Houndoom, while Houndoom gets free switches when Toxicroak is targeted by Psychic-type moves. Many teams counter Swords Dance Toxicroak with either a Ghost-type packing Will-O-Wisp or a Psychic-type like Uxie; Houndoom is able to remove both of those counters, although it might get paralyzed by Uxie's Thunder Wave.</p>
+
+<p>Using a specially-based spread and Dark Pulse over Crunch is also an option. 100 Atk / 184 SpA / 224 Spe is recommended; the Attack EVs guarantee a Sucker Punch OHKO on Dugtrio after Stealth Rock. This variant performs better against Registeel, Slowbro, Moltres (Dark Pulse OHKOes with Stealth Rock while Crunch does not on average), and Intimidate Arcanine, but cannot 2HKO Chansey and deals less damage to Milotic. Pursuit and Sucker Punch become weaker as well; while Houndoom still OHKOes switching Rotom and Mismagius with Pursuit, the decrease in power is noticeable when using non-switch Pursuit and Sucker Punch.</p>
+
+[SET]
+name: Nasty Plot
+move 1: Nasty Plot
+move 2: Fire Blast
+move 3: Dark Pulse
+move 4: Hidden Power Grass / Beat Up
+item: Passho Berry
+ability: Flash Fire
+nature: Timid
+evs: 252 SpA / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>Standard Nasty Plot Houndoom has issues getting past Water-type Pokemon--both defensive ones, such as Milotic, and offensive ones with Aqua Jet, such as Azumarill and Kabutops. With a Passho Berry, Houndoom has a good shot at beating all three. After one Nasty Plot, Hidden Power Grass 2HKOes Milotic, OHKOes Kabutops, and has a good chance of OHKOing Azumarill after Stealth Rock damage. Fire Blast and Dark Pulse provide great coverage in tandem, hitting every UU Pokemon outside of Blaziken, Houndoom, and Thick Fat Hariyama for at least neutral damage. Beat Up can be used instead of Hidden Power Grass in the last slot. If your team has three or four healthy team members left, it will usually OHKO Chansey, who otherwise walls this set. This does make Houndoom less effective against opposing Water-types, but Dark Pulse can usually pick up the slack, as it will still OHKO Kabutops and 2HKO Bold Milotic.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>A Timid nature and straightforward EV spread are used to maximize sweeping potential. To deal more damage to specially defensive Milotic, especially variants with Haze, a Modest nature can be used instead. This still allows Houndoom to outpace base 80 Speed Pokemon like Venusaur and Kabutops, but makes it slower than Rotom, Moltres, Toxicroak, and Qwilfish.</p>
+
+<p>In contrast to most Houndoom sets, this one is supposed to take a hit when it attempts a sweep. This means you should take care in keeping Houndoom's health relatively high, lest it gets weakened to the point that a Water attack KOes it through the Passho Berry. For example, Azumarill's Choice Band Aqua Jet has a fair chance to OHKO Houndoom if it has taken Stealth Rock damage but cannot KO a full HP Houndoom. Alternatively, if Houndoom switches into a mispredicted Sludge Bomb from defensive Weezing and Stealth Rock is up, it won't have enough health left to survive Milotic's Surf. Beyond highlighting the importance of playing this set carefully, these examples also illustrate why Rapid Spin support is important for this Houndoom. Donphan and Kabutops are the spinners most likely to fit on a team with Houndoom due to their offensive nature, but Hitmontop and Blastoise are solid choices as well.</p>
+
+<p>Since Houndoom often lures and KOes the opposing team's bulky Water, it makes a good teammate for Pokemon that appreciate their absence. Feraligatr, especially bulky variants, have a much easier time sweeping when Milotic is eliminated. Bulky stat boosters like Curse Registeel, Calm Mind Spiritomb, and Calm Mind Clefable also benefit from the absence of Haze Milotic, since Milotic is many teams' primary counter to these Pokemon. Rock Polish Rhyperior and Aggron become more effective when Aqua Jet Azumarill and Kabutops are eliminated, and they certainly don't mind Houndoom weakening Milotic and Blastoise. </p>
+
+<p>This set mainly has problems with faster sweepers, priority attacks, and Chansey. Alakazam, Swellow, Scyther, Dugtrio, and most other faster, moderately powered sweepers can take Houndoom down with a STAB or super effective attack. While Passho Berry provides a buffer against Aqua Jet, it does nothing to alleviate the damage done by Arcanine's Extreme Speed or Blaziken's Vacuum Wave, both of which deal upwards of 70% to Houndoom.</p>
+
+[SET]
+name: Lead
+move 1: Fire Blast
+move 2: Dark Pulse
+move 3: Sucker Punch
+move 4: Hidden Power Grass / Pursuit
+item: Focus Sash / Lum Berry
+nature: Naive
+evs: 32 Atk / 252 SpA / 224 Spe
+
+[SET COMMENTS]
+
+<p>Houndoom has the Speed and offensive capabilities to act as an effective anti-lead. It has great coverage with its dual STAB, and the given moveset allows Houndoom to effectively deal with the most common UU leads. Dark Pulse deals with Uxie, Mesprit, and Alakazam, while Fire Blast is useful against Spiritomb, Scyther, Nidoking, and Pinsir. Sucker Punch gives Houndoom the advantage over other attacking leads as it allows him to beat Focus Sash and priority users. Hidden Power Grass allows Houndoom to win against Cloyster, Omastar, Kabutops, and Rhyperior leads, but Pursuit can be used to trap leads like Mismagius who will most likely switch out.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Houndoom has a variety of options to choose from depending on specific team needs. Focus Sash protects Houndoom against faster Pokemon and mispredictions, while using Lum Berry aids it against Uxie's Thunder Wave. Counter, when combined with a Hasty nature, Defense IV of 0, and Focus Sash, can be used to score a surprise KO against physical leads. Taunt prevents entry hazards from being set up. An alternative EV spread of 4 Atk / 252 SpA / 252 Spe can be used to Speed tie with Leafeon and Arcanine at the cost of a slightly weaker Sucker Punch. Picking Early Bird will make it easier for Houndoom to come out on top against sleep-inducing leads, but Flash Fire has more overall utility.</p>
+
+<p>Although Houndoom is frail, it still has its uses later in the game. The given EVs allow it to outspeed Rotom, which also means it is faster than Moltres and Venusaur. Toxicroak makes a great teammate for Houndoom as it loves switching into Milotic, one of the most reliable counters for this set.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Overheat
+move 2: Dark Pulse
+move 3: Pursuit
+move 4: Hidden Power Grass / Toxic
+item: Choice Scarf
+nature: Hasty
+ability: Flash Fire
+evs: 84 Atk / 196 SpA / 228 Spe
+
+[SET COMMENTS]
+
+<p>Houndoom usually doesn't have Speed issues, but attaching a Choice Scarf makes it a competent revenge killer for Rock Polish sweepers as well as naturally faster Pokemon like Mismagius, Alakazam, and Sceptile. Houndoom's Overheat and Dark Pulse provide great coverage, hitting the majority of the metagame for at least neutral damage. Pursuit is really what sets Houndoom apart from other Choice Scarf Pokemon, since it places Rotom and Mismagius in a checkmate position. Hidden Power Grass hits Rhyperior for big damage, while Toxic can cripple a predicted Milotic switch-in.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>228 Speed EVs ensure Houndoom is one point faster than Jolly Rock Polish Torterra and three points faster than Timid Choice Scarf Rotom. It takes too many Attack EVs to guarantee that Pursuit always OHKOes a switching 252 HP Mismagius, but 84 EVs ensures that if Stealth Rock is up and Mismagius switches out of Pursuit, it cannot switch back in without fainting to entry hazards (in other words, Pursuit takes off at least 13/16th of Mismagius's HP). The remaining EVs are dumped into Special Attack to power up Houndoom's main moves. If you find this set isn't hitting hard enough, changing its nature to Mild and / or shifting EVs into Special Attack is acceptable. A Mild nature and 160 Speed EVs will beat Jolly Rock Polish Aggron, while 124 EVs are required to outpace Adamant Rock Polish Torterra. As always, a Defense-lowering nature is preferable to make the most of Houndoom's decent Special Defense and resistance to Ghost- and Dark-type attacks.</p>
+
+<p>As with most revenge killers, Houndoom is prone to being setup bait after it scores a KO. Opposing Houndoom and Blaziken set up on all of Houndoom's attacks, Water-type sweepers like Kabutops and Feraligatr set up on Overheat, and Toxicroak and its fellow Fighting-types set up on Dark Pulse. Finding Pokemon to cover every possible sweeper isn't very efficient, so checking to see if your team can handle the opponent's likely set-up sweeper during a battle is recommended before you lock Houndoom into an attack. It may be tempting to use Fire Blast instead of Overheat to let less Pokemon set up, but Overheat's extra power is appreciated for a set that doesn't have a boosting item or maximized Special Attack. Plus, any Pokemon that can set up on -2 Overheat can probably also set up on Fire Blast.</p>
+
+[Other Options]
+
+<p>For all sets using Life Orb, a 29 HP IV decreases Life Orb recoil. With a perfect IV, Houndoom has an HP stat of 291, meaning it loses 29 HP to Life Orb recoil, while with a 29 HP IV it only has an HP stat of 289, corresponding to 28 HP lost to recoil. Although 29 HP IV Houndoom initially starts off with two fewer HP than 31 HP IV Houndoom, it gains one point relative to its counterpart every time it attacks; after two attacks, both Houndoom have equal HP, and at three or more attacks, 29 HP IV Houndoom comes out ahead. Basically, your choice should come down to how many attacks you expect Houndoom to fire off before it is KOed.</p>
+
+<p>Essentially all of Houndoom's viable moves and items have been mentioned in one set or another, and you can mix and match these moves and items to other sets to fit specific needs. For example, if you find that you like the power that Life Orb brings but want to retain the ability to OHKO Chansey with Beat Up, you can replace Sucker Punch with Beat Up on the Life Orb set. One option that hasn't been mentioned, though, is the Rest + Early Bird combination. This grants Houndoom the ability to fully restore HP and remove status effects at the cost of only one turn. Early Bird Houndoom can use Nasty Plot along with Flamethrower and Dark Pulse, or it can even use Flamethrower, Toxic, and Taunt with a specially defensive spread of 252 HP / 4 SpA / 252 SpD with a Calm nature to serve as an effective stallbreaker.</p>
+
+[Checks and Counters]
+
+<p>Houndoom's most reliable counter is specially defensive Milotic with Haze. Physically defensive Milotic also works quite well in most cases, although it has issues dealing with the uncommon Passho Berry Houndoom. Other Water-type Pokemon are also good switch-ins since they resist Houndoom's STAB Fire attacks. The physically oriented ones, such as Azumarill, Kabutops, and Feraligatr, commonly pack Aqua Jet, which can KO Houndoom before it is able to attack. Blastoise is essentially a lesser Milotic in terms of countering Houndoom, but can check it neatly in a pinch.</p>
+
+<p>Priority attacks are also a great way to check Houndoom. Arcanine's Extreme Speed, Blaziken's Vacuum Wave, Hitmontop's Mach Punch, and the aforementioned Aqua Jet all guarantee OHKOs on Houndoom with Stealth Rock damage. Speaking of Arcanine, specially defensive versions counter Houndoom as well since Extreme Speed (even without Attack investment) 2HKOes Houndoom, while a boosted Dark Pulse doesn't OHKO Arcanine. Finally, Houndoom's frailty leaves it easy prey for faster Pokemon with a decently powered attack, such as Scyther, Tauros, Sceptile, and Swellow. Dugtrio deserves a special mention since Houndoom cannot switch out of its Earthquake due to Arena Trap. If Houndoom has Sucker Punch, Mismagius and Alakazam should be careful when revenge killing, and Dugtrio needs Substitute to come out on top.</p>

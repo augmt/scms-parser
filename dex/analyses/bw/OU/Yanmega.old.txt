@@ -1,0 +1,51 @@
+[Overview]
+
+<p>Yanmega is a rather overlooked Pokemon in OU due to its crippling 4x weakness to Stealth Rock. However, it has access to two of the best abilities in the game: Speed Boost and Tinted Lens, each of which is worth its own set. Yanmega can either gradually increase its Speed each turn with Speed Boost, which thus allows it to eventually outspeed everything in the metagame, or it can tear through almost anything in the tier with its unresisted STAB combination, thanks to Tinted Lens doubling the power of resisted moves. Base 116 Special Attack is not shabby, either, and Yanmega also has a decent base 95 Speed stat to put it to good use. While Yanmega is no Volcarona, Tinted Lens and Speed Boost are enough to set it apart and make it viable for use in OU.</p>
+
+[SET]
+ name: Speed Boost
+ move 1: Protect
+ move 2: Bug Buzz
+ move 3: Air Slash
+ move 4: Hidden Power Ground / Hidden Power Fire
+ item: Life Orb
+ ability: Speed Boost
+ nature: Modest / Timid
+ evs: 4 Def / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>Yanmega becomes truly terrifying after a few Speed boosts, as it has a great Special Attack stat to fire off its decent dual STAB moves. Protect allows Yanmega to scout for dangerous moves from unexpected opponents while also giving it a free Speed Boost. Bug Buzz is Yanmega's strongest attack against neutral targets, and hits the many Dark- and Psychic-type threats in the tier for super effective damage. Air Slash takes care of the popular Fighting-types in the tier such as Conkeldurr, and is Yanmega's second strongest STAB attack. The final move depends on what your team needs: Hidden Power Ground destroys non-Air Balloon Heatran and Magnezone, while Hidden Power Fire hits Skarmory, Ferrothorn, and Scizor for super effective damage.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>In the final slot, Yanmega has many options such as Giga Drain, Psychic, or Shadow Ball, but both Hidden Powers provide better coverage than the aforementioned moves. Life Orb is the preferred item as it significantly increases the power of Yanmega's moves, but Leftovers is always an option to provide some passive healing, as Stealth Rock will be stripping 50% of its health each time it switches in. A Modest nature provides the most power, but a Timid nature is also an option for more initial Speed. The EV spread maximizes Special Attack and Speed, while the remaining EVs are thrown in Defense so Yanmega has an odd HP stat, allowing it to switch into Stealth Rock twice.</p>
+
+<p>Obviously, the greatest counter to Yanmega is Stealth Rock, so a reliable Rapid Spin user such as Starmie or Forretress is needed to rid Yanmega of its troublesome weakness. Magic Bounce users such as Espeon or Xatu are great alternative solutions to prevent Stealth Rock from being set up, as they reflect almost any entry hazard or support move. Blissey and Chansey wall Yanmega regardless of how many Speed boosts it has accumulated; thus, a strong Fighting-type such as Conkeldurr is useful to eliminate them before Yanmega can attempt a sweep. In addition, certain Pokemon will wall Speed Boost Yanmega depending on what type of Hidden Power it is using. If it is running Hidden Power Ground, Skarmory and specially defensive Ferrothorn can easily wall it, or even OHKO it with Brave Bird or Gyro Ball, respectively. If Yanmega chooses Hidden Power Fire, Heatran completely walls Yanmega, and has powerful Fire-type STAB moves with which it can strike back.</p> 
+
+[SET]
+ name: Choice Specs
+ move 1: Bug Buzz
+ move 2: Air Slash
+ move 3: Hidden Power Ground
+ move 4: U-turn
+ item: Choice Specs
+ ability: Tinted Lens
+ nature: Modest
+ evs: 4 Def / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>Choice Specs and Tinted Lens is a formidable combination, especially with Yanmega's dual STAB. Heatran and Skarmory are no longer safe switch-ins since a resisted Air Slash can now 2HKO both, assuming non-specially defensive spreads. Hidden Power Ground is mainly filler, as Yanmega achieves perfect coverage in just two moves, thanks to Tinted Lens. U-turn works well with Choice Specs, as it allows Yanmega to scout switch-ins, though Yanmega must be wary about using U-turn too often due to the overbearing presence of Stealth Rock in the OU metagame.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>There are many other options to use over Hidden Power Ground, but they have little to no use as their coverage is redundant and Yanmega will most likely be abusing its unresisted dual STAB moves. However, the only one worth taking note of is Giga Drain, which hits Pokemon such as Swampert and Gastrodon for huge damage, and it also heals Yanmega at the same time, making it a decent option over Hidden Power Ground. A Modest nature is preferred over Timid, as the latter doesn't really help outspeed any notable OU threats. Again, keeping Stealth Rock off the field is important for Yanmega, especially as a Choice item user, as it will most likely be switching quite a lot. Rapid Spin users, such as Tentacruel and Starmie, or Magic Bounce users such as Espeon are great teammates for Yanmega to keep Stealth Rock off the field. Yanmega really appreciates entry hazard support as once-safe switch-ins may be 2HKOed or OHKOed with a few layers of Spikes and / or Stealth Rock. Blissey and Chansey wall Yanmega to the end of the earth, so a strong Fighting-type is appreciated to take them out before Yanmega comes out to play. Paralysis support is very useful for Choice Specs Yanmega as while base 95 Speed isn't bad by any means, it is simply average, and Yanmega is thus outsped by many common Pokemon in the OU metagame.</p>
+
+[Other Options]
+
+<p>As previously mentioned, Yanmega has access to many other special moves such as Giga Drain, Psychic, Shadow Ball, and even Ancient Power, but again, they do not provide more coverage or anything else for that matter. Hidden Power Ice has some merits on the Choice Specs set to hit Dragon-types such as Dragonite harder, but is rather useless otherwise. Yanmega has access to Roost, but has a hard time fitting it into its limited moveslots, and will often be hard-pressed to find an opportunity to use it; Yanmega would much rather attack than attempt to heal itself during the battle. Hypnosis is a decent option to cripple a would-be switch-in, but it has terrible accuracy and is thus not very reliable.</p>
+
+[Checks and Counters]
+
+<p>As with most special attackers, Blissey and Chansey are Yanmega's biggest counters; however, they are literally the only counters to the Choice Specs set. Specially defensive Heatran can take almost anything Yanmega can throw at it with the exception of Hidden Power Ground. Snorlax is a decent albeit uncommon check, but is 3HKOed by Choice Specs Bug Buzz and has no reliable recovery outside of Rest. The key to defeating Yanmega is to figure out which set it is running; if it is the Speed Boost variant, either Skarmory or Heatran can wall it, while if it is the Choice Specs + Tinted Lens variant, simply bring in something faster that can OHKO it. As mentioned throughout the analysis, Stealth Rock is the biggest threat to Yanmega, stripping away 50% of its health every time it switches in, so keeping Stealth Rock on the field is the best way to take care of it.</p>

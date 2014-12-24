@@ -1,0 +1,37 @@
+[Overview]
+
+<p>At first glance, Torchic seems like a completely outclassed Pokemon, as it is outperformed offensively by a multitude of other Fire-types. Luckily, although it seems a bad thing, being a Fire-type actually provides Torchic with a small niche, as it is the only Pokemon of its type to be able to learn Baton Pass. It has extra power and a different typing than Venonat, and has multiple options that can be passed to teammates, so it isn't entirely outclassed there either. Overall, Torchic is a solid Baton Passer, but one should only use Torchic for that purpose.</p>
+
+[SET]
+name: Baton Pass
+move 1: Agility
+move 2: Baton Pass
+move 3: Fire Blast
+move 4: Hidden Power Grass / Substitute
+item: Life Orb
+ability: Blaze
+nature: Timid
+evs: 36 Def / 200 SpA / 36 SpD / 236 Spe
+ivs: 3 HP / 30 Atk / 30 SpA
+
+[SET COMMENTS]
+
+<p>Baton Pass is Torchic's best asset; Agility is by far the easiest boost to pass, as after a single use, Torchic outspeeds virtually every Pokemon, boosted or otherwise. Agility is usually the most useful move to pass as well, as even slow Pokemon will end up outspeeding most threats with the boost to their Speed. Fire Blast hits quite hard and provides Torchic with a form of offense. Hidden Power Grass is used in the fourth slot to deal solid damage to Water-types such as Chinchou, but if extra protection is desired, Substitute can be used in its place.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The listed IVs allow Torchic to reach 19 HP while still obtaining a full power Hidden Power Grass, which means that Torchic only takes 1 HP of recoil per attack. If a bulkier spread is desired, 156 HP / 36 Def / 40 SpA / 36 SpD / 236 Spe with a Timid nature with Eviolite is viable. The main use for a bulkier set would be for allowing Torchic to pass its boosts multiple times, which can be devastating to an opposing team. If using that EV spread, don't lower Torchic's HP IV, as Life Orb recoil is not an issue. Substitute is also the superior option there, as Hidden Power Grass doesn't hit hard enough without investment. Fire Blast won't hit quite as hard with those EVs, but it will still deal solid damage to many foes. Swords Dance, Hone Claws, and Curse can also be Baton Passed if desired, but these moves are more situational.</p>
+
+<p>Strong attackers that could use a boost to their Speed are great partners for this set. Cubone and Pawniard are good physical attackers, while Abra, Gastly, and Magnemite work well as special attackers. Baton Passers that are useful for a chain include Deerling, Buizel, and Mienfoo.</p>
+
+[Other Options]
+
+<p>Torchic doesn't have many other options outside of those listed. Flamethrower could be used over Fire Blast for the accuracy, but it lacks much needed power. Will-O-Wisp or Toxic could work to deal crippling status to a bulky opponent that keeps switching in to phaze, but the moves are situational at best. A set of Swords Dance, Flame Charge, Return, and Baton Pass could be used as a bit of a hybrid between a sweeper and a Baton Passer, and works well alongside teammates such as Mienfoo that enjoy both boosts.</p>
+
+[Checks and Counters]
+
+<p>Bulky Pokemon with phazing moves such as Hippopotas are the biggest obstacles standing in Torchic's way, and will prevent it from passing boosts if Natu isn't used as a teammate. Water-types that aren't weak to Grass, such as Mantyke and Tentacool, wall Torchic, but they won't stop it from passing boosts around. Drilbur outspeeds Torchic even after an Agility if sandstorm is up, and it will KO Torchic easily. Cottonee can't take a Fire Blast, but if it predicts correctly, it can come in on Agility and Encore it, basically rendering Torchic useless.</p>
+
+[Unreleased]
+
+<p>Torchic gets Speed Boost from the Dream World. It would be an amazing ability, but sadly, it is only released on Torchic as a level 10 male, causing it to be illegal in Little Cup. It would be the far superior ability if it was legal, and would also make Swords Dance a very good option for Torchic to pass.</p>

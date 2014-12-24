@@ -1,0 +1,32 @@
+[Overview]
+
+<p>Yanmega is a frail, offensive Pokemon that can demolish unprepared teams if given the chance. Its great coverage is complemented by Speed Boost, one of the scariest abilities to play against. Sadly, Yanmega has low defenses and weaknesses to common spread attacks such as Rock Slide, Blizzard, and Heat Wave. Placing Yanmega on a team thus requires good prediction and support, but it will pay off more often than not.</p>
+
+[SET]
+name: Special Attacker
+move 1: Bug Buzz
+move 2: Air Slash
+move 3: Hidden Power Ground
+move 4: Detect
+item: Life Orb
+ability: Speed Boost
+nature: Modest
+evs: 4 HP / 4 Def / 248 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>Yanmega's Life Orb-boosted attacks OHKO a huge number of Pokemon in VGC 2012. Speed Boost and Detect work very well together on this set, as not only does Detect prevent Fake Out, it also allows Yanmega to grab a Speed boost and initiate a sweep. Bug Buzz and Air Slash are Yanmega's main STAB attacks; they provide decent coverage, with the latter also packing a useful flinch rate. Rounding out the moveset is Hidden Power Ground, which severely dents the Fire- and Steel-type threats that take Yanmega's STAB moves all day. Detect is preferred over Protect as the former will not be locked out by an opponent's Imprison.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread maximizes Yanmega's Special Attack and Speed, allowing it to hit as hard and as fast as possible. Modest is the nature of choice as a Timid nature would cause Yanmega to miss out on some important OHKOs, and even with Modest, +1 Yanmega outspeeds and can OHKO Latios, Weavile, Heatran, Infernape, Abomasnow, as well as Hitmontop that do not fully invest in bulk. Outside of rain, Bug Buzz OHKOes Ludicolo as well. Maximum Speed EVs let +1 Yanmega outpace Timid Choice Scarf Chandelure and Togekiss, Adamant Choice Scarf Heracross, all non-Choice Scarf base 130 Pokemon, and tie with other Yanmega.</p>
+
+<p>In addition to having low defenses, Yanmega is also weak to many common spread moves, making building a team around it extremely difficult. In order to function properly, Yanmega needs to have at least one turn to get a Speed boost. Fake Out users help Yanmega immensely, targeting threats such as Zapdos to ease prediction. Additionally, Zapdos is the perfect Yanmega counter, as it resists both of Yanmega's STAB moves, is immune to Hidden Power Ground, and can OHKO Yanmega with Thunderbolt. Weavile and Rhyperior therefore make excellent partners for Yanmega. Weavile provides Fake Out support and can handle Zapdos, while Rhyperior can fend off Zapdos with STAB Rock Slide and draw in Electric-type attacks thanks to Lightningrod.</p>
+
+[Other Options]
+
+<p>An EV spread of 108 HP / 4 Def / 248 SpA / 148 Spe can be used to better handle weaker spread attacks, such as Garchomp's Rock Slide, while still outspeeding Crobat and Weavile after a Speed boost. Yanmega can also utilize attack-boosting Gems. For example, Bug Gem Bug Buzz puts a serious dent in common bulky Psychic-types such as Cresselia; the absence of Life Orb recoil also helps Yanmega survive Sucker Punches. Hidden Power Ice is a solid option too, to deal more damage to Zapdos and Garchomp. If running Hidden Power Ice, the EVs should be changed to 4 HP / 252 SpA / 252 Spe (or 108 HP / 252 SpA / 148 Spe) to account for the IV drop. Frisk is Yanmega's hidden ability, and although it is handy in double battles to scout an item before moves are even chosen, Speed Boost is Yanmega's main selling point.</p>
+
+[Checks and Counters]
+
+<p>Flying-type Pokemon in general give Yanmega problems. Zapdos and Thundurus resist everything Yanmega can throw at them and retaliate with super effective Electric-type attacks. Terrakion handles Yanmega with relative ease, but must be wary of Hidden Power Ground. In rain, Ludicolo in the rain is a huge threat to Yanmega, who is hard-pressed to get in two Speed boosts against a rain team. Trick Room teams also give Yanmega much grief, as Trick Room reverses the benefits of Speed Boost.</p>

@@ -1,0 +1,58 @@
+Overview
+########
+
+Barbaracle's main claim to fame in the RU tier lies in its access to Shell Smash, arguably one of the best boosting moves in the metagame, which doubles its offensive stats and Speed in a single turn. Barbaracle can easily take advantage of this with its decent base 105 Attack, and it can often set up with its relatively decent 72 / 115 / 86 defenses. Barbaracle's movepool is also well-tailored to its role, containing the EdgeQuake combo and various coverage moves such as Cross Chop and Razor Shell, most of which are boosted by its ability, Tough Claws. However, common weaknesses to Electric-, Fighting-, and Grass-type attacks mean that even non-STAB coverage moves can KO it, especially after the lowered defenses from Shell Smash. Barbaracle's Speed prior to Shell Smash sits at a low 68, and even after a boost it is easily revenge killed by most Scarf users. In addition to this, most of Barbaracle's attacking moves have imperfect accuracy, which means that it may let you down in dire circumstances.
+
+Shell Smash
+########
+name: Shell Smash
+move 1: Shell Smash
+move 2: Stone Edge
+move 3: Razor Shell
+move 4: Cross Chop / Earthquake
+ability: Tough Claws
+item: White Herb / Lum Berry
+evs: 4 HP / 252 Atk / 252 Spe
+nature: Adamant
+
+Moves
+========
+
+Shell Smash provides Barbaracle with its only real niche, doubling its Speed and Attack in a single turn. Stone Edge is its primary STAB attack, and it is chosen over Rock Slide due to its higher damage output. Razor Shell is Barbaracle's second STAB move, hitting Ground- and Rock-types super effectively, and the 50% Defense drop chance may come in handy. Cross Chop is used to hit bulky Grass- and Steel-types and comes with a useful increased critical hit ratio. Alternatively, Earthquake can be used to hit Drapion super effectively, and also hit Doublade, which otherwise walls Barbaracle.
+
+Set Details
+========
+
+An Adamant nature with maximum Attack and Speed investment is standard for an all-out physical attacker. An Adamant nature is used because Barbaracle will outspeed most relevant opponents after a Shell Smash anyway. Tough Claws is the best ability available, despite not boosting the power of Stone Edge. White Herb is used to negate the defense drops from Shell Smash, while a Lum Berry provides a layer of protection against status while setting up.
+
+Usage Tips
+========
+
+A fast Taunt forces Barbaracle to attack without a Shell Smash boost, lowering its effectiveness. If holding a Lum Berry, Barbaracle can set up on a defensive Pokemon, but otherwise, it should attempt to set up on an opponent it can force out. Grass-types pose a huge threat to Barbaracle, so this set should be used late-game when Grass-types and its checks have been sufficiently weakened or removed. Barbaracle's checks also depend on its coverage move, so avoid revealing until it they are weakened enough to the point that it will KO them.
+
+Team Options
+========
+
+Dual screens support from the likes of Meowstic-M and Uxie is appreciated, cushioning blows and allowing Barbaracle to set up more easily. Teammates that can remove sturdy physical walls such as Cofagrigus are also necessary, as Barbaracle can sometimes struggle against them. Fire-type teammates such as Delphox, Emboar, and Moltres can switch into and remove Grass-types, killing two birds with one stone. Alomomola is also a major worry for Barbaracle, being only 3HKOed by Stone Edge in most circumstances, so a Grass-type teammate such as Virizion or Rotom-C can help take it down.
+
+Other Options
+########
+
+Barbaracle has access to some interesting alternative attacks, such as Poison Jab, Earthquake, X-Scissor, Aerial Ace, and Shadow Claw, but they are mostly redundant. A Bulk Up set could also be used, but the extra setup turns leave a large window of time which the opponent can exploit. Taunt is able to shut down most walls, but Barbaracle cannot afford to give up a moveslot. Its access to Switcheroo is neat, allowing it to run a Choice item.
+
+Checks & Counters
+########
+
+**Tangrowth**: Tangrowth's monstrous physical bulk and fantastic ability in Regenerator makes it a fantastic switch-in to Barbaracle even after it has set up a Shell Smash. Tangrowth can easily stomach a +2 Stone Edge and OHKO back with a STAB move while taking little to no damage.
+
+**Alomomola**: Alomomola can fish for misses and Scald burns to an extent, due to its massive physical bulk, access to Wish, and its ability, Regenerator.
+
+**Virizion**: Virizion resists all of Barbaracle's moves except for Cross Chop, and can easily OHKO it with a 4x super effective Grass-type move. However, Virizion cannot directly switch in as it is 2HKOed by Stone Edge.
+
+**Poliwrath**: Poliwrath resists both of Barbaracle's STAB moves and can use Circle Throw to phaze it out, removing its boosts. However, Poliwrath is 2HKOed by Cross Chop, so it cannot directly switch in.
+
+**Doublade**: If Barbaracle is not running Earthquake, it cannot deal much damage to Doublade, while Doublade can just set up Swords Dance or KO Barbaracle with a combination of Iron Head + Shadow Sneak.
+
+**Offensive Pressure**: Hyper offensive playstyles can usually deter Barbaracle from setting up a Shell Smash, as it usually cannot take two attacks and will be relatively useless as soon as a faster Pokemon is sent in.
+
+**Priority**: Barbaracle's lack of priority means that moves such as Mach Punch and Sucker Punch can sometimes OHKO it after the defense drops.

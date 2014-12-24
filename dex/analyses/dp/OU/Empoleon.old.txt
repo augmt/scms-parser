@@ -1,0 +1,125 @@
+[Overview]
+
+<p>It is frankly quite a pity that Empoleon doesn't look nearly as powerful or as usable as it actually is. Empoleon's movepool isn't overflowing with coverage, nor does it have any particularly outstanding stats. However, what Empoleon does have is a unique typing that grants it an immunity and 11 resistances to some of the most common attacking types, notably Ice, Dragon, Ghost, Rock, Water, and Dark. Furthermore, Empoleon is only weak to Ground-, Fighting-, and Electric-type attacks, all of which its teammates can deal with easily. In addition to its typing, Empoleon's high Special Defense also lends it to the job of a defensive Pokemon.</p>
+
+<p>However, it is capable of much more. With both Agility and an already high Special Attack stat, Empoleon can become an extremely deadly late-game sweeper with just enough coverage to destroy entire teams. Factor in Empoleon's 4x resistance to Bullet Punch and 2x resistance to Extreme Speed, and you'll see why it's so favored late-game when most faster threats are gone.</p>
+
+<p>While Empoleon might not be used as often as other more popular OU Pokemon, don't let that trick you into thinking that this penguin isn't capable of running through your team like a hot knife through butter.</p>
+
+[SET]
+name: SubPetaya
+move 1: Agility
+move 2: Substitute
+move 3: Surf
+move 4: Ice Beam / Grass Knot
+item: Petaya Berry
+nature: Modest
+evs: 12 HP / 4 Def / 252 SpA / 240 Spe
+
+[SET COMMENTS]
+
+<p>Empoleon's signature set aims to sweep the opponent late-game with a strategy very rarely deemed effective in high-level play: Substitute, Agility, and a pinch Berry. The premise of the set is simple; wait till the late-game, switch Empoleon in on any one of its many resistances or after a revenge kill, and use Agility as your opponent switches out to a check. After an Agility boost, the only Pokemon that can outspeed Empoleon are speedy Choice Scarf users. Therefore, Empoleon can confidently use Substitute against most Pokemon to not only block incoming status, but also get it into Petaya Berry's activation range.</p>
+
+<p>Surf is Empoleon's primary STAB attack, and specifically OHKOes Heatran and 2HKOes Metagross. Due to the Petaya Berry boost, Hydro Pump's extra power is not necessary. Ice Beam, which OHKOes Dragonite and 2HKOes Togekiss, is the prime choice for providing good coverage, and also takes down Shaymin, Celebi, and Zapdos. Grass Knot can be used to take down Swampert and Suicune, but this allows many Pokemon, most notably Dragonite, to check Empoleon.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs and nature focus on maximizing Empoleon's attacking power, while 12 EVs are placed in HP so that Petaya Berry activates after three Substitutes. With 240 Speed EVs and an Agility boost under its belt, Empoleon reaches 432 Speed and outspeeds all +1 Gyarados, Dragonite, Togekiss, and Heatran. The last 4 EVs, while functionally negligible, provide the best boost when placed into Empoleon's Defense.</p>
+
+<p>As Empoleon can only have one of Ice Beam or Grass Knot, one must support Empoleon with Pokemon that take out whatever checks it. Choice Scarf Jirachi is a good teammate to Grass Knot variants because it can deal with Grass- and Dragon-types with Ice Punch, but this might not be enough to take out bulky Shaymin and Celebi. Tyranitar packs a much bigger punch with Crunch, Stone Edge, and Fire Punch, but must be wary of Grass- and Ground-type attacks.</p>
+
+<p>Blissey is the biggest problem for this set, as it takes little damage even from a boosted Empoleon's attacks; therefore, a powerful physical attacker is recommended. Both Lucario and Breloom have access to Swords Dance to boost their Attack stats to sky-high levels; the former also has Close Combat and Extreme Speed, while the latter resists two of Empoleon's weaknesses and has Spore to put an opponent to sleep. Toxic Spikes deserves a special mention here for being able to weaken and defeat both Blissey and Suicune as Empoleon repeatedly uses Substitute; many a game can be won by Empoleon setting up on a poisoned and weakened Blissey.</p>
+
+<p>Despite its slew of resistances, Empoleon is susceptible to Mach Punch users such as Breloom and Infernape, especially if said user switches in before Empoleon starts using Substitute. Furthermore, even though Empoleon is immune to sandstorm and Toxic Spikes, it must be mindful of other residual damage, such as Spikes, Leech Seed, and hail. Finally, Empoleon can be phazed with Roar or Whirlwind as it attempts to set up with Substitute. As all of these factors will reduce Empoleon's ability to sweep, it is best to eliminate these threats as soon as possible to ensure a clean late-game sweep.</p>
+
+[SET]
+name: Agility
+move 1: Agility
+move 2: Surf / Hydro Pump
+move 3: Ice Beam
+move 4: Grass Knot
+item: Life Orb
+nature: Modest
+evs: 12 HP / 4 Def / 252 SpA / 240 Spe
+
+[SET COMMENTS]
+
+<p>This set forgoes the use of Substitute and Petaya Berry to use three attacks, which gives it more rounded coverage against a variety of threats. Despite Life Orb's lower boost when compared to Petaya Berry, this set has the advantage of being able to set up multiple times during a match. The moveset is fairly self-explanatory; Agility allows Empoleon to boost its Speed and sweep with its three coverage moves: Surf, Ice Beam, and Grass Knot. Hydro Pump is an option over Surf as the added power helps KO Pokemon that Surf would otherwise be unable to, such as Tyranitar.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>252 Special Attack EVs and a Modest nature provide Empoleon with maximum power, 240 Speed EVs let Empoleon outrun +1 base 80s and Gyarados after a boost, and the rest of the EVs optimize Empoleon's defenses. Life Orb provides an immediate boost and is preferred to a pinch Berry as Empoleon isn't using Substitute.</p>
+
+<p>This Empoleon will require much more dedicated team support, as it not only lacks Substitute to protect itself from oncoming onslaughts, but also requires more entry hazard support to score some necessary KOs. Skarmory can provide Spikes support while covering for Empoleon's Ground-type weakness, while Hippowdon can reliably provide Stealth Rock support thanks to its mammoth physical bulk and ability to summon a sandstorm, which further adds residual damage. Toxic Spikes from the likes of Roserade and Tentacruel can also wear down a majority of Empoleon's checks and counters, such as Blissey, Suicune, Vaporeon, and Celebi. Finally, this Empoleon is more likely to be sweeping mid-game as opposed to late-game, and can punch holes in the opponent's team to clear the way for other sweepers. For example, if Empoleon can take down Gyarados or Bronzong, Swords Dance Gliscor can sweep more easily.</p>
+
+[SET]
+name: Lead
+move 1: Stealth Rock
+move 2: Hydro Pump / Surf
+move 3: Aqua Jet
+move 4: Grass Knot / Ice Beam
+item: Focus Sash / Chople Berry
+nature: Modest
+evs: 156 HP / 252 SpA / 100 Spe
+
+[SET COMMENTS]
+
+<p>Empoleon's typing and respectable movepool allow it to be a great lead. With access to Stealth Rock and a priority move to top it off, it can effectively deal with many common leads. It can take out faster, frail leads with a combination of Hydro Pump and Aqua Jet, and set up Stealth Rock on slower leads before taking them out. Hydro Pump deals huge damage to the likes of Hippowdon and Metagross, whereas Surf can be used for more reliability, as it will still deal with Infernape and Tyranitar. Grass Knot takes care of Swampert and other Water-types that switch in to wall Empoleon, but Ice Beam can be used to take down Dragonite and Gliscor, although the latter can still be worn down with Hydro Pump.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The Speed EVs allow Empoleon to outpace uninvested Skarmory and Metagross. Some Metagross are known to invest a little more to overcome this, however, so you can do the same with Empoleon. Maximum Special Attack lets Empoleon do as much damage as possible, while the remaining EVs are placed into HP for bulk. Focus Sash is the item of choice to allow Empoleon to do its job, considering its weaknesses to common Fighting- and Ground-type moves. However, as many users of such moves, such as Infernape and Hariyama, often also carry Fake Out to break Focus Sash, a Chople Berry can be used to soften their next strike. Alternatively, a Shuca Berry can weaken attacks from the likes of Heatran and Metagross.</p>
+
+<p>Depending on its choice of item, lead Empoleon matches up unfavorably against several opponents, such as Machamp, Roserade, and Infernape. Machamp can smack Empoleon hard with Dynamic Punch, which inflicts confusion even if Empoleon packs Chople Berry to survive the attack; Roserade can put Empoleon to sleep and then either slam it hard with Leaf Storm or set up Toxic Spikes; and Infernape's combination of Fake Out and Close Combat will nearly always KO non-Chople Berry Empoleon. Dragonite is a solid partner as it resists the STAB attacks of these threatening opponents and can use Draco Meteor to deal serious damage to them. Dragonite must still beware of Machamp's ability to cause confusion and access to Ice Punch, however. Tentacruel is another option to consider as it resists Fighting and Fire, has great special bulk to take on Roserade's Leaf Storm, and can absorb Toxic Spikes and remove other entry hazards with Rapid Spin.</p>
+
+[SET]
+name: Specially Defensive
+move 1: Surf
+move 2: Grass Knot
+move 3: Hidden Power Electric / Stealth Rock
+move 4: Roar / Ice Beam
+item: Leftovers
+nature: Calm
+evs: 252 HP / 252 SpD / 4 Spe
+
+[SET COMMENTS]
+
+<p>With a superb defensive typing, a decent support movepool, and solid defensive stats, Empoleon can do a fine job at supporting its team. Empoleon might lack the bulk of Suicune and Swampert, but its typing grants it resistances to some of the most common attacking types and gives it several opportunities to switch in and KO the opponent or force it out.</p>
+
+<p>Surf is a great move to have, and pretty much mandatory on Empoleon. As this Empoleon is not a sweeper, bulky Water-types such as Swampert are more of a threat due to their ability to stall it out, Roar it away, or otherwise set up on it. As such, Grass Knot is a must-have for this set. Hidden Power Electric is recommended in the third slot to deal with Water-types such as Gyarados, who take less damage from Grass Knot, while Ice Beam can take out troublesome Dragon- and Grass-types, such as Dragonite and Shaymin, respectively. In addition to checking common threats, Empoleon can also make use of several support options: Roar gives it a tool to phaze setup sweepers while scouting the opponent's team, while Stealth Rock is a great alternative to weaken the opponent's team gradually; it also combines well with Roar to rack up even more damage over time.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs and nature maximize Empoleon's ability to tank special attacks. Empoleon is better off investing in Special Defense than physical defense, as most physical attacks take the form of Ground- and Fighting-type moves, which will maim even invested Empoleon. Nonetheless, 68 EVs can be moved from Special Defense into Defense to survive Superpower from Dragonite and Earthquake from offensive Gyarados.</p>
+
+<p>As this Empoleon aims to support rather than sweep, Pokemon that take advantage of weakened special attackers are beneficial. Setup attackers such as Metagross and Infernape can be effective, as they will appreciate the removal of Starmie and Togekiss, who resist their STAB attacks. Alternatively, a Dragon-type such as Dragonite or Flygon is a useful partner as it can do some damage to Suicune and Swampert early on, which enables Empoleon to deal with these threats later.</p>
+
+[SET]
+name: Choice Specs
+move 1: Hydro Pump / Surf
+move 2: Ice Beam
+move 3: Grass Knot
+move 4: Sleep Talk / Hidden Power Electric
+item: Choice Specs
+nature: Modest
+evs: 252 HP / 252 SpA / 4 Spe
+
+[SET COMMENTS]
+
+<p>Empoleon can choose to bypass the turns of setup and start hitting hard right away with Choice Specs equipped. Its high Special Attack in tandem with Choice Specs allows it to deal huge damage to a majority of your opponent's team. However, due to Choice Specs's locking effect, Empoleon will be switching a lot, and while it resists Stealth Rock, it still takes damage from Spikes. Considering the fact that Empoleon isn't a lightning bruiser, it will more often than not have to take a hit before it can attack. Fortunately, Empoleon's natural bulk allows it to take these hits and return fire for a KO more often than not.</p>
+
+<p>Hydro Pump is the primary option to dish out as much pain as possible on the opponent; while Surf is a fine alternative for reliability, Hydro Pump's power is impressive. Ice Beam covers Grass- and Dragon-types that resist Hydro Pump and Surf, while Grass Knot destroys Water-types that resist the rest of the set. This set's most notable niche is Sleep Talk. Thanks to Empoleon's great resistances and decent bulk, it can work as an effective sleep absorber for the team. Sleep Talk allows it to attack while not being locked into one single attacking move. Hidden Power Electric is an alternative over Sleep Talk to land the OHKO on Gyarados and 2HKO on Vaporeon with Stealth Rock damage, but achieves little on the set besides that.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Due to its ability to play the role of a sleep absorber, this set takes a bulkier approach to a Choice Specs sweeper. This is especially reflected in the EV spread; the significant HP investment lets Empoleon better sponge neutral attacks and allows it to stay alive for quite some time.</p>
+
+<p>Empoleon greatly appreciates Wish support, as well as a way to take out Blissey and Snorlax. Jirachi can provide Wish support and take out Blissey with continuous Iron Heads, but shares a Ground-type weakness with Empoleon. Jolteon heals itself when switching into Electric-type attacks directed at Empoleon, but it too is stopped by Blissey and is weak to Ground-type attacks as well. Tyranitar provides a more reliable way of eliminating Blissey and Snorlax, by either smacking them with Superpower or hitting them with Pursuit as they switch out. Paralysis support is very handy for this set, as it can allow Empoleon to attack before having to take a hit, and hence stay at high health. Despite the defensive investment, Empoleon's Defense is still subpar, so bulkier Pokemon such as Celebi and Rotom-A will be extremely helpful against opposing Ground- or Fighting-types. Celebi and Rotom-A can also spread Thunder Wave to make up for Empoleon's low Speed.</p>
+
+[Other Options]
+
+<p>Empoleon has a good movepool for what it needs, but lacks many notable other options. With access to Swords Dance to boost its mediocre Attack and a usable physical movepool consisting of Earthquake, Aqua Jet, Waterfall, Drill Peck, Return, and Avalanche, Empoleon can become a neat physical sweeper, but it lacks the power and Speed to sweep properly. Yawn can enable it to phaze, but Roar is better and Empoleon often can't risk guessing if the opponent will stay in to attack or switch out to dodge the sleep. Flash Cannon is available for a secondary STAB move, but it offers redundant coverage with Empoleon's main moves and is easily resisted. Lastly, Knock Off can let defensive sets remove opponents' items, but is essentially useless once the job is done.</p>
+
+[Checks and Counters]
+
+<p>For hopefully obvious reasons, Blissey is the best counter to Empoleon; it can cripple Empoleon with Thunder Wave or wear it down with Seismic Toss. Setup sweeping Empoleon relies on Agility to outspeed and damage opponents before they can hit back, so faster Pokemon such as Choice Scarf Flygon and Choice Scarf Starmie can do serious damage to it. If they switch in on a revenge kill, or on Empoleon that hasn't used Agility or Substitute, Jolteon, Rotom-A, and Magnezone can destroy Empoleon with their STAB Electric-type attacks; in addition, the latter has Magnet Pull to prevent Empoleon from escaping. Finally, one can take advantage of the holes in Empoleon's coverage: variants without Ice Beam lose to Dragonite, Shaymin, and Celebi, while those without Grass Knot fall flat against Suicune and Vaporeon.</p>

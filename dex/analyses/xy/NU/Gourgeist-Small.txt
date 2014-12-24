@@ -1,0 +1,60 @@
+Overview
+########
+
+With a good base 99 Speed stat and access to moves such as Leech Seed, Will-O-Wisp, and Substitute, Gourgeist-S can Substitute stall quite easily. Ghost / Grass typing grants Gourgeist-S useful resistances to common Water-, Grass-, Fighting-, Ground-, and Electric-type attacks, and good 55 / 122 / 75 bulk gives it more opportunities to set up a Substitute. Sadly, Gourgeist-S has trouble with common Pokemon such as Pyroar and Vileplume, which have an easy time beating it. Gourgeist-S is also very reliant on residual damage, causing it to be shut down by Taunt. Lastly, a Knock Off weakness means it can have trouble switching into Fighting-types that it would normally counter.
+
+SubSeed
+########
+name: SubSeed
+move 1: Substitute
+move 2: Leech Seed
+move 3: Will-O-Wisp
+move 4: Phantom Force / Protect
+ability: Frisk
+item: Leftovers
+evs: 152 HP / 132 Def / 224 Spe
+nature: Jolly / Timid
+
+Moves
+========
+
+Substitute protects Gourgeist-S from status and attacks, allowing it to stall for Leech Seed and burn damage. Leech Seed can not only deal good damage but also heal back some HP used to create a Substitute, making Gourgeist-S hard to take down. Will-O-Wisp cripples physical attackers and wears down the opponent. Phantom Force is a STAB move that can stall for Leech Seed and burn damage while Gourgeist-S has disappeared. Protect can also stall for burn and Leech Seed damage while not leaving Gourgeist-S vulnerable like Phantom Force does on the turn it hits. However, it does no damage and leaves Gourgeist-S vulnerable to Taunt. Rock Slide is another option to deal super effective damage to Fire-, Ice-, and Flying-types such as Chatot and Xatu which can normally deal with Gourgeist-S. It also has a good chance to flinch, which can help Gourgeist-S in stalling.
+
+Set Details
+========
+
+The EV spread allows Gourgeist-S to outspeed max Speed base 95s such as Electivire, Primeape, and Jynx, with the HP EVs allowing for as much Leech Seed and Leftovers recovery as possible. The remaining EVs are put in Defense to allow Gourgeist-S to better tank hits. A Jolly nature should be used if Phantom Force or Rock Slide is chosen; otherwise, a Timid nature is a better option to minimize Foul Play and confusion damage. Leftovers is a great item that can help Gourgeist-S heal off Substitute damage, and it is especially effective in combination with Leech Seed. Frisk is the ability of choice as it scouts the opponent's item and is the only ability Gourgeist-S can put to any good use.
+
+Usage Tips
+========
+
+Gourgeist-S should try to set up a Substitute on a Pokemon it walls, such as Golem, then proceed to use the combination of Substitute, Leech Seed, Will-O-Wisp, and Phantom Force or Protect to stall out the opponent. Try to avoid Knock Off at all costs, as the loss of Leftovers can be detrimental to Gourgeist-S's performance.
+
+Team Options
+========
+
+Audino and Lickilicky can pass Wishes to Gourgeist-S to help make up for its lack of reliable recovery, as well as provide Heal Bell support in case Gourgeist-S gets statused. Toxic Spikes support from Dragalge and Qwilfish can really help Gourgeist-S stall, as it means Pokemon will be instantly statused as they switch in. Synergy-wise, Rhydon can take Fire- and Flying-type attacks for Gourgeist-S while also setting up Stealth Rock, while Poliwrath can take Dark-, Ice-, and Fire-type attacks. Gourgeist-S can also take on the Grass-, Water-, Ground-, and Fighting-type attacks Rhydon is weak to, while it can take on Electric- and Grass-type attacks for Poliwrath. Pokemon to deal with the Fire- and Grass-types immune to Will-O-Wisp and Leech Seed are helpful. Dragalge can wall Pokemon of both types, while Flareon and Camerupt can both deal with both Fire- and Grass-types well.
+
+Other Options
+########
+
+Seed Bomb is an option over Phantom Force and Protect, but it does little damage to Grass-types which are immune to Leech Seed and the Fire-types which are immune to Will-O-Wisp. Pain Split can be used for a recovery move, but it is unreliable, and Leech Seed and Leftovers usually heal enough HP anyway. Shadow Sneak is an option for a priority attack, though it is very weak coming off Gourgeist-S's uninvested Attack stat. Finally, Toxic can be used over Will-O-Wisp to take away more of the opponent's HP per turn, though Will-O-Wisp's ability to lower the opponent's Attack stat is almost always preferred.
+
+Checks & Counters
+########
+
+**Fire-types**: Fire-types such as Pyroar, Ninetales, and Typhlosion are immune to Will-O-Wisp and can KO Gourgeist-S with a STAB Fire-type attack.
+
+**Grass-types**: Grass-types such as Vileplume, Lilligant, and Ludicolo are immune to Leech Seed, don't mind Will-O-Wisp, and can break Substitutes with their coverage moves. Vileplume can even cure Will-O-Wisp with Aromatherapy.
+
+**Flying-types**: Flying-types such as Swellow, Chatot, and Vivillon can hit Gourgeist-S super effectively with their STAB attacks. Chatot has Chatter to go through Substitute, while Swellow doesn't mind Will-O-Wisp thanks to Guts and is immune to Phantom Force.
+
+**Ice-types**: Cryogonal and Jynx can hit Gourgeist-S super effectively with a STAB Ice Beam. However, neither of them like taking a Phantom Force.
+
+**Xatu**: Thanks to Magic Bounce, Xatu takes no damage from Will-O-Wisp and Leech Seed and can fire back with a Heat Wave. It does not enjoy taking a Phantom Force, however.
+
+**Sound Moves**: Sound moves such as Accelgor's Bug Buzz and Chatot's Chatter can go through Substitute and KO Gourgeist-S. Gourgeist-S's Ghost typing does give it an immunity to Hyper Voice, however.
+
+**Toxic**: Toxic stops Gourgeist-S from Substitute stalling because of the pressure it puts on Gourgeist-S. Toxic Spikes are even more effective, as Gourgeist-S can't avoid them with Substitute.
+
+**Taunt**: Taunt from Archeops and Qwilfish can stop Gourgeist-S from doing much of anything, especially if it's not running an attacking move.

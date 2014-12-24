@@ -1,0 +1,11 @@
+All-Out Attacker
+########
+name: All-Out Attacker
+move 1: Acrobatics
+move 2: Stone Edge
+move 3: Earth Power
+move 4: Knock Off / U-turn
+evs: 252 Atk / 4 SpD / 252 Spe
+nature: Naive
+
+This is a sample set while we are currently working on analyses in the workshop.

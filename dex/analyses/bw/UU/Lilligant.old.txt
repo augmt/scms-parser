@@ -1,0 +1,47 @@
+[Overview]
+
+<p>At first glance, it may seem as though Lilligant is just another outclassed Grass-type. However, due to her access to the coveted Quiver Dance, this is not the case. With Quiver Dance, Lilligant is transformed from a hopeful bud into a bursting flower that dishes out a whole boatload of pain. Sleep Powder makes Lilligant even better, with many setup opportunities arising once an opposing Pokemon is put to sleep. Her Special Attack and Speed are excellent, but unfortunately she has mediocre defenses and limited coverage that hold her back. Her mediocre defenses are mitigated somewhat by Sleep Powder removing the need to take a hit and her coverage issues can be resolved with the right support. While Lilligant is definitely not a standalone sweeper by any means, her bursting power is not to be underestimated.</p>
+
+[SET]
+name: Quiver Dance
+move 1: Quiver Dance
+move 2: Sleep Powder
+move 3: Giga Drain / Petal Dance
+move 4: Hidden Power Rock / Hidden Power Fire
+item: Life Orb / Lum Berry
+nature: Modest / Timid
+evs: 252 SpA / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>Meet Quiver Dance Lilligant, the flower that could be. Speaking of Quiver Dance, the move is simply amazing, boosting Lilligant's two best stats and bolstering her mediocre Special Defense to acceptable levels. After a Quiver Dance or two and with her counters removed, there's no question that she can pull off a sweep. Sleep Powder helps with setting up, as incapacitating a foe gives her a free turn to set up or, if something that can counter her is still alive, bring in the appropriate teammate for free. The ease with which Lilligant can set up means that she is one of the few of the large group of frail setup sweepers that can actually switch in instead of coming in from a slow U-turn or after sacking something.</p>
+
+<p>Both of Lilligant's STAB choices have their own advantages and disadvantages, so the decision must be carefully made. Giga Drain is preferred due to its decent power and that it actually heals Lilligant every time it is used. It also lacks a lock-in, giving Lilligant the freedom to put something to sleep, set up some more, hit a resist with Hidden Power, or switch to a teammate if she cannot handle an opposing Pokemon. However, although being locked into a Grass-type move is not exactly preferable, the additional power from Petal Dance is helpful against certain Pokemon, and Lilligant will not be confused afterwards due to Own Tempo. Here are some calculations that help demonstrate the uses of the additional power provided by Petal Dance, assuming one boost, a Modest nature, and a Life Orb:</p>
+
+<ul class="damage_calculation">
+<li>+1 Petal Dance vs. 4/0 Chandelure 77.9% - 91.6%</li>
+<li>+1 Petal Dance vs. 4/0 Zapdos 63.6% - 74.8%</li>
+<li>+1 Petal Dance vs. 4/0 Arcanine 70.1% - 82.2%</li>
+<li>+1 Petal Dance vs. 4/0 Cobalion 75.2% - 88.5%</li>
+<li>+1 Petal Dance vs. 4/0 Heracross 64.6% - 75.8%</li>
+<li>+1 Petal Dance vs. 252/252+ Umbreon 56.6% - 67%</li>
+<li>+1 Petal Dance vs. 252/0 Bronzong 48.2% - 56.8%</li>
+</ul>
+
+<p>The last thing to worry about as far as moveset is concerned is Hidden Power. The Hidden Power choice should be tailored to what support Lilligant has. Hidden Power Rock is by far preferred to hit Chandelure, Darmanitan, Victini, Zapdos, Crobat, and Arcanine. It might be helpful to use Petal Dance in conjunction, as Steel-types will have trouble taking boosted Petal Dances provided Stealth Rock is on the field, and Grass + Rock coverage sadly misses out on hitting Steel-types. Hidden Power Rock hits Zapdos and Togekiss in particular, which take little from Petal Dance. Hidden Power Fire is another option that may be used to hit Bronzong, Heracross, Roserade, Shaymin, Cobalion, and Bisharp hard, especially without any sort of boost.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs are quite simple, with max Speed allowing Lilligant to tie with Roserade and max Special Attack for the highest possible damage output. Alternatively, the Speed EVs can be dropped to 224, enough to outspeed Rotom-H, which should be considered particularly if running Hidden Power Rock, as then Lilligant has trouble doing very much damage to Roserade without numerous boosts. The remaining 32 EVs should be placed in either HP or Special Defense in this case. A Modest nature is by far preferable for the additional damage output, but a Timid nature may be used to outspeed max Speed Roserade as well as most Yanmega, Adamant Victini, and Modest Shaymin.</p>
+
+<p>The choice of item is quite simple: either sustained extra power from Life Orb or a one-time save from status with Lum Berry. While the additional power from Life Orb is by far preferred, Lum Berry means that Lilligant gets a free pass against paralysis and Toxic Spikes. As far as abilities are concerned, Chlorophyll is useful if Lilligant is on a sun team or to beat opposing sun, but Own Tempo is useful in its own right for preventing confusion from Petal Dance. The only other move option that should be considered is Hidden Power Ice, which is like a semi-hybrid of Hidden Power Rock and Fire in that it hits Flying-types like the former and Grass-types like the latter, as well as hitting Flygon and OHKOing Gligar without any boosts. Due to Lilligant's rather desolate movepool, there is little else that could possibly be run.</p>
+
+<p>As Lilligant will always miss out on a few Pokemon due to having to pick between Hidden Powers, proper support to remove these threats is needed. If lacking Hidden Power Rock, a Pokemon like Aerodactyl to remove Flying-types and a Water-type, such as Kingdra or Blastoise, to remove Fire-types should be considered. If lacking Hidden Power Fire, Magneton, Darmanitan, or Chandelure should be considered to remove Steel-types. Entry hazards are vital to Lilligant's success, putting many targets into KO range and wearing down her counters. Scolipede and Qwilfish can set up Spikes and Cobalion, which has excellent type synergy with Lilligant, can set up Stealth Rock. Sun support is helpful due to Chlorophyll doubling Lilligant's Speed under it; Arcanine, Chandelure, and Uxie are the best choices for the job. Fire-types resist all of Lilligant's main weaknesses, so bulkier Fire-types such as Victini and Arcanine make great partners. Lilligant definitely needs some key support to work, but carrying the right support makes Lilligant a very dangerous sweeper and an excellent addition to any team.</p>
+
+[Other Options]
+
+<p>Although her offensive movepool is quite shallow, Lilligant has a few neat niche support options. The main one is Aromatherapy, which can aid in setting up against walls, but Lum Berry already covers that and mono-Grass is terrible coverage, not to mention that Shaymin and Roserade fill the post of cleric support much better. Healing Wish is a rare move that Lilligant has access to, having the ability to give a teammate a second chance. Lastly, a set consisting of Sunny Day, Sleep Powder, Leaf Storm or Solar Beam, and Hidden Power Rock, Fire, or Ice holding a Heat Rock is viable as an offensive sun setter for sun teams. There honestly is little left in Lilligant's shallow movepool that could hold any possible use.</p>
+
+[Checks and Counters]
+
+<p>Lilligant has quite a few good countermeasures. RestTalk Snorlax is perhaps the premier counter, taking little damage even from a boosted Petal Dance and phazing Lilligant out with Whirlwind or exploiting its low Defense stat with Return. Crobat is a decent check, boasting a 4x resistance to Lilligant's STAB, but must watch out for Hidden Power Rock, being OHKOed after a single Quiver Dance. Priority from the likes of Hitmontop and Bisharp is a great way to prey on Lilligant's low defenses. Choice Scarf Krookodile, Mienshao, Darmanitan, and Victini can all revenge kill +1 Lilligant. Honchkrow can switch in on Lilligant's STAB and KO with Brave Bird. Other counters depend on the Hidden Power of choice. If Lilligant lacks Hidden Power Rock, Fire-types, such as Arcanine, Victini, Darmanitan, and Chandelure, as well as Flying-types, such as Zapdos and Togekiss, do well against her. If she lacks Hidden Power Fire, Escavalier, Registeel, Heracross, and Cobalion do well against her. One must never let Lilligant obtain many boosts, however, as with them these counters are all but insignificant little pests to the monstrous flower that is Lilligant.</p>

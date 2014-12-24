@@ -1,0 +1,254 @@
+[Overview]
+
+<p>Kyogre has been a defining part of Ubers since its fateful release, and this generation is no exception. With its metagame-shifting ability Drizzle, base 150 Special Attack, and very good bulk even by Ubers standards, it's no wonder that Kyogre continues to be one of the most common, if not the most common, Pokemon in the metagame. With STAB on its Water-type moves, and the additional boost due to the automatic rain, its power reaches truly monstrous levels. In fact, thanks to Drizzle, Kyogre's Water Spout is the strongest immediate, non-recoil attack in the game. Because of its sheer power, there are very few reliable switch-ins to this whale; Latias, Latios, and Grass Arceus being just about all that can muster the willpower to do so.</p>
+
+<p>Kyogre's stats and abilities also make it a terrific team player. The rain that it sets up is helpful to a wide variety of Pokemon in Ubers, notably Steel-types, Water-types, and Thunder users. It also helps to neuter Reshiram's otherwise nuclear Blue Flare.</p>
+
+<p>Nonetheless, Kyogre has its fair share of checks and revenge killers. Zekrom is one of the most prominent of these, hitting Kyogre hard with its physical Electric-type STAB move, Bolt Strike. Ferrothorn and Gastrodon cause similar problems, the former being able to avoid a 2HKO from sets lacking Choice Specs, and the latter being immune to Kyogre's STAB moves altogether. In addition, Kyogre still has its old foes from the previous generations, such as Palkia and Shaymin-S. Despite all this, Kyogre is definitely one of the best Pokemon in the game, and is difficult not to put into an Uber team.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Water Spout
+move 2: Surf
+move 3: Thunder
+move 4: Ice Beam
+item: Choice Scarf
+nature: Modest / Timid
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>Choice Scarf Kyogre is an effective and powerful revenge killer, though it cannot boast the absurd wallbreaking power that Choice Specs Kyogre has. It still has a very powerful Water Spout that deals at least 79.7% to +1 Mewtwo, an OHKO after Stealth Rock and Life Orb recoil, which is an impressive feat that other special Choice Scarf attackers, such as Palkia and Dialga, fail to achieve. Considering that Kyogre is in the common base 90 Speed bracket, the Speed EVs are maximized to optimize its revenge killing capabilities, letting it tie with other base 90 Speed Choice Scarf users, such as Dialga. A Modest nature can still be used for the extra power, however.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The choice between Modest and Timid nature can be somewhat complicated. The extra power makes it easier to KO several threats, which are listed below with damage calculations. On the other hand, some speed benchmarks that Modest misses are Deoxys-A and opposing Timid Choice Scarf Kyogre, both of which can deal massive damage to or OHKO Kyogre if they go first. One could note that most of the Pokemon listed below are weak against Ice Beam.</p>
+
+<p>Modest 131 Base Power Water Spout:</p>
+<ul class="damage_calculation">
+<li>vs 252/0 Arceus 37.6% - 44.4% (Chance to 2HKO with Stealth Rock; Timid fails entirely)</li>
+<li>vs 252/200 Dialga 39.9% - 47% (Very small chance to 2HKO with Stealth Rock)</li>
+<li>vs 0/0 Rayquaza 40.5% - 47.9% (2HKO with Stealth Rock)</li>
+<li>vs 252/0 Latias 42.9% - 50.3% (Chance to 2HKO)</li>
+<li>vs 4/0 Arceus 43.7% - 51.6% (Very large chance to 2HKO with Stealth Rock)</li>
+<li>vs 0/0 Giratina-O 44.2% - 52.4% (2HKO with Stealth Rock; Timid is not guaranteed)</li>
+<li>vs 252/0 Manaphy 48.3% - 57.2% (2HKO with Stealth Rock)</li>
+</ul>
+
+<p>Modest Surf:</p>
+<ul class="damage_calculation">
+<li>vs 0/0 Rayquaza 29.3% - 34.8%</li>
+<li>vs 0/0 Dialga / Zekrom / Manaphy 41.6% - 49.3%</li>
+<li>vs 4/0 Hydreigon 47.24% - 55.83% (2HKO with Stealth Rock; Timid is not guaranteed)</li>
+</ul>
+
+<p>The list of counters to the Choice Scarf set is somewhat long. Essentially, any Pokemon that resists Water and is at least as bulky as Arceus can wall Kyogre pretty comfortably. This notably includes Ferrothorn, Grass Arceus, Giratina, and Dialga; the idea of breaking through Chansey, Blissey, and Palkia with Kyogre's STAB moves is pretty much out of the question, though Palkia will go down to a couple of bouts of Thunder. Additionally, Wobbuffet is fatal to Kyogre, being able to trap it and survive Surf, Ice Beam, or Thunder. Ferrothorn is especially a problem because it can use Kyogre as an opportunity to set up entry hazards, which hurts not only Kyogre but also the rest of the team. Bulk Up Dialga provides a more offensive threat, being able to set up a potential sweep against Kyogre.</p>
+
+<p>Generally, a wallbreaker can be of use to smash through some of the tougher enemies. Mixed Zekrom is a good example because it can lure and KO Ferrothorn with Focus Blast, destroy Giratina, and hit Dialga and Arceus hard. Mixed Giratina-O and mixed Rayquaza work similarly, as do mixed Palkia and mixed Dialga, which can lure Chansey and Blissey and smash them with physical attacks. These mixed attackers can also be used to lure in and KO Wobbuffet. Groudon, Ground Arceus, and Excadrill are good partners as well, particularly against Dialga; Groudon can run a Fire-type move to get rid of Ferrothorn, and Excadrill can use Rapid Spin to remove the entry hazards that Kyogre hates. Another way to beat some of the walls, particularly Chansey and Blissey, is to trap them with Wobbuffet and use Encore and Tickle to render them helpless against a Pursuit user, such as Scizor or Tyranitar. SubCharge Magnezone can also be used to punish a Ferrothorn switch-in severely by trapping and setting up on it, though one should have a Rapid Spin user to get rid of the entry hazards Ferrothorn is likely to set up.</p>
+
+<p>Wish support is recommended to restore Water Spout's power. Jirachi is great in this role due to its Steel / Psychic typing, which leaves it only vulnerable to Ground in the rain.</p>
+
+[SET]
+name: Choice Specs
+move 1: Water Spout
+move 2: Surf / Hydro Pump
+move 3: Thunder
+move 4: Ice Beam
+item: Choice Specs
+nature: Modest
+evs: 252 HP / 252 SpA / 4 Spe
+
+[SET COMMENTS]
+
+<p>Choice Specs is an obvious item to put on Kyogre considering the record-setting power of Water Spout. Almost no switch-in is safe from a 2HKO--even Chansey can be 2HKOed by Water Spout in the rain--making Kyogre an extremely dangerous wallbreaker. Kyogre also has Thunder and Ice Beam, both of which 2HKO Palkia, so that very few Pokemon can safely switch in at all. When Kyogre's HP drops lower, it can use its alternative STAB move, either Surf (at 63.3% HP or lower) or Hydro Pump (at 80% HP or lower).</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Water Spout alone gives severe problems to most opponents. The following examples give a good idea of this by demonstrating Water Spout's power after Kyogre is hit by Stealth Rock upon switching in.</p>
+
+<p>131 Base Power Water Spout:</p>
+<ul class="damage_calculation">
+<li>vs 252/216+ Ludicolo: 29.67% - 34.89%</li>
+<li>vs 248/252+ Giratina: 36.97% - 43.53%</li>
+<li>vs 0/0 Palkia: 38.94% - 45.79%</li>
+<li>vs 4/252+ Chansey: 42.52% - 50.16% (Possible 2HKO; guaranteed on Bold with Stealth Rock)</li>
+<li>vs 252/224+ Tentacruel: 52.2% - 61.5% (Might survive for a bit with Rain Dish + Protect)</li>
+<li>vs 252/252+ Ferrothorn: 53.98% - 63.64% (2HKO)</li>
+<li>vs 252/4 Arceus (resist): 56.08% - 66.22% (OHKO on other Arceus)</li>
+<li>vs 104/0 Zekrom: 79.84% - 94.01% (Possible OHKO with Stealth Rock)</li>
+<li>vs 252/80 Lugia: 91.59%+ (OHKO with Stealth Rock)</li>
+</ul>
+
+<p>Surf:</p>
+<ul class="damage_calculation">
+<li>vs 248/252+ Giratina: 26.83% - 31.61%</li>
+<li>vs 0/0 Palkia 28.04% - 33.02%</li>
+<li>vs 4/252+ Blissey 37.88% - 44.79%</li>
+<li>vs 252/252+ Ferrothorn 39.2% - 46.31% (Possible 2HKO with Stealth Rock)</li>
+<li>vs 252/4 Arceus (resist) 40.77% - 47.97% (Possible 2HKO with Stealth Rock)</li>
+<li>vs 252/0 Zekrom 52.72% - 62.13% (2HKO)</li>
+<li>vs 252/80 Lugia 66.59% - 78.61% (Possible OHKO with Stealth Rock)</li>
+</ul>
+
+<p>In essence, Choice Specs Kyogre has very few safe switch-ins at first--only the likes of defensive Ludicolo, specially defensive Giratina, Palkia, and Water-immune Pokemon can switch in to Water Spout repeatedly. However, the number of potential checks and counters grows as Kyogre loses HP. To avoid this problem somewhat, Kyogre can opt for Hydro Pump instead of Surf to 2HKO Ferrothorn, at the cost of the perfect accuracy of Surf. One can also trade HP for some Speed to outrun certain threats, such as Tyranitar, or run 252 Speed with a Timid nature for better sweeping prospects, but Kyogre really appreciates the added bulk from 252 HP EVs.</p>
+
+<p>The quirky nature of Water Spout gives this set some serious drawbacks. If Kyogre is damaged significantly while locked into Water Spout, the opponent essentially has a free turn as Kyogre is forced out. Additionally, this set is liable to being revenge killed by many faster threats in Ubers, including Dialga, Palkia, Zekrom, and Shaymin-S. While prediction or persistence can deal with Palkia, such is hardly an ideal solution, and coverage will not be enough to stave off Gastrodon, Ludicolo, or Chansey. Considering that Water-resistant Arceus formes and Ferrothorn can also switch in when Kyogre is weakened, one must be careful with the power wielded, so that Kyogre is not easily reduced to setup bait. On the other hand, just about every Pokemon switching into Water Spout will be heavily damaged, helping to pave the way for other attackers to pull off a clean sweep.</p>
+
+<p>It may strike some as ironic that Groudon is one of Kyogre's best partners. Groudon's stats and typing are well-suited to deal with some of Kyogre's most common, dangerous predators, including Zekrom and Dialga. Groudon also has Stealth Rock to help Kyogre to land some of its KOs. If Groudon's Drought is a turn-off, Ground Arceus can play a very similar role and has more balanced defensive stats than Groudon. Ferrothorn can also help to tank attacks from Gastrodon, Palkia, Ludicolo (to an extent), and Zekrom. Skarmory is a decent alternative to Ferrothorn that fares better against Normal and Ground Arceus, but far worse against Zekrom.</p>
+
+<p>For Chansey and Blissey, one can employ a trapping combo of Wobbuffet and a Pursuit user. Wobbuffet uses Encore and Tickle to make them helpless against a switch to Scizor or Tyranitar. Wobbuffet is also useful to get rid of Choice Scarf Zekrom and Palkia. Mixed Palkia and mixed Dialga are good alternatives to take care of the pink blobs as well as Giratina, relying on luring and hitting hard with physical attacks rather than trapping. Palkia in particular benefits from a boosted Aqua Tail for this purpose.</p>
+
+<p>To take maximum advantage of Water Spout, fast Taunt leads, such as Deoxys-A and Deoxys-S, and Rapid Spin users, such as Excadrill and Forretress, make good partners. Bulky Excadrill in particular provides an excellent Thunder switch-in, while in return, Kyogre's rain removes one of its weaknesses. Kyogre also appreciates Wish support to restore Water Spout to usable power levels. Jirachi is especially good for this role because of its excellent defensive typing in the rain and its ability to paralyze switch-ins with Body Slam or Thunder Wave. Blissey is also a good Wish supporter because of its huge HP stat, but Jirachi tends to gel better with Kyogre; the choice really depends on the rest of the team.</p>
+
+<p>Tornadus is also worth a mention. It has very good offensive coverage, benefits from a perfectly accurate Hurricane, and can really weaken Ferrothorn. Additionally, if it is about to be KOed, it can use priority Tailwind, giving Kyogre a prime opportunity to sweep without faster revenge killers getting in its way.</p>
+
+[SET]
+name: Calm Mind + 3 Attacks
+move 1: Calm Mind
+move 2: Surf / Scald
+move 3: Thunder
+move 4: Ice Beam
+item: Leftovers
+nature: Modest / Bold
+evs: 252 HP / 252 SpA / 4 Spe
+
+[SET COMMENTS]
+
+<p>This is a simple bulky Calm Mind set with two coverage moves, which allows Kyogre to attempt a sweeper role, using its power and bulk to make up for its low Speed. The main advantage over the Choice sets is that Kyogre can take special hits from opponents like Palkia much better due to the Calm Mind boosts. In fact, after one Calm Mind, Palkia fails to 2HKO Kyogre with Thunder without a Life Orb or Choice Specs boost, while Kyogre easily 2HKOes with its own Thunder. Kyogre can also be more of a team player with Scald--since physical attackers such as Zekrom love to switch in on Kyogre, Kyogre can potentially burn them and effectively neuter them.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs depend on whether bulk or Speed is more desirable. For a faster Kyogre, a 4 HP / 252 SpA / 252 Spe EV spread with a Timid nature is recommended for tying with other base 90 Speed Pokemon such as Dialga, though a Modest nature is an acceptable alternative. On the other hand, the lost HP is quite significant, and there aren't many common Pokemon in Ubers to outrun within the possible Speed range.</p>
+
+<p>Zekrom, Ferrothorn, and Bulk Up Dialga are some of the most effective checks. In particular, +1 Kyogre cannot 2HKO Ferrothorn before it is 2HKOed by Power Whip, and Bulk Up Dialga can simply set up a counter-sweep. Groudon, Ground Arceus, and Excadrill take care of both Zekrom and Bulk Up Dialga, and each has its advantages. Mixed Zekrom resists both of Ferrothorn's STAB moves and threatens a Focus Blast, while SubCharge Magnezone, Steel Arceus, and Lugia can easily set up on Ferrothorn or phaze it. On the other hand, one can elect to use Scald and burn all three of these counters (though Bulk Up Dialga commonly uses Rest and Sleep Talk), to support another sweeper with the same counters, such as Manaphy or Water Arceus.</p>
+
+<p>Paralysis support is extremely helpful for minimizing the damage that Kyogre has to take, both because of the Special Defense boosts from Calm Mind and because some of Kyogre's checks, such as Grass Arceus and Choice Scarf Zekrom, are faster and will not appreciate the paralysis. Jirachi is a great paralysis supporter for Kyogre because of its Steel typing, which blocks Toxic and Grass- and Dragon-type assaults, and the fact that its only effective weakness in the rain is Ground. It also has the option of using Body Slam instead of Thunder Wave, which can be useful to paralyze Garchomp and Ground Arceus on the switch and render them nearly incapable of revenge killing Kyogre. Ferrothorn is a good alternative; it benefits from Steel typing, and resists both of Kyogre's weaknesses. Grass Arceus may not have the Steel typing, but it is a good alternative nonetheless due to its great bulk and ability to take on Zekrom.</p>
+
+<p>Wobbuffet can be a very effective partner for this set. Paired with a Pursuit user such as Scizor or Tyranitar, Wobbuffet can put an abrupt end to Blissey and Chansey, using Tickle to bring them into the OHKO range of Pursuit. Wobbuffet can also remove the dangerous Choice Scarf Zekrom. Finally, by trapping an opponent and locking it into an inconsequential move, Wobbuffet can create a prime opportunity for Kyogre to set up at least one Calm Mind. Tornadus is another plausible teammate because it benefits from a perfectly accurate Hurricane. It can also use priority Tailwind just before it is KOed, giving Kyogre a prime opportunity to set up and sweep with its Speed temporarily fixed.</p>
+
+[SET]
+name: Mono-Attacker
+move 1: Calm Mind
+move 2: Scald / Surf
+move 3: Rest
+move 4: Sleep Talk
+item: Leftovers
+nature: Bold
+evs: 252 HP / 252 Def / 4 Spe
+
+[SET COMMENTS]
+
+<p>This set trades coverage moves for the ability to recover HP with Rest + Sleep Talk, making it an extremely "heavy" sweeper that becomes hard to stop once it gets going. This set will eventually defeat even Chansey and Blissey by healing and ridding itself of status ailments. Thus, the set uses a heavily physically defensive EV spread to maximize the defensive stat that Calm Mind does not boost. Scald becomes a great STAB move here, able to burn physical attackers to make Kyogre even harder to KO, though Surf is still well worth using. However, the opponent can exploit Kyogre's relative vulnerability while asleep, as Sleep Talk often picks the wrong move, essentially skipping crucial turns.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>This set's biggest problem is opposing Calm Mind users. In particular, Calm Mind users that resist Water, such as Giratina, Giratina-O, Latias, Manaphy, and Dragon Arceus, wall this Kyogre completely and heavily pressure it into using Rest or switching out. Strong physical attackers also pose problems, especially Zekrom and Rayquaza, as they resist Surf, though both of them are afraid of Scald. Zekrom is a much bigger problem for this set than others, as it can switch in more easily and smack Kyogre to oblivion regardless of its defensive EVs. Ludicolo and Gastrodon wall this set completely as well. With Scald, this RestTalk variant has a good chance of beating Ferrothorn, but if the burn doesn't go through, Ferrothorn will prevail with Power Whip and Leech Seed.</p>
+
+<p>Considering that Dragon-types are such an issue, Choice Scarf Garchomp and Choice Scarf Zekrom are natural choices for partners, as they are excellent revenge killers and can pick off the opponent's Dragon-types to make way for Kyogre's sweep. Groudon, Ground Arceus, and Excadrill are also good partners for dealing with Zekrom and Bulk Up Dialga, and they can take advantage of burns that Kyogre may cause if it is running Scald. Also, Gliscor can switch into Zekrom to set up a Substitute stalling strategy. If Ludicolo and Gastrodon are problems, Ferrothorn can wall them, though it must watch out for Ludicolo's Focus Blast. Mixed Zekrom or Groudon can be used to lure Ferrothorn and beat it down with Focus Blast or Fire Blast, respectively, while SubCharge Magnezone, Giratina-O, Steel Arceus, and Lugia easily tank Ferrothorn's attacks and phaze or set up on it. Another advantage of all of these examples is that they can use their powerful physical attacks to ward off specially defensive walls and force other Pokemon to take damage, paving the way for these walls to face a setup attempt by Kyogre.</p>
+
+[SET]
+name: Specially Defensive
+move 1: Scald
+move 2: Roar 
+move 3: Rest
+move 4: Sleep Talk
+item: Leftovers
+ability: Drizzle
+nature: Calm
+evs: 248 HP / 8 Def / 252 SpD
+
+[SET COMMENTS]
+
+<p>Although most sets focus on taking advantage of Kyogre's fabulous base 150 Special Attack combined with Drizzle and its famous Water Spout, its amazing base 140 Special Defense, which is higher than Blissey's, is often overlooked. While obviously having a lot less HP than Blissey, Kyogre has several advantages over her as a special wall. Kyogre brings weather support to your team and has certain resistances which are crucial to walling extremely powerful attackers, such as Choice Specs Reshiram, who can 2HKO even Blissey under the sun.</p>
+
+<p>With a specially defensive spread, Kyogre becomes a fabulous check to several top threats in the metagame. Kyurem-W, the hardest hitting special Dragon, might not even 2HKO Kyogre with Choice Specs Draco Meteor.</p>
+
+<p>Kyogre also becomes a great check to most Calm Mind Arceus formes bar Grass and Electric, which are both rare in the current metagame. Even Arceus-Electric will not enjoy repeated Scalds and potential burns on the switch, leaving Arceus-Grass as the only Arceus forme that can beat this Kyogre without fail, though an unboosted Judgment will not 2HKO. Kyogre can choose to either try to burn them and then Roar them out or Roar them out immediately unless sleeping.<p/>
+
+<p>If you're Darkrai weak, this Kyogre is the biggest check you can think of outside of Arceus-Fighting. Not only can it absorb sleep for your team, but it also doesn't take much damage from Darkrai's attacks, can Roar it out or 2HKO it in its sleep with Scald, and if Scald burns, KO it in two turns with burn damage. However, keep in mind that, if you get really unlucky with Sleep Talk, Darkrai might 3HKO Kyogre with +2 Dark Pulse combined with Bad Dreams.</p>
+
+<p>Rest gives Kyogre a way to repeatedly switch in and check the threats it needs to deal with. Kyogre can heal up after tanking a Draco Meteor from Reshiram, Kyurem-W, Latias, Latios, or Dialga. This is especially useful when they try to KO with two consecutive Draco Meteors, and if it Rests as they attack, it will wall them easily, because it is generally slower than them with this set. Sleep Talk is Kyogre's only chance to do something while sleeping. Surprisingly, this Kyogre is actually great at checking Palkia, a common check to most Kyogre sets, as Thunder doesn't even 2HKO from full health. Keep in mind, Kyogre will still lose to Palkia one-on-one and Choice Specs versions will still 2HKO you with Thunder. Pairing this set up with Ferrothorn is a good idea to completely wall Choiced Palkia, but beware of Lustrous Orb or mixed variants.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs are quite simple: 248 HP EVs instead of 252 HP so you have an odd HP number which is helpful versus Leech Seed, Stealth Rock, and Spikes at times, max Special Defense EVs because special walling is the purpose of the set, and the rest thrown in Defense. Running a Sassy Nature coupled with 0 Speed IVs is an option to almost always ensure rain on Turn one versus an opposing Groudon lead if you want momentum from the start. Thunder Wave is an option over Roar that you can be used to paralyze Calm Mind Arceus and switch to a Pokemon like Zekrom to beat it, but Roar is almost always the best choice to phaze and prevent setup from dangerous sweepers such as Rayquaza, which resists Scald and negates rain with Air Lock. Because this Kyogre works well with entry hazards, Roar is the best choice to take advantage of them.</p>
+
+<p>Surf is an option over Scald if your team is reliant on poison or paralysis support or if you want some additional power from your Kyogre. However, keep in mind that the power increase is hardly noticeable on this Kyogre as it is very weak compared to other Kyogre sets. Burning potential checks such as Palkia and Ferrothorn can also go a long way in wearing them down.</p>
+
+<p>The usual Kyogre counters still beat this set. Ferrothorn is more annoying than ever as it can pound Kyogre hard with Power Whip and will win unless it is burned by Scald. Kyogre also barely scratches Latias with Scald, but she barely even has a chance to 2HKO it with Grass Knot or Thunder even while running an offensive spread, meaning it can go for a phaze or a burn. It is advisable to pack a Latias check such as Tyranitar when using this Kyogre set, because Calm Mind Latias can still easily beat Kyogre once she can no longer be Roared out.</p>
+
+<p>Zekrom still murders this Kyogre with its STAB Bolt Strike but must watch out for a burn on the switch in. Mewtwo bypasses the specially defensive EV spread with Psystrike and can OHKO at +1 with a Life Orb. Offensive Groudon's boosted Earthquake will easily OHKO this Kyogre set, as Kyogre's Defense is rather bad by Ubers standards. Ho-Oh can 2HKO this set easily with Brave Bird and is capable of tanking a Scald due to its huge Special Defense and this Kyogre's lack of Special Attack investment. Shaymin-S can easily switch in on this set, due to its relatively weak Scald, and Seed Flare will 2HKO. The Choice Specs set will also OHKO Kyogre with Leaf Storm.</p>
+
+<p>Ferrothorn, Dialga, Giratina-O, and Tyranitar all make good partners for this set, and all of them besides Giratina-O can check Latias. Ferrothorn, Dialga, and Giratina-O resist both Electric- and Grass-type attacks, while Kyogre can easily tank Fire- and Ice-type attacks in return. Tyranitar easily traps Choice attackers, such as Palkia locked into Thunder trying to kill Kyogre. Genesect can switch in on Latias and beat it with U-turn and is capable of beating Shaymin-S as well.</p>
+
+[SET]
+name: Thunder Wave
+move 1: Thunder Wave
+move 2: Surf / Hydro Pump
+move 3: Ice Beam
+move 4: Thunder
+item: Leftovers / Lum Berry
+nature: Modest / Quiet
+evs: 252 HP / 4 Def / 252 SpA
+
+[SET COMMENTS]
+
+<p>Kyogre can be useful as a lure for fast attackers and leads. It can be used as one of a team's lead options, standing up well to many opposing leads thanks to its bulk. Darkrai loses if Kyogre runs Lum Berry, and Groudon loses to Kyogre's STAB. Faster leads play a risky game between laying Stealth Rock on a Thunder Wave and using Taunt on an attack. When not leading, Kyogre can lure unsuspecting switch-ins, such as Zekrom, Palkia, and Shaymin-S, and cripple them with Thunder Wave; many of Kyogre's common switch-ins do not like Thunder Wave at all.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Kyogre's paralysis support can turn "counters" such as Choice Scarf Palkia into bait for slower sweepers, such as Dialga, Groudon, Ground Arceus, and Garchomp. Jirachi and Shaymin-S also love the paralysis support because it combines with their Serene Grace-boosted flinching moves to keep their opponents immobile. Ground-type teammates especially appreciate the opportunity to switch into Electric-type attacks, as well as the paralysis support. Dialga also walls Gastrodon and really benefits from the paralysis support. However, there are still a few holes; Ferrothorn, Chansey, and Blissey don't mind anything that Kyogre throws at them. A combination of Tickle Wobbuffet and a Pursuit user (Tyranitar and Scizor are typically the best for this role) should be considered for dealing with Chansey and Blissey quickly, though Bulk Up Dialga, mixed Dialga, and mixed Palkia also work. Ferrothorn falls to strong Fighting-type moves like Mixed Zekrom's Focus Blast. It is also susceptible to setup or phazing by the likes of Steel Arceus, Giratina-O, SubCharge Magnezone, and Lugia.</p>
+
+[SET]
+name: SubCM
+move 1: Substitute
+move 2: Calm Mind
+move 3: Surf / Scald
+move 4: Ice Beam / Thunder
+item: Leftovers
+nature: Modest
+evs: 252 HP / 252 SpA / 4 Spe
+
+[SET COMMENTS]
+
+<p>Substitute is a natural move to consider for a slow, bulky sweeper like Kyogre. The ability to make 101 HP Substitutes is especially notable for allowing Kyogre to set up on Chansey and Blissey, though Kyogre loses some coverage in exchange. Substitute is also an effective scouting tool in general, particularly when Zekrom is on the prowl. Speed isn't very important here due to all the setup time required to pull this set off, so one should just invest in HP and Special Attack to hit hard. Scald is an option to cripple physical attackers.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>This Kyogre has room for only one coverage move. Without Ice Beam, Kyogre is stopped by and vulnerable to Dragon-types, such as Latias, Dragon Arceus, and Zekrom, but without Thunder, Manaphy, Water Arceus, and opposing Kyogre will wall this set. One can use bulky Steel-types to deal with the aforementioned Dragon-types. Jirachi and Ferrothorn in particular can use Thunder Wave or Body Slam to paralyze faster opponents, such as Latias, Garchomp, and the many formes of Arceus. To take on opposing Kyogre, one should turn to specially bulky partners, such as Blissey, Dialga, and Water-resistant Arceus formes.</p>
+
+<p>Some threats pose a severe problem regardless of the coverage move used. Bulk Up Dialga and Choice Scarf Zekrom are among the most prominent of these because of their powerful physical moves, and Ferrothorn also proves threatening because it can 2HKO Kyogre while Kyogre cannot 2HKO back with a Calm Mind boost. Toxic Spikes in particular can be a huge problem to SubCM Kyogre because poison nullifies its ability to beat Chansey and Blissey. Groudon, Ground Arceus, and Excadrill are great partners for this reason, as they can deal with the likes of Bulk Up Dialga and Choice Scarf Zekrom. Steel Arceus, SubCharge Magnezone, and Lugia are also plausible teammates because they can switch into Ferrothorn and easily set up or phaze it away. Mixed Zekrom works in a similar way, threatening a Focus Blast. Toxic Spikes can be absorbed through Poison Arceus or Tentacruel, or removed by Rapid Spin from Forretress or Excadrill.</p>
+
+[SET]
+name: ChestoRest
+move 1: Calm Mind
+move 2: Rest
+move 3: Surf / Scald
+move 4: Ice Beam / Thunder
+item: Chesto Berry
+nature: Bold
+evs: 252 HP / 252 Def / 4 Spe
+
+[SET COMMENTS]
+
+<p>This set can be considered a cross between the slow mono-attacker set and other Calm Mind sets. By using Chesto Berry for a one-time free Rest before sweeping, Kyogre avoids the vulnerable period of sleep while retaining the ability to rid itself of status. Since Kyogre only gets one free Rest, this set requires some care to pull off. The Chesto Berry also provides insurance against Darkrai. The slow nature of this set emphasizes a need to concentrate on power and overall bulk, rather than on Speed.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Having only one coverage move leaves Kyogre vulnerable to different groups of enemies depending on what it runs. Without Ice Beam, Kyogre is vulnerable to Dragon-types such as Latias and Dragon Arceus, while forgoing Thunder opens it up to Manaphy, Water Arceus, and opposing Kyogre. Jirachi and Ferrothorn can be useful for fighting Dragon-types, resisting their STAB moves and using Thunder Wave or Body Slam to paralyze them. Alternatively, revenge killers, such as Choice Scarf Zekrom and Choice Scarf Garchomp, can be used, though users of this set should not rely too much on switching Kyogre out to deal with threats. Opposing Kyogre can be checked with specially bulky partners, such as Chansey, Blissey, Dialga, and Water-resistant Arceus formes.</p>
+
+<p>Regardless of the coverage move, Kyogre is weak against Zekrom, Ferrothorn, Bulk Up Dialga, Ludicolo, Gastrodon, and opposing Calm Mind users. Zekrom and Ferrothorn easily destroy Kyogre, Ferrothorn 2HKOing Kyogre with Power Whip before Kyogre can 2HKO back, while Bulk Up Dialga can set up on Kyogre, even using Rest to rid itself of burns. Groudon, Ground Arceus, and Excadrill can deal with Zekrom and Bulk Up Dialga reasonably well. A Ferrothorn of one's own is another good option because it can deal with Zekrom, Ludicolo, and Gastrodon, though the former two may carry Focus Blast with the intent to remove Ferrothorn. Of course, this also makes said Pokemon good partners to get rid of opposing Ferrothorn.</p>
+
+[Other Options]
+
+<p>Kyogre can run a mixed set with Life Orb or Mystic Water to beat Blissey with Waterfall, but it still loses to Chansey if it lacks significant Attack investment. Safeguard, Roar and Toxic are the only other really notable alternatives. All of them have merit on a stall team, but Kyogre tends to perform better in a bulky sweeping role. Toxic is slightly more plausible because it is Kyogre's only way to beat Shedinja through its Focus Sash, but Shedinja is rare and entry hazards are more practical.</p>
+
+[Checks and Counters]
+
+<p>When talking about checks and counters, there is always the realization that only a few Pokemon can switch into Choice Specs Water Spout at all, and even fewer can switch into Water Spout and Stealth Rock repeatedly. Palkia, specially defensive Giratina, Calm Chansey, defensive Ludicolo, and Gastrodon are the most reliable Pokemon to switch into Water Spout; indeed, their ability to take Water Spouts alone increases their viability significantly. Grass Arceus also takes massive damage but will nonetheless force Kyogre out and weaken it with possible damage from entry hazards and attacks on future switch ins. Since Water Spout weakens as HP decreases, the number of viable switch-ins increases accordingly. Blissey and Ferrothorn can switch into Choice Specs Surfs fairly comfortably, and, consequently, they are very good counters to most Kyogre sets; Ferrothorn 2HKOes Kyogre before it can 2HKO back after one Calm Mind boost. Zekrom also threatens most Kyogre sets by delivering an easy OHKO with Bolt Strike.</p>
+
+<p>The best ways to deal with Kyogre are through offensive pressure and bulky setup sweepers. The aforementioned Ferrothorn and Zekrom deliver in this aspect; in particular, Mixed Zekrom and Substitute + Hone Claws Zekrom can destroy Kyogre + Ferrothorn cores. Bulk Up Dialga is also notable for its ability to set up on nearly every Kyogre set, only really losing to the Choice Specs set. Calm Mind users are great checks to Kyogre because Kyogre tends to lose Calm Mind wars with the many Dragon-types in Ubers, as well as Arceus formes that resist Water. However, many Calm Mind users are weak to Kyogre's coverage moves, which should be kept in mind. Latias, Dragon Arceus, Giratina, and Giratina-O can set up on Kyogre that lack Ice Beam, while Water Arceus, Manaphy, and opposing Kyogre can beat Kyogre that lack Thunder. While Thundurus cannot switch in, it can OHKO Kyogre with Thunder after Stealth Rock damage.</p>
+
+<p>The issue with defensive tactics for dealing with Kyogre is that many Kyogre sets are made to set up on, or just power right through, most defensive Pokemon. The few Pokemon that can take the brutal assaults of Choice Specs Kyogre, such as Chansey, risk giving free turns to a SubCM or mono-attacker set. Nonetheless, the fact that Water Spout loses power as Kyogre loses HP is a great weakness for defensive Pokemon to exploit, so that the likes of Dialga, Grass Arceus, and Giratina can wall Kyogre completely, and even use Roar to foil setup attempts.</p>
+
+<p>Groudon deserves a special mention. While it cannot switch into most of Kyogre's attacks at all, it can still switch into Thunder or come in after a KO, and use Drought to weaken Kyogre's STAB attacks significantly before switching right back out. Kyogre's Water-type assaults are cut to one-third of the power that they have in the rain, making it much easier for Groudon's various teammates to come in. Shedinja also deserves a mention because it walls Kyogre completely, though it cannot switch into entry hazards.</p>

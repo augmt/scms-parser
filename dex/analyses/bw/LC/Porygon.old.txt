@@ -1,0 +1,55 @@
+[Overview]
+
+<p>Porygon checks into the Little Cup metagame sporting one of the highest overall base stat totals, at a whopping 395. Its Normal typing, while usually a detriment in a Fighting-dominated metagame, isn't that much of a hindrance to Porygon. In fact, it is probably the best Normal-type in the metagame thanks to its unique ability, Trace, which grants it access to some of the best abilities in the game. It is pretty bulky with Eviolite equipped, and can boost its Special Attack with Charge Beam. It also can heal itself with Recover, or take a more offensive approach with Agility. With the proper teammates (or enemies!), Porygon can adapt into a threat in numerous ways.</p>
+
+<p>However, every Pokemon has its weakness, and Porygon suffers from a pretty big one--Toxic. With no way to get rid of that status outside of Rest, which would give opposing Scraggy a free invitation to come in and set up, one would either have to use a cleric, such as Chinchou, or simply not let Porygon get poisoned--something that could ruin your momentum. In addition, despite its great niche in the metagame, it still loses to Fighting-types fairly often, and Timburr and Scraggy are at the top of its threat list. Even so, Porygon is a great Pokemon that should always be considered for a slot if you're looking for a bulky special attacker.</p> 
+
+[SET]
+name: Bulky Attacker
+move 1: Tri Attack
+move 2: Thunder Wave
+move 3: Shadow Ball
+move 4: Recover
+item: Eviolite
+ability: Trace
+nature: Calm
+evs: 236 HP / 196 Def / 76 SpD
+
+[SET COMMENTS]
+
+<p>This bulky spread allows Porygon to act as a physical sponge, created specifically to stop Murkrow's Brave Bird and retaliate with Tri Attack, with a 20% chance of either burning, paralyzing, or freezing it (all three of which will work wonders against the ever-dangerous Murkrow). Thunder Wave is great to cripple threatening sweepers, such as Mienfoo and Choice Scarf Snover--a great move to have in this metagame. It also works in shutting down users of Shell Smash, namely Shellder and Clamperl--powerful threats if left unchecked. Shadow Ball is a great attack to beat Misdreavus, especially if Porygon has a Special Attack boost under its belt. Recover is important as Porygon can now restore lost health, allowing it to switch in multiple times in a match without worrying too much about entry hazards. Finally, Trace is a very interesting ability, giving Porygon a very versatile niche in the metagame. Depending on the ability, Porygon could get Levitate, Natural Cure, Volt Absorb, Regenerator, Flame Body, or Prankster--all very common abilities used by the top Pokemon in Little Cup.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>For other moves,  Charge Beam allows Porygon to boost its Special Attack, while also giving it useful coverage.  Ice Beam is a very viable alternative over Shadow Ball that can hit Grass-, Ground-, and Flying-types, for super effective damage--most notably Murkrow. With Charge Beam, this gives Porygon the coveted BoltBeam coverage, only missing Magnemite for neutral damage in the metagame. The EVs on this set are used to maximize Defense and HP, in order to make it as physically bulky as possible to take on Murkrow. The remaining EVs, as well as the Calm nature, give Porygon an extra point of Special Defense from Eviolite. Porygon hits impressive 26 / 24 / 24 defenses after factoring in the boost from Eviolite. However, to be able to handle Misdreavus more efficiently, more EVs from Defense can always be shifted to Special Defense. This will allow Porygon to be a hard counter to Misdreavus, a difficult Pokemon to play against. This will, however, prevent Porygon from beating or switching in on Murkrow as easily. Porygon can always Trace Prankster to obtain a priority Recover if facing a Prankster Murkrow, but the lack of Defense EVs means that Porygon must be reasonably healthy to switch in. Without Defense EVs, Porygon risks being 2HKOed by Brave Bird, making it a far shakier Murkrow check.</p>
+
+<p>With Snover as a partner for this set, Blizzard becomes a very viable option for Porygon. The additional power allows Porygon to hit much harder than it would normally be able to and will never miss, though the move does not get any important OHKOs or 2HKOs. However, this will open up the team to a pretty obvious weakness to the ever-so-common Fighting-type attacks, so good teammates to help offset this vulnerability include Larvesta, Mienfoo, and Croagunk. In addition, because being afflicted by Toxic will severely reduce the potency of this set, a cleric in Chinchou or Lickitung would be helpful in the long run. Fighting-types will appreciate Porygon's ability to handle Murkrow one-on-one, so Scraggy and Timburr are top choices in this department. Pawniard is in the same boat, since it loses to Murkrow that carry Heat Wave, despite the fact that it doesn't mind Feather Dance at all. Misdreavus is another good partner for this set, as it hates Murkrow even with Will-O-Wisp due to its Prankster ability and a its resistance to Ghost-type attacks, so having Porygon to come in and KO it is never a bad thing.</p> 
+
+[SET]
+name: Offensive
+move 1: Tri Attack
+move 2: Shadow Ball
+move 3: Ice Beam / Blizzard
+move 4: Hidden Power Grass / Agility / Trick
+item: Life Orb / Choice Scarf
+ability: Trace
+nature: Timid
+evs: 76 HP / 236 SpA / 196 Spe
+
+[SET COMMENTS]
+
+<p>Though Porygon is more often seen as a defensive Pokemon, that's not to say that it can't take an offensive stance, either. Porygon has one of the highest Special Attack stats in LC, clocking in at a whopping base 85. Its amazing coverage does nothing but help it, and right off the bat, Porygon can easily launch Tri Attacks. Shadow Ball is a great coverage move, allowing it to hit Misdreavus for super effective damage. It also hits Psychic-types for big damage, too. Ice Beam is very important on this set, as it allows Porygon to hit both Lileep and Murkrow for super effective damage (though it should be noted that it will not be able to land a 2HKO all the time on the former). Hidden Power Grass gives Porygon a super effective attack against Chinchou, a common switch-in to Porygon. Agility allows Porygon to boost its mediocre Speed to incredibly high levels while Trick (with Choice Scarf) can cripple a wall such as Bronzor or Lileep, thinking they will come in and tank a Tri Attack or other attack move.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The purpose of this set is to hit as hard as possible, therefore Special Attack and Speed EVs are maximized. A Timid nature is preferred with Choice Scarf to reach the 21 Speed tier, outpacing all unboosted Pokemon in the metagame, but a Modest nature can be used with Life Orb to maximize damage output. Unfortunately, because Download is illegal with Tri Attack, Trace is the better option to use with this set.</p>
+
+<p>This set is completely walled by Pawniard because it resists all of Porygon's attacks and can set up on it with Swords Dance. Mienfoo once again makes for a solid partner as it can switch in, stave off a Sucker Punch, and retaliate with High Jump Kick or Drain Punch. Scraggy might be an even better partner, as it has a 4x resistance to Dark-type attacks, and can use Dragon Dance to boost its stats. Both should take caution if Pawniard starts launching off Iron Heads, however, as it can inflict a decent amount of damage to both Pokemon. Lileep is still a solid counter to Porygon, so Fighting-types are especially invaluable teammates in order to ward the fossil off. A handy Fire-type in Ponyta or Houndour also helps, as Bronzor is a pretty common switch-in to Porygon as well.</p>
+
+[Other Options]
+
+<p>Though Porygon has a bunch of other options, it really cannot use most of them. Thunderbolt can be used in tandem with Ice Beam for BoltBeam coverage, but Charge Beam allows it to boost its Special Attack, and is therefore preferred. Agility can also be used, but Porygon will have to choose between the bulk granted by Eviolite, or the power by Life Orb. Thunder Wave and Toxic can be used together to shut down both offensive and defensive threats, but, if they are used with Recover, it allows Porygon space for only one attack. Lock-On, with Blizzard, Thunder, or Zap Cannon, is interesting, but will essentially give the opponent a free turn. Psychic can work to hit the Fighting-types that often switch into Porygon, but it will not help Porygon beat Scraggy. Finally, Porygon has enough Attack to run a physical set with Sharpen, Return, Aerial Ace, and Recover, but is pretty much limited to this set and lacks coverage on Rock- and Steel-type Pokemon.</p>
+
+[Checks and Counters]
+
+<p>As a general rule, Fighting-types are good switch-ins in Porygon. Bulkier ones, such as Scraggy and Mienfoo, can switch in, take a Tri Attack, hope it doesn't burn (though Scraggy doesn't mind as much thanks to Shed Skin), and retaliate with Drain Punch. Lileep and Bronzor are also very good checks, as neither of them take much damage from any of Porygon's attacks and can whittle down its health with Toxic. However, both of them will be in trouble if they get Tricked a Choice Scarf. Any Pokemon with Toxic (except for Staryu, who will allow Porygon to Trace Natural Cure), will work wonders against Porygon, as it will not be able to wreak as much havoc as it normally would be able to if crippled as such. Misdreavus, if Porygon opts to not run Shadow Ball, can set up Nasty Plot in Porygon's face and strike with a super effective Hidden Power Fighting.</p>

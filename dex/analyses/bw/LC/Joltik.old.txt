@@ -1,0 +1,68 @@
+[Overview]
+
+<p>Joltik has a very good offensive typing, with its STAB Electric- and Bug-type attacks providing great coverage alongside moves such as Energy Ball. Access to Unnerve is valuable in Little Cup, where so many Pokemon carry Oran Berry to heal themselves. Though Joltik does have access to Compound Eyes, it lacks any useful moves to take advantage of the ability. Overall, Joltik has a niche in Little Cup and should always be considered when making a team.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Thunderbolt
+move 2: Bug Buzz
+move 3: Volt Switch
+move 4: Energy Ball
+item: Choice Scarf
+ability: Unnerve
+nature: Modest / Timid
+evs: 36 HP / 220 SpA / 236 Spe
+
+[SET COMMENTS]
+
+<p>Joltik's base 65 Speed makes it a decent user of Choice Scarf. High Special Attack coupled with 25 Speed, factoring in Choice Scarf, makes it a very useful Pokemon in Little Cup. Thunderbolt and Bug Buzz are very powerful moves thanks to the STAB boost, allowing Joltik to hit many Pokemon in the metagame hard. Volt Switch is very useful in scouting and maintaining momentum, and it is also boosted by STAB. Energy Ball is useful in hitting phenomenal threats such as Chinchou, which can otherwise take Joltik's attacks with ease.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread gives Joltik maximum Special Attack and Speed. Modest nature boosts Joltik's low offense, while Timid allows it to outspeed Scarf users with 16 Speed. The trade-off between Timid and Modest is that of Speed and Attack. Ground-type support is appreciated to wall Pokemon such as Chinchou that would create havoc for Joltik.</p>
+
+[SET]
+name: Agility
+move 1: Agility
+move 2: Thunderbolt
+move 3: Bug Buzz
+move 4: Energy Ball / Hidden Power Ice
+item: Life Orb
+ability: Unnerve
+nature: Modest
+evs: 36 HP / 220 SpA / 236 Spe
+
+[SET COMMENTS]
+
+<p>After using Agility, Joltik hits 32 Speed, letting it outrun almost everything in the metagame and fire off its powerful Life Orb-boosted attacks. Thunderbolt and Bug Buzz, Joltik's STAB attacks, achieve excellent power and coverage, Bug Buzz hitting Grass-types which resist Thunderbolt. Energy Ball is another option, as it can hit Chinchou and most Ground-types pretty hard. </p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Hidden Power Ice takes care of Ground-types, such as Hippopotas, that would otherwise check Joltik pretty well. Modest nature is used for the power, as Joltik already outruns all Choice Scarf users after an Agility. The given EV set allows Joltik to maximize its Speed and Special Attack; this allows it to be both fast and able to hit other Pokemon. Ground-type support, particularly in the form of Diglett, is useful to help Joltik out against Pokemon such as Chinchou.</p>
+
+[SET]
+name: Substitute + 3 Attacks
+move 1: Substitute
+move 2: Thunderbolt / Volt Switch
+move 3: Bug Buzz
+move 4: Energy Ball
+item: Life Orb
+ability: Unnerve
+nature: Timid
+evs: 36 HP / 220 SpA / 236 Spe
+
+[SET COMMENTS]
+
+<p>Substitute is a phenomenally useful move, simultaneously protecting Joltik from powerful attacks, easing prediction, and protecting it from status. Thunderbolt and Bug Buzz, boosted by STAB, can then be used to hit opponents really hard. Energy Ball is important to hit Chinchou. Timid nature is mandatory in order for Joltik to outrun opponents such as Chinchou.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Although Substitute will lead to Joltik being worn down quickly, Life Orb is chosen so that Joltik hits as hard as it can. Volt Switch can be used over Thunderbolt to escape from sticky situations, but Substitute can fulfill this role in most cases. Energy Ball is recommended over Hidden Power Ice as it can provide very good coverage, hitting Pokemon such as Chinchou which would otherwise wall Joltik. Joltik always appreciates the assistance of Ground-types such as Diglett, which provide it immunity from Chinchou.</p>
+
+[Other Options]
+
+<p>Entry hazard support is helpful in assisting Joltik's sweep. Joltik gets Sucker Punch, X-Scissor, Wild Charge, and other options which can help it fit a mixed or physical role, but it's generally outclassed by the special sets due to Joltik's low Attack. Discharge could be used for the chance of paralysis, but it is not too reliable and it does considerably less damage. Joltik can use Charge Beam to set up, but it is rather frail and slow.</p>
+
+[Checks and Counters]
+
+<p>The Choice Scarf set can easily be trapped by a Hone Claws Diglett, set up on, and killed. Faster Choice Scarf users can beat Joltik's Scarf set. The Agility set loses to priority moves and bulky Pokemon that wield Eviolite. If Munchlax is carrying an Eviolite, then it can easily wall all of Joltik's sets.</p>

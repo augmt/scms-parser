@@ -1,0 +1,27 @@
+Offensive Trick Room
+########
+name: Offensive Trick Room
+move 1: Trick Room
+move 2: Psychic / Psyshock
+move 3: Thunderbolt
+move 4: Signal Beam / Hidden Power Fighting
+ability: Analytic
+item: Life Orb
+nature: Quiet
+evs: 248 HP / 8 Def / 252 SpA
+
+This is a sample set while we are currently working on analyses in the workshop.
+
+Choice Specs
+########
+name: Choice Specs
+move 1: Psychic
+move 2: Thunderbolt
+move 3: Signal Beam
+move 4: Trick
+ability: Analytic
+item: Choice Specs
+evs: 248 HP / 8 Def / 252 SpA
+nature: Modest
+
+This is a sample set while we are currently working on analyses in the workshop.

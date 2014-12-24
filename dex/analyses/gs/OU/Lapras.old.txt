@@ -1,0 +1,35 @@
+[Overview]
+
+<p>Jack of all trades, master of none. Lapras has incredibly well-rounded stats and a good movepool, but it lacks both a particularly exceptional stat and a particularly exceptional movepool that separates it from its competitors. In most cases, Lanturn is superior to Lapras due to learning Thunder Wave and having STAB on the always-useful Electric attacks. Lapras has a decent Attack stat, but it isn't really enough to warrant using any physical attack on it since Ice Beam will usually cause more damage, in addition to Thunder's paralysis chance eclipsing the usefulness of Body Slam. When considering Lapras, keep in mind the things it has that Lanturn doesn't, namely Reflect and STAB Ice Beam. The transition from RBY stripped Lapras of most of the things that made it great in RBY (no Leftovers, more low-defense Pokemon, 90% Blizzard accuracy, Snorlax with 228 Special Defense), so make sure to use what little it has left.</p>
+
+[SET]
+name: RestTalk
+move 1: Ice Beam
+move 2: Thunderbolt
+move 3: Rest
+move 4: Sleep Talk
+item: Leftovers
+
+[SET COMMENTS]
+
+<p>Lapras and Lanturn are pretty similar in GSC, and both of them have the HP to play the RestTalk game.  Make sure you take advantage of the STAB Ice Beam that Lanturn lacks. It's bulky, predictable, and generic, but it won't die anytime soon.</p>
+
+[SET]
+name: Tank
+move 1: Confuse Ray
+move 2: Ice Beam
+move 3: Thunder
+move 4: Surf / Sing / Reflect
+item: Leftovers
+
+[SET COMMENTS]
+
+<p>This set blends the subtle combination of support and attacking that Lapras provides. Confuse Ray is a tad underrated as a move, but the 50% chance of incapacitation it provides is quite useful indeed for things like Snorlax. Ice Beam and Thunder, again, is a solid attack combination; Thunder gets the nod here due to its increased chance of paralysis, which makes adding an attack like Body Slam nigh redundant, as either Ice Beam or Thunder will do more to any of Lapras's switch-ins than Body Slam (the exception being Blissey, which Body Slam doesn't damage enough to be useful). The last move is a tossup; Surf grants a bit more attacking versatility against the likes of Tyranitar and Steelix. If the opponent is confused, Lapras has a better chance of not getting hurt while trying to surprise an opponent with Sing. Finally, Reflect is an honorable option which will soften the potential blow that a physical counter like Snorlax can inflict.</p>
+
+[Other Options]
+
+<p>As with most Water-types, Toxic deserves a mention for its ability to whittle away Snorlax's health, which is indeed very useful; combined with Confuse Ray and a little luck, this can make life very hectic for Snorlax indeed. Let it be noted that Lapras does learn a variety of moves, but only gets good use of some of them.</p>
+
+[Checks and Counters]
+
+<p>Most Electric-types handle Lapras well, with the exception of Zapdos who gets hit hard with Ice Beam. Most Pokemon with a high Special Defense with no weaknesses to Lapras's attacks will also pass through easily; these include Umbreon, Snorlax, Blissey, and Hypno. In UU, Magneton is a great option since it resists both Ice Beam and Thunderbolt and has a very powerful Thunderbolt. In addition, if Lapras does not sport Surf, many more Pokemon become reliable switch-ins, especially more from the UU and BL tiers such as Scizor, Arcanine, and Typhlosion.</p>

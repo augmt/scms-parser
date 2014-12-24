@@ -1,0 +1,75 @@
+[Overview]
+
+<p>Hariyama should be considered for a few main reasons: firstly, it covers all of Salamence's and Celebi's important special weaknesses. Secondly, it can remove Leftovers from the likes of Skarmory, Suicune, and Blissey with Knock Off, which makes them much easier to kill. Finally, its Attack stat is high enough that even without boosting, it can 2HKO Skarmory with STAB Focus Punch.</p>
+
+[SET]
+name: Knock Off
+move 1: Knock Off
+move 2: Cross Chop
+move 3: Rock Slide
+move 4: Hidden Power Ghost
+item: Leftovers
+nature: Adamant
+evs: 96 Atk / 192 Def / 192 SpD / 28 Spe
+
+[SET COMMENTS]
+
+<p>Cross Chop will hurt a lot, especially if it gets a critical hit against Salamence or Skarmory. Knock Off, as stated above, is always a great move as it gets rid of Leftovers.</p>
+
+<p>Hariyama's HP is extremely high, so investing it its defenses is the best way to raise its bulk. An Adamant nature and some Attack investment help Cross Chop threaten enemies, while the 28 Speed EVs allow Hariyama to outrun Swampert. A Defense- or Special Defense-boosting nature can be used as well to make Hariyama even bulkier.</p
+
+[SET]
+name: Special Tank
+move 1: Rest
+move 2: Sleep Talk
+move 3: Cross Chop
+move 4: Whirlwind
+item: Leftovers
+nature: Careful
+evs: 84 HP / 144 Def / 252 SpD / 28 Spe
+
+[SET COMMENTS]
+
+<p>Thick Fat and Guts both work on this set. Guts is the primary choice as it is activated by Sleep Talk, but as Hariyama only has one attack, it's not as important. On the other hand, Thick Fat helps Hariyama overcome its low Special Defense. Some HP or Defense EVs can be swapped for additional Attack, but even without investment, Hariyama OHKOes Tyranitar and 2HKOs Blissey, Snorlax, and Regice, and requires a ton of investment to achieve the OHKO. Furthermore, keep in mind Cross Chop's high critical hit rate, which means that even a +6 Curse Snorlax is not safe.</p>
+
+<p>This set is significantly more effective with a few layers of Spikes on the field to take advantage of Whirlwind. It also counters Baton Pass teams effectively, thanks to Cross Chop's high critical hit rate, which scares all but Ninjask, Mr. Mime, and Celebi. For instance, it dents Umbreon, Smeargle, and Vaporeon, and to an extent even Scizor. Moreover, Soundproof does not block Whirlwind, so the only way to set up is if Smeargle can use Ingrain. It is worth noting that for the matchup between Smeargle and Hariyama, the latter has Sleep Talk for Spore and Cross Chop for Ingrain. If you predict Spore, you have two chances to use Cross Chop; once on the Spore, and once on the Ingrain. If you choose Whirlwind on the first turn of Sleep Talk, you have forced the opponent to delay Ingrain, so you can continue to wear it down.</p> 
+
+[SET]
+name: Choice Band
+move 1: Cross Chop
+move 2: Rock Slide
+move 3: Hidden Power Ghost
+move 4: Fake Out / Sleep Talk
+item: Choice Band
+ability: Guts
+nature: Adamant
+evs: 252 Atk / 112 Def / 116 SpD / 28 Spe
+
+[SET COMMENTS]
+
+<p>Machamp pretty much does this a lot more effectively as it has a higher Attack stat. However, this lets Hariyama take a few more hits, and the option to Fake Out is always helpful.</p>
+
+[SET]
+name: Focus Punch
+move 1: Focus Punch
+move 2: Counter / Revenge
+move 3: Rock Slide
+move 4: Hidden Power Ghost
+item: Leftovers
+ability: Guts
+nature: Adamant
+evs: 96 Atk / 192 Def / 192 SpD / 28 Spe
+
+[SET COMMENTS]
+
+<p>Focus Punch is a strong move, and should be used whenever possible. However, it is useless if Hariyama is attacked, so the second move deters this. Counter is an obvious choice with Hariyama's absolutely massive HP, while Revenge is a respectable choice as well. As a sort of reverse Focus Punch, Revenge has 60 Base Power, which doubles if used on a turn when attacked by the enemy. Counter is generally preferred, as Revenge still does very little to Pokemon such as Salamence, whereas Counter will OHKO. However, Revenge's advantage is that it works on both physical and special attacks. Hidden Power Ghost and Rock Slide hit most Pokemon that resist Fighting for super effective damage.</p>
+
+<p>Once again, defensive investment is preferred to HP investment due to Hariyama's naturally high HP stat, 28 Speed EVs are used to outrun Swampert, and the rest of the EVs are put into Attack.</p>
+
+[Other Options]
+
+<p>Toxic increases Hariyama's good stalling potential and works well in tandem with Knock Off. Bulk Up can let it tank physical hits, and can be used together with Counter. In particular, it enables Hariyama to survive Choice Band Salamence's Hidden Power Flying and OHKO in return.</p>
+
+[Checks and Counters]
+
+<p>Muk is the only Pokemon that can switch into Cross Chop and Knock Off without losing its item. Salamence and Gyarados are obviously good bets as they resist Cross Chop and have Intimidate to cut the damage even more. However, they might lose their item, get hit with Rock Slide, or even eat a Cross Chop critical hit; they need to watch out for Counter too. Weezing is an good bet, but it cannot beat the Sleep Talk set, Will-O-Wisp might trigger Guts, and if Hariyama Counters Sludge Bomb, Weezing is dead. Skarmory's Flying moves will hurt Hariyama, and again they might get Countered. Additionally, Skarmory is not the best bet as its lack of a Fighting resistance means it takes huge damage from Focus Punch or Cross Chop. Heracross can work, but will lose against variants with Counter unless it has Substitute, Bulk Up, or Swords Dance. Ghosts such as Gengar only really work against mono-attacking Hariyama.</p>

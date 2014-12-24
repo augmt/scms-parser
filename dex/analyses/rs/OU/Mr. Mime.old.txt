@@ -1,0 +1,83 @@
+[Overview]
+
+<p>Mr. Mime's makes a great choice for Baton Pass teams as Soundproof lets him temporarily block Roar and Perish Song; he has access to a good number of setup moves as well. He's very fragile though, and can be hard to switch in.</p>
+
+[SET]
+name: Calm Mind + Baton Pass
+move 1: Calm Mind
+move 2: Psychic
+move 3: Baton Pass
+move 4: Encore / Substitute / Barrier / Thunderbolt
+item: Leftovers
+nature: Calm
+evs: 252 HP / 60 SpA / 196 SpD
+
+[SET COMMENTS]
+
+<p>An immunity to Roar makes Mr. Mime an excellent choice for Baton Passing chains, to which he can contribute Calm Mind boosts. In fact, this is the Pokemon that makes Baton Passing such a dangerous strategy, because he stops Roar users such as Skarmory and Suicune.</p>
+
+<p>Encore is the preferred move in the last slot as it stops opposing stat boosters, such as Calm Mind Raikou, from setting up alongside Mr. Mime. Substitute can be used to give this set somewhat of a SubCM Raikou feel; Mr. Mime's base 120 Special Defense lets him tank hits well. Barrier helps Mr. Mime better tank physical attacks, while Thunderbolt lets it beat Skarmory and Gyarados.</p>
+
+[SET]
+name: Trickster
+move 1: Calm Mind
+move 2: Psychic
+move 3: Torment
+move 4: Trick
+item: Choice Band
+nature: Calm
+evs: 252 HP / 40 SpA / 196 SpD / 20 Spe
+
+[SET COMMENTS]
+
+<p>Mr. Mime pulls this off more effectively than Alakazam does because of its better overall defenses. Trick a Choice Band onto the opponent, then use Torment to force them to Struggle every other turn. While it's a decent strategy, the first set is usually superior.</p>
+
+[SET]
+name: Encore + Baton Pass
+move 1: Encore
+move 2: Baton Pass
+move 3: Substitute
+move 4: Psychic
+item: Leftovers
+nature: Calm
+evs: 252 HP / 60 SpA / 196 SpD
+
+[SET COMMENTS]
+
+<p>Substitute to block status, Encore the move, then pass the Substitute to another Pokemon capable of causing destruction.</p>
+
+[SET]
+name: Hypnosis
+move 1: Hypnosis
+move 2: Calm Mind / Substitute
+move 3: Psychic
+move 4: Thunderbolt / Baton Pass
+item: Leftovers
+nature: Calm
+evs: 252 HP / 60 SpA / 196 SpD
+
+[SET COMMENTS]
+
+<p>Put an opponent to sleep, nab a free Substitute or Calm Mind, and pass it along or begin to sweep.</p>
+
+[SET]
+name: Physical Attacker
+move 1: Meditate
+move 2: Shadow Ball
+move 3: Brick Break
+move 4: Thunderbolt / Psychic
+item: Leftovers
+nature: Sassy / Brave
+evs: 252 HP / 172 Atk / 60 SpA / 24 SpD
+
+[SET COMMENTS]
+
+<p>This Mr. Mime works well as a counter to Psychic-types such as Alakazam. After a few Meditate boosts, Brick Break will do some damage to even Blissey. Thunderbolt takes care of Skarmory, and Psychic beats up Weezing.</p>
+
+[Other Options]
+
+<p>Recycle is pure novelty. Mr. Mime can't Recover like Porygon2 can.</p>
+
+[Checks and Counters]
+
+<p>Tyranitar, Metagross, and Snorlax counter it due to their stats and typing; other physical attackers that can take the odd special attack also work. Notably, Whirlwind Skarmory can phaze out Baton Pass variants.</p>

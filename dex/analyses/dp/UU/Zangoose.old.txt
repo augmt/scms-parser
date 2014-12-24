@@ -1,0 +1,65 @@
+[Overview]
+
+<p>Shunned and rejected in favor of better options in standard play, it could be considered a true blessing that Zangoose set his sights lower and plunged into the unsettled waters of the UU tier. Sadly for the demon furball, however, he has failed to make any sort of impact in even this lower metagame and is still ousted from teams in favor of bulkier, faster, or harder-hitting alternatives.</p>
+
+<p>However, let us not be too hasty in condemning the white wonder to disuse. Though his stats are low, they are distributed excellently; he has a very reliable STAB to use and a collection of moves that back it up with both excellent coverage and desirable boosts. That said, he is hard to use correctly, but with adequate support, there is very little in UU that can stop him from doing what he was designed to do: cause a lot of damage.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Return
+move 3: Close Combat
+move 4: Quick Attack / Shadow Claw
+item: Life Orb
+nature: Jolly / Adamant
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>Zangoose is one of a whole host of physical Normal-type sweepers once deemed too powerful for UU, and have since returned to the tier in order to justify that claim. Unfortunately though, they have for the most part failed to make any significant impact on the metagame. On paper, Zangoose does not have many distinguishing features to make himself stand out from his Normal-type brethren -- Tauros and Ambipom are faster, and Ursaring and Slaking have more initial attack power. However, this should not deter you from using Zangoose -- he has above average stats in both Speed and Attack, and has one key factor that makes him exceptional: a very wide physical movepool.</p>
+
+<p>Swords Dance enables Zangoose to boost his Attack and possibly open up a sweeping opportunity. Return is the given STAB move, boasting both a relatively high Base Power and reliable accuracy. Close Combat is a blessing for Zangoose, as he can retaliate with feeling against Steel- and Rock-types who resist his STAB. The last slot has a number of options going for it. Quick Attack is the superior option since it can OHKO faster Pokemon like Alakazam, Sceptile, and Swellow after Stealth Rock. It also lets Zangoose defeat priority users such as Blaziken, Absol, and Hitmonlee. Shadow Claw can also be used to hit Ghost-type Pokemon; however, it is not very reliable, since Mismagius and Rotom are faster and usually carry Substitute for scouting, while Spiritomb is not hit super effectively.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>After a Swords Dance, Zangoose has the ability to break slower walls with relative ease -- even with a Jolly nature, just about everyone in UU is at least 2HKOed by him after a Swords Dance, and plenty more Pokemon are OHKOed:</p>
+
+<h3>Damage Calculations</h3>
+
+<ul class="damage_calculation">
+<li>+2 Jolly Zangoose Life Orb Return vs. 252 HP 252 Def Bold Milotic: 84.0% - 99.2%</li>
+<li>+1 Jolly Zangoose Life Orb Return vs. 252 HP 252 Def Impish Hitmontop: 73.0% - 86.2%</li>
+<li>+2 Jolly Zangoose Life Orb Close Combat vs. 252 HP Registeel: 120.3% - 141.8%</li>
+<li>+2 Jolly Zangoose Life Orb Close Combat vs. 252 HP Steelix: 96.0% - 113.0%</li>
+<li>+2 Jolly Zangoose Life Orb Close Combat vs. 252 HP Regirock: 93.4% - 109.9%</li>
+<li>+2 Jolly Zangoose Life Orb Close Combat vs. 136 HP Rhyperior: 92.1% - 108.4%</li>
+<li>+2 Jolly Zangoose Life Orb Close Combat vs. 252 HP Bold Cloyster: 111.8% - 131.6%</li>
+<li>+2 Jolly Zangoose Life Orb Quick Attack vs. 4 HP Alakazam: 115.9% - 136.9%</li>
+<li>+2 Jolly Zangoose Life Orb Quick Attack vs. 4 HP Sceptile: 78.7% - 92.9%</li>
+<li>+2 Jolly Zangoose Life Orb Quick Attack vs. 4 HP Dugtrio: 127.8% - 150.5%</li>
+<li>+2 Jolly Zangoose Life Orb Quick Attack vs. 4 HP Absol: 86.4% - 101.8%</li>
+</ul>
+
+<p>All of the above calculations were done assuming a Jolly nature. With an Adamant nature, however, Zangoose is guaranteed to OHKO many of these walls with one of his attacks, even without entry hazards, but will fail to outrun faster Pokemon such as positive nature Venusaur and Blaziken. Even so, an Adamant nature can be helpful to assure OHKOs on faster Pokemon with Quick Attack, such as Sceptile. With a Jolly nature, Zangoose has a fair chance to miss an OHKO on many walls, and while they will likely fail to OHKO him with one attack, their attack's damage on top of Life Orb recoil can end his sweep prematurely. Thus, it is recommended strongly that you save Zangoose for lategame when the opponent's walls have had a chance to accumulate some damage. However, although his Speed is decent, he is outrun and halted by a number of common threats. Drapion, Mismagius, and Rotom all outrun him and, while none of them can OHKO with a single unboosted attack, they highlight the point that Zangoose can easily be revenge killed before he has a chance to sweep. Quick Attack can remedy this, but if you lack Shadow Claw you are setup fodder for Mismagius and Spiritomb. The item choice is also an important one -- Life Orb is almost always the best choice, as it gives more power to all of Zangoose's moves, and without it he can miss some crucial OHKOs. A Jolly nature is best here to outrun neutral base 95s and 100s, such as Drapion and Arcanine, as well as positive nature base 80s like Kabutops and Venusaur. With no EV investment in HP, Zangoose takes minimum damage from indirect damage, such as Stealth Rock and the rare sandstorm.</p>
+
+<p>Although Zangoose's damage output is spectacular, the process of actually setting up Swords Dance to sweep can be a difficult one. Zangoose has to both switch in, possibly taking entry hazard damage, and set up, giving the opponent two turns in which to end him. Zangoose's defenses are gut-wrenchingly frail even for UU, and even those with the poorest offenses can find a way to damage him, not to mention the fact that even those at the bottom of the offensive barrel, such as Registeel and Chansey, can find a way to ruin him through status afflictions. To help Zangoose set up, you can try to reduce the damage dealt to him by opponents by using dual screens, which can be set up by someone like Uxie, who can also set up Stealth Rock and use Memento to give Zangoose a free switch in. The use of Memento also lowers the opponent's offensive power, forcing them to switch and giving Zangoose that all-important turn to set up. In other situations you can simply wait and sacrifice one of your Pokemon in order to switch Zangoose in for free, or try to clear a hole using Explosion. When Zangoose is actually in play, you will need to find a way to set him up without taking too much damage. Against offensive teams, dual screens support is a great help, and you may also consider Baton Passing a Substitute to Zangoose to protect it from status.</p>
+
+<p>As for who Zangoose can actually set up on, those Pokemon with mediocre assaults are the best bets, the most notable being Chansey, since Zangoose can take a Seismic Toss and is immune to Toxic (just try to avoid Thunder Wave). You can also try Tricking a weaker Pokemon such as Registeel and letting Zangoose set up on him, but this has a very high chance of failing. If Zangoose can force an opponent out, either because you bluff the intention of attacking (if your opponent's Pokemon is on low health but still needed) or your opponent believes that the appropriate move is to switch to someone bulkier or a faster revenge killer (which can be good or bad depending on who they choose, but by this point you should have worked out your opponent's team accurately enough to know what this will entail).</p>
+
+<p>Stealth Rock support is heavily recommended for this set, as it can make the difference between a 2HKO and an OHKO. Paralysis support or a Baton Passed Agility is also viable in case Zangoose should be outsped, since the extra Speed can occasionally mean the difference between a win and a loss. Defensive Spiritomb is one of this set's greatest foes, and thus Blaziken can be one of this set's greatest allies since he resists Spiritomb's Dark-type STAB and is immune to Will-O-Wisp, and has the potential to OHKO with STAB Fire Blast. Rest Talk Hariyama also resists Dark-type attacks, can heal off burns with Rest or use them to activate Guts, but does not have anything to hit back at Spiritomb with. Houndoom also resists both Ghost- and Dark-type attacks and can take advantage of Will-O-Wisp with Flash Fire. In the case of Hitmontop, a Spiritomb of your own will hinder your opponent, as it is immune to Fighting-type moves and Rapid Spin.</p>
+
+[Other Options]
+
+<p>Choice items are useful tools for Zangoose to have, as they alleviate concerns about either power or Speed in exchange for being locked into one move; however, for the most part Tauros and Kangaskhan can use those sorts of sets better. Zangoose also has STAB Flail in its arsenal, which can be useful alongside Swords Dance, Close Combat, and Shadow Claw, but with all the priority running around in UU, Flail sets have a much lower chance of succeeding in sweeping in comparison to the Swords Dance set. If running a Jolly nature on Zangoose, you may miss out on some OHKOs due to the loss in power. Zangoose has two stronger STAB moves than Return in the form of Double-Edge and Mega Kick. Both have 120 Base Power to Return's 102, but both also have very nasty drawbacks. Double-Edge has good accuracy and PP but deals recoil damage whenever Zangoose hits someone, which can be crippling with Zangoose's low HP stat on top of possible Life Orb recoil. Mega Kick has the same power and no damaging effect, but it has very low accuracy and PP.</p>
+
+<p>Silk Scarf is a viable alternative to Life Orb, as it does not have a detrimental side effect and can also lure your opponent into believing that Zangoose is Choice-locked, provided of course you do not use Swords Dance prematurely; however, it lacks the all-around power of Life Orb. Don't bother with Taunt; everyone 2HKOes him. Zangoose packs an astounding special movepool, including Thunderbolt, Ice Beam, Flamethrower, Shadow Ball, and Focus Blast, and thus a gimmick mixed set is somewhat viable, though not advised owing to Zangoose's very low Special Attack stat. Of the Elemental Punches, Ice Punch is the most viable, but is only more powerful than STAB Return against Altaria, Gligar, Torterra, and Tropius in UU. Lastly, Counter can be used with a Focus Sash to KO an unsuspecting opponent.</p>
+
+<p>You should always run max Attack and at least near max Speed. The recommended Speed EVs are the minimum you should be using, with any spare EVs dumped into a preferred defensive stat, but not HP. With 0 EVs, Zangoose has 287 HP, which is ideal; residual damage rounds down, so you lose 35 HP from Stealth Rock, 28 from Life Orb, and 17 from sandstorm. With 4 EVs and 288 HP Stealth Rock deals 36 damage and sandstorm deals 18.</p>
+
+[Checks and Counters]
+
+<p>Countering the Swords Dance variant of Zangoose directly is more difficult than one would imagine, because of its ability to at least 2HKO anyone in UU. Because of this, it is generally easier to attempt to force him out as he Swords Dances with someone faster with OHKO potential, such as Swellow; however, this runs the obvious risk of switching straight into a Life Orbed Return.</p>
+
+<p>Of the Pokemon considered at least decent checks to Zangoose, Spiritomb is by far the best. Spiritomb is not OHKOed by even a Swords Dance boosted Shadow Claw, and can cripple Zangoose with Will-O-Wisp or defeat him with some combination of Sucker Punch, Dark Pulse, and Hidden Power Fighting. Next on the list is Hitmontop, who can function as a wall or a revenge killer. Defensive Hitmontop can Intimidate Zangoose, destroy him with a STAB Close Combat, or Spin away entry hazards. Technitop can beat Zangoose through a combination of Fake Out + Mach Punch, but must be careful not to switch into Return. It should also be noted that Zangoose's Quick Attack will 2HKO Technitop after a Swords Dance, so using Mach Punch first with Hitmontop rather than opening with Fake Out is probably a better strategy.</p>
+
+<p>Far more popular methods of dealing with Zangoose involve simply outspeeding and OHKOing him. However, Zangoose can and will occasionally run a Scarf set and is also capable of bluffing one with Silk Scarf, so this is not an entirely reliable strategy. The most popular Pokemon who are naturally faster are Mismagius, Alakazam, Swellow, Ambipom, Scyther, Arcanine, Drapion, and Rotom. Note that most of these Pokemon will usually fail to OHKO a full HP Zangoose with an unboosted attack. For reference, Mismagius's unboosted Hidden Power Fighting will do about 70% damage to Zangoose, so Mismagius may have to abuse Life Orb recoil through strategic switching before attacking. Most faster Pokemon will have to watch out for Quick Attack, however. Finally, if Zangoose lacks Quick Attack, priority users such as Blaziken and Absol can revenge him.</p>

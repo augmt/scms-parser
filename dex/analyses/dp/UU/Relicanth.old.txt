@@ -1,0 +1,96 @@
+[Overview]
+
+<p>Although it's seen as "just another Rock-type" by many, Relicanth has several positive niches that make it a strong Pokemon. It is faster than most other Rock-type Pokemon, has usable Attack, and has splendid physical bulk. In comparison to Aggron, its Water sub-typing makes it less susceptible to Ground-type Pokemon. Relicanth's Water / Rock typing also grants it a useful dual resistance to Fire, along with resistances to Normal, Flying, Ice, and Poison. Movepool-wise, Relicanth has access to a variety of moves that offer great coverage and support. However, the main selling point of using Relicanth is its access to Head Smash, which, when combined with Rock Head, makes for a deadly sweeper.</p>
+
+<p>It's not all sunshine for Relicanth though. Relicanth's horrible Special Defense stat makes it unlikely to live through several neutral special attacks. That poor Speed in comparison to the rest of the metagame makes you want to gouge your eyes out. It also comes with a dual weakness to Grass, as well as weaknesses to Fighting, Ground, and Electric. Nevertheless, Relicanth can be one of the most devastating Pokemon in a blink of an eye.</p>
+
+[SET]
+name: Choice Band
+move 1: Head Smash
+move 2: Aqua Tail / Waterfall
+move 3: Earthquake
+move 4: Double-Edge
+item: Choice Band
+ability: Rock Head
+nature: Jolly / Adamant
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>Thanks to its high Base Power attacks, just good enough Speed, and Rock Head, Relicanth can threaten to bulldoze through any team with correct prediction. Head Smash offers Relicanth the ability to obliterate most Pokemon while causing huge dents on even those that resist it. Aqua Tail goes hand in hand with Head Smash by smashing most Ground- and Rock-type Pokemon, while also hitting Fighting- and Steel-types for neutral damage. Waterfall can be used instead of Aqua Tail if you dislike imperfect accuracy, though at the cost of lower damage. Earthquake covers every other Pokemon that resist, take little damage from, or are immune to Head Smash and Aqua Tail - Toxicroak, Quagsire, Poliwrath, and Registeel are a few examples. The last slot is mainly a filler, but Double-Edge gives Relicanth a wide range of neutral coverage should you find a situation where you can't trust your prediction skills.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>To demonstrate the power of this set, here are some damage calculations (with a Jolly nature):</p>
+
+<ul class="damage_calculation">
+<li>Head Smash vs. 252/252+ Uxie: 48.3% - 57.1%</li>
+<li>Head Smash vs. 252/0 Donphan: 31.8% - 37.5%</li>
+<li>Head Smash vs. 252/252+ Milotic: 60.6% - 71.8%</li>
+<li>Head Smash vs. 0/4 Venusaur: 110% - 129.9%</li>
+<li>Head Smash vs. 252/252+ Slowbro: 49% - 57.9%</li>
+<li>Aqua Tail vs. 252/0 Donphan: 76.6% - 90.6%</li>
+<li>Aqua Tail (-1) vs. 252/252+ Hitmontop: 28% - 33.6%</li>
+<li>Aqua Tail vs. 252/4 Registeel: 33% - 39%</li>
+<li>Aqua Tail vs. 0/4 Torterra: 48.9% - 58%</li>
+<li>Waterfall vs. 252/0 Donphan: 67.7% - 80.2%</li>
+<li>Waterfall (-1) vs. Hitmontop: 25% - 29.9%</li>
+<li>Earthquake vs. 252/4 Registeel: 49.5% - 58.2%</li>
+<li>Earthquake vs. 252/4 Poliwrath: 34.4% - 40.6%</li>
+<li>Double-Edge vs. 252/252+ Quagsire: 31% - 36.5%</li>
+<li>Double-Edge vs. 252/4 Poliwrath: 41.1% - 48.7%</li>
+</ul>
+
+<p>With a Jolly nature, Relicanth reaches 229 Speed, outspeeding most walls, mainly defensive Leafeon, defensive Arcanine, and support Uxie. Moreover, it allows Relicanth to speed tie with positive-natured Exeggutor, Ursaring, and Omastar. However, using an Adamant nature still puts Relicanth in a useful Speed tier with a stat of 209, as it lets the rock fish outspeed Milotic, Blastoise, and neutral-natured max Speed base 50s while increasing Relicanth's offensive prowess. The EVs are self-explanatory: max Attack to deal the highest amount of damage possible, whereas max Speed lets Relicanth outspeed as much as it can. In the last slot, Stone Edge or Rock Slide can be used in case Head Smash runs out of PP. Rock Slide gives Relicanth a reliable Rock-type attack, though Stone Edge offers more power. Choice Scarf is a valuable alternative item on this set, as with an Adamant nature, Relicanth attains 313 Speed, or 343 Speed with Jolly. However, Relicanth becomes quite weak offensively, but it can still be strong as long as Head Smash hits. Another option for this set is to use Swift Swim as the ability. In the rain, Relicanth will become fast enough to outspeed the entire unboosted metagame, and with a Choice Band intact, it will present a formidable threat to the foe.</p>
+
+<p>Relicanth has trouble against bulky Fighting-types, such as Intimidate Hitmontop and Hariyama, and bulky Grass-types, such as Tangrowth, Exeggutor, and Leafeon. As such, having a Flying-type such as Moltres and Scyther can be extremely useful for switching in on these threats and eliminating them with Air Slash and Aerial Ace, respectively. Faster Pokemon are also nuisances to this set. Paralysis support provided by Registeel, Uxie, and Clefable can cripple such threats. Lastly, Relicanth appreciates type synergy from the likes of Venusaur, Rotom, and Leafeon. Venusaur has the ability to sleep a foe, Rotom can spread burns and annoy teams with a Substitute set, and Leafeon can provide Wish support and phazing.</p>
+
+[SET]
+name: Rock Polish
+move 1: Rock Polish
+move 2: Head Smash
+move 3: Waterfall / Aqua Tail
+move 4: Earthquake
+item: Life Orb
+ability: Rock Head
+nature: Adamant / Jolly
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>With shabby Speed, great offenses and coverage, incredible physical bulk, and the ability to force switches, Relicanth makes a natural candidate for a Rock Polish set. Rock Polish boosts its Speed from a low 209 to an amazing 418, outspeeding even Electrode. Head Smash obliterates most of the metagame, while Waterfall takes care of any stragglers and has a chance to flinch. Aqua Tail is a fine alternative over Waterfall for more power at the cost of lower accuracy. For the last slot, Earthquake is used to deal more damage to Registeel, Toxicroak, and Poliwrath, which would otherwise give this set a world of trouble.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Jolly over Adamant can be useful to outspeed more threats. With Jolly, Relicanth reaches 458 Speed, outspeeding +1 positive-natured base 87s and below, including Choice Scarf Venusaur and Choice Scarf Hitmonlee. However, the loss of power from Adamant will usually be more of a curse to Relicanth as it will lose out on many useful KOs.</p>
+
+<p>As a rule of thumb, you should generally not use Rock Polish until you know two facts: that your foe's team has been fully revealed and that it is overall weakened. If you do not properly scout for counters, you will waste valuable turns by using Rock Polish. In contrast, if you do not weaken the foe's team, Relicanth cannot survive long enough to sweep. To help you accomplish these two factors, you can utilize phazers such as Roar Venusaur, Whirlwind Hariyama, the rare Perish Song Mismagius, and entry hazard users such as Uxie, Cloyster, and Drapion. Venusaur has resistances to Fighting, Electric, and Grass, can sleep foes with Sleep Powder, and help break down walls with Swords Dance-boosted attacks. Hariyama may not provide many resistances for Relicanth, but it is a solid status absorber due to Guts or its ability to RestTalk. Overall, Mismagius is great at supporting Relicanth thanks to its immunity to Ground- and Fighting-type attacks, access to useful status moves in the form of Thunder Wave and Will-O-Wisp, and ability to break stall with Taunt. Uxie, Cloyster, and Drapion are all fairly bulky enough to set up entry hazards reliably throughout a match, but take caution as they all lack a reliable recovery move.</p>
+
+[SET]
+name: Rain Dance Physical Attacker
+move 1: Head Smash
+move 2: Aqua Tail / Waterfall
+move 3: Earthquake
+move 4: Rain Dance / Stone Edge
+item: Life Orb
+ability: Swift Swim
+nature: Adamant
+evs: 72 HP / 252 Atk / 184 Spe
+
+[SET COMMENTS]
+
+<p>Despite the fact that without Rock Head Relicanth will be taking huge recoil damage from Head Smash, it can still successfully utilize its other ability, Swift Swim, to sweep under rainy conditions. Head Smash is Relicanth's main attack, and it dents even Pokemon that resist the move. Aqua Tail comes off Relicanth's secondary STAB and smacks Fighting- and Ground-types that try to switch in on Head Smash. If you despise Aqua Tail's accuracy, you can replace it with Waterfall for its perfect accuracy and chance to flinch. Earthquake rounds out the coverage by hitting Toxicroak, Poliwrath, and Registeel for good damage. In the last slot, Rain Dance is preferred to set up rain if it is not present, but Stone Edge is a perfectly viable option in case Relicanth is taking too much recoil from Head Smash.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>An Adamant nature is recommended to dish out as much damage as possible. Still, a Jolly nature, alongside 240 Speed EVs, can be used to outspeed every Pokemon up to Jolly Choice Scarf Hitmonlee in the rain. The Speed EVs allow Relicanth to reach 384 Speed with Swift Swim's boost, outpacing even Swellow. Attack is maxed out to increase Relicanth's damage output, while the remaining EVs are thrown into HP to provide more overall bulk, and to safeguard against Head Smash's recoil.</p>
+
+<p>You can effectively pair this Relicanth with a good variety of other Pokemon, not only to break down the opposition, but to support Relicanth. Other physical rain sweepers, such as Kabutops, Qwilfish, and Swords Dance Ludicolo, can barrage the opponent's defense, due to the heavy offensive pressure that the Pokemon will be causing. Kabutops has access to a powerful Stone Edge, in addition to priority Aqua Jet. Qwilfish can absorb Toxic Spikes, which are a nuisance to rain teams, and utilize Explosion to eliminate a troublesome Pokemon. Ludicolo is an excellent partner due to its access to STAB Energy Ball, which allows it to eliminate bulky Water-types that may get in Relicanth's way. Obviously, Relicanth wants Rain Dance supporters such as Uxie, Registeel, and Electrode so that it can rain on the foe's parade. Uxie and Registeel can also set up Stealth Rock reliably in order to weaken the foe's team. With its blazing base 140 Speed, Electrode will almost always set up Rain Dance while Taunting cheeky foes. Additionally, Registeel and Electrode can Explode to not only eliminate or dent the foe, but to give Relicanth a safe switch-in. More useful Rain Dance supporters include Lanturn and Rotom, since they can abuse the rain with either boosted Surfs (for Lanturn) or 100% accurate Thunders.</p>
+
+[Other Options]
+
+<p>Relicanth is really limited in its movepool, so there's no doubt that there are hardly any other moves to use. Bounce has the niche of hitting Grass-types super effectively off of Relicanth's Attack stat, but it requires two turns, can miss, and is, most of the time, just not strong enough. A RestTalk set can be used courtesy of Relicanth's bulky physical defense, though Relicanth has too many weaknesses and will be too weak offensively to be much of a threat. Toxic is available to cripple bulky Pokemon such as Tangrowth, Leafeon, and Donphan, but it's better to just chip their HP away with Head Smash or Waterfall. Substitute is a neat option to prevent status and critical hits from ruining Relicanth's day if you can find a moveslot for it. Due to the presence of Yawn and Stealth Rock, you could run a supporter tank set; however, the lack of recovery makes it fairly uninteresting, though the set isn't terrible.</p>
+
+[Checks and Counters]
+
+<p>Despite Relicanth's deadly offensive prowess, it has several hard counters. Bulky physically defensive Grass-types such as Tangrowth, Leafeon, and Torterra can take a hit and OHKO back with a STAB attack. Likewise, bulky Fighting-types such as Hitmontop and Hariyama can survive Relicanth's assaults and 2HKO back with Close Combat; as a bonus, Hitmontop has access to Intimidate to lower Relicanth's damage output. Although they take heavy damage from Relicanth's attacks, other bulky Pokemon such as Donphan, Poliwrath, Uxie, and Registeel can still take a hit and dent it with a super effective attack or afflict it with status. Although uncommon, Quagsire gets a special mention as a counter due to its immunity to Water, resistance to Rock, and access to reliable recovery in Recover, which allows it to switch in on Relicanth easily. In terms of checks, faster Pokemon such as Rotom, Venusaur, Moltres, and Milotic can threaten Relicanth with a super effective move provided that they can switch in on a resisted attack or immunity. Fighting-type priority attacks from the likes of Toxicroak and Blaziken can pick off any weakened Relicanth. Lastly, afflicting status such as burn, paralysis, and poison will greatly hamper Relicanth's ability to sweep.</p>

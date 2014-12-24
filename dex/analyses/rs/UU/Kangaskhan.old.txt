@@ -1,0 +1,85 @@
+[Overview]
+
+<p>Kangaskhan is one of the most used Pokemon in the Underused environment. Bulky defenses, high HP, above-average Speed, high Attack with a fantastic movepool and Normal STAB makes Kangaskhan very dangerous. Kangaskhan can be difficult to stop; more than one resist is often necessary to handle it. When building your UU team, make sure that your team can handle Kangaskhan!</p>
+
+[SET]
+name: Physical Attacker
+move 1: Return / Double-Edge
+move 2: Shadow Ball
+move 3: Rest / Wish
+move 4: Earthquake
+item: Leftovers
+nature: Adamant
+evs: 212 HP / 252 Atk / 44 Spe
+
+[SET COMMENTS]
+
+<p>This was one of the first sets for Kangaskhan in early FRLG play, before the Substitute + Focus Punch set became popular, and is starting to see a bit of use again. Return or Shadow Ball anything in sight until your HP is at around 50%. Then Rest the damage off and wait for one Sleep turn, thanks to Early Bird. Kangaskhan can also use Double-Edge effectively. Wish is also an option; with some defensive EVs, Kangaskhan can be bulky, which will allow it to be an effective Wish-passer. Watch out for status.</p>
+
+[SET]
+name: Choice Band
+move 1: Return / Double-Edge
+move 2: Earthquake
+move 3: Shadow Ball
+move 4: Focus Punch / Fake Out
+item: Choice Band
+nature: Adamant / Jolly
+evs:  4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Kangaskhan is no Slaking, but it can act as a Choice Bander quite well. Its Speed is rather high in UU to pull this off. Because Focus Punch hits very few things in UU, Fake Out can be used to stop Pokemon with Substitute and a Salac, or just for a little bit of extra damage against a Pokemon you normally couldn't take. However, Focus Punch can be useful to predict Walrein and Cradily, and guarantees a OHKO on Aggron, who can potentially survive your Earthquake only to Counter it back.</p>
+
+[SET]
+name: Wish Staller
+move 1: Protect / Counter
+move 2: Wish
+move 3: Toxic
+move 4: Return / Double-Edge
+item: Leftovers
+nature: Adamant
+evs: 252 HP / 128 Def / 128 SpD
+
+[SET COMMENTS]
+
+<p>This set simply refuses to die, as very few things can do enough to Kangaskhan to overcome Wish and 2 turns of Leftovers for each hit, and those few Pokemon (for instance, Hitmonlee) often have very low Defense, letting your STAB Normal hit them hard. It's completely walled by Aggron, but Wish support lets Pokemon like Gligar switch into that all day. Counter can stop that nicely, but you risk being Thunder Waved or having Aggron just set up a Substitute. You could also stick Roar on there over Protect or Return if you have some Spikes down for even more stall. You may want to focus on more Special Defense if you have Counter to ensure that Counter KOs the opponent when they use a physical attack.</p>
+
+[SET]
+name: SubPunch
+move 1: Substitute
+move 2: Focus Punch
+move 3: Return
+move 4: Shadow Ball
+item: Leftovers
+nature: Adamant
+evs: 212 HP / 252 Atk / 44 Def
+
+[SET COMMENTS]
+
+<p>105 base Hit Points and a decent Attack make this moveset very good on Kangaskhan. Make sure when you are using this set, to make sure you have 404 HP or more (at least 212 HP EVs) to make 101 HP Substitutes, as this means Seismic Toss will need two hits to break the Substitute.</p>
+
+[SET]
+name: Reversal
+move 1: Endure / Substitute
+move 2: Reversal
+move 3: Return
+move 4: Shadow Ball
+item: Salac Berry
+nature: Adamant
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>Flail would have worked better, actually. If you think about it, Flail would save some room for Focus Punch. Too bad, though. The Reversaler set is in fact the unexpected set for Kangaskhan.</p>
+
+[Other Options]
+
+<p>Body Slam can be used as your Normal move for Paralysis. Roar can stop random stat uppers, especially the odd UU BP team (as Mr. Mime cannot stand up to STAB Returns to block your Roar), and Yawn works as a sort of pseudo-phazing move.</p>
+
+[EVs]
+
+<p>Near max HP and a lot of Attack in the first set, with the rest in Speed. On the Choice Band set, just max out Attack and Speed. On the Reversal set, max out Attack to ensure that Reversal can do a decent amount of damage. Speed will have to be 264 in OU, with an Adamant nature, but in UU, you can use much lower speeds, such as 251 to beat an Electrode without +Speed, or even less, depending on just how much you fear Electrode. The remainder of EVs should go into either Defense. Use no HP EVs so that you end up with 1% after 4 Substitutes, instead of 25% after 3, or Reversal will be much weaker. Of course, the extra EVs elsewhere will do virtually nothing, so you'll most likely just want to max your Speed to keep other Salac Pokemon from outspeeding you.</p>
+
+[Checks and Counters]
+
+<p>Offten more than one Rock-type is needed to fully stop Kangaskhan. A bulky Omastar can handle it, Reflect Solrock can handle it. Golem, which is rather uncommon, can switch into it and scare off Kangaskhan, unless it is of course packing Earthquake or Focus Punch. Walrein and Blastoise can easily stall it with Rest and Toxic, unless it's holding a Choice Band. If it has a Choice Band, you'll need to use resists.</p>

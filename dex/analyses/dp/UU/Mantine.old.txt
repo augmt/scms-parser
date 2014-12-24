@@ -1,0 +1,55 @@
+[Overview]
+
+<p>Mantine's stats are the special equivalent of Skarmory's, which would lead one to think that it's actually good. Unfortunately for Mantine, it's not; its only recovery move is Rest. Mantine has a 4x weakness to Electric-type attacks and a Stealth Rock weakness, not to mention poor Defense and mediocre HP, all of which hamper its ability to function as a bulky Water-type Pokemon. From that, it seems pretty clear that Mantine is inferior to its fellow bulky Water-type Pokemon, Slowbro and Milotic.</p>
+
+<p>However, if one looks past the flaws, Mantine has a pretty unique niche. First and foremost, its typing helps it a lot. The secondary Flying typing provides Mantine an invaluable neutrality to Grass-type attacks, allowing it to actually switch into Grass-type Pokemon, unlike Milotic and Slowbro, and even threaten them back with STAB Hidden Power Flying. Flying typing also grants it immunity to Spikes and Toxic Spikes, which most other bulky Waters fear, and a welcome resistance to Fighting-type attacks. Water Absorb, Mantine's ability, which restores 25% of its HP if hit by a Water-type move, is the next big advantage Mantine has. This ability allows Mantine to switch into predicted Water-type moves without fearing Stealth Rock damage. Because of these niche advantages, Mantine is a sturdy special wall who, when used right, can be a great asset to balanced or defensive teams; just keep it away from Thunderbolt.</p>
+
+[SET]
+name: Specially Defensive RestTalk
+move 1: Rest
+move 2: Sleep Talk
+move 3: Surf
+move 4: Hidden Power Flying / Signal Beam / Toxic
+item: Leftovers
+ability: Water Absorb
+nature: Calm
+evs: 252 HP / 40 SpA / 216 SpD
+
+[SET COMMENTS]
+
+<p>This set aims to capitalize on Mantine's incredible special bulk. Powerful attacks such as Timid Choice Specs Sceptile's Leaf Storm are a 3HKO at best when factoring the special Attack drop, as is Timid Life Orb Alakazam's Psychic. With this specially defensive set, Mantine can switch into the special Grass-types of UU and hit back with STAB Hidden Power Flying. It also laughs at the special Water-types that lack boosting moves, Electric-type attacks, or Taunt, such as the ever-present Milotic, and any Choice-locked Pokemon stuck on a Water-, Ground-, or special Fire-type move, such as Azumarill, Moltres, and Dugtrio. Mantine can also make a fantastic status absorber for your team because of the RestTalk combination.</p>
+
+<p>There are multiple options for your fourth move. Hidden Power Flying is your main attack, receiving STAB and hitting many Pokemon in UU hard; it has the ability to 2HKO Sceptile. Signal Beam hits many Psychic-type Pokemon in UU super effectively, while still hitting the Grass-types for super effective damage. Toxic makes Mantine better at stalling, although running Toxic and Surf in tandem leaves Mantine walled by common UU Pokemon Venusaur, Qwilfish, and Toxicroak.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Mantine really needs Rapid Spin support to function optimally, as losing 25% of its HP just by switching in seriously hinders its ability to tank hits. Hitmontop, Donphan, and Claydol all make excellent partners with their Rock-type resistance and ability to Rapid Spin; Claydol and Donphan are also handily immune to Electric-type attacks. Claydol and Donphan can both set up Stealth Rock for your team, while Hitmontop can utilize Foresight and Rapid Spin to guarantee the removal of entry hazards. Hitmontop can also check opposing physical threats exceptionally well with Intimidate. Pokemon with high Defense stats such as Aggron and Steelix, especially the latter due to its Electric-type immunity, make great teammates for Mantine.</p> 
+
+<p>Mantine loses to most boosting sweepers of any type, especially Calm Mind Alakazam and Swords Dance Venusaur. It also cannot break Azumarill's Substitutes and will accomplish pretty much nothing at all against Lanturn. For these reasons, it's good to not rely solely on Mantine to stop such threats. Backing Mantine up with powerful and fast Grass-type Pokemon like Venusaur and Sceptile is a good idea.</p>
+
+[SET]
+name: Physically Defensive RestTalk
+move 1: Rest
+move 2: Sleep Talk
+move 3: Surf
+move 4: Hidden Power Flying / Toxic
+item: Life Orb / Leftovers
+ability: Water Absorb
+nature: Calm
+evs: 252 HP / 240 Def / 16 SpA
+
+[SET COMMENTS]
+
+<p>This set attempts to balance Mantine's defenses and is now only 3HKOed by many resisted physical hits, such as Adamant Hitmontop's Close Combat. Mantine can now counter all forms of Azumarill, as Hidden Power Flying does a minimum of 102 damage with Life Orb and the given investment, enough to always break Azumarill's Substitutes. It also makes a good wall to mixed Blaziken without Thunder Punch or Stone Edge. This set works against stall teams, as with Life Orb it becomes somewhat harder to switch into. You should use this set with caution, however, as it loses much of its massive special bulk when using Life Orb, making it less of a safe switch-in to Venusaur, Sceptile, and Alakazam.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Rapid Spin is still very valuable on this set, as Mantine hates losing 1/4 of its HP switching into Stealth Rock. The likes of Hitmontop and Donphan perform this job well. With the different EV spread, Mantine is now 2HKOed by Choice Specs Sceptile's Leaf Storm, in addition to losing walling power over other threats. To help adjust for the lower special bulk, having strong offensive checks for powerful Grass-types, like Swellow and Moltres, is a good idea.</p>
+
+[Other Options]
+
+<p>There really aren't that many other moves to consider. Mantine's most notable option is Signal Beam. There are plenty of Grass- and Psychic-types in UU, so if coverage is what you need, then Signal Beam should be considered, although Surf hits Psychics just as hard. Mantine also gets a few nifty options in Haze and Mirror Coat. A set involving Swift Swim is plausible, but Mantine is terrible at it, not to mention being outclassed by plenty of other Pokemon. Mantine has a plethora of physical moves, but base 40 Attack isn't getting it anywhere.</p>
+
+[Checks and Counters]
+
+<p>Lanturn walks all over Mantine as even Hidden Power Grass, which Mantine should not be running anyway, barely scratches it. Other Electric-types such as Manectric and Ampharos destroy it and are capable of taking a hit from Surf. Toxicroak and Qwilfish can set up Swords Dance on Mantine and hit its weak physical defense with Stone Edge or Poison Jab, respectively. Stone Edge Quagsire works well if Mantine lacks Hidden Power Grass. Mismagius absolutely destroys Mantine, no matter the set. Boosting sweepers, Calm Mind Alakazam in particular, can muscle their way past Mantine easily, as Mantine can't do much back. Really, just hit Mantine with your hardest physical moves and it will go down rather quickly.</p>

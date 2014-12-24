@@ -1,0 +1,13 @@
+Stealth Rock
+########
+name: Stealth Rock
+move 1: Stealth Rock
+move 2: Ice Shard
+move 3: Earthquake
+move 4: Icicle Spear
+ability: Thick Fat
+item: Eviolite
+evs: 252 HP / 252 Def / 4 Spe
+nature: Impish
+
+This is a sample set while we are currently working on analyses in the workshop.

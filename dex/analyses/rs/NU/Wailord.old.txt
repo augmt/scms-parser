@@ -1,0 +1,72 @@
+[Overview]
+
+<p>Wailord is an underpowered Pokemon compared to other Water-types and should not be used outside of UU or NU other than for novelty.</p>
+
+[SET]
+name: Specially Defensive
+move 1: Surf
+move 2: Ice Beam
+move 3: Toxic
+move 4: Rest
+item: Leftovers
+nature: Modest / Bold
+evs: 252 Def / 4 SpA / 252 SpD
+
+[SET COMMENTS]
+
+<p>The standard Surf / Ice Beam / Rest / filler set for bulky Water-types. It can work, but Wailord's defenses are a bit too low to pull this off.</p>
+
+[SET]
+name: Exploding Whale
+move 1: Self-Destruct
+move 2: Hidden Power Ghost
+move 3: Surf
+move 4: Ice Beam / Earthquake
+item: Leftovers
+ability: Water Veil
+nature: Brave / Quiet
+evs: 4 Atk / 252 Def / 252 SpD
+
+[SET COMMENTS]
+
+<p>A neutral Self-Destruct is really the only way Wailord is killing anything in OU if you really want to use it there. It's also probably the only way you're killing anything in UU to be honest. Hidden Power Ghost is for Ghost-types, while Surf takes out physical walls, allowing Wailord to Self-Destruct freely. Hidden Power Ghost is primarily for Gengar in OU, but it is still useful in UU / BL because it hits that Grumpig or Hypno that thinks it can come in on Wailord and wall its special hits (it 3HKOes Grumpig). Alternately, you could Surf Grumpig as it comes in and then Hidden Power Ghost as it Tricks its Choice Band. The last move is really just a filler for lack of better options.</p>
+
+[SET]
+name: Water Spout
+move 1: Water Spout
+move 2: Ice Beam / Body Slam
+move 3: Sleep Talk
+move 4: Rest
+item: Leftovers
+nature: Modest / Quiet
+evs: 252 Def / 4 SpA / 252 SpD
+
+[SET COMMENTS]
+
+<p>Have fun with this if you wish. RestTalk is used to keep Wailord's HP as near to max as possible, Water Spouting off its decent base 90 Special Attack. Ice Beam hits Grass-type Pokemon harder than max power Water Spout, but Body Slam helps Paralyze, which Water Spout Wailord really needs to hit stuff at full power.</p>
+
+[SET]
+name: Curse
+move 1: Curse
+move 2: Earthquake
+move 3: Ice Beam / Surf
+move 4: Rest / Self-Destruct
+item: Leftovers
+nature: Brave
+evs: 68 Atk / 188 Def / 252 SpD
+
+[SET COMMENTS]
+
+<p>Curse reduces the amount of damage being done to Wailord, while it pounds the enemy with Earthquakes from its base 90 Attack.</p>
+
+[Other Options]
+
+<p>Wailord can Amnesia to try to survive special attacks. It can also use Roar to phaze stuff, but there is little need for that in much of NU.</p>
+
+[EVs]
+
+<p>Never give Wailord HP EVs; it's one of the few Pokemon where it's better to just split those EVs into both defenses. Instead, fill up its PATHETIC defense stats first and then worry about Special Attack, or even Attack if you are using Earthquake.</p>
+
+[Checks and Counters]
+
+<p>Most other Waters-types can beat the Surf / Ice Beam bulky Water-type set one-on-one, or stall it at the least. Qwilfish and Tentacruel are both resistant to the set's offense and immune to Toxic and can set up either Spikes or Swords Dance on it, so watch out for those two little buggers. Quick Electric-types such as Electrode and Raichu can put the hurt on Wailord too, but if it's a Cursing version, they should be wary of Earthquakes. Any sweeper that can dish out damage fast and hard, such as Normal-type Choice Band users, can deal good amounts of damage to Wailord, but Flying-types should beware of Ice Beam. Basically try to hit it with boosted or super effective moves and you will dispose of it quickly enough. Its defenses are just too bad for it to take a lot of strong hits. Anything that calls itself a special sponge will also be easily able to wall Wailord's offensive possibilities, so it usually cannot get past things like Hypno, Grumpig, and Lanturn either.</p>

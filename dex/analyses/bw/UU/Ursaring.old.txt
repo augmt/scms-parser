@@ -1,0 +1,57 @@
+[Overview]
+
+<p>If you look up the word "power" in the dictionary, you can expect to see a picture of Ursaring right next to it. Ursaring's massive base 130 Attack stat, coupled with what is effectively a 140 Base Power STAB move and an expansive physical movepool allows it to demolish teams that aren't prepared for it. This mighty bear also has two brilliant abilities that enable it to take on the role of either a sweeper or a wallbreaker in Quick Feet and Guts, respectively. However, Ursaring isn't perfect; it's held back by rather poor Speed and mediocre bulk. Furthermore, using Ursaring to its maximum potential forces it to be on a timer due to the health-draining effect of burn and toxic status conditions.</p>
+
+[SET]
+name: Sweeper
+move 1: Facade
+move 2: Close Combat
+move 3: Crunch
+move 4: Swords Dance / Protect
+item: Toxic Orb
+ability: Quick Feet
+nature: Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>This is Ursaring's best shot at sweeping opposing teams. This is mainly due to a series of interlocking factors. Its ability, Quick Feet, raises Ursaring's speed by 50% when it is inflicted with a status condition. As a bonus, Ursaring's STAB move, Facade, also doubles in power when it is statused. The natural item for Ursaring is therefore a Toxic Orb. A Flame Orb is out of the question, as Quick Feet does not prevent the Attack drop caused by a burn.</p>
+
+<p>Facade is Ursaring's chosen STAB and main sweeping move. After STAB and Toxic Orb, it reaches a staggering 210 BP, allowing Ursaring to tear through anything that doesn't resist it. Unfortunately for Ursaring, Ghost-, Rock- and Steel-type Pokemon aren't exactly uncommon. However, Ursaring isn't limited to one move, and has all the tools necessary to make their lives hell. Close Combat is possibly the best Fighting-type move out there, and can bring both Rock- and Steel-types down in one fell swoop. Crunch allows Ursaring to bring down the Ghost-types that take no damage from Facade and Close Combat, swiftly OHKOing Mismagius and its other frail counterparts. The last move provides utility, allowing Ursaring to sweep with ease. Swords Dance doubles Ursaring's Attack, all but assuring that everything that doesn't outspeed the bear will die. Protect allows for a guaranteed boost from Toxic Orb, but without the ability to double its Attack, Ursaring isn't quite as threatening.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Maximum Attack EVs let Ursaring hit as hard as possible, whereas full Speed investment and a Jolly nature let Ursaring outpace base 105 Speed Pokemon, such as Mismagius, after a boost from Quick Feet. Ursaring may be a very dangerous Pokemon, but even the mighty bear can require some support from its teammates to get the job done. A Pokemon that can set up dual screens is very beneficial to Ursaring, because its average bulk may cause it difficulties when attempting to set up with Swords Dance. As with any other sweeper, Ursaring appreciates entry hazard support, which can help it turn some 2HKOs into OHKOs, especially against sturdier walls such as Steelix. Therefore the most ideal partners for Ursaring are bulky Psychic-types, specifically Uxie. Uxie has excellent bulk, can lay down entry hazards, can set up dual screens, and can even use the rare Memento, which practically guarantees Ursaring a Swords Dance behind screens. Uxie can also use U-turn, which enables it to bring Ursaring in safely. It also shares excellent synergy with Ursaring; Uxie can switch into Fighting-type attacks with impunity, while Ursaring can safely switch into Ghost-type attacks aimed at Uxie.</p>
+
+[SET]
+name: Wallbreaker
+move 1: Facade
+move 2: Close Combat
+move 3: Crunch
+move 4: Swords Dance
+item: Toxic Orb
+ability: Guts
+nature: Adamant
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>This set may have the same moves as the Quick Feet set, but it plays very differently. Where the previous Ursaring acted as a late-game sweeper, this set takes on the role of a very powerful wallbreaker, becoming an absolute menace against stall-based teams. The numbers speak for themselves; with a base 130 Attack, an ability that increases the power of its attacks by 50%, the ability to double its Attack in a single turn, and a 140 Base Power STAB move, only one thing is certain: your opponent is going to feel some serious pain.</p>
+
+<p>Facade is, and always will be, Ursaring's main move. Any wall that doesn't resist Normal-type moves will be shattered, especially if Ursaring manages to gain a Swords Dance boost. Close Combat allows Ursaring to wipe out the Rock- and Steel-type Pokemon that resist its STAB attacks, most notably OHKOing the ultimate physical walls Steelix and Regirock, even if they run a physically defensive nature. Crunch enables Ursaring to bring down the Ghost-types that wall its other moves. Finally, Swords Dance lets Ursaring double its Attack, essentially concluding the match if the opponent no longer has any Pokemon that can outspeed and KO Ursaring, or a Pokemon with priority.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Ursaring can be EVed in many different ways, but the standard max Attack, max Speed spread is probably the most effective. This way, Ursaring can outspeed base 85 Speed Pokemon that don't invest in their Speed, allowing Ursaring to outpace most UU walls. Another effective spread is 132 HP / 252 Atk / 124 Spe. With these EVs, Ursaring gains some more bulk, and can still outpace uninvested base 70 Pokemon, such as Hitmontop. Because of Ursaring's low Speed, it really appreciates paralysis support, or even Trick Room. If using the latter, run a Brave nature along with 0 Speed IVs, and move the Speed EVs to HP. In terms of moves, Earthquake is an option over Close Combat on this set. Earthquake still has a high chance of KOing Steelix and Regirock, and it doesn't drop Ursaring's defenses, making it less susceptible to priority moves. Earthquake is also Ursaring's strongest attack against Spiritomb. The higher Base Power of Close Combat is generally preferred though, since Ursaring will either be going last, meaning that the opponent won't be attacking its reduced defenses, or Ursaring will outspeed and OHKO said opponent before it can attack. Once again, bulky Psychic-types are good teammates, and can provide Ursaring the protection of dual screens, which gives it more longevity. While walls obviously aren't a problem for this Ursaring set, it is prone to being revenge killed. Therefore, an all-around bulky Pokemon that can deal with fast and powerful threats is recommended. Registeel is a good option as it has many resistances, can provide provide paralysis support, and can switch into powerful attackers such as Swellow and Raikou without a problem.</p>
+
+<p>As a last note, Ursaring also has the option of running a Flame Orb, since Guts negates the Attack-halving effect of a burn. However, this is generally an inferior choice, since Toxic poison causes less damage than burn in the first three turns, and Ursaring generally isn't going to be staying in for that long anyway, due to being easily revenge killed.</p>
+
+[Other Options]
+
+<p>Unlike many other physical attackers, Ursaring has a massive physical movepool. It has Return and Double-Edge as other STAB options, but these are only useful if Ursaring is running a Life Orb or Choice Band set, as Facade simply outclasses them on the listed sets. Ursaring also has access to a vast array of Fighting-type moves, including Focus Punch, Superpower, Hammer Arm, Cross Chop, and Low Kick. Other useful coverage moves include the elemental punches, Earthquake, Stone Edge, Rock Slide, Seed Bomb and Gunk Shot. Payback deserves a mention on the Guts set, which will often be going last, but Crunch is more reliable.</p>
+
+<p>As far as stat-boosting moves go, Ursaring also has access to Bulk Up, which can be used with Leftovers for a bulkier attacker, but Swords Dance is quicker and generally more effective on such a frail Pokemon. Belly Drum may have a place on a gimmick set, since it would make Ursaring easily able to OHKO everything, but Swords Dance already gets Ursaring the KOs it needs.</p>
+
+[Checks and Counters]
+
+<p>Since Ursaring is so powerful, countering it can be quite difficult. Your best bet is to try and prevent it from setting up in the first place, because after a boost Ursaring isn't easily stopped. The best way to bring Ursaring down is through passive damage, since it takes damage from all entry hazards and its health will be sapped by the status Orbs. Smart switching into the resistances of each of Ursaring's moves is a great way to capitalize on the passive damage. While it's impossible to always predict right, and predicting incorrectly will likely lead to a Pokemon being KOed, there is not much else stall teams can do against Ursaring besides Protect spamming, which Ursaring can easily capitalize on if it has Swords Dance. Otherwise, Ursaring can be defeated by utilizing a revenge killer. The sweeper set can be outsped by the vast majority of Choice Scarf users, such as Heracross who can promptly OHKO Ursaring, whereas the wallbreaker set can be outpaced by most offensive Pokemon.</p>

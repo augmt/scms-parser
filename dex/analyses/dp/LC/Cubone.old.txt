@@ -1,0 +1,70 @@
+[Overview]
+
+<p>If you like slow but powerful Pokemon, then Cubone is worth considering. It has a good physical movepool, and the Attack stat to back it up. It has one distinct advantage, Thick Club, which gives it 30 Attack, more than almost any Choice Band-equipped Pokemon, while retaining freedom to switch moves. Unfortunately, Cubone's low Speed prevents it from being able to sweep without some form of support, like Agility passing, Trick Room, or paralysis; however, it is a great partner for all three of those strategies. Its defenses are not exactly reliable (though it can take the odd physical hit or two), so switching it in directly is a risk you may not wish to take. However, once in the battle, Cubone can be very useful at clearing out certain key Pokemon to help your team win the match.</p>
+
+[SET]
+name: Physical Attacker
+Move 1: Earthquake
+Move 2: Double-Edge
+Move 3: Fire Punch
+Move 4: Substitute / Ice Beam
+Ability: Rock Head
+Item: Thick Club
+Nature: Adamant / Brave
+Evs: 196 HP / 196 Atk / 76 Def / 36 SpD
+
+[SET COMMENTS]
+
+<p>This set is probably the most effective that Cubone can run, and is great if all you need is a physically bulky heavy-hitter on your team. With Cubone's massive Attack and reasonable defense, it can play like a standard bulky Choice Band user, except it gets the freedom to change attacks; all thanks to Thick Club, which doubles its Attack. Earthquake is obvious, being Cubone's basic STAB move; it will most likely OHKO anything that is not resistant or immune to it. Double-Edge is effective at hitting almost everything that Earthquake doesn't, barring Ghost-types with Levitate (and Drifloon). Pokemon that are immune to both Double-Edge and Earthquake are hit hard by Fire Punch. For example, here are some damage calculations:</p>
+
+<ul class="damage_calculation">
+<li>Cubone Fire Punch vs. 116 HP Gastly: 85.7% - 104.8% (40% chance of OHKO)</li>
+<li>Cubone Fire Punch vs. 196 HP / 36 Def Impish Duskull: 47.6% - 57.1% (3HKO through Oran, possible 2HKO if it gets a minimum damage roll followed by a maximum one)</li>
+<li>Cubone Fire Punch vs. 196 HP / 4 Def Drifloon: 60.7% - 71.4% (guaranteed 2HKO)</li>
+<li>Cubone Fire Punch vs. Max HP/ Max Def Impish Levitate Bronzor: 72% - 88% (2HKO through Oran)</li>
+</ul>
+
+<p>In addition, Fire Punch serves as Cubone's weapon-of-choice against Grass-type Pokemon and Bronzor. Substitute can help ease prediction somewhat, as Cubone's immense power tends to cause switches. Alternatively, Ice Beam can be used over Substitute for a more powerful hit against Gligar; just remember to transfer the 36 EVs from Special Defense to Special Attack; with 36 Special Attack EVs, Gligar is OHKOed by Ice Beam 77% of the time, and is OHKOed 100% with Stealth Rock in play.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Being the slow, bulky sweeper that it is, Cubone absolutely loves Trick Room support. Gastly, Porygon, and Slowpoke are all effective at setting up Trick Room, which in turn allows Cubone to take advantage of his horrible Speed stat. Slowpoke is a notable Trick Room supporter because it can take any Water-type attack aimed at Cubone, while Cubone can come in on any Electric-type attack. Unfortunately, both Pokemon share a weakness to Grass, so it's good to have a Trick Room Bronzor waiting in the wings to sponge Grass-type hits.</p>
+
+[SET]
+name: Baton Pass Receiver
+Move 1: Earthquake
+Move 2: Double-Edge
+Move 3: Fire Punch
+Move 4: Swords Dance / Substitute
+Ability: Rock Head
+Item: Thick Club
+Nature: Jolly / Adamant
+Evs: 36 HP / 196 Atk / 36 SpD / 236 Spe
+
+[SET COMMENTS]
+
+<p>This set focuses on Cubone's talent for sweeping after being Baton Passed Speed boosts. Swords Dance's purpose is obvious; after a Swords Dance, the attacks listed can OHKO almost any Pokemon in Little Cup. Just one Swords Dance gives Cubone a massive Attack stat of 56 or 60 (depending on Cubone's nature). Substitute, on the other hand, allows Cubone to take advantage of its ability to cause switches. Even without a Swords Dance boost, Cubone is still incredibly dangerous, and Substitute just compounds that by giving protection against revenge killers and as well as easing prediction. Substitute is the option for the cautious player; it might not seal the game, but it will help increase Cubone's survivability on the field. Swords Dance can effectively bring you automatic victory if it gets set up once certain Scarfers are taken out, but Cubone's relatively poor Special Defense means that an incorrect prediction could be spell instantaneous doom for Cubone.</p>
+
+<p>Choosing Cubone's nature is a matter of personal preference. Jolly is preferred here, as 14 Speed allows Cubone to outpace all non-Choice Scarfed Pokemon after a +1 Speed boost, while +2 Speed gives it enough Speed to outpace all Choice Scarfed Pokemon, except Voltorb, Elekid, and Diglett. An Adamant nature, however, is still a good option if you're likely to be able to take out faster scarfers before the pass, or if you need that little extra brute force.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Aipom, Gligar, and Venonat all work well with this set. They can effectively pass an Agility or two to Cubone, giving it enough Speed to outpace all non-Choice Scarfed Pokemon, as well as many Scarfed Pokemon. Aipom and Venonat work the best out of the three, as they don't share any common weaknesses with Cubone, so there is less of a risk involved when it's time to pass.</p>
+
+[Other Options]
+
+<p>Cubone has quite a few options in terms of attacks: Iron Head, Iron Tail, Bonemerang, Focus Punch, Rock Slide, and Thunder Punch. Bonemerang could be useful for breaking Substitutes, but beyond that these moves are generally inferior to the ones listed in the above sets. Thunder Punch isn't terrible, but it doesn't hit anything important that Double-Edge or Fire Punch can't hit just as hard, if not harder, bar Mantyke. The only really special attacks to choose from are Blizzard and Ice Beam, which pose a huge threat to any Gligar that are switching in with hopes of ruining a potential sweep.</p>
+
+<p>Cubone also learns Belly Drum, but it's too slow to stat up and sweep with that method, and its Attack is already high enough to do significant damage. With its decent bulk, Cubone can be effectively used as a Stealth Rock lead, and Protect can also be used over Substitute for scouting purposes.</p>
+
+<p>196 HP / 196 Atk / 76 Def / 36 SpD is the standard EV spread for Cubone, giving the best combination of Attack and Defense. If you're running Ice Beam, move the Special Defense EVs into Special Attack for the increased power against Gligar. If you're planning on passing Cubone some Speed, 36 HP /196 Atk / 236 Spe is the preferred spread, possibly with Jolly to hit the magic number of 14, which allows Cubone to outpace all non-Choice Scarfed Pokemon after a +1 boost.</p>
+
+[Checks and Counters]
+
+<p>Cubone's absolutely massive power means that it's incredibly difficult to switch into. The only Pokemon that stand a chance at coming in are those that can avoid its incredibly powerful STAB Earthquake. This limits the counters to Pokemon that have the ability Levitate, and Flying-type Pokemon.</p>
+
+<p>Bronzor may seem like a good counter at first, but its incredibly low Speed combined with a weakness to Cubone's Fire Punch makes Bronzor ineffective at stopping Cubone. Gligar is also an unreliable counter, being OHKOed by Ice Beam after taking Stealth Rock damage, and being forced to hit Cubone with neutral attacks on Cubone's stronger physical defense. Mantyke can come in with its immunity to Earthquake and KO or scare off Cubone with a STAB Surf or Hydro Pump, but must beware of Double-Edge.</p>
+
+<p>That brings us to the best Cubone counters: Levitating Ghosts. Out of them Gastly is the least effective counter. The standard +SpA Energy Ball, its most effective attack against Cubone, only OHKOes 2.56% of the time, while Cubone's Fire Punch OHKOes 40% of the time. However, if Gastly is running a boosting item like Life Orb or Choice Specs, it can outpace and OHKO Cubone with little to no trouble. Duskull can survive Fire Punch (sometimes two of them), but its poor Speed lets Cubone easily outpace it and set up a Substitute, allowing Cubone to avoid a Will-O-Wisp. Finally, there is Drifloon, which loses automatically if Cubone is packing Rock Slide; however, if it's using Fire Punch, there's still a chance, since Fire Punch does not OHKO Drifloon even with Stealth Rock on the field. However, the damage Fire Punch does to Drifloon is just enough for Drifloon's Petaya Berry to activate, which ups its Special Attack to a level where it OHKOes 100% of the time.</p>
+
+<p>If Cubone successfully pulls off its Swords Dance and Agilipass combo, it can become extremely hard to stop. Squirtle can use a combination of Fake Out and Aqua Jet against it to deal a fair amount of damage. The remaining counters depend on Cubone's nature. Jolly +2 Cubone has 28 Speed, which can only be tied with at best by nearly all Choice Scarf Pokemon--anything less than 28 Speed is KOed, and anything more can only muster a revenge kill. Essentially, the only counters to a boosted Cubone are priority users, in addition to Pokemon that can kill it before it can manage to set up.</p>

@@ -1,0 +1,105 @@
+[Overview]
+
+<p>There's so much more to Gengar's malevolent exterior--in fact, Gengar is even more terrifying in practice than its appearance. Gengar still makes a potent offensive threat in the fifth generation thanks to its power, unpredictability, and excellent offensive movepool. Its set of immunities help it switch into common moves with impunity, giving it ample opportunities to come in and wreak havoc. Despite Gengar's positive traits as a sweeper, it does have two notable drawbacks: its paper-thin defensive stats, which make it take massive damage even from neutral attacks, and its weakness to Dark-type moves, which leaves it vulnerable to Pursuit if it isn't hiding behind a Substitute. However, the newly added Team Preview does allow for the scouting of possible Pursuit users, making the latter drawback less threatening. Don't let Gengar's atrocious defensive stats discourage you though; its offensive potency can definitely disrupt unprepared teams.</p> 
+
+[SET]
+name: Substitute + Disable
+move 1: Substitute
+move 2: Disable
+move 3: Shadow Ball
+move 4: Focus Blast
+item: Black Sludge
+nature: Timid
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>This is one of Gengar's deadliest sets to use with the proper timing. With Disable being upgraded to perfect accuracy in Black and White, Gengar can take advantage of this to great effect with its useful immunities combined with Substitute. The simple premise of this set is to hide behind a Substitute to overcome Pursuit users, avoid paralysis, and to make Disable easier to pull off. Common walls such as Ferrothorn and Blissey, who rely on one attacking move to deal with Gengar, find themselves in a very tight position after their move has been Disabled. Even sweepers that use two coverage moves find themselves in very tight situations; prime examples include Conkeldurr without Stone Edge and Gliscor. Gengar's great neutral coverage lets it batter many Pokemon for high damage, making it difficult to wall. </p>
+
+[ADDITIONAL COMMENTS]
+
+<p>With the prevalence of sandstorm in the metagame, Black Sludge is the main option to provide more opportunities to use Substitute and conserve health. Life Orb sounds appealing to give Gengar that impressive kick to deal more damage; however, the sandstorm damage and recoil defeat the purpose of this set, so you might want to just stick with Black Sludge.</p>
+
+<p>Entry hazard support allows for optimal performance for this set thanks to Gengar's ability to force a ton of switches. Ferrothorn makes an excellent option for providing entry hazards, and it can serve as bait for Pokemon such as Gliscor and Conkeldurr, all of whom can give Gengar an opportunity to switch in when timed correctly. Forretress has access to Toxic Spikes, which makes it easier to deal with certain walls.</p>
+
+[SET]
+name: Substitute + Pain Split
+move 1: Substitute
+move 2: Shadow Ball
+move 3: Focus Blast
+move 4: Pain Split 
+item: Life Orb 
+nature: Timid
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>The Pain Split set is akin to the Disable set, but the approach to this set is much more offensive. Pain Split acts like a third attacking move capable of muscling through typical counters with massive HP stats such as Blissey, Chansey, and Snorlax. Furthermore, Pain Split works perfectly in conjunction with Substitute and Life Orb, and even benefits from the residual damage from sandstorm and hail. The closer Gengar's health bar gets to zero, the more HP Gengar can suck away from its opponents. Gengar's coverage is impressive, and it can act as a fail-safe sweeper at any given time even with the absence of an extra coverage move.</p>
+
+<p>The combination of Substitute and Pain Split allows Gengar to take out Pokemon it normally would not be able to, most notably Blissey. After Substitute and two Pain Splits, or one if sandstorm is in effect, Blissey's health will be low enough that Focus Blast 2HKOes. This means that Blissey will be forced to constantly heal herself or risk being KOed. Pain Split has 32 PP, while Wish and Soft-Boiled have 16, meaning that Gengar can easily stall Blissey out. Finally, most Blissey are unable to break Gengar's Substitutes, meaning Gengar can usually come out of the duel unscathed.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Toxic Spikes is the most beneficial form of entry hazard to use with this set in order to hasten the damaging process against the likes of Blissey. Forretress makes an excellent supporter who can provide all types of hazards, especially Toxic Spikes. Ferrothorn makes a great partner, able to open up opportunities for Gengar to switch in, in addition to providing entry hazards. Heatran should also be considered as an offensive partner due to its ability to draw in more opportunities for Gengar to switch in. Gengar has such atrocious defenses that it's actually quite difficult to pull off strategies like this, so always consider Pokemon that draw in Fighting- and Ground-type attacks for Gengar to switch in on.</p>
+
+<p>With such a direct approach to this set, Gengar is highly capable of beating many special walls with some good timing. As a result, it is recommended that Gengar is paired with sweepers who would normally have a difficult time bypassing said walls. Life Orb Latios, Volcarona, and Choice Specs Politoed make fine offensive partners who are all capable of sweeping after these special walls are eliminated.</p>
+
+[SET]
+name: Offensive 3 Attacks
+move 1: Substitute / Protect
+move 2: Shadow Ball
+move 3: Focus Blast
+move 4: Hidden Power Fire
+item: Life Orb / Black Sludge
+ability: Levitate
+nature: Timid
+evs: 4 Def / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>By giving up a status move, Gengar can obtain better super effective coverage than the tried and true Shadow Ball + Focus Blast. The choice between Substitute and Protect is heavily influenced by the needs of Gengar's team, but each option has its own advantages. The primary difference between Substitute and Protect is that Substitute Gengar is a setup variant that takes advantage of an opponent being forced to switch, while Protect Gengar can scout against Pokemon that are already in front of it. Substitute gives Gengar free turns to attack behind the safety of its Substitute, but leaves it very open to priority and faster Pokemon if the Substitute is not up; additionally, the Substitute can be broken via Volt Switch, which can leave Gengar completely open next turn against trappers and faster Pokemon. Protect gives Gengar immediate safety and lets it safely check the moves of Choice-locked switch-ins, easing prediction, but it will always be a glass cannon.</p> 
+
+<p>A key factor in choosing between Protect and Substitute is longevity. Substitute Gengar's lifespan can be short with Stealth Rock, passive effects, and the cost of each Substitute eating away at it. Protect Gengar does not need to rip away 25% of its HP just to keep safe, but this is high risk high reward; Protect ensures Gengar sticks around for as long as you need it, as you almost always know what your opposition is planning no matter how fast they are and you can make the correct choice next turn, but due to Gengar's fragile defenses, if you do make a mistake such as leaving it in against a Pokemon that was bluffing a Choice item or scouting a Pokemon's move only to have it set up on the Protect, Gengar will likely pay with its life. As for the attacking options, Shadow Ball and Focus Blast's unrivaled coverage might go without saying, but Hidden Power Fire gives Gengar added super effective coverage, allowing it to OHKO Scizor, Breloom, and Ferrothorn while dealing hefty chunks to Jirachi and Bronzong as well as letting Gengar take on Skarmory without risking a Focus Blast miss. Life Orb is preferred for the power increase that makes Gengar hard to switch in on. Black Sludge trades power for extended longevity, allowing Gengar to survive in Sandstorm and against the constant entry hazard damage it takes from switching, making it nearly ideal for Substitute variants if you can stand the attack power loss.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>3 attacks Gengar is a force to be reckoned with in the metagame. Blissey and Chansey are the only common Pokemon in OU that resist Shadow Ball and aren't deathly afraid of Focus Blast or Hidden Power Fire; in fact, most OU Pokemon can be OHKOed or 2HKOed by Life Orb Gengar after Stealth Rock. If using Black Sludge, keep in mind that some specially defensive Pokemon like Jirachi will not mind taking a few attacks even at only moderate HP due to the drop in power. If running Substitute, it is best to choose options that set this set apart from SubDisable and SubSplit. Thunderbolt&mdash;or Thunder on rain teams&mdash;can be used for different super effective coverage should Water-types like the ever-troublesome Rain Dish Tentacruel hassle your team, but remember that Gengar cannot OHKO Scizor or Forretress without Hidden Power Fire. If you pair Gengar with Magnezone or you feel like your team has no issue with Steel- or Water-types, you can replace Hidden Power Fire with Destiny Bond to get the last laugh against foes such as Garchomp and Calm Mind Keldeo, Pokemon Gengar cannot beat normally without prior damage. Destiny Bond can even be used as a last resort against a Scizor that got around your Magnezone or whatever you use; take it down with Gengar if it Pursuits on Gengar's Protect. In fact, while not the primary use of the option, Gengar with Destiny Bond can act as a martyr of sorts for weather teams as Politoed, Ninetales, and some variants of Tyranitar aren't too afraid of Gengar and will attempt to KO it, winning the weather war for you.</p>
+
+<p>As for teammates, you really want a Pokemon that can deal significant damage to Steel-types in rain, specifically specially defensive Jirachi and Bronzong. Landorus-T and Garchomp are excellent choices for taking on Jirachi. Bronzong is a little trickier due to Levitate, but a few good weather independent checks to Bronzong are Keldeo, Swords Dance Scizor, and Rotom-W, which all resist Gyro Ball and Hidden Power Ice while not minding an Earthquake. Ninetales and Sunny Day Heatran can help combat not only Steel-types used in rain, but also give Gengar's Hidden Power Fire a boost. Ferrothorn can turn Jirachi and Bronzong into setup fodder with your choice of Spikes, Thunder Wave, or Leech Seed each turn.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Shadow Ball
+move 2: Focus Blast
+move 3: Hidden Power Ice
+move 4: Trick / Thunderbolt
+item: Choice Scarf
+nature: Timid
+evs: 4 HP / 252 SpA / 252 Spe
+ivs: 30 Atk / 30 Def
+
+[SET COMMENTS]
+
+<p>By equipping a Choice Scarf, Gengar functions as both a revenge killer and a spinblocker at the same time. Unlike other Gengar sets, Choice Scarf Gengar, with prediction, has a chance to successfully block Starmie's Rapid Spin thanks to its ability to outspeed and OHKO non-Choice Scarf versions with Shadow Ball. This makes it very valuable for offensive teams that want to spinblock Starmie. Aside from spinblocking, Choice Scarf Gengar can also revenge kill sweepers such as Dragonite, Salamence, Lucario, Cloyster, Breloom, and Gyarados, although Thunderbolt is required for the latter. Although Shadow Ball and Focus Blast grant Gengar perfect neutral coverage, Choice Scarf Gengar is rather weak, so it needs to be able to hit common OU Pokemon super effectively. Hidden Power Ice allows Gengar to hit the likes of Dragonite, Salamence, Garchomp, Gliscor, and Landorus-T, among others. Occupying the last slot, Trick allows Gengar to cripple walls like Blissey, Chansey, and Ferrothorn. Thunderbolt is another option for the last slot, as this allows Gengar to revenge kill Gyarados and Choice Scarf Keldeo.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>For Hidden Power Ice, using IVs of 30 Atk / 30 Def is necessary in order to Speed tie with Choice Scarf Latios and Latias. Some other move options include Destiny Bond, which allows Gengar to take down Pokemon it cannot easily revenge kill like Volcarona, which is especially helpful since almost any attack will OHKO Gengar. However, if you don't predict right, a Choice-locked Destiny Bond can be easily set up on, so be careful when using it. Hidden Power Fire allows Gengar to hit Forretress super effectively, but be aware that this eliminates its ability to revenge kill Dragonite, Salamence, and Choice Scarf Garchomp. When Gengar is being used on a rain team, Thunder should be used instead of Thunderbolt if you opt to use an Electric-type move over Trick. Giga Drain allows Gengar to recover some HP so it doesn't go down as quickly and also allows it to get a super effective hit on Gastrodon. Sludge Wave is another option in the fourth slot; although it has poor super effective coverage, it gets a guaranteed OHKO on Breloom and always 2HKOes specially defensive Celebi, which can be useful.</p>
+
+<p>When using Choice Scarf Gengar, be very wary of Pursuit users, as they threaten this set even more than they do its other sets. Lucario and Terrakion are good teammates as they can take advantage of Choice-locked Pursuits. Using a secondary revenge killer is also a good idea; this allows Gengar to avoid having to revenge kill if Pursuit users are still around. Gengar also has a hard time revenge killing Pokemon like Volcarona, so it is ideal to run Pokemon that can handle it such as Dragonite and Terrakion.</p>
+
+[Other Options]
+
+<p>With such a diverse movepool, Gengar can easily catch any of its counters off-guard with the appropriate move. Gengar has access to both Hypnosis and Will-O-Wisp; the former can sleep a counter and effectively remove it from the battle, while the latter can be used to spread burn status on physical counters, particularly Tyranitar, Scizor and Jirachi. Gengar can also get around Blissey, its best counter, with a combination of Mean Look, Perish Song and Hypnosis. It can also use Taunt to prevent Blissey from healing. It's important to note the aforementioned moves' shaky accuracy, and that one miss or misprediction can be fatal due to Gengar's atrocious defensive stats. Gengar is therefore better off firing attacks than spreading status around.</p> 
+
+<p>Gengar can also pull off a myriad of other sets. Gengar can use Substitute and Focus Punch to take care of dedicated special walls like Blissey and Heatran if your team is in need of a great lure. You can combine Counter and Focus Sash for a real surprising but effective set. Thanks to Gengar's terrible defenses, pretty much any attack will OHKO you, allowing you to do huge amounts of damage back with Counter. If you want to get really fancy, use Destiny Bond on the same set to get a bonus KO. Gengar's physical movepool is actually really good, unfortunately its Attack stat is not, so a completely physical set is not advised.</p>
+
+<p>In addition to the moves listed on the sets, Gengar has quite a few great attacking options to spare. Thunderbolt is a great attack in general and helps you counter Skarmory. Thunder is an option if you're using a rain team, since Gengar does have a resistance to Grass. Hidden Power Ice can be used on any set to check Dragonite, Landorus-T and Salamence. Hidden Power Fire serves as a great lure to the omnipresent Scizor and Ferrothorn. Sludge Wave hits Grass-types harder but that's about it. Energy Ball and Giga Drain are 100% accurate deterrents to Politoed and Tyranitar, but neither come close to OHKOing them. Grass-type moves would also help you get around Gastrodon who does surprisingly well against Gengar. Explosion got nerfed in the fifth generation but it can still catch Blissey by surprise. If your team is loaded with status inflictors such as Toxic Spikes, both Hex and Venoshock suddenly become viable attacks. Dark Pulse isn't a bad attack but Shadow Ball gets STAB and better neutral coverage. Clear Smog and Perish Song aren't great but they're Gengar's only phazing options. Gengar can use its 3 immunities and many resistances to set up Trick Room, but there are better options for this since it is both fast and frail. Finally, Grudge can be an interesting way to mess with things like Terrakion by draining all of its Stone Edges, but moves like Destiny Bond and Disable are better for this.</p>
+
+[Checks and Counters]
+
+<p>Gengar is one of the few Pokemon with both a great movepool and the stats to use it, which is why it's been OU since the first generation. With that said, there are still a good number of ways to get around Gengar should you encounter one. The easiest way is to use strong priority. Scizor's Bullet Punch is a clean OHKO on Gengar. Any Sucker Punch user can also score a clean OHKO against Gengar, although you must watch out for Substitute and Will-O-Wisp. Even strong neutral priority like Mamoswine's Ice Shard or Azumarill's Aqua Jet does enough to force Gengar out or kill it straight up. The second best way to attack a Gengar is with a strong user of Pursuit. Scizor, Metagross, and Tyranitar can take Gengar's attacks and OHKO with Pursuit even if Gengar doesn't switch. Weavile and Heracross aren't seen much in OU but they can also checkmate Gengar with Pursuit.</p>
+
+<p>Gengar's defenses are so poor that any attack it doesn't resist will 3HKO it at worst. For example, Landorus-T can survive a Shadow Ball and KO with Stone Edge. Blissey's Ice Beam or Flamethrower can 3HKO Gengar, but it must watch out for sets like Pain Split, Disable, and Destiny Bond. Pokemon like Celebi and Jirachi can survive its attacks and OHKO with Psychic. Conkeldurr usually has max HP to score an OHKO with Payback, and it can also mess with Disable sets by using Mach Punch. Tentacruel only cares about Thunderbolt, but it can use Scald and shrug off Shadow Ball with its high Special Defense. That is the general formula for directly countering Gengar, decent Special Defense and a solid neutral or super effective hit. Bulky Water-types like Politoed, Vaporeon, and the aforementioned Tentacruel fit this bill.</p>
+
+<p>Checking Gengar is much easier than directly countering it. Almost every Choice Scarf user in OU has a move that will outspeed and OHKO Gengar. This includes, but is not limited to: Politoed, Latios, Terrakion, Tyranitar, Rotom-W, Heatran, Haxorus, and Infernape. Pokemon that are naturally faster than Gengar can also do a great job, such as Starmie, Tornadus, Azelf, and Jolteon. Of course, all of these Pokemon have incredible difficulty finding a chance to switch in. Gyarados, Salamence, and Dragonite can set up a Dragon Dance or two on Gengar if they've invested in HP. Volcarona can set up Quiver Dances if Stealth Rock is not up.</p>

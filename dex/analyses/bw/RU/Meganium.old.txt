@@ -1,0 +1,35 @@
+[Overview]
+
+<p>Among the plethora of Grass-types available in RU, Meganium truly doesn't have too much to offer over its competition. However, with its good all-around bulk, and access to Aromatherapy and Dragon Tail, Meganium does have a niche in providing both moves in one teamslot, and with its lack of a secondary typing, it keeps useful resistances to Electric-, Ground-, and Water-type moves that some other Grass-types do not possess. Outside of this role, however, Meganium suffers immensely from its low attacking stats and weaknesses to common types of moves such as Bug and Fire that leave it weak to common threats such as Entei and Escavalier. Unless you need the specific role Meganium provides, you are probably better off using a different Grass-type such as Amoonguss, Tangrowth, Torterra, or Roselia.</p>
+
+[SET]
+name: Support
+move 1: Aromatherapy
+move 2: Dragon Tail
+move 3: Giga Drain
+move 4: Synthesis / Toxic
+item: Leftovers
+nature: Calm
+evs: 252 HP / 4 Def / 252 SpD
+
+[SET COMMENTS]
+
+<p>With the ability to take both physical and special hits somewhat well combined with the ability to support its team via healing status effects and phazing, Meganium has what it takes to be a good supporter for its team. Aromatherapy lets Meganium cure its team of status, possibly giving teammates a second chance if they were crippled by it. It also ensures Meganium is not worn down by Toxic, which would ruin its staying power otherwise. Dragon Tail allows Meganium to phaze opponents, and it works well with entry hazards in order to rack up damage. Phazing also prevents Meganium from being setup fodder for sweepers unless they are using Substitute. Giga Drain is Meganium's STAB move of choice and lets Meganium keep itself healthy while damaging foes such as Kabutops. For the final slot, Synthesis provides useful instant recovery to let Meganium last longer, but Toxic is a viable alternative in order to wear down other Pokemon.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>A specially defensive spread is chosen in order to allow Meganium to take moves such as Scald and Volt Switch better, as well as an Ice coverage move if the need arises. Although Meganium's Dragon Tail suffers from a Calm nature, avoiding this is not worth lowering Meganium's surprisingly decent Speed stat that can allow it to use Aromatherapy in a pinch, and the amount of damage dealt with Dragon Tail is not overly important as it is not meant to hit very hard in the first place and struggles to break Substitutes regardless. A physically defensive nature is usable to sponge Earthquakes and Waterfalls more easily, but as most of Meganium's resistances are primarily used as special attacks, a corresponding EV spread comes in handy more often. There are other moves worth considering that can occasionally come in handy. Leech Seed is always a cool option in order to wear down the foe while getting recovery, but unfortunately, Dragon Tail cancels this effect. Meganium can also support its team via dual screens, but as that means giving up Aromatherapy, Dragon Tail, or Giga Drain, it can be tough to fit both moves onto Meganium. Finally, Grass Whistle has the reward of inflicting the always-useful sleep, but its poor accuracy makes it risky, and there are many sleep absorbers that already get free switches into Meganium.</p>
+
+<p>As Dragon Tail itself isn't the most powerful attack, entry hazard support is useful as the passive damage makes phazing much more devastating. Toxic Spikes in particular can be very useful as it allows Meganium to run Synthesis over Toxic without any problems. As a result, Qwilfish makes a very good partner, as it is an effective dual Spiker and can take Bug and Fire moves that might be directed at Meganium. Defensive Omastar can play a similar role, except it doesn't resist Bug. It does, however, get access to Stealth Rock to wear down Fire-type switch-ins. Alomomola and Poliwrath can also switch into Fire attacks and provide support for Meganium; Alomomola can provide Wish support, which helps Meganium if it's running Toxic and, as a result, has no instant recovery. Poliwrath can switch into Durant and Escavalier without much of a problem, and can also provide additional phazing via Circle Throw. Poliwrath also appreciates Aromatherapy support to make its typical RestTalk strategy more reliable. Finally, Escavalier and Durant cover many of Meganium's weaknesses and can usually destroy some of Meganium's common checks, such as Amoonguss, Cryogonal, and Roselia. Both also become utterly useless if inflicted with a burn (and for Durant, paralysis as well), so they appreciate Aromatherapy giving them a second chance. Note that the two weaknesses Bug and Steel do not cover, Flying and Fire, can be worn down by Stealth Rock, and Flying STAB moves are uncommon in RU.</p>
+
+[Other Options]
+
+<p>Meganium could run a Swords Dance set with Seed Bomb, Earthquake, and Return, but such a set is usually outclassed by either the much faster and stronger Sceptile or the bulkier and much stronger Torterra. In addition, Meganium has no strong physical moves, meaning it takes a long time to start hitting hard. Hidden Power Fire is always an option for anything that struggles against Escavalier, but unfortunately an uninvested Hidden Power Fire will never get close to OHKOing Escavalier. There are many strong STAB moves that Meganium has access to, including Solar Beam alongside Sunny Day, Leaf Storm, and Petal Dance. Unfortunately, Meganium lacks the power to take advantage of them, leaving it outclassed by Pokemon such as Lilligant in this regard.</p>
+
+[Checks and Counters]
+
+<p>Meganium is relatively easy to counter due to its low offensive presence. Pokemon that can hit it hard enough to OHKO it, such as Escavalier, Durant, Entei, Braviary, and Emboar, none of which fear taking an significant damage from Giga Drain, are good options. Bouffalant, however, is quite possibly Meganium's best counter, as it has Sap Sipper and Meganium's Dragon Tail won't even break its Substitutes in two hits, giving it plenty of time to set up. Anything else with Sap Sipper, such as Miltank and Sawsbuck, also walls it and can take advantage of the boost Sap Sipper provides. Cryogonal walls Meganium with its high Special Defense, can use Rapid Spin to eliminate the entry hazards Meganium relies on, and can hit back with a STAB Ice Beam. Grass / Poison types such as Roselia and Amoonguss are immune to Toxic; Roselia can set up Spikes on Meganium and wear it down with Sludge Bomb, and Amoonguss has Regenerator to mitigate entry hazard damage. Overall, Meganium is not too much of a threat as long as you don't let it rack up too much passive damage, but if Aromatherapy heals a sweeper that was neutered by status, be sure to watch out for it.</p>
+
+[Unreleased]
+
+<p>Leaf Guard is fairly situational because of how rare manual sun is, and furthermore, the fact that Meganium already has Aromatherapy makes Leaf Guard even less useful. At the very least, Overgrow lets Giga Drain do some extra damage when Meganium is running low on health, so it comes in handy more often.</p>

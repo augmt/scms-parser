@@ -1,0 +1,55 @@
+[Overview]
+
+<p>On the surface, Numel seems like a subpar Pokemon due to its fairly low base stats; however, Numel has quite a few unique attributes that give it a niche in Little Cup. Its most significant niche lies in its ability, Simple, which when paired with moves such as Stockpile or Flame Charge, allows Numel to function as either a defensive or an offensive threat. Unfortunately, Numel has a crippling 4x weakness to Water-type attacks and struggles to get past the many Ground-types in Little Cup. So long as Numel is given the proper support, it can be a valuable asset, as either an impenetrable wall or a great sweeper.</p>
+
+[SET]
+name: RestTalk
+move 1: Rest
+move 2: Sleep Talk
+move 3: Lava Plume
+move 4: Stockpile / Earth Power
+item: Eviolite
+ability: Simple
+nature: Bold
+evs: 196 HP / 116 Def / 156 SpD
+
+[SET COMMENTS]
+
+<p>Numel's unique Fire / Ground typing makes it a fantastic counter to many Steel-, Grass-, and Electric-types in Little Cup. This includes Magnemite, Pawniard, Foongus, Shroomish, Ferroseed, and many more. Unfortunately, Rest is the only recovery move Numel has access to, so Rest and Sleep Talk are mandatory. This allows it to sponge any status moves from the aforementioned Grass-types without fear. Lava Plume is the third move on this set, as it is Numel's most reliable STAB and can potentially cripple physical attackers with a burn. Due to Simple, Stockpile gives Numel a +2 boost to both defenses, allowing it to sweep late-game once all Water and Ground types have been removed. The defense boosts also allow Numel to become a situational check to many threats such as Timburr, which could otherwise set up on Numel. If Stockpile is deemed unnecessary for your team, Earth Power is also a good option in the final slot. This makes Numel a good counter to Fire-types and can also surprise Chinchou or Tirtouga that may try to switch in.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs, nature, and item for this set are fairly standard and maximize Numel's defensive potential. If you aren't using Stockpile, then the ability can be changed to Own Tempo, which allows Numel to switch in on parafusion Murkrow more easily. Curse is another option in the final slot in conjunction with a physical move instead of Lava Plume, but Numel's Special Defense isn't good enough to pull off a sweep. The only other notable move for this set is Toxic, which could help Numel stall out threats. If you're feeling particularly gutsy, you can drop Sleep Talk in favor of another move, but running Rest without Sleep Talk usually isn't a good idea.</p>
+
+<p>Numel appreciates teammates that can take on Water- or Ground-types. Lileep is a fantastic partner, as it is immune to any Water-type attacks aimed at Numel whilst Numel can take on the Steel-types that Lileep hates. Other Grass-types such as Ferroseed and Shroomish also make good partners for the same reasons. Heal Bell support is useful when using Numel, allowing it to Rest and switch out without the worry of being worn down. Chinchou makes a great partner for this reason and in return, Numel can take on the Grass-types that Chinchou struggles against. Tentacool is another good choice for a teammate thanks to its access to Toxic Spikes, which can help Numel stall out opponents with Stockpile and Rest. Finally, Numel is a good choice for sand teams, as it helps against Grass-types and can use the residual damage from the sandstorm to stall out opponents; however, Numel compounds the Water-type weakness that many sand teams already have.</p>
+
+[SET]
+name: Flame Charge
+move 1: Flame Charge
+move 2: Fire Blast
+move 3: Earth Power
+move 4: Hidden Power Electric
+item: Life Orb
+ability: Simple
+nature: Modest
+evs: 240 SpA / 236 Spe
+
+[SET COMMENTS]
+
+<p>The idea of this set is fairly straightforward. Numel can use Flame Charge to finish off a weakened opponent and then use the +2 Speed boost to attempt to sweep the opposing team. After a single Flame Charge, Numel reaches 26 Speed, which is enough to outspeed 17 Speed Choice Scarf users such as Mienfoo or Chinchou. When boosted by a Life Orb, Fire Blast is a very powerful move that can deal serious damage to most Pokemon, with a chance to OHKO Eviolite Mienfoo and Sandshrew. Earth Power is a much more reliable STAB move in terms of accuracy and can be used to hit Chinchou and Tentacool super effectively. In the last slot, Hidden Power Electric is the best option, as it is Numel's best way of getting past Staryu, Mantyke, and Archen.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Life Orb is the only item that can be used on this set, as otherwise, Numel is far too weak. The nature can be changed to Timid if you want to outspeed 18 Speed Choice Scarf users and Adamant Sandshrew, but Numel needs all the power it can get. Numel's movepool is rather shallow, so it doesn't have a lot of other options, but Ancient Power is an interesting choice over Hidden Power Electric. It can hit Flying-types such as Archen and potentially give Numel a +2 stat boost in every stat, which would give the opponent a tough challenge in taking it down. Hidden Power Grass can be used over Hidden Power Electric if you're particularly worried about Wooper, but in general, Hidden Power Electric is the better choice.</p>
+
+<p>Numel needs a lot of support to be able to sweep with this set. Firstly, entry hazard support is very useful to allow Numel to net some extra KOs. For example, Stealth Rock allows Numel to OHKO RestTalk Chinchou 93% of the time, a layer of Spikes and Stealth Rock allow it to OHKO Staryu 93% of the time, and two layers of Spikes and Stealth Rock allow it to OHKO Tentacool 100% of the time. Ferroseed and Lileep are both strong candidates for this role, as their Grass-typing helps deal with Water- and Ground-types. Water-types such as Staryu make for good teammates, as they often lure in Pokemon that Numel can set up on, such as Magnemite and Ferroseed. Knock Off support is useful, as Numel finds it difficult to break through more bulky Pokemon. Mienfoo is a good candidate for this role, as it can help to wear down Porygon, Lickitung and Lileep, which could otherwise take a hit from Numel. Finally, wallbreakers, such as Life Orb Murkrow, can really help in weakening the opposing team for Numel to sweep. </p>
+
+[Other Options]
+
+<p>Numel has quite a few other options to play around with. Firstly, a physical Life Orb set can be used with Flame Charge, Earthquake, and Rock Slide, but aside from that, Numel doesn't have a lot of physical attacking options. Thanks to Simple, Howl can boost Numel's Attack to +2, but Numel finds it very difficult to set up both Howl and Flame Charge. A bulky Eviolite set with Stealth Rock, Lava Plume, Earth Power, and Toxic is usable, but Numel's lack of reliable recovery makes it very easy to wear down. Amnesia and Curse are other boosting moves that Numel can take advantage of, but Stockpile is almost always the superior option. Finally, Numel has access to Will-O-Wisp and Yawn, but both of these moves are hard-pressed for a moveslot.</p>
+
+[Checks and Counters]
+
+<p>Due to its crippling 4x weakness, it comes as no surprise that Water-types are the best counters to Numel. Mantyke only fears Hidden Power Electric from the Flame Charge set, but can take anything else Numel throws at it. Wooper, Staryu, and Slowpoke can typically survive a hit and KO back with their STAB attacks. Tirtouga and Chinchou can also beat Numel, but must be wary of switching into Earth Power. The two key members of sand teams, Hippopotas and Drilbur, give Numel a lot of trouble; Drilbur can outspeed a +2 Numel in the sand and can KO with Earthquake. Hippopotas can remove any boosts that Numel has acquired by phazing it out with Whirlwind or just hit it hard with Earthquake. Diglett is another Ground-type that can check Numel thanks to Arena Trap.</p>
+
+<p>Dragon-types typically make good counters to Numel thanks to their Fire-type resistance. RestTalk Dratini is perhaps the best example, as it can easily set up against the RestTalk set. Taunt users such as Misdreavus and Vullaby can completely shut down the first set, preventing Numel from using Rest or Stockpile. Lastly, many bulky Pokemon, including Porygon, Lickitung, Munchlax, Misdreavus, Vullaby, and Timburr, can survive a Life Orb-boosted Fire Blast and KO the Flame Charge set, as it is extremely frail without Eviolite.</p>

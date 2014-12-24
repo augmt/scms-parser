@@ -1,0 +1,122 @@
+[Overview]
+
+<p>Let's face it, Virizion is a Pokemon that oozes class. Its attitude and power means that its legendary status is well deserved. The Grass- and Fighting-type combination is only shared with Breloom, but Virizion has many advantages over its mushroom counterpart that make it a threat in its own right. One thing immediately stands out when looking at Virizion's assets: its 129 base Special Defense that, alongside its typing, makes it one of the best Pokemon to use against weather-based teams. Its 108 Speed stat, shared with the other musketeers (Terrakion and Cobalion), allows it to outspeed most of the OU tier. Virizion also has access to both Calm Mind and Swords Dance, so it can work as either as a very bulky special sweeper or an all-out physical sweeper.</p>
+
+<p>Unfortunately, Virizion isn't without its negative aspects. It has to rely on the incredibly inaccurate Focus Blast on the special sweeper set. Its Defense stat is decent at best, and it has some trouble taking strong neutral physical attacks. Its Justified ability is also a rather useless one since Dark-type attacks are rare in OU and Tyranitar, its main user, won't be staying in on any of Virizion's sets. Despite these faults however, Virizion is still a great Pokemon and it should always be considered when building a team.</p>
+
+[SET]
+name: Calm Mind
+move 1: Calm Mind
+move 2: Giga Drain
+move 3: Focus Blast
+move 4: Hidden Power Ice
+item: Leftovers / Life Orb
+nature: Timid
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>With Calm Mind, Virizion takes advantage of its excellent special bulk and typing to function as a special tank. While its base 90 Special Attack might seem quite underwhelming in a tier where base 130 offensive stats are commonplace, the most important thing to remember is that Virizion does not earn its keep by sweeping; Calm Mind Virizion is a great defensive pivot, as it resists many attacking types found on rain and sand teams. If Pokemon was soccer, then Virizion would be an excellent midfielder. It is able to both support the team by tanking powerful hits and go on the offensive when the opportunity arises. With the given moveset, Virizion can bust up common balance and stall cores, such as Ferrothorn + Jellicent + Gliscor. After setting up a Calm Mind, Virizion is near-impenetrable on the special side, with the exception of super effective STAB attacks.</p> 
+
+<p>Giga Drain allows Virizion to feast on the many bulky Water- and Ground-types that plague the OU metagame, such as Politoed, Vaporeon, and Gastrodon, while restoring its HP. Focus Blast is Virizion's only decently powerful STAB attack; although its accuracy makes it just about the most frustrating move in the entire game, Focus Blast has the power to OHKO Skarmory after Stealth Rock with a Calm Mind boost. Hidden Power Ice rounds out Virizion's coverage by hitting Dragonite, Salamence, Landorus-T, and Gliscor for 4x super effective damage. After a Calm Mind boost, it OHKOes all of the aforementioned Pokemon, provided Dragonite does not have Multiscale active.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The item choice is quite important. Leftovers is clearly optimal, as it allows Virizion to tank most efficiently and reinforces Virizion's position as a supportive sweeper. Alternatively, though its recoil severely cuts into Virizion's bulk, Life Orb should be considered due to the sheer number of 2HKOs and OHKOs it provides. The following damage calculations give you a clearer picture of the benefits Life Orb brings; all calculations assume a Calm Mind boost:</p>
+
+<ul class="damage_calculation">
+<li>Life Orb Focus Blast vs 248/0 Scizor 104.08% - 122.45% (clean OHKO)</li>
+<li>Leftovers Focus Blast vs 248/0 Scizor 79.88% - 94.46%</li>
+<li>Life Orb Focus Blast vs 252/216 Scizor 81.40% - 96.22%</li>
+<li>Leftovers Focus Blast vs 252/216 Scizor 62.79% - 74.13%</li>
+<li>Life Orb Focus Blast vs 4/252+ Blissey 53.37% - 62.88% (clean 2HKO)</li>
+<li>Leftovers Focus Blast vs 4/252+ Blissey 41.41% - 48.77%</li>
+<li>Life Orb Focus Blast vs 252/216+ Jirachi 54.21% - 63.86% (clean 2HKO)</li>
+<li>Leftovers Focus Blast vs 252/216+ Jirachi 41.83% - 49.26%</li>
+<li>Life Orb Giga Drain vs 252/0 Politoed 96.88% - 114.06% (OHKO with Stealth Rock)</li>
+<li>Leftovers Giga Drain vs 252/0 Politoed 75.00% - 88.02%</li>
+<li>Life Orb Giga Drain vs 252/0 Jellicent 88.12% - 104.46% (OHKO with Stealth Rock)</li>
+<li>Leftovers Giga Drain vs 252/0 Jellicent 68.32% - 80.69%</li>
+</ul>
+
+<p>As shown above, Virizion makes good use of the additional power Life Orb brings; it is therefore an option worth considering on more offensive teams. If the 10% recoil per turn (16% in sand or hail) is undesirable, Fist Plate is a decent middle ground, as it preserves most of Life Orb Virizion's OHKOs and 2HKOs when using Focus Blast without the cost of recoil. However, it does nothing for Virizion's other attacks.</p>
+
+<p>The Speed EVs enable Virizion to Speed tie with other base 108 Pokemon, namely Infernape and Terrakion. In terms of moveslot options, Hidden Power Rock enables Virizion to make quick work of Volcarona while retaining the ability to hit Flying-types. Be aware, however, that Hidden Power Rock lowers Virizion's Speed IV and removes the possibility of Speed tying with Infernape and Terrakion. Furthermore, while Hidden Power Rock hits only Volcarona, Hidden Power Ice's specific 4x coverage--on Dragon / Flying types, Gliscor, and Landorus-T--is generally more useful.</p>
+
+<p>Virizion's main counters are Latios, Latias, and Reuniclus; they can come in, set up Calm Mind boosts alongside Virizion, laugh off its attacks, then OHKO it with STAB Psyshock. Tornadus outspeeds Virizion and can OHKO it with Hurricane, while specially bulky Jirachi can switch in, paralyze with Body Slam or Thunder Wave, and proceed to KO with Iron Head. Note, however, that if Jirachi is having an unlucky day with Body Slam, and Virizion gets relatively lucky with Focus Blast, Life Orb Virizion will defeat Jirachi. Pokemon that can eliminate these threats are therefore good partners to Virizion: Tyranitar can remove the Psychic-types and Tornadus with Pursuit or Crunch and Stone Edge, respectively, while specially bulky Jirachi can take everything the aforementioned counters throw at it, paralyze them with Body Slam, and heal both itself and Virizion with Wish.</p>
+
+<p>Pokemon with strong priority, such as Scizor, Mamoswine, and Dragonite, can all revenge kill weakened Virizion relatively easily, while strong Choice Scarf users such as Haxorus will also take down Virizion quite quickly. Volcarona and Chandelure resist Virizion's entire moveset unless it carries Hidden Power Rock; the former can easily set up in Virizion's face with Quiver Dance and roast it with Fire-type moves, while the latter's Fire-type STAB attacks are often too much for Virizion to handle. In addition to sponging most priority attacks without much trouble, Skarmory can set up Spikes to whittle down Virizion's checks. Stealth Rock keeps Volcarona in check and thus should be set up as soon as possible; Terrakion can also easily revenge kill all +1 Volcarona.</p>
+
+[SET] 
+name: Swords Dance
+move 1: Swords Dance
+move 2: Close Combat
+move 3: Leaf Blade
+move 4: Hidden Power Ice / Stone Edge
+item: Life Orb / Lum Berry
+nature: Naive / Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Virizion's usable Attack stat, excellent defensive typing, solid coverage, and good Speed make it a decent Swords Dance user. Swords Dance boosts Virizion's relevant offensive stat twice as quickly as Calm Mind does and thus makes it a bigger immediate threat. Furthermore, Swords Dance Virizion defeats most of the defensive Pokemon that trouble its Calm Mind counterpart. Close Combat is Virizion's main STAB, as it does severe damage after a Swords Dance. To illustrate this, with a Life Orb boost, a +2 Close Combat OHKOes specially defensive Jirachi. Leaf Blade is Virizion's secondary STAB, and is an excellent one at that, able to smack the numerous bulky Water- and Ground-types for super effective damage. In particular, Leaf Blade wipes Slowbro and Quagsire--the biggest obstacles to physical Fighting-types and stat-boosting Pokemon, respectively--off the map. Hidden Power Ice is preferred, as it easily 2HKOes Gliscor, but Stone Edge is a physical option that also takes down Flying-types. In addition, Stone Edge OHKOes Volcarona, who would otherwise comfortably wall Virizion.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>As Swords Dance Virizion is more geared towards sweeping, Life Orb is the item of choice. With it, Virizion easily OHKOes Slowbro with Leaf Blade and OHKOes offensive Gliscor 74% of the time. Even defensive Gliscor will usually lose to Virizion as Leaf Blade does 54.52% - 64.41% to 252/184+ variants. However, Lum Berry is an excellent option if your team is a bit more balanced, as it gives Virizion a layer of protection from Scald's burn chance and lets it set up freely on Rotom-W that try to use Will-O-Wisp.</p>
+
+<p>Psyshock variants of Latias and Latios both hard-counter Virizion, as they resist both Leaf Blade and Close Combat, laugh at Hidden Power Ice, take Stone Edge without much trouble, and often OHKO Virizion with Psyshock. Tornadus is also a solid counter, as it resists both of Virizion's STABs and can OHKO it with Hurricane, but it needs to be careful of Stone Edge. Celebi packs similar resistances to both of Virizion's STABs and can take a boosted Stone Edge. Even though Virizion detests passive sandstorm damage, Choice Scarf Tyranitar can easily trap and KO Latias and Latios with Pursuit, as well as outspeed and KO Tornadus and Celebi with Stone Edge and Crunch, respectively. If sandstorm is not to your taste, Politoed is another good teammate, as the rain it summons reduces Virizion's weakness to Fire.</p>
+
+<p>If Virizion is not running Life Orb, offensive Gliscor can easily take a hit and OHKO Virizion with Acrobatics. Skarmory can take a boosted Close Combat and OHKO with Brave Bird, but will be KOed by recoil damage if Virizion is carrying Life Orb. Toxicroak will also be an obstacle to Virizion in the rain, as it resists Leaf Blade, Close Combat, and Stone Edge and takes little damage from uninvested Hidden Power Ice. Similarly, Forretress can sponge Virizion's physical attacks all day and hit back hard with Gyro Ball. Mixed Salamence can lure in Gliscor and destroy it with Draco Meteor, hard-counter Toxicroak, and fry Forretress and Skarmory with Fire Blast. Magnezone can trap Skarmory and Forretress, while a bulky Gliscor of your own can also wall Toxicroak, in addition to using Taunt and Swords Dance to set up on Forretress and Skarmory.</p>
+
+[SET]
+name: Work Up
+move 1: Work Up
+move 2: Close Combat
+move 3: Giga Drain
+move 4: Hidden Power Ice / Stone Edge
+item: Life Orb / Leftovers
+nature: Hasty / Naive
+evs: 104 Atk / 152 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>Unlike Salamence and Infernape, Virizion is no offensive juggernaut, but its astonishing special bulk allows it to grab multiple boosts, and while it often fails to OHKO or 2HKO the opponent, the opponent will be hard pressed to 2HKO or 3HKO Virizion in return. This, coupled with Virizion's excellent coverage and a blistering base 108 Speed, makes it a potent user of Work Up. Its typing makes it a valuable asset to many teams, especially those that employ sand, as Virizion dominates many common rain abusers, such as Ferrothorn, Rotom-W, and Gastrodon. What differentiates this set from the Calm Mind and Swords Dance sets is its reliability. With Close Combat, Virizion isn't forced to fire off the most unreliable move in the game, Focus Blast. With Giga Drain, Virizion gains access to a valuable method of recovery. Hidden Power Ice is the preferred coverage move, as it shoots down numerous Dragons, such as Dragonite and Salamence, that would otherwise wall Virizion. However, Stone Edge can be used to take out Volcarona, while still retaining coverage against some Dragons.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Virizion is offensively lacking, even after a boost, which makes Life Orb the preferred item. Leftovers can be useful to restore Virizion's health at times, but is largely outclassed by Life Orb--the extra damage dealt by Life Orb-boosted Giga Drain can often make up for the Leftovers recovery. A Hasty nature is recommended, as it maximizes Speed without jeopardizing Virizion's pitiful offenses or its outstanding special bulk. However, one could run a Naive nature instead to reduce damage taken from priority moves, such as Scizor's Bullet Punch. Maximum Speed investment allows the green musketeer to Speed tie fellow Fighting-types Terrakion and Infernape. 104 Attack EVs allow a +1 Virizion to OHKO standard Choice Band Scizor after 2 Stealth Rock switch-ins, while the remaining EVs are dumped into Special Attack to maximize Giga Drain's damage output. Additionally, a more physically oriented spread of 252 Atk / 4 SpA / 252 Spe can be used, especially if Stone Edge is used in the last slot, as it juices up the power of Close Combat. Other options include going with 160 SpA EVs for an unconditional OHKO against 4 HP / 0 Def Starmie.</p>
+
+<p>Although Virizion can trample over slow, defensively oriented Pokemon, it does not appreciate status one bit. Users of Aromatherapy, such as Blissey, or Pokemon that can absorb status moves, such as Celebi or Gliscor, therefore make excellent teammates. Although Virizion can impose its will on most Pokemon slower than it, faster Pokemon, such as Latias, Latios, and Gengar, are a pain to take down. Scizor, Tyranitar, and Jirachi can easily defeat these aforementioned threats, and can also bring down the likes of Reuniclus and Celebi, who can take hits from Virizion with ease and retaliate with a STAB Psychic. Volcarona is also incredibly threatening, as it can set up on non-Stone Edge variants and proceed to incinerate Virizion with a Fire STAB, but the most threatening Pokemon of them all is Skarmory, who completely walls Virizion and banishes it to the afterlife with a 4x super effective Brave Bird. Heatran, therefore, makes a great teammate. It not only checks the likes of Volcarona and Skarmory, but also absorbs Fire-type moves aimed at Virizion. Finally, Virizion could be paired with another Fighting-type, such as Scrafty or Terrakion, so one can weaken opposing walls and open up a sweep for the other.</p>
+
+[SET]
+name: Dual Screens
+move 1: Reflect
+move 2: Light Screen
+move 3: Giga Drain / Close Combat
+move 4: Taunt
+item: Light Clay
+nature: Timid / Jolly
+evs: 252 HP / 4 Def / 252 Spe 
+
+[SET COMMENTS]
+
+<p>While one may be disappointed when looking at Virizion's stats, particularly its lackluster Defense, it is actually an effective dual screens user. Virizion's great base 129 Special Defense, coupled with its resistance to Pursuit, allows it to set up on a greater number of threats than Latias, Azelf, and Espeon. Additionally, with its great base 108 Speed, Virizion has the capability to Taunt common entry hazard users and set-up sweepers that would normally pose problems for most dual screen users. Most dual screen users have a weakness to the ever-popular Rotom-W and Scizor VoltTurn core; however, Virizion does not fear Rotom-W and, with Reflect, can ensure that Scizor does not become too threatening. While this set is mainly used for support, one has a choice when picking an attack. Giga Drain offers insurance against most rain teams and the ability to replenish health, but one can also opt for Close Combat to beat down Tyranitar and keep Heatran at bay.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Virizion's EV spread is fairly straightforward; it gives maximum Speed to outpace Pokemon under base 108 Speed, and causes a Speed tie with Terrakion and Infernape. 252 HP EVs give Virizion respectable bulk, although its Defense will be a bit low; however, this is easily remedied by Reflect, so it's not a major problem. Nonetheless, if one is concerned about physical bulk, a spread with 252 HP / 224 Def / 32 Spe and a Bold nature allows Virizion to take physical hits more comfortably while still outspeeding neutral-natured Breloom, Tyranitar, and Dragonite. When using Virizion the first screen one should aim to set up, should usually be Reflect, unless facing a troublesome specially based attacker. That way, Virizion will always be able to make up for its low Defense stat. Light Clay is the item of choice because it prolongs dual screens by an extra three turns, allowing for longer setups and sweeps. Virizion does not need any team support to function well, as it is a supporter itself. Regardless, it is best paired with set-up sweepers, such as Latias and Dragonite, who can pull off longer and more effective sweeps behind screens.</p>
+
+<p>Teams looking for a Fire / Water / Grass core should consider Virizion for its resistances; in return, Virizion gains more opportunities to set up. Heatran is troublesome for this set to face because it can sponge hits and retaliate with a STAB, super effective Fire-type move, so a good partner would be a bulky Water-type. Vaporeon in particular works wonders because it can reliably beat Heatran and also give Wish support to Virizion, letting it set up screens multiple times. Faster Taunt users ruin this set, because without offensive investment, Virizion is fairly weak. Like all Virizion sets, this one hates facing Flying-type moves, including Hurricane from Dragonite and Tornadus, and Acrobatics from Gliscor. Even with dual screens up, Flying-type moves will most likely OHKO Virizion, so one should be cautious when playing against a user of said moves. Jirachi, Heatran, and Tyranitar work very well because they all resist Flying-type moves and benefit from dual screens support.</p>
+
+[Other Options] 
+
+<p>Virizion is part of the legendary Fighting-type group and, as such, has access to their signature move: Sacred Sword. It has 30 less Base Power than Close Combat, but it has two advantages: it doesn't lower Virizion's defenses, and it bypasses opponents' defensive boosts. Sacred Sword can replace Close Combat on the Swords Dance set if the defense drops prove to be unbearable. Virizion also has access to Toxic and Roar, so it can act as a special wall and a phazer with some defensive investment. Choice Band and Choice Specs sets are usable but are generally outclassed by Virizion's other sets. Likewise, an all-out mixed set consisting of Close Combat, Stone Edge, Giga Drain, and Hidden Power Ice is feasible, but Virizion's ordinary offensive stats make the set quite mediocre.</p>
+
+[Checks and Counters] 
+
+<p>While Virizion is fast, there are quite a number of Pokemon that outspeed it and resist its attacks. Latias is probably the best counter to Virizion, as she is naturally faster, resists both of Virizion's STABs, has excellent Special Defense, and can easily set up with Calm Mind; offensive variants can easily OHKO Virizion with Psyshock as well. Also, Latios and Tornadus cleanly OHKO Virizion with Psyshock and Hurricane, respectively. While Latios takes little damage from any of Virizion's moves, Tornadus has to watch out for Hidden Power Ice and the rare Stone Edge, although the former will not KO without a boost. Gengar fares well against Swords Dance variants, as it only needs to worry about Stone Edge and Hidden Power Ice; the latter does little damage, and both can be stopped by Disable if necessary. Alakazam is also a decent option if you're desperate, but it can't switch into Swords Dance variants; much the same applies to Espeon and Azelf. While it has difficulty switching into Virizion, Weavile can OHKO it with Ice Punch. Similarly, Mamoswine cannot switch into either of Virizion's STAB attacks, but it can revenge kill weakened Virizion with Ice Shard. Choice Band Dragonite can do the same with Extreme Speed, and other Choice Scarf Dragon-types, such as Salamence and Haxorus, will also fare well as long as they don't switch in on Hidden Power Ice.</p>
+
+<p>As for bulkier options, Chansey and Blissey check special sets that haven't gained too many boosts. While they do face a potential 2HKO from +1 Focus Blast, they have a very good chance of defeating Virizion thanks to Focus Blast's accuracy, especially if they carry Thunder Wave. Specially defensive Celebi can also take a hit and paralyze Virizion with Thunder Wave, which makes Virizion much easier to manage. Reuniclus has the bulk to sponge a boosted Giga Drain and can either hit Virizion hard with its STAB move or set up with Trick Room. Specially bulky Steel-type Pokemon will give Virizion trouble as well: Scizor can boost up with Swords Dance and OHKO Virizion with Bullet Punch, Choice Band Scizor can deal severe damage with Bullet Punch and easily cut its sweep short and Jirachi can defeat it with Body Slam and Iron Head. However, note that if luck favors Life Orb Virizion, it can defeat both Scizor and Jirachi. While relatively rare, Toxicroak can be a huge nuisance to Virizion in the rain, as it resists both of Virizion's STABs in addition to Stone Edge, can recover off damage from Hidden Power Ice relatively quickly due to Dry Skin, and can easily set up with Swords Dance or Bulk Up. Specially defensive Dragonite can comfortably boost up with Dragon Dance due to Multiscale. Volcarona can take its time to set up on Virizion with Quiver Dance, sponging any attack besides Stone Edge, as can Chandelure with Substitute. Finally, Skarmory is an excellent counter to both Swords Dance and Work Up sets, as it does not mind taking Close Combat, can easily OHKO with Brave Bird, and can choose to just set up Spikes.</p>
+
+<p>In general, sun teams easily handle Virizion: Ninetales is bulky enough to take most of Virizion's attacks, aside from a boosted Stone Edge, and can fry it with Fire Blast. Most sun sweepers do not care at all for Virizion, either. For example, not only does Venusaur resist both of Virizion's STABs, but it also outspeeds Virizion in the sun, and Venusaur can either hit Virizion hard with Sludge Bomb or put it to sleep with Sleep Powder. Sawsbuck outspeeds and can OHKO with Double-Edge, while Choice Scarf Fire-types, such as Darmanitan, Victini, and Heatran, will roast Virizion to a crisp with their sun-boosted Fire-type STAB attacks.</p>

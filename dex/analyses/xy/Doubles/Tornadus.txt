@@ -1,0 +1,52 @@
+Overview
+########
+
+Tornadus's niche in Doubles comes from its ability, Defiant, which allows it to punish stat drops from things such as Intimidate, Snarl, and Icy Wind. Tornadus's great Speed and good Attack stat further complement this, giving it the ability to hit hard and fast with moves such as Acrobatics, Knock Off, and Superpower. Unfortunately, Tornadus cannot hold an item without decreasing the power of Acrobatics, and it can't make use of its higher Special Attack stat and Prankster Tailwind without having to rely on an 70% accurate STAB move or being generally outclassed by Talonflame. It is also quite frail, meaning it doesn't last too long on the battlefield. Tornadus's biggest downfall, however, is the fact that it is generally outclassed by Bisharp as a Defiant user, which has access to STAB Sucker Punch and can afford to hold an item. However, Tornadus is faster, and its Flying typing allows teammates to more easily spam Ground-type attacks, allowing it to stick out from its competition.
+
+Defiant
+########
+name: Defiant
+move 1: Acrobatics
+move 2: Superpower
+move 3: Knock Off
+move 4: Protect
+ability: Defiant
+item:
+evs: 252 Atk / 4 Def / 252 Spe
+nature: Jolly
+
+Moves
+========
+
+Acrobatics is a powerful STAB attack when Tornadus isn't holding an item. Superpower allows Tornadus to hit the Steel- and Rock-types that resist Acrobatics as well as Pokemon such as Kangaskhan. Knock Off removes the target's item and hits Pokemon that resist Acrobatics and Superpower, such as Aegislash. It also does good damage to Pokemon weak to the move, such as Latios and Mew. Protect is a great move for scouting, punishing double targeting, and stalling field effects such as Trick Room and Tailwind.
+
+Set Details
+========
+
+Defiant is the main selling point of this set, as it punishes Intimidate and stat-lowering moves by giving Tornadus an Attack boost. The EV spread with a Jolly nature provides as much Attack and Speed as possible. Lastly, no item powers up Acrobatics to 110 Base Power, making physical Tornadus usable.
+
+Usage Tips
+========
+
+Try to switch Tornadus in on Pokemon with Intimidate or a stat-lowering move, as you'll receive a free +1 Attack boost from Attack-lowering abilities and moves and a +2 boost from other moves that lower your stats. Tornadaus should be paired with physical attackers to deter Intimidate users from switching in. While Icy Wind does give Tornadus a +2 boost, it also lowers its Speed, making Tornadus much more vulnerable to faster attackers. Try not to directly switch Tornadus in, as it has poor bulk and can't hold Sitrus Berry to recover HP. Finally, if you expect your opponent to lead with an Intimidate user, it's smart to lead with Tornadus to receive a free Attack boost.
+
+Team Options
+========
+
+Because Tornadaus deters your opponent from sending out their Intimidate user, Pokemon that hate Intimidate and appreciate the ability to spam Earthquake while Tornadus is on the field, such as Landorus-T, Garchomp, Mamoswine, and Excadrill, make for good partners. Other Pokemon that hate Intimidate include Mega Kangaskhan, Terrakion, Scizor, and Conkeldurr. Pokemon that hate Fighting-types make for good partners, such as Heatran and Mega Kangaskhan, as Tornadus can deal with them well. Pokemon such as Mega Venusuar, Amoonguss, Thundurus-T, and Raikou all work well to deal with Electric-type moves that hit Tornadus super effectively. Lastly, Rotom-W, Hitmontop, and Scrafty can deal with the Rock-types Tornadus hates.
+
+Other Options
+##########
+
+A special attacking set with Hurricane, Focus Blast or Heat Wave, Protect, and Prankster Tailwind can be used for offensive support; the set also works well with Politoed as Drizzle causes Hurricane to be 100% accurate. Other good Prankster moves include Taunt and Rain Dance, the former stopping annoying support moves and the latter making Hurricane's accuracy 100%. Tailwind and Taunt can also be used with Defiant if one chooses. A Choice Specs set hits incredibly hard, with Defiant helping to bluff a physical set. For physical attacks, Sky Drop can be used to temporarily remove a Pokemon from play, while U-turn is an option to gain momentum. Substitute is an option over Protect or Knock Off to avoid status, though it prevents stat drops, meaning Tornadus won't be able to receive an Attack boost from Defiant. Bulk Up is a setup option that boosts Attack and Defense, though Tornadus's frailty and the fast-paced nature of Doubles makes it difficult to set up. Finally, Prankster ChestoRest can be used to get back to full health extremely quickly, though this compromises your item, ability, and fourth moveslot.
+
+Checks & Counters
+#############
+
+**Offensive Typing Advantage**: Electric-types such as Rotom-W, Thundurus, Thundurus-T, Mega Manectric, and Rotom-H can all OHKO Tornadus with a super effective Thunderbolt and resist Acrobatics. Rock-types such as Choice Scarf Tyranitar, Terrakion, and Rhyperior can also hit Tornadus with a super effective Rock Slide while not caring about Acrobatics, though they don't like taking a Superpower, especially Tyranitar. Ice-types such as Kyurem-B, Mamoswine, and Weavile can all hit Tornadus with a super effective Ice-type move, and the latter two have priority Ice Shard to revenge kill Tornadus with. However, they all hate Superpower.
+
+**Burns**: Will-O-Wisp from Pokemon such as Mega Gengar and Talonflame can cripple Tornadus, weakening its attacks.
+
+**Speed**: Faster Pokemon such as Swift Swim Kingdra, Swift Swim Ludicolo, Life Orb Talonflame, and Deoxys-A can all outspeed and OHKO Tornadus. The former two need rain in order to outspeed Tornadus, however.
+
+**Speed Control**: Trick Room from Pokemon such as Cresselia, Aromatisse, and Chandelure can make Tornadus's high Speed a liability and allow slower attackers to outspeed and OHKO it. Thunder Wave from the likes of Thundurus can also slow down Tornadus down and allow slower attackers to outspeed it.

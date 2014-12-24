@@ -1,0 +1,105 @@
+[Overview]
+
+<p>Luxray is a rather unique Electric-type, sporting high Attack, low Speed, and Intimidate, which augments his decent bulk. This means that while most other pure Electric-types take on a sweeping role, Luxray is best suited to functioning as a wallbreaker. Luxray's offensive movepool -- although he lacks a strong physical STAB move -- is very good. With access to key wallbreaking moves in Superpower and Thunderbolt, and coverage moves like Crunch, Hidden Power, and Ice Fang, he can seriously damage just about anything with the correct move. Intimidate also lets him run defensive sets that play some niche defensive roles against physical Water- and Flying-types, making him a decent counter to the extremely troublesome physical rain sweepers.</p>
+
+<p>Despite these strong points, Luxray is generally overlooked in favor of other wallbreakers such as Blaziken, Nidoking, and Magmortar, who have numerous advantages over him in terms of power, versatility, and special coverage. Luxray retains some advantages over his fellow wallbreakers, namely his physical power and ease with which he deals with Water-types. Keep this in mind when choosing Luxray over other Pokemon who compete for his team slot. Luxray is also somewhat let down by his low Speed stat, which limits his offensive ability to taking out walls and hitting things on the switch. Intimidate is useful in this regard, as it helps Luxray force switches. Overall, Luxray has the potential to be very useful to your team, but make sure you play to his unique advantages. </p>
+
+[SET]
+name: Wallbreaker
+move 1: Thunderbolt
+move 2: Superpower
+move 3: Crunch
+move 4: Hidden Power Grass / Hidden Power Water / Ice Fang
+item: Life Orb
+ability: Intimidate
+nature: Naughty
+evs: 204 Atk / 156 SpA / 148 Spe
+
+[SET COMMENTS]
+
+<p>This set takes advantage of Luxray's mixed attacking stats, making him a good wallbreaker in UU. Thunderbolt deals with bulky Water-types, while Superpower decimates most special walls and does good damage to Rock- and Steel-types. Crunch damages Uxie and Claydol and OHKOes Rotom and Mismagius. There are many options for the final moveslot. Hidden Power Grass and Hidden Power Water both cover Ground-types, with Donphan and Rhyperior being 2HKOed by a combination of Superpower and Hidden Power. Hidden Power Grass covers Quagsire, while Hidden Power Water allows Luxray to 2HKO Steelix with Superpower followed by Hidden Power Water. Ice Fang hits Venusaur and Altaria on their weaker Defense stat, while dealing hefty damage to Torterra, though you lose the ability to significantly damage most Ground-types. Hidden Power Ice is a final option to maintain coverage on Ground-types while still having decent coverage against Venusaur.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Superpower is the best move to open with, as Milotic, Rhyperior, Donphan, and Steelix are all 2HKOed by Superpower followed by the appropriate special move, while special walls expecting Thunderbolt or a weak Spark are 2HKOed or OHKOed. If you discover that your opponent is using a Ghost- or Psychic-type to wall Superpower, choose Crunch (or Thunderbolt for Spiritomb) next time Luxray is in.</p>
+
+<p>As a wallbreaker, Luxray faces heavy competition from Blaziken, Nidoking, and Magmortar. As such, if you are using Luxray, make sure you are taking advantage of what sets him apart from other wallbreakers. Blaziken generally has a lot more power than Luxray, with STAB on Superpower, higher Special Attack, and Fire Blast as a special move. Luxray's main advantage over Blaziken is his ability to deal with bulky Water- and Flying-types, who often give Blaziken trouble. In comparison to Nidoking, Luxray's main advantage is that he has much higher attacking stats, which allow him to easily defeat Pokemon such as Clefable. Magmortar boasts more power and better type coverage on the special side, but has significantly less physical power. Luxray also has higher defenses than Blaziken, Nidoking, and Magmortar, especially when considering Intimidate, and lacks the Water-type weakness that the three of them share.</p>
+
+<p>The EVs give a nice balance to Luxray's offenses. The Special Attack EVs are enough to always OHKO Slowbro after Stealth Rock damage, while a heavy investment in Attack powers up Superpower as much as possible. The Speed EVs allow Luxray to reach 213, outspeeding every UU wall except for Uxie, who will likely paralyze Luxray with Thunder Wave anyway.</p>
+
+<p>When choosing teammates for Luxray, be sure to include a Ground-type immunity or resist. Flying-types and Pokemon with the ability Levitate can range from bulky Pokemon like Claydol and Altaria to offensive threats such as Mismagius and Moltres. Dugtrio can revenge kill Luxray, so have something such as SubPunch Aggron or a Ground-weak Choice Scarf user who can lure Dugtrio. Luxray also works well with Pokemon who appreciate the removal of certain walls. Arcanine and Moltres enjoy having Luxray take out Water-types and Rhyperior, while special sweepers such as Alakazam appreciate having Registeel and Chansey gone.</p>
+
+[SET]
+name: Choice Band
+move 1: Spark
+move 2: Ice Fang
+move 3: Superpower
+move 4: Crunch
+item: Choice Band
+ability: Intimidate
+nature: Adamant
+evs: 40 HP / 252 Atk / 216 Spe
+
+[SET COMMENTS]
+
+<p>Luxray has a high Attack stat and excellent type coverage, so a Choice Band set can work well. Electric / Ice and Dark / Fighting are well known two-move coverage combinations, and having both together is one of the main draws of this set. Superpower is your most powerful move here, and it helps that Slowbro and Flying-types are not likely to switch in on Luxray for fear of an Electric-type attack. Spark is better than Thunder Fang for physical STAB, as the 30% paralysis rate can really help Luxray with his low Speed stat.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The Speed EVs give Luxray 230 Speed, which is enough to outrun base 95 Pokemon who don't invest in Speed, such as Uxie. Since Luxray isn't going to outspeed many important Pokemon, an Adamant nature is preferable to hit as hard as possible, while a small HP investment helps make use of Intimidate.</p>
+
+<p>Like the other sets, Luxray needs teammates who can switch in on Ground-type attacks. Due to the hit-and-run nature of Choice sets, it is recommended that you include immunities and 4x resists, so that revenge killers do not become too much of a liability. This is standard practice for highly offensive teams, which is where Choice Band Luxray is likely to fit in.</p>
+
+[SET]
+name: Defensive
+move 1: Discharge / Thunderbolt
+move 2: Hidden Power Grass
+move 3: Toxic / Thunder Wave
+move 4: Protect / Roar
+item: Leftovers
+ability: Intimidate
+nature: Bold
+evs: 252 HP / 252 Def / 4 Spe
+
+[SET COMMENTS]
+
+<p>Intimidate is a great ability for Luxray, despite his rather average defensive capabilities. A few useful resistances allow him to take quite a few hits before fainting. When factoring in Intimidate, Luxray is capable of surviving Swords Dance-boosted Bug Bite from Scyther and Stone Edge from Kabutops to hit them back with Discharge. Unfortunately, with the removal of Crobat, Honchkrow, and Staraptor from the UU tier, this set has lost some of its relevance. Still, he makes a decent switch against physical Water-types, Scyther, and Swellow, while keeping the useful Electric-type STAB and acting as a status platform.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Toxic cripples walls, while Discharge has a chance to cripple fast sweepers with paralysis. Thunder Wave is an option over Toxic if you prefer a more reliable way of spreading paralysis. Thunderbolt is an option over Discharge if you are using Thunder Wave, or if you don't want to accidentally paralyze something that you want to poison with Toxic. It also has more power, but against the aforementioned threats, both are equally good. Luxray's support movepool is lackluster, but Protect works nicely with Toxic and helps recover health, while forcing Swellow to take another turn of poison or burn damage if he tries to use U-turn to escape. Roar is nice on any defensive Pokemon, but has poor synergy with Intimidate.</p>
+
+<p>This Luxray set faces competition from Arcanine's defensive set, which works similarly. Arcanine may seem to overshadow Luxray due to the advantages of Morning Sun, Will-O-Wisp, and more powerful attacking choices; however, Luxray's two move coverage, Thunder Wave, and lack of a Stealth Rock weakness allow him to do some things that Arcanine can't. Crucially, Luxray can take on physically based Water-types, while Arcanine cannot.</p>
+
+<p>Again, Luxray needs teammates to take Ground-type attacks. Entry hazards support this set well if you're using Roar, so Cloyster, Omastar, and Qwilfish are good considerations to lay down Spikes, while Stealth Rock users are plentiful. Dugtrio doesn't OHKO this set, but Luxray cannot OHKO him either, so having something to lure and deal with Dugtrio is also very helpful. This set counters physical Water- and Flying-types, so Fire-type sweepers like Ninetales, Houndoom, and Moltres, who fear users of Aqua Jet and being revenge killed by Swellow or Scyther, are ideal teammates. While adding more Pokemon to your team who are liable to getting trapped by Dugtrio may seem like a bad idea, equipping Ninetales or Houndoom with a Shuca Berry or using Sucker Punch on Houndoom can give Luxray the Dugtrio lure he needs.</p>
+
+[SET]
+name: RestTalk
+move 1: Rest
+move 2: Sleep Talk
+move 3: Discharge / Thunderbolt
+move 4: Roar / Hidden Power Grass
+item: Leftovers
+ability: Intimidate
+nature: Bold
+evs: 252 HP / 252 Def / 4 Spe
+
+[SET COMMENTS]
+
+<p>Although Luxray lacks a reliable recovery move such as Recover or Wish, he can utilize the RestTalk combo to recover health and cure status. Luxray's support movepool leaves much to be desired, so he doesn't really mind giving up moveslots for Rest and Sleep Talk. Since Luxray doesn't have room for Toxic or Thunder Wave on this set, Discharge is the primary option for the first move. Roar is useful to prevent threats from setting up on Luxray and works well in conjunction with entry hazards such as Stealth Rock and Spikes. Thanks to Rest and Sleep Talk, Luxray will be able to utilize Roar repeatedly, racking up a lot of entry hazard damage. Hidden Power Grass is still an option to 2HKO Rhyperior and Quagsire, but has little use other than that.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>This set has the potential to function well on a stall team, where its purpose is to cause entry hazard damage with Roar. Once you have eliminated Luxray's counters and any Rapid Spin users, you can pull off a late-game cleanup by utilizing Roar repeatedly, while healing yourself with Rest when necessary. As such, it is recommended that your team be able to use at least two types of entry hazards. Uxie, Claydol, and Torterra deserve a mention because they can set up Stealth Rock and switch in on the Ground-type attacks that Luxray is weak to. Unfortunately, the only UU Spikes user who resists Ground is Cacturne, who is too frail to take more than a couple of resisted hits. However, Cloyster's high Defense lets him take Earthquakes from Donphan and Rhyperior, making him an excellent candidate for an entry hazard-laying teammate. Cloyster is also the only user of Toxic Spikes in UU who isn't either weak to Ground or physically frail.</p>
+
+[Other Options]
+
+<p>Offensively, Quick Attack is an option on mixed or Choice sets to pick off weakened foes, but it is very weak and doesn't hit anything super effectively. The defensive set has some other support options it can run; Light Screen can cushion it on the special side, and it also helps you gain momentum if the opponent sends in a special attacker to deal with Luxray. Magnet Rise can turn the tables on Rhyperior, Registeel, and Dugtrio, but is very situational. Shed Shell is also an option on defensive sets to escape from Dugtrio, but usually should only be used in conjunction with Rest to ensure Luxray has a way to recover HP. Rest can be used on non-Sleep Talk sets to keep Luxray around longer, but only if you have a cleric on your team to wake him up with Heal Bell or Aromatherapy. While Intimidate is usually the ability of choice, Rivalry can be used to gain extra power on offensive sets. Unfortunately, some players run all-female teams to counteract this, which will cause Luxray problems. It is even less reliable on Wi-fi, as the even distribution of sexes will surely cause Luxray to lose power at inopportune times.</p>
+
+[Checks and Counters]
+
+<p>Luxray boasts great type coverage and mixed attacking stats, so not many things can switch in safely. Physically defensive Grass-types can counter any set without Ice Fang (or Choice sets not using Ice Fang) easily. Tangrowth can even avoid a 2HKO from a Choice Banded Ice Fang, making him an effective counter. Regirock can switch in on anything but a Choice Banded Superpower and OHKO Luxray with Earthquake. Nidoqueen can switch in on Thunderbolt or Superpower and threaten Luxray with Earthquake, although she should watch out for Hidden Power Water or Ice Fang. Dugtrio can switch in on Thunderbolt, but must be careful, as a well-played Luxray won't just spam Electric-type attacks. Uxie can take a few hits from Crunch and cripple Luxray with paralysis or Toxic status, or set up dual screens and Stealth Rock.</p>
+
+<p>Luxray's low Speed allows him to be checked by faster Pokemon with a little bit of prediction. Offensive Venusaur can come in on Thunderbolt or Superpower and dispatch of him with Earthquake. Moltres can take any attack that isn't Thunderbolt or Spark and beat Luxray with Fire Blast. Altaria can set up on any set without Ice Fang and KO Luxray with Earthquake.</p>
+
+<p>The defensive set is fairly easy to counter. Venusaur only has to worry about being paralyzed by Discharge, while Chansey and Altaria can pretty much come in for free. Basically, anything that can take weak special attacks and doesn't mind status walks all over him, but must be careful switching in repeatedly with entry hazards up in case Luxray uses Roar.</p>

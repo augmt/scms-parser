@@ -1,0 +1,31 @@
+[Overview]
+
+<p>When people call Ralts one of the weakest Pokemon in Little Cup, such a description is not an overstatement. With pathetic stats, the only role it can accomplish is to sacrifice itself. Even though it has a somewhat large movepool, only some of those moves can actually be utilized in battle before it faints. Luckily, it can learn Destiny Bond, which can take down its opponent with it, and Trick Room, which can help support teams that utilize said field effect. Ralts also has a handy ability, Trace, that can be taken advantage of to copy abilities such as Water Absorb and Volt Absorb, giving it an immunity to some attacks.</p> 
+
+[SET]
+name: Destiny Room
+move 1: Trick Room
+move 2: Memento
+move 3: Destiny Bond 
+move 4: Protect
+item: Focus Sash
+ability: Trace
+nature: Relaxed
+evs: 212 HP / 76 Def / 156 SpD
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>This is the only set that Ralts can successfully accomplish anything with without support from others. When leading with Ralts, Trick Room is the primary move that it should aim for before it faints. After successfully activating Trick Room, Ralts can either choose Memento or Destiny Bond, as it can't do anything else but sacrifice itself. With Memento, Ralts makes opponents completely useless, giving you a free turn as they will likely switch out. Destiny Bond can be used effectively if the opponent uses an attacking move, taking down an important member of the opponent's team while you only have to sacrifice Ralts. Protect avoids the use of Fake Out from the opponent so Focus Sash remains intact, or it can be used to get a glimpse at what set your opponent is using.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Ralts is not able to achieve anything else besides this. The EVs, IVs, and nature ensure that this set can be used effectively. Ralts can't function properly without Focus Sash, so if you're not leading with Ralts, it is recommended that you lead with a Taunt user to prevent entry hazards being set. Trick Room sweepers such as Munchlax, Makuhita, and Clamperl are appropriate teammates to take advantage of Trick Room.</p> 
+
+[Other Options]
+
+<p>As most of Ralts's moves are useless, there is not much else it can accomplish. Eviolite can significantly increase Ralts's defenses, but even one Bug Bite can annihilate it. It is possible to run Hypnosis, but due to its low accuracy, the chances of actually putting the opponent to sleep are slim. Pain Split can also be used, but Destiny Bond is more suitable for Ralts.</p>
+
+[Checks and Counters]
+
+<p>Priority moves can eliminate Ralts before it uses Destiny Bond or Memento. Entry hazards such as Stealth Rock and Spikes render Focus Sash completely useless. The status effects burn and poison also nullify Focus Sash, as do weather starters such as Snover and Hippopotas. Taunt users can ruin everything, forcing Ralts to use Struggle or switch out.</p>

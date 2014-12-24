@@ -1,0 +1,51 @@
+[Overview]
+
+<p>Finneon is, overall, a decent Pokemon with average stats, moves, and typing. It can run a Choice Scarf set, as it has U-turn--a move that most other Water-types do not have access to. It has access to a decent physical and special movepool, as well as a cool ability in Storm Drain, which was buffed since DPP, as it now provides a Special Attack boost whenever it's hit by a Water-type attack. Its other ability, Swift Swim, also makes Finneon a capable user of Rain Dance. Unfortunately, it is mostly outclassed by Chinchou, which has a STAB Volt Switch to work with. All in all, Finneon is an average offensive Pokemon that would've liked a way to stand apart from Chinchou.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Surf
+move 2: U-turn
+move 3: Ice Beam
+move 4: Hidden Power Electric / Hidden Power Grass / Hidden Power Fire
+item: Choice Scarf
+ability: Storm Drain
+nature: Naive
+evs: 44 Atk / 208 SpA / 28 SpD / 228 Spe
+
+[SET COMMENTS]
+
+<p>Despite Finneon's relatively low Special Attack, it still has a decent amount of Speed to work with, giving it the ability to run an efficient Choice Scarf set. Surf is Finneon's best option for a STAB attack, as it is very reliable and is backed up by a good amount of power. U-turn is what makes this set stand out, though, as it is one of the two Water-type Pokemon in Little Cup with access to the move--the other being Wingull. Ice Beam hits Grass-types for massive damage, and will most likely do more than U-turn. The last moveslot is dedicated to Hidden Power. Many options are available, depending on what is the most threatening to the rest of the team. Hidden Power Electric allows Finneon to attain BoltBeam coverage, which is resisted by only a handful of Pokemon in Little Cup. Hidden Power Grass hits Chinchou for solid damage, as well as most other Water-types. Finally, Hidden Power Fire allows Finneon to get a super effective hit on Ferroseed and Snover. Choice Scarf allows Finneon to hit 24 Speed, which ties with Choice Scarf Chinchou. Storm Drain is another trait that Finneon can boast to help it stand out from other Water-types, as it can boost its Special Attack without having to waste a move, as well giving it a great immunity to Water-type attacks.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs are designed to maximize Special Attack and Speed, while adding another point to Attack and Special Defense. However, it should be noted that the EVs in Special Defense should be moved to Attack, Special Attack, and Speed in order to account for the drop in IVs if using Hidden Power Grass or Hidden Power Fire. Good partners for this set are Pokemon which can easily take out Chinchou, which can take most of Finneon's attacks with ease. Examples of Pokemon that are good at sponging Chinchou's attacks are Munchlax and Lileep, as well as Wynaut--a Pokemon which can guarantee a KO with Mirror Coat, given Chinchou doesn't have Volt Switch. Pokemon that can easily KO Munchlax are also helpful, and Fighting-types such as Scraggy and Mienfoo are two of the finest examples. A Grass-type, if Finneon does not have Hidden Power Grass, is also important to take out the uncommon Wooper, which ignores Special Attack boosts thanks to Unaware.</p>
+
+[SET]
+name: Rain Dance
+move 1: Rain Dance
+move 2: Aqua Tail / Waterfall
+move 3: Hidden Power Grass / Ice Beam
+move 4: Return / U-turn
+item: Damp Rock / Life Orb
+ability: Swift Swim
+nature: Naive
+evs: 204 Atk / 48 SpA / 28 SpD / 228 Spe
+
+[SET COMMENTS]
+
+<p>Though this set may seem outclassed by Mantyke, there is one thing that sets Finneon apart from it--its Speed. As it can hit a Speed of over 30 with maximum investment and a positive nature, it does not have to worry about Choice Scarf Voltorb, Elekid, and Diglett. Aqua Tail is a good physical STAB attack that inflicts a decent amount of damage on most threats, but Waterfall is a more accurate option, at the cost of a little attack power. Hidden Power Grass is for other Water-types, namely Chinchou, while Ice Beam hits Grass-types super effectively. Return is a good move to use alongside Water-type attacks, as the combination only loses to Frillish, but U-turn is a valid option in order to switch to another Rain Dance sweeper. Damp Rock is preferred as it extends the duration of Rain Dance, but Life Orb can also be used in order to boost Finneon's attacks.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Bulkier Rain Dance supporters are good teammates, as this set is attempting to perform a sweep. Bronzor and Chinchou are premier supporters, as they are naturally bulky and don't have to run Oran Berry or Eviolite to sponge hits. Pokemon that can remove auto-weather Pokemon such as Snover and Hippopotas are good counters. Bronzor is once again a solid partner since it can take out Snover with Flash Cannon, while Hippopotas loses to Mantyke or Finneon itself.</p>
+
+[Other Options]
+
+<p>Finneon has quite a lot of other support moves; Safeguard is a nice move that prevents the other team from inflicting status for five turns, which is good for offensive teams that despise burn and paralysis. Aqua Ring gives Finneon a way to recover health outside of Oran Berry and Leftovers, but it isn't bulky enough to use the move efficiently. Scald is another option, offering a neat chance of inflicting a burn on other Pokemon, while still getting STAB. Icy Wind is a good option to lower an opponent's Speed, potentially ruining the sweep of a Pokemon such as Elekid, which relies on its Speed. Agility is another option for Finneon to boost its Speed, and it can still run Hidden Power Fire for Ferroseed. The combination of Soak and Toxic is good for finding another way to cripple Ferroseed.</p>
+
+<p>Finneon also has quite a few other attacking options as well. Bounce offers a nice 30% paralysis chance, although Ice Beam is a stronger move, and Bounce can be played around without difficulty. Payback is an option for Ghost-types, and is great for Frillish, which is immune to Water- and Normal-type attacks. Hidden Power Ground is an option for hitting Chinchou and Croagunk, but Hidden Power Grass is generally a better attack than Hidden Power Ground.</p>
+
+[Checks and Counters]
+
+<p>Finneon is actually quite difficult to beat because it can switch out with U-turn. However, there are a lot of Pokemon that can get an OHKO on it. Chinchou resists Water-type attacks and can KO with Thunderbolt. The Choice Scarf set is easily beaten by Wynaut unless Finneon uses U-turn, but if it doesn't, getting a KO is elementary. The Rain Dance set loses to Choice Scarf Snover with Giga Drain, while Ferroseed beats it with Seed Bomb or Bullet Seed.</p>

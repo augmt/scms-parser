@@ -1,0 +1,54 @@
+Overview
+########
+
+Weezing is one of RU's most effective physical walls. Great physical bulk in tandem with its Poison typing, which gives it key resistances to Bug-, Fighting-, and Grass-type attacks, allows it to counter many top-tier threats such as Durant, Hitmonlee, and Swords Dance Virizion. It is also able to switch into Ground-types such as Gligar and Rhyperior thanks to Levitate, which grants immunity to Spikes and removes one of its two weaknesses. Weezing is then able to make use of its broad movepool that includes support options such as Will-O-Wisp, Toxic Spikes, as well as a variety of special attacks such as Sludge Bomb and Flamethrower.
+
+However, Weezing lacks reliable recovery aside from Black Sludge and the unreliable Pain Split, making it extremely susceptible to being worn down. In addition, its special bulk is fairly lackluster, with its sole weakness being preyed upon by the tier's omnipresent Psychic-types. Overall, despite these shortcomings, Weezing can make a very viable addition to stall teams when given the support of other walls.
+
+Physically Defensive
+########
+name: Physically Defensive
+move 1: Toxic Spikes
+move 2: Will-O-Wisp
+move 3: Sludge Bomb / Flamethrower
+move 4: Pain Split / Protect / Flamethrower
+ability: Levitate
+item: Black Sludge
+evs: 252 HP / 252 Def / 4 SpD
+nature: Bold
+
+Moves
+========
+
+Toxic Spikes provides essential team support. Thanks to its bulk and typing, Weezing is almost always able to set them up at least once, and even twice, as it can easily switch into Hitmonlee and Gligar, two of the most common hazard removers in the tier. Will-O-Wisp lets Weezing cripple physical attackers and spreads residual damage to many of its common switch-ins. Sludge Bomb gives Weezing a strong STAB option with a decent chance to inflict poison; it's also Weezing's best option against Grass-types such as Virizion and Shiftry. Flamethrower roasts many of the Steel-types that are immune to Sludge Bomb and Toxic Spikes, such as Doublade and Durant. Pain Split can provide recovery but it is often unreliable, especially later in on the game. Protect can be used instead to accumulate Black Sludge recovery and scout for Choiced-locked moves while also increasing residual damage.
+
+Set Details
+========
+
+The provided EVs give maximum physical bulk to allow Weezing to hold up against physical onslaughts, as its typing grants resistances to types more commonly used as physical attacks. The only special attack that Weezing is meant to take is Aromatisse's Moonblast, which tends to be uninvested and weaker than most other special hits Weezing might have to take.
+
+Usage Tips
+========
+
+While Toxic Spikes provides good utility, putting down the second layer of Toxic Spikes is not worth it unless you face something that is annoying to wear down late-game, such as Alomomola or Calm Mind Slowking. Make sure to be careful of your usage of two different status effects, as putting down Toxic Spikes can prevent you from burning physical threats. In addition, Will-O-Wisp should be used sparingly when Fire-types are around, as they are immune to burn status.
+
+Team Options
+========
+
+Assault Vest Slowking is one of Weezing's best partners, as it easily walls most of the tier's special attackers, and phazes them out for extra hazard damage. Rock- and Steel-types such as Rhyperior and Registeel can set up Stealth Rock and handle Exploud, while Weezing can wall Hitmonlee and Gligar, which annoys both of them. Defensive Dark-types pair well with Weezing to help keep Psychic-types at bay. Drapion and Skuntank can provide the Toxic Spikes absorption that Weezing lacks while Spiritomb can spinblock and has Infiltrator to alleviate Weezing's inability to deal with Substitute users. Finally, defensive Psychic-types such as Meloetta and Cresselia also cover Weezing's one weakness, although Knock Off users can be a problem.
+
+Other Options
+########
+
+Sludge Wave can be used as a stronger STAB move, but fails to provide any notable 2HKOs and is much less likely to induce poison. Thunderbolt also stands out as a good special attack to use, but doesn't hit any common targets that Weezing faces. Rest works well in conjunction with Sleep Talk to give Weezing reliable recovery, but severely infringes upon Weezing's moveset, making it unable to provide its full arsenal of team support. Specially defensive sets can be used as a decent mixed wall but they fail to wall any notable threats. Clear Smog also works to reset set-up opportunities, but has an incredibly low Base Power and does not work on Steel-types or Substitute users.
+
+Checks & Counters
+########
+
+**Special attackers**: Most special attackers easily 2HKO or OHKO Weezing, with some of them being immune to burn status as well. Examples include Moltres, Reuniclus, Delphox, Clawitzer, and Meloetta.
+
+**Taunt**: Taunt users such as Drapion can shut down Weezing's burning shenanigans, leaving it unable to do anything notable in return.
+
+**Substitute**: Due to Will-O-Wisp being blocked by Substitutes, Weezing is unable to deal with common Substitute users such as Meloetta, Cresselia, and Braviary.
+
+**Knock Off**: Knock Off exacerbates Weezing's lack of reliable recovery, which allows common users of the move such as Gligar and Shiftry to cripple Weezing.

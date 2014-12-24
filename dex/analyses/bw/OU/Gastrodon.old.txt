@@ -1,0 +1,68 @@
+[Overview]
+
+<p>With the huge presence of Water-type Pokemon and rain teams in OU, Gastrodon stands out as being one of the most reliable counters to them in the entire metagame. Its ability, Storm Drain, not only makes Gastrodon immune to Water-type moves, but also grants it a Special Attack boost every time it is hit by a Water-type attack. On top of that, Gastrodon's fantastic defensive typing gives it four resistances, an immunity to Electric-type moves, and only one weakness--Grass. It even has access to reliable recovery in the form of Recover. The combination of all these useful attributes makes Gastrodon a good pick for rain, sandstorm, and weatherless teams alike because of its ability to completely wall common Pokemon such as Politoed, Rotom-W, Keldeo, and Starmie, while also checking Thundurus-T.</p>
+
+<p>Although Gastrodon has the qualities of a great defensive Pokemon, it's by no means perfect. Grass-types such as Ferrothorn, Celebi, and Breloom are certainly not uncommon, and they all threaten to KO Gastrodon with their respective Grass-type STAB. Gastrodon is also extremely slow, and is thus forced to rely on its bulk more than it wants to in order to stay alive. Nevertheless, Gastrodon's useful attributes make it one of the best defensive counters to rain teams in the metagame.</p>
+
+[SET]
+name: Physically Defensive
+move 1: Earthquake / Earth Power
+move 2: Scald
+move 3: Toxic / Ice Beam
+move 4: Recover
+item: Leftovers
+nature: Relaxed / Bold
+ability: Storm Drain
+EVs: 252 HP / 252 Def / 4 SpD
+
+[SET COMMENTS]
+
+<p>This set aims to patch up Gastrodon's lackluster Defense stat so that it can take on physical attackers more efficiently. Because of its ability to stop a majority of rain teams in their tracks, defensive Gastrodon fits well on teams that have a weakness to common rain threats such as Starmie, Keldeo, and Thundurus-T. It should be noted that with full investment in Defense, Gastrodon is capable of avoiding the 2HKO from Choice Specs Keldeo's Secret Sword, which is quite a feat. It can also avoid the 2HKO from Choice Band Tyranitar's Crunch and Garchomp's Outrage, and then disposes of them the following turn. Earthquake is the primary Ground-type move of choice for a number of reasons. It deals more consistent damage to the likes of Jirachi, while also keeping the Calm Mind variants from setting up on Gastrodon. Earthquake is also useful for its ability to always 3HKO every variant of Tyranitar, a Pokemon that Gastrodon will commonly be walling. Earth Power is still an option, as it has the advantage of benefiting from Storm Drain's Special Attack boost. Scald is a staple on any bulky Water-type, and Gastrodon is no exception. The chance to burn physical attackers such as Kyurem-B and Tyranitar is just too hard to pass up, as it makes Gastrodon much harder to break. Toxic is a very useful utility move to cripple opposing bulky Water-types, such as Jellicent and opposing Gastrodon, that would normally wall Gastrodon with ease, while also keeping sweepers from potentially setting up on it. Ice Beam on the other hand gives Gastrodon much-needed coverage against Dragon-types that it will often go up against, such as Salamence, Dragonite, and Garchomp. Recover is obligatory, because without it, Gastrodon wouldn't last very long at all.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Because of Gastrodon's decent mixed bulk, it can be EVed in many different ways depending on what you want it to wall. 252 HP / 84 Def / 172 SpD with a Calm nature is a more specially defensive spread that can better handle special attackers such as Latios, while still retaining some physical bulk for Terrakion and Keldeo. Although a full-blown specially defensive set seems tempting to better handle Choice Specs Latios, it's not recommended, because Gastrodon is otherwise very susceptible to being 2HKOed by Keldeo, Tyranitar, and Terrakion.</p>
+
+<p>Incidentally, some of the best teammates for Gastrodon are Grass-types. Ferrothorn, Celebi, and Breloom can all switch into Grass-type attacks with relative ease and set up on them. Breloom has the advantage of being able to beat Ferrothorn, one of the greatest roadblocks to Gastrodon. To maximize Gastrodon's walling capabilities, a Rapid Spinner is recommended, because it is very susceptible to entry hazards such as Spikes and Toxic Spikes. Tentacruel is probably the best spinner for the job, as it can absorb Toxic Spikes, spin away hazards, and switch into the move Toxic itself. Steel-types such as Scizor and Heatran can easily switch into Grass-types and threaten them with a STAB U-turn or Fire Blast, respectively. Calm Mind Latias and Jirachi can set up on pretty much any Grass-type in the tier that threatens Gastrodon.</p>
+
+[SET]
+name: Special Attacker
+move 1: Surf
+move 2: Earth Power
+move 3: Ice Beam
+move 4: Recover
+item: Wise Glasses / Mystic Water
+nature: Modest
+ability: Storm Drain
+EVs: 172 HP / 84 Def / 252 SpA
+
+[SET COMMENTS]
+
+<p>This set takes full advantage of Storm Drain to pose as a surprisingly effective offensive threat. The goal of this set is simple; switch into a Water-type attack so that Gastrodon can receive a Special Attack boost and proceed to spam coverage moves to bust holes into the opposing team. One advantage that this set has over the defensive set is the sheer surprise factor. Most players don't expect to see an offensive Gastrodon, so they often let their guard down, which can lead to unexpected OHKOs and 2HKOs. Although offensive Gastrodon can effectively run a number of different items to varying success, the two listed above have been proven to be the most effective.</p>
+
+<p>Surf is the most powerful Water-type STAB move that Gastrodon can learn. A rain-boosted +1 Surf can 2HKO Keldeo, despite it resisting the attack. Here are some calculations showcasing Surf's surprising power, assuming a +1 Special Attack boost, rainy weather, and Mystic Water as Gastrodon's held item:</p>
+<ul="damage_calculation">
+<li>Surf vs. 4/0 Breloom: 275-324 (104.96 - 123.66%) -- guaranteed OHKO</li>
+<li>Surf vs. 0/4 Keldeo: 197-232 (60.99 - 71.82%) -- guaranteed 2HKO</li>
+<li>Surf vs. 56/0 Kyurem-B: 198-234 (48.88 - 57.77%) -- guaranteed 2HKO after Stealth Rock</li>
+<li>Surf vs. 252/0 Politoed: 182-214 (47.39 - 55.72%) -- guaranteed 2HKO after Stealth Rock</li>
+<li>Surf vs. 72/0 Latias: 144-171 (45.14 - 53.6%) -- guaranteed 2HKO after Stealth Rock</li>
+</ul>
+
+<p>Earth Power gives Gastrodon STAB Ground-type coverage against the likes of Tentacruel, Toxicroak, and Jellicent, which all resist or are immune to its Water-type STAB. Moreover, a +1 Earth Power has a slight chance of 2HKOing Ferrothorn after Stealth Rock, which can prevent it from freely switching into Gastrodon. Ice Beam gives this set near-perfect coverage by hitting Grass-types such as Celebi on the switch and Dragon-types such as Salamence and Latios harder then anything else. Recover is once again heavily stressed because it greatly improves Gastrodon's longevity and makes it a more efficient attacker. Due to its very low Speed stat, Gastrodon will oftentimes be taking a hit before dealing one, so Recover is all the more important.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given EV spread gives Gastrodon as much power as possible while also giving it enough bulk to avoid the 2HKO from Choice Scarf Keldeo's Secret Sword. Although offensive Gastrodon can effectively run a number of different items to varying success, the two listed above have been proven to be the most effective. Wise Glasses give a 10% boost to all of Gastrodon's attacking moves, while Mystic Water boosts its Water-type attacks by 20%. Leftovers is probably the most viable of all the other options, as it gives Gastrodon a constant source of recovery while also potentially bluffing a defensive set. However, Gastrodon is relatively weak without any kind of boosting item, so the loss of power will be noticeable. A Life Orb can be used if Wise Glasses aren't powerful enough for you, but Gastrodon hates taking extra damage from recoil. If you do choose to run Life Orb, make sure to use an EV spread of 104 HP / 152 Def / 252 SpA to still avoid the 2HKO from Scarf Keldeo's Secret Sword and to also hit a Life Orb number to minimize recoil. A Choice Specs set can be used for more instant power and the ability to 2HKO even Blissey and Ferrothorn with +1 Surf in the rain. The biggest problem with Choice Specs, however, is that Gastrodon really doesn't like being locked into one move; it likes prefers the freedom of switching moves, as well as the ability to use Recover reliably. When running Choice Specs, Hidden Power Grass should be used over Recover to hit Rotom-W, Jellicent, Politoed, and other Gastrodon harder then anything else. Scald can be used over Surf for a chance to burn physical attackers, but the power drop is noticeable. Rain Dance can be used in the fourth slot for a last-ditch effort to win the weather war, but the loss of reliable recovery is usually not worth it. If outspeeding Chansey is important, a spread of 160 HP / 252 SpA / 96 Spe can be used, but Gastrodon becomes more susceptible to being 2HKOed by Keldeo's Secret Sword.</p>
+
+<p>When choosing teammates for offensive Gastrodon, you should always first consider Politoed, as Surf loses out on so much power that you really shouldn't be using offensive Gastrodon without Politoed anyway. Ferrothorn is once again a recommended partner because it can tank powerful attacks that threaten Gastrodon while also absorbing Toxic and resisting Grass-type moves. Ferrothorn can also provide Gastrodon with entry hazard support, which can make it all the more threatening. Toxicroak pairs well with Gastrodon because it can set up on Breloom, Ferrothorn, and Celebi that lack Psychic, while Tornadus can bust through Jellicent and Celebi with Hurricane for Gastrodon.</p>
+
+[Other Options]
+
+<p>As Gastrodon is such a niche Pokemon in OU, there aren't too many other viable options over in moves already listed above. Yawn seems like a decent move to force switches and potentially put something to sleep, but Toxic is much better overall because of its ability to cripple opposing walls. Clear Smog is another option to keep sweepers from setting up on Gastrodon, but Toxic is yet again preferred, as Clear Smog's does little damage anyway. Memento can be used to heavily weaken the opposing Pokemon and allow a teammate to potentially set up on it, but Gastrodon is too slow to use it effectively. Counter and Mirror Coat are gimmicky strategies that are very hard to fit onto its defensive set, but they can work with proper prediction. Stockpile might seem like an interesting move to make Gastrodon really hard to KO, but it doesn't really accomplish anything outside of pointless stalling, and Gastrodon can just be phazed out anyway. Sand Force can make Gastrodon's Earth Power and Earthquake very powerful in the sand, but Gastrodon has to forgo its best and only niche in countering rain teams, which is one of the only reasons to use it in the first place.</p>
+
+[Checks and Counters]
+
+<p>Although Gastrodon's defensive typing, Storm Drain ability, and access to Recover might make it seem nearly unbreakable, there are many Pokemon that can take it on. Any Grass-type Pokemon with a STAB Grass-type move can prey on its 4x weakness and easily OHKO pretty much any variant of Gastrodon, as it is 4x weak to it. Ferrothorn, Roserade, and Celebi are some of the best defensive counters to Gastrodon in the game, while Breloom and Venusaur are two of its best checks. Ferrothorn and Roserade can even set up Spikes all over Gastrodon, as they fear nothing from it. Offensive variants of Gastrodon can be somewhat difficult to switch into, especially when it's in the rain and has nabbed a +1 Special Attack boost. Specially defensive Celebi is probably one of the most reliable counters to it because it's never OHKOed by Ice Beam and can threaten Gastrodon the following turn with Giga Drain. With some investment in Special Defense, Ferrothorn is a solid counter to the offensive set, as it can avoid the 2HKO from any move. It must be wary of Scald from the defensive set though, as which can burn Ferrothorn. Special walls with access to Natural Cure or Heal Bell can easily wall any variant of Gastrodon, even if it carries Toxic. Anything with Toxic, such as Blissey, Chansey, and Jellicent, can heavily cripple Gastrodon, because it depends so much on its bulk and recovery to stay alive.</p>
+
+<p>Thundurus-T, one of the common Pokemon Gastrodon is commonly called on to check, can easily lure and KO it with Grass Knot. Even though Gastrodon's defensive set is designed to wall them, it still fears powerful physical and special attackers. Choice Specs Latios threatens to OHKO physically defensive Gastrodon with Draco Meteor, while Choice Band Kyurem-B and Dragonite can easily 2HKO it with Outrage. SubCM Latias can easily set up on defensive Gastrodon, even it if has Ice Beam. Calm Mind Jirachi can also set up on defensive Gastrodon if it's running Earth Power over Earthquake.</p>

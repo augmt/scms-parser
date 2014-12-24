@@ -1,0 +1,40 @@
+[Overview]
+
+<p>Raticate has been the butt of many a joke over the years. While in some respects these jokes are true, Raticate is anything but a joke on the battlefield in DPP. With its ability, Guts, Raticate's Attack can reach sky-high levels; couple that with Raticate's naturally high Speed, and one has quite the potent sweeper. Raticate's only downfalls are its low defenses, its limited usable movepool, and the fact that it has some major competition from fellow Guts abusers such as Ursaring, Swellow, and Hariyama. Don't let the stigma of the beginner's rodent blind you to the fact that Raticate is very capable of sweeping teams with the right support.</p>
+
+[SET]
+name: Guts
+move 1: Facade
+move 2: Sucker Punch / Crunch
+move 3: U-turn / Reversal
+move 4: Protect / Swords Dance
+item: Flame Orb / Toxic Orb
+ability: Guts
+nature: Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Depending on how one wants to use Raticate's Guts-boosted power, with this set, Raticate can be played in two ways: as either a scout or a late-game sweeper. If played as a scout, Raticate should come in during early-game on something it forces out, such as Chansey, and activate its ability. When the opponent reveals their Raticate counter, Raticate should use U-turn to switch to the appropriate teammate and keep momentum on your side of the battle. Facade is the STAB move of choice because after the Flame or Toxic Orb has been activated, its Base Power reaches 210 (with STAB factored in). To demonstrate Facade's power, Raticate is able to 2HKO Milotic and OHKO Chansey after Stealth Rock with a Guts boost under its belt. Sucker Punch is the recommended choice for the second slot as it allows Raticate to deal good damage to Pokemon that are faster than it, such as Sceptile, Alakazam, and Mismagius. Crunch can be used in place of Sucker Punch since it is Raticate's strongest and most reliable move against Rotom and Spiritomb.</p>
+
+<p>If using Raticate as a late-game sweeper, Reversal can be used in U-turn's spot to hit Rhyperior and Registeel for super effective damage once Raticate's health has been diminished sufficiently through poison or burn damage. Finally, Swords Dance can be used in the last slot over Protect to provide Raticate with the power to OHKO the majority of the UU metagame that doesn't resist Facade. However, Protect is the recommended choice to allow Raticate to safely activate its Orb of choice and scout the opponent's next move.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The choice between Toxic Orb and Flame Orb is rather arbitrary in Raticate's case. Flame Orb is more appealing if you plan on keeping Raticate on the battlefield for an extended period of time; Toxic Orb is the more attractive option if you plan on keeping Raticate in for less than three turns, as after that, the damage from Toxic Orb will outweigh the damage from Flame Orb. Thanks to Raticate's ability, Guts, it is not affected by the Attack drop normally induced by the burn from its Flame Orb, so either option is a safe bet.</p>
+
+<p>Jolly is the required nature as it allows Raticate to outspeed base 95s and below such as Houndoom and Rotom. Pursuit can be used in place of Crunch or Sucker Punch, but odds are that most Pokemon will not be immediately threatened by Raticate and won't switch out, so the reliability of the other moves is preferred. Grass Knot can be used to 2HKO Omastar, Kabutops, and Rhyperior, but other than that, offers little coverage and damage output. Super Fang can be used in the last slot to strip Registeel, Weezing, Rhyperior, and Regirock switch-ins of half their health, but then Raticate is forced to simply U-turn out afterward.</p>
+
+<p>Raticate is utterly walled by Rock- and Steel-types, so providing it with good teammates to eliminate them is recommended. Dugtrio and Hitmontop are prime examples of such teammates; Dugtrio is able to trap its victims, such as Registeel, and cleanly dispose of them with Earthquake, while Hitmontop can buffer any physical attacks with Intimidate and proceed to unleash STAB Close Combats on the opposing Pokemon. Raticate is also stopped cold by physically defensive Weezing. Claydol is an excellent teammate to scare out Weezing with STAB Psychic, while also providing Stealth Rock or Rapid Spin support. Ghost-types such as Mismagius and Spiritomb are valuable teammates as they are immune to Fighting-type attacks that Raticate will likely encounter. Finally, Registeel makes a great partner as it can switch into a multitude of faster threats, such as Sceptile, Swellow, Scyther, Manectric, and Mismagius, and paralyze them with Thunder Wave. Registeel can also provide useful Stealth Rock support.</p>
+
+[Other Options]
+
+<p>Other STAB moves in Raticate's repertoire include Return, Double-Edge, Quick Attack, and Last Resort. Return and Double-Edge are left out in favor of Facade's higher Base Power after the Toxic or Flame Orb has been activated. Quick Attack is Raticate's other available priority move, though Raticate needs as much type coverage as it can get, and the coverage provided by the priority Sucker Punch is just too good to pass up. Last Resort has a high Base Power, but it is unreliable and highly situational. Raticate's only other notable physical coverage moves are Flame Wheel and Zen Headbutt. Flame Wheel is Raticate's strongest attack on Registeel if Reversal is not at full power, but other than that, is utterly useless. Zen Headbutt can be used to hit Weezing super effectively and provide flinch hax, but Raticate has much more reliable moves available to it.</p>
+
+<p>Thunder Wave is an interesting choice for the last slot in the Guts set to paralyze faster threats on the switch. However, it is hard to use because most Raticate switch-ins are Rock-, Ground-, and Steel-types, most of which don't mind the paralysis. Taunt can be used as well to prevent Pokemon such as Rhyperior or Aggron from using Rock Polish in an attempt to sweep. While useful, it is very risky, as one false prediction would lead to Raticate's quick demise. Screech is another way in which Raticate can cause more switches and rack up more residual damage from Stealth Rock and Spikes.</p>
+
+<p>Finally, Raticate is capable of pulling off the infamous F.E.A.R. set. The acronym stands for Focus Sash, Endeavor, (Quick) Attack, Raticate (Rattata / Rodent). The idea is to allow the opponent to activate Raticate's Focus Sash and attack on the same turn with Endeavor, bringing the opponent down to 1 HP. On the next turn, Raticate is free to pick off the opponent with Quick Attack. The strategy is very difficult to accomplish due to the prevalence of Stealth Rock, which effectively renders Focus Sash useless, and Raticate being required to be slower than the opponent, diminishing one of Raticate's better qualities.</p>
+
+[Checks and Counters]
+
+<p>Rock- and Steel-types such as Registeel, Rhyperior, and Steelix are the biggest obstacles that stand between Raticate and a clean sweep. Weezing is another hard stop to any sweep that Raticate may attempt. Tangrowth and Leafeon take a large chunk of damage from Facade, but it's not enough to severely threaten them; in return, they can dispose of Raticate with Power Whip or Leaf Blade, respectively. Slowbro makes a good check to non-Swords Dance Raticate since it can take most of Raticate's attacks relatively well, heal off any damage with Slack Off, and remove Raticate with Surf. Physically defensive Spiritomb is another Pokemon that can stop Raticate in its tracks, removing it with Pursuit or Sucker Punch. Additionally, defensive Fighting-types such as Hitmontop and Hariyama can survive Raticate's assaults and hit it for super effective damage with their STAB attacks. Finally, Hitmonlee, Primeape, and Blaziken holding a Choice Scarf can get the jump on Raticate and eliminate it; however, all three are easily OHKOed by Raticate's boosted Facade should they attempt to switch into it.</p>

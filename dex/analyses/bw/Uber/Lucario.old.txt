@@ -1,0 +1,69 @@
+[Overview]
+
+<p>Although Lucario's base 110 Attack might seem subpar in Ubers, it would be a grave mistake to underestimate the capability of this little jackal. Armed with a fantastic Fighting / Steel typing, which gives it a key resistance to Dragon-type attacks, as well as a 4x resistance to Stealth Rock and Dark-type attacks, Lucario can punch holes into unprepared teams with its STAB Close Combat after a Swords Dance. As Fighting-type moves have great neutral coverage in Ubers, it is extremely hard to switch into Lucario after a Swords Dance. Extreme Speed is the icing on the cake and allows Lucario to take down weakened faster Pokemon such as Darkrai and Palkia. However, Lucario comes with its fair share of problems. Its base 90 Speed falls just short of Rayquaza and forces it to tie with Dialga, Reshiram, and other base 90 Speed Ubers. Lucario is also incredibly frail and will not survive more than two hits, even resisted ones. To add to its woes, both Rayquaza and Normal Arceus give Lucario competition for a team slot with their superior offensive stats and Speed. However, this should not discourage you from using Lucario, because with proper team support, Lucario can smash teams with its powerful Close Combat.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Close Combat 
+move 3: Extreme Speed
+move 4: Crunch
+item: Life Orb
+ability: Justified
+nature: Adamant / Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Lucario might be one of the best sweepers in the OU tier, but it certainly has not failed to leave its paw print in Ubers. Boasting access to that incredible Fighting-type STAB Close Combat, Lucario strikes fear into the heart of commonly used Uber Pokemon with its Swords Dance set. After a boost, Lucario reaches an impressive 700 Attack if using an Adamant nature. Both Swords Dance Arceus and Rayquaza give Lucario competition for a teamslot, but the little jackal has quite a few advantages over the two of them. Firstly, its STAB Close Combat is near unresisted in the Uber tier. With Dragon-type moves being fired from every direction, Steel-types are extremely common, which significantly benefits Lucario. Lucario itself is also a Steel-type, boasting a key resistance to Dragon-type moves, and being immune to Toxic Spikes and 4x resistant to Stealth Rock, allowing it to flit in and out of battle. Also, common physical walls such as Skarmory and Groudon fail to wall Lucario as both stand a chance of being OHKOed with entry hazard support.</p>
+
+<p>Lucario's Close Combat packs an obscene amount of power after a single Swords Dance. Anything daring to switch in without Ghost typing is in for some serious pain. Even support Groudon is easily 2HKOed by an Adamant +2 Close Combat and stands a chance of being OHKOed factoring in three layers of Spikes. Extreme Speed is a boon for a sweeper such as Lucario, who barely misses out on outspeeding certain key Pokemon. For example, a +2 Adamant Extreme Speed OHKOes Hasty Palkia, Mewtwo, Darkrai, offensive Kyogre, Rayquaza, and Shaymin-S factoring in Stealth Rock and a layer of Spikes. Crunch allows Lucario to deal with Giratina-O and can OHKO, assuming Giratina-O does not invest much in HP or Defense, and has taken Stealth Rock damage. Crunch also has a chance of OHKOing Lugia after factoring in Stealth Rock damage.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The choice of nature depends on the classic debate of power against Speed. With a Jolly nature, Lucario is able to outspeed Naive Hidden Power Fire Giratina-O, while Adamant allows Lucario to grab certain key OHKOs, and with the drop in use of maximum Speed Giratina-O, it is usually the preferred nature. However, a list of damage calculations has been given below so you can weigh up the advantages and disadvantages of using Adamant over Jolly. All calculations assume Lucario has already bagged a Swords Dance:</p>
+
+<ul class="damage_calculation">
+<li>Jolly Close Combat vs. 112/8 Groudon 91.3% - 107.6%</li>
+<li>Jolly Close Combat vs. 252/252+ Groudon 63.4% - 75%</li>
+<li>Jolly Extreme Speed vs. 4/0 Darkrai 78.3% - 92.2%</li>
+<li>Jolly Extreme Speed vs. 4/0 Mewtwo 62.4% - 73.4%</li>
+<li>Jolly Extreme Speed vs. 4/0 Palkia 62.4% - 73.6%</li>
+<li>Jolly Extreme Speed vs. 4/0- Palkia 70.1% - 82.6%</li>
+<li>Jolly Extreme Speed vs. 4/0 Kyogre 64.6% - 76%</li>
+<li>Jolly Extreme Speed vs. 0/4 Rayquaza 62.4% - 73.5%</li>
+<li>Jolly Extreme Speed vs. 4/0 Shaymin-S 74.6% - 88%</li>
+<li>Jolly Extreme Speed vs. 4/0 Reshiram 58.9% - 69.5%</li>
+<li>Jolly Extreme Speed vs. 4/0 Zekrom 50.6% - 59.6%</li>
+<li>Jolly Crunch vs. 28/252+ Wobbuffet 76.1% - 89.8%</li>
+<li>Jolly Crunch vs. 0/0 Giratina-O 91.2% - 107.5%</li>
+<li>Jolly Crunch vs. 212/76 Giratina-O 75.7% - 89.5%</li>
+<li>Adamant Close Combat vs. 112/8 Groudon 99.5% - 117.3%</li>
+<li>Adamant Close Combat vs. 252/252+ Groudon 69.8% - 82.4%</li>
+<li>Adamant Extreme Speed vs. 4/0 Darkrai 85.4% - 100.7%</li>
+<li>Adamant Extreme Speed vs. 4/0 Mewtwo 68.1% - 80.2%</li>
+<li>Adamant Extreme Speed vs. 4/0 Palkia 68.6% - 81.1%</li>
+<li>Adamant Extreme Speed vs. Hasty 4/0 Palkia 76.3% - 90%</li>
+<li>Adamant Extreme Speed vs. 4/0 Kyogre 70.5% - 83%</li>
+<li>Adamant Extreme Speed vs. 0/4 Rayquaza 68.4% - 80.6%</li>
+<li>Adamant Extreme Speed vs. 4/0 Shaymin-S 81.9% - 96.5%</li>
+<li>Adamant Extreme Speed vs. 4/0 Reshiram 64.8% - 76.5%</li>
+<li>Adamant Extreme Speed vs. 4/0 Zekrom 55.3% - 65.2%</li>
+<li>Adamant Crunch vs. 28/252+ Wobbuffet 83.7% - 98.9%</li>
+<li>Adamant Crunch vs. 0/0 Giratina-O 100.2% - 118.4%</li>
+<li>Adamant Crunch vs. 212/76 Giratina-O 82.6% - 97.6%</li>
+</ul>
+
+<p>Lucario can use Ice Punch for Rayquaza, Garchomp, and Lugia, but Extreme Speed and Crunch are far better offensive options. High Jump Kick can be used for even more power. It has 10 more Base Power than Close Combat but is liable to miss, which would cause Lucario to take 50% damage. It can also easily be played around if the opponent has a Ghost-type such as Ghost Arceus or Giratina-O. Bullet Punch can be used over Extreme Speed for the STAB, but it is still weaker than Extreme Speed. Entry hazard support is crucial for Lucario to net certain key OHKOs. For example, Rayquaza, Palkia, Darkrai, Mewtwo, and Shaymin are only OHKOed by a +2 Extreme Speed factoring in Stealth Rock and a layer of Spikes. Even support Groudon stands a chance of being OHKOed by a +2 Close Combat after three layers of Spikes. Forretress and Ferrothorn can set up Spikes reliably and have good synergy with Lucario. Both can set up on common Choice Scarf users that snipe down Lucario, such as Palkia and Zekrom.</p>
+
+<p>Wobbuffet also makes a good partner because it can take down the aforementioned Choice Scarf users with Counter or Mirror Coat. It can also use Encore, letting Lucario switch in and get a free Swords Dance. Lucario also pairs up well with most Dragon-types, such as Dialga and Palkia, who love having Steel-types such as Ferrothorn removed so they can plow through the opponent's team. Lucario is a veteran at removing Steel-types and any pink blob with its powerful STAB Close Combat. It enjoys paralysis support from the likes of Kyogre, who baits in the commonly used Choice Scarf Palkia. The rain also negates Lucario's Fire-type weakness. Choice Scarf Garchomp can switch into the Fire-type moves aimed at Lucario by the likes of Rayquaza and Reshiram and threaten with a powerful Dragon Claw or Earthquake.</p>
+
+[Other Options]
+
+<p>Lucario gets a wonderful mixed movepool and does have quite a few additional options. A Nasty Plot set is always usable with Lucario's base 115 Special Attack stat, as well as STAB Aura Sphere and Dark Pulse for perfect coverage. However, most Pokemon in Ubers have high Special Defense and Lucario does not hit hard enough to break through them. An Agility set is also viable as it removes Lucario's speed woes, but Lucario sorely misses the sheer power of a Swords Dance boost. Stone Edge can be used to hit Ho-Oh and Lugia, but is otherwise an inferior option compared to Crunch. Blaze Kick can be used in conjunction with sun support from Groudon, but it is unreliable due to its poor accuracy, and also leaves Lucario at the mercy of Giratina-O.</p>
+
+[Checks and Counters]
+
+<p>Although Lucario is incredibly hard to wall, the premier physical walls of Ubers can still put a stop to it. Defensive Groudon can stomach a +2 Close Combat even after entry hazards, and can OHKO in return with Earthquake. Giratina can take a boosted Crunch easily and burn Lucario with Will-O-Wisp. Bold Lugia with 180 Defense EVs can survive a +2 Crunch factoring in Stealth Rock and can then phaze out Lucario with Whirlwind. Timid Lugia running enough Speed EVs can set up a Reflect before Lucario can Crunch, and then phaze it away with ease.</p>
+
+<p>Rather than simply walling Lucario, it is also possible to revenge kill it with bulkier Ubers such as Garchomp. Choice Scarf Garchomp can switch in on Swords Dance, take a boosted Extreme Speed and OHKO back with Earthquake. Mewtwo has enough bulk to take an Extreme Speed even after Spikes and Stealth Rock while OHKOing back with Aura Sphere. Rayquaza can check Lucario, but will usually faint after a +2 Extreme Speed and Life Orb recoil. Ground Arceus and Fighting Arceus both outpace Lucario and can OHKO with Judgment while surviving +2 Extreme Speed. Ghost Arceus is immune to Extreme Speed and can OHKO Lucario with Focus Blast, provided it has taken some previous damage. Choice Scarf users packing a resistance to Extreme Speed, such as Dialga and Heatran, can also check Lucario.</p>

@@ -1,0 +1,120 @@
+[Overview]
+
+<p>Although this strange mystical bird seems outclassed, she has a few perks over fellow Psychic-types like Alakazam and Uxie. High Speed and Special Attack, along with a decent offensive movepool, turn Xatu into a respectable sweeper. Her typing gives her a 4x resistance to Fighting-type attacks, making her a decent supporter as well. Xatu's movepool includes great supporting options, such as Wish, Roost, Haze, and Light Screen; she even has access to Baton Pass to escape Pursuit users and/or pass Calm Mind and Substitute. While Xatu seems like an impeccable Pokemon, her weakness to Stealth Rock and Pursuit make it harder to switch her in, and she requires good prediction against Dark- and Ghost-types. All in all, Xatu will make a great addition to your team, just make sure she uses a set that isn't outclassed by anything else in UU.</p>
+
+[SET]
+name: Wish Passer
+move 1: Wish
+move 2: U-turn
+move 3: Psychic
+move 4: Protect / Reflect / Light Screen 
+item: Leftovers
+ability: Synchronize
+nature: Timid
+evs: 252 HP / 32 Def / 224 Spe
+
+[Set Comments]
+
+<p>Xatu is the Jirachi of UU, having access to Wish, U-turn, and STAB Psychic. The idea behind this set is to support Xatu's teammates with Wish and possibly one of the dual screens, then U-turn to another Pokemon who can take advantage of them. Psychic is used for STAB, hitting the likes of Venusaur and Hariyama super effectively. Protect is used in the last slot as it guarantees that Xatu will restore her health with Wish, all the while gaining Leftovers recovery. If you decide to use a screen in the last slot, you may consider Light Clay as Xatu's item to prolong the screen.</p>
+
+[Additional Comments]
+
+<p>224 Speed EVs allow Xatu to reach a Speed stat of 310, outrunning Timid Rotom and all base 90s like Moltres. Max HP gives Xatu the bulk she needs to support her teammates with Wish. The remaining EVs are placed into Defense, helping Xatu with her weaknesses to Pursuit and priority moves like Ice Shard and Shadow Sneak.</p>
+
+<p>As this set will be switching a lot, Stealth Rock will take its toll on Xatu, meaning a Rapid Spinner is almost essential to keep her alive. Donphan is an excellent choice for this role as he can switch into Electric- and Rock-type attacks aimed at Xatu, has access to Assurance to hit Ghost-types, and benefits from Wish (as he has no reliable recovery of his own). Hitmontop is another good choice as he can use Foresight to hit Ghost-types, and can switch into Dark- and Rock-type attacks for Xatu.</p>
+
+[SET]
+name: Dual Screens
+move 1: Reflect
+move 2: Light Screen
+move 3: Wish
+move 4: U-turn
+item: Light Clay
+nature: Jolly
+ability: Synchronize
+evs: 252 HP / 32 Def / 224 Spe
+
+[Set Comments]
+
+<p>Xatu is the only Pokemon in UU with access to Light Screen, Reflect, U-turn, and Wish all on the same moveset, making her an ideal dual screener. To make the most of this set, switch into a weak or resisted attack and proceed to set up dual screens, then use either Wish to support Xatu's teammates, or U-turn to escape the battle. Xatu's restistances to Grass- and Fighting-type attacks is very helpful, as is her immunity to Ground-type attacks. Light Clay is the most useful item for this set as it prolongs Xatu's dual screens and gives her teammates more time to set up.</p>
+
+[Additional Comments]
+
+<p>This set uses 224 Speed EVs, allowing Xatu to outrun Timid Rotom and all base 90 Pokemon. Maximum HP gives Xatu more bulk, increasing her ability to take hits. The remaining EVs are placed into Defense for extra bulk, which helps Xatu take common physical priority moves like Ice Shard and Shadow Sneak.</p>
+
+<p>Setup sweepers can take advantage of the defenses provided by the dual screens. Swords Dancers such as Scyther and Drapion are great options, as they are relatively frail and have massive Attack and high Speed. On the special side, Nasty Plot Mismagius and Calm Mind Alakazam are both dangerous sweepers who are difficult to wall after enough boosts. Dragon Dance Altaria is another good option as she can recover her health with Roost, and has Natural Cure to rid herself of status upon switching out. Alternatively, you may use this time to set up entry hazards with frail Pokemon like Qwilfiish, Cacturne, and Cloyster (who isn't frail on the physical side, though Light Screen helps with his poor Special Defense).</p>
+
+[SET]
+name: Baton Pass
+move 1: Calm Mind
+move 2: Baton Pass
+move 3: Roost
+move 4: Psychic
+item: Leftovers
+ability: Synchronize
+nature: Timid
+evs: 252 HP / 32 Def / 224 Spe
+
+[Set Comments]
+
+<p>Xatu also has access to Baton Pass through Pokemon XD, turning her into a great Calm Mind passer. Her high Speed, access to Roost (which also temporarily removes Xatu's Electric-, Ice-, and Rock-type weakness), and her decent defenses also help. Psychic is useful as it provides good STAB, and gives Xatu something to do in case she gets Taunted. Substitute isn't really important to this set's success as Synchronize will (or should) discourage status users. The main idea of this set is to switch into a resisted attack, set up a boost or two with Calm Mind, and then escape with Baton Pass before the opponent has chance to hit Xatu.</p>
+
+[Additional Comments]
+
+<p>224 Speed EVs and a Timid nature allow Xatu to outrun positively natured Rotom, escaping before it has chance to hit Xatu with either of its STAB moves. Max HP makes Xatu more bulky, and helps her take hits much better. The remaining EVs are placed into Defense, which helps Xatu switch into physical attackers more easily, especially Fighting-types.</p>
+
+<p>Recipients for the boosts are essential teammates. Special attackers such as Milotic and Moltres are good choices as receivers as they are unable to boost their own Special Attack, though Moltres can raise its Speed with Agility. Be careful when using Moltres as it loses half its health upon switching into Stealth Rock, making a Rapid Spinner vital for success. Finally, while Octillery is a strange option, he can be an integral part of a Baton Pass chain; if you pass him some Speed and Special Attack, he'll be breaking through the opponent in no time. Octillery has the added benefit of Suction Cups, making it impossible for the opponent to phaze him out with Roar or Whirlwind.</p>
+
+<p>As this set aims to gain as many stat boosts as possible, support from Reflect may be used to raise Xatu's Defense. Uxie, Alakazam, and Grumpig are all excellent options to set it up. Alternatively, Spiritomb and Mismagius may use Will-O-Wisp to cripple physical attackers and cut their Attack in half with a burn.</p>
+
+[SET]
+name: Calm Mind
+move 1: Calm Mind
+move 2: Psychic
+move 3: Heat Wave
+move 4: Roost / Hidden Power Ground
+item: Life Orb
+ability: Synchronize
+nature: Timid
+evs: 4 Def / 252 SpA / 252 Spe
+
+[Set Comments]
+
+<p>This set uses Calm Mind to boost Xatu's already decent Special Attack, turning her into a dangerous sweeper. Psychic is used for STAB, Heat Wave hits Steel-, Bug-, and Grass-types, and Roost is to recover any HP lost from Life Orb, Stealth Rock, and other extraneous damage. Hidden Power Ground is an option in the last slot as it takes care of Houndoom, Skuntank, and Drapion, who are dangerous threats and wall the rest of this set. The basic premise behind this set is to switch into an opponent who can't deal a lot of damage to Xatu and proceed with Calm Mind; her good typing gives her the opportunity to set up on most Grass-types and the occasional Choiced Fighting-type that lacks a super effective attack.</p>
+
+[Additional Comments]
+
+<p>Special walls like Chansey and Clefable give this set difficulty due to Xatu's inability to break through them. A strong Fighting-type such as Hariyama is a good partner for Xatu as he can switch into Rock- and Dark-type moves aimed at Xatu, while Xatu switches into most Psychic-types pretty easily. Hariyama also doesn't mind status if he's running Guts as his ability. Blaziken, Hitmontop, and Toxicroak are good options too. Dark-types such as Spiritomb and Houndoom are also troublesome, making Hitmontop an ideal partner; its STAB Fighting-type attacks, along with priority, Foresight, and Intimidate, will scare away most Dark-type enemies.</p>
+
+<p>Toxic Spikes are another answer to bulky walls like Milotic and Slowking, gradually draining them with worsening poison damage. Qwilfish, Nidoqueen, and Cloyster are all reliable users of Toxic Spikes; Nidoqueen is especially helpful as she can switch into Rock- and Electric-type attacks aimed at Xatu. When using any sort of entry hazard, support from a spinblocker is recommended to keep them on the field; this makes Ghost-types such as Mismagius, Spiritomb, and Rotom good choices as teammates; just watch out for overlapping weaknesses with Xatu.</p>
+
+<p>Baton Pass is an option in the last slot as it allows Xatu to escape Pursuit users, and passing Calm Mind is always helpful.</p>
+
+[SET]
+name: Choice
+move 1: Psychic
+move 2: Heat Wave
+move 3: Hidden Power Ground 
+move 4: Trick / Shadow Ball 
+item: Choice Scarf / Choice Specs
+ability: Synchronize
+nature: Timid
+evs: 32 HP / 252 SpA / 224 Spe
+
+[Set Comments]
+
+<p>Xatu's good movepool and decent Special Attack make her an ideal user of Choice items, which can turn her into a great revenge killer. Psychic is used for STAB, severely damaging Fighting- and Poison-types, Heat Wave hits Steel-types like Registeel, and Hidden Power Ground hits Drapion, Skuntank, and Houndoom super effectively. Hidden Power Flying can be used for secondary STAB, hitting Grass- and Bug-types harder than Heat Wave, it also provides good neutral coverage. The last slot is reserved for Trick or Shadow Ball; Trick can cripple a troublesome wall and aid a teammate's setup, while Shadow Ball allows Xatu to hit Ghost- and Psychic-types super effectively. Be careful when firing off Psychic with a Choice item, as this gives Dark-types an easy switch in, and makes Xatu incredibly vulnerable to Pursuit and Sucker Punch.</p>
+
+[Additional Comments]
+
+<p>With 224 Speed EVs, a Timid nature, and a Choice Scarf, Xatu reaches 468 Speed; this is enough to outrun almost everything in UU, including Choice Scarf Rotom. When using Choice Specs, it's better to use maximum Speed, which allows Xatu to tie with other base 95 Pokemon. As for alternative move choices, Baton Pass may be used in the last slot as it allows Xatu to escape Pursuit users, and it also turns her into a scout Pokemon, revealing the opponent's team and easing prediction. U-turn may also be used to scout the opponent's switch-in, allowing you to switch to an appropriate counter.</p>
+
+<p>Chansey and Spiritomb cause problems for Xatu, mainly because of their huge Special Defense and decent typing. Toxic Spikes help wear down both threats, weakening them more with every passing turn they stay in. Qwilfish and Nidoqueen are good choices to set them up, just make sure that your opponent doesn't have a Pokemon who can abuse Guts. Blaziken is another great partner as he is immune to Will-O-Wisp from Spiritomb, takes reduced damage from Dark-type attacks, and can scare Chansey away with Superpower. Finally, Dugtrio can trap Chansey and KO her with STAB Earthquake.</p>
+
+[Other Options]
+
+<p>Xatu may utilize Sucker Punch or Quick Attack for priority, which work well with her usable Attack stat. Feather Dance can be used on a more defensive set to weaken physical attackers, though Reflect is normally better as its effect isn't removed upon the foe switching out. Grass Knot deals more damage to heavy Pokemon like Milotic and Rhyperior, while Night Shade can be used for consistent damage against any opponent (bar Normal-types). Psycho Shift is a nifty option to bounce status conditions, such as burn and poison, back onto the opponent. This can be useful in some scenarios, such as burning Fighting-types with a self-inflicted burn from Flame Orb, but it is highly situational and none too reliable. Finally, Substitute and Pain Split can be used on a makeshift SubSplit set, though Xatu's weaknesses to Stealth Rock and common attacking types make it difficult to pull off.</p>
+
+[Checks and Counters]
+
+<p>Spiritomb is probably Xatu's biggest counter, its high Special Defense, immunity to Psychic-type moves, and STAB Pursuit and Sucker Punch make it very difficult to beat. In fact, most Dark-types give Xatu trouble; Houndoom can switch into Psychic and Heat Wave and has access to STAB Dark-type moves, while Drapion can Speed tie with Xatu and threaten her with Night Slash or Pursuit. Chansey and Clefable are both great counters, having huge HP and high Special Defense, a good support movepool, and reliable recovery in Wish and Soft-Boiled. Registeel is another great counter, taking little damage from anything that isn't a boosted Heat Wave, and it has the ability to cripple Xatu with Thunder Wave, hit her with Ice Punch, or set up Stealth Rock to make switching in more difficult. Other specially defensive Water-types can take on Xatu with ease; Milotic, Slowking, and Lanturn have good defenses, high HP, and Ice Beam to hit Xatu super effectively. Basically anything with good Special Defense and a super effective attack can take on Xatu, just beware of Trick and boosted attacks.</p>

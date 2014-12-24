@@ -1,0 +1,57 @@
+[Overview]
+
+<p>With respectable bulk and good abilities in Hydration and Water Absorb, Lapras can be a potent threat in the VGC 2012 metagame. A low base 60 Speed makes Lapras a good candidate for Trick Room teams, and it is able to work well in different weather conditions. While it does have these perks, Lapras also has its drawbacks; Lapras's paltry base 85 offensive stats mean that even a physical Latios will hit harder. Still, with the right team support, Lapras is a threat that must be prepared for.</p>
+
+[SET]
+name: Hydration
+move 1: Surf
+move 2: Thunder / Ice Beam
+move 3: Rest
+move 4: Protect
+item: Absorb Bulb / Leftovers
+ability: Hydration
+nature: Calm
+evs: 252 HP / 4 Def / 252 SpD
+
+[SET COMMENTS]
+
+<p>This set takes advantage of Lapras's main attributes: bulk and access to Hydration. The idea is to come in while rain is up, take a Water-type attack to activate Absorb Bulb, and proceed to repeatedly attack with STAB rain-boosted Surf. The choice of Thunder or Ice Beam comes down to what you need Lapras to take out. Thunder has perfect accuracy in the rain, but leaves Lapras susceptible to Dragon-types. On the other hand, Ice Beam is an option to take out the Dragon-types that will stop Lapras, but it will allow rain teams to walk all over it.</p>
+
+<p>The final two moveslots are the bread and butter of this set. Rest provides full recovery, and, in the rain, Lapras's sleep is cured at the end of the turn, courtesy of Hydration. Protect is standard in the VGC metagame to ease prediction and recover HP, if opting for Leftovers.
+
+[ADDITIONAL COMMENTS]
+
+<p>The above EV spread allows Lapras to only be 3HKOed by Zapdos's Discharge while being able to 3HKO back without an Absorb Bulb boost, or 2HKO with an Absorb Bulb boost. Politoed stands out as one of the best teammates for Lapras, as it sets up rain, indirectly keeping Lapras alive. Politoed can also help by using Surf to activate Lapras's Absorb Bulb. Other good teammates include Amoonguss, who resists Fighting-type attacks, as well as any other Pokemon that can take out Fighting-types.</p>
+
+[SET]
+name: Offensive
+move 1: Blizzard / Ice Beam
+move 2: Surf
+move 3: Ice Shard / Thunderbolt
+move 4: Protect
+item: Ice Gem / Water Gem
+ability: Water Absorb
+nature: Modest / Timid
+evs: 252 HP / 252 SpA / 4 Spe
+
+[SET COMMENTS]
+
+<p>While Lapras is typically seen playing a defensive role, this set aims to capitalize on an incorrect prediction and KO specific threats that counter Lapras. For example, Yache Berry Garchomp will survive a +1 Ice Beam from the defensive set; however, the same Garchomp is OHKOed by an Ice Gem-boosted Blizzard. Other examples include Dragonite (with Multiscale), Latios, and even Zapdos.</p>
+
+<p>The other three moves come down to supporting the primary STAB option, Blizzard. Surf provides a secondary STAB move, taking out Fire-types that resist Blizzard as well as 2HKOing Tyranitar outside of sand. Ice Shard will help deal with Focus Sash users such as Chandelure; however, if they aren't problems, then Thunderbolt can be used to take out Water-types, most of whom would otherwise wall this set. Protect is, once again, standard in VGC.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>This set has a couple of EV spreads that can be used. With a neutral nature and 252 Speed EVs, Lapras gets the jump on Gyarados and can KO with Thunderbolt. With a Timid nature and 252 Speed EVs, Lapras can Speed tie with Honchkrow, meaning that it will beat Pokemon such as Hitmontop and Metagross as well. Another option would be to use this set in Trick Room, with a Quiet nature and 0 Speed IVs. Lapras functions extremely well with both hail and Trick Room active.</p>
+
+<p>Abomasnow is welcomed for this set, as it will allow Blizzard to hit with 100% accuracy. Reuniclus also can be a good partner if you are looking to use Lapras in hail and Trick Room simultaneously, as it is immune to hail, takes out Fighting-types, and can set up Trick Room effectively. Zapdos can help by taking out Water-types if you decide not to run Thunderbolt on Lapras. Once again, Amoonguss is a good partner to draw in Fighting-type attacks. Finally, Kingdra and Ludicolo are beneficial for this set, as their STAB Surf attacks will heal a lot of Lapras's HP due to Water Absorb. However, these two partners are really only beneficial if used in rain.</p>
+
+[Other Options]
+
+<p>Outside of what is listed, Lapras has a very shallow movepool. Perish Song can be used, but you have to make sure that you have at least one Pokemon left in reserve. Sheer Cold is somewhat viable due to Lapras's bulk, but is gimmicky at best and viable only on the Hydration set. Sing is another option as sleep is always beneficial, but its accuracy is shaky. Psychic can be used to stop Fighting-types, but the only notable OHKO that it gets is on Toxicroak, who can KO Lapras after a Fake Out anyways. One final change you could make is to use Scald or Hydro Pump as Lapras's STAB move. Scald would be beneficial for the Hydration set by providing burn support for the team, while Hydro Pump could help the offensive set by providing a more powerful STAB attack; the choice comes down to a matter of power versus accuracy.</p>
+
+<p>There are two other item options Lapras can use. First, Sitrus Berry can be used to improve Lapras's longevity. Chople Berry is another option, helping against the Fighting-types that threaten Lapras. However, Pokemon such as Infernape and Terrakion can still OHKO it with Close Combat whether or not Lapras carries a Chople Berry.</p>
+
+[Checks and Counters]
+
+<p>Fighting-types, such as Hitmontop, Terrakion, and Infernape, are the best counters to Lapras, as they can all OHKO it with Close Combat. Water-types in general wall Lapras well, though they must be careful of Thunder or Thunderbolt; Rotom-W stands out among the bulky Water-types, as it is able to wall Lapras even if it has Thunder or Thunderbolt. Lapras depends very much on the weather for it to be successful; as such, Tyranitar stands out as a good counter—it gains a Special Defense boost in the sand and can hit Lapras hard with its STAB Rock Slide. Finally, in rain, Ludicolo and Abomasnow are major pains to Lapras, taking only neutral damage from any of its moves and KOing Lapras with a Grass-type attack.</p>

@@ -1,0 +1,86 @@
+[Overview]
+
+<p>Although mostly outclassed as a supporter by Ferrothorn and Forretress, Cloyster makes for a surprisingly deadly sweeper in Ubers. Its horrendous Special Defense makes it difficult to set up, but when it does get that Shell Smash off, there is very little that can stop it. Cloyster requires a lot of team support to work effectively, but it does have the potential to become a fearsome sweeper.</p>
+
+[SET]
+name: Shell Smash
+move 1: Shell Smash
+move 2: Icicle Spear
+move 3: Hydro Pump
+move 4: Rock Blast
+item: Life Orb
+ability: Skill Link
+nature: Naive
+evs: 232 Atk / 32 SpA / 244 Spe
+ 
+[SET COMMENTS]
+ 
+<p>Cloyster becomes incredibly difficult to wall after a Shell Smash, as it is capable of OHKOing many premier Ubers walls, such as Groudon, Lugia, and Giratina, thanks to its powerful Ice-type STAB. Icicle Spear is the crux of the set, because with Skill Link it effectively has a Base Power of 125. With rain support from Kyogre, a +2 Hydro Pump can KO many Steel-types who would normally wall Cloyster. Rock Blast obtains an immediate OHKO on Ho-Oh, and is Cloyster's strongest attack against opposing Kyogre.</p>
+ 
+[ADDITIONAL COMMENTS]
+ 
+<p>Life Orb is absolutely crucial due to the power it provides. A Naive nature with the given Speed EVs guarantees that Cloyster outspeeds Jolly Choice Scarf Terrakion after a Shell Smash. 32 SpA EVs guarantee that a +2 Hydro Pump in the rain will OHKO Steel Arceus after one layer of Spikes. The rest of the EVs are dumped into Attack.</p>
+ 
+<p>The following damage calculations give an idea of the raw power Cloyster wields after a Shell Smash:</p>
+ 
+<ul class="damage_calculation">
+<li>+2 Icicle Spear vs. 252/252+ Groudon 121.5% - 143.5%</li>
+<li>+2 Icicle Spear vs. 252/252+ Giratina 109% - 131%</li>
+<li>+2 Icicle Spear vs. 4/0 Palkia 130.5% - 155.5%</li>
+<li>+2 Icicle Spear vs. 4/0 Dialga 105.5% - 125.5%</li>
+<li>+2 Icicle Spear vs. 252/4 Dialga 89% - 106.5%</li>
+<li>+2 Icicle Spear vs. 252/4 Ferrothorn 95% - 112%</li>
+<li>+2 Icicle Spear vs. 252/176+ Lugia 125% - 151.5%</li>
+<li>+2 Icicle Spear vs. 252/252+ Arceus 62% - 74.5%</li>
+<li>+0 Icicle Spear vs. 0/0 Giratina-O 97.5% - 118%</li>
+<li>+2 Hydro Pump in rain vs 248/0 Steel Arceus 88% - 103.6%</li>
+<li>+2 Rock Blast vs. 4/0 Kyogre 90.5% - 108%</li>
+<li>+2 Rock Blast vs. 252/252+ Kyogre 54.5% - 64.5%</li>
+<li>+2 Rock Blast vs. 252/0 Manaphy 69.5% - 83%</li>
+<li>+0 Rock Blast vs. 248/0 Ho-Oh 149.5% - 178.5%</li>
+</ul>
+ 
+<p>Rapid Spin is an option over Rock Blast or Hydro Pump, allowing Cloyster to clear entry hazards if necessary. It helps that the best spinblocker in Ubers, Giratina-O, cannot switch safely into Cloyster. Another option is Ice Shard, which can be used to revenge kill a +1 Rayquaza or Shaymin-S. Razor Shell is an option over Hydro Pump, but it misses some noticeable KOs.</p>
+ 
+<p>Because Cloyster is so specially frail, it is almost mandatory to have either dual screen support or Wobbuffet as a teammate. A layer of Spikes is also crucial for some KOs. Deoxys-S can reliably provide both dual screens and a layer of Spikes. Arceus can provide both screens reliably, and can also burn physical attackers with Will-O-Wisp, easing setup for Cloyster. Latios can set up screens and then further weaken the opponent with Memento, giving Cloyster a free switch in, and likely a safe opportunity to use Shell Smash. Ferrothorn and Forretress can both supply Spikes as well, with the latter being able to spin away Stealth Rock, which otherwise severely hampers Cloyster. Ferrothorn is also valuable for its ability to threaten and wear down bulky Water-types, especially Kingdra, which are some of the best answers to Cloyster. Rain support is also required for Hydro Pump to pick up some KOs, so Kyogre should be paired with Cloyster.</p>
+
+[SET]
+name: Offensive Support
+move 1: Icicle Spear
+move 2: Rapid Spin
+move 3: Shell Smash
+move 4: Spikes / Rock Blast / Toxic Spikes
+item: Focus Sash
+ability: Skill Link
+nature: Jolly / Adamant
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Cloyster provides a reliable way to stave off entry hazards early-game for teams that desperately need their side of the field clear for several turns. It can effectively lead against hazard setters such as Deoxys-A and Deoxys-S and prevent them from laying their entry hazards on the field. Cloyster's ability to function in any weather (apart from possibly sand, which breaks its Focus Sash) makes it a versatile spinner that can fit onto many team archetypes that need a short-term solution to entry hazards. Cloyster can also set up its own entry hazards thanks to its respectable Speed and offensive presence. Unlike Forretress or Excadrill, Cloyster does not possess the typing or bulk to come into the match over and over again, so teams that need consistent spin support throughout the match should look elsewhere.</p>
+
+<p>Shell Smash is pivotal as it allows Cloyster to outrun Deoxys-S and other entry hazard setters, ensuring that their hazards will be spun away. It also gives Cloyster enough power to OHKO the Giratina formes, preventing them from spinblocking. Icicle Spear is a powerful STAB move that threatens Ground-types such as Groudon and Gliscor even before a boost, allowing Cloyster to lead against them. It can also beat Focus Sash Deoxys-A leads with one use of Icicle Spear, though it should not attempt to set up a Shell Smash on these as they often have Psycho Boost or Superpower, as well as Extreme Speed. The last slot is dedicated to an entry hazard, which can be used against foes that Cloyster cannot OHKO after a Shell Smash and doesn't need to worry about spinning against, such as bulky Kyogre. Cloyster will outspeed slower base 90s, which is helpful in allowing it to spin against these threats even without a boost or place at least two entry hazards on the opponent's side of the field. The choice between Spikes and Toxic Spikes is up to you. If setting up entry hazards does not appeal to you, you can go with another attacking move. Rock Blast OHKOes Ho-Oh while dealing heavy damage to Kyurem formes and opposing Cloyster. However, Rock Blast is very situational and your team will oftentimes miss the entry hazard support Cloyster can supply.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Explosion is an intriguing option that can OHKO Kyogre after a Shell Smash boost. On offensive sun teams, winning the weather war is often worth losing Cloyster's support abilities, and Cloyster does tend to lure in Kyogre. However, there is significant opportunity cost; like Rock Blast, Explosion is very situational and generally entry hazard support will be more useful. Ice Shard picks off weakened Pokemon and allows Cloyster to beat all Shaymin-S one-on-one so long as Cloyster's Focus Sash is intact. Unfortunately, it has little use outside of that.</p>
+
+<p>An Adamant nature can be considered over Jolly for the extra power. There are some circumstances in which the extra power will prove beneficial. For example, +2 Jolly Cloyster only has a 6.25% chance to OHKO physically defensive Giratina after a Shell Smash. However, Adamant Cloyster OHKOes it 56.25% of the time, allowing it a much better chance to get a successful spin off whatever comes in after Giratina is gone. Also, Adamant Cloyster OHKOes all variants of Groudon at +2, whereas Jolly can only KO 252/252+ Groudon 62.5% of the time. However, Jolly is usually superior as it gives Cloyster the ability to outrun all threats up to Choice Scarf Terrakion after a Shell Smash, whereas Adamant Cloyster is outrun by base 95 Choice Scarf users and up, such as Kyurem-W. The ability to outrun Deoxys-S after using Shell Smash is a pivotal trait that Jolly Cloyster possesses over Adamant Cloyster.</p>
+
+<p>Physically defensive Arceus-Ghost with Stealth Rock is troublesome as it can burn Cloyster as it sets up a Shell Smash, set up Stealth Rock, and kill Cloyster with Judgment. Because of this, Darkrai makes a good teammate as it can put Support Arceus-Ghost to sleep without worrying about Judgment or Will-O-Wisp too much. Kyogre gives Cloyster a hard time as Cloyster cannot hit it that hard with any of its moves barring Explosion, so Kyogre checks such as Latias and Palkia pair up well with Cloyster. Lead support Dialga can survive a +2 Icicle Spear, so a teammate that can take it out in one hit, such as Earth Plate Groudon, is greatly appreciated. Finally, all status cripples Cloyster; Darkrai is particularly troublesome because it outruns Cloyster and puts it to sleep with Dark Void. Choice Scarf Sleep Talk users such as Dialga and Terrakion can come in on an expected Dark Void and absorb the sleep. As for other forms of status, Ho-Oh can switch in on Will-O-Wisps and Groudon and Arceus-Ground can come in on Thunder Waves.</p>
+
+<p>Good teammates for Cloyster include Pokemon that can take advantage of Cloyster's support sets. Dangerous sweepers such as Calm Mind and Swords Dance Arceus, Mewtwo, and Terrakion enjoy seeing Spikes on the opponent's side of the field, as they can wear down the opponent's team and allow Cloyster's teammates to clean up. Since Cloyster is too frail to consistently switch in on entry hazard setters throughout the match, teammates that can pressure these entry hazard setters are optimal. Palkia makes a great partner as it threatens Ferrothorn, Forretress, Gliscor, Groudon, and other common entry hazard setters. In return, Cloyster can prevent common entry hazard leads Palkia cannot stop, such as Deoxys-S and Deoxys-A, from setting up. Earth Plate Groudon can kill support Dialga (which beats Cloyster one-on-one) in one hit and sets up the sun that Cloyster generally functions best in.</p>
+
+<p>Pokemon that are weak to entry hazards appreciate Cloyster's ability to beat most spinblockers and pull off a successful spin. Ho-Oh is the first Pokemon that comes to mind, as it loathes losing half its HP to Stealth Rock every time it switches in. In return, Ho-Oh can kill Forretress that attempt to spin away Cloyster's own entry hazards. Kyurem-W, Rayquaza, and Reshiram also become far more threatening when their side of the field is clear of entry hazards.</p>
+
+<p>Because support Cloyster generally utilizes entry hazards, a spinblocker often pairs well with it. Substitute Giratina-O with Dragon Tail loves the Spikes that Cloyster provides and can use them to break down stall teams. Calm Mind Arceus-Ghost enjoys both Spikes and Toxic Spikes, as the latter can wear down pink blobs, increasing its chances of getting past them late-game. Cloyster also offers the ability to spin away Toxic Spikes that Arceus-Ghost hates. Giratina is susceptible to all three forms of entry hazards and thus appreciates Cloyster's ability to spin them away.</p>
+
+[Other Options]
+
+<p>Hidden Power Fire can be used on the Shell Smash set to nail Ferrothorn, but should only be considered if Kyogre support can't be managed. Cloyster doesn't really have many options, because Shell Smash sweeping is the only thing it's good at. Cloyster can provide support with Toxic Spikes and Rapid Spin, but Forretress outclasses it. Focus Sash or White Herb can be used to give Cloyster some longevity, but it desperately needs the power a Life Orb provides. A gimmicky Clamp set could be used to get up a lot of entry hazards, but it is extremely situational, as many Pokemon in the Ubers metagame threaten Cloyster.</p>
+
+[Checks and Counters]
+
+<p>It should be kept in mind that Cloyster is incredibly frail on the special side, to the point where a -4 support Dialga will OHKO it with Draco Meteor after Stealth Rock. As such, pressuring Cloyster with special attackers will severely hamper its ability to get off a Shell Smash. In the event that Cloyster manages to set up, bulky Kyogre is perhaps the best counter to it, because it can take anything +2 Cloyster can throw at it and OHKO back with Scald. Similarly, 252/0 Manaphy can shrug off a +2 Rock Blast and KO back. In the rain, Kingdra can outspeed Cloyster and OHKO it with a special attack. A physically defensive Ferrothorn can just barely take a +2 Icicle Spear and OHKO back with Power Whip. Choice Scarf Darkrai and Shaymin-S can both easily revenge kill Cloyster, although the latter must be wary of Ice Shard. Darkrai also has the added benefit of not being overly troubled by Wobbuffet, who could otherwise trap and kill a Choice Scarf revenge killer.</p>
+
+<p>Priority helps deal with Cloyster very well, so Arceus and Rayquaza make very good checks when running Extreme Speed. Scizor is also capable of revenge killing Cloyster after Shell Smash, Stealth Rock, and a few turns of Life Orb recoil. Vacuum Wave users, such as Lucario and Toxicroak, do a fine job dealing with Cloyster as well.</p>

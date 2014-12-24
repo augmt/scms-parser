@@ -1,0 +1,31 @@
+[SET]
+name: Double Powder
+move 1: Sleep Powder
+move 2: Stun Spore
+move 3: Explosion
+move 4: Solar Beam
+item: Leftovers / Lum Berry
+nature: Modest
+evs: 96 HP / 252 SpA / 96 SpD / 60 Spe
+ 
+[SET COMMENTS]
+
+<p>Only, and I mean ONLY use this set on a team containing Groudon. Drought will automatically trigger Chlorophyll and remove Solar Beam's charge up turn. Exeggutor is an excellent counter to an enemy Groudon, as long as it doesn't use Hidden Power Bug or a Fire move. Solar Beam is an easy OHKO on it, but don't use it too soon--you will swiftly be met by Kyogre, Rayquaza or some other Uber that walls you, so catch one with Sleep Powder, then paralyze the next with Stun Spore. Unless the sun is shining, Exeggutor is quite useless in Uber battles because almost everything but Groudon walls it, so don't be afraid to Explode. Psychic is not on this set because a lot of things resist it.</p>
+
+[SET]
+name: SubSeed
+move 1: Substitute
+move 2: Solar Beam
+move 3: Leech Seed
+move 4: Explosion / Sleep Powder
+item: Leftovers
+nature: Modest
+evs: 124 HP / 188 SpA / 96 SpD / 96 Spe
+ 
+[SET COMMENTS]
+
+<p>With Chlorophyll, Exeggutor outspeeds just about everything and can perform Sceptile's SubSeed technique quite well. Leech Seed your opponent, and keep using Substitute to drain its health down. This is very useful to drain Blissey's health and support the rest of the team.</p>
+
+[Other Options]
+
+<p>Hidden Power Dark has been used in the Uber metagame for a while, but a lot of things still take nearly no damage from it as Ubers tend to have high Special Defense (Latios, Latias, and Kyogre, for example). Hidden Power Ice can be used in Ubers to hit Rayquaza. Wish is useful in any metagame.</p>

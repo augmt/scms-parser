@@ -1,0 +1,45 @@
+[Overview]
+
+<p>A worse Linoone. At least it can Focus Punch.</p>
+
+[SET]
+name: Choice Band
+move 1: Double-Edge / Return
+move 2: Shadow Ball
+move 3: Focus Punch / Quick Attack
+move 4: Trick
+item: Choice Band
+ability: Keen Eye
+nature: Adamant / Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>This is about all Furret can do; it has a limited (usable) movepool. Use your Choice Band to wreck havoc with Double-Edge / Return and Focus Punch, and eventually Trick your physical wall of choice. Quick Attack can go here if you need something to finish off Pokemon that attempt to sweep with a Salac Berry.</p>
+
+[SET]
+name: Reversal
+move 1: Endure / Substitute
+move 2: Return
+move 3: Shadow Ball
+move 4: Reversal
+item: Salac Berry / Liechi Berry
+ability: Keen Eye
+nature: Adamant / Jolly
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>Give it your best shot; this is Furret's attempt at Reversaling. There are so many Pokemon that this is better suited for... such as a Pokemon with STAB on Reversal.</p>
+
+[Other Options]
+
+<p>It can Facade and Body Slam, but otherwise, there isn't a whole lot going on.</p>
+
+[EVs]
+
+<p>Reversal needs max Speed, since your Substitute isn't going to stay up against any attack, so pumping other stats won't help. For the Choice Band version, max Attack and Speed also.</p>
+
+[Checks and Counters]
+
+<p>Standard physical walls, such as Skarmory or Steelix in OU and Solrock, Walrein, or Aggron in UU, will beat it.</p>

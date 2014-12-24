@@ -1,0 +1,61 @@
+########
+
+Weezing is a very effective physical wall in NU, thanks to its very high base 120 Defense stat and helpful resistances to Fighting-, Grass-, Fairy-, and Poison-type attacks, which are commonly used by the likes of Hariyama, Torterra, Sceptile, and Slurpuff. Levitate is a great ability, allowing Weezing to switch into Ground-types such as Rhydon and Sandslash with ease. Weezing also has access to Toxic Spikes, a deadly entry hazard that can quickly wear down defensive teams. In addition, Weezing has Flamethrower to hit Steel-types that are immune to Weezing's STAB moves.
+
+Unfortunately, Weezing lacks any form of recovery outside of Black Sludge and the semi-reliable Pain Split. Weezing also has fairly low HP and Special Defense, meaning it will get worn down fairly quickly and leaving it susceptible to common special attackers such as Typhlosion, Mesprit, and Mismagius.
+
+Defensive
+########
+name: Defensive
+move 1: Will-O-Wisp
+move 2: Sludge Bomb
+move 3: Pain Split
+move 4: Flamethrower / Toxic Spikes
+ability: Levitate
+item: Black Sludge
+evs: 248 HP / 252 Def / 8 SpA
+nature: Bold
+
+Moves
+========
+
+Will-O-Wisp cripples many physical attackers and spreads residual damage to Weezing's switch-ins. Sludge Bomb is Weezing's STAB move, preventing it from being setup fodder and also hitting Grass- and Fairy-types such as Tangela and Slurpuff for super effective damage. Pain Split is Weezing's best form of recovery outside of Black Sludge, and works well in tandem with its low HP. Flamethrower is a very helpful coverage move to hit Steel-types such as Klinklang and Pawniard. Toxic Spikes is a good option in the last slot to wear down the opposing team, but the lack of coverage against Steel-types can be detrimental. Clear Smog or Haze can be used to stop sweepers such as Feraligatr and Pawniard, but Weezing is generally better off hitting them with Sludge Bomb or Flamethrower.
+
+Set Details
+========
+
+Maximum Defense investment is used with a Bold nature to capitalize on Weezing's high base Defense and plethora of resistances. 248 HP EVs are used to give Weezing an odd HP number, reducing the damage taken from Stealth Rock. Black Sludge is used to give Weezing a form of passive recovery, while deterring Trick users such as Rotom.
+
+Usage Tips
+========
+
+Weezing is best used to pivot into physical attackers lacking a super effective move, such as Primeape, Slurpuff, Kangaskhan, and Hariyama. While it is important to cripple physical attackers and spread residual damage, Will-O-Wisp should be used sparingly when the opponent has a Fire-type, especially one with Flash Fire, as Fire-types are immune to burns. If using Toxic Spikes, only one layer is necessary most of the time unless there is a very bulky Pokemon that you feel is necessary to wear down late-game, such as Tangela or Musharna.
+
+Team Options
+========
+
+Wish passers such as Audino and Lickilicky make for good teammates, as they can take the special attacks aimed at Weezing and heal it with their massive Wishes. In return, Weezing can easily take on the Fighting-types that threaten Audino and Lickilicky. Dark-types such as Pangoro and Pawniard have great synergy with Weezing, as they handle the Psychic-types that are problematic for Weezing, and Weezing handles Fairy- and Fighting-types in return. If Toxic Spikes are chosen, a Stealth Rock user such as Seismitoad is important; Weezing can absorb the Grass-type attacks aimed at Seismitoad, while Seismitoad handles the Fire-types that are immune to Will-O-Wisp. Bulky Ground-types make for good partners as well, as they threaten the Poison-types that absorb Weezing's Toxic Spikes.
+
+Other Options
+########
+
+A specially defensive spread is an option to better handle Grass- and Fairy- types such as Sceptile and Calm Mind Slurpuff, but does not have much use otherwise. Weezing has other coverage moves at its disposal such as Thunderbolt, Shadow Ball, and Dark Pulse to be used on a more offensively inclined set, but they do not hit any notable threats. Fire Blast can be used over Flamethrower, but the difference of accuracy in exchange for power is generally not worth it. Taunt can be used to shut down opposing defensive Pokemon. Destiny Bond deters opposing Pokemon from KOing Weezing, but it does not fit well with Weezing's defensive playstyle and low Speed. Protect can be used to scout for Choice-locked Pokemon. Rocky Helmet can be used to further punish physical attackers, but the recovery of Black Sludge is generally more useful.
+
+Checks & Counters
+########
+
+**Psychic-types**: As Weezing's only weakness thanks to Levitate, Psychic-type attacks will easily OHKO or 2HKO Weezing.
+
+**Special Attackers**: Due to Weezing's lackluster Special Defense, it will be overwhelmed by powerful special attackers such as Samurott and Cryogonal.
+
+**Substitute Users**: Pokemon can avoid Will-O-Wisp with Substitute, gaining a free turn to attack or set up.
+
+**Taunt**: Taunt will essentially shut down Weezing, preventing it from using Will-O-Wisp and Pain Split, making it setup fodder.
+
+**Bulky Ground-types**: Bulky Ground-types such as Seismitoad and Camerupt resist Sludge Bomb, and the former does not really mind being burned by Will-O-Wisp, while the latter cannot be burned at all. They can get worn down by Pain Split, but Weezing can't do much to them in return.
+
+**Offensive Pressure**: While Weezing has a great Defense stat, it can be worn down by constant pressure from physical attackers due to its lack of reliable recovery.
+
+**Fire-types**: Fire-types can absorb Will-O-Wisp, which is Weezing's main form of spreading damage.
+
+**Mold Breaker**: Earthquake from Pokemon that carry Mold Breaker such as Sawk and Rampardos bypasses Weezing's Levitate, allowing them to 2HKO it.

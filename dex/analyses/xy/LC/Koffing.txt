@@ -1,0 +1,53 @@
+Overview
+########
+The mascot of Smogon, Koffing continues to be a great help to many teams. With a high Defense stat and Poison typing, Koffing reliably walls some of the powerful physically attacking Pokemon in the metagame. Not only does it take little damage from Fighting-types, it also gets Levitate, meaning that it is immune to one of its would-be weaknesses. This leaves it weak to only one type, the uncommon Psychic-type. However, Koffing is extremely slow and lacks any strong offensive power. Also, despite its incredible physical bulk, Koffing is susceptible to most special attackers.
+
+Defensive
+########
+name: Defensive
+move 1: Will-O-Wisp
+move 2: Pain Split
+move 3: Sludge Bomb / Clear Smog
+move 4: Fire Blast / Destiny Bond
+ability: Levitate
+item: Eviolite
+evs: 36 HP / 236 Def / 236 SpD
+nature: Bold
+
+Moves
+========
+Will-O-Wisp is Koffing's key to bringing down physical attackers and is perhaps the most important move in its arsenal. Pain Split is Koffing's only means of recovery. Though unreliable, it not only heals Koffing, but damages the opponent as well. Sludge Bomb is a STAB attack that can deal decent chunks of damage and has a nice 30% chance to poison the opposing Pokemon. Clear Smog is an possible option over Sludge Bomb if you want Koffing to be able to stop setup sweepers from getting out of control, though its effect will not activate if the opponent has a Substitute up. Fire Blast is primarily for hitting the Steel-types that are immune to Koffing's STAB move; it lands a powerful hit on Pawniard and nails Ferroseed especially hard. Destiny Bond lets Koffing take a foe down with it when it is KOed by a direct attack. It's mostly a last-ditch attempt to get rid of a troublesome enemy.
+
+Set Details
+========
+An Eviolite, with the given EV spread, gives Koffing an effective Defense stat of 30. This allows Koffing to tank physical hits well. Apart from maxing out Defense, the remaining EVs contribute to Koffing's special bulk so that it can survive stray neutral special hits more easily. Fewer EVs are invested in HP so that Pain Split takes more health from the opponent. Levitate rids Koffing of its would-be Ground-type weakness, except for when facing an opponent with Mold Breaker and Earthquake.
+
+Usage Tips
+========
+Koffing can switch in comfortably against Bug-, Fairy-, Ground-, and Fighting-type foes and can force most physical attackers out with the threat of Will-O-Wisp. A warning to the wise: do not use Will-O-Wisp on Timburr. Most Timburr run Guts, which will boost its Attack and help it deal more damage. Pain Split can be used at lower health against enemies with higher health to damage them while also recovering HP; Koffing's low Speed can come in handy for this move in particular, as it lets the opponent take away some of its health before stealing it back with Pain Split. Destiny Bond can be used to make the opponent reconsider delivering a fatal blow. This looming threat often keeps foes from attacking a low Koffing, providing an opportunity to recover with Pain Split while they hesitate.
+
+Team Options
+========
+Koffing's main goal is to neutralize Fighting-type threats. Because of this, teammates that have problems with Fighting-types enjoy the support that Koffing provides. Koffing appreciates the recovery granted by Wish support, even though it has Pain Split; Lickitung makes a particularly good partner for this purpose, as Koffing can shrug off the Fighting-type attacks aimed at Lickitung, while its Wish recovery can be provided to both of them. Scraggy makes an ideal partner that covers Koffing's sole weakness to Psychic-type attacks, and Koffing tanks the Fighting-type attacks aimed at Scraggy. Other Dark-types, such as Zorua and Purrloin, love having Koffing as a partner, as it resists all of their weaknesses. Other Dark-types such as Vullaby and Pawniard appreciate this coverage too, but to a lesser extent, as their second type neutralizes some of these resistances. Chinchou makes a good partner for dealing with Tentacool, which resists Koffing's STAB move and Fire Blast rather easily. Entry hazard setters like Dwebble and Ferroseed can be ideal partners, as Koffing can force switches which rack up residual damage quite nicely.
+
+Other Options
+########
+
+Because Koffing has no reliable means of recovery, Berry Juice would be a helpful option. However, as Koffing commonly switches into Fighting-type Pokemon, this item is likely to be removed by Knock Off. RestTalk is another option for recovery and makes Koffing a fantastic wall to most Chlorophyll sweepers as it resists Grass- and Poison-type attacks and won't mind Sleep Powder. Flamethrower is a more accurate option than Fire Blast, but it does not have the same level of power, which means that it's less capable of dealing with common Steel-types. Explosion is an option for going out with a bang. Memento can be used as a suicide option as well, almost entirely stripping an enemy of their offensive presence, and can be used to help a teammate come in and set up afterward. Thanks to its Poison typing, Koffing has access to a perfectly accurate Toxic. Koffing can utilize Stockpile in a defensive set, likely using Toxic or Toxic Spikes to slowly KO opposing Pokemon while it survives. Toxic Spikes is a new addition to Koffing's movepool and can be used to poison all grounded foes as they enter battle, although opposing Poison-types can absorb them just by switching in. Haze is more reliable for stopping setup sweepers than Clear Smog in most cases, but does not deal damage and is blocked by Taunt. Thunderbolt is an option for hitting Water- and Flying-types hard, and can be useful for getting around Tentacool, but is generally not useful otherwise. Shadow Ball can be used to hit Psychic- and Ghost-type switch-ins such as Abra and Gastly. Taunt can stop slower walls such as Hippopotas and Foongus from using status moves or recovering, but Koffing is generally a bit too slow to utilize this to its full potential.
+
+Checks & Counters
+########
+
+**Psychic-types**: Abra, Slowpoke, and a few others can inflict major damage to Koffing with their STAB attacks. Gothita is especially notable for being able to trap Koffing with Shadow Tag and follow up with an easy KO.
+
+**Earthquake Users With Mold Breaker**: Drilbur especially, but also Cranidos, can override Koffing's immunity to Ground-type attacks by ignoring Levitate. This means that their powerful Ground-type moves can easily hit Koffing and OHKO it most of the time.
+
+**Rock-types**: Rock-types resist Sludge Bomb well as Fire Blast. Some of the more specially inclined ones, such as Omanyte, don't mind being burned and set up on Koffing with little risk.
+
+**Tentacool**: Tentacool walls any set without Thunderbolt and can deal decent damage with Scald or use Knock Off against either Koffing or an incoming teammate as Koffing flees.
+
+**Flash Fire**: Ponyta and other Flash Fire users can come in on a Will-O-Wisp or Fire Blast and get a boost to their Fire-type attacks, often putting Koffing in a defensively bad position, especially if its Eviolite has been removed via Knock Off.
+
+**Special Attackers**: Koffing is threatened by Pokemon that can prey on its low Special Defense and disregard the Attack drop from a burn, such as Abra.
+
+**RestTalk Users**: Chinchou and Munchlax don't care about burns, as they can use Rest to remove them, and Koffing's attacks do very little to them.

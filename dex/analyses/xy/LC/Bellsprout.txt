@@ -1,0 +1,58 @@
+Overview
+########
+
+Bellsprout is undoubtedly one of the best Chlorophyll sweepers in Little Cup, which makes it almost mandatory on sun teams. While other Chlorophyll sweepers such as Oddish and Bulbasaur have more bulk, Bellsprout is a better choice overall thanks to Weather Ball. In sunlight, Weather Ball effectively turns into a 150 Base Power Fire-type move, which is great against Steel-types that could otherwise be a huge problem for Bellsprout. Weather Ball also lets Bellsprout deal with Croagunk and Grass-types such as Foongus and Ferroseed. Bellsprout also has access to Sleep Powder, which is a great move to allow it to avoid Sucker Punch while also crippling a potential counter or check. However, Bellsprout isn't very bulky, meaning that if it can't OHKO the opposing Pokemon, it can in many situations get KOed back. Bellsprout also suffers from the prominence of Fletchling, which can OHKO Bellsprout with its priority Acrobatics. Overall, while Bellsprout has its flaws, it is still one of the best Chlorophyll sweepers and should therefore always be considered when building a sun team.
+
+Sun Sweeper
+########
+name: Sun Sweeper
+move 1: Solar Beam
+move 2: Sleep Powder
+move 3: Weather Ball
+move 4: Sludge Bomb / Growth
+ability: Chlorophyll
+item: Eviolite / Life Orb
+evs: 36 HP / 76 Def / 196 SpA / 196 Spe
+nature: Modest
+
+Moves
+========
+
+Solar Beam, with 120 Base Power, is a mandatory move on any sun sweeper, and hits most threats very hard. Sleep Powder is a very important move as well, as it helps Bellsprout bypass certain counters and eases prediction, while also helping to mitigate Bellsprout's vulnerability to Sucker Punch. Weather Ball is a great coverage move, effectively turning into a 150 Base Power Fire-type move under the sun, and it allows Bellsprout to deal with Steel-types, Grass-types, and Croagunk. Sludge Bomb is a reliable secondary STAB move that isn't reliant on weather, hitting Grass- and Fairy-types very hard. Growth can be used, but it is a risky move to use on a Pokemon as frail as Bellsprout. However, the payoff is very high if Bellsprout manages to pull it off.
+
+Set Details
+========
+
+The given EV spread is used to maximize Bellsprout's sweeping capabilities, and the leftover EVs are used in HP and Defense to allow Bellsprout to take resisted physical attacks better. Eviolite makes Bellsprout fairly bulky and therefore capable of switching in on resisted or weak hits. Life Orb, on the other hand, lets Bellsprout OHKO certain threats in exchange for the ability to switch in on certain attacks.
+
+Usage Tips
+========
+
+Due to Bellsprout's low defenses, it should only be switched in on resisted or weak attacks, even if Eviolite is used. Sleep Powder should always be used in situations where Bellsprout cannot OHKO the opposing Pokemon but can be OHKOed in return. If the opponent switches, Sleep Powder will provide a free turn for Bellsprout to set up Growth, making it capable of OHKOing most of the metagame with Solar Beam, or letting it just hit the sleeping foe hard with Solar Beam, if Sludge Bomb is being used. Sleep Powder also functions as a way for Bellsprout to escape on the last turn of sunlight.
+
+Team Options
+========
+
+Sunny Day support is mandatory for Bellsprout. Vulpix is the most obvious choice for this, able to automatically set up eight turns of sunlight with Drought if Heat Rock is used. Knock Off users help Bellsprout clean late game by removing Eviolite from opposing Pokemon. Pawniard is therefore a good teammate, and it also has good type synergy with Bellsprout. As Fletchling is able to outpace and OHKO Bellsprout thanks to priority Acrobatics, a check to Fletchling is very important. Archen, Magnemite, and Pawniard are all good choices for this role.
+
+Other Options
+########
+
+Giga Drain can be used instead of Solar Beam, but it suffers from a significant drop in power. Though mostly outclassed by a special set, a physical set of Power Whip / Knock Off / Sleep Powder / Swords Dance can be used. Bellsprout can also use a Choice Scarf, which allows it to reach 21 Speed even without sun, but this is rarely recommended.
+
+Checks & Counters
+########
+
+**Special Walls**: Munchlax with Sleep Talk is one of the best counters to Bellsprout. It can shrug off any unboosted attack and OHKO back with Fire Punch or 2HKO Bellsprout with Body Slam. Porygon is also a good answer to Bellsprout, as it can paralyze Bellsprout with Thunder Wave while not getting hurt too badly by Solar Beam.
+
+**Abra**: Abra can survive any hit from Bellsprout thanks to Focus Sash and OHKO Bellsprout with Psychic. However, it runs the risk of being put to sleep. Abra with Protect also has the ability to stall out sun turns in a pinch.
+
+**Grass-types**: Even though most Grass-types are dealt with by Weather Ball or Sludge Bomb, there are two exceptions. Snover removes sunlight and therefore outpaces and OHKOes Bellsprout with Blizzard. Chespin's ability, Bulletproof, makes it immune to Sludge Bomb and Weather Ball, meaning only a resisted Solar Beam from Bellsprout can damage Chespin. Both Snover and Chespin is also immune to Sleep Powder.
+
+**Flying-types**: Flying-types are a huge problem for Bellsprout. Vullaby has great special bulk and can therefore tank any unboosted hit from Bellsprout and OHKO back. It is also immune to Sleep Powder thanks to its ability, Overcoat. Fletchling is one of the best offensive checks to Bellsprout thanks to priority Acrobatics, which OHKOes Bellsprout.
+
+**Bulky Fire-types**: Bulkier Fire-types such as Houndour and Ponyta can be a pain for Bellsprout. They resist Solar Beam and Weather Ball, and can easily survive an unboosted Sludge Bomb and OHKO Bellsprout back with a sun-boosted Fire-type move. Ponyta is also able to deal with Archen, Magnemite, and Pawniard, all of which are very important checks to Fletchling.
+
+**Faster Choice Scarf users**: Faster Choice Scarf users such as Gastly and Doduo outspeed Bellsprout. Gastly can KO Bellsprout if it has taken some prior damage, while Doduo is able to OHKO Bellsprout at full health with Brave Bird.
+
+**Dragon-types**: Dragon-types resist all of Bellsprout's attacks except Sludge Bomb. Dratini is especially problematic for Bellsprout, as it has two abilities that let it deal with Sleep Powder. 

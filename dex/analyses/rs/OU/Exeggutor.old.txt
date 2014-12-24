@@ -1,0 +1,35 @@
+[Overview]
+
+<p>This used to be a force to be reckoned with, but it dropped in usage as it's virtually useless against Blissey and other special walls. Still, it might be able to catch opponents off-guard.</p>
+
+[SET]
+name: Sunnybeam
+move 1: Sleep Powder
+move 2: Sunny Day
+move 3: Solar Beam
+move 4: Hidden Power Ice / Hidden Power Fire
+item: Leftovers / Lum Berry
+nature: Modest
+evs: 52 HP / 252 SpA / 204 Spe
+ 
+[SET COMMENTS]
+
+<p>Sunny Day on the first turn, then use Solar Beam or Hidden Power to take down threats, or use Sleep Powder on opponents Exeggutor can't directly defeat. Hidden Power Ice is recommended as it hits Flying-types, Salamence in particular, but Hidden Power Fire can be used if Metagross is a concern. Exeggutor can also use Psychic over Sleep Powder or Hidden Power. Leftovers is recommended, but if you're worried about paralysis screwing it over, Exeggutor is able to use Lum Berry as well.</p>
+
+[SET]
+name: Stall
+move 1: Psychic
+move 2: Sleep Powder
+move 3: Leech Seed / Giga Drain
+move 4: Explosion
+item: Leftovers
+nature: Modest / Adamant
+evs: 96 HP / 252 SpA / 96 SpD / 60 Spe
+ 
+[SET COMMENTS]
+
+<p>This Exeggutor can be very annoying to fight due to Leech Seed and Sleep Powder. Dark-types can counter this, but if Exeggutor hits them with a Leech Seed on the switch, it'll still be in a good position. Eventually, your opponent will have to switch in one of their special tanks, such as Blissey or Snorlax; Exeggutor can then surprise them with Explosion. Giga Drain is good for Swampert and Tyranitar, though watch out for Crunch and Ice Beam. Adamant might seem like a weird choice of nature, but it can power up Explosion. With regard to EVs, Exeggutor should invest less in Speed and more in its defenses as it will be taking hits.</p>
+
+[Checks and Counters]
+
+<p>Counters to Exeggutor fall into two main groups: users of Pursuit, such as Houndoom, Tyranitar, and Metagross, and special tanks such as Blissey and Celebi. Additionally, if Exeggutor gets paralyzed, it'll basically be useless.</p>

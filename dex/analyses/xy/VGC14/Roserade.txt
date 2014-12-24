@@ -1,0 +1,54 @@
+Overview
+########
+
+At a glance, it looks like there is almost no reason to use Roserade in VGC. Amoonguss and Venusaur are both Grass / Poison types that not only see much more use in VGC, but also have a lot of positive traits over Roserade. Amoonguss boasts much greater bulk, a 100% accurate sleep move in Spore, and Rage Powder to redirect moves; Venusaur has increased Speed in sun thanks to Chlorophyll and a bulky Mega evolution to take hits more easily. However, Roserade has plenty of advantages over these two. Firstly, Roserade has a Special Attack stat of 125, meaning it hits harder than both Amoonguss and Venusaur. It also has 90 Speed, allowing it to outspeed Pokemon such as Rotom-H, Gardevoir, and Chandelure and put them to sleep before they can attack. Its ability, Technician, gives a boost to Hidden Power, giving it a powerful 90 Base Power Hidden Power Fire to hit Steel-types. It also deals with Pokemon such as Rotom-W, Azumarill, and Politoed very well. However, Roserade does have quite a few flaws. While it isn't necessarily slow, it's not very fast either, and is still outsped by Pokemon such as Charizard, Salamence, and Mega Kangaskhan. It also has quite poor physical bulk, meaning it has trouble taking physical attacks. Lastly, Roserade does have slight four-moveslot syndrome, as it really wants to run Magical Leaf, Sludge Bomb, Hidden Power Fire, Sleep Powder, and Protect all on the same set.
+
+Special Attacker
+#############
+name: Special Attacker
+move 1: Magical Leaf / Leaf Storm
+move 2: Sludge Bomb / Protect
+move 3: Hidden Power Fire
+move 4: Sleep Powder / Protect
+ability: Technician
+item: Life Orb
+evs: 252 SpA / 4 SpD / 252 Spe
+nature: Timid / Modest
+
+Moves
+======
+
+Magical Leaf is Roserade's main STAB attack, as it doesn't have the drawbacks of Leaf Storm and is more powerful than Giga Drain. It also has the same Base Power as Energy Ball when Technician is factored in, though Magical Leaf has the added bonus of never missing. Leaf Storm is another option for a Grass-type STAB attack, and is guaranteed to OHKO the standard Rotom-W set. However, the Special Attack drop hinders Roserade's performance for the rest of the time it's on the field. Sludge Bomb is a good secondary STAB attack that does great damage to Fairy- and Grass-types such as Gardevoir and Ludicolo. Protect is a very viable option on Roserade, as it helps it avoid spread moves and punishes double targeting. Hidden Power Fire is a great move for Roserade, as it's powerful with a boost from Technician and hits Steel-types such as Ferrothorn for super effective damage. It's also a better option against Grass-types that take neutral damage from Sludge Bomb, such as Amoonguss and non-Mega Venusaur. Sleep Powder is a great move in VGC, as it shuts down one of the opponent's Pokemon and is easily spammable due to the lack of Sleep Clause.
+
+Set Details
+=========
+
+Life Orb is the item of choice on Roserade, as it boosts its already powerful attacks and helps it distinguish itself from other Grass-types. Technician is an amazing ability that is helpful for boosting the power of Hidden Power Fire, making it from 60 Base Power to 90 Base Power. Maximum Special Attack and Speed investment helps Roserade to be as powerful and fast as possible. A Timid nature further boosts Roserade's Speed stat, though a Modest nature can be used to guarantee an OHKO on standard Rotom-W with Magical Leaf.
+
+Usage Tips
+=========
+
+Make sure there's a reason you're using Roserade instead of something like Venusaur or Amoonguss. Roserade's higher Special Attack, Speed, and Technician-boosted Hidden Power Fire are all reasons it may find a spot on your team. Make sure to remember that Roserade isn't the bulkiest of Pokemon, and as such isn't made to take attacks. It is best to bring Roserade when you see a Water-type on your opponent's team, such as Rotom-W or Politoed. It's also wise to not bring Roserade if Fire-, Flying-, Psychic-, and Ice-types are common on your opponent's team.
+
+Team Options
+============
+
+Pokemon that hate Water-types, such as Talonflame, Chandelure, and Mamoswine all appreciate Roserade's powerful Grass-type STAB attacks. Pokemon such as Garchomp and Mega Mawile also dislike Rotom-W, making Roserade a helpful partner for these Pokemon. Rotom-W and Rotom-H are helpful partners for Roserade, as they can absorb the Fire-, Flying-, and Ice-type moves Roserade hates. Tyranitar also makes a helpful partner, as it can absorb Flying-, Fire-, and Psychic-type attacks for Roserade quite easily.
+
+Other Options
+##########
+
+Hidden Power Ice is a nice option for nailing Dragon-types, though the loss of Hidden Power Fire is almost never worth it. Giga Drain can be used to help recover HP, but it is weaker than both Magical Leaf and Leaf Storm and is usually used better by Venusaur, which has better bulk. Weather Ball can be used on rain teams for a powerful Water-type attack, though it isn't very helpful otherwise. Focus Sash is very helpful for being able to survive an attack at full health, as Roserade is frail. However, it has to give up Life Orb in order to do this, and sandstorm damage and priority attacks can easily pick off a 1% Roserade. Choice Scarf and Choice Specs are decent options for hitting faster or harder, respectively, but Roserade is usually outclassed by other Choice item users, such as Gardevoir. Natural Cure is a useful ability for being able to cure status when Roserade switches out, though the loss of Technician means it usually isn't worth it. Hidden Power Rock can be used for Fire- and Flying-types, though most of them outspeed Roserade and Sludge Bomb usually hits these Pokemon hard anyway. Lastly, Wide Lens can be used for a more accurate Sleep Powder, though the loss in Life Orb makes it an inferior option.
+
+Checks & Counters
+###############
+
+**Flying-types**: Flying-types such as Talonflame can easily OHKO Roserade with their Flying-type STAB moves.
+
+**Fire-types**: Fire-types such as Charizard, Rotom-H, and Chandelure can all OHKO Roserade with STAB Fire Blast or Overheat.
+
+**Psychic-types**: Psychic-types such as Gardevoir can OHKO Roserade with a STAB Psychic-type move.
+
+**Ice-types**: Ice-types such as Mamoswine can OHKO Roserade with their STAB attacks.
+
+**Powerful Attackers**: In general, powerful attackers that outspeed Roserade can take it out with relative ease. This includes Pokemon such as Mega Kangaskhan, Salamence, Hydreigon.

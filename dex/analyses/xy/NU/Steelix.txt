@@ -1,0 +1,87 @@
+Overview
+########
+With a base 200 Defense stat, it's no surprise that Steelix is one of the best physical walls in NU. Due to its ten resistances, Steelix is capable of shutting down common physical threats such as Swellow and Sneasel. Furthermore, Steelix has access to Stealth Rock and phazing moves, offering valuable support to teams. However, its four weaknesses are very common, and it has a lackluster Special Defense stat. This, combined with its lack of reliable recovery, means that Steelix can be worn down very quickly if used incorrectly.
+
+
+Wall
+########
+name: Wall
+move 1: Stealth Rock
+move 2: Earthquake
+move 3: Roar / Dragon Tail
+move 4: Heavy Slam / Gyro Ball
+ability: Sturdy
+item: Leftovers
+evs: 252 HP / 4 Def / 252 SpD
+nature: Careful / Sassy
+
+Moves
+========
+Steelix is one of the most reliable users of Stealth Rock in the tier, and, given the move's overall utility, there's no reason not to run it. Earthquake is Steelix's primary STAB move, threatening a majority of the Pokemon that Steelix walls when paired with its Steel-type STAB move. While the choice of Heavy Slam or Gyro Ball is up to the user, they both have similar damage outputs. Gyro Ball deals more damage to faster Pokemon such as Scyther, Haunter, and most Choice Scarf wielders; whereas Heavy Slam deals more to lighter Pokemon such as Granbull. Because Heavy Slam has a higher PP, it is the recommended choice. Roar goes through Substitutes and hits Fairies, while Dragon Tail hits Soundproof users and deals some damage. Either of these phazing moves lets Steelix force a boosted threat out while also racking up passive damage by switching in random and potentially ineffective Pokemon.
+
+Set Details
+========
+The EVs maximize overall bulk, as Steelix's physical bulk doesn't need a huge boost. Even with minimal Defense investment, Steelix easily takes most physical hits. Leftovers gives Steelix passive recovery, as it has no other form of recovery. Both natures listed boost Special Defense; use a Sassy nature with Gyro Ball and a Careful nature without it. Steelix has a variety of usable EV spreads, so you can change it based on what you want to stop. For example, a spread of 252 HP / 96 Def / 160 SpD and a Relaxed nature lets Steelix focus more on physical bulk while keeping some special bulk. If you do choose to use Gyro Ball, you should also give Steelix 0 Speed IVs. Lastly, Sturdy is the only ability with any use.
+
+Usage Tips
+========
+
+Steelix has a very simple job, which is dealing with physical attackers. It should switch into Pokemon that can't damage it and then respond with an attack or a support option. Steelix shouldn't stay in against special attackers, however, as most special attacks will do significant damage to it. This is especially pertinent because Steelix has no way of healing off that damage. Keep in mind that a few of the Pokemon Steelix can stop, like Electivire, can run special or mixed sets, so be careful when switching into such threats. This set can also stop most Uxie and Mesprit variants, although you need to beware of getting Tricked a Choice item.
+
+Team Options
+========
+One of Steelix's primary roles is to set up Stealth Rock. As such, Pokemon that can deal with Rapid Spin users and Defoggers are appreciated. Gourgeist and Mismagius are great teammates, as they have access to Will-O-Wisp to weaken physical attackers and are also immune to Ground- and Fighting-type attacks, two of Steelix's weaknesses, respectively. Specially defensive Pokemon such as Cryogonal are also great allies given Steelix's lack of special bulk. Lanturn is another good teammate given its ability to scare both Fire- and Water-types out. Vileplume deals with Water- and Fighting-types well, although it shares a weakness to Fire with Steelix. Lastly, a little Wish support goes a long way in preserving Steelix given its lack of recovery.
+
+
+Bulky Attacker
+########
+name: Bulky Attacker
+move 1: Iron Head
+move 2: Earthquake
+move 3: Crunch / Rock Slide
+move 4: Stealth Rock
+ability: Sheer Force
+item: Life Orb
+evs: 252 HP / 252 Atk / 4 SpD
+nature: Adamant / Brave
+
+Moves
+========
+Earthquake and Iron Head are Steelix's two main STAB moves on this set, with Iron Head being boosted by Sheer Force. The third attacking move depends on what you want to hit; Crunch does more damage to Rotom, Uxie, and Mesprit, whereas Rock Slide hits Flying-types such as Pelipper, Mantine, and Rotom-S. Stone Edge is not used because Rock Slide is more accurate and, with Sheer Force, more powerful. Fire Fang or Thunder Fang can be used to hit Ferroseed or Water / Flying types, but the lack of power is disappointing. The last move in this set should be Stealth Rock, as it provides great team support.
+
+
+Set Details
+========
+The EVs maximize Steelix's Attack and overall bulk. There's no need for investment in Defense given Steelix's massive base Defense stat. Using a Life Orb allows Steelix to do tons of damage while not locking itself into one move. An Adamant nature gives Steelix an Attack boost, while Sheer Force boosts the power of most of its moves and makes the damage output of this set reasonable.
+
+Usage Tips
+========
+With Steelix's bulk, it is easy to switch in and start attacking. However, because it has very clear counters, bringing it in through a double switch is often a good idea. Steelix won't sweep very often, but it can punch holes in the opposing team that your other sweepers can make use of.
+
+Team Options
+========
+Physical sweepers like Feraligatr and Klinklang are good teammates because they can take advantage of the damage Steelix does to their counters, turning 2HKOs into OHKOs. Grass-types such as Lilligant are good teammates, threatening the Water-types that often switch into Steelix, while Steelix deals with the Poison-types that threaten them. Fighting-types also enjoy Steelix's ability to deal with Psychic- and Fairy-type Pokemon, so Gurdurr and Hariyama work well with it. Normal- and Bug-type sweepers enjoy that Steelix deals with Rock- and Steel-types, so Tauros, Zangoose, and Scyther are good teammates as well. Finally, due to its lack of recovery, a little Wish support can help Steelix immensely.
+
+
+Other Options
+########
+Steelix has a ton of other options, but most of them are nowhere near as good as the ones listed. Rock Polish is usable, but Steelix is still too slow after using it. Protect + Leftovers could be used with Sturdy to scout and regain HP lost to entry hazards, allowing Steelix to use Sturdy again. Explosion is an option, but it will often fail to KO most Pokemon and is significantly less useful than it would be with the unreleased Custap Berry. Rocky Helmet could be used, but Steelix needs all the recovery it can get from Leftovers. Rock Head's only use is with Double-Edge, which is nowhere near as powerful as Steelix's other moves. Toxic can be used to spread status, but there are often better choices for such a role, such as Sandslash or Seismitoad. Curse boosts Steelix's Attack and Defense while making Gyro Ball even more powerful, but Steelix usually doesn't have time to set up before a special attacker switches in.
+
+Checks & Counters
+########
+
+**Fire-types**: Fire-type Pokemon such as Typhlosion and Pyroar can outspeed and KO Steelix with their super effective Fire-type attacks.
+
+**Water-types**: Water-types such as Samurott and Seismitoad force Steelix out every time they switch in.
+
+**Fighting-types**: Despite its sky-high physical defense, STAB Fighting-type moves from Pokemon such as Sawk and Hariyama will wear Steelix down quickly. 
+
+**Ground-types**: A strong Earthquake will put a dent in Steelix, so Ground-types such as Golurk are very hard for Steelix to get around.
+
+**Special Attackers**: Any strong neutral special attack will take a chunk out of Steelix's health, so special attackers such as Choice Specs Rotom, Lilligant, and Mismagius can cause serious problems.
+
+**Burn**: Getting burned cripples Steelix by lowering its damage output and wearing it down.
+
+**Xatu**: If Steelix is running Roar, Xatu is a counter because it can Roost off any damage and bounce back Stealth Rock, all while setting up with Calm Mind.
+
+**Defog and Rapid Spin**: Pelipper, Swanna, and Mantine can scare Steelix out with Water-type moves and use Defog to remove its entry hazards. They should all be wary of taking a Rock Slide or Thunder Fang, however. Similarly, Sandslash has the bulk to take whatever Steelix throws at it and Rapid Spin away Stealth Rock while also hitting it with super effective Earthquakes.

@@ -1,0 +1,98 @@
+[Overview]
+
+<p>Porygon-Z remains much the same as it was in BW, as it received nothing new in the transition to BW2. Unlike its younger brother Porygon2, Porygon-Z is made for sweeping, as its above-average offensive stats tower over its meager defensive stats. However, Porygon-Z is still overlooked for more powerful or faster sweepers such as Chandelure or Raikou despite having everything it needs to be a top-tier threat. With access to Agility, Nasty Plot, and two very useful abilities in Adaptability and Download, Porygon-Z is one of the underrated threats in the Underused tier, and should always be considered when building a team.</p> 
+
+[SET]
+name: Agility
+move 1: Agility
+move 2: Tri Attack
+move 3: Dark Pulse
+move 4: Hidden Power Fighting
+item: Life Orb
+ability: Download
+nature: Modest
+evs: 96 HP / 252 SpA / 160 Spe
+
+[SET COMMENTS]
+
+<p>Porygon-Z is a great user of Agility, as it allows it to patch up its shanty base 90 Speed stat. With the given EVs a single Agility enables Porygon-Z to outspeed Choice Scarf Mienshao, the fastest Pokemon in the Underused tier. Potentially empowered by a Special Attack boost courtesy of Download, Porygon-Z can become a menace with only a single turn of setup. Tri Attack functions as STAB and carries a handy chance to cause three different types of status: burn, paralysis, and freeze. Dark Pulse is used to hit the Ghost-type Pokemon found throughout the Underused tier such as Mismagius and Cofagrigus for super effective damage, while Hidden Power Fighting rounds off Porygon-Z's coverage, giving a solid super effective hit against Steel-type opponents such as Empoleon and Cobalion. It's all about setting up at the right time with Agility Porygon-Z: it's quite frail, it needs to find a time to set up, and it often needs to get a Download boost to sweep teams if they're not sufficiently weakened. However, once it is properly setup, it is a complete monster.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Because this set does not hit nearly as hard as most other Porygon-Z sets, it appreciates entry hazard support from Pokemon such as Froslass and Roserade, allowing it to dish out as much damage as possible. This set also appreciates having teammates such as Cobalion and Mienshao eliminate the likes of Snorlax and Porygon2, as the lack of raw power makes it harder for Porygon-Z to break through the premier special walls of the tier. In addition to beating Snorlax and Porygon2, Cobalion can also set up Stealth Rock for Porygon-Z. Porygon-Z also wants to be paired with relatively bulky Pokemon such as Cresselia, Snorlax and Cofagrigus, as it lacks any viable source of bulk, and does not want to be taking any strong attacks whatsoever.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Tri Attack
+move 2: Dark Pulse
+move 3: Hidden Power Fighting
+move 4: Trick
+item: Choice Scarf
+ability: Adaptability
+nature: Timid / Modest
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>Much like the Agility set, a Choice Scarf may be used to patch up Porygon-Z's Speed, turning it into an adept revenge killer. However, this set does not sacrifice power as much as the Agility set does, as Adaptability turns Tri Attack into a menacing 160 Base Power move when factoring in STAB. This enables Porygon-Z to muscle its way past just about anything that doesn't resist the powerhouse of a move. Dark Pulse provides coverage against Ghost-types such as Cofagrigus and Froslass, that might attempt to switch in on Tri Attack and begin their setup. Hidden Power Fighting prevents Steel-type Pokemon, such as Registeel and Bisharp, from flat-out walling Porygon-Z. Trick is a sneaky move that cripples slower setup Pokemon such as Bronzong and Gligar, rendering them next to useless throughout the remainder of the match. Because of the sheer power in an Adaptability-boosted Tri Attack, this Porygon-Z variant has the potential to beat its common switch-ins, Porygon2 and Snorlax.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Thunderbolt can be used over Trick for additional coverage against the Water- and Flying-types found in the Underused tier, but an Adaptability-boosted Tri Attack will be doing only slightly less damage. Also, common Pokemon such as Flygon, Swampert, and Rhyperior are immune to Electric-type attacks and giving any of those Pokemon a free turn can be deadly. Pokemon such as Roserade and Gligar make for good teammates, as they can both set up the entry hazards that Porygon-Z appreciates having its opponents switch into, and they can both take Fighting-type attacks aimed at Porygon-Z as well. Porygon-Z also likes having bulky teammates such as Milotic and Rhyperior available, as Porygon-Z more or less implodes once touched by a powerful attack, and wants teammates that can take those hits. Download may be used over Adaptability to possibly give a boost to Poygon-Z's other attacks, but much like on the Internet, downloading things can be harmful, and the boost is not always guaranteed. A Modest nature may be used in place of a Timid nature to secure more powerful hits against Porygon-Z's switch-ins, but due to the popularity of Choice Scarf Heracross, it is recommended that Porygon-Z run maximum speed.</p> 
+
+[SET]
+name: Choice Specs
+move 1: Tri Attack
+move 2: Dark Pulse
+move 3: Hidden Power Fighting
+move 4: Trick
+item: Choice Specs
+ability: Adaptability
+nature: Modest / Timid
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>Sacrificing Speed for immediate power, Choice Specs Porygon-Z functions as one of the tier's best wallbreakers, capable of plowing through the two premier special walls in the tier, Snorlax and Porygon2. With Adaptability, Tri Attack becomes a very powerful move. To show exactly how powerful it is, here's how it fares against some of the specially defensive Pokemon in the Underused tier:</p>
+
+<ul class="damage_calculation">
+<li>Tri Attack vs. 252/80 Porygon2 50.8%-59.89%</li>
+<li>Tri Attack vs. 208/176+ Snorlax 41.33%-48.73%</li>
+<li>Tri Attack vs. 252/252+ Umbreon 45.17%-53.29%</li>
+<li>Tri Attack vs. 248/236+ Zapdos 60.57%-71.54%</li>
+<li>Tri Attack vs. 252/136+ Roserade 69.75%-82.71%</li>
+<li>Tri Attack vs. 248/176+ Slowking 53.94%-63.61%</li>
+</ul>
+
+<p>This means that Porygon2, Zapdos, Roserade, and Slowking are all 2HKOed no matter what, and Umbreon is 2HKOed with Stealth Rock on the field. This leaves very few safe switch-ins to Porygon-Z. Dark Pulse annihilates any Ghost-type Pokemon that is gutsy enough to step in front of a Tri Attack, such as Cofagrigus or Sableye, and Hidden Power Fighting rounds off the coverage, reducing Steel-type Pokemon such as Empoleon or Bisharp to dust. Trick is a nasty move that cripples setup sweepers and walls, making them easier for your team to plow through.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>A Timid nature may be used over a Modest nature to gain the jump on neutral-nature Roserade or neutral base 100 Speed Pokemon, but reduces Porygon-Z's wallbreaking power. Like the Choice Scarf set, Thunderbolt can be used over Trick for extra coverage, but is not recommended as Choice Specs Tri Attack already nukes so much of the tier and really hurts whatever Thunderbolt would be targeted at. Entry hazard and paralysis support from Pokemon such as Roserade, Claydol, and Xatu are appreciated by this slower variant of Porygon-Z, allowing it to outspeed and destroy the opposing team. Porygon-Z pairs nicely with bulky Pokemon such as Cresselia and Snorlax, as it cannot stomach any hits at all. Download can be used over Adaptability in hopes of a +1 Special Attack stat backed by Choice Specs. However, Download can be rather unreliable at times and is not recommended despite the pay-off.</p>
+
+[SET]
+name: Nasty Plot
+move 1: Nasty Plot
+move 2: Tri Attack
+move 3: Dark Pulse
+move 4: Hidden Power Fighting
+item: Life Orb
+ability: Adaptability
+nature: Timid
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>When Porygon-Z uses Nasty Plot, it brings its Special Attack to levels that even startle Pokemon in the Uber tier, making it one of the most fearsome Pokemon in the Underused tier. Backed by a Nasty Plot boost and Adaptability, Tri Attack performs as a scary-strong STAB move capable of swiftly 2HKOing both Porygon2 and Snorlax. It also provides an easy to spam move, 2HKOing or OHKOing the majority of the Underused tier. Dark Pulse and Hidden Power Fighting provide excellent coverage and dispatch the Ghost- and Steel-type Pokemon such as Cofagrigus or Registeel that would normally scoff at Tri Attack. With them out of the way, Porygon-Z is free to spam Tri Attack and reduce the opposing team to mere ashes.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>A Modest nature can be used over a Timid nature, as it greatly adds to Porygon-Z's ability to KO opposing Pokemon, but considerably slows Porygon-Z down, leaving it more prone to revenge killing. This variant of Porygon-Z appreciates Stealth Rock support from Pokemon such as Claydol or Gligar, as it helps break any stray Focus Sashes, enabling Porygon-Z to sweep undisturbed. Paralysis support from Pokemon such as Xatu or Rotom-H is also appreciated, especially if a Modest nature is being used, as it allows Porygon-Z to outspeed and nuke faster threats. Porygon-Z still wants to be put on a team with bulky Pokemon such as Cofagrigus and Porygon2, as it lacks solid bulk and won't be taking powerful attacks exceptionally well. Download may be used over Adaptability but can be unreliable and is not recommended, as many Pokemon invest enough Special Defense to give an unwanted Attack boost.</p>
+
+[Other Options]
+
+<p>Porygon-Z has a fairly wide movepool, containing moves such as Psychic, Signal Beam, Thunderbolt, and Shadow Ball, but none of these add any useful coverage, as an Adaptability Tri Attack will be hitting as hard, if not harder, than these four options would in a super effective scenario. Analytic can be used, as Porygon-Z sits at a Speed tier that allows for a decently-sized portion of the tier to outspeed it, but its other abilities Download and Adaptability are usually much better and Porygon-Z lacks the bulk to be attacking last.</p>
+
+[Checks and Counters]
+
+<p>Beating a set-up Porygon-Z can be rather difficult, as nothing can repeatedly switch in on its barrage of Tri Attacks and coverage moves. One way of beating Porygon-Z is by outspeeding it; Pokemon such as Choice Scarf Mienshao and Choice Scarf Darmanitan outspeed all variants except if it is at +2 Speed and threaten back with High Jump Kick and Flare Blitz respectively. Spiritomb functions as a niche counter for Porygon-Z, taking damage from only Dark Pulse or Shadow Ball while threatening back with Pursuit or Sucker Punch. Bisharp resists both Tri Attack and Dark Pulse and can threaten Porygon-Z with a powerful STAB Sucker Punch, but fears Hidden Power Fighting. Snorlax and Porygon2 are capable of stomaching hits from the Agility set, and can even take hits from other sets, but must be wary of Choice Specs or Nasty Plot variants, as they hold the power to 2HKO the specially defensive titans. Umbreon and specially defensive Rhyperior function as decent checks to Porygon-Z, but will eventually fall from the onslaught of attacks if they cannot KO Porygon-Z fast enough.</p>

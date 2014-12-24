@@ -1,0 +1,41 @@
+[Overview]
+
+<p>Hariyama's excellent base 120 Attack, combined with the power boost from Guts and a STAB Close Combat, makes it a very viable threat. Its low base 50 Speed is a blessing under Trick Room, which its teammate will have an easier time setting up first turn thanks to Hariyama's Fake Out flinching one opponent. Above average 144 / 60 / 60 defenses ensure that Hariyama won't be easily KOed before its partner can set up. All of these traits make it the perfect candidate for a Fake Out user on a Trick Room team.</p>
+
+[SET]
+name: Trick Room Lead
+move 1: Fake Out
+move 2: Close Combat
+move 3: Ice Punch / Rock Slide
+move 4: Detect / Wide Guard
+item: Flame Orb
+ability: Guts
+nature: Brave
+evs: 252 Atk / 124 Def / 132 SpD
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>The purpose of this set is for Hariyama to use Fake Out on turn 1 in order to assist its partner in setting up Trick Room. Subsequently, the Flame Orb will have burned Hariyama, activating Guts and giving Hariyama a 1.5x boost in Attack, bringing its Attack stat to 283.</p>
+
+<p>A Guts-boosted Close Combat hits everything that does not resist it for huge amounts of damage. Ice Punch can OHKO Latias, Latios, Thundurus, and Tornadus while giving Hariyama great neutral coverage. Rock Slide targets both opponents, and hits Pokemon such as Chandelure, Jellicent, and Volcarona for more damage. Rock Slide also allows Hariyama to damage Shedinja. It should be noted that a neutral Close Combat is more powerful than a 2x effective Rock Slide or Ice Punch, and a resisted Close Combat does more damage than a neutral Rock Slide or Ice Punch.</p>
+
+<p>Hariyama can use Detect to allow it to survive for an extra turn, while Wide Guard can be used to protect your team from multi-target attacks, such as Blizzard, Rock Slide, Heat Wave, and Earthquake. However, because of Egg move restrictions, Wide Guard and Ice Punch are incompatible.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The 252 Attack EVs and a Brave nature allow Hariyama to do as much damage as possible, while the remaining EVs are split between Defense and Special Defense to maximize Hariyama's bulk.</p>
+
+<p>A Flame Orb is the best item for this set, but a Toxic Orb could be used if a teammate is running Flame Orb, or if you don't think Hariyama will be staying in for more that 3 turns. A Flame Orb is necessary because first, without the Guts boost, Hariyama will miss out on a lot of OHKOs, and second, burn gives Hariyama an immunity to status from the likes of Amoonguss. Furthermore, resist berries do not work too well with Hariyama because it will usually be attacking under Trick Room and will often KO the opponent before it gets to attack.</p>
+
+<p>Hariyama pairs very well with bulky Trick Room users such as Dusclops, Cresselia, and Musharna. The Trick Room users appreciate only having to take one hit when trying to set up, or even avoid being Taunted or Imprisoned thanks to Fake Out. Hariyama can also take out Dark-types such as Tyranitar and Scrafty for them. Dusclops, Cresselia, and Musharna can also use Helping Hand to boost Hariyama's power to even higher levels. Chandelure is another good partner for Hariyama as it can not only set up Trick Room, but also use Shadow Ball to beat the Psychic- and Ghost-types with whom Hariyama has trouble.</p>
+
+[Other Options]
+
+<p>Stone Edge hits a lot harder than either Ice Punch or Rock Slide, but its 80% accuracy is a bit shaky, and the extra power is unnecessary after a Guts boost. Nonetheless, Stone Edge would help greatly against bulky Psychic- and Ghost-types such as Cresselia, Musharna, Reuniclus, Dusclops, and Jellicent. Payback could be used to hit Psychic- and Ghost-types harder, but Hariyama will rarely be moving last in Trick Room. Bullet Punch is a less specific priority option. Hariyama learns Fire Punch and ThunderPunch, but neither gains any notable coverage. Facade could be used to hit Flying- and Psychic-types hard, but if used with only Close Combat, Hariyama will have no way of hitting Ghost-types. Faint Attack could be used to hit Ghost- and Psychic-types super effectively and never miss, but the added power is insignificant. Payback gets the same 2HKOs, which may turn into OHKOs if Hariyama is attacked first. Low Kick has more PP than Close Combat, and can be used to do a lot of damage to Pokemon such as Metagross, Rhyperior, and Tyranitar without the stat drops. However, it will not hit all Pokemon with 120 Base Power, so it is not as reliable as Close Combat. For example, Low Kick misses out on OHKOs against common threats such as Hitmontop, Politoed, and Ninetales. Earthquake is another move Hariyama can learn which hits both opponents, but Ice Punch and Rock Slide give better coverage.</p>
+
+<p>Hariyama can support its teammates with Helping Hand, but it is better off all-out attacking, and the job of using Helping Hand is usually done better by more defensive Pokemon. Hariyama can learn Belly Drum, but will have trouble setting it up in a 2v2 battle. Thick Fat can be used to resist Fire- and Ice-type moves such as Heat Wave and Blizzard, but the drop in power is significant, and Hariyama already takes hits well enough. Hariyama's Dream World ability, Sheer Force, boosts the power of moves that have secondary effects by 30%. Examples of such moves would include Ice Punch and Rock Slide, but not Close Combat, which is Hariyama's main attacking move, so Guts would be the better option. A Payapa Berry or Coba Berry could be used, but with the former, Hariyama will often not be able to KO the Psychic-type in the extra turn it gains, and with the latter, Hariyama will not hit hard enough to OHKO a 4/0 Tornadus unless it chooses to run Stone Edge.</p>
+
+[Checks and Counters]
+
+<p>Hariyama has a lot of trouble dealing with bulky Psychic- and Ghost-type Pokemon, as it cannot hit them hard enough to do any significant damage, so Musharna, Cresselia, Jellicent, Reuniclus, Dusknoir, and Dusclops counter Hariyama very well. Latios and Latias can take a Rock Slide and hit Hariyama back with Psyshock, Psychic, or Draco Meteor, which will often KO it after burn damage. However, they have to watch out for Ice Punch, which will OHKO them. Pokemon who can use priority moves, such as Hitmontop and Metagross, can take advantage of Close Combat defense drops and residual burn damage to finish off Hariyama. Outside of Trick Room, anything that outspeeds Hariyama and has a STAB super effective move, such as Tornadus, can often OHKO it.</p>

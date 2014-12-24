@@ -1,0 +1,141 @@
+[Overview]
+
+<p>With the ability to run a physically offensive SubPunch set, a specially attacking Calm Mind one, a defensive Counter one, and even several support sets, Clefable's unpredictability is its biggest strength; there are zero hard counters to it. However, once its set is revealed, its average stats across the board will give it difficulty damaging things effectively.</p>
+
+[SET]
+name: Belly Drum
+move 1: Belly Drum
+move 2: Meteor Mash / Thunder Wave / Cosmic Power
+move 3: Soft-Boiled
+move 4: Return
+item: Leftovers
+nature: Adamant
+evs: 224 HP / 252 Atk / 32 Spe
+ 
+[SET COMMENTS]
+
+<p>Belly Drum Clefable is quite fun, though not too good as its Attack is only 1048 after a Belly Drum. Clefable's low Speed also makes it hard to sweep with, so make sure to paralyze faster foes beforehand, either with a teammate or by itself. Even if Clefable can't find an opportunity to use Belly Drum, it can still fish for Attack boosts with Meteor Mash.</p>
+
+<p>Cosmic Power is an option as well to make this set a better tank, and should be used as follows: Cosmic Power until it isn't taking much damage at all, then Soft-Boiled to heal up, set up Belly Drum, and start attacking. If Clefable runs into something it can't beat, such as a Ghost, it can Soft-Boiled to full HP, then switch out to come back later and try again.</p>
+
+<p>The listed EVs let Clefable outspeed Blissey and Weezing.</p>
+
+[SET]
+name: Calm Mind
+move 1: Calm Mind
+move 2: Soft-Boiled / Rest
+move 3: Ice Beam
+move 4: Thunderbolt
+item: Leftovers
+nature: Modest
+evs: 252 HP / 72 Def / 184 SpA
+ 
+[SET COMMENTS]
+
+<p>Access to recovery and good coverage lets Clefable pull off a decent Calm Mind set. The combination of Ice Beam and Thunderbolt is only resisted by Magneton, Lanturn, and Shedinja, but Clefable still can't break through good special sponges, such as Snorlax.</p>
+
+<p>You can toy around with its EVs: while the Defense investment gives greater all-around bulk, running more Special Defense lets Clefable set up more easily on special attackers. More Speed can help for Weezing and Skarmory, and more Special Attack grants Clefable more firepower.</p>
+
+[SET]
+name: Counter
+move 1: Shadow Ball
+move 2: Return / Seismic Toss
+move 3: Counter
+move 4: Soft-Boiled
+item: Leftovers
+nature: Impish
+evs: 252 HP / 72 Atk / 184 Def
+ 
+[SET COMMENTS]
+
+<p>Counter is one of Clefable's coolest moves. Pokemon it can surprise and take down include Snorlax, Swampert, and Aerodactyl, as Clefable survives all of their attacks, and even Heracross's Choice Band Megahorn as well. Several other moves can be used in the first two moveslots: Ice Beam and Thunderbolt for great coverage, or even Calm Mind or Light Screen to better lure physical attacks. If using Calm Mind, make sure to use a special attack, a Bold nature, and Special Attack EVs. Thunder Wave isn't recommended, though; if the opponent is fully paralyzed on the turn Clefable uses Counter, its surprise will be given away.</p>
+
+[SET]
+name: Mixed Attacker
+move 1: Substitute
+move 2: Focus Punch
+move 3: Flamethrower / Thunderbolt
+move 4: Shadow Ball / Meteor Mash / Ice Beam
+item: Leftovers
+nature: Quiet / Brave
+evs: 244 HP / 144 Atk / 120 SpA
+ 
+[SET COMMENTS]
+
+<p>Opponents that attempt to get rid of this Clefable with Tyranitar or Blissey will be in a world of pain, thanks to Focus Punch, and even after they wise up to Focus Punch, Clefable can still beat Skarmory with its third move. Specifically, Flamethrower also deals with Steel-types, while Thunderbolt takes down Water-and Flying-types. Shadow Ball messes up Ghost-types, and is generally the best choice as Fighting + Ghost isn't resisted by anything. Meteor Mash gives Clefable a more reliable way to bring down Rock-types, and strongly dent Ghost-types as well. Finally, Ice Beam solves any Salamence trouble your team might have had, and removes Flying-types too if you're not using Thunderbolt. All in all, this is a very diverse set that can feasibly run just about anything in the last moveslot.</p>
+
+<p>The Speed-hindering nature lets Clefable move after Blissey, allowing it to put up a Substitute and 2HKO with Focus Punch. With the given offensive EVs, Focus Punch will easily OHKO Tyranitar, and Ice Beam OHKO 4/0 Choice Band Salamence. Flamethrower will OHKO Forretress; both that and Thunderbolt will 2HKO Skarmory.</p>
+
+[SET]
+name: Cosmic Power
+move 1: Cosmic Power
+move 2: Rest
+move 3: Seismic Toss
+move 4: Encore / Toxic
+item: Leftovers
+nature: Calm
+evs: 252 HP / 240 Def / 16 SpD
+ 
+[SET COMMENTS]
+
+<p>This is a stall set and will take a long time to win with. After gaining a few boosts, use Encore on an attacking move and Seismic Toss opponents to death, or use Toxic to wear down your opponent while you set up or recover freely. It has issues with being phazed after using Rest, its inability to touch Gengar, and inevitable critical hits. Nevertheless, Rest is preferred as Soft-Boiled leaves Clefable vulnerable to status.</p>
+
+<p>With regard to alternative options, either Flamethrower or Fire Blast can be used to shut down Steel-types and Weezing.</p>
+
+[SET]
+name: Anti-Sweeper
+move 1: Thunder Wave
+move 2: Encore
+move 3: Seismic Toss
+move 4: Soft-Boiled
+item: Leftovers
+nature: Calm
+evs: 252 HP / 240 Def / 16 SpD
+ 
+[SET COMMENTS]
+
+<p>It is very hard for any sweeper to break through this as long as it maintains high health. Thunder Wave ruins speedy foes, and makes Encoring stat-boosting moves much easier. Encore can let Clefable set up a sweep for a teammate as well. For example, if Clefable uses Encore on a Curse Swampert's Earthquake, Swampert will likely stay in as Clefable cannot do anything to it and will eventually fall. This makes for a perfect opportunity to switch in your Belly Drum Charizard, set up, and sweep.</p>
+
+[SET]
+name: Choice Band
+move 1: Double-Edge / Body Slam / Return
+move 2: Shadow Ball
+move 3: Meteor Mash
+move 4: Brick Break / Focus Punch
+item: Choice Band
+nature: Adamant
+evs: 64 HP / 252 Atk / 192 Spe
+ 
+[SET COMMENTS]
+
+<p>This is a more novel set, but is largely outclassed by the myriad other Normal-type Choice Band users. Clefable's only advantage over them is Meteor Mash, which isn't that great anyway. Feel free to also run a special move, such as Flamethrower or Thunderbolt, to hurt Skarmory. These EVs let Clefable outpace Metagross and about anything else with 200 Speed or lower.</p>
+
+[SET]
+name: Psych Up
+move 1: Psych Up
+move 2: Encore
+move 3: Thunderbolt
+move 4: Ice Beam
+item: Leftovers
+nature: Timid
+evs: 4 HP / 252 SpA / 252 Spe
+ 
+[SET COMMENTS]
+
+<p>Created by Hipmonlee, this set is a rather roundabout Suicune counter. Hit away with Thunderbolt while it sets up with Calm Mind; when it has about three or four Calm Mind boosts (never get too greedy!), use Psych Up. Of course, Suicune will try to Roar Clefable away; that's when it should use Encore. Now your opponent will have to deal with a fully set-up Calm Mind user.</p>
+
+[Other Options]
+
+<p>Charm greatly hinders Curse Snorlax and Swampert, and to a lesser extent Dragon Dance users as well. Fire Blast is a more powerful but less accurate option over Flamethrower. Hidden Power Grass puts a big dent into Swampert and also hurts Tyranitar; you might want to use Magical Leaf if you're afraid of Counter. Psychic dents Fighting-types, but Medicham and Heracross are neutral to it, and the latter takes more damage from Fire moves. Reflect is a great move to support your team with, and can work in tandem with Counter. Safeguard is another team support move, but is less useful. Sing can quickly incapacitate your opponent's Clefable counter and let Clefable set up Calm Mind or Belly Drum. Snatch, though a novelty move, can get Clefable a Substitute, Calm Mind, Recover, Soft-Boiled, Aromatherapy, or Dragon Dance if you're good at predicting. Wish can be used over Soft-Boiled most of the time; Clefable is an above-average Wish user. It might be wise to use Protect as well, as it can scout Choice Band users, stall for Leftovers recovery, and protect Clefable from Explosion.</p>
+
+[Checks and Counters]
+
+<p>Clefable is difficult to counter due to its versatility and access to Sing; you'll usually have to use a combination of Pokemon to beat it. The good news, though, is that it's relatively uncommon.</p>
+
+<p>Swampert walls most sets that don't use Hidden Power Grass or Magical Leaf. It can hit Clefable hard with Earthquake, but defensive variants can shrug it off with Soft-Boiled. Alternatively, Swampert can try to Curse up against it, but watch out for Encore, or worse, Counter. Milotic and Suicune can somewhat wall Clefable, but can't pose much of an offensive threat. If Clefable has Soft-Boiled, all they can do is poison it with Toxic, or in Milotic's case, put it to sleep with Hypnosis. Mirror Coat might work as well on Thunderbolt Clefable. Suicune can set up Calm Mind boosts and Roar Clefable away unless Clefable is running Encore; the Psych Up set, however, is Suicune's greatest nightmare. If Clefable doesn't have Thunderbolt or doesn't cause paralysis on the switch, Taunt Gyarados is a great counter. Zapdos can put a hurting on non-specially defensive Clefable.</p>
+
+<p>Jirachi can comfortably set up Calm Mind on Clefable while staying healthy with Wish, as it resists most of Clefable's moves, is immune to Toxic, and can even make 101 HP Substitutes. In fact, it only really fears switching into Fire Blast, Flamethrower, and Choice Band Focus Punch, and Encore messes it up as well. Celebi functions similarly but is slightly inferior, as it is weak to Ice Beam and doesn't pack as many useful resistances to Choice Band or Belly Drum Clefable's moves. Leech Seed or Calm Mind Psychic takes care of Clefable quite easily, however. Additionally, Celebi can shrug off Thunder Wave and Toxic with Natural Cure.</p>
+
+<p>Metagross takes diddly squat from any Clefable lacking Fire Blast or Flamethrower, but it doesn't enjoy being paralyzed by Thunder Wave or Body Slam, and will lose to Counter variants. Tyranitar can eliminate Clefable with Focus Punch, or boost with Dragon Dance and use Rock Slide. However, it is picked off by Brick Break or Focus Punch, hates paralysis, is troubled by Counter if Clefable actually lives to use it, and disrupted by Charm if it cannot Substitute or Taunt in time. Heracross must avoid a Fire attack, but can otherwise easily switch in on Clefable and OHKO it with Choice Band Brick Break or Focus Punch. It absorbs paralysis nicely, though, and even sleep if it has Sleep Talk. Just don't attack Clefable until you know it won't Counter, and avoid Charm as well. Machamp is in the same boat, except with Cross Chop. Medicham can OHKO Clefable as well, but has more problems dealing with paralysis or damaging attacks in general.</p>
+
+<p>Any Pokemon with Rest stalls out the Toxic stall set. Steel- and Poison-types work as well, though they	 should beware of Fire moves. Generally, powerful offense, Toxic, and Leech Seed stop Clefable. It will often have to use Soft-Boiled, so use that to switch in a Pokemon safely.</p>

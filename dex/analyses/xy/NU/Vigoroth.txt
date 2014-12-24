@@ -1,0 +1,13 @@
+Bulk Up
+########
+name: Bulk Up
+move 1: Bulk Up
+move 2: Taunt
+move 3: Slack Off
+move 4: Return
+item: Eviolite
+ability: Vital Spirit
+evs: 252 HP / 4 Atk / 252 SpD
+nature: Careful
+
+This is a sample set while we are currently working on analyses in the workshop.

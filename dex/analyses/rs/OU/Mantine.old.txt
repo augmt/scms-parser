@@ -1,0 +1,41 @@
+[Overview]
+
+<p>It has a bad movepool and its 4x Electric weakness hurts a lot, especially considering that the special attacks most teams need to wall are Electric and Psychic--it doesn't resist the latter either. Just about all Mantine is good for in OU is walling Suicune, Milotic, Swampert, and other Water-types.</p>
+
+[SET]
+name: Haze
+move 1: Surf
+move 2: Ice Beam
+move 3: Toxic
+move 4: Haze
+item: Leftovers
+ability: Water Absorb
+nature: Calm
+evs: 252 HP / 108 Def / 140 SpD / 8 Spe
+
+[SET COMMENTS]
+
+<p>Thanks to its massive base 140 Special Defense, Mantine can shrug off any special attack not named Thunderbolt. In fact, it can even somewhat take one of those; 307 Special Attack is needed to guarantee the OHKO on this Mantine with STAB Thunderbolt, and 466 is needed without STAB. Switch it in on anything you are sure won't use Thunderbolt or Hidden Power Electric, then fire off an attack or Toxic; Surf and Ice Beam is its entire usable special movepool. Haze is mainly for Suicune, as Mantine obviously cannot switch into the likes of Salamence and Tyranitar to remove their Dragon Dance boosts.</p>
+
+[SET]
+name: RestTalk
+move 1: Rest
+move 2: Sleep Talk
+move 3: Surf
+move 4: Ice Beam / Toxic
+item: Leftovers
+ability: Water Absorb
+nature: Calm
+evs: 252 HP / 108 Def / 140 SpA / 8 Spe
+
+[SET COMMENTS]
+
+<p>This set is decent; it prolongs Mantine's lifespan at the cost of a bit of utility. Mantine's movepool is so poor that it doesn't much mind the loss of two moveslots. Its ability to wall most users of sleep moves gives it an advantage as a sleep absorber.</p>
+
+[Other Options]
+
+<p>It can use Confuse Ray to stall for a bit. Protect works for the same reason, but trades possible confusion damage for far more consistency.</p>
+
+[Checks and Counters]
+
+<p>Electric moves, especially an unexpected Hidden Power Electric, can take down Mantine with some prior damage; physical attacks in general hurt it as well. Mantine has no offensive capabilities save for the weak Surf and Ice Beam, along with Toxic, so it's easy to switch into and take out.</p>

@@ -1,0 +1,49 @@
+[Overview]
+
+<p>Using Gorebyss with Spikes can work, as the sight of Rain Dance users trigger a switch to Water-types, and Spikes + Hidden Power Grass will hurt. After you do this once your opponent will most likely keep the Pokemon in so you can freely Surf it. Hydro Pump is always an option over Surf, but that accuracy hurts.</p>
+
+[SET]
+name: Rain Dance Sweeper
+move 1: Rain Dance
+move 2: Surf / Hydro Pump
+move 3: Ice Beam
+move 4: Hidden Power Grass / Hidden Power Electric
+item: Leftovers
+nature: Modest
+evs: 56 HP / 252 SpA / 200 Spe
+
+[SET COMMENTS]
+
+<p>As you can see, Gorebyss has awesome Defense and Special Attack, while having crappy Speed and HP. So let's compare it to its rival, Omastar:</p>
+
+<p>HP: 70--Attack: 60--Defense: 125--Special Attack: 115--Special Defense: 70--Speed: 55</p>
+
+<p>So Omastar has nearly same Special Attack, 5 less Special Defense, but a solid 15 more HP, which more than covers the Special Defense, and 20 more Defense. Gorebyss lacks the Rock-type, which can be a pain or your lifesaver; no Normal resistance hurts a lot, but Omastar is weak to the common Earthquake. Due to having a pure Water-type, you can't switch Gorebyss in on resistances, as Ice and Water are its only resistances, and you would get Toxiced by the common Waters.</p>
+
+<p>Rain Dance boosts your Speed and powers up Surf, turning Gorebyss into an offensive powerhouse.</p>
+
+[SET]
+name: Baton Pass
+move 1: Baton Pass
+move 2: Surf
+move 3: Agility
+move 4: Amnesia / Iron Defense / Ice Beam
+item: Leftovers
+nature: Bold
+evs: 252 HP / 136 Def / 60 SpD / 60 Spe
+
+[SET COMMENTS]
+
+<p>Baton Passer. Watch out for Electrics and phazers.</p>
+
+[Other Options]
+
+<p>It gets Confuse Ray; if you have luck, you can try it. Maybe it can give you a turn to Rain Dance.</p>
+
+[EVs]
+
+<p>190 Speed (200 Speed EVs) is needed for the Rain Dancer in UU. You can go lower if you aren't afraid of Electrode and Persian. Max Special Attack, and put the rest in HP. For the Baton Passer, max HP, balance out the defenses, and put Speed wherever to beat something after an Agility (there are tons of things you can do with it).</p>
+
+[Checks and Counters]
+
+<p>The only way to stop this is using a Water-type with decent Special Defense, like Blastoise or Walrein (Omastar doesn't count, thanks to the part Rock typing). Light Screening Hypno and Tricking with Grumpig can help you. Shedinja is always an option.</p>

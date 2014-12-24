@@ -1,0 +1,36 @@
+[Overview]
+
+<p>In the depths of the RU tier lies an often overlooked Pokemon, one that trainers typically wouldn't hesitate to release after the first gym. This Pokemon is none other than Linoone, and while it may seem cute and harmless, it's anything but. After one turn of setup with its rare boosting move, Belly Drum, Linoone can easily tear most teams to pieces. What's more, due to STAB Extreme Speed, it's less vulnerable to being revenge killed than other Belly Drummers after a boost. Linoone is not unstoppable, however; there are plenty of Pokemon that can put its rampage to a stop. Linoone also needs some help to begin its sweep in the first place, as it is incredibly frail. If you can provide Linoone with the support it needs to unleash its potential, however, it won't hesitate to drive your opponent up a tree, in fear that is.</p>
+
+[SET]
+name: Belly Drum Sweeper
+move 1: Belly Drum
+move 2: Extreme Speed
+move 3: Shadow Claw
+move 4: Seed Bomb / Rock Smash / Return
+item: Silk Scarf / Lum Berry / Sitrus Berry
+ability: Pickup
+nature: Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>This is the key to sweeping with Linoone; once it sets up a Belly Drum, it can cleanly sweep with Extreme Speed. Even though Linoone's STAB move has +2 priority, investing in Speed is crucial, as the investment lets Linoone outrun a variety of things it would not be able to otherwise, the most notable being Rotom, who Linoone can decimate with a +6 Shadow Claw, and Entei, who Linoone can destroy with a +6 Extreme Speed. Almost all variants of Entei run an Adamant nature regardless, so a Speed tie isn't likely to come up. A Silk Scarf allows Linoone to hit much harder with Extreme Speed without the recoil of Life Orb, while Lum Berry gives Linoone a cushion against status users that may try to cripple it. Shadow Claw allows it to hit bulky Ghost-types, such as Dusknoir and Misdreavus, where it hurts, and at +6 it will surely hurt a lot. The last move depends on who you want Linoone to be able to take down; Seed Bomb allows Linoone to beat Rhydon into submission, while Rock Smash makes any Aggron trying to switch into Extreme Speed cry. Return is a secondary STAB move that hits much harder than Extreme Speed. The extra power allows Linoone to OHKO bulky foes that Extreme Speed could not, and it therefore works well along with Lum Berry. Sitrus Berry is also an option that can give Linoone a decent amount of health after it uses Belly Drum, which can give it enough to survive weak hits from walls.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Despite having the potential to be an incredibly powerful sweeper, Linoone requires a fair amount of support if it is to to succeed. First of all, Linoone loves dual screens, and can set up much more easily behind them; Swoobat and Uxie are excellent examples of teammates that can set up screens for Linoone. Uxie has better defenses and access to Stealth Rock, while Swoobat has access to Taunt and U-turn for scouting purposes, backed up by an excellent base 114 Speed. Linoone loves trappers that can get rid of Pokemon that threaten it. For instance, Drapion's Pursuit makes short work of Rotom and Haunter, while Magneton can trap and KO Steel-types such as Ferroseed. Fighting-types such as Hitmonlee and Gallade also complement Linoone well, busting up the walls and Steel-types that the latter cannot. Wynaut provides a unique form of support; it can assist Linoone by Encoring non-attacking moves, by softening up opponents with Tickle, or even by shielding Linoone from status with Safeguard. Linoone loves entry hazards even more than the average sweeper because these allow it to score KOs on some bulky walls, such as Tangrowth and Spiritomb. Some examples of Linoone's power are shown below with damage calculations:</p>
+
+<ul class="damage_calculation">
+<li>+6 Silk Scarf Extreme Speed vs. 252 / 252+ Tangrowth 69.8% - 82.4% (likely OHKO with Stealth Rock and 1 layer of Spikes)</li>
+<li>+6 Silk Scarf Extreme Speed vs. 252 / 176+ Clefable 110.4% - 130.2% (guaranteed OHKO)</li>
+<li>+6 Seed Bomb vs. 252 / 192+ Spiritomb 54.6 - 64.47% (guaranteed 2HKO)</li>
+</ul>
+
+[Other Options] 
+
+<p>Belly Drum is Linoone's only viable option, as most other sets are too weak. A Choice Band set can be used, but Linoone's power is sadly lacking. Iron Tail can be used to hit Rock-types hard, but Seed Bomb already does this. Flail is an option with Substitute, but hazards and priority make this difficult to set up.</p>
+
+[Checks and Counters]
+
+<p>Despite Linoone's incredible power, there are many things that can stop it. Perhaps the best chance you have against an opposing Linoone is to prevent it from setting up entirely. As its defenses aren't the best around, strong STAB or Fighting-type attacks will take it down, even behind dual screens. Once Linoone has set up a Belly Drum, Steelix is perhaps its most solid counter; even after setup, Linoone's attacks deal little damage to Steelix, which can proceed to Roar out Linoone, forcing it to sacrifice half its health. Tangrowth is a pretty good check, as it can tank a hit and counter with Sleep Powder or KO with Power Whip. Scarf Rotom and the less common Scarf Haunter are immune to Extreme Speed and can revenge kill Linoone once it has set up. Finally, as Unaware Quagsire ignores Belly Drum's stat boost, it is only 3HKOed by Seed Bomb.</p>

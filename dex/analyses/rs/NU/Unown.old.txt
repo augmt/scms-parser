@@ -1,0 +1,50 @@
+[Overview]
+
+<p>lol</p>
+
+[SET]
+name: Unown
+move 1: Hidden Power Fighting
+item: Choice Band
+nature: Adamant
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Use it against Blissey, Tyranitar, and Snorlax. Other Normal-types as well obviously. It needs Choice Band to do any form of damage.</p>
+
+[Other Options]
+
+<p>Hidden Power Ice for Salamence (Unown can't OHKO it, though, and needs a load of defense to survive a Choice Band Hidden Power Flying). Hidden Power Grass can hit Swampert and Quagsire.</p>
+
+[EVs]
+
+<p>Obviously max Speed and Attack.</p>
+
+[Checks and Counters]
+
+<p>Anything.</p>
+
+
+[Damage Calculations for Hidden Power Fighting]
+
+Unown -> Blissey
+<br>
+<br>Minimum Damage 311
+<br>Average Damage 338
+<br>Maximum Damage 365
+<br>HP range: 651-714
+<br>
+<br>Unown -> Tyranitar
+<br>
+<br>Minimum Damage 319
+<br>Average Damage 347
+<br>Maximum Damage 375
+<br>HP range: 341-404
+<br>
+<br>Unown -> Snorlax
+<br>
+<br>Minimum Damage 203
+<br>Average Damage 221
+<br>Maximum Damage 239
+<br>HP range: 461-524

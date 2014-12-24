@@ -1,0 +1,79 @@
+[Overview]
+
+<p>Crobat is one of the fastest non-Uber Pokemon in existence; it loses only to Electrode and Ninjask, and ties with OU kings Jolteon and Aerodactyl. On top of this, its other stats, while not amazing, are far from poor, which enable it to utilize a variety of tactics to beat whatever your opponent fields against it. Crobat can use its respectable Attack stat and decent movepool to whittle down the opponent, make use of Nasty Plot and its moderate Special Attack to sweep, or just take advantage of its good support movepool and moderate bulk to cripple the foe's team. Regardless of what it does, Crobat will successfully fill its role on your team in most cases.</p>
+
+<p>Despite a very usable movepool and blistering Speed, you might be wondering why Crobat isn't solid OU. Quite frankly, Crobat's mediocrity in most stats, lack of coverage, and general inferiority compared to other OU options hold it back. Physical sets love Brave Bird, but wish they had a better secondary STAB and physical movepool; Nasty Plot sweeping sets are solid, but largely inferior to the likes of Infernape and Azelf; and stallbreaking sets tend to have issues with common stall Pokemon, such as Rotom-A. These issues, though individually small, combine to pose a big problem for Crobat that results in it not being as widely used as many of its cult supporters would hope for.</p>
+
+[SET]
+name: Stallbreaker
+move 1: Taunt
+move 2: Roost
+move 3: Super Fang
+move 4: Brave Bird / U-turn
+item: Leftovers
+nature: Jolly
+evs: 232 HP / 56 Def / 76 SpD / 144 Spe
+
+[SET COMMENTS]
+
+<p>By far Crobat's most effective set, the combination of high Speed, Roost, and Taunt absolutely demolishes stall teams. Opposing defensive Pokemon find themselves not only unable to heal themselves while Crobat tears away at 50% of their health with Super Fang, but also unable to actually hurt Crobat due to its respectable bulk and Roost. Crobat can also serve as a decent check to offensive teams with this set. As it survives the 2HKO from +2 Infernape's Close Combat, it can switch into physically based Infernape and either stall out Close Combat's PP with Roost or use Brave Bird for the KO. Even more surprising is that Crobat isn't OHKOed by Heatran's Fire Blast, which says something about Crobat's general bulk.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>An alternate EV spread of 168 HP / 88 Def / 252 Spe can maximize Crobat's Speed at the cost of some of its defenses; this enables it to hit first against faster offensive Pokemon such as Starmie.</p>
+
+<p>Crobat loves having Toxic Spikes in play, as that helps it more easily take down opposing defensive Pokemon, such as Vaporeon, Suicune, and Blissey. Brave Bird is especially helpful for hastening the death of the aforementioned Pokemon; as standard Vaporeon takes roughly 30% and Blissey takes about 34%, they will fall after two hits from Super Fang.</p>
+
+[SET]
+name: Nasty Plot
+move 1: Nasty Plot
+move 2: Sludge Bomb
+move 3: Heat Wave / Roost
+move 4: Hidden Power Fighting
+item: Life Orb
+nature: Timid
+evs: 108 HP / 252 SpA / 148 Spe
+
+[SET COMMENTS]
+
+<p>Crobat appears to have a poor Special Attack stat, but it is the fastest user of Nasty Plot in the game, and with a Nasty Plot boost under its belt, it can OHKO or 2HKO many common threats. Crobat's special movepool is also varied enough to give it just the coverage it needs. With Hidden Power Fighting, Heat Wave, and Sludge Bomb, Crobat can hit nearly everything in OU for neutral damage.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Life Orb gives Crobat all the power it can get, as its Special Attack is its weakest stat. However, as it is also weak to Stealth Rock and is extremely frail, it should avoid sandstorm unless it is attempting to KO Tyranitar with Hidden Power Fighting. Hidden Power Ground hits Heatran and Magnezone harder while still doing decent damage to Tyranitar, but consider that Tyranitar isn't OHKOed by +2 Hidden Power Ground, Choice Scarf Magnezone is OHKOed by unboosted Heat Wave most of the time, and Heatran falls to +2 Hidden Power Fighting after two layers of Spikes. Roost is definitely an option over Heat Wave, however, as Crobat's susceptibility to recoil and residual damage otherwise hugely limits its longevity. Giga Drain is also viable, as it will always OHKO Swampert after a boost.</p>
+
+<p>A boosted Crobat can OHKO most Pokemon, but misses the OHKO against notable threats such as Gyarados, Tyranitar, and Heatran by only a small amount. Spikes and Stealth Rock support is thus extremely helpful.</p>
+
+[SET]
+name: Choice Band
+move 1: Brave Bird
+move 2: Cross Poison
+move 3: Pursuit
+move 4: U-turn
+item: Choice Band
+nature: Jolly
+evs: 252 Atk / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>Due to its high Speed and passable Attack, Crobat makes a viable user of Choice Band. Its typing allows it to switch in easily on a variety of threats, especially users of common attacks such as Earthquake and Close Combat, and retaliate with a strong, super effective move. Crobat makes a particularly good lead as it can evade the flinch from Fake Out with Inner Focus, and can KO many common leads--such as Infernape, Azelf, and Machamp--with the appropriate move.</p>
+
+<p>Choice Band Crobat's damage output is noticeably inferior to that of other Choice Band users, and even some Choice Scarf users; it lacks the power to obtain many OHKOs. It can, however, deal enough damage to the opponent so that its allies' 2HKOs or 3HKOs become OHKOs. As such, it should focus on wearing down the opponent's team to the point where a teammate can clean up. U-turn is therefore one of Crobat's more useful options, as not only is Crobat one of the fastest existing users of the move, but you can switch in something that can immediately take advantage of the damage and clean up a weakened team.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>As Crobat supports the team through direct damage as opposed to through Taunt or Toxic, its EVs should focus on power as opposed to bulk. Super Fang and Taunt are options to consider over Cross Poison or Pursuit, as Cross Poison has poor coverage while Pursuit lacks power. Take into consideration the needs of your team. Taunt stops slower leads such as Swampert and Bronzong from setting up, which lets you bring in a sweeper and start pounding the foe; it also stops Ninjask. On the other hand, Super Fang is useful versus bulkier teams, as it cuts 50% of the opposing Pokemon's health.</p>
+
+<p>As Crobat lacks instant recovery when equipped with a Choice Band, it is absolutely vital that Stealth Rock be removed from play. Otherwise, without Wish support, Crobat cannot switch in more than four times, which severely reduces its usefulness. Finding a good switch-in to Crobat's checks is a good idea as well. Magnezone is a great choice because it traps and kills the Steel-types that wall Crobat, while the pair can switch in on attacks super effective against each other. Crobat is immune to Magnezone's Ground-type weakness, while Magnezone resists every single type Crobat is weak to.</p>
+
+[Other Options]
+
+<p>Crobat has a wide variety of EV spreads it can run, due to the different roles it can fulfill. 144 Speed EVs put Crobat at 365 Speed, which is just enough to outpace +1 Speed Tyranitar. Crobat has no business trying to Speed tie with Aerodactyl or Jolteon, so it can use a spread of 104 HP / 252 Atk / 8 Def / 144 Spe for more bulk and a maximally powered Brave Bird.</p>
+
+<p>X-Scissor is a stronger alternative attack against Celebi and other Psychic-types, but Cross Poison is often more useful due to STAB, despite its poor coverage. Confuse Ray, Whirlwind, Rain Dance, and Screech are all usable support options, but there is almost always a better user of these moves out there, and Crobat has more effective tools for supporting the team. Hypnosis is an extremely useful move for putting an opponent's Pokemon to sleep, although it is illegal with Brave Bird, and Brave Bird is by far the more useful option on most sets. Additionally, the low accuracy doesn't help the fact that, even with defensive investment, Crobat cannot afford to miss against a dangerous threat.</p>
+
+[Checks and Counters]
+
+<p>Zapdos and Rotom-A wall Crobat to high heaven, as do most Rock-, Steel-, and Ground-types, although they hate Nasty Plot Crobat variants. Jolteon and Aerodactyl can also effectively revenge kill Crobat, as it rarely runs maximum Speed. Anything switching in has to be wary of Super Fang, Taunt, and Hypnosis, but the likes of Snorlax and Blissey can generally take on specially offensive sets while Swampert, Skarmory, and Heatran do well against physical attacking sets.</p>
+
+<p>The hardest part of countering Crobat is its unpredictability; you don't know what set it is running until about a turn or two after it is sent out. By then there's a chance that it's already KOed your counter, so it's important to play cautiously when it first appears. Once you determine its set, however, Crobat is relatively easy to play around. Generally, you should take advantage of the fact that it cannot hit very hard outside of Nasty Plot, and that it will go down hard if hit by a move that it doesn't resist.</p>

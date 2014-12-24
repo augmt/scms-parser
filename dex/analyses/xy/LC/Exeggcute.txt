@@ -1,0 +1,62 @@
+Overview
+########
+
+Exeggcute's unique Grass / Psychic typing is both a blessing and a curse, granting it seven weaknesses and six resistances. Harvest and Chlorophyll are great abilities that work well on sun-based teams, and the sun also grants Exeggcute recovery options that allow it to fill a niche in Little Cup. It has also good Defense and Special Attack, allowing it to function offensively and defensively. Exeggcute does have several limitations, however. It is beaten by the ever-present Knock Off and U-turn, its lackluster Speed and Special Defense leave it prey for most special attackers, and it is somewhat outclassed by Pokemon such as Trubbish and Cottonee because they have more reliable recovery.
+
+Harvest Abuser
+########
+name: Harvest Abuser
+move 1: Substitute
+move 2: Sleep Powder / Leech Seed
+move 3: Giga Drain
+move 4: Psychic / Hidden Power Fighting / Hidden Power Fire / Protect
+ability: Harvest
+item: Oran Berry
+evs: 196 Def / 196 SpA / 80 SpD / 36 Spe
+nature: Modest
+
+Moves
+========
+
+Substitute lets Exeggcute safely abuse Harvest, giving it a nearly-unlimited supply of Oran Berries. Sleep Powder allows a free Substitute and also disables a single Pokemon for a short period of time. Predicting a switch is also a good opportunity to use Sleep Powder, set up a Substitute and attack, or set up a Leech Seed. Alternatively, Leech Seed can be used to wear down walls and provide even more recovery on top of Oran Berry and Giga Drain. Giga Drain provides a way of dealing damage while also providing some recovery, and is the primary STAB attack. Psychic is the secondary STAB move and can deal reliable damage to Fighting- and Poison-types that may want to use Knock Off, U-turn, or a Poison-type move. Hidden Power Fighting or Hidden Power Fire can be used to hit Pawniard and other Steel-types on the switch or while behind a Substitute, as otherwise these Pokemon can effortlessly switch in and OHKO Exeggcute with Knock Off. Additonally, Hidden Power Fire hits Bug- and Grass-types for super effective damage, preventing Ferroseed from walling Exeggcute. Protect is another option, but should only be used in conjunction with Leech Seed to safely restore more HP.
+
+Set Details
+========
+
+The Speed EVs allow Exeggcute to Speed tie with Tirtouga before a Shell Smash. The 80 Special Defense EVs boost Exeggcute's poor Special Defense, giving it some much needed bulk. The rest of the EVs are dumped into Defense and Special Attack to bolster its two best stats. The combination of Harvest and Oran Berry gives Exeggcute unlimited recovery as long as it isn't hit with a move that can KO it while a Substitute isn't up.
+
+Usage Tips
+========
+
+Exeggcute needs sun to function effectively, as sunlight gives it a 100% chance of recovering its Oran Berry with Harvest. Exeggcute also appreciates a slow pivot, which allows it to get into battle unscathed. Exeggcute likes to set up Substitutes against Pokemon that typically cannot harm it, like Chinchou, and against Pokemon that are inclined to set up, like Tirtouga and Omanyte. Leech Seed is a great recovery option that can also force switches, and such switch turns should be used to set up Substitute. Leech Seed works well in tandem with Exeggcute's other recovery options, such as Giga Drain and Oran Berry with Protect.
+
+Team Options
+========
+
+Sun support is necessary to abuse Harvest. Vulpix can provide that support with Drought and can take Bug- and Ice-type moves well, while Exeggcute takes Water- and Ground-type moves for Vulpix in return. Pokemon that can come in on Pawniard and absorb Knock Off are also great partners. Exeggcute appreciates Stealth Rock, so a hazard setter like Onix or Dwebble is a good teammate. Additionally, Dwebble has access to Spikes which can further aid in racking up chip damage.
+
+Other Options
+########
+
+Exeggcute has several other viable options, but typically they are outclassed or just ineffective. It can utilize a Chlorophyll set, but is generally outclassed by Pokemon like Deerling, Bulbasaur, and Bellsprout. Sludge Bomb is a way to deal with Cottonee and Spritzee. Synthesis can provide a quick and easy way to regain HP, but Exeggcute has so many other recovery options that it is not worth the turn or moveslot. Toxic can wear down other Pokemon faster in the long run than Leech Seed, but doesn't provide the recovery that Leech Seed does. Stun Spore can cripple opponents for the match, but doesn't give Exeggcute a chance to immediately set up properly like Sleep Powder. Starf Berry can be run over Oran Berry on the Harvest set to boost repeatedly and turn Exeggcute into a formidable sweeper on its own, but if you don't get the right stat boosts all the effort will be a waste. Similarly, Lum Berry can be used with Rest to provide instant full recovery in a single turn multiple times, but this gives the opponent the opportunity to bring in a check when Exeggcute could have just set up a Substitute or used Sleep Powder instead. Leaf Storm can be run as a harder hitting attack, but the Special Attack decrease afterwards is not appreciated. Explosion can be used in conjunction with Trick Room to bring in a Trick Room sweeper unscathed, but like all Trick Room setters it should only be used on a dedicated Trick Room team. Lastly, dual screens can be set up reliably due to Exeggcute's high Defense.
+
+Checks & Counters
+########
+
+**Vullaby**: Vullaby is immune to Sleep Powder, resists both of Exeggcute's STAB moves, takes nothing from Hidden Power Fighting, and hits back super effectively with STAB Knock Off.
+
+**Dark-types**: Pokemon like Houndour, Vullaby, and Pawniard all take little to no damage from Giga Drain, and are immune to Psychic. They force a switch or KO with most of their moves, while Exeggcute is virtually helpless without Hidden Power Fighting. Houndour also has access to Early Bird which allows it to wake up faster and KO quickly with a STAB move.
+
+**Knock Off**: Not only is Knock Off super effective against Exeggcute, it also permanently gets rid of the Oran Berry that makes Harvest, and by extension Exeggcute, usable.
+
+**Flying-types**: Flying-types such as Fletchling, Archen, and Doduo can KO with STAB Acrobatics or Brave Bird, but must beware of taking damage on the switch from Psychic.
+
+**Fire-types**: Fire-types such as Houndour, Ponyta, and Larvesta can take advantage of the sun that is set up for Exeggcute, and can usually OHKO with a STAB move.
+
+**Bug-types**: Any Bug-type will most likely KO Exeggcute due to its 4x weakness. Exeggcute also fears U-turn, a common pivot move on Pokemon like Mienfoo, Bunnelby, and Larvesta.
+
+**Ghost-types**: Ghost-types like Drifloon can come in on Exeggcute and then use Substitute to avoid Leech Seed and Sleep Powder. They can then proceed to set up, or just KO with a STAB Shadow Ball.
+
+**Grass-types**: Without Hidden Power Fire, Grass-types wall Exeggcute, as they can't be put to sleep or Leech Seeded, and Exeggcute cannot survive many super effective moves. However, Grass / Poison-types like Foongus and Bulbasaur should be wary of Psychic.
+
+**Sound-based Moves and Infiltrator**: Though they are rare, moves that go through Substitute, such as Noibat's Air Slash or Hurricane, Zubat's Brave Bird or U-turn, and Joltik's Bug Buzz, hurt a lot.

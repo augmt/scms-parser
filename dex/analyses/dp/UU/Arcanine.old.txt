@@ -1,0 +1,228 @@
+[Overview]
+
+<p>While not quite up to snuff with all the standards, Arcanine has a strong presence in UU, where its overall high base stats, both offensive and defensive, can overwhelm a lot of the other Pokemon. Flare Blitz was the 4th generation's greatest gift to Arcanine, finally giving it some powerful physical STAB to use off its neglected base 110 Attack. Combined with Extreme Speed and the bulk to switch into neutral attacks with relative ease, Arcanine can take weakened teams by storm. However, despite being able to hit hard with both physical and special attacks, Arcanine has a limited and predictable movepool which can easily be countered if one knows its set. Stealth Rock often ends up squandering its bulk as well, meaning Arcanine really has to be played strategically to get the most out of it.</p>
+
+[SET]
+name: Morning Glory (Physical Attacker)
+move 1: Flare Blitz
+move 2: Extreme Speed
+move 3: Morning Sun
+move 4: Toxic / Will-O-Wisp
+item: Life Orb / Leftovers
+ability: Intimidate
+nature: Adamant / Jolly
+evs: 120 HP / 152 Atk / 236 Spe 
+
+[SET COMMENTS]
+
+<p>While Morning Sun's recovery may not be as set in stone as moves like Recover and Soft-Boiled, it goes a long way in aiding Arcanine as it tears through teams, holding either a Life Orb (for increased damage) or Leftovers (for added survivability).</p>
+
+<p>Flare Blitz is Arcanine's main attack, while Extreme Speed cleans up anyone who can survive the attack. Morning Sun helps Arcanine recover from repeated recoil damage from both Flare Blitz and Life Orb (if you choose this item) as well as from entry hazard damage, though at the cost of a turn.</p>
+
+<p>The move in the last slot is mainly filler, although the choice is mainly decided by how you play Arcanine. More cautious players may opt to use Toxic, helping them to wear down counters, such as Hitmontop and Slowbro, who may try to stop your sweep. Will-O-Wisp is a cautious move, easily incapacitating physical sweepers, although the many Fire-types with Flash Fire and threatening Guts sweepers can diminish its usefulness. If you're looking to use Arcanine as a stand-alone sweeper, you may be interested in Thunder Fang or Iron Head, as they are the most competitively viable attacks Arcanine has at its disposal; Thunder Fang puts dents in Water-types, while Iron Head provides reliable damage with a chance to flinch. The EVs given allow Arcanine to outspeed base 80s who possess a Speed-boosting nature, most notably Jolly Venusaur.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Arcanine is often seen abusing strong sunlight in an attempt to increase the HP recovered by Morning Sun to 2/3 of its total HP. Leads who can set up Sunny Day, such as Ambipom, Uxie and Claydol, are great additions to a team based around Arcanine (Uxie and Claydol more so, thanks to their Ground-type immunities). The bulky and powerful Tangrowth is a great complimentary sweeper for Arcanine, since it can provide status support and counter Water-types for Arcanine. In return, Arcanine can sponge super effective Fire-type attacks aimed at Tangrowth. Any Grass-type with the Chlorophyll ability will enjoy being on a Sunny Day team with Arcanine.</p>
+
+<p>Flash Fire is also a viable ability choice, although it isn't a superior choice unless Arcanine is placed on a Sunny Day team. This is a great environment for Arcanine since it gives Flare Blitz double STAB. Flash Fire's usefulness is also greatly influenced by Arcanine's teammates; if there are any Grass-types on its team, Arcanine can boost the power of its Fire-type attacks very easily, thanks to type synergy.</p>
+
+<p>Having a way to take care of auto-weather effects from Hippopotas and Snover is recommended, since Morning Sun's recovery drops from 1/2 Arcanine's total HP in normal battle conditions to a low 1/4. Since both of these threats are typically seen as leads, they can easily be disposed of by your own lead. Ambipom is able to break their Focus Sash with Fake Out and use either Sunny Day to counter their weather effects or Return to nab the KO.</p>
+
+[SET]
+name: Specially Defensive
+move 1: Flare Blitz
+move 2: Extreme Speed
+move 3: Toxic
+move 4: Morning Sun
+item: Leftovers
+ability: Intimidate
+nature: Careful
+evs: 252 HP / 4 Def / 252 SpD
+
+[SET COMMENTS]
+
+<p>While Arcanine is usually seen as a sweeper because of his high Attack and Speed stats, he has all the necessary tools to function as an effective specially defensive tank. Arcanine's good HP and Defense, naturally high Attack and Speed, and access to a reliable recovery move, Morning Sun, allow him to safely switch into and beat many top-tier special sweepers one-on-one.</p>
+
+<p>With maxed out HP and Special Defense stats, Arcanine becomes a formidable special tank. This Arcanine is able to switch into some of UU's strongest special attackers and eliminate them. Even with no investment in his Attack stat, Flare Blitz and Extreme Speed still hit hard enough to take care of physically frail sweepers such as Alakazam and Mismagius, as well as targets hit super effectively, such as Venusaur. Toxic is Arcanine's main source of damage against walls such as Milotic and bulkier sweepers such as Moltres; both of the aforementioned Pokemon can generally be stalled out with Morning Sun.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Here are some damage calculations that demonstrate Arcanine's impressive special bulk:</p>
+
+<ul class="damage_calculation">
+<li>Timid 252 SpA Life Orb Alakazam Psychic: 43% - 50.8%</li>
+<li>Timid 252 SpA Mismagius Shadow Ball: 24.5% - 29.2%</li>
+<li>Timid 252 SpA Life Orb Venusaur Sludge Bomb: 34.6% - 40.9%</li>
+<li>Modest 252 SpA Life Orb Moltres Air Slash: 36.7% - 43.2%</li>
+<li>Timid 252 SpA Life Orb Houndoom Dark Pulse: 33.1% - 39.1%</li>
+<li>Timid 252 SpA Life Orb Rotom Thunderbolt: 35.2% - 41.7%</li>
+<li>Bold 0 SpA Milotic Surf: 44.3% - 53.1%</li>
+</ul>
+
+<p>With his special bulk, Arcanine can avoid being 2HKOed by the some of the strongest neutral special attacks UU has to offer, provided Stealth Rock is off the field. In return, Arcanine can 2HKO or Toxic stall each of these threats while recovering his health with Morning Sun. Arcanine also serves as an excellent lure for Milotic, whom he can Toxic and stall out with Morning Sun (unless Milotic has Toxic or Rest).</p>
+
+<p>Rapid Spin support is extremely important for this Arcanine. Due to his Fire typing, Arcanine loses 25% of his health each time he switches into Stealth Rock. As a result, many of the sweepers who normally only 3HKO Arcanine are able to 2HKO him with Stealth Rock on the field. Arcanine also has problems with strong physical attackers, such as Rhyperior, Azumarill, Feraligatr, and Aggron. Thus, a physically defensive Blastoise makes a great partner since Blastoise can hit Rock- and Ground-types for super effective damage with Surf. Blastoise can also wall any physical Water-types who may otherwise cause Arcanine problems.</p>
+
+<p>Other good teammates for this Arcanine include physical walls who can take strong Rock-, Ground-, and Water-type attacks. Leafeon, Torterra, Tangrowth, and Milotic are all excellent choices, especially since each of them has a reliable recovery move. Arcanine also dislikes any form of status, so a cleric is greatly appreciated. Thus, Leafeon is an ideal teammate; he has access to Heal Bell and, as previously mentioned, is an excellent physical wall.</p>
+
+[SET]
+name: Life Orb
+move 1: Flare Blitz
+move 2: Thunder Fang / Hidden Power Grass
+move 3: Extreme Speed
+move 4: Morning Sun
+item: Life Orb
+nature: Adamant / Jolly
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>This set aims to provide a great switch-in to many threats, hit its counters hard, and eventually sweep late-game. Arcanine has access to Flare Blitz, which is its main STAB attack and hits incredibly hard, with or without a Flash Fire boost. Thunder Fang and Hidden Power Grass provide decent coverage options for Arcanine, and while Thunder Fang seems like the better choice due to Arcanine's superior Attack, most of Hidden Power Grass's targets have a 4x weakness and are thus OHKOed. Thunder Fang is still recommended, however, since it nails Arcanine's most popular counters, such as Milotic, Slowking, and Blastoise harder. Extreme Speed is one of Arcanine's most useful assets, because it allows Arcanine to finish off weak, faster foes who would otherwise KO Arcanine. This is especially important due to the presence of Dugtrio. Morning Sun is used in the last slot so that Arcanine can switch in more often, and with Intimidate and Flash Fire, it definitely will find a turn to use it.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>With Arcanine's two excellent abilities, it can make a very effective switch-in to various threats. Flash Fire is recommended because not only does it allow Arcanine to destroy Weezing, Spiritomb, and most Fire-type Pokemon, but it also gives Arcanine extra firepower for Flare Blitz. Intimidate is still useful, however, since it allows Arcanine to switch in more reliably against Pokemon such as Leafeon.</p>
+
+<p>The choice between an Adamant and Jolly nature is based on what specific functions Arcanine needs to do for its team. If Arcanine needs to be able to revenge kill Rotom and Moltres, Jolly is necessary. That being said, Adamant is generally the better choice because it lets Arcanine more effectively finish off foes such as Milotic, Slowking, and Blastoise. It also lets Arcanine OHKO Dugtrio with Extreme Speed.</p>
+
+<p>This set naturally has trouble with bulky Water-type Pokemon. Milotic, for example, is able to switch into Arcanine and Recover off anything Arcanine can throw at it. However, if Milotic has been weakened by a Pokemon such as Blaziken, Kabutops, or Rhyperior, then Arcanine can finish it off with a quick Thunder Fang. Arcanine also needs some defensive support for switching into bulky Water-types. Venusaur and Sceptile easily switch into Milotic, Slowbro, Slowking, and Blastoise, though they need to stay clear of super effective attacks.</p>
+
+<p>Based on Arcanine's moveset, it will have trouble with different Pokemon. If Arcanine isn't carrying Thunder Fang, it will have trouble dealing with Moltres, so packing a bulky Water-type to switch in is recommended. Without Hidden Power Grass, Rhyperior poses a problem. Rhyperior is a little more difficult to switch into than Moltres, but once again, Milotic works quite well.</p>
+
+[SET] 
+name: Choice Band
+move 1: Flare Blitz
+move 2: Extreme Speed 
+move 3: Thunder Fang
+move 4: Morning Sun / Iron Head
+item: Choice Band
+nature: Jolly / Adamant
+evs: 252 Atk / 4 SpD / 252 Spe 
+
+[SET COMMENTS]
+
+<p>When donning a Choice Band, Arcanine's power increases to demi-godly levels. Provided you predict correctly, Arcanine is sure to cause major damage to the opponent's team, as hard counters to this set are few and far between. However, it is important to remember that one incorrect prediction can easily spell the end of this legendary dog, since this set lacks the ability to freely switch moves or heal with Morning Sun after being locked into an ineffective attack. In addition, Flare Blitz recoil and entry hazard damage can quickly add up, especially with Arcanine's weakness to Stealth Rock, so this set cannot be played recklessly.</p> 
+
+<p>Flare Blitz, packing a whopping 180 Base Power with STAB factored in, will easily obliterate any Pokemon who doesn't resist it and even some who do. Extreme Speed is one of the most powerful priority attacks available in the tier, making it a great move for cleaning up frail sweepers who would otherwise outspeed and KO Arcanine. Thunder Fang is Arcanine's best bet against Moltres and bulky Water-types such as Milotic and Azumarill, all of whom would otherwise switch in on Arcanine with impunity. Morning Sun rounds out the set as a sort of filler move, while providing a source of much-needed recovery. Although it might seem counterintuitive to use Morning Sun over a fourth attack on a Choice set, Arcanine actually has a decent amount of opportunities to recover his health, since many times opponents will switch out in fear of a strong Flare Blitz or Extreme Speed. However, keep in mind that Arcanine will be a sitting duck when using Morning Sun; as in all cases when using this set, prediction is imperative to success. Iron Head may be used as an alternative that hits Rock-types super effectively, but it's rather weak and won't even come close to 2HKOing Regirock or Rhyperior. Finally, Hidden Power Grass is useful for doing huge amounts of damage to Kabutops, Omastar, and Rhyperior, but it doesn't really fit in well on a Choice Band set.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>While it might seem sufficient to simply spam Flare Blitz to inflict copious amounts of carnage on your opponent's team, keep in mind that it will likely be the first move your opponent expects Arcanine to use. Thus, it might be a smart idea to double switch to a Pokemon who can take care of common switch-ins like Milotic or Rhyperior the first time Arcanine is out, such as Venusaur. Alternatively, Arcanine can use his coverage moves to catch these switch-ins off guard; Thunder Fang can nab the 2HKO on Milotic and other bulky Water-types with some hazard support, while Hidden Power Grass may be used to obliterate Rock-types like Rhyperior. After these threats are eliminated, cleaning up the rest of your opponent's team with Flare Blitz should be a breeze.</p> 
+
+<p>The EVs on this set are pretty straightforward, with Attack and Speed maxed out so that Arcanine can sweep better. Either nature can work fine, and it's important to keep in mind which speed tier Arcanine hits with each nature. If Arcanine is Jolly, he safely outpaces every Pokemon slower than Timid Rotom and ties with other base 95s like Leafeon and Houndoom. Meanwhile, an Adamant nature brings Arcanine down to only outpacing base 80s like Blaziken and Venusaur but provides a significant power kick. Thus, which nature Arcanine uses will usually come down to the rest of your team and which threats you need him to check.</p>
+
+<p>Both of Arcanine's excellent abilities work fine on this set; the choice depends on how you plan to use him. Intimidate allows for an easier time switching in on weaker physical attackers, thus allowing Arcanine to act as somewhat of a defensive measure, while retaining his proficiency as an offensive powerhouse. However, Flash Fire can turn Arcanine's Flare Blitz into an unstoppable force if he gets the boost. While this is easier said than done, there are many opportunities to do so with Will-O-Wisp, Flamethrower, and Flare Blitz flying around the metagame.</p>
+
+<p>Like any other offensively-oriented Pokemon, Arcanine appreciates entry hazard support. Qwilfish can switch in on Milotic with ease and proceed to set up multiple layers of Spikes, enabling Arcanine to get the 2HKO the next time he comes in. Likewise, Registeel takes little damage from any of Milotic's attacks and can set up Stealth Rock. Arcanine also detests entry hazards on his side of the field, since he will get worn down rather quickly with Stealth Rock stripping 25% of his health every time he comes in. Thus, Rapid Spinners like Kabutops, Donphan, and Blastoise all make fine partners for Arcanine. Finally, Pokemon who can eliminate Arcanine's few checks obviously pair well with him; Venusaur can OHKO any Water-type with his strong STAB attacks, while Milotic can wall Rock- and Ground-types and stall out opposing Milotic with Toxic.</p>
+
+[SET]
+name: Attacking Lead
+move 1: Flare Blitz
+move 2: Extreme Speed
+move 3: Toxic
+move 4: Hidden Power Grass / Overheat
+item: Lum Berry
+ability: Intimidate
+nature: Adamant
+evs: 192 HP / 252 Atk / 64 Spe
+
+[SET COMMENTS]
+
+<p>Arcanine's good all-round stats allow it to be both bulky and yet hit extremely hard at the same time. This fact, combined with its Intimidate ability and access to Extreme Speed, allows it to function as a very effective anti-lead.</p>
+
+<p>Flare Blitz is a high powered STAB attack that does big damage to pretty much anything that doesn't resist it. Extreme Speed allows Arcanine to beat Focus Sash users without having to take another attack, and can 2HKO some faster, frailer leads. Against Arcanine, the bulky Water switch in is almost inevitable, and a well-timed Toxic can cripple both Slowbro and Milotic (despite activating Marvel Scale, if it doesn't have Rest, it's not going to enjoy Toxic). Steel-types never switch into Arcanine, and Poison is often paired with Grass, meaning there is usually very little risk involved in using Toxic.</p>
+
+<p>Arcanine has a couple of different moves that all work well in the last slot. Hidden Power Grass is noted because otherwise, Rock- and Water-types fear next to nothing from this set. Since Kabutops and Omastar are occasionally seen as Stealth Rock / Spikes leads, being able to hit them with a 4x super effective attack has great benefits. Hidden Power Grass also lets Arcanine do a bit of damage to incoming Slowbro, although with no Special Attack investment the damage isn't enough to 2HKO. Overheat is another good choice for the last slot. It can be used when you're low on health and can't afford the recoil from Flare Blitz, when you've been Intimidated, or when you want to hit high-Defense Pokemon, such as Steelix, Cloyster, and Gligar, convincingly hard.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Attack is maximized to give Arcanine as strong a Flare Blitz and Extreme Speed as possible, and to allow it to put out enough damage in the lead scenario to KO the opposing Pokemon. The Speed EVs allow it to outrun +Speed base 60s, while the remaining EVs are allocated into HP to bulk Arcanine up. Lum Berry is a great item on a leading Pokemon, allowing Arcanine to easily come out on top against status leads such as Venusaur.</p>
+
+<p>One of the most appealing things about this set is that it can function as a good revenge killer with Extreme Speed later on in the game as well. It is not limited to just the lead scenario, and with its decent defensive stats and Intimidate, can become a real asset for the team later on too by revenge killing fast, frail sweepers. Since this set will be leading, it generally doesn't need too much in the way of support to be effective. However, if you're not running Hidden Power Grass, having a way to deal with Rock/Water-types is recommended, as otherwise they can just sit there and Spike (Omastar) or Swords Dance (Kabutops) away. Having a good switch-in to Moltres is useful as well, as Arcanine can't really damage it outside of poisoning it.</p>
+
+[SET] 
+name: Physically Defensive
+move 1: Will-O-Wisp 
+move 2: Morning Sun
+move 3: Flare Blitz
+move 4: Extreme Speed
+item: Leftovers
+ability: Intimidate
+nature: Impish
+evs: 252 HP / 228 Def / 28 Spe 
+
+[SET COMMENTS]
+
+<p>While Arcanine's sweeping prowess is certainly his most appealing attribute, it would be foolish to underestimate his bulk and defensive capabilities. With decent HP and Defense stats and an excellent ability in Intimidate, Arcanine has all the necessary tools to shut down many of the powerful physical attackers in the tier. Even though Arcanine can take on a variety of different physical attackers, keep in mind that the UU environment is not especially friendly to physically defensive Fire-types due to the widespread use of Stealth Rock and the popularity of Water-, Rock-, and Ground-type physical attackers, such as Azumarill, Rhyperior, and Donphan, respectively.</p>
+
+<p>Will-O-Wisp is the crux of this set, instantly crippling any physical sweeper who isn't a Fire-type or has the ability Guts. It is an especially effective move on Arcanine when you consider that some of the aforementioned physical attackers are among the most popular switch-ins to Arcanine. Thus, Arcanine will often catch Pokemon such as Kabutops, Feraligatr, and Rhyperior looking to switch in and wreak havoc off guard, instantly rendering them nearly useless for the remainder of the match. Morning Sun is another necessity, since Arcanine's HP will frequently need to be replenished after taking entry hazard damage and tanking attacks. Flare Blitz and Extreme Speed are the only two attacks Arcanine really needs, as Flare Blitz provides a reliable and powerful STAB attack that will still hurt many frail sweepers, while Extreme Speed serves as a useful priority move that can pick off faster foes.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs are relatively simple, as almost all of them are poured into HP and Defense so that Arcanine becomes as physically bulky as possible. The 28 Speed EVs are thrown in to ensure Arcanine outpaces 252 Speed Jolly Torterra by one point, allowing him to KO or cripple Torterra with Flare Blitz or Will-O-Wisp before Torterra can act. Even though Arcanine can take quite a few hits before going down, he is by no means a dedicated physical tank who can take on any and all attackers. Strong super effective STAB attacks from the likes of Choice Band Azumarill, Choice Band Rhyperior, and Life Orb Kabutops will still threaten to KO Arcanine as long as Arcanine has not hit them with both Intimidate and Will-O-Wisp. Thus, it is advisable to pack Pokemon who can deal with these threats separately and leave Arcanine to deal with physical attackers who can only muster neutral or non-STAB super effective attacks against Arcanine, such as Scyther, Swords Dance Sceptile, and Leafeon.</p>
+
+<p>Although the given moveset is probably the best combination of moves in terms of overall utility, there are some other options that can be used. Toxic may be used over Extreme Speed so that Arcanine isn't completely helpless against some of the bulkier Fire-type sweepers with access to reliable recovery, like Moltres and opposing Arcanine. Toxic also comes in handy against bulky Water-types, since they don't particularly mind being burned but are severely crippled by Toxic. If you want Arcanine to effectively wall some set up sweepers, then Roar can be used in the last slot to phaze them out.</p>
+
+<p>Since this set is geared towards walling physical attackers, special walls make natural defensive complements. Chansey and Milotic are the most obvious choices for this role, as they are two of the sturdiest special sponges in the tier, easily taking on Moltres and other strong sweepers. Bulky variants of Qwilfish also pair up well with this set, as they can easily come in on most bulky Water-types and proceed to set up Spikes. Finally, Rapid Spin support is an absolute must, since Arcanine will need to switch in repeatedly to take hits. Donphan and Blastoise are two prominent spinners who work well with Arcanine.</p>
+
+[SET]
+name: RestTalk
+move 1: Rest
+move 2: Sleep Talk
+move 3: Flare Blitz
+move 4: Roar
+item: Leftovers
+ability: Intimidate
+nature: Impish
+EVs: 252 HP / 252 Def / 4 Spe
+
+[SET COMMENTS]
+
+<p>Arcanine can be a valuable asset to any team that requires an effective shuffler. His real selling point is his ability, Intimidate, which drops the opponent's Attack by one stage and helps your team deal with physical sweepers much more easily. Arcanine can force the opponent to reveal team members by utilizing Roar on Pokemon like Chansey, Registeel, Steelix, and Scyther as they switch out in fear of his STAB Fire-type moves, expelling the switch-in and revealing the opponent's best answer for Arcanine in general. This is the perfect opportunity to take advantage of entry hazards on the field, which chip away at the opponent's health slowly and wear them down for the sweepers on your team. Since Flare Blitz receives STAB and has 120 Base Power, it can scare away many foes, and Arcanine will find himself juggling the opponent's team the entire match if they don't pack enough strong Water-, Rock-, or Ground-type moves.</p>
+
+<p>Rest is essential to the set because it allows Arcanine to heal off the damage after taking previous blows from the opponent. The key move in this set is Sleep Talk, which can surprise an opponent because it is usually the last thing they will find on an Arcanine. Sleep Talk can randomly fire off Flare Blitz or Roar, which can make the opponent think twice before they switch in their Arcanine counter. When selected by Sleep Talk, Roar also loses its negative priority, and thus can be used to phaze out an opposing Pokemon before it even has a chance to move. This 'sleep shuffling' strategy can be particularly effective against more defensive teams, which often don't have many Pokemon who can outspeed Arcanine. The EVs are straightforward: their main purpose is to maximize Arcanine's ability to take physical hits. The remaining 4 Speed EVs can be helpful to outspeed 0 Speed Drapion and other base 95s, such as Uxie.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Arcanine naturally forces plenty of switches due to his impressive attacking stats, both physically and specially. It is highly recommended that all three entry hazards are placed on the field to take advantage of this. Toxic Spikes can be critical to help deal with those pesky Water-types who effortlessly counter Arcanine.</p>
+
+<p>Venusaur is the perfect partner for Arcanine, thanks to his ability to take both physical and special Water-type attacks well and strike back with a STAB Grass-type attack or Sleep Powder. He can come in on Slowbro (barring Psychic) and Milotic's attacks quite easily and will usually force them out. While they are switching, Venusaur can set up with Swords Dance or Leech Seed. Flash Fire users like Houndoom and Ninetales are a problem for Arcanine, as his Fire-type attacks will only give them more power. Since Houndoom and Ninetales are specially-based Pokemon, Chansey is your safest switch-in to cushion their attacks. Specially defensive Altaria also pairs up well with Arcanine, assuming you can provide Rapid Spin support, as it resists Water-type attacks, is immune to Ground-type attacks, and has a high Special Defense stat to complement Arcanine's focus on physical Defense.</p>
+
+[SET] 
+name: Special Attacker
+move 1: Fire Blast / Flamethrower
+move 2: Hidden Power Grass / Hidden Power Electric
+move 3: Morning Sun 
+move 4: Dragon Pulse / Overheat 
+item: Life Orb 
+nature: Modest / Timid
+evs: 252 SpA / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>Since most Arcanine sets take advantage of the doggie's excellent base 110 Attack stat, his perfectly usable base 100 Special Attack stat is often neglected. While it is true that Arcanine is better off utilizing a physical set most of the time, a special set is perfectly viable and can pose as a major offensive threat. Although other special Fire-type sweepers like Houndoom and Moltres somewhat outclass Arcanine in this role, Arcanine offers much better bulk and reliable recovery over the former and better abilities, a lesser weakness to Stealth Rock, and superior Speed over the latter.</p>
+
+<p>Fire Blast is Arcanine's STAB attack of choice for this set; his lower Special Attack means that the high Base Power of Fire Blast is preferred over the reliability of Flamethrower. In the same vein, a Modest nature is listed as the main option because Arcanine could really use the power boost. The Hidden Power of choice provides excellent coverage alongside Arcanine's STAB move, hitting bulky Water-types super effectively. Hidden Power Grass gives Arcanine a way to OHKO Rhyperior and deal heavy damage to other Rock-types, whereas Hidden Power Electric covers Qwilfish and Moltres. Morning Sun is another necessity for this set, since entry hazards and Life Orb recoil are a pain to deal with without a source of reliable recovery. The last slot is mostly filler, but Dragon Pulse does have some uses, hitting Altaria super effectively and providing a solid attack that garners neutral coverage against Fire-types like Houndoom and opposing Arcanine who would otherwise easily wall or set up on this set. Alternatively, Overheat can be used for a burst of immediate power that boasts better accuracy than Fire Blast; just keep in mind that Arcanine will almost always have to switch out after using it.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Just as for the physical attacker, both abilities have their uses. Flash Fire can potentially turn Fire Blast into an extremely powerful attack that will incinerate all neutral targets, while Intimidate has more overall utility and lets Arcanine switch in more easily. Due to Arcanine's comparatively lower Special Attack stat, he will have some trouble breaking down the stronger special walls in the UU tier. Even with entry hazard support, it will be extremely hard to overcome dedicated walls like Milotic, Slowking, and Chansey. Thus, packing a physical wallbreaking partner for Arcanine is a great idea. Grass-types like Torterra, Leafeon, and Swords Dance Venusaur are perhaps the best options for this role, as they can easily break through bulky Water-types. Another option is to pair Arcanine with another Fire-type sweeper like Moltres or Houndoom; one sweeper can sacrifice himself to severely weaken their shared counters, paving the way for the other to clean up.</p>
+
+<p>Choice Specs can work as the item here, but it is not recommended as the first option because it takes away much of Arcanine's utility without hitting hard enough to warrant locking Arcanine into one move. However, if you do choose to go this route, Arcanine will have a much better chance to 2HKO Milotic with Stealth Rock support with Hidden Power Grass and will easily do the same to Specially Defensive Arcanine with Hidden Power Rock. Overheat becomes a much more enticing option with Choice Specs, boasting huge amounts of power. Despite this, Choice Specs Arcanine lacks the raw power and priority of Choice Band Arcanine and is directly outclassed by Moltres, who can use the same set but with a stronger neutral option in Air Slash.</p>
+
+<p>As with every other Arcanine set, successfully managing entry hazards is paramount for getting the most out of this set. Keeping Stealth Rock and Spikes off the field with a spinner, such as Donphan or Blastoise, makes Arcanine's job much easier by relieving him of the burden of taking huge chunks of health just by switching in. On the other hand, setting up your own entry hazards will greatly aid a potential Arcanine sweep. Omastar is a great candidate, since he can set up all three entry hazards while also luring Grass-types for Arcanine to switch in against.</p>
+
+[Other Options] 
+
+<p>Arcanine doesn't have too many options other than the ones already listed or mentioned. Arcanine can be made into a Sunny Day sweeper, which allows him to abuse Solar Beam and Morning Sun to their fullest while gaining a buffer against Water-type attacks. However, this job is usually better left to the more powerful and bulkier Moltres. Howl is Arcanine's only method of boosting his Attack and can be used along with three attacks in order to sweep more easily. However, Howl is not particularly effective because Arcanine will suffer from a lack of reliable recovery while still not being powerful enough to muscle through threats like Rhyperior and Slowbro. Crunch can be squeezed into the physical sweeper sets to provide super effective coverage on Uxie and Mesprit, while also hitting Slowbro and Slowking harder than Thunder Fang would. Iron Tail hits Rhyperior and Regirock harder than any move bar Hidden Power Grass, but it is inaccurate. Overall, the aforementioned two attacks provide worse coverage than the recommended options, so they generally shouldn't be used. Finally, Agility could help Arcanine sweep against faster threats, but his already good Speed isn't usually what is stopping him from sweeping in the first place, especially with his access to Extreme Speed.</p>
+
+[Checks and Counters]
+
+<p>Arcanine's biggest counters are bulky Water-types, packing a resistance to Arcanine's STAB Fire attacks and generally having the defenses to take neutral attacks without too much difficulty. The most common bulky Waters of UU, Slowbro and Milotic, have skewed defenses and may have trouble with super effective attacks hitting on their lower defensive stat. Milotic doesn't particularly enjoy Choice Band Thunder Fangs, and Slowbro can't withstand Choice Specs Hidden Power Grass. Blastoise has more even defenses and can take all the punishment Arcanine can deliver it. Azumarill has generally bulky stats as well, even though they aren't too heavily invested in normally, but it poses a much more direct threat to Arcanine with a super effective Aqua Jet off its sky high Attack.</p>
+
+<p>The Rock/Water types such as Kabutops and Omastar enjoy a 4x resistance to Fire as well resisting Extreme Speed, and their naturally high Defense stats mean that Thunder Fang isn't an immediate problem. However, they have to be very wary of being KOed by a 4x super effective Hidden Power Grass. Regirock is practically a full stop to any Arcanine set, especially in sandstorm, as it can threaten back with big damage from Stone Edge. Rhyperior walls any set without Hidden Power Grass and OHKOes with Earthquake.</p>
+
+<p>Moltres counters the lead set particularly well if it can switch in on anything but a Toxic. It can Roost off Flare Blitz damage and quickly deplete Extreme Speed's limited PP with its Pressure ability. However, it has to be cautious of switching into other Arcanine sets as they can threaten it with Thunder Fang, and Arcanine has a naturally higher Speed stat than Moltres and so the fiery bird will be unable to use Roost and remove its Electric weakness. Stealth Rock will also halve Moltres' health every time it comes into play. A physically defensive Altaria functions similarly to Moltres, but won't mind Toxic as much because of its Natural Cure ability. Chances are it can't do too much to Arcanine in return, though, but can use the free turns as a valuable opportunity to support the rest of the team.</p>
+
+<p>Hariyama and Miltank have high defensive stats and aren't weak to any of Arcanine's moves, and by running Thick Fat, obtain a useful resistance to Fire. Miltank has Earthquake to scare Arcanine out with, whereas Hariyama wields a wide array of Fighting moves off its own high Attack stat. Porygon2 makes for an interesting counter, since both of Arcanine's abilities can be used against it. It can cripple sweeper sets with paralysis, while Recover off the damage it takes as it slowly chips away at Arcanine's health with Thunderbolt.</p>

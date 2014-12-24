@@ -1,0 +1,101 @@
+[Overview]
+
+<p>Sleek, lithe, and powerful, Braviary is the epitome of physical attacking. Sporting a base 123 Attack stat and high Base Power moves, Braviary's damage output is greater than almost any other Pokemon in the tier. When further augmented with boosting items such as Life Orb and the Choice items, it appears that almost nothing would be able to stop Braviary. With a Choice Scarf, Braviary becomes a devastating revenge killer, being able to outspeed and take down all but the fastest sweepers. With a Choice Band equipped, Braviary reveals his true self--the power boost turning him into a complete powerhouse--allowing him to crush most walls and turn frail sweepers into dust, scattered away by the beating of Braviary's mighty wings. Despite Braviary's overawing Attack stat and power, his Speed is lackluster, leaving him outsped by a whole host of RU threats who can hit him first. However, Braviary has decent overall bulk, especially for a sweeper, to offset this fact. Braviary, like most birds, also has access to Roost which provides reliable recovery, restoring health lost from residual damage such as Life Orb, Stealth Rock, and Brave Bird recoil. With his variety of sets and raw attacking power, Braviary should be considered by every team builder, both on their own team and on the opposing side.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Brave Bird
+move 2: Superpower
+move 3: Return
+move 4: U-turn
+item: Choice Scarf
+ability: Defiant
+nature: Adamant / Jolly
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>A Choice Scarf patches up Braviary's Speed, turning him into a powerful revenge killer and late-game sweeper. Unlike other Choice Scarf holders, Braviary is still extremely powerful without a boosting item thanks to his excellent Attack stat and high Base Power moves. Brave Bird is Braviary's staple attack; its 120 Base Power and 100% accuracy means that it is a reliable, high-powered move, annihilating most of the metagame. Superpower crushes common Flying-type counters such as Klinklang and Kabutops, 2HKOing both. However, bulky walls such as Steelix and Rhydon can take two Superpowers and retaliate with Gyro Ball and Stone Edge, respectively. Return is a secondary STAB move that has less power, but no recoil or stat drops. If Braviary needs to avoid recoil, then Return is the best option; it also hits Electric-types, such as Electivire, harder than any of Braviary's other moves. Lastly, U-turn, a common move on Choice Scarf holders, is used to scout Braviary's counters and gain momentum for your team. However, if Stealth Rock is on the field, then using U-turn repeatedly is not a good idea.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>252 EVs in Speed ensures Braviary can outspeed dangerous sweepers and Speed tie with other Choice Scarf-wielding base 80 Pokemon such as Gallade and Medicham. 252 Attack EVs gives Braviary as much power as possible. The choice between an Adamant and Jolly nature depends on whether you want to attempt a late-game sweep with Braviary or ensure he can revenge kill as many threats as possible. A Jolly nature lets Braviary outspeed Modest Gorebyss and Omastar after a Shell Smash, while an Adamant nature secures OHKOs on Typhlosion and Klinklang among others after Stealth Rock. Defiant is Braviary's most useful ability and turns Intimidate from opponents into an Attack boost. As Braviary will be switching a lot with U-turn and being Choice-locked, Stealth Rock will quickly take its toll. A Rapid Spin user, such as Cryogonal or Kabutops, can remove Stealth Rock from the field. Although Choice Scarf Braviary is a great revenge killer, he is also an excellent late-game sweeper, being able to clean up weakened teams with Brave Bird. However, Steelix and Rhydon can stop Braviary in its tracks, so a Pokemon that can take down Rock- and Steel-types, such as Slowking, is a good teammate.</p>
+
+[SET]
+name: Choice Band
+move 1: Brave Bird
+move 2: Superpower
+move 3: Return
+move 4: U-turn
+item: Choice Band
+ability: Defiant
+nature: Jolly
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>The power of Choice Band Braviary sends shivers down the spines of his enemies. Walls crumble against his perfect neutral coverage while frailer teams will be broken by Brave Bird alone. Brave Bird is so powerful that Braviary can 2HKO offensive Kabutops and even defensive Lanturn. Superpower crushes the bulky Rock- and Steel-types that resist Brave Bird such as Steelix and Rhydon. Return takes advantage of Braviary's other STAB; it is not as powerful as Brave Bird but does not have recoil. Unfortunately, it provides little coverage alongside Brave Bird and is completely walled by Ghost-types who are immune to it. However, the lack of recoil and any other drawbacks mean that it is a good move to use when Braviary is on low health and doesn't want to sacrifice his own HP. Lastly, U-turn lets Braviary scout your opponent as they flee from his immense power. It also lets Braviary gain momentum for your team while dealing sizable damage to most opponents despite its relatively low Base Power. If your prediction skills are spot on, then Braviary is probably the strongest wallbreaker in the tier, removing any physical wall for your teammates to sweep.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>A standard offensive EV spread of 252 Attack and 252 Speed is used to give Braviary as much power and speed as possible. The remaining 4 EVs are placed in Defense instead of HP to ensure that Braviary takes less damage from Stealth Rock. However, an alternative EV spread of 88 HP / 252 Atk / 4 Def / 164 Spe along with a Jolly nature ensures that Braviary can still outspeed Adamant Kabutops and Gallade. This EV spread also gives Braviary more bulk, especially, in HP which helps to minimize Brave Bird recoil's impact on Braviary. However, the lesser Speed investment means that Braviary will be unable to outspeed dangerous threats such as Jolly Gallade, Timid Mesprit, and Timid Entei. Out of all of Braviary's abilities, Defiant is the only one that merits usage. Defiant makes Intimidate an Attack boost, rather than a drop, and any stray stat drops such as a Special Defense drop from Psychic will boost Braviary's Attack by two stages.</p>
+
+<p>As Braviary can remove almost every physical wall in the tier, physical sweepers such as Klinklang and Sceptile are great teammates to clean up the opposing team afterwards. As Braviary is weak to Stealth Rock and will be switching often, a Rapid Spin user, such as Kabutops or Cryogonal, is also a good choice. On the other hand, entry hazards on the opponent's side of the field will help Braviary in wallbreaking. Support Pokemon, such as Crustle and Smeargle, can both set up Stealth Rock and Spikes.</p>
+
+[SET]
+name: Bulk Up
+move 1: Bulk Up
+move 2: Brave Bird
+move 3: Roost
+move 4: Substitute
+item: Leftovers
+ability: Defiant
+nature: Careful
+evs: 252 HP / 196 SpD / 60 Spe
+
+[SET COMMENTS]
+
+<p>Braviary's respectable bulk, access to reliable recovery, and Flying STAB make him a very effective user of Bulk Up. After a single boost, Braviary becomes very difficult to KO, being able to take all but strong special Ice- and Electric-type attacks fairly comfortably. Brave Bird provides Braviary with a powerful STAB move with good neutral coverage, allowing him to hit most Pokemon moderately hard. Roost provides Braviary with reliable recovery, allowing him to set up comfortably on strong special attackers, such as Sceptile and Accelgor, while preventing more defensively oriented Pokemon like Slowking, Lanturn, Clefable, and Uxie from whittling him down with repeated attacks. Substitute allows Braviary to set up on bulky Pokemon that rely on status, Seismic Toss, Clear Smog, and Dragon Tail to combat it, and prevents Volt Switch users from forcing it out. Thanks to these attributes, Braviary can easily stall out Stone Edges from bulky Rock-types, effectively eliminating their primary method of damaging him and allowing him to play around them.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given EV spread emphasizes special bulk in order to better set up on offensive Grass-types, such as Sceptile and Lilligant, and bulky Water-types, such as Slowking and Lanturn, whose Scalds fall short of breaking Braviary's Substitute, while also yielding 101 HP Substitutes. The Speed investment allows Braviary to outpace standard Qwilfish and, as such, the majority of RU defensive Pokemon. More Speed can be utilized to outpace moderately fast Pokemon such as Crawdaunt and Shell Smash Omastar, though detracting from Braviary's special bulk to such an extent does detract from his ability to set up on Pokemon such as Sceptile and defensive Slowking, making him more vulnerable to being 2HKOed and having his Substitute broken by Scald, respectively. While seemingly trivial, Bulk Up Braviary adores facing defensively oriented teams, finding numerous opportunities to set up on common defensive Pokemon. To illustrate this, here are some example calculations of common defensive Pokemon against Braviary:</p>
+
+<ul class="damage_calculation">
+<li>Calm 0 SpA Slowking Scald: 19.55 - 23.26%</li>
+<li>Calm 0 SpA Roselia Sludge Bomb: 22.27 - 26.23%</li>
+<li>Bold 0 SpA Tangrowth Hidden Power Fire: 12.62 - 14.85%</li>
+<li>Calm 0 SpA Lanturn Volt Switch: 27.22 - 32.67%</li>
+<li>Impish 0 Atk Steelix Gyro Ball: 26.98 - 31.93%</li>
+</ul>
+
+<p>Pokemon that can take on boosting Steel- and Rock-types that can set up alongside Braviary, such as Klinklang, Kabutops, and Aggron, are useful partners. Steelix and Poliwrath are both useful for this reason, with the former also checking Rotom, one of Braviary's most resilient counters. Spikes support is very useful in wearing down Rock- and Steel-types that resist Braviary's STAB. Roselia and Ferroseed are both solid examples of this, who in addition to laying Spikes, also take on Electric-types that trouble Braviary. Rapid Spin support is much appreciated if at all possible, since with Stealth Rock off the field, Braviary can much more definitively check and set up on Pokemon such as Sceptile and Accelgor. Cryogonal and Kabutops both make solid partners for this purpose.</p>
+
+[SET]
+name: Roost + 3 Attacks
+move 1: Brave Bird
+move 2: Superpower
+move 3: Return / Substitute / U-turn
+move 4: Roost
+item: Life Orb / Leftovers
+ability: Defiant
+nature: Jolly
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>Although Braviary is normally seen with a Choice item equipped, he can also run an effective 3 attacks set. Without the restriction of being Choice-locked, Braviary can use Roost to heal off Brave Bird recoil and residual damage. Brave Bird is still Braviary's most powerful move and hits like a missile with a Life Orb boost. However, the recoil can quickly take its toll, as Braviary often does large amounts of damage to the opponent. This, combined with potential Life Orb recoil, means that Braviary will have to Roost often or risk being KOed. Superpower destroys Rock- and Steel-types hoping to switch in on Brave Bird; without a Choice item, Braviary doesn't need to rely as heavily on prediction and can destroy slower Pokemon that resist one of his moves, such as Kabutops and Klinklang, after they switch in. Return is a STAB attack with no side effects, but because it provides almost no extra coverage, Braviary can instead use Substitute or U-turn. The former eases prediction and acts as a buffer to status while the latter scouts Braviary's checks and gains momentum for your team.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Although the standard EV spread with a Jolly nature is recommended, Braviary can choose to invest further in his decent bulk with an EV spread of 88 HP / 252 Atk / 4 Def / 164 Spe which still outspeeds Adamant Kabutops and Gallade while giving Braviary more bulk and just as much attacking power. 4 EVs are placed in Defense so Stealth Rock damage is rounded down. Life Orb is the main item as Braviary greatly appreciates the boost in power; however, Leftovers is still viable to help cushion Braviary from recoil. Leftovers is best used alongside Substitute as otherwise Braviary will lose health too fast and be forced to Roost much more often. Defiant is useful against Pokemon such as Qwilfish and Stoutland which rely on Intimidate to take hits. Roost can be removed so Braviary has four attacks but, with the lack of recovery, Braviary is better off with a Choice item.</p>
+
+<p>As the damage from Stealth Rock, Life Orb, and Brave Bird recoil adds up quickly, support from Braviary's teammates is necessary to protect him from residual damage he can avoid. A Rapid Spin user, such as Kabutops, Cryogonal, or Hitmonchan can remove Stealth Rock from your side of the field. Each of the above also has some sort of defensive synergy with Braviary. Steelix and Rhydon are troublesome as both can avoid being 2HKOed by Superpower and can defeat Braviary with Gyro Ball and Rock Blast respectively, especially after the Defense drops associated with using Superpower. Pokemon that can deal with Rhydon and Steelix, such as Torterra and Tangrowth, are thus good teammates. Even though Braviary has Roost, a teammate with Wish is appreciated, as Braviary often loses health too fast for Roost to keep up with. Alomomola and Clefable both have access to Wish and high HP stats, making them ideal for this.</p>
+
+[Other Options]
+
+<p>Although Braviary's movepool isn't tiny, most of Braviary's other options are outclassed by his main attacks. Braviary can use Bulk Up along with his already decent bulk to become a deadly tank. However, common revenge killers such as Rotom-C and Galvantula can hit Braviary super effectively and put him out of commission. Braviary can also use Rock Slide in tandem with his alternative ability, Sheer Force. Although Rock Slide doesn't give Braviary any extra coverage, it lets Braviary hit Pokemon such as Moltres and Aerodactyl harder than any of his other moves.</p> 
+
+[Checks and Counters]
+
+<p>Due to Braviary's astounding mix of power and perfect coverage, there are almost no Pokemon that can successfully wall him. Anything that is hit neutrally by Brave Bird is 2HKOed at worst, leaving only the sturdiest Steel- and Rock-types to face Braviary. Steelix, the tier's strongest physical wall, has a chance to be 2HKOed by Choice Band Superpower after Stealth Rock, as does the standard Eviolite Rhydon set. The only Pokemon in the tier that can guarantee its own survival after any two of Braviary's attacks and Stealth Rock damage is Metang; however, it cannot do much back to Braviary itself, and is easily set up on by a wide variety of Pokemon. Aside from these Steel- and Rock-types, everything else is comfortably 2HKOed by Braviary. However, while Braviary has a huge Attack stat and powerful moves, he can still be easily outsped by most sweepers. His base 80 Speed leaves him beaten by Pokemon such as Electivire, Magmortar, and Sceptile which can defeat a weakened Braviary if they can enter the field safely. Choice Scarf holders, such as Manectric, Galvantula, and Rotom-C, can outspeed even Choice Scarf Braviary and zap him with their STAB Electric-type attacks. Anything that can take a hit from Braviary and cripple him in return is a decent check; Misdreavus, Spiritomb, and Rotom can all take at least one of Braviary's attacks and cripple him with Will-O-Wisp, while Lanturn can paralyze Braviary with Thunder Wave. Keep in mind though, that all of the above can be 2HKOed upon switching in and will be heavily damaged even after just one attack. Priority attacks such as Kabutops's Aqua Jet and Absol's Sucker Punch can finish off a weakened Braviary. However, Sucker Punch users can be taken advantage of if Braviary runs Roost or Substitute.</p>

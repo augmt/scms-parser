@@ -1,0 +1,76 @@
+[Overview]
+
+<p>One word to describe Golurk would be "interesting." Golurk's solid Attack and respectable defensive stats make it a reasonably powerful and bulky Pokemon, with a movepool allowing it to effectively capitalize on these traits that includes Stealth Rock, Rock Polish, and an assortment of solid attacking options. Its unique Ground / Ghost typing grants Golurk useful immunities to Normal-, Fighting-, and Electric-type attacks, as well as a handful of resistances that give it numerous opportunities to switch in and dish out attacks.</p>
+
+<p>Of course, not all is well for Golurk. Its typing, while granting it some very useful resistances and immunities, does make it vulnerable to several common attacking types, including weaknesses to Pursuit, Aqua Jet, and Sucker Punch, making it somewhat easy to scare out with common Pokemon. To add to this, Golurk has trouble overcoming Cryogonal and Kabutops, the best Rapid Spin users in the tier. Several common Pokemon are immune to Golurk's STAB moves, forcing it to play incredibly careful with its attacks, especially when utilizing Choice Band. Nevertheless, Golurk is a very useful Pokemon in the RU metagame, and with proper support it can prove a deadly threat.</p>
+
+[SET]
+name: Tank
+move 1: Stealth Rock
+move 2: Earthquake
+move 3: Shadow Punch 
+move 4: Drain Punch / Fire Punch
+item: Leftovers
+ability: Iron Fist
+nature: Adamant
+evs: 156 HP / 252 Atk / 100 Spe
+
+[SET COMMENTS]
+
+<p>Golurk's excellent set of resistances and immunities, complemented by its respectable natural bulk and high Attack, make it a very durable and moderately powerful tank. These attributes provide Golurk numerous opportunities to set up Stealth Rock, with its Ghost typing allowing it to also block Rapid Spin attempts. Earthquake is Golurk's primary source of damage, hitting hard off its base 124 Attack. Shadow Punch offers a solid secondary STAB move boosted by Iron Fist, providing good neutral coverage alongside Earthquake. Drain Punch, in addition to hitting Dark- and Normal-types slightly harder than Earthquake thanks to Iron Fist, offers Golurk a semi-reliable form of recovery, helping it sustain itself throughout a match. Drain Punch also guarantees Golurk OHKOs defensive Cryogonal, allowing it to take an Ice Beam and recover a moderate amount of the damage lost, effectively preventing it from using Rapid Spin. Fire Punch allows Golurk to hit Grass- and Bug-types particularly hard, allowing it to punish incoming Sceptile and Rotom-C and better take on Pokemon like Pinsir while still maintaining the ability to OHKO Cryogonal.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given EV spread seeks to maximize bulk and offensive presence with 100 Speed EVs to outpace minimum Speed Lanturn, allowing Golurk to hit it with an Earthquake before stomaching a Scald and risking a burn. However, Golurk can invest more heftily in Speed to outpace Pokemon such as Bouffalant and Aggron. In order to reinforce its ability to block Rapid Spin, Golurk can run a spread of 252 HP / 28 Atk / 228 Def to take on even Life Orb Kabutops, allowing it to always survive its Waterfall and OHKO with Earthquake in return. Stone Edge can be utilized to hit Flying-types hard while still maintaining coverage against Bug-types. Dynamic Punch, alongside the ability No Guard, allows Golurk a 50-50 shot at temporarily incapacitating the opponent, although generally speaking the boost from Iron Fist and unreliability of Dynamic Punch confusion is enough to discourage its use.</p>
+
+<p>Flying-types such as Moltres and Swellow are solid partners for Golurk offensively, as they are capable of threatening Grass-types that keep it in check, with Golurk in turn taking on bulky Rock- and Steel-types. Escavalier offers good synergy with Golurk, breaking through Pokemon like Tangrowth with its powerful Megahorn and taking advantage of Golurk's ability to beat down Steel-types that check it. Similarly, Ferroseed offers good defensive synergy with Golurk, offering Spikes support to capitalize on Golurk's Ghost typing.</p>
+
+[SET]
+name: Choice Band
+move 1: Earthquake
+move 2: Shadow Punch
+move 3: Fire Punch 
+move 4: Stone Edge / Drain Punch
+item: Choice Band
+ability: Iron Fist
+nature: Adamant
+evs: 156 HP / 252 Atk / 100 Spe
+
+[SET COMMENTS]
+
+<p>Golurk is very capable of capitalizing on all the opportunities that its typing and bulk provides it to function as a Choice Band user. Earthquake in tandem with with Golurk's high base 124 Attack is impressively powerful, 2HKOing bulky Pokemon such as Poliwrath consistently. Shadow Punch complements Earthquake well, offering good neutral coverage and safe attacking option when faced with a potential switch-in from a Levitate user or Flying-type. Fire Punch offers Golurk an effective means of hitting Bug- and Grass-types hard, allowing it to even beat incoming Tangrowth with Stealth Rock up. Stone Edge allows Golurk to crush Flying-type switch-ins attempting to come in on Earthquake. On the other hand, Drain Punch offers Golurk a decent method of recovering from passive damage, while also punishing Dark- and Normal-types that attempt to switch into Shadow Punch.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>100 Speed EVs allow Golurk to outpace Lanturn and threaten to OHKO it with Earthquake. However, it is not out of the question to increase the Speed investment to outpace Aggron and Bouffalant. Thunder Punch can be utilized in the final moveslot to hit bulky Water-types, such as Poliwrath and Alomomola, particularly hard courtesy of Iron Fist and still maintain coverage on Flying-types. Focus Punch, while being prediction-heavy, is the most powerful move in Golurk's arsenal, and can hit a variety of Pokemon either switching out or using a non-damaging move incredibly hard.</p> 
+
+<p>Considering Golurk's primary attacking options all have immunities, Pokemon capable of combating Flying- and Normal-types as well as Levitate users is thoroughly appreciated. Escavalier is an excellent partner for this purpose, taking on most Normal-types rather well, in addition to handling common Levitate users such as Rotom-C. Electric-types such as Rotom-C and Galvantula are also useful in that they can threaten Flying-types with their STAB attacks as well as take on dedicated physical walls such as Tangrowth rather comfortably. In addition, powerful physical attackers such as Durant and Absol appreciate Golurk's ability to draw in and wear down physical walls.</p>
+
+[SET]
+name: Rock Polish
+move 1: Rock Polish
+move 2: Earthquake
+move 3: Shadow Punch
+move 4: Fire Punch
+item: Life Orb
+ability: Iron Fist
+nature: Jolly / Adamant
+evs: 252 Atk / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>Golurk's prestige as a bulky tank, complemented by its numerous resistances and immunities, makes it a highly effective Rock Polish sweeper. After a Rock Polish, Golurk achieves a respectable 418 Speed (or 458 with a Jolly nature). While this is by no means outstanding, it does allow it to outpace the vast majority of the unboosted tier. Earthquake is Golurk's primary STAB move, allowing it to break through physically bulky Pokemon such as Poliwrath with proper entry hazard support. Shadow Punch offers a reasonably powerful STAB move to complement Earthquake, allowing it to break through Misdreavus and Slowking handily. Fire Punch rounds off coverage, letting Golurk hit Grass- and Bug-types that resist Earthquake particularly hard while more concretely dispatching Pokemon such as Escavalier and Durant.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>A Jolly nature is chosen to allow Golurk to outspeed Choice Scarf Rotom-C and Medicham after a boost. An Adamant nature is usable for the extra power, but the Speed provided by Jolly is often more useful. Colbur Berry is an interesting item choice over Life Orb, allowing Golurk to take a singular Sucker Punch from Pokemon such as Absol and Spiritomb and KO with Earthquake, as well as allowing it to set up safely on Pokemon such as Zangoose, although the stark drop in power makes itself very evident, and thus requires an assortment of bulky Pokemon to be worn down sufficiently before Golurk attempts to sweep. Stone Edge is a useful tool for hitting Flying- and Bug-types in a single attack, although with Stealth Rock support Golurk can often take out Flying-types rather efficiently.</p> 
+
+<p>Grass-types such as Sceptile and Sawsbuck make solid partners for Golurk because they can capitalize on the common priority attacks aimed at Golurk, such as Kabutops's Aqua Jet and Spiritomb's Sucker Punch, and switch into and pressure Pokemon such as Tangrowth and Poliwrath. Spikes support is appreciated for wearing down Pokemon like Poliwrath and Alomomola for Golurk to safely 2HKO them. Qwilfish and Ferroseed are both useful partners for this task, offering reasonable defensive synergy alongside Golurk and setting up Spikes on several common switch-ins to it.</p>
+
+[Other Options]
+
+<p>Considering Golurk's movepool is actually rather expansive, it does have some interesting alternative options. Golurk makes for a fairly effective SubPunch user, finding a fair amount of opportunities to set up a Substitute, although generally speaking the set doesn't overcome any common switch-ins. Toxic is a useful move for crippling dedicated physical walls such as Tangrowth that can normally take the brunt of Golurk's attacks. Gravity is an interesting option for allowing Golurk to hit Levitate users and Flying-types while also improving the accuracy of moves such as Stone Edge, although most Levitate users are still capable of outpacing and scaring off Golurk. Golurk's specially oriented movepool is quite expansive, although its pitiful Special Attack stat prevents Golurk from effectively utilizing it.</p>
+
+[Checks and Counters]
+
+<p>Dedicated physical walls such as Tangrowth and Alomomola combat Golurk quite well, taking even Choice Band-boosted Fire Punches and Earthquakes moderately well without massive entry hazard support and retaliating with their STAB attacks. Pursuit users such as Spiritomb and Drapion can put Golurk out of commission prematurely, although they need be wary of its powerful Earthquake when switching in. Offensive Grass-types generally prove problematic, with Pokemon like Rotom-C capable of switching in on most of Golurk's attacks well and threatening it with a STAB Leaf Storm, and others such as Sceptile and Lilligant, while not switching in nearly as comfortably, are capable of using Golurk to recover residual damage with their powerful Giga Drain. Rock Polish variants of Golurk fear Aqua Jet and Sucker Punch users such as Absol and Kabutops respectively, both of which can revenge kill it regardless of Speed boosts.</p>

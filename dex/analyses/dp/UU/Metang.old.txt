@@ -1,0 +1,35 @@
+[Overview]
+
+<p>While the other pseudo-legendaries' pre-evolved forms have seen occasional use in UU thanks to the scarcity of Dragon-types in the tier, Metang is truly an uncommon sight, and it's not too hard to see why. With substandard Attack and Speed stats and poor coverage on its STAB attacks, Metang has virtually no offensive presence. It even lacks Seismic Toss, which most non-threatening Pokemon often rely on for consistent damage. It is also almost entirely outclassed by Registeel, which boasts equal or better stats in every category and a similar movepool.</p>
+
+<p>Metang does have a few perks, however, that save it from being entirely forgettable. Its excellent defensive typing grants it eight resistances, one immunity, and only two weaknesses. Its defensive stats, while not especially impressive, are respectable enough to take advantage of its typing. Most importantly, it has a solid support movepool that includes Reflect, Light Screen, and Trick, all of which Registeel lacks. Make sure to play Metang to these specific strengths, or it will be outclassed.</p>
+
+[SET]
+name: Dual Screens
+move 1: Light Screen
+move 2: Reflect
+move 3: Stealth Rock / Meteor Mash
+move 4: Explosion
+item: Light Clay
+nature: Careful
+evs: 252 HP / 48 Def / 208 SpD
+
+[SET COMMENTS]
+
+<p>Metang is the only Steel-type in UU that can set up dual screens (other than Magneton, whose 4x weakness to Ground makes it a poor choice for this role), giving it a unique niche. With numerous resistances and only two weaknesses to Ground- and Fire-type attacks, Metang draws in very different counters compared to Uxie, Claydol, and other popular dual screen users. This makes it an interesting partner for Pokemon such as Charizard and Altaria, both of which can come in virtually for free on Ground- and Fire-type moves and set up with Dragon Dance from behind the screens.</p>
+
+<p>Light Screen and Reflect are obvious on this set, and Metang's decent bulk means it will almost always be able to set both up. Stealth Rock is always a valuable support option for any team, enabling easier KOs for sweepers and punishing opposing switches. However, Meteor Mash is also an option to keep Metang from being set-up bait; the damage output won't knock your socks off, but it is enough to prevent Mismagius from setting up a Substitute in Metang's face. In the final slot, Explosion is an excellent choice to heavily damage any Pokemon that doesn't resist it while guaranteeing your sweeper gets in unmolested.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given EV spread essentially guarantees Metang won't be OHKOed through its screens by even the most powerful STAB super effective attacks, allowing it to at least set both screens up before it goes down. From behind the appropriate screen, Metang will always survive an Adamant Choice Band Rhyperior's Earthquake, Jolly Choice Band Blaziken's Flare Blitz, and Timid Choice Specs Moltres's Fire Blast. A more standard spread of 252 HP / 252 Def / 4 SpD with an Impish nature is also perfectly reasonable; super effective special attacks will be a problem in this case, but Metang will have an easier time switching in and setting up screens against physical attackers in general. Either way, it's a good idea to bring some insurance in case the strategy doesn't work the first time. Wish support from Chansey or Clefable can restore Metang's health, giving it a second chance, while bulky Water-types such as Milotic and Slowbro can take on powerful Fire- and Ground-types if Metang has taken too much damage to survive their assaults.</p>
+
+<p>This set is meant to be paired with Pokemon that can take advantage of the Earthquakes and Fire Blasts that will often be thrown Metang's way. Altaria and Charizard are immune to Ground and resist Fire-type attacks, and both can set up multiple Dragon Dance boosts from behind dual screens. Mismagius has Levitate and can become incredibly threatening with just a single free turn to set up Nasty Plot or a Substitute. Chatot may seem like an odd choice, but it can Encore opposing Earthquakes and use Nasty Plot to become a surprisingly powerful sweeper. Finally, Gligar can take advantage of dual screens to set up Agility and Swords Dance boosts and Baton Pass them to a powerful sweeper that will steamroll the opponent's team.</p>
+
+[Other Options]
+
+<p>Metang has a nice physical movepool that includes Zen Headbutt, Earthquake, Ice Punch, Thunder Punch, Brick Break, Rock Slide, Bullet Punch, and Pursuit; unfortunately, it lacks both the power and the Speed necessary to be an offensive threat. However, a Choice Band set with Trick and Explosion can potentially cripple two opposing Pokemon per match with good prediction. Gyro Ball is an alternate Steel-type STAB move, but Metang's Speed isn't quite low enough to make it worth using over Meteor Mash. With decent defenses, access to Explosion, and only one weakness in the rain, Metang can be a successful Rain Dance supporter, although Registeel completely outclasses it in this role. Gravity is also an option, but it's rarely worth building a team around, and Metang itself doesn't benefit very much from it. Magnet Rise eliminates Metang's weakness to Ground-type attacks, but the turn it takes to use would usually be better spent setting up screens or Stealth Rock.</p>
+
+[Checks and Counters]
+
+<p>Rotom is immune to Explosion, resists Meteor Mash, and can use Will-O-Wisp, Thunder Wave, or Pain Split to cripple any sweeper Metang is trying to set up. Steelix's titanic Defense and resistances to Meteor Mash and Explosion mean it's barely dented by Metang's attacks, and it can use Roar to simply phaze away Metang's teammates as they attempt to set up. Magneton resists Metang's attacks and can trap it with Magnet Pull, but it can't stop Metang from putting up its screens and Exploding. In general, Taunt turns Metang into dead weight.</p>

@@ -1,0 +1,85 @@
+[Overview]
+
+<p>Munchlax is one of the most useful Pokemon in Little Cup and thanks to its mammoth HP as well as its great Attack and Special Defense stats, it can simultaneously take an offensive and defensive role on most teams. A cornerstone of special walling, Munchlax is most teams' answer to vicious special attackers, such as Gastly, Chinchou, Mantyke, and Abra, and its very presence prevents special threats from running rampant in the metagame. At the same time, though, it is let down by mediocre physical defense and the lowest Speed in the entire metagame. However, its usefulness is undeniable, and it's easy to see why, despite its shortcomings, Munchlax is still one of the defining Pokemon in the Little Cup metagame.</p>
+
+[SET]
+name: Tank
+move 1: Return / Body Slam
+move 2: Earthquake
+move 3: Pursuit
+move 4: Fire Punch / Ice Punch / Protect
+item: Oran Berry
+ability: Thick Fat
+nature: Brave / Sassy
+evs: 236 Atk / 36 Def / 236 SpD
+
+[SET COMMENTS]
+
+<p>Munchlax's high Special Defense lets it wall special opponents handily, threatening opponents such as Gastly and Drifloon with Pursuit. Return provides basic STAB, and is Munchlax's strongest attack. Body Slam is only slightly weaker, but it can paralyze threatening opponents that switch in, such as Aron and Gligar. Earthquake hits Rock- and Steel-types that resist Munchlax's STAB Return. Pursuit hits Ghost- and Psychic-types hard, which is one of the biggest reasons to use Munchlax in Little Cup. The fourth moveslot choice is up to your preference; Fire Punch can be used to hit Bronzor, while Ice Punch can be used to hit Gligar if it causes trouble for your team.</p>
+
+[Additional Comments]
+
+<p>If your team needs to stop special attackers even more, Munchlax can take EVs from Attack and move them into HP while running a Sassy nature. This gives Munchlax slightly better survivability against special as well as physical attackers, but you miss out on precious power. </p>
+
+<p>Any Ghost-type works well with Munchlax, as Ghosts are immune to the Fighting-type attacks that hit Munchlax for super effective damage. Gligar also makes a good teammate, as it has high Defense and a resistance to Fighting-type moves, while, thanks to Thick Fat Munchlax switches in with ease on the Ice-type moves that Gligar is weak to.</p>
+
+<p>Munchlax is one of the few special walls in Little Cup, and as such, it should focus on its Special Defense first, and then either its Attack or HP. All sets will have at least 36 EVs left over, which can be placed in Defense to net an extra point. When using Leftovers, it is important to remember that at least 156 EVs must be placed into HP in order to reach 32 HP, which allows recovery of 2 HP per turn while holding Leftovers.</p>
+
+[SET]
+name: Recycle
+move 1: Recycle
+move 2: Curse
+move 3: Return / Body Slam
+move 4: Fire Punch / Thunder Punch / Earthquake
+item: Oran Berry
+ability: Thick Fat
+nature: Sassy
+EVs: 76 HP / 196 Def / 236 SpD
+IVs: 0 Spe
+
+[SET COMMENTS]
+
+<p>Like its older sibling Snorlax in OU, Munchlax can run a Curse set effectively in LC, with the distinction of possesing something like a recovery move, the Oran Berry-Recycle combination. After using Curse and recovering lost HP with Oran Berry, Recycle allows Munchlax to regain the Oran Berry. This means that Munchlax can recover 64.52% of its HP by using 2 Oran Berries.</p>
+
+<p>On the offensive side, Return is a very powerful STAB move, but Body Slam can be used for paralysis support. Fire Punch allows Munchlax to hit Steel-types for super effective damage, while putting the hurt on Ghost-types. Thunder Punch can be used instead of Fire Punch, as it allows Munchlax to hit Rock-types for neutral damage and pesky Water-types (bar Chinchou) for super effective damage. Earthquake allows Munchlax to hit Rock- and Steel-types for super effective damage, but Flying or Levitating Ghosts such as Drifloon and Gastly will be immune to both offensive attacks.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>76 HP EVs allow Munchlax to reach 31 HP. This HP number is the maximum you can have while still losing only 1 HP under Hail or Sandstorm. If Munchlax had 32 HP or more, it would lose 2 HP per turn under those weather conditions. A Sassy nature and 236 EVs maximize Special Defense, and the last 196 EVs are placed into Defense.</p>
+
+<p>Munchlax can also use a mono-attacker set by changing the fourth attack to Rest and the Oran Berry to Chesto Berry. This will allow Munchlax to restore its condition and all of its HP in a single turn, wake up instantly thanks to the Chesto Berry, and then recover the Berry with Recycle to start the healing cycle over. It's one turn faster than using Rest without recovering the Berry (without Recycle: Rest + 2 turns Munchlax is asleep = 3 turns; with Recycle: Rest (Munchlax wakes up due to Chesto Berry) + Recycle (to recover the Berry) = 2 turns).</p>
+
+<p>If you are looking for perfect coverage, a more specially-oriented set could be used, with a Quiet nature and an EV spread of 76 HP / 196 Def / 36 SpA / 156 SpD, and Surf in the last moveslot. 36 SpA allows Munchlax to always OHKO 36 HP / 36 SpD Jolly Aron after three layers of Spikes and Stealth Rock; even with only one layer of Spikes and without Stealth Rock, there is a small chance that it will OHKO. Stockpile is an option to use over Curse on the more specially-oriented set due to the loss of Special Defense investment.</p>
+
+<p>Gligar is a fantastic partner to use alongside Munchlax, due to his high Defense, Rock and Fighting resistances, and the ability to KO them with Earthquake / Aerial Ace (Steel-types are also taken care of with Earthquake). Nasty Plot Croagunk is one of the best teammates for the mono-attacker set, as he resists Fighting-type attacks, and can use Vacuum Wave to demolish Rock- and Steel-types, while Ghost-types are bested by Dark Pulse. For the mixed set, Pineco is the best partner, because he can set up Spikes and Stealth Rock, boasts a resistance to Fighting-type attacks, has access to Explosion, and can use Earthquake to hit Rock- and Steel-types for super effective damage. Finally, due to the Curse Speed drop and Munchlax's naturally low base Speed stat, Trick Room support can be a good option. Bronzor can provide Trick Room support, resists Rock- and Steel-type attacks, and can use Psychic to KO Fighting-types.</p> 
+
+[SET]
+name: Rain Dance Support
+move 1: Rain Dance
+move 2: Return
+move 3: Earthquake
+move 4: Pursuit
+item: Damp Rock / Oran Berry
+ability: Thick Fat
+nature: Sassy
+evs: 156 HP / 196 Def / 156 SpD
+
+[SET COMMENTS]
+
+<p>Munchlax's incredible bulk and ability to stop common Rain Dance counters such as Snover and Chinchou make it a very competent Rain Dance supporter. Rain Dance and Damp Rock are essential to this set's success, since it can easily set up eight turns of rain. Return is Munchlax's primary STAB move, and is its best option against a variety of threats. Earthquake is important for 2HKOing Chinchou, while Pursuit allows Munchlax to trap Snover and other Pokemon. As previously stated, Damp Rock is the primary hold item due to its effect of extending Rain Dance, but an Oran Berry can be used as a viable alternative if Munchlax does not seem bulky enough. Oran Berry will also allow Munchlax to switch in more times to take more punishment, albeit while setting up shorter Rain Dances.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given EVs maximize Munchlax's defenses, as it can't heal itself outside of Rest. Even without any offensive investment, Pursuit is still a 2HKO on Snover if it switches out, and a 3HKO on non-Oran Berry Chinchou. Pokemon that can take advantage of Rain Dance, most notably Swift Swim abusers such as Mantyke and Kabuto, help a lot. They are also apt at taking out Hippopotas, another threat to Rain Dance teams. Fire Punch is left out on this set since, although it is a swift OHKO on Snover regardless of the weather, it will have less power against most other Pokemon. Stealth Rock supporters are also good as they limit the number of switches Snover and Chinchou have; Bronzor is great because it is yet another effective Rain Dance supporter.</p>
+
+[Other Options]
+
+<p>Thanks to its mammoth HP stat and general bulk, Munchlax is a good candidate to use Leftovers. Using at least 156 HP EVs will mean that Munchlax will heal 2 HP per turn from Leftovers. With Protect, this becomes even more potent, being able to recover health while scouting at the same time.</p>
+
+<p>Munchlax has a sizeable movepool filled with things to catch counters off-guard. Seed Bomb can be used to hit for good neutral damage all around and hit Rock-types super effectively without the risk of Ground-immune Pokemon switching in for free on Earthquake. Surf can be used to hit the lower Special Defense of the Rock / Ground or Rock / Steel types, but loses against Rock / Water types. Substitute and Focus Punch can be used together, as Munchlax tends to force switches, which allow it to set up its huge 8 HP Substitutes. However, Pursuit is often significantly more effective for punishing opposing switches. Chople Berry can be used to surprise an opposing Fighting-type, but Munchlax loses significant bulk without Oran Berry's 10 HP boost, which leaves it open to some special threats. Munchlax is also a great Pokemon to use with Trick Room support. If used in Trick Room, Munchlax can make even better use of Life Orb to provide a power boost at the expense of bulk.</p>
+
+[Checks and Counters]
+
+<p>It is incredibly difficult to actually counter Munchlax because of the excellent power of its STAB Return. Ghost-types with Levitate are generally the most effective counters, but Pursuit, Seed Bomb, and Fire Punch are all threatening. Really, the only thing you can do is predict and pray. Don't switch Bronzor into Fire Punch, don't switch Ghost-types into things not named Return / Earthquake, and don't switch Rock-types into Seed Bomb or Earthquake. If you manage to do that you should be fine.</p>
+
+<p>Revenge killing is slightly easier. Munchlax is dreadfully slow, and its physical defense is its only real weak point, so when you get the chance, hit it hard with the strongest physical attack that you have. Fighting-types, such as Mankey and Machop can easily demolish Munchlax. Really, just wear it down with repeated attacks. It is hard to keep it in on things that hit with any semblance of physical power.</p>

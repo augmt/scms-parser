@@ -1,0 +1,41 @@
+[Overview]
+
+<p>While most other Dragon-types in LC are known for being able to boost their stats with Dragon Dance and set up for sweeps, Deino is very different. It doesn't really have much going for it when compared to other Dragon-types, as it lacks the setup moves that make other Dragon-types so dangerous. Deino's offensive stats are also average; it's somewhat slow; and its weakness to common Ice-, Bug-, and Fighting-type attacks make it relatively easy to take down. Additionally, it's an unreliable attacker because its ability, Hustle, lowers the accuracy of all of its moves down to 80% or lower. Deino does have a good movepool, however, and with Hustle, it gets a useful Attack boost to help overcome its low base stats, turning it into a frightening sweeper when equipped with a Choice Scarf to help its average Speed stat. Perfect coverage with Outrage and Superpower as well as a power boost from Hustle makes Deino quite hard to wall. Its Speed is also just enough to hit the benchmark of 14 Speed, letting Deino outspeed every unboosted Pokemon in the metagame when equipped with a Choice Scarf. It also has a unique typing and good mixed bulk that lets it tank some common Water-, Fire-, Psychic-, Ghost-, Grass-, and Electric-type moves. Deino is definitely the odd Dragon out, but that certainly doesn't mean it doesn't have a niche in this metagame.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Outrage
+move 2: Crunch
+move 3: Superpower
+move 4: Head Smash / Zen Headbutt
+item: Choice Scarf
+ability: Hustle
+nature: Jolly
+evs: 20 HP / 236 Atk / 36 Def / 212 Spe
+
+[Set Comments]
+
+<p>Deino has just enough Speed to be able to run an effective Choice Scarf set, and with Hustle to boost its Attack to frightening levels, it can pose as a frightening sweeper. Outrage and Crunch are two powerful, reliable STAB moves that can easily tear down unprepared teams or teams that have their Steel-types removed. Outrage hits an astonishing 270 Base Power factoring in STAB and Hustle, and is perfect for cutting through offensive teams. Deino's wide movepool gives it many other options as coverage, and they can be used according to what you want Deino to hit. Here are some calculations that display Deino's power:</p>
+
+<ul class="damage_calculation">
+<li>Outrage vs. 156/196+ Eviolite Mienfoo: 65.21-78.26%</li>
+<li>Outrage vs. 132/212+ Eviolite Hippopotas: 48-60%</li>
+<li>Outrage vs. 0/36 Drilbur: 122.72-150%</li>
+<li>Crunch vs. 0/0 Eviolite Misdreavus: 109.09-136.36%</li>
+<li>Head Smash vs. 36/20 Eviolite Murkrow: 147.82-173.91%</li>
+<li>Head Smash vs. 116/156+ Eviolite Shelmet: 86.95-104.34%</li>
+</ul>
+
+<p>Superpower is suggested for the third slot, as it smacks Steel-types for a lot of damage. The last slot is for super effective coverage. Head Smash is a really powerful coverage move that smashes Fire-, Ice-, and Bug-types, but has nasty recoil. Zen Headbutt can be used to hit incoming Fighting-types for a lot of damage, and it hits Croagunk especially hard. It should be noted that Deino should be played with caution, because Hustle decreases the accuracy of all of its moves, making it an unreliable attacker.</p>
+
+[Additional Comments]
+
+<p>The EVs and Jolly nature give Deino enough Speed to outspeed every unboosted opponent when it holds a Choice Scarf. Then, they are invested in Attack to make Deino as powerful as possible. The rest of the EVs are then split between HP and Defense to give Deino some bulk. Because Deino likes to come in and immediately start smashing things, it appreciates the removal of Steel-types, which prevent it from spamming Outrage. Magnemite can reliably trap Bronzor and also resists the Bug- and Ice-type attacks that Deino is weak to. Fire-types such as Larvesta or Ponyta also make good partners because of their ability to tackle Steel-types. They also resist Ice- and Bug-type attacks, and the former even resists Fighting-type attacks and can pivot with U-turn to bring Deino in safely. Fighting-types such as Mienfoo or Croagunk can work as teammates as well. Mienfoo can hit Steel-types hard with Fighting-type STAB and Knock Off Eviolites from the physical walls it baits in. Croagunk can do the same, and it can check most Fighting-types that give Deino trouble. Entry hazard setters such as Ferroseed or Dwebble make good partners too. They can lay Spikes and Stealth Rock, which damage incoming walls and brings many Pokemon into OHKO or 2HKO range. Psychic-types are great partners, as they can hit physical walls hard with their special attacks and can hit Fighting-types super effectively, removing Deino's checks. Deino, in turn, can remove Ghost- and Dark-types that give Psychic-types trouble.</p>
+
+[Other Options]
+
+<p>Deino does have a few other options up its hoodie. Deino has a very wide special movepool, with moves such as Draco Meteor, Dragon Pulse, Earth Power, Dark Pulse, and Hyper Voice. However, its Special Attack is quite low, making it an unreliable gimmick. Deino also has some other physical options it can use on its Choice Scarf set, such as Fire Fang and Ice Fang, but they don't hit anything useful and are rather weak. A bulky phazing set with Eviolite and Thunder Wave and Dragon Tail is an option, but Deino's weakness to common Fighting-types makes this a risky idea as well.</p>
+
+[Checks and Counters]
+
+<p>Deino relies on a Choice Scarf to work effectively, so predicting what move it is going to use and then picking a counter is the best way to deal with it. Steel-types are often the best counters to Deino. They do have to watch up for Superpower, but they can easily tank Outrage and Crunch. Bronzor gets a special mention here, as it's not even hit very hard by Superpower due to its Psychic typing. Physically defensive Pokemon also do a nice job at countering Deino. Hippopotas can sponge Crunch and Outrage and recover with Slack Off, plus hit hard with Earthquake. Fighting-types are also great checks. Mienfoo can take a hit and then OHKO with Drain Punch or High Jump Kick, and with a Choice Scarf, it can easily outspeed and OHKO. Croagunk and Timburr have priority, which lets them finish off Deino after some prior damage, such as Stealth Rock. Faster Choice Scarf users, such as Murkrow and Chinchou, with powerful STAB moves are also good counters. Drilbur in sand is a good check, as it can outspeed and KO with Earthquake.</p>

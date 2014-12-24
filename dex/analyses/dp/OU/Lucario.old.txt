@@ -1,0 +1,182 @@
+[Overview]
+
+<p>Lucario is one of the top offensive threats of DPP OU, boasting high Attack and Special Attack stats, decent Speed, great STAB attacks in Close Combat and Aura Sphere, and many other useful attacking options. Its immunity to Toxic Spikes and numerous 4x and 2x resistances (most notably to Rock-, Dark-, and Dragon-type attacks) give Lucario many opportunities to switch in and wreak havoc on the opposing team. While it does have auspicious typing, Lucario's defensive stats leave much to be desired, and its relative frailty remains its largest weakness. In spite of that, Lucario is an extremely worthwhile addition to any team, and is almost certain to leave its mark on the opponent.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Close Combat
+move 3: Extreme Speed
+move 4: Crunch / Stone Edge / Bullet Punch
+item: Life Orb
+ability: Inner Focus
+nature: Adamant / Jolly
+evs: 252 Atk / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>With one turn of setup, a 120 Base Power STAB attack, and one of the strongest priority moves available, Swords Dance Lucario is arguably the best late-game sweeper in OU. After a Swords Dance, even defensive Skarmory is OHKOed by Close Combat, assuming Stealth Rock damage and an Adamant nature. Meanwhile, many of the Pokemon that are faster than Lucario are frail enough to be OHKOed by Extreme Speed after a Swords Dance.</p>
+
+<p>The final move is the most difficult to choose. If bulky Ghost- and Psychic-types like Rotom-A and Celebi are of concern, Crunch is the best option. If Flying-types are giving Lucario the blues, Stone Edge is generally more useful. Bullet Punch can also be used to hit Pokemon that resist or are immune to Normal-type attacks and are faster than Lucario, such as Gengar and Choice Scarf Tyranitar. While it may be tempting to replace Extreme Speed with Bullet Punch, it isn't advised due to Extreme Speed's ability to effectively hit Starmie, Jolteon, and Infernape, along with its higher Base Power.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>To show how powerful this set is, here are some calculations against various Pokemon after a single Swords Dance. These calculations assume an Adamant nature.</p>
+
+<ul class="damage_calculation">
+<li>Close Combat vs. 252/252+ Skarmory: 84.4% - 99.7%</li>
+<li>Close Combat vs. 252/0+ Skarmory: 101.5% - 119.5%</li>
+<li>Close Combat vs. 252/252+ Bronzong: 95.2% - 100%</li>
+<li>Close Combat vs. 252/176+ Hippowdon: 80.7% - 95%</li>
+<li>Crunch vs. 252/220+ Celebi: 81.2% - 95.5%</li>
+<li>Crunch vs. 252/252+ Rotom-A: 100% - 117.8%</li>
+<li>Extreme Speed vs. 0/0 Starmie: 97.3% - 114.6%</li>
+<li>Extreme Speed vs 0/0 Zapdos: 79.1% - 93.1%</li>
+<li>Bullet Punch vs. 0/0 Gengar: 95.8% - 113%</li>
+<li>Bullet Punch vs. 0/0 Tyranitar: 89.7% - 105.6%</li>
+<li>Stone Edge (+1) vs. 156/96 Gyarados: 121.6% - 143.2%</li>
+<li>Stone Edge vs. 248/228+ Zapdos: 118% - 138.9%</li>
+</ul>
+
+<p>Whether you choose an Adamant or Jolly nature depends on your team. Adamant gets important OHKOs against Bronzong and Skarmory, but a Jolly nature allows Lucario to outspeed Jolly Gyarados, Timid Suicune, and Timid Rotom-A.</p>
+
+<p>Having a Pokemon on your team that attracts Pursuit is very useful as this is one of the easiest ways for Lucario to set up a Swords Dance. Gengar, Choice Scarf Rotom-A, and Starmie are great options for this role. Stealth Rock support from the likes of Azelf, Heatran, Infernape, Metagross, and Swampert is very helpful since it allows Lucario to OHKO Pokemon such as Bronzong and Skarmory with a +2 Close Combat. Stealth Rock also makes it much tougher for Gyarados and Zapdos to continuously switch into Lucario if you decide against Stone Edge.</p>
+
+[SET]
+name: Agility
+move 1: Agility
+move 2: Close Combat
+move 3: Crunch
+move 4: Ice Punch
+item: Life Orb
+ability: Inner Focus
+nature: Adamant
+evs: 252 Atk / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>Swords Dance Lucario has become one of the most popular sets around, which has caused many counters and checks to arise and prevent it from sweeping. Agility Lucario is designed to take advantage of Swords Dance Lucario's popularity and beat all of its common checks and counters, such as Gengar, Rotom-A, Gliscor, Dragonite, Choice Scarf Heatran, Magnezone, Tyranitar, and Jirachi. Lucario is also fully capable of late-game sweeping once you discover and weaken your opponent's team. Close Combat provides Lucario with a powerful STAB move to use, while Crunch and Ice Punch are used for additional coverage to hit the Pokemon that aren't threatened by Close Combat.</p>
+
+<p>Lucario can set up against any opponent it has a good chance to force out, such as Tyranitar locked into Pursuit or Blissey (watch out for Thunder Wave or Flamethrower). If you were using Swords Dance Lucario, even if you have the perfect opportunity to set up, counters such as Dragonite and Gliscor can switch in on the Swords Dance and OHKO Lucario before it has a chance to attack. This means that you need to predict the opponent's switch-in correctly in order to sweep with Swords Dance Lucario efficiently. With Agility Lucario, on the other hand, this is not a problem because it outpaces the aforementioned threats and OHKOes them first. This is one of the major selling points of Agility Lucario; it is easier to use than Swords Dance Lucario in that it requires less prediction to sweep.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The Speed EVs give Lucario the ability to outpace virtually everyone after an Agility, as well as giving it enough Speed to outpace Timid Heatran if you can't pull off an Agility. However, because Lucario doesn't need to run max Speed to be effective with Agility, there are alternative Speed EVs you can use. With 188 Speed EVs, Lucario outruns Jolly Breloom, Metagross, and Adamant Gyarados before an Agility. Furthermore, he also outspeeds Timid Choice Scarf Gengar after an Agility. If you want less Speed for more bulk, 126 Speed EVs can instead be used to outpace defensive Celebi and Zapdos, as well as Jolly Tyranitar, before an Agility. Also, after an Agility, those 126 Speed EVs allow you to outpace both Choice Scarf Jirachi and Flygon. The remainder of the EVs could be put into either of Lucario's defenses to give it an easier time setting up and sweeping.</p>
+
+<p>Since Agility Lucario is weaker than its Swords Dance counterpart, entry hazard support is crucial to this set's success; Stealth Rock and Spikes make it easier for Lucario to grab KOs against the likes of Celebi, Suicune, and Jirachi. Swampert is one of the most reliable Stealth Rock users in the metagame, as its overall bulk and great typing nearly guarantee a Stealth Rock setup. Skarmory and Forretress, who also has Rapid Spin, are excellent users of Spikes, and both are even able to use Stealth Rock on the same set thanks to their great physical durability. Both Swampert and Skarmory also have the ability to phaze, racking up even more residual damage against the opponent.</p>
+
+<p>Ghost-types are necessary on a team with Lucario, as they prevent Rapid Spin users from removing your entry hazards. Rotom-A is a great option, as it has the bulk and typing to repeatedly switch into most Rapid Spinners, as well as packing immunities to Lucario's Fighting- and Ground-type weaknesses. As a bonus, Rotom-A attracts Choiced Pursuit users, such as Choice Band Scizor and Choice Scarf Tyranitar, giving Lucario a great opportunity to set up and sweep. Speaking of Rotom-A, defensive versions can be troublesome as they can withstand Lucario's Crunch, dealing 54% - 64%, and cripple it with Will-O-Wisp. Heatran makes a great teammate because of this, absorbing Will-O-Wisp for a Flash Fire boost and retaliating with a powerful Fire Blast. Heatran is also capable of dispatching Skarmory, another Pokemon that threatens Lucario with its high physical bulk.</p>
+
+<p>On top of focusing primarily on entry hazards, utilizing extremely hard-hitting Pokemon to break down the defensive core of the opponent is strongly recommended. Choice Specs Porygon-Z and Choice Band Dragonite are prime examples of these, as their ridiculously powerful Tri Attack and Outrage, respectively, obliterate anyone that isn't defensive enough. Other powerful Pokemon to look into include Gyarados, Infernape, and Tyranitar. Additionally, should Lucario be KOed during its sweep, the previously mentioned sweepers are able to take advantage of the opposing weakened team to clean up the remains.</p> 
+
+[SET]
+name: Choice Specs
+move 1: Aura Sphere
+move 2: Shadow Ball
+move 3: Dragon Pulse / Hidden Power Rock
+move 4: Vacuum Wave
+item: Choice Specs
+ability: Inner Focus
+nature: Modest / Timid
+evs: 252 SpA / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>Lucario is not a purely physical beast; its base 115 Special Attack is actually the higher of its two attacking stats, and a Choice Specs set can inflict massive damage on many of Swords Dance Lucario's physically bulky counters.</p>
+
+<p>Lucario's STAB Aura Sphere is an all-around great attack with decent power and perfect accuracy. Shadow Ball gives Lucario perfect type coverage in conjunction with Aura Sphere and is its best attack against the Ghost- and Psychic-types which may try to switch into expected Fighting-type attacks. Dragon Pulse also provides perfect coverage with Aura Sphere, but more importantly, 2HKOes Lucario's common Gyarados and Gliscor switch-ins. Hidden Power Rock is also an option to hit Flying-type Pokemon, but the Speed IV lost can be significant in Lucario mirror matches and against Timid Heatran (instead of outpacing it by one point, Lucario now ties). Lucario's final attack is STAB Vacuum Wave, which is useful against faster, frailer Pokemon and anything attempting a sweep at low health.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Specially defensive Zapdos performs quite well against this set since it can Roost off damage and hit Lucario with Heat Wave or Thunderbolt. However, it must beware of Hidden Power Rock, which 2HKOes it. While Gliscor takes heavy damage from Shadow Ball and Dragon Pulse, it can usually outpace Lucario and retaliate with Earthquake. If Choice Scarf Magnezone switches into Shadow Ball or Dragon Pulse, it can trap Lucario and do at least 75% with Thunderbolt. Spiritomb is uncommon but causes problems for this set since it isn't 2HKOed by any attack while it 2HKOes in return with Hidden Power Fighting. Once your opponent has determined that Lucario is a special attacker, Blissey can switch in, survive two Aura Spheres (as long as it is Calm), and cripple Lucario with Thunder Wave or hit it hard with Flamethrower.</p>
+
+<p>Since this set is great at luring in Pokemon such as Gliscor, Gyarados, and Rotom-A and either OHKOing or 2HKOing them, Pokemon that can take advantage of their absence are great partners. Swords Dance Scizor, Agility Metagross, and Dragon Dance Gyarados make solid partners since Rotom-A is a common counter to all three. Tyranitar is a nice partner since it appreciates having Gliscor out of the way. Tyranitar can also counter Zapdos and switch into Blissey relatively easily, although it is not a fan of Toxic or Thunder Wave. Heatran can deal with Spiritomb and does well against Magnezone provided it's in good health. Stealth Rock support is also much appreciated, since it is needed to guarantee 2HKOs against Gyarados, Gliscor, and defensive Rotom-A with Dragon Pulse.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Close Combat
+move 2: Thunder Punch
+move 3: Ice Punch
+move 4: Crunch
+item: Choice Scarf
+nature: Jolly
+evs: 252 Atk / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>Though typically seen as a Swords Dance sweeper, Lucario is more than capable of trading in its Life Orb for a Choice Scarf to pick off dangerous foes instead of attempting a sweep. Lucario's offensive prowess, impressive palette of resistances, and novelty as a Choice Scarf user distinguish it from the competition. Altogether, these attributes make Lucario a potent and underrated revenge killer.</p>
+
+<p>Close Combat is Lucario's primary form of offense and one of the biggest selling points of this set; a fantastic move in its own right, the threat it poses is amplified when paired with Lucario's respectable Attack and boosted Speed. While Close Combat is useful for revenge killing specific threats such as Dragon Dance Tyranitar, opposing Lucario, and Kingdra, it does serve another purpose. Lucario's access to a move with sky-high Base Power and an excellent attacking type makes it considerably more threatening than a number of its fellow revenge killers. If Lucario's teammates can remove or weaken the Ghost-, Psychic-, and Flying-types on the opponent's team, Lucario can run straight through a battered lineup with its powerful STAB attack. Thunder Punch allows Lucario to OHKO Gyarados, while Ice Punch lets it OHKO Dragonite and the occasional Gliscor switch-in. Crunch is an excellent auxiliary attack, as it provides nearly unresisted coverage alongside Close Combat and can badly injure Ghost- and Psychic-types that attempt to sponge Lucario's Fighting-type moves. Stone Edge may look like an appealing alternative to Thunder Punch and Ice Punch, but, since it can't secure OHKOs on either Dragonite or Gyarados, it is generally an inferior option. With the four attacks listed above in its arsenal, Lucario can single-handedly revenge kill a large portion of the OU metagame.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread is fairly straightforward; 252 Attack EVs allows Lucario to hit as hard as possible, while the Speed investment and Jolly nature are needed to outrun Jolteon, Scarf Rotom-A, and all variants of Dragonite and Gyarados after a Dragon Dance.</p>
+
+<p>Because of its inability to change moves and the power drop resulting from the item switch, Scarf Lucario is much easier to wall than its Life Orb counterpart. Although the primary goal of this set is to revenge kill threatening Pokemon rather than to consistently sweep a team, packing some solid answers to common Lucario switch-ins is still recommended. Bulky Water- and Ground-types can often switch into this set comfortably, as can Ghost-types like Rotom-A and Gengar (though they must be wary of Crunch). It's also worth noting that Lucario can be trapped by Magnezone and forced out by Heatran if it is locked into a move other than Close Combat, although both Pokemon may be hesitant to switch in directly.</p>
+
+<p>Specially Defensive Skarmory can help combat a few of these problems. It provides a Ground-type immunity, is a decent answer to a handful of Water-types, and is capable of scouting early in the game for Magnezone. The Spikes support Skarmory can supply will also make it more difficult for a number of opponents to safely switch into Lucario's attacks. Dragonite has excellent defensive synergy with Lucario, which allows it to enter the battlefield and set up against a large portion of the switch-ins that Lucario will encounter. Gengar's immunities to Ground- and Fighting-type moves make it another logical partner for Scarf Lucario. Gengar can typically set up a Substitute against Lucario checks such as Gliscor, Hippowdon, Shaymin, and Celebi; then, it can start launching attacks at the opposition without incurring much damage in the process.</p>
+
+[SET]
+name: Attacking Lead
+move 1: Close Combat
+move 2: Extreme Speed
+move 3: Crunch
+move 4: Counter / Swords Dance
+item: Focus Sash
+ability: Inner Focus
+nature: Lonely
+evs: 4 HP / 252 Atk / 252 Spe
+ivs: 0 Def
+
+[SET COMMENTS]
+
+<p>Lucario's ability to quite literally "counter" common leads of OU with its versatility and power makes it a worthwhile lead. It is an ideal Counter lead due to Inner Focus, immunity to sandstorm, and the ability to use Swords Dance. Inner Focus prevents Infernape and Weavile from breaking Lucario's Focus Sash for free, while Lucario's Steel typing lets it Counter attacks from Hippowdon and Tyranitar without dying to sandstorm. Since many Lucario run Swords Dance, your opponent will be more likely to attack Lucario to thwart a potential set-up attempt.</p>
+
+<p>A combination of Close Combat and Extreme Speed will 2HKO common suicide leads like Aerodactyl and Infernape. Both of these attacks miss the 2HKO on Azelf, so Crunch is the recommended third attacking option. Counter's main use is against bulky leads such as Bronzong, Metagross, Swampert, and Hippowdon that you normally wouldn't be able to touch, and also helps against various attackers like Flygon, Mamoswine, and Machamp (although confusion makes Countering Machamp a tossup).</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>A Lonely nature and a 0 Defense IV are used to maximize damage with Counter, while maximum Speed is required to outrun Heatran, which allows Lucario to OHKO it before it can do anything.</p>
+
+<p>Other possibilities in the third slot include assorted Hidden Powers; Hidden Power Grass 2HKOes Swampert, while Hidden Power Ice or Electric can be used against Gliscor and Gyarados, respectively. Magic Coat can be used to bounce Sleep Powder / Spore back at Roserade and Smeargle. Swords Dance can also be used as a sort of inverse Counter; while bulky leads would normally have the chance to set up, you can turn the tables and prepare for an early-game sweep. It is recommended that such a choice replace Counter to retain type coverage.</p>
+
+<p>Gyarados can set up on Lucario easily; Pokemon like Vaporeon and Suicune can be used to counter it and Choice Scarf Rotom-A is a good check. Since Scizor or Metagross may try to finish off Lucario with Bullet Punch after its Focus Sash activates, Magnezone can be a good partner to trap them. Dragon Dance Tyranitar can take advantage of Scizor and Metagross being taken out. Other Fighting-types, such as Heracross and Infernape, are good options for partners as this Lucario is a great way to scout your opponent's Fighting-type resistances in order to concentrate on taking them out. Since this lead doesn't set up Stealth Rock, you should have a Pokemon to set it up once Lucario has done its job. Heatran, Metagross, and Swampert are all good options for this.</p>
+
+[SET]
+name: Choice Band
+move 1: Close Combat
+move 2: Extreme Speed
+move 3: Crunch
+move 4: Stone Edge / Ice Punch
+item: Choice Band
+ability: Inner Focus
+nature: Adamant / Jolly
+evs: 252 Atk / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>With a Choice Band equipped, Lucario can take advantage of the frequent switches it gets from its typing and break down the opposing team. While the Swords Dance set aims for a clean sweep, this set hits harder off the bat and aims to break down defensive pivots.</p>
+
+<p>Close Combat is Lucario's most powerful attack and will put a large dent in anything that does not resist it. It is important to remember that a neutral Close Combat does more damage than a super effective Crunch or Ice Punch, so those should only be used in the face of a resisted Close Combat or to exploit a 4x weakness. Extreme Speed hits Pokemon that are usually faster than Lucario, such as Starmie and Azelf. Bullet Punch is a fine option over Extreme Speed if your team needs help dealing with Gengar or Choice Scarf Tyranitar. Crunch allows Lucario to hit Celebi and Rotom-A for a 2HKO to clear the way for a Close Combat sweep later in the game. In the last slot, Stone Edge is an excellent attack to eliminate Gyarados and Zapdos with one attack, while Ice Punch will destroy any Gliscor that switch in.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>A Jolly nature can be used to outpace Impish Gliscor, Jolly Gyarados, Timid Rotom-A, Timid Suicune, and Modest Zapdos; however, Adamant is the preferred nature to take advantage of the boost from Choice Band and to make Extreme Speed a more powerful revenge killing tool.</p>
+
+<p>Since this set shares many of the same moves and counters with the Swords Dance set, the two sets also share effective teammates. Bulky Water-types such as Suicune and Vaporeon are great partners to deal with Gliscor and Gyarados if they have Hidden Power Electric. Heatran is a fine partner to scare off Celebi and Magnezone; unfortunately, Choice Scarf Magnezone will always be able to defeat Lucario as long as it doesn't switch directly into a Close Combat. Tyranitar is a solid partner to deal with Celebi, Zapdos, and Rotom-A. Life Orb Starmie can do a lot of damage to many of Lucario's counters. The combination of Hydro Pump, Ice Beam, and Thunderbolt gets OHKOs on Gliscor and Gyarados and 2HKOs on Celebi and Rotom-A. Stealth Rock support from Azelf, Heatran, Infernape, Metagross, or Swampert is very useful in hurting common switch-ins such as Gyarados and Zapdos.</p>
+
+[Other Options]
+
+<p>Maxing out Attack and Speed is recommended for the Swords Dance and Choice Band sets. The same goes for the Choice Specs set, but with Special Attack instead of Attack. Otherwise, the given EVs will do for the appropriate sets. A slightly bulkier spread for the Swords Dance set is 252 HP / 96 Def / 136 SpD / 24 Spe with an Adamant nature and Leftovers, which makes better use of Lucario's numerous resistances and gives you some extra durability while setting up.</p>
+
+<p>On the Choice Specs set, the choice between Dark Pulse and Shadow Ball comes down to the flinch rate versus the Special Defense drop. Shadow Ball is generally more useful for the special sets, which will enjoy getting a Special Defense drop on the switch and could not use the flinch against faster opponents anyway. Lucario can also run a mixed set, but this will involve losing Speed to make full use of it, so this is typically better left to Infernape. Calm Mind is another option for Lucario to boost its Special Attack and give it a bit of special bulk. It gives it an easier time against the Rotom formes, for example, and after a few boosts, it will be hard to deal with via special attacks. However, the Swords Dance set is a better stallbreaker, and Lucario may find it hard to get in enough Calm Minds to sweep.</p>
+
+<p>Focus Sash is a decent alternative item on the Sword Dance set, as it can ensure a second Swords Dance if you can keep the field clear of hail, Spikes, and Stealth Rock. Lucario can also make use of a Shuca Berry and Ice Punch to take down Gliscor and Hippowdon. Lucario can even use Ice Punch without a Shuca Berry on the standard Swords Dance set, but its most common target, Gliscor, usually EVs itself to outpace Jolly Lucario (but hitting it on the switch is a distinct possibility). Like most Pokemon, Lucario can use Choice Scarf with either a physical, special, or mixed movepool. Lucario also makes a decent Reversal user, since he is immune to sandstorm damage; however, the prevalence of priority attacks in OU means that it is much harder for this set to sweep when compared to Lucario's Swords Dance set.</p>
+
+[Checks and Counters]
+
+<p>The first step to countering Lucario is knowing the set. Physical variants are the most difficult to counter since there are many possible combinations of attacks. Hippowdon can switch into nearly any physical Lucario set, survive an attack, and OHKO with Earthquake; it also has access to reliable recovery to ensure that it can perform this job repeatedly throughout the match. Gliscor can take any physical attack from Lucario barring Ice Punch, outpace Lucario with its base 95 Speed, and OHKO with Earthquake. Any set that does not run Stone Edge or Thunder Punch must worry about Gyarados. Without Crunch, Celebi makes a fine counter provided it has Psychic, Earth Power, or Hidden Power Fire; Rotom-A also performs well against Crunch-less Lucario. Even if Lucario does have Crunch, Timid Rotom-A can outpace Adamant Lucario and either burn it with Will-O-Wisp or OHKO it with Overheat (in the case of Rotom-H). SubCM Jirachi can use Substitute twice while Lucario fights back with Close Combat and then OHKO with Psychic, while Physical Jirachi can OHKO after a Defense drop with Fire Punch. Suicune is also a great counter; its solid defenses allow it to take a +2 Close Combat +2 hit back with Surf. In addition, the offensive version outruns Lucario, can take a +2 ExtremSpeed, and take it down with Hydropump. Shaymin does the same work, both defensive and offensive variants. Gengar is immune to Close Combat and Extreme Speed and can OHKO with either Focus Blast or a Life Orb Hidden Power Fire, but falls to the rare Bullet Punch Lucario.</p>
+
+<p>On the special side of things, Blissey beats most Lucario. Calm Blissey isn't 2HKOed by a Modest Specs Aura Sphere and has Thunder Wave, Seismic Toss, and Flamethrower with which to juggle Lucario around with. Soft-Boiled, Wish, and Protect also make it difficult to kill a healthy Blissey with Lucario, so the only fear that Blissey should have is if Close Combat is present on the Specs set. Spiritomb boasts an immunity to Aura Sphere and also has no weaknesses for Lucario to prey upon. The Special Defense drops from Shadow Ball and flinches from Dark Pulse can prove annoying, but the only attack Spiritomb should fear is a 2HKO from a Specs Flash Cannon, which is almost never used. Gyarados is also a decent counter to the special Lucario sets thanks to its naturally high Special Defense. The RestTalk strategy is Gyarados's best way of countering the Choice Specs set. Zapdos fears the rare Hidden Power Ice or Rock, but can switch into every other attack and send Lucario to the grim reaper with Heat Wave or STAB Thunderbolt. Unfortunately, Gyarados and Zapdos will take 25% Stealth Rock damage each time they switch in, so they should not be totally relied upon to counter Lucario.</p>
+
+<p>Cresselia and Dusknoir are fine switch-ins for Lucario provided they are not switching into Crunch or Shadow Ball. Cresselia can set up Reflect and use Thunder Wave to slow Lucario down while retaliating with Psychic and using Rest or Moonlight to recover health. Dusknoir is immune to Fighting-type attacks and Extreme Speed, and also takes little damage from Stone Edge and Ice Punch. Will-O-Wisp will cripple Lucario while Fire Punch, Earthquake, or Brick Break will make Lucario quickly crumble before Dusknoir. Choice Scarf Heatran cannot switch into Lucario directly but is a good check because it resists Bullet Punch and Extreme Speed and has Earth Power or STAB Fire Blast to take down Lucario. Choice Scarf Magnezone can switch into any non-Fighting attack, trap Lucario, and deal at least 75% with Thunderbolt. Choice Scarf Tyranitar must also take care not to switch into a Fighting-type attack, but can check and OHKO Lucario with Superpower or Earthquake provided it lacks Bullet Punch.</p>

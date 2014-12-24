@@ -1,0 +1,51 @@
+[Overview]
+
+<p>One of the three "genies" introduced this generation, the pure Flying-type Tornadus is suited to setting up Tailwind. Its ability, Prankster, allows non-attacking moves to gain +1 priority. This allows it to set up Tailwind with ease, and Taunt Trick Room users. It also has a powerful STAB Acrobatics which hits many Pokemon in VGC 11 for super effective damage.</p>
+
+[SET]
+name: Tailwind
+move 1: Tailwind
+move 2: Acrobatics
+move 3: Taunt / Hammer Arm
+move 4: Protect / Substitute
+item: Flying Gem
+nature: Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>This set aims to set up Tailwind and stop opposing users of Tailwind and Trick Room from setting up their respective strategies. Tailwind doubles the Speed of Tornadus's teammates for 3 turns. Acrobatics OHKOes non-Coba Berry Amoonguss, Whimsicott, and Virizion. Taunt stops other Tornadus from setting up Tailwind, and can shut down Whimsicott and Pokemon that set up Trick Room. Protect stalls out Trick Room and protects Tornadus while its partner takes out a threat. Substitute can be used, however, to stall out Trick Room for more than one turn since it can be used consecutively. Hammer Arm hits Rock- and Steel-type Pokemon for super effective damage, and if Trick Room goes up, it can bring down Tornadus's Speed, and make it "faster".</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread maximizes Tornadus's Attack and Speed to hit as hard as possible. Jolly nature allows Tornadus to outspeed as many enemies as possible. Flying Gem gives Acrobatics 247 Base Power the first turn it is used, and once it is used, doubles its 55 Base Power.</p>
+
+<p>Tornadus benefits from having a partner with Fake Out, such as Mienshao, to keep it from being Taunted and to stop other Tailwind users. Mienshao also provides Wide Guard support, stopping Pokemon such as Terrakion from hitting Tornadus with Rock Slide. Haxorus benefits immensely from Tailwind, allowing it to outspeed threats such as Hydreigon and utilize its base 147 Attack stat to tear through the opponent. Terrakion has good synergy with Tornadus, taking out Rock- and Electric-types with Close Combat and Earthquake, while Tornadus takes out the Fighting-types that threaten Terrakion.</p>
+
+[SET]
+name: Rain Dance 
+move 1: Rain Dance
+move 2: Hurricane
+move 3: Taunt / Tailwind
+move 4: Protect / Substitute
+item: Damp Rock / Focus Sash
+nature: Timid / Modest
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>This set aims to set up Rain Dance, an almost forgotten strategy in VGC 2011, and sweep with it. Hurricane gains 100% accuracy in rain, and with the STAB boost, wrecks almost everything. Taunt stops other set-up moves such as Tailwind or Trick Room. Substitute can keep Tornadus alive longer so it can keep firing off STAB Hurricanes, but Protect can be useful if it gets double-targeted. Because Seismitoad is the only Swift Swim Pokemon in VGC 2011, Rain Dance teams can struggle to outspeed and utilize their powerful Water-type attacks. Tailwind can be used to remedy this problem, though you will be unable to stop opposing Whimsicott from setting up their own Tailwind.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Damp Rock keeps Rain Dance up for 8 turns, but is not absolutely necessary, as VGC battles often last 5 turns or less. If you choose not to run Damp Rock, Focus Sash allows Tornadus to stay alive an additional turn and get off one more Hurricane. If Focus Sash is used, however, Substitute should not be used because the Focus Sash will be negated by the use of Substitute. The EV spread allows Tornadus to hit as hard and as fast as it can. The choice of nature is one between power and speed. If Tornadus uses a Modest nature, it runs the risk of being outsped by opposing Tornadus and getting Taunted.</p>
+
+<p>Thundurus partners well with this set, as it can fire off a 100% accurate STAB Thunder under rain. Fake Out support, though not needed, is helpful in setting up rain. Amoonguss would make a good partner, as it can use Rage Powder to let Tornadus set up Rain Dance, use Substitute, and start using Hurricane in complete safety. Amoonguss's weakness to Fire-type attacks is also cut in half during rain, making it much more difficult to take out.</p>
+
+[Other Options]
+
+<p>A specially-based set with Air Slash / Grass Knot / Dark Pulse / Tailwind is viable, but with Acrobatics's great power, a physical set is generally recommended. Brick Break is an alternative to Hammer Arm if the 90% accuracy and Speed drop is an issue, but the loss in power is so noticeable that Hammer Arm is preferred. An EV spread of 134 HP / 124 Atk / 252 Spe allows Tornadus to OHKO opposing 4 / 0 Tornadus and provides more bulk. Hidden Power Ice may be used to check opposing Thundurus that want to switch in and smack Tornadus with Discharge or Thunderbolt.</p> 
+
+[Checks and Counters]
+
+<p>Terrakion threatens Tornadus with STAB Rock Slide, and while Tornadus can use Hammer Arm, Terrakion often carries Focus Sash which would negate Tornadus's attempts to OHKO it. Thundurus is a hard counter to Tornadus with Thunderbolt and Discharge, while Tornadus doesn't even 2HKO it with Acrobatics. Under Trick Room Jellicent can outspeed Tornadus and KO it with Ice Beam or Blizzard. Gigalith can take a Hammer Arm with its high Defense and KO back with STAB Rock Slide. Most of these threats are remedied by Tornadus having Terrakion as a partner, however.</p>

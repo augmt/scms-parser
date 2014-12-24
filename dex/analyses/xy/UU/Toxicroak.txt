@@ -1,0 +1,50 @@
+Overview
+########
+
+It is easy to see why Toxicroak has fallen from its perch in the OU tier. Poor bulk and unimpressive Attack and Speed stats mean that, at a glance, it seems difficult to justify using Toxicroak in UU. However, a closer inspection reveals several qualities that allow Toxicroak to shine. Dry Skin is a fantastic ability, allowing Toxicroak to switch into Water-type attacks with impunity, and thus making it an excellent answer to many bulky Water-types. Access to Swords Dance, Sucker Punch, and the newly-buffed Gunk Shot makes Toxicroak a terrifying sweeper, a trait augmented by its unique Poison / Fighting typing which provides several handy resistances, notably Fighting and Dark. It also means that Toxicroak has an easier time dealing with Fairy-types than most other Fighting-types, as well as Toxic Spikes absorption; an often-overlooked benefit.
+
+Physical Attacker
+########
+name: Physical Attacker
+move 1: Swords Dance
+move 2: Gunk Shot
+move 3: Drain Punch
+move 4: Sucker Punch
+ability: Dry Skin
+item: Life Orb / Black Sludge
+evs: 252 Atk / 4 SpD / 252 Spe
+nature: Adamant / Jolly
+
+Moves
+========
+
+Swords Dance is very important and is a great boosting move. Toxicroak finds many opportunities to boost thanks to Dry Skin and its common resistances. Gunk Shot is exceptionally powerful, dealing significant damage before and after a Swords Dance boost and targeting Fairy-types that resist Toxicroak's Fighting-type STAB. It also has a useful 30% poison chance. Steel- and Rock-types that resist Gunk Shot are dealt with by Drain Punch, healing Toxicroak in the process and making sure that it can't be worn down too easily by Life Orb recoil. In the final slot, Sucker Punch is a great addition that works extremely well in picking off weakened opponents. After a Swords Dance boost, Sucker Punch's priority can sweep offensive teams. Ice Punch is a viable option to hit Nidoking, Flygon, Crobat, and Hippowdon super effectively, but is generally not as useful. Finally, Swords Dance can be eschewed in favor of an all-out attacker set with four coverage moves. However, this means Toxicroak will rarely be able to sweep.
+
+Set Details
+========
+
+Dry Skin is the only ability Toxicroak should use; the Water-type immunity is invaluable in checking Suicune and Mega Blastoise, as well as switching into stray Scalds. The EV spread is quite straightforward, maximizing Attack and Speed. The 4 EVs in Special Defense ensure that Porygon-Z gains an Attack boost from Download. Adamant is preferred in order to hit as hard as possible, though Jolly is viable to Speed tie with Timid Nidoking. When it comes to choosing an item, a Life Orb significantly boosts damage output, while Black Sludge trades in the added power for slightly more longevity.
+
+Usage Tips
+========
+
+Toxicroak's key resistances to Dark- and Fighting-type attacks as well as its immunity to Water-type moves should be exploited. It can check the likes of Vaporeon, Umbreon, and Mienshao while completely stopping CroCune. Keep Toxicroak's mediocre bulk in mind though; it shouldn't be recklessly used against strong Fighting-types, as powerful resisted hits can still deal significant damage. In a similar vein, Toxicroak will find many opportunities to set up a Swords Dance as it forces out many of the above Pokemon, especially Water-types such as Mega Blastoise. Sometimes, however, it is not ideal to use Swords Dance in preparation for a sweep, namely if the opponent has a healthy physical wall such as Hippowdon.
+
+Team Options
+========
+
+Stealth Rock support is fantastic for Toxicroak; it allows Adamant Life Orb variants to KO Noivern, Rotom-H, and Mega Aerodactyl with a +2 Sucker Punch. Krookodile can lay down Stealth Rock and threaten bulky Psychic-types. In return, Toxicroak can take on Water-, Bug-, and Fighting-type moves. Partners that can wear down opposing physical walls and/or appreciate Water-types being weakened are good choices. Darmanitan and Cloyster work well as wallbreakers to allow Toxicroak to sweep late-game, or vice versa. Mixed Victini also works extremely well, 2HKOing many threats that would stop Toxicroak in its tracks. Mega Absol is a nice partner as it dissuades Psychic-types from simply attacking, fearing being trapped with Pursuit. Magic Bounce also prevents status users such as Sableye from freely using Will-O-Wisp. Grass-types such as Roserade can threaten Quagsire and Swampert, which Toxicroak appreciates.
+
+Other Options
+########
+
+Toxicroak has an extremely large movepool, and there is an array of niche options it can utilize. Bulk Up can be used, but Toxicroak is far less threatening at +1 compared to +2, and is still quite frail even after a Defense boost. A special attacker with Nasty Plot can take many would-be checks and counters by surprise, and can be surprisingly effective in breaking physical walls expecting a Swords Dance set, but is quite weak and inconsistent. Payapa Berry is a niche option that allows Toxicroak to beat Slowking, but it has little use outside of this. Knock Off could potentially be useful with its new mechanics, but Toxicroak struggles to find room for it. Alternate STAB moves are viable; Cross Chop significantly out-damages Drain Punch in exchange for the loss of recovery and reduced accuracy. Poison Jab works in reverse, being weaker than Gunk Shot but 100% accurate. Substitute could potentially work, particularly in tandem with Focus Punch or Salac Berry + Belch. Finally, Taunt and Pursuit are interesting options, but these are best left to teammates.
+
+Checks & Counters
+########
+
+**Physical Walls**: Hippowdon and Swampert can take boosted attacks and OHKO in return with Earthquake. Quagsire ignores Toxicroak's Swords Dance boosts thanks to Unaware. Donphan easily handles a boosted Toxicroak and threatens it with Earthquake. Filter allows Mega Aggron to take a +2 Drain Punch while OHKOing in return. Lastly, defensive Arcanine survives any boosted attack due to Intimidate and can cripple Toxicroak with Will-O-Wisp.
+
+**Status Users**: Sableye and Jellicent resist Gunk Shot, are immune to Drain Punch, and cripple Toxicroak with a burn. 
+
+**Faster Pokemon Resistant To Sucker Punch**: Mega Houndoom, Hydreigon, and Cobalion naturally outrun Toxicroak and take little damage from a boosted Sucker Punch. Choice Scarf users such as Krookodile similarly check even boosted Toxicroak. Finally, Entei and Arcanine can transcend Sucker Punch with Extreme Speed to pick off a weakened Toxicroak.

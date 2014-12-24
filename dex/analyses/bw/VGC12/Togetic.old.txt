@@ -1,0 +1,36 @@
+[Overview]
+
+<p><i>Just how long are you going to follow me for?</i></p>
+
+<p> The only reason Togetic would be considered over Togekiss on a team is its ability to utilize Eviolite. It provides Togetic with a respectable increase of bulk over Togekiss, but in return, Togetic is much weaker offensively, as it loses Air Slash and Aura Sphere, in addition to having a meager base 80 Special Attack. However, this does give Togetic an incentive to run a full support moveset without any offense. If you find that your team requires some heavy-duty Follow Me support, you might want to give Togetic a try.</p>
+
+[SET]
+name: Follow Me Support
+move 1: Follow Me
+move 2: Tri Attack
+move 3: Thunder Wave / Tailwind
+move 4: Roost / Protect
+item: Eviolite
+ability: Serene Grace
+nature: Calm
+evs: 252 HP / 140 Def / 116 SpD
+
+[SET COMMENTS]
+
+<p>Togetic's main goal is to use Follow Me to draw attention away from its partner. Tri Attack provides Togetic with an offensive option; while it might not do much damage, it has an attractive 40% chance of causing a random status effect due to Serene Grace. Thunder Wave allows Togetic to cripple targets with paralysis, providing an opportunity for its ally to attack. Alternatively, Tailwind may be used as a method of boosting your teammates' Speed in battle. Either Roost or Protect should be used in Togetic's final moveslot. Roost allows Togetic to heal itself so as to last longer as a support Pokemon. Protect blocks oncoming attacks, which can be helpful if the opponent becomes too focused on trying to take Togetic out.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs allow Togetic to survive an Electric Gem-boosted Thunderbolt from a Modest Zapdos. The remainder of the EVs are placed into Defense to give it a bit more physical bulk. As Togetic's offense is quite lackluster, you can opt to replace Tri Attack with another support move, such as Charm or Light Screen. Alternatively, Togetic can use Heat Wave over Tri Attack as it hits both targets and has a 20% chance to burn the opponent. This is especially handy if Togetic is run on a Trick Room team, as Tri Attack might paralyze the foe, which is counterproductive. Likewise, Tailwind or Thunder Wave should be replaced if Togetic is run on a Trick Room team.</p>
+
+<p>Pokemon that require a bit of setup to become a serious threat, such as Volcarona, Snorlax, and Gorebyss, appreciate the free turns Togetic's Follow Me can buy them. Likewise, Trick Room users such as Reuniclus and Chandelure have a much easier time twisting the dimensions with Togetic's Follow Me support. Unfortunately, Togetic's low Speed means that it is outrun by just about every single Fake Out user there is. As it is unable to redirect the opponent's Fake Out, one must still be wary of opposing Fake Out users when using Togetic.</p>
+
+[Other Options]
+
+<p>Helping Hand can be used with Togetic, allowing Togetic to power up its ally's moves. However, as with Tri Attack, it is a special move from Pokemon Colosseum, and may not be easily obtainable on cart. Encore can be used to disrupt the opponent; however, its usefulness is limited due to Togetic's low Speed. Headbutt can allow Togetic to take advantage of Serene Grace, flinching the opponent 60% of the time after they are paralyzed. Endeavor can give Togetic a way to do some surprise damage to an opponent when it is low on health.</p>
+
+[Checks and Counters]
+
+<p>Togetic almost exclusively acts as support for its team, redirecting attacks away from its ally, or aiding in Speed control by using Tailwind or Thunder Wave. Therefore, hard-hitters are needed in order to get it off the field as soon as possible. Pokemon with Electric-type moves, such as Zapdos and Rotom-A, are best for the job, as they hit Togetic hard with super effective attacks. Pokemon with Lightningrod, such as Manectric, can take things a step further by preventing Togetic from crippling their teammates with Thunder Wave. Finally, spread moves such as Blizzard, Discharge, and Heat Wave can bypass Follow Me and reduce Togetic's supportive function.</p>
+
+<p>If brute force isn't your style, Taunt will stop Togetic from using any of its supporting moves, possibly forcing it to use Struggle. Likewise, Tricking Togetic a Choice Scarf will also shut it down by restricting it to a single move and stripping it of its Eviolite boost. Lastly, any Pokemon that has Final Gambit can completely ignore Togetic's sizable defenses and OHKO it at the expense of their own life, provided that they have at least 162 HP remaining.</p>

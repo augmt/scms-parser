@@ -1,0 +1,56 @@
+Overview
+########
+
+At a glance, Gliscor seems like an inferior Stealth Rock setter in comparison to the more commonly seen Ground-types in Ubers, namely Landorus-T and Groudon. It has considerably lower stats than most Pokemon that are viable in the metagame, and it relies heavily on Toxic to deal significant damage. However, Gliscor has key niches in Poison Heal, Taunt, and Roost, which, in conjunction with its high Defense stat and great typing, allow it to counter opposing Ground-types and check several other physically based threats including Zekrom and Blaziken. In fact, the combination of longevity, Taunt, and immunity to status leaves Gliscor very capable of taking on both offensive and defensive Pokemon effectively.
+
+Stealth Rock
+########
+name: Stealth Rock
+move 1: Stealth Rock
+move 2: Taunt / Roost
+move 3: Toxic
+move 4: Earthquake
+ability: Poison Heal
+item: Toxic Orb
+evs: 252 HP / 252 Def / 4 SpD
+nature: Impish
+
+Moves
+========
+
+Gliscor is a reliable user of Stealth Rock; it forces switches very often thanks to its typing and ability, giving it many opportunities to use the move. Taunt sets Gliscor apart from other Ground-types and is useful for stopping moves such as Defog, Rest, and Spikes. Roost also differentiates Gliscor from other Ground-types, and the ridiculous recovery it provides alongside Poison Heal lets Gliscor fare extremely well against strong physical attackers such as Zekrom and Ho-Oh. Toxic is Gliscor's main method of dealing damage and is particularly useful against support Arceus formes, which often carry Defog. Earthquake is Gliscor's mandatory STAB move and complements Toxic well, hitting Poison- and Steel-types super effectively.
+
+Set Details
+========
+
+A physically bulky EV spread lets Gliscor check physical attackers such as Ground Arceus, Excadrill, Lucario, and Mega Mewtwo X to the best of its ability, though it needs to watch out for surprise Ice-type moves. A Toxic Orb is used to activate Poison Heal; with the extra recovery the ability provides over Leftovers, Gliscor's physical walling capabilities approach those of Groudon! Speed investment is viable if Taunt is used&mdash;an investment of 44 EVs allows Gliscor to outspeed and Taunt Pokemon with an uninvested base 99 or 100 Speed, specifically defensive Yveltal and Jirachi.
+
+Gliscor's EVs are very flexible in regards to Speed, and they can be tailored to make Gliscor outrun specific threats. For instance, 224 Speed EVs allow Gliscor to Taunt offensive Landorus-T before it can use Stealth Rock as well as outpace Pokemon with base 90 Speed and a neutral nature.
+
+Usage Tips
+========
+
+Keep in mind that the Toxic Orb won't activate until the end of Gliscor's first turn out, and make sure that Gliscor is not burned, paralyzed, or put to sleep before it can be poisoned. With that said, it should be stressed that Gliscor's immunity to status can prove invaluable as countless defensive Pokemon have no way of dealing significant damage to it. This also allows Gliscor to function as a pivot of sorts, as it can absorb any status move and immediately switch out afterwards. On a separate note, make use of Gliscor's ability to keep Stealth Rock in play by using Taunt or Toxic on a predicted switch to a Defog user. Aside from this, Gliscor is a fairly simple Pokemon to use. It should set up Stealth Rock as quickly as it can, spread status with Toxic, and use its other moves when necessary.
+
+Team Options
+========
+
+Gliscor excels on balanced and defensively oriented teams, where good teammates for it are Pokemon that can cover its Water- and Ice-type weaknesses. Kyogre is a great partner due to resisting these two types, and the rain it brings can give Gliscor a much easier time checking Blaziken. Kyogre itself is also a huge threat to Gliscor, so a check to it such as Palkia or Water Arceus becomes even more useful. Gliscor can handle the standard Choice Scarf Zekrom on its own, but pairing it with a Fairy-type allows one to play around a Choice Band Zekrom's STAB moves&mdash;Klefki stands out as a partner because its Spikes pair well with Gliscor's Taunt. Having a Fairy-type also helps against Yveltal. Lastly, Gliscor is great on Sticky Web teams if it runs Taunt, as the entry hazard allows it to outspeed and Taunt support Arceus formes before they can use Defog.
+
+Other Options
+########
+
+Gliscor has a few other options. Knock Off and U-turn are great utility moves, but Gliscor will be hard pressed to find room for them on the main set. Gliscor's famous Substitute + Protect set can still be used, but it is less effective in XY Ubers than in BW Ubers due to the abundance of Taunt and Rest in addition to the new sleep mechanics. A Baton Pass set is also an option, as Gliscor has access to excellent boosting moves in Swords Dance and Agility. Such a set is generally done better by Scolipede or Blaziken, however.
+
+Checks & Counters
+########
+
+**Water- and Ice-types**: Kyogre, Palkia, and Kyurem-W easily OHKO Gliscor with their STAB moves, and the former two often carry Rest to deal with Toxic. Cloyster OHKOes Gliscor with Icicle Spear and removes Stealth Rock with Rapid Spin.
+
+**Flying-types and Levitators**: Pokemon that are immune to Earthquake and have ways around Toxic are great answers to Gliscor. Offensive Yveltal blocks Toxic with Taunt and can hit Gliscor hard with its STAB moves. Gengar, Skarmory, and Bronzong completely wall Gliscor, although Taunt shuts down the latter two with the exception of Bronzong packing Hidden Power Ice.
+
+**Arceus Formes**: Calm Mind + Refresh Arceus formes have no trouble against Gliscor, although they cannot continuously boost against Gliscor if it has Taunt. Similarly, Poison and Steel Arceus are immune to Toxic and don't take much damage from an uninvested Earthquake.
+
+**Bulky Clerics**: Xerneas, Sylveon, and Blissey can cure themselves and their teammates of poison and deal damage to Gliscor with special attacks. Blissey needs Ice Beam to make an impact, though.
+
+**Strong Special Attackers**: Most special attackers in Ubers are capable of OHKOing Gliscor. Examples of these include Deoxys-A and Reshiram.

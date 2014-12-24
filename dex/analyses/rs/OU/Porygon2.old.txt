@@ -1,0 +1,57 @@
+[Overview]
+
+<p>Porygon2 is a unique BL Pokemon with quite some potential in standard. It has the option to go anti-stall with a Sharpen set, or simply deal damage with BoltBeam while sticking around for a long time; however, that leaves it easily walled by Blissey and Snorlax. With Trace, it can copy abilities such as Volt Absorb, Water Absorb, and Levitate, and hence counter the likes of Vaporeon, Jolteon, Lanturn, Flygon, and Claydol; if you're lucky, you might even encounter Shedinja on the day you're running a Porygon2 set that can touch it. However, the greatest use of Trace is to copy Dugtrio's Arena Trap and KO it with Ice Beam.</p>
+
+[SET]
+name: Special Attacker
+move 1: Thunderbolt
+move 2: Ice Beam
+move 3: Recover
+move 4: Thunder Wave / Toxic
+item: Leftovers
+nature: Modest
+evs: 252 HP / 148 Def / 108 SpA
+
+[SET COMMENTS]
+
+<p>With good coverage, great HP and defenses, as well as access to Recover, it makes for a great specially based stall Pokemon and late-game cleaner. In addition to being the standard Porygon2 set, it is probably the best set for Porygon2 as well, though it is certainly not Porygon2's only option.</p>
+
+<p>Access to the BoltBeam combo lets Porygon2 take advantage of its massive Special Attack, while Recover helps it stay alive for a while; this leaves room for a status move of your choice. Thunder Wave is nice as it patches up Porygon2's only bad stat, its low Speed, while Toxic helps Porygon2 wear down defensive threats it would otherwise not be able to beat.</p>
+
+<p>Investment in bulk helps Porygon better sponge attacks, while some Special Attack EVs and a Modest nature increase its damage output. The spread here can be varied slightly though, for example by taking some EVs out of Special Attack and moving them into Defense.</p>
+
+[SET]
+name: Sharpen
+move 1: Sharpen
+move 3: Return
+move 2: Thunderbolt
+move 4: Shadow Ball / Recover
+item: Leftovers
+nature: Relaxed
+evs: 252 HP / 164 Atk / 92 Def
+
+[SET COMMENTS]
+
+<p>People tend to overlook Porygon2's access to Sharpen, which is not bad alongside its physical STAB. Return is its main attacking move, and Thunderbolt dents Skarmory and Suicune; the former walls Return, and the latter can otherwise phaze Porygon2 out with Roar. Shadow Ball hits Ghost-types that are immune to Return, while Recover keeps Porygon2 healthy. </p>
+
+[SET]
+name: Recycle
+move 1: Recycle
+move 2: Return
+move 3: Thunderbolt
+move 4: Recover
+item: Starf Berry
+nature: Quiet
+evs: 252 HP / 108 Atk / 148 Def
+
+[SET COMMENTS]
+
+<p>Porygon2 is one of the few Pokemon that can learn Recycle. Add to this Recover and Starf Berry, and you have a combination that can get you multiple boosts.</p>
+
+[Other Options]
+
+<p>Psychic hits the likes of Gengar, Heracross, and Weezing. Porygon2 is the only Pokemon in the game that learns Conversion and Conversion2, besides Porygon and Smeargle of course, so use those for some fun if you feel like it, but they have little competitive merit. Psych Up is situational, but if Porygon2 can copy Calm Mind boosts from Raikou and Jirachi and snag a critical hit, it will be in the money. </p>
+
+[Checks and Counters]
+
+<p>Blissey and Snorlax beat BoltBeam sets; Lanturn walls its attacks well but can't touch Porygon2 in return. Steelix, Rhydon, and Golem fare well against physically based sets that lack Ice Beam, as they resist Return and are immune to Thunderbolt. Metagross shuts down any Porygon2 with its resistances to Return and Ice Beam; it also doesn't take too much damage from a neutral Thunderbolt. Hitmonlee can come in all day thanks to Limber and its good Special Defense.</p>

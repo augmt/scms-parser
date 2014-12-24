@@ -1,0 +1,58 @@
+Overview
+########
+
+Kyurem gets the award for the most forgotten legendary in the game; its counterpart, Kyurem-B, is often chosen over it due to its better flexibility, versatility, and offensive presence. However, Kyurem shouldn't be overlooked so quickly. Due to its ability Pressure, a trait that Kyurem-B doesn't have, Kyurem becomes one of the best PP stallers in the tier thanks to its phenomenal 125 / 90 / 90 bulk. Kyurem fits this role well with its ability to set up 101 HP Substitutes and its decent typing which gives it some handy resistances to Grass, Electric, and Water, as well as a neutrality to Ice. However it doesn't stop there, as Kyurem isn't just your average defensive Pokemon. Kyurem has an astounding base 130 Special Attack, along with two moves that have great coverage together, Ice Beam and Earth Power. With offensive presence as well as the ability to stall, Kyurem has the capability to take on a variety of Pokemon without fear.
+
+However, there's one thing that's holding Kyurem back from its true potential: the existence of Kyurem-B. Kyurem-B is, to put it simply, a more offensively orientated Kyurem. Despite not having Pressure, Kyurem-B trades 10 Special Attack points for 40 more points in its Attack and access to Fusion Bolt and Ice Beam, thus granting it BoltBeam coverage with the ability to hit both physically and specially. Because of this, Kyurem-B performs almost all offensive sets better because of this, leaving Kyurem's only viable option to be running a SubRoost set. If that wasn't the nail in the coffin, Kyurem's typing, while great offensively, is not so great defensively. Kyurem's secondary Ice typing leaves it prone to common attacks such as Close Combat and Stone Edge, as well as Stealth Rock, meaning that entry hazard removal is mandatory for it to function well.
+
+SubRoost
+########
+name: SubRoost
+move 1: Substitute
+move 2: Roost
+move 3: Ice Beam
+move 4: Earth Power
+ability: Pressure
+item: Leftovers
+evs: 56 HP / 200 SpA / 252 Spe
+nature: Modest
+
+Moves
+========
+
+Even though SubRoost is the only viable option for Kyurem without it being outclassed, it fits the role almost perfectly, utilizing its great bulk, set of resistances, and its Pressure ability. Substitute allows Kyurem to avoid status, eases prediction between Earth Power and Ice Beam, and prevents Kyurem from being revenge killed easily, which makes up for its lackluster Speed. Thanks to Kyurem's above average-defenses and ability to make 101 HP Substitutes, there are many situations where Kyurem can set up a Substitute; whether it be against fixed-damage moves such as Seismic Toss, or resisted moves which fail to break its Substitute, such as Volt Switch and Hydro Pump. When Roost is added to the equation, Substitute can be used to stall out opposing Pokemon's PP with its ability Pressure. This is especially helpful against Pokemon who have only one move that can break its Substitute, such as Ferrothorn with Gyro Ball.
+
+Despite all of its flaws, Kyurem has a massive base 130 Special Attack and great neutral coverage, along with one of the strongest Ice Beams in the tier. Ice Beam is Kyurem's best STAB attack due to its great offensive coverage and is almost mandatory on any non-hail set, in which case Blizzard should be used. Earth Power allows Kyurem to muscle past Ice-type resists, specifically Fire- and Steel-types, keeping it from being walled by the likes of Heatran. Kyurem's ability to stall works in tandem with Earth Power, allowing it to take care of all Rotom-W and Rotom-H, the only two OU viable Pokemon that resist Ice Beam and Earth Power's coverage.
+
+Set Details
+========
+
+The EVs allow Kyurem to take minimum damage from Stealth Rock while giving it the ability to set up 101 HP Substitutes. Maximum Speed allows it to Speed tie with neutral natured Kyurem-B. The rest of the EVs are put into its Special Attack with a Modest nature to give it as much power as possible. Leftovers is the preferred item, as it makes Kyurem less reliant on Roost for recovery.
+
+Usage Tips
+========
+
+Kyurem should be sent out on a Pokemon that is unable to break its Substitute, such as Rotom-W, or a Pokemon which can be PP stalled until it can't break its Substitute, such as Ferrothorn, or a Pokemon that is threatened by its attacks, such as Gliscor. Once Kyurem has switched in, it should use Substitute immediately, as it limits the ways that the opponent can deal with it. However, if one of its hard counters is likely to switch in, such as Suicune or Sylveon, Substitute is generally a bad choice in that situation as it will be shaving off 25% of its health for no benefit. Use this as an opportunity to double switch to a Pokemon that can take advantage of its hard counters. If an attacker with low-PP moves such as Focus Blast or Stone Edge are likely to switch in, it may be a good idea to use Substitute as they switch in, then stall them until Kyurem needs to Roost. However, Kyurem should not sacrifice health to PP stall in a position where it cannot gain that health back through Roost.
+
+Team Options
+========
+
+Having either Rapid Spin or Defog is mandatory for Kyurem to succeed. Mandibuzz and Skarmory are your best options, as they have great synergy with Kyurem. Since Kyurem has trouble with special walls, strong physical attackers such as Pinsir and Garchomp are appreciated. Pokemon that can deal with Scizor and faster offensive Pokemon are also a great help to Kyurem. Quagsire fits this role nicely, since it also has good type synergy with Kyurem and can deal with Scizor. Since Kyurem can deal with stall, Pokemon that struggle to break though stall, such as Terrakion, appreciate Kyurem's support. Toxic Spikes from Scolipede can also help with Kyurem's stalling ability immensely since most of Kyurem's switch-ins are grounded.
+
+Other Options
+########
+
+Although Kyurem's movepool is extremely bland, it has a few other options in its arsenal. Dragon Pulse can be used to hit Rotom-W for neutral damage, but Earth Power is generally a better option because of its greater super effective coverage. Focus Blast can also be used to nail Tyranitar on the switch. Another cool option is Glaciate. While situational, it can be useful by lowering the Speed of faster Pokemon on the switch, allowing Kyurem to stall them with ease. A Choice Specs or Scarf set can be used, which can provide immense power with Draco Meteor or revenge killing abilities with its newfound Speed, respectively. However, Kyurem-B generally performs any offensive set better than Kyurem. Life Orb can be used over Leftovers to guarantee an OHKO on specially defensive Heatran with Earth Power, and an 84% chance to 2HKO Mega Venusaur with Ice Beam, but Leftovers is generally superior.
+
+Checks & Counters
+########
+
+**Faster Attackers**: Faster attackers such as Charizard, Pinsir, and Keldeo can overwhelm Kyurem and stop it from using Substitute, unless Kyurem already has a Substitute up.
+
+**Bulky Attackers**: Pokemon that can shrug off Kyurem's offensive moves and have super effective moves against Kyurem can deal with it, such as Tyranitar, Azumarill, and Assault Vest Conkeldurr.
+
+**Pokemon that Bypass Substitutes**: Pokemon with sound-based moves, specifically Sylveon and Mega Gardevoir, can easily deal with Kyurem even it has its Substitute up. Noivern can also bypass Substitutes with Infiltrator, but must be wary of switching in on Ice Beam.
+
+**Scizor**: Since Bullet Punch has 48 PP, Kyurem won't be stalling out Scizor any time soon. Mega Scizor deals with Kyurem easier thanks to its greater bulk.
+
+**Bulky Setup Sweepers**: Bulky setup sweepers, such as Volcarona, Suicune, Manaphy, and Mega Gyarados, can overwhelm Kyurem and deal with it easily.

@@ -1,0 +1,78 @@
+[Overview]
+ 
+<p>Despite its large appearance, Scolipede is actually one of the fastest Pokemon in RU, sitting at a high 112 base Speed only shared with the rare Purugly. In addition to this, Scolipede is one of the few Pokemon with access to Spikes and has a niche among other Spikers due to its physical power. Laying down Spikes is not all Scolipede can do, however, as it also has access to Swords Dance and a powerful STAB Megahorn along with a number of coverage moves, letting it bring the pain when it needs to. Unfortunately, Scolipede's defenses are mediocre, and it doesn't have the best defensive typing aside from a handy 4x resistances to Grass- and Fighting-type moves. There are also a lot of other Bug-types in RU that give it competition. In regards to entry hazards, Accelgor also has Spikes and is even faster, while Crustle has Spikes and Stealth Rock. There is also no shortage of physical Bug-types in RU, a tier which includes powerful Pokemon such as Durant. Despite this competition, Scolipede's ability to perform as a Spiker and a physical sweeper should not be ignored.</p> 
+ 
+[SET]
+name: Spikes
+move 1: Spikes
+move 2: Megahorn
+move 3: Earthquake
+move 4: Rock Slide
+item: Life Orb / Focus Sash
+ability: Swarm
+nature: Jolly
+evs: 4 HP / 252 Atk / 252 Spe 
+ 
+[SET COMMENTS] 
+ 
+<p>Spikes are useful on almost any team to net specific KOs for offensive Pokemon. Thanks to its high Speed, Scolipede is an effective Pokemon to quickly lay down layers of Spikes;&mdash;it will usually get two layers off, in fact. While Crustle and Accelgor are capable of laying down Spikes too, Crustle is much slower, and Accelgor has less coverage. In addition to Spikes, Scolipede has a powerful STAB Megahorn to scare frailer Pokemon, which is a major draw, as it is capable of easily OHKOing Sceptile and Mesprit, which are two very relevant threats in RU. Earthquake hurts the Steel- and Fire-type Pokemon that resist Megahorn, and Rock Slide hits Flying-types, particularly Moltres. Note that the combination of these moves provides unresisted coverage.</p>
+ 
+[ADDITIONAL COMMENTS] 
+ 
+<p>The choice of item is dependent on when you want Scolipede to do its job. If Scolipede is a dedicated lead, Focus Sash almost guarantees that it will get two layers of Spikes off; otherwise, Life Orb is a better choice because any entry hazards break Focus Sash. Scolipede has access to Toxic Spikes, but while they can be useful, about 1/3 of the Pokemon in RU aren't affected by Toxic Spikes, and many Poison-type Pokemon such as Drapion and opposing Scolipede can simply switch in and absorb them. If you do want to run Toxic Spikes alongside Spikes, however, Megahorn and Aqua Tail provide the best two-move neutral coverage.</p>
+ 
+<p>Be sure to run Jolly over Adamant to outspeed Manectric, Archeops, and Galvantula, which are four Pokemon that could potentially OHKO Scolipede. To keep Spikes up, running a spinblocker, such as Rotom or Spiritomb, is a good idea, as then Scolipede's work won't go to waste. Scolipede has a hard time dealing with bulky Steel-types such as Steelix, for this reason, bulky Water-types like Slowking are good choices for teammates to take them down. Bulky Water-types also can also defeat Fire-type Pokemon that can roast Scolipede, such as Entei, and Rock-type Pokemon with Rock Blast, such as Rhydon and Crustle, but be warned that bulky Water-types like Lanturn that are weak to Earthquake can't take on these Pokemon as easily.</p>
+
+[SET]
+name: Swords Dance + 3 Attacks
+move 1: Swords Dance
+move 2: Megahorn
+move 3: Earthquake
+move 4: Rock Slide / Aqua Tail
+item: Life Orb
+ability: Quick Feet
+nature: Jolly
+evs: 4 HP / 252 Atk / 252 Spe 
+ 
+[SET COMMENTS] 
+ 
+<p>Despite a somewhat average Attack stat, Scolipede can easily become threatening by boosting it with Swords Dance. After using Swords Dance, it reaches 558 Attack, and with enough speed to outspeed several Pokemon that it will come across, it is a dangerous sweeper. While Scolipede might look inferior to Durant, which is stronger and has a useful set of resistances, it can outspeed Galvantula and Archeops, has a stronger Bug-type STAB, and doesn't have the risk of missing all of its moves.</p>
+ 
+<p>Megahorn, of course, is the primary STAB, and it deals massive damage to non-resistant foes. Earthquake and Rock Slide form the QuakeSlide combo, which grants nearly perfect coverage and deals with Pokemon such as Aggron, Moltres, and Entei, which can take a Megahorn and retaliate easily. However, Aqua Tail is usable over Rock Slide because most Flying-types in the tier either take neutral damage from Megahorn or take super effective damage from Aqua Tail.</p>
+ 
+[ADDITIONAL COMMENTS] 
+ 
+<p>A Life Orb is the suggested item; however, Lum Berry can work as Scolipede is practically useless if it gets burned. This set tends to attract special attackers with a Choice Scarf, such as Manectric and Typhlosion, which can easily destroy it due to Scolipede's bad Special Defense. To deal with this, special walls such as Clefable, which can take these hits easily and then wear down their users, are good teammates. This set wants Rapid Spin support more so than others, because it wants to stay in as long as possible and the extra 25% can cause a large problem. Kabutops does two things as a partner, it can use Rapid Spin and also take on Fire-type moves easily thanks to its 4x resistance.</p>
+ 
+<p>Rock Slide isn't very strong, so Stealth Rock support is very useful to help Scolipede reliably defeat Flying-types. Omastar and Kabutops can use Stealth Rock, as can Aerodactyl and Uxie. As usual, Steelix is a problem for Scolipede to deal with, as even a +2 Earthquake won't take it down and it can phaze Scolipede out, so bulky Water-types such as Slowking are good partners because of this.</p>
+ 
+[SET]
+name: Substitute + Swords Dance
+move 1: Swords Dance
+move 2: Substitute
+move 3: Megahorn
+move 4: Aqua Tail
+item: Salac Berry
+ability: Swarm
+nature: Jolly
+evs: 12 HP / 244 Atk / 252 Spe 
+ 
+[SET COMMENTS] 
+ 
+<p>While this set might look strange at first, it uses many of Scolipede's qualities to its advantage. Scolipede has a tendency to get revenge killed by Choice Scarf Pokemon, such as Manectric and Emboar, and its low special bulk ensures that it is easy to take out with a special move. With a Substitute, Scolipede can avoid these hits. However, Substitute has more merit than that. After ideally getting a Swords Dance up, repeatedly using Substitute will drop Scolipede down to 25% health and activate its Salac Berry and Swarm ability, giving you a dangerous sweeper capable of outspeeding Choice Scarf revenge killers.</p>
+ 
+<p>Megahorn is the main STAB option, and at +2 with a Swarm boost, there isn't much that can take the move without resisting it, and some Pokemon like Magmortar are OHKOed even though they do. Aqua Tail takes care of any Fire-type Pokemon that can take a Megahorn, and also hits Steelix relatively hard. In addition, Aqua Tail provides the best coverage with Megahorn, as the combination of the two moves is only resisted by Poliwrath, Qwilfish, Altaria, Water / Flying types, Shedinja, and irrelevant NFE Pokemon, making it easy for Scolipede to finish off weakened teams or any offensive teams that lack enough bulk.</p>
+ 
+[ADDITIONAL COMMENTS]
+ 
+<p>12 HP EV's are invested to give enough HP for Salac Berry to activate after three Substitutes. While it may seem tempting to give Scolipede an item such as a Life Orb, note that a Swarm-boosted Megahorn will be hitting harder than a Life Orb-boosted Megahorn, and anything that makes it lose HP is generally not good when used with Substitute, as it will lose health far too quickly. A Jolly nature ensures that Scolipede can outspeed Choice Scarf Manectric, which would otherwise outspeed and OHKO even after the Salac Berry boost. Earthquake is an option to use over Aqua Tail to get past all Steel-types, but note that Bug + Ground coverage is a bit underwhelming, and Aggron and Steelix, the two bulkiest Steel-types, are hit hard by Aqua Tail regardless, although getting past Klinklang and Magneton is nice.</p>
+ 
+<p>The bane of this set's existence is priority other than Mach Punch. Common priority users include Entei, Feraligatr, and Kabutops, so if any of them are seen in Team Preview, make sure they are eliminated from the match before Scolipede starts setting up. Druddigon is a good partner for ensuring this, as it can take a hit from all three while being able to OHKO them with its brutal STAB Outrage, or Earthquake for Entei. If Entei isn't an issue, running a Grass-type such as Amoonguss or Tangrowth will take care of the Aqua Jet users easily. Steelix and Aggron can take boosted Aqua Tails pretty well and then proceed to wear down Scolipede, Steelix in particular can phaze it out. Bulky Water-types like Slowking can take on Steelix as well as the aforementioned Entei.</p>
+
+[Other Options]
+ 
+<p>Scolipede doesn't have too many other options to consider. Superpower doesn't provide any notable coverage, but it is the only way to hit Ferroseed for significant damage when outside of Swarm range. However, the Attack drop is unappealing and is usually not worth it. A Choice Band is a decent option, as Scolipede has a decent movepool, but Durant is usually the better option, as it has a much higher Attack. Scolipede has Pursuit, which is always useful to catch fleeing Pokemon, but its Pursuit is not very strong compared to other Pokemon in the tier. In addition, there is rarely a circumstance where a Ghost-type will switch out against Scolipede. Finally, if a Focus Sash is used on the hazard lead, Endeavor can cripple the opponent and bring it down to 1 HP, but Scolipede would rather use that turn to set up an extra layer of Spikes. Lastly, Scolipede has access to Baton Pass and is perfectly capable of passing things such as Swords Dance, Agility, and Substitute, although Scolipede often has trouble pulling off the pass due to its fraility.</p>
+ 
+[Checks and Counters] 
+ 
+<p>The best checks to Scolipede are generally those that do not take very much damage from its brutal STAB Megahorn. From there, Pokemon that do not take very much damage from its various coverage moves stand out as counters. Rotom, Misdreavus, and other Levitating Ghost-types take little damage from Megahorn, are immune to Earthquake, and can proceed to burn Scolipede. Steelix is weak to Earthquake, but its massive Defense means that it won't take all too much damage from the move, and it can do a lot of damage to Scolipede or phaze it out. Poliwrath resists Megahorn, is immune to Aqua Tail, and can phaze out Scolipede if it has gotten too many boosts, but be warned that it will rarely do much damage back to Scolipede other than possibly burn it with Scald. If Scolipede doesn't have Earthquake, Magneton and Qwilfish can counter it, as Magneton can easily OHKO and Qwilfish can soften blows with Intimidate and begin to set up Spikes. If Scolipede doesn't have Aqua Tail, Rhydon can take an Earthquake and then proceed to destroy it with Rock Blast, and Crustle can do the same or set up entry hazards. While Aerodactyl takes a lot of damage from Rock Slide and Aqua Tail, it outspeeds Scolipede and can either OHKO it or Taunt it so it cannot set up Spikes or Swords Dance. There are many Choice Scarf Pokemon that can revenge kill Scolipede, such as Emboar and Manectric, but note that they cannot switch into almost any of Scolipede's moves without taking massive damage.</p>

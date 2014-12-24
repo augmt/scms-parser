@@ -1,0 +1,28 @@
+Autotomize
+########
+name: Autotomize
+move 1: Autotomize
+move 2: Freeze-Dry / Blizzard
+move 3: Flash Cannon
+move 4: Hidden Power Ground
+item: Life Orb
+ability: Ice Body
+evs: 78 HP / 252 SpA / 180 Spe
+nature: Modest
+
+This is a sample set while we are currently working on analyses in the workshop.
+
+SubProtect
+########
+name: SubProtect
+move 1: Substitute
+move 2: Protect
+move 3: Toxic
+move 4: Blizzard / Freeze-Dry
+item: Leftovers
+ability: Ice Body
+evs: 252 HP / 4 SpA / 252 Spe
+nature: Timid
+
+This is a sample set while we are currently working on analyses in the workshop.
+

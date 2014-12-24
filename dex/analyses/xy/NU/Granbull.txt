@@ -1,0 +1,13 @@
+Defensive
+########
+name: Defensive
+move 1: Play Rough
+move 2: Earthquake
+move 3: Heal Bell
+move 4: Roar
+item: Leftovers
+ability: Intimidate
+evs: 252 HP / 232 Def / 24 Spe
+nature: Impish
+
+This is a sample set while we are currently working on analyses in the workshop.

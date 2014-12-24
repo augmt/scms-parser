@@ -1,0 +1,36 @@
+[Overview]
+
+<p>Beartic has a good Attack stat and very usable bulk, along with an excellent Ice typing that gives it powerful STAB Ice-type attacks to abuse. However, that typing is a double-edged sword; although it's good offensively, it brings with it many weaknesses that severely undermine Beartic's otherwise quite decent bulk, and its mediocre Speed ensures that it's only useful under Tailwind or Trick Room. Its STAB Icicle Crash does huge damage to a multitude of common Pokemon in VGC 2011, but its movepool is quite limited outside of that. While its low Speed, terrible movepool, and many weaknesses may make it difficult to use, its powerful physical Ice-type STAB is unique in the tier, this making it a viable choice for a Trick Room or Tailwind attacker.</p>
+
+[SET]
+name: Physical Attacker
+move 1: Icicle Crash
+move 2: Shadow Claw
+move 3: Superpower / Roar
+move 4: Protect
+item: Charti Berry / Life Orb
+ability: Snow Cloak
+nature: Adamant
+evs: 100 HP / 252 Atk / 156 Spe
+
+[SET COMMENTS]
+
+<p>Beartic's Icicle Crash has excellent super effective coverage in VGC 2011, OHKOing or doing severe damage to the genie trio, Hydreigon, Whimsicott, and many other common Pokemon. Shadow Claw allows Beartic to hit Chandelure and Jellicent, two common Pokemon that resist Icicle Crash, for super effective damage, and attains good neutral coverage with Icicle Crash, only missing out on opposing Steel-types. Superpower hits Steel-types such as Bisharp and Ferrothorn for super effective damage, and also secures an OHKO on Terrakion. Protect allows Beartic to stall out Trick Room or opposing Tailwind and sidestep its many weaknesses by allowing its partner a turn to eliminate a threatening member of the opposing team.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs and nature allow Beartic to hit as hard as possible, and allow it to reach 90 Speed, outspeeding everything up to the genies under Tailwind, while also retaining its nice bulk. A Charti Berry allows Beartic to easily take a Rock Slide and retaliate with a powerful Icicle Crash, OHKOing most common Rock Slide users.</p>
+
+<p>Roar allows Beartic to shut down opposing Trick Room leads, stopping it from being set up regardless of whether they carry Mental Herb, and also revealing another member of the opponent's team. A Life Orb allows Beartic to hit much harder, achieving vital OHKOs on Hydreigon and Druddigon. But the recoil damage, when coupled with Beartic's myriad weaknesses, means it will die a lot more quickly, making it a much less effective lead. Beartic can be quite effective on a Tailwind team, as its access to Roar allows it to reliably stop Trick Room from being set up. Tornadus and Sigilyph specifically can benefit from Beartic, as its STAB Icicle Crash OHKOes almost all users of Rock Slide, a move that hits both Tornadus and Sigilyph for super effective damage. The two Flying-types can then set up Tailwind to help Beartic outspeed and wreck opponents, and then can also do severe damage to Conkeldurr and Terrakion, the two Rock Slide users that Beartic cannot easily KO. Roar will not stop Whimsicott from using Trick Room due to its ability Prankster, so pairing Beartic with a Taunt user such as Tornadus is a good idea. Beartic also has trouble with Fire-types, such as Chandelure and Darmanitan. A Rock Slide or Earthquake user such as Archeops or Landorus can KO them before they have a chance to threaten Beartic.</p>
+
+<p>Beartic can also work well on a Trick Room team, outspeeding quite a bit in Trick Room with its low Speed, and hitting hard with its STAB Icicle Crash. If used in Trick Room, Beartic does not require Roar, and should use an EV spread of 252 HP / 252 Atk / 4 Def with a Brave nature and 0 Speed IVs, which allows it to hit as hard as possible, and outspeed as much as it can in Trick Room.</p>
+
+[Other Options]
+
+<p>A Chople Berry is another option for an item, allowing Beartic to take most Fighting-type attacks, but it's generally unable to KO most Fighting-types in return, making Chople Berry a generally inferior item. A Focus Sash allows Beartic to survive any attack and retaliate, so it's worth consideration. Ice Punch is a more reliable option over Icicle Crash, but the power drop is noticeable. Brick Break can work over Superpower to avoid the stat drop, but its low Base Power makes it an inferior choice in most situations. While Hail is certainly an option to support a hail team and abuse Blizzard, Beartic's multitude of weaknesses due to its Ice typing and its low Speed makes it ineffective in this role, as opposed to a bulky Water-type such as Jellicent or Samurott. Beartic can utilize Taunt to stop Trick Room from being set up or stop Amoonguss, but Roar stops Trick Room far more reliably, and Beartic does huge damage to Amoonguss anyway with its super effective STAB Icicle Crash. Encore is available to lock opposing Pokemon into a support move, which can occasionally prove useful, but a Prankster user such as Whimsicott is far more effective in this role due to its priority on the move.</p>
+
+<p>Beartic has access to Yawn, which can incapacitate an opponent or at least force them to switch out, but it's easy to avoid, and doesn't gel well with Beartic's numerous weaknesses, making it generally useless. Beartic can also run Icy Wind, slowing down and damaging faster opponents and allowing slower teammates to outspeed and take them down, but its low Base Power means that it's only really useful for the Speed drop, and using Tailwind or Trick Room support achieves the same effect much more reliably anyway. Ice Gem is an option to allow Beartic to OHKO most Amoonguss with Icicle Crash, but it only works for a single turn, so Life Orb is generally more effective to allow Beartic to do consistent damage with Icicle Crash. Beartic's base 70 Special Attack means that it can feasibly use its STAB Blizzard to attain some useful spread coverage, but its low accuracy, coming off of Beartic's lower attacking stat, means that it is only really useful in hail, where other Ice-types such as Cryogonal or Vanilluxe, with their higher Special Attack, will be far more effective at abusing Blizzard.</p>
+
+[Checks and Counters]
+
+<p>Terrakion, Scrafty, and Conkeldurr can do severe damage to or OHKO Beartic with their STAB Fighting-type moves, while Beartic can at best 2HKO them in return with Icicle Crash. Almost any Fire-type can severely damage or KO Beartic with its STAB Fire-type moves.</p>

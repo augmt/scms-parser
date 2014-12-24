@@ -1,0 +1,22 @@
+[Overview]
+
+<p>Ditto is not a good Pokemon in competitive play; however it becomes quite good in the Level Balance and Challenge Cup styles of play. Ditto can be used as an ineffective counter to various types of Pokemon by using their own strategy against them; the emphasis being on "ineffective." In short, Ditto is cool, but don't use it.</p>
+
+[SET]
+name: Transform
+move 1: Transform
+item: Metal Powder / Leppa Berry / Quick Claw
+nature: Impish / Bold
+evs: 252 HP / 128 Def / 128 SpD
+ 
+[SET COMMENTS]
+
+<p>Ditto has only one move: Transform. Both Smeargle and Mew can learn Transform as well, and they have much better stats. Metal Powder is useful because it increases the Defense of only Ditto by one stage. Leppa Berry is useful because Transform only gives Ditto 5 PP per move, and it can restore the PP of one move. Quick Claw is good because it can give a Speed advantage against the Pokemon Ditto has Transformed into.</p>
+
+[EVs]
+
+<p>HP and defenses.</p>
+
+[Checks and Counters]
+
+<p>Anything.</p>

@@ -1,0 +1,53 @@
+Overview
+########
+
+Poliwrath's great overall bulk allows it to handle many physical and special attacks. Poliwrath also has many resistances, in addition to a handy immunity to Water-type attacks thanks to its ability, Water Absorb. Its resistances and wide movepool allow Poliwrath to check popular threats such as Zoroark, Durant, and Doublade. Poliwrath's access to the rare move Circle Throw also makes it stand it out from other Water- and Fighting-types. However, it is weak to common Fairy- and Electric-type moves. Poliwrath also lacks access to Drain Punch, unlike most other bulky Fighting-types in the tier. As such, Poliwrath is forced to run RestTalk for recovery, as it lacks any other method of regaining health outside of Leftovers. Because of its reliance on Circle Throw to do any major damage, Poliwrath can easily be played around with Ghost-types or Substitute.
+
+RestTalk
+########
+name: RestTalk
+move 1: Circle Throw
+move 2: Scald
+move 3: Rest
+move 4: Sleep Talk
+ability: Water Absorb
+item: Leftovers
+evs: 252 HP / 252 Def / 4 SpD
+nature: Relaxed
+
+Moves
+========
+
+Circle Throw is a STAB move that forces switches and racks up entry hazard damage. Scald is used for its its high chance to inflict a burn rather than for its power. Rest, in conjunction with Sleep Talk, allows Poliwrath to recover all lost health and cures it from any status ailments, although Sleep Talk is a tad unreliable. Waterfall is an option over Scald for a stronger STAB move, but it isn't very powerful and the burn chance from Scald outweighs any additional benefits that Waterfall provides.
+
+Set Details
+========
+
+The listed EVs maximize Poliwrath's physical bulk. A Relaxed nature is chosen because it adds to Poliwrath's bulk without lowering the damage output of Poliwrath's attacks, and the drop in Speed is not very important, as Poliwrath doesn't outspeed anything notable. Leftovers gives Poliwrath a form of consistent recovery, although Rocky Helmet is also an option because it adds chip damage. However, using any other item besides Leftovers means Poliwrath gets worn down even quicker than usual.
+
+Usage Tips
+========
+
+Poliwrath is best used as a wall against physical attackers such as Durant. Poliwrath should try and stay at high health to avoid using Rest, as Sleep Talk can be unreliable. Try to avoid using Poliwrath against physical attackers that have super effective moves, as even though Poliwrath is bulky, it doesn't enjoy stomaching these hits. Spamming Circle Throw is what Poliwrath does best, so try to use it as often as possible. Stay away from any Pokemon that carry Will-O-Wisp, as although Rest mitigates the burn, it wears down Poliwrath quickly and makes Circle Throw weaker. Finally, if you can predict when the opponent is going to use a Water-type move, you can switch Poliwrath into it and regain health.
+
+Team Options
+========
+
+Partners such as Registeel and Bronzong that can set Stealth Rock and can also handle Grass- and Electric-types are great, as they can switch into attacks that threaten Poliwrath, and Stealth Rock racks up damage in conjunction with Circle Throw. Doublade and Rhyperior make good partners because they can handle Flying-types such as Braviary that threaten Poliwrath. Clerics who have good synergy with Poliwrath, such as Meleotta and Aromatisse, are good partners because Poliwrath can use Rest without having to rely on Sleep Talk. Escavalier has good synergy with Poliwrath and can also Pursuit trap Psychic-types for Poliwrath, while it in return
+appreciates Poliwrath's ability to wall Fire-types.
+
+Other Options
+########
+
+Ice Punch is an option to hit Grass-types, though Poliwrath lacks the power or flexibility to run it. Should rain support be provided, Poliwrath could run Swift Swim instead. Brick Break can be used as an alternative STAB move, but the increase is power is greatly outweighed by Circle Throw's utility. Bulk Up can bolster Poliwrath's Attack and Defense and turn it into a formidable attacker. Encore can be used to lock the opponent into an unfavorable move, which can then be exploited by a teammate. Substitute can be used alongside Focus Punch for an incredibly strong STAB move and can also shield Poliwrath from status afflictions. Hypnosis can put something to sleep, effectively crippling it, although its accuracy is somewhat unfavorable. Earthquake gets nice general coverage in addition to hitting Electric-type switch-ins super effectively. Belly Drum can be used to make Poliwrath very powerful, but it leaves Poliwrath at low HP and is incredibly difficult to pull off. Finally, a Choice Band set is plausible, although it isn't particularly powerful and is mostly outclassed by Emboar.
+
+Checks & Counters
+########
+
+**Grass-types**: Grass-types shrug off Scald and have super effective moves to hit Poliwrath with in return.
+
+**Electric- and Fairy-type Pokemon**: Both of these types of Pokemon have super effective STAB moves to hit Poliwrath with, while the latter even resists Poliwrath's Fighting-type STAB moves.
+
+**Ghost-types**: Ghost-types often shrug off Scald and are immune to Circle Throw, and most of them carry Will-O-Wisp to cripple Poliwrath with.
+
+**Psychic-Types**: Psychic-type Pokemon such as Meloetta and Reuniclus have little trouble switching into Poliwrath, and from there can force it out with the threat of a super effective Psychic.

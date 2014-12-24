@@ -1,0 +1,59 @@
+[Overview]
+
+<p>Porygon has a great movepool and the potential to sweep, but it is held back by its very low stats. It can't take a lot of damage, especially when paralyzed or confused. Everything 3HKOs Porygon, and some attackers, like Exeggutor, Alakazam, Snorlax, and Tauros, even 2HKO it. Lickitung works better as a Normal-type attacker, despite the fact that it can't Recover.</p>
+
+<p>Often, Porygon can work well with a bit of support from its teammates. However, weakening your opponent's team is the best way to allow Porygon time to setup. If it does get setup, it can be an asset.</p>
+
+[SET]
+name: Physical Sharpen Sweeper
+move 1: Sharpen
+move 2: Hyper Beam
+move 3: Thunder Wave / Agility
+move 4: Recover
+
+[SET COMMENTS]
+
+<p>Sharpen raises Porygon's Attack so that it can then attempt to sweep with Hyper Beam. However, endeavor to keep it free of paralysis. Once it's paralyzed, it has difficulty using Recover effectively, and hence you would ideally want Porygon not to be paralyzed to fight paralyzed opponents.</p>
+
+[SET]
+name: Special Attacker
+move 1: Thunderbolt
+move 2: Ice Beam / Blizzard
+move 3: Thunder Wave
+move 4: Recover
+
+[SET COMMENTS]
+
+<p>This set utilizes Porygon's good special movepool. However, since Porygon does not have any way to boost its low Special stat, attacks like Thunderbolt and Ice Beam or Blizzard are diminished in effect; even against Starmie, Thunderbolt only does around 39%, and Thunder wouldn't even usually 2HKO it with 48% average damage.</p>
+
+[SET]
+name: Mixed Sharpen Sweeper
+move 1: Sharpen
+move 2: Hyper Beam
+move 3: Psychic / Blizzard
+move 4: Recover
+
+[SET COMMENTS]
+
+<p>Porygon can also use both its Attack and Special stats efficiently. With two Sharpens under its belt, it can OHKO Alakazam (sometimes with just one Sharpen) and with a third Sharpen it can OHKO Starmie. In short, if Porygon is given time to set up, it can potentially sweep. Blizzard covers Rhydon, Golem, and Exeggutor somewhat, while Psychic's main target is Gengar.</p>
+
+[SET]
+name: All-Out Attacker
+move 1: Thunder Wave
+move 2: Thunderbolt
+move 3: Ice Beam / Blizzard
+move 4: Double-Edge / Hyper Beam
+
+[SET COMMENTS]
+
+<p>This set sacrifices the use of a boosting attack and a recovery move to be able to hit a wider set of Pokemon. However, it's going to have difficulty hurting much with its mediocre Attack stat without Sharpen.</p> 
+
+[Other Options]
+
+<p>Conversion is a fun move which only Porygon gets. Reflect helps it with its Defense, while Tri Attack can be used instead of Double-Edge if you don't want its recoil, or over Hyper Beam if you prefer a more accurate move.</p>
+
+[Checks and Counters]
+
+<p>Gengar, Starmie, and Exeggutor can use their decent Defense (or immunity to Normal moves in Gengar's case) and excellent Special to sponge Porygon's hits easily while striking back with their own STAB attacks. Snorlax's high HP and good Attack deal nice numbers on Porygon.</p>
+
+<p>In the UU environment, anything that can take a hit and then status it would be a good counter; for example, Tangela. Kabutops and Omastar are good counters if Porygon does not have a damage-dealing Electric move, and Onix is a good counter if Porygon has no Ice move. Hitmonlee is very devastating to Porygon with its STAB High Jump Kick attacks, as well as Primeape with its STAB Fighting attacks.</p>

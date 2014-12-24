@@ -1,0 +1,69 @@
+[Overview]
+
+<p>Though Shellder might not look like much to begin with, it is an unappreciated Pokemon in Little Cup. It has a huge Defense stat that it can take advantage of, and the offensive capabilities to run mixed sets. Unfortunately, Shellder suffers from low Special Defense and, at best, only average Speed. It does have a pretty decent movepool, however, and can function as a good supporter because of its access to Rapid Spin.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Surf
+move 2: Ice Beam / Hidden Power Electric
+move 3: Rock Blast
+move 4: Explosion / Return
+item: Choice Scarf
+ability: Skill Link
+nature: Naive
+evs: 156 Atk / 156 SpA / 196 Spe
+
+[SET COMMENTS]
+
+<p>Shellder's decent attacking stats and ability to hit 14 Speed make it a viable Choice Scarf candidate. Surf is Shellder's strongest STAB, and Ice Beam pairs well with it since it hits most Grass-types for super effective damage. However, Hidden Power Electric should be considered as it hits most Water-types for good damage. Rock Blast, with Skill Link, smashes through Substitutes and destroys Mantyke easily. Explosion allows Shellder to net itself a quick kill on Munchlax, but Return is more consistent and it eases prediction on potential Ghost-types switching in. Speed EVs are maximized with a Naive nature in order for Shellder to reach 21 Speed with a Choice Scarf.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Good teammates for this Shellder are Pokemon that like having Substitute users, such as Houndour and Gastly, removed. Bronzor is a good teammate as it commonly loses to the aforementioned Pokemon, and it can set up Stealth Rock. Rapid Spinners are also good so Shellder can switch in without losing health. Pineco resists Grass and has access to Rapid Spin, as well as all three entry hazards; Baltoy is immune to Electric and has Rapid Spin and Stealth Rock. If locked into Surf or Ice Beam, Agility or Rain Dance Mantyke can come in and begin to set up, so Munchlax is a good teammate to counter it.</p>
+
+[SET]
+name: Mixed Trick Room Sweeper
+move 1: Surf
+move 2: Rock Blast
+move 3: Ice Beam / Ice Shard
+move 4: Explosion
+item: Life Orb
+ability: Skill Link
+nature: Brave / Quiet
+evs: 236 Atk / 36 Def / 236 SpA
+ivs: 3 HP
+
+[SET COMMENTS]
+
+<p>Shellder has decent attacking stats and its relatively low Speed allows it to function well in Trick Room. Again, Surf is its most powerful attack and should be used in most situations. Rock Blast is useful for breaking Substitutes and hits Ice-types for super effective damage. Ice Beam hits Grass- and Flying-types harder, but Ice Shard can be used for priority. Finally, Explosion allows Shellder to go out with a bang. Skill Link is important for Rock Blast to hit the maximum number of times.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs maximize Shellder's attacking stats and the rest go into Defense. For teammates, Trick Room supporters are necessary in order for this set to work to the best of its ability. Duskull is the best teammate for Shellder since, unlike Slowpoke, it does not share Shellder's Electric and Grass weaknesses. Other Trick Room sweepers are also important for punching holes in the opponent's team, so Machop, Cubone, and Magnemite are all great partners.</p>
+
+[SET]
+name: Rapid Spin
+move 1: Rapid Spin
+move 2: Surf
+move 3: Ice Shard
+move 4: Rock Blast / Explosion
+item: Oran Berry
+ability: Skill Link
+nature: Sassy
+evs: 196 HP / 76 Def / 236 SpD
+
+[SET COMMENTS]
+
+<p>Shellder's huge Defense and nice defensive typing allow it to run an efficient Rapid Spin set. Rapid Spin allows other Pokemon on the team to switch in without potentially losing health. This set might seem outclassed by Staryu, but it's worth noting that Shellder has higher physical bulk, as well as the ability to smash through Substitutes with Rock Blast. Shellder also has priority in Ice Shard, which somewhat compensates for its low Speed. Oran Berry provides additional bulk and Skill Link will allow Rock Blast to beat many Pokemon thinking of setting up on it.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given EVs maximize bulk, and Special Defenseis boosted more in this case because it is quite a bit lower than Shellder's Defense. For teammates, Pursuit users are great to stop spinblockers that will often try to stop Shellder from clearing the field. Munchlax is the best option because of its huge special bulk, but Stunky is also good for its better offensive capabilities. Pokemon that can take advantage of the lack of entry hazards are good to have on the team. Houndour loves "free" switch ins, which can be near guaranteed if Shellder packs Explosion.</p>
+
+[Other Options]
+
+<p>Unfortunately, Shellder's movepool is quite small, which means there aren't many other options for it. It has Payback for Ghost-types, but it's liable to get OHKOed or 2HKOed by a Thunderbolt from Drifloon or Gastly, and has to watch for the Attack drop from a possible Will-O-Wisp. Icy Wind is an option to cut an opponent's Speed so Shellder can pull off a kill before it goes down; it also eases prediction to an extent. Finally, Rain Dance with a Damp Rock is an option since Shellder has enough bulk to set up Rain Dance successfully, and can take an opponent out with Explosion the next turn.</p>
+
+[Checks and Counters]
+
+<p>Most Grass-types can KO Shellder on its lesser Special Defense but they always must watch out for Ice Beam. Chinchou can switch into Surf all day long, but it must be wary of Rock Blast and a potential Explosion. Even though it doesn't possess a super effective attack against Shellder, Croagunk is immune to Shellder's STAB and resists Rock Blast. Bronzor can take multiple Surfs, resists Ice Beam, Rock Blast, and Explosion, and can respond with STAB Psychic. Electric-types in general are good checks, but they cannot switch in directly without a secondary typing that resists one of Shellder's attacks. Water-types such as Mantyke and Wailmer that are normally seen carrying Hidden Power Electric or Hidden Power Grass are also good checks to Shellder. Status is annoying because it hinders Shellder's ability to function properly; for example, a burn stops Rock Blast from doing good damage to most neutral threats. Ghost-types, such as Drifloon and Gastly, can switch in on Rapid Spin or Explosion and retaliate with Thunderbolt or get a free KO, respectively.</p>

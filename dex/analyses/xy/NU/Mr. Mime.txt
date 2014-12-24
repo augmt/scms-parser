@@ -1,0 +1,13 @@
+Calm Mind
+########
+name: Calm Mind
+move 1: Calm Mind
+move 2: Psychic / Psyshock
+move 3: Dazzling Gleam
+move 4: Encore / Shadow Ball
+ability: Filter
+item: Leftovers / Life Orb
+evs: 4 HP / 252 SpA / 252 Spe
+nature: Timid
+
+This is a sample set while we are currently working on analyses in the workshop.

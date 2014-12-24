@@ -1,0 +1,72 @@
+[Overview]
+
+<p>Heatran is capable of running a number of vastly different sets, which is only one of the factors that makes it an excellent addition to most teams. On top of its excellent typing and ability, which give it immunities to Poison- and Fire-type attacks and several resistances, Heatran also has decent bulk and a good Special Attack stat, as well as two Fire-type spread moves: Eruption and Heat Wave. However, Heatran's terrible weaknesses to Ground- and Fighting-type attacks severely main it given the predominance of Earthquake and the ever-present Hitmontop.</p>
+
+[SET]
+name: Offensive Tran
+move 1: Heat Wave
+move 2: Earth Power
+move 3: Dragon Pulse / Substitute
+move 4: Protect
+item: Fire Gem / Charcoal
+nature: Modest
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>This is Heatran's signature set in Doubles, dealing powerful hits with Heat Wave, the STAB move of choice on this set. Thanks to its great power but average Speed, Heatran is best used on Tailwind teams or alongside a fast After You user such as Lopunny or Cinccino. Earth Power is used for coverage against opposing Heatran and Chandelure, and also for Fire-resistant Pokemon, such as Kingdra, when using Substitute over Dragon Pulse. Dragon Pulse rounds out Heatran's coverage, hitting Dragon-types, such as Latios, Latias, Kingdra, and Hydreigon, for super effective damage. However, Substitute lets Heatran take advantage of an opponent's switch to an Earthquake user to be sure that Heatran can still use a powerful Heat Wave without fainting. Protect is essential, as it will allow Heatran to survive spread moves from both allies and opponents. Using Protect correctly helps Heatran stick around throughout the match and might make an opponent waste a turn trying to knock it out while Heatran's partner sets up Trick Room, Reflect, or simply KOes the Pokemon that was threatening to damage Heatran on the prior turn.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>While Fire Gem allows for a very powerful initial hit from Heat Wave, Charcoal will provide a steady boost throughout the match, making it a better choice if Heatran manages to stay on the field three turns or more. You could run Shuca Berry on Heatran to help it avoid some KOs, but because Heatran needs 232 Special Defense EVs to survive a non-Life Orb Landorus's Earth Power, it's not really a good option. Shuca Berry does, however, prevent Heatran from getting KOed by Metagross's Earthquake, but that's about it. You also could run Focus Sash on Heatran to let it survive an Earthquake or a Close Combat, but this is only useful if Heatran is running Hidden Power Ice to KO the users of these moves in return, as most won't get KOed by Heatran's Fire-type attacks or by Earth Power; it's also better to use a Chople Berry on Heatran if you greatly fear that Fighting-type attacks will be aimed at it. Hidden Power Ice can be used instead of Dragon Pulse to nail Landorus, Landorus-T, and Salamence, but that will leave Heatran vulnerable to opposing Heatran with Earth Power. If you find that Heatran is often blocked by Wide Guard users, you could try running Fire Blast instead of a coverage move.</p>
+
+<p>Heatran can team up with Pokemon weak to Fire-type moves to try to get a Flash Fire boost, but most players will be wary to use them when there's a Heatran around. Wide Guard support is often essential to compensate for Heatran's Earthquake weakness, a move which is present in most games, so Hitmontop is an excellent teammate; Hitmontop also provides Intimidate support to help Heatran against Landorus-T, Tyranitar, and Excadrill. Cresselia, Dusclops, and Dusknoir are also excellent teammates to support Heatran in the field, being able to give it a Flash Fire boost and the occasional Helping Hand; they can also provide Sunny Day support. If you aren't running Trick Room on your team, Icy Wind and Thunder Wave can come in handy, making Cresselia an even better partner; Thundurus can be a life saver as well with its access to Prankster Thunder Wave. Basically all Pokemon with Intimidate have good synergy with Heatran. Aside from Hitmontop, Landorus-T, which is immune to Earthquake and can weaken its users; Scrafty, which can check Cresselia, Tyranitar and Excadrill; and Gyarados, which can take Water-type attacks directed at Heatran and let you use the opponent's rain in your favor, are all good partners.</p>
+
+[SET]
+name: ErupTran
+move 1: Eruption
+move 2: Heat Wave / Fire Blast
+move 3: Earth Power
+move 4: Protect
+item: Charcoal / Fire Gem
+nature: Quiet
+evs: 252 HP / 252 SpA / 4 SpD
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>The ultimate Doubles destroyer, this set utilizes the strongest spread attack available: boosted Eruption. If Heatran manages to set up, even Kingdra with its 4x resistance to Fire and decent Special Defense will come close to being KOed. Eruption Heatran needs a lot of support to succeed, however. Trick Room and Sunny Day support, the latter of which can be supplied from either Ninetales's Drought or a support teammate of choice, as well as Helping Hand and Flash Fire support are all crucial for Heatran to succeed. The trick is to start setting up Trick Room while Heatran uses Protect, allowing it to escape that turn unharmed. The best partners for this are Dusclops and Mental Herb Dusknoir, which each have their pros and cons: extreme bulk in the case of the former and a defense against Taunt in that of the latter. If you aren't using Mental Herb Dusknoir, never start off with this tactic, as a Taunt user will just ruin your strategy and proceed to disrupt your team to the point where you will most likely lose.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Charcoal is the item of choice for this set, as Heatran is meant to set up and sweep, meaning that it will often fire more than the three attacks required to equal Fire Gem's initial attack boost. Furthermore, if Heatran sets up, it won't need the sheer power of the Fire Gem. The EVs here are meant to give Heatran maximum bulk while retaining power and speed under Trick Room. While the tactic sounds amazing, it's not that easy to pull off if your opponent has access to Taunt, bulky Earthquake users, or Rain Dance or Drizzle users. If you spot any Heatran check, it's better to get rid of them first and use Eruption Heatran as a late-game sweeper. Trick Room support is essential, so teaming Heatran with a slow Fake Out user such as Scrafty is a good idea. Victini can be used on a mixed Trick Room team that uses Sunny Day, as it is able to deal high amounts of damage under the sun with V-create, denting even Cresselia. Cresselia itself is a great teammate to set Sunny Day and Trick Room, as well as boosting Heatran with Helping Hand. Dusclops or Dusknoir are almost essential as partners for this Heatran as well. Fire Blast is an option instead of Heat Wave if you find yourself capable of letting Heatran stay at high health and Wide Guard concerns you, but the main point of this set is to deal massive amounts of damage with powerful spread moves.</p>
+
+[SET]
+name: SubProtect
+move 1: Substitute
+move 2: Protect
+move 3: Heat Wave / Fire Blast
+move 4: Earth Power
+item: Chople Berry / Leftovers
+nature: Modest
+evs: 252 HP / 200 SpA / 52 Def
+
+[SET COMMENTS]
+
+<p>This Heatran set's forte is survivability. The strategy is to alternate between using Substitute and Protect to survive hits, and then when the opponent lets Heatran's Substitute survive, Heatran can deliver strong hits with Heat Wave and Earth Power, though Fire Blast can be used over the former if you're afraid of Wide Guard or want to deal greater damage to a single target. Earth Power lets Heatran deal with opposing Chandelure and Heatran; this is even more useful because opposing Heatran might not be able to KO back with Earth Power.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given Defense EVs alongside Chople Berry allow Heatran to survive a Fighting Gem-boosted Close Combat from Adamant max Attack Hitmontop and still set up a Substitute most of the time. Teaming up with Fake Out users, such as Hitmontop and Scrafty, helps Heatran set up Substitutes and maintain them. The former also provides Wide Guard support, which can enable Heatran to take no damage from Earthquakes and Rock Slides, allowing it to set up a Substitute or just keep attacking from behind one. Follow Me and Rage Powder users, such as Amoonguss and Togekiss, are also highly welcome, as they allow for Substitute set-up as well. Cresselia can provide Icy Wind and Thunder Wave support, both of which help this Heatran set shine. Thundurus can also provide Thunder Wave support, except with priority. Heatran also needs the support of teammates that can deal with Ground- and Fighting-type Pokemon. Besides Cresselia, Heatran can team up with Gyarados to render Fighting-types and Deoxys-A useless, the latter of which will usually get rid of at least two opponents before it faints. Kyurem-B is the best Pokemon to deal with Ground-types, as even the pesky Landorus-T with its Intimidate ability will be obliterated by Kyurem-B's sheer strength. Abomasnow and Genesect make for excellent Blizzard spammers, which help deal with Heatran's main counters as well.</p>
+
+[Other Options]
+
+<p>The most useful other option for Heatran is Air Balloon, which will allow it to avoid all Ground-type attacks until it is hit by another type of attack. This is extremely helpful when dealing with Landorus-T, other Heatran, and Volcarona. Heatran's movepool is decent, and it has a lot of options to consider for all of its sets. First of all, it can run Hidden Power Grass to deal with Gastrodon, one of its main counters in Doubles. It will also help finish off a Politoed in rain. Heatran also has access to Flash Cannon, which is useful to deal with Tyranitar, but other than that, it's mainly a useless move. Heatran also has access to several useful support options. It can run Taunt to shut down Trick Room users and Sunny Day to boost its own and its teammates' attacks. Heatran can also run Will-O-Wisp, especially on more defensive sets, to ruin its main counters: Fighting-types and Earthquake users. Single-target moves, such as Flamethrower and Overheat, can also be used for their reliability and sheer power, respectively. Heatran also has access to Flame Charge, but it's generally better to use a partner with Tailwind to help overcome Heatran's lackluster speed. Heatran can run AncientPower to deal with Volcarona, a common check, but the move is otherwise useless. Lastly, Heatran is able to run a Choice Scarf set to dish out fast spread attacks, or a Choice Specs set coupled with a fast After You user such as Jirachi, which will let Heatran quickly spam moves without investing in Speed.</p>
+
+[Checks and Counters]
+
+<p>All common Ground- and Fighting-types threaten Heatran greatly; this includes Landorus, Landorus-T, Excadrill, Garchomp, Gastrodon, Quagsire, Hitmontop, Scrafty, and Conkeldurr. One Earthquake or Earth Power, and Heatran is usually gone. Wide Guard users, such as Hitmontop, shut down most offensive Heatran variants, as it usually chooses to run Eruption or Heat Wave for its STAB move of choice. Terrakion also threatens Heatran greatly, as it can KO Heatran with Close Combat or damage it severely with Rock Slide. Gastrodon threatens Heatran with Earth Power, Muddy Water, or Surf in the rain, taking very little damage from any attack Heatran has to damage it with, bar the rare Hidden Power Grass, which often forces Gastrodon to switch out. Water-types in general will take little damage from Heatran, and all of them will obliterate it under rain. It's common to see Heatran running away from Politoed, Manaphy, and Ludicolo, all of which can seriously dent and KO it. In general, rain will render Heatran useless.</p>
+
+[Unreleased]
+
+<p>Heatran's Dream World ability is Flame Body. This might be useful on some defensive sets in order to buff up Heatran's Defense. In addition, Flame Body prevents the rare, but incredibly annoying, Trace Gardevoir and Porygon2 from setting up on it. However, Flash Fire is usually the better option, as otherwise, Heatran would be taking neutral damage from Fire-type attacks. The more resistances, the better.</p>

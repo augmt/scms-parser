@@ -1,0 +1,60 @@
+[Overview]
+
+<p>Skarmory is without doubt the best physical wall in the game. It has no physical weaknesses at all; in fact, it resists all but two physical types: Fighting and Rock. Skarmory has had a large influence on the metagame: it forces players to dedicate an entire moveslot on their Salamence, Flygon, or Metagross to taking it down, use Magneton, run many Flying-types and Levitate users to minimize Spikes damage, run a spinner, or use only Pokemon that are able to hurt Skarmory. As a testament to what a solid Pokemon it is, even in such an environment where the metagame has adapted to it, Skarmory still shines with its great Spikes-stacking, walling, and phazing abilities.</p>
+
+[SET]
+name: Standard
+move 1: Spikes
+move 2: Whirlwind
+move 3: Toxic / Hidden Power Flying
+move 4: Protect / Rest
+item: Leftovers
+ability: Keen Eye
+nature: Impish
+evs: 252 HP / 4 Def / 252 SpD
+
+[SET COMMENTS]
+
+<p>Here we have it, the best defensive wall in the game. It possesses no weaknesses, two immunities, and a ton of resistances. Add to that a phenomenal base 140 Defense and you've got a real monster on your hands. This beast finds it amazingly easy to lay Spikes and take advantage of them with Whirlwind, particularly against Choice Band users such as Metagross and Snorlax. Whirlwind can force out any Pokemon trying to set up on Skarmory and can stop Baton Pass teams. Toxic is Skarmory's best way to damage Pokemon, and can be used in conjunction with Protect or Rest to stall out opponents. It's also Skarmory's best weapon against Cloyster and Claydol, two common spinners. Hidden Power Flying can be used for a more direct answer to Heracross and a way to slowly whittle down Taunt users such as Gyarados. Hidden Power Flying is used instead of Drill Peck due to Drill Peck and Whirlwind being an illegal move combination. Protect scouts special attacks and gets extra Leftovers recovery, while Rest makes Skarmory a solid wall to threats such as Swampert.</p>
+
+<p>Always maximize Skarmory's HP before anything else. Skarmory's Defense stat is so high that it gains more physical tanking ability from 4 HP EVs than 4 Defense ones; it goes without saying that HP investment also helps Skarmory sponge special attacks such as Celebi's Psychic as well. An Impish nature grants a huge boost to that already impressive stat. 252 Special Defense EVs let Skarmory take hits from Milotic, Celebi, Porygon2, Blissey, and others more effectively. It also allows Skarmory to healthily survive physical Pokemon such as Salamence or Flygon packing Fire Blast. A higher investment in Defense can be used to take hits from Tyranitar, Aerodactyl, and other physical attackers, however. A Careful nature can be used to survive Magneton's Thunderbolt, but takes away from Skarmory's Defense even more.</p>
+
+[SET]
+name: RestTalk
+move 1: Rest
+move 2: Sleep Talk
+move 3: Spikes
+move 4: Whirlwind
+item: Leftovers
+ability: Keen Eye
+nature: Impish
+evs: 252 HP / 4 Def / 252 SpD
+
+[SET COMMENTS]
+
+<p>While similar to the first set, this set focuses solely on setting up Spikes and walling opponents. With Sleep Talk, Skarmory will almost be guaranteed to set up all three layers of Spikes, and can also phaze out other Skarmory before they begin setting up. To better take physical attacks over special ones, consider investing in Defense or using a Careful nature.</p>
+
+[SET]
+name: Taunt
+move 1: Taunt
+move 2: Spikes
+move 3: Whirlwind
+move 4: Toxic / Hidden Power Flying
+item: Leftovers
+ability: Keen Eye
+nature: Impish
+evs: 252 HP / 156 SpD / 100 Spe
+
+[SET COMMENTS]
+
+<p>A variation on the standard set; instead of just laying Spikes and phazing, Skarmory can use Taunt to prevent all forms of healing, such as Rest and Soft-Boiled, then either Whirlwind the helpless foe or take them down directly with Toxic or Hidden Power Flying. Taunt also lets Skarmory stop opposing Skarmory and Forretress from setting up alongside it. Taunt variants should hit a Speed stat of 201 in order to outspeed Dragon Dance Tyranitar and Milotic. The Special Defense EVs allow Skarmory to handle Milotic much better.</p>
+
+[Other Options]
+
+<p>Curse enables Skarmory to beat other setup sweepers, but it won't sweep any teams. Hidden Power Steel can damage Tyranitar while still hitting Gengar on the switch. A Choice Band set can do some damage to Celebi, as well as surprise Magneton with Hidden Power Ground. With Counter, Skarmory can inflict heavy damage to physical hard hitters such as Choice Band Tyranitar, Choice Band Aerodactyl, and Curselax (when it is the last remaining Pokemon).</p>
+
+[Checks and Counters]
+
+<p>Magneton is the best Skarmory counter in existence, as its ability, Magnet Pull, prevents Skarmory from switching out; it can then OHKO Skarmory with a STAB Thunderbolt. Forretress and Claydol can Rapid Spin away Skarmory's Spikes, but without some novelty, such as Hidden Power Electric or Zap Cannon, they can't do much damage to Skarmory. Rapid Spin Starmie, however, can Recover off any damage, clear Toxic with Natural Cure, and end Skarmory with a super effective Thunderbolt or STAB Surf. Cloyster too can shrug off Drill Peck and Hidden Power Flying, spin away Spikes, lay down Spikes of its own, and damage Skarmory badly with Surf or Ice Beam. However, it doesn't like taking a Toxic .</p>
+
+<p>Despite the fact that Skarmory is overall the best physical wall, strong Fighting- and Rock-type Choice Band sweepers can break through even its massive Defense. Choice Band Aerodactyl, Choice Band Heracross, Taunt Tyranitar, and even unexpected Explosions can make Skarmory's life difficult. Many other Pokemon can also catch Skarmory off guard with a surprise Fire- or Electric-type move. Snorlax, Weezing, Salamence, Tyranitar, and Flygon might have Fire Blast, Metagross might run Hidden Power Fire, and Grass-types might pack Hidden Power Fire.</p>

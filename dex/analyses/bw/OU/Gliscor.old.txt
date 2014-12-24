@@ -1,0 +1,101 @@
+[Overview]
+
+<p>Since its release in the fourth generation, Gliscor has been one of OU's premier physical walls. Its stellar defensive typing gives it a useful resistance to Fighting-type moves and an immunity to Ground-type moves, making it a solid check to Pokemon like Terrakion, Breloom, Landorus-T, and Lucario. Though BW2 brought with it a whole host of new threats for Gliscor, such as Keldeo and Technician Breloom, as well as solid competition in the form of Landorus-T, it still manages to find a solid niche as one of the best physical walls in OU. While Landorus-T has the edge in checking physical threats due to its Intimidate ability, Gliscor has the clear edge in sustainability. Between its Dream World ability, Poison Heal, and access to Roost via the BW2 tutors, Gliscor is like a bad meal- you just can't keep it down. It can also make use of Baton Pass to give its teammates Substitutes or Swords Dance and Agility boosts, or it can go offensive with an Acrobatics set.</p>
+
+<p>However, Gliscor does have plenty of problems as well. Its lackluster HP and Special Defense stats mean that even weak special attacks will be doing major damage to it. Its 4x weakness to Ice-type moves is also a hindrance, as some physical Pokemon, such as Lucario, Mamoswine, and Conkeldurr, can use Ice-type coverage to break through Gliscor without much difficulty. Gliscor also faces major competition from Landorus-T, which, between its Intimidate ability and massive 145 base Attack, finds itself significantly more suited to the metagame. Despite these flaws, Gliscor still has some key niches, such as its SubToxic set and a more sustainable pure defensive set, which help it carve out a place in the OU metagame.</p>
+
+[SET]
+name: SubToxic
+move 1: Substitute
+move 2: Toxic
+move 3: Protect / Roost / Taunt
+move 4: Earthquake
+item: Toxic Orb
+ability: Poison Heal
+nature: Impish
+evs: 244 HP / 40 Def / 224 Spe
+
+[SET COMMENTS]
+
+<p>With its massive bulk and above-average speed, this set sits at the pinnacle of OU stall. Between Substitute and Toxic, Gliscor is extremely good at killing time while Toxic slowly wears down the opposing Pokemon's HP. Protect also lets it stall out your opponent's PP, meaning Pokemon that rely on low PP moves to hit Gliscor like Rotom-W's Hydro Pump will not be able to take it down. Furthermore, Poison Heal's 12.5% HP recovery means that Gliscor loses no net HP while stalling, and the Toxic also renders it immune to harmful status, especially Sleep. This Gliscor set finds it easy to switch in on Choice-locked attacks such as Terrakion's Close Combat and Garchomp's Earthquake, which give it a free opportunity to set up a Substitute. Once Gliscor gets behind a Substitute, it becomes much harder to KO. Only multi-hit moves like Icicle Spear and Bullet Seed can actually pose a threat, since they can actually brute force their way through the Substitute and hit Gliscor itself.</p>
+
+<p>Earthquake gives Gliscor a STAB move to hit Pokemon that are immune to Toxic such as Heatran, Lucario, and Jirachi. While Protect is in many ways the key to this set, Roost and Taunt also fill key roles in Gliscor's gameplan. Roost lets Gliscor recover large amounts of health if it has been weakened though the course of the battle. This is especially useful in tandem with Poison Heal, as Gliscor can recover 2/3 of its health in one turn. Using Taunt means Gliscor won't be setup bait for entry hazard setters such as Skarmory, Forretress, and Ferrothorn, and it can prevent slower Taunt users such as Jellicent from stopping its stall cold.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Gliscor's EVs allow it to outspeed max Speed Landorus-T, as well as specially defensive Zapdos and Adamant Lucario. With this Speed, Gliscor can OHKO Lucario with Earthquake after Stealth Rock and can alternate between Substitute and Protect until Zapdos and Landorus-T run out of Hidden Power Ice and Stone Edge PP, respectively. The EVs also make Gliscor's HP reach a multiple of eight, which means it will gain the maximum amount of health possible from Poison Heal. The rest is put into Defense to maximize its physical bulk.</p>
+
+<p>Since it relies so heavily on Toxic to deal damage, this set has serious issues with defensive Steel-types. While Forretress, Skarmory, and Ferrothorn pose no offensive threat to it, Gliscor can't do much to them either. However, their real threat lies in their ability to set up entry hazards, or in the case of Skarmory, phaze Gliscor out with Whirlwind. Because of this, Gliscor appreciates a strong Fire-type to eliminate these threats before trying to stall. Magnezone is also a great partner, because it can trap and KO all of the Steel-types mentioned above. Rotom-W with Hidden Power Ice can also be a problem for Gliscor one on one, as it can only be hurt through Toxic damage, and those that carry Rest will be impossible to take down. Because of this, Celebi makes a great partner as well. It can tank many of the special attackers that threaten Gliscor, such as Starmie, Keldeo, Choice Scarf Politoed, Latios, and Thundurus-T. Heatran, Celebi, and Gliscor make an excellent defensive core, covering all of each other's weaknesses. Good teammates also include Tyranitar and Abomasnow, as Gliscor appreciates the added damage that sand and hail bring. Gliscor fits well into teams based around both of these weathers, with each having advantages over the other. In hail, Gliscor still gains 6.25% of its health back when poisoned, while most of its opponents will lose additional health. Sand allows Gliscor to recover the full 12.5%, but there are many more Pokemon immune to sand damage than hail damage. Sand damage, in addition to Toxic damage, will quickly rack up and can make Toxic stalling much easier for Gliscor. Tentacruel makes an excellent partner for Gliscor, as they have great synergy and Tentacruel can provide Toxic Spikes support, which means Gliscor won't have to waste a turn poisoning the opponent.</p>
+
+[SET]
+name: Defensive
+move 1: Earthquake
+move 2: Taunt / Toxic
+move 3: Ice Fang / U-turn
+move 4: Roost / Protect
+item: Toxic Orb
+ability: Poison Heal
+nature: Impish
+evs: 244 HP / 248 Def / 16 Spe
+
+[SET COMMENTS]
+
+<p>With this set, Gliscor takes advantage of its fantastic defensive typing and above average bulk to put a stop to many of the physical attackers in of OU. For example, it is one of the few Pokemon in OU that can reliably switch into Choice Band Terrakion, having only a 6% chance of being 2HKOed by Stone Edge after Stealth Rock. At first glance, this set might seem to be outclassed by Landorus-T, but Gliscor still has one major advantage that sets it apart: reliable recovery. Not only does Gliscor get Poison Heal to recover 12.5% of its HP at the end of each turn, but it also has Roost, which lets it recover a monstrous 62.5%. This alone sets it apart from Landorus-T, which suffers from a lack of reliable recovery. In addition, Gliscor is immune to status, which means that it can safely wall Jirachi, and doesn't fear switching into Will-O-Wisp or Spore after Toxic Orb has been activated. Gliscor's access to Taunt also sets it apart, meaning slower defensive threats can't set up on it. Earthquake is the main STAB move, and it lets Gliscor hit the likes of Terrakion for super effective damage. Because Gliscor has decent Speed for a wall, Taunt is a good option for the second slot. It allows Gliscor to shut down most other common walls that rely on support moves and prevents things like Skarmory, Forretress, and Ferrothorn from setting up entry hazards against Gliscor and Swords Dance Scizor from boosting. Toxic is another option, which lets Gliscor wear down bulky Water-types such as Politoed, Rotom-W, and Jellicent, which love to switch in on Gliscor and can 1-2HKO with Hydro Pump or Scald. Ice Fang lets Gliscor do damage back to Pokemon like Choice Scarf Salamence and Garchomp after it tanks their Outrage. It also gives Gliscor a way of hitting Breloom, which otherwise can set up a Swords Dance and KO with Bullet Seed. However, U-turn is another option to make Gliscor a defensive pivot for your team and grab momentum from the physical attackers that will switch out when Gliscor comes in.</p>
+
+<p>Protect is a decent option over Roost, as it lets Gliscor scout Choiced special attackers that can switch in on it such as Keldeo and Latios. It also helps to wear down opponents if they have been poisoned, though the SubToxic set is usually better at doing this. This set makes a great addition to any hail team, which commonly have problems with Terrakion and other Fighting-types. In addition, Gliscor has a pseudo-immunity to hail, as it still recovers 6.25% of its health at the end of every turn.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given EV spread lets Gliscor outrun Adamant max Speed Scizor to prevent it from setting up with Taunt. The HP investment makes its health a multiple of eight so it regains the maximum amount of HP from Poison Heal possible. The rest is put into its Defense. If your team desperately needs a Pokemon to set Stealth Rock, Gliscor can opt for that over Taunt, but it really appreciates the ability to shut down slower defensive Pokemon.</p>
+
+<p>Heatran and Celebi make great partners for Gliscor, as they all cover each other's weaknesses perfectly and Gliscor's physically defensive spread compliments their specially defensive ones well. Rotom-W can also make a good teammate, as it can form a VoltTurn core with Gliscor and tank all the rain-boosted Water-type attacks and 4x effective Ice-type attacks aimed at it. Tyranitar also makes a great partner for Gliscor, as Gliscor resists Tyranitar's 4x weakness to Fighting and Tyranitar can provide sand support to further wear down the opponents that Gliscor is walling. Tyranitar can also eliminate Latios and Latias, which can otherwise be troublesome for Gliscor.</p>
+
+[SET]
+name: AcroBat
+move 1: Acrobatics
+move 2: Earthquake
+move 3: Swords Dance
+move 4: Substitute / Agility
+item: Flying Gem
+ability: Hyper Cutter
+nature: Adamant
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>This set is Gliscor's best attempt at an offensive set. While this, similarly to Gliscor's defensive sets, might seem outclassed by double booster Landorus-T, Gliscor still has a few advantages over it. One of this set's main selling points is Gliscor's access to STAB Acrobatics. When used with a Flying Gem and backed by STAB, Acrobatics becomes a 247 Base Power attack. At +2, a Flying Gem-boosted Acrobatics is going to hurt even Pokemon that resist it. While Landorus-T has trouble taking on Celebi, Latios, Breloom, and Hydreigon, Gliscor can OHKO all of them with a Flying Gem-boosted Acrobatics. Even Rotom-W, one of the best counters to Gliscor, takes a minimum of 75% from it. The other major reason to use this set over Landorus-T is that it's ability, Hyper Cutter, means that it can't be stopped by Intimidate users such as Landorus-T and Gyarados. The former is OHKOed by +2 Flying Gem Acrobatics, and the latter is OHKOed even without Flying Gem. Earthquake is this set's other main STAB and lets Gliscor hit things that resist Acrobatics such as Jirachi and Heatran. Substitute lets Gliscor get a free shot in on something faster than it such as Keldeo or Latios. Agility is another option over Substitute, as Gliscor can sweep most sun teams at +2/+2, OHKOing many common sun threats such as Venusaur, something Landorus-T cannot do, as well as Volcarona, Darmanitan, and Victini.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs maximize Gliscor's Attack and Speed, giving it the best shot at sweeping. A Jolly nature is tempting to use on this set, as it lets Gliscor outspeed the standard Ninetales set and Neutral base 100 Pokemon such as Volcarona, but Gliscor really needs the power that Adamant provides, and Substitute protects Gliscor from Ninetales, Volcarona, Salamence, and Jirachi. Furthermore, Gliscor can do serious damage to them with Acrobatics or Earthquake from there. Fire Fang can be used over Earthquake, as it lets Gliscor beat things like Skarmory, which otherwise can set up on or Whirlwind out Gliscor, ending its sweep. But Fire Fang's coverage is generally not as useful as Earthquake's, the drop in power is definitely noticeable, and STAB Earthquake actually hits harder than a super effective Fire Fang. Poison Heal can be used instead of Hyper Cutter, as Gliscor can switch in on a predicted Toxic and recover most of the HP lost from Substitute, but Hyper Cutter is much more useful and Poison Heal is far too situational.</p>
+
+<p>Starmie is a great partner for AcroBat Gliscor, as it can Rapid Spin the entry hazards that Pokemon such as Skarmory and Forretress might set up and can threaten Jellicent and Politoed with a Life Orb Thunderbolt. Technician Breloom with Focus Punch also deserves a mention, as it can beat Skarmory, Latios, and Latias with a Fighting Gem-boosted Focus Punch and Rotom-W and Jellicent with Bullet Seed. Mixed attackers such as mixed Salamence and mixed Jirachi can lure in common counters to Gliscor such as Hippowdon and Rotom-W and remove them, allowing it to sweep. Gothitelle can trap and KO all of the common counters to Acrobatics Gliscor, including Skarmory and Rotom-W, clearing the way for Gliscor. Thundurus-T is also a great partner, as it takes down bulky Water-type Pokemon and generally breaks holes in the opponent's team, which Gliscor can then take advantage of to clean up.</p>
+
+[SET]
+name: SubPass
+move 1: Substitute
+move 2: Baton Pass
+move 3: Earthquake
+move 4: Taunt / Swords Dance / Agility
+item: Toxic Orb
+ability: Poison Heal
+nature: Impish
+evs: 244 HP / 40 Def / 224 Spe
+
+[SET COMMENTS]
+
+<p>While Gliscor is mainly used as a defensive Pokemon, this set can surprise the opponent by helping you grab momentum, a Substitute, and possibly a few boosts for teammates all with Baton Pass. The main objective of this Gliscor set is to set up a Substitute and then Baton Pass it to a teammate that can then use it to set up. Thanks to Gliscor's fantastic natural bulk, complemented by Poison Heal, and immunities to Electric, Ground, and status moves, it can find many opportunities to do so. Passing a Substitute can also be useful for getting frailer sweepers in without having to take a hit. Lucario, Breloom, Thundurus-T, and other defensively weak setup sweepers find a free switch-in very useful and can set up on common switch-ins to Gliscor such as Ferrothorn, Forretress, Rotom-W, Politoed, and Skarmory. Earthquake is the STAB option of choice, as Gliscor still has the bulk to set up on Choice Scarf Terrakion. The last option is the most important, and it really depends on what your team needs most. Taunt is the primary option, as it prevents Politoed from using Perish Song, Skarmory from using Whirlwind, and Jellicent from using Taunt itself. This will make it much easier for Gliscor to set up a Substitute and pass it along, and finds the most use on dedicated Baton Pass teams. However, Swords Dance and Agility are also decent options depending on your team's needs. Swords Dance, when used in tandem with Substitute, can be useful for passing to strong physical attackers such as Breloom, Terrakion, and Lucario in addition to getting them in safely with Substitute. Agility is a more universal boost, as it can be passed to special and physical sweepers alike, including Nasty Plot Thundurus-T, Choice Specs and Expert Belt Keldeo, Swords Dance Lucario, Terrakion, and Kyurem-B.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given EVs let Gliscor outspeed max Speed Landorus-T, specially defensive Zapdos, and Adamant Lucario, increasing the number of Pokemon that Gliscor can set up a Substitute on. The HP EVs make Gliscor's health a multiple of eight to maximize the HP recovered from Poison Heal, and the rest is put into Defense. In terms of teammates, Gliscor makes an excellent member of any dedicated Baton Pass team, as it has decent Speed for a bulky Pokemon and can block attempts to phaze out your Baton Pass chain with Taunt. Good Baton Pass teammates include Ninjask, which provides free speed boosts and is an excellent Baton Pass chain starter; Mr. Mime, which can block Perish Song; Espeon, which can block Taunt; and Vaporeon, which resists the Ice-type attacks aimed at Gliscor and is immune to Water-type attacks. Scizor makes a good partner, as it can use either Swords Dance or Agility to complement the move chosen in Gliscor's last slot. On non-Baton Pass teams, Baton Pass Celebi makes a great partner with Gliscor, as it can absorb the Water attacks that Gliscor hates, and Gliscor can pass Substitutes and Agility boosts to Celebi, which can then pass Nasty Plot boosts to Pokemon such as Keldeo and Thundurus-T. Lucario, Terrakion, Breloom, and Salamence all appreciate being able to come in for free thanks to Substitute and appreciate an intact Substitute even more.</p>
+
+[Other Options]
+
+<p>Gliscor has a few other useful options. A set using Fling and Acrobatics sounds tempting at first, as Gliscor can poison the opponent and then have a 110 Base Power Flying-type STAB for the remainder of the match, but this is usually inferior to the SubToxic set, as it can only Toxic one Pokemon, after which the move is useless. Acrobatics should only be used on the AcroBat set, as it has the most damage output there. Facade is another powerful attacking option on some of Gliscor's defensive sets, but STAB Earthquake is usually better, and Gliscor is strapped for move slots anyway. Knock Off is a decent support option, as it can cripple many of the Pokemon that like to switch into Gliscor such as Rotom-W, Jellicent, Gengar, Politoed, and Skarmory. But, like Facade, Gliscor has a hard time finding a slot that can be given up for Knock Off, and usually there are better uses for the move slot.</p>
+
+[Checks and Counters]
+
+<p>Gliscor is very susceptible to Taunt users, because it relies heavily on passive damage to take down foes. Skarmory is probably the best Gliscor counter, as it is immune to Toxic and Earthquake, resists Acrobatics, takes pitiful damage from Ice Fang, and can Whirlwind out Gliscor that are behind a Substitute. Taunt Gyarados can prevent Gliscor from setting up a Substitute and can proceed to Dragon Dance or Waterfall the switch-in. Sableye can Taunt Gliscor to prevent it from doing anything and Recover stall its Earthquake PP. It can even Will-O-Wisp Gliscor's AcroBat set, and its defensive sets before Toxic Orb has activated. Forretress and Ferrothorn, though unable to do much actual damage, can freely set up entry hazards on any Gliscor that lacks Taunt. Cloyster can OHKO any Gliscor set with Icicle Spear, though it must watch out for Toxic and Taunt. Mamoswine is in a similar boat, as it can do major damage with Icicle Spear as well, though it is not always a guaranteed OHKO because it might only hit twice.</p>
+
+<p>When not behind a Substitute, Gliscor is much easier to deal with. Because Gliscor has such abysmal Special Defense, any powerful special attacker can do major damage to it. Gengar is one of the better counters to the defensive and SubToxic sets, as Gliscor can only hit Gengar with Ice Fang and Gengar can hit it hard with Shadow Ball or even the occasional Hidden Power Ice. Rotom-W with Hidden Power Ice is immune to Earthquake, resists Acrobatics, and can OHKO all Gliscor sets, though it does have to watch out for Toxic, because it can easily be worn down once poisoned. Air Balloon Heatran is "immune" to Earthquake and Toxic and can OHKO and 2HKO with Hidden Power Ice and Fire Blast, respectively. Thundurus-T can set up on Gliscor that lack Substitute and OHKO with Hidden Power Ice, fearing only Toxic and Ice Fang. Latios and Latias are decent checks, as they are immune to Earthquake, giving them a free switch-in opportunity, and can OHKO with Surf.</p>

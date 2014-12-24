@@ -1,0 +1,58 @@
+[Overview]
+
+<p>Slowbro can work very well in the standard metagame as a bulky Water-type. It is a fairly safe switch-in to Metagross, Aerodactyl, and Salamence, can spread paralysis with Thunder Wave, or be a true tank with Calm Mind. However, it is inferior to standard bulky Water-types, namely Milotic, Swampert, and Suicune, for a few reasons. Unlike Swampert, it isn't immune to sandstorm and lacks a resistance to Rock; unlike Milotic, it has neither Marvel Scale nor Recover, and has to rely on Rest. Finally, Slowbro's Psychic typing renders it weak to Shadow Ball and Crunch, the former of which is on some Metagross, while the latter leaves it open to Tyranitar. All in all, while Slowbro isn't the best bulky Water-type out there, it definitely has its uses.</p>
+
+[SET]
+name: Defensive
+move 1: Surf
+move 2: Psychic / Ice Beam
+move 3: Rest
+move 4: Calm Mind / Thunder Wave
+item: Leftovers
+ability: Own Tempo
+nature: Bold
+evs: 252 HP / 176 Def / 28 SpA / 52 SpD
+
+[SET COMMENTS]
+
+<p>This set relies on Slowbro's natural physical bulk to sponge physical attacks as it boosts its Special Defense with Calm Mind. Surf provides solid STAB while Ice Beam takes out Dragon-types and hurts Celebi as well. </p>
+
+[SET]
+name: SubPunch
+move 1: Substitute
+move 2: Focus Punch
+move 3: Surf
+move 4: Psychic / Ice Beam
+item: Leftovers
+ability: Own Tempo
+nature: Relaxed
+evs: 252 HP / 96 Atk / 160 SpA
+
+[SET COMMENTS]
+
+<p>An average Substitute + Focus Punch user thanks to its low Speed and good Defense; Slowbro occasionally finds chances to set up, but don't get your hopes up. Surf is a great STAB attack while Ice Beam has the important use of taking down Salamence. Psychic can damage Heracross as Slowbro is protected by a Substitute.</p>
+
+<p>The need to split EVs between its attacking stats limits this Slowbro: at least 100 Special Attack EVs are needed for Ice Beam to OHKO Salamence and Flygon; put the rest in Attack to give Focus Punch some, well, punch.</p>
+
+[SET]
+name: Curse
+move 1: Curse
+move 2: Earthquake
+move 3: Ice Beam / Shadow Ball
+move 4: Rest / Surf
+item: Leftovers
+ability: Own Tempo
+nature: Brave / Adamant
+evs: 252 HP / 176 Atk / 80 SpD
+
+[SET COMMENTS]
+
+<p>If you must run a physical Slowbro, Curse is the way to go. Curse boosts its Defense to even higher levels; once it can stand up to any physical attack, take out enemies with Earthquake or Shadow Ball. Rest lets it recover health and survive for longer, while Surf provides solid STAB. Slowking is generally a better choice here, however, as it has higher Special Defense and can boost its lower Defense with Curse.</p>
+
+[Other Options]
+
+<p>Fire Blast and Flamethrower are nice surprises for Steel-types such as Skarmory. Belly Drum is a novelty move, but is generally not recommended. Counter is amazing, however, as Slowbro can survive most unboosted physical attacks not named Heracross's Megahorn. Psych Up is handy against opponents that boost their Speed or defenses, while Yawn forces switches effectively. Sleep Talk is an option on the Calm Mind set; it makes Slowbro an even better tank. Growl is a fun option that further boosts Slowbro's walling capabilities.</p>
+
+[Checks and Counters]
+
+<p>Snorlax, Blissey, and Suicune are hands down the biggest threats to Slowbro. Snorlax and Blissey have large HP and Special Defense stats that let them shrug off attacks easily, while Suicune can quickly reduce the PP of Slowbro's attacking moves due to Pressure. Lanturn and Ludicolo can also tank Slowbro's Water- and Ice-type attacks easily, while Celebi resists both its STAB moves. Electric-types such as Zapdos and Raikou can hit Slowbro hard with STAB Thunderbolt.</p>

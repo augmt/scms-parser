@@ -1,0 +1,32 @@
+[Overview]
+
+<p>Manectric is an above average UU, and very underrated by many. However, when you compare it to Electabuzz, it's just entirely outclassed. Stat-wise, it has 5 more base HP and 3 more base Defense at the cost of 25 base Special Defense, and considering that the only Pokemon I'd really be switching either of them into are weakened enemy Electric- and Water-types, Special Defense is more important. In terms of movepool, Crunch is Manectric's only real advantage, whereas Electabuzz has Cross Chop, Fire Punch, Ice Punch, and Psychic.</p>
+
+[SET]
+name: Special Sweeper
+move 1: Thunderbolt
+move 2: Substitute
+move 3: Crunch
+move 4: Hidden Power Ice / Hidden Power Grass
+item: Petaya Berry
+ability: Static
+nature: Timid
+evs: 44 HP / 248 SpA / 216 Spe
+
+[SET COMMENTS]
+
+<p>This set is fairly self explanatory. You want to have your HP divisible by 4 so you only need three Substitutes to reach 25%, and when you do, Petaya Berry activates. Proceed to sweep with boosted Special Attack and a nice Speed to boot. Thunderbolt almost everything in sight, Crunch is for Pokemon such as Hypno and Grumpig that can usually wall you if you don't have a super effective attack. The choice of Hidden Power can be a tad tough though. Hidden Power Grass is so you don't get totally walled by Lanturn and Quagsire, and so you can use it on Golem. Hidden Power Ice will hit Gligar however, and now it doesn't get walled by Meganium and other Grass Pokemon. Hidden Power Water hits Gligar harder than Crunch, but not as hard as Hidden Power Ice, as well as being your best bet against Camerupt.</p>
+
+[Other Options]
+
+<p>Rain Dance in combination with Thunder isn't a recommended strategy but you never know. Thunder Wave to help your team out a bit, but it won't be very effective considering Lanturn, Quagsire, or Meganium are going to be the most common switch-ins, Thief is a novelty option as well, but it could work in cases such as when you want to disable a Pokemon by removing their Leftovers. These options should mostly replace Crunch, because it's not going to be hitting Grumpig and the like much harder than Thunderbolt, anyway.</p>
+
+[EVs]
+
+<p>The EVs mentioned with the moveset allow you to get 330 Speed, which is a nice Speed to be at in UU considering that there are a lot of Pokemon in the 328-9 region. Instead of maxing Special Attack, by taking 8 EVs from it and moving it into the leftover EVs you got from setting the Speed below its maximum, you achieve a HP that is divisible by four which is very nice to activate your Petaya after 3 Substitutes instead of 4, so you might survive some random Quick Attacks, but being able to Substitute 4 times can also be useful.</p>
+
+<p>The IVs given are for Hidden Power Ice. Hidden Power Water should use 30 Attack, 30 Defense, and 30 Special Attack, with 31 everywhere else.</p>
+
+[Checks and Counters]
+
+<p>Lanturn can often eat a few Hidden Power Grasses and deal Surfs in return. Meganium takes around 2 Hidden Power Ices, and with Light Screen, even more. Quagsire can counter it only if Manectric's Hidden Power isn't Grass. Hypno and Grumpig are listed due to having a great Special Defense, and although they can't take a large amount of Crunches (especially if Special Defense drops occur), they sure won't go down without a fight.</p>

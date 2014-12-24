@@ -1,0 +1,51 @@
+Overview
+########
+
+Sawsbuck is an interesting Pokemon in NU thanks to its unique STAB combination, which is only resisted by Steel-types, which Sawsbuck can deal with using Jump Kick. Its base 100 Attack is good enough to deal some serious damage after a Swords Dance boost, and its base 95 Speed allows it to outspeed and beat a fair amount of the metagame. It has two great abilities, Sap Sipper and Chlorophyll, the former giving it an Attack boost if hit by a Grass-type attack, and the latter doubling its Speed under the sun. Sadly, it is relatively frail and easy to revenge kill unless it is running the rare Chlorophyll and is under sun. Also, it faces competition from other Grass-types in NU, Sceptile being much faster and Leafeon being stronger and bulkier. However, its unique traits give it a solid niche over these Grass-types, making it a solid choice in the NU metagame.
+
+Swords Dance
+########
+name: Swords Dance
+move 1: Swords Dance
+move 2: Double-Edge
+move 3: Horn Leech
+move 4: Jump Kick / Substitute / Baton Pass
+ability: Sap Sipper
+item: Life Orb
+evs: 252 Atk / 4 SpD / 252 Spe
+nature: Jolly
+
+Moves
+========
+
+Swords Dance is the most important move on this set, doubling Sawsbuck's Attack so that it can sweep. Double-Edge is Sawsbuck's most powerful STAB move, severely damaging anything that doesn't resist it after a boost, and is preferred over Return for the extra power it grants that allows Sawsbuck to achieve a few more KOs. Horn Leech is Sawsbuck's most powerful Grass-type STAB move and recovers damage taken from Life Orb and Double-Edge recoil. Jump Kick is recommended in the last slot for its ability to smash Steel-types such as Ferroseed, Klinklang, and Steelix. However, Substitute can be used to avoid status and revenge killers, and thanks to Sawsbuck's unique typing, it allows Sawsbuck to set up on the likes of Seismitoad and Gourgeist more easily. Finally, Baton Pass is an option to pass on the Sap Sipper or Swords Dance boosts to a teammate, either to support them immediately or to switch once Sawsbuck runs into something it can't beat.
+
+Set Details
+========
+
+A Jolly nature is important to avoid being outsped by Jolly Zangoose and Sawk. Life Orb is needed for the extra boost in power as Sawsbuck is somewhat weak without it. Although it does cause recoil, it is mitigated by the recovery granted by Horn Leech, though this isn't very reliable. Sap Sipper is the chosen ability for the immunity to Grass-type moves, giving Sawsbuck more opportunities to switch in and the occasional boost in Attack.
+
+Usage Tips
+========
+
+Because of its weakness to revenge killing, Sawsbuck is best played as an early-game wallbreaker or as a late-game sweeper after all of its counters have been removed. The best thing to do is to set up on Pokemon Sawsbuck can force out, such as Seismitoad and Rhydon, then proceed to sweep. Keep in mind that Sawsbuck won't be alive too long due to recoil from Life Orb and Double-Edge and the potential miss from Jump Kick, although Horn Leech mitigates this somewhat.
+
+Team Options
+========
+
+Sawsbuck appreciates Stealth Rock support, which allows it to KO Vileplume, Garbodor, Uxie, and many other Pokemon. Rhydon, Seismitoad, and Golem are all good setters of Stealth Rock and can bait in Grass-type moves to activate Sap Sipper. Spikes are also nice to achieve a good chance of a KO on Ferroseed and Qwilfish. Accelgor makes for a good partner, as it can set up Spikes and hurt Grass-types, which annoy Sawsbuck. Because Sawsbuck hates status, particularly paralysis and burns from Thunder Wave and Will-O-Wisp, Ground-, Electric-, and Fire-types make for good partners, as they can switch in on those moves. Likewise, Heal Bell or Aromatherapy support or Healing Wish support is also useful.
+
+Other Options
+########
+
+Sawsbuck can be used on a sun team because of its access to Chlorophyll, but manual weather teams can often be tough to use because of the need to constantly reset the weather. A Choice Scarf set seems like a good idea to take advantage of Sawsbuck's high Speed, but it is rather weak. A full Baton Pass or even just a Substitute + Baton Pass set seems like a cool idea, but Sawsbuck often has better things to be doing. A SubSeed set also seems cool, but Sawsbuck has no way to beat Grass-types outside of a boosted Double-Edge or Megahorn, which isn't that great as many Grass-types are also Poison-type. A Double Dance set with Agility and Swords Dance could be used, but Sawsbuck really enjoys the utility of Substitute or the coverage of Jump Kick. Finally, Megahorn and Wild Charge are niche options to cover specific Pokemon, but it is often better to just run Sawsbuck's normal set.
+
+Checks & Counters
+########
+**Very Bulky Walls**: Tangela and Steelix can take any unboosted attack and either hit Sawsbuck back hard or phaze it.
+
+**Gourgeist**: Gourgeist takes little from Sawsbuck's moves and can burn it with Will-O-Wisp. Despite this, it must watch out for Substitute variants if not running a move that can damage Sawsbuck.
+
+**Revenge Killers**: Though it is hard to wall after a Swords Dance, Sawsbuck is easy to revenge kill. Typhlosion, Pyroar, Accelgor, Swellow, and Cryogonal can all outspeed and KO Sawsbuck with ease.
+
+**Priority**: Priority such as Gurdurr's Mach Punch or Piloswine's Ice Shard can put a stop to Sawsbuck after a bit of prior damage.

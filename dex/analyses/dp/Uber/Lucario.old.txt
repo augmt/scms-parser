@@ -1,0 +1,123 @@
+[Overview]
+
+<p>Do not be fooled by Lucario's seemingly underwhelming base 110 Attack (by Uber standards). Thanks to access to moves such as Swords Dance and Close Combat, Lucario is fully capable of smashing through Uber teams. Additionally, Lucario has a superb defensive typing that gives it a Dragon-type resistance, a 4x resistance to Dark-type attacks and Stealth Rock, as well as an immunity to Toxic Spikes.</p>
+
+<p>Lucario's potent offenses, however, is offset by middling Speed and rather meager defenses, which are rendered even weaker in the immensely threatening Uber environment. Extreme Speed largely compensates for the former. The latter, however, can be worked around only by playing to Lucario's resistances or by placing a Wobbuffet on your team to provide support. Furthermore, in order to assure that the sweeping sets are not taken down prematurely, Lucario should either weaken its counters early with Close Combat or be provided with sufficient entry hazard support. Follow these guidelines, and Lucario can certainly crush teams with its mighty Close Combat!</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Close Combat
+move 3: Extreme Speed
+move 4: Crunch
+item: Life Orb
+ability: Inner Focus
+nature: Jolly / Adamant
+evs: 252 Atk / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>Notorious for its sweeping capabilities in OU, Swords Dance Lucario is capable of being a potent late-game sweeper in the Uber metagame as well. While at first glance Lucario may look like an inferior Rayquaza, Lucario's access to Close Combat and excellent typing ensure that it's not outclassed.</p>
+
+<p>After one Swords Dance, Close Combat will deal an obscene amount of damage; even the most defensive of Kyogre will almost always be OHKOed after Stealth Rock damage, while Jolly Lucario has a high chance of OHKOing the less bulky offensive Groudon after Stealth Rock damage. While Lucario's Extreme Speed is much weaker than Rayquaza's, it's still very useful for its ability to allow Lucario to sweep through weakened teams, and can allow Lucario to revenge kill in emergencies. Finally, Crunch is necessary for Swords Dance Lucario due to its ability to OHKO minimum HP Giratina-O after Stealth Rock damage, and deal a huge amount of damage to Wobbuffet.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The decision between Jolly or Adamant on Swords Dance Lucario can be difficult. The main reason to run Jolly is to always outspeed Naive Giratina-O that use Hidden Power Fire, so it is unable to stop Lucario's sweep unless it is in the KO range of Shadow Sneak. On the other hand, Adamant clinches several important KOs over Jolly. To help you decide on the nature, a table comparing damage calculations is included below. All calculations assume that Lucario has used Swords Dance once.</p>
+
+<ul class="damage_calculation">
+<li>Jolly Close Combat vs. 112/8 Groudon: 91.3% - 107.6%</li>
+<li>Jolly Close Combat vs. 252/252+ Impish Groudon: 63.4% - 75%</li>
+<li>Jolly Extreme Speed vs. 4/0 Darkrai: 78.3% - 92.2%</li>
+<li>Jolly Extreme Speed vs. 4/0 Mewtwo: 62.4% - 73.4%</li>
+<li>Jolly Extreme Speed vs. 4/0 Palkia: 62.4% - 73.6%</li>
+<li>Jolly Extreme Speed vs. 4/0- Palkia: 70.1% - 82.6%</li>
+<li>Jolly Extreme Speed vs. 4/0 Kyogre: 64.6% - 76%</li>
+<li>Jolly Extreme Speed vs. 0/4 Rayquaza: 62.4% - 73.5%</li>
+<li>Jolly Extreme Speed vs. 4/0 Shaymin-S: 74.6% - 88%</li>
+<li>Jolly Extreme Speed vs. 4/0 Latios: 80.7% - 95%</li>
+<li>Jolly Extreme Speed vs. 112/0 Latias: 67.2% - 79%</li>
+<li>Jolly Crunch vs. 28/252+ Wobbuffet: 76.1% - 89.8%</li>
+<li>Jolly Crunch vs. 0/0 Giratina-O: 91.2% - 107.5%</li>
+<li>Jolly Crunch vs. 96/0 Giratina-O: 87% - 102.6%</li>
+<li>Adamant Close Combat vs. 112/8 Groudon: 99.5% - 117.3%</li>
+<li>Adamant Close Combat vs. 252/252+ Impish Groudon: 69.8% - 82.4%</li>
+<li>Adamant Extreme Speed vs. 4/0 Darkrai: 85.4% - 100.7%</li>
+<li>Adamant Extreme Speed vs. 4/0 Mewtwo: 68.1% - 80.2%</li>
+<li>Adamant Extreme Speed vs. 4/0 Palkia: 68.6% - 81.1%</li>
+<li>Adamant Extreme Speed vs. 4/0- Palkia: 76.3% - 90%</li>
+<li>Adamant Extreme Speed vs. 4/0 Kyogre: 70.5% - 83%</li>
+<li>Adamant Extreme Speed vs. 0/4 Rayquaza: 68.4% - 80.6%</li>
+<li>Adamant Extreme Speed vs. 4/0 Shaymin-S: 81.9% - 96.5%</li>
+<li>Adamant Extreme Speed vs. 4/0 Latios: 88.4% - 104.3%</li>
+<li>Adamant Extreme Speed vs. 112/0 Latias: 73.3% - 86.3%</li>
+<li>Adamant Crunch vs. 28/252+ Wobbuffet: 83.7% - 98.9%</li>
+<li>Adamant Crunch vs. 0/0 Giratina-O: 100.2% - 118.4%</li>
+<li>Adamant Crunch vs. 96/0 Giratina-O: 95.7% - 113%</li>
+</ul>
+
+<p>Unlike Rayquaza, Lucario can be used early in the game thanks to its 4x resistance to Stealth Rock (making switching in and out far less punishing). Generally, the best way to play Lucario early in the game is to use Close Combat without boosting, as this will wear down many of Lucario's checks. For example, if a Palkia switches into Close Combat, it will take such a massive amount of damage that it will be in the KO range of Extreme Speed! In a similar manner, Garchomp, Rayquaza, Latias, Latios, and most Mewtwo will no longer be able to take a +2 Extreme Speed after switching into Close Combat once. With entry hazard support, Close Combat will often put defensive Groudon into the KO range of a +2 Close Combat. Finally, Lucario will OHKO any Choice Scarf Dialga that dares to switch in. If Giratina-O is a concern, usually due to choosing Adamant, using Crunch on the switch can also be acceptable.</p>
+
+<p>This particular set has several problems. If it is at full health, Garchomp (and Palkia to a lesser extent) will be able to switch in on a Swords Dance and threaten to OHKO it. Choice Scarf users such as Dialga, Heatran, Tyranitar, and Metagross can also switch into Lucario as it uses Swords Dance, and OHKO Lucario with Fire-type or Ground-type attacks. Finally, if Rayquaza switches in at full health, it will usually be able to barely survive a boosted Extreme Speed after Stealth Rock damage (though Life Orb recoil will usually KO it in return) and OHKO Lucario with Earthquake or Fire Blast.</p>
+
+<p>Wobbuffet makes a superb partner for Lucario, as it can revenge kill most of the Choice Scarf users that give Lucario trouble. Thunder Wave Kyogre is an excellent Palkia and Latias lure, can defeat Heatran, and otherwise provide useful paralysis support that can improve Lucario's chances to successfully sweep. Latias and Latios can switch into the Fire-, Water-, Electric-, and Ground-type attacks that are aimed at Lucario and either set-up or attack. In a similar manner, Garchomp can switch into the Fire-type attacks that Heatran, Rayquaza, Palkia, and Dialga may aim at Lucario and threaten to KO in response.</p>
+
+[SET]
+name: Agility
+move 1: Agility
+move 2: Close Combat
+move 3: Crunch
+move 4: Ice Punch / Stone Edge
+item: Life Orb
+ability: Inner Focus
+nature: Adamant
+evs: 252 Atk / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>This set plays very similarly to Rock Polish Groudon. While Lucario's Close Combats are just a bit less powerful than Groudon's Earthquakes, Lucario's brilliant typing once again ensures that Lucario is not outclassed. The most notable advantages are Ice- and Dragon-type resistances and immunity to Toxic Spikes.</p>
+
+<p>After one use of Agility, Lucario will reach a Speed stat of 558, allowing it to outspeed neutral-natured Choice Scarf Mewtwo. Close Combat is once again Lucario's sweeping move of choice as it easily OHKOs Dialga and Darkrai, and OHKOs Hasty Palkia 87% of the time after Stealth Rock damage. If you have Stealth Rock and Spikes support, Lucario's Close Combat will even be able to OHKO Timid Palkia and minimum HP Kyogre! Crunch is your main tool against the many Psychic-types that infest the Uber metagame. Latios is always OHKOed by Crunch after Stealth Rock damage, while most variants of Latias, Mewtwo, Wobbuffet, and Giratina-O are 2HKOed (very defensive Mewtwo, Bold 28 / 228 Wobbuffet, and defensive Giratina-o may survive). Ice Punch is usually the best choice in the last slot as it allows Lucario to OHKO Shaymin-S, Rayquaza, and Garchomp. If your team has few problems with Garchomp, you can use Stone Edge which will still OHKO Rayquaza and Shaymin-S after Stealth Rock damage and will OHKO Ho-Oh, who will be a problem when using Ice Punch.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>This Lucario will have serious problems sweeping if Wobbuffet is alive. While Crunch will 2HKO Wobbuffet, it can use Counter to revenge kill Lucario. In a similar manner, Giratina-O will always survive one Crunch and can weaken Lucario with Draco Meteor and Shadow Sneak or even KO with Hidden Power Fire (in the sun) followed by Shadow Sneak. Maximum HP Kyogre can survive a Close Combat at full health (although it will have a 33% chance of being OHKOed if Stealth Rock and Spikes are on the battlefield), and then threaten to OHKO Lucario with Surf. While Specially Defensive Skarmory is 2HKOed by Close Combat, it is able to stall out Close Combat's PP due to Roost. As mentioned before, without Stone Edge, Lucario will never 2HKO Ho-Oh while it can easily OHKO Lucario with Sacred Fire. Positive-natured Choice Scarf users such as Darkrai, Shaymin-S, and Mewtwo can outspeed Lucario even after an Agility and OHKO it. Finally, unlike Swords Dance Lucario, every type of Groudon will give this set problems.</p>
+
+<p>Wobbuffet is unfortunately impossible to counter. A good way of knocking it into Lucario's KO range is to lure in Wobbuffet with mixed attackers that commonly carry Choice Scarf (such as Palkia and Dialga). Offensive Lugia can also be used to lure in and 2HKO Wobbuffet with a Calm Mind-boosted Aeroblast. You can also bluff a Haban Garchomp as a Choice Scarf Garchomp and use Swords Dance as Wobbuffet attempts to Counter. A Wobbuffet of your own can defeat Choice Scarf Shaymin-S and Choice Scarf Mewtwo and can help Lucario find time to set up. Ho-Oh is almost impossible to counter; thus it's best to simply team up Lucario with users of Stone Edge to deal with Ho-Oh. Latias and Latios can usually handle Kyogre, take Choice Scarf Darkrai's Focus Blasts, and switch into Groudon's Earthquakes. Mixed Bulk Up Dialga makes a superb Skarmory and Groudon lure by baiting them with Bulk Up, and then smashing them with Fire Blast and Draco Meteor respectively. Dialga is also capable of defeating Giratina-O if it uses a Hasty nature.</p>
+
+[SET]
+name: Attacking Lead
+move 1: Close Combat
+move 2: Extreme Speed
+move 3: Payback
+move 4: Ice Punch / Swords Dance / Counter
+item: Focus Sash
+ability: Inner Focus
+nature: Adamant
+evs: 252 Atk / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>When equipped with a Focus Sash, Lucario can defeat several prominent leads in the Uber metagame. While Payback may seem like a strange choice, it's a very important move in this set because it allows Lucario to defeat Deoxys-S leads. Payback will put even maximum HP Deoxys-S into the KO range of Extreme Speed, limiting it to setting up only one entry hazard. Close Combat is once again Lucario's most powerful option. It always 2HKOes lead Kyogre and Dialga, neither of whom can OHKO thanks to Focus Sash. Due to Lucario's immunity to sandstorm, it will defeat any kind of Tyranitar lead with ease. When up against Deoxys-A, Lucario will usually lose to a combination of Superpower and Extreme Speed but will at least be able to break its Focus Sash. If Deoxys-A lacks Superpower or uses Stealth Rock on the first turn, Lucario will usually be able to defeat it with two Extreme Speeds.</p>
+
+<p>Several appealing options are available for Lucario's last move. Ice Punch is one of the best options, as Shaymin-S will be unable to flinch you thanks to Inner Focus while Lucario can OHKO in response. Ice Punch will also defeat Rayquaza leads that lack Focus Sash. Swords Dance can be useful if you predict a switch from your opponent, and it often allows Lucario to deal a massive amount of damage to at least one Pokemon on the team. Swords Dance is also useful in case the opponent's team is ever weak enough to be swept. Finally, if you predict that a Groudon lead will use Stealth Rock, Swords Dance allows you to 2HKO Groudon with Close Combat. If you are confident in your prediction skills, Counter can be used to gain a surprise kill on enemy Groudon.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Depending on your choice, Lucario will face different problems. Without Ice Punch, Shaymin-S and Rayquaza will defeat you. Regardless of what moves you choose, lead Giratina-O will always defeat you since Ice Punch cannot 2HKO it (although it will deal a significant amount of damage). Against Groudon, unless Lucario uses Swords Dance and Groudon uses Stealth Rock, Lucario has no chance of KOing it without a critical hit.</p>
+
+<p>Latias makes a superb teammate for lead Lucario, it can take all of Shaymin-S's attacks as long as Air Slash does not flinch too many times and deal a massive amount of damage with Dragon Pulse. Latias is also capable of switching into Rayquaza's and Giratina-O's Fire-type attacks and can OHKO both of them with Dragon Pulse (be warned though, as some lead Rayquaza have Focus Sash). Although they share weaknesses, Heatran is the best check to most lead Giratina-O. Heatran can also handle lead Rayquaza that lack Brick Break. Tyranitar checks Giratina-O well and can Pursuit it if it tries to escape. RestTalk Kyogre can defeat Darkrai leads and, with some defensive investment, can also defeat most Groudon leads. In a similar manner, Bulk Up Dialga can absorb Darkrai's Dark Void and can also defeat Giratina-O one-on-one. Levitate Bronzong can be a good partner due to its immunity to Shaymin-S's and Groudon's Ground-type attacks and its ability to set up Stealth Rock.</p>
+
+[Other Options]
+
+<p>With a Choice Band, Lucario's Close Combats are so powerful that they can OHKO Palkia and minimum HP Kyogre after Stealth Rock damage. However, Choice Band Lucario can easily be picked off by Wobbuffet if it is locked into Close Combat and generally does better with a Life Orb. Choice Specs Lucario is notable for its ability to 2HKO Groudon with Aura Sphere but is otherwise unremarkable by Uber standards. At first glance, a Calm Mind set with Life Orb may seem appealing due to its ability to 2HKO Blissey, but its generally outclassed by Swords Dance Lucario. Metal Sound allows Lucario to OHKO Groudon with Aura Sphere, but Lucario's lackluster defenses make it difficult to constantly use Metal Sound. Lucario is fully capable of using Substitute and Salac Berry on a Swords Dance set to defeat Giratina that lack Roar although it will greatly miss the added damage from Life Orb. In a similar manner, Agility Lucario can use Substitute and a Liechi Berry. A Reversal set may seem appealing as well with Substitute or Endure; priority attacks, however, ruin its effectiveness.</p>
+
+<p>If you are wary about the defense drops of Close Combat, Lucario can opt to use Low Kick, as many Ubers are heavy enough to be hit by the full 120 Base Power of the move, but it comes with the drawback that many lightweight Pokemon such as Jirachi and Manaphy will take piddling damage from it. Blaze Kick is a decent move on non-Swords Dance Lucario if you're desperate to OHKO Scizor and Forretress and 2HKO Skarmory, but those KOs come only in the sun and the move does little else. Lucario can run Magnet Rise to try setting up on some Groudon but must give up Extreme Speed or Crunch, and Groudon will still win if it has Thunder Wave, Roar, or a Fire-type attack. Reversal is a reasonable option over Close Combat on the lead set, since Lucario is often left at 1 HP but will only outperform Close Combat if Lucario is left with less than 9% of its maximum HP. Copycat is very situational but can be useful on the lead set. It may allow you to set up Stealth Rock and/or Spikes on Skarmory, Forretress (though it may Rapid Spin), and Deoxys-S (until it Taunts you).</p>
+
+[Checks and Counters]
+
+<p>Generally, Lucario's biggest counters in Ubers are very physically bulky Pokemon that can either OHKO, cripple, or phaze it. Defensive Groudon is the premier example as it is never OHKOed by a +2 Close Combat while it easily OHKOes in response with Earthquake. Lugia outspeeds, puts a Reflect up, and can Whirlwind Lucario away before it does much damage, and Giratina can cripple it with Will-O-Wisp.</p>
+
+<p>Garchomp defeats the Swords Dance set so long as it doesn't switch into Close Combat, but will falter against Agility Lucario with Ice Punch. Mewtwo is bulky enough to survive a +2 Extreme Speed after Stealth Rock and Spikes most of the time, and then OHKO Lucario with Aura Sphere. Rayquaza, while KOed by a +2 Extreme Speed after Stealth Rock and Life Orb recoil, can sacrifice itself to defeat Lucario. Salamence, although uncommon, has an easier time handling Swords Dance Lucario than Rayquaza thanks to Intimidate. Choice Scarf users that resist Extreme Speed such as Dialga, Tyranitar, Metagross, and Heatran can revenge kill Swords Dance Lucario without any difficulty, but struggle if they switch into Close Combat or face Agility Lucario. Gengar in particular can switch into both Close Combat and Extreme Speed and threaten to OHKO Lucario with Focus Blast or Hidden Power Fire in the sun.</p>
+
+<p>As for Agility Lucario, healthy Wobbuffet (>50% max HP), Groudon, and Giratina-O can easily revenge kill the Agility set, and Skarmory can attempt to outstall it with Roost. Extremely fast Choice Scarf users such as Darkrai, Shaymin-S, and Mewtwo will outspeed and OHKO it even after the Agility.</p>

@@ -1,0 +1,69 @@
+[Overview]
+
+<p>Dusclops, a potent ADV generation wall that was forced into obscurity in DPP by its evolution Dusknoir, now has a chance for a comeback in BW. The reason is the new item Eviolite, which boosts Dusclops's great base 130 defensive stats by 50%--in fact, it's one of the best users found so far. Its base 40 HP stat might look abysmal, but with Dusclops's Eviolite-boosted defenses, it's enough to take a lot of hits rather well. Dusclops's defensive capabilities are buffed even further by its great mono-Ghost typing, which gives it immunity to Normal- and more importantly Fighting-type moves, and its stalling abilities are also impressive thanks to Pressure. Still don't mistake it for Dusknoir; in contrast, Dusclops's offenses are very poor, so it relies on Night Shade or Seismic Toss most of the time to deal reliable damage to the opponent's team.</p>
+
+[SET]
+name: Defensive
+move 1: Pain Split
+move 2: Will-O-Wisp
+move 3: Night Shade
+move 4: Ice Beam / Taunt
+item: Eviolite
+nature: Calm
+evs: 252 HP / 80 Def / 176 SpD
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>With the given EVs and the Eviolite boost, Dusclops hits defensive stats of 284 HP, 474 Defense, and 561 Special Defense, which is nothing to laugh at. Its sky-high defenses and low health make Pain Split a great recovery move, while Will-O-Wisp effectively doubles its overall physical Defense and cripples opposing physical attackers, which are more common in this metagame. Night Shade is Dusclops's main attacking option, consistently dealing 100 HP of damage to everything, barring Normal-types. However, most common Normal-types, such as Blissey and Snorlax, have too much HP to be damaged significantly anyways. It's more important for Dusclops to hit the likes of Gengar, so Seismic Toss is the less favorable option.</p>
+
+<p>In the last slot, Ice Beam is viable to hit anything that is 4x weak to it for more damage than Night Shade. Gliscor, Landorus, and Salamence are all 2HKOed comfortably, although Latios takes more from Night Shade, as does Dragonite when using Roost or with Multiscale active. Taunt shuts down Ferrothorn and Forretress completely, and also prevents the likes of Conkeldurr and Scizor from setting up. If using Taunt, it's recommended to run 31 Speed IVs. Generally, however, it is better to have 0 IVs, since Dusclops is one of the slowest Pokemon around anyway, and it helps to ensure that Dusclops is slower than anything but Ferrothorn, leaving Payback at 50 Base Power, and making Pain Split more effective.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Dusclops's Ghost typing not only makes it an effective, defensively orientated Pokemon, but also lets it work as one of the best spinblockers in BW. Even without a resistance to Dragon, the given EVs give Dusclops the ability to survive 2 consecutive Draco Meteors from Choice Specs Latios at full health, even factoring in Stealth Rock damage. On the physical side, a +2 Bullet Punch from max Attack Scizor is just a 3HKO at best. Although the EVs are meant to let Dusclops take hits from both sides, the EVs can be adjusted to help deal with certain moves and threats.</p>
+
+<p>In the last slot, Dusclops can use a lot of other things. Toxic can wear down other walls in conjunction with Night Shade. Confuse Ray might look unreliable at first glance, but it can give Dusclops some free turns. Disable stops the opponent from using its most powerful move against Dusclops, often rendering it useless. Torment works similarly but just buys a bit of time usually.</p>
+
+<p>Heal Bell and Aromatherapy are useful when supporting Dusclops, as it is rather vulnerable to Toxic. Wish is very helpful as well, and thanks to Dusclops's low base HP, will almost always recover most of its health.</p>
+
+[SET]
+name: RestTalk
+move 1: Rest
+move 2: Sleep Talk
+move 3: Night Shade
+move 4: Will-O-Wisp / Toxic
+item: Eviolite
+nature: Calm
+evs: 252 HP / 80 Def / 176 SpD
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>There's not much that can actually 2HKO Dusclops, and there are not many more Pokemon that actually find a way around a Sleep Talking variant. With little to no effort, Dusclops can easily take up to two attacks before waking up, and using Rest again. Without a set-up move, the opponent is most likely absolutely walled by this set, unless the opponent gets some lucky critical hits or uses some really, really powerful and super effective moves. Because of the new sleep mechanics, Rest has become almost useless to most Pokemon, but Dusclops still makes good use of it, giving it an alternative recovery move to Pain Split.</p>
+
+<p>Again, Night Shade is Dusclops's best offensive option, dealing consistent damage to almost everything. In the last slot, either of two status moves can be used. Will-O-Wisp shuts down any physical attacker, making it much harder to take out Dusclops from the physical side. Toxic takes care of anything bulkier, except Reuniclus, so that Dusclops can win most stall wars.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>With Rest at its disposal, Dusclops can get rid of one of its biggest weak points: being vulnerable to Toxic. Recovering back all health in one shot is something that the opponent doesn't expect either, as Pain Split is a more common way to get back some health. Not only that, but its ability Pressure comes into play in tandem with RestTalk as well, which makes it even harder to stop, as the opponent will run out of PP quite quickly.</p>
+
+<p>When using Dusclops you will need to watch out for opponents with setup moves. A Pokemon with Swords Dance is no big deal when running Will-O-Wisp, but Nasty Plot and Calm Mind sweepers might turn out to be extremely dangerous. Reuniclus especially has an easy time setting up on any Dusclops, so it's recommended to bring a phazer or something that can actually beat it, such as Scizor with Bug Bite. A secondary attacking move on Dusclops like Ice Beam or Shadow Ball can be used, but those moves generally do less damage than Night Shade if they're not 4x effective.</p>
+
+[Other Options]
+
+<p>Any Dusclops can run focused EV spreads, when you need something to sponge attacks from a particular side. 252 HP / 252 Def with a Bold nature and 252 HP / 252 SpD with a Calm nature are both viable.</p>
+
+<p>Dusclops has quite a few options, though most of them are of limited use. Shadow Sneak and Sucker Punch are its priority options, which might help, considering its low base Speed and the chance to revenge kill some Pokemon at low health. Other attacking options are Hex, Payback, Pursuit, Shadow Punch, and Counter. Dusclops also sports a nice number of support moves, including Trick Room, Curse, Imprison, Mean Look, and Gravity to name the most interesting ones. Gravity might work especially well, boosting Will-O-Wisp's accuracy to 100%, providing a somewhat accurate Dynamic Punch and allowing Earthquake to hit everything. If you want to hit Normal-types over Ghost-types, feel free to swap Night Shade for Seismic Toss.</p>
+
+<p>Even though Dusclops's offensive stats are below average, it can still make good use of its movepool, which includes Earthquake and all the elemental punches on the physical side and Shadow Ball, Hex, Psychic, Dark Pulse, and Hidden Power alongside Calm Mind on the special side. Keep in mind that Dusknoir completely outclasses it in terms of offense. Also, if you can't hit the opponent with a 4x effective move, Night Shade usually will do more damage.</p>
+
+[Checks and Counters]
+
+<p>Dusclops generally has problems dealing with anything running Taunt, because it relies on its status moves against most Pokemon. Dusclops is mostly used as setup fodder, so Taunt is needed to avoid finding yourself in that position. Passive damage also causes major problems; without Leftovers recovery, Dusclops finds itself in a really bad position, when it has to battle in sandstorm, or hail, or while Leech Seeded.</p>
+
+<p>Pokemon with base 100 HP and more can almost freely set up Substitute on Dusclops, as it cannot manage to beat these Substitutes within one attack. Even without Substitute, Reuniclus causes massive problems for Dusclops. High base HP, Magic Guard to nullify damage from Will-O-Wisp and Toxic, a reliable recovery move, and a set-up move in Calm Mind is everything that counters Dusclops in a single Pokemon.</p>
+
+<p>Conkeldurr is problematic, because not only does it boast a great HP stat, but it can also freely switch into Will-O-Wisp or Toxic and abuse its Guts ability. After one Bulk Up and a Guts boost, 50 Base Power Payback is able to 2HKO Dusclops. Confuse Ray doesn't activate Guts though, so you can beat it if you're lucky. Additionally, both Mach Punch and Drain Punch won't do anything to Dusclops, thanks to its Ghost typing.</p>
+
+<p>Dusclops's defensive capabilities are through the roof, but even for Dusclops, there's no way to stand up to the most powerful Dark- and Ghost-type attacks, when they get boosted by STAB and maybe Life Orb or Choice Specs. Prime examples are Gengar's Shadow Ball and Zoroark's Night Daze.</p>

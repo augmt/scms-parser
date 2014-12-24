@@ -1,0 +1,56 @@
+[Overview]
+
+<p>There are three things about Beheeyem that fit together that should pique your interest upon immediate inspection of this kooky alien. First, its gigantic base 125 Special Attack. Second, its incredibly low Speed. And third, its ability Analytic. When combined with an item like Life Orb, Beheeyem's damage output is near-insanity. To make the most out of this power and its stat spread, Beheeyem will almost always employ an offensive Trick Room sweeper set, which flips the tables on a huge portion of RU teams and lets Beheeyem sweep quite handily. Beheeyem will also sometimes be seen simply wielding a Choice Specs to make the absolute most of its power. Outside of these roles though, Beheeyem is totally outclassed by the multitude of other Psychic-types that reside in RU, particularly Uxie, Mesprit, Sigilyph, and to a lesser extent Gardevoir.</p>
+
+[SET]
+name: Trick Room
+move 1: Trick Room
+move 2: Psychic / Psyshock
+move 3: Thunderbolt
+move 4: Substitute / Hidden Power Fighting
+item: Life Orb
+ability: Analytic
+nature: Quiet
+evs: 252 HP / 252 SpA / 4 SpD
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>The idea with this set is simple: get Beheeyem in late-game, set up Trick Room, and proceed to destroy all that stand before you. Beheeyem has a lot of options at its disposal, but it can only have so many on its set at a time, so your team needs to patch up the holes that Beheeyem will miss in its coverage. Psychic is the main STAB option since it blasts through many of the more physically defensive-inclined Pokemon in RU, particularly Tangrowth, Amoonguss, Crustle, Rhydon, and Feraligatr. Psyshock is also viable and hits Cryogonal, Clefable, Gallade, Hitmonchan, Hitmonlee, and Lilligant significantly harder. Thunderbolt gets fantastic coverage when paired with Psychic-type STAB, nailing Mandibuzz, Slowking, and Crawdaunt for super effective damage and getting a nice hit on Drapion, Spiritomb, and Absol. In the last slot, Substitute is preferred to let Beheeyem dodge Sucker Punches and block status. However, Hidden Power Fighting is an option as well to blast Steelix and other Steel-types, as well as get a super effective hit on Absol.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Drop Beheeyem's Speed down as low as possible to outspeed everything in Trick Room, and nothing out of it to get the Analytic boost. Nasty Plot is about the only move not talked about so far that has a place on the set, though Beheeyem wants as much time in Trick Room as possible, and it isn't the sturdiest of Pokemon to be able to waste turns of set up (it's cleanly 2HKOed by 0 Attack Steelix's Earthquake after Stealth Rock and Life Orb damage, meaning that it really can't set up on much of anything even with 252 HP EVs).</p>
+
+<p>Like Slowking, Beheeyem can be a standalone OTR sweeper partnered with something like Escavalier, offering way more power in place of bulk. Alternatively, Beheeyem can be used on a dedicated Trick Room team, where it isn't too bad as a sweeper and secondary setter. If using Substitute, using Magneton to get rid of Steel-types helps tremendously, and Magneton is a nice switch into Spiritomb, which otherwise completely blocks Beheeyem. Fire-types like Magmortar and Entei are also nice switches into Spiritomb to absorb Will-O-Wisp. Escavalier offers fantastic typing synergy with Beheeyem and works fantastically in Trick Room itself, destroying Spiritomb, Drapion, and Absol, which are all major threats to Beheeyem.</p>
+
+<p>Trick Room lead Smeargle is a cool teammate as well since it's played super aggressively, will probably put an opponent to sleep, and will suicide, allowing Beheeyem to come in for free and start blasting stuff. Protection from priority from Entei and Kabutops is needed as well. Qwilfish stomps all over Entei and provides Spikes for Beheeyem as well. Tangrowth and Ferroseed are awesome answers to Kabutops, and the latter can provide Stealth Rock as well.</p>
+
+<p>Entry hazards in general are cool to support Beheeyem with. Here are some damage calculations to show the effectiveness of providing entry hazard support:</p>
+
+<ul class="damage_calculation">
+<li>Psychic vs 252/0 Tangrowth: 87.12 - 103.21% (guaranteed OHKO after Stealth Rock)</li>
+<li>Psychic vs 0/0 Magmortar: 73.53 - 86.94% (87.25% chance to OHKO after Stealth Rock)</li>
+<li>Psychic vs 0/0 Electivire: 89.69 - 105.84% (guaranteed OHKO after Stealth Rock)</li>
+<li>Psychic vs 0/0 Rotom-C: 79.66 - 94.19% (50% chance to OHKO after Stealth Rock)</li>
+<li>Thunderbolt vs 0/0 Absol: 89.66 - 105.53% (guaranteed OHKO after Stealth Rock)</li>
+<li>Thunderbolt vs 4/0 Durant: 99.61 - 117.44% (guaranteed OHKO after Stealth Rock)</li>
+<li>Psyshock vs 200/0 Gallade: 79.2 - 93.27% (81.25% chance to OHKO after Stealth Rock and Spikes)</li>
+<li>Psyshock vs 0/0 Lilligant: 91.84 - 108.15% (guaranteed OHKO after Stealth Rock)</li>
+<li>Psyshock vs 40/252 Lanturn: 49.62 - 58.6% (guaranteed 2HKO after Stealth Rock)</li>
+<li>Hidden Power Fighting vs 252/36 Steelix: 80.79 - 95.48% (68.75% chance to OHKO after Stealth Rock and Spikes)</li>
+</ul>
+
+<p>It should be noted that none of those calculations need hazards if Beheeyem is outside of Trick Room and the Analytic boost is added.</p>
+
+[Other Options]
+
+<p>Signal Beam is an option for a super effective hit on all of Absol, Crawdaunt, Tangrowth, Uxie, and Slowking in one move, but it's not as strong a hit on Drapion or Mandibuzz and other major threats such as Moltres, Omastar, and Sigilyph. In most cases, Psychic STAB + Thunderbolt grants Beheeyem the best possible coverage. Dark Pulse and Shadow Ball are other coverage options as well but are outclassed by Signal Beam and Hidden Power Fighting overall. One of the dual screens can be put in the last slot of the Trick Room sweeper and could possibly lengthen Beheeyem's sweep, but most of the time its better off simply firing off powerful hits.</p>
+
+<p>Choice Specs + Analytic grants Beheeyem truly terrifying power, but it's so slow and relatively frail that it's hard to get in and fire off an attack successfully (granted, when it happens something is likely going down). A Calm Mind set could be used since Beheeyem is decently specially bulky, but its Speed and physical frailty is an issue when compared to other Calm Mind users like Uxie and Mesprit. The rest of Beheeyem's support movepool is simply used better by the other Psychic-types in the tier.</p>
+
+[Checks and Counters]
+
+<p>Spiritomb is the best initial counter to Beheeyem. It's immune to Psychic and Hidden Power Fighting, is neutral to Thunderbolt, takes advantage of Trick Room itself, and does a major number on Beheeyem with Shadow Sneak, Sucker Punch, and Dark Pulse. Drapion is another good answer as it too is neutral to Thunderbolt and immune to Psychic and annihilates Beheeyem with Crunch. Absol and other Dark-types can work but Hidden Power Fighting and Thunderbolt are major threats. Slowking is a great answer to Beheeyem despite the weakness to Thunderbolt and can status Beheeyem or 2HKO it with Scald after Stealth Rock and Life Orb damage.</p>
+
+<p>Uxie and Mesprit are good checks to Beheeyem as they can stall out Trick Room turns and take little damage from Beheeyem's attacks. Steelix, Klinklang, Escavalier, and other Steel-types make good checks as well but should be wary of Beheeyem's coverage options. Sucker Punch, Extreme Speed Entei, and Aqua Jet Kabutops are great answers to Beheeyem under Trick Room if your team lacks any bulky check to it. There are actually a few options that can tank a hit from Beheeyem and OHKO back or status it such as Bouffalant, Druddigon, Lanturn, and Magneton. Finally, if Beheeyem is outside of Trick Room, don't beat around the bush, just hit it with whatever you got to weaken it.</p>

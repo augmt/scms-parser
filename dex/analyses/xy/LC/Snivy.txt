@@ -1,0 +1,60 @@
+Overview
+########
+
+Snivy has a decent typing and Speed stat for a dual screens lead. Being in the 17 Speed tier means it can use Taunt to shut down opposing leads such as Dwebble and Tirtouga, while also being able to set up dual screens fast. Snivy is also one of only three LC Pokemon with access to Glare, which cripples all Pokemon that aren't Electric-type. Snivy has additional utility in Knock Off and can hit hard with Leaf Storm. However, Snivy's relatively low defenses are unappealing, especially if it holds Light Clay, as it will have to forgo using Eviolite. Its typing can also prove problematic, as common attacks such as U-turn and Acrobatics hit it for super effective damage. Its offenses are low and its attacking movepool is limited, meaning it will struggle to use an offensive set, at least until its Hidden Ability Contrary is released.
+
+Dual Screens
+########
+name: Dual Screens
+move 1: Reflect
+move 2: Light Screen
+move 3: Taunt / Glare
+move 4: Leaf Storm / Knock Off
+ability: Overgrow
+item: Light Clay / Eviolite
+evs: 76 HP / 156 Def / 252 Spe
+nature: Timid / Jolly
+
+Moves
+========
+
+Reflect halves the damage done by physical moves for five turns (eight if using Light Clay), while Light Screen is a special version which neuters opposing special attackers; both make switching in and setting up easier for frail sweepers. Taunt makes Snivy a useful lead by allowing it to shut down opposing entry hazards leads such as Onix and Dwebble. It also prevents the opponent from using Defog, which removes the screens. Glare paralyzes opponents that are immune to Thunder Wave or Stun Spore, such as Drilbur and Foongus respectively, and can cripple a fast opponent on the switch. Leaf Storm is a powerful Grass-type STAB move which can OHKO common leads such as Drilbur and Solid Rock Tirtouga, while Knock Off removes opponents' items, softening up walls that carry Eviolite and removing Berry Juice users' method of healing.
+
+Set Details
+========
+
+Snivy needs to run 252 Speed EVs and either a Timid or Jolly nature, depending on whether it is running Leaf Storm or Knock Off, in order to reach 17 Speed, which lets it outspeed Dwebble and Speed tie with max Speed Archen, Drilbur, and Onix. 76 HP and 156 Defense EVs give Snivy respectable 22/21/18 defenses after factoring in the Eviolite boost, which is enough to take one Acrobatics from Fletchling. If Light Clay is used instead, the duration of Snivy's dual screens will increase to eight turns, albeit at the cost of some bulk.
+
+Usage Tips
+========
+
+Snivy's movepool gives it exactly what it needs to take on many common entry hazards leads. It can set up screens early while using its fast Taunt to prevent Dwebble, Tirtouga, Onix, Drilbur, and Ferroseed from setting up entry hazards. If the opponent's lead is an attacker such as Mienfoo, Snivy can opt to use the appropriate screen and take the hit quite comfortably. After setting up screens, Snivy can give a frail teammate a cushioned switch-in, start punching holes in opponents with Leaf Storm, or soften up walls with Knock Off.
+
+Team Options
+========
+
+Any Pokemon that doesn't like taking big hits can benefit from Snivy's dual screens. Sweepers such as Bunnelby, Zigzagoon, Scraggy, Fletchling, and Corphish are just some Pokemon that appreciate taking less damage whilst setting up. Wallbreakers such as Timburr, Mienfoo, Cubone, and Cranidos also enjoy taking less damage from attacks, allowing them to put pressure on an opposing Pokemon while taking the pressure off themselves. Pawniard discourages opponents from using Defog, which will remove Snivy's screens, and appreciates the protection from the screens.
+
+Other Options
+########
+
+If the accuracy or Special Attack drop of Leaf Storm is a turn-off, but you still want a Grass-type move, Energy Ball is a decent alternative, while using Giga Drain increases Snivy's longevity. Both Giga Drain and Energy Ball miss the KO on Solid Rock Tirtouga, however. Snivy can run a Coil set with Aqua Jet, Leaf Blade, and Knock Off. However, Snivy's lack of bulk and recovery means it will have difficulties setting up. Magic Coat reflects the opponent's non-attacking moves, including Thunder Wave and entry hazards, back at them. However, it's hard to justify giving it a slot over Taunt or Glare.
+
+Checks & Counters
+########
+
+**Fletchling**: Fletchling OHKOes all variants of Snivy after Stealth Rock with Acrobatics, 2HKOing them if Reflect is up, and takes minimal damage from all of Snivy's attacks.
+
+**Vullaby**: Vullaby can remove Snivy's screens with Defog and then OHKO Light Clay variants with Brave Bird. It can be crippled by Glare, however, and doesn't appreciate losing its item to Knock Off.
+
+**Fire-types**: Ponyta and Larvesta are mostly unfazed by Snivy. Although they dislike losing their items to Knock Off or being paralyzed by Glare, they are capable of 2HKOing Snivy with Flare Blitz if Reflect is up, even with Eviolite.
+
+**Cottonee**: Snivy can't do much to Cottonee, while Cottonee can Knock Off Snivy's item and wear it down with Dazzling Gleam, as well as Encore it into using Reflect or Light Screen once Taunt wears off.
+
+**Fast Taunters**: Pokemon such as Cottonee, Aipom, and Purrloin can all cripple Snivy with Taunt, rendering it unable to set up screens or use Glare.
+
+**Poison-types**: Although it cannot put Snivy to sleep, Foongus walls Snivy and can use Sludge Bomb to beat it, as it does not care about Taunt, and is not inconvenienced by Glare considering its already low Speed. Trubbish can take a Leaf Storm, avoids losing its item to Knock Off thanks to Sticky Hold, and can nail Snivy with a super effective Gunk Shot. Trubbish can also set up Spikes freely on Snivy not using Taunt or Magic Coat. Koffing's high defenses let it wall Snivy effectively.
+
+**Pawniard**: Although Pawniard hates paralysis, it takes little damage from Snivy's other moves. Pawniard also often runs Brick Break, a move that shatters screens.
+
+**Magnemite**: Magnemite is immune to being paralyzed by Glare and can easily take a Leaf Storm, although it will lose its item to Knock Off. 

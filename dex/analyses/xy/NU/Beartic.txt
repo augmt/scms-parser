@@ -1,0 +1,13 @@
+All-Out Attacker
+########
+name: All-Out Attacker
+move 1: Icicle Crash
+move 2: Superpower
+move 3: Aqua Jet
+move 4: Taunt / Stone Edge
+ability: Swift Swim
+item: Life Orb
+evs: 32 HP / 252 Atk / 8 Def / 216 Spe
+nature: Adamant
+
+This is a sample set while we are currently working on analyses in the workshop.

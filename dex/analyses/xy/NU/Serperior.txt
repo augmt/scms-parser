@@ -1,0 +1,12 @@
+Dual Screens
+########
+name: Dual Screens
+move 1: Light Screen
+move 2: Reflect
+move 3: Taunt
+move 4: Giga Drain
+ability: Overgrow
+item: Light Clay
+evs: 252 HP / 4 SpA / 252 Spe
+nature: Calm
+

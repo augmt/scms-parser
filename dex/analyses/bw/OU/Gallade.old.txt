@@ -1,0 +1,52 @@
+[Overview]
+
+<p>The introduction of BW wasn't too kind to Gallade; not only did he not gain much in the way of moveset options, he missed out on essentially the Holy Grail of Fighting STAB: High Jump Kick. Gallade also suffers from his relatively low base 80 Speed, being outrun by other common Fighting-types such as Lucario and Infernape. Fortunately, Gallade is unique in that he has access to Will-O-Wisp and Shadow Sneak, which differentiates him from Lucario, and resists Stealth Rock, unlike Infernape. In addition, Gallade also boasts an impressive base 125 Attack and base 115 Special Defense, which allows him to sponge most neutral special attacks and hit back hard. Possibly Gallade's best niche, though, is his ability to run a fairly viable Bulk Up + Drain Punch set, taking advantage of his excellent Special Defense. Furthermore, the Dream World granted Gallade a much more useful ability in Justified, which allows him to further boost his Attack stat on the off chance that Gallade will be hit by a Dark-type attack. All things considered, Gallade is not to be underestimated.</p>
+
+[SET]
+name: Bulk Up
+move 1: Bulk Up
+move 2: Drain Punch
+move 3: Ice Punch / Stone Edge
+move 4: Shadow Sneak
+item: Leftovers
+ability: Steadfast
+nature: Careful
+evs: 240 HP / 40 Atk / 216 SpD / 12 Spe
+
+[SET COMMENTS]
+
+<p>This is possibly the best set Gallade can run. With his amazing special bulk, Gallade can easily find an opportunity to Bulk Up. The given EV spread allows him to easily survive super effective special attacks, such as Gengar's Shadow Ball, and finish it off with Shadow Sneak. Drain Punch allows for instant HP recovery in addition to Leftovers. After one Bulk Up, Gallade reaches a huge 444 Attack, which enables it to punch holes in almost anything. Ice Punch breaks most Gliscor after a Bulk Up, while Stone Edge protects Gallade against any Gyarados that might get greedy. Shadow Sneak provides insurance against Ghost-types and Latios, and generally leaves a dent in faster enemies.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>This set can also be run with an alternate EV spread of 240 HP / 16 Atk / 56 SpD / 196 Spe, allowing Gallade to outrun most Gliscor, along with Jolly Tyranitar and Adamant Breloom; however, this spread sacrifices considerable special bulk, greatly reducing Gallade's survivability. You could also replace Shadow Sneak with Substitute or Thunder Wave in the last slot if you want to try and stall out your opponent. Justified is a more useful ability than Steadfast in general, but it is unfortunately illegal with both Drain Punch and Ice Punch, so Steadfast is better for this set.</p>
+
+<p>With 240 EVs in HP, Gallade reaches the point of maximum Leftovers recovery without wasting EVs. The 216 EVs in Special Defense allow Gallade to tank special hits, most notably Gengar's Shadow Ball, while 40 EVs in Attack allow him to 2HKO Gengar with Shadow Sneak after Stealth Rock damage. It follows, then, that Gallade appreciates a teammate that can set up Stealth Rock.</p>
+
+<p>As with all physical attackers, Gallade has great trouble with status afflictions, most notably burn. Jellicent in particular tends to mess Gallade up rather badly, taking little damage from Shadow Sneak and responding with Will-O-Wisp, further reducing Gallade's attacking power. Gallade greatly appreciates a fast special attacker, such as Jolteon or Hydreigon, to come in, take the burn, and deal with Jellicent appropriately.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Close Combat
+move 3: Ice Punch / Stone Edge
+move 4: Shadow Sneak
+item: Life Orb
+nature: Adamant / Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>This set made the jump to BW with very few changes. After just one Swords Dance, Gallade's Attack reaches a towering 766, allowing him to wreak havoc with STAB Close Combat. As with the previous set, the third slot depends on user preference; Ice Punch saves face against Gliscor and Landorus, whereas Stone Edge repels Volcarona and Gyarados. If preferred, Gallade can run this set with a Jolly nature to boost his mediocre Speed; however, this causes Gallade to lose some of his offensive ability, a drop that is greatly felt given Gallade's physical frailty.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>While Gallade is starved for more power, Life Orb recoil piles up after only a couple of turns. As such, it is advisable to run a Wish passer alongside Gallade, preferably a bulky one such as Vaporeon or Blissey. Vaporeon is fairly good at surviving physical attacks, while Blissey needs no introduction; her insane HP and Special Defense make her the ideal candidate to team with Gallade on more balanced teams. Gallade could conceivably replace one of the above moves with Psycho Cut to hit Poison-types, especially Gengar, for more damage; however, Gallade rarely finds room for it, since Ice Punch / Stone Edge provides vital type coverage, and Shadow Sneak is almost required to ensure Gallade can at least get a hit in before fainting.</p>
+
+[Other Options]
+
+<p>Steadfast is rarely useful, but a Speed boost complements Gallade's Attack boosting abilities well. As mentioned above, Psycho Cut is certainly viable on any of the above sets, but it requires the sacrifice of one of Gallade's greatly-needed coverage moves. Gallade has access to Wish via breeding; unfortunately, the move's new mechanics combined with Gallade's relatively low HP means it is not a very viable strategy, and the move is better left to more beefy Pokemon. On the other hand, Gallade does get access to a few interesting support moves, such as Mean Look, Taunt, and Magic Coat, as well as Thunder Wave, Toxic, and Will-O-Wisp, allowing him to potentially run an odd "anti-lead" set. With the disappearance of true leads from the BW metagame, though, this type of set is less useful than in DPP.</p>
+
+[Checks and Counters]
+
+<p>The easiest way to counter Gallade is to hit him with a powerful physical move. With only two weaknesses, one of which is rarely seen, Gallade can be a nightmare to take down, especially if he's running Bulk Up and Drain Punch on the same set. Faster Ghost-types, such as Gengar, do get a bit of a leg up on the green gladiator though, assuming they survive a boosted Shadow Sneak. Gallade also hates priority users such as Scizor, who deals hefty damage with a Choice Band-boosted Bullet Punch. The best counter to Gallade is status. If Jellicent can quickly land a Will-O-Wisp, it easily survives Shadow Sneak and can proceed to stall.</p>

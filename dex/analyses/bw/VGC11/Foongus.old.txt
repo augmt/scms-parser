@@ -1,0 +1,37 @@
+[Overview]
+
+<p>Foongus's older brother, Amoonguss, is a prominent force in the VGC 2011 metagame. The former is only useful when used together with Amoonguss as a back up. To set up Trick Room successfully, players will often sacrifice Amoonguss by using Rage Powder. Using both Foongus and Amoonguss on the same team allows players to have Spore support even after Amoonguss sacrifices himself. Due to his lower Speed stat, Foongus has a faster Spore than Amoonguss in Trick Room.</p>
+
+[Set]
+name: Support
+move 1: Spore
+move 2: Rage Powder
+move 3: Giga Drain
+move 4: Protect
+item: Eviolite
+ability: Effect Spore
+nature: Relaxed
+evs: 252 HP / 4 Def / 252 SpD
+ivs: 0 Spe
+
+[Set Comments]
+
+<p>This set is meant to be used with Trick Room in play, alongside an effective attacker. After Foongus enters the field, he can render almost any opposing Pokemon useless with Spore. Your attacker can knock out one of your opponent's Pokemon while Foongus puts the other one to sleep to prevent your opponent from attacking. Foongus is slower than Musharna, Gigalith, Escavalier, Ferrothorn, and doesn't have to Speed tie with Reuniclus, Cofagrigus, and opposing Amoonguss. Most importantly, this allows Foongus to put Musharna and Reuniclus to sleep before they can hit him with Psychic, and also cripples Amoonguss before he puts any of your Pokemon to sleep. This provides Foongus with a small advantage over Amoonguss while still being able to assist a sweep in Trick Room. Protect can be used to scout for the opponent's moves and Rage Powder can be used to draw moves away from your teammate, possibly saving them and wasting your opponent's turn. For example, if you have a Reuniclus beside your Foongus, you can draw Bisharp's Sucker Punch away from Reuniclus, while taking no damage. Giga Drain allows Foongus to not be complete Taunt bait, and can hit Jellicent and Terrakion for decent damage. Here are some calculations against Jellicent and Terrakion.</p>
+
+<ul class="damage_calculation">
+<li>Giga Drain vs. 252/4 Jellicent 24% - 30%</li>
+<li>Giga Drain vs. 4/0 Jellicent 28% - 35%</li>
+<li>Giga Drain vs. 4/0 Terrakion 35% - 40%</li>
+</ul>
+
+[Additional Comments]
+
+<p>The EV spread maximizes his defenses to make the most use of Eviolite. The best Trick Room partners for Foongus are Reuniclus and Jellicent. Both possess the offensive presence needed to attack sleeping foes, and Jellicent enjoys Foongus taking Grass- and Electric-type attacks with Rage Powder. As previously stated, Amoonguss is necessary to justify the use of Foongus on your team in the first place. Gigalith is a another great partner in Trick Room, as Foongus can draw away Grass- and Fighting-type moves that Gigalith hates while taking almost no damage. This allows Gigalith to score many OHKOs with Rock Slide, while Foongus can put whichever of your opponent's Pokemon Gigalith can't OHKO to sleep.</p>
+
+[Other Options]
+
+<p>Focus Sash can be used to ensure Foongus survives a hit, but it is generally an inferior option to Eviolite. Mental Herb can protect Foongus from priority Taunt, but the loss of Eviolite really hurts Foongus's bulk.</p>
+
+[Checks and Counters]
+
+<p>Conkeldurr is immune to Foongus's Spore thanks to the Flame Orb it generally holds, but Mach Punch and Drain Punch can easily be pulled from their intended target with Rage Powder. Safeguard protects the opponent's Pokemon from Spore. Pokemon holding Lum Berry can shrug off a Spore and fire back an attack. Prankster Taunts can prevent Foongus from using Spore, Rage Powder, or Protect; and Prankster Substitutes can block Foongus's Spore before he can use it.</p>

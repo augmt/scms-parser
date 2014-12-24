@@ -1,0 +1,66 @@
+Overview
+########
+
+Seismitoad is an unusual rain sweeper that has carved a niche in OU as the only Swift Swim user with an Electric immunity. This immunity means that Seismitoad's sweep cannot be cut short by Prankster Thundurus's Thunder Wave and grants it easy switch-in opportunities against threatening Electric-types such as Thundurus and Raikou. Seismitoad also sports respectable 105 / 75 / 75 bulk and access to useful coverage moves such as Focus Blast and Sludge Wave, which allow it to hit common threats to rain teams such as Ferrothorn and Azumarill for super effective damage.
+
+Seismitoad's main weakness is its sub par base 85 Special Attack stat; while its rain-boosted Hydro Pump is still powerful, Seismitoad's coverage moves are often disappointingly weak, and it can struggle to make an impact against more defensive teams. Seismitoad is also totally dependent on external rain support from Politoed or Damp Rock Rain Dance users to function in OU, as it is far too slow and weak to sweep without it.
+
+Rain Sweeper
+########
+name: Rain Sweeper
+move 1: Hydro Pump
+move 2: Earth Power
+move 3: Focus Blast
+move 4: Sludge Wave
+ability: Swift Swim
+item: Life Orb
+nature: Modest
+evs: 80 HP / 4 Def / 252 SpA / 172 Spe
+
+Moves
+========
+
+Seismitoad's strong Water-type STAB and very high Speed thanks to its Swift Swim ability make it an effective sweeper in the rain. Rain-boosted Hydro Pump is by far the most powerful move in Seismitoad's arsenal, dealing excellent damage in spite of its low base Special Attack. Earth Power is a reliable secondary STAB move. Focus Blast is mainly used to land the 2HKO on Ferrothorn, a problematic Pokemon for many rain teams, but it also hits other notable Pokemon such as Kyurem-B. Sludge Wave deals great damage to Azumarill, another Pokemon whose resistances, bulk, and offensive power cause rain teams trouble.
+
+Surf and Scald can be used instead of Hydro Pump if the latter's accuracy is a sticking point, but Seismitoad really wants the power granted by Hydro Pump to score the 2HKOs and OHKOs it needs to sweep. Knock Off is an interesting option that punishes Chansey and Blissey for switching in, and 2HKOes Latios and Latias, but Seismitoad struggles to fit it into its moveset as its other coverage moves are generally more desirable. Finally, Sludge Bomb can be used over Sludge Wave; while the added chance to poison would usually make it a more desirable option, Sludge Wave is able to hit Bulletproof Chesnaught, a Pokemon that can wall common rain sweepers such as Kabutops. If none of Seismitoad's teammates are threatened by Chesnaught, Sludge Bomb would be the preferred option.
+
+Set Details
+========
+
+The given EV spread allows Seismitoad to outrun up to Jolly Choice Scarf Excadrill in the rain and maximizes its power. Life Orb is the preferred item as Seismitoad greatly appreciates the power boost and the ability to switch moves. A Timid nature and an EV spread of 68 HP / 252 SpA / 184 Spe can be used to allow Seismitoad to outspeed fast Choice Scarf users such as Garchomp in the rain, but the power loss is very noticeable. For example, while a Seismitoad running this EV spread, its Hydro Pump is no longer powerful enough to reliably OHKO Garchomp after Stealth Rock damage.
+
+Usage Tips
+========
+
+In the rain, Seismitoad is very fast, hits very hard with Hydro Pump, and its Electric immunity means its sweep cannot be cut short by Thundurus's Prankster Thunder Wave; thus it can serve as an effective win condition if bulky Water- and Grass-types are sufficiently worn down by other rain sweepers. Seismitoad can also be used to set up other rain sweepers for a sweep, as its good coverage can be used to weaken common rain checks such as Azumarill and Ferrothorn.
+
+Seismitoad's good defensive typing and respectable bulk means it has no issues switching in on most Electric-types. It can aggressively switch in on Pokemon such as Thundurus and Raikou if they come in to check or counter your other rain sweepers.
+
+Seismitoad is dependent on rain support in order to sweep, and rain turns are limited. While Seismitoad can 2HKO Pokemon such as physically defensive Sylveon and specially defensive Clefable, if they find a free switch-in, they can easily stall out all of your rain turns by using Wish and Protect. If you predict Protect, you can use the opportunity to switch out Seismitoad and bring in another sweeper for free.
+
+Team Options
+========
+
+Seismitoad is completely dependent on rain support to function in OU, so Drizzle Politoed is a mandatory partner. Damp Rock Azelf is another useful teammate as when used in the lead slot it can almost guarantee the setup of Stealth Rock and 8-turn rain.
+
+In general, Seismitoad works well with rain sweepers that are either vulnerable to being crippled by Thundurus's Prankster Thunder Wave or are otherwise checked or countered by fast Electric-types such as Mega Manectric or Raikou. Seismitoad's bulk and typing mean it has no trouble switching in on these Pokemon, and in the rain it poses an immediate threat to your opponent's team. This means that Seismitoad is an excellent partner for other Swift Swim users such as Kabutops and Kingdra as well as regular rain sweepers such as Keldeo and Tornadus.
+
+In return, Seismitoad appreciates teammates that can switch into and break through the bulky Grass- and Water-types and dedicated special walls that can easily handle its attacks. Grass-resistant pivots such as Tornadus-T and Scizor can easily switch in on the bulky Grass-types that threaten Seismitoad and also have the option of using U-turn to keep momentum in your favor. Pokemon that resist Water-type moves such as Kingdra, Kyurem-B, and Latios can switch in on bulky Water-types such as specially defensive Rotom-W and Suicune and cause trouble. Strong Fighting-types like Keldeo make good teammates as they directly threaten special walls such as Chansey and Blissey, but Seismitoad also meshes well with Pokemon that can lure the aforementioned threats in. Two good examples are Knock Off + Superpower Thundurus and Tornadus; these Pokemon can lure Chansey in with the threat of powerful Thunders or Hurricanes and score a 2HKO by using Knock Off to remove Chansey's Eviolite before finishing it off with Superpower.
+
+Other Options
+########
+
+Seismitoad's mediocre base stats and awkward movepool limit its ability to effectively perform other roles. Seismitoad learns Stealth Rock and can make use of it if you have no other options for setting up the entry hazard, but its inability to threaten Latias and Latios, the most common Defog users, is a major problem. Seismitoad can use Rain Dance to function as a secondary weather inducer to ease the stress on Politoed; with its good bulk and typing, Seismitoad has many opportunities to set up Rain Dance, but it comes at the expense of coverage options. Seismitoad has access to a few other coverage moves such as Icy Wind, Grass Knot, and Hidden Power Electric, which could be used to hit specific targets, but these moves are very weak in general and much less viable than the moves on the main set. As Seismitoad's Attack stat is higher than its Special Attack stat, a physical Swift Swim set may seem appealing, but without a physical Water STAB move it is inferior to the listed special set. In BW, Seismitoad saw niche use in OU with a physically defensive Water Absorb set, but rain teams are now less common, and most popular OU Water-types can 2HKO defensive Seismitoad regardless of Water Absorb. This means that defensive Seismitoad is generally outclassed by other bulky Ground-types such as Hippowdon, which has superior bulk and access to reliable recovery.
+
+Checks & Counters
+########
+
+**Bulky Grass-types** Grass-types resist Seismitoad's STAB Hydro Pump and can inflict massive damage with their own STAB attacks. However, Ferrothorn needs to be mindful of Focus Blast, and other Grass-types risk being KOed by Sludge Wave, so they often only function as strong checks, but Mega Venusaur and Amoonguss are hard counters to Seismitoad.
+
+**Bulky Water-types**: Water-types such as specially defensive Rotom-W and Suicune resist Seismitoad's Water-type STAB, take little damage from its coverage moves, and threaten it with their own Water-type STAB moves that are boosted by the rain.
+
+**Bulky Dragon-types** Goodra, Latias, and Latios resist Seismitoad's Water STAB and take little damage from most of its coverage moves. However, Latias and Latios need to be wary of Knock Off.
+
+**Dedicated special walls** Seismitoad's low base Special Attack means that it cannot break through special walls such as Blissey, Chansey, and specially defensive Sylveon, even in the rain.
+
+**Powerful, Water-resistant Pokemon** In a pinch, most Water-resistant Pokemon that aren't weak to one of Seismitoad's coverage moves can serve as a check to it. Pokemon such as Keldeo and Dragonite are barely 2HKOed by its coverage moves and can easily OHKO in return.

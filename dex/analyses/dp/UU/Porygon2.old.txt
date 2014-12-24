@@ -1,0 +1,128 @@
+[Overview]
+
+<p>Porygon2 is a quirky Pokemon, both aesthetically and competitively. The bizarre Internet duck is one of the most versatile Pokemon available. Two great abilities, Trace and Download, allow it to become a good tailor-made counter to just about any bothersome Pokemon your team may be having trouble with. Not only that, but it also has an expansive movepool, good defenses, and a decent Special Attack stat. However, it's not all sunshine and daisies for this mallard. Porygon2's Speed is troubling and its Normal typing, without a giant HP and Special Defense stat to back it up like Chansey has, is just OK defensively. Also, if you tailor Porygon2 to counter a specific threat and your opponent doesn't even have that Pokemon on their team, then it essentially becomes dead weight. Porygon2 can really mess with teams in the right hands, but most times it will be too specialized to warrant a team slot, especially when there are better general answers to UU's top threats.</p> 
+
+[SET]
+name: Defensive Duck
+move 1: Discharge / Thunderbolt
+move 2: Ice Beam
+move 3: Recover
+move 4: Toxic / Thunder Wave
+item: Leftovers
+nature: Calm
+evs: 252 HP / 40 SpA / 216 SpD
+
+[SET COMMENTS]
+
+<p>This is Porygon2's best defensive set for covering the wide variety of threats that reside in UU. Discharge and Ice Beam are the main choices as they form the BoltBeam combo that nails every Pokemon in UU for at least neutral damage, with the exceptions of Lanturn, Magneton, and Shedinja. Discharge is the recommended move over Thunderbolt for the raised paralysis chance, which can help Porygon2 not only to get the jump on opponents, but also to support its teammates. However, Thunderbolt can be chosen if you find the damage output from Discharge disappointing. Recover lets Porygon2 keep itself healthy and allows it to become a general nuisance to your opponent. Finally, Toxic is chosen for the last slot to whittle down bulky foes, such as Regirock, Miltank, Uxie, and Spiritomb. If you find Toxic to be conflicting with Discharge's paralysis too much, then Thunder Wave can be chosen for the last slot to ensure that Porygon2 spreads paralysis on faster threats, such as Mismagius, Absol, and Kangaskhan.</p> 
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread is designed to give Porygon2 as much special bulk as possible, with 40 EVs placed into Special Attack for the chance to 2HKO offensive variants of Moltres with Discharge. An alternative spread of 252 HP / 216 Def / 40 SpA with a Bold nature can be used, but most physical attacking threats in UU carry a Fighting-type attack that easily smashes through Porygon2's invested defenses anyway.</p>
+
+<p>Trace is the recommended ability, as it is more defensive in nature than Download and allows Porygon2 to solidly counter some of UU's top threats. Porygon2 can Trace Flash Fire from Houndoom and Arcanine and absorb their Fire-type attacks; the same can be done to Volt Absorb Lanturn and Water Absorb users such as Quagsire and Poliwrath. Porygon2 can also Trace Intimidate from Arcanine and Hitmontop to buffer their attacks and then proceed to zap them with Discharge. Some other strategies include Tracing Dugtrio's Arena Trap and eliminating it with Ice Beam and Tracing Pressure from Spiritomb and Moltres and stalling them out of PP, assuming they aren't carrying Toxic.</p>
+
+<p>Download can be used over Trace to turn Porygon2 into a more offensive tank. Download works by giving Porygon2 either an Attack or Special Attack boost based on the opponent's defenses at the time Porygon2 switches in; Porygon2 gains an Attack boost if their Special Defense is higher, and a Special Attack boost if their Defense is higher. Porygon2 will almost always be looking for Special Attack boosts, so some Pokemon that it can take advantage of include Slowbro, Cloyster, and Donphan. However, even with the Special Attack boost, Porygon2 still only manages a 2HKO on them, making the boost near worthless and Trace the better choice.</p> 
+
+<p>Porygon2's main goal with this set is to paralyze and/or cripple as many foes as possible, while also countering some problem Pokemon your team may be having trouble facing. Examples of excellent teammates that excel with the majority of the opponent's team paralyzed are Rhyperior, Marowak, and Azumarill. Great defensive teammates for Porygon2 include Ghost-types, such as Mismagius and Rotom, that can absorb Fighting-type attacks. In return, Porygon2 can take on most Houndoom and other Dark-types and paralyze them or put them out of commission, though Porygon2 must beware of Absol's Superpower. Registeel and Aggron also make good teammates as they can absorb hits from other strong physical attackers, such as Swellow, Scyther, and in Registeel's case, Azumarill. Claydol gets a special mention as a teammate as it can effortlessly switch into users of the QuakeEdge combo, such as Rhyperior without Megahorn, Aggron, and most Fighting-types, and threaten them out with Earth Power and Psychic.</p> 
+
+[SET]
+name: Offensive Trick Room
+move 1: Trick Room
+move 2: Ice Beam
+move 3: Thunderbolt
+move 4: Tri Attack / Recover / Hidden Power Fighting
+ability: Download
+item: Life Orb
+nature: Quiet
+evs: 252 HP / 252 SpA / 4 SpD
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>This set capitalizes on Porygon2's ability to be a self-supporting Trick Room sweeper. After setting up Trick Room, Porygon2 can begin its BoltBeam-backed assault, hitting everything but Lanturn, Magneton, and Shedinja for at least neutral damage in UU. The fourth moveslot comes down to how you would like to play Porygon2. Tri Attack is another useful attack Porygon2 has at its disposal, hitting Lanturn for neutral damage and adding a STAB attack to its arsenal. Recover is the more defensive option, allowing Porygon2 to attempt multiple sweeps and shrug off any damage it may take upon switching in. Be wary of using Recover in Trick Room, however; Trick Room only lasts for five turns, during which Porygon2 needs to be focused on sweeping. Finally, Hidden Power Fighting is a reliable option to hit Steel- and Dark-types harder and for making a larger dent in Chansey as she switches in. Note that Porygon2 can't KO her, however.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>If you'd like to make Porygon2 a bit bulkier, an alternative spread of 252 HP / 156 SpA / 100 SpD is available. Utilizing this spread makes setting up Trick Room against the likes of Milotic and special Venusaur much easier. However, with this spread, Porygon2 will miss out on a 2HKO against specially defensive Clefable with Tri Attack.</p>
+
+<p>Because this set's goal is to sweep under Trick Room, Porygon2 needs to garner as much Special Attack power as possible. With Download, Porygon2 has the chance to raise its Special Attack by one stage. So, when you're ready to commence a sweep, switch Porygon2 into, say, Exeggutor or Weezing, get a Special Attack boost, use Trick Room, and proceed to sweep.</p>
+
+<p>Porygon2's teammates are quite variable and should depend on how you plan to use Trick Room, whether for Porygon2's benefit alone or for the team as a whole. While Trick Room is in effect, Pokemon with low Speed such as Azumarill, Hariyama, and Slowbro are all decent options, since all three have a much easier time sweeping in Trick Room. Azumarill is a fantastic Trick Room sweeper thanks to its low Speed, and its ability to continue the sweep when Trick Room ends with Aqua Jet. Hariyama's ability allows it to absorb status afflictions that might hinder other Pokemon. In fact, while under Trick Room, paralysis boosts both Hariyama's Attack and Speed, since it will quarter Hariyama's already low Speed stat and activate Guts at the same time. Slowbro's ability to set up Trick Room and use Slack Off to recover lost HP makes it an excellent supporting tank on Trick Room teams, although its sibling, Slowking, is a better offensive choice since it can boost its Special Attack more quickly via Nasty Plot.</p>
+
+<p>Should you choose to make Porygon2 a standalone Trick Room sweeper, your options for teammates become much more conventional. Absol makes a great switch-in against Ghost-types that expect Tri Attack, as does Skuntank. Skuntank may be the better of the two however, since it's not weak to the Fighting-type attacks that many Ghost-types carry. Blaziken is able to go on the offensive much easier with the absence of Milotic--which this set KOes with minimal effort--and can handle any Registeel that may try to stall out Trick Room or wall Porygon2. This set struggles against Hitmontop, especially the TechniTop set, so plan accordingly. Common checks for Hitmontop include Flying-types such as Swellow, Ghost-types like Spiritomb, and Psychic-types such as the aforementioned Slowbro.</p>
+
+[SET]
+name: Life Orb Duck
+move 1: Tri Attack
+move 2: Thunderbolt / Hidden Power Fighting
+move 3: Ice Beam / Substitute
+move 4: Recover
+item: Life Orb
+nature: Modest
+ability: Download
+evs: 4 HP / 252 SpA / 252 Spe 
+
+[SET COMMENTS]
+
+<p>When equipped with Life Orb, Porygon2 becomes both an effective all-out attacker and a good tank. Tri Attack is a must on this set, as it gives Porygon2 an effective STAB move to work with and nails a majority of UU for neutral damage. Ice Beam and Thunderbolt are the recommended choices for the next two slots to form the BoltBeam combo, which, when paired with Tri Attack, gives Porygon2 neutral coverage on all Pokemon in UU, with the exceptions of Magneton and Shedinja. Hidden Power Fighting can be used over Thunderbolt to nail Registeel, Clefable, and Chansey for super effective damage, and even has a chance to 2HKO Registeel after Stealth Rock. If using Hidden Power Fighting, Substitute is the recommended choice for the third slot as it gives Porygon2 protection against status and allows it to scout the opponent's switch-in. Recover is placed in the last slot to allow Porygon2 to offset any entry hazard and Life Orb damage.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread allows Porygon2 to outrun minimum Speed base 80s, Adamant Torterra, Modest Exeggutor, Jolly Aggron, and many variants of Milotic. The Special Attack EVs allow Porygon2 to 2HKO most Uxie, OHKO Blastoise and special sweeper Moltres, and put a considerable dent in 248/0+ Milotic by dealing 79.4% - 93.6% with Thunderbolt after a Download boost.</p>
+
+<p>Discharge can be used over Thunderbolt for the added paralysis chance; however, the difference in power is very noticeable. Agility can be used over Tri Attack to allow Porygon2 to become a decent late-game cleaner, however, without a reliable STAB option, Porygon2 will find the chance to sweep difficult to come by. Finally, Hidden Power Grass can be used over Tri Attack to hit Lanturn, Quagsire, and Rhyperior harder, but outside of those examples, it has little use.</p>
+
+<p>Ghost-types, such as Mismagius and Rotom, again make great partners as they can switch into Fighting-types with little trouble. Uxie makes a great partner as well to switch into Fighting-types, and it can also provide Stealth Rock support. Porygon2 can eliminate threats, such as Slowbro, Dugtrio, and Altaria, to help ensure a Blaziken sweep. Porygon2 is stopped cold by the likes of Lanturn and Chansey, so pairing it with a strong physical attacker, such as Hitmonlee, will easily let Porygon2 bypass these defensive threats.</p> 
+
+[SET]
+name: Charge Beam
+move 1: Charge Beam
+move 2: Ice Beam
+move 3: Tri Attack / Substitute
+move 4: Recover
+item: Leftovers
+nature: Modest
+evs: 252 HP / 160 SpA / 96 Spe
+
+[SET COMMENTS]
+
+<p>With Charge Beam, excellent coverage alongside Ice Beam, and Recover, Porygon2 becomes a great boosting tank. The idea is to come in on a Pokemon that poses little threat to Porygon2, such as Milotic, and start blasting away with Charge Beam. The more boosts Porygon2 gets, the more offensively threatening it becomes. Ice Beam is for coverage and creates the BoltBeam combo alongside Charge Beam. Tri Attack rounds off the coverage and is a nice STAB move with which to nail Pokemon neutral to the BoltBeam combo, such as Uxie, Lanturn, and Clefable. If coverage is not a problem, Substitute can be used in its place to turn Porygon2 into an effective SubCharge user. When using Substitute, its best to use it first to scout your opponent's switch-in and also to protect Porygon2 from status, particularly Toxic. Recover provides Porygon2 with consistent recovery and allows it to set up on on Chansey that lack Toxic, beating it with +6 Tri Attack one-on-one.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread gives Porygon2 enough Speed to outpace Adamant Rhyperior and enough Special Attack to beat Chansey at +6, with the rest put into HP to balance Porygon2's defenses. A full defensive spread of 252 HP / 4 Def / 252 SpD with a Calm nature can be used to turn Porygon2 into a more defensive tank; however, Porygon2 then loses to Rhyperior and Chansey and requires four boosts instead of three to 2HKO Milotic with Tri Attack (which is more powerful than a super effective Charge Beam).</p>
+
+<p>This Porygon2 isn't a great team player; it acts as a stand-alone sweeper, so it enjoys a lot of team support for itself. Ghost-types are almost a necessity as teammates, since they can absorb any Fighting-type attacks aimed at Porygon2. Porygon2 requires a Pokemon to absorb Toxic Spikes off the field and to take any Toxics aimed at it, so pairing Porygon2 with a Poison-type, such as Venusaur and Nidoking, is highly recommended. If Porygon2 were to be poisoned by Toxic, it essentially becomes unable to sweep, so packing a cleric on your team, such as Vileplume or Clefable, is highly beneficial as well. Clefable also has the added benefit of providing Wish support and can absorb Toxic aimed at Porygon2 as well. Claydol again makes a great partner because it can switch into Fighting-types with ease and provide Rapid Spin support to blow Toxic Spikes, Spikes, and Stealth Rock off the field. Not only that, but Claydol can also set up Stealth Rock of its own. In return, Porygon2 easily switches into Milotic and Ghost-types that threaten Claydol.</p> 
+
+[SET]
+name: Offensive Choice Scarf
+move 1: Thunderbolt
+move 2: Ice Beam
+move 3: Tri Attack
+move 4: Trick / Psychic
+item: Choice Scarf
+nature: Timid
+evs: 52 HP / 252 SpA / 204 Spe
+
+[SET COMMENTS]
+
+<p>This set capitalizes on the fact that most Pokemon in UU are more specially vulnerable, and equips Porygon2 with a Choice Scarf to turn it into a revenge killer that can easily sweep late-game if given the opportunity. Ice Beam and Thunderbolt form the BoltBeam combo, and, alongside Tri Attack, grant Porygon2 perfect neutral coverage in UU with the exceptions of Magneton and Shedinja. The last slot comes down to personal preference. Trick is the recommended choice as it allows Porygon2 to potentially cripple its counters, such as Registeel, Chansey, and Clefable, since none of them can make use of Choice Scarf. Psychic can be selected over Trick for additional type coverage, as it hits the ever-present Fighting- and Poison-types of UU for super effective damage and allows Porygon2 to effectively revenge kill Blaziken and Toxicroak.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread given allows Porygon2 to outrun positive-natured base 105s, with the remaining EVs placed into Special Attack for power and HP for bulk. Modest can be used over Timid for additional power; however, Porygon2 then loses out on outpacing base 105s such as Mismagius and Scyther.</p>
+
+<p>Download is the recommended ability to effectively garner Porygon2 a Special Attack boost as it switches into a Pokemon with a higher Defense than Special Defense stat, allowing it to more easily revenge kill a majority of the UU tier. If the opposing Pokemon has equal defenses, like in the cases of Absol and Scyther, Porygon2 will get the Special Attack boost. Trace can be used, however, as it allows Porygon2 to counter weather teams that focus on abusing Chlorophyll and Swift Swim. As Porygon2 switches in, it'll Trace the opposing Pokemon's Chlorophyll or Swift Swim; Porygon2 is then free to outpace the sweeper and KO it with the appropriate move. This strategy is highly situational, however, and therefore Download is the more practical option to counter most teams.</p>
+
+<p>Fighting-type Pokemon that can remove Chansey, Clefable, and Registeel, such as Hitmonlee and Hariyama, are excellent teammates for Porygon2. Pursuit users, such as Drapion and Skuntank, make great teammates that can remove Ghost-types, which will aid Porygon2 in a Tri Attack sweep. Spiritomb is another great teammate, as it can Pursuit the aforementioned Ghost-types and cripple any Fighting-types with Will-O-Wisp. Many common sweepers, including Mismagius and Houndoom, love to have Milotic out of the picture, and so appreciate Porygon2 as a partner.</p> 
+
+[Other Options]
+
+<p>Porygon2's movepool is exceptional, so there are lots of options and sets it can perform that are not listed above. A Choice Specs set can be run using the same moves as the Choice Scarf set; however, the lack of Speed is quite terrible and leaves Porygon2 utterly exposed to faster threats and Fighting-types. A Gravity support set of Gravity, Thunder, Blizzard, and Recover with Leftovers and a defensive EV spread can be run, but most Gravity teams are gimmicky and Porygon2 is better off utilizing Trick Room. Pain Split can be used as an alternative healing option to Recover, but it is unreliable and Porygon2's HP is too high to make much use of it. Porygon2 can also make a great weather supporter with Rain Dance or Sunny Day.</p>
+
+<p>Porygon2's signature moves Conversion, Conversion2, and Sharpen can all be used, but they are gimmicky at best and Porygon2's physical movepool and stats are anything but flattering. Magic Coat is a neat little trick that can reflect Leech Seed and status back onto the opponent, but there isn't any room for it on the sets listed. Shadow Ball is a nice move to nail Ghost-types for super effective damage, but Porygon2 is better off using the BoltBeam combo alongside Tri Attack. Finally, Psych Up is available, but is far too situational to see any use.</p> 
+
+[Checks and Counters]
+
+<p>Specially bulky Fighting-types, such as Hitmonlee and Hariyama, make the best possible counters to Porygon2, as they are able to smash right through its defenses with their STAB attacks, are immune to or don't mind paralysis, and also don't provide Porygon2 with a Special Attack boost should it be running Download. Azumarill, Absol, and Ursaring also easily break Porygon2 with Superpower (in the case of the former two) or Close Combat (in the case of the latter). Rhyperior easily switches into Porygon2 without fear for the most part and tears it to shreds with either Stone Edge or Earthquake. Finally, Chansey, Clefable, and Registeel wall Charge Beam-less Porygon2 thanks to their high Special Defense.</p>

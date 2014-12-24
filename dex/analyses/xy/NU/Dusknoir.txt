@@ -1,0 +1,13 @@
+Tank
+########
+name: Tank
+move 1: Will-O-Wisp
+move 2: Pain Split
+move 3: Earthquake
+move 4: Fire Punch / Shadow Sneak
+ability: Pressure
+item: Leftovers
+evs: 252 HP / 4 Atk / 252 Def
+nature: Adamant
+
+This is a sample set while we are currently working on analyses in the workshop.

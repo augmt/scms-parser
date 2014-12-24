@@ -1,0 +1,97 @@
+[Overview]
+
+<p>At first glance, Relicanth looks like an inferior version of Kabutops or Omastar. However, Relicanth has a few niches, mainly its access to Rock Head. With Rock Head, Relicanth can abuse STAB Head Smash to great effect, punching holes in just about any Pokemon. It also isn't that bad defensively either; 100 / 130 / 65 defenses aren't half-bad for a Rock-type Pokemon.</p>
+
+<p>However, Relicanth is in the NU tier for a reason: base 90 Attack is disappointingly average for a Pokemon with such a potent attack. To make matters worse, it doesn't have a single move in its arsenal with which to boost its Attack. Relicanth is also slow, base 55 Speed means that faster Pokemon can easily attack Relicanth before it can retaliate, though Rock Polish fixes this to an extent. Furthermore, Relicanth has a limited movepool, making it fairly predictable, and a poor typing, which grants it weaknesses to common types in the RU metagame, such as Electric, Fighting, and Grass. However, don't underestimate this bony fish--it has just enough power to rip through unprepared teams.</p>
+
+[SET]
+name: Choice Band
+move 1: Head Smash
+move 2: Waterfall
+move 3: Earthquake
+move 4: Zen Headbutt / Double-Edge
+item: Choice Band
+ability: Rock Head
+nature: Adamant / Jolly
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>What better use for a Pokemon that can't boost its Attack than a Choice Band set? Instead of wasting time setting up, Relicanth aims to break skulls with its STAB Head Smash, which is especially good without the recoil thanks to Rock Head. This Relicanth has flawless neutral coverage--it hits every Pokemon in the RU metagame for at least neutral damage. STAB Waterfall has great coverage with Head Smash, as it hits Pokemon that resist Head Smash, such as Steelix, for massive damage. Earthquake nails Magneton, Aggron, and Klinklang, which also resist Head Smash. The last moveslot is a flexible one. Zen Headbutt allows Relicanth to hit Poliwrath, who resists both of Relicanth's STABs, for super effective damage; it also hits all the various Fighting-types in the RU tier besides Gallade and Medicham for super effective damage. On the other hand, Double-Edge hits Quagsire harder, which is just as crucial as Quagsire easily sponges Relicanth's other attacks. Double-Edge also has the benefit of no recoil thanks to Rock Head, so it's a viable alternative over Zen Headbutt.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Adamant is the main nature as it gives Relicanth more power. Despite Relicanth's poor base 55 Speed, maximum Speed is used to outspeed Uxie and Qwilfish. A Jolly nature can be used to outspeed Altaria, which makes it a strong alternative. An alternative EV spread of 252 HP / 252 Atk / 4 Def can be used for more bulk, which is useful alongside Relicanth's 100 / 130 / 65 defenses. However, Relicanth generally likes to outspeed common RU tanks, particularly Uxie, as Relicanth can deal massive damage with Head Smash, and thanks to Relicanth's weaknesses, it won't get much use of a bulkier spread anyways. To showcase Relicanth's power, the damage calculations below pit an Adamant Relicanth against common RU Pokemon:</p>
+
+<ul class="damage_calculation">
+<li>Head Smash vs. 252/252+ Uxie 48.3% - 57.1%</li>
+<li>Head Smash vs. 252/252+ Tangrowth 43.8% - 51.5%</li>
+<li>Waterfall vs. 252/0 Steelix 47.5% - 55.9%</li>
+<li>Earthquake vs. 252/4 Poliwrath 34.4% - 40.6%</li>
+<li>Zen Headbutt vs. 252/4 Poliwrath 55.2% - 65.1%</li>
+<li>Zen Headbutt vs. 4/0 Hitmonlee 139.7% - 164.5%</li>
+<li>Zen Headbutt vs. 12/252+ Hariyama 46.8% - 55.1%</li>
+<li>Double-Edge vs. 252/252+ Quagsire 31% - 36.5%</li>
+</ul>
+
+<p>Aqua Tail can be used over Waterfall for more power, though it does not gain any important KOs, making the drop in accuracy undesirable. Waterfall also has the chance to flinch the opponent, making its value worth much more than Aqua Tail. Sleep Talk can be used over Zen Headbutt or Double-Edge to make Relicanth a useful sleep absorber, though the loss of a coverage move generally isn't worth it. Also, most Pokemon that use sleep inducing moves are Grass-types, meaning that they would most likely OHKO Relicanth with STAB Grass-type attacks. Stone Edge or Rock Slide can be used in the last slot as well, as they give Relicanth a Rock-type attack if Head Smash should run out of PP, though both attacks are weaker, making the loss of a coverage move not worth it.</p>
+
+<p>As Relicanth tries to deal as much damage as possible, teammates that can set up entry hazards are really appreciated. Roselia is a prime example, as it can set up Spikes and Toxic Spikes, as well as having key resistances to Grass-, Electric-, and Fighting-type attacks, while Relicanth has resistances to Fire- and Flying-type attacks. Leafeon has excellent defensive and offensive synergy with Relicanth as well, and it can Baton Pass a Swords Dance boost, making Relicanth a force to be reckoned with. Rotom-C makes another great partner, as it is resistant to Grass, 4x resistant to Electric-type attacks, and has a key immunity to Ground-type attacks. Rotom-C can also get rid of Quagsire and Poliwrath, Relicanth's key counters.</p>
+
+[SET]
+name: Rock Polish
+move 1: Rock Polish
+move 2: Head Smash
+move 3: Waterfall
+move 4: Earthquake
+item: Life Orb
+ability: Rock Head
+nature: Jolly / Adamant
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>While the Choice Band set focuses on Relicanth's power to break through walls, the Rock Polish set has the aim of sweeping the opponent once Relicanth sets up. This is made easier thanks to Relicanth's great excellent defenses, which mean that defensive Pokemon such as Uxie and Mandibuzz often cannot hurt it much. If it can get a safe switch into a Pokemon it forces out, it can set up and begin sweeping. STAB Head Smash is still the main attack on the set, as it wrecks any Pokemon that doesn't resist it. Head Smash and Waterfall make for a great combo, as few Pokemon resist both attacks. Earthquake lets Relicanth quickly dispatch of Pokemon such as Klinklang and Magneton.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>With a Jolly nature, Relicanth hits 458 Speed, enabling it to outpace +1 positive-natured base 86s and below after a Rock Polish, which includes common Choice Scarf users such as Rotom-C, Magmortar, and Medicham. An Adamant nature, however, guarantees more power, as well as the ability to outspeed positive-natured base 140 Speed Pokemon after a Rock Polish. However, losing out on outspeeding key Pokemon, especially Choice Scarf Rotom-C, might not be worth it. An alternative EV spread of 108 HP / 252 Atk / 144 Spe with an Adamant nature allows Relicanth to outspeed positive-natured base 115s, as well as all +1 base 60s after a Rock Polish.</p>
+
+<p>Since this Relicanth forgoes the power gained from using a Choice Band, teammates that can set up entry hazards are greatly appreciated. Roselia, again, makes a great teammate, as it can set up Spikes and Toxic Spikes, and also has excellent defensive synergy with Relicanth. Ferroseed also partners well with Relicanth, as it can set up both Spikes and Stealth Rock, as well as use Thunder Wave to cripple faster Pokemon that still outspeed Relicanth after a Rock Polish, such as Galvantula. For more offensive partners, Leafeon has excellent defensive and offensive synergy with Relicanth, and it can Baton Pass Relicanth a Swords Dance boost for total and utter devastation. Leafeon also draws out Bug- and Fire-type Pokemon, which gives Relicanth plenty of time to set up a Rock Polish. Rotom-C makes another great partner, as it is resistant to Grass, 4x resistant to Electric, and immune to Ground. Rotom-C can also get rid of Quagsire and Poliwrath, Relicanth's key counters, easing Relicanth's sweeping chances.</p>
+
+[SET]
+name: Swift Swim Sweeper
+move 1: Head Smash
+move 2: Waterfall
+move 3: Earthquake
+move 4: Rain Dance / Stone Edge
+item: Life Orb
+ability: Swift Swim
+nature: Jolly / Adamant
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>This set rose to fame back in the DPP era, and in a tier with Pokemon such as Ludicolo, Qwilfish, and Omastar, it can shine in the BW era as well. By utilizing Relicanth's lesser-used ability, Swift Swim, it aims to use the rain to hit the opponent as powerfully and as speedily as possible. Despite Rock Head no longer being Relicanth's ability of choice, Head Smash still remains the main attack on the set, as its sheer power alone makes it a difficult move to switch into. The combination of Waterfall and Head Smash nails just about every Pokemon in the RU tier--only three Pokemon resist Relicanth's STABs, namely Ferroseed, Poliwrath, and Quagsire. Waterfall is especially dangerous in rain, as it now has the power to take down even more Pokemon. Earthquake is used to pick off Steel-type Pokemon such as Magneton.</p>
+
+<p>Finally, the last moveslot depends on personal preference. Rain Dance enables Relicanth to try and sweep with its own rain, and Relicanth's Waterfall becomes even more powerful. However, if Relicanth's teammates can set up the rain for it, Stone Edge is a viable alternative for a STAB attack that doesn't cause recoil damage, which is crucial when one takes into consideration Life Orb and Head Smash recoil.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>A Jolly nature ensures that Relicanth can outpace +1 positive-natured base 86s in the rain, which include Rotom-A, who gives Relicanth the most problems. However, if one is unconcerned with outspeeding Rotom-A, an Adamant nature guarantees more power, and Relicanth still has enough Speed to outspeed positive-natured base 140 Speed Pokemon in the rain, as well as base 60 Speed Choice Scarf users, so the power isn't wasted. An alternative EV spread of 108 HP / 252 Atk / 144 Spe with an Adamant nature allows Relicanth to outspeed all base 115 Speed Pokemon, as well as all base 60 Speed Choice Scarf users in the rain, while giving it some additional bulk; however, maxing out its Speed usually works best.</p> 
+
+<p>Relicanth, as with most other sweepers, loves entry hazard support. As with all Relicanth, Roselia makes a great teammate, as it can set up Spikes and Toxic Spikes, and thanks to rain, Roselia can take Fire-type attacks much more easily. Ferroseed also makes a great partner; as it can set up both Spikes and Stealth Rock, as well as use Thunder Wave to cripple the likes of Galvantula, who still outspeeds Relicanth in the rain. Ferroseed also benefits from the rain reducing its Fire-type weakness. Other rain abusers, such as Ludicolo, Omastar, and Kabutops, also make great partners, as they can overwhelm the opponent's rain checks. Rotom-C makes another great partner, as it can both set up rain and abuse it with Thunder, and also has the typing to deal with common Relicanth checks Poliwrath and Quagsire.</p>
+
+[Other Options]
+
+<p>Relicanth has a few other options it can utilize. A RestTalk set can be viable, but is generally better left to bulkier Pokemon, such as Regirock. Amnesia could work on a defensive set, but Relicanth has better things to do than to try and set up Amnesia. Speaking of a defensive set, a support set with some combination of Stealth Rock, Toxic, and Yawn can work. However, Kabutops and Omastar do it better thanks to higher Attack and Special Attack, respectively, which means that they can deal more damage even with little investment.</p>
+
+<p>Aqua Tail can be used over Waterfall, but it is less accurate, and Waterfall's flinch chance is useful. Substitute shields Relicanth from status, and can possibly give Relicanth an extra attack; however, this takes prediction to pull off correctly. Finally, Bounce forces switches, as well as potentially spreading paralysis, but its charge turn makes it very easy to switch into.</p>
+
+[Checks and Counters]
+
+<p>Relicanth may have a great combo with Head Smash and Rock Head, but it takes more than that to be a top-tier threat. There are two Pokemon that give Relicanth headaches: Poliwrath and Quagsire. The former resists Head Smash and has Water Absorb to absorb Waterfall, making it an excellent counter. To make matters worse for Relicanth, Poliwrath has STAB Fighting-type attacks to put a dent in it. However, Poliwrath must be careful when switching into the Choice Band set, as a well-timed Zen Headbutt will hurt. Quagsire makes another great Relicanth counter, especially ones with Water Absorb, as it can absorb Waterfall and resists Head Smash. Even Unaware Quagsire does well against Relicanth, though a rain-boosted Waterfall will deal a bit of damage. However, it has Recover to heal off any damage, and thanks to its Ground-type STAB, Quagsire can dispose of Relicanth easily.</p>
+
+<p>Bulky Grass-type Pokemon, such as Tangrowth and Torterra, do a great job of taking Head Smash, though Torterra will not enjoy taking a Choice Band-boosted Waterfall. Ferroseed can also take any attack as it is resistant to both of Relicanth's STABs, though it can't do much in return unless it has Seed Bomb, and without reliable recovery, repeated Head Smashes will hurt. Bulky Fighting-type Pokemon, such as Hariyama, make good checks in general as they can take a Head Smash and retaliate with their STABs, but they must be wary of switching in on Choice Band Zen Headbutt.</p>
+
+<p>Faster Grass-type Pokemon, such as Lilligant and Leafeon, can OHKO Relicanth with their Grass-type STAB attacks before it can attack. However, they must be careful switching in, as Head Smash will hurt. In general, faster special attackers, such as Galvantula and Rotom-C, can beat Relicanth, as they target Relicanth's lower Special Defense. Finally, as Relicanth will most commonly be firing off Choice Band Head Smash, most Pokemon that can take one are safe checks, but note that the right coverage attack will do some damage.</p>

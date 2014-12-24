@@ -1,0 +1,80 @@
+Overview
+########
+
+While Seel's stats suggest that it'd perform best as a special wall, its general lack of support options leaves it outclassed by other bulky Water-types such as Chinchou. Seel's best niche is as a Perish Trapper, and while the strategy is sometimes regarded as gimmicky, Seel is the best option in Little Cup to pull it off. Seel also has a surprisingly good offensive movepool that includes several priority moves. However, it faces stiff competition from more powerful Water-types such as Carvanha and Corphish. With this in mind, it should be played to its advantages, which include better coverage moves, Fake Out, and higher bulk. Overall, while Seel faces serious competition from other Water-types in Little Cup, it can fill very specific niches that just might fit your team.
+
+Perish Trapper
+########
+name: Perish Trapper
+move 1: Whirlpool
+move 2: Perish Song
+move 3: Rain Dance
+move 4: Rest
+ability: Hydration
+item: Eviolite / Berry Juice
+evs: 76 HP / 236 Def / 196 SpD
+nature: Bold
+
+Moves
+========
+
+Whirlpool allows Seel to trap the opposing Pokemon. Perish Song then puts a three turn counter on both Seel and the foe. The other two moves, Rain Dance and Rest, allow Seel to set up rain and return to full health and instantly wake up due to Hydration. Rain Dance can also be used for team support, ensuring Seel isn't dead weight versus hyper offense and VoltTurn teams.
+
+Set Details
+========
+
+A Bold nature and the given EV spread maximize Seel's overall bulk, allowing it to easily trap weaker defensive threats. Hydration lets Seel heal itself with Rest and wake up instantly in the rain. Eviolite maximizes Seel's bulk, but Berry Juice can give Seel more turns to set up and successfully pull off a Perish Trap.
+
+Usage Tips
+========
+
+Seel should execute its moves in a specific order: Whirlpool, followed by Perish Song, Rain Dance, Rest, then switch. This allows it to trap certain defensive threats such as Spritzee, Koffing, and Licktung and escape unscathed. It's important to note that if Seel switches out before two turns have ended, Whirlpool's trapping effect ends and the foe can switch out. Seel struggles to trap most offensive Pokemon, so it should stick to trapping defensive threats. If you find yourself up against a team where Seel is unable to trap any opposing Pokemon without being 2HKOed, use it as a Rain Dance setter instead and have some teammates ready to take advantage of the rain.
+
+Team Options
+========
+
+Seel is able to both remove walls and provide Rain Dance support, so sweepers that have Swift Swim or are strong Water-types, such as Omanyte, Carvanha, and Anorith, make for good offensive teammates. Fighting-type sweepers such as Scraggy and Timburr are also good teammates, as they appreciate that Seel can remove Spritzee. Finally, Pokemon such as Lickitung and Spritzee can provide cleric support for Seel in the case that it is heavily damaged or asleep from using Rest outside of rain.
+
+Life Orb
+########
+name: Life Orb
+move 1: Fake Out
+move 2: Aqua Jet
+move 3: Waterfall
+move 4: Drill Run / Icicle Spear
+ability: Thick Fat
+item: Life Orb
+evs: 236 Atk / 236 Def / 36 SpD
+nature: Adamant
+
+Moves
+========
+
+Fake Out provides chip damage, while Aqua Jet is a second priority move that has good revenge killing potential alongside Fake Out. Waterfall is Seel's strongest physical STAB move and should be used to hit bulkier foes. Drill Run 2HKOes Croagunk and Chinchou, which are two common switch-ins to Seel. Keep in mind that Chinchou can still outspeed and Volt Switch out to a more favorable matchup. Icicle Spear allows Seel to potentially OHKO Grass-types such as Foongus and Cottonee.
+
+Set Details
+========
+
+Life Orb is required to maximize Seel's offensive potential. Thick Fat is a rather lackluster ability considering Seel already resists Fire and Ice, but it's more useful than Seel's other abilities. The given EV spread and an Adamant nature maximize Seel's Attack while also giving it some bulk. Seel doesn't need any Speed investment, although you can run 236 Speed EVs if you want to tie with other 14 Speed Pokemon. HP investment would cause Seel to take 3 damage from Stealth Rock instead of 2, so it should be left alone.
+
+Usage Tips
+========
+
+While Seel's Fake Out is weak compared to other users such as Aipom and Meowth, the Fake Out + Aqua Jet combo serves as a nice tool for revenge killing weakened threats. Seel can even take out certain threats such as Abra and Berry Juice Archen that are at full health while only taking Life Orb recoil in the process. With the defensive investments, Seel is able to tank some powerful attacks with HP to spare for Life Orb recoil, such as Pawniard's Knock Off and Fletchling's Acrobatics, allowing it to hit them with powerful Life Orb boosted attacks.
+
+Team Options
+========
+
+Fire-types such as Ponyta and Houndour can blast through the bulky Grass-types that trouble Seel. Ponyta in particular can also run Solar Beam to handle bulky Water-types, another problem for Seel. Bulky Grass-types such as Ferroseed and Foongus have excellent type synergy with Seel, easily tanking the Electric- and Grass-type moves that threaten Seel, while also taking on opposing Water-types.
+
+Other Options
+########
+
+Seel can make use of a few other support options such as Encore, Disable, and Toxic. Ice Shard is another priority option, but it's not terribly useful. Iron Tail can be used to 2HKO Spritzee, but its low accuracy is an issue. A full special attacking set with Surf, Ice Beam, Signal Beam, and Hidden Power Fire is an option, but Seel is heavily outclassed by other special attackers. Finally, Stockpile can be used to boost Seel's defenses, but lack of recovery outside of Rest limits its potential.
+
+Checks & Counters
+########
+
+**Mienfoo**: Bulky Mienfoo isn't 2HKOed by Waterfall and can recover lost health with Drain Punch and Regenerator. It also has U-turn to escape from the Perish Trapper set.
+**Bulky Grass-types**: Bulky Grass-types can easily switch into Seel thanks to their Water resistance. Ferroseed works particularly well because it can punish Seel's contact moves with Iron Barbs, and it only takes neutral damage from Icicle Spear. Cottonee can lock Seel into a non-threatening move with Encore, but should be wary of switching in on Icicle Spear.
+**Electric-types**: While they have trouble switching into Seel's attacks, most notably Drill Run, Electric-types such as Magnemite, Elekid, and Chinchou threaten Seel with their STAB moves and can Volt Switch out of the Perish Trapper set. 

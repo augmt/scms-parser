@@ -1,0 +1,172 @@
+Overview
+########
+
+Ho-Oh is a massive force in the Uber tier. Boasting a good base 130 Attack, two extremely potent STAB moves in Sacred Fire and Brave Bird, a massive 154 base Special Defense, a wonderful ability in Regenerator, and reliable recovery in Roost, Ho-Oh is a resilient bulky attacker capable of 2HKOing the majority of Pokemon in the tier. While its STAB moves get excellent neutral coverage, Ho-Oh's typing also gives it a glaring 4x weakness to Rock-type moves, especially Stealth Rock, meaning it can't switch in easily. This weakness is not as bad as it appears, though, as the buff to Defog introduced a new means of removing Stealth Rock, which is generally more reliable than Rapid Spin and Magic Bounce ever were. But even with this buff, Ho-Oh's 4x weakness to Rock-type moves is still exploitable, as most Rock-type moves will fell it in one or two hits.
+
+Tank
+########
+name: Tank
+move 1: Brave Bird
+move 2: Sacred Fire
+move 3: Roost / Recover
+move 4: Substitute / Earthquake
+ability: Regenerator
+item: Life Orb
+evs: 248 HP / 208 Atk / 52 SpD
+nature: Adamant
+
+Moves
+========
+
+Brave Bird is a strong STAB move that 2HKOes practically any Pokemon that doesn't resist it, including maximum HP Arceus formes. It also 2HKOes any Kyogre variant thanks to the Life Orb boost. The recoil from Life Orb and Brave Bird can be quite upsetting at times, but don't forget that in conjunction with Regenerator and the recovery move of your choice, the lost HP can be gained back quite easily. Its secondary STAB move, Sacred Fire, is extremely potent; switch-ins such as Rock Arceus that resist it risk being burned. The burn rate discourages just about all physical attackers from switching into Ho-Oh, as it can render them useless for the rest of the game: Zekrom, which resists both of Ho-Oh's STAB moves, is a good example. Under harsh sunlight, Sacred Fire is boosted by 50%, making it Ho-Oh's strongest attack, and it has a good chance of 2HKOing even the most defensive variants of Groudon. It cannot be understated that Sacred Fire's power in combination with its side effect is what makes Ho-Oh such a difficult Pokemon to switch into.
+
+A recovery move is mandatory. Giving a Pokemon that has Regenerator, a base 154 Special Defense, a base 130 Attack, and two nearly unresisted STAB moves Roost is almost taking the term bulky attacker too far; with it, Ho-Oh's longevity easily outmatches just about everything else in the game as long as Stealth Rock is off the field. The choice between Roost and Recover is a preference issue. Roost helps Ho-Oh against some would-be super effective hits, especially with paralysis support, while Recover is nice against Earthquake users that try to predict when it will land. However, with Recover, Pokemon such as a burned Groudon can easily get back to smashing Ho-Oh with Stone Edge after you reveal the move.
+
+Substitute eases prediction, and it's rather easy for Ho-Oh to recover the lost health. In conjunction with a Toxic lure for Ho-Oh's biggest counter, Rock Arceus, this move puts a lot of pressure on said counter by forcing it to rack up Toxic damage. As Ho-Oh's attacks are very powerful, a free Substitute means that your opponent will almost always have to sacrifice a Pokemon just to break it. One of the biggest assets of Substitute is that Ho-Oh can take advantage of the free turns that can come with potential paralysis support. Against paralyzed threats such as Xerneas and Palkia (in sun), Ho-Oh can spam Substitute and Roost until they are fully paralyzed, giving it an unbroken Substitute. If Substitute isn't your thing, Earthquake is very viable as it 2HKOes Tyranitar, Zekrom, and Rock Arceus and OHKOes Heatran. However, giving up on Substitute means Ho-Oh will have a tougher time protecting itself from revenge killers and status.
+
+Ho-Oh has two options that can go in the last moveslot to attempt to patch up its mediocre Speed. The first one, Flame Charge, deals damage and provides a boost to Ho-Oh's Speed that remains until it switches out. The other option, Tailwind, doubles Ho-Oh's Speed as well as those of its teammates. However, Tailwind only lasts for three turns, so the boost is temporary. The opportunity cost of losing Substitute or Earthquake is large, but if your team needs the specific advantages that either of these two moves bring, then by all means, use them. Also, remember to invest in Speed accordingly: Flame Charge sets generally need maximum Speed investment in order to outspeed Mega Mewtwo Y after one boost, while Tailwind sets like having 176 Speed EVs to outspeed Choice Scarf Terrakion while Tailwind is in play.
+
+Set Details
+========
+
+This set appreciates the high damage output that comes with Life Orb, but Leftovers is usable to increase Ho-Oh's tanking ability and mitigate recoil damage. However, the power loss is quite large; for example, defensive Kyogre can only be 3HKOed, and defensive Giratina is only 4HKOed.
+
+An Adamant nature with near maximum Attack investment is rather self-explanatory for a bulky attacker like Ho-Oh, and it is usually the best option to increase its damage output. However, settling for a specialized number catered to a specific team's needs is of course viable as well. 248 HP EVs and 52 SpD EVs give Ho-Oh great bulk, allowing it to cushion most neutral special attacks comfortably, and take any one hit from +2 Geomancy Xerneas.
+
+Usage Tips
+========
+
+For optimal performance, Ho-Oh will need Stealth Rock off its own side of this field in order to reliably switch in and take maximum advantage of Regenerator. It is therefore important to play your Defog user or Rapid Spinner in such a way that it outlasts the opponent's Stealth Rock setter. Keep in mind that Arceus formes, the most common Defog users, are vulnerable to Toxic, so keep them away from Stealth Rock users that carry the move. When you have the chance to get Ho-Oh in, take it. Dishing out hits and regenerating Ho-Oh's health puts a lot of pressure on opponents, especially if they don't carry a dedicated check to it.
+
+As Ho-Oh has a very exploitable weakness, it is important to properly scout for surprise Rock-type moves. Mixed Xerneas can use Rock Slide, Giratina-O can carry Stone Edge, and Aegislash can have Head Smash in its arsenal. Even some Arceus formes carry Stone Edge just to ruin Ho-Oh's day. Understanding how metagame-defining Ho-Oh is and accepting that players can prepare and use moves just for it should always be accounted for.
+
+Do not make the mistake of using this set as your only way to stop a boosted Xerneas. It's hard to rely on Defog at all times, and Ho-Oh cannot OHKO Xerneas. In general, use Ho-Oh as the powerful wallbreaker it is, but don't rely on it as a check to too many Pokemon. Try to build your team in a way that you can use Ho-Oh's qualities to their maximum potential, but make sure that it isn't overly reliant on Ho-Oh's performance.
+
+Team Options
+========
+
+Defog support is on the brink of mandatory when using Ho-Oh. Rapid Spin works too, but the spinners themselves are underpowered by Ubers standards, though using a spinner can work with some smart teambuilding. The most reliable Defog users are Arceus formes due to their high Speed, good bulk, and access to Recover. Water Arceus has pretty good synergy with Ho-Oh, taking on Kyogre, Groudon, and Rock Arceus quite well. Grass Arceus is in the same boat, but is weaker to the omnipresent Gengar and has a hard time fitting Stone Edge on its Defog set, meaning that it gives opposing Ho-Oh a lot of free turns; this can limit your teambuilding options a lot. Fairy Arceus is another notable Defog user; just like most Arceus formes, it can cripple the Stealth Rock users that also happen to check Ho-Oh, such as Landorus-T and Groudon. Some less common Defog users are viable as well. Lugia can act as an extra wall and check a lot of Pokemon, while Scizor helps out tremendously when it comes to making your team solid against Geomancy Xerneas.
+
+Groudon is another terrific teammate, as it takes on Zekrom pretty well and can set up Stealth Rock, which Ho-Oh appreciates. Entry hazards heap up the pressure on opposing Pokemon that try to switch into Ho-Oh. The sun support provided by Groudon is invaluable; despite only lasting five turns, it is sufficient, considering that Ho-Oh has an easy time coming in against some Pokemon that threaten Groudon in the sun, such as Palkia, Grass Arceus, and Kyurem-W. Landorus-T is a good partner as well. While Groudon can phaze, use Thunder Wave, and strike with Fire-type moves, Landorus-T better checks Mega Blaziken.
+
+Palkia deserves a mention as a good teammate as well. It has great synergy with Ho-Oh, as it checks all Kyogre variants, and the combined force of the two threats pressures defensive teams. Lastly, Ho-Oh fits quite well together with Kyogre; Ho-Oh can help by checking Grass Arceus while Kyogre can pressure Rock Arceus.
+
+Any Pokemon with Thunder Wave is a good partner for Ho-Oh, as it can possibly get free Substitutes or outspeed Pokemon it normally doesn't. Groudon, Lugia, Kyogre, Klefki, Thundurus, and Dialga are some examples of common Thunder Wave users, but a lot of other Ubers such as Palkia can learn the move too, so cater the support to your team's needs.
+
+Physically Defensive
+########
+name: Physically Defensive
+move 1: Brave Bird
+move 2: Sacred Fire
+move 3: Roost / Recover
+move 4: Toxic / Whirlwind
+ability: Regenerator
+item: Leftovers
+evs: 248 HP / 208 Def / 52 SpD
+nature: Impish
+
+Moves
+========
+
+Brave Bird is mandatory on this set, as it hits decently hard without investment, and having such attacking power for a defensively inclined Pokemon differentiates Ho-Oh from Giratina and Lugia. Sacred Fire is especially useful on this set for its side effect. Spreading burns on physical attackers makes them easier to wall, and the residual damage can help with stalling out threats that cannot recover health. A recovery move is obviously a must for a defensive set. Roost is better than Recover here since outstalling a slower Groudon is much easier with this set, and a predicted Earthquake from a burnt Groudon on Ho-Oh's faster Roost will not deal too much damage. Finally, Toxic can cripple many common switch-ins such as Rock and Water Arceus, while Whirlwind phazes out setup sweepers such as Extreme Killer Arceus and Geomancy Xerneas.
+
+Set Details
+========
+
+Near maximum Defense EVs and an Impish nature make Ho-Oh surprisingly durable on the physical side, allowing it to take on threats such as Extreme Killer Arceus, Mewtwo, Foul Play Yveltal, and Lucario without Stone Edge, as long as Stealth Rock is not up. With maximum HP investment and slight investment in Special Defense, Ho-Oh can tank special attacks just fine thanks to its naturally high Special Defense; however, if you wish to better utilize its gargantuan special bulk, shifting the EVs in Defense to Special Defense is feasible.
+
+Usage Tips
+========
+
+Keep Stealth Rock off its side of the field in order to help Ho-Oh function optimally. Don't be afraid to do more "reckless" switches into support Arceus formes that Ho-Oh should be able to wall. While offensive sets take 80-94% from a -1 Arceus's Stone Edge, this variant of Ho-Oh fares far better against it and can switch out to regain a good portion of the damage taken through Regenerator. Because of this, the need to scout is somewhat lower.
+
+Do note that even with full defensive investment, Ho-Oh still has trouble taking on some common physical attackers, regardless of whether or not Stealth Rock is up. Zekrom, Groudon, and Mega Mewtwo X (which often carries a Rock-type move) are examples of physical attackers that can bust through Ho-Oh's defenses quite easily. As a mixed defensive tank, Ho-Oh should take advantage of the fact that it can check both physical and special threats. Extreme Killer Arceus, Blaziken, and sometimes even opposing Ho-Oh are physical attackers that this Ho-Oh can switch into.
+
+Although this set has a lot of defensive investment, Ho-Oh's Special Defense is higher, so take on special attackers as you see fit. With Whirlwind, Ho-Oh functions as a great Xerneas counter, should Stealth Rock not be up. It is also notable that Ho-Oh can take on Mega Mewtwo Y under the right circumstances, as Psystrike cannot OHKO it.
+
+Team Options
+========
+
+Defog support is a must when using Ho-Oh, and this set is no exception. Fairy, Water, Rock, Grass, and Ghost Arceus can provide some synergy with Ho-Oh while also helping it with hazard removal. Giratina-O is not recommended as a Defog user to pair with this Ho-Oh due to this set's more defensively inclined nature. This is because Giratina-O, which has no recovery, is likely to be outlasted by the opposing Stealth Rock user. Mega Scizor can work as a Defog user to pair with this Ho-Oh; although it's quite slow and more prone to Taunt, it can handily check Groudon and semi-check Zekrom, while Ho-Oh can check opposing Ho-Oh in return.
+
+It's always wise to pair Ho-Oh with a Ground-type in order to help deal with Zekrom. Landorus-T and Groudon spring to mind as they can both provide Stealth Rock support. Swords Dance Ground Arceus appreciates Ho-Oh's ability to absorb burns from the likes of Giratina, but keep in mind that there is a big opportunity cost in not using a Defog Arceus with Ho-Oh.
+
+Ho-Oh needs to be paired with a Pokemon that can handle Kyogre, which is usually Palkia. However, if you want to hit two birds with one stone, Water Arceus is viable as a deterrent for both Water-type moves and a Defog user. Grass Arceus is similar except it boasts a strong STAB to hit Kyogre and Groudon with; however, it comes at the cost of being vulnerable to Mega Gengar. Both of these Arceus formes can also check Rock Arceus extremely well.
+
+Once again, Kyogre is a solid option for pressuring Rock Arceus. Choice Scarf, Choice Specs, and specially defensive variants all fit well with Ho-Oh. Keep in mind that your team will have two Pokemon weak to Electric-type moves, so a Ground-type is nearly mandatory.
+
+Choice Band
+########
+name: Choice Band
+move 1: Brave Bird
+move 2: Sacred Fire
+move 3: Earthquake
+move 4: Sleep Talk
+ability: Regenerator
+item: Choice Band
+evs: 248 HP / 208 Atk / 52 SpD
+nature: Adamant
+
+Moves
+========
+
+Choice Band Ho-Oh hits extremely hard with Brave Bird, which is guaranteed to OHKO Palkia, 0 HP Kyogre, and many other threats. The absence of Life Orb also means that Ho-Oh will suffer less residual damage. With the Defog buff and Regenerator, this set is pretty much the pinnacle of hit-and-run tactics. If you thought Brave Bird was strong, a sun-boosted Sacred Fire is absolutely ridiculous, being able to OHKO 4 HP Arceus with only Stealth Rock up; it also OHKOes maximum HP Arceus if it manages to burn! Even the most defensive Groudon variants are guaranteed to fall in two hits, regardless of whether or not Sacred Fire lands a burn.
+
+Earthquake is a solid and powerful coverage move and hits Ho-Oh's best checks and counters very hard. A burned Rock Arceus will find itself in a very sticky spot if it switches in on Earthquake, as the move hits a maximum of about 81% damage. Lastly, Sleep Talk is a good move to have against Darkrai. Ho-Oh's attacks are very powerful and have few drawbacks, so the element of randomness that Sleep Talk introduces isn't as bad as it seems.
+
+Set Details
+========
+
+With 248 EVs invested in HP and 52 in Special Defense, Ho-Oh is guarenteed to tank Thunder from +2 Geomancy Xerneas so long as Stealth Rock is not on the field. Ho-Oh's high powered STAB moves, naturally high base Attack, and its Choice Band allow it to effectively wall break, even without maximum Attack investment.
+
+There are two alternative EV spreads that this set can use. A faster spread of 4 HP / 252 Atk / 252 Spe with a Jolly nature is viable in order to ensure that Ho-Oh has the best chances of outspeeding Pokemon such as neutral-natured Choice Specs Kyogre, Yveltal, and Xerneas. The other alternative spread is 248 HP / 208 Def / 52 SpD with an Adamant nature. It retains a lot of the qualities that physically defensive Ho-Oh has, but it trades off Roost for higher attacking power.
+
+Usage Tips
+========
+
+It cannot be understated as to how important it is to play the entry hazards game well. Ho-Oh loves having Stealth Rock up on the opponent's side of the field in order to punish possible mispredictions, while also having Stealth Rock off its side of the field for obvious reasons. Another big reason to keep Stealth Rock away from Ho-Oh is that this set doesn't have a recovery move and must rely on Regenerator to gain health back. Therefore, it is equally important for this set to utilize Regenerator for maximum recovery: pivot switching in on resisted hits is a big part of how Choice Band Ho-Oh should be played.
+
+Prediction is incredibly important for Ho-Oh; although its attacks are strong and unresisted together, it is good to have a plan as to what to do when initiating combat. There are a few roads you can go here, the first being spamming Sacred Fire with Ho-Oh to spread burns. After the opponent's switch-ins are burnt, Ho-Oh can pressure them harder with its coverage moves. However, if you want to take advantage of an obvious Kyogre switch-in to sponge a Sacred Fire, then by all means do it. If you suspect that Rock Arceus is your opponent's Arceus forme, then throw out Earthquake early in situations where it's safe to do so.
+
+Team Options
+========
+
+Always use Defog support with Ho-Oh. Aside from the common support Arceus, Defog Giratina-O can work on a team with Choice Band Ho-Oh since you are aiming to smash the opposition faster than with other sets, making Giratina-O's inability to Defog consistently throughout the game less of a problem. Thunder Wave support from teammates such as Groudon, Lugia, and Kyogre can also be a big help. Being faster than the opponent gives Ho-Oh more time to dish out hits without worrying about the possibility of Brave Bird's recoil bringing it down.
+
+Drought support from Groudon is nice, and most other Ground-types are also good teammates. Landorus-T, for example, functions similarly to Groudon. Swords Dance Ground Arceus can be a good partner if you have a Defog user that is not another Arceus forme. Since Ho-Oh pressures Giratina, Bronzong, and Landorus-T, which are common counters to Ground Arceus, it will get better opportunities to sweep. Palkia, Water Arceus, Grass Arceus, or another check to Kyogre is mandatory as well, but luckily, Kyogre's checks tend to synergize well with Ho-Oh.
+
+Other Options
+########
+
+Ho-Oh has some other options to use. Choice Scarf is an interesting one, as it allows Ho-Oh to revenge kill Mega Mewtwo X and other threats. However, the loss in power and bulk makes this a less viable choice. Thunder Wave is an excellent option for the defensive set to surprise faster checks, but using it leaves Ho-Oh with a bit of four-moveslot syndrome, as it cannot use both Substitute and Thunder Wave without giving up on either coverage or recovery. However, if foregoing Substitute, Ho-Oh can paralyze fast switch-ins such as Kyogre and Arceus, making it far from useless. Punishment can be used to punish Calm Mind Ghost Arceus, but Sacred Fire usually hits hard enough, and Calm Mind Ghost Arceus is much rarer than it used to be.
+
+Checks & Counters
+########
+
+**Stealth Rock**: The number one counter to Ho-Oh is not a Pokemon, but this entry hazard. Stealth Rock strips 50% of Ho-Oh's health every time it switches in, limiting its ability to heal itself and tank hits. Since every team should have Stealth Rock, this analysis won't go in depth about which user to carry. The important thing is how you play your Stealth Rock user. It is of grave importance to wear Ho-Oh's Defog supporter down and try to keep your Stealth Rock user alive if you want to keep rocks up against Ho-Oh. Usually something as simple as Toxic on your Stealth Rock user can go a long way, considering that it cripples Defog Arceus. What is also important to realize is that all checks to Ho-Oh function somewhat differently, and therefore they cannot be lumped together in sections as with other Pokemon.
+
+**Rock Arceus**: Rock Arceus has the best chance of switching in and safely forcing Ho-Oh out. It resists Ho-Oh's dual STABs but it is weak to Earthquake. Thankfully, it is faster and can OHKO Ho-Oh with Judgment.
+
+**Water Arceus**: Even though 252 HP Water Arceus takes more than 50% from a Life Orb-boosted Brave Bird, it can switch into Sacred Fire and Earthquake and do about 50% to Ho-Oh in return with a super effective Judgment. However, it has a tough time switching into Ho-Oh in sun. A physically defensive variant of this Pokemon can perform the task a bit better though.
+
+**Hippowdon**: Hippowdon isn't 2HKOed by any Life Orb-boosted hit, but the Choice Band set rips it apart with consecutive Brave Birds. It has reliable recovery and Stealth Rock, so it qualifies as a good sponge for Ho-Oh's attacks, but cannot hurt it back directly.
+
+**Kyogre**: By far the most practical way of handling Ho-Oh is with offensive pressure. Kyogre is often faster than Ho-Oh as it invests in Speed, and it can force Ho-Oh out and dish out impressive damage to its counters as well. Defensive variants of Kyogre are 2HKOed by a Life Orb-boosted Brave Bird and offensive sets have a chance of getting OHKOed, so Kyogre has a hard time switching in. Switching in on Sacred Fire is usually fine due to its resistance to Fire-type moves.
+
+**Heatran**: Heatran is another Pokemon that resists both of Ho-Oh's STAB moves. It is similar to Hippowdon in that it can set up Stealth Rock, but it takes Brave Birds better and totally shuts down Sacred Fire. However, it has a very exploitable 4x weakness to Earthquake.
+
+**Tyranitar**: Tyranitar hates burns, but it can provide Stealth Rock support and, even when burnt, deal heavy damage to Ho-Oh with Stone Edge. However, it is weak to Earthquake.
+
+**Groudon**: Groudon can force Ho-Oh out with offensive pressure. A fast Earth Plate Groudon can OHKO Ho-Oh with Stone Edge or set up Stealth Rock as it flees. Groudon can switch in if there's an emergency, but it fears burns and inconveniently boosts Ho-Oh's Sacred Fire with Drought, meaning it cannot get in without taking major damage.
+
+**Landorus-T**: Thanks to Intimidate, Landorus-T sponges Ho-Oh's attacks quite well, and while it fears burns, it has access to Stealth Rock and doesn't boost Sacred Fire like Groudon does. It also carries Stone Edge, which will OHKO Ho-Oh as long as Landorus-T isn't burnt. Intimidate also makes it easier for Landorus-T's teammates to switch in.
+
+**Physically Defensive Ho-Oh**: Physically defensive Ho-Oh can work as a decent sponge for any move except for Brave Bird. Alongside a Pokemon that resists Flying-type moves, it is especially useful against Choice Band sets, as Ho-Oh can switch in to scout, regenerate its health, and switch to the Pokemon that resists Flying if it gets in on Brave Bird.
+
+**Zekrom**: Zekrom resists Ho-Oh's STAB moves and provides offensive pressure, something few other Pokemon can do. It generally fears the possibility of a Sacred Fire burn too much to switch in directly, but once it does get in, it forces Ho-Oh out and can potentially build momentum via Volt Switch.
+
+**Revenge Killers**: Aside from the aforementioned Zekrom, Kyogre, Groudon, etc. there are some other revenge killers that can be used as a last resort to force Ho-Oh out. Terrakion and Mega Mewtwo X with Stone Edge are two examples.
+
+**Lures**: As Ho-Oh's 4x weakness to Rock is very apparent, luring it out is a very good strategy. Rock Slide Xerneas, Head Smash Aegislash, Stone Edge Grass and Fairy Arceus, Stone Edge Giratina-O, and Stone Edge Mega Lucario are some popular lures that Ho-Oh can fall to with some smart play. The key with Stone Edge Arceus is generally to lure Ho-Oh into a false sense of security and then to smack it when it is in OHKO range, as a 252 HP Ho-Oh "only" takes 80-94 % from a support Arceus's Stone Edge.
+
+**Toxic**: As Ho-Oh has enormous staying power, running Toxic on a Pokemon that it commonly switches into, such as Aegislash, can put it on a timer and rack up residual damage, especially with recoil from Life Orb and Brave Bird.

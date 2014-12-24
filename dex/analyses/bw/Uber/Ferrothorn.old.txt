@@ -1,0 +1,71 @@
+[Overview]
+
+<p>With Ferrothorn's excellent typing, defenses, and movepool, it can play a key role in any Ubers team. With its ten resistances and one immunity, it can switch into many common threats, such as Kyogre, Groudon, Palkia, and Zekrom, with ease. In conjunction with its support movepool, Ferrothorn's typing helps it to easily switch into a large number of threats and set up entry hazards such as Stealth Rock and Spikes, and annoy opponents with Leech Seed. Its reasonable base 94 Attack also allows it to deal respectable damage to certain offensive threats, such as Kyogre and Groudon. They take considerable damage from Power Whip, and many other sweepers, such as Mewtwo and Darkrai, fear Gyro Ball. Gyro Ball will almost always hit with maximum power thanks to Ferrothorn's minuscule base 20 Speed.</p>
+
+[SET]
+name: Support
+move 1: Spikes 
+move 2: Power Whip / Gyro Ball
+move 3: Gyro Ball / Leech Seed
+move 4: Stealth Rock / Protect / Thunder Wave
+item: Leftovers
+nature: Sassy
+evs: 252 HP / 48 Atk / 208 SpD 
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>Ferrothorn can be a great support Pokemon with its excellent movepool and typing. It can switch into many sweepers and users of Choice items, and set up entry hazards while the opponent either does little damage or switches. Ferrothorn can repeat this process many times, and can thus aid a stall team greatly. Due to its great typing and decent Attack, it can not only wall certain Pokemon, but also maim Pokemon with its attacks. Power Whip deals significant damage to Kyogre, Tyranitar, Groudon, and Palkia, while Gyro Ball deals heavy damage to sweepers such as Mewtwo, Shaymin-S, Giratina-O, and Darkrai. This allows Ferrothorn to take down setup sweepers attempting to boost up their stats while Ferrothorn sets up entry hazards. This makes Ferrothorn exceptionally hard to set up on and take down. Ferrothorn's Iron Barbs ability allows it to wear down the opponent even further when the opponent makes contact with it. With a combination of Leech Seed and Protect, Ferrothorn can even stall out a sweeper.</p> 
+
+<p>Spikes is an obvious move for Ferrothorn. It can set up layers easily and wear down opposing Pokemon when they switch in. Power Whip takes down Kyogre and Groudon, which set up weather that might be undesirable for your team. Gyro Ball can deal heavy damage to frailer sweepers and prevents them from setting up. Leech Seed and Protect are useful for wearing down the opponent as well as providing self-recovery, making Ferrothorn exceptionally hard to take down. Protect can also scout for moves that can KO Ferrothorn, such as Hidden Power Fire and Fire Blast. If your team lacks it, Stealth Rock is vital to hurt any switch-in. Thunder Wave may be used to cripple an opposing sweeper, but should not be used with Gyro Ball as its power will be severely weakened.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The choice between Power Whip and Gyro Ball depends on whether you fear Pokemon that can set up weather, or fast but frail sweepers. If one prefers Ferrothorn to live longer and deal gradual instead of immediate damage, they should run Leech Seed and Protect over Gyro Ball and Stealth Rock. If a team already has a Stealth Rock user, then Ferrothorn should run Leech Seed over Stealth Rock. If Ferrothorn is not running Gyro Ball, a Careful nature may be used. If Ferrothorn's team fears physical sweepers more than special sweepers, then it can choose to run Defense EVs instead of Special Defense. The EV spread given allows Ferrothorn to achieve a ton of special bulk while retaining the ability to break 252 HP Dark Arceus's Substitutes with Power Whip; it would otherwise be extremely threatening to stall teams.</p>
+
+<p>Rain support is very useful to weaken Fire-type attacks thrown at Ferrothorn. When considering Ferrothorn's immense bulk, it can survive Fire-type attacks that it would normally succumb to in the rain. This makes Ferrothorn even harder to take down. Toxic Spikes support aids Ferrothorn when stalling out opponents with Leech Seed. Giratina-O is a great teammate for Ferrothorn, as their typings complement each other well. Giratina-O can also take down Forretress, preventing it from using Rapid Spin. Ferrothorn fears the sun as it is then vulnerable to common Fire-type moves used by Pokemon such as Ho-Oh, Reshiram, Palkia, and Dialga.</p>
+
+[SET]
+name: Choice Band
+move 1: Power Whip
+move 2: Gyro Ball
+move 3: Bulldoze
+move 4: Explosion / Spikes
+item: Choice Band
+nature: Brave
+evs: 252 HP / 252 Atk / 4 SpD
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>While it seems absurd to slap a Choice Band on such a defensive Pokemon, Ferrothorn is surprisingly powerful and can take down many common switch-ins. Ferrothorn has a very reasonable base Attack of 94, which seems low in the Uber tier until one realizes the power of its STAB Power Whip and Gyro Ball. Due to Ferrothorn's exceptionally low Speed, its Gyro Ball can almost always reach its maximum Base Power, and OHKO many offensive threats such as Mewtwo, Darkrai, and Shaymin-S, while 2HKOing some defensive threats such as Arceus, Lugia, and Giratina-O. Even Chansey is 2HKOed by Power Whip. With such powerful moves, Ferrothorn can easily prevent bulky Calm Mind sweepers such as Kyogre, Arceus, and Giratina-O from setting up on it, and 2HKO common switch-ins, expecting the support set.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Due to Ferrothorn's unimpressive offensive movepool, the last two slots are mainly fillers. Bulldoze can deal reasonable damage to Steel-types that resist both Power Whip and Gyro Ball, such as Dialga, Jirachi, and Steel Arceus. Explosion is a powerful suicide attack Ferrothorn can use at low health, and can be used to prevent Ferrothorn from becoming setup bait. Leech Seed may also be used for recovery and to wear down opponents, but being locked into it would cause obvious problems, and likely force Ferrothorn to switch out. Despite running an offensive set, Ferrothorn is still very bulky, as no Speed EVs are required due to its inability to outrun anything. This allows it to effectively sponge hits while unleashing powerful attacks.</p>
+
+<p>The following calculations prove how powerful Choice Band Ferrothorn is:</p>
+
+<ul class="damage_calculation">
+<li>Gyro Ball vs. 4/0 Mewtwo - 99.4% - 117.2%</li>
+<li>Gyro Ball vs. 4/0 Darkrai - 125.3% - 147.7%</li>
+<li>Gyro Ball vs. 4/0 Shaymin-S - 119.6% - 141.1%</li>
+<li>Gyro Ball vs. 4/0 Arceus - 72.3% - 85.1%</li>
+<li>Gyro Ball vs. 0/0 Giratina-O - 66.7% - 78.5%</li>
+<li>Gyro Ball vs. 32/0 Rayquaza - 89.4% - 105.3%</li>
+<li>Gyro Ball vs. 4/0 Reshiram - 47.1% - 55.6%</li>
+<li>Gyro Ball vs. 252/64 Lugia - 53.4% - 63%</li>
+<li>Power Whip vs. 4/252 Chansey - 58.1% - 68.4%</li>
+<li>Power Whip vs. 4/0 Kyogre - 149.7% - 177.2%</li>
+<li>Power Whip vs. 252/252+ Groudon - 66.8% - 78.7%</li>
+<li>Power Whip vs. 0/0 Palkia - 81.6% - 96.3%</li>
+<li>Power Whip vs. 0/0 Tyranitar - 112.4% - 132.6%</li>
+</ul>
+
+[Other Options]
+
+<p>Ferrothorn does not have many other options due to its limited movepool. Thunder Wave may be used to cripple common switch-ins at the cost of a weakened Gyro Ball. Explosion may be used as a last resort move or when Ferrothorn has fulfilled its job of setting up entry hazards. Extra Attack EVs on the support set may help in taking down some setup sweepers. A Curse set is also usable due to Ferrothorn's great bulk and decent power. Such a set could work well with rain support, which weakens Fire-type moves. However, Ferrothorn lacks a reliable recovery move, making it hard for it to survive for long. Toxic is useful for crippling opposing Pokemon, preventing them from setting up on Ferrothorn as they will inevitably be worn down. Rest may also be used as it is the only way for Ferrothorn to recover HP aside from Leech Seed, allowing Ferrothorn to regain health in order to set up again. However, using a cleric along with this set is advisable. Rocky Helmet is also an option in order to deal solid damage every time a physical attacker hits Ferrothorn. This is best used in conjunction with Leech Seed and Protect.</p>
+
+[Checks and Counters]
+
+<p>Pokemon that resist both Ferrothorn's STAB attacks can comfortably switch in and set up or KO it. This includes Skarmory, Forretress, Steel Arceus, Ho-Oh, and Reshiram; just be aware that turns spent switching in or setting up are turns Ferrothorn can use to lay down entry hazards. Any Pokemon with Fire-type attacks in the sun can KO Ferrothorn easily. This includes Pokemon such as Palkia, Dialga, and Rayquaza. However, in the rain, Ferrothorn is a little harder to take down even with Fire-type attacks. Forretress can easily spin away anything Ferrothorn sets up and barely takes any damage from Ferrothorn's attacks. Bulkier Pokemon can also set up on Ferrothorn, provided they have a recovery move and decent defenses. This includes Ghost Arceus and Lugia.</p>

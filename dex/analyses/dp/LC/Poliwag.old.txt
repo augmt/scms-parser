@@ -1,0 +1,71 @@
+[Overview]
+
+<p>Poliwag is an interesting Pokemon. On the one hand, it has a great Speed stat and a solid typing. It is also the fastest user of Hypnosis in LC, which is definitely a bonus. Its ability allows it to potentially restore one-quarter of its health when it switches in - never a bad thing, and it enjoys a wide array of interesting moves to work with. On the other hand, Poliwag suffers from a lot of downfalls. Its offensive stats aren't the greatest, and Poliwag is very frail. Though its support movepool is pretty darn impressive, its offensive movepool is awfully poor. All in all, Poliwag can be a destructive Pokemon, just be sure to use it to its strengths.</p>
+
+[SET]
+name: Special Attacker
+move 1: Hypnosis
+move 2: Hydro Pump / Surf
+move 3: Hidden Power Electric
+move 4: Ice Beam
+item: Life Orb / Oran Berry
+ability: Water Absorb
+nature: Timid
+evs: 36 Def / 200 SpA / 36 SpD / 196 Spe
+ivs: 3 HP
+
+[SET COMMENTS]
+
+<p>At first glance, this set seems like an inferior Staryu or Chinchou, but that is certainly not the case. Poliwag has access to Hypnosis, something most Water-types wish they could have, and is the fastest user of it in Little Cup (tied with Meowth). This allows Poliwag to have its own niche in the metagame, allowing it to stand out amongst the myriad other Water-types in LC. Hydro Pump is a great STAB for Poliwag to have, though its Special Attack is a bit lacking. Hidden Power Electric and Ice Beam pair well together, forming "BoltBeam" coverage. Unlike most special sweepers, this set is not directly countered by Munchlax. Even if Hypnosis misses as Munchlax switches in, Poliwag will get another chance to put the menacing blob to sleep. Life Orb is vital to the success of this set, as Poliwag needs to hit as hard as possible. The EVs maximize Poliwag's Special Attack and Speed, and the remaining EVs give Poliwag an extra point in both of its defenses. 200 Special Attack EVs are needed to make up for the IV loss when running Hidden Power Electric. Its HP IV is reduced to 3 so Poliwag only loses 1 HP from Life Orb recoil when it attacks.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Though this set is Poliwag's best chance at success in the current metagame, it still has a lot of flaws. To begin with, Poliwag only hits 13 Special Attack, so a bunch of Pokemon will be able to switch in and take an attack or two with ease. In addition, it can be revenge killed by many Choice Scarf sweepers, especially if Poliwag has already put another Pokemon to sleep. Hidden Power Grass is an interesting option on this set, as it still hits most Water-types just as hard as Hidden Power Electric, and gets bonus coverage on Chinchou and Wooper, two surefire counters to this set. However, Poliwag would lose to Mantyke if it doesn't have HP Electric.</p>
+
+<p>Choice Scarf Snover resists Poliwag's STAB attack, and can easily OHKO Poliwag with a STAB super effective Energy Ball. For that reason, Munchlax is a great teammate for Poliwag. Its high Special Defense will allow it to switch into Snover with impunity and trap it with Pursuit, or simply go for the jugular with Fire Punch. Munchlax can also handle Chinchou, a Pokemon that counters most Poliwag quite easily. Since this set will also lose to Choice Scarf Mankey and its Vital Spirit, Duskull is a great partner for this set. It can come in on any of Mankey's attacks and threaten it with a Will-O-Wisp.</p>
+
+[SET]
+name: Belly Drum
+move 1: Belly Drum
+move 2: Hypnosis / Encore
+move 3: Waterfall
+move 4: Return
+item: Oran Berry
+ability: Water Absorb
+nature: Jolly
+evs: 196 Atk / 36 Def / 36 SpD / 196 Spe
+
+[SET COMMENTS]
+
+<p>Though this set is highly risky, Poliwag can become a devastating sweeper given the right support and circumstances. Belly Drum quadruples Poliwag's Attack stat. Encore or Hypnosis are also vital so Poliwag can safely use Belly Drum. Hypnosis is arguably the better option, despite its shaky accuracy. However, Encore can be used to lock Poliwag's opponent into a Water-type attack or a setup move, giving Poliwag a free Belly Drum no matter what they do. Waterfall is a good STAB attack for Poliwag, since it has decent power and a 20% chance of flinching the opponent. In the final slot, Return is the best option, as it grants Poliwag perfect neutral coverage in Little Cup when used in tandem with Waterfall. An Oran Berry is absolutely necessary so Poliwag will be at full health after using Belly Drum. A Jolly nature and 196 Speed EVs are essential because Poliwag needs all the Speed it can get. Attack is also maximized, and the remaining EVs give Poliwag an extra point in both its defenses. Poliwag does not need to invest in HP because it already has 20 (a number divisible by 4) without any investment.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Since Poliwag lacks any form of priority, Pokemon with priority can beat this set before Poliwag can set up. Because this set can only be used once per battle, it is imperative to remove priority users like Croagunk and Dratini. Bronzor is a great partner for this purpose, as it can OHKO Croagunk with Psychic and dent Dratini with Hidden Power Ice. Bronzor can also set up Stealth Rock, which effectively removes the Focus Sashes on any Pokemon trying to revenge kill Poliwag; it is a great user of dual screens, which makes Poliwag harder to revenge kill. Rain Dance supporters are also helpful partners, since they can end harmful weather effects and potentially give Poliwag's Waterfall a significant boost. In this case, Voltorb is the premier choice as a supporter, as it can set up Rain Dance and then Explode, allowing Poliwag to get a clean switch in. Gligar is another great choice as a partner, as it is immune to Electric-type attacks. In addition, it can Baton Pass Poliwag an Agility, meaning that Poliwag does not have to invest in Speed. Munchlax can take out special Choice Scarf sweepers with Return or trap them with Pursuit, since Poliwag doesn't have great defenses and can be revenge killed quite easily. Rapid Spinners like Pineco are also good teammates, since it is vital for Poliwag to be at full health when it switches in.</p>
+
+[Set]
+name: Choice Scarf Lead
+move 1: Encore
+move 2: Hypnosis
+move 3: Waterfall
+move 4: Return
+item: Choice Scarf
+ability: Water Absorb
+nature: Jolly
+evs: 116 HP / 196 Atk / 196 Spe
+
+[SET COMMENTS]
+
+<p>Because of Poliwag's blistering Speed and access to Encore and Hypnosis, it can also function as an efficient anti-lead. If facing a Fake Out user such as Meowth or Aipom, the best idea would be to take the attack, then lock it into the move the next turn with Encore. If facing a Stealth Rock lead like Bronzor, putting it to sleep via Hypnosis on the first turn is the better option. However, Poliwag should just attack if the opposing Pokemon is weak to Waterfall, such as Phanpy and Hippopotas. The Choice Scarf allows Poliwag to beat all Pokemon up to Choice Scarf 19 Speed Pokemon. In addition, this Poliwag set can also function as a defensive pivot mid-game. It can come in on Carvanha's Substitute or any of its Water-type attacks thanks to Water Absorb and Encore it, while it cannot do anything back to Poliwag. It can also come in on Staryu's or Mantyke's Hydro Pump and force them to switch out after Encore. The EVs maximize its Attack and Speed, with the remainder going to HP.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Since Poliwag will likely be Encoring the opponent's Water-type attacks, it is imperative that a teammate can also take Water-type attacks well. Water Absorb Mantyke is a good candidate, and although it shares an Electric-type weakness with Poliwag, it can take out the opposing Water-type with Hidden Power Electric or set up on it with Agility. Other setup sweepers are also good options as teammates, since they will appreciate Encored Fake Outs, Substitutes, and Protects. Swords Dance or Rock Polish Gligar is a good teammate, since it is immune to Electric, neutral to Grass, and can increase its stats to crazy heights after just a single boost.</p>
+
+[Other Options]
+
+<p>Poliwag actually has some interesting options in its arsenal of moves. It has Wake-Up Slap, which can be useful. With a Jolly nature and max Attack EVs, Poliwag has a 25% chance of OHKOing a sleeping Munchlax. Poliwag also gets Mud Shot and Icy Wind, two attacks that have a 100% chance of lowering the opponent's Speed by one stage. Poliwag has a few neat support moves. It gets Toxic and Swagger, but doesn't really have the bulk to use either move effectively. Body Slam is an interesting option over Return, as it has a 30% chance of inflicting paralysis. A physical moveset consisting of Hypnosis, Waterfall, Return or Body Slam, and Wake-Up Slap is also viable, as Poliwag's Attack stat is higher than its Special Attack, but the specially-based set is preferred because it gets better coverage. In addition, Poliwag can run a Substitute + Encore set, as it can trap an opponent into a weak or support move, then set up with Substitute. A Substitute + Hypnosis set may seem viable at first, but Pokemon like Gastly are better options for such a role. Finally, Mind Reader seems like a decent move to accompany Hypnosis, but Poliwag doesn't have the time nor bulk to pull it off.</p>
+
+[Checks and Counters]
+
+<p>Mankey is one of the best checks to Poliwag, as it cannot be put to sleep (courtesy of Vital Spirit) and can OHKO Poliwag with Close Combat. Other potential counters to Poliwag must contend with the incapacitating threat of Hypnosis, so it's best to send them in after Sleep Clause has been activated. Most Choice Scarf Pokemon fare well against Poliwag, especially Snover and Chinchou. Wooper is immune to Water and can threaten Poliwag with a STAB Earthquake. Munchlax can take all of Poliwag's special attacks and KO with Return or trap with Pursuit. Because of Poliwag's thin defenses, most neutral attacks will strip off more than half of its health. That, combined with Life Orb recoil and possible Sandstorm/Hail damage, will most likely spell Poliwag's doom.</p>

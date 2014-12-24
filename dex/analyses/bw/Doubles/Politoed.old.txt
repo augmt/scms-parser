@@ -1,0 +1,54 @@
+[Overview]
+
+<p>Politoed is only used because of Drizzle. However, that doesn't mean it's a complete waste of a team slot; its actually decent defenses and good defensive typing give it surprising longevity when running a fully defensive support set, which it can use to soften up the opposition with its decent supporting movepool. Offensively, the rain it provides boosts the power of its Water-type moves to high levels, allowing it to dish out some decent damage with Choice Specs or a Water Gem. While Politoed, at first glance, seems to be a pretty poor Water-type, Drizzle makes it all worthwhile, and unlike Ninetales, it can still hold its own in battle.</p>
+
+[SET]
+name: Support
+move 1: Scald
+move 2: Protect
+move 3: Icy Wind
+move 4: Helping Hand / Encore
+item: Leftovers
+ability: Drizzle
+nature: Relaxed
+evs: 252 HP / 200 Def / 56 SpD
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>This set maximizes Politoed's longevity, ensuring it will still be there to set Drizzle again should you need it to. Scald is an obligatory STAB move, and, thanks to rain, still hits hard enough to 2HKO frailer Pokemon, such as Tornadus, and those weak to Water-type moves. Being such a critical target for opposing weather teams, Politoed needs Protect, which buys it at least a turn of Leftovers recovery and often a completely free turn. Icy Wind can be incredibly useful for slowing down faster opponents so that Politoed's partner can KO them without taking a hit. Politoed's fourth move depends on your team's needs: Helping Hand is generally preferred for its utility, but Encore is the better choice if your team is having trouble with defensive Pokemon such as Ferrothorn and Cresselia.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>A Politoed with the given EVs will never be OHKOed by Latios's Dragon Gem-boosted Draco Meteor; the rest of the EVs are dumped into Defense to maximize Politoed's mixed bulk. Speed is entirely minimized so Politoed can set its weather against opposing Tyranitar and Abomasnow who are not similarly prepared. Alternatively, Politoed can run a Bold nature with 31 Speed IVs to outspeed Tyranitar (and Scizor) and smack it with a Scald, but because Scald only 4HKOes in sand, setting rain on a double switch is generally more useful, especially as only a severely weakened Politoed can be KOed by Tyranitar. Sitrus Berry is a viable option on any defensive set, but Politoed usually survives for more than four turns, which makes Leftovers the superior option in the long run. If neither Encore nor Helping Hand are very appealing, Politoed can run Perish Song, which can end endgame stalemates and force out troublesome Pokemon who are behind Substitutes or have stat boosts.</p>
+
+<p>This set works exceptionally well when teamed up with Dragon-type Pokemon such as Latios and Kyurem-B, most of whom struggle only with faster Pokemon and Choice Scarf users, which Politoed is more than happy to slow down with an Icy Wind. After the faster threats are neutralized, Helping Hand-boosted Dragon-type moves are virtually guaranteed to KO something on the opposing team. On the other hand, this set also works wonders when paired up with a highly defensive Pokemon such as Hitmontop, Ferrothorn, or Cresselia, as Politoed can spread burns, stat drops, and chip damage to soften up the opposing team. And obviously, being Politoed, this set works best on a team with Swift Swim attackers such as Kingdra and Ludicolo, though when paired with them, Politoed will often find its Icy Wind and redundant Water-type coverage to be dead weight.</p>
+
+[SET]
+name: Offensive
+move 1: Hydro Pump
+move 2: Ice Beam
+move 3: Hidden Power Grass
+move 4: Scald / Protect
+item: Choice Specs / Water Gem
+ability: Drizzle
+nature: Modest
+evs: 252 HP / 196 SpA / 56 SpD / 4 Spe
+
+[SET COMMENTS]
+
+<p>If you want a Politoed set that won't be a drain on the offensive momentum of your heavy offense rain team, look no further than this one. An item-boosted, STAB Hydro Pump hits incredibly hard under rain, even off of Politoed's below-average base Special Attack. Politoed's two coverage moves in Ice Beam and Hidden Power Grass provide super effective hits on Dragon-type Pokemon and Water-type Pokemon, such as Gastrodon and Rotom-W, both of which are pests for any rain team, respectively. Choice Specs adds consistent power to all of Politoed's moves, while Water Gem allows it to switch between moves, a boon which cannot be underestimated. The only notable OHKO that Water Gem misses out on is Gastrodon, so the drop in power is not as severe as it might seem--in general, even Choice Specs variants should stick to Hydro Pump, as Politoed's coverage moves lack the punch to OHKO what they target. Choice Specs variants obviously have no use for Protect and thus should use Scald due to its perfect accuracy, whereas Water Gem variants should opt for Protect due to its utility.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>While Politoed is still EVed to survive Latios's Draco Meteor, the rest of its EVs have been moved into Special Attack to maximize damage output (with 4 Speed to outrun minimum Speed Metagross and KO with Hydro Pump). When this Politoed is paired up with multiple Swift Swim users such as Kingdra and Kabutops, it can quickly overwhelm the opponent's defenses. This is also the set for any team that is running Politoed as an anti-weather measure and has no other Water-type Pokemon. Politoed can run maximum Speed to Speed tie Breloom and subsequently use Ice Beam before it can get off a Bullet Seed, but because most Breloom use Focus Sash, the EVs often end up being wasted. Water Gem variants can sacrifice a coverage move for a move from the support set's repertoire, but because the EVs are not optimized for survivability, they will not get as much use out of them. Alternatively, either variant can switch out Hidden Power Grass for Hidden Power Electric and invest 8 more Speed EVs to beat Gyarados; typically, though, Gyarados is less of a threat to rain teams (and less common) than Rotom-W and Gastrodon are. The last viable move is Surf, being Politoed's only spread move, but hitting its partner is very undesirable.</p>
+
+[Other Options]
+
+<p>Politoed is probably the worst choice on any rain team for a backup Rain Dance user because it's almost always moving last, but it's still a possibility. Wacan Berry can be run to survive the strong Electric-type attacks Politoed attracts, such as those from Thundurus and Rotom-W, but Leftovers, Water Gem, and Choice Specs are usually better options, due to the longevity the first provides and the power boost the last two provide, so this is thus generally inadvisable. Similarly, Chesto Berry and Rest can be run to both heal status and get full recovery; however, between Rest and Protect, Politoed' moveset will become pretty barren. Hypnosis is a great choice for either set, if you have Gravity or don't mind it utterly failing 40% of the time, being able to nearly take any Pokemon out of the match. Haze can be used on the defensive set to remove a partner's Draco Meteor or Intimidate stat drops as well as neuter an opponent's stat boost users. However, it comes with the downside of removing any work you put into dropping your opponent's stats and, due to being situational, is generally worse than Icy Wind. Choice Scarf is a possible item on Politoed, but its meager boost isn't worth the huge drop in power and bulk from losing Choice Specs and changing HP EVs to Speed EVs.</p>
+
+[Checks and Counters]
+
+<p>Basically all Electric- and Grass-type Pokemon make great Politoed counters, as they can OHKO it and withstand whatever it tries to throw at them. Abomasnow is worthy of special mention because of its ability to remove the rain that Politoed sets, thus making it fail at its main role of weather starter. Thundurus is also a particularly good check, as it can OHKO with Electric Gem Thunderbolt and paralyze the Swift Swim users that often accompany Politoed (though it must be wary of switching in on an Icy Wind). Thanks to its resistance to Water- and Ice-type moves, Rotom-W can switch into Politoed with relative impunity and threaten it with a powerful Thunderbolt or Thunder. Dragon-types can beat the offensive set handily but must beware an Icy Wind from the defensive set. Gastrodon has nothing to fear from the defensive set, but an offensive set's Hidden Power Grass will ruin it.</p>
+
+<p>Apart from KOing Politoed, the most effective way to counter it is to simply ruin the tactics that rain teams commonly employ. Abomasnow and Thundurus again get a mention, the former for removing rain with its own ability and the latter for having Prankster Thunder Wave to slow down Swift Swim users. Tyranitar, even though it can't stomach a strong hit from Politoed, can also remove Drizzle with Sand Stream, putting a stop to a rain team's momentum. Amoonguss, despite its Grass typing, lacks the offensive presence to threaten rain teams effectively, but it can use Rage Powder to redirect strong single-target Water-type attacks to itself, taking pittance from them. If all else fails, a manual Sunny Day from the likes of Cresselia can be a real hassle for rain teams and reduce Politoed's usefulness.</p>

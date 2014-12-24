@@ -1,0 +1,43 @@
+[Overview]
+
+<p>Gabite is almost totally outclassed by Druddigon, who offers nearly the same power while holding Leftovers that Gabite does while holding Choice Band (and far more power with a Life Orb or Choice Band of its own). However, Gabite does have two major draws over Druddigon: a trolly base 82 Speed and STAB Earthquake. Thanks to its Speed, Gabite is able to outrun the ever-popular base 80s and OHKO most of them, most notably Kabutops and Gallade. Its STAB Earthquake gives it a tool to blast away Steel-types, opening up a sweep for itself or a teammate later in the match. Its typing, aside from being godly offensively, is decent defensively as well, sporting a resistance to Rock (and subsequently Stealth Rock) and an immunity to Electric. However, a neutrality to Water and Grass sucks, and Gabite is very frail, meaning most decently powerful attackers will have no problem OHKOing it. All in all, Gabite offers a unique offensive presence in the tier with its Choice Band set, but there's literally no reason to use it outside of this niche. Druddigon simply outclasses it otherwise.</p>
+
+[SET]
+name: Choice Band
+move 1: Outrage
+move 2: Earthquake
+move 3: Stone Edge
+move 4: Fire Blast
+item: Choice Band
+ability: Rough Skin
+nature: Naive
+evs: 252 Atk / 16 SpA / 240 Spe
+
+[SET COMMENTS]
+
+<p>Even though Gabite's stats are mediocre overall, Outrage from a base 90 Attack stat hits hard enough, even having a slim chance to 2HKO Poliwrath. Outrage allows Gabite to excel at weakening opponents early-game, or cleaning up at the end of a game, depending on when you bring it out. Earthquake is a blessing for Gabite, as it allows Gabite to get past Steel-types, most notably Steelix, Aggron, and Escavalier. It also gives Gabite a way to destroy Fire- and Electric-types, such as Magmortar and Lanturn, without having to resort to Outrage. Stone Edge should be used when facing Flying-types such as Sigilyph and Moltres, since being locked into Outrage might put you at a disadvantage. Fire Blast rounds off the set, giving Gabite a tool to annihilate a few obstacles it wouldn't be able to otherwise. With Fire Blast and entry hazards, Gabite cleanly 2HKOes Escavalier, Ferroseed, and Tangrowth, and easily OHKOes Durant. Overall, Gabite should be paired with another strong attacker and be used to either weaken opposing walls early-game or pick off foes later in the game.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Here are some damage calculations to show the functionality of Fire Blast:</p>
+
+<ul class="damage_calculation">
+<li>Fire Blast vs. 248 HP / 8 SpD Escavalier: (57.14 - 67.63%)</li>
+<li>Fire Blast vs. 252 HP / 4 SpD Eviolite Ferroseed: (53.42 - 64.38%)</li>
+<li>Fire Blast vs. 252 HP / 0 SpD Tangrowth: (44.05 - 51.98%)</li>
+<li>Fire Blast vs. 4 HP / 0 SpD Durant: (141.08 - 167.44%)</li>
+</ul>
+
+<p>The EVs and nature maximize Attack and give Gabite enough Speed to outpace max Speed base 80s. The leftover EVs are placed in Special Attack and a Naive nature is used over Jolly to boost Fire Blast a bit. Dual Chop can go in the last slot over Fire Blast as an alternative Dragon-type move that can be used if being locked into Outrage would be unfavorable, and it also has the perk of breaking through Substitutes, Focus Sashes, and Sturdy. Dragon Claw is another option, though it offers little over Dual Chop apart from the increased accuracy. Life Orb is a usable option over Choice Band, and it adds more oomph to Fire Blast, but the decrease in power on Gabite's physical moves is substantial and the main draw of this set is its combination of power and speed.</p>
+
+<p>Gabite's choices of teammates are quite flexible, but it should usually be paired with a fellow wallbreaker. Gallade is the first partner that comes to mind, as its excellent coverage combined with a great Attack stat will help the pair overcome most physical walls. In addition, Gallade can take out troublesome Steel-types with its powerful Close Combat. Other solid choices include Entei, Absol, and Durant. Fraxure makes for an interesting partner, as the two Dragon-types can overwhelm the opponent, and Fraxure and Gabite can weaken Steel-types with Low Kick and Earthquake, respectively. Magneton support is also incredible as it lowers the need for Gabite to predict good times to use Earthquake, and instead, allows it to just blow the opponent away with Outrage.</p>
+
+<p>Entry hazard support is a huge deal when using Gabite, as with just Stealth Rock and one layer of Spikes, many 2HKOs and 3HKOs are turned into OHKOs and 2HKOs, most notably on the following: Feraligatr, Gallade, offensive Hariyama, Choice Scarf Rotom-C, Steelix, and Tangrowth. Omastar sets up both hazards and can take Ice-type attacks for Gabite, and Gabite can come in on Electric-type attacks aimed at Omastar. Ferroseed sets up both as well and can sponge the rare Dragon-type attacks aimed at Gabite. Smeargle is a great choice for a hazard user on an offensive team because it will likely get multiple layers up quite early in the game. Other than these near-mandatory teammates, Pokemon weak to Electric-type foes like having Gabite as a partner, as it can get a free switch into a predicted Electric-type move and wreak havoc. Pokemon that can defeat the bulkier Grass- and Steel-types that trouble Gabite, such as Entei and Magmortar, are good teammates. Finally, priority from Pokemon such as Entei, Kabutops, and Absol can take out threats that are faster than Gabite.</p>
+
+[Other Options]
+
+<p>There is pretty much no other reason to use Gabite apart from its Choice Band set. Choice Scarf might look tempting, but even with Outrage, Gabite won't be hitting hard enough for it to be worth it. A Hone Claws set might seem interesting, but Gabite is amazingly frail even with Eviolite. Finally, Bulldoze can be cool, but it doesn't work too well on the Choice Band set.</p>
+
+[Checks and Counters]
+
+<p>Gabite is quite frail and thus relatively easy to take down without a major fight. Pokemon with Levitate can come in on Gabite's STAB Earthquake; physically defensive Uxie does this well in particular, as it also avoids the 2HKO from Outrage. Steel-types such as Steelix, Aggron, Klinklang, and Escavalier resist Outrage, but they all must be careful of Earthquake and Fire Blast. Gabite is much easier to deal with once you figure out which move it is locked into. Tangrowth fails to be 2HKOed by any of Gabite's physical attacks and can recover any of the damage with Synthesis and Regenerator. Gabite is frail, so Extreme Speed from Entei and Sucker Punch from Spiritomb can knock it out when weakened. Most Pokemon that are faster than Gabite can easily revenge kill it, good examples are Cryogonal, Jynx, and Moltres. Other Pokemon with Ice-type moves, such as Mesprit, can take care of Gabite. Burning Gabite completely neuters it, so Scald from Slowking (which 2HKOes Gabite anyway) and Will-O-Wisp from defensive Spiritomb are good options as well. When facing Gabite, just try to get as much damage on it as possible, as it can't take many hits and will not last long. Just remember when facing it that its main goal is to wallbreak; it most assuredly has a sweeping partner waiting in the wings so have a gameplan in mind to deal with its teammate as well.</p>

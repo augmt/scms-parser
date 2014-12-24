@@ -1,0 +1,53 @@
+[Overview]
+
+<p>In the past, Charizard had never been considered the best contender for serious competitive play due to its average stats, with the exception of Special Attack and Speed. However, BW has blessed it with an amazing ability in Solar Power, which increases the power of its special attacks by 50% during strong sunlight. Under the sun, Charizard has enormous destructive power and exceptional coverage with its decent offensive movepool. Unfortunately, Solar Power strips away 1/8 of Charizard's health every turn in return for the power boost, meaning that with Life Orb recoil and Stealth Rock damage, it won't be around for very long. Still, to remedy this, either Leftovers or a Choice item can be used, enhancing Charizard's longevity. Overall, despite Charizard's obviously crippling flaws, it can be a monstrous threat under the sun.</p>
+
+[SET]
+name: Solar Power
+move 1: Sunny Day
+move 2: Fire Blast
+move 3: Air Slash
+move 4: Solar Beam / Hidden Power Grass
+item: Leftovers
+ability: Solar Power
+nature: Timid
+evs: 4 Def / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>This set utilizes Charizard's Dream World ability, Solar Power, to wreak havoc on nearly everything in its path. Despite sandstorm becoming increasingly common in the UU metagame, Sunny Day gives Charizard a good chance to sweep. Although Charizard only has three attacking moves, the coverage that they provide is superb, and Charizard also gains STAB on two of them. Fire Blast becomes disgustingly powerful with a sun and Solar Power boost, while Air Slash works well with Charizard's decent Speed, as the 30% flinch chance can come in handy. Solar Beam is the final coverage move, and while it may seem risky in a metagame filled with opposing weather inducers, it takes care of bulky Water-types such as Suicune and Milotic coming in to take a Fire Blast or Air Slash. Hidden Power Grass is the safer coverage option as it can freely be used even in the absence of sunlight, but the power drop is significant, causing Charizard to miss out on some crucial OHKOes and 2HKOes.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Because of the health lost from Solar Power and the recoil that Life Orb would bring, Leftovers is the superior item choice for Solar Power Charizard, allowing it to stick around for much longer. However, Charizard has several other viable item options. Lum Berry will be a nasty surprise for opponents trying to use status moves such as Thunder Wave and Toxic on Charizard, essentially giving it a free turn, but it only works once. Heat Rock can be used to increase the number of turns of strong sunlight from five to eight, but this is not really recommended as Charizard succumbs even faster due to Solar Power. Charizard should always have an EV spread that maximizes Speed and Special Attack along with a Timid nature, as tying with Pokemon having base 100 Speed is very important. With regard to other move options, Charizard has a few at its disposal, though they will usually provide redundant coverage. Hidden Power Ice can be used to hit Dragon-types hard, especially Flygon and Altaria, while Flamethrower is a more reliable, albeit much less powerful, alternative to Fire Blast. Focus Blast hits the Rock-types that resist Charizard's STAB moves, though Solar Beam / Hidden Power Grass already does the same thing. Any teammates that can reliably set up sun, such as Uxie, are greatly appreciated so that Charizard does not have to waste a turn setting up sun itself. Since Charizard has such a crippling 4x weakness to Stealth Rock, teammates that can rid the field of them will be very useful. This includes Rapid Spin users such as Hitmontop and Pokemon with the Magic Bounce ability, such as Xatu, that can reflect the entry hazards back just by switching in.</p> 
+
+[SET]
+name: Choice 
+move 1: Fire Blast
+move 2: Air Slash
+move 3: Solar Beam / Hidden Power Grass
+move 4: Focus Blast
+item: Choice Scarf / Choice Specs
+ability: Solar Power
+nature: Modest / Timid
+evs: 4 Def / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>In the sun, Choice Specs Charizard can wreak havoc on almost any team not carrying a Flash Fire user. Fire Blast has a ridiculous 270 Base Power after STAB and the boost from the sun, and maims everything in sight that is not immune to it. Air Slash is Charizard's second STAB move, and is relatively strong after the Special Attack boost from Solar Power, though it provides nothing like the sheer destruction that Fire Blast brings to the table. Solar Beam allows Charizard to destroy bulky Water-type switch-ins, as the charge turn is nullified by strong sunlight. If you don't like the unreliability of Solar Beam, Hidden Power Grass is a reliable, albeit much weaker, alternative. In the final moveslot, Focus Blast is there pretty much just to hit Rock-types, as they resist Charizard's dual STAB moves. However, it will rarely see use as in the sun, as Fire Blast hits every other target harder.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>As a sweeper, and especially as a Choice item user with a typing that leaves it with a 4x weakness to Stealth Rock, Charizard requires the support of a Rapid Spin user or a Magic Bounce user to keep Stealth Rock off the field. In addition, this set is heavily reliant on sun support, as Charizard cannot set up its own sun while holding a Choice item. For that reason, reliable Sunny Day users such as Uxie are helpful teammates. Uxie can also set up Reflect and Light Screen, making it easier for Charizard to sweep.</p>
+
+<p>Choosing between Choice Specs and Choice Scarf can be a difficult decision; however, it all depends on what the team needs and how it can support either choice. For example, even though equipping Charizard with Choice Specs provides enormous power, it is easily susceptible to being revenge killed by faster Pokemon. Thus, it is important to have paralysis support when using a Choice Specs variant. Uxie has access to Thunder Wave as well as Sunny Day, allowing it to fully support Choice Specs Charizard very well. When Charizard is equipped with a Choice Scarf, however, it becomes an excellent revenge killer, as it can outrun the majority of the tier while still hitting extremely hard. Regardless, any set Charizard is running requires Sun support, as without Solar Power, Charizard becomes an extremely underwhelming and outclassed Pokemon.</p>
+
+<p>Although Fire Blast is quite powerful, there are times when Charizard may need to simply attack and then switch out. In that case, Overheat is a great alternative to Fire Blast with its higher Base Power and accuracy. The drop in Special Attack isn't especially important as being a Choice item user, Charizard will most likely be switching many times throughout the match. Flamethrower is also an option that has perfect accuracy, but is much weaker than Fire Blast or Overheat; there is almost no reason to use it over the aforementioned moves other than its perfect accuracy. The EV spread is simple, maximizing Speed and Special Attack with the remaining EVs thrown into Defense; this allows Charizard to switch into Stealth Rock twice by giving it an odd HP stat. Both Modest and Timid natures are equally viable, though it is recommended to use a Modest nature with Choice Scarf and a Timid nature with Choice Specs.</p>
+
+[Other Options]
+
+<p>Charizard has a wide variety of moves at its disposal, but unfortunately, many of them are physical, and with its sub-par Attack stat, they tend to go to waste. However, it has access to quite a few boosting moves that turn it into a viable physical attacker, albeit one that is somewhat outclassed by Arcanine and Victini. Dragon Dance, Swords Dance, and Belly Drum are all options for boosting moves, of which only Dragon Dance is worth using in serious competitive play. Unfortunately, even with the Attack boost, Charizard is doing pitiful damage to the numerous bulky Water-types that litter the UU tier. A mixed set is usable, though rather underwhelming, as spreading Charizard's EVs between its Special Attack and Attack makes its already underwhelming attacks even weaker. As a Fire-type, Charizard has access to Flame Charge with which it can use to boost its Speed; however, it has better move options and will usually end up being forced out anyway. Although Charizard has access to Roost, Substitute, and Dragon Tail, a support set is highly outclassed; with Charizard's paper-thin defenses, it won't be surviving long enough to even annoy the opponent in the slightest.</p>
+
+[Checks and Counters]
+
+<p>As far as checks and counters go, bulky Water-types are probably the best. However, they must be careful if Charizard carries Solar Beam, as with the Solar Power boost, it will most likely OHKO any bulky Water-type, including Milotic with its hefty base 125 Special Defense. Slowking and Milotic actually have the special bulk to stomach a super effective Hidden Power Grass, though Solar Beam will still probably OHKO or at least 2HKO. Stealth Rock strips away 50% of Charizard's health each time it switches in, so keeping Stealth Rock on the field is essentially a sure-fire way to prevent a possible Charizard sweep. Priority also makes quick work of Charizard, as it is quite physically frail. Although Charizard resists Mach Punch and Bullet Punch, it is susceptible to Aqua Jet and Extreme Speed, both of which have common users in Azumarill and Arcanine, respectively.</p>

@@ -1,0 +1,59 @@
+[Overview]
+
+<p>At first glance, Ariados appears nearly useless; its typing is both common and poor, giving it redundant STAB coverage and a weakness to Stealth Rock. Its stats are all mediocre except for its Attack, and even then it lacks the physical movepool to take advantage of it. It's hard to imagine why anyone would want to use Ariados given these flaws, but it does have one thing going for it: it is one of only two Pokemon in UU capable of Baton Passing a trapping move. Successfully trapping an opponent whom one of your Pokemon can set up on will often lead to an easy victory. Access to Toxic Spikes and a useful ability in Insomnia gives Ariados further value as a supporting Pokemon. It can't do much on its own, but on a team built around its strengths, Ariados is nigh-irreplaceable.</p>
+
+[SET]
+name: Baton Pass
+move 1: Baton Pass
+move 2: Spider Web
+move 3: Agility
+move 4: Bug Bite
+item: Leftovers
+ability: Insomnia
+nature: Jolly
+evs: 248 HP / 8 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>Ariados is mostly known for its near-exclusive ability to Baton Pass a trapping move; other than Absol, who is frailer and usually better off attacking directly, Ariados is the only Pokemon in UU who is capable of executing this strategy. The goal is to trap an opponent with Spider Web, then Baton Pass to a teammate who can comfortably set up on the trapped Pokemon and sweep. Since opponents will often switch out of Ariados in fear of being trapped, it's usually best to use Agility first so Ariados can outspeed the switch-in. If they bring in a Pokemon who can't OHKO Ariados and whom one of your Pokemon can set up on, trap it with Spider Web. Otherwise, simply pass the Agility boost to a teammate and save Ariados for later. Bug Bite is mostly filler, but it does decent damage if Ariados is forced to attack and can occasionally steal a Salac or Liechi Berry boost from an opponent.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>If you find yourself not using Bug Bite, there are a few other decent options you can try. Poison Jab is an alternate STAB move with a much higher base power than Bug Bite; however, the lack of coverage is disappointing. Substitute eases prediction and can make your sweeper's set-up even easier, although the likelihood of successfully passing Substitute, Agility, and Spider Web all at once is rather low. Toxic Spikes is another alternative to provide team support if Ariados manages to trap a defensive Pokemon who doesn't directly threaten it.</p>
+
+<p>Ariados needs teammates who can set up several offensive boosts against a variety of trapped Pokemon. Calm Mind Clefable is perhaps the best example; with good bulk, a pseudo-immunity to status, and Soft-Boiled for healing, it should be able to get six Calm Mind boosts quite easily against nearly any special attacker. If Ariados passes it an Agility boost as well, it can sweep the opponent's entire team with +6 Special Attack, +2 Speed, and the near-perfect coverage provided by Thunderbolt and Ice Beam. Dragon Dance Altaria is another good option. It can set up on any Pokemon who lacks an Ice- or Rock-type attack, heal itself with Roost, protect itself from status with Heal Bell or Safeguard, and sweep with +6 Dragon Claw or Outrage.</p>
+
+<p>Maximizing Speed should be your first priority, since Ariados wants to take as few hits as possible. A Jolly nature and 252 Speed EVs allow it to outspeed Swellow and neutral-natured Choice Scarf base 80s after an Agility boost. The rest of the EVs go towards improving Ariados's general bulk, but the last 8 EVs should go into Defense rather than HP to reduce the damage Ariados takes from Stealth Rock. Even with this investment in Speed and defenses, there are still many Pokemon who can prevent Ariados from being successful. Choice Scarf Moltres is the most dangerous example. It will outspeed Ariados even after an Agility, and either of its STAB attacks will easily OHKO. The same is true for Arcanine and Houndoom, although they aren't seen holding a Choice Scarf nearly as often. Almost any Choice Scarf Pokemon can 2HKO Ariados, so if Ariados thinks it's faster and tries to trap them, it will be KOed before it can use Baton Pass. Because of this, it is best not to attempt a trap-pass until you have scouted the opponent's team.</p>
+
+[SET]
+name: Toxic Spikes Lead
+move 1: Toxic Spikes
+move 2: Sucker Punch / Shadow Sneak
+move 3: Poison Jab / Bug Bite
+move 4: Protect
+item: Focus Sash
+ability: Insomnia
+nature: Adamant
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>While most people's first instinct when seeing Ariados is to assume it's a Baton Passer, it also has some useful tools that can make it a unique Toxic Spikes lead. Insomnia lets Ariados beat sleep leads such as Venusaur and Jumpluff, and access to priority attacks allows it to take down frail Focus Sash leads like Alakazam. It also has the element of surprise in its favor; since Ariados is mostly known as a trap-passer, many defensive leads will switch out of Ariados in fear of being trapped and set up on, giving Ariados a free turn to set up Toxic Spikes.</p>
+
+<p>Setting up two layers of Toxic Spikes is this set's main objective. The rest of the moves are there to help Ariados take on some common UU leads. Sucker Punch is an excellent priority attack that lets Ariados defeat faster leads who would otherwise outspeed and 2HKO it. Shadow Sneak is significantly weaker, but it's still usable if you don't like the risk of an opponent setting up on Sucker Punch. Poison Jab is Ariados's most powerful STAB attack and does solid damage to a variety of leads. Bug Bite is another option to hit Psychic-type leads harder, but the lower Base Power causes Ariados to lose to some leads whom it could otherwise beat, such as Ambipom, and Sucker Punch hits opposing Psychic-types nearly as hard anyway. Protect prevents Fake Out users from breaking Ariados's Focus Sash and can be a useful scouting move later in the match.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs focus on Attack and Speed in order to beat as many common leads as possible. With maximum Attack, Ariados can 2HKO Ambipom with Poison Jab + Sucker Punch and Choice Scarf Mesprit with two Sucker Punches, while Focus Sash prevents them from OHKOing Ariados in return. Focus Sash also guarantees that Ariados will set up both layers of Toxic Spikes against slower leads before being KOed, which is why Speed is maximized, as Ariados won't be outspeeding much otherwise.</p>
+
+<p>Ariados is completely shut down by Taunt leads and easily defeated by bulky leads who either outspeed it or have access to priority moves. Uxie is never 2HKOed even by Bug Bite and will always 2HKO Ariados with Psychic or Zen Headbutt. Spiritomb takes pitiful damage from any attack that Ariados has and can KO back with a combination of Shadow Ball and Shadow Sneak. Having a teammate such as Drapion or Spiritomb of your own who can deal with these leads is essential. Ariados is also helpless against the occasional Fire-type lead, such as Arcanine and Moltres, so Milotic or another bulky Water-type partner who can take them on is recommended. Houndoom and other Flash Fire Pokemon can also switch into a predicted Fire-type attack to grab a free boost.</p>
+
+<p>As this set's primary purpose is to set up Toxic Spikes, it should be used on a team that appreciates the gradual damage they bring to the table. In general, Toxic Spikes are most useful to stall teams that rely on residual damage to wear down the opposition. Pokemon such as SubRoost Articuno and Wish Clefable can perform their job much more easily when Toxic Spikes are in play, as it frees up a moveslot and allows them to start stalling right away rather than taking a turn to poison the opposing Pokemon first. To ensure that your hazards remain on the field, a bulky Ghost-type such as Spiritomb is recommended to block Rapid Spin. Pokemon with powerful Ground- or Psychic-type attacks are also useful to discourage Poison-types from switching in and absorbing the Toxic Spikes.</p>
+
+[Other Options]
+
+<p>There honestly isn't much else Ariados can do. Attack is its highest stat, which might suggest that an offensive set would be possible, but its offensive movepool is tiny and most of the moves have overlapping coverage. Outside of its STAB attacks, its only remotely viable physical options are Sucker Punch, Shadow Sneak, Return, Pursuit, and Bounce. Any offensive set that Ariados tries will be completely walled by Steel-types, Rock-types, and essentially every Pokemon who invests in Defense, given the low Base Power and poor super effective coverage of the aforementioned moves. Night Shade could be useful for consistent damage on the Baton Pass set since Ariados has no Attack investment, although it is useless against Normal-types. Toxic, Swagger, and Disable are all options to cripple a trapped Pokemon, but it's generally better to simply pass the trap to a sweeper right away instead of wasting turns with moves like these.</p>
+
+[Checks and Counters]
+
+<p>Moltres is the best counter thanks to its super effective STAB moves and sky-high Special Attack. Even with Light Screen up, it can still OHKO Ariados with Fire Blast. Similarly, Arcanine can KO through Reflect with a combination of Flare Blitz and Extreme Speed. Without screens, almost any Choice Scarf Pokemon who can reach 397 Speed will outspeed and 2HKO Ariados, preventing it from pulling off a trap-pass. Any Pokemon who learns Taunt, Haze, or a phazing move, like Ambipom, Milotic, and Steelix, will also ruin the spider's fun. Barring all that, simply avoid switching a non-threatening Pokemon into Ariados, such as Registeel and Chansey, as its entire strategy revolves around the trapped Pokemon being setup fodder.</p>

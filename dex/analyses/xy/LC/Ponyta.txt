@@ -1,0 +1,90 @@
+Overview
+########
+
+Ponyta has a fantastic Speed stat, allowing it to reach 19 Speed, making it one of the fastest Pokemon in Little Cup. It also has good mixed attacking stats of base 85 Attack and base 65 Special Attack, meaning it can hit hard from either attacking side. Its defensive stats aren't bad either, especially when boosted by Eviolite. Flame Body and Will-O-Wisp make Ponyta a good switch-in to physical threats, as it can often burn them. Ponyta can act as a Sunny Day setter as well, boosting its STAB moves and increasing its Morning Sun recovery. However, Ponyta's typing leaves it weak to Stealth Rock and vulnerable to Spikes, which can be fatal for it. It also either has to rely on recoil moves in Flare Blitz and Wild Charge if it chooses to go physical, or unreliable moves such as the 85% accurate Fire Blast if it chooses to go special.
+
+Eviolite
+########
+name: Eviolite
+move 1: Flare Blitz
+move 2: Morning Sun
+move 3: Will-O-Wisp / Wild Charge
+move 4: Sunny Day / Will-O-Wisp
+ability: Flame Body
+item: Eviolite
+evs: 76 Atk / 236 Def / 196 Spe
+nature: Jolly
+
+Moves
+========
+
+Flare Blitz is Ponyta's primary STAB move, hitting extremely hard, even when it's not invested. Morning Sun allows Ponyta to heal itself, and due to Ponyta's high Speed, it can be used to fish for a burn on a physical attacker. Will-O-Wisp is a much more reliable way to burn physical attackers and can also be used to wear down walls. Wild Charge gives Ponyta a way to damage Water-types not named Chinchou and Archen. Sunny Day is a viable option to increase Morning Sun's recovery and Flare Blitz's power. Two other moves which Ponyta can use are Toxic, which helps to wear down walls, particularly opposing Ponyta, and Return, which can hit Chinchou neutrally.
+
+Set Details
+========
+
+Ponyta's Speed is fully invested in, allowing it to outspeed the majority of the tier and tie with other 19 Speed Pokemon such as Staryu. 236 Def EVs are needed to avoid the 2HKO from Pawniard's Knock Off, allowing it to spam Morning Sun until Pawniard is burned by Flame Body. 76 Attack EVs are needed to OHKO Eviolite Pawniard 75% of the time. Eviolite increases Ponyta's bulk, allowing it to wall most physical threats while increasing its Special Defense.
+
+Usage Tips
+========
+
+Ponyta should be switched into physical attackers, such as Pawniard and Mienfoo, that use contact moves that aren't super effective. Due to its high Speed, Ponyta can often keep using Morning Sun to fish for burns on the opposing Pokemon, or it can use Will-O-Wisp to burn the switch-in. Remember that it's not wise to switch into Timburr due to its Guts ability, and if Stealth Rock is in play, try not to switch in too often without healing up.
+
+Team Options
+========
+
+Due to Ponyta's weakness to entry hazards, Defog and Rapid Spin users are greatly appreciated. Drilbur is an excellent example because it can switch in on Rock-type Pokemon which Ponyta hates. Ponyta works well in Fire / Water / Grass cores due to its ability to beat Grass-types as well as physical attackers. Lileep and Slowpoke work well as teammates because Ponyta helps them against Pawniard and Mienfoo. Since Ponyta is hard walled by Chinchou, Pokemon that can switch into it are necessary; Porygon or a Chinchou of your own are fantastic options.
+
+Special Sunny Day
+########
+name: Special Sunny Day
+move 1: Sunny Day
+move 2: Fire Blast
+move 3: Solar Beam
+move 4: Morning Sun
+ability: Flame Body
+item: Eviolite
+evs: 236 Def / 76 SpA / 196 Spe
+nature: Timid
+
+Moves
+========
+
+This set is a special Sunny Day set which allows Ponyta to get past its usual Water- and Rock-type switch-ins. Sunny Day benefits the other three moves on this set, while also weakening Water-type moves, allowing Ponyta to take on most Water-types by itself. Fire Blast is the primary STAB move, taking advantage of the boost in power from the sun. Solar Beam hits Water-types for super effective damage, meaning no Water-type besides Sturdy Tirtouga can switch in. Morning Sun is reliable recovery that heals two-thirds of Ponyta's health in the sun.
+
+Set Details
+========
+
+76 SpA EVs are needed to 2HKO 76 HP / 228 SpD Eviolite Chinchou with Solar Beam, and they give it a 50% chance to OHKO uninvested Berry Juice Chinchou. 236 Def EVs avoid the 2HKO from Pawniard's Knock Off. Max Speed is necessary on Ponyta to outspeed as many things as possible, and Eviolite gives it good mixed bulk.
+
+Usage Tips
+========
+
+This set makes a decent wallbreaker, as sun-boosted Fire Blast and Solar Beam have good coverage except against opposing Fire-types. Thanks to Flame Body, Ponyta finds it easy to switch into physical attackers that use contact moves. Ponyta should be using Sunny Day as much as possible, as all its moves benefit from it. Although this set is designed to defeat Water-types, watch out for Thunder Wave from Slowpoke or Chinchou. Finally, due to the low PP of Ponyta's moves, watch out for being PP stalled in longer matches against defensive teams.
+
+Team Options
+========
+
+Pokemon that appreciate Sunny Day such as Chlorophyll users or Harvest Exeggcute are okay teammates, but they aren't necessary, as this set is meant to be a standalone Sunny Day user. Stealth Rock is greatly appreciated, as it allows Ponyta to beat Tirtouga and guarantees the OHKO on Berry Juice Chinchou. Pokemon that like Water- and Rock-types out of the way, such as Fletchling, Archen, Houndour, and Drilbur, pair well with this set. Finally, Rapid Spin or Defog support is necessary to allow Ponyta to switch in throughout the battle.
+
+Other Options
+########
+A mixed Life Orb set with Sunny Day, Flare Blitz, Wild Charge, and Solar Beam is viable, but it is very susceptible to getting worn down due to the large amounts of recoil it sustains. A physical Life Orb set with Return over Solar Beam and a filler move over Sunny Day is also possible, but it requires more prediction than the mixed set. Hypnosis can remove a counter from the game, but its accuracy leaves much to be desired. Flame Charge and Agility are options to boost Ponyta's Speed, but 19 Speed is already good enough.
+
+Checks & Counters
+########
+**Entry Hazards**: Entry hazards are Ponyta's number one enemy, as it takes large amounts of damage from Stealth Rock and Spikes, while also being susceptible to Sticky Web.
+
+**Fire-types**: Ponyta can't do much damage to opposing Fire-types, especially if it is running Fire- and Grass-type coverage. Houndour can take advantage of this with Flash Fire after forcing Ponyta out. Torchic can easily set up boosts on Ponyta to pass to a teammate.
+
+**Water-types**: Depending on what coverage Ponyta runs, Water-types give it some trouble. Mantyke will easily take it on if it's not running Wild Charge, while Chinchou is only susceptible to Solar Beam and Return. Both Slowpoke and Chinchou can paralyze Ponyta. Tirtouga can survive any hit due to Sturdy and OHKO back with Stone Edge to avoid Flame Body. It must be wary of Will-O-Wisp, however.
+
+**Rock-types**: If Ponyta is not running Solar Beam, most Rock-types have an easy time walling it, although most of them hate being burned. Onix is a fantastic example, as it resists Fire Blast, is immune to Wild Charge, and can easily set up hazards against Ponyta.
+
+**Status**: Toxic and paralysis both cripple Ponyta. The former will wear Ponyta down gradually, and the latter will stop Ponyta from being able to use its high Speed effectively.
+
+**Munchlax**: Although it dislikes being burned, Munchlax doesn't fear any attack Ponyta runs and can threaten it with Body Slam paralysis or a super effective Earthquake. It can even run Rest to heal its burn.
+
+**Faster Choice Scarf Users with Super Effective Moves**: Faster Choice Scarf users such as Cranidos, Frillish, Drilbur, and Chinchou can all outspeed and threaten Ponyta with an OHKO.
+
+**Guts**: Timburr can easily switch into a Will-O-Wisp and threaten Ponyta with a boosted Drain Punch, but it struggles to switch into a Sunny Day boosted Fire Blast or Flare Blitz. Although generally not too useful, Larvitar has a great niche of gaining a Guts boost from Will-O-Wisp and resisting everything Ponyta carries except Solar Beam.

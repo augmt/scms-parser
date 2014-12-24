@@ -1,0 +1,116 @@
+Overview
+########
+
+Rotom is a fantastic Pokemon in NU thanks to its fantastic Speed, which allows it to run a Choice Scarf set to check Pokemon such as Archeops, Mesprit, and Mismagius. Volt Switch, Rotom's pivotal move, is useful in many situations to keep offensive momentum, and it allows Rotom to wear down its checks and counters throughout the match. Its typing is unique and allows Rotom to resist nearly all forms of priority and even grants it an immunity to Normal-type moves. Rotom's access to Will-O-Wisp adds another layer of team support and allows it to spread burns throughout the opposing team. However, Rotom has a glaring lack of bulk and a mediocre Special Attack stat; furthermore, its low HP stat does not mesh well with all the switching it does, as it means it is worn down especially fast.
+
+Choice Scarf
+########
+name: Choice Scarf
+move 1: Volt Switch
+move 2: Shadow Ball
+move 3: Thunderbolt / Will-O-Wisp
+move 4: Trick
+ability: Levitate
+item: Choice Scarf
+evs: 4 Def / 252 SpA / 252 Spe
+nature: Timid
+
+Moves
+========
+
+Volt Switch allows Rotom to take on the role of a pivot and keep up offensive momentum. With Volt Switch, Rotom is able to switch out of its counters and pivot into a teammate with ease. Shadow Ball has decent coverage alongside Thunderbolt and is a secondary STAB move that hits incoming Ground-type Pokemon neutrally. Thunderbolt is more powerful than Volt Switch and doesn't force Rotom to switch out when using its Electric-type STAB move. Will-O-Wisp cripples physical attackers and works well alongside Choice Scarf, allowing Rotom to burn anything it cannot take out. Trick cripples switch-ins to Rotom such as Audino and Cryogonal by forcing them to lock into one move whenever they switch in.
+
+Set Details
+========
+
+The listed EVs maximize Rotom's offensive capability. A Timid nature is chosen to allow Rotom to make full use of its Speed stat; a Modest nature should not be used because it keeps Rotom from being able to outspeed some notable threats, including +1 Vivillon and Choice Scarf Sawk. With a Choice Scarf, Rotom is able to outspeed various Pokemon, including Choice Scarf Sawk, Choice Scarf Mesprit, and +2 Gorebyss, and either revenge kill them or cripple them with Will-O-Wisp.
+
+Usage Tips
+========
+
+Rotom should take advantage of its unique resistances and immunities to pivot in and out throughout the match and keep up momentum. Be careful while switching Rotom into attacks. Even though it has great resistances, Rotom has awful bulk, which means it can take a lot of damage from even resisted hits. This is why Rotom is best used in a VoltTurn core to ensure it can safely switch in and pivot back out. Trick should generally be used only against walls, but you will rarely want to use it early in the match, as Rotom's Speed might be necessary to check offensive threats on the opposing team.
+
+Team Options
+========
+
+Teammates that are able to take on bulky Ground-types for Rotom are appreciated because Ground-types can switch into Rotom's Volt Switch without fear. Most offensive Grass- and Water-types can threaten them. Other Pokemon that can form a VoltTurn core with Rotom include Mesprit, Liepard, and Uxie. Typhlosion appreciates Rotom's ability to wear down Water-types and its immunity to Ground-type moves; Rotom can even pivot into Typhlosion via Volt Switch to ensure it can get in safely. Kangaskhan appreciates Rotom chipping away at foes and shares nice synergy with Rotom.
+
+Defensive
+########
+name: Defensive
+move 1: Will-O-Wisp
+move 2: Shadow Ball
+move 3: Volt Switch
+move 4: Pain Split
+ability: Levitate
+item: Leftovers
+evs: 252 HP / 108 Def / 148 Spe
+nature: Timid
+
+Moves
+========
+
+Will-O-Wisp is a wonderful move on Rotom for its ability to cripple physical attackers such as Sawk, Kangaskhan, and Tauros. This works especially well with Rotom's excellent typing which allows it to wall many Pokemon. Shadow Ball is used as a reliable STAB option. Volt Switch is extremely useful on Rotom because it keeps up momentum and allows it to pivot out of special attackers it cannot wall. Pain Split allows Rotom to recover health and works well in tandem with its low HP stat. RestTalk could be used, but Rotom needs Shadow Ball, Volt Switch, and Will-O-Wisp too much to cut any of them. Hex can be used over Shadow Ball to hit much harder when the opposing Pokemon is burned, but it's less reliable than Shadow Ball.
+
+Set Details
+========
+
+The allocated EVs and a Timid nature allow Rotom to outspeed Adamant Kangaskhan and still retain physical bulk. Speed investment can be moved into Defense should you want Rotom to have increased bulk, but outspeeding and burning Kangaskhan is important, as it can do massive damage with Double-Edge otherwise. Rotom can also run maximum Speed EVs to outpace Jolly Kangaskhan and Jolly Sawk, though Rotom's bulk is further compromised when doing so. Leftovers gives Rotom a means of reliable and constant recovery, slowly healing it from previous damage.
+
+Usage Tips
+========
+
+Use Will-O-Wisp frequently to spread burns and cripple physical attackers, as it's not able to stomach powerful attacks even with Defense investment. Otherwise, Rotom should use Pain Split when necessary to recover health. Pivoting with Volt Switch is a crucial part of Rotom's roll; Rotom can use Will-O-Wisp then immediately get out to a counter, should the need arise. Shadow Ball should only be used when Rotom is attempting to dish out damage.
+
+Team Options
+========
+
+Rotom should be used to take advantage of its fantastic resistances and immunities. Scyther is a strong Pokemon that enjoys Rotom's resistances and can form a VoltTurn combo with it. Klinklang stands out because it appreciates Rotom's support. The two have fantastic synergy, and Klinklang enjoys the opponent's team being burned to ease setup. Rotom performs best on balance teams, where Pokemon such as Seismitoad, Garbodor, Roselia, Camerupt, and Hariyama make for good partners. Because Rotom spreads burns around, Pokemon that enjoy the weakened physical attackers, such as Feraligatr, Kangaskhan, and Archeops, make good partners that appreciate easier setup.
+
+Choice Specs
+########
+name: Choice Specs
+move 1: Volt Switch
+move 2: Shadow Ball
+move 3: Thunderbolt
+move 4: Trick
+ability: Levitate
+item: Choice Specs
+evs: 4 Def / 252 SpA / 252 Spe
+nature: Timid
+
+Moves
+========
+
+Volt Switch is a crucial asset to Rotom, as it keeps up momentum and allows it to pivot out of its counters with ease. Shadow Ball hits Ground-type switch-ins and has useful coverage alongside Rotom's Electric-type STAB moves. Thunderbolt hits hard when backed up by Choice Specs and is more spammable than Volt Switch because it does not force Rotom to switch out. Trick is mainly used to cripple bulkier walls, such as Audino or Seismitoad, replacing their item with a Choice Specs and often rendering them useless.
+
+Set Details
+========
+
+The allocated EVs maximize Rotom's offensive capabilities by allowing it to make full use of its Special Attack and Speed. Because Rotom has only base 95 Special Attack, Choice Specs is needed to amplify Rotom's power to higher levels. With this boost, Rotom is quite difficult to switch into and the Choice Specs will even surprise some people. A Timid nature is always preferred because it allows Rotom to outspeed Sawk, Lilligant, and Kangaskhan and hit them with a powerful attack.
+
+Usage Tips
+========
+
+Rotom should be played as a wallbreaker. It should also take advantage of the surprise factor in running Choice Specs. For example, most opponents assume that Rotom is a Choice Scarf set, so in some cases, it is able deal major damage to a Pokemon that could handle Choice Scarf Rotom well. Thanks to Volt Switch, Rotom can pivot out of its own counters and should do so until it can spam its STABs more effectively. Use Volt Switch on predicted switches or against slower Pokemon to get into a teammate.
+
+Team Options
+========
+
+Entry hazard support from Archeops or Rhydon is appreciated because entry hazard damage can wear down foes, and it allows Rotom to secure a 2HKO on Audino. Sweepers that appreciate Seismitoad and Ferroseed being weakened, such as Feraligatr and Kabutops, make for good partners as well. Rotom works well with Feraligatr because it wears down Water-type Pokemon and can safely pivot into Feraligatr for a late-game sweep.
+
+Other Options
+########
+
+A SubSplit set has merit for its ability to bring a foe down to low HP, and it works well in conjunction with Rotom's low HP stat. The only problem with such a set is that it misses out on Rotom's ability to gain momentum throughout the match with Volt Switch. Charge Beam could also be used, but Rotom is somewhat weak regardless, and it has better things to do than boost its Special Attack. Dual screens may seem tempting; after all, Rotom has a high Speed stat and access to Volt Switch, but it's really not advised because there are many better options, such as the faster and bulkier Uxie and Meowstic-M, which has Prankster. Finally, a set with Thunder Wave + Confuse Ray can pull off shenanigans by paralyzing and confusing the foe, but this is reliant on luck and therefore is not a very reliable set.
+
+Checks &amp; Counters
+########
+
+**Specially Bulky Pokemon**: Audino, Lickilicky, Uxie, Roselia, and Ferroseed are able to stomach Rotom's hits and retaliate with their status moves, attacks, or both. However, Rotom can cripple most of these Pokemon with Trick.
+
+**Dark-types**: Dark-types are able to hit Rotom for super effective damage and resist its Ghost-type STAB moves. Pursuit from Pawniard and Liepard can catch Rotom as it switches out and KO it. Both of these Pokemon hate Will-O-Wisp, however, so they must be a bit wary when scouting for Rotom's moves. Using Volt Switch as these Pokemon switch in can also allow Rotom to escape their Pursuit unharmed.
+
+**Special Attackers**: Nearly all forms of special attacks will break through bulky Rotom. These Pokemon do not mind Will-O-Wisp's Attack drop and can prey on Rotom's uninvested Special Defense. Such special attackers include Typhlosion, Mismagius, and Pyroar; though all of these Pokemon must be careful about switching into offensive sets.
+
+**Ground-type Pokemon**: Ground-type Pokemon, such as Rhydon and Sandslash, are able to switch into Rotom's Electric-type STAB moves without worry. They do have to worry, however, about Will-O-Wisp on predicted switches. Choice-locked Rotom especially dislikes Ground-types coming in on a Volt Switch and forcing it out. Trick could potentially cripple slower Ground-type Pokemon, though.

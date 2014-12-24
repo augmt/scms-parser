@@ -1,0 +1,53 @@
+[Overview]
+
+<p>Gigalith is a Rock-type Pokemon with a fantastic ability in Sturdy, and huge Attack and Defense stats. Its ability, Sturdy, acts as a free Focus Sash. This makes Gigalith difficult to take down. On top of this, low Speed also makes it the perfect candidate a for Trick Room team. Overall, Gigalith is a dangerous offensive threat who can tear through entire teams if given the chance to do so.</p>
+
+[SET]
+name: Trick Room
+move 1: Rock Slide
+move 2: Earthquake
+move 3: Explosion
+move 4: Protect
+item: Normal Gem
+nature: Brave
+ability: Sturdy
+evs: 252 HP / 252 Atk / 4 SpD
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>This set focuses on Gigalith's high Defense and Attack to function in Trick Room. Gigalith is the third slowest Pokemon in VGC, after Escavalier and Ferrothorn. Of the three, Gigalith works the best in Trick Room. Rock Slide and Earthquake get good coverage, and coming off 135 base Attack, will hurt anything that doesn't resist it. Boosted by the Normal Gem, Explosion does an incredible amount of damage. Gigalith may well be the only Pokemon who can use Explosion effectively after its drop in Base Power in BW, simply due to how high its Attack is. Because of its ability, Gigalith should almost always be able to use Explosion before it goes down. Protect should be used when Trick Room is being set up, and to scout the opponent's strategy.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Using Protect is not ideal when facing Whimsicott and its priority Encore. When concerned with Whimsicott, Rock Blast may be a viable alternative. It can land a KO through a Focus Sash, and still has enough power along with STAB to be a threat. Rock Blast also defeats the annoying Prankster Substitute users trying to stall out Trick Room. A Brave nature with 0 Speed IVs is used to be as slow as possible in Trick Room.</p>
+
+<p>When looking for a teammate, it is best to consider a Trick Room user who can take the spread attacks that Gigalith is weak to. Musharna is the best choice, as Telepathy makes it immune to Earthquake and Explosion. Musharna can also provide support with dual screens and Helping Hand. Jellicent can set up Trick Room, and also has immunities to Water- and Normal-type attacks.</p>
+
+[SET]
+name: Choice Band
+move 1: Rock Slide
+move 2: Earthquake
+move 3: Explosion
+move 4: Rock Blast
+item: Choice Band
+nature: Brave
+ability: Sturdy
+evs: 252 HP / 252 Atk / 4 SpD
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>Choice Band gives Gigalith a lot of offensive power. Rock Slide is the primary STAB option here, to damage both of the opponent's Pokemon and demolish the multitude of Flying-types in the VGC. Earthquake has great coverage along with Rock Slide, dealing heavy damage to Steel-types and other Pokemon that resist Rock-type attacks. Choice Band Explosion is the best choice to use when faced against a Trick Room team, as long as the other Pokemon are not Ghost-types. Rock Blast is Gigalith's secondary STAB option, allowing it to check common users of Focus Sash, Substitute, and Charti Berry. Shutting down such Pokemon in one turn is a huge benefit.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Even with Gigalith's poor typing and rock-bottom Speed, the damage dealt by it is usually enough to ruin the opponent's strategy. Sturdy ensures survival from the unlucky critical hit or Water Spout. Minimum Speed is applied here to make sure Gigalith moves faster in Trick Room, but an Adamant nature with 31 Speed IVs may be used, as Gigalith cannot use Protect on a Choice Band set. However, this is only beneficial against other Gigalith.</p>
+
+[Other Options]
+
+<p>Curse is an option to boost Gigalith's already massive Attack and Defense, as well as lower its Speed. However, this does not guarantee surviving an extra turn, which is why Protect is the better choice. The Choice Band set has no alternative options worth mentioning, as Gigalith's movepool is quite small.</p>
+
+[Checks and Counters]
+
+<p>Gigalith can be defeated by anything that can take advantage of its low Special Defense and weaknesses, such as Jellicent and Reuniclus. Priority, notably Mach Punch from Conkeldurr, can finish off Gigalith once Sturdy is broken. Cofagrigus is bulky enough to beat non-Choice Band Gigalith, and is also immune to Explosion.</p>

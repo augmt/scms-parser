@@ -1,0 +1,76 @@
+[Overview]
+
+<p>Like most of its fellow Water-types, Gastrodon has a good movepool and fairly decent stats in general. It also has a great defensive typing that leaves it with only one weakness--Grass-type moves--that can be easily played around with through proper team support. While powerful physical attacks may hurt Gastrodon, its resistances to Rock and Fire and immunity to Electric grant it plenty of opportunities to switch in. Resistance to Stealth Rock and access to Recover make that task of switching in all the more easier in the long run. This, in addition to its decent attacking stats, allow Gastrodon to play a couple of roles effectively. All in all, despite not having a great ability, such as Water Absorb or Marvel Scale, Gastrodon's unique assets allow it to function exceptionally well in UU.</p>
+
+[SET]
+name: Tank
+move 1: Surf
+move 2: Ice Beam / Earth Power
+move 3: Toxic
+move 4: Recover
+item: Leftovers
+ability: Sticky Hold
+nature: Calm
+evs: 212 HP / 252 Def / 44 SpD
+
+[SET COMMENTS]
+
+<p>Thanks to its great typing and decent attacking stats, Gastrodon can effectively play the role of a bulky Water while maintaining some form of offense. Surf is Gastrodon's primary and most powerful special attack that can keep Fire- and Ground-types, such as Donphan and Arcanine, at bay. In the second moveslot, you have a choice between Ice Beam or Earth Power. Ice Beam is the suggested option as it enables Gastrodon to OHKO Altaria after Stealth Rock damage, as well as hitting common Grass-type switch-ins, such as Venusaur and Leafeon, for super effective damage. Although it provides some redundant coverage alongside Surf, Earth Power hits Registeel, Kabutops, and Toxicroak for super effective damage and gets STAB. Toxic enables Gastrodon to get past common opposing bulky Water-types, such as Milotic and Slowbro, whom Gastrodon would otherwise be unable to scratch. Calm Mind Slowbro and non-RestTalk Milotic are easily beaten by the Toxic and Recover combo, as Gastrodon has enough special bulk to shrug off their attacks. However, it should be noted that some Milotic carry Hidden Power Grass, which will end Gastrodon's life quite quickly. Recover is probably the biggest asset that Gastrodon possesses, allowing it to consistently switch in on resisted attacks and heal off any damage, thereby dramatically increasing its longevity.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>252 EVs are dumped into Gastrodon's Defense, its lesser defensive stat, in order to take most resisted and neutral physical attacks with ease. 212 HP EVs give Gastrodon more bulk overall, while the remaining EVs are invested in Special Defense, allowing Gastrodon to take boosted Surfs from offensive Milotic more easily. To demonstrate Gastrodon's physical bulk, Donphan fails to 2HKO it with Earthquake after Stealth Rock, meaning that Gastrodon can switch in on the attack, take another hit, and Recover off the damage.</p>
+
+<p>One of the biggest obstacles that Gastrodon faces is its glaring weakness to Grass-type attacks. Therefore, having a teammate that can absorb such attacks is highly advised. Venusaur can more than compensate for Gastrodon's 4x weakness to Grass-type attacks, as it can switch in on other Grass-type Pokemon and immediately threaten them with its powerful STAB Sludge Bomb. Moltres has exceptional synergy with Gastrodon, as Gastrodon resists and is immune to both Rock- and Electric-type moves, respectively. In return, Moltres can massacre Registeel and Grass-types, both of which are immensely difficult for Gastrodon to take on.</p>
+
+[SET]
+name: Curse
+move 1: Curse
+move 2: Waterfall
+move 3: Earthquake
+move 4: Recover
+item: Leftovers
+ability: Sticky Hold
+nature: Careful
+evs: 252 HP / 56 Def / 200 SpD
+
+[SET COMMENTS]
+
+<p>Gastrodon's great physical movepool and access to Curse enable it to act as a dangerous boosting tank if used correctly. With only one weakness, solid defensive stats, a handful of resistances, an immunity to Trick, and the ever-useful Recover, Gastrodon can set up on many common Pokemon in the UU metagame, making it a solid bulky sweeper and "win-condition" Pokemon.</p>
+
+<p>Despite Gastrodon's less-than-impressive Attack and Defense stats, it reaches a respectable 303 Attack and 279 Defense after a Curse, making it more than capable of taking several hits while striking back for significant damage. For instance, after a single Curse, Gastrodon can 2HKO both Registeel and offensive Rotom. While Curse does lower Gastrodon's Speed, this is essentially inconsequential, as Gastrodon is terribly slow to begin with. Waterfall and Earthquake offer somewhat decent coverage between them, granting Gastrodon the ability to hit most common threats for at least neutral damage. What makes Gastrodon stand out from almost all other Curse users (bar Quagsire) is its access to instant recovery, which ensures that it can set up properly when given the correct team support.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread is very straightforward. 252 HP EVs are used to maximize Gastrodon's bulk, while 200 Special Defense EVs and a Careful nature allow Gastrodon to take neutral and resisted special attacks with the utmost ease. The remaining EVs are dumped into Defense, allowing the sea slug to take almost any powerful physical attack after a Curse or two. A mono-attacker Curse set can be used--specifically, a moveset of Curse, Waterfall, Rest, and Sleep Talk. With this set, Gastrodon has the advantage of becoming a status absorber, but this leaves Gastrodon walled by a large amount of common Pokemon, and easily set up on by others.</p>
+
+<p>This set requires teammates that can switch in on Grass-type attacks with ease. Both Chansey and Registeel are good partners since they can cripple opposing Pokemon with Thunder Wave or Toxic. Fire-types such as Moltres and Arcanine are also great teammates that resist Grass-type attacks from the likes of Tangrowth's Power Whip and Leafeon's Leaf Blade and can retaliate with super effective Fire-type attacks.</p>
+
+[SET]
+name: Trapper
+move 1: Block
+move 2: Yawn
+move 3: Memento
+move 4: Earthquake / Surf
+item: Rindo Berry / Lum Berry
+ability: Sticky Hold
+nature: Careful / Calm
+evs: 252 HP / 212 Def / 44 SpD 
+
+[SET COMMENTS]
+
+<p>This set capitalizes on Gastrodon's unique access to Block, Yawn, and Memento to allow one completely free turn for a teammate to set up, making it a perfect support Pokemon for sweepers such as Linoone and Charizard. The idea is to use Block as the opponent switches out of Gastrodon, then absorb the incoming hit (Rindo Berry will allow it to survive all but the most powerful of Grass-type attacks) and use Yawn. From there, Gastrodon should use Memento to ensure that your next Pokemon gets in for free, just as the opposing -2 Atk / -2 SpA Pokemon falls asleep from Yawn. The final moveslot is primarily for breaking Substitutes, which can be quite annoying for this strategy, it also ensures that Gastrodon is not helpless against Taunt.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>This Gastrodon obviously needs a very specific kind of teammate--namely one that can take that one free turn and use it to cause as much damage as possible. With that in mind, Linoone is the ideal partner, thanks to the combination of Belly Drum, Extreme Speed, and Gluttony, Linoone can arguably accomplish more in a single turn than any other Pokemon in UU. Charizard is also an option as it can use the free turn to set up a Substitute and, on the following turn, use Belly Drum to simultaneously activate its Salac Berry and max out its Attack.</p>
+
+<p>Since any team using this Gastrodon will ultimately be relying on it (and the subsequent sweeper) to secure victory, it's important to be aware of the threats that might thwart Gastrodon's set-up attempts. Substitute has already been mentioned as a potential thorn in Gastrodon's side, so be extra cautious of that when a common Substitute user such as Mismagius switches in. In this situation, Gastrodon can either use its attack to break the Substitute, or predict the initial switch-in and use Yawn instead of Block to force it back out again. Explosion is also a huge concern, as not only will it deal hefty damage to Gastrodon, but it will also cause the opposing Pokemon to faint, preventing you from getting that crucial free turn. It is also vital that, when using this set, you scout the opposing team well for Lum Berry users, as they can absorb the Yawn and make Gastrodon's sacrifice a lot less effective.</p>
+
+[Other Options]
+
+<p>Gastrodon has a few other options that it can utilize. Stone Edge is a worthy option on the Curse set, as it gives Gastrodon a weapon to use against Flying foes such as Altaria and Mantine; in addition to that, Grass-types that resist both of Gastrodon's STAB attacks are hit for neutral damage by Stone Edge. Yawn is a decent option that allows Gastrodon to put an opposing Pokemon to sleep or force switches. Interestingly, Gastrodon learns both Counter and Mirror Coat, which could potentially be used to nab a surprise KO on unsuspecting attackers. However, they will be a waste of a moveslot if you fail to predict correctly, and they lose their surprise element after they have been used once. Despite raising both Defense and Special Defense, Stockpile is not always effective, as opponents tend to switch in their Grass-types straight away, and the Defense boosts from Stockpile will not save Gastrodon from utter destruction by their STAB moves. Such a set is also very prone to critical hits overtime and doesn't really threaten the foe.</p>
+
+[Checks and Counters]
+
+<p>The most obvious counters for a Pokemon of Gastrodon's typing are Grass-types. Tangrowth and Venusaur are good examples, as they can switch in on almost all of the sea slug's attacks, save for Ice Beam, and proceed to OHKO it with their STAB moves. Bulky Water-types such as Milotic and Blastoise take little damage from Gastrodon's attacks, and can wear it down slowly with Toxic or hit it with Hidden Power Grass, although it is worth noting that certain Gastrodon variants also carry Toxic. Ludicolo can set up a Substitute or Swords Dance on Gastrodon, as it resists both of the sea slug's STAB attacks and takes pitiful damage from Ice Beam. Both Chansey and Clefable can easily take on the bulky Water set thanks to their sky-high Special Defense and HP stats, although without Toxic, both can do little to the Curse set without getting damaged themselves. Chansey's main form of offense against Gastrodon is to poison it, as Gastrodon too boasts excellent HP and can easily take several Seismic Toss before healing off the damage with Recover. Clefable, however, has access to Encore, which can lock Gastrodon into a single move for several turns, allowing a teammate--or even Clefable itself--to set up freely.</p>

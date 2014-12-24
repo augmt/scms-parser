@@ -1,0 +1,82 @@
+Overview
+########
+
+Krookodile is equipped with two great abilities that allow it to fulfill a defensive or offensive role. Intimidate helps Krookodile check a wide variety of threats, such as Garchomp, Landorus-T, Excadrill, and Tyranitar. With access to Knock Off, Taunt, Stealth Rock, and more, it's simply a great supporter as well. Its typing is also strong defensively, netting important resistances to the Dark- and Ghost-type attacks that dominate the metagame. Its Moxie ability, along with its amazing STAB Dark- and Ground-type coverage and base 117 Attack and 92 Speed, make Krookodile a formidable sweeper; it can also easily score a Moxie boost with Pursuit against weakened targets attempting to flee. However, Krookodile packs a few unfortunate weaknesses to common Water- and Fighting-type attacks, making offensive sets vulnerable to priority moves, such as Aqua Jet and Mach Punch. Krookodile is also not quite fast enough to effectively sweep late-game. Lastly, its reliance on Leftovers and team support for longevity when used as a supporter is disappointing.
+
+Support
+########
+name: Support
+move 1: Earthquake
+move 2: Knock Off
+move 3: Taunt
+move 4: Toxic / Stealth Rock
+ability: Intimidate
+item: Leftovers
+evs: 248 HP / 8 Atk / 252 Def
+nature: Impish
+
+Moves
+========
+
+Earthquake is used for a powerful STAB attack that hits hard despite the lack of Attack investment. Knock Off is an important support move that not only hits decently hard but also cripples many physical walls and tanks that enjoy switching into Krookodile. Due to Krookodile's naturally high Speed, it's an excellent user of Taunt, which prevents the likes of Skarmory, Ferrothorn, Forretress, Mandibuzz, and Hippowdon from setting up entry hazards, spreading status, or recovering health. Toxic enables Krookodile to further cripple select physical walls and tanks, such as Hippowdon, Togekiss, and Landorus-T, and can catch threatening sweepers on the switch. Moreover, with Krookodile's great bulk, it has several opportunities to set up Stealth Rock, making it a viable option. If Toxic or Stealth Rock are not satisfying options, then Dragon Tail is also a great move to consider, as it prevents opponents from boosting up against Krookodile and pairs nicely with Knock Off.
+
+Set Details
+========
+
+Intimidate provides Krookodile's team with invaluable pivot support. When using an Impish nature and EVs invested in HP and Defense, Krookodile becomes surprisingly difficult to defeat on with physical attacks. Leftovers provides needed longevity.
+
+Usage Tips
+========
+
+Krookodile makes for a great pivot against many physical attackers lacking STAB super effective attacks, so it's recommended to take advantage of its Intimidate ability against these threats. It's usually best to use Knock Off as often as you can in order to cripple as much of the opposition as possible. If you are certain the opponent will bring in something that Knock Off won't do much to, such as Mega Pokemon or ones without an item already, it's instead recommended to poison targets with Toxic, set up Stealth Rock, or phaze out switch-ins with Dragon Tail. However, if the opposition is susceptible to Earthquake, using that instead of the previously mentioned strategies is a good choice. Against physical walls, always Taunt first to prevent them from setting up entry hazards, phazing, spreading status, or restoring health.
+
+Team Options
+========
+
+Krookodile fits really well on defensively oriented teams. It pairs extremely nicely with bulky Gyarados, which takes Water- and Fighting-type attacks aimed at Krookodile, while Krookodile handles Electric- and Rock-type attacks for Gyarados; the two of them form an excellent Intimidate core. Along with Gyarados, Mega Venusaur is a fantastic teammate as well; the three of them form an incredibly strong defensive core that is difficult to break through, as they all deal with an extensive list of threats. Wish supporters are fine choices to keep Krookodile healthy as well, making Clefable and Jirachi excellent options to consider thanks to their great bulk and useful resistances.
+
+Offensive
+########
+name: Offensive
+move 1: Earthquake
+move 2: Knock Off
+move 3: Pursuit
+move 4: Stone Edge
+ability: Moxie
+item: Life Orb
+evs: 252 Atk / 4 Def / 252 Spe
+nature: Jolly
+
+Moves
+========
+
+STAB Earthquake hits really hard off of Krookodile's high base Attack stat. Knock Off provides excellent coverage in tandem with Earthquake, as it hits enemies really hard and also removes their items in the process, assuming they are not carrying Mega Stones. Krookodile is also an excellent Pursuit user, as it can switch in against Pokemon that are weakened or Dark-weak and essentially guarantee a free Moxie boost. Stone Edge completes Krookodile's coverage, netting super effective hits against Flying-types such as Mandibuzz and Zapdos.
+
+Set Details
+========
+
+As Krookodile is being used as a sweeper, Moxie, Life Orb, and 252 Attack EVs are used for the much-needed power. Max Speed investment and a Jolly nature let Krookodile outrun Pokemon such as Landorus-T.
+
+Usage Tips
+========
+
+It's best to preserve Krookodile for late-game when it comes to attempting a sweep. However, it is possible to bring in Krookodile early on against Pokemon it threatens out and begin hampering the opposition with Knock Off&mdash;which is especially effective on physical walls that like to switch into Krookodile&mdash;or even Pursuit-trapping the appropriate threats. If the opposition doesn't have any respectable Earthquake sponges or immunities, using that instead of Knock Off is recommended to weaken the team.
+
+Team Options
+========
+
+Because Krookodile has severe troubles bypassing physical walls, particularly Skarmory and Hippowdon, using wallbreakers to deal with them is recommended. Special or mixed attackers such as Keldeo, Kyurem-B, and Garchomp are excellent options for this. Krookodile is also not a Pokemon that can be switched in haphazardly due to its mediocre defenses, so Volt Switch or U-turn users are strong choices for teammates. Users of such are Landorus-T, which provides resistances to Krookodile's Fighting- and Bug-type weaknesses, and Rotom-W, which resists Water- and Ice-type attacks aimed at Krookodile and can also deal with the previously mentioned walls. As Krookodile is not the fastest of sweepers, it's completely acceptable to pair it with Trick Room support and use a 248 HP / 252 Atk / 8 Def EV spread with a Brave nature and 0 Speed IVs. Porygon2 and Cresselia can be used as teammates if so, as they are among the best Trick Room setters in OU.
+
+Other Options
+########
+
+Foul Play can be used on defensive sets, but Krookodile's already high Attack stat and the impressive utility of Knock Off make it an inferior choice. Aqua Tail is a potential option on offensive sets to hit Hippowdon and Donphan super effectively, but it's mostly inferior to the recommended moves.
+
+Checks & Counters
+########
+
+**Physically Defensive Pokemon**: Offensive sets are shut down by most bulky walls. Skarmory, Gliscor, Rotom-W, Hippowdon, and Mega Venusaur are examples of such that can either inflict status upon Krookodile or hit it with their STAB attacks.
+
+**Revenge Killers**: Krookodile can be revenge killed easily by faster threats, such as Terrakion (which can predict Knock Off and get a Justified boost), Latios, and Keldeo. Priority users, such as Aqua Jet Azumarill, Bullet Punch Scizor, and Mach Punch Conkeldurr, are also effective ways to beat Krookodile.
+
+**Status**: Status really hampers Krookodile's effectiveness, especially burn. Sableye can Will-O-Wisp before Krookodile can Taunt or attack, Rotom-W can switch in on Earthquake and threaten with Will-O-Wisp, and Gastrodon can scare Krookodile with Scald or even Toxic it. 

@@ -1,0 +1,36 @@
+[Overview]
+
+<p>As a Pokemon without any type weaknesses, you'd think Sableye would stand out as a god among simpletons. Unfortunately, the real deity of Pokemon, Arceus, was none too kind to our little gem gremlin; a quick look at its base stats and abilities will tell you exactly why that is. Without a single stat above base 75, two horrible abilities that do nothing to help it, and a movepool that somehow lacks Pursuit, Sableye is left utterly outclassed by its Ghost / Dark compatriot, Spiritomb. If ever there was a Pokemon in need of an evolution, it's this one. If you're planning to use Sableye on your team, it's probably best if you choose Spiritomb instead.</p>
+
+[SET]
+name: Support
+move 1: Will-O-Wisp
+move 2: Taunt / Toxic
+move 3: Seismic Toss / Night Shade
+move 4: Recover
+item: Leftovers
+ability: Keen Eye
+nature: Bold
+evs: 252 HP / 252 Def / 4 SpD
+
+[SET COMMENTS]
+
+<p>Sableye's awesome typing screams for a defensive set, and thanks to its highest stat being Defense and its respectable support movepool, Sableye can effectively pull it off. Sableye's goal with this set is to spread burn with Will-O-Wisp and stop the opponent from Rapid Spinning your team's entry hazards off the field. Sableye's typing grants it immunities to Fighting-, Normal-, and Psychic-type attacks, making it a natural candidate for burning many of the physical Fighting- and Normal-type attackers in the UU tier, such as Hitmonlee, Hitmontop, and Tauros. Taunt stops set-up attackers and turns Sableye into an effective stallbreaker. Will-O-Wisp and Taunt together allows Sableye to beat most slow RestTalk Pokemon one-on-one, particularly Curse Regirock and Curse Registeel. Toxic is an alternative to Taunt that weakens many of Sableye's switch-ins, such as Arcanine, Houndoom, and Spiritomb. Seismic Toss and Night Shade are for consistent damage, and make sure that Sableye isn't totally helpless against opposing Taunt users. Seismic Toss is the recommended attack, as it hits Normal-types who Sableye should be attempting to counter; on the other hand, Night Shade hits Ghost-types who are common switch-ins into Sableye, as most times Sableye won't be running a threatening attacking move. Finally, the last slot is given to Recover, which allows Sableye to outstall Rest-less Spiritomb if using Toxic, and it is generally helpful for a defensive Pokemon to have reliable recovery anyway.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>An alternative EV spread of 252 HP / 4 Def / 252 SpD can be run; however, Sableye has a tough time taking physical attacks even with full investment and the opposing Pokemon burned, so it's recommended to stick with physical bulk. Another optional spread of 252 HP / 120 Def / 136 SpD can be used to balance Sableye's defenses, but it's better off fully investing in one stat or the other, as with no particular stat emphasized, Sableye will have a tough time standing up to any sort of attack. Finally, Sableye can run enough Speed to outrun common Rapid Spin users, such as Donphan and Blastoise, though it is not recommended as Sableye needs all of the bulk it can get.</p>
+
+<p>Sableye can fill its third moveslot with an alternative attacking move, though such moves are highly situational and, without investment, will usually be significantly weaker than Night Shade or Seismic Toss. Shadow Sneak is the primary alternative move, as with it, Sableye can pick off weakened Alakazam, Mismagius, and Rotom. Shadow Claw and Shadow Ball are Sableye's strongest STAB moves, but most of the time Night Shade or Seismic Toss will prove to be more useful. Knock Off is an alternative support move to strip opposing walls of Leftovers or attackers of Life Orb, but it's hard to find a move to give up in its place. Finally, Pain Split can be used instead of Recover, but instant and reliable recovery is almost always the better choice.</p>
+
+<p>Stall teams love Pokemon capable of spinblocking, and Sableye's typing fits the bill perfectly; good teammates to set up entry hazards include Omastar, Qwilfish, and Uxie. Unfortunately, Sableye has a tough time dealing with a couple of Rapid Spin users, particularly Donphan and Blastoise, so having a back up spinblocker, such as Mismagius or Rotom, is recommended. This strategy is commonly referred to as the 'double Ghost' strategy, and provides a way to ensure that entry hazards are maintained on your opponent's side of the field. If using two Ghosts, Sableye should utilize Toxic to help its teammates stall more effectively.</p>
+
+<p>Sableye is in its element when switching into Normal- and Fighting-type physical attackers and burning them, so partners that enjoy having those Pokemon burned love Sableye as a partner. Registeel, Chansey, and Clefable all appreciate a teammate to take Fighting attacks for them, and in return can absorb most special attacks aimed at Sableye. Registeel can also switch into Swellow with ease, who would normally switch into Sableye's Will-O-Wisp for the Guts boost. Milotic is a great teammate due to its ability to switch into Fire-types, such as Arcanine, Houndoom, and Moltres, with ease. Weezing makes another great partner, as it's able to switch into the Guts-abusing Hariyama and Ursaring easily, and loves Sableye's ability to switch into Psychic-type attacks for free.</p>
+
+[Other Options]
+
+<p>Sableye's movepool is surprisingly wide, though it lacks the base stats to use most of its moves effectively. Sableye has access to Calm Mind and Nasty Plot for boosting sets, though they focus on Sableye's weaker special stats. Sableye can make use of a Choice Scarf or Choice Band set with Trick, though unfortunately, without Pursuit, it's horribly outclassed by Spiritomb. A lead set consisting of Fake Out / Payback / Shadow Sneak / Taunt with a Focus Sash can be run, but Sableye is just too slow to use it effectively. Moonlight is an alternative healing option to Recover, though it should only be considered if using Sableye on a Sunny Day team. Finally, Sableye has access to the elusive Gravity, though Dusclops and Clefable are better users of this move due to their superior bulk.</p>
+
+[Checks and Counters]
+
+<p>Milotic is the perfect counter to Sableye, as it can take advantage of the burn from Will-O-Wisp with its ability, Marvel Scale, and easily breaks down Sableye by hitting it in its weaker Special Defense stat with Surf. Rest-less Milotic should be wary of Toxic, however. Steel-types, such as Registeel, Steelix, and Aggron, are immune to Toxic, and Choice Band Aggron can easily stomp Sableye into the dust even when crippled by a burn. Guts Hariyama, Swellow, and Ursaring easily defeat Sableye thanks to the Attack boost they gain from Will-O-Wisp and Toxic. Basically any strong special attacker that you would consider running in UU, such as Venusaur, Moltres, and Sceptile, can OHKO or 2HKO any Sableye without much trouble.</p>

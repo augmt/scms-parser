@@ -1,0 +1,60 @@
+[Overview]
+
+<p>It has a bad movepool and that 4x Electric weakness hurts a lot, considering that the special attacks most teams need to wall against are Electric and Psychic (which it doesn't resist).</p>
+
+[SET]
+name: Hazer
+move 1: Surf
+move 2: Ice Beam
+move 3: Haze
+move 4: Toxic
+item: Leftovers
+ability: Water Absorb
+nature: Calm
+evs: 252 HP / 108 Def / 140 SpD / 8 Spe
+
+[SET COMMENTS]
+
+<p>With 140 SpD, it is going to shrug off any special attack not named Thunderbolt, and it can even take one of those somewhat; 307 Special Attack is needed to surely OHKO this Mantine with STAB Thunderbolt, and 466 is needed without STAB. So switch this in anything you are sure won't Thunderbolt you (also watch out for Hidden Power Electric Waters), and Toxic away. Surf and Ice Beam is its whole special movepool.
+
+[SET]
+name: RestTalk
+move 1: Rest
+move 2: Sleep Talk
+move 3: Surf
+move 4: Ice Beam / Toxic
+item: Leftovers
+ability: Water Absorb
+nature: Calm
+evs: 252 HP / 108 Def / 140 SpA / 8 Spe
+
+[SET COMMENTS]
+
+<p>This set lets Mantine stay alive much longer, but you have to give up a bit of utility. It's OK, though, Mantine's movepool is so poor it doesn't really notice the loss of two slots. Mantine makes a decent Sleep absorber because most Pokemon with Sleep moves are walled by Mantine.</p>
+
+[SET]
+name: Rain Dance Sweeper
+move 1: Rain Dance
+move 2: Surf
+move 3: Ice Beam
+move 4: Toxic / Hidden Power Grass
+item: Leftovers
+ability: Swift Swim
+nature: Modest
+evs: 252 HP / 236 SpA / 20 Spe
+
+[SET COMMENTS]
+
+<p>Ice Beam and Surf because it has nothing more than the standard Water-type movepool, but they have good coverage and Surf is boosted by Rain Dance. You might want Hidden Power Grass to hit stuff like Quagsire and Poliwrath, but Toxic provides some nice all-around coverage for stuff like Hypno and Walrein (if it doesn't have Rest).</p>
+
+[Other Options]
+
+<p>It can use Confuse Ray to stall a bit. Protect works for the same reason, except you lose the chance for them to hit themselves for far more consistency.</p>
+
+[EVs]
+
+<p>Always max HP on Mantine. A Calm nature will also prove the most useful in almost any circumstance. 181 Speed (20 EVs) for the Rain Dance sets, as this ensures it's faster than even Jolly Persian / Sneasel in UU, meaning only Electrode can possibly be faster than you (or other Pokemon with boosted Speed).</p>
+
+[Checks and Counters]
+
+<p>Electric moves, especially unexpected Hidden Power Electrics if it was damaged before. Physical attacks in general will really harm Mantine. It has no offensive capabilities save Toxic and the weak Surf / Ice Beam, so it's easy to switch into.</p>

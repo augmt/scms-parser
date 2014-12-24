@@ -1,0 +1,209 @@
+[Overview]
+
+<p>Although Torterra may be one of the most predictable Pokemon, it has a few key traits that help establish its niche in the UU metagame. Torterra possesses two high Base Power STAB moves that can break many of UU's common physical walls like Milotic, Registeel, and Steelix, as well as Rock Polish to augment its horrible Speed and set up a sweep. While Torterra is mainly used as an offensive Pokemon, it has several defensive uses as well. Torterra is one of the few Pokemon that resists the Rock- and Ground-type attacking combination, which enables it to act as a check to Pokemon such as Rhyperior and Aggron. It also possesses semi-reliable recovery in Synthesis as well as several support options, including Stealth Rock and Leech Seed. Include this land tortoise in your team, and it's sure to do everything but disappoint.</p>
+
+[SET]
+name: Rock Polish
+move 1: Rock Polish
+move 2: Earthquake
+move 3: Wood Hammer / Seed Bomb
+move 4: Stone Edge
+item: Life Orb
+nature: Adamant
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>With respectable Attack and subpar Speed, Torterra is a natural candidate for Rock Polish. After a single boost, Torterra reaches an amazing 422 Speed, and when coupled with an Attack stat of 348, becomes a dangerous late-game sweeper. Common walls such as Steelix, Slowbro, and Milotic can't take repeated abuse from its Ground- and Grass-type STAB moves. Stone Edge covers Flying-types such as Altaria and Moltres, both of which are immune to Ground and 4x resist Grass. Wood Hammer is preferred over Seed Bomb as it can OHKO the standard Slowbro roughly 80% of the time and guarantees an OHKO on Milotic and Claydol while 2HKOing Spiritomb and Miltank after Stealth Rock damage. However, Seed Bomb can be used if you want a non-recoil Grass-type STAB move that still hits Pokemon such as Slowbro and Milotic hard enough to 2HKO.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Although Torterra packs a ton of power, it gets stopped cold by most bulky Grass-types, such as Leafeon and Tangrowth. The most Torterra can do is hit them with a neutral Stone Edge, which deals only 25% maximum to Tangrowth. With this in mind, Pokemon that can remove bulky Grass-types are ideal partners for Torterra. Life Orb Milotic or Slowbro is an excellent lure for Grass-types such as Venusaur, as Venusaur would normally expect to outspeed and OHKO both with a Life Orb Leaf Storm or Power Whip, only to be hit by a powerful Ice Beam or Psychic on the switch. Torterra can also switch into Electric-type attacks directed at Slowbro or Milotic and get a free chance to Rock Polish. Lastly, Swellow is also an excellent partner that is capable of luring in Steel-types such as Registeel and Steelix, U-turning to Torterra, and allowing it to Rock Polish or 2HKO both with Earthquake.</p>
+
+<p>Keep in mind that while Rock Polish doubles Torterra's Speed, it can still be outsped and revenge killed by certain Choice Scarf users. Any Choice Scarf-using Pokemon with 423 Speed or above, such as positive-natured Rotom, Venusaur, Moltres, and Primeape, can easily outrun and revenge kill Torterra. Registeel works well with Rock Polish Torterra because it can absorb attacks from Choice Scarf Venusaur and Rotom easily. It can also paralyze them to give Torterra an easier time sweeping. Against Moltres and Primeape, bulky Milotic can help sponge their hits and retaliate back with Surf.</p>
+
+<p>While Leftovers is an option if you prefer Torterra to last longer, it comes at the cost of some power. Although Torterra will likely be sweeping late-game, where most of its counters are weakened to the point that Torterra does not always require a Life Orb to finish them off, the power loss is most noticeable when Torterra is weakening its counters early-game.</p>
+
+[SET]
+name: Tank
+move 1: Wood Hammer / Seed Bomb
+move 2: Earthquake
+move 3: Leech Seed / Synthesis
+move 4: Roar / Stealth Rock
+item: Leftovers
+nature: Impish
+EVs: 212 HP / 252 Def / 44 Spe
+
+[SET COMMENTS]
+
+<p>While Torterra is usually seen as a fearsome sweeper, it can also be played as a tough tank, especially with a beefy 384 HP and 339 Defense. As Torterra holds key resistances to the common Rock-, Ground-, and Electric-type moves, it's easy for Torterra to come in, sponge an attack, and begin Leech Seeding foes. Torterra's usefulness doesn't end there; if needed, it can set up Stealth Rock, and even Roar out opponents, such as Dragon Dance Altaria, which fails to OHKO Torterra even with a boosted STAB attack. Torterra can also scare away sweepers with its powerful STAB moves in Wood Hammer and Earthquake.</p>
+
+<p>Torterra ideally works on teams that require a physically-bulky Pokemon that can also hit common switch-ins hard. As a plus, Torterra is one of the more reliable Rhyperior counters in the game, fearing only Choice Band-boosted Megahorn. After surviving Rhyperior's attack, it can then threaten Rhyperior with a 4x super effective Wood Hammer or Seed Bomb. Roar works best in the last slot, as it can help Torterra rack up Spikes and Stealth Rock damage, as well as prevent Baton Pass chains from setting up.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs are quite simple: 212 HP EVs give Torterra a Leftovers number, while 44 Speed give it the ability to outpace common Pokemon such as Omastar and Rhyperior. The rest is dumped into Defense to maximize its physical bulk.</p>
+
+<p>Even though Torterra is an excellent physical tank, Ice-type attacks will usually be enough to take it down. As such, pairing Torterra with Pokemon that can take Ice-type attacks is a good idea. Lanturn makes a great partner as it can easily sponge Ice-type attacks in addition to Fire-type attacks, while also scaring away the users. In return, Torterra can handle Lanturn's Ground-type weakness. Nonetheless, Torterra has high enough Defense to take even boosted physical Ice-type moves; for example, Dragon Dance Feraligatr without Life Orb fails to OHKO Torterra with Ice Punch.</p>
+
+[SET]
+name: Synthesis
+move 1: Wood Hammer
+move 2: Earthquake
+move 3: Stone Edge / Rock Slide
+move 4: Synthesis
+item: Leftovers / Life Orb
+nature: Adamant / Jolly
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>While Torterra is normally seen utilizing an offensive set with Rock Polish, this set aims to conserve its health with Synthesis while also inflicting damage with Torterra's excellent type coverage; the combination of Grass-, Ground-, and Rock-type moves is only handled by Weezing, Tangrowth, and Leafeon in UU. This set is notoriously effective against unprepared stall teams that lack dedicated checks to Torterra. In addition to its offensive prowess, Torterra's typing gives it an immunity to Thunder Wave and a resistance to Earthquake, both of which allow it to switch into attacks more frequently.</p>
+
+<p>Wood Hammer makes a fantastic move in tandem with Synthesis, as Synthesis allows Torterra to offset the damage taken from recoil. Torterra makes a great user of Earthquake as it frightens most Water- and Ground-types with Wood Hammer, which are the Pokemon that often switch into other common users of Earthquake. With that said, predicting a Flying-type switch-in and using Stone Edge or Rock Slide accordingly is an important skill to have when using this set. Selecting between Stone Edge and Rock Slide is essentially a choice between power and accuracy. Stone Edge allows Torterra to hit defensive Altaria and Articuno for heavier damage (possibly OHKOing them), while Rock Slide is a safer alternative that still OHKOes offensive Moltres.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Adamant is the recommended nature as it allows Torterra to nab the listed OHKOs and 2HKOs for the set. However, Jolly can be chosen to give Torterra enough Speed to outpace Jolly Aggron and Omastar, and smack them with Earthquake before they can do anything. Some Milotic also run just enough Speed to outrun Adamant Torterra, so a Jolly nature would help there too. Leftovers allows Torterra to bluff a defensive set, allowing it to hit defensive Pokemon that casually switch in for heavy damage. On the other hand, Life Orb secures an OHKO on defensive Milotic and has a higher chance of OHKOing Slowbro; however, it might deplete Torterra's HP too fast in conjunction with Wood Hammer's recoil.</p>
+
+<p>Leafeon, Tangrowth, and Weezing are problematic for this set. Leafeon and Tangrowth can take a Stone Edge while shutting down Torterra with Swords Dance + Leaf Blade and Hidden Power Ice, respectively. Weezing can switch into Torterra's STAB moves with impunity and strike back with Fire Blast or Will-O-Wisp. Moltres makes an excellent offensive partner alongside Torterra, as it can safely switch into Torterra's counters and scare them with a STAB Fire Blast. Should your opponent run an offensive Leafeon instead of a defensive one, Registeel is a better answer, as a Swords Dance-boosted Life Orb Return can OHKO Moltres. If you plan on using Moltres as your dedicated check to the aforementioned threats, Rapid Spin support is required.</p>
+
+<p>Moltres can beat this set if played correctly because it can switch into three-fourths of the moveset easily. It is advised that you run a bulky Water-type with a reliable recovery move to effectively combat Moltres for the entire match. Milotic and Slowking make excellent Moltres counters and also resist Torterra's Fire- and Ice-type weaknesses. Using Stealth Rock is also a good idea since it restricts Moltres's opportunities to switch in.</p>
+
+[SET]
+name: Choice Band
+move 1: Wood Hammer
+move 2: Earthquake
+move 3: Stone Edge
+move 4: Superpower / Seed Bomb / Toxic
+item: Choice Band
+nature: Adamant
+evs: 44 HP / 252 Atk / 212 Spe
+
+[SET COMMENTS]
+
+<p>Choice Band Torterra requires no setup to deal damage, allowing it to immediately enter battle and fire off powerful Earthquakes and Wood Hammers coming off a 522 Attack stat. Wood Hammer is highly recommended over Seed Bomb, as its high Base Power allows it to OHKO every Water-type in UU, as well as deal up to 62% to standard Hariyama. Earthquake is another strong STAB move that lacks Wood Hammer's nasty recoil, and also hits the Steel-types that attempt to absorb Wood Hammer. Stone Edge covers Flying-types such as Moltres, Scyther, and Altaria that are immune to Earthquake and take little damage from Wood Hammer. The last slot is up to you; Seed Bomb hits the likes of Claydol and Mismagius without having to rely on Wood Hammer's recoil or Stone Edge's shaky accuracy, while Superpower is a safer option against enemy Torterra and Magnet Rise Aggron than Wood Hammer. Toxic is an option solely for taking out foes such as Tangrowth that wall this set.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Ice-type attacks and Grass-types such as Tangrowth and Leafeon are the bane of Torterra's existence, especially for this set, as Torterra could potentially be locked into an ineffective move. Having Pokemon that can take Ice- and Fire-type attacks as well as threaten bulky Grass Pokemon would benefit Torterra greatly. Fire-types such as Arcanine and Houndoom can help safeguard Torterra from Ice- and Fire-type attacks while simultaneously threatening Grass-types.</p>
+
+[SET]
+name: Specially Defensive
+move 1: Wood Hammer
+move 2: Earthquake
+move 3: Synthesis
+move 4: Leech Seed / Roar
+item: Leftovers
+nature: Careful
+evs: 252 HP / 252 SpD / 4 Spe
+
+[SET COMMENTS]
+
+<p>Torterra's decent base 85 Special Defense is often overshadowed by its much higher Defense. However, with this set, Torterra can counter some of the most powerful special attackers in UU, including Mismagius, Alakazam, and Rotom. This Torterra is also one of the best checks to Slowbro, as it can easily absorb most of Slowbro's attacks (except Ice Beam) and retaliate back with STAB Wood Hammer. Even without any investment, Torterra's Defense stands at a respectable 246, giving it good mixed walling capability. Its Ground- and Rock-type resistances allow it to switch into Rhyperior, Donphan, and Aggron (beware of Ice Punch) and hit them with the appropriate attack.</p>
+
+<p>Wood Hammer is Torterra's main STAB attack and hits hard even without Attack investment. Torterra's STAB Earthquake maims Steel- and Fire-type switch-ins, something its fellow Grass-type Venusaur is unable to do effectively. Synthesis grants Torterra instant recovery and allows it to continuously switch into special threats, like Mismagius. Common Mismagius counters such as Spiritomb and Registeel can eventually be worn down, but Torterra can simply replenish its health to continually prevent Mismagius from sweeping. Torterra's last moveslot is dedicated to utility options. Leech Seed grants Torterra and its teammates extra recovery while sapping the opponent's health. Roar lets Torterra force out stat boosters like Curse Miltank and prevents Scyther and Moltres from switching in too easily while Stealth Rock is up.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Torterra has access to Stealth Rock and can use it over Leech Seed or Roar in the last slot. It's an inferior option, however, as there are better users of Stealth Rock and the other two moves grant Torterra far more utility.</p>
+
+<p>With maximum EVs and a positive nature, Torterra's Special Defense maxes out at a respectable 295. An unboosted Shadow Ball from Mismagius does a mere 23.1% - 27.4%, while +2 Shadow Ball deals 45.7% - 54.1%. As Mismagius uses Nasty Plot, Torterra can strike it with Wood Hammer, which has a chance to OHKO after Stealth Rock. Another scenario includes Mismagius using Substitute as Torterra switches in; as Mismagius sets up with Nasty Plot, Torterra can hit it with Wood Hammer, survive the incoming Shadow Ball, and OHKO it the next turn. With this spread, Torterra will never be KOed by Psychic followed by Signal Beam from Timid Life Orb Alakazam, even with Stealth Rock factored in. This grants Torterra another advantage over Venusaur, which has no hope of taking on Alakazam.</p>
+
+<p>Torterra can invest some EVs into Speed to outspeed certain threats, but this should be done with great care, as losing Special Defense means Torterra will be less adept at its walling duties. With 40 Speed EVs, Torterra can outspeed and hit 4 Speed Clefable before it heals. 96 Speed EVs allow Torterra to outspeed and OHKO 4 Speed Lanturn before Lanturn can strike back with Ice Beam. 4 Speed EVs are usually enough, though, as they allow Torterra to outpace most threats like Rhyperior and Azumarill.</p>
+
+<p>Torterra makes a great defensive core with Weezing and Milotic. RestTalk Weezing can handle Venusaur and sponge the strong STAB Fighting-type attacks that Torterra can't. Milotic grants great Ice- and Fire-type resistances for Torterra, (especially against the likes of Moltres) while Torterra provides insurance against Electric attacks in return. Thanks to Torterra's ability to draw out Weezing, Omastar has ample opportunities to set up entry hazards. Because it doesn't enjoy status, Torterra appreciates the support of a cleric. Chansey can use Heal Bell and pass Wish to Torterra if it hasn't had a chance to heal with Synthesis. Altaria makes a nice alternative cleric; it resists Torterra's Fire weakness while Torterra resists Altaria's Rock weakness, but the two share a nasty 4x Ice weakness. Altaria also poses more of an offensive threat than Chansey with Dragon Dance.</p>
+
+[SET]
+name: Dual Screens
+move 1: Reflect
+move 2: Light Screen
+move 3: Earthquake / Synthesis
+move 4: Stealth Rock / Seed Bomb / Synthesis
+item: Light Clay
+nature: Impish
+evs: 252 HP / 16 Def / 240 SpD
+
+[SET COMMENTS]
+
+<p>This set is designed to set up Reflect and Light Screen, which enable Pokemon such as Dragon Dance Feraligatr and Swords Dance Absol to set up much more easily before sweeping the opponent. What sets Torterra apart from other UU dual screen users is its typing, as most dual screen users are Psychic-type. Torterra is also one of the few dual screens users that are physically offensive.</p>
+
+<p>Reflect and Light Screen, obviously, are used on this set to support the team. Light Clay prolongs the moves' effects, allowing for more setup time. Earthquake and Seed Bomb are two powerful STAB attacks that Torterra can use when in a pinch. Torterra isn't a slouch in Attack either, as even with no EVs, Torterra sits at a respectable 254 Attack. For example, Earthquake OHKOes Pokemon such as Blaziken, Ninetales, and Toxicroak, while Seed Bomb OHKOes Omastar and Kabutops. If you wish to increase Torterra's longevity and give it the option of setting up dual screens multiple times, then Synthesis is a good option over one of the attacking moves. Because Torterra will be taking less damage thanks to Reflect and Light Screen, Stealth Rock can be used to support your sweeper, as the residual damage will help score the OHKOs needed for an easy sweep. The EVs listed maximize Torterra's defenses so that it can take physical and special hits with relative ease.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>As was previously stated, Torterra's typing is another asset to this set. Torterra is a prime target for Bug- and Ice-type attacks. This makes Torterra a great teammate for Charizard as well as Water-types like Feraligatr. Behind screens, it's very easy for Charizard to set up a Substitute and then Belly Drum. Poliwrath can also set up with Belly Drum, or even Bulk Up. Opposing Brick Break users will be a problem as they can shatter dual screens, even against Ghost-types. Fortunately, most Pokemon in UU that can use Brick Break, such Toxicroak, Blaziken, and Hariyama, have better options in terms of Fighting attacks, and in the case of the former two, are KOed by Earthquake. The only Pokemon in UU that commonly uses Brick Break is Scyther, which resists Seed Bomb and is immune to Earthquake anyway, so you will need to find ways around it. Scyther is hurt most by Stealth Rock, which will reduce its HP by half, allowing it to be picked off easily by many Pokemon. Registeel and Steelix also make good counters to it because of their massive Defense stats and resistances to Scyther's STAB moves.</p>
+
+[SET]
+name: RestTalk
+move 1: Rest
+move 2: Sleep Talk
+move 3: Roar
+move 4: Wood Hammer / Earthquake
+item: Leftovers
+nature: Impish
+evs: 252 HP / 216 Def / 40 Spe
+
+[SET COMMENTS]
+
+<p>Torterra is a great asset to stall teams thanks to its handy resistances coupled with its formidable physical bulk. These let it switch in on a large amount of the metagame's most common Pokemon, such as Rhyperior, Registeel, and Steelix, and Roar as they either switch or do a negligible amount of damage. This forces the opponent to lose health to entry hazards and possibly reveal previously hidden members of their team. Rest fully heals Torterra, meaning that it is less worried by weak super effective hits.</p>
+
+<p>The real selling point of this set is, interestingly enough, its Speed. Torterra sits in a Speed tier slightly above most other defensive Pokemon, and can really put the pressure on opposing stall teams with the combination of Rest, Sleep Talk, and Roar, which allows Torterra to Roar before slower opposing Pokemon have a chance to heal. The fact that it can switch into a majority of Pokemon on opposing stall teams makes its job even easier. 40 Speed EVs also allow Torterra to outpace standard Clefable by two points.<p>
+
+<p>This does not mean that this set is dead weight against offensive teams, either. Torterra can abuse its physical bulk to come in on many of the physically-oriented sweepers of UU, such as Hitmontop and other Fighting-types. Balanced teams will tend to include one of the defensive Pokemon mentioned earlier. Once in, Torterra can opt to add further residual damage with Roar, or to try to hit an opposing Pokemon hard with one of its STAB moves. Wood Hammer is preferred due to the fact that nothing is immune to it, and it allows Torterra to hit bulky Water-types that may switch in and use Ice Beam for the KO. Wood Hammer's recoil is also negated by Rest, meaning that Torterra does not need to worry about being low on health. Earthquake is an option that will allow Torterra to hit more Pokemon for neutral damage, most notably Venusaur, and opposing Fire-types, such as Arcanine, for super effective damage. While it allows Levitators and Flying-types to come in freely, they will likely get Roared out again anyway.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>This set plays off Torterra's ability to force switches and, as such, needs support from Pokemon that can set up entry hazards to function effectively. Good examples are Omastar, which provides handy Fire-, Ice-, and Flying-type resistances, as well as the ability to set up Spikes; and Chansey, which can cover the special attackers that the opponent will try to use against Torterra, in addition to being able to set up Stealth Rock. Toxic Spikes support is useful but not as high of a priority as the other two hazard types.</p>
+
+<p>Bulky Water-types like Slowbro pair up well with this set, as they have the ability to check many of common stallbreakers, such as Blaziken. They can also force switches with their stalling capability, furthering the goal of the stall team. Lanturn gets a particular mention because of its Flying-type resistance, good Special Defense, and ability to threaten the Water-types that try to prey on Torterra's Ice weakness. Having another physically bulky Pokemon with a Flying-type resistance such as Registeel and Steelix is good for dealing with Scyther, which can stop this set dead once it is allowed to switch in.</p>
+
+[SET]
+name: Substitute + 3 Attacks
+move 1: Substitute
+move 2: Earthquake
+move 3: Wood Hammer / Seed Bomb
+move 4: Stone Edge
+item: Leftovers / Life Orb
+nature: Adamant
+evs: 216 HP / 252 Atk / 40 Spe
+
+[SET COMMENTS]
+
+<p>With its great bulk and typing providing many chances of switching in, Torterra can cause a few switches itself. Substitute is a great move to abuse this, because unlike Rock Polish, Substitute Torterra will easily take out a Pokemon every time it comes in because of the free attack it gets. Substitute and Earthquake are staples on this set, but Wood Hammer and Stone Edge can easily be replaced by other moves. Seed Bomb is an option, since Substitute and Wood Hammer's recoil will wear Torterra down quickly. Leftovers allows Torterra to make more Substitutes, although Life Orb can be used for more power.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs are fairly simple. 216 HP EVs give Torterra a Substitute number and excellent bulk. With 40 Speed EVs, Torterra outpaces Pokemon such as Omastar and Rhyperior, and the rest of the EVs are dumped into Attack to maximize Torterra's damage output.</p>
+
+<p>First and foremost, this Torterra set needs a Pokemon that will lure out Earthquake and Stone Edge for Torterra to switch into and set up on. Fire-types such as Houndoom, Arcanine, and Magmortar are great partners for this reason. Because Torterra also requires a teammate to switch into Ice Beam, you can kill two birds with one stone by using one of the Pokemon listed above. This set also works well with Spikes because it uses the opponent's switches to its advantage. Cloyster is one of the most effective Spikes users, and it also has great defensive synergy with Torterra.</p>
+
+[SET]
+name: SubSeed
+move 1: Substitute
+move 2: Leech Seed
+move 3: Earthquake
+move 4: Toxic / Wood Hammer
+item: Leftovers
+nature: Adamant
+evs: 216 HP / 80 Atk / 212 Spe
+
+[SET COMMENTS]
+
+<p>Torterra makes an excellent staller due to Leech Seed, its high defenses, and its bulky Substitutes. Additionally, Torterra has the ability to 2HKO Venusaur with its powerful STAB Earthquake. Wood Hammer and Toxic are there for completely different reasons, but both of them are viable. Toxic gives Torterra a way around Grass-types not named Venusaur. Wood Hammer helps Torterra fend off Pokemon such as Mismagius, Omastar, Cloyster, and Donphan. The premise is simple: send Torterra into a weak physical or resisted attack and set up a Substitute on the switch. If the Pokemon that comes in is not a Grass-type or Clefable, use Leech Seed and start stalling until they are in KO range. Venusaur and Clefable are both 2HKOed by Earthquake, so they are no worry anyway. If a pure Grass-type such as Tangrowth comes in, hit it with Toxic and stall its HP away. With Wood Hammer, you trade the ability to handle pure Grass-types for the ability to strike Pokemon such as Cloyster and Claydol super effectively.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs look a little obscure at first, but they are quite necessary for this set to work effectively. The 216 HP EVs give Torterra bulky Substitutes and a Substitute number, meaning that it will be able to Substitute five times in a row. 80 Attack EVs and an Adamant nature ensure that Torterra can 2HKO the common support Venusaur. 212 Speed EVs allow Torterra to outpace many threats, such as defensive Milotic and Venusaur, as well as Hitmontop, Donphan, and Omastar.</p>
+
+<p>For this set to work to its fullest potential, it needs to be paired with Spikes and Stealth Rocks users, as well as a Ghost to block Rapid Spin. Omastar, Qwilfish, and Cloyster are great at setting up Spikes, and they also all resist Ice. Defensive Mismagius works great as a Pokemon to block Rapid Spin because it can Taunt Foresight users such as Hitmontop. Generally, any SubSeed set requires you to remove Grass-types for it to function well, so Scyther and Moltres make great partners for Torterra, as they can switch into any Grass-type attack and OHKO the user with Aerial Ace and Fire Blast respectively. Common Grass-types that will stand in Torterra's way include Exeggutor, Tangrowth, Leafeon, and physically defensive Venusaur. Exeggutor is easily eliminated with the help of a Pursuit user such as Absol, Drapion, or Spiritomb. Tangrowth and Leafeon can be stalled out with Torterra's Toxic, but having a Weezing with Flamethrower as a partner will make Torterra's life a lot easier, as it can wall and burn every Grass-type except Exeggutor. Finally, even though Venusaur is rather unpredictable, it is easily defeated by faster Fire- and Flying-types such as Houndoom, Arcanine, and Swellow.</p>
+
+[Other Options]
+
+<p>On the physical side, Rock Slide can replace Stone Edge if you want a bit more accuracy and PP, but the loss in power is incredibly noticeable. Torterra's special attacking options include Leaf Storm, Giga Drain, Energy Ball, Earth Power, and Grass Knot, none of which should be used when Torterra has Seed Bomb, Wood Hammer, Earthquake, and a great base Attack stat. Torterra can also make use of Hidden Power Ice as a way to bypass the various Grass-types that stand between it and a sweep. However, splitting offensive EVs between Attack and Special Attack could prove detrimental in the long run, and Torterra is pressed for moveslots as it is. Swords Dance and Curse are both interesting options on Torterra, as they boost its Attack to very impressive levels. Still, the Ice-type weakness is too great to ignore, and more often than not, such moves will still deal over half damage to even a Curse-boosted Torterra. Torterra's low Speed also prevents Swords Dance from being useful.</p>
+
+[Checks and Counters]
+
+<p>Tangrowth is a full stop to any Torterra, as even a Swords Dance Stone Edge fails to 2HKO. Venusaur and Leafeon may work a bit differently but they have the same goal; they trade bulk for Speed, which allows them to outrun and strike down Torterra. 252 HP / 252 Def Hariyama with Ice Punch is a decent check to any Torterra, as even a Choice Band-boosted Wood Hammer fails to OHKO. Weezing is immune to Earthquake, resists Wood Hammer, and isn't 2HKOed by Choice Band-boosted Stone Edge, making it a very solid Torterra counter. With Will-O-Wisp and Flamethrower, Weezing can threaten Torterra all day long. As long as it avoids Stone Edge, Moltres can come in on Torterra and threaten it with Fire Blast.</p>
+
+<p>Torterra's lower Special Defense, weaknesses to Ice-, Fire-, Flying-, and Bug-type moves, and its predictability lead it to its downfall. Take advantage of these, as well as its low Speed, in order to get rid of it.</p>

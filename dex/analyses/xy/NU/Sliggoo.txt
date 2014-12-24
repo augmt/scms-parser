@@ -1,0 +1,13 @@
+Tank
+########
+name: Tank
+move 1: Rest
+move 2: Sleep Talk
+move 3: Ice Beam / Thunderbolt
+move 4: Dragon Tail / Dragon Pulse
+ability: Gooey
+item: Eviolite
+evs: 252 HP / 4 Def / 252 SpD
+nature: Calm
+
+This is a sample set while we are currently working on analyses in the workshop.

@@ -1,0 +1,39 @@
+[Overview]
+
+<p>On one hand, Trapinch possesses impressive Attack and an excellent ability in Arena Trap; on the other hand, its Speed is abysmal and it's unable to take hits at all. Given all this, there's really only one way for Trapinch to shine: inside of Trick Room. Under its effects, Trapinch essentially becomes Diglett on steroids, trapping foes and easily KOing with its powerful attacks. Despite a fundamentally shallow movepool, this humble little termite can be a real force to be reckoned with under the right conditions, and makes an excellent offensive addition to any Trick Room team.</p>
+
+[SET]
+name: Trick Room Trapper
+move 1: Earthquake
+move 2: Quick Attack
+move 3: Crunch
+move 4: Bug Bite / Rock Slide
+item: Life Orb
+ability: Arena Trap
+nature: Brave
+evs: 196 Atk / 156 Def / 156 SpD
+ivs: 0 HP / 0 Spe
+
+[SET COMMENTS]
+
+<p>The only way to use Trapinch effectively is with the effects of Trick Room in play. The vital tools in Trapinch's arsenal are Earthquake, Crunch, and Quick Attack, giving it a strong STAB, a way to deal with Levitating Ghosts, and an answer to opposing priority, respectively. With the given moves and stat spread, Trapinch has a few key advantages over its rival Ground-type Trick Room sweeper, Cubone: the ability to keep opponents from switching with Arena Trap, a lower minimum Speed stat, allowing it to outspeed everything but Munchlax and tie with minimum-Speed Slowpoke, and access to a priority attack, making it harder to revenge-kill when Trick Room has expired.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Trapinch's last moveslot comes down to a number of filler options. Bug Bite is probably the best of these, as it deprives the likes of Wynaut, Paras, Bronzor, and Munchlax of their Oran Berry while giving Trapinch a somewhat-reliable means of recovery. A combination of Bug Bite and Quick Attack also allows Trapinch to beat Oran Berry Snover one-on-one, something it cannot accomplish otherwise. On the other hand, Rock Slide complements Trapinch's Ground-type STAB very well, and allows Trapinch to beat common Flying-types, most notably Mantyke.</p>
+
+<p>The EVs listed max out Trapinch's Attack stat and give two extra points in each defense stat, while the IV spread minimizes Life Orb recoil and maximizes Trapinch's Speed under Trick Room. If you opt for an item other than Life Orb, an alternative EV spread of 156 HP / 196 Atk / 76 Def / 76 SpD with full HP IVs can be used.</p>
+
+[Other Options]
+
+<p>Substitute is useful as an added buffer to extend Trapinch's sweep beyond the duration of Trick Room, but it can be difficult to set up since Arena Trap prevents the switches that would normally be Trapinch's opening to do so. Your only hope of getting a Substitute up is dependent upon your opponent using a non-attacking move (such as Protect, which your opponents can and will use to stall out your Trick Room turns if they have it available). Flail is an option that can be run on sets that don't use Life Orb, but it is illegal with Quick Attack, which you'll almost always want instead.</p>
+
+<p>Choice Band was not mentioned, but it shows some promise, since Arena Trap negates the need to predict switches. A Banded Trapinch can switch in on Choice-locked Electric-type attacks with impunity, and the Attack boost also makes Quick Attack that much more potent; it also makes Trapinch much more vulnerable to Gastly and Mantyke switch-ins, however, who will use the opening to set up a sweep and start pummeling Trapinch.</p>
+
+[Checks and Counters]
+
+<p>The most significant threat to Trapinch's sweep is strong, super effective priority. Carvahna is particularly scary, packing one of the most powerful Aqua Jets in Little Cup, capable of OHKOing Trapinch. Totodile will also OHKO Trapinch, even with an unboosted Aqua Jet. Squirtle can tank Trapinch's hits and 2HKO with Aqua Jet easily. Snover's Ice Shard will fall just short of the OHKO, but Life Orb recoil from Quick Attack + Bug Bite or Rock Slide will ensure Trapinch's demise. Croagunk, Stunky, and Houndour, while weak to Earthquake, can easily pick off a weakened Trapinch with Sucker Punch outside of Trick Room. If Trapinch is ever going up against any of these Pokemon, it needs to have them in KO range of its Quick Attack while in Trick Room if it wants to come out on top.</p>
+
+<p>Other threats that Trapinch will have problems with are bulky Pokemon that it can't hit super effectively, namely Gligar and Bronzor. Even non-defensive Gligar aren't bothered by any of Trapinch's moves, except for Bug Bite, which only provides an annoyance to variants packing Oran Berry. In return, Gligar can easily wipe out Trapinch with Aqua Tail. Bronzor can be handled a bit more easily with Crunch and Bug Bite, but it never goes down easily and can usually deal some crippling damage if it packs offensive moves.</p>
+
+<p>Inside of Trick Room, Trapinch has some speed issues with a few key foes. Munchlax is a pretty serious threat; any variants that run a Speed-hindering nature will Speed tie with Trapinch, and said Munchlax with 0 Speed IVs will always outspeed Trapinch in Trick Room and can land a solid 2HKO with Return against a fully healthy Trapinch. Minimum Speed Slowpoke will also Speed tie with Trapinch, and can threaten it with STAB Surf or Aqua Tail. The only other Pokemon slow enough to Speed tie is minimum Speed Bonsly; though rarely seen, it still poses a threat with Sucker Punch and Explosion.</p>

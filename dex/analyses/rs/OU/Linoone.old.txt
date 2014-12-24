@@ -1,0 +1,61 @@
+[Overview]
+
+<p>It learns some interesting moves in Belly Drum, Extreme Speed, and Trick, and if played correctly, can screw up the opponent's entire strategy.</p>
+
+[SET]
+name: Belly Drum
+move 1: Belly Drum
+move 2: Extreme Speed
+move 3: Shadow Ball
+move 4: Hidden Power Ground / Hidden Power Fighting / Substitute
+item: Leftovers / Lum Berry / Salac Berry
+nature: Adamant
+evs: 108 HP / 252 Atk / 12 Def / 136 Spe
+
+[SET COMMENTS]
+
+<p>This set is relatively straightforward; force a switch, then use Belly Drum and Extreme Speed to your heart's content.</p>
+
+<p>If using Hidden Power Fighting, shift 4 EVs from Defense to Speed so Linoone remains faster than Adamant Heracross. Go with Salac Berry if using Substitute, but that might not be necessary as the move Linoone will be using the most is Extreme Speed. Finally, be sure to carry a Magneton to take out opposing Skarmory.</p>
+
+[SET]
+name: SubFlail
+move 1: Substitute / Endure
+move 2: Belly Drum
+move 3: Flail
+move 4: Shadow Ball
+item: Salac Berry
+nature: Adamant
+evs: 120 HP / 252 Atk / 136 Spe
+
+[SET COMMENTS]
+
+<p>Here is where the real damage comes into play. This set must obviously be paired with Magneton to prevent Skarmory from phazing it out; Tyranitar rips this to pieces as well. However, this very thinking has reduced the popularity of Flail and Reversal attackers, so people have let their guard down with regards to packing priority.</p>
+
+<p>Make sure that Linoone's HP stat is not exactly divisible by 4, as this will result in a weakened Flail.</p>
+
+[SET]
+name: Choice Band
+move 1: Return / Extreme Speed
+move 2: Shadow Ball
+move 3: Hidden Power Ground / Hidden Power Fighting
+move 4: Trick / Flail / Surf
+item: Choice Band
+nature: Adamant / Lonely
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Do some damage with strong Choice Band-boosted attacks, and when your opponents least expect it, Trick the Choice Band onto their Skarmory to screw it for the rest of the match. Trick is one of the best moves on this set for the aforementioned reason, but Extreme Speed + Trick is illegal. Flail is really just filler, in case you want to pick Extreme Speed, as it has the same power as Extreme Speed when Linoone is at 35.4%, and only becomes more powerful when Linoone is under 20.8% HP.</p>
+
+<p>The listed EV spread of maximum Attack and Speed is self-explanatory; if you want to deviate from this, though, be sure to maintain a Speed stat of at least 300.</p> 
+
+[Other Options]
+
+<p>Nothing much else really.</p>
+
+[Checks and Counters]
+
+<p>Skarmory and Forretress can set up Spikes on Linoone and wall any hits it can fire off. Skarmory and Suicune can phaze away any Linoone that tries to Belly Drum, and neither will take much damage from its boosted attacks. Tyranitar's Sand Stream can prevent a Salac Berry-boosted sweep and can slowly wear Linoone down; Tyranitar also has the Defense to take a non-Belly Drum-boosted hit and KO Linoone with Rock Slide, Earthquake, or Crunch.</p>
+
+<p>In conclusion, the main way to counter Linoone is simply to attack it repeatedly; as it's so fragile, it won't be able to use Belly Drum and will thus be useless.</p>

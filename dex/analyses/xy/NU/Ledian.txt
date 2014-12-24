@@ -1,0 +1,13 @@
+Dual Screens
+########
+name: Dual Screens
+move 1: Reflect
+move 2: Light Screen
+move 3: Encore
+move 4: Roost / U-turn
+ability: Early Bird
+item: Light Clay
+evs: 152 HP / 104 SpD / 252 Spe
+nature: Timid / Jolly
+
+This is a sample set while we are currently working on analyses in the workshop.

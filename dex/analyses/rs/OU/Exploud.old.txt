@@ -1,0 +1,25 @@
+[Overview]
+
+<p>Exploud is pretty horrible--its only hope at accomplishing something useful is if it is Baton Passed stat boosts by other Pokemon. Its Soundproof ability, which gives it immunity to Roar, does give it a niche as a recipient, however.</p>
+
+[SET]
+name: Mixed Attacker
+move 1: Return
+move 2: Shadow Ball / Earthquake
+move 3: Substitute / Earthquake
+move 4: Flamethrower / Fire Blast / Overheat
+item: Leftovers
+nature: Adamant
+evs: 220 HP / 180 Atk / 108 Spe
+ 
+[SET COMMENTS]
+
+<p>The only reason one would ever want to use Exploud on a team is to take advantage of Soundproof, as it will block Roar, a move commonly used to stop Baton Pass chains. The idea is to pass it Attack and Speed boosts, such as with Swords Dance and Speed Boost from Ninjask, or Belly Drum and Salac Berry from Smeargle. When the opponent switches in his phazer, pass to Exploud on the Roar, then either Substitute or start firing off attacks. Shadow Ball is there for Ghosts, the Fire move for Skarmory, and Earthquake for Tyranitar. The EV spread lets Exploud make 101 HP Substitutes and outspeed +1 Dragon Dance Salamence.</p>
+
+[Other Options]
+
+<p>Howl lets Exploud increase its own Attack without having to rely on Baton Pass. Body Slam and Double-Edge are alternative Normal STAB attacks, for either paralysis or extra power at the expense of HP. Ice Beam and Brick Break are useful for type coverage in general. Seismic Toss deals a consistent 100 HP damage, which might be helpful considering Exploud's average offenses.</p>
+
+[Checks and Counters]
+
+<p>Whirlwind is not affected by Soundproof and so forces Exploud out, and pretty much everything will easily take down an unboosted Exploud.</p>

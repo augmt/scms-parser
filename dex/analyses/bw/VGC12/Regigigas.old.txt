@@ -1,0 +1,31 @@
+[Overview]
+
+<p>If you're wondering what Regigigas&mdash;a Pokemon that cannot learn Protect and has its Speed and Attack halved for an eternity&mdash;is doing in VGC, you're not alone. However, behind the facade of a harmless giant is a monster with massive defenses and excellent supportive options. Sporting excellent 110 / 110 / 110 defensive base stats that rival even Cresselia's, and access to moves such as Thunder Wave, Wide Guard, and Icy Wind, Regigigas is excellent at performing a supportive role on a team. Consider this colossus dead weight at your own peril.</p>
+
+[SET]
+name: Supporter
+move 1: Wide Guard
+move 2: Thunder Wave
+move 3: Icy Wind
+move 4: Rock Slide / Return
+item: Sitrus Berry / Chople Berry
+nature: Careful
+evs: 252 HP / 4 Def / 252 SpD
+
+[SET COMMENTS]
+
+<p>Regigigas's access to Wide Guard provides it with a niche over its fellow support Pokemon, Cresselia, allowing it to block spread moves that are very common in the VGC metagame. Aside from Wide Guard, Regigigas has both Thunder Wave and Icy Wind. Both moves aid in slowing down the opponent's Pokemon, providing a speed advantage to Regigigas's partner. For its final move, Regigigas can run either Rock Slide or Return. Rock Slide doesn't do much damage, but can buy time by potentially flinching targets after they have been paralyzed with Thunder Wave. Return, on the other hand, allows Regigigas to deal a bit of damage to opposing Pokemon, and becomes quite respectable as an offensive option should Slow Start be lifted in five turns.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs focus on maximizing Regigigas's special bulk. This allows Regigigas to take on powerful special attacks, such as rain-boosted Hydro Pump or Dragon Gem-boosted Draco Meteor, with HP to spare. Sitrus Berry and Chople Berry further improve Regigigas's survivability by providing some HP recovery and allowing Regigigas to take Fighting-type moves, respectively. An alternative EV spread of 252 HP / 252 Def / 4 SpD, with an Impish nature, can be used to focus on physical defense; the EV spread nearly guarantees that Regigigas can survive a Fighting Gem-boosted Close Combat from Hitmontop without the use of a Chople Berry. Naturally, defensive EV spreads in between the two extremes can work as well; what works best will depend on the needs of your team.</p>
+
+<p>Regigigas's only weakness is to Fighting-type attacks, so Pokemon such as Metagross, Latios, and Togekiss, which can handle Fighting-type Pokemon well, make decent partners. When it's not being threatened by Fighting-type Pokemon, a partner that can take advantage of Regigigas's support moves is preferred. For example, Pokemon such as Metagross, Zapdos, Chandelure, and Abomasnow, which are vulnerable to a number of spread moves and aren't particularly fast, can take full advantage of the support options that Regigigas has to offer.</p>
+
+[Other Options]
+
+<p>Regigigas has a number of other support options to choose from. Swagger and Confuse Ray allow it to cause further disruption to the opposing Pokemon, while Safeguard can be used to prevent the opponent's Pokemon from fighting back with status moves of their own. Substitute can act as a... substitute for Protect. Gravity can allow for some interesting options, letting Regigigas's ally use low accuracy attacks without worry. Weather moves, such as Rain Dance or Sunny Day, can be used to provide Regigigas with manual weather control. Regigigas can use Knock Off to remove an opponent's item. This can be useful in disarming type-resist Berries, Life Orb, or Leftovers. In addition to support moves, Regigigas has a large number of physical attacks to choose from, such as Earthquake, the elemental punches, and Superpower; however, due to Slow Start, it's not worth trying to use them. Finally, even though it's a gimmick, one can use Simple Beam, Worry Seed, or Mummy to try to get rid of Slow Start, as this will allow Regigigas to take on an offensive role.</p>
+
+[Checks and Counters]
+
+<p>Fighting-type Pokemon can easily crush Regigigas by slamming it with powerful Close Combats, however it can often survive a Fighting-type move if it is holding a Chople Berry. Taunt can help against Regigigas by disabling Thunder Wave and Wide Guard, but it can still slow down its opponents with Icy Wind. Ultimately, the easiest way to handle Regigigas is to attack it with strong STAB attacks, such as Meteor Mash or Draco Meteor, as one can be certain that it will not use Protect, nor can it heal itself. Keep in mind that Regigigas's role doesn't change too much even if the duration of Slow Start somehow expires. You shouldn't ignore it, but don't think that it's the end of the world if five turns have passed.</p>

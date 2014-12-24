@@ -1,0 +1,66 @@
+Overview
+########
+
+Arguably the best Grass-type in the metagame, Foongus finds itself a niche on balanced and defensive teams through its incredible pivoting capabilities. Solid bulk when equipped with an Eviolite paired with a stellar defensive typing that grants numerous resistances make Foongus an incredibly tough Pokemon for several top-tier threats, such as Mienfoo and Spritzee, to break. An excellent disruptive movepool that includes Spore, Stun Spore, and Clear Smog means a well-played Foongus is a severe nuisance to the enemy team; although Spore and Stun Spore no longer work on opposing Grass-types, Foongus itself is really the only moderately common one. What really makes Foongus one of the best pivots available is its ability, Regenerator, which means that Foongus is easily able to switch in and out of favorable and unfavorable match-ups without worry.
+
+Of course, every Pokemon has its weaknesses, and Foongus is certainly no exception. The same typing that grants so many resistances also curses Foongus with a weakness to several prominent types, of which the Flying-type is particularly bothersome due to the prevalence of Fletchling. However, the majority of Foongus's weaknesses stem from its low base stats, which total to less than 300. If Foongus loses its Eviolite, which is a frequent issue because several Pokemon that Foongus walls carry Knock Off, Foongus will take noticeable damage from even reasonably powerful neutral STAB attacks. Also, a mediocre damage output means that once its status moves are used up, Foongus really isn't all that threatening. Foongus is also very slow, although this isn't overly detrimental for a defensive Pokemon. The reverted sleep mechanics make Spore less crippling, and in conjunction with the addition of threats such as Abra and Fletchling, which are able to decimate Foongus with their STAB attacks, at the end of the day, Foongus isn't quite what it used to be.
+
+Pivot
+########
+name: Pivot
+move 1: Spore
+move 2: Giga Drain
+move 3: Sludge Bomb / Clear Smog
+move 4: Hidden Power Fighting / Stun Spore
+ability: Regenerator
+item: Eviolite
+evs: 124 HP / 160 Def / 160 SpD
+nature: Bold
+
+Moves
+========
+
+This set makes full use of Foongus's brilliant supportive movepool and ability to pivot. Foongus is one of the few Pokemon with access to the coveted Spore, which allows it to consistently put one enemy, provided that it isn't a Grass-type, to sleep. From there, STAB attacks are a good idea so Foongus isn't completely helpless. Giga Drain acts as Foongus's primary STAB move and helps extend Foongus's longevity, and Sludge Bomb has more base power and allows Foongus to hit Snubbull, Snover, and opposing Foongus harder. Clear Smog is an alternative to Sludge Bomb for dissuading opponents from using stat boosting moves against Foongus, and has the bonus of going through Taunt. As a coverage option, Hidden Power Fighting can be used to damage Steel-types such as Pawniard, Ferroseed, and Magnemite, but Stun Spore is also a good choice as a secondary status move to paralyze sleep absorbers, Pokemon with innate sleep immunities, and faster Pokemon once Sleep Clause has been activated.
+
+Set Details
+========
+
+The given EVs allow Foongus to reach 25 HP / 21 Def / 21 SpD after Eviolite, making Foongus very difficult to OHKO, with the Eviolite being necessary to give Foongus reasonable bulk. Regenerator is the vastly preferred ability because it allows Foongus to pivot effectively by healing when it switches out.
+
+Usage Tips
+========
+
+Defensive Foongus is able to wall Chinchou and Fighting-types that lack Ice- or Psychic-type moves. Thanks to Regenerator, it doesn't mind repeatedly switching out of unfavorable match-ups. Foongus should always try to use Spore on something that is relevant and will be severely crippled by sleep, because Sleep Clause will only allow one Pokemon to be put to sleep at a time. Stun Spore should also be used cautiously as the paralyzed Pokemon will be unable to be hit by possibly more detrimental statuses. Paralyzing Timburr is usually not a good idea because Guts will allow it to muscle through Foongus with boosted attacks. As so much of Foongus's use revolves around its status moves, taking out the opposing cleric will make Foongus significantly more potent.
+
+Team Options
+========
+
+Foongus fits into Fire / Water / Grass cores well because it takes advantage of Regenerator by switching. Slowpoke in particular handles Foongus's Fire-, Ice-, and Psychic-type weaknesses while Foongus is able to deal with Slowpoke's Grass- and Electric-type weaknesses, with a combination of the two completely shutting down Fighting-types. Both have Regenerator so they can switch back and forth easily, and Slowpoke greatly appreciates the removal of Toxic Spikes. Fighting-types can take out the Steel-types that wall Foongus, with Mienfoo in particular also possessing Regenerator for even more switching fun, although this will leave the team with a weakness to Flying-type moves. A combination of Foongus, Slowpoke, and Mienfoo creates a Regenerator core with numerous resistances that is remarkably difficult to break. A Steel-type on Foongus's own team, such as Pawniard, can cover Foongus's weaknesses to Flying-, Psychic-, and Ice-type moves. However, this leaves the team more susceptible to Fire-type attacks.
+
+Tirtouga and Archen are two defensive Rock-types that have great type synergy with Foongus, absorbing Flying- and Fire-type attacks aimed at Foongus, while in return Foongus can easily withstand the Fighting-, Electric-, Water-, and Grass-type attacks that plague these Pokemon. With its numerous status moves, Foongus makes a great partner for sweepers looking for a chance to set up, and as it tends to force a lot of switches, a Rock- or Steel-type with Stealth Rock can take advantage of that.
+
+Other Options
+########
+
+Foongus actually has quite a few other interesting options, but their uses tend to be much more limited than the moves listed in the main set. Hidden Power Fire does more damage to Ferroseed than Hidden Power Fighting while also hitting Magnemite and opposing Foongus, but Pawniard tends to be much more threatening than Ferroseed because Ferroseed won't be able to hurt Foongus noticeably. Synthesis can work as additional recovery, but it is usually unnecessary when coupled with Giga Drain and Regenerator. Foul Play allows Foongus to deal heavy damage to Pokemon with high Attack that are hit neutrally by Dark-type moves, such as Bunnelby, but it lacks utility against the majority of the Pokemon Foongus is supposed to wall, which often either resist Foul Play or have low Attack stats. Toxic cripples Lileep and Munchlax that lack Rest and has perfect accuracy because Foongus is a Poison-type, but Stun Spore is better in almost every other scenario. Venoshock could be used in tandem with Toxic or Toxic Spikes support in order to hit harder than Sludge Bomb or Clear Smog, but Poison-type moves aren't very good offensively and Sludge Bomb usually does enough damage.
+
+Checks & Counters
+########
+
+**Magic Bounce**: Natu is a complete stop to Foongus thanks to Magic Bounce and a resistance to Giga Drain, as well as access to Roost to prevent it from being worn down. It also has STAB Psychic- and Flying-type moves to defeat Foongus with.
+
+**Grass-types**: Ferroseed walls any Foongus that lacks Hidden Power Fire and can freely set up entry hazards on it, but can't actually damage Foongus very much. Snover is immune to Spore, resists Giga Drain, and can deal heavy damage with Blizzard, but will not enjoy repeatedly switching into Foongus's Poison-type STAB moves. Although Grass-types are immune to Foongus's status moves, Sludge Bomb will heavily damage most of them.
+
+**Sleep Absorbers**: Munchlax doesn't mind sleep or paralysis too much, and if it packs Rest and Sleep Talk, it can wear down Foongus with Body Slam. Similarly, defensive Mantyke with Rest and Sleep Talk is also able to wall Foongus and can use Air Slash to threaten it.
+
+**Overcoat and Insomnia**: Overcoat carriers are immune to Foongus's status moves. Vullaby in particular doesn't mind anything Foongus can throw at it, as it is able to Roost off any damage sustained, and it can force Foongus out with its STAB Flying-type moves. Shelmet and Pineco are able to use Foongus to freely set up entry hazards.
+
+**Substitute Users**: Substitute blocks status moves, including Spore, allowing the Pokemon behind the Substitute to freely set up or attack.
+
+**Steel-types**: Magnemite is immune to Stun Spore and Clear Smog, and Foongus will be unable to hurt it significantly with Giga Drain while Magnemite can heavily damage Foongus with either Flash Cannon or Hidden Power Ice or Fire. Pawniard doesn't mind Stun Spore too much thanks to Sucker Punch and can cripple Foongus with Knock Off. However, neither of these Pokemon appreciate taking a Hidden Power Fighting. Bronzor is naturally slow, doesn't mind anything Foongus can throw at it, and can threaten it with a STAB Psychic.
+
+**Fire-types**: Houndour can easily switch in on Giga Drain and can wake up quickly from Spore thanks to Early Bird, but will not want to be paralyzed by Stun Spore. Once Sleep Clause is activated, Vulpix, Magby, Larvesta, Growlithe, and Ponyta will be able to safely switch in on Giga Drain, but they will also want to avoid Stun Spore. Defensive Numel can wall Foongus with Stockpile and can hit it with a STAB Lava Plume and doesn't mind paralysis too much due to an already very low Speed. However, offensive Numel may want to avoid paralysis.
+
+**Flying-types**: As previously mentioned, Vullaby is immune to Foongus's status moves and can force Foongus out with its STAB Flying-type attacks. Once Sleep Clause has been activated, Fletchling and Drifloon can come in on Giga Drain and pummel Foongus with their Flying-type moves, but will also have to stay away from Stun Spore. Fletchling is somewhat able to deal with paralysis due to Gale Wings.
+
+**Poison-types**: Trubbish resists both of Foongus's STAB moves, allowing it to easily heal back any damage sustained with Berry Juice + Recycle while freely setting up entry hazards or wearing Foongus down with Gunk Shot. Other Poison-types such as Koffing and Grimer also resist Giga Drain and Sludge Bomb and can hit Foongus with neutral STAB Poison-type moves.

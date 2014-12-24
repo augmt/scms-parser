@@ -1,0 +1,48 @@
+Overview
+########
+
+Zubat has a 4x resistance to Grass-, Bug-, and Fighting-type attacks, as well as an immunity to Ground-type attacks. It also has access to Brave Bird, which hits most of those types super effectively. Zubat has access to Infiltrator, which allows it to attack through Substitutes, and it gets Defog, which clears away all entry hazards and screens on the field. With these resistances and abilities, Zubat works well as a support Pokemon. However, Zubat's subpar stats keep it from being able to take advantage of these good traits. Zubat has several good special moves, but it has a terrible Special Attack stat to back them up and it lacks good physical attacking moves. Zubat only hits 16 Speed, which means that it is outsped by many common threats such as Mienfoo, Archen, Trubbish, and Drilbur. Its pitiful defenses make it hard to use for extended periods of time, and its Stealth Rock weakness makes it hard to switch in, which it should be doing a lot.
+
+Support
+########
+name: Support
+move 1: Defog
+move 2: Brave Bird
+move 3: U-turn
+move 4: Roost
+ability: Infiltrator
+item: Eviolite
+evs: 196 HP / 76 Atk / 236 Spe
+nature: Jolly
+
+Moves
+========
+Defog is immensely important, as it allows Zubat to remove troublesome entry hazards. Brave Bird is Zubat's most powerful STAB attack and its best chance of being a threat to opposing Fighting-types. U-turn allows Zubat to switch out while dealing some damage, allowing Zubat to act as a pivot. Roost gives Zubat reliable recovery, as it takes heavy damage from switching into Stealth Rock, and therefore needs some means of recovering that health.
+
+Set Details
+========
+Maximum investment in Speed and Attack is used so that Zubat can have as much offensive presence as possible, and a Jolly nature increases its Speed so that it can outspeed max Speed Scraggy. Eviolite should be run in order to increase Zubat's defenses. Without it, Zubat isn't likely to be able to survive most attacks, as Zubat's natural defenses are pitiful. Infiltrator allows Zubat to hit through Substitutes.
+
+Usage Tips
+========
+Zubat can easily switch in on any Fighting-type move, as its Poison / Flying typing blesses it with a 4x resistance. From there, the opposing player will be forced to choose between staying in and taking a super effective STAB Brave Bird or switching, giving Zubat a free turn to Defog. However, offensive Mienfoo outspeeds Zubat, meaning that Mienfoo can simply U-turn out and take advantage of the opposing loss of momentum. Zubat's main job is to be a Defog user, keeping the field clear for its teammates. If possible, avoid using it as a sweeper, as so many other Pokemon are much better at this job. Also, avoid using Defog when the opponent has a Pokemon with Defiant, which would most likely be Pawniard. A free +2 Attack boost to an opposing Pokemon is not worth clearing the field of hazards.
+
+Team Options
+========
+Volt Absorb Chinchou takes care of the Electric-type Pokemon that threaten Zubat, and Dark-type Pokemon easily neutralize Psychic-types. Running a Defog user like Zubat is optimal on a team with SturdyJuice users, such as Magnemite and Tirtouga. Zubat helps keep the field clear of entry hazards that would break Sturdy, and it effortlessly switches in on the Ground- and Grass-type moves that these two Pokemon fear. Don't run a Zubat if your team is also dependent on entry hazards, dual screens, or Sticky Web. Defog removes your team's entry hazards and screens as well, so Defog should only be used when you don't need those advantages.
+
+
+Other Options
+########
+Whirlwind, Toxic, and Tailwind are some other support options that Zubat can run. Consider your team and its strengths and weaknesses when deciding what to use. A Nasty Plot set, taking advantage of Zubat's wide special movepool, would unfortunately be a little too slow to be effective. It can run any combination of these special moves, including Giga Drain, Heat Wave, Shadow Ball, and Sludge Bomb, in order to give it incredible coverage. Steel Wing can be used to hit Fairy- and Rock-types, but its low Base Power makes it less potent. Hypnosis is another support option Zubat can run, as it lets Zubat put a Pokemon to sleep and then pivot out with U-turn, but the poor accuracy makes it too much of a gamble to run. Finally, Inner Focus allows Zubat to ignore Fake Out from Pokemon such as Mienfoo and Aipom.
+
+Checks & Counters
+########
+
+**Defiant**: Defog raises the Attack of Pokemon that have this ability by two stages. The most common Pokemon that runs Defiant is Pawniard, and it can be a dangerous threat at +2 Attack.
+
+**Rock-type Pokemon**: Omanyte and Tirtouga can both set up on and subsequently KO Zubat. However, some Zubat carry Giga Drain, which can be a serious threat to both of them.
+
+**Electric-type Pokemon**: Chinchou and Magnemite are both common Electric-types that take little damage from Zubat's attacks and threaten to OHKO Zubat with their powerful STAB attack.
+
+**Psychic-type Pokemon**: Both Abra and Slowpoke threaten Zubat; however, these Pokemon must be more wary, as Abra doesn't want to switch into a Brave Bird and Slowpoke is outsped by Zubat, which can easily U-turn out.

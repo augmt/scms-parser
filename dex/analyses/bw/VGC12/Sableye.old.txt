@@ -1,0 +1,30 @@
+[Overview] 
+
+<p>With the introduction of BW, Sableye was blessed with an incredible ability: Prankster. With no weaknesses, its excellent typing makes it deceptively bulky and easy to fit on any team. Its typing also grants it immunities to Fighting-, Psychic-, and Normal-type attacks. Sableye is the only Prankster Pokemon that has access to Will-O-Wisp, allowing it to shut down offensive threats before they get a chance to attack; it also has access to a wide variety of support moves such as Trick, Recover, and Taunt. Offensively, Sableye learns Sucker Punch, which can 2HKO several common Psychic- and Ghost-types, such as Latios and Chandelure, even with no investment in Attack. However, Sableye also suffers from many issues. Will-O-Wisp, its main move, has shaky accuracy and a miss can spell disaster. To make matters worse, Sableye also has poor defensive stats and cannot take too many hits. Specially based Pokemon that are not weak to Sucker Punch, such as Zapdos and Abomasnow, do not care about being burned, and can wall Sableye with ease. Nonetheless, although Sableye suffers from several problems, it is still an excellent addition to any team with its unique typing and movepool.</p>
+
+[SET]
+name: Prankster
+move 1: Fake Out
+move 2: Sucker Punch
+move 3: Will-O-Wisp
+move 4: Trick / Detect / Recover
+item: Lagging Tail / Leftovers
+ability: Prankster
+nature: Careful
+evs: 252 HP / 4 Def / 252 SpD
+
+[SET COMMENTS]
+
+<p>This set utilizes Sableye to its full potential as a support Pokemon, by letting it assist its partner with moves such as Fake Out, while threatening to KO foes with Sucker Punch. Fake Out is an extremely helpful move that allows Sableye to break Focus Sashes and to disrupt set-ups. Sucker Punch hits Psychic- and Ghost-types, such as Latios and Chandelure, for massive damage, 2HKOing them. It also provides Sableye with an attacking move if it is ever Taunted. Priority Will-O-Wisp hampers physical sweepers, including Garchomp, Hitmontop, Metagross, Scizor, Tyranitar, and Terrakion. However, be wary of priority attacks, such as Scizor's Bullet Punch, as they will hit Sableye very hard before Sableye is able to burn their users. Will-O-Wisp also helps out by wearing down bulky Pokemon, such as Cresselia and Amoonguss. The last move is based off item choice and preference. If Lagging Tail is used, Trick can easily shut down one of your opponent's Pokemon by forcing them to move last, as well as by stealing their item. Not only does it reduce their attacking abilities, it also often steals helpful items such as Focus Sashes and type resist Berries. Detect is generally a useful move to have to protect Sableye from threats while its partner takes it out. Recover, on the other hand, allows Sableye to heal half of its HP but leaves it vulnerable to attacks.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Maximum Special Defense EVs and a Careful nature lets Sableye better tank special attacks, as most physical threats will be neutered by Will-O-Wisp. If Trick is not your cup of tea, Leftovers is a great alternative to allow Sableye to survive on the field longer. Sableye partners well with any sweeper who can take advantage of the disruption it provides. For example, slow sweepers such as Hydreigon, Tyranitar, and Metagross appreciate Sableye Tricking a Lagging Tail to slow down faster opponents. Sableye also partners well with fast and fragile sweepers that dread physical attacks, such as Latios.</p>
+
+[Other Options]
+
+<p>Sableye has access to several other helpful moves, namely Taunt, Feint, Sunny Day, Rain Dance, and Confuse Ray. Taunt is useful in shutting down walls such as Cresselia and Amoonguss, but risks being stopped by Mental Herb. Feint breaks though Protect and partners well with strong sweepers such as Latios. Sunny Day or Rain Dance can be used either with a team that relies on weather or to counter weather teams should your team have trouble with them. Sableye can also use Confuse Ray to confuse all the opposing Pokemon, reducing their ability to attack. However, all of these moves are rather situational and are generally not as useful as those on the main set.</p> 
+
+[Checks and Counters]
+
+<p>Sableye has a hard time against Fire-types, as they are not affected by Will-O-Wisp. Sucker Punch also does little damage to all of them bar Chandelure. Heatran in particular can easily switch in on Will-O-Wisp and get a Flash Fire boost, is barely dented by Sucker Punch, and can retaliate for tremendous damage. Other Fire-types, such as Infernape and Arcanine, can easily wall Sableye. As Sableye is so frail, strong STAB attacks from both your Pokemon will often KO it in a turn. However, Sableye can threaten to Trick a Lagging Tail before it faints, often rendering sweepers useless. Nevertheless, sweepers that are already slow, such as Tyranitar and Metagross, are not affected too much by this. Pokemon with the Guts ability, such as Hariyama and Heracross, do not mind being burned. In fact, they often carry Flame Orb, which would burn Sableye if it decides to Trick.</p>

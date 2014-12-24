@@ -1,0 +1,33 @@
+[Overview]
+
+<p>Shuckle has the highest Defense and Special Defense stats in the game, which would be great if it had a higher HP stat to go along with them. Shuckle functions the best inside of a sandstorm, though, where its already high Special Defense is further increased. Not even Alakazam, which boasts the highest Special Attack in all of UU, can get past Shuckle in a sandstorm.</p>
+
+<p>Although Shuckle's sky-high defensive stats make it seem like a great Pokemon, there are a number of factors stopping it from being as useful as it should be. Shuckle's crippling Stealth Rock weakness, pathetic HP stat, lack of instant recovery, lack of a useful ability, and incredibly limited movepool all play into this. However, with the right support and given the right conditions, Shuckle can still wall most Pokemon until the end of days when the need arises.</p>
+
+[SET]
+name: Toxic Stall
+move 1: Toxic
+move 2: Encore
+move 3: Rest
+move 4: Knock Off / Protect
+item: Leftovers
+nature: Impish
+evs: 248 HP / 252 Def / 8 SpD
+
+[SET COMMENTS]
+
+<p>Although Shuckle's movepool is incredibly limited, it has everything it needs to be an effective poison stalling Pokemon. Shuckle's titanic defensive stats make it extremely hard to KO, and setting up on it with stat-boosting moves is not an option due to Encore. Once Shuckle's HP is low, it can fully heal itself with Rest. Knock Off is the best choice for the last slot; a lot of Pokemon hold Leftovers and will be greatly weakened by losing it. Knock Off is also great for removing Choice items from Pokemon that might try to Trick them onto Shuckle. Protect is another option to use in the last slot, as it allows Shuckle to get a free turn of Toxic buildup and grants it free Leftovers recovery.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>248 HP EVs are used so that Shuckle can switch into Stealth Rock 5 times and live, while 252 Defense EVs buffer the stat that sandstorm doesn't help. Shuckle can use a specially defensive EV spread of 248 HP / 252 SpD / 8 Def with a Careful nature to be even more difficult to take down on the special side. With that EV spread, Shuckle isn't even 5HKOed by Alakazam's Psychic. Shuckle can then safely Toxic the opponent from behind the Substitute without fear of being KOed. Stealth Rock can be used in the last slot since Shuckle is almost guaranteed to set it up unless Taunted, but if you are using a sandstorm team, you should consider other Pokemon for the move.</p>
+
+<p>Shuckle requires support against Steel- and Poison-types due to their immunity to Toxic. Dugtrio can trap and kill most Poison- and Steel-types, and is immune to sandstorm. Shuckle also appreciates Toxic Spikes support so that it can run Protect in Toxic's place. Cacturne can be used to set up Spikes if you're dead-set on none of your Pokemon taking sandstorm damage, but Qwilfish has better type synergy with his resistance to Fighting-, Steel-, and Water-type moves. Wish support also helps Shuckle out due to Rest's unreliability; Clefable is probably the best choice to supply this since it is immune to sandstorm through Magic Guard. Cleric support from Leafeon and Clefable is also very helpful to wake Shuckle up after he uses Rest.</p>
+
+[Other Options]
+
+<p>Shuckle has a very poor movepool, so there aren't many sets it can run. It can use an Acupressure set, but Shuckle's Attack stat at +6 will only reach 520, and it's outclassed by Drapion, who has higher Attack and Speed. Another niche that Shuckle has is a Power Trick set under Trick Room conditions. Once Shuckle uses Power Trick, its Attack stat will raise to 614, but its Defense stat will suffer, enabling common priority attacks to KO it with ease. Also, Rhyperior makes a much better Rock-type Trick Room sweeper than Shuckle due to Swords Dance and having great bulk and a substantially higher Attack stat. Wrap seems like a good option at first for its ability to trap Pokemon, but Shuckle will usually end up facing a Pokemon it doesn't want to trap, thus essentially wasting a turn.</p>
+
+[Checks and Counters]
+
+<p>Hard hitting Rock-types such as Rhyperior, Aggron, and Kabutops can break Shuckle down to size with their powerful STAB attacks. Additionally, these Pokemon are capable of setting up Stealth Rock, which makes Shuckle easier to deal with by the rest of their team. Steel- and Poison-type Pokemon are also an effective response to Shuckle due to their immunity to Toxic--Shuckle's only way of dealing damage. Any Pokemon with Taunt can stop Shuckle's strategy cold, although it can still Knock Off the Taunt user's item. A great strategy for beating Shuckle is changing the weather. If you change the weather, Shuckle will lose its Special Defense boost, and your Pokemon will no longer lose 6.25% health each turn. Players rarely keep their Hippopotas alive throughout an entire match, so once you change the weather, sandstorm will likely not get set back up.</p>

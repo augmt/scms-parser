@@ -1,0 +1,38 @@
+[Overview]
+
+<p>Klinklang is a curious Pokemon with two signature moves that work well together. The first is Shift Gear, a move that raises its Attack by one stage and its Speed by two stages. Its other signature move, Gear Grind, is a physical Steel attack with similar damage output and accuracy to Meteor Mash. Unlike Meteor Mash, though, Gear Grind hits in two parts, so if the first half breaks a Substitute, the second deals damage to the target directly. Defensively, Klinklang benefits from a Steel typing and decent physical bulk, but its special survivability is subpar. The one glaring flaw with Klinklang would have to be its movepool--it only learns 36 different moves, most of which are non-competitive.</p>
+
+[SET]
+name: Shift Gear
+move 1: Shift Gear
+move 2: Gear Grind
+move 3: Return
+move 4: Volt Switch
+nature: Adamant
+item: Life Orb / Leftovers
+ability: Clear Body
+evs: 132 HP / 252 Atk / 124 Spe
+
+[SET COMMENTS]
+
+<p>This is the best moveset available for Klinklang; it differentiates Klinklang from other Steel-types by utilizing its two signature moves in tandem. Klinklang with +2 Speed and +1 Attack is faster than +2 Speed Metagross and hits harder with Gear Grind than Metagross does with Meteor Mash. Return is the best option for additional coverage because Klinklang's movepool is so shallow. The fourth move Volt Switch is useful for escaping Pokemon with Magnet Pull, as Klinklang's options against Steel-types are very limited. The choice of item is between Life Orb for more power or Leftovers for added survivability.</p>
+
+<p>The EV configuration above allows Klinklang to outspeed base 100 Speed Pokemon that either hold a Choice Scarf or have a +1 boost from the likes of Dragon Dance. Most Pokemon faster than that are Pokemon that Klinklang is not equipped to deal with, even if Klinklang could outspeed them. Attack is maxed to get as much damage out of Gear Grind as possible, and the rest of the EVs are placed in HP to take advantage of Klinklang's decent bulk. Alternatively, some or all of the remaining EVs could be used to increase Speed further to outspeed specific threats; the benchmark that Klinklang should hit is up to you.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Klinklang has trouble against priority moves, which go before Klinklang regardless of how many Speed boosts Klinklang has. Using Substitute on a predicted switch-in can help address this problem. Rock Smash is another option for hitting other Steel-types, but a 2x effective Rock Smash is only slightly more powerful than a 2x resisted STAB Gear Grind. Other options for items include Shed Shell in order to escape from Magnet Pull Pokemon for sets without Volt Switch and Air Balloon to switch in on and set up against Pokemon using Choice-locked Earthquake.</p>
+
+<p>A mixed Shift Gear set is viable, using Thunderbolt and Hidden Power Ground instead of Return and Volt Switch. The 132 HP EVs should be moved into Special Attack, and a Naughty nature should be used. This set gives Klinklang a better chance against Skarmory and Magnezone. The Special Attack EVs and a Life Orb allow Klinklang's Hidden Power Ground to OHKO Magnezone that have no HP or Special Defense investment. This OHKO is important because even one Thunderbolt from Magnezone would leave Klinklang in danger of being knocked out by its own Life Orb recoil.</p>
+
+[Other Options]
+
+<p>Klinklang could run a more defensive moveset to utilize its base 115 Defense, but its special survivability is limited, and its only noteworthy support moves are the common Substitute, Toxic, and Thunder Wave. It is also a potentially noteworthy user of Trick Room, as it is the only Pokemon in OU to learn the move and resist both Ghost and Dark attacks. However, its base 90 Speed is too fast for Trick Room. It learns Charge Beam to boost its Special Attack, but its special movepool is poor, and there are stronger Steel-types that learn the more effective Calm Mind. Choice items can be used to improve its power or Speed, but Klinklang doesn't learn any moves worth being locked into that would help it in case of Magnet Pull Pokemon.</p>
+
+<p>It is worth noting that almost any set not involving Shift Gear runs the risk of being outclassed by fellow Steel-types Bronzong and Jirachi, who have similar or better stats and significantly better movepools.</p>
+
+[Checks and Counters]
+
+<p>Steel-types are a major problem for Klinklang. They resist Gear Grind, and many of them are easily able to defeat Klinklang in return. Magnezone is notable for being able to trap Klinklang with Magnet Pull. Bulky Water-types also resist Gear Grind, but they need to watch out for Electric attacks from Klinklang unless the Water-types in question are of the all-too-common Water/Ground variety.</p>
+
+<p>Priority users can bypass Shift Gear's Speed boost and cause major damage, especially with the super effective Fighting-type Mach Punch and Vacuum Wave. Mixed Klinklang without Return have trouble taking down Zapdos and Rotom-H.</p>

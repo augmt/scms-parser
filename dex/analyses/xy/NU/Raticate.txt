@@ -1,0 +1,13 @@
+Guts
+########
+name: Guts
+move 1: Swords Dance
+move 2: Facade
+move 3: Sucker Punch
+move 4: U-turn
+ability: Guts
+item: Flame Orb / Toxic Orb
+evs: 252 Atk / 4 Def / 252 Spe
+nature: Jolly
+
+This is a sample set while we are currently working on analyses in the workshop.

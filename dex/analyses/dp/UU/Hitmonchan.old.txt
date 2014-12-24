@@ -1,0 +1,133 @@
+[Overview]
+
+<p>With Iron Fist as his ability, along with a base 105 Attack, Hitmonchan makes a powerful physical sweeper. Factoring in STAB and Iron Fist, Hitmonchan's Focus Punch has an outstanding Base Power of 270, while Mach Punch reaches 72 Base Power, allowing Hitmonchan to become a useful revenge killer. Access to all three elemental punches, which Hitmonlee and Hitmontop lack, is also a bonus for providing near-perfect type coverage. The downside to using Hitmonchan is the fact that he is almost helpless against defensive Ghost-types, though all in all he makes a fine sweeper.</p> 
+
+[SET]
+name: Choice Scarf
+move 1: Close Combat
+move 2: Mach Punch / Stone Edge
+move 3: Ice Punch
+move 4: Thunder Punch
+item: Choice Scarf
+ability: Iron Fist
+nature: Adamant
+evs: 12 HP / 252 Atk / 244 Spe
+
+[SET COMMENTS]
+
+<p>This set functions primarily as a revenge killer. Using the Thunder Punch and Ice Punch combination alongside Close Combat will provide perfect type coverage; with the aforementioned moves, Hitmonchan can hit every Pokemon in UU for neutral damage besides the rare Shedinja, who is KOed with Stone Edge. Close Combat is Hitmonchan's most reliable STAB move, being able to 2HKO standard Registeel, Regirock, and Steelix. The second slot is a choice between Mach Punch or Stone Edge. Mach Punch allows Hitmonchan to outrun other priority users, like Azumarill and Absol, while Stone Edge gives Hitmonchan the chance to OHKO even the most defensive Moltres as well as Shedinja. Ice Punch hits Venusaur and Altaria harder than Close Combat and Stone Edge, whereas Thunder Punch will damage Water-types such as Slowbro and Milotic.</p> 
+
+[ADDITIONAL COMMENTS]
+
+<p>244 Speed EVs and an Adamant nature allow Hitmonchan to reach 373 Speed, outrunning all Pokemon with base 120 Speed and under. Max Attack is vital to deal as much damage as possible. The remaining EVs are placed into Hitmonchan's disappointing HP stat. An alternative spread of 20 HP / 252 Atk / 236 Spe can be used with a Jolly nature, allowing Hitmonchan to outspeed every Pokemon up to and including Choice Scarf Moltres, though this would reduce the amount of damage done by Hitmonchan due to the lower Attack stat.</p>
+
+<p>Bulky Water-types such as Slowbro and Milotic cause problems for this set as Hitmonchan lacks the raw power to even 2HKO either of these threats. Defensively, Chansey makes an excellent partner as she is able to switch into special attacks with little trouble and threaten to poison these Pokemon with Toxic or weaken them with Seismic Toss. On the offensive side, Mismagius can set up a Nasty Plot and hit Milotic with Thunderbolt and Slowbro with Shadow Ball. Ghost-types are a big problem to Hitmonchan, as they are immune to Fighting-type attacks and can burn him with Will-O-Wisp. Pokemon with Pursuit will spell doom for frail Ghosts like Mismagius and Rotom. Drapion is an excellent example; he can switch in on Shadow Ball without taking much damage, then threaten these opponents with Night Slash or chase them out of battle with Pursuit.</p>
+
+[SET]
+name: Choice Band
+move 1: Close Combat / Focus Punch
+move 2: Ice Punch
+move 3: Mach Punch
+move 4: Thunder Punch / Stone Edge
+item: Choice Band
+ability: Iron Fist
+nature: Adamant / Jolly
+evs: 8 HP / 252 Atk / 248 Spe
+
+[SET COMMENTS]
+
+<p>With a Choice Band equipped, Hitmonchan achieves an Attack stat of 508. Pair this with high powered STAB moves, including priority, and Hitmonchan will be damaging a lot of the UU metagame. After all of the boosts are taken into account, Focus Punch has an astonishing 270 Base Power. However, Close Combat is the more reliable option as Hitmonchan doesn't flinch if he takes a hit. Ice Punch allows Hitmonchan to hit Grass-types such as Venusaur and Mach Punch lets Hitmonchan overcome his average Speed stat. The final slot is a choice between Stone Edge and Thunder Punch. Stone Edge OHKOes Moltres on the switch, whereas Thunder Punch gives great type coverage when paired with Ice Punch.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Below are some damage calculations demonstrating Focus Punch's power:</p>
+
+<ul class="damage_calculation">
+<li>Focus Punch vs 248/252+ Milotic: 89% - 105%</li>
+<li>-1 Focus Punch vs 252/252+ Arcanine: 60% - 71%</li>
+<li>Focus Punch vs 252/0 Steelix: 116% - 137%</li>
+<li>Focus Punch vs 252/0 Registeel: 147% - 173%</li>
+<li>Focus Punch vs 52/204 Donphan: 90% - 106%</li>
+<li>Focus Punch vs 0/0 Venusaur: 80.46% - 94.7%</li>
+<li>Focus Punch vs 4/0 Toxicroak: 95.78% - 112.99%</li>
+<li>Focus Punch vs 0/0 Altaria: 77.32% - 91.41%</li>
+</ul>
+
+<p>248 Speed EVs allow Hitmonchan to outrun Adamant Absol by one point. With max Attack, Hitmonchan can deal as much damage as possible over a single turn. Any remaining EVs are placed into HP. If you decide to use a Jolly nature, 248 EVs allow Hitmonchan to outrun positive-natured Absol.</p>
+
+<p>Again, Ghost-types cause Hitmonchan problems as they are immune to Fighting-type moves. Dark-types such as Drapion and Sneasel are good options, as they resist Ghost-type moves and threaten these Pokemon with Pursuit, while Drapion also has access to Night Slash. Support from Encore is an option for this set, as it can force the opponent to repeat a support or ineffective move, such as Stealth Rock, Stone Edge, or Night Slash, allowing Hitmonchan to switch in safely. Clefable is one of the best users of Encore in UU due to her great defensive stats and Magic Guard ability. Encore would also force switches and rack up damage from any entry hazards you may have placed.</p>
+
+[SET]
+name: Agility
+move 1: Agility
+move 2: Close Combat
+move 3: Ice Punch
+move 4: Stone Edge / Substitute
+item: Life Orb
+ability: Iron Fist
+nature: Adamant
+evs: 168 HP / 252 Atk / 88 Spe
+
+[SET COMMENTS]
+
+<p>The aim of this set is to raise Hitmonchan's average Speed to great levels. 88 Speed EVs and an Adamant nature give a stat of 210. This allows Hitmonchan to outrun all neutral-natured Omastar and Gorebyss outside rain conditions, and is fast enough to outspeed Choice Scarf Moltres and positive-natured Electrode after an Agility boost. Close Combat and Ice Punch give great type coverage, while the final slot gives Hitmonchan a choice between OHKOing Moltres with Stone Edge or protecting himself from status with Substitute. Alternatively, you may wish to use Thunder Punch as it deals more damage to bulky Water-types.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Bulky Water-types cause this set problems as Hitmonchan is unable to OHKO the likes of Milotic and Slowbro, while both of these Pokemon can hit Hitmonchan with STAB Surf or in Slowbro's case, Psychic. Chansey is a great partner for this set as she is able to cripple these Pokemon with Toxic and weaken them with Seismic Toss.</p>
+
+<p>Ghost-types cause problems for this set as they are immune to Close Combat, while Psychic-types take little damage from it. Absol is an excellent teammate as he can deal immense damage to Mismagius, Uxie, and Alakazam with his STAB Dark-type moves. Houndoom is another excellent choice, being able to switch into Will-O-Wisp with his Flash Fire ability, while also hitting Ghosts super effectively with his STAB Dark-type moves. This set has problems with bulky walls such as Milotic, Tangrowth, and even Arcanine. The best option is to slowly drain these opponents with Toxic Spikes from Qwilfish, Drapion, or Nidoqueen. Toxic Stall Moltres is another good choice here too, as it can take on both Tangrowth and Arcanine with ease, while stalling Milotic with Roost and Pressure.</p>
+
+[SET]
+name: Bulk Up
+move 1: Bulk Up
+move 2: Drain Punch
+move 3: Ice Punch
+move 4: Substitute / Mach Punch / Thunder Punch
+item: Leftovers
+ability: Iron Fist
+nature: Adamant
+evs: 160 HP / 252 Atk / 96 Spe
+
+[SET COMMENTS]
+
+<p>Hitmonchan has a good Attack stat, decent special bulk, and a very useful ability that boosts his high-PP, low-Base Power STAB moves, making him a natural user of Bulk Up. Drain Punch is Hitmonchan's only form of recovery outside of Rest, and its Base Power is boosted considerably thanks to Iron Fist, making it the main STAB move for the set. Ice Punch provides excellent coverage alongside Drain Punch, and is also boosted by Iron Fist. In the final slot, Substitute is very useful, as it blocks status and Trick, both of which could horribly cripple Hitmonchan. After a few Bulk Up boosts, some physical attackers will start to fail to break Hitmonchan's Substitute, thus effectively increasing his longevity. However, Mach Punch is a useful priority move that has the bonus of being boosted by Iron Fist. Finally, Thunder Punch hits bulky Water-types harder than Drain Punch, 2HKOing the standard defensive Milotic after just one Bulk Up boost, and is also powered up by Iron Fist.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Focus Punch may be used over Drain Punch in conjunction with Substitute, enabling Hitmonchan to outright OHKO the standard defensive Milotic with Stealth Rock support. However, trying to fully set up for one is quite troublesome, and you'll end up using either just Bulk Up or Focus Punch almost all of the time. The 96 Speed EVs allow Hitmonchan to outspeed Adamant Torterra, Attack is maximized for Hitmonchan to hit as hard as possible, and the rest go into HP to increase Hitmonchan's ability to set up in the face of attacking moves; Leftovers also helps with this.</p>
+
+<p>This set is more or less countered by physically bulky Pokemon that aren't weak to any of Hitmonchan's attacks; Weezing resists Fighting, and can cripple Hitmonchan with Will-O-Wisp. Claydol and Nidoqueen also fare quite well against Hitmonchan when he lacks Ice Punch, as they also resist his STAB, and can set up screens or Roar him away and set up Toxic Spikes, respectively. Therefore, a powerful special attacker such as Alakazam, who is able to deal with the aforementioned Pokemon, makes a great teammate. Hitmonchan also appreciates entry hazard support, as would any offensive Pokemon; Uxie is a great choice to set up Stealth Rock due to its defensive synergy with the Punching Pokemon.</p>
+
+[SET]
+name: SubPunch
+move 1: Substitute
+move 2: Focus Punch
+move 3: Ice Punch
+move 4: Mach Punch / Thunder Punch / Stone Edge
+item: Fist Plate / Leftovers
+ability: Iron Fist
+nature: Adamant
+evs: 96 HP / 252 Atk / 160 Spe
+
+[SET COMMENTS]
+
+<p>With 105 base Attack and Iron Fist, Hitmonchan can use the SubPunch combination to great success. Along with Ice Punch, he hits everything in UU for at least neutral damage barring Shedinja. Although Hitmonchan has decent defenses, Substitute is great due to Hitmonchan's ability to cause switches. The item choice depends on whether you wish to boost the power of Focus Punch or recover health after making Substitutes. Focus Punch is Hitmonchan's most powerful STAB move, having a Base Power of 270 including STAB and Iron Fist (324 with Fist Plate). Ice Punch allows Hitmonchan to hit Ghost-types, while also striking Venusaur harder than Focus Punch. Finally, there is the choice of Mach Punch, Thunder Punch, or Stone Edge. STAB priority is helpful for faster opponents, Thunder Punch gives perfect type coverage alongside Focus Punch and Ice Punch, and Stone Edge hits Moltres for 4x super effective damage.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>160 Speed EVs put Hitmonchan at 228 Speed, outrunning 4 Speed Uxie so that Hitmonchan can Substitute before Yawn or Thunder Wave. Max Attack is a must as Hitmonchan wants to deal as much damage as possible. The remaining EVs are placed into HP, giving Hitmonchan a small defensive boost.</p>
+
+<p>Support from Encore is suggested when using this set due to Hitmonchan's low HP stat, which means Substitutes are broken easily. Clefable is able to Encore support moves such as Stealth Rock or stat boosting moves such as Agility. This is helpful as Hitmonchan gets a safe switch in to set up.</p>
+
+<p>Defensive Ghost-types will cause problems as they can switch in on a predicted Focus Punch and burn Hitmonchan with Will-O-Wisp, weakening any physical move. Dark-types such as Sneasel and Drapion make amazing partners to Hitmonchan as they can hit Mismagius with a STAB-boosted Night Slash (or Punishment, in Sneasel's case) or Pursuit her upon switching out. Houndoom is another fine option as he can switch into Will-O-Wisp, thanks to Flash Fire, and then hit Ghosts with STAB Dark Pulse. Bulky Water-types such as Slowbro cause problems for this set as they take little damage from any damaging moves; Slowbro resists Focus Punch and Ice Punch, and he also has Slack Off to recover his health. Specially-based Grass-types such as Venusaur are helpful, as they can hurt Slowbro with Leaf Storm or Energy Ball.</p>
+
+[Other Options]
+
+<p>Besides the moves already listed, Hitmonchan has a few more options available to him. Rapid Spin is available, though Hitmontop usually does a better job. Drain Punch is an option if you wish to restore some of Hitmonchan's health, though it is unreliable and other moves deal more damage. Fake Out can be used alongside Mach Punch to weaken opponents and break Focus Sashes. Counter may be used, though Hitmonchan has a low base HP stat and it won't deal a lot of damage. Hitmonchan may use Bullet Punch as a priority move, and it also gains a boost from Iron Fist, but Mach Punch is more powerful and provides better type coverage along with STAB. Earthquake is also usable, though Hitmonchan's Fighting-type moves hit the the same opponents super effectively anyway. High Jump Kick is another STAB move, though its low accuracy and chance of recoil is risky at best due to Hitmonchan's low HP stat.</p>
+
+[Checks and Counters]
+
+<p>Defensive Ghost-types such as Spiritomb are able to switch in on any Fighting-type move and threaten Hitmonchan with Will-O-Wisp or Hypnosis. If Hitmonchan decides to stay in, Spiritomb is free to set up or weaken him with Ghost moves. Uxie makes an excellent counter to Hitmonchan, as Hitmonchan is unable to deal large amounts of damage or hit the pixie super effectively. Not only does Uxie have Thunder Wave to cripple Hitmonchan, but he also has higher Speed, allowing him to outrun any Hitmonchan running less than 156 Speed EVs.</p>
+
+<p>Choice sets are easier to counter as they are locked onto one move. Once you figure out what move is used, you are able to switch to the necessary Pokemon who resists it. This is especially true for Ghost-types such as Mismagius, who can come in on a Choice-locked Close Combat, and proceed to set up. Fast Pokemon should take advantage of Hitmonchan's average Speed and frail defenses and hit him with a super effective move before he has the chance to hit them with Close Combat or an elemental punch. Pokemon such as Alakazam and Swellow are able to outspeed non-Choice Scarf sets and OHKO Hitmonchan with the necessary move.</p>

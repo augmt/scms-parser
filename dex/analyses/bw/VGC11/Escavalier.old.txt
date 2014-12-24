@@ -1,0 +1,41 @@
+[Overview]
+
+<p>With base 135 Attack, decent defenses, and base 20 Speed, Escavalier looks like a looming threat in Trick Room. Unfortunately, a shallow movepool and a weakness to common Fire-type attacks really limits Escavalier. Despite these shortcomings, Escavalier is a good anti-Trick Room Pokemon, because its STAB Megahorn hits several common Trick Room users for super effective damage.</p>
+
+[SET]
+name: Anti-Trick Room
+move 1: Megahorn
+move 2: Iron Head
+move 3: Double-Edge / Pursuit
+move 4: Protect
+item: Occa Berry 
+ability: Swarm
+nature: Brave
+evs: 252 HP / 252 Atk / 4 SpD
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>Escavalier can function very well as an anti-Trick Room Pokemon, eliminating the Psychic-types commonly seen on Trick Room teams, including Reuniclus and Musharna, with its powerful STAB Megahorn. Megahorn also OHKOes Hydreigon, who threatens Escavalier with Flamethrower or Fire Blast. STAB Iron Head OHKOes Terrakion, while Double-Edge is Escavalier's best option against the Fire-types who resist its STAB moves. However, Pursuit can be used instead of Double-Edge, as it 3HKOes Chandelure and Jellicent. Thus, in Trick Room, Escavalier can outspeed and weaken these foes, allowing its partner to finish them off. Pursuit also has the added advantage of being perfectly legal with Megahorn which, unlike Faint Attack, allows Escavalier to forgo the much weaker X-Scissor. Protect allows Escavalier to escape unharmed for a turn while its partner KOes a potential threat to Escavalier. Swarm is the best choice for an ability, as it boosts the power of Megahorn to monstrous levels when Escavalier is low on health, allowing it to launch one last powerful blow before going down.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>An Occa Berry allows Escavalier to survive Chandelure's super effective Heat Wave, and to give its partner a chance to KO the Heat Wave user. A Brave nature along with 0 Speed IVs allows Escavalier to "outspeed" most Pokemon in Trick Room. Incidentally, it also allows Escavalier to function as part of a Trick Room team instead of being only an anti-Trick Room Pokemon.</p>
+
+<p>Druddigon is an excellent partner for Escavalier, taking down Escavalier's two main counters, Chandelure and Jellicent, with Sucker Punch. Terrakion can also take out Chandelure, and Escavalier can shield Terrakion from Mach Punch with Quick Guard.</p>
+
+<p>Damage calculations against common Trick Room users are given below:</p>
+
+<ul class="damage_calculation">
+<li>Megahorn vs. 252/0 Musharna: 119.73% - 141.26%</li>
+<li>Megahorn vs. 252/252+ Musharna: 83.41% - 99.55%</li>
+<li>Megahorn vs. 252/0 Reuniclus: 134.01% - 158.99%</li>
+</ul>
+
+[Other Options]
+
+<p>If you find Megahorn's imperfect accuracy to be an issue, X-Scissor can be used as an alternative. However, that to get the same KOs that Megahorn gets you need a Bug Gem or Expert Belt. Quick Guard lets Escavalier support the rest of its team by shielding them from priority moves such as Mach Punch. Reversal could be used alongside a Focus Sash to take a super effective move and KO back. Swords Dance is also viable, allowing Escavalier to sweep in Trick Room, but in the fast-paced VGC 2011 metagame, this usually results in Escavalier being KOed. Iron Defense boosts Escavalier's already high Defense, but it is not recommended for the same reason as Swords Dance. Faint Attack lets Escavalier hit Ghost-types, but unfortunately, it is illegal with Megahorn, forcing you to use X-Scissor. This makes Pursuit the better choice. Focus Sash can be used to survive critical hits and extremely powerful Fire-type attacks such as Chandelure's Overheat. Speaking of critical hits, Shell Armor is an alternative to Swarm if you are deathly afraid of them.</p>
+
+[Checks and Counters]
+
+<p>Volcarona takes all of Escavalier's attacks with ease and incinerates it with Heat Wave, though Escavalier will survive if it carries an Occa Berry. If Escavalier lacks Pursuit, Chandelure and Jellicent can take it down with their STAB moves while absorbing all of its attacks with ease, and can do severe damage even if it does carry Pursuit. Amoonguss takes Escavalier's STAB moves and puts it to sleep with Spore, allowing Amoonguss's partner to easily KO Escavalier.</p>

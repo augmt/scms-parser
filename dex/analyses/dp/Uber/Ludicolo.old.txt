@@ -1,0 +1,31 @@
+[Overview]
+<p>Despite its goofy appearance and low overall base stat total, Ludicolo's typing and above average Special Defense make it a prime candidate to use a defensive set in Ubers. With a 4x resistance to Water and 2x resistance to Ground-type, Ludicolo can make an effective check to many Pokemon in Ubers, primarily Kyogre, Palkia, and Groudon.</p>
+
+[SET]
+name: Uber Support
+move 1: Leech Seed
+move 2: Protect
+move 3: Grass Knot
+move 4: Ice Beam / Toxic
+item: Leftovers
+nature: Calm
+ability: Rain Dish
+evs: 252 HP / 40 Def / 216 SpD
+
+[SET COMMENTS]
+
+<p>Ludicolo may seem like a mediocre Pokemon for use in Ubers at first glance, but it surprisingly has its own niche in the metagame, courtesy of Leech Seed, Protect, and Rain Dish. Due to the Uber metagame generally being specially based, Ludicolo can come in on many Pokemon with its very acceptable Special Defense stat. Ludicolo will take a maximum of 38% damage from a Choice Scarf Kyogre's Thunder, which is quickly made less worrying by the accumulation of Rain Dish and Leftovers, together granting Ludicolo 12.5% health back per turn in the rain. Ludicolo can then Leech Seed for at least another 11% health return, meaning Ludicolo can outstall Kyogre with Protect.</p>
+
+<p>Leech Seed is made all the more useful in Ubers due to many Pokemon in the tier having gargantuan HP, meaning Ludicolo will often find itself healing 25% of its health per turn with Protect. Protect also helps against Choice users, allowing Ludicolo to scout the incoming attack. Grass Knot will 2HKO Groudon and offensive Kyogre, while also being a very reliable attack versus Palkia, Darkrai, and Mewtwo. Ice Beam hits Rayquaza who may feel like Dragon Dancing or using Swords Dance expecting a switch, and will be promptly OHKOed after Stealth Rock damage, provided it doesn't invest heavily in HP. Ice Beam also helps against Garchomp, and to an extent, Dialga.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Maximum HP provides overall defensive ability, while 216 Special Defense EVs provide a bonus point. The rest of the EVs go into Defense, allowing Ludicolo to take hits like Darkrai's non-boosted Focus Punch much easier. Toxic is a secondary option for the fourth slot. This often allows Ludicolo to specifically beat Lugia, provided it does not carry Toxic itself. However, this means that many Uber Pokemon will cause more immediate problems for the set, such as Giratina, or Latias carrying Refresh or Safeguard. Dialga will have a much easier time as it is not affected by Toxic, and Grass Knot will not do huge amounts of damage. Finally, it becomes much easier for Rayquaza and Garchomp to wreak havoc for a few turns before Toxic damage would finish them off.</p>
+
+[Other Options]
+<p>Surf could be used on the support set as a strong neutral STAB-type attack, boosted by the rain. However, a large portion of the Uber metagame either resist it or couldn't care less about a non invested Surf coming from Ludicolo. If you want an option to hit Darkrai and Mewtwo harder though, you can give Surf a try.</p>
+
+<p>Ludicolo's only other usable set in Ubers are offensive sets, either using Swords Dance or powering through with it's diverse special movepool. However, many Pokemon can abuse rain and sweep much more thoroughly than Ludicolo can, so using an offensive set is really just limiting to yourself.</p>
+
+[Checks and Counters]
+<p>Ludicolo loses a ton of functionality if rain isn't present on the field. Therefore, Groudon's Drought can play a huge part in shutting down Ludicolo's effectiveness. Despite it being somewhat uncommon, Abomasnow completely walls Ludicolo, as it is immune to Leech Seed and can eliminate Rain. Calm Mind Latios with Recover and Bulk Up Dialga will both eventually beat Ludicolo, taking inconsequential damage from Ludicolo's attacks while simultaneously boosting to +6 in their respective offensive stats. Ho-oh with Substitute and Toxic is also a solid counter, blocking all of Ludicolo's attacks while slowly dwindling its health with Toxic.</p>

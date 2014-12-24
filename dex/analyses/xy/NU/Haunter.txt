@@ -1,0 +1,12 @@
+Special Attacker
+########
+name: Special Attacker
+move 1: Shadow Ball
+move 2: Sludge Bomb
+move 3: Dazzling Gleam
+move 4: Destiny Bond / Substitute
+item: Life Orb
+evs: 252 SpA / 4 SpD / 252 Spe
+nature: Timid
+
+This is a sample set while we are currently working on analyses in the workshop.

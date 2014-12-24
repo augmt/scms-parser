@@ -1,0 +1,69 @@
+[Overview]
+
+<p>Spiritomb's typing makes it one of the few Pokemon to have no weaknesses. Combined with its remarkable defensive stats and useful immunities to Fighting-, Normal-, and Psychic-type moves, Spiritomb makes a great defensive Pokemon. However, Spiritomb has a lacking movepool in terms of both offense and support, and has no reliable recovery outside of Rest and Pain Split. The only useful support moves it has access to are Will-O-Wisp, Toxic, and Hypnosis, and most of Spiritomb's attacking moves are either Ghost- or Dark-type. However, Spiritomb does have access to useful moves such as Sucker Punch, Shadow Sneak, and Pursuit, coupled with above average offensive stats, making it one of the best checks to Psychic- and Ghost-type Pokemon in the tier. It also has access to Calm Mind to boost its stats even further. All this, plus having access to Pressure and Infiltrator, makes Spiritomb a great defensive and offensive threat in the UU tier, despite its minor flaws.</p>
+
+[SET]
+name: Choice Band
+move 1: Shadow Sneak
+move 2: Pursuit
+move 3: Sucker Punch
+move 4: Trick
+item: Choice Band
+ability: Pressure
+nature: Adamant
+evs: 252 HP / 252 Atk / 4 Def
+ 
+[SET COMMENTS]
+ 
+<p>With the above moves, Spiritomb makes one of the best checks to Psychic- and Ghost-types in the tier. With its above average Attack stat and Choice Band, Spiritomb hits extremely hard. Shadow Sneak is a reliable STAB and priority move. Pursuit combined with Shadow Sneak can force any Psychic- or Ghost-type Pokemon in the tier into playing a deadly guessing game. With some good prediction, Spiritomb is able to KO a Pokemon whether or not it stays in. Pursuit also takes care of frail U-turn users such as Ambipom. Sucker Punch is mostly used to hit way harder than Shadow Sneak, but is less reliable, so it should be used carefully. Finally, Trick is used if Spiritomb is about to faint or if there is a troublesome wall that needs to be taken care of; it also renders certain walls useless.</p>
+ 
+[ADDITIONAL COMMENTS]
+ 
+<p>Though Infiltrator would work wonders with this set, it should be noted that it is illegal with Trick, and without Trick, Spiritomb loses out on a way to shut down common physical walls. Hitmontop makes an excellent partner, luring out spinblockers such as Froslass or Mismagius, which Spiritomb can then trap and finish off. This will make it easier for Hitmontop to use Rapid Spin, and Pokemon such as Yanmega benefit from the removal of Stealth Rock. Defensive behemoths such as Rhyperior, Tangrowth, and Suicune are huge problems for Spiritomb. Shaymin and other hard hitting Grass-types can easily take of Rhyperior, but need to be careful of Megahorn. Fire-type Pokemon can easily finish off Tangrowth, and Moltres is an excellent choice, since it also benefits from Stealth Rock being removed. Electric-type Pokemon such as Zapdos, Raikou, or Jolteon can easily dispose of Suicune with their Electric-type attacks; they're more or less in the same boat as Grass-types in this case. Heracross is also a huge problem as it resists Spiritomb's Dark-type moves and takes little damage from Shadow Sneak. Moltres can take care of Heracross, as it resists Megahorn; however, it needs to be careful of Stone Edge. Heracross makes a great partner for Spiritomb, taking care of pesky Dark- and Steel-type Pokemon, while Spiritomb takes care of Psychic-type Pokemon.</p>
+ 
+[SET]
+name: Defensive
+move 1: Dark Pulse
+move 2: Will-O-Wisp
+move 3: Pursuit
+move 4: Pain Split / Rest / Shadow Sneak
+item: Leftovers
+nature: Sassy
+evs: 252 HP / 116 Def / 140 SpD
+ 
+[SET COMMENTS]
+ 
+<p>This set takes advantage of Spiritomb's admirable defenses and fantastic immunities to stop offensive threats in their tracks. It also works great as a spinblocker, as Spiritomb has no weaknesses. Dark Pulse is Spiritomb's main attacking option; it is a reliable move that no Pokemon are immune to. Will-O-Wisp cripples physically offensive Pokemon, making Spiritomb even stronger in said area. Pursuit lets Spiritomb check Psychic- and Ghost-types. The move in the last slot is up to one's own preference. Pain Split and Rest give Spiritomb some kind of recovery, although they are both rather unreliable. Rest gives instant recovery while also recovering status. However, Pain Split doesn't put Spiritomb to sleep, meaning it won't be a sitting duck. Unfortunately, Pain Split makes Spiritomb vulnerable to status. Shadow Sneak is an option if recovery is not needed, as, in combination with Pursuit, it helps trap Psychic- and Ghost-type Pokemon.</p>
+ 
+[ADDITIONAL COMMENTS]
+ 
+<p>Infiltrator can be used to bypass the rare Safeguard, and it also helps Spiritomb's Dark Pulse and Pursuit if Light Screen and Reflect is active, but Pressure is superior as it helps stall out the opponent's PP. Sleep Talk can be used in combination with Rest, making Spiritomb able to do something while sleeping. Sucker Punch can be used over Shadow Sneak to give Spiritomb a more powerful priority move, but it is unreliable against Ghost- and Psychic-types such as Mismagius and Mew. It works better against Pokemon with only attacking moves. The listed EVs give the best defensive stats. 140 Special Defense EVs and a Calm nature give the same Special Defense stat as with 252 Special Defense EVs and a Bold nature, meaning that Spiritomb receives a higher Defense stat.</p>
+ 
+<p>Other Ghost-type Pokemon make good partners if opposing Hitmontop try to use Foresight and spin away entry hazards from their side of the field. This means that you can switch back and forth while Hitmontop is unable to use Rapid Spin. Roserade makes an excellent partner, as it has access to Aromatherapy. With Aromatherapy, Spiritomb doesn't have to worry about status if carrying Pain Split. If Spiritomb carries Rest, it doesn't have to worry about being a sitting duck while asleep. Spiritomb is no problem for bulky versions of Arcanine. Dark Pulse does little damage, while Arcanine is immune to Will-O-Wisp. Suicune or Kingdra can take care of Arcanine. Heracross is a huge problem, resisting Dark Pulse and receiving an Attack boost from Will-O-Wisp. Moltres can take care of Heracross, resisting Megahorn, but needs to be careful of Stone Edge.</p>
+ 
+[SET]
+name: Calm Mind
+move 1: Calm Mind
+move 2: Dark Pulse
+move 3: Rest
+move 4: Sleep Talk / Hidden Power Fighting
+item: Leftovers
+ability: Pressure
+nature: Bold
+evs: 252 HP / 252 Def / 4 SpD
+ 
+[SET COMMENTS]
+ 
+<p>With its natural bulk and good STAB move in Dark Pulse, Spiritomb makes a great user of Calm Mind. As no Pokemon is immune to Dark Pulse, Spiritomb has no problem with having only it as a sole attacking option. Rest is used to recover the damage taken while setting up, as well as getting rid of status. With Sleep Talk, Spiritomb can continue to boost or attack while asleep. While no Pokemon is immune to Dark Pulse, there are some new additions to the UU tier that cause problems. Empoleon, with its high Special Defense and resistance to Dark Pulse, can stand in Spiritomb's way, while Cobalion receives an Attack boost every time Dark Pulse hits. This makes Hidden Power Fighting a good choice over Sleep Talk. It also hits Dark-type Pokemon that resist Dark Pulse super effectively.</p>
+ 
+[ADDITIONAL COMMENTS]
+ 
+<p>Infiltrator can be used on this set as well as it bypasses Light Screen, which can be useful. However, Pressure is generally better as Spiritomb can PP stall the last Pokemon on a team thanks to its above-average defenses. Pain Split is an option over Rest if you opt to use Hidden Power Fighting over Sleep Talk. A Bold nature with 252 Defense EVs is used to give Spiritomb maximum physical bulk, as Special Defense is not even needed thanks to Calm Mind. For this set to work to its fullest potential, phazers such as Empoleon and Suicune need to be removed. Heracross and Zapdos can take care of those two. Also, Hitmontop with Foresight might be a problem, so Psychic-types, such as Mew or Azelf, help to take care of him. Fighting- and Ground-type Pokemon, such as Heracross and Rhyperior, help if Spiritomb lacks Hidden Power Fighting, as they can take care of Dark- and Steel-type Pokemon, such as Zoroark, Cobalion, and Empoleon, that might get in the way. Toxic Spikes also helps in the long run. Roserade and Nidoqueen can set them up, and Spiritomb is immune to Psychic-type moves, which they are weak to.</p>
+
+[Other Options]
+
+<p>Toxic can work against Pokemon that are immune to or don't care about Will-O-Wisp. However, Will-O-Wisp is generally the better choice, due to the crippling effect it has on physical attackers. Hypnosis can also be worth a shot to give Spiritomb's team some sleep support, but it has awful accuracy. Confuse Ray is an option to confuse a foe, but it's very situational. Spiritomb also has access to Memento to support its teammates. Spiritomb has some other attacking options at its disposal as well. Shadow Ball is a strong secondary STAB move that can be used, but Dark Pulse is generally better since no Pokemon are immune to Dark-type moves. Psychic hits Fighting-types, such as Heracross, for super effective damage, but other than that it is fairly useless. Icy Wind can provide team support by lowering the opponent's Speed stat. Ominous Wind and Silver Wind share the same effect of possibly raising all Spiritomb's stats by one stage, but each has some attributes over the other. Ominous Wind receives a STAB boost, making it more powerful than Silver Wind, but Silver Wind hits Dark-types for super effective damage. Spiritomb also has access to Nasty Plot, but Calm Mind is generally better, as it also boosts its Special Defense, which is usually better for a Pokemon with low Speed and solid defenses.</p>
+
+[Checks and Counters]
+
+<p>Heracross takes little damage from Shadow Sneak, resists Spiritomb's Dark-type moves, and it doesn't care about Will-O-Wisp. It hits Spiritomb really hard with Megahorn, especially after a Guts boost from Will-O-Wisp, scoring a 2HKO. It needs to be careful of Psychic though, especially if it has used Close Combat before. Escavalier shares about the same traits as Heracross; it resists both Spiritomb's Ghost- and Dark-type moves, and it hits even harder with Megahorn. Will-O-Wisp is a problem for it, though. Empoleon shares the same resistances as Escavalier and is one of the two best checks to the Calm Mind set, as it can phaze it out with Roar. It needs be careful of Hidden Power Fighting if Spiritomb has enough boosts though. Cobalion is another Steel-type that can easily dispose of Spiritomb. With its typing, it has a 4x resist against Spiritomb's Dark-type moves, and it receives an Attack boost from them thanks to Justified. Cobalion also resists Spiritomb's Ghost-type moves and has access to Taunt, making it the best counter to the Calm Mind set.</p>

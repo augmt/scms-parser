@@ -1,0 +1,107 @@
+[Overview]
+ 
+<p>A high-tier Pokemon for sure, Metagross has beastly stats, a great defensive typing, the potential to sweep well if given the chance, as well as the ability to blow up something crucial with Explosion. Unlike Salamence, Dragonite, and Tyranitar, it has no 4x weaknesses, so it's hard to OHKO. However, it is easily walled by most standard teams because Steel is poor as a main attacking type. Despite its typing, though, Meteor Mash is a good move overall.</p>
+
+[SET]
+name: Choice Band
+move 1: Meteor Mash
+move 2: Earthquake
+move 3: Explosion
+move 4: Rock Slide / Sludge Bomb / Hidden Power Fire
+item: Choice Band
+nature: Adamant
+evs: 252 HP / 236 Atk / 12 Def / 8 Spe 
+ 
+[SET COMMENTS]
+ 
+<p>This set is monstrous. It requires very little prediction for a Choice Band user due to the fact that all of its moves hit extremely hard. If you eliminate your foe's physical walls, this metal tank will plow down your opponent's team with its outrageous Attack stat and moderate defensive capabilities. Meteor Mash, Earthquake, and Explosion are a must for their raw power and ability to hit just about everything; with the given EVs, Explosion is bound to achieve more than 75% damage even to the most defensive Skarmory.</p>
+ 
+<p>In the last slot, Sludge Bomb is a strong neutral option against Water-types; a poisoned enemy is much easier to take down. It is accurate as well, but note that Poison-type attacks are easily walled. Rock Slide takes down Zapdos and Gyarados, and OHKOes Moltres and Charizard as well. Hidden Power Fire takes care of Skarmory and Forretress, two common switch-ins to Metagross; however, it only 3HKOes the former.</p> 
+ 
+<p>The given defensive investment lets Metagross survive Adamant Dugtrio's Earthquake. Leftovers is an alternative item choice as Metagross will still be able to 2HKO all but the most defensive of Zapdos with Rock Slide; it also forces opponents to be much more wary of Explosion. However, Metagross will have a harder time against Swampert and other bulky Water-types unless it finds a window of opportunity to use Explosion.</p>
+
+[SET]
+name: HPGross
+move 1: Meteor Mash 
+move 2: Hidden Power Grass
+move 3: Explosion
+move 4: Earthquake / Pursuit
+item: Leftovers
+nature: Brave
+evs: 252 HP / 228 Atk / 20 Def / 8 SpA
+ 
+[SET COMMENTS]
+ 
+<p>Designed to counter the grossly overused Swampert, one might think this is an over-centralized set. However, the small investment in Special Attack--which allows Metagross to comfortably 2HKO the majority of Swampert with Hidden Power Grass--is of little consequence when Metagross retains most of its defensive strength and powerful offenses.</p>
+
+<p>Meteor Mash is Metagross's main STAB move; it is a vital attack for breaking down the opponent's walls, and also gives Metagross the chance of receiving an Attack boost, which might in turn power up Explosion. Earthquake counters several common threats and, with the given Attack investment, guarantees the OHKO on most Dugtrio. Pursuit can alternatively be used to KO Gengar or dent a Choice Band user unfortunate enough to be locked into a move Metagross resists.</p>
+ 
+[SET]
+name: AgiliGross
+move 1: Agility
+move 2: Meteor Mash
+move 3: Earthquake
+move 4: Explosion / Rock Slide
+item: Leftovers
+nature: Adamant
+evs: 160 HP / 252 Atk / 96 Spe
+ 
+[SET COMMENTS]
+ 
+<p>Switch this into Snorlax and other Choice Band Normal-types, Psychic-types as well, then fire off Meteor Mash. Metagross will probably immediately be met with a defensive wall, so attack first, and only boost late-game when its counters have been either eliminated or weakened. Explosion is for whenever you feel Metagross can do no more; if your opponent has a Ghost-type, be sure it has been removed before using Explosion. Watch out for Protect as well; as Metagross is such a common Pokemon, many experienced battlers have gotten used to battling it and can predict when it will use Explosion, and might use Protect when that happens. Rock Slide isn't a bad idea if you'd rather do a load of damage to Zapdos instead of commit suicide. However, Rock Slide generally is an inferior choice as it only hits a select number of Flying-types.</p>
+
+<p>A Speed stat of at least 198 is recommended.</p>
+ 
+[SET]
+name: Mixed Attacker
+move 1: Psychic
+move 2: Hidden Power Fire / Thunder Punch
+move 3: Meteor Mash
+move 4: Explosion
+item: Leftovers
+nature: Brave 
+evs: 188 HP / 160 Atk / 160 SpA
+ 
+[SET COMMENTS]
+ 
+<p>This set was created with the intent of countering Metagross's many walls. Psychic is a powerful STAB move and does heavy damage to Weezing and friends, as well as Water-types that focus primarily on Defense at the expense of Special Defense. Hidden Power Fire stops Skarmory and Forretress, while Thunder Punch hits Skarmory slightly harder than Hidden Power Fire does, and also takes care of Gyarados. Meteor Mash destroys special walls, and Explosion is once again a last resort against the likes of Suicune.</p>
+
+<p>With the given Special Attack investment, Metagross will on average 2HKO uninvested Skarmory with Thunder Punch, and also OHKO Forretress most of the time. Note, however, that even with 0 Special Attack EVs and a hindering nature, Thunder Punch will still 3HKO Skarmory, and maximum Special Attack investment is required to nab the guaranteed 2HKO. As a happy medium, about 96 Special Attack EVs are required for a shot at 2HKOing 252/0 Skarmory. The HP EVs allow Metagross to survive Tyranitar's Dragon Dance-boosted Earthquake. If you opt for Thunder Punch over Hidden Power Fire, feel free to lower the HP investment to 184 EVs, and put the rest in Attack; the IVs required for Hidden Power Fire don't affect Thunder Punch.</p>
+
+[SET]
+name: RestTalk
+move 1: Rest
+move 2: Sleep Talk
+move 3: Meteor Mash
+move 4: Earthquake
+item: Leftovers
+nature: Adamant
+evs: 252 HP / 176 Atk / 40 Def / 32 SpD / 8 Spe
+ 
+[SET COMMENTS]
+ 
+<p>This set capitalizes on Metagross's many resistances to let it remain alive throughout the battle. RestTalk Metagross can easily switch into the likes of Weezing's Will-O-Wisp and scout out Gengar's moveset; it also stalls Skarmory and renders Jynx utterly useless. Another major advantage of this variant is that if it receives multiple Attack boosts, it can break through even the majority of its usual counters. Meteor Mash and Earthquake simply offer the best power against its common switch-ins.</p>
+ 
+[SET]
+name: 200 Metagame
+move 1: Meteor Mash
+move 2: Earthquake
+move 3: Sludge Bomb
+move 4: Toxic / Hidden Power Fire / Agility
+item: Leftovers
+nature: Adamant
+evs: 160 HP / 252 Atk / 96 Spe
+ 
+[SET COMMENTS]
+
+<p>Meteor Mash and Earthquake are standard attacks on Metagross, while Sludge Bomb dents Ludicolo, who is fairly common in this metagame. Most players of 386 who return to playing 200 will likely be disappointed as they will sorely miss the weapon that is Explosion; you will hence probably want to go with Toxic to take down Swampert and Milotic, both of whom otherwise hard counter Metagross. Alternatively, Hidden Power Fire hits Skarmory, while Agility benefits Metagross against offensive threats.</p>
+ 
+[Other Options]
+ 
+<p>Metagross can freely switch into Snorlax anytime and beat it by copying its Curse boosts with Psych Up. Iron Defense and Rest work wonderfully with Special Defense investment for an immensely bulky tank; watch out for Roar, though. Finally, Metagross also has the option of running Reflect and Light Screen to capitalize on its already moderate defenses.</p> 
+  
+[Checks and Counters]
+
+<p>Swampert, Milotic, Vaporeon, and Suicune all don't fear much from Metagross due to their good bulk and typing, which let them sponge Meteor Mash easily; they also won't take too much damage from Metagross's other attacks, with the exception of Explosion. Ludicolo is a less popular Water-type counter, but it resists Earthquake in addition to Meteor Mash, and all in all can be a nuisance to Metagross. Skarmory resists Meteor Mash and is immune to Earthquake, but must watch out for Thunder Punch or Hidden Power Fire. Skarmory also can't do much in return except to lay Spikes and phaze Metagross away, so variants that lack Rest or Hidden Power Ground can't beat Metagross one-on-one. Zapdos and Moltres are two other Pokemon that resist Metagross's two most powerful attacks, but watch out for Rock Slide. Similarly, Charizard is a threat to Metagross that lack Rock Slide as it might launch a Belly Drum and go for the sweep.  While it does not resist Steel and thus cannot switch into Choice Band Meteor Mash, Donphan can defend quite well against the rest of Metagross's physical attacks and proceed to destroy it with Earthquake.</p>
+ 
+<p>Dugtrio can trap Metagross after its initial kill, but Metagross can be EVed to survive even Adamant Dugtrio. Magneton must walk on eggshells against Metagross, but has a chance to trap and beat it. If Metagross lacks Earthquake (which OHKOes) or Hidden Power Fire (which is usually a 2HKO), Magneton has a nearly guaranteed win. Furthermore, even if Metagross has Earthquake, there are scenarios in which Magneton can win. For example, if Magneton outspeeds Metagross and Metagross is at 40% health or below, Magneton should be able to KO Metagross with Thunderbolt before Metagross can use Earthquake. If it is locked into anything except Earthquake, Choice Band Metagross will always fall to Magneton too, unless it gets extremely lucky with critical hits or Attack boosts.</p>

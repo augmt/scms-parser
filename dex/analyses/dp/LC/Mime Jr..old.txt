@@ -1,0 +1,76 @@
+[Overview]
+<p>Although Mime Jr. may seem outclassed by other sweepers such as Abra, it does have a few qualities that prevent it from being completely outclassed, particularly having more bulk and the ability to incapacitate Pokemon with Hypnosis. Mime Jr. has just the movepool to hit many common Pokemon for super effective damage, or to support its teammates. In addition, it has a low Defense stat, and with priority moves such as Sucker Punch everywhere, Mime Jr. can be easily revenge killed. Overall, however, when given the right support, Mime Jr. is a Pokemon one must look out for.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Psychic
+move 2: Hidden Power Fighting / Shadow Ball
+move 3: Thunderbolt
+move 4: Hypnosis / Trick
+item: Choice Scarf
+ability: Filter
+nature: Timid / Modest
+evs: 36 HP / 196 SpA / 36 SpD / 196 Spe
+
+[SET COMMENTS]
+<p>Choice Scarf Mime Jr. may not be able to sweep very well, but it can instead act as a revenge killer. With a Choice Scarf equipped, Mime Jr. reaches 24 Speed, outspeeding all Choice Scarf users with 15 Speed or lower. Psychic is a powerful STAB move that can 2HKO most neutral targets. In the next slot, Hidden Power Fighting is the recommended option as it can strike Dark- and Steel-types that Psychic cannot handle. Note that if you opt to use Hidden Power Fighting, you need to add 4 additional EVs to Special Attack, Special Defense, and Speed to get the maximum boost. Shadow Ball can be used over Hidden Power Fighting to hit opposing Psychic-types if Dark- and Steel-types aren't troublesome. Hypnosis is a great move, as it can render an opponent useless even though it has sub-par accuracy. Trick can be used over Hypnosis to help cripple walls, such as Bronzor and Munchlax, who would usually wall Mime Jr..</p>
+
+[ADDITIONAL COMMENTS]
+<p>Although Mankey cannot switch in on Psychic and, to a lesser degree, Thunderbolt, it can safely switch in on any other attack--Trick is negated if Mankey is carrying a Choice Scarf, Hypnosis is stopped by Vital Spirit, and Hidden Power Fighting deals only 36.4% - 45.5% damage. Mankey can then outspeed Mime Jr. and scout with U-turn. Croagunk is a good switch-in against Mankey, because it resists all of its moves bar Ice Punch and can KO back with priority attacks. Any Choice Pokemon will enjoy switching into Trick, especially Pokemon who carry U-turn or Pursuit. Substitute Carvanha is a good teammate, as it is able to set up a Substitute on a Choice-locked Pursuit before hurting the opponent's team.</p>
+
+[SET]
+name: Baton Pass
+move 1: Hypnosis / Psychic
+move 2: Substitute
+move 3: Nasty Plot / Calm Mind
+move 4: Baton Pass
+item: Salac Berry
+ability: Soundproof
+nature: Timid
+evs: 196 HP / 76 Def / 36 SpD / 196 Spe
+
+[SET COMMENTS]
+<p>With the ability to pass stat boosts to its teammates, Mime Jr. can be a useful Baton Passer. Mime Jr. also has the distinction of being one of only three Pokemon with the ability to Baton Pass Nasty Plot boosts that makes it much more attractive as a Baton Pass user. Hypnosis allows Mime Jr. to render an opposing Pokemon useless and gain a free turn to set up. Psychic may also be used to damage opponents, especially against Taunt users. Substitute lets Mime Jr. scout the opponent's switch-in. If the opposing Pokemon is faster, then keep on using Substitute until Salac Berry is activated. Mime Jr. is almost always faster after the Salac Berry boost kicks in, and can set up Nasty Plot or Calm Mind before Baton Passing to a teammate. The receiver of the Baton Pass will now have an easy time sweeping with the boosts.</p>
+
+[ADDITIONAL COMMENTS]
+<p>If Hypnosis is not used, then a teammate who can put opponents to sleep is helpful. Venonat gets a special mention, as it has Sleep Powder and Compound Eyes, which allows it to sleep opposing Pokemon much more consistently than other common sleep-inducers. Soundproof prevents Mime Jr. from being phazed by Roar, and is useful when Baton Passing. Petaya Berry can be used in place of Salac Berry if you have a fast special sweeper such as Elekid and need the Special Attack more than the Speed. The EV spread allows Mime Jr. to outspeed as many Pokemon as it can, while still retaining a lot of bulk. A Calm or Bold nature can be used if even more bulk is desired.</p>
+
+[SET]
+name: Nasty Plot
+move 1: Nasty Plot
+move 2: Psychic
+move 3: Hidden Power Fighting / Thunderbolt
+move 4: Encore / Substitute / Hypnosis
+item: Life Orb / Oran Berry
+ability: Filter
+nature: Timid
+evs: 36 HP / 196 SpA / 36 SpD / 196 Spe
+
+[SET COMMENTS]
+<p>Nasty Plot Mime Jr. is a force to be reckoned with, hitting 32 Special Attack after just one Nasty Plot, backed by an above-average 16 Speed and Special Defense. Psychic is Mime Jr.'s main option of hurting opponents as it can deal huge amounts of damage to many Pokemon after a boost. Hidden Power Fighting complements Psychic well, hitting Pokemon who resist or are immune to Psychic, such as Steel- and Dark-types, for super effective damage. Note that if you opt to use Hidden Power Fighting, you need to add 4 additional EVs to Special Attack, Special Defense, and Speed to get the maximum boost. Thunderbolt gives good neutral coverage, which is very important since without Thunderbolt, Psychic-type Pokemon such as Slowpoke will wall this set. Encore allows Mime Jr. to set up a Nasty Plot easier. Mime Jr. can switch in to a set up move, proceed to Encore, then use Nasty Plot as the opponent is forced to switch out. Substitute is also a good option because it allows Mime Jr. to scout for switch-ins, while also helping against Pokemon who carry Sucker Punch such as Houndour and Stunky. Hypnosis is the final option, allowing Mime Jr. to put a Pokemon to sleep and set up without getting hurt. Its shaky accuracy makes Hypnosis a risky move, however.</p>
+
+[ADDITIONAL COMMENTS]
+<p>Life Orb further boosts Mime Jr.'s damage output. However, Oran Berry is also a viable option to set up a Nasty Plot while not worrying much about hard-hitting Pokemon. Filter is used over Soundproof to take super effective hits better. A Timid nature allows Mime Jr. to hit 16 Speed, outspeeding many threats and allowing Mime Jr. to sweep more easily. The EV spread allows Mime Jr. to reach 19 HP, maintaining bulk while only taking 1 damage from Life Orb per turn. The Special Attack and Speed EVs allow Mime Jr. to hit a stat of 16, while the 36 remaining EVs are dumped into Special Defense to allow Mime Jr. to take special hits a bit better. Wynaut is a great teammate for Nasty Plot Mime Jr., helping it set up via Encore. Stealth Rock is also helpful, neutering Focus Sash Pokemon and just weakening the opponent in general.</p>
+
+[SET]
+name: Dual Screens
+move 1: Reflect
+move 2: Light Screen
+move 3: Hypnosis
+move 4: Psychic
+item: Light Clay
+ability: Filter
+nature: Timid
+evs: 196 HP / 76 Def / 36 SpD / 196 Spe
+
+[SET COMMENTS]
+<p>Mime Jr. is a solid user of dual screens, and is not completely outclassed by other dual screens Pokemon such as Abra because it has more bulk and access to Hypnosis. Reflect and Light Screen halve the damage dealt to Mime Jr. and its teammates, meaning setup sweepers greatly benefit from the support. Hypnosis allows Mime Jr. to put counters to sleep, and eases setting up dual screens. Psychic lets Mime Jr. deal damage if it has been Taunted, and is a good move in general thanks to STAB and its high Base Power.</p>
+
+[ADDITIONAL COMMENTS]
+<p>Setup sweepers such as Gligar appreciate dual screens as they can easily set up several boosting moves before smashing through teams. Filter allows Mime Jr. to take some super effective attacks, while its EV spread not only gives Mime Jr. acceptable bulk, but also allows it to outspeed a lot of opponents. Like the previous set, Mime Jr. can use a Bold or Calm nature to allow it to set up a bit easier.</p>
+
+[Other Options]
+<p>A third attack option could be used on the Nasty Plot set over Encore or Substitute, though Mime Jr. already has a lot of coverage with only the two moves. Though outclassed by Nasty Plot, Calm Mind can be used on a bulky offensive set to boost both Mime Jr.'s Special Attack and Special Defense stats in one turn. Charge Beam can act as a pseudo Thunderbolt that has a good chance of boosting Mime Jr.'s Special Attack. Thunder Wave can be used to cripple Pokemon who switch-in on Mime Jr.. Finally, Magic Coat can be used to bounce back status moves.</p>
+
+[Checks and Counters]
+<p>Houndour and Stunky can easily switch in on Psychic, and then proceed to use Sucker Punch or Pursuit to take out Mime Jr.. Gastly cannot truly counter Mime Jr. because a Psychic or Shadow Ball can prove fatal. However, it can switch in on Hidden Power Fighting or after a teammate has fainted, and eliminate Mime Jr. with Shadow Ball. Since Mime Jr has terrible physical bulk, taking advantage of it with faster physical sweepers such as Buizel and Magby is a good idea. Keep in mind that Mime Jr. will not be able to take repeated physical attacks, which will ultimately lead to its defeat.</p>

@@ -1,0 +1,13 @@
+Physically Defensive
+########
+name: Physically Defensive
+move 1: Will-O-Wisp
+move 2: Thunderbolt
+move 3: Air Slash
+move 4: Pain Split / Volt Switch
+ability: Levitate
+item: Leftovers
+evs: 248 HP / 252 Def / 8 SpA
+nature: Bold
+
+This is a sample set while we are currently working on analyses in the workshop.

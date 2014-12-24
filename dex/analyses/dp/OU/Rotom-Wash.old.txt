@@ -1,0 +1,162 @@
+[Overview]
+<p>Perhaps Platinum's biggest contribution to the OU metagame outside of granting Scizor access to Bullet Punch, Rotom-A quickly rose to prominence as OU's premier spinblocker and one of the most versatile Pokemon in the metagame. Boasting a unique typing that gives it solid dual STAB, as well as an excellent stat spread that gives it the ability to fill nearly any role that it wants, Rotom-A is easy to fit into any team. It also boasts five unique "formes," each with an extra move that can either expand its coverage or spook opponents into thinking you're carrying a specific move that can threaten them. Between its durable defensive set, its powerful choice sets, and a multitude of other offensive sets, Rotom-A has definitely earned its place among the top OU threats.</p>
+
+[SET]
+name: Choice
+move 1: Thunderbolt
+move 2: Shadow Ball
+move 3: Trick
+move 4: Hydro Pump / Overheat / Hidden Power Ice
+item: Choice Scarf / Choice Specs
+nature: Timid / Modest
+evs: 252 SpA / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>A simple, yet effective set, and easily Rotom-A's best. 86 base Speed goes a long way after a Choice Scarf boost, making Rotom-A a powerful revenge killer against top threats like Gyarados, Starmie, and many others, depending on the choice of final move. Alternatively, Choice Specs can be used to turn Rotom-A into a hard-hitting attacker with a powerful dual STAB resisted only by a select few Pokemon, few of which see use in OU. On top of that, Trick can be used to cripple many common switch-ins to Rotom-A, such as Blissey and most Ground-types looking to absorb Thunderbolts.</p>
+
+<p>The last slot is used to provide important coverage for Rotom-A. As Rotom-W, it gains Hydro Pump, which not only gives outstanding neutral coverage and power, but also deals massive damage to Tyranitar, especially on the Choice Specs set. Rotom-H's Overheat, on the other hand, does incredible damage to Metagross, Scizor, and other Steel-types that Rotom-A checks. However, its typing and Special Attack-lowering attributed make Rotom-H extremely susceptible to Tyranitar. Finally, Hidden Power Ice can be used on any form to deal with Dragonite and Flygon, two Pokemon that take the other moves on this set fairly well.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The standard EVs for this set are pretty standard- maximum Special Attack and Speed, with the leftovers in Special Defense. Timid can be used to guarantee outspeeding Jolly Gyarados or Dragonite, while Modest gives more power, which is especially useful for the Choice Specs version. An alternative spread of 200 HP / 56 SpA / 252 Spe with a Timid nature can be used with Will-O-Wisp in the fourth slot to give Rotom-A some additional defensive capabilities and make Rotom-A more of a utility check. It can also act as a Tyranitar lure and cripple it with a burn as it switches in.</p>
+
+<p>The most important thing that Choiced Rotom-A needs is a way to deal with Tyranitar. Machamp is extremely effective, as it not only deals with Tyranitar, but also threatens Blissey, which commonly switches into Rotom-A. Swampert also does extremely well against Tyranitar, and Choice Band Swampert can also threaten Blissey, which would not normally expect a threat from Swampert. However, carrying multiple Choice users on the same team can cause issues, so keep that in mind when constructing your team. Other bulky Pokemon with Pursuit can cause problems, such as Metagross and Scizor. Above all else, take care against teams that seem likely to be carrying a Pursuit user, and try to avoid situations in which Rotom-A is locked in against an opponent that can KO it with Pursuit that it cannot KO in return.</p>
+
+[SET]
+name: RestTalk
+move 1: Rest
+move 2: Sleep Talk
+move 3: Thunderbolt / Discharge / Shadow Ball
+move 4: Will-O-Wisp / Hydro Pump / Hidden Power Ice
+item: Leftovers
+nature: Bold
+evs: 252 HP / 252 Def / 4 SpA
+
+[SET COMMENTS]
+
+<p>This set is a more defensive take on Rotom-A's abilities. With the combination of Rest and Sleep Talk, Rotom-A can wall a number of physical attackers extremely effectively. Scizor, Metagross, and Bronzong can find it nearly impossible to break through Rotom-A's defenses, and are easily worn down by either burn or Rotom-A's attacks. Rest and Sleep Talk form a potent healing combination, making Rotom-A resistant to status and keeping it alive throughout the match. The third slot is used for Rotom-A's STAB move. Thunderbolt is Rotom-A's strongest attack, but Discharge gives a potent 30% chance to inflict Paralysis. Finally, Shadow Ball provides Ghost STAB should you prefer it over Electric STAB.</p>
+
+<p>The final slot is reserved for general utility moves. Will-O-Wisp can cripple Tyranitar and other physical attackers as they switch in, and it also helps wear down opponents while Rotom-A is asleep. Hydro Pump can be used with Rotom-W to provide powerful coverage, hitting Ground-types looking to abuse their immunity to Electric. Finally, Hidden Power Ice can allow Rotom to check Dragon-types more effectively, since Dragonite and Flygon are both primarily physical attackers. Discharge is best paired with one of the two offensive moves on the set, as its paralysis chance can interfere with Will-O-Wisp's burn.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs are straightforward- since Rotom-A's typing is optimal for walling physical attackers, it's best off with a straight physically defensive set. With full investment in Defense and HP, Rotom-A can shrug off attacks from powerhouses like Scizor and Metagross, which find it nearly impossible to set up any form of offense.</p>
+
+<p>As with any Rotom-A set, this set can have severe issues with Tyranitar if it gets unlucky with Sleep Talk or is not carrying Will-O-Wisp. Defensively, Pokemon like Swampert and Hippowdon are extremely competent against Tyranitar, since they resist Stone Edge and have enough defense to shrug off Crunches, especially from Choice Scarf Tyranitar. If Rotom-A isn't carrying Hydro Pump, it also has a tough time getting around Heatran, which can use Flash Fire to power up from Will-O-Wisp and has enough Special Defense to largely ignore uninvested Thunderbolt. Swampert works here as well, as it can switch into Heatran's powerful Fire attacks and threaten it out with either of its STABs. Suicune also works well, as it has the Special Defense necessary to take strong special attacks aimed at Rotom-A's uninvested Special Defense stat. Meanwhile, Rotom-A can take Thunderbolts for Suicune, and also takes a measly 20 Base Power from Grass Knot.</p>
+
+[SET]
+name: SubSplit
+move 1: Thunderbolt
+move 2: Shadow Ball / Hydro Pump
+move 3: Substitute
+move 4: Pain Split
+item: Life Orb
+nature: Timid
+evs: 16 HP / 240 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>This set forgoes additional coverage in exchange for longevity and increased effectiveness against stall teams. Using Rotom-A's 50 Base HP to its advantage, this set uses Pain Split to heal off the HP lost through use of Life Orb and Substitute. This increases its effectiveness against Pokemon like Blissey, which is already normally unable to break Rotom-A's Substitutes due to its Ghost typing. Furthermore, Pain Split's 32 PP allows Rotom-A to easily outstall nearly any other recovery move, since all other recovery moves have a mere 16 PP or less.</p>
+
+<p>Thunderbolt and Shadow Ball are the main attacking options on this set, and provide Rotom-A with solid coverage in the form of its two STABs. However, Rotom-W's Hydro Pump can be used as an alternative. An unSTAB Hydro Pump has as much power as a STAB Shadow Ball, and hits most Ground-types that would absorb Thunderbolts more effectively, especially Hippowdon. However, its 80% accuracy can sometimes be off-putting, and it only has 1/3 of the PP of Shadow Ball, which can cause issues given the nature of the set.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>For a more defensive take on the set, an EV spread of 252 HP / 40 SpA / 216 Spe with Will-O-Wisp or Toxic over Shadow Ball is usable. This enhances the set's ability to stall out opponents through passive damage, and makes it especially good against Blissey and Tyranitar, two common problems for Rotom-A.</p>
+
+<p>This set benefits from different teammates depending on the move chosen for the second slot. With Shadow Ball, bulky Ground-types like Hippowdon can cause problems, especially since it can phaze Rotom-A out or just attack it with Crunch. As a result, having a solid Hippowdon counter is probably a good idea. Skarmory can use it to lay down Spikes, which further punishes Hippowdon every time it comes in. When using Hydro Pump, bulky Grass-types such as Celebi and Shaymin can cause problems. Both Celebi and Shaymin are capable of healing off the damage caused by Pain Split with Recover and Rest, respectively. Celebi can also set up on Hydro Pump with Nasty Plot or Calm Mind and threaten a sweep. To deal with this, a strong Grass resist, such as Heatran, can be extremely useful for Hydro Pump variants. Choice Scarf Heatran is especially effective, as it can outpace offensive Celebi and Shaymin before they can retaliate with Earth Power.</p>
+
+[SET]
+name: SubCharge
+move 1: Substitute
+move 2: Charge Beam
+move 3: Shadow Ball
+move 4: Thunderbolt / Hidden Power Fighting
+item: Leftovers
+nature: Timid
+evs: 64 HP / 228 SpA / 216 Spe
+
+[SET COMMENTS]
+
+<p>While Rotom-A lacks access to traditional boosting moves such as Nasty Plot or Calm Mind, it can still make excellent use of its STAB Charge Beam, which gives it a semi-reliable way to boost its more than capable Special Attack. Using Substitute, Rotom-A is able to scout switches as well as set up on Blissey, one of its most notable counters. With 64 EVs in HP, Blissey is unable to break Rotom-A's Substitutes with either Ice Beam or Flamethrower, and if Blissey doesn't run a special attack, it's completely unable to touch Rotom-A. Once Rotom-A has a boost or two, it can start pounding opponents with powerful boosted STABs. Alternately, Shadow Ball and Hidden Power Fighting provide unresisted neutral coverage, and Hidden Power Fighting hits Tyranitar hard. However, Thunderbolt provides a powerful attack against Scizor, which can threaten versions of this set with Hidden Power Fighting.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>64 HP EVs allow Rotom-A's Substitutes to survive any attack that Blissey would throw at it, thus allowing it to set up on standard Blissey. 212 Speed EVs with a Timid nature allows Rotom-A to outspeed neutral natured Lucario as well as Jolly Mamoswine. The remaining EVs are dropped into Special Attack in order to boost its offensive power. Leftovers allow Rotom-A to keep its HP up in sandstorm as well as heal off the damage caused by Substitute when sandstorm isn't in play.</p>
+
+<p>In order to function fully, this set needs plenty of opportunities to set up a Substitute, since being behind one is the key to this set's success. U-turn users can easily scout the opponent, allowing Rotom-A to come in at opportune moments and set up. Pokemon that pull in Blissey can also be effective, as Rotom-A is free to set up a Substitute against it without any negative repercussions due to the HP EVs.</p>
+
+[SET]
+name: Defensive
+move 1: Thunderbolt / Discharge
+move 2: Shadow Ball
+move 3: Will-O-Wisp
+move 4: Overheat / Hydro Pump / Leaf Storm
+item: Leftovers
+nature: Bold
+evs: 252 HP / 208 Def / 48 Spe
+
+[SET COMMENTS]
+
+<p>This is the classic Rotom-A set, straight out of early Platinum. Rotom-A's fantastic Electric/Ghost typing gives it a huge pile of resistances, which can abuse to the fullest with a defensive set. Furthermore, this set allows Rotom-A to make the most of its 4 moveslots instead of limiting it with RestTalk, Pain Split, or other moves. As a result, this set has the most general purpose coverage, and is a solid set for patching up holes in a team. Thunderbolt is the strongest move on the set, and does solid damage to anything that doesn't resist it. Discharge, on the other hand, can be useful for spreading paralysis, though its secondary effect can sometimes get in the way of Will-O-Wisp and can prove a liability if something like Choice Band Tyranitar comes in and is paralyzed by it. Shadow Ball gives solid neutral coverage and secondary STAB, and Will-O-Wisp lets Rotom-A whittle down opponents and cripple physical attackers.</p>
+
+<p>The final moveslot is used for one of Rotom-A's forme moves. Overheat provides solid tertiary coverage, and also does plenty of damage to Steel-types like Jirachi, Metagross, and Scizor, which Rotom-A is extremely effective against. It also wards off Grass-types like Shaymin and Celebi, which would otherwise be fine switching into Thunderbolt or Will-O-Wisp and threatening out Rotom-A. Hydro Pump is the most reliable attack against Tyranitar, which severely threatens Rotom-A, and also provides excellent neutral and super effective coverage alongside Rotom-A's STABs. Finally, Leaf Storm can ward off Swampert, especially mono-attacking Curse variants which can shrug off any of Rotom-A's other attacks.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Pain Split can be used in the last slot over the signature attack, since this set benefits greatly from any form of recovery. However, it's not especially reliable, and can actually be turned against Rotom-A if the opponent switches in something with low HP. 48 Speed EVs are used to hit 220 Speed, which outspeeds Modest Empoleon after an Agility and allows Rotom-A to either burn it with Will-O-Wisp or hit it with Thunderbolt. HP is then maxed, since Rotom-A's HP is fairly underwhelming, and the rest goes into Defense to buffer hits from Scizor, Metagross, and the like.</p>
+
+<P>Since this Rotom-A set focuses more on bulk than offense, this set needs defensive teammates to ward off some of the offensive threats that can switch in. Depending on the signature move selected, specific teammates are more valuable than others. Without Leaf Storm, this set is extremely weak to Curse Swampert with Rest, so it's important to combine it with a strong Grass-type like Celebi or Shaymin to deal with Swampert. Blissey is also capable of completely shutting this set down, and if it has Toxic or a special attack it can either cripple or eliminate Rotom-A as well with minimal effort. As such, carrying something that can deal with Blissey, like Scizor or Machamp, can be a good idea.</p>
+
+[SET]
+name: Dual Screen
+move 1: Thunderbolt / Discharge
+move 2: Shadow Ball / Overheat / Hydro Pump
+move 3: Light Screen
+move 4: Reflect
+item: Light Clay
+nature: Bold
+evs: 252 HP / 208 Def / 48 Spe
+
+[SET COMMENTS]
+
+<p>Rotom-A also has access to both Light Screen and Reflect, and as such, it's more than capable of abusing its excellent typing to switch in and support teams with dual screens. This allows it to lend support to offensive teams, as it's much easier for a setup sweeper to get its boosting moves off when it's taking half damage. The remaining moves are used to put some teeth on Rotom-A while it's supporting. Thunderbolt is Rotom-A's strongest STAB, but Discharge has a 30% chance of paralysis, which can cripple opposing Pokemon as they switch in. Shadow Ball is optimal in the second slot due to STAB and good coverage, but Overheat can be effective against the Steel-types that Rotom-A can easily switch into. Finally, Hydro Pump gives excellent neutral coverage alongside Thunderbolt, and is also the most effective attack against Tyranitar.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs are given a defensive slant to give Rotom-A the best chance to set up multiple times throughout the match. 48 Speed EVs allows Rotom-A to outspeed Modest Empoleon before an Agility or Substitute, which can mean the difference between winning and losing the match (especially if you get off a Discharge and paralyze it). HP is then maximized for optimal bulk, and the remainder is dropped into Defense to help weather powerful resisted Steel- and Bug-type attacks from the likes of Jirachi, Scizor, and Metagross. If needed, Rotom-A can also use more offensive EVs and a Life Orb if more power and potential sweeping capability is preferred.</p>
+
+<p>Since this is a set meant to support the team with dual screens, Rotom-A's optimal teammates are Pokemon capable of taking advantage of the screens that are set up. Powerful setup sweepers like Agility Metagross, Swords Dance Scizor (especially with Roost), and Dragon Dance Tyranitar can use thescreens to set up a boost, weather a hit from a potential counter, and either boost enough to sweep or simply eliminate their counter outright. There are many other setup sweepers in OU that can be used with this set, but the one chosen will largely depend on the remaining team composition and personal preference.</p>
+
+[SET]
+name: Washing in the Rain (Rotom-W)
+move 1: Rain Dance
+move 2: Thunder
+move 3: Hydro Pump
+move 4: Shadow Ball / Hidden Power Ice
+item: Damp Rock / Life Orb / Leftovers
+nature: Modest / Timid
+evs: 252 SpA / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>This set is the only one that specifically requires a forme, and for obvious reasons. Rotom-W makes an excellent support for rain teams for a number of reasons. First, Rain Dance gives it a ton of benefit. Thunder is ~27% stronger than Thunderbolt, and has a 30% paralysis rate, making it much harder to switch into as a standard STAB. Second, Rain Dance gives Rotom-W pseudo-STAB on its Hydro Pump, which can make all the difference when Rotom-W finds itself up against Swampert and other Pokemon who resist Electric and are neutral to Water. Finally, Rotom-W makes an excellent switch-in to common foes for rain teams. Shadow Ball does plenty of damage to Celebi, and Rotom-W's low weight allows it to basically ignore Grass Knot. Meanwhile, STAB Thunder allows it to ward off opposing Water-types with ease.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>While this set is aimed more toward supporting rain teams, its EVs have a more offensive feel. Maximizing Speed and Special Attack allows Rotom-W to hit extremely hard, especially with Rain boosting its Hydro Pump's power and giving Thunder 100% accuracy. Defensive EVs can be used to give Rotom-A a better shot at setting up Rain Dance multiple times, but heavily affects its ability to deal damage. Damp Rock is optimal when using Rotom-W for rain support, but there are other options available. Life Orb makes Rotom-W very self-sufficient offensively, as its powerful STAB Thunder and rain-boosted Hydro Pump hit much harder with Life Orb. Finally, Leftovers can be used to give the set a bit more permanence, and is best used on defensive EV spreads.</p>
+
+<p>As a weather supporter and Ghost-type, Rotom-W is absolutely terrified of Tyranitar, which can come in, eliminate the rain, and annihilate Rotom-W with a powerful Crunch or Pursuit. Hydro Pump helps things somewhat, and if Tyranitar comes in on a Rain Dance, it can soon find itself in trouble, since without its everlasting sandstorm it's actually quite vulnerable to super effective special attacks, especially rain-boosted Hydro Pump. Still, this set should have some coverage against Tyranitar. Scizor does well, as it resists Dark and benefits significantly from rain's weakening of Fire attacks. Other than that, there are plenty of sweepers that love the rain. Kingdra is especially lethal, as the rain both powers up its STAB Hydro Pump/Waterfall and also activates Swift Swim, making it one of the fastest sweepers around. Other Pokemon also do well in the rain, such as Kabutops or Ludicolo, and as such make good teammates for this set.</p>
+
+[Other Options]
+
+<p>There's pretty much nothing Rotom-A has that hasn't already been mentioned in the above sets. It can run a gimmicky parafusion set with Confuse Ray, Thunder Wave, and even Air Slash from Rotom-S, but that still remains weak against Ground-types, and depends a lot on luck to finish opponents off. Rotom-F works extremely well on hail teams, as it gains 100% accurate Blizzard and provides a crucial immunity to Fighting, which tends to be a shared weakness among teammates on hail teams.</p>
+
+[Checks and Counters]
+
+<p>If there's anything that absolutely terrifies Rotom-A, it's Tyranitar. This beast can come into nearly any variant of Rotom-A and put an end to its shenanigans with Pursuit, and is especially good against the Scarf version. Choice Scarf Tyranitar can even absorb Trick and guarantee that Rotom-A will be KOed without dealing any damage. Hippowdon is also fairly effective, especially versions with plenty of Special Defense, as it can shrug off Shadow Balls, absorb Thunderbolts, and generally not be afraid of anything except Hydro Pump, Leaf Storm, and Will-O-Wisp (and not even the last one with cleric support).</p>
+
+<p>Swampert is also excellent against Rotom-A, especially specially defensive versions with Curse and Rest. If Swampert packs some Special Defense investment and Rest, it can switch into essentially anything except Trick and start setting up for free on any form except Rotom-C (which may not even be carrying Leaf Storm). Curse Snorlax with Rest is even better, as it doesn't even pay any mind to any of Rotom-A's non-Trick moves.</p>
+
+<p>Aside from some of the more dedicated counters, it's not very hard to beat Rotom-A once its set has been revealed. Blissey destroys most sets other than SubCharge and SubSplit (and still performs admirably against the latter), though it needs a special attack to actually do damage to Rotom-A. Most Ground-types perform especially well against Rotom-A, as its Electric attacks are its strongest and therefore its most often preferred attacks. As such, Flygon can do well against Rotom-A, as it can absorb Thunderbolts and threaten back with Outrage or scout with U-turn. Heatran is also extremely good, as without Hydro Pump it's hard for Rotom-A to damage it, and Heatran can even get a Flash Fire boost from Will-O-Wisp, a move that causes problems for most other Rotom-A checks.</p>

@@ -1,0 +1,97 @@
+Overview
+########
+
+Rhyperior is the epitome of a tank in the UU metagame; its high Attack, Defense, and HP combined with a great defensive ability in Solid Rock allow it to take almost any hit the tier has to offer - even with its unfortunate 4x weaknesses to Water and Grass. However, its paltry Special Defense and Speed makes it hard for Rhyperior to sweep, even though it has access to boosting moves such as Rock Polish and Swords Dance. Instead, it's better suited as a supportive attacker with Stealth Rock, or as a wallbreaker with its Assault Vest and Choice Band sets. In this role, it still faces competition from Swampert, but it distinguishes itself with its higher damage output and different set of resistances.
+
+Tank
+########
+name: Tank
+move 1: Stealth Rock
+move 2: Earthquake
+move 3: Rock Blast / Stone Edge
+move 4: Roar / Megahorn / Toxic
+ability: Solid Rock
+item: Leftovers
+evs: 248 HP / 16 Atk / 244 SpD
+nature: Adamant
+
+Moves
+========
+
+Rhyperior works as a great Stealth Rock user due to its incredible bulk, making it incredibly easy to find opportunities to set up entry hazards. Even with little investment in Attack, Rhyperior's fantastic coverage in Earthquake, Rock Blast, or Stone Edge allow it to do significant damage to any Pokemon in the tier. Rock Blast deserves a special mention for its potential to OHKO Froslass on the first turn. Finally, Rhyperior can choose to run a phazing move such as Roar or Dragon Tail to rack up hazard damage and remove scary set-up sweepers, or it can run Megahorn to hit key threats such as Celebi and Umbreon. Roar is generally preferred over Dragon Tail due to its ability to phaze through Substitute, Protect, and against Fairy types. Toxic is also a useful option as it can cripple bulky Water-types such as Swampert or Suicune, who might try to switch into Rhyperior.
+
+Set Details
+========
+
+The EV spread is tailored to patch up Rhyperior's underwhelming Special Defense to make sure it can take every hit necessary. 16 Attack EVs with an Adamant nature make Rhyperior a formidable offensive presence with minimal investment - just enough for the first jump point. Finally, Leftovers provides recovery to keep Rhyperior healthy.
+
+Usage Tips
+========
+
+As Rhyperior can force a lot of switches and has a good amount of bulk, it can set up Stealth Rock fairly easily in the first few turns. It can switch in on a lot of powerful Pokemon, such as Darmanitan or Honchkrow, and easily force them out. This provides more opportunities for Rhyperior to put Stealth Rock on the field again, deal damage, or rack up more hazard damage with Roar.
+
+Team Options
+========
+
+Rhyperior needs a teammate to take the dangerous Grass- and Water-type attacks that will come its way. Roserade is a perfect partner, as it scares both of these types out and can augment Rhyperior's Stealth Rock damage with Spikes. Rotom-H can also scare out these Pokemon. A spinblocker, such as Sableye, also makes a good partner, as it can ensure that Rhyperior's entry hazard stays on the field.
+
+
+Choice Band
+########
+name: Choice Band
+move 1: Stone Edge
+move 2: Earthquake
+move 3: Megahorn
+move 4: Aqua Tail / Rock Blast
+ability: Solid Rock
+item: Choice Band
+evs: 172 HP / 252 Atk / 84 Spe
+nature: Adamant
+
+Moves
+========
+
+Stone Edge and Earthquake, which form the infamous EdgeQuake combination, deal massive damage when boosted by a Choice Band. Megahorn is great for extra coverage, and heavily punishes threats such as Celebi, Shaymin, and Umbreon. Aqua Tail will rarely be used, but it allows Rhyperior to hit opposing Rhyperior as well as Gligar slightly harder. Alternatively, Rock Blast can be used for Pokemon behind Substitutes or any Pokemon carrying a Focus Sash.
+
+Set Details
+========
+
+The majority of Rhyperior's EVs go into HP and Attack in order to ensure it can dish out heavy damage as often as possible. However, 84 EVs in Speed allow it to outspeed uninvested base 50s, most notably Donphan. An Adamant nature is used to further boost Rhyperior's impressive Attack. If you choose to run Choice Band Rhyperior under Trick Room, you may benefit more from 0 Spe EVs, 0 Spe IVs, and a Brave Nature.
+
+Usage Tips
+========
+
+Choice Band Rhyperior should be used solely as a wallbreaker. It has tremendous power, which is shown in its ability to 2HKO Suicune with Earthquake, and this should not be diminished&mdash;it is one of the best stallbreakers in the tier. Don't forget to use Rhyperior's handy resistances and bulk; just because it's carrying a Choice Band doesn't mean it can't switch in to powerful attacks such as Victini's V-create or Darmanitan's Flare Blitz.
+
+Team Options
+========
+
+Choice Band Rhyperior works extremely well on dedicated Trick Room teams as well as teams with only one Trick Room user. Its naturally low Speed lends itself to sweeping under Trick Room. Choice Band Rhyperior also appreciates a cleric that can restore its health, remove any harmful status, and allow it to continue wreaking havoc.
+
+
+Other Options
+########
+
+A Swords Dance set can be used to help break stall even further, but Rhyperior is far too slow to sweep, and the set is much less useful against offensive teams. Weakness Policy and Rock Polish is an option that attempts to make Rhyperior into a sweeper, but it struggles due to Rhyperior's low Speed. Even at +2, it's outsped by a slew of offensive Pokemon who can take advantage of it's lowered HP (due to Weakness Policy being activated) and easily revenge kill it. Protect can be used on the Tank set to scout for surprise coverage such as Grass Knot as well as to increase the effectiveness of Leftovers. Dragon Tail can also be used over Roar on the Tank Set, but it's generally inferior this generation due to Sound mechanics and Fairy-types. Rhyperior can run Ice Punch on the Choice Band set, but this is mainly for Gligar. Substitute or Substitute + Swords Dance sets are now viable with Blissey in the tier. Speed investment allows Rhyperior to outspeed and set up a 101 HP sub (with 132 HP EVs) to use the pink blob as set-up fodder. Finally, a more physically defensive EV spread can be used on the Tank set, but it loses out on extremely important special bulk. Rhyperior can make use of an Assault Vest + Metal Burst set to lure bulky Water-types but this set is extremely niche.
+
+
+Checks & Counters
+########
+
+**Bulky Water-types**: Bulky Water-types can sponge a couple of hits from Rhyperior and threaten it out with their STAB moves. Although many of them, such as Suicune, can be 2HKOed by Rhyperior's Choice Band set and lured by the AV set, they significantly threaten the Tank set.
+
+**Grass-types**: Similar to Water-types, Grass-types can take advantage of Rhyperior's weaknesses and threaten it out. Shaymin has to worry about switching in on Megahorn, and Roserade can't safely switch in on any attacking move, but both of them threaten it offensively.
+
+**Chesnaught**: Chesnaught deserves a special mention for its ability to hard counter every single Rhyperior set. Its typing and bulk allows it to dodge the 2HKO even from the Choice Band set, and it can set up Spikes and threaten Rhyperior with Wood Hammer.
+
+**Rapid Spin Users**: Rapid Spin users such as Donphan and Forretress can weather blows from Rhyperior and remove its entry hazards while setting up their own entry hazards. Blastoise (and Tentacruel to a lesser extent) deserve a special mention for threatening Rhyperior offensively as well.
+
+**Bulky Ground-types**: Bulky Ground-types such as Hippowdon and Donphan are relatively unaffected by Rhyperior's STABs and can threaten him out with their own Earthquake.
+
+**Status**: Status such as burn can be devastating to Rhyperior, and its low Speed means it often has no way to avoid it. Sableye deserves a special mention for its ability to prevent Stealth Rock and cut down on damage with Will-O-Wisp.
+
+**Strong Special Attackers**: Even if Rhyperior isn't 4x weak to their STAB moves, strong Special Attackers such as Nidoking, Nidoqueen, and Mega Ampharos can deal heavy damage to Rhyperior. Some of them can, however, be used as bait for the Metal Burst set.
+
+**Strong Fighting-types**: Although many of them can't OHKO him, some Pokemon such as Choice Band Mienshao can ignore Rhyperior's incredible bulk and nab the surprise KO. Rhyperior offensively threatens most frail Fighting-types, but if they can come in safely, it's usually not willing to take the hit.
+
+**Random Coverage**: Random Grass-type coverage in the form of Energy Ball or Grass Knot on Pokemon such as Victini can surprise Rhyperior and potentially OHKO him.

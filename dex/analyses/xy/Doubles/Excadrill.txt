@@ -1,0 +1,89 @@
+Overview
+########
+Excadrill packs high Attack and decent Speed stats, that are complemented by two fantastic abilities in Mold Breaker and Sand Rush. Mold Breaker allows Excadrill to beat traditional counters to Ground- and Steel-types, such as Rotom-W and Rotom-H, and also hit Pokemon such as Latios, which would otherwise be able to switch into Excadrill with ease. With Sand Rush, Excadrill becomes a fearsome sand sweeper that can clean up late-game or punch holes early on. Thanks to its great Ground / Steel typing, Excadrill finds itself with numerous useful resistances as well as an immunity to Thunder Wave and a STAB Earthquake. However, this typing is a double-edged sword, giving Excadrill four very common weaknesses. This leaves Excadrill weak to bulky Water-type Pokemon, the Rain archetype in general, and common Pokemon such as Landorus-T. Excadrill is also prone to Intimidate and burns.
+
+
+Mold Breaker
+########
+name: Mold Breaker
+move 1: Earthquake
+move 2: Rock Slide
+move 3: Iron Head
+move 4: Drill Run
+ability: Mold Breaker
+item: Choice Scarf
+evs: 4 HP / 252 Atk / 252 Spe
+nature: Adamant
+
+Moves
+========
+
+Earthquake is Excadrill's main attack; it hits hard, deals spread damage, and abuses Mold Breaker. Rock Slide complements Ground-type STAB well, hitting the Flying-types that are immune to Earthquake. It can also fish for flinches. Iron Head is an alternate STAB move that nails Fairy-types and deals more damage against Pokemon that can comfortably take both Mold Breaker Earthquake and Rock Slide, such as Landorus-T. Drill Run is a single-target Ground-type STAB move, which is handy should you not want to hit your partner with Earthquake. Iron Head and Drill Run also have the advantage of bypassing Wide Guard.
+
+Set Details
+========
+
+Mold Breaker enables Excadrill to punish many Pokemon that trouble other Ground-types, such as Rotom-W and Cresselia. One of Excadrill's biggest flaws is its Speed when it's unboosted; fortunately, Choice Scarf easily patches that problem. An Adamant nature complements Excadrill's high Attack stat, and it is preferred over a Jolly nature because Excadrill appreciates the Attack boost more than outspeeding Adamant Choice Scarf Landorus-T, which comfortably handles Excadrill anyway and may also be running a Jolly nature. This set can be run without Choice Scarf too, in which case Drill Run should be switched for Protect. However, be warned that without the Speed, Excadrill is much more prone to being KOed before it attacks thanks to its common weaknesses.
+
+Usage Tips
+========
+
+Thanks to Mold Breaker, Excadrill can take out Pokemon reliant on Levitate to circumvent the Ground-type, most notably Rotom-W. This should be capitalized on to let other Pokemon sweep. Thanks to the Choice Scarf, it can revenge kill slower threats and clean up late-game with its high Attack stat. Play cautiously around Wide Guard users, as they can render Earthquake and Rock Slide useless.
+
+Team Options
+========
+
+All Flying-types are great teammates, as they are immune to Excadrill's Earthquake. Mega Pinsir has access to Feint to break Wide Guard and can check the many Fighting-types that can OHKO Excadrill. Shaymin-S checks both Fighting-types and bulky Water-types, which also threaten Excadrill. Gyarados appreciates that Excadrill can remove Rotom-W, and can provide Intimidate support in return. Mega Charizard Y removes Excadrill's Water-type weakness, though it worsens its Fire-type weakness. Choice Scarf Genesect can check Landorus-T, which is a massive threat to Excadrill. Finally, Wide Guard users such as Hitmontop and Aegislash can protect Excadrill from opposing Earthquake and Heat Wave, as well as protect themselves from Excadrill's Earthquake.
+
+
+Sand Rush
+########
+name: Sand Rush
+move 1: Earthquake
+move 2: Rock Slide
+move 3: Iron Head / Swords Dance
+move 4: Protect
+ability: Sand Rush
+item: Life Orb / Focus Sash
+evs: 4 HP / 252 Atk / 252 Spe
+nature: Adamant
+
+Moves
+========
+
+Earthquake is Excadrill's attack for hard-hitting spread damage, with Rock Slide to provide excellent neutral and super effective coverage alongside it. Iron Head is an alternate STAB move that smashes Fairy-types and bypasses Wide Guard. Swords Dance, if pulled off successfully, gives Excadrill extreme power, which is terrifying when backed with a Sand Rush boost. It also helps to compensate for Intimidate attack drops. Drill Run is an alternate choice to avoid hitting your partner with Earthquake; however, it provides redundant coverage with Earthquake, and Earthquake's spread damage is a big draw for this set.
+
+Set Details
+========
+
+Maximum Attack investment with an Adamant nature is used for maximal damage output. Maximum Speed investment is used to make Excadrill fast even out of sand. However, 200 Speed EVs with the rest in its defences can be used and still allows Exacdrill to outspeed Gyarados outside of sand; however, you will lose to opposing Excadrill. For your item choice, Life Orb provides a significant Attack boost, whereas Focus Sash guarantees that Excadrill can take at least one hit. Focus Sash also helps to possibly set up Swords Dance.
+
+Usage Tips
+========
+
+Excadrill is a late-game sweeper. Before you attempt to sweep with it, you should try to remove Pokemon that can cause it problems or at least weaken them so Excadrill can finish them off. These include Intimidate users, Flying-type Pokemon, Wide Guard users, and opposing weather users. Landorus-T must be eliminated, as it doesn't fear Excadrill's attacks, softens the blows with Intimidate, and threatens to OHKO Excadrill with Earthquake. When starting a sweep with Excadrill, try to bring it in when sand is still on the field, as Excadrill's ability to sweep is significantly hindered when sand is not present.
+
+Team Options
+========
+
+Tyranitar is a mandatory partner for Excadrill, as it sets up sand. Mega Tyranitar is particularly strong at winning weather wars, as it can set up sand by both switching in and by Mega Evolving. Togekiss redirects Fighting-type attacks and provides Helping Hand support to complement Excadrill's strong Earthquake, which will avoid hitting Togekiss. Mega Gengar can trap problematic Pokemon such as Intimidate Pokemon and weather setters to help prepare for an Excadrill sweep. Wide Guard users can protect Excadrill from Heat Wave and Earthquake. Teammates to check Landorus-T are necessary, such as Rotom-W, Cresselia, and Azumarill. Finally, Rotom-W, Shaymin-S, and Thundurus check Water-types while being immune to Excadrill's Earthquake. Thundurus also has the advantage of checking Politoed and Mega Charizard Y, both of which can remove sandstorm with their abilities.
+
+
+Other Options
+########
+
+Magnet Rise gives Excadrill an immunity to Ground-type attacks, making it harder to take down; it will either be very helpful or useless depending on the scenario. Substitute can take advantage of switching and provide an immunity to status, especially burns. Alternatively, Lum Berry provides a one-time immunity to status. Excadrill can use Sandstorm to set up its own sand and get a Sand Rush boost without relying on Tyranitar, but it is difficult to find time to use it safely. X-Scissor is Excadrill's strongest attack against Cresselia, and it OHKOes Latios with a Life Orb boost.
+
+
+Checks & Counters
+########
+
+**Intimidate and burns**: Excadrill is very reliant on its high Attack, and as such, it hates having it lowered. Landorus-T, Hitmontop, and Scrafty are great choices for Intimidate, as they can also OHKO Excadrill with their STAB moves. Gyarados and Salamence also provide Intimidate support and can OHKO with Waterfall and Life Orb Fire Blast, respectively; however, they do not enjoy taking a Rock Slide. Gourgeist-XL has the bulk and Ground-type resistance to stand up to Excadrill and burn it with Will-O-Wisp. Sableye has access to priority Will-O-Wisp, letting it hit before Excadrill can attack.
+
+**Opposing Weather**: Sand Rush Excadrill is dependent on sand to sweep, so removing it with other weather works wonders. Mega Charizard Y outspeeds and OHKOes Excadrill with Heat Wave; however, be warned that Choice Scarf Excadrill outspeeds it and OHKOes with Rock Slide. Even with 0 EVs in Special Attack, Politoed can take one attack from Excadrill and always OHKO it with a rain-boosted Scald after Excadrill has taken Life Orb recoil.
+
+**Offensive Typing Advantage**: Excadrill has common weaknesses that can be taken advantage of; for example, Ground- and Fighting-types, as well as bulky Water-types, such as Landorus-T, Garchomp, Hitmontop, Scrafty, Rotom-W, and Suicune, can all take a hit and OHKO Excadrill. Rotom-W can be OHKOed by a Mold Breaker Earthquake, but it is a hard counter to the Sand Rush set. Some Pokemon such as Conkeldurr and Breloom also have access to priority Mach Punch to ignore Excadrill's boosted Speed. Also, Flying-types and Pokemon with the ability Levitate can easily take advantage of a Choice Scarf Excadrill locked into Earthquake or Drill Run.
+
+**Speed Control**: Excadrill is reliant on being fast and hitting hard to avoid taking hits. Without its Speed, it cannot avoid hits. Gourgeist-XL and Cresselia can easily take a hit from Excadrill and set up Trick Room, which turns Excadrill's boosts against it, making Excadrill a liability. Tailwind from Suicune works well too, as it let foes outspeed Excadrill.
+
+**Utility moves**: Excadrill's two main moves, Earthquake and Rock Slide, are both shut down by Wide Guard. Hitmontop and Aegislash are excellent choices; however, Aegislash has to be wary of Drill Run.

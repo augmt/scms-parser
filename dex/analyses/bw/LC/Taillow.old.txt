@@ -1,0 +1,75 @@
+[Overview]
+
+<p>With its impressive Speed (hitting the second-highest Speed tier in all of Little Cup), usable Attack stat, and the ability Guts, Taillow can be a very fearsome threat after just a single turn. These attributes, in conjunction with powerful STAB moves in Brave Bird and Facade, make Taillow perfectly capable of netting KOs on some of the tier's bulkiest Pokemon. However, Taillow has an unfortunate Stealth Rock weakness, vulnerability to priority, and a tendency to kill itself with residual damage. Yet, with proper support from its team, Taillow can easily do great deals of damage to an unprepared team.</p>
+
+[SET]
+name: Guts Sweeper
+move 1: Facade
+move 2: Brave Bird
+move 3: Quick Attack
+move 4: U-turn / Protect
+item: Toxic Orb
+ability: Guts
+nature: Jolly
+evs: 36 HP / 236 Atk / 236 Spe
+
+[Set Comments]
+
+<p>After Toxic Orb's activation, Taillow's Attack stat rockets to a powerful 22, nearly reaching that of Meditite. Along with its high 19 Speed stat, Taillow becomes a very dangerous all-out attacker. Once the Pokemon that resist its moves have been knocked out, Taillow can deal heavy damage to an entire team with its boosted STAB Facade.</p>
+
+<p>Taillow's primary attacking option is its 140 Base Power Facade, which hits incredibly hard coming from its 22 Attack stat. Brave Bird gives Taillow an effective way to deal with Ferroseed, as well as Ghost-types such as Misdreavus on the switch. Yet, in general, Facade is the preferable option thanks to its higher power and lack of additional recoil. Pluck is also a viable alternative to Brave Bird by merit of its ability to steal Oran Berries from Pokemon such as Bronzor or Misdreavus, as well as avoid the recoil from Brave Bird. However, Taillow does lose the ability to hit Ferroseed nearly as hard as it could with Brave Bird, which puts it at risk of being stalled out by Leech Seed and Protect. Quick Attack, while far weaker than Facade, allows Taillow to outspeed most other priority users and damage them first, and deal good damage to, or even KO, set-up sweepers once they have been significantly weakened. For the final slot, both moves have significant upsides. A Taillow using U-turn can scout the opponent's team while doing good damage, despite U-turn having only 70 Base Power. However, with Protect, Taillow can easily find that one turn required to activate the Guts boost it so sorely needs to do any significant damage.</p>
+
+[Additional Comments]
+
+<p>To demonstrate the power a Guts Facade possesses, here are some damage calculations against some of the most common threats in Little Cup.</p>
+
+<ul class="damage calculations">
+<li>Facade vs. 36 HP / 36 Def Eviolite Scraggy: 81.8-95.5%</li>
+<li>Facade vs. 196 HP / 236 Def Bold +1 Slowpoke: 53.6-69.2%</li>
+<li>Facade vs. 76 HP / 52 Def Chinchou: 124-148%</li>
+<li>Facade vs. 76 HP / 156 Def Eviolite Timburr: 72-84%</li>
+<li>Facade vs. 76 HP / 156 Def +1 Eviolite Timburr: 52-60% </li>
+</ul>
+
+<p>Taillow is heavily walled by Pokemon such as Ferroseed who, despite being hit neutrally by Brave Bird (or Pluck), can stall Taillow out with Leech Seed damage along with the recoil from Brave Bird, Iron Barbs, and Toxic Orb. For this reason, it is important to carry a strong Fighting- or Fire-type such as Timburr, Mienfoo, or Houndour alongside Taillow in order to consistently remove those bulky Steel-types from its path. Also, packing a Pokemon capable of taking care of Ghost-types, such as Scraggy, Stunky, or Houndour, will allow Taillow to spam Facade without fear of a Ghost-type switching in for free and racking up Toxic damage. Running Magnemite alongside Taillow is also a good option, as Magnemite can trap and kill those pesky Steel-types Taillow struggles so much against, and resists all three of Taillow's weaknesses to boot. For the same reason, Diglett is also a good partner for Taillow, as it can trap and kill both Steel- and Rock-types, and absorb the Electric-type attacks aimed at Taillow. Other Ground-types, such as Wooper or Sandile, can also be used alongside Taillow. Partnering Taillow with Chinchou can be helpful, as Chinchou resists Ice- and Electric-type attacks and can scout alongside Taillow (who has U-turn) with Volt Switch. Pawniard's strong priority attack and useful resistances make it a viable partner as well, and it greatly appreciates Taillow's Ground-type immunity.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Brave Bird
+move 2: U-turn
+move 3: Return
+move 4: Toxic
+item: Choice Scarf
+ability: Guts
+nature: Adamant
+evs: 36 HP / 236 Atk / 236 Spe
+
+[SET COMMENTS]
+
+<p>In a metagame plagued with dangerous sweepers, such as Dragon Dance Scraggy and Shell Smash Clamperl, Choice Scarf Taillow can act as a solid revenge killer. Even after both sweepers have used Dragon Dance or Shell Smash, respectively, using a combination of impressive Speed and a high-powered Brave Bird, Taillow can outpace and OHKO both Scraggy and Clamperl. Unfortunately, Doduo gives Taillow stiff competition, because it can achieve the same results as Taillow using two more Attack points. However, Taillow posses several traits giving it an advantage over the twin-headed bird. One of these is U-turn, which is not only a useful move to escape from Wynaut unharmed, but allows the team to retain offensive momentum, as well as easing the prediction required for Taillow to switch to another teammate. Taillow also boasts the choice of two superior abilities, when compared to Doduo, which are Guts and Scrappy. Guts allows Taillow to turn a Toxic or Burn status into the equivalent of a Choice Band boost, making it strong enough to 2HKO a Slowpoke with Brave Bird. While Scrappy isn't as useful as Guts, it could help you nab an OHKO on Gastly, should it think it can switch into your choice locked Return unharmed.</p>
+
+<p>When you can't afford to take recoil damage, or if you want to hit an Electric-type, Return is a reliable second STAB attack. Toxic is used to disrupt walls, such as Lileep and Slowpoke, who would otherwise recover off Taillow's Brave Birds and KO it back. Taillow can then switch out to another teammate that can stall out the Toxic damage or just KO them.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Double-Edge can be used over Return, if you want to have a recoil party, but there generally isn't anything significant enough to warrant the extra risk. Pursuit is another option which can be used over Toxic, should you want to KO a fleeing Gastly and/or weakened Slowpoke, but its far more situational than Toxic. The EVs give Taillow the maximum amount of Attack and Speed for an Adamant nature and dumps the leftovers into HP to slightly alleviate Brave Bird recoil. It is recommended that you do not use a Jolly nature to outspeed other Choice Scarf users as it will keep you from revenging a full health Scraggy with Brave Bird, along with missing out on several other important KOs.</p>
+
+<p>Because Taillow is a revenge killer with a Stealth Rock weakness and relies on a strong recoil move, it greatly appreciates a Rapid Spin user to help it not kill itself. Staryu is the top Rapid Spinner, being able to take hits from the likes of Dwebble and Shelmet, and threaten them back with a strong STAB Hydro Pump. However, Ferroseed is a problem for both of them so a strong Fighting-type, such as Mienfoo or Scraggy, couldn't hurt. Pokemon that benefit from Taillow's U-turn's safe switching, such as Wynaut, Diglett, and set-up sweepers, enjoy taking advantage of whatever specific Pokemon they are U-turned into. Lastly, like every other Choice item user, Taillow can be taken advantage of by Pokemon who are resistant or immune to whichever move it is locked into. Keeping this in mind, you should be aware of the opponent's team and carefully predict accordingly.</p>
+
+[Other Options]
+
+<p>One of Taillow's major downfalls is its relatively small movepool, which offers little in the way of notable options. Yet, it possesses a small number of moves it can use to some success in select situations. Running Heat Wave is a viable option, as it allows Taillow to do a good deal to Bronzor, who otherwise walls it completely, and do greater damage to Ferroseed, as well as avoid the recoil from Brave Bird and Iron Barbs it would otherwise suffer. Even without a Special Attack investment, Heat Wave can help to remove those hard counters that would otherwise stop Taillow cold. Taillow can also abuse Counter when equipped with a Focus Sash, as the opponent will rarely sit quietly and leave Taillow to deal crushing damage to his team. Taillow's frailty also guarantees that if hit by almost any physical hit, it will take enough damage to KO in return with Counter and possibly cripple the opponent's next Pokemon with Endeavor. Pursuit is also viable, as Taillow's great Speed, in conjunction with its Guts-boosted Attack stat, forces many switches. Pursuit can also help to deal super effective damage to the Ghost-types that may switch in to absorb Facade and make Taillow accumulate Toxic damage. A set focused on Focus Sash, Endeavor, and Quick Attack could be viable thanks to Taillow's frailty, yet a Speed-hindering nature and no investment would have to be used, since Endeavor would require Taillow to be hit first. Taillow can also run Hidden Power Ground to deal with Magnemite that would resist all of its moves and threaten a KO.</p>
+
+<p>A set which abuses Choice Band is somewhat viable, but the ability to switch moves and Facade is more valuable than the relatively small decrease in residual damage. However, if it happens to switch in on a status move, it can become more powerful than the Toxic Orb set, with both a Guts and Choice Band boost. In the same vein, Flame Orb can be used, yet it is much worse than Toxic Orb, as Taillow will not be staying in for long to continually attack, meaning that the damage taken from burn will usually be significantly more than the damage it would have taken from poison.</p>
+
+<p> Taillow's secondary ability is Scrappy, and while it may seem beneficial to be able to hit Ghost-types with Facade, Quick Attack, or Return (if running a Choice set), Taillow's base Attack is not high enough to justify its use without a Guts boost, so Scrappy should not be used. </p>
+
+<p>In terms of non-attacking moves, Taillow has access to a number of interesting options, including Roost which, despite Taillow's frailty, can be used to offset residual damage taken from Stealth Rock, Toxic Orb, Brave Bird, or even Iron Barbs. This can help Taillow to stick around longer, as well as switch in and out repeatedly without dying to Stealth Rock damage. Agility is also a viable option, making Taillow one of the fastest sweepers in Little Cup, as it can outspeed almost any other Pokemon after just one turn of setup. </p>
+
+[Checks and Counters]
+
+<p>The best and most common counters to Taillow are bulky Steel- and Rock-types who resist the majority of Taillow's offensive movepool, can stall it out with Toxic damage, and have access to moves that hit Taillow super effectively. The main examples of this are Ferroseed, Magnemite, and even Bronzor, who resist every one of Taillow's common options outside of Heat Wave and can set up entry hazards, Substitute, and screens, respectively, while Taillow is forced to switch out. Hippopotas and, to a lesser extent, even Misdreavus, can take a hit from Taillow and KO it with their super effective move of choice.</p>
+
+<p>Taillow's other hardest counters include strong priority users, such as Houndour, Timburr, or Snover, who can hit before Taillow and take advantage of its incredible frailty. At the same time, if Taillow chooses to run Quick Attack, it can hit all of these Pokemon for a great deal of damage before going down to their attacks. However, Pokemon that carry Fake Out or Extreme Speed, such as Meowth and Dratini, can bypass Quick Attack and deal heavy damage before Taillow can land a hit. Choice Scarf Magnemite can outspeed and KO Taillow with ease, and can take a Quick Attack very well on top of that. </p>
+
+<p>The most surefire way to prevent Taillow from dealing too much damage to your team is to use a Pokemon such as Hippopotas to set up Stealth Rock early on in the game and pack a Ghost-type such as Duskull or Misdreavus to block Rapid Spin. That way, half the job will be done before Taillow even starts attacking.</p>

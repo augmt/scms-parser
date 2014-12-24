@@ -1,0 +1,49 @@
+[Overview]
+
+<p>Slugma is a cool Pokemon, but he has a bad defensive typing, lackluster Speed, and is in a rather hostile environment; because of this, he has a bit of trouble finding a spot on most teams. However, he does have many plus points: he is pretty bulky, has decent tanking ability, and is made of lava. While his Fire typing does grant him some unfortunate weaknesses to common types, such as Water and Rock, access to moves such as Recover and Stockpile do ensure Slugma brings some originality to the table. Slugma is a veritable mixed bag of a Pokemon; you can rightfully say he's hot.</p>
+
+[SET]
+name: Stockpile
+move 1: Stockpile
+move 2: Recover
+move 3: Flamethrower / Lava Plume
+move 4: Will-O-Wisp / Toxic / Hidden Power Grass
+item: Eviolite
+ability: Flame Body
+nature: Calm
+evs: 196 HP / 116 Def / 196 SpD
+
+[SET COMMENTS]
+
+<p>Slugma has acceptable bulk, and when coupled with an Eviolite and the ability to further boost both defenses with Stockpile, this set can become troublesome to bring down. Flamethrower gives Slugma the most power, and if you are happy relying on Will-O-Wisp for burn support, feel free to go for the combination of Flamethrower and Will-O-Wisp. Lava Plume combines STAB and burn support into one Fire-type attack, giving Slugma a free slot in which to run Toxic. Alternatively, Hidden Power Grass rounds out Slugma's coverage by hitting Water-types super effectively.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>A Calm nature with significant Special Defense investment covers the special side for the most part, and with the ability to cut the opponent's Attack with Will-O-Wisp, Slugma can quickly become hard to stop. Frillish makes a good partner for Slugma, as it can switch into Water-type attacks without worry.</p>
+
+[SET]
+name: Dual Screen Memento
+move 1: Light Screen
+move 2: Reflect
+move 3: Memento
+move 4: Lava Plume
+item: Eviolite / Light Clay
+ability: Flame Body
+nature: Bold
+evs: 196 HP / 196 Def / 116 SpD
+
+[SET COMMENTS]
+
+<p>The idea here is to create an optimal set-up situation for one of Slugma's teammates. Getting up dual screens is Slugma's priority here. If he manages to survive long enough to get both screens up and survive a potential third blow, he can go for Memento, which increases the chances your sweeper can set up at least two boosts. Lava Plume has a chance to burn your opponent and cut their Attack, again aiding the situation, but more importantly prevents Slugma from being complete Taunt bait.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs given balance Slugma's defenses, though this can be modified to your liking. Eviolite is the favored item as it helps ensure Slugma can get both screens up. Light Clay can buy valuable additional turns of screen protection for Slugma's teammates, but considering Slugma's terrible Speed, screen setup will become decisively less reliable without Eviolite's boost to his bulk. Lava Plume can be swapped out for an attacking move of your choice, but this set should ideally not be attacking at all. Any set-up sweeper makes a good partner for this set. Pokemon such as Scraggy and Shell Smash boosters are prime candidates.</p>
+
+[Other Options]
+
+<p>Slugma doesn't have much going for him, but he does have access to quite a pool of supporting moves. Along with the already mentioned Will-O-Wisp and Toxic, he also has Yawn and the gimmicky Swagger at his disposal. He has a wide array of defensive moves as well, such as Amnesia and Iron Defense, although most are usually not very effective due to Slugma's poor defensive typing. Earth Power is a good move, but usually doesn't find a slot in Slugma's defensively geared movesets. Pain Split is usable, but is outclassed by the more reliable Recover.</p>
+
+[Checks and Counters]
+
+<p>Diglett can trap Slugma and OHKO him with STAB Earthquake. Most bulky Water-type Pokemon will handle Slugma really well. A Taunt user should also stop most support Slugma cold. Rock-type Pokemon also handle Slugma very well, but be wary of switching into a Will-O-Wisp, as after a burn, Slugma might be able to stall said Pokemon out with Recover.</p>

@@ -1,0 +1,36 @@
+[Overview]
+
+<p>At first glance, Houndoom seems unsuited to the ADV metagame, being entirely walled by the sponges Blissey and Curselax, stopped by bulky Water-types such as Milotic and Suicune, and trapped by the ubiquitous Dugtrio. However, Houndoom is capable of filling an often pivotal role: Pursuit-trapping the spinblocker Gengar while also providing a consistent switch-in to Celebi and Superachi with its immunity to Psychic, resistance to Grass, and powerful Fire Blast. Its ability to remove Gengar is especially significant, as it allows for the likes of Forretress and Cloyster to successfully Rapid Spin with greater ease. Pursuit also helps open up a sweep from the likes of Earthquake Curselax and allows Explosion to be used with less fear.</p>
+
+[SET]
+name: Pursuit
+move 1: Pursuit
+move 2: Fire Blast / Flamethrower
+move 3: Crunch / Hidden Power Grass / Hidden Power Ice
+move 4: Will-O-Wisp / Toxic
+item: Leftovers
+ability: Early Bird
+nature: Timid
+evs: 56 HP / 252 SpA / 12 SpD / 188 Spe
+
+[SET COMMENTS]
+
+<p>This set has a very simple premise behind it&mdash;defeat Ghost-types with maximum efficiency. Pursuit does exactly that, catching spinblockers switching out for double damage. Fire Blast is generally the better choice for the next slot, as Flamethrower can fail to OHKO the likes of Metagross with some HP investment. Crunch is the primary choice for the third slot, as the threat of Pursuit often dissuades Gengar from switching out and it can land an OHKO on any brazen enough to stay in. Crunch can also actively threaten the rarer Dusclops, which can weaken Houndoom if it only has Pursuit. Hidden Power Grass can also fill the third slot to take a huge chunk out of Swampert and dent other Water-types. Finally, Hidden Power Ice can take out Salamence and Flygon, as Houndoom outspeeds their standard sets. The fourth slot can be filled by one of two status moves, namely Will-O-Wisp or Toxic. Will-O-Wisp is better against physical attackers such as Gyarados, Flygon, Tyranitar, Aerodactyl, Utilitylax, and Salamence, while Toxic cripples non-Rest Swampert and Milotic, and is also better in last-Pokemon situations.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs given hit 300 Speed, beating all standard Salamence and Flygon. If using Hidden Power Ice, you should drop Houndoom's Attack and Defense IVs to 30 as opposed to dropping its Speed IV. 56 HP gives a total divisible by 16 for optimal Leftovers gain. Maximum Special Attack is used rather than significant defensive investment because Houndoom is painfully frail and unlikely to stay around for a prolonged period of time.</p>
+
+<p>Houndoom is a useful partner for the Spikes-laying spinners Forretress and Cloyster, as the pair have difficulty successfully executing a spin against more defensive Gengar and Dusclops in Cloyster's case and any Ghost-type whatsoever in Forretress's. With spinblockers out of the way, both Forretress and Cloyster will be able to more effectively keep Spikes off your side of the field. Houndoom also synergizes very well with Gengar, being immune to Psychic-type moves and resisting Ghost- and Dark-type moves, whilst Gengar is immune to Fighting- and Ground-type moves and can help Houndoom's Spikes-using partners keep their entry hazards up. Roar also works very well in conjunction with this combination of Pokemon to take advantage of Spikes to their fullest. However, this can be a dangerous strategy if the opponent has Dugtrio. Houndoom also enjoys support from Pokemon that are able to switch into bulky Water-types, such as RestTalk Zapdos and Celebi. Zapdos is useful in that it can absorb Gengar's Hypnosis, which can put Houndoom out of commission for a while, and also does not share a weakness to Dugtrio. However, Celebi also checks Snorlax and Blissey with the combination of Leech Seed and Calm Mind.</p>
+
+[Other Options]
+
+<p>Rest is workable on Houndoom, as Early Bird halves its sleep duration. This markedly improves Houndoom's longevity; however, it can be dangerous as a sleeping Houndoom is easy Dugtrio prey&mdash;be sure to scout. Beat Up can work on Houndoom if you have a team heavy on physical attackers, as it has the potential to 2HKO the likes of Calm Mind Blissey. However, in doing this you often sacrifice coverage or status, and if your team is physically strong enough for Beat Up, then it shouldn't have problems with the special sponges. If you do use it, though, be sure to use nicknames so as not to prematurely reveal your team! Houndoom can exchange Early Bird for Flash Fire in order to get a boost off a predicted Fire attack, but it loses the ability to wake up more quickly from the likes of Gengar's Hypnosis and also gains a counter in Porygon2. Houndoom can potentially use a SunnyBeam set to clean up late-game, but it is generally far too slow to sweep, and this defies its main purpose as a Pursuit trapper. Sleep Talk without Rest is decent, due to the popularity of Hypnosis Gengar against Pursuit users, especially if you have no sleep absorber; however, it can be somewhat of a waste of a moveslot in a lot of cases.</p>
+
+<p>Houndoom can use Counter alongside Will-O-Wisp, the idea behind the set being to catch Tyranitar or Snorlax on the switch-in with Will-O-Wisp and then survive an unboosted burnt Rock Slide or Earthquake to Counter it back for the KO. It can also do the same against burnt Aerodactyl's Rock Slide with 52 HP and 48 Defense EVs. However, in most cases you are better off switching to a defensive Pokemon such as Swampert or Skarmory, who can easily take these attacks and do damage or set up Spikes in return, because Tyranitar and Aerodactyl nearly always have no recovery or way to remove status and Snorlax sometimes will not Rest either.</p>
+
+[Checks and Counters]
+
+<p>Being a specially oriented, frail Fire-type, Houndoom is countered by a vast array of Pokemon. The special walls Snorlax and Blissey easily defeat it, sponging Fire Blasts merrily while either statusing Houndoom or just bashing away at it. Non-Rest Snorlax needs to watch out for Will-O-Wisp though, as this can cripple it and remove its offensive presence. Milotic and Suicune can switch into Houndoom repeatedly and threaten it with STAB super effective Surfs. Milotic is especially notable as it loves to absorb Will-O-Wisp thanks to its Marvel Scale ability. It also has instant recovery, unlike Suicune, which is forced to use Rest. However, Milotic must watch out for Toxic, as this will greatly decrease its longevity.</p>
+
+<p>Dugtrio can trap and OHKO with Earthquake if brought in on a predicted switch or when Houndoom has just made a kill. However, one must remember that it cannot switch in on an awake Houndoom without the heavy risk of an OHKO from Fire Blast. Tyranitar, Salamence, Aerodactyl, Flygon, and Gyarados are all in the same boat when it comes to Houndoom: they are all fairly decent answers to it, resisting Fire moves and KOing back, but being physical attackers without a way to remove status, none of them can deal well with a Will-O-Wisp burn. RestTalk Zapdos can deal with Houndoom outside of sand or if it has Flamethrower instead of Fire Blast.</p>

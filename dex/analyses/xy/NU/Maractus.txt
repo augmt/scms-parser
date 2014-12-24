@@ -1,0 +1,14 @@
+Spikes
+########
+name: Spikes
+move 1: Spikes
+move 2: Bullet Seed
+move 3: Grass Knot
+move 4: Sucker Punch
+ability: Storm Drain
+item: Focus Sash
+evs: 252 Atk / 48 SpA / 208 Spe
+nature: Naughty
+
+
+This is a sample set while we are currently working on analyses in the workshop.

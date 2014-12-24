@@ -1,0 +1,38 @@
+[Overview]
+
+<p>Ditto has always been deemed a gimmick, ever since its RBY days. The same went for the start of Generation V, where the same old Ditto was never competitively viable. Then came the shift to BW2, and with it came a new ability for Ditto, a saving grace that would bring it from the lowest depths of NU: Imposter. Imposter transforms Ditto upon switch in, allowing it to avoid wasting a turn using Transform. This ability is what launched Ditto from a useless gimmick into a ruthless revenge killer. Ditto is a setup sweeper's worst nightmare, and when equipped with a Choice Scarf, it can outspeed and kill almost everything in UU, provided it can switch in with minimal damage.</p> 
+
+[SET]
+name: REVENGE!
+move 1: Transform
+item: Choice Scarf
+ability: Imposter
+nature: Sassy
+evs: 252 HP / 4 Def / 252 SpD
+ivs: 30 SpA / 30 SpD / 3 Spe
+
+
+[SET COMMENTS]
+
+<p>Taking revenge on anyone who ever deemed it useless, Ditto takes its new Dream World ability to become a potent revenge killer. Armed with a Choice Scarf, Ditto can come in, outspeed, and kill almost anything, bar Substitute users and Zoroark. Any boosting sweepers must think twice if they see Ditto on the opposing team, because after they grab some boosts and a kill, Ditto can come in and not only pocket a revenge kill, but also steal the boost and turn the sweep around. For example, Ditto can steal boosts from the likes of Dragon Dance Kingdra, Dragon Dance Scrafty, Swords Dance Heracross, Nasty Plot Houndoom, and Nasty Plot Azelf, even after a single kill. Its sweeping potential doesn't stop there--Ditto can switch in and threaten a range of Life Orb attackers. Outside of its great revenge killing capabilities, Ditto can also steal entry hazards and further support moves from the opponent. Ditto can switch into the likes of Bronzong, Gligar, and Roserade and set up Stealth Rock or Spikes--although this locks Ditto into an entry hazard move, it can prove to be incredibly useful in the long run. This is obviously the only moveset that Ditto can run, but it doesn't need to worry about its own movepool because it will be using someone else's moves all of the time anyway.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Because Ditto copies its opponent's stats (bar HP), it seems odd to put much thought into EV and IV spreads. They do have a purpose, however, as HP is the only stat not copied when Imposter takes effect and thus is maxed out. The remaining EVs only matter in one situation: Ditto switching in on Zoroark. Although this should never happen, Ditto still wants to have maxed Special Defense in case it needs to take a hit. The only effect of Ditto's IVs after Imposter takes effect is the type of its Hidden Power. This IV spread is chosen because it changes Hidden Power to a Ground-type move. This is useful in UU because there are two main users of Hidden Power: Raikou and Zapdos. Hidden Power Ground is Ditto's only way of getting past Raikou, and Zapdos is hit harder by its own Thunderbolt than any type of Hidden Power. 3 Speed IVs are are given to ensure the Base Power of Hidden Power is 70, while obtaining the lowest Speed possible. This is done for the only situation it could effect, Ditto vs. Ditto. In this situation, the faster Ditto loses because it runs out of PP first. Sassy is the nature of choice because it makes Ditto even slower and helps it take a hit from Zoroark. As for teammates, Ditto doesn't affect a team's synergy, so its team options are extremely varied. For any team that enjoys having a good revenge killer, is having trouble with setup sweepers, and has a free spot synergy wise, Ditto is a good teammate. Also, Ditto's ability to transform into the opponent's Stealth Rock user eliminates the need for a Stealth Rock user of your own. This can be a great help to free up teamslots.</p>
+
+[Other Options]
+
+</p>Ditto has no other options. The only aspect worth changing would be the IV spread, which helps target different users of Hidden Power on the switch in. Below is a list of Hidden Power users and the best IV spreads for beating them.</p>
+
+<ul>
+<li>Raikou: 31 HP / 31 Atk / 31 Def / 30 SpA / 30 SpD / 3 Spe [Lowest Speed Possible w/ Base 70] Hidden Power Ground (51.71 - 61.05%) -- guaranteed 2HKO</li>
+<li>Zapdos: N/A, Thunderbolt (66.66 - 78.5%) -- guaranteed 2HKO (Hits for slightly less damage than Hidden Power Ice or Rock)</li>
+<li>Lilligant: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 2 Spe [Lowest Speed Possible w/ Base 70] Hidden Power Ice (87.23 - 102.83%) -- 18.75% chance to OHKO</li>
+<li>Shaymin: (Air Slash is more common than Hidden Power) 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 2 Spe [Lowest Speed Possible w/ Base 70] Hidden Power Ice (48.53 - 57.3%) -- 94.14% chance to 2HKO</li>
+</ul>
+
+<p>The above IV Spread for Hidden Power Ice is probably the best alternative if your team is worried about Lilligant and Shaymin. That being said, Raikou is much more commonly seen with Hidden Power than the Grass duo, so Hidden Power Ground is probably the best way to go. Theoretically, the item on the set could be changed, but this is usually ineffective because Ditto will always be relying on a Speed tie and outright losing to Choice Scarf users.</p>
+
+[Checks and Counters]
+
+<p>Because Ditto is ever-changing, there is no true counter to it. Choice Scarf users are probably the biggest check because Ditto relies on being faster than the opponent to get a revenge kill; Choice Scarf users will always create a Speed tie, only allowing Ditto to do its job 50% of the time. Imposter will fail if the opponent has a Substitute, making users of said move obvious checks; of course, the Substitute must be set up before Ditto switches in. If not, Ditto can just outspeed and attack before the move is used. Ditto is also largely susceptible to entry hazards, especially Toxic Spikes. Ditto will be switching in and out a lot and thus taking lots of entry hazard damage. This makes Ditto slightly less effective against teams that stack entry hazards.</p>

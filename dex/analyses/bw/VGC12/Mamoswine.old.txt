@@ -1,0 +1,32 @@
+[Overview]
+
+<p>Mamoswine has a huge Attack stat, and its excellent dual STAB gives it perfect coverage outside of Bronzong, some forms of Rotom-A, and Shedinja. It also can pick off faster Pokemon and deal severe damage to a multitude of common threats with its STAB Ice Shard. Mamoswine has a usable Defense stat, but its Ice typing and low Special Defense means it can't take too many hits. Mamoswine also has rather low Speed, so it's somewhat reliant upon either Tailwind, Trick Room, or Thunder Wave support. Overall, Mamoswine's excellent Attack stat and fantastic coverage make it a hugely powerful attacker if given the right support.</p>
+
+[SET]
+name: Physical Attacker
+move 1: Earthquake
+move 2: Icicle Crash / Icicle Spear
+move 3: Ice Shard
+move 4: Protect
+item: Ice Gem / Life Orb / Focus Sash
+ability: Snow Cloak
+nature: Adamant / Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>This set is intended to be a standard physical attacker, hitting as hard as possible before dying. Mamoswine's brilliant dual STAB makes it practically unwallable and hits a multitude of common Pokemon for super effective damage. Earthquake and Icicle Crash have almost perfect coverage together, with Icicle Crash OHKOing almost everything that resists Earthquake. Ice Shard allows Mamoswine to pick off weakened opponents, and can even nab some OHKOs. Protect allows Mamoswine to avoid damage for a turn, and can be used to stall out opposing Trick Room and Tailwind.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Icicle Spear is only 8.3% less powerful on average than Icicle Crash, and breaks through Substitutes (which is especially useful against Prankster users such as Thundurus), Focus Sashes, and resist Berries, making it a viable alternative to Icicle Crash. Mamoswine can effectively use a multitude of different items as well. Ice Gem is preferred, nabbing an OHKO on 4 HP Thundurus with Ice Shard and giving Mamoswine a very powerful single-target attack which does a ton of damage to Abomasnow and other bulky Grass-types. However, Life Orb boosts all of Mamoswine's attacks, whereas Focus Sash allows Mamoswine to abuse its immunity to both hail and sandstorm to bypass its multitude of weaknesses and average defenses. The EV spread is flexible; because Mamoswine can work with such a large number of team archetypes, it can alter its Speed stat to suit whatever sort of team it's on, and rather than use 252 Speed EVs, Mamoswine can invest a bit in HP or its defenses to let it take a few more hits.</p>
+
+<p>Good partners for Mamoswine are those that allow it to get around its Speed problem, and can either boost its power or complement its STAB Earthquake while being able to take out the Pokemon that threaten Mamoswine. Fighting-type opponents can take out Mamoswine with their STAB attacks, so a Flying-type Pokemon makes an excellent partner. Zapdos, Rotom-W, and Thundurus in particular have excellent synergy with Mamoswine, thanks to their Earthquake immunities, access to either Thunder Wave or Tailwind to slow down threats to Mamoswine, and their ability to take out fast Flying-types that are immune to Mamoswine's Earthquake. Zapdos can also take out Ferrothorn with Heat Wave, a Pokemon which would otherwise easily OHKO Mamoswine with Power Whip. Aerodactyl deserves a special mention as a partner for Mamoswine, as it is immune to Earthquake, can set up Tailwind, and has Unnerve to nullify any Yache or Shuca Berries the opponent may have. If being used on a Trick Room team, good partners for Mamoswine include Musharna and Cresselia, thanks to their immunities to Earthquake, access to Trick Room, ability to boost Mamoswine's moves with Helping Hand, and access to STAB Psychic to take out Hitmontop and other Fighting-types that may threaten Mamoswine.</p>
+
+[Other Options]
+
+<p>Stone Edge may seem redundant with Mamoswine's Ice-type STAB, but it 2HKOes Gyarados even after an Intimidate, unlike Icicle Crash. Endeavor is gimmicky, but can work quite well with a Focus Sash thanks to Mamoswine's immunity to sandstorm and hail, as well as its access to Ice Shard. Thick Fat is usable, but Mamoswine can't use Icicle Crash or Ice Shard with it, which greatly reduces its effectiveness.</p>
+
+[Checks and Counters]
+
+<p>Most of the Pokemon that resist Earthquake are hit incredibly hard by Icicle Crash, which makes Mamoswine difficult to counter. However, a multitude of checks exist thanks to Mamoswine's low Speed and only reasonable defenses. Most Fighting-types such as Infernape and Hitmontop can take Mamoswine out before it attacks, but will have some trouble taking a powerful STAB Earthquake to the face.</p>

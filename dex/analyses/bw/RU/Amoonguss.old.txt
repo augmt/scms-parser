@@ -1,0 +1,55 @@
+[Overview]
+
+<p>Amoonguss is one of the best pivots in the RU tier, sporting impressive bulk and a handful of useful resistances as well as an excellent ability in Regenerator, which together allow it to switch in and out repeatedly without much support. Its movepool, while fairly shallow, is tailored to this role perfectly, and in particular contains the coveted Spore. Between these attributes, Amoonguss is capable of taking on a variety of Pokemon, including Sceptile, Feraligatr, and Galvantula, throughout the course of a battle without much fuss.</p>
+
+<p>However, even with all the positive attributes Amoonguss sports, it does get held down by several notable negatives. Amoonguss's low Speed and mediocre Special Attack make it extremely exploitable by a variety of offensive threats after Spore has put something to sleep. Even with Spore available, sleep is a status that is highly prepared for in RU, with nearly every team utilizing any of a Sap Sipper or Vital Spirit user, a Choice user carrying Sleep Talk, Lum Berry sweepers that can take out Amoonguss after a boost, Heal Bell support, or some combination of these to prevent Amoonguss from simply using Spore and incapacitating a Pokemon for the rest of the match. What's more, Amoonguss faces direct competition from its Grass-type cousin Tangrowth, which likewise has access to Regenerator and its own sleep move, while sporting better physical bulk, higher offensive stats, and coverage moves that can better deter common sleep absorbers from switching in for free. While Amoonguss can be a very effective multi-purpose pivot, it must be used with caution in order to avoid being exploited by a metagame well prepared for what it aims to accomplish.</p>
+
+[SET]
+name: Pivot
+move 1: Spore
+move 2: Giga Drain
+move 3: Clear Smog / Sludge Bomb
+move 4: Stun Spore / Synthesis / Hidden Power Fire
+item: Black Sludge
+ability: Regenerator
+nature: Calm
+evs: 252 HP / 88 Def / 52 SpA / 116 SpD
+
+[SET COMMENTS]
+
+<p>Due to Amoonguss's respectable overall bulk, good defensive typing, and access to Regenerator, it can take on a variety of offensive Pokemon, both physical and special. Spore is a huge draw for Amoonguss, allowing it to cripple any Pokemon unless the opponent carries a Vital Spirit or Sap Sipper user. Giga Drain provides Amoonguss with a moderately powerful STAB attack that also recovers HP, letting it comfortably take on Water-types such as Feraligatr and Lanturn. With Clear Smog, Amoonguss can neutralize stat boosts and hit Grass-types for reasonable damage, allowing it to effectively check an assortment of boosting Grass-, Fighting-, and Water-type Pokemon. On the other hand, Sludge Bomb, while no longer letting Amoonguss indefinitely combat certain boosting sweepers, provides a more powerful secondary STAB. This allows Amoonguss to not only better take on Pokemon such as Substitute + Bulk Up Gallade, but also better threaten incoming Fire-types such as Moltres and Entei, especially with Sludge Bomb's high poison rate. The final move is largely influenced by individual needs. Stun Spore gives Amoonguss a secondary status move to cripple faster Pokemon after Spore has been used, as well as Pokemon unfazed by Spore. Synthesis eases the strain on Regenerator for recovery, allowing Amoonguss to better take on powerful off-the-bat attackers such as Galvantula. Lastly, Hidden Power Fire is an option to hit incoming Steel-types fairly hard, most notably 2HKOing Escavalier and OHKOing Durant, two common switch-ins to Amoonguss.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>With the given EV spread, Amoonguss capably takes on physically and specially attacking Pokemon alike, ensuring it is never 2HKOed by Lilligant's Hidden Power Fire or OHKOed by Sceptile's Flying Gem-boosted Acrobatics among other things, and letting it effectively take on most Water- and Grass-types in the tier. The Special Attack investment allows Amoonguss to consistently 3HKO Qwilfish and 2HKO Ferroseed after Stealth Rock damage with the appropriate attack, limiting the amount of entry hazards they can set up. However, Amoonguss's EVs are incredibly flexible, so don't hesitate to alter the EVs to tailor them to your team's individual needs. Between Regenerator, Giga Drain, and perhaps even Synthesis, Amoonguss isn't exactly hard-pressed for recovery, so Rocky Helmet can be utilized to punish zealous physical attackers, wearing down Pokemon such as Feraligatr and Hitmonlee.</p>
+
+<p>Though Amoonguss is rather self-sufficient, certain Pokemon can help ease its duties. Water-types offer good synergy with Amoonguss, both defensively and offensively. Offensive Water-types such as Crawdaunt and Kabutops appreciate Amoonguss's ability to check Grass-types that prevent their sweep, and Slowking and Alomomola can both form an effective Regenerator core with it to take on a variety of threats. Rock-types such as Rhydon and Regirock help combat Fire- and Flying-type Pokemon for Amoonguss and provide Stealth Rock support to wear down Pokemon such as Entei.</p>
+
+[SET]
+name: Offensive
+move 1: Spore
+move 2: Giga Drain
+move 3: Sludge Bomb
+move 4: Hidden Power Fire / Hidden Power Ground
+item: Life Orb
+ability: Regenerator
+nature: Modest
+evs: 240 HP / 16 Def / 252 SpA
+
+[SET COMMENTS]
+
+<p>Though commonly regarded as a defensive pivot, Amoonguss has a respectable base 85 Special Attack and access to Regenerator, which allow it to serve as a surprisingly versatile tank. While initially appearing outclassed by the very similar Tangrowth, which has higher physical bulk, Special Attack, and Speed than Amoonguss, the latter has certain traits that allow it to remain useful. Spore is the first of these traits and a natural choice for any Amoonguss set, as being able to incapacitate a single Pokemon with perfect accuracy is a great improvement over Tangrowth's sometimes-shaky Sleep Powder. In addition, its Poison typing and superior special bulk make Amoonguss preferred over Tangrowth against dangerous Grass- and Electric-types, such as Sceptile, Lilligant, and Rotom, while also better handling Bug-types, such as Accelgor, in a pinch. Giga Drain provides Amoonguss with a moderately powerful STAB attack with the added benefit of recovering lost HP, mitigating damage from Life Orb recoil and attacks aimed at it. STAB Sludge Bomb provides respectable neutral coverage alongside Giga Drain, hitting Grass-, Dragon-, Flying-, Fire-, and Bug-types that might otherwise switch in fearlessly. Moreover, Sludge Bomb is capable of hitting common Sap Sipper users, such as Bouffalant and Sawsbuck, that try to switch into Spore or Giga Drain, severely hurting the former and OHKOing the latter. Hidden Power Fire rounds out Amoonguss's coverage, hitting Steel-types hard, preventing Pokemon such as Escavalier and Klinklang from switching in for free after a Pokemon has been put to sleep, and letting Amoonguss switch into Ferroseed and beat it. Hidden Power Ground, while leaving Amoonguss vulnerable to Escavalier and to an extent Durant and Ferroseed, allows Amoonguss to hit Poison-types, most notably Drapion, hard.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>With the given EV spread, Amoonguss seeks to maximize its offensive presence and ability to sponge hits while minimizing damage taken from Life Orb. While a Life Orb is preferred to supplement Amoonguss's moderate Special Attack and Regenerator generally keeps it healthy anyway, Black Sludge can be used to enhance Amoonguss's survivability. Stun Spore can ease prediction, crippling incoming Pokemon and reducing their Speed and even allowing Amoonguss to outpace them in the proceeding turn. Though access to Regenerator and generally solid overall bulk make Amoonguss a fairly self-sufficient Pokemon, certain teammates can be used to improve its overall performance. Hard-hitting Water-types such as Slowking and Kabutops are very capable of switching into Fire-type attacks aimed at Amoonguss which in turn switches into Electric- and Grass-types aimed at them, with Slowking forming a potent Regenerator core. Bulky Rock-types such as Rhydon are also very useful partners, being able to support Amoonguss with Stealth Rock, checking physically oriented Fire- and Flying-types such as Entei and Braviary, and luring in Water-, Grass-, and Fighting-type attacks for Amoonguss to switch into.</p>
+
+[Other Options]
+
+<p>Amoonguss makes for a respectable Rain Dance user, as its solid bulk and good synergy with Water-type Swift Swim users, as well as its ability to use Damp Rock to good effect thanks to Regenerator passively healing it, give it quite a few opportunities to set up rain. Body Slam can be utilized over Stun Spore in order to possibly paralyze Bouffalant and other Sap Sipper users, though its usefulness doesn't extend beyond this. Similarly, Toxic offers Amoonguss the ability to put defensive switch-ins such as Cryogonal on a timer, which can prove more useful than Stun Spore against more defensive teams. Lastly, Substitute allows Amoonguss to use Spore more conservatively while also preventing it from being scared out by strong attacks as quickly.</p>
+
+[Checks and Counters]
+
+<p>The task of taking on Amoonguss is largely determined by whether or not it has put something to sleep yet. Magmortar can switch in with near impunity thanks to Vital Spirit and threaten Amoonguss with powerful attacks. Sap Sipper Pokemon, most notably Bouffalant, can capitalize on Amoonguss's Grass-type attacks to net an Attack boost and, in Bouffalant's case, threaten it with a powerful Head Charge. Sleep Talk users such as Entei, Escavalier, and Emboar can absorb sleep well and proceed to threaten Amoonguss with their powerful STAB attacks. Lum Berry sweepers such as Swords Dance Gallade and Absol, while not immediately threatening Amoonguss, are capable of setting up on it as it attempts to inflict them with status in vain and KO it in the proceeding turn. However, these Pokemon should remain wary of offensive variants of Amoonguss, which can pressure most Lum Berry carriers with Life Orb-boosted Sludge Bombs. Roselia is capable of switching into Amoonguss with near impunity due to Natural Cure and set up Spikes on it.</p>
+
+<p>After Spore has put an opposing Pokemon to sleep, a lot more Pokemon can check or counter Amoonguss. Steel-types such as Aggron and Klinklang can switch in and potentially set up on Amoonguss thanks to an immunity to Clear Smog, though they must be wary of Stun Spore in doing so. Fire-types such as Moltres and Typhlosion have little trouble switching in on anything in Amoonguss's arsenal barring Stun Spore and Life Orb-boosted Sludge Bombs and can proceed to OHKO with their powerful STAB attacks. Moreover, Pokemon with good special bulk and Substitute such as Substitute + Bulk Up Gallade and Substitute + Calm Mind Uxie can safely set up all over Amoonguss, avoiding both Clear Smog and Stun Spore.</p>

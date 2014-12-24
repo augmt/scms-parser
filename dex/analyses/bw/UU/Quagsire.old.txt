@@ -1,0 +1,53 @@
+[Overview]
+
+<p>Quagsire returns for another round of competitive battling, this time with even more herpin' and derpin' thanks to Unaware. This ability allows the mudfish to ignore the opponent's stat boosts, both positive and negative. UU is a bit more tempered than OU, so Quagsire finds its niche in countering pretty much every offensive Pokemon in the tier, barring Grass-types or a critical hit. Water / Ground typing and decent defenses also let it stop most Electric-types, as they typically use  Hidden Power Ice as a coverage move and don't have access to a Grass-type move. Access to instant healing in Recover is like adding powdered coffee to the curry, giving Quagsire reliability and survivability. Unfortunately, as with many walls, it is crippled by Toxic and Toxic Spikes, and cannot do much to mitigate that. Furthermore, Quagsire will still fall to powerful moves or Grass-type attacks such as Hydro Pump from Sharpedo or Hidden Power Grass from Milotic and must therefore be played with relative caution. Nonetheless, this mudfish truly shines on teams troubled by setup sweepers.</p>
+
+[SET] 
+name: Curse
+move 1: Curse
+move 2: Recover
+move 3: Earthquake
+move 4: Waterfall / Stone Edge
+item: Leftovers
+ability: Unaware
+nature: Careful
+evs: 252 HP / 4 Def / 252 SpD
+
+[SET COMMENTS]
+
+<p>Quagsire makes an excellent user of Curse due to its ability, Unaware. This allows it to set up on many of the boosting sweepers in UU, such as Weavile, Spiritomb, and various Calm Mind users. Curse makes Quagsire even harder to take down by boosting its uninvested Defense, and increases its usable base 85 Attack to threatening levels. The Speed drops are inconsequential, since it is extremely slow anyway. Recover distinguishes it from other Curse users such as Snorlax, by allowing Quagsire to restore HP reliably. Earthquake is Quagsire's main STAB move, providing a reliable form of offense. It also hits Electric-types super effectively, which is great since most are walled handily by Quagsire. The last slot is a toss-up between Stone Edge and Waterfall. If you desire the excellent neutral coverage that EdgeQuake provides, Stone Edge is the better choice, as it hits Levitating Pokemon, such as Rotom-F, and Flying-types, such as Zapdos, that Earthquake would otherwise miss, providing the best overall coverage. However, Waterfall is still a valid choice. A reliable second STAB move, it hits the many Ground-types, such as Rhyperior and Golurk, for super effective damage.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Toxic Spikes are a huge issue for Quagsire, so partners such as Roserade are great to remove them. It can also lay down its own Toxic Spikes, which complements this Curse set's survivability, and Roserade 4x resists Quagsire's dreaded Grass-type weakness. Roserade even takes down opposing Quagsire, which is not particularly troubled by this set, and can threaten a burn with Scald or poison with Toxic. Since Quagsire is neutered by status, clerics such as Roserade and Shaymin are good teammates. They can also help sponge powerful special attacks from the likes of Mismagius and Nidoking, which can take down Quagsire. Opposing Grass-types are a huge issue as well, threatening Quagsire with their super effective attacks, so Fire-types such as Darmanitan, Chandelure, and Victini pair well with Quagsire to eliminate them and switch in on resisted attacks.</p>
+
+<p>The EV spread maximizes bulk, with full investment in HP and Special Defense to make Quagsire a great mixed wall after a few turns of setup. A more offensive EV spread of 252 HP / 252 Atk / 4 SpD is possible, but this is not recommended for a few reasons. First of all, Quagsire's Attack, even invested, is too low for the investment to be justified. Secondly, it severely detracts from Quagsire's special bulk, which is almost a necessity for Quagsire to stick around.</p>
+
+[SET]
+name: Physically Defensive
+move 1: Recover
+move 2: Scald
+move 3: Toxic
+move 4: Earthquake
+item: Leftovers
+ability: Unaware
+nature: Relaxed
+evs: 252 HP / 252 Def / 4 SpD
+
+[SET COMMENTS]
+
+<p>Quagsire is a great answer to most non-Choice Band physical attackers thanks to Unaware. Recover helps it in this role, allowing it to heal off the damage from attacks that fail to OHKO or 2HKO, such as Weavile's Ice Punch. Scald spreads burns, crippling most physical attackers. However, it should not be used in an offensive manner, as coming off a base 65 Special Attack means it will be very weak. While Toxic might seem counterproductive with Scald, it certainly earns its keep in the third slot. It is useful when predicting defensive switch-ins that might want to use Quagsire as setup fodder. Earthquake is the best option for the last slot; it is a reliable STAB move and hits Electric-type Pokemon such as Electivire that generally  cannot do anything to Quagsire.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Since Quagsire is using both special and physical attacks, a Relaxed nature with the given EVs is best to maximize physical bulk; the fact that it lowers Speed hardly matters, as Quagsire is very slow to begin with. Alternatively, you can use a specially defensive set to counter most special attackers (without a Grass-type move, of course),  especially Electric-types such as Jolteon, Zapdos, and Raikou. This choice wholly depends on your team. Stockpile over Earthquake is viable, but this leaves Quagsire nearly hopeless against Taunt, and strong moves will still KO. Yawn can be used as a phazing move over Toxic, but is a lesser option because of Sleep Clause. Swagger is a decent choice over Earthquake if Quagsire uses Toxic, as it will be able to stall out the opponent with confusion and steady damage from Toxic while ignoring the Attack boosts with Unaware. However, it is rather unreliable and easily PP stalled.</p>
+
+<p>Entry hazards on the opponent's side of the field are rather useful for Quagsire, as Unaware will force the opponent to switch when Quagsire cannot be taken down. Roserade is once again a great teammate, setting up entry hazards and tanking Grass-type moves. Zapdos provides nice support to Quagsire by both taking Grass-type moves and frying opponents with Heat Wave. Your own Water-types will like the opponent's Electric-types removed; Swords Dance Samurott and Feraligatr will put pressure on the opponent when fast, threatening Electric-types are gone.</p>
+
+[Other Options]
+
+<p>Quagsire is not at all short of other moves it can use. Counter, while rather gimmicky, allows Quagsire to KO opponents that cannot OHKO it. However, this approach means the mudfish will be taking hits, and with its low Speed, it will not have time to Recover the damage off in preparation for the next foe. Safeguard is an option to protect teammates from status, but is mostly a waste of a moveslot since Quagsire usually has better things to do. A RestTalk set is certainly viable on Quagsire, but Pokemon with better defenses such as Suicune are better at this role. Encore might provide teammates a free turn of setup, but it is sadly ineffective on Quagsire due to its low Speed, and Shadow Tag Wynaut is a better Encore user anyway. Water Absorb is another ability Quagsire can explore, but the ability to shut down setup sweepers is perhaps Quagsire's greatest niche in the UU metagame. Acid Spray also becomes useful with Water Absorb; with Unaware, the Special Defense drops would be ignored. However, Quagsire's low base 65 Special Attack makes this strategy gimmicky and largely ineffective.</p>
+
+[Checks and Counters]
+
+<p>Grass-types are the number one counters to Quagsire, resisting its dual STAB and retaliating with 4x super effective attacks. Roserade is an excellent example, as it can set up Spikes or Toxic Spikes as Quagsire flees. RestTalk users such as Milotic check Quagsire pretty well too, as they aren't crippled by Toxic and can phaze Quagsire out. Various offensive threats will beat Quagsire as well: strong STAB moves such as Close Combat from Heracross, Outrage from Dragon-types, or Hydro Pump from Sharpedo will still be able to KO. Thus, players must be wary of indiscriminately switching Quagsire into any attack; this mudfish is not invincible.</p>

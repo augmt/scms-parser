@@ -1,0 +1,53 @@
+[Overview]
+
+<p>Thanks to its high Special Attack stat, Omastar has always been a decent Rain Dance sweeper; however, it is let down by its poor Speed and many weaknesses courtesy of its secondary Rock typing. For these reasons, Omastar was more often used as a hazard setter; it is one of the few Pokemon with access to all three of Stealth Rock, Spikes, and Toxic Spikes. BW, though, has blessed Omastar with one of the best setup moves in the entire game--Shell Smash. A move that sharply raises Attack, Special Attack, and Speed, Shell Smash was distributed to only a few select users, among whom Omastar is one of the best, because of its excellent Special Attack. Shell Smash also patches up any Speed issues that Omastar previously had, making this shellfish one of the most threatening sweepers around.</p>
+
+[SET]
+name: Shell Smash
+move 1: Shell Smash
+move 2: Hydro Pump / Surf
+move 3: Ice Beam
+move 4: Hidden Power Grass
+item: Life Orb / White Herb
+ability: Shell Armor
+nature: Modest / Timid
+evs: 4 Def / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>With a single turn of setup, Shell Smash Omastar can gain essentially a Nasty Plot and an Agility boost at the same time, and instantly turn into a deadly sweeper. Hydro Pump is the preferred STAB move, as it puts absolutely massive dents in anything that doesn't resist it. Surf is a reliable alternative with less power but perfect accuracy and more PP. Ice Beam is a great coverage move and hits Grass-types hard, especially after a boost. The final move should be Hidden Power Grass, which hits other Water-types such as Suicune and Milotic, as well as Water Absorb Quagsire, who is immune to Water-type attacks.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Life Orb is crucial to gain certain KOs, but Leftovers can be used for some passive recovery. White Herb is an option to eliminate the negative defensive drops (TechniTop's Mach Punch never OHKOes a full health Omastar without the Defense drop), but, again, Omastar loses a significant amount of power. The EV spread is standard: maximize Special Attack and Speed and use either a Timid or a Modest nature. However, an alternative spread with some HP EVs can be used to give Omastar a bit more bulk, as its base 115 Defense is quite good. A Modest nature is the preferred option to provide the most power, but a Timid nature allows +2 Omastar to outspeed neutral base 100 Speed Choice Scarf users, such as Flygon and Victini. Hidden Power Electric hits Empoleon harder than Hidden Power Grass does; however, specially defensive Empoleon always survives +2 Hidden Power Electric and can KO back with Hidden Power Grass. Therefore, teammates that can get rid of Empoleon, such as Heracross and Gallade, are appreciated.</p>
+
+[SET]
+name: Support
+move 1: Stealth Rock / Toxic Spikes
+move 2: Spikes / Stealth Rock
+move 3: Scald
+move 4: Ice Beam
+item: Leftovers
+ability: Shell Armor
+nature: Bold
+evs: 248 HP / 252 Def / 8 SpD
+
+[SET COMMENTS]
+
+<p>Omastar has an amazing Defense stat, and despite its several crippling weaknesses, it can check some of the most dangerous threats in the game, such as Victini and Arcanine. In addition, Omastar is the only Pokemon in UU with access to all three entry hazards, though only two are recommended at any given time. Scald is a STAB move with a nice 30% chance to burn, crippling all physical attackers except for those with the Guts ability. Ice Beam is the primary move in the last moveslot to discourage Grass-types from wantonly switching in.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given EV spread and nature provides a Leftovers number and maximizes Omastar's Defense stat. As Choice Scarf Victini's Fusion Bolt fails to 2HKO Omastar, Omastar can either set up more entry hazards or do major damage with Scald. Surf is an option over Scald as a more powerful STAB move, but Omastar sorely misses Scald's ability to burn and cripple physical attackers. Shell Armor is the preferred ability to prevent annoying critical hits, as Swift Swim has little merit on a support set.</p>
+
+<p>Omastar's low Speed leaves it very susceptible to Taunt, so it is better suited to laying hazards mid-game rather than early-game. Therefore, a Mental Herb is a good option to deflect Taunt and allow Omastar to set up more easily. Alternatively, a fast Taunt user of your own can also aid Omastar in setting up entry hazards. Mew has access to Taunt and Will-O-Wisp to easily shut down the opposing team's supporting Pokemon, paving the way for Omastar to set up its own hazards.</p>
+
+<p>Hippopotas is a great teammate as the sandstorm it summons provides Omastar with a Special Defense boost. However, note that Hippopotas aggravates the team's weakness to Grass-type attacks. Despite Omastar's great Defense stat, it will still fall easily to special Grass- and Electric-type attacks; teammates that can sponge these attacks, such as Roserade and Shaymin, are much appreciated. As a bonus, Roserade also resists Fighting-type moves, another one of Omastar's weaknesses.</p>
+
+[Other Options]
+
+<p>Earth Power is another option for coverage, but is somewhat redundant with Omastar's other moves. Ancient Power is Omastar's only viable secondary special STAB, but is weak, has low PP, and also provides redundant coverage. Haze is an option on the support set, but such a move is better left to Pokemon such as Milotic, which has access to instant recovery. Chople Berry prevents TechniTop's Mach Punch from OHKOing Shell Smash Omastar after a Defense drop, but it is usually not worth the drop in power. Knock Off is a great option on the support set to ruin Pokemon highly dependent on their items. Finally, Omastar receives Weak Armor from the Dream World, but it is highly situational, and Shell Armor or Swift Swim is much better in almost every single instance.</p>
+
+[Checks and Counters]
+
+<p>Due to Omastar's fantastic offensive capabilities, Empoleon is the only opponent that can actually wall it. While even Empoleon must watch out for the rare Hidden Power Electric, specially defensive variants can survive a +2 Hidden Power Electric and KO back with Grass Knot. However, Empoleon cannot directly switch into +2 Hidden Power Electric. Hidden Power Grass Milotic can survive a boosted, super effective Hidden Power and KO back, but it is a risky check at best: as it might be 2HKOed after Stealth Rock, it cannot directly switch into a super effective Hidden Power. Faster Choice Scarf users and priority users, such as Raikou and Hitmontop, can easily take Omastar out, as they either outspeed Omastar even after a boost, or completely bypass its Speed with priority.</p>

@@ -1,0 +1,86 @@
+[Overview]
+
+<p>Liepard was once considered a useless Pokemon in RU; it had considerably poor stats except for a good base 106 Speed, and its non-existent bulk did it no favors. However, Liepard gained Prankster from the Dream World, which better utilizes its rather good support movepool. With Prankster, Liepard has the ability to set up guaranteed weather, and it also gains priority on moves such as Thunder Wave and Encore. Additionally, Liepard's combination of support moves isn't entirely the same as that of other Prankster users. It crafts its niche as a Pokemon that can utilize Swagger semi-reliably and can work to some extent even in the upper tiers. In contrast to other Prankster Pokemon, Liepard can actually go on the offensive instead of completely relying on its ability as a support Pokemon. It has access to Nasty Plot to boost its base 88 Special Attack with, which is a lot more useful than an offensive Tail Glow Volbeat with base 47 Special Attack. Unlike Volbeat, however, it cannot Baton Pass its boosts to teammates. Much like most other Prankster users, Liepard is rather frail and can sometimes be hard to use effectively. Still, Liepard is a usable Pokemon, and although it might not be a top-tier threat, it is nevertheless a threat to be wary of in its own right.</p>
+
+[SET]
+name: Swagger
+move 1: Substitute
+move 2: Swagger
+move 3: Foul Play
+move 4: Encore / Thunder Wave
+item: Leftovers
+ability: Prankster
+nature: Jolly
+evs: 252 HP / 68 SpD / 184 Spe
+
+[SET COMMENTS]
+
+<p>Swagger Liepard has gained quite the reputation among the competitive community, earning the title of one of the most annoying Pokemon in the game, and looking at the set, it's not hard to see why. Between Swagger's confusion, Prankster, Substitute, and the unique effect of Foul Play, Swagger Liepard can turn an entire game around with just a bit of luck. Thanks to Prankster, Liepard's Swagger can induce confusion before the opponent can even move, giving them a 50% chance of damaging themselves instead of Liepard. It also boosts the opponent's Attack stat significantly, which not only makes the opponent do that much more to themselves if they are hit in confusion, but also boosts the damage output of Foul Play, which uses the opponent's current Attack stat to calculate damage. Substitute gives Liepard a way to block status conditions that the opponent might use to try and cripple Liepard, while giving it a nifty cushion against opposing attacking moves as well, functioning as a fail-safe in case the confused Pokemon manages to hit Liepard. Encore allows Liepard to cripple Pokemon trying to set up entry hazards or boosts on Liepard, locking them into the same move for a set amount of turns; this is especially useful in giving Liepard opportunities to set up another Substitute. It also creates setup opportunities for Liepard's teammates. Alternatively, Thunder Wave can be used to form the parafusion combination with Swagger, making it even harder for the opponent to hit Liepard and crippling faster and/or setup opponents such as Accelgor, Sceptile, and Lilligant. Lastly, despite the luck-based nature of Swagger Liepard, the set actually has quite a bit of utility outside of haxing opponents to oblivion. A fast Foul Play does a boatload to Pokemon with high Attack stats such as Druddigon, Medicham, Choice Entei locked into a move besides Extreme Speed, and Gallade.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given EV spread allows Liepard to outspeed everything up to maximum Speed Sigilyph and use Foul Play before the opponent can move, while the rest of the EVs are placed into Liepard's HP and Special Defense to help it take weak hits. Because Liepard is manually boosting the opponent's Attack stat with Swagger, it'll often end up dying to physical attacks, so investing in Special Defense is more worthwhile. Liepard's only offensive move, Foul Play, relies on the opponent's Attack stat to do damage, so the lack of Attack EVs doesn't hurt its damage output. Alternatively, Liepard can run max Speed to outpace everything up to maximum Speed Scyther, but Scyther isn't incredibly common in RU so the extra Speed usually isn't needed.</p>
+
+<p>Liepard forces a lot of switches between Swagger, Thunder Wave, Encore, and Foul Play, so entry hazards work exceptionally well with Liepard, punishing the opponent for their repeated switching. In particular, Qwilfish makes a good teammate for Liepard, as it is able to switch in on and set up Spikes and Toxic Spikes on many of the Pokemon the Liepard struggles with, most notably Entei, who can use Extreme Speed to hit Liepard before it can pull off a Swagger. Qwilfish also absorbs Toxic Spikes for Liepard, preventing opponents from putting it on a timer, and it can use Intimidate to soften the hit from a boosted threat in case they get past Liepard's confusion.</p>
+
+<p>Steelix is often an issue for Swagger Liepard, being completely immune to Thunder Wave and having enough physical bulk to take Liepard's Foul Play with ease even at +6 Attack; therefore, Pokemon that can switch in on and beat Steelix are excellent teammates for Liepard. Moltres does a great job of taking out Steelix, being completely immune to Earthquake, resisting Gyro Ball, and KOing Steelix in return with a powerful Flamethrower. Bulky Water-types such as Slowking and Alomomola make great checks to Steelix as well, taking its attacks with ease and retaliating with their STAB attacks. Alomomola even has the bonus of being able to pass its gigantic Wishes to Liepard, ensuring it can survive for as long as possible. Lastly, Liepard can't stand the presence of Cinccino, who only fears Thunder Wave from Liepard and can break its Substitutes with Tail Slap. Bulky Steel-types, such as Steelix, Ferroseed, Klinklang, and Escavalier, do a great job of handling Cinccino; Ferroseed even heavily punishes it for using Tail Slap with Iron Barbs. Ghost-types such as Spiritomb, Misdreavus, and Rotom are good checks to Cinccino as well, being completely immune to Tail Slap and burning Cinccino in return.</p>
+
+[SET]
+name: Weather Support
+move 1: Rain Dance / Sunny Day
+move 2: Encore
+move 3: Taunt / Thunder Wave
+move 4: U-turn
+item: Damp Rock / Heat Rock
+ability: Prankster
+nature: Careful
+evs: 252 HP / 4 Def / 252 SpD
+
+[SET COMMENTS]
+
+<p>Liepard is one of the few Pokemon with access to Prankster. Furthermore, it can also use Rain Dance and Sunny Day along with Prankster, making it an ideal priority weather inducer. Unlike Volbeat and Illumise, Liepard is not weak to Stealth Rock and hence has better survivability, even with the presence of Stealth Rock; they also have comparable bulk, or lack thereof. Encore helps Liepard gain a free turn so that it can set up the appropriate weather or lock Pokemon such as Swords Dance Gallade into their setup moves. Liepard also has access to Taunt, which could be useful against opposing weather teams or to prevent the opponent from setting up their own weather. It also stops the opponent from using status and support moves or from setting up. U-turn is obligatory for Liepard to switch out to its teammates. Against Trick Room teams, Taunt and Encore are both valuable tools; the former prevents Trick Room from being set up, while the latter forces the Trick Room user to switch or undo Trick Room on the next turn.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given EVs are to maximize special bulk so as to better allow Liepard to come in on weak special attacks such as Lanturn's Scald. However, a physically defensive EV spread along with Impish can also be opted for, as it reduces the damage taken by Volbeat's U-turn, which can really limit Liepard's ability to win the weather war against it.</p>
+
+<p>Weather sweepers are obvious teammates for Liepard. Omastar, Ludicolo, and Kabutops fit the bill for rain sweepers while Victreebel, Exeggutor, and Sawsbuck are options for sun teams. Encore not only lets Liepard set up, but it also opens up opportunities for a free switch to the weather sweepers. Other weather inducers can also work well alongside Liepard, given its poor bulk and inability to stay alive for long. Prankster weather inducers also work well as teammates if you want a fast-paced team, but bulkier weather supporters such as Rotom-C can work too when faced against an offensive team so that Liepard doesn't become single-use only.</p>
+
+[SET]
+name: Nasty Plot
+move 1: Nasty Plot
+move 2: Encore / Thunder Wave
+move 3: Dark Pulse
+move 4: Hidden Power Fire
+item: Life Orb
+ability: Prankster
+nature: Timid
+evs: 4 Def / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>Liepard has an average base 88 Special Attack but a pretty useful base 106 Speed. While Liepard's offenses might not be considered high enough for a special attacker, it has access to Nasty Plot to bolster its Special Attack to something much more usable and even threatening. Thanks to Prankster, Liepard can find some ease in setting up despite its low defenses. Encore can trap opponents in their non-attacking and other set-up moves. For example, Calm Mind Sigilyph would simply become setup fodder for Liepard after being Encored. However, Liepard cannot risk trying to Encore sweepers with priority moves such as Aqua Jet Feraligatr and Kabutops. Liepard can also take advantage of Pokemon such as Qwilfish who might try to set up multiple layers of entry hazards. However, Thunder Wave can be used as an alternative support move for the team to ease setup or paralyze switch-ins. After either Encore or Thunder Wave is used, the next turn would be an excellent opportunity to set up Nasty Plot and take advantage of an almost-guaranteed switch. Dark Pulse is a reliable STAB move while Hidden Power Fire is used as a coverage move against Steel-types and common specially defensive behemoths such as Cryogonal.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs used are straightforward to maximize Speed and Special Attack. Life Orb gives an all-important boost to Liepard's attacks, and it isn't really affected by a quickly depleting HP, as it is unlikely to survive any considerably strong attack. Liepard's base 88 Special Attack might not look like much, but here are some damage calculations to show how strong it actually is after a Nasty Plot:</p>
+
+<ul class="damage_calculation">
+<li>Dark Pulse vs. 4/0 Kabutops: 132.82 - 156.87%</li>
+<li>Dark Pulse vs. 0/0 Moltres: 92.83 - 109.34%</li>
+<li>Hidden Power Fire vs. 248/92+ Cryogonal: 58.3 - 69.09%</li>
+<li>Dark Pulse vs. 252/252+ Clefable: 50.76 - 60.4%</li>
+<li>Dark Pulse vs. 40/216+ Lanturn: 57.6 - 68.07%</li>
+</ul>
+
+<p>Grass Knot is also an option over Hidden Power Fire to hit Water-types such as Quagsire, Crawdaunt, and Poliwrath super effectively. If Grass Knot is used, Steelix can work as a teammate by walling Pokemon such as Escavalier and Klinklang. However, if Hidden Power Fire is used, Grass- or Electric-type teammates such as Rotom-C  and Sceptile can be used to deal with bulky Water-types such as Lanturn and more importantly, Poliwrath. Hidden Power Fighting is also another option against Aggron, but Hidden Power Fire is usually recommended as it also allows Liepard to hit Bug-types super effectively. As Liepard is rather frail, dual screens support from Pokemon such as Uxie is recommended. Furthermore, Uxie can also use U-turn to bring Liepard in safely. Liepard will also face problems against Fighting-types, so Ghost- and Psychic-types such as Spiritomb and Uxie are great teammates for it. Qwilfish is also a plausible teammate, as it can check Fighting-types with Intimidate and its Poison typing while also setting up Spikes, which helps to guarantee an OHKO on Kabutops and 2HKOs on Lanturn and Clefable with layers. Furthermore, Qwilfish helps to deal with priority moves such as Extreme Speed from Entei. Choice Scarf users can put a stop to Liepard as well, so their removal is greatly appreciated.</p>
+
+[Other Options]
+
+<p>Liepard has a couple of other useful support moves to use. Toxic can be used to wear down foes, and Taunt can be used in tandem with it to prevent healing. However, Liepard is usually used on an offensive team and would rather use Thunder Wave to slow down the opponent and gain momentum instead of trying to stall with Toxic damage. Liepard also tends to force switches, as it threatens to paralyze foes or set up on them; Yawn can be used to capitalize on those switches and gain entry hazard damage or put a foe to sleep. It can also be used as a last-resort attempt to halt a sweep if a phazing move is not available. Torment is a usable move along with Substitute, Toxic Spikes support, and sometimes Protect; however, it's mostly a situational move.</p>
+
+[Checks and Counters]
+
+<p>With very poor defenses and abysmal HP, any reasonably strong attack will do significant damage to Liepard. Keeping a strong offensive presence against Liepard will also make it hard for it to switch in safely. When playing against a Swagger Liepard, applying offensive pressure reduces the ability for Liepard to set up a Substitute, as it cannot sponge even a decently strong attack. However, for more defensive teams, Pokemon such as Steelix and Alomomola are good counters against it. Steelix can wall Foul Play, thanks to its superb Defense and comparatively lower Attack stat. Furthermore, it is immune to Thunder Wave. Similarly, Alomomola's Defense is higher than its Attack. It also has Regenerator to heal itself and can switch around repeatedly until it can force Liepard out. Choice Band Entei makes a good check to Liepard, as Extreme Speed has +2 priority and can take out Liepard once its Substitute is down. Multi-hit move users such as Cinccino and Klinklang can hit Liepard through its Substitute. However, they will have to be wary of Swagger and Thunder Wave. Ferroseed walls Liepard quite comfortably and can set up entry hazards if the latter doesn't have Taunt. Rhydon can also use Rock Blast to get past Liepard, is immune to Thunder Wave, and can sponge confusion to some extent thanks to its Eviolite-boosted Defense.</p>
+
+<p>Against the weather support set, Volbeat and Illumise can give Liepard problems, as U-turn from both of them will 2HKO Liepard; they make it hard for Liepard to be useful at all against them if they are used on another weather team. As Liepard is faster than Volbeat, the latter can Encore Liepard into its weather-inducing move or just use its own weather move after Liepard. As for the Nasty Plot set, Quagsire, Poliwrath, and Crawdaunt are generally good checks to it as long as Liepard doesn't carry Grass Knot. If it doesn't use Hidden Power Fire, Steel-types such as Escavalier and Klinklang are good answers to Liepard. Priority users, such as Entei, are also good checks. Faster Pokemon such as Durant and Choice Scarf users are also great Liepard checks, as offensive Liepard relies on its high Speed and cannot take most hits comfortably. However, one has to be aware of that Liepard can be sacrificed in order to paralyze those faster checks with Thunder Wave.</p>

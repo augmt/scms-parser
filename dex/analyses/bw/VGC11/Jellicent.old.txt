@@ -1,0 +1,78 @@
+[Overview]
+
+<p>Jellicent is unique in that it's the only Pokemon in VGC that is able to utilize Water Spout effectively. It can set up Trick Room or sweep in Tailwind as well. However, it has weaknesses to common Dark- and Ghost-type attacks, so Pokemon such as Hydreigon and Chandelure threaten to deal serious damage. With the correct support, however, Jellicent can sweep in whatever capacity that is needed.</p>
+
+[SET] 
+name: Trick Room Support
+move 1: Water Spout / Scald
+move 2: Trick Room
+move 3: Shadow Ball
+move 4: Ice Beam / Protect
+item: Water Gem / Sitrus Berry
+ability: Water Absorb
+nature: Quiet
+evs: 252 HP / 252 SpA / 4 SpD
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>With its impressive bulk, Jellicent is great at setting up Trick Room either as a lead or after Trick Room has run out. Water Spout deals a lot of damage off the bat, especially with a Water Gem. Scald can be used, however, if the weakening of Water Spout's Base Power after taking a hit is an issue. Trick Room is there to reset Trick Room if it has gone down, or not been set up at all. Shadow Ball is for STAB and hitting opposing Ghost-types such as Chandelure, who otherwise threaten it, for super effective damage. Ice Beam hits Dragon-types and the genies, though Protect can be used for stalling out Tailwind or letting Jellicent's partner take out a dangerous Pokemon.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Water Gem gives Water Spout a one-turn boost, but Sitrus Berry lets Jellicent stay alive longer and maintain Water Spout's high Base Power. The EVs maximize HP and Special Attack for bulk and increased attacking power. 0 Speed IVs lets Jellicent be as slow as possible in Trick Room. Still, Jellicent is a tad too fast for Trick Room, so Pokemon such as Musharna will move before Jellicent in Trick Room, possibly weakening its Water Spout with a super effective Shadow Ball.</p>
+
+[SET]
+name: Special Attacker
+move 1: Water Spout
+move 2: Shadow Ball
+move 3: Ice Beam
+move 4: Protect
+item: Water Gem / Sitrus Berry
+nature: Modest / Timid
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>STAB Water Spout paired with a Water Gem hits nearly everything in VGC very hard. Shadow Ball is Jellicent's secondary STAB attack, hitting common Trick Room users for super effective damage. Ice Beam hits the genies and, more importantly, Hydregion, who otherwise resists Jellicent's attacks, for super effective damage. Protect lets Jellicent stall out Trick Room, or lets its partner KO a threat.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Water Gem powers up Water Spout, but Sitrus Berry helps Jellicent stay alive longer. The choice of nature is one between Speed and power. With Tailwind support, Jellicent is already outspeeding most Pokemon, so a Modest nature is preferred.</p>
+
+<p>Tailwind support is needed with this set, so Tornadus or Whimsicott make great partners. Jellicent also benefits from Rain Dance, so Thundurus or Tornadus are good partners too. Fake Out support is greatly beneficial to Jellicent, allowing it to use STAB Water Spouts with full Base Power. Hydreigon works well when paired with Jellicent, as it has Surf to heal Jellicent (assuming that Jellicent is using Water Absorb), keeping Jellicent's Water Spouts at maximum Base Power.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Water Spout
+move 2: Shadow Ball
+move 3: Ice Beam / Blizzard
+move 4: Scald / Energy Ball
+item: Choice Scarf
+nature: Timid / Modest
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>Jellicent is decent at utilizing Choice Scarf, outspeeding both Tornadus and Thundurus. Thus, Jellicent will often outspeed the opponent and unleash a full-power Water Spout. Shadow Ball is STAB and hits Trick Room users such as Reuniclus and opposing Jellicent. Ice Beam hits Dragon-types and genies, and while Blizzard hits both, it has shaky accuracy, and is thus not recommended. Scald is used in case Jellicent takes damage so that it won't be stuck with a weakened Water Spout as its only STAB attack. On the other hand, Energy Ball hits opposing Water-types, such as Seismitoad, for super effective damage.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Timid is the recommended nature, because with Modest Jellicent misses out on outspeeding Timid Thundurus. The EVs aim to give Jellicent as much power and Speed as possible.</p>
+
+<p>Tailwind support benefits this set, letting Jellicent serve as a counter to the frail threats. For this reason, Tornadus or Whimsicott helps Jellicent greatly. Rain Dance is a boon to Jellicent, powering up its Water Spout, and so, Tornadus and Thundurus make excellent partners for it. Damage calculations against Pokemon that commonly set up Trick Room are given below:
+
+<ul class="damage_calculation">
+<li>Shadow Ball vs 252/0 Reuniclus: 53.4% - 64.5%</li>
+<li>Shadow Ball vs 252/0 Jellicent: 49.2% - 57.9%</li>
+</ul></p>
+
+[Other Options]
+
+<p>Hydro Pump could be used in place of Water Spout, but its shaky accuracy makes Water Spout, and Scald as well, better alternatives. Wacan Berry is an option on the Trick Room set, allowing Jellicent to take Thundurus's Electric Gem-boosted Thunderbolt and set up Trick Room. Taunt could be used on the Tailwind set to stop Trick Room from being set up. However, a faster Pokemon usually does this job much better. Will-O-Wisp keeps Bisharp from OHKOing Jellicent with STAB Sucker Punch. A Mental Herb could be used to block Taunt from common Prankster Pokemon such as Whimsicott, allowing Jellicent to set up Trick Room, but Jellicent is often better when setting up Trick Room late-game, when Pokemon with Prankster have often been knocked out.</p>
+
+<p>The choice of ability depends on the rest of your team. Water Absorb is best if you are utilizing Hydreigon for the "SazaJelly" combo, or any other Pokemon with Surf. However, Cursed Body is usually better to disable super effective moves that threaten Jellicent and shut down that Pokemon the rest of the match.</p>
+
+[Checks and Counters]
+
+<p>Bisharp can stop Jellicent with STAB Sucker Punch, forcing Jellicent to Protect or switch out to avoid being KOed. Thundurus outspeeds and 2HKOes Jellicent unless Tailwind or Trick Room (on each set, respectively) is in effect, in which case Jellicent can 2HKO Thundurus with Ice Beam. Scrafty can deal significant damage with STAB Crunch and weaken Jellicent's Water Spout, which is Jellicent's only offense against it. Hydreigon resists both of Jellicent's STAB attacks, and threatens Jellicent with STAB Dark Pulse.</p>

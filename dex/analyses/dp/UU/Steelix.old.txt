@@ -1,0 +1,110 @@
+[Overview]
+
+<p>Steelix has fallen a long way from the titanic status it once had back in GSC, but that doesn't make it a bad Pokemon by any means. Its amazing physical defense and 11 resistances, including immunities to Poison and Electric, make Steelix a reliable user of Stealth Rock in UU. Its rival, Registeel, is more popular thanks to a wider support movepool and much higher Special Defense, but Steelix makes up for what it lacks with its unique typing, which is great offensively and good defensively, its access to Roar, and its Attack, which is just enough to pose a threat to its frailer would-be counters. It is also one of the handful of Pokemon who are immune to both Toxic and Thunder Wave. On the other hand, Steelix's shortcomings in its low Special Defense and Speed, defenselessness against Taunt, and common weaknesses in Water-, Fighting-, Fire-, and Ground-type attacks put Steelix at the bottom of the UU support ladder. Don't let these drawbacks fool you though, Steelix is a solid choice for any team looking for a Steel-type defensive pivot.</p>
+
+[SET]
+name: Standard Wall
+move 1: Stealth Rock
+move 2: Earthquake
+move 3: Gyro Ball / Stone Edge
+move 4: Roar / Toxic / Explosion
+item: Leftovers
+nature: Sassy / Relaxed
+evs: 252 HP / 4 Atk / 252 SpD
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>Steelix's basic walling set returns for another round in the UU tier. Its great resistances cause many switches, which it can exploit by laying down Stealth Rock while the opposing Pokemon flees. Due to an uninvested Attack stat, the residual damage will probably do more harm than any direct attacks that Steelix can dish out, so you'll want Stealth Rock set up as soon as possible.</p>
+
+<p>STAB Earthquake deals respectable damage, and no Steelix should walk out the door without it. The third slot depends on whether you want coverage with Stone Edge, or STAB and accuracy in Gyro Ball. Both hit Flying-types and frail Ghosts; Stone Edge does better against Moltres, while Gyro Ball does better against Mismagius. A Sassy or Relaxed nature with 0 Speed IVs should be used with Gyro Ball in order to increase its Base Power. The fourth slot provides additional support. Roar works well after you've eliminated the opponent's Taunt user, as it scouts the opponent's team and racks up Stealth Rock damage. Toxic can wear down Steelix's usual counters gradually, making it harder for them to stall, but Explosion can leave a lasting dent on them or even OHKO them outright. Unfortunately, Steelix will then no longer be able to supply its valuable resistances to the team.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs are designed to give Steelix as much Special Defense as possible. The reason for this is that Steelix's Defense is already so monstrous even without any investment, and most opponents will be preying on its weaker Special Defense stat anyway. If you feel that Steelix's physical walling capabilities are diminished too greatly by this, then an alternative EV spread of 252 HP / 4 Atk / 252 Def can be used. Be warned, however, as now almost any special attacker will have no problem dealing with Steelix. Steelix can run Payback in the third slot to nail Rotom for super effective damage, as it resists Gyro Ball and is immune to Earthquake. It is also useful for hitting other Levitators, such as Mismagius, Uxie, and Mesprit, harder than Steelix's other moves.</p>
+
+<p>Steelix's resistances create a solid defensive pivot, especially for teams that rely on a powerful special attacker to clean up. With Stealth Rock weakening the opponent's team and priority sweepers kept at bay, Pokemon such as Ludicolo and Ninetales can breathe easier and sweep more reliably. Slowking makes an excellent partner for Steelix in many aspects. While Slowking provides the same Water-, Fire-, and Fighting-type resistances that Slowbro does, Slowking is better suited as a partner since its higher Special Defense complements Steelix's lower Defense stat much better, making it a great check for many threats who like to switch into Steelix - from Moltres and Milotic to Hitmontop and Hariyama - and can support Steelix with paralysis to make up for its low Speed. It's worth noting that running Thunder Wave on Slowking when Steelix is running Gyro Ball is a conflicting strategy; it is better then to run a neutral Speed nature on Steelix and use Iron Head to make the most of its flinch chance while the opposing Pokemon is paralyzed.</p>
+
+[SET]
+name: BaitLix
+move 1: Earthquake
+move 2: Explosion
+move 3: Stealth Rock
+move 4: Stone Edge / Iron Head / Roar
+item: Passho Berry / Occa Berry
+nature: Adamant
+evs: 100 HP / 164 Atk / 244 SpD
+
+[SET COMMENTS]
+
+<p>With Fire- and Water-types rising in dominance, Steelix's role as a Normal-type resister is constantly put into question. This set runs type-resist Berries that help mitigate its inherent weaknesses by taking advantage of the two assets that Registeel doesn't have: a good Attack stat, and STAB Earthquake.</p>
+
+<p>The purpose of this set is to lure in some of Steelix's usual counters, bulky Waters such as Milotic and Slowbro or Fire-types like Houndoom, and then use Explosion or Earthquake to clear the path for a sweeper, such as Dragon Dance Feraligatr or Swords Dance Venusaur, who are normally troubled by them. Stealth Rock should be used early-game when your opponent is still playing conservatively with weak attacks such as Fake Out and U-turn. The last slot is up to preference; Stone Edge hits Flying-types the hardest and allows Steelix to check Moltres (if Steelix still has or even has an Occa Berry, of course) and Altaria, but Iron Head is more reliable and does more damage to Ghost- and Grass-types. Roar can scout for counters so you can better assess what Pokemon your team needs to eliminate.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs are geared to give Steelix a good amount of Special Defense, while also giving its Explosion the power to significantly damage or take out most foes. Steelix can survive even a Life Orb Milotic's Hydro Pump or a Blaziken's Fire Blast with the EV investment, provided it's holding the appropriate type-resist Berry, and then act accordingly to take the foe out. A Passho Berry is for Water-types such as Azumarill and offensive Milotic, while Occa Berry is for Fire-types such as Blaziken, Magmortar, and Houndoom. The type-resist Berry of choice should be specific to your team's needs, so choose with that in mind.</p>
+
+<p>Be wary, as BaitLix is less physically-defensive than the Standard Wall Steelix, which can often lead to it not fulfilling its commonly perceived role of a physical wall as well as one might expect. It is often a good idea to have some other physically-bulky Pokemon, such as Donphan or Milotic, in reserve if you're running this Steelix set.</p>
+
+[SET]
+name: Torment
+move 1: Torment
+move 2: Substitute
+move 3: Toxic
+move 4: Earthquake / Gyro Ball
+item: Leftovers
+ability: Sturdy
+nature: Careful / Sassy
+evs: 252 HP / 124 Atk / 132 SpD
+
+[SET COMMENTS]
+
+<p>This is a rather unique Steelix set that utilizes Torment in conjunction with Substitute to halt the enemy's attacks. By doing this, Steelix can stall the foe with Toxic or attack freely with Earthquake and Gyro Ball.</p>
+
+<p>Steelix should first use Substitute to scout the switch-in; beware of overusing Substitute, however, since Steelix's HP stat is fairly low. If the switch-in is a Pokemon who carries only one super effective attack or you know is Choiced, use Torment, which allows Steelix to stop foes from using the same move twice in a row. This is especially useful if the foe has only one super effective attack or is Choiced because it is forced to use an ineffective move or Struggle. Afterward, if Steelix's Substitute has been broken, set up another one while the foe either stays in and uses an ineffective attack or switches out. Depending on the switch-in, use Toxic if the foe can take Steelix's attacks relatively well, or Earthquake or Gyro Ball if it will devastate the opposing Pokemon.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The choice between Earthquake and Gyro Ball depends on what Pokemon your team can handle. Earthquake is preferred since it can strike Poison- and Steel-types who are immune to Toxic. However, if your team employs Toxic Spikes from supporters such as Omastar, Drapion, and Cloyster, it may be better to attack Flying-types and Levitators, such as Swellow, Mismagius, and Scyther, with Gyro Ball.</p>
+
+<p>Some potential options to use on this set are Protect and Roar. Protect helps Steelix stall the opponent with Torment, gain HP from Leftovers, and better stall for increasing poison damage on the foe. Roar can shuffle the opponent's team around so you can identify key threats and take them out beforehand. Steelix is strapped for moveslots as it is, however, and it needs all of the listed moves to work as effectively as possible.</p>
+
+<p>The nature and defensive EVs allow Steelix to take less than 25% damage from 0 Special Attack Milotic's Ice Beam, which means Steelix's Substitute will never break. The remaining EVs are placed in Attack to deal as much damage as possible with Earthquake or Gyro Ball. Note that if Steelix is using Gyro Ball, you should choose Sassy over Careful and set the Speed IVs to 0 to increase Gyro Ball's damage output. Also, with Gyro Ball, you can use an alternative EV spread of 252 HP / 48 Atk / 208 SpD so Houndoom's Dark Pulse doesn't break Steelix's Substitute; this is important since Steelix lacks a way to OHKO Houndoom. Sandstorm support from Hippopotas is welcome to increase the residual damage done to the opponent over time.</p>
+
+<p>Walls who are immune to or take little damage from Earthquake and Gyro Ball, and are also immune to poison or carry Rest, such as Milotic and Weezing, are huge threats to this Steelix. Against these Pokemon, Electric-type special attackers, such as Manectric and Rotom, can switch in on a weak attack and then strike back with STAB Thunderbolt. Watch out, however, as repeated attacks from these walls will eventually KO these fragile Electric-types. Wish support is appreciated from Chansey and Leafeon to keep these relatively frail Pokemon healthy. Wish can also help Steelix regenerate more HP if Substitute is taking its toll on Steelix's health. Moltres, Taunt users such as Mismagius, and Encore users such as Clefable and Poliwrath are also major pains to this set. Using specially defensive Hariyama can help remove Clefable and Mismagius with Close Combat and Payback, respectively. Against Poliwrath and Moltres, Rotom can use Thunderbolt, but beware of switching into both Waterfall and Fire Blast. Alternatively, Lanturn is a much safer option due to its Water typing and bulk; however, using Lanturn comes at the cost of fewer immunities and mediocre offensive stats.</p>
+
+[SET]
+name: Curse
+move 1: Curse
+move 2: Earthquake
+move 3: Gyro Ball
+move 4: Explosion / Rest
+item: Leftovers / Chesto Berry
+nature: Sassy
+evs: 252 HP / 4 Atk / 252 SpD
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>This set is much harder to use than the other sets, as the Pokemon who can interrupt its sweep attempts are numerous. However, the benefits cannot be ignored in comparison to the other sets. By using Curse, you have the advantage of powering up all of Steelix's moves, while strengthening its already massive Defense, and after a couple of Curses, Steelix can surpass the damage capacity of the other sets easily. Naturally, you'll want to start Steelix's sweep later in the match, when all Fire-, Water-, and Grass-types on the opposing team have been taken care of.</p>
+
+<p>Gyro Ball is the main attack this time, as the synergy between it and Curse comes naturally. As Steelix's Speed lowers, the number of targets Gyro Ball can hit at peak damage increases. With just two Curses, Steelix's Speed becomes 29, which allows Steelix to nail foes with a Speed stat of 174 or higher with full-powered Gyro Balls. Earthquake is still Steelix's most reliable STAB move though, and gets decent coverage with Gyro Ball. Either of these attacks can be replaced with Stone Edge if you need Steelix to take on Moltres, but that's a job that would be done better by another Pokemon on your team.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Explosion lets Steelix take its hard-earned boosts and go out with a bang, but Rest gives Steelix greater longevity and prevents status from getting in the way of its sweep. If using Rest, Chesto Berry can be used to give Steelix a one-time full health regeneration at no cost. You could also use type-resist Berries on this set, namely Passho Berry or Occa Berry, to protect Steelix against specific threats that the rest of your team may not be able to remove. The EVs are designed to reinforce Steelix's vulnerable Special Defense, as its monstrous Defense will already be boosted to tremendous heights by Curse.</p>
+
+<p>Unfortunately, this Steelix isn't much of a team player, and needs a lot of support in order to effectively sweep. Stealth Rock works wonders for its sweeping potential, keeping Moltres off its back if Steelix is not running Stone Edge. Clefable and Chansey can absorb special attacks aimed at Steelix, lay down Stealth Rock, and provide Wish support so that Steelix can attempt multiple sweeps. Claydol and Uxie synergize well with this Steelix set in numerous ways: they resist or are immune to Steelix's Ground and Fighting weaknesses, can set up Stealth Rock, and can provide Light Screen support to give Steelix a much easier time setting up.</p>
+
+[Other Options]
+
+<p>Thunder Fang and Ice Fang have a chance of causing status effects and give Steelix greater coverage, but their utility is otherwise limited compared to Stone Edge (and even Crunch). Iron Tail is stronger than Iron Head and can lower the opposing Pokemon's Defense, but is far less accurate. Steelix gets Taunted often, so utilizing a RestTalk strategy without a boosting move is not a good idea. Steelix's horrid Speed also make Rock Polish and Screech rather ineffective.</p>
+
+<p>Giving Steelix an Iron Ball halves its already sluggish Speed, powering its Gyro Ball to the same level as 2 Curses. Shed Shell allows Steelix to escape trappers such as Magneton and Dugtrio, but is useless against anything else, and Steelix can usually bypass them with Roar anyway. Finally, Steelix can make use of a Choice Band to nail common switch-ins for a surprise heavy hit. However, using a Choice Band leaves Steelix even more exposed to Fire- and Water-types if it's locked into the wrong move. Finally, if you want Steelix to pose more of a threat offensively, transfer the HP EVs to Attack EVs, but keep a +Special Defense nature as without it, Steelix is helpless against any special attack it doesn't resist.</p>
+
+[Checks and Counters]
+
+<p>The way to go when handling Steelix is to come in on Stealth Rock and fire off powerful Fire-, Water-, and Fighting-type attacks. Steelix's Explosion and a proper type-resist Berry can reduce the number of effective counters, but even then some Pokemon are just too powerful to be stopped due to Steelix's low Special Defense stat. Pokemon who can blow right past any Steelix include Choice Specs Ninetales, Life Orb Blaziken, and Houndoom after a Nasty Plot boost. The offensive sets have to predict perfectly to catch these Pokemon on the switch, or Steelix will be forced out for certain. Milotic and Slowbro generally take pitiful damage from Steelix and can wear it down with STAB Surf. Defensive Tangrowth and Leafeon don't fear anything that Steelix throws at them, and can KO back with STAB Grass-type attacks. Moltres has been mentioned multiple times, and for good reason: it threatens any Steelix without Stone Edge with its strong Fire STAB attacks.</p>
+
+<p>Spiritomb is immune to Explosion and takes little damage from anything Steelix can dish out; it can also cripple Steelix with Will-O-Wisp or set up in its face with Calm Mind if Steelix doesn't carry Roar. Claydol, Donphan, and Blastoise take hardly any damage from Steelix, and can remove its Stealth Rock from the field with Rapid Spin. Hitmontop reduces Steelix's Attack with Intimidate and can fire powerful super effective STAB Close Combats straight at it. Hariyama can Force Palm or just Whirlwind Steelix out if it tries to Curse up. Steelix is too slow to retaliate more than once against these threats, so a few special attacks will eventually bring it down. Plan ahead for Explosion, and you'll be fine.</p>

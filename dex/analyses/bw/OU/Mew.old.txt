@@ -1,0 +1,127 @@
+[Overview]
+
+<p>With its balanced stats, solid level-up movepool, and access to literally every tutor move and TM in the game, it's no surprise that Mew is an easy contender for the title of "most versatile Pokemon." Access to some of the most sought-after support moves, including Will-O-Wisp and Taunt, makes Mew one of the most impressive support Pokemon. However, it's not just the threat of top-notch support that makes Mew so difficult to deal with. Mew's versatility gives it so many different and viable sets to choose from--ranging from support to Baton Pass user, sweeper, and even lead--that Mew has plenty of viable sets, each of which requires the correct answer to prevent it from just taking over the game. Mew is a Pokemon that tests your opponent's reactions first and foremost, and if they react poorly, there will be hell to pay.</p>
+
+<p>However, where it shines in versatility it lacks in focus. Its mediocre Speed stat puts it at the mercy of several notable Pokemon, including Keldeo and Latias, and its rather average offensive stats make it difficult to sweep. Still, the threat of these options means that even just seeing Mew puts the opponent on the back foot, and with the right followup, it's easy to ride that advantage to victory.</p>
+
+[SET]
+name: Support
+move 1: Taunt
+move 2: Will-O-Wisp
+move 3: Soft-Boiled
+move 4: Ice Beam / Psychic
+item: Leftovers
+nature: Bold
+evs: 252 HP / 148 Def / 108 Spe
+
+[SET COMMENTS]
+
+<p>Support Mew functions as a top-notch supporting Pokemon with access to effective tools to help it in almost any given scenario. Taunt puts slower defensive Pokemon in an unfavorable position by forcing them to attack, and it can occasionally prevent faster Pokemon from setting up. Will-O-Wisp can burn foes, which constantly saps them of their health and utterly cripples physical attackers. Both moves have wonderful synergy with each other, as the combination of Taunt and burn typically renders a slower Pokemon completely useless. Ice Beam targets a large proportion of OU Pokemon for super effective damage. It's particularly effective against the likes of Garchomp, Dragonite, Landorus-T, and Thundurus-T, who number among the best setup sweepers in the tier. On the other hand, Psychic is more effective against Substitute users and is stronger against the likes of Terrakion, Toxicroak, and Conkeldurr. That said, Ice Beam is usually the better choice, as it's useful for dealing with a wider range of threats. You'll want to maximize Mew's effectiveness by bringing it on the field as quickly and efficiently as possible. Keeping it near max HP at all times is imperative to succeeding with Mew, as it is usually only capable of checking powerful threats when it's healthy.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>A specially defensive spread can be used to improve Mew's effectiveness against special attackers. This in turn makes it more useful against a wider variety of Pokemon, as Mew can already somewhat deal with incoming physical attackers with Will-O-Wisp, and it can now keep up with strong special attackers. Keep in mind that Will-O-Wisp is not a substitute for physical defense, however, and thus this spread is ineffective against powerful, fast physical attacking Pokemon. Maxing out Mew'd Defense EVs can noticeably increase Mew's physical defense, but you're better off sticking with listed spread as it ensures that Mew is capable of outrunning Jolly Breloom, Adamant Dragonite, and Adamant Gyarados. Night Shade grants Mew the ability to deal consistent damage and is very useful against Substitute users, such as Latias, who would ordinarily set up on Mew. Light Screen strengthens Mew's Special Defense, making it all the more difficult for your opponent to break through Mew, but it comes at the cost of a precious moveslot.</p>
+
+<p>Despite having terrific prowess on the physically defensive side, Mew is somewhat vulnerable on the special side; special attackers (especially ones whose attacks are boosted in the rain) are by far the biggest threats to Mew. Pokemon that can deal with Heatran are almost mandatory teammates, as Heatran can effortlessly switch into Mew and turn into a liability for as long as it is active. Tyranitar makes for a good partner as it can usually take on most special attackers, as well as Heatran, and it comes with the added bonus of being able to defeat Latios and Latias, both of whom are strong checks to Mew in their own right. Starmie is a decent partner, as it can also check Heatran and has utility against the likes of Keldeo, who can decimate Mew with Hydro Pump.</p>
+
+<p>Mew stands tall as one of the best stallbreakers in the tier, as it is capable of dismantling the most common stall cores on its own. It struggles mightily against rain stall, however, as the prevalence of Scald makes it difficult for Mew to stay on the field. As such, you should strongly consider carrying anti-rain stall measures, such as specially defensive Hippowdon, Celebi, and Starmie.</p>
+
+[SET]
+name: Lead
+move 1: Stealth Rock
+move 2: Taunt / Magic Coat
+move 3: Explosion
+move 4: Tailwind
+item: Normal Gem
+nature: Jolly
+evs: 108 HP / 252 Atk / 148 Spe
+
+[SET COMMENTS]
+
+<p>Mew's near-limitless movepool and balanced stats make it an effective lead, especially on hyper offensive teams that cannot afford to make room for a Ghost-type Pokemon. With access to Taunt and Magic Coat, Mew beats nearly every other lead in the game and has the advantage of bulk over lead Azelf, whose frailty mandates use of a Focus Sash. Mew's solid bulk allows it to carry a Normal Gem, which secures more significant KOs, such as the near-guaranteed OHKO on defensive Xatu.</p>
+
+<p>Taunt shuts down slower opponents, preventing them from setting up their own entry hazards or boosting their stats. Magic Coat, on the other hand, bounces back Stealth Rock and Taunt from faster leads such as Terrakion, Aerodactyl, Azelf, Infernape, and opposing Mew. Taunt gets priority over Magic Coat because it doesn't necessarily stop hazards from being set up; it merely blocks them for a turn. This means that an opponent can continuously use Stealth Rock until Mew runs out of Magic Coat PP. In addition, Taunt is invaluable for completely shutting down opposing suicide leads, such as Forretress and Skarmory. Tailwind is handy for momentum, particularly if Mew is used as a suicide lead. It can set up Stealth Rock quickly, use Tailwind to increase its Speed, and follow up with an Explosion to clear the way for your next switch-in to use the remaining two-turn Speed boost.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Zen Headbutt is a decent alternative to Tailwind; it's the strongest physical STAB move in Mew's repertoire and serves as a deterrent to Gengar or Terrakion attempting to switch in and absorb an Explosion.</p>
+
+<p>Care must be taken with this particular set. If your opponent has Espeon, Xatu, or Starmie, it is best to save Mew and lead with something else. Explosion is a high-risk high-reward move, especially if your opponent has a Ghost-type on their team. Though a free switch-in might retain you momentum, do not forget Explosion's huge Base Power.</p>
+
+<p>Checks to this set include Life Orb Gengar, Choice Specs Latios, and Choice Band Garchomp and Terrakion, all of whom outspeed Mew and threaten it with high-powered STAB attacks. Scizor makes quick work of opposing Gengar and can also handily check Starmie, who is notoriously hard to deal with. Though it shares a Bug-type weakness with Mew, Tyranitar can be a handy partner. In addition to setting up permanent sand, Tyranitar is a good counter to Espeon and Xatu while being a reasonable check to Starmie and Latios so long as it avoids a Water-type move, trapping all four with Pursuit or outright KOing them with Crunch. Gengar also falls prey to Tyranitar, but Tyranitar must be wary of Focus Blast. Dragonite--and just about any other sweeper--appreciates Mew's ability to set up Stealth Rock; additionally, Dragonite can switch into opposing Landorus-T's Ground-type attacks should you wish to save Mew's Explosion. Rotom-W is another Pokemon who appreciates a free switch-in on Earthquake and makes quick work of Landorus-T with its STAB Hydro Pump.</p>
+
+[SET]
+name: Nasty Plot
+move 1: Nasty Plot
+move 2: Psyshock / Psychic
+move 3: Aura Sphere
+move 4: Fire Blast / Dark Pulse
+item: Leftovers / Lum Berry
+nature: Timid
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>Mew is capable of taking the offensive with Nasty Plot, and it is difficult for opponents to outright counter due to its excellent coverage and high power. Nasty Plot boosts Mew's Special Attack to 598, which gives Mew enough power to OHKO or 2HKO most of the metagame. Psyshock allows Mew to take out special walls such as Chansey and Blissey, as well as other Pokemon that invest in Special Defense. Keep in mind, however, that because it targets Defense, physically defensive Pokemon such as Landorus-T and physically defensive Hippowdon are capable of surviving a boosted Psyshock. Psychic, on the other hand, OHKOes both the aforementioned defensive Grounds, and its higher Base Power allows it to score more OHKOs in general. Aura Sphere provides Mew with good coverage, as very few Pokemon resist both Psychic and Fighting. In particular, Aura Sphere allows Mew to beat Tyranitar, one of the most common and prominent special tanks in the metagame.</p>
+
+<p>The final slot is up to you and mainly dependent on what your team can handle. Dark Pulse lets Mew take down opposing Psychic-types, such as Latias, Latios, Starmie, and Reuniclus, while Fire Blast lets Mew KO Steel-types neutral to Fighting-type moves. Jirachi, Forretress, Scizor, and Skarmory are all OHKOed by +2 Fire Blast. Fire Blast also lets Mew OHKO standard Landorus-T after Stealth Rock and deal heavy damage to physically defensive Hippowdon after a boost, which effectively eliminates Psyshock's weakness. The biggest advantage to using Nasty Plot Mew over any other special sweeper is its unpredictability. Its counters are mainly based on its final coverage move. For example, Latias and Starmie can check Mew if it's using Fire Blast, while bulky Steel-types, particularly Scizor and Jirachi, can just as easily counter Mew if it's using Dark Pulse.</p>
+
+[ADDITIONAL COMMENTS] 
+
+<p>To show the power that Mew can bring to the table, here are some calculations. Unless stated otherwise, assume Mew has a Life Orb and one Nasty Plot boost:</p>
+
+<ul class="damage_calculation">
+<li>Psyshock vs 252/252+ Blissey 72% - 84.9%</li>
+<li>Psyshock vs 252/252+ Chansey 53.3% - 62.8%</li>
+<li>Aura Sphere vs 252/252+ Tyranitar 101% - 118.8%</li>
+<li>Dark Pulse vs 248/8 Jellicent 89.57 - 105.7%</li>
+<li>Fire Blast vs 244/0 Landorus-T 92.41 - 108.94%</li>
+<li>Fire Blast vs 252/0 Hippowdon 88.1% - 103.8%</li>
+<li>Fire Blast vs 252/252+ Jirachi 103% - 121.3%</li>
+<li>Fire Blast vs 252/252+ Celebi 100.99 - 119.05%</li>
+<li>+0 Fire Blast vs 252/216+ Ferrothorn 109.1% - 128.4%</li>
+</ul>
+
+<p>Leftovers is a good alternative to Life Orb as it increases Mew's overall survivability, but it comes at the cost of some firepower. A Lum Berry is useful as it allows Mew to avoid status once, which helps in taking out Pokemon that rely on status to beat Mew. A Modest nature and a spread of 220 HP / 252 SpA / 36 Spe can be used to increase Mew's bulk and further boost its damage potential, securing a few more OHKOs at +2 (such as Garchomp and Gastrodon), but this reduces Mew's Speed and its ability to outspeed certain threats. Specifically, Mew now fails to outrun max Speed Haxorus and Hydreigon, and it also misses out on the Speed tie with opposing base 100 Speed Pokemon such as Salamence, Volcarona, Celebi, and Jirachi.</p>
+
+<p>Mew has a couple of extra moves at its disposal. Giga Drain can be used over a coverage move to OHKO the likes of Politoed, Rotom-W, Jellicent, and Gastrodon after a Nasty Plot boost, which is significant as each of these Pokemon can potentially avoid the OHKO from +2 Psyshock. Calm Mind bolsters Mew's defense and prevents it from being checked as easily by special attackers. It's difficult to take the offensive with Calm Mind as Mew's boosting move due to its comparatively lower power boost, however. Baton Pass is an interesting move to use on Nasty Plot Mew. It weakens Mew's ability to sweep by replacing a coverage move, but it allows Mew to make a hasty retreat should a counter switch into it. Mew can simply pass along those Nasty Plot boosts, making it a hybrid sweeper and team player. Baton Pass also helps Mew differentiate itself from other powerful Nasty Plot users such as Thundurus-T. Soft-Boiled gives Mew reliable recovery and is effective against stall teams that rely on wearing down opposing sweepers. Soft-Boiled works particularly well with Life Orb because it allows Mew to keep its power without compromising its bulk. Unfortunately, as with Baton Pass, it cuts down on Mew's sweeping ability by eating up a moveslot.</p>
+
+<p>Similarly to any other sweeper, Mew appreciates the presence of entry hazards to achieve several OHKOs. Blissey is typically OHKOed by a boosted Psyshock if Stealth Rock and a layer of Spikes are on the field. Reliable entry hazard users, such as Skarmory and Ferrothorn, are good partners to Mew for this very reason. While Nasty Plot Mew is incredibly difficult to outright counter, it has several checks that keep it from being a top threat. The Pokemon that can check Mew are completely dependent on Mew's coverage moves. Specially defensive Jirachi is a strong counter if Mew isn't carrying Fire Blast, while Latias and Latios are very reliable counters if Mew lacks Dark Pulse. Faster Pokemon, such as Latias, Latios, Starmie, and Gengar, can switch into a resisted attack or Nasty Plot and force Mew out with their powerful STAB attacks. Choice Scarf Tyranitar is a solid partner for Mew because it can counter Latias and Latios and check Starmie and Gengar. Bulky Scizor is also capable of checking Latias, Latios, and Gengar. Additionally, unlike Tyranitar, it doesn't summon sandstorm, keeping Mew from taking extra residual damage.</p>
+
+[SET]
+name: Baton Pass
+move 1: Baton Pass
+move 2: Rock Polish
+move 3: Swords Dance / Nasty Plot
+move 4: Taunt / Substitute
+item: Mental Herb / Lum Berry
+nature: Bold
+evs: 252 HP / 148 Def / 108 Spe
+
+[SET COMMENTS]
+
+<p>Mew is a Baton Pass user that uses its durability, Speed, and access to Taunt to gain tremendous momentum with its boosting moves while simultaneously keeping potential enemies at bay with Taunt. If you can manage to get the ball rolling with Mew's boosts, you can possibly decide the match in an instant, as a fully powered-up Baton Pass recipient is nearly unstoppable. While Mew faces some competition as a Baton Passer from other standalone Baton Pass users such as Gorebyss and Smeargle, it still has a few perks over them, specifically its access to Taunt over the former and significantly more bulk over the latter. Rock Polish is mandatory as it lets Mew outspeed most of the metagame, giving Mew the ability to Baton Pass in the face of Pokemon who are normally faster. The choice between Swords Dance and Nasty Plot is naturally team-dependent. Strong physical attackers, particularly Garchomp, Landorus-T, and Terrakion, will appreciate Swords Dance, while special attackers such as Latios and Hydreigon are bolstered by Nasty Plot. Finally, Taunt allows Mew to shut down Pokemon who might attempt to hit it or its Baton Pass recipients with status or phaze them out with Whirlwind or Roar.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>There aren't any alternative item choices. Mental Herb can protect Mew from being Taunted and is invaluable against Prankster users. Lum Berry grants Mew the ability to dodge harmful status such as paralysis and sleep, and is very useful in conjunction with Synchronize and Taunt. The EVs on this set give Mew the maximum amount of bulk while still giving it enough Speed to outspeed most of the metagame after a Rock Polish. HP is maxed out, and the leftover EVs are placed in Defense, providing Mew with extra insurance against the likes of Tyranitar and Scizor if screens are up. A specially defensive spread can be used should you want Mew to wall powerful special threats such as Choice Specs Latios without Light Screen support. Mew has a ton of other move options for the third slot, including but not limited to Bulk Up, Amnesia, Iron Defense, and Calm Mind. The defensive boosting moves are better suited for defensive teams, however.</p>
+
+<p>This set absolutely requires dual screen support in order to succeed. With dual screens in play, Mew is nearly impossible to OHKO, giving it plenty of room to set up. You should bring Mew in after one of your Pokemon has been KOed, preferably your dual screen user. Directly switching into an opposing Pokemon is unwise because Mew should remain in tip-top condition to maximize its chances of successfully pulling off a Baton Pass. Uxie and Latios deserve a mention because they can set up dual screens and are capable of using Memento, which lets Mew safely switch into the battlefield, and makes Mew nearly indestructible. Bronzong is also a decent dual screen supporter, as its excellent typing and bulk gives it excellent longevity, allowing it to repeatedly set up dual screens. It can also use Explosion to safely bring Mew onto the field.</p>
+
+<p>There are a variety of Baton Pass recipients to choose from, but the right recipient is required to win matches. It should have excellent natural bulk, decent coverage, the ability to OHKO most of the metagame, and resistances to common priority moves. Garchomp fits the bill for most of these categories; at +2/+2, it can easily OHKO or 2HKO the entire metagame and is extremely difficult to counter. Garchomp's typing makes it resistant to Stealth Rock, making it hard for defensive teams to wear down. Lucario also an excellent recipient as it's also quite difficult to counter, and it even has its own priority move. Keldeo is the perfect recipient on the special side as it's almost impossible to counter at +2/+2, resists common forms of priority, and also resists Stealth Rock.</p>
+
+<p>While this variant of Mew is almost impossible to counter due to the nature of Baton Pass, there are a few Pokemon who give it trouble. Priority Taunt users such as Tornadus and Sableye can put a complete stop to Mew's Baton Passing attempts. Trick users, such as Choice Latios and Rotom-W, can cripple Mew or its Baton Pass recipients. Because this Mew lacks any offensive moves, it is a sitting duck against faster Pokemon, so powerful sweepers such as Terrakion can set up on Mew if it hasn't used Rock Polish. Dragon Tail users are a pain because the move itself is unaffected by Taunt, completely ruining all Baton Pass attempts. Substitute can bypass Dragon Tail, but it comes at the cost of a boosting move or Taunt. There are some attacks that are simply too strong for Mew to handle, even with dual screens. Choice Band Tyranitar, for example, can still 2HKO Mew even with Reflect up. Mew isn't limited to passing offensive boosts; it can also pass a variety of defensive boosts as well, namely Iron Defense and Amnesia. Finally, it's important to keep in mind that Mew is completely dependent on dual screens for success. While losing them doesn't leave Mew completely helpless, it is unable to stand up against any sort of offense without them.</p>
+
+[Other Options]
+
+<p>Mew is the king of other options. Seriously, it's not an exaggeration to suggest that Mew can pull off just about any moveset. It has one of the largest movepools in the entire game, second only to Smeargle; however, unlike Smeargle, it has the stats to back them up. Even so, it can be difficult to find sets outside of the ones that are listed that Mew can run without being outclassed or just flat-out mediocre at. A stand-alone Swords Dance set is possible with a moveset consisting of Flame Charge, Drain Punch, and Baton Pass. This unconventional moveset gives Mew the ability to set up Swords Dances and bypass Tyranitar, Scizor, Heatran, and other Steel-types, as well as pass along the boosts to another physical attacker. The support set can utilize either Roar or Dragon Tail for phazing or Hypnosis to temporarily incapacitate a foe. Mew can also use a Transform set, which can be handy when dealing with an opposing boosting sweeper. To sum it up, Mew gets nearly everything, so go nuts, pick four moves, and see what works for you. If you can imagine it, Mew can probably make it happen.</p>
+
+[Checks and Counters]
+
+<p>Countering Mew can be a difficult task due to its staggering versatility. Scouting out its moveset instead of blindly switching in is recommended. Heatran hard-counters support sets, as it resists Psychic-type attacks and is immune to Will-O-Wisp. In fact, if Heatran switches into a Will-O-Wisp, it can retaliate against Mew and its teammates with its boosted Fire-type moves. Strong special attackers are generally suited to taking on Mew. Both Latias and Latios can switch in with little to no trouble and fire off their powerful STAB attacks; however, Mew can actually stall out Choice variants with Soft-Boiled and Special Defense investment. Calm Mind Latios and Latias, on the other hand, can use Mew as setup fodder. Thundurus-T is capable of overpowering Mew with its powerful Electric-type moves or even potentially set up with Nasty Plot or Agility, as Mew cannot OHKO it with Ice Beam. Hydreigon can switch into Mew without worry and fire off its powerful Dark- or Dragon-type STAB moves. Rain sweepers such as Keldeo and Tornadus can similarly overwhelm Mew with their rain-boosted attacks.</p>
+
+<p>Lead sets can be dealt with by Tyranitar, who can switch into Mew and OHKO it through its Focus Sash because of Sand Stream. Scizor, Heatran, and assorted Steel-types can also switch in and handle it. That said, knocking Mew out and preventing Mew from setting up Stealth Rock are two very different things. Because of Mew's access to Magic Coat and Focus Sash, it is pretty much guaranteed to set up Stealth Rock. Magic Bounce users, such as Espeon and Xatu, are the best stops to Mew, but both of them need to carry a strong attack to actually damage it. Otherwise, Magic Bounce users can be used to break Mew's Focus Sash and switch into a Pokemon that can OHKO it afterwards. The opponent can always predict this, however.</p>
+
+<p>Nasty Plot Mew's counters are separated into two groups: those who can counter it if it lacks Fire Blast, and those who can counter it if it lacks Dark Pulse. Specially defensive Jirachi, for example, is a hard counter to the former Mew, as it can switch in, cripple Mew with Body Slam, and stall out Mew with a combination of Iron Head and Wish. Bulky Swords Dance Scizor can switch into Mew and hit it with a STAB Bug Bite, which easily brings Mew into Bullet Punch's KO range. On the other hand, Mew that lack Dark Pulse can be beaten by Latias, Latios, and Starmie.</p>
+
+<p>For the Baton Pass set, there are several precautions you can take to guarantee that Mew doesn't pull off a Baton Pass. Team Preview allows you to scan your opponent's team, determine who Mew's dual screens user is, and devise a way to stop it. A fast Taunt user, such as Azelf or Sableye, can put a stop to most dual screens users. Unfortunately, Azelf itself is a common dual screens user, and relying on a Speed tie to stop it isn't exactly recommended. It's also possible to directly Taunt Mew, but Mew that carry Mental Herb can bypass this. Strong Choice Scarf users will only allow Azelf to set up one screen, giving you an easier time when dealing with Mew. Powerful Fire-types can similarly prevent Metagross from setting up more than one screen. Keep in mind that if you fail to stop screens, it's almost impossible to stop Mew from Baton Passing due to its incredible bulk. Fortunately, unlike Gorebyss and Smeargle, Mew typically takes three turns to set up its Baton Pass recipient, so keep that in mind and find a way to stop it before it Baton Passes.</p>

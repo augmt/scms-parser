@@ -1,0 +1,75 @@
+[Overview]
+
+<p>Linoone is truly a blessed Pokemon. What would otherwise be a run-of-the-mill, throwaway Normal-type rodent along the likes of Raticate and Furret has access to a one-turn, game-ending sweep setup. Belly Drum turns the mild-mannered mustelid into a pillar of hellfire, a screaming Harrier jet, a towering tornado of fury wielding 1048 Attack, 405 Speed, and an 80 Base Power, STAB priority attack. Packing Linoone gives you a deadly secret weapon for when your enemy shows a moment of weakness, and once its presence is known, Linoone becomes a powerful psychological threat that will have your opponent on his toes the entire match. Adding in team support makes Linoone a fairly reliable late-game sweeper. If you have an opportunistic, high-risk high-reward playstyle, Linoone may be for you.</p>
+
+<p>Beware, however, that Linoone is extremely frail and unforgiving; improper scouting, or a single mistake in prediction, will quickly turn Linoone into a dead weight.</p>
+
+[SET]
+name: Belly Drum
+move 1: Belly Drum 
+move 2: Extreme Speed 
+move 3: Seed Bomb 
+move 4: Return / Shadow Claw 
+item: Salac Berry
+ability: Gluttony
+nature: Adamant
+evs: 132 HP / 252 Atk / 4 Def / 120 Spe
+
+[SET COMMENTS]
+
+<p>Linoone possesses a holy trinity of sweeping power: Belly Drum, STAB Extreme Speed, and Gluttony. These three elements combine to form the ultimate one-turn setup. After a Belly Drum, Linoone's shabby Attack stat of 262 skyrockets to an amazing 1048, ready for immediate sweepage. At the same time, Gluttony activates its Salac Berry, sending its Speed stat from 270 (136 EVs) to 405, outspeeding everything up to neutral-natured Pokemon with a Choice Scarf and base 85 Speed. Linoone can then proceed to sweep with Extreme Speed, a STAB 80 Base Power priority move that essentially ensures that the flipped-out polecat will almost never be struck before it can hit, and likely KO its opponent. Seed Bomb is the second attack in Linoone's sweeping arsenal, KOing many of the Rock-types that resist Extreme Speed, as well as doing a hefty number on bulky Water- and Ground-types. Assuming maximum defensive investment, Slowbro, Milotic, Claydol, Omastar, Quagsire, Cloyster, Rhyperior, Sandslash, Relicanth, and Gastrodon will all survive a +6 Extreme Speed, but will all fall to +6 Seed Bomb after Stealth Rock. Despite its large movepool, Linoone has very few usable offensive options. After Extreme Speed and Seed Bomb, those options boil down to the two in the last moveslot. Shadow Claw is for Ghost-types, and will OHKO any Ghost-type in UU, bar Spiritomb and Sableye, without fail (Stealth Rock is needed for an OHKO on Dusclops). Return, however, may prove more useful in the long run.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Return may seem like redundant coverage with Extreme Speed, allowing you to be walled by many more opponents, but consider the following; there are five Ghost-types in UU that +6 Shadow Claw can OHKO but +6 Seed Bomb cannot. These are Drifblim, Dusclops, Mismagius, max Defense Rotom, and Shedinja. Drifblim and Dusclops, while not unseen, are rare. Drifblim is often used as a lead in UU and will probably have Substituted down to 25% of its health (easily KO range) by the time Linoone is on the scene. Bold Rotom is also a rare sight - offensive variations are much more common and are all KOed by Seed Bomb. Shedinja is the rarest of all, and though lacking Shadow Claw will leave you completely walled by Shedinja, even with Shadow Claw most will either kill you after Focus Sash activates, or with a Sucker Punch. This is, of course, assuming there is no Stealth Rock on the field, which renders Shedinja useless anyway. Return, meanwhile, rivaling in power practically any Explosion found in UU, will ensure a few KOs that Extreme Speed cannot. Max Defense Weezing, Nidoqueen, Torterra, Uxie, and Drapion are all OHKOed by +6 Return after Stealth Rock damage, while Extreme Speed (or Shadow Claw vs. Uxie) will fail to KO in each case by a small margin. Return also has a 65% chance of 2HKOing a 252 HP / 4 Def neutral-natured Registeel holding Leftovers and taking Stealth Rock damage. Finally, after possibly taking an Intimidate or two, the added power of Return will be welcome.</p>
+
+<p>Steel-type Pokemon are the one thing Linoone absolutely cannot sweep through, as they resist Linoone's STAB attacks as well as Seed Bomb. Two attack options - Dig and Rock Smash - were available in the past as Linoone's only super effective attacks against the Steel-types, but neither is recommended over the listed attacks. Dig is nearly useless; not only is it easy to avoid and fails to OHKO Steelix, but Steelix and Registeel usually carry Earthquake, which will hit you underground. Rock Smash is generally a waste of a moveslot, considering a 2x super effective Rock Smash has only 80 Base Power, and a resisted STAB Return has 76.5 Base Power. Seed Bomb hits Steelix with 80 Base Power as well. The only Steel-types that Rock Smash is able to hit for decent damage are the three Rock / Steel-types (Bastiodon, Probopass, and Aggron), which, except for Aggron, are rarely seen.</p> 
+
+<p>It therefore falls upon Linoone's teammates to remove its counters if Linoone hopes to sweep. Before firing off a Belly Drum, scouting for opposing Steelix, Registeel, and Spiritomb is wise. Shuckle, Cradily, and Armaldo are not as common nor as perfect of counters, but can all pose problems for Linoone as well. These sweep-stopping Pokemon should be eliminated, or else brought within KO range, before Linoone Belly Drums. Assuming Stealth Rock is in play, Linoone will always KO these counters if they are taken down to a certain hit point percentage first:</p>
+
+<ul class="damage_calculation">
+<li>+6 Seed Bomb vs. 252 HP / 0 Def Impish Steelix - 35.6% - 41.8%</li>
+<li>+6 Return vs. 252 HP / 252 Def Impish Registeel - 36% - 42.6%</li> 
+<li>+6 Return vs. 252 HP / 0 Def Careful Registeel - 47% - 55.2%</li>
+<li>+6 Seed Bomb vs. 252 HP / 252 Def Bold Spiritomb - 57.2% - 67.4%</li> 
+<li>+6 Seed Bomb vs. 252 HP / 240 Def Careful Cradily - 55.1% - 64.9%</li>
+<li>+6 Seed Bomb vs. 244 HP / 252 Def Impish Armaldo - 52% - 61.4%</li>
+<li>+6 Seed Bomb vs. 0 HP / 4 Def Jolly Aggron - 54.1% - 63.3%</li></ul>
+
+<p>Keeping these Pokemon in mind, a team packing Linoone would do well to carry Pokemon who can handle Linoone's counters. Powerful wallbreakers such as mixed Blaziken, Swords Dance Pinsir, and Choice Specs Typhlosion can soften these counters enough for Linoone to sweep, if not KOing them outright. Also, as with any setup sweeper, lures and trappers make Linoone's life much easier. Mismagius, Scyther, and Swellow are all terrific lures that can coax your opponent's Linoone counter early. Dugtrio and Magneton are fairly efficient at eliminating the Steel-types that give Linoone nightmares, especially when paired with lures. Dual Screen users such as Uxie and Mespirit can help soften blows that Linoone might take whilst setting up, thus making its job easier.</p>
+
+<p>If you are worried about outspeeding certain Choice Scarf Pokemon (such as Venusaur and Rotom), a Jolly nature is optional. However, you will miss out on many crucial OHKOs if you do this, namely Slowbro, who is always OHKOed if Stealth Rock is in play, with a high chance of OHKOing without Stealth Rock. A Jolly nature will cause you to only OHKO with Stealth Rock set up. A different EV spread of 36 HP / 252 Atk / 4 Def / 216 Spe with a Jolly nature can be used to guarantee the ability to outspeed certain other Pokemon; however, there is a noticeable lack in power. Finally, Memento Gastrodon is one of the easiest ways to guarantee a successful set up. Gastrodon has access to three extremely helpful support moves: Block, Memento, and Yawn.</p>
+
+[SET]
+name: Choice Band
+move 1: Extreme Speed
+move 2: Shadow Claw
+move 3: Seed Bomb
+move 4: Switcheroo / Return
+item: Choice Band
+nature: Adamant
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Linoone can use its reputation as a Belly Drum sweeper to run a surprise Choice Band set. While weaker than most Choice Band users, Linoone does have its advantages. First and foremost, it poses a psychological threat. Feigning a Belly Drum set, it intimidates many weakened sweepers into attacking instead of switching out, and many tottering walls will give up the chance to recover damage in order to get a hit off on Linoone. Second, it is the only user of STAB Extreme Speed in UU, which by all accounts is a powerful and reliable priority attack, even on a Pokemon with a pathetic 70 base Attack. Third, it has access to Switcheroo (as well as its identical twin Trick), which it can use to foil many of its counters. Steelix, Registeel, and Spiritomb, the three best Belly Drum Linoone switch-ins in UU, are all crippled by receiving a Choice Band, unless they are already holding one, which is a rare sight for the former two. With an Adamant nature, Linoone reaches a decent 393 attack. Extreme Speed is Linoone's primary attack, allowing it to put a huge dent on fragile sweepers which outspeed Linoone, such as Swellow and Alakazam. As mentioned before, Shadow Claw is Linoone's only way of dealing with Ghost-types, whilst without Seed Bomb, the badger has no chance taking on the likes of Rhyperior and Omastar. Although Switcheroo is the preferred move for the fourth moveslot, Return can net a lot of OHKOs and 2HKOs that Extreme Speed cannot, namely cleanly landing a fatality on Dugtrio and Swellow, as well as 2HKOing Life Orb Milotic.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The layout of the EVs is quite simple, allowing Linoone to outspeed as many threats as possible while at the same time maximizing its Attack. A Jolly nature is optional if you are worried about needing to outspeed opponents that resist Extreme Speed, in which case Return is the STAB move that you should use. Rock Smash is an alternative to hit Pokemon such as Aggron super effectively, but has no use outside of that, seeing as a neutral Extreme Speed is more powerful than a super effective Rock Smash. Entry hazards are a must here, as Linoone is typically only able to do 50% to bulky Pokemon with Extreme Speed. Because sweepers typically carry Life Orb, the combination of residual damage plus the damage done from entry hazards adds up to allow Linoone to revenge kill with minimal losses.</p>
+
+[Other Options]
+
+<p>Linoone has a fairly decent special movepool which includes even Ice Beam and Thunderbolt, but Linoone is unable to take advantage of it with its middling Special Attack stat. If you want a high-powered move, Linoone can learn Gunk Shot, but with the poor coverage it gets with it, coupled with the low accuracy, it is generally not a viable option. A gimmick set with Belly Drum and Last Resort can be fun, dealing a ridiculous amount of damage to most enemies. Physically Defensive Weezing takes 117.7% - 138.6% from a boosted Adamant Last Resort, and Cloyster with maximum Defense investment takes 95.7% - 112.8%, a clean OHKO with Stealth Rock. Pursuit is another option; however, with Linoone's poor base Attack, it won't be netting many kills apart from the rare Ghost-type that is locked into a Ghost-type move and needs to switch out. As tanks that wall Linoone such as Steelix and Registeel are bound to switch into its attacks, Super Fang can rob them of half of their current health, which is by far the best amount of damage Linoone will be able to inflict on them.</p>
+
+[Checks and Counters]
+
+<p>The best way to counter Linoone is to prevent it from setting up a Belly Drum. If there are no screens in play, almost any STAB attack along with Stealth Rock will deal more than 50% damage to Linoone. If screens are in play, it takes a fairly powerful STAB or Fighting-type attack from a sweeper or tank to deal the appropriate damage, although this is still not hard to do. Taking out a screen-shielded Linoone after eating a Memento takes powerful Fighting-type STAB from the likes of Hitmonlee, Hitmontop, Primeape, or Medicham. Many support moves are also viable ways to halt Linoone's setup, and are unaffected by screens or Memento: Encore, Trick, burn, sleep, Haze, and phazing moves can all put Linoone on the sidelines for the rest of the match by making it waste its Belly Drum.</p>
+
+<p>Once Linoone has used Belly Drum, it still has several solid counters. Steelix is undoubtedly the best counter: with an Impish nature and 0 Def EVs, it is 3HKOed at best by Seed Bomb, and can KO Linoone with Earthquake or Gyro Ball, or phaze it away with Roar. Spiritomb is also an excellent counter, being immune to Linoone's STAB, 2HKOed by Seed Bomb and able to strike back first with its own priority STAB Sucker Punch, or burn Linoone with Will-O-Wisp. Registeel counters Linoone well, as long as it has Defense EVs or doesn't switch into Return; however, 0 Atk Registeel needs Explosion to put 50% HP Linoone down, as Iron Head will not KO. Shuckle almost always survives 2 Seed Bombs, even with Stealth Rock in play, but cannot do much back besides Toxic. Choice Scarf Mismagius and Timid Choice Scarf Rotom can both switch in on any Normal-type attack, outspeed the incoming Seed Bomb or Shadow Claw, and KO Linoone with Hidden Power Fighting or STAB Thunderbolt.</p>
+
+<p>Without Shadow Claw, Linoone cannot OHKO the aforementioned Ghost-types (Dusclops, Bold Rotom, Mismagius, Drifblim, and Shedinja), which in turn can usually manage to KO, or at least burn, Linoone. Without Return, physically bulky Pokemon such as Tangrowth, Torterra, Torkoal, Gligar, and Weezing can survive a hit from Linoone if they are running max HP and Def. The same goes for physically bulky Pokemon weak to Grass-type attacks, such as Slowbro, Sandslash, Cloyster, and all Rock-types, provided Linoone lacks Seed Bomb. Linoone needs Stealth Rock in play to get many key OHKOs; without it, almost any bulky Pokemon with max Defense will be able to survive a single +6 hit at full health, as will any Pokemon with Focus Sash.</p>
+
+<p>Some battle conditions can prevent or hamper a Linoone's sweep. Toxic Spikes (either one or two layers) are the most harmful, limiting the number of turns for which Linoone can sweep after a Belly Drum to 3, or 2 if Linoone switches in mid-turn. Stealth Rock and Spikes hamper Linoone's ability to take hits on the turn it uses Belly Drum. Sandstorm and hail don't cut sweeps short quite like poison does, but can finish off a damaged Linoone. Reflect on the defender's side reduces Linoone's attacking power by 50%, enough to halt its sweep.</p>
+
+<p>If you carry a Pokemon with Intimidate, you can sap Linoone's Attack until it is unable to KO your Pokemon. At +5 Attack (after one Intimidate), Linoone fails to OHKO many walls, such as the aforementioned max Defense Uxie, Weezing, and Slowbro, sometimes even with Stealth Rock in play. Offensive teams lacking a wall may have to sacrifice a Pokemon or two in order to harass Linoone with multiple Intimidates. Other abilities such as Static, Flame Body, Rough Skin, and Aftermath can, with a little luck, disable or finish off Linoone in a pinch.</p>

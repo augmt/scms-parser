@@ -1,0 +1,93 @@
+[Overview]
+
+<p>Plants get chewed on by lizards; it's a sad but true fact of nature. Similarly, Victreebel gets eaten alive by a fat green dinosaur named Venusaur in the OU environment, and often gets a bad rap for being outclassed. The thing is, Victreebel isn't even outclassed by Venusaur! While it is true that they have a similar typing, ability, and movepool, Victreebel possesses many qualities that justify its use over Venusaur. Being outsped by a 220-pound quadruped is indeed embarrassing, but Victreebel's base 105 Attack and 100 Special Attack stats make it a superior mixed sweeper. Furthermore, the pitcher plant has access to powerful moves, such as Power Whip and Weather Ball, that Venusaur would stink up a garden to get. It is difficult for Victreebel to set up due to its unimpressive defensive stats, but if you let it come in safely, it will eat your team alive and leave nothing but a pool of nectar.</p>
+
+[SET]
+name: Growth Sweeper
+move 1: Leaf Blade
+move 2: Weather Ball
+move 3: Sludge Bomb
+move 4: Growth
+item: Life Orb
+ability: Chlorophyll
+nature: Naive
+evs: 120 Atk / 136 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>Feast your eyes on one of the most dangerous mixed sweepers in the game, then cry your eyes dry as Victreebel feasts on your team. After a Growth boost in the sun, Victreebel can 2HKO every Pokemon in OU bar Heatran between Leaf Blade, Weather Ball, and Sludge Bomb. Leaf Blade is a powerful physical STAB which also happens to crush Politoed and Tyranitar, two of sun teams' greatest nemeses. Weather Ball becomes a powerful 100 Base Power, Fire-type, pseudo-STAB move underneath the sun. Sludge Bomb rounds off the set as a powerful special STAB, granting coverage against the Dragon-types that resist the Grass / Fire combination. Growth takes all these moves and kicks them into high gear. While Victreebel can rarely find an opportunity to use Growth due to its unimpressive 80 / 65 / 60 defensive stats, if it does manage to set up, it can easily close out the game. For reference, the below damage calculations showcase Victreebel's destructive power.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Damage calculations:</p>
+
+<ul class="damage_calculation">
+<li>+2 Leaf Blade vs. 252/252+ Blissey 74.8% - 88%</li>
+<li>+1 Leaf Blade vs. 252/252+ Politoed 99% - 117.2%</li>
+<li>+1 Leaf Blade vs. 252/0 Tyranitar 100% - 117.8%</li>
+<li>+1 Leaf Blade vs. 252/252+ Hippowdon 68.6% - 80.5%</li>
+<li>+2 Sludge Bomb vs. 4/0 Latios 87.7% - 103.6%</li>
+<li>+2 Sludge Bomb vs. 252/0 Latias 62.9% - 74.2%</li>
+<li>+2 Sludge Bomb vs. 248/8 Gyarados 72.5% - 85.5%</li>
+<li>+2 Weather Ball vs. 248/0 Volcarona 79.4% - 93.5%</li>
+<li>+0 Weather Ball vs. 252/252+ Skarmory 86.2% - 101.8%</li>
+<li>+0 Weather Ball vs. 252/252+ Jirachi 56.9% - 67.3%</li>
+</ul>
+
+<p>Maximum Speed EVs and a Naive nature allow Victreebel to outspeed Choice Scarf Terrakion and Speed tie with opposing Victreebel. The given Attack and Special Attack EVs allow Victreebel to score some crucial KOs, such as an OHKO on Latios with a +2 Sludge Bomb after Stealth Rock, as well as OHKOs on 252/0 Tyranitar and 252/252+ Politoed with +1 Leaf Blade. You can opt for a Lum Berry instead of Life Orb, but Victreebel's most important trait is its damage output, and anything that jeopardizes this potentially makes it outclassed by Venusaur. As an extra note, players rarely try to status Victreebel, and would much rather just go for the KO.</p>
+
+<p>Hidden Power Ground can be used to hit Heatran, and Hidden Power Ice can be used to KO Dragon-types more reliably. However, Sludge Bomb is overall a more consistent move than the aforementioned options. Sucker Punch can be used to ensure Victreebel isn't vulnerable outside of sun, but the main options are too important to give up. Sleep Powder can give Victreebel more setup opportunities, and can also cripple its checks and counters, such as Heatran and Latias, but losing any of its coverage moves would drastically cut its effectiveness. Finally, Power Whip can be used instead of Leaf Blade as the physical STAB, but it is illegal with Weather Ball, and Hidden Power Fire is an ineffective coverage move.</p>
+
+<p>Victreebel is rather lackluster if you don't build a strong sun team around it. As with any sun team, the harbinger of Drought, Ninetales, is mandatory. As mentioned before, Heatran is the only relevant Pokemon in OU capable of walling Victreebel, so it would be advisable to pack either a Dugtrio to trap and KO the lava beast, or a powerful physical attacker such as Infernape or Arcanine to demolish it. With proper entry hazard support, Victreebel is almost certain to plow through the opposing team if it sets up. Forretress is a common entry hazard user that finds its way onto sun teams thanks to its access to Rapid Spin. Speaking of setting up, our carnivorous plant has it tough finding an opportunity to brandish Growth. Wobbuffet offers Victreebel many setup opportunities with Shadow Tag and Encore.</p>
+
+[SET]
+name: All-Out Mixed Attacker
+move 1: Power Whip
+move 2: Hidden Power Fire
+move 3: Sludge Bomb
+move 4: Sleep Powder
+item: Life Orb
+ability: Chlorophyll
+nature: Naive
+evs: 148 Atk / 112 SpA / 248 Spe
+
+[SET COMMENTS]
+
+<p>Victreebel often finds it difficult to make use of Growth due to its pathetic bulk, so this set aims to hit hard off the bat rather than attempt to set up and sweep. Power Whip is a vicious physical STAB that can OHKO Politoed and Tyranitar after Stealth Rock even without a boost. Under the sun, Hidden Power Fire acts as a pseudo-STAB in place of Weather Ball, which is illegal alongside Power Whip. Sludge Bomb is a powerful STAB move that allows Victreebel to hit the Dragon-types that resist its other moves hard. Last but not least, Sleep Powder is a handy utility move that can cripple anything that walls the man-eating plant, such as Heatran.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Alternatively, you could go with a combination of Leaf Blade and Weather Ball instead of Power Whip and Hidden Power Fire. However, Leaf Blade lacks the power necessary to OHKO Tyranitar and Politoed without a boost, which makes it an inferior option. Lum Berry can be used instead of Life Orb, but this set absolutely needs raw power, even more so than the previous set. Hidden Power Ground and Hidden Power Ice are usable to hit Heatran and Dragon-types respectively, but Hidden Power Fire offers much better coverage and becomes a pseudo-STAB underneath the sun.</p>
+
+<p>As expected, Ninetales is Victreebel's top teammate, as it brings the permanent sunlight necessary for Victreebel to function. As this set is more of a hit-and-run Pokemon and is rather frail, Wish support from the likes of Chansey and Blissey goes a long way. Forretress also slides in as a Rapid Spin user, who also happens to carry all forms of entry hazards to help Victreebel secure KOs. Heatran, again, walls this set with ease. Dugtrio, Arcanine, Darmanitan, and Infernape are all common sun Pokemon that can deal with Heatran. Finally, Dragon-types such as Dragonite and Latios can take an unboosted Sludge Bomb with ease. As such, reliable checks to Dragon-types, such as Mamoswine and Jirachi, should be employed. Jirachi also doubles as a useful Wish passer.</p>
+
+[SET]
+name: Special Attacker
+move 1: Leaf Storm / Giga Drain
+move 2: Sludge Bomb
+move 3: Weather Ball
+move 4: Hidden Power Ground / Growth
+item: Life Orb
+ability: Chlorophyll
+nature: Timid
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>Victreebel's defining feature is its mixed attacking capabilities, but its special attacking capabilities are often overlooked. Boasting a powerful special STAB in Leaf Storm backed by passable Special Attack, this behemoth is more than capable of forcing its way through potential checks and counters. If Leaf Storm's Special Attack drop is not your thing, you can use Giga Drain instead, sacrificing immense power for reliability and the ability to heal. Leaf Storm isn't accessible to Victreebel's arch-rival, Venusaur, which further consolidates Victreebel's legitimacy on an OU sun team. The mean scary pitcher plant also wields a powerful STAB Sludge Bomb and a powerful coverage move in Weather Ball, which receives a pseudo-STAB boost in the sun. Hidden Power Ground rounds off the set and gives Victreebel the means to take out Heatran. Growth can be used in place of Hidden Power Ground if you opt to use Giga Drain, however. At first glance, this turns Victreebel into an inferior Venusaur, but thanks to Giga Drain, Victreebel is surprisingly self-sustaining.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Maximum Special Attack and Speed EVs obviously maximize Victreebel's offensive capabilities; defensive investment wouldn't be of much help due to Victreebel's laughable defenses. Hidden Power Ice can be used to strike down Dragon-types such as Dragonite and Salamence, but Sludge Bomb is often enough to get the job done. Sleep Powder is another useful move that can bail you out in a pinch. Solar Beam can be used as a Grass-type STAB as well, but Venusaur is a much better user of this move.</p>
+
+<p>As with any other Chlorophyll sweeper, Ninetales's Drought is an absolute must. Stealth Rock and Spikes are also useful commodities that take advantage of the switches that this set forces to wear down the opponent. Forretress and Donphan are common choices for setting up entry hazards, and both provide Rapid Spin support for Ninetales at the same time. Without its trusty Power Whip or Leaf Blade, Victreebel needs to be backed by a powerful physical attacker, such as Infernape, Darmanitan, or Arcanine to deal with special walls such as Chansey and Blissey. Furthermore, this set is worn down very quickly, so Wish support from the likes of Chansey and Blissey will certainly be helpful.</p>
+
+[Other Options]
+
+<p>Victreebel doesn't really have a niche in the metagame besides that of a Chlorophyll sweeper, and therefore it doesn't have many other options to work with. Encore can grant Victreebel a free turn to set up, but Sleep Powder usually accomplishes this and more.</p>
+
+[Checks and Counters]
+
+<p>Heatran is capable of walling most sets and cremating Victreebel with a scorching-hot, sun-boosted Fire-type STAB move. Dragon-types such as Dragonite and Latias can also wall Victreebel to an extent, although both must be wary of a KO from Sludge Bomb after Stealth Rock damage. Chansey and Blissey wall the special set all day long, although switching into a Power Whip or boosted Leaf Blade isn't the brightest idea. While there are Pokemon that can shrug off Victreebel's attacks, almost all of them must avoid Sleep Powder, which would likely put them out of commission for the duration of the match.</p>
+
+<p>Disregarding opposing Chlorophyll sweepers, there are very few Pokemon that can match Victreebel's Speed. Add that to Victreebel's immense offensive potential, and you're almost certain to lose if you see the words "Victreebel used Growth!". One way to get around this is to bypass Victreebel's Speed advantage through the use of priority. Ice Shard from Mamoswine or Weavile equates to certain death for Victreebel, as does Choice Band Scizor's Bullet Punch. The best way to deal with Victreebel, though, is to exploit its low bulk and reliance on the sun. As long as you can maintain the weather advantage, Victreebel shouldn't cause any major headaches. Applying sufficient offensive pressure and giving Victreebel no breathing space also ensures the opponent wont be able to click Growth without repercussions.</p>

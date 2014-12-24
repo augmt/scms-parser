@@ -1,0 +1,53 @@
+Overview
+########
+
+This generation, Ampharos received a huge buff in the form of a Mega Evolution. Outside of Mega Ampharos's fabulous appearance, it also boasts the third highest Special Attack stat in the format, excellent 90 / 105 / 110 base defenses and a Dragon secondary typing that allows it to check common Pokemon like Mega Charizard Y, Talonflame, Rotom-Heat, and Rotom-Wash. Mega Ampharos's low Speed also makes it a powerful threat on Trick Room.
+
+Mega Ampharos's new typing does have its flaws though, for it is weak to the common Earthquake, but also to the common Dragon- and Ice-type coverage moves. While on the surface Mold Breaker might seem like a good ability, Mega Ampharos lacks any way to properly use it. As you can only use one Mega Evolution in battle, Ampharos faces heavy competition in this regard; its complete lack of versatility does it no favours either.  Because of Mega Ampharos's low Speed, the second lowest of any fully evolved Dragon-type, it is very hard to use outside of Trick Room. Additionally, it lacks a powerful STAB Dragon move, having to make do with the relatively weak Dragon Pulse.
+
+Trick Room Attacker
+########
+name: Trick Room Attacker
+move 1: Thunderbolt
+move 2: Dragon Pulse
+move 3: Substitute / Focus Blast
+move 4: Protect
+ability: Static
+item: Ampharosite
+evs: 252 HP / 44 Def / 96 SpA / 116 SpD
+ivs: 0 Spe
+nature: Quiet
+
+Moves
+========
+
+Mega Ampharos's STAB attacks have great coverage, with very few Pokemon resisting both. Thunderbolt hits Mega Charizard Y and Talonflame among others, and Dragon Pulse hits Dragon-types such as Garchomp and Salamence. Protect is a staple on many Pokemon in VGC as it can be used to scout what your opponent wants to use or block an attack to allow Ampharos's partner to take on the threat. Substitute blocks attacks and all status moves and on a forced switch or with correct prediction. Focus Blast can be used to hit Tyranitar and Mega Kangaskhan, but the miss chance and otherwise unnecessary coverage can make Substitute a better option. Substitute is harder to set up outside of Trick Room, so Focus Blast might be preferable to hit Pokemon that would otherwise give Ampharos problems, like Tyranitar and Assault Vest Scrafty.
+
+Set Details
+========
+
+The Defense investment is such that Mega Ampharos can survive a Life Orb Dragon Claw from Garchomp, while the Special Defense EVs lets Mega Ampharos survive a Draco Meteor from a Timid-natured Salamence. The Special Attack EVS ensures an OHKO against Garchomp with Dragon Pulse and Mega Charizard Y with Thunderbolt. Static is almost entirely useless, as Ampharos will be Mega Evolving for the additional power and bulk; nevertheless, the chance of paralysis if Ampharos switches in on a contact move is appreciated, though highly situational. Absolute minimum Speed is run to make Ampharos as fast as possible inside Trick Room. If you don't want to run Ampharos in Trick Room, an alternative spread of 252 HP / 4 Def / 52 SpA / 76 SpD / 124 Spe with a Modest nature is recommended. with this spread, Mega Ampharos will still OHKO the aforementioned Pokemon; Salamence, will only have an 18.8% chance to OHKO with Draco Meteor and will never OHKO with a Timid-natured Choice Specs Dragon Pulse. The Speed EVs ensure Mega Ampharos outspeeds neutral base 60s, Aegislash for instance.
+
+Usage Tips
+========
+
+For Ampharos to be as effective as possible in Trick Room, it should Mega Evolve before Trick Room is set up. This is because Speed only changes on the turn after Mega Evolving, and Mega Ampharos should be as slow as possible. Substitute should be set up at the first chance; this can be done against the common Rotom-H and Rotom-W, neither of which can break Mega Ampharos's Substitute or outspeed it under Trick Room. Amoonguss falls into this category as well. By having a Substitute up when Trick Room goes down, Mega Ampharos ensures its usefulness for at least another turn. It is an absolute requirement that faster Pokemon that threaten the alternative spread are KOed before Ampharos comes in. When not running Trick Room Mega Ampharos should only Mega Evolve when it wants to go for a move other than Protect, as this allows it to be as fast as possible; Mega Ampharos's lower Speed is only factored in the turn after it Mega Evolves.
+
+Team Options
+========
+
+Trick Room setters are almost a necessity. Gardevoir, Gourgeist-S, and Aromatisse all get a special mention. Aromatisse threatens opposing Dragon-types even outside of Trick Room, Gourgeist resists Earthquake and can spread burn, and Gardevoir can both threaten Dragon-types and spread burns. Amoonguss can use Rage Powder to redirect attacks and support Mega Ampharos in setting up Substitutes, while the latter deals with Mega Charizard Y and Talonflame, which threaten Amoonguss. Rotom-H beats Steal-types like Ferrothorn and Mega Mawile that can cause problems for Mega Ampharos. Aegislash can take Dragon-type hits while supporting Mega Ampharos with Wide Guard, blocking Earthquakes.
+
+Other Options
+########
+
+Ampharos can run Power Gem or Hidden Power Ground to hit Fire-types, Power Gem, however, doesn't generally improve coverage, while Hidden Power Ground won't OHKO defensive Rotom-H. Volt Switch can be run to switch out while dealing damage, it is worth noting that it should never be run with Substitute. Thunder Wave can be run if you want a form of speed control. Rain Dance can be run if you want Mega Ampharos to set up rain to support the team, and Thunder could also be run on rain as a more powerful STAB move. Ion Deluge, Eerie Impulse, and Electric Terrain are all interesting support moves, however gimmicky or situational they may be.
+
+Checks & Counters
+########
+
+**Offensive Typing Advantage**: Mega Ampharos is weak to common Dragon-, Fairy-, and Ground-type attacks. A STAB Earthquake will definitely 2HKO, if not OHKO, Mega Ampharos, whereas stronger single target moves like Play Rough from bulky Mega Mawile will OHKO.
+
+**Speed Control**: Outside of Trick Room, Mega Ampharos is slow and susceptible to being KOed before it can attack, even if it may mean double targeting. Trick Room can be shut down with Taunt or your own Trick Room setter.
+
+**Specially Defensive Pokemon**: Specially defensive Pokemon such as Mega Venusaur can wall Mega Ampharos and use Synthesis to heal off any damage. Tyranitar can soft check Mega Ampharos, if it is lacking Focus Blast. It is unable to 2HKO Tyranitar in sand and will be 2HKOed by a Life Orb-boosted Ice Beam after sand damage.

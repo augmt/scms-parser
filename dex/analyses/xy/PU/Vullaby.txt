@@ -1,0 +1,52 @@
+Overview
+########
+
+With reliable recovery and an excellent support movepool, Vullaby is a very effective tank that is capable of taking hits and removing entry hazards. Vullaby's Dark / Flying typing allows it to check most Psychic- and Ghost-types such as Kadabra and Haunter. Vullaby's niche over other common Defog users lies in its ability to handle offensive and defensive teams with moves like Taunt, which cripples defensive Pokemon, and Foul Play, which heavily damages offensive threats. While Vullaby is quite bulky when equipped with an Eviolite, it relies very heavily on it to consistently take attacks and dislikes the common Knock Off, even though it resists it. Furthermore, Vullaby faces competition from other Defog users such as Togetic, which has a much better defensive typing, and Swanna, which has much more offensive presence. Vullaby also has a fairly poor matchup against common entry hazard setters, such as Golem, Barbaracle, Aurorus, and Glalie.
+
+Defensive
+########
+name: Defensive
+move 1: Roost
+move 2: Defog
+move 3: Taunt / Whirlwind
+move 4: Foul Play / Knock Off
+ability: Overcoat
+item: Eviolite
+evs: 248 HP / 8 Def / 252 SpD
+nature: Careful
+
+Moves
+========
+
+Roost provides Vullaby with a reliable form of recovery. Defog removes entry hazards from both sides of the field, a great asset to many teams. Taunt prevents entry hazards from being set or removed with Defog, status from being spread, and setup moves from being used. Alternatively, Whirlwind forces foes to rack up entry hazard damage and phazes out boosted Pokemon. Foul Play prevents Vullaby from being Taunt bait and hits physical attackers for consistent damage. Knock Off can be used to remove enemies' items on the switch in.
+
+Set Details
+========
+
+Maximum Special Defense investment and a Careful nature are used to capitalize on Vullaby's respectable Special Defense stat and allow it to check Psychic- and Ghost-types effectively. 248 HP EVs give Vullaby an odd HP number, allowing it to switch into Stealth Rock five times instead of four. Alternatively, a physically defensive EV spread of 248 HP / 252 Def / 8 SpD with an Impish nature better handles threats such as Tauros, Sawsbuck, Purugly, and Dodrio. Eviolite boosts Vullaby's defenses to very high levels. 44 Speed EVs can be used to let Vullaby outspeed and Taunt uninvested Pelipper, preventing Roost, Defog, and Toxic.
+
+Usage Tips
+========
+
+Vullaby should pivot into resisted or neutral attacks from the likes of Haunter and Kadabra and then threaten them out with a Dark-type attack, giving it an opportunity to use Roost or clear entry hazards with Defog. Vullaby should always stay away from Knock Off users, as it relies on its Eviolite to handle powerful attackers. It is important that Vullaby doesn't switch into offensive Stealth Rock setters such as Marowak, Golem, Barbaracle, and Aurorus, especially if Stealth Rock has already been set up. Vullaby should use Roost against attackers in order to gauge how much damage they can deal, and if they cannot 2HKO Vullaby, it can win one-on-one. When against a physical attacker, Foul Play is generally the safest move to go for, as it deals respectable damage to most physical attackers, such as Tauros and Scyther. Vullaby has a great matchup against most Grass-types, such as Tangela and Roselia, as it takes little damage from their STAB moves and is immune to Tangela's Sleep Powder thanks to Overcoat. When against these Pokemon, Vullaby should use Defog, clearing all entry hazards.
+
+Team Options
+========
+
+Heal Bell support from Pokemon such as Lickilicky and Grumpig is helpful to remove detrimental status conditions from Vullaby, particularly poison, which quickly reduces Vullaby's longevity. Bulky Ground-types such as Golem and Torterra are good teammates to absorb Rock- and Electric-type attacks. Poliwrath is a great partner to complement Vullaby's special bulk with its physical bulk, and Poliwrath is able to handle most Rock- and Ice-types. Most notably, Poliwrath is the best switch-in to Sneasel, which threatens to remove Vullaby's Eviolite with Knock Off or hit it for super effective damage with Ice Punch. Offensive Pokemon that appreciate entry hazard removal, such as Ninetales, Heatmor, Chatot, and Bouffalant, all make for great teammates.
+
+Other Options
+########
+
+Toxic cripples bulky Pokemon and attackers, but Vullaby has trouble fitting it into its moveset. U-turn can be used to gain momentum, but Vullaby is better off staying in to tank hits and deal damage with Foul Play or Knock Off.
+
+Checks & Counters
+########
+
+**Knock Off**: While Vullaby takes little damage from Knock Off, it needs Eviolite to consistently take attacks. Sneasel is a massive problem for Vullaby, as it threatens to remove its Eviolite with Knock Off, but Sneasel cannot switch in safely, as it takes a lot of damage from Foul Play.
+
+**Taunt**: Taunt users such as Misdreavus, Haunter, and Purugly prevent Vullaby from healing or using status moves. These Pokemon take significant damage from Foul Play and don't appreciate losing their item, however, while some other Taunt users, such as Serperior, Vigoroth, and Barbaracle, can easily Taunt Vullaby with few repercussions.
+
+**Super Effective Moves**: Ice-types such as Sneasel and Rotom-F can threaten out Vullaby with their respective STAB moves. Rotom-F has an easier time switching in, only fearing Knock Off, while Sneasel gets hit hard with Foul Play. Rock-type Pokemon such as Barbaracle, Aurorus, Golem, and Bastiodon are problematic for Vullaby. The former three threaten out Vullaby with their STAB moves, while Bastiodon often carries Magic Coat to bounce back Taunt. Electric-types such as Raichu and Zebstrika threaten to OHKO or 2HKO Vullaby, and they gain momentum with Volt Switch if Vullaby switches out. However, they cannot switch in safely at the risk of losing their items from Knock Off or losing nearly half of their HP to Foul Play. Fairy-types such as Togetic and Mr. Mime can hit Vullaby hard with a STAB Dazzling Gleam. However, neither appreciate losing their items to Knock Off or being Taunted.
+
+**Offensive Pressure**: While Vullaby has very respectable bulk with Eviolite, it does not have the passive recovery of Leftovers and is forced to use Roost often. As Vullaby is often pressured between healing itself, clearing entry hazards, and attacking, it can be easily overwhelmed.

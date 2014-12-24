@@ -1,0 +1,63 @@
+[Overview]
+
+<p>Lanturn's excellent typing makes it only one of three ADV Pokemon that resist both parts of the BoltBeam combination; it is also the only one with any defenses to speak of. Thanks to its has good special bulk, excellent type synergy with Pokemon such as Skarmory and Gyarados, and ability to spread paralysis, Lanturn is a decent choice for standard teams. In addition, Lanturn is one of the few Pokemon that can effectively stop offensive Calm Mind Suicune, who is a huge threat that many teams have difficulty dealing with.</p>
+
+<p>However, without large investment in Special Attack, Lanturn lacks firepower. It suffers from a crippling weakness to the very common Ground-type attacks, and its lack of phazing capability leaves it setup bait to the likes of Calm Mind Celebi and Curse Snorlax. It is also vulnerable to all forms of passive damage, and hates poison unless it is running a RestTalk set. Nonetheless, its glut of resistances and immunities to common attacks, along with its good bulk, makes it a worthwhile addition to most teams that need a bulky Water-type.</p>
+
+[SET]
+name: RestTalk
+move 1: Thunderbolt
+move 2: Surf / Ice Beam
+move 3: Rest
+move 4: Sleep Talk
+item: Leftovers
+ability: Volt Absorb
+nature: Modest
+evs: 40 HP / 252 SpA / 216 SpD
+
+[SET COMMENTS]
+
+<p>This Lanturn is a great status absorber and check to Water-types not named Swampert; it also walls most Electric-types to a certain extent. With reliable recovery in Rest and Volt Absorb constantly bringing it back up to high health, it is very durable. Sleep Talk stops Lanturn from being dead weight when asleep, and also means that it is not reliant on cleric support. Thunderbolt is a powerful STAB move that provides decent coverage alongside Surf. Alternatively, Ice Beam provides better coverage in general, allows Lanturn to hit Zapdos harder, and also puts a large dent into Grass- and Dragon-types--such as Venusaur and Flygon, respectively--that love to switch in on it. Celebi, however, shrugs off Ice Beam damage and can Recover any lost health.</p>
+
+<p>This set is easily trapped and killed by Dugtrio as it has to Rest at some point, which allows Dugtrio to switch in freely; Dugtrio can alternatively come in on a predicted Thunderbolt. When using this set, make sure that Lanturn attacks first with Surf or Ice Beam--as opposed to Thunderbolt--so that Dugtrio cannot freely switch in. Be careful about when you choose to let it use Rest as well.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given spread allows Lanturn to reach 401 HP, which means that it can survive five Seismic Tosses with Leftovers recovery, switch into three layers of Spikes four times, and also survive eight turns of Leech Seed damage. Maximum Special Attack and a Modest nature allow it to deal decent damage. The rest of the EVs are placed in Special Defense to maximize Lanturn's special bulk.</p>
+
+<p>Skarmory is an awesome partner for this set because of its immunity to Ground and 4x resistance to Grass, as well as its ability to check physical threats such as Snorlax and Salamence. In return, Lanturn can switch into Electric- and Fire-types attacks while beating Skarmory's counters, such as Starmie, one-on-one.</p>
+
+[SET]
+name: Parafusion
+move 1: Thunderbolt
+move 2: Thunder Wave
+move 3: Confuse Ray
+move 4: Surf / Ice Beam
+item: Leftovers
+ability: Volt Absorb
+nature: Modest
+evs: 40 HP / 252 SpA / 216 SpD
+
+[SET COMMENTS]
+
+<p>This set, as opposed to absorbing status like the RestTalk set, aims to spread status of its own around the opponent's team. It is best utilized alongside Spikes support, as Spikes puts opponents in a catch-22 situation; they are forced to make the difficult decision between staying in on Lanturn while confused and possibly taking confusion damage, or switching out and taking Spikes damage. Parafusion is also an excellent method to allow your hard-hitting Pokemon to switch in with more ease. Thunder Wave and Confuse Ray are the two most important moves on this set as they form the parafusion combination, while Thunderbolt is an obligatory STAB. There are two choices for the last slot--Surf provides another reliable STAB, while Ice Beam is an option for better type coverage, especially on the Grass-types that Lanturn despises. When using this set, like the RestTalk set, attack first with Surf or Ice Beam so Dugtrio can't just freely switch in and dispatch Lanturn.</p>
+
+<p>The issues with this set are its lack of reliable recovery outside of Volt Absorb and its vulnerability to being stalled or poisoned. Despite the fact that Lanturn can switch into Electric-type attacks with impunity and regain health, a good opponent can predict its switch-ins and wear it down by Spikes, sandstorm, status, or simply prediction. Additionally, many Electric-types now favor Hidden Power Grass or Toxic over Hidden Power Ice to hit Swampert, which reduces Lanturn's ability to wall them.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>This set synergizes excellently with all three of OU's premier Spikes users--Cloyster, Forretress, and Skarmory--not only type-wise, but also by forcing switches through inflicting confusion. Cloyster is also a large help to Lanturn in that it spins away the Spikes that this Lanturn dislikes. This set also works well alongside sweepers and hard-hitters such as Gyarados and Aerodactyl. Not only does Lanturn make it easier for them to switch in and fire off attacks or set up by paralyzing and confusing the opponent's Pokemon, the two aforementioned Pokemon also bait Electric-type moves for Lanturn to switch into and gain health from. This set is easily worn down by status; as such, clerics in general make good partners.</p>
+
+[Other Options]
+
+<p>A Substitute + three attacks set works well on Lanturn; once Blissey and Celebi are removed, it will prove to be a thorn in the side of typical stall teams that use a combination of Suicune, Zapdos, and Skarmory. Dugtrio therefore makes a good partner to the aforementioned set due to its ability to remove Blissey and Celebi. However, this set is setup fodder for Pokemon such as Curse Snorlax, and is also unable to recover efficiently.</p>
+
+<p>Toxic is an interesting option to use over Confuse Ray on the parafusion set; it can even be considered over Surf on the RestTalk set, but is not recommended as it allows Dugtrio a free switch. Nonetheless, it can wear down Lanturn's counters, such as Swampert. Hydro Pump is an alternative STAB option, but its low PP is an issue in longer games, and it does not give enough extra power over Surf to merit use. Thunder is a viable option on the RestTalk set if you want Lanturn to be able to spread status, but its low accuracy is a major turn-off. Even though Lanturn is bulky enough to afford the occasional miss, it could miss a crucial KO on a threat such as Explosion Cloyster.</p>
+
+[Checks and Counters]
+
+<p>Celebi is the best Lanturn counter in the game as it resists both Lanturn's STAB moves, does not fear paralysis, and is able to use Leech Seed to chip away Lanturn's HP. Celebi can also set up Calm Mind boosts on Lanturn with impunity. Swampert is immune to Electric-type attacks, takes little from Surf, and can do heavy damage with Earthquake or set up with Curse; it needs to watch out for Toxic, however. Snorlax has an awesome Special Defense stat, can take any hit that Lanturn dishes out, and sets up Curse on it fearlessly. Blissey stops Lanturn cold, but can't really hurt it back. It will always win a stall war one-on-one, however. Metagross can take anything Lanturn throws at it and can OHKO it with Earthquake.</p>
+
+<p>Venusaur resists both of Lanturn's STAB moves and can wear it down with Leech Seed or hit it hard with Razor Leaf. It can even set up with Swords Dance on it. However, Venusaur needs to avoid paralysis and Ice Beam. Exeggutor is in the same boat as Venusaur, but it also needs to watch out for paralysis and Ice Beam if attempting to sweep.</p>
+
+<p>Finally, although it can't switch in on Surf or Ice Beam, Dugtrio can trap and revenge kill Lanturn.</p>

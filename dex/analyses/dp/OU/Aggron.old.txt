@@ -1,0 +1,90 @@
+[Overview]
+
+<p>In the past, Aggron had largely been ignored in favor of the bulkier yet more powerful Rhyperior. The addition of Head Smash to Aggron's movepool, though, allows him to pose a real offensive threat; Aggron has so much raw power that many teams will be forced to sacrifice a Pokemon to deal with him. However, Aggron is plagued with several common weaknesses, and his low Speed means that he will often have to switch out of common threats. Nevertheless, with his many resistances and his sheer power, Aggron can easily punch holes in the opposing team.</p>
+
+[SET]
+name: Choice Band
+move 1: Head Smash
+move 2: Earthquake
+move 3: Aqua Tail
+move 4: Ice Punch
+item: Choice Band
+ability: Rock Head
+nature: Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>With the power of Head Smash further boosted by a Choice Band, Aggron is capable of literally smashing through the opposing team. To put this in perspective, Choice Band Aggron's Head Smash is 9% stronger than Choice Band Groudon's Earthquake. The remaining three moves provide coverage on the Pokemon that resist Aggron's Rock-type STAB: Earthquake hits Steel-types such as Metagross and Jirachi, Aqua Tail destroys Ground-types such as Hippowdon, and Ice Punch takes out Flygon and Breloom, both of whom can take one Head Smash and retaliate.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>To show the sheer power of Head Smash, here are some calculations against Pokemon that either resist Head Smash or are extremely defensive. These calculations all assume a Jolly nature.</p>
+
+<ul class="damage_calculation">
+<li>Head Smash vs. 12/0 Breloom 74.2% - 87.5%</li>
+<li>Head Smash vs. 0/0 Jirachi 47.8% - 56.3%</li>
+<li>Head Smash vs. 252/220+ Celebi 59.7% - 70.5%</li>
+<li>Head Smash vs. 252/4 Gliscor 75.7% - 89.3%</li>
+<li>Head Smash vs. 252/252+ Suicune 52.7% - 62.4%</li>
+<li>Head Smash vs. 252/176+ Skarmory 58.1% - 68.9%</li>
+<li>Head Smash vs. 252/0 Metagross 35.7% - 42%</li>
+</ul>
+
+<p>The listed EVs provide Aggron with maximum power while still letting him outspeed Pokemon such as uninvested Rotom-A, Suicune, Cresselia, and Gyarados; slower stall teams will therefore have even more problems taking out Aggron. If you want more power, feel free to use an Adamant nature along with enough Speed EVs to outspeed Skarmory. 164 Speed EVs let Aggron outrun uninvested Skarmory, but bear in mind that some do invest in Speed. Additionally, Toxic can be used over Ice Punch to cripple Pokemon such as Hippowdon and Swampert on the switch.</p>
+
+<p>Due to Aggron's three common weaknesses in Ground, Fighting, and Water, teammates who resist these moves are appreciated. Celebi is a great partner for Aggron because it resists all three of the aforementioned types; it can also spread paralysis with Thunder Wave, which compensates for Aggron's low Speed. Gengar is a good partner as well, as he is immune to Ground- and Fighting-type moves and can lure in Blissey, whom Aggron can easily switch in on. Additionally, Aggron resists Ghost and Dark, which the aforementioned Pokemon are weak to. Sandstorm support is appreciated as it boosts Aggron's Special Defense; Hippowdon can set up Stealth Rock and tank Flygon's Earthquake, while Tyranitar can use a Choice Band set to help wear down the opposing team, or use Flamethrower and Ice Beam to take care of Breloom and Flygon. As Aggron will be switching in and out a lot, Rapid Spin support is helpful; Starmie is a great choice because it not only resists Water and Fighting, but can break down physical walls with its STAB Hydro Pump.</p>
+
+<p>Aggron has trouble with defensive Pokemon such as Hippowdon, Swampert, and Metagross. Celebi can handle all three with Grass Knot, Leaf Storm, and Earth Power, respectively. After Aggron KOes a foe, he can easily be revenge killed by faster Pokemon. Flygon can be handled with Gengar, who is immune to Earthquake, and by Hippowdon, who can tank any hit that Flygon throws at him. Hippowdon can also tank Bronzong and Metagross's hits as well as provide sandstorm to boost Aggron's Special Defense. Specially defensive Zapdos can take care of Starmie, Heatran, and Shaymin by tanking their hits and threatening them with its powerful attacks; furthermore, Zapdos has good synergy with Aggron.</p>
+
+[SET]
+name: Rock Polish
+move 1: Rock Polish
+move 2: Head Smash
+move 3: Earthquake
+move 4: Ice Punch / Aqua Tail
+item: Life Orb
+ability: Rock Head
+nature: Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Aggron can run a Rock Polish set in order to make up for his mediocre speed. Unlike Rhyperior, +2 Aggron can outspeed Choice Scarf Heatran and OHKO it with Earthquake. Head Smash still does obscene amounts of damage even with only a Life Orb boost, while Earthquake hits the Steel-type Pokemon that threaten Aggron with super effective hits. Ice Punch KOes Gliscor and Breloom, and also takes down Choice Scarf Flygon should Aggron get more than one Rock Polish boost. Aqua Tail dents Hippowdon and can 2HKO him if he's below 75% health.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Aggron can run an Adamant nature for more power, but he will fail to outspeed Choice Scarf Heatran and positive-natured base 130s after a Rock Polish boost. As these are Aggron's greatest advantages over Rhyperior, running an Adamant nature is therefore not recommended.</p>
+
+<p>As this Aggron is a setup sweeper, sandstorm support is more of a necessity to help him take a hit when he has to. Hippowdon is a good partner because he can take Choice Scarf Flygon's Earthquakes and KO with Ice Fang, while Tyranitar can lure in and KO Flygon with Ice Beam. Due to Aggron's decreased damage output, entry hazard support is helpful to assist in his sweep. Roserade is a good partner because he not only resists Water and Fighting, but can also can scare away bulky Water-types with his Grass-type STABs while setting up Spikes in the process. Alternatively, Skarmory is immune to the Ground-type moves that plague Aggron and can Roost off any damage it takes.</p>
+
+<p>Pokemon who can cover Aggron's weaknesses, such as Gengar, make good partners; Celebi can also take out bulky Water-types that can take a Head Smash. Aggron has trouble with Hippowdon, Swampert, and Metagross. Roserade and Celebi can take care of the latter two; Celebi can also eliminate Metagross with Earth Power. In addition, even after a boost, Aggron is outsped by base 100 Choice Scarf users. As previously mentioned, both Hippowdon and Tyranitar have ways of beating Flygon, while Choice Scarf Gengar and Starmie can be removed by Pursuit from either Scizor or Tyranitar.</p>
+
+[SET]
+name: Substitute
+move 1: Substitute
+move 2: Head Smash
+move 3: Earthquake
+move 4: Ice Punch / Magnet Rise / Aqua Tail
+item: Leftovers
+ability: Rock Head
+nature: Adamant
+evs: 252 HP / 252 Atk / 4 SpD
+
+[SET COMMENTS]
+
+<p>As Aggron can force many switches with his multiple resistances and strong attacks, he can run a Substitute set to ease prediction and avoid taking heavy hits. Head Smash is powerful STAB as always, and Earthquake hits Steel-types. In the last slot, Ice Punch KOes Flygon and Gliscor, Magnet Rise nullifies most of Aggron's checks by granting him an immunity to Earthquake, while Aqua Tail hits Hippowdon.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given EVs provide Aggron with maximum bulk while retaining maximum power, but you can take EVs out of HP in order to let Aggron outspeed Skarmory; 164 Speed EVs enable him to beat out uninvested Skarmory. An Adamant nature is recommended because this Aggron does not gain a power boost from his item.</p>
+
+<p>Aggron appreciates the partners mentioned in the two previous sets, namely Celebi and Gengar for their useful defensive synergy, Hippowdon and Tyranitar for sandstorm support, and Roserade and Skarmory for Spikes support. Furthermore, Celebi can help take down Pokemon that can survive one of Aggron's hits, such as Hippowdon, Swampert, and Metagross.</p>
+
+[Other Options]
+
+<p>Aggron can run a defensive set if given sandstorm support, as his many resistances let him set up Stealth Rock and tank hits. However, his three weaknesses are extremely commonly seen, and his low HP lets him down defensively. Metal Burst is viable as Aggron has the defenses to be able to survive a hit, but outright attacking is usually more reliable and lets Aggron live for a longer period of time. Iron Tail is an option for secondary STAB, but the accuracy is a letdown. Thunder Wave can be helpful for team support, but Aggron can usually KO opponents with Head Smash, and the Ground-type Pokemon that resist Head Smash are also immune to Thunder Wave.</p>
+
+[Checks and Counters]
+
+<p>Ground- and Steel-types, Hippowdon, Swampert, Metagross, and Bronzong in particular, can take a Head Smash and retaliate with Earthquake, while bulky Water-types such as Suicune and Vaporeon can take a hit and KO with Surf. However, few other Pokemon can switch into repeated Choice Band Head Smash. Gliscor, Flygon, Gengar, and Starmie all don't like taking Head Smash, but they can all outspeed Aggron and KO him with their super effective moves.</p>

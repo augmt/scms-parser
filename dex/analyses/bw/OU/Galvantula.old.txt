@@ -1,0 +1,65 @@
+[Overview]
+
+<p>Of all the Pokemon introduced in BW, Galvantula was one of those that caused the greatest stir, both before and after the game's release. In many ways, it is easy to see why. Galvantula's unique typing of Bug / Electric gives it a powerful offensive STAB combination, and its Compound Eyes ability allows it to abuse a more accurate STAB Thunder with few drawbacks. Base 108 Speed and base 97 Special Attack further supplement its ability to fire off strong, fast attacks.</p>
+
+<p>However, with all positives must inevitably come negatives, and for Galvantula these can be quite severe. While its typing is good offensively, it is quite poor defensively, with particular emphasis on an annoying weakness to Stealth Rock. This is further aggravated by Galvantula's low defensive stats, which together ensure that it will not last for very long. To make matters worse, its movepool is quite limited, necessitating the use of low Base Power moves such as Giga Drain and Hidden Power for coverage. Galvantula is certainly a force to be reckoned with, but don't expect it to take your opponents by storm.</p> 
+
+[SET]
+name: Life Orb
+move 1: Thunder
+move 2: Bug Buzz
+move 3: Giga Drain / Volt Switch
+move 4: Hidden Power Ice / Hidden Power Fire
+item: Life Orb
+ability: Compound Eyes
+evs: 4 HP / 252 SpA / 252 Spe
+nature: Timid
+
+[SET COMMENTS]
+
+<p>By far Galvantula's most interesting option is the combination of its ability Compound Eyes and STAB Thunder, which, when combined with the power of Life Orb, does a minimum of 72% to 248 HP Scizor, which is even more than Choice Specs Jolteon's Thunderbolt. Bug Buzz complements Thunder, covering the Grass-types who resist Electric-type attacks, notably Celebi. It also gains super effective coverage on other Pokemon who can take Thunder, such as Hydreigon, Latias, Latios, and Tyranitar, giving Galvantula reasonably comprehensive coverage in two moves. In practice, Timid Life Orb Bug Buzz OHKOes Hydreigon, thus dealing with this and other dangerous threats that think they can take a Thunder. This gives Galvantula a further advantage over other offensive Electric-types.</p>
+
+<p>Between Bug Buzz and Thunder, Galvantula can generally cover most Dragon- and Grass-types very effectively, which means that the common headache for other Electric-types about whether to run Hidden Power Ice or Hidden Power Grass does not apply, as the Grass-type move is greatly superior. In addition, unlike most Electric-types, Galvantula has access to Giga Drain, meaning it does not have to run Hidden Power Grass at all. With Giga Drain, Galvantula can beat many enemies that are immune to Electric-type attacks, namely Ground-types and Lanturn. With Life Orb, standard Gastrodon is OHKOed and specially defensive Lanturn is 2HKOed with Stealth Rock and Spikes.</p>
+
+<p>In the last slot, you can cover specific threats that Galvantula's more general attacks miss out on, principally Grass-types not hit super effectively by Bug Buzz. Hidden Power Fire deals with Ferrothorn, whom Galvantula will otherwise have immense trouble with, and is common enough to warrant a dedicated moveslot. With Hidden Power Ice, Galvantula can hit Gliscor for super effective damage, and also get a stronger hit on Dragonite and Salamence, though be advised that Galvantula can hit both of these threats for good damage with neutral STAB moves regardless. The biggest advantage to Hidden Power Ice is that Galvantula can run a 31 Speed IV, letting it tie with Infernape and Terrakion, which is always useful in a pinch. Alternatively, Galvantula can run Volt Switch over one of its coverage options, as the ability to scout the opponent may be more appealing to you than coverage on certain specific opponents.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs and nature are simple sweeper EVs. A Timid nature is mandatory to maximize your Speed stat, which is one of Galvantula's biggest boons, allowing it to outrun many powerful threats, including Salamence and Zoroark. Next, Special Attack should also be maximized and the remaining EVs stuck in HP, since with the IV drop from Hidden Power, Galvantula's HP is indivisible by four, giving it a maximum of five switches into Stealth Rock. If you use Hidden Power Fire, it may be worth using only 228 Speed EVs to outpace Timid Zoroark, as Galvantula will not be able to Speed tie with Terrakion any more. The remaining EVs can be placed in HP, but always make sure that its HP stat is indivisible by four. If you do not want to use Hidden Power in the last slot, there are a number of other options available. Charge Beam allows Galvantula to boost its Special Attack stat, and also benefits from Compound Eyes. Sucker Punch is an option for a priority move to remove weakened, frail sweepers, but with Galvantula's frailty and low Attack stat, it will rarely be worth the loss of Hidden Power. Lastly, Substitute is an option to help with prediction and block status, but the combination of Life Orb, Substitute, and weakness to Stealth Rock will take its toll on Galvantula.</p>
+
+<p>Stealth Rock and Spikes support is greatly advisable in order to take full advantage of Galvantula's damage output, and also to ensure that Galvantula obtains OHKOs and 2HKOs that it would not be able to otherwise. On the other hand, Galvantula itself can lose a fair amount of health from your opponent's Stealth Rock, so ideally you will want a Rapid Spin user such as Starmie to remove these hazards and give Galvantula an easier time switching in and out. As far as teammates go, Galvantula is a bit limited when it comes to defensive synergy. Pretty much anything that can take a hit beats this guy, as it dies pretty quickly to any sort of attack, and has very few worthwhile resistances. Therefore, you will want to try to lure in Electric- and Grass-type attacks for Galvantula to switch in on. For this reason, bulky Water-types can be pretty good partners. Vaporeon can lure in Grass- and Electric-type attacks, and can switch in on Fire-type attacks, while also supporting Galvantula with Yawn, Wish, and Heal Bell. Quagsire and Gastrodon have almost perfect defensive synergy with Galvantula, as they resist both Fire- and Rock-type attacks, and can also provide support if needed. Tentacruel is also notable for its ability to Rapid Spin away Stealth Rock.</p>
+
+<p>After that, you'll want some offensive complements. The ability to take down bulky Water- and Grass-types alike is greatly appreciated by sweepers who would otherwise be troubled by them, such as Gyarados and Kingdra. On the other hand, Galvantula will be able to perform far more effectively if you have something to get rid of Blissey, Chansey, and Gengar, so you could invest in a strong Pursuit-user such as Tyranitar or Scizor. Failing that, a strong Fighting-type can set up on Blissey and benefits from the downing of Flying-types to facilitate a sweep. If you do not have Hidden Power Fire, Ferrothorn will be very troublesome, so a Pokemon such as Magnezone or Heatran can be helpful to get rid of it.</p>
+
+[SET]
+name: Choice Specs
+move 1: Volt Switch
+move 2: Thunder
+move 3: Bug Buzz
+move 4: Hidden Power Ice / Hidden Power Fire
+item: Choice Specs
+ability: Compound Eyes
+evs: 4 HP / 252 SpA / 252 Spe
+nature: Timid
+
+[SET COMMENTS]
+
+<p>Galvantula can act as a potent scout and revenge killer thanks to its high Speed and reasonable power, thus making it an ideal candidate for a Choice Specs set. The biggest advantage Galvantula has in this department is its access to STAB Volt Switch, which allows Galvantula to scout out the opponent's team and deal some hefty damage at the same time. Another advantage is that, for an Electric-type, it gets surprisingly good coverage between its STAB and coverage moves. STAB Thunder hits like a truck with Choice Specs slapped on, so much so that it can OHKO non-bulky Dragonite with Stealth Rock and 2HKO 4/0 Tyranitar. Once again, Bug Buzz is a nice secondary STAB move, and Hidden Power rounds off Galvantula's coverage by hitting those Pokemon that its STAB moves do not. Hidden Power Fire hits Magnezone, Ferrothorn, and Forretress for super effective damage, whereas Hidden Power Ice hits Gliscor, Golurk, Nidoking, and the common Dragon-types for heavy damage. Hidden Power Ice is preferred, as this lets Galvantula run a 31 Speed IV, allowing it to Speed tie with Terrakion and Infernape. Nonetheless, both moves are perfectly usable.</p>
+
+<p>As this is a Choice set, Galvantula cannot change moves, and so it makes a rather tempting invitation for enemy Landorus and others to try to get a free switch. This is especially dangerous to Galvantula as a Ground-type switch-in will prevent it from escaping with Volt Switch, and will thus mess up its scouting endeavor. Remember to use Team Preview to look for any Ground-types or dangerous setup sweepers on the opponent's team, and plan your moves accordingly.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs are extremely simple sweeper EVs. Speed is maximized in order to tie with Infernape and Terrakion, and then Special Attack is maximized to give Galvantula as much offensive power as possible. Rapid Spin support is immensely helpful for this variant of Galvantula, as it will hopefully be trying to make the most use out of Volt Switch, which means plenty of switching, so not taking a massive chunk of damage just by switching in is a big help. Stealth Rock support is also advised in order to enable Galvantula to get those important OHKOs and 2HKOs, as well as weakening the opponent's team in general.</p>
+
+<p>Generally speaking, Choice Specs Galvantula is more of a wallbreaker than a cleaner, so it would be advisable to keep a set-up sweeper to polish off the opponent's team after it has been sufficiently weakened. Galvantula can also act as a useful offensive pivot thanks to Volt Switch, where it can force a switch, then escape its counter immediately, allowing you to bring in a different Pokemon for free, hopefully one that can take advantage of the situation. Galvantula should primarily draw in things that can take either of its STAB attacks, particularly those with high Special Defense. These threats, such as Blissey and Ferrothorn, can be taken care of by a Fighting-type, and you can take the opportunity to set up at the same time. If you can continue to weaken the opponent's team with Volt Switch, you can act as a pivot to allow other threats to get in for free, such as Terrakion, who can take both Rock- and Fire-type attacks and hit back, or set up with Swords Dance or Rock Polish.</p>
+
+[Other Options]
+
+<p>Charge Beam is slightly more reliable for Galvantula than for most other Pokemon, owing to the fact that Compound Eyes makes it 100% accurate. However, Galvantula is generally too frail to try to set up on its own. The same can be said for Agility, as, though it makes Electro Ball more powerful, achieving 150 Base Power on all Pokemon slower than standard 8 Speed Scizor after a boost, it doesn't really have the ability to sweep teams and is difficult to set up. Galvantula also has a pretty decent physical movepool as well, though its Attack stat is lackluster. X-Scissor and Wild Charge are available for STAB, while Pursuit and Sucker Punch can also be used. Sucker Punch is useful in its own right for priority on mixed sets. Lastly, Thunder Wave is always available to slow down a revenge killer on the switch, though Galvantula benefits little from this, as it is pretty fast in its own right. Also, Thunder has a nice 30% chance of paralysis regardless.</p>
+
+[Checks and Counters]
+
+<p>Dedicated special walls inevitably come top of this list. Blissey and Chansey can take literally anything Galvantula throws at them, before either crippling with Thunder Wave or just beating Galvantula down with Seismic Toss. Both also have reliable recovery to offset any damage taken. Porygon2 and Snorlax also work, but take heavy damage from Thunder. Ferrothorn is also significantly specially defensive, and resists Thunder as well as being neutral to Bug Buzz, but it must watch out for a surprise Hidden Power Fire.</p>
+
+<p>In terms of pure resistances, Gliscor and Magnezone are the most notable Pokemon who resist the attacking combination of Bug / Electric, and all are more than capable of taking Galvantula down. However, they should be wary of Hidden Power. Generally speaking, the easiest way to get rid of Galvantula is to play to resistances, and then get in a faster revenge killer to deal with it. Remember that Galvantula is not as powerful as it would like to be, and most bulky Pokemon can take a Thunder and then remove it. Galvantula is already frail, and the combination of entry hazards, Life Orb recoil, and other passive damage means that it will almost certainly be finding itself very low on health very quickly, so be sure to capitalize on this as much as you can. However, keep in mind that Galvantula has nifty resistances to Mach Punch and Bullet Punch, so don't go throwing Conkeldurr or Scizor at it prematurely.</p>

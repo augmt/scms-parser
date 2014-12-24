@@ -1,0 +1,136 @@
+Overview
+########
+
+Groudon is a powerful and versatile threat, boasting the ability to sweep efficiently with boosting moves in Rock Polish and Swords Dance, or to support the team with Stealth Rock, phazing, or status. Its high Defense allows it to act as a check to many prominent physical threats, such as Arceus and Zekrom, and its enormous Attack paired with STAB Earthquake makes it a lethal offensive threat as well. Drought is something else Groudon can use effectively, making it useful for temporarily pumping up the power of Fire-type moves for Pokemon such as Ho-Oh. However, it is held back by its modest Special Defense and Speed stats, and the nerf of Drought in Generation VI somewhat lessens Groudon's supporting capabilities. Nevertheless, Groudon remains the potent force it has always been for the past three generations in the Ubers metagame.
+
+Support
+########
+name: Support
+move 1: Earthquake
+move 2: Stealth Rock
+move 3: Stone Edge / Lava Plume
+move 4: Toxic / Dragon Tail / Roar
+item: Leftovers
+evs: 252 HP / 4 Atk / 252 Def
+nature: Impish
+
+Moves
+========
+
+Earthquake is a powerful STAB move that hits hard thanks to Groudon's naturally high base Attack, despite having no investment. It is mandatory for properly dealing with threats such as Zekrom. Stealth Rock is a very useful support move for Groudon: it is one of the few viable users of the move in Ubers, and Groudon's bulk and typing usually give it ample chances to come in and set it up in battle. Stone Edge is very helpful, as it allows Groudon to OHKO Ho-Oh and significantly damage Yveltal, both of which are dangerous threats that could otherwise freely come in on Groudon. If these threats aren't of concern to your team, Lava Plume is also a solid option for allowing Groudon to KO Skarmory which can otherwise switch freely in on Groudon and use Defog to remove Stealth Rock, easily, while also hitting Landorus-T and potentially crippling it with a burn. However, Lava Plume is not recommended for use if Toxic is run in the last moveslot, as it still cripples Landorus-T and has more general utility.
+
+Speaking of the last moveslot, the choice between Toxic, Dragon Tail, and Roar can be difficult and is oftentimes dependent on what is more important to your team. Toxic pressures Defog users such as support Arceus formes, so they can't freely switch in on Groudon, and it cripples many of Groudon's other checks, such as Landorus-T and Lugia. Dragon Tail allows Groudon to phaze dangerous threats such as Arceus and Mega Mewtwo X, and is generally preferred over Roar, as it gets valuable chip damage on enemy Pokemon and is not blocked by Taunt. However, Roar has perfect accuracy and phazes Substitute users such as Ho-Oh, although Groudon will still need Stone Edge to check it.
+
+Set Details
+========
+
+You will always want to fully invest in Groudon's bulk with the set, usually maximizing its Defense so that it can check physical threats as needed. Leftovers is the preferred item in most cases, as it is Groudon's only form of recovery. Lum Berry is also an option, as it gives Groudon one-time status protection and is useful against support Arceus formes, Ho-Oh, and lead Darkrai, but losing Leftovers recovery is usually not worth it. Heat Rock can be used if you're running a dedicated sun team to extend Drought's duration to eight turns rather than five, but this is only recommended if you are using sun-reliant Pokemon such as Mega Charizard X or Mega Houndoom. It also doesn't help that most Chlorophyll sweepers in Ubers are not worth using even if Drought were still permanent.
+
+An alternative EV spread for Groudon is 252 HP / 4 Atk / 252 SpD with a Careful nature. This makes Groudon surprisingly durable on the special side, making it a better check to mixed Zekrom, support Dialga, and Electric Arceus. Specially defensive Groudon can also take two Lustrous Orb-boosted Spacial Rends from Palkia at full health, making it useful as an emergency check. However, specially defensive Groudon is not nearly as good at checking the physical threats it is otherwise meant to.
+
+Usage Tips
+========
+
+Groudon can switch easily into physical attackers such as Zekrom, Tyranitar, Mega Lucario, Terrakion, and most Swords Dance Arceus formes, as well as bulky Steel-types such as Aegislash and Jirachi, giving it great opportunities to set up Stealth Rock, phaze, or spread status. It fits best on balanced or stall teams that need a physically bulky Pokemon which can set up Stealth Rock reliably. It can work on more offensively oriented teams, but support Groudon isn't as good at maintaining momentum, so it would be better to stick to the more offensively inclined sets.
+
+Deciding when to use Stealth Rock takes a bit more care than it might seem at first glance, as taking a turn to use the move can cost you a lot of momentum. Save it for when you predict the opponent to switch out or are in against something that doesn't threaten Groudon too much such as Tyranitar. More specifically, you should never use Stealth Rock in the face of Swords Dance Arceus and Ho-Oh, two horribly dangerous threats which Groudon usually only has enough bulk to check once (and it is a very risky switch-in to Ho-Oh regardless). Letting Groudon take a burn or sacrificing it just to set up Stealth Rock is also not advised if you still need Groudon to check something on the opponent's team, such as a Choice Scarf Zekrom. In general, don't play with Groudon too recklessly if you really need it to check something that might otherwise sweep your team.
+
+Drought isn't something you can actively make use of most of the time due to its short duration, but Groudon's good synergy with Fire-types such as Ho-Oh can potentially give you time to make use of it. It can also be used to help slow Kyogre's onslaught if you are having trouble against it, but switching Groudon directly into Kyogre is generally a terrible idea unless you are strongly predicting Thunder or have no other choice. Drought can also backfire on Groudon by boosting enemy Fire-type moves for threats such as Ho-Oh and Mega Blaziken, so be careful.
+
+Team Options
+========
+
+As Groudon is the one doing the supporting, it doesn't require too much support itself. However, it appreciates teammates that can handle powerful special attacks as it cannot take many of them, especially from Pokemon such as Kyogre and Kyurem-W. Palkia is a solid check to most variants of Kyogre, while Water Arceus checks Kyurem-W and Choiced Kyogre well. As a bonus, Water Arceus is a solid check to Ho-Oh, which is very good to have if you are not running Stone Edge on Groudon. Blissey is a good catch-all special wall that can take many special attacks aimed at Groudon, and it can heal Groudon with Wish or cure burns it might have taken with Aromatherapy. Chansey and Sylveon can perform similar roles as well, but like Blissey, they can all be potentially sniped by Mega Gengar, so exercise caution when using them. Having something that can take Will-O-Wisp is also a very helpful teammate for Groudon; Ho-Oh is an excellent partner that can switch in on most Will-O-Wisp users such as support Arceus and threaten them with potentially sun-boosted Sacred Fires. Palkia can usually handle the support Arceus variants that Ho-Oh cannot, such as Rock Arceus and Water Arceus, particularly if it is equipped with Assault Vest.
+
+
+Offensive Stealth Rock
+########
+name: Offensive Stealth Rock
+move 1: Earthquake
+move 2: Stealth Rock
+move 3: Stone Edge / Dragon Tail
+move 4: Dragon Tail / Toxic / Lava Plume
+item: Earth Plate / Life Orb
+evs: 4 HP / 252 Atk / 252 Spe
+nature: Adamant / Jolly
+
+Moves
+========
+
+Although the move selection of this set is similar to that of the first set, it operates much differently. Earthquake, which is bolstered by Earth Plate and full investment in Groudon's enormous Attack stat, deals tremendous damage to almost everything that doesn't resist it; it cleanly OHKOes Dialga, a feat that few Pokemon can manage. It also deals over half to most support Arceus variants, pressuring them greatly if they try to come in and use Defog to clear away Stealth Rock. Stone Edge clips Ho-Oh's wings several times over and OHKOes 0 HP Yveltal after Stealth Rock damage, provided it has a Defense-lowering nature. It also does solid damage to Lugia, though it won't usually 2HKO. Dragon Tail is generally best in the last moveslot, as it allows Groudon to check Swords Dance Normal Arceus in a pinch while getting valuable chip damage on Giratina-O, which otherwise walls this set completely. It can also be run over Stone Edge if your team has a solid answer to Ho-Oh. Toxic is a great move on this set, as it cripples Landorus-T and Lugia, both of which can otherwise handle Groudon with ease. Lava Plume is also useful for hitting Skarmory and potentially burning Landorus-T, though it lacks the general utility of Toxic.
+
+Another potential move that can be run on this set is Dragon Claw, which allows Groudon to break Giratina-O a lot easier, nailing 252 HP variants for a 2HKO after Stealth Rock damage. However, it is not as useful as the other moves and Giratina-O generally runs substantial Defense investment, so Dragon Claw is somewhat unreliable.
+
+Set Details
+========
+
+The EVs maximize Groudon's Speed and attacking power, as the focus of the set is to make Groudon extremely threatening offensively. An Adamant nature with and Earth Plate is usually the preferred variant of this set, as it guarantees the OHKO on Dialga with Earthquake. A Jolly nature can also be used with Life Orb to retain the OHKO on Dialga while outpacing other Pokemon in the base 90 Speed group, such as Rayquaza, Kyurem-W, and Yveltal, assuming none of them also run a Speed-boosting nature. Life Orb significantly boosts Groudon's coverage moves as well, allowing for a clean OHKO on 0 HP Yveltal with Stone Edge. Groudon can even 2HKO Lugia with Life Orb-boosted Stone Edge, assuming Groudon is running an Adamant nature and Multiscale is not active. However, Life Orb recoil cuts down Groudon's bulk significantly.
+
+If you want a bulkier Groudon, you can drop the Speed investment as needed. However, you should always run at least 76 Speed EVs, assuming an Adamant nature, in order to allow Groudon to outspeed 0 Speed Yveltal so that it can smack it with Stone Edge before getting wrecked by Foul Play. You can also take some EVs out of Attack, but you need at least 220 EVs to retain the OHKO on Dialga, assuming an Adamant nature and Earth Plate as the item.
+
+Usage Tips
+========
+
+This Groudon set operates effectively on offensive teams that need a reliable Stealth Rock user which can OHKO Dialga, is while being hard to set up on and able to check swords Dance Normal Arceus in a pinch. Unlike the support Groudon build, this set uses its offensive pressure and Speed rather than bulk to force switches and buy time to set up Stealth Rock, so be aggressive and don't play it like the first set. Rather, make use of Groudon's Speed, don't mindlessly use Earthquake if your opponent has Pokemon that are immune to Ground, and don't let it take damage it doesn't need to take.
+
+Team Options
+========
+
+Although Toxic will cripple most of them, this set can be checked fairly easily by physical walls that can handle Earthquake such as Multiscale Lugia, Giratina, Landorus-T, Skarmory, Gliscor, and Grass Arceus. Yveltal switches in easily on all of these Pokemon and destroys them all with its powerful STAB attacks, making it a powerful offensive partner to Groudon, which can return the favor by wrecking Tyranitar and special tanks such as Sylveon with Earthquake. Aside from that, this set retains the same general weaknesses of the first set: it is vulnerable to powerful special attackers, particularly Kyogre and Kyurem-W, and is crippled by burns. Ho-Oh, Water Arceus, and Palkia remain great teammates for these reasons. Rock Arceus is also useful, as it counters Ho-Oh and checks Yveltal fairly well, which is extremely helpful if you decide to not run Stone Edge on Groudon.
+
+Rock Polish
+########
+name: Rock Polish
+move 1: Rock Polish
+move 2: Earthquake
+move 3: Stone Edge
+move 4: Fire Punch / Swords Dance / Dragon Claw
+item: Life Orb
+evs: 80 HP / 252 Atk / 176 Spe
+nature: Adamant
+
+Moves
+========
+
+Rock Polish goes well with Groudon's huge Attack and mediocre Speed stat, turning it into a terrifying sweeper which can easily blow apart teams with its powerful STAB Earthquake. Stone Edge crushes most of the Flying-types that are immune to Earthquake, such as Ho-Oh, Yveltal, and Shaymin-S, while also 2HKOing Lugia if Multiscale is not intact. Fire Punch is the primary choice for the last move, as it beats many Pokemon that would otherwise wall Groudon; it easily KOes Skarmory, Bronzong, Grass Arceus, and Mega Scizor, while also being the strongest option against Landorus-T and Gliscor, thanks to the boost from Drought. On the other hand, Swords Dance pumps up Groudon's Attack stat even further and gives it greater power to bust through walls such as Lugia and Giratina. Groudon can potentially sweep entire teams early on in a match if it manages to nab a boost from both Rock Polish and Swords Dance, but this is difficult to do without support from dual screens or significant bulk investment. If you really need Groudon to be able to break through Giratina-O by itself, Dragon Claw is an option for 2HKOing it, as well as hitting Palkia and Giratina slightly harder.
+
+Set Details
+========
+
+Attack is maximized to allow Groudon to hit as hard as possible, and the choice of Adamant as the nature and Life Orb as the item supports this goal further. 176 Speed EVs allow Groudon to outspeed Choice Scarf Terrakion after a Rock Polish boost, with the remaining EVs going into HP to help Groudon set up more easily. If you desire more bulk, you can run less Speed investment: 136 Speed lets it get past Choice Scarf Garchomp after a boost, 124 EVs allows it to outspeed Choice Scarf Palkia, and with an investment of a mere 56 EVs, it outpaces positive-natured Choice Scarf base 90s such as Kyogre and Zekrom.
+
+There are a few more ways to customize Groudon if it is running Swords Dance. Lum Berry is a nice option: it allows Groudon to beat Giratina in conjunction with Swords Dance and can potentially allow it to set up a second boost in the face of support Arceus formes that attempt to use Will-O-Wisp. However, Groudon cannot sweep as well with just a Rock Polish boost and without the added power from Life Orb. If you want to set up both Rock Polish and Swords Dance more consistently, you can run a very bulky spread: 252 HP / 132 Def / 124 Spe, with an Impish nature and Earth Plate as the item. This grants Groudon enough Speed to get past Choice Scarf Palkia after a Rock Polish while giving it enough bulk to set up far more easily. However, it lacks a lot of immediate power compared to more offensive builds and isn't as efficient as a pure sweeper.
+
+Usage Tips
+========
+
+Rock Polish Groudon works best a late-game sweeper, saved until its main checks are weakened. Obviously, you shouldn't try to set up a Rock Polish until the opponent's answer to Rock Polish Groudon such as Lugia or Giratina is weakened. Swords Dance can give Groudon more versatility against bulkier teams and a greater ability to break walls, making Groudon more useful early- or mid-game. However, even with Swords Dance, Groudon has trouble piercing through walls such as Gliscor, so make sure that such roadblocks are taken out first. Use your Groudon's offensive presence and solid physical bulk to buy a turn to set up if you can; trying to set up on a powerful special attack can possibly leave Groudon dead or with too little health to sweep.
+
+Team Options
+========
+
+This set has a very difficult time forcing its way through Gliscor, and it can still be walled by Skarmory, Grass Arceus, or Giratina depending on what moves it decides to run. Yveltal is still a great teammate to take advantage of and destroy all of these Pokemon. Ho-Oh is also an excellent partner if Groudon is not running Fire Punch, as it can take care of Skarmory and Grass Arceus while softening up walls such as Lugia, Landorus-T, and Hippowdon with potential Sacred Fire burns. As a bonus, Ho-Oh handles Choice Scarf Shaymin-S , which can outspeed Groudon after a Rock Polish and revenge kill it with Seed Flare, easily. Mixed Zekrom is also a notable teammate for this set, as it can lure in and destroy bulky Ground-types such as Gliscor and Hippowdon, which Groudon may have trouble beating by itself, with a powerful Draco Meteor. Zekrom is also an excellent choice against Skarmory.
+
+Other Options
+########
+
+Thunder Wave turns Groudon into a solid paralysis spreader, crippling many of its common switch-ins such as Kyogre, Yveltal, and support Arceus. It can also be combined with Swords Dance to enable Groudon to act as an effective Lugia lure, paralyzing it and then KOing with a boosted Stone Edge. Choice Band grants Groudon ludicrous power without any setup, and its wide type coverage limits what can safely come in on it. However, Groudon's STAB has many dangerous Pokemon immune to it, such as Ho-Oh and Yveltal, that can take advantage of Choice-locked Earthquake easily, so Choice Band is rather risky to use. Hammer Arm is Groudon's most powerful option against Normal Arceus and Mega Kangaskhan, but otherwise, it has limited utility. Overheat OHKOes even the specially bulky variants of Skarmory and does a nice chunk of damage to Gliscor, but it lacks the utility of Lava Plume and the consistency of Fire Punch if you really need a Fire-type attack.
+
+Checks & Counters
+########
+
+**Physical Walls**: Physically bulky Pokemon that can handle Earthquake make fine Groudon checks. Gliscor is the best of the lot: it is immune to Groudon's STAB and Toxic, takes little from its other moves, and can easily Toxic stall Groudon to death. Skarmory works similarly to Gliscor, although it needs to be wary of Fire-type attacks. Hippowdon and Landorus-T are bulky enough to tank most of Groudon's hits, but they need to watch out for Toxic and possible burns from Lava Plume. Lugia is faster than Groudon and can easily stall it out with Multiscale and Toxic, but it detests taking Toxic itself and won't enjoy a boosted Stone Edge either.
+
+**Bronzong**: Bronzong walls any Groudon set without a Fire-type attacks and can retaliate with Toxic or use it to set up Stealth Rock or Dual Screens.
+
+**Kyogre**: Kyogre doesn't take Earthquake from offensive Groudon sets too well but easily OHKOes Groudon with STAB Drizzle-boosted Water-type attacks. It can also check the Rock Polish set with a physically defensive set.
+
+**Shaymin-S**: With a Choice Scarf, Shaymin-S can outspeed Groudon even after a Rock Polish boost and swiftly destroy it with Seed Flare, and it is immune to Groudon's STAB Earthquake. However, Shaymin-S cannot switch in on Stone Edge or a Fire-type attack.
+
+**Ho-Oh**: Walls any set without Stone Edge and cripples Groudon with potential Sacred Fire burns. However, Ho-Oh will have trouble switching in if Stealth Rock is up on its side of the field.
+
+**Status**: Groudon absolutely detests burns, as they halve its Attack and the passive damage wears it out quickly. Support Arceus formes and the Giratina formes usually carry Will-O-Wisp which easily cripples Groudon. Toxic is also crippling to defensive sets and it puts offensive ones on a timer.
+
+**Powerful Special Attackers**: Strong special attackers such as Palkia, Kyurem-W, Reshiram, Mewtwo, and Mega Charizard Y can easily revenge kill Groudon with their powerful attacks. Mega Gengar can trap and eliminate a weakened Groudon, especially if it has Energy Ball. However, Groudon usually has to be significantly weakened for Mega Gengar to finish it off reliably, lest it be OHKOed in return by Earthquake.
+
+**Cresselia**: Gets a special mention as she hard-counters Groudon almost completely, with her only true fear being Toxic.

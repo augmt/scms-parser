@@ -1,0 +1,51 @@
+[Overview]
+
+<p>Smeargle has always been a unique Pokemon that fills specific niches, and it does this in every tier, including Ubers. Its expansive movepool, consisting of almost every single move in the game, allows it to do things in ways no other Pokemon can do. Its range of options might be comparatively limited in Ubers, but Smeargle can still be a game-changing element when used correctly. Its most fearsome trait is undoubtedly its ability to use Baton Pass in conjunction with Shell Smash, but there are other niches that it can fill too.</p>
+
+[SET]
+name: SmashPass
+move 1: Shell Smash
+move 2: Baton Pass
+move 3: Spore
+move 4: Magic Coat / Ingrain / Taunt
+item: Focus Sash
+ability: Own Tempo
+nature: Jolly
+evs: 4 HP / 252 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>Baton Passing has long been regarded as Smeargle's signature role, and it pulls off its specialty with aplomb in Ubers. The raw power of the Ubers metagame makes Baton Pass chains difficult to use and rather impractical, but this generation Smeargle has a new toy that takes advantage of that same raw power: Shell Smash. With a Focus Sash equipped, Smeargle is nearly guaranteed to get off a Shell Smash safely, especially with the aid of the much-coveted Spore, which is what sets it apart from Baton Pass Gorebyss. Putting a slower opponent to sleep, such as support Groudon, allows Smeargle to boost up with its Focus Sash still intact, giving you complete control. It is highly recommended in most cases to use Shell Smash before Spore, as this makes dealing with Smeargle far more difficult. Magic Coat is useful for its ability to turn Roar, Whirlwind, and Taunt back on the user, also allowing Smeargle to "steal" entry hazards from the opponent; this makes the Baton Pass recipient even more difficult to stop. Ingrain blocks phazing attempts altogether and also provides recovery for the recipient, making wearing down the recipient a daunting task. Taunt is also usable, and while it is not as effective as Magic Coat, it does require less prediction to use.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>A Jolly nature and full investment in Speed are vital for Smeargle, as they allow it to outspeed a larger range of opponents, something that is crucial for its role. Because Ubers is an incredibly powerful metagame, there are very few moves Smeargle can survive, should its Focus Sash be broken before it has an opportunity to use Shell Smash. The remaining EVs are all placed in Defense, allowing Smeargle to survive Giratina-O's Dragon Tail even after switching into Stealth Rock or Spikes. It should be noted that if keeping the opponents' entry hazards out of play is not feasible, Smeargle should be led with or brought in on the turn that the opponent uses an entry hazard move, allowing it to keep its Focus Sash intact. Keep in mind that the latter scenario is extremely risky.</p>
+
+<p>Teammates should be the most important concern when using Smeargle. Pokemon that can make great use of the boosts they receive, such as mixed Dialga or Zekrom, are the best partners for this set. Priority moves, especially Extreme Speed, are the biggest danger to the recipients, so recipients that shrug off most forms of priority, notably Dialga and Giratina-O, are the most difficult to take down. The immunity to Toxic Spikes both have is also an excellent asset. The defense drops of Shell Smash are a hazard for recipients, so having them hold a White Herb is an option, although the raw power of a Life Orb is usually better for Pokemon that do not fear priority. If the opponent lacks priority, then powerful, frail Pokemon such as Mewtwo and Rayquaza make deadly recipients. Quiver Dance and Tail Glow are also excellent moves to pass to powerful special attackers such as Kyogre. Belly Drum is another option, but Smeargle is too slow to safely use the move, and Belly Drum's cost renders the Focus Sash useless, making it impractical.</p>
+
+[SET]
+name: Lv. 1 FEAR
+move 1: Trick Room
+move 2: Spore
+move 3: Endeavor
+move 4: Dragon Rage / Destiny Bond
+item: Focus Sash
+ability: Own Tempo
+nature: Brave
+ivs: 0 HP / 0 Def / 0 SpD / 0 Spe
+
+[SET COMMENTS]
+
+<p>Although Lv. 1 Solosis fills this niche better in most ways due to Magic Guard, Smeargle's access to Spore is all it needs to make it a viable alternative. This set's primary aim is to get up Trick Room, and then if possible take something down with it. Spore nearly guarantees a free use of either Trick Room or Endeavor, depending on when it is used. Endeavor does an excellent job at crippling opponents even when Smeargle is at full health, as its HP at Lv. 1 is so low that most Pokemon commonly used in Ubers will die to residual damage when left with that amount. Dragon Rage can be used to finish off any Pokemon that has been hit by Endeavor, but Destiny Bond almost guarantees a kill, and is Smeargle's only option against Giratina-O.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>This set can only really work on a full Trick Room team, and Smeargle's teammates should be capable of abusing Trick Room; common Trick Room users such as Dialga and Palkia are thus highly recommended. Toxic Spikes support can help Smeargle nab kills with Endeavor, but poisoned opponents aren't affected by Spore, making this a risky option. Extreme Speed is also an option in the last moveslot. In the unlikely situation that Smeargle has used Endeavor on the last turn of Trick Room, Extreme Speed can be used to finish off the opponent, assuming it isn't carrying Leftovers. This set absolutely hates entry hazards, so unless Rapid Spin support is provided it is best to use it as the team's lead.</p>
+
+[Other Options]
+
+<p>Although Smeargle has literally every move in the game at its fingertips, the nature of the Ubers metagame doesn't leave it with too many options. Entry hazards are among its usable options, as Smeargle can set up Stealth Rock, Spikes, or Toxic Spikes. Unfortunately Smeargle is outclassed completely at this role by Deoxys-S. Rapid Spin is also an option if a moveslot is available, but since Smeargle can't touch Giratina-O at all outside of Spore, it is not really worth using. Support moves such as Thunder Wave, Toxic, Will-O-Wisp, Tailwind, and Haze are all possible options, but these are only usable in specific situations, and the status moves conflict with Spore.</p>
+
+[Checks and Counters]
+
+<p>The key to beating Smeargle is preventing it from putting something to sleep and breaking its Focus Sash before it can do any harm. Entry hazards render Focus Sash useless, making Smeargle a much easier target to deal with. Priority helps to deal with it as well. For example, if Sleep Clause has been activated and Smeargle has already been brought to 1 HP, Arceus can switch in on Shell Smash or Trick Room and kill Smeargle before it can use Baton Pass or Endeavor, respectively. Pokemon with moves that hit multiple times are rare in Ubers, but the few that are used, such as Dual Chop Garchomp, make short work of Smeargle. Pokemon using Rest and Sleep Talk also have a much easier time with Smeargle, especially if they also have a phazing move.</p>

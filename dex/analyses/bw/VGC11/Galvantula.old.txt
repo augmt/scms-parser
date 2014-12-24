@@ -1,0 +1,32 @@
+[Overview]
+
+<p>With its fantastic Electric / Bug typing, Galvantula can hit a large portion of the metagame for super effective damage, making it a quality team member. However, weaknesses to common Rock- and Fire-type attacks keep Galvantula from achieving its full potential. Galvantula's ability, Compoundeyes, lets it utilize STAB Thunder with near-perfect accuracy.</p>
+
+[SET]
+name: Standard
+move 1: Thunder
+move 2: Bug Buzz
+move 3: Hidden Power Ice
+move 4: Protect
+item: Focus Sash / Life Orb
+ability: Compound Eyes
+nature: Timid / Modest
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>With its two STAB moves, Galvantula has nearly all the coverage it needs. Thunder hits Flying-types such as Tornadus, while Bug Buzz hits Hydreigon, Whimsicott, and Musharna, all common Pokemon. Hidden Power Ice helps Galvantula deal with Landorus, who otherwise resists its STAB moves. Protect is used in the last slot, as it is, after all, the Swiss Army knife of VGC. With Protect, Galvantula can hide from potential OHKOes, and allow its partner to get rid of the threat. Protect can also be used to stall out Trick Room.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Timid allows Galvantula to Speed tie with the musketeer trio. Focus Sash lets Galvantula take a hit and KO back, which is especially useful against Tornadus. Life Orb gives it a greatly needed boost, but if used as a lead, Galvantula is generally better off with a Focus Sash. Galvantula needs as much Speed and Special Attack as it can get, so the EV spread is optimized for that.</p>
+
+<p>Galvantula benefits from Tailwind support, as it allows Galvantula to outspeed and KO Tornadus. For this, Whimsicott and Tornadus are good partners. Anything that can take down Terrakion helps Galvantula out a lot, as Terrakion counters Galvantula. Musharna can hit Terrakion with STAB Psychic, and also give Galvantula Helping Hand support.</p>
+
+[Other Options]
+
+<p>Sucker Punch can get a super effective hit on Ghost-types, but even with maximum Attack investment it can barely 2HKO Chandelure. Electroweb allows Galvantula to support the rest of its team by lowering the foe's Speed stat, but its power drop is significant. Discharge could be utilized along with a Ground-type to hit both targets, but Thunder has more power and the same paralysis rate. Galvantula receives Thunder Wave, but Thunder has a 30% paralysis rate which is usually good enough. Galvantula receives the ability Unnerve, which negates the opponent's Berry, and could be useful if the opponent has a Wacan Berry, or if Galvantula's partner needs to take out a threat which has a type-resist Berry. If Unnerve is used, however, Thunderbolt must be used over Thunder because of the loss of accuracy.</p>
+
+[Checks and Counters]
+
+<p>Choice Scarf Terrakion 2HKOes Galvantula with Rock Slide (and OHKOes without Focus Sash). In Trick Room, Gigalith 2HKOes Galvantula with Rock Slide (again, an OHKO without Focus Sash). Tornadus and Thundurus with Hidden Power Flying outspeed and OHKO Galvantula without Focus Sash, but Galvantula can KO them back if it has Tailwind support.</p>

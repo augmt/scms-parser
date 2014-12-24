@@ -1,0 +1,54 @@
+Overview
+########
+
+As what's often regarded as the best spinblocker in the tier, Doublade has made quite a name for itself in RU. Coming equipped with great 59 / 150 physical bulk that's further bolstered by its ability to hold Eviolite as well as a coveted typing in the form of Steel / Ghost, Doublade performs its spinblocking job admirably and can check and counter a large amount of common Pokemon including Cobalion, Virizion, Hitmonlee, Braviary, Durant, and Cresselia with ease. However, unlike other Pokemon with similar defensive capabilities, Doublade is no sitting duck and can actually sweep quite easily because of a combination of its high base 110 Attack and access to both Swords Dance and priority in the form of Shadow Sneak. Because of this solid combination of offense and defense, Doublade pulls its weight on many playstyles. Keep in mind though that Doublade is far from a perfect Pokemon. Doublade's special bulk is rather poor by comparison, preventing it from simply switching into anything with impunity. On top of this, Doublade is a very slow Pokemon, and often has to rely on the weak Shadow Sneak to take out faster opponents before it gets KOed itself, which hinders its sweeping capabilities a bit. Lastly, Doublade's reliance on Eviolite can often be its Achilles heel, as this combined with its weakness to Dark-types makes it quite vulnerable to the move Knock Off.
+
+Swords Dance
+########
+name: Swords Dance
+move 1: Swords Dance
+move 2: Shadow Claw
+move 3: Iron Head
+move 4: Shadow Sneak
+ability: No Guard
+item: Eviolite
+evs: 212 HP / 252 Atk / 44 Spe
+nature: Adamant
+
+Moves
+========
+
+Swords Dance lets Doublade boost its already high Attack stat to dangerous levels, letting it break through bulkier Pokemon more easily while simultaneously boosting the power of its Shadow Sneak to the point that it can cleave through faster, frailer threats such as Delphox and Jolteon. Doublade's excellent bulk and typing make it quite easy to set up a Swords Dance as well. Shadow Claw is Doublade's main STAB move, possessing a solid 70 Base Power and hitting everything except Normal- and Dark-type Pokemon neutrally, making it quite spammable. Meanwhile, Iron Head is Doublade's strongest reliable STAB move and hits several Pokemon that Doublade can't touch with its Shadow Claw hard, including Rhyperior, Aromatisse, Drapion, and Braviary. Lastly, Shadow Sneak gives Doublade a valuable priority move, allowing it to pick off frail or weakened threats and temporarily bypass its low Speed stat while attempting to sweep late-game.
+
+Set Details
+========
+
+The given EV spread and Adamant nature aim to maximize Doublade's bulk and power while giving it enough Speed to outpace 0 Speed Rhyperior and smack it with an Iron Head before it can use Earthquake, which is especially useful when trying to sweep with a Swords Dance boost. Eviolite is used to bolster Doublade's already excellent physical bulk to astounding levels, while also boosting its low Special Defense into a more acceptable range.
+
+Usage Tips
+========
+
+Doublade is a delightfully simple Pokemon to use; just switch it in on one of the many physical attackers that it walls, then either attack the opposition right off the bat or set up with Swords Dance to attempt a sweep. Just remember that you shouldn't always try and sweep with Doublade early-game as most teams will have a way to stop Doublade from simply running through their team, so trying to set up a Swords Dance right away usually isn't the best play; instead try and use Doublade more defensively early-game, switching into various physical attackers, launching an unboosted attack to wear the opponent down, and then switching out as soon as possible. Also keep in mind that while you should try and keep Doublade away from Knock Off as much as possible, its not the end of the world if you absolutely have to take one to stop an opponent; Doublade is still quite bulky on the physical side even without an Eviolite boost.
+
+Team Options
+========
+
+Doublade works excellently with entry hazards of any form, as not only does it spinblock these hazards effectively thanks to its Ghost typing, but it also heavily benefits from them being set up itself, as the residual damage makes it that much easier for Doublade to sweep late-game with a Swords Dance boost. As Doublade lacks any recovery of its own, more defensive teams opting to use Doublade as their spinblocker should consider Wish support to help keep it healthy throughout the game. Good examples of Pokemon that can provide this kind of support include Alomomola and Aromatisse. As Doublade's Special Defense is quite middling even with an Eviolite boost, Pokemon that can take these kinds of moves for Doublade such as Slowking, Aromatisse, Virizion, and Druddigon make good teammates. Lastly, Fighting-type Pokemon such as Hitmonlee, Hitmontop, and Emboar pair quite well with Doublade, threatening the various Dark- and Normal-types that can hinder Doublade's sweep with ease, while Doublade can set up on annoyances for these Pokemon such as Cresselia and Braviary in return.
+
+Other Options
+########
+
+As Doublade's only form of recovery, a defensive RestTalk set can be used to decent effect, keeping it alive through most of the game without any need for outside support, however keep in mind that a Doublade using this kind of set doesn't have the same kind of offensive presence that Swords Dance Doublade does. Doublade can also use Toxic somewhat effectively, using its great bulk and good resistances to stall out the opposition while also being able to cripple some of its checks and counters. Gyro Ball is an option on Doublade given its low Speed stat, reaching a whopping 150 Base Power against some opponents, but keep in mind that this power isn't nearly as consistent as simply using Iron Head, and it can actually hinder Doublade against teams with Rhyperior. A Doublade using Gyro Ball should have a Brave nature and 0 Speed IVs. Automotize can be used over Shadow Sneak on Doublade if you so desire, but its still somewhat slow even at +2 Speed, and the loss of priority can be quite annoying at times. Lastly, Sacred Sword gives Doublade a method to hit the Normal- and Dark-types, such as Sharpedo, Heliolisk, and the rare Pyroar, quite a bit harder, but it often struggles to find a moveslot on Swords Dance Doublade, as all of its offensive STAB moves are somewhat important.
+
+Checks & Counters
+########
+
+**Dark- and Special Normal-types**: These Pokemon either resist or are completely immune to Doublade's Shadow Sneak and can therefore cut its sweep short without risk of being sniped by priority first. Good examples of Pokemon that fit this role include Exploud, Meloetta, Heliolisk, Sharpedo, Drapion, Pangoro, and the rare Pyroar.
+
+**Emboar**: Emboar resists Doublade's Steel-type STAB, has enough bulk to take either an unboosted Shadow Claw or Shadow Sneak, outspeeds Doublade, and can easily OHKO it with either Flare Blitz or Fire Blast.
+
+**Bulky Physical Walls**: These Pokemon are bulky enough to take even boosted physical attacks, slowing it down considerably; just make sure that the wall in question can actually hurt Doublade in return. Pokemon that function in this role include Gligar, Weezing, Scald Alomomola, and Knock Off Tangrowth.
+
+**Strong Special Attackers**: As Doublade's Special Defense is significantly lower than its Defense, strong special attackers such as Moltres and Clawitzer can put a huge dent in Doublade, if not outright KO it.
+
+**Burns**: Doublade absolutely hates being burned, as they cut its Attack stat to the point where it has no hope in sweeping, wear it down quite fast over the course of the game, and worst of all, Doublade's No Guard ability ensures that the most common burn inducing move, Will-O-Wisp, will never miss.

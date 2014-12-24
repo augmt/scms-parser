@@ -1,0 +1,33 @@
+[Overview]
+
+<p>Nidoran-M is the definition of "unique" in Little Cup thanks to a few uncommon characteristics. Firstly, it is one of the only Pokemon to get the ability Hustle, which allows it to fire off physical attacks with great power at the cost of a little accuracy. Secondly, Nidoran-M's access to useful obscure moves such as Thunderbolt allows it to pick off certain Pokemon who would normally be very threatening to it such as Slowpoke. Poison typing grants Nidoran-M the ability to switch into different Fighting-type moves and attack. This typing also means that it can absorb Toxic Spikes, which, while not very common, can be a pain for most offensive teams to deal with. While its stats are sub-par, Nidoran-M is definitely a threatening Pokemon and it should be treated as such.</p>
+
+[SET]
+name: Mixed Attacker
+move 1: Poison Jab
+move 2: Sucker Punch
+move 3: Thunderbolt
+move 4: Hidden Power Fire
+item: Life Orb
+ability: Hustle
+nature: Naive
+evs: 224 Atk / 36 Def / 40 SpA / 200 Spe
+ivs: 3 HP / 30 Atk / 30 SpA / 30 Spe
+
+[SET COMMENTS]
+
+<p>A high Attack stat thanks to Hustle with a stellar special movepool are obvious grounds for a mixed set. Using both physical and special moves means Nidoran-M can hit almost any Pokemon from their weaker side, allowing it to 2HKO almost anything in LC. Poison Jab is Nidoran-M's hardest hitting move, and its high chance to inflict poison status means it can be used to defeat stall, allowing Nidoran-M to act as a makeshift stallbreaker. Sucker Punch is a blessing for Nidoran-M to have as it grants both priority and a super effective attack to use against Gastly and other Ghost-types. In fact, offensive Gastly is always OHKOed by Sucker Punch without any residual damage. Thunderbolt is another blessing for Nidoran-M to hit bulky Water-types. While using obscure strategies such as Thunderbolt on a Poison-type Pokemon may seem less effective, this is an exception for a few reasons. Nidoran-M's Poison typing will easily lure Slowpoke in, which is where Thunderbolt comes into play; it does high amounts of damage to any Staryu, Slowpoke, and Frillish, no matter what EV spread and item. Hidden Power Fire takes a similar approach as Ferroseed will try to come in on Poison Jab, which is where you can use Hidden Power Fire to 2HKO it while not taking any hits.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs maximize Nidoran-M's Attack and Speed whilst boosting its Special Attack and Defense a little. Shadow Claw over Sucker Punch is an option for reliability rather than power and priority. While it doesn't let Nidoran-M defeat Gastly without taking any damage, it can hit it on the switch and OHKO it without any other damage. Substitute is another option over either Thunderbolt or Hidden Power Fire because it allows Nidoran-M to scout opponent's attacks before acting. This is a great combination with Sucker Punch as it not only allows Nidoran-M to avoid status moves that Sucker Punch draws, but it also encourages the opponent to attack, giving Sucker Punch more reliability. Hone Claws is another option to remedy Hustle's accuracy drop and raise Nidoran-M's not-so-stellar Attack, but it's extremely hard to set up with such low Speed compared to Diglett, Gastly, and others.</p>
+
+<p>The best teammate for Nidoran-M is bulky Eviolite Staryu. It can easily defeat Diglett with Water- or Ice-type moves, and it beats Frillish and Slowpoke with Thunderbolt. If you're using Substitute or Hone Claws in place of Hidden Power Fire, Magnemite with Hidden Power Fire can defeat Ferroseed. Dwebble is able to set up Stealth Rock and Spikes to aid Nidoran-M's sweep while Staryu can remove them from your side of the field with Rapid Spin.</p>
+
+[Other Options]
+
+<p>Outside of "use something better," Nidoran-M doesn't have many other options. It has access to Disable, and it can make a good annoyer with Substitute and Disable as a combo. Toxic Spikes is an option to set up with a defensive Eviolite set, but Nidoran-M's amount of natural bulk is far from enough to tank hits, so it is probably better off as a suicide lead with Focus Sash if it's setting up Toxic Spikes. Super Fang is another option to make Nidoran-M a good wallbreaker; however, it is illegal with Hustle, so it is probably better to just attack. Rivalry is an option to remedy this, but Hustle is really the only thing that makes Nidoran-M good, and giving it up would be unfortunate. Trick Room is another strategy, and while Nidoran-M isn't too slow, it is much slower than Mienfoo, Taillow, and company and can take advantage of that with its mixed attacker set. If you are using Trick Room, an EV spread of 68 HP / 224 Atk / 200 SpA with a Brave nature is ideal. Lastly, Head Smash is available, but its coverage isn't good and its recoil is too high.</p>
+
+[Checks and Counters]
+
+<p>Any Ghost-types with Substitute easily beat Nidoran-M. Wynaut, whose popularity has increased, can beat Nidoran-M using a combination of Encore, Counter, and Mirror Coat. While Nidoran-M has good coverage with its attacking moves, most Pokemon it can't hit super effectively such as Machop and Zorua will beat it one-on-one, so it must watch out for such threats. Scraggy takes nothing from Nidoran-M and can set up Dragon Dance on it, which instantly makes it a threat. Wooper can beat it despite any boosts from Hone Claws courtesy of Unaware, using Earthquake to OHKO it. Wooper can also use Recover to remove any damage Nidoran-M inflicts.</p>

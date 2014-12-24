@@ -1,0 +1,52 @@
+Overview
+########
+
+Torchic has always been an underwhelming Pokemon in Little Cup, and last generation its hidden ability went unreleased. However, this generation finally allowed Speed Boost Torchic to become a reality, making it the only Speed Boost Pokemon in LC to also have Baton Pass. This, coupled with its surprising bulk, allows it to reliably pass Attack and Speed boosts to powerful sweepers, supporting teammates such as Pawniard, Mienfoo, or Bunnelby. However, Torchic and its stat-passing tactics are easily countered by Pokemon that carry Taunt or phazing moves such as Roar and Whirlwind. Torchic also suffers from its Fire typing, which limits its switch-in opportunities.
+
+Speed Passer
+########
+name: Speed Passer
+move 1: Baton Pass
+move 2: Protect
+move 3: Substitute / Fire Blast
+move 4: Swords Dance / Curse
+ability: Speed Boost
+item: Eviolite / Berry Juice
+evs: 196 Def / 36 SpA / 36 SpD / 236 Spe
+nature: Bold
+
+Moves
+========
+
+Baton Pass is the main move, as without it, Torchic would have no reason to be a part of a team. Protect is crucial in that it allows Torchic to get at least one Speed boost. It also allows for scouting and can protect Torchic from Fake Out. If a receiver such as Bunnelby can be passed a Substitute along with Speed boosts, there is not much that can stop a sweep. Substitute can also help stall for further Speed boosts, although two is usually more than enough. Fire Blast can be used over Substitute if Torchic is being used as a part of a Baton Pass chain, as it is an effective STAB move. However, Torchic functions best as a Pokemon that passes boosts to a single recipient rather than a part of a chain. Swords Dance is usually the best final move, using Torchic's surprising physical bulk in order to optimally attain +2 in Attack and Speed. Curse, however, is an option to boost Defense alongside Attack. Speed Boost will negate the Speed drop, though Torchic will acquire Speed boosts much more slowly than if it used Swords Dance.
+
+Set Details
+========
+
+The massive investment in defense with a Bold nature allows Torchic to tank some surprising moves, such as Pawniard's Knock Off and many neutral attacks. Maximum investment in Speed allows it to outspeed the entire unboosted metagame at +1. Eviolite is the item of choice due to it increasing bulk; however, Berry Juice can be used as well, and it is the optimal choice with Curse. Berry Juice is also more useful for more offensive teams; Eviolite is preferred on teams that only have one or two receivers.
+
+Usage Tips
+========
+
+Torchic is best used when facing Pokemon that cannot OHKO it or interfere with its setup. Bulky Pokemon such as Trubbish or Spritzee can easily be set up on. If running Curse, Pokemon such as Timburr, Mienfoo, or even Pawniard can be set up on. You can use Torchic as a lead, but be mindful that the opponent will be anticipating this and will likely lead with something that can prevent Torchic from doing its job in response.
+
+Team Options
+========
+
+Generally, the best partners for Torchic are other Pokemon that also have Baton Pass or can immediately benefit from the boosts it passes. Pokemon such as the aforementioned Mienfoo, Fletchling, Pawniard, or Bunnelby can really use the Speed and Attack boosts. Any decently bulky Pokemon can work well with Swords Dance boosts, and frailer Pokemon work excellently if passed Curse boosts.
+
+Other Options
+########
+
+Torchic can pass other boosts, such as Hone Claws and Focus Energy, although Swords Dance and Curse are usually better options to support its teammates. Flame Charge can be used to gain Speed boosts faster, while also hitting enemies for minor damage. Using Flame Charge also means that the Special Attack EVs must be moved to Attack and the nature should be changed to Impish. Torchic can also support the team with Will-O-Wisp, although this is best left to other Pokemon such as Frillish.
+
+Checks & Counters
+########
+
+**Taunt users**: Users that carry Taunt can generally beat Torchic and stop it from passing boosts. Priority Taunt users such as Cottonee are more problematic, as their Taunt will always have greater priority than Baton Pass, easily stopping Torchic from passing boosts to a teammate.
+
+**Phazers**: Pokemon such as Whirlwind Munchlax, Whirlwind Hippopotas, or Roar Archen can phaze out the receiver, often messing up the Torchic user's momentum and potentially forcing a Pokemon to switch in to entry hazards.
+
+**Hazers**: Pokemon that can learn moves such as Clear Smog, such as Foongus or Koffing, can essentially do the job of a phazer without a forced switch.
+
+**Setup Sweepers**: Strong Pokemon that can set up, such as Tirtouga or Nasty Plot Croagunk, can easily set up on Torchic and hit the recipient of its boosts hard; in Tirtouga's case, it will often outspeed and totally overpower the recipient after two Shell Smash boosts. 

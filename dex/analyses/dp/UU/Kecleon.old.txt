@@ -1,0 +1,72 @@
+[Overview]
+
+<p>Kecleon is one of several Pokemon introduced in the third generation with a gimmicky ability that heavily influences their competitive value. Color Change takes what would have been just another underpowered Normal-type with a nice movepool and turns it into something unique; combined with its excellent Special Defense, Kecleon makes a great counter to Choiced special attackers or those with limited coverage. The cost is quite high, however, as opposing Pokemon with good coverage can easily take advantage of Color Change. Furthermore, its frequent type-changing prevents Kecleon from having a consistent STAB attack to rely on. Constant prediction is required in order to get the most out of Kecleon, but when used well, it can be a valuable asset indeed.</p>
+
+[SET]
+name: Support
+move 1: Stealth Rock / Thunder Wave
+move 2: Return
+move 3: Aqua Tail
+move 4: Recover
+item: Leftovers
+nature: Careful
+evs: 252 HP / 4 Def / 252 SpD
+
+[SET COMMENTS]
+
+<p>Kecleon is surprisingly bulky on the special side, with defensive stats slightly superior to Clefable's. Color Change gives Kecleon a unique advantage over other special walls, as it often causes special attackers to hit it with resisted attacks. Every common special attacking type in UU resists itself, except Ghost, which Kecleon is naturally immune to, meaning it can come in on nearly any Choice-locked special attacker without being 2HKOed. Even Pokemon that don't use Choice items often lack wide enough coverage to land consecutive neutral hits on Kecleon. Life Orb Venusaur, for example, cannot even 3HKO Kecleon with any attack if it switches in on Sludge Bomb.</p>
+
+<p>This set focuses on forcing out special attackers and supporting the team. Stealth Rock is an excellent addition to any type of team, limiting the opponent's ability to switch and giving your sweepers the ability to secure additional OHKOs and 2HKOs. If another Pokemon on your team has entry hazards covered, Thunder Wave is a great alternative option. Paralysis will cripple any special attacker foolish enough to stay in, and directly helps Kecleon by allowing it to outspeed many Pokemon it otherwise could not. Although Kecleon can't rely on a consistent STAB boost for Return, it is still a good move that combines with Aqua Tail to hit everything in UU, except Shedinja, for at least neutral damage. Recover gives Kecleon reliable recovery so it can continue walling special attackers throughout the match.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>With a Careful nature and 252 SpD EVs, Kecleon can switch in on almost any Choiced special attack not named Focus Blast with impunity. Modest Choice Specs Alakazam's Psychic and Timid Choice Specs Moltres's Fire Blast, two of the most powerful special attacks in UU, both fail to 2HKO because of Color Change, which allows Kecleon to resist the second hit. Even special attackers that don't use Choice items can have trouble breaking through; Life Orb Milotic cannot 2HKO Kecleon even by rotating between Hydro Pump, Hidden Power Grass, and Ice Beam, although Kecleon won't be able to do much in return.</p>
+
+<p>While Kecleon rarely has trouble taking hits from special attackers, it is quite vulnerable on the physical side. Fighting-types are Kecleon's worst nightmare, as most of them can OHKO with STAB Close Combat. Hariyama and Hitmontop in particular can both switch in on any of Kecleon's moves and force it out. Hariyama can absorb even Thunder Wave for a Guts boost. Donphan can spin away Stealth Rock, is immune to Thunder Wave, and takes pitiful damage from Aqua Tail while striking back with powerful physical attacks. In order to get rid of these threats, a sturdy Psychic-type partner, such as Uxie, is recommended. In addition, bulky setup sweepers like Curse Registeel and Calm Mind Slowbro can come in and set up on Kecleon with impunity. While they may not be immediately threatening, there is little Kecleon can do to stop them from setting up, so it's important to have a teammate that can prevent these Pokemon from sweeping. Milotic with Haze and Alakazam with Encore are both very capable of disrupting any Pokemon that attempts to boost its stats.</p>
+
+[SET]
+name: Choice Band
+move 1: Return
+move 2: Aqua Tail
+move 3: Low Kick
+move 4: Trick
+item: Choice Band
+nature: Adamant
+evs: 92 HP / 252 Atk / 164 Spe
+
+[SET COMMENTS]
+
+<p>Thanks to Kecleon's usable Attack stat and excellent special bulk, a Choice Band set is viable. Return and Aqua Tail have good Base Power and perfect neutral coverage, meaning nothing can switch into this set for free. Low Kick provides extra power against some of UU's sturdiest Pokemon, 2HKOing both Registeel and Steelix. Trick is a great move for crippling Pokemon that Kecleon would otherwise have trouble with. Mismagius might try to sneak in on a predicted Return or Low Kick to set up a sweep, while Slowbro takes little damage from any of Kecleon's attacks; however, both will hate being stuck with a Choice Band for the rest of the match.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given Speed EVs allow Kecleon to outspeed minimum Speed base 60s. Attack is maximized to hit as hard as possible, and the remaining EVs are put into HP to make it easier for Kecleon to switch in. If you aren't concerned about Clefable and Weezing, a spread of 172 HP / 252 Atk / 84 Spe will increase Kecleon's bulk while still allowing it to beat minimum base 50s such as Chansey, Donphan, Aggron, and Registeel. Either way, a couple of extra points in Speed can be used as insurance against Speed creep.</p>
+
+<p>This set is generally much harder to switch into, but it still has some solid counters. Defensive Hariyama is not 2HKOed by any of Kecleon's moves and doesn't particulary mind being Tricked a Choice Band. Weezing won't enjoy Trick, but it can take any of Kecleon's other attacks and cripple it with Will-O-Wisp. Slowbro is an excellent partner, as it reliably counters these Pokemon and can help Kecleon overcome its low Speed by providing paralysis support. Offensively, Swellow is a good teammate since it can sweep much more easily if the opponent's physical walls are weakened or Choice-locked; it also has no trouble taking out the Fighting-types that threaten Kecleon.</p>
+
+[SET]
+name: Trick Room
+move 1: Trick Room
+move 2: Stealth Rock
+move 3: Return
+move 4: Recover
+item: Leftovers
+nature: Sassy
+evs: 252 HP / 4 Def / 252 SpD
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>Kecleon's low Speed, excellent special bulk, and access to a reliable recovery move make it a natural choice to set up Trick Room, which turns slow, forgotten Pokemon into dangerous sweepers that can tear through unprepared teams. Stealth Rock helps such sweepers get their KOs more quickly, preventing valuable Trick Room turns from being wasted. Return does respectable damage if Kecleon is forced to attack, while Recover helps keep it healthy so it can continue setting up Trick Room throughout the battle.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs maximize Kecleon's special bulk while making it as slow as possible, since Trick Room will be inverting Speed. Once Trick Room is up, the only Pokemon that will be "faster" than Kecleon are other Pokemon designed for Trick Room (and Gyro Ball Steelix). For this set to be useful, your team should load up on slow, powerful attackers with good bulk and wide coverage. Rhyperior is perhaps the most fearsome Trick Room sweeper, as it has great physical bulk and reaches 832 Attack after a Swords Dance, allowing it to OHKO nearly everything with the fantastic STAB combination of Earthquake and Stone Edge. Strong users of priority, particularly Azumarill, are other excellent teammates to consider when using a Trick Room team. You will also want other Pokemon that can set up Trick Room in case Kecleon is incapacitated. Spiritomb is immune to the Fighting-type attacks that threaten Kecleon and possesses excellent overall bulk, allowing it to set up Trick Room multiple times. Slowking is another cool option, able to both set up Trick Room and sweep inside it with Nasty Plot.</p>
+
+[Other Options]
+
+<p>Kecleon has a huge movepool with several other usable options. It can run a decent SubPunch set with Focus Punch and Sucker Punch, but Kangaskhan and many others are superior choices in this regard. Rock Slide, Shadow Claw, Shadow Sneak, and the elemental punches are alternate attacking options that can go on the Choice Band set to cover specific threats. Body Slam and Seismic Toss would seem to be attractive options on the support set; unfortunately, both are illegal with Recover. Body Slam could go on the Choice Band set if you are willing to sacrifice some power for the paralysis rate. Counter can be used to surprise physical attackers, but it too is illegal with Recover, making such a set very situational. Kecleon can learn Nasty Plot, and it has a great special movepool that includes Ice Beam, Thunderbolt, Grass Knot, and Fire Blast, but its low Speed makes pulling off a successful sweep nearly impossible. Trick Room and Nasty Plot could be used together, but Kecleon's Special Attack is mediocre even after the boost, so you'd be better off switching to a more powerful sweeper instead. Toxic and Knock Off are alternate supporting moves if you don't need Kecleon to set up Stealth Rock. Snatch is a very cool move that can steal a Substitute or stat boosts from your opponent, but it requires god-like prediction to use successfully. Protect can scout incoming attacks to see how the opponent plans on taking advantage of Color Change. Skill Swap can be used to rid Kecleon of its ability, but it will usually be a waste unless you manage to use it on Medicham or Azumarill.</p>
+
+[Checks and Counters]
+
+<p>Any physically bulky Pokemon that doesn't mind paralysis can set up on the support set with ease. Hariyama shrugs off even Choice Band Kecleon's attacks, doesn't mind being paralyzed, and can force Kecleon out with its STAB Fighting-type moves. Hitmontop won't like paralysis, but it can take any of Kecleon's other attacks and use Rapid Spin to remove Stealth Rock Kecleon may try to set up. Weezing and Spiritomb take little from Kecleon's attacks, and both can burn it with Will-O-Wisp. Slowbro has great physical bulk and can set up Calm Mind in Kecleon's face. Donphan completely shuts down Kecleon's support options and doesn't mind being Tricked a Choice Band, but it must beware of switching into Choice Band-boosted Aqua Tail. Some Pokemon can take advantage of Color Change to easily defeat Kecleon. Altaria's Dragon Claw will always do super effective damage after the first hit. Shadow Ball from Mismagius or Rotom will do the same, although they will have to hit Kecleon with some other attack first to remove Kecleon's Ghost immunity. Kecleon is not very threatening on its own, so switching in should not be particularly difficult as long as you avoid Trick and Thunder Wave.</p>

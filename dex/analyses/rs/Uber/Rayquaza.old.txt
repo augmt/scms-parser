@@ -1,0 +1,65 @@
+[Overview]
+
+<p>Rayquaza is nearly identical to Salamence. It shares the same type and similar stats--somewhat. Rayquaza has more Attack, and a hell of a lot more Special Attack for only a bit less Speed. This thing is Mr. Utility--it learns a lot of moves.</p>
+
+[SET]
+name: Choice Band
+move 1: Hidden Power Bug / Hidden Power Ghost
+move 2: Rock Slide / Overheat
+move 3: Earthquake
+move 4: Extreme Speed
+item: Choice Band
+nature: Adamant
+evs: 252 HP / 228 Atk / 28 SpD
+
+[SET COMMENTS]
+
+<p>What you may have noticed right away is that this has Hidden Power Bug / Ghost over Hidden Power Flying. This is because nothing takes more in Ubers from Hidden Power Flying than it does from Hidden Power Bug/Earthquake (well, after STAB, Hidden Power Flying is 105, Earthquake is only 100, but they're practically the same), but Hidden Power Bug and Ghost are super effective against a whole lot of the Psychic-based uber metagame. Choice Banded Hidden Power Bug hurts. Don't believe me? Here are some numbers:</p>
+
+<p>Latias and Latios are OHKOed without Defense or HP EVs (standard). In fact, Latias needs 240 HP EVs to have guaranteed survival. Latios is even worse off. If it wants to be certain of surviving a single hit, it needs not only 252 HP EVs, but an additional 72 Defense EVs.</p>
+
+<p>Another major difference between this and the old standard (252 Attack / 252 Speed, Adamant) is how much bulkier this is. The main reason is Exeggutor. Rayquaza makes a good switch-in to Exeggutor, because its ability means that it blocks sunlight, so Solar Beam takes two turns, and Chlorophyll is nullified. This means that if you switch in on a Solar Beam, you are faster and can OHKO it, while it can't do anything. This puts a powerful foe out of commission. The EVs are to let it survive max damage Modest Exeggutor Hidden Power Ice in case they guess what you're up to. This will also survive Choice Band Adamant Groudon / Rayquaza Rock Slide every time and can take 2 Choice Banded Rayquaza Extreme Speeds.</p>
+
+<p>An alternate EV spread can be used to make your Rayquaza fast. If you give it Jolly and max Speed, it is faster than all Groudon and Kyogre and also beats the few Latias and Latios remaining that just put in 307 Speed. Obviously, you'd want to max Attack as well.</p>
+
+[SET]
+name: Dragon Dance
+move 1: Dragon Dance
+move 2: Hidden Power Ghost / Hidden Power Bug
+move 3: Earthquake
+move 4: Extreme Speed / Rock Slide
+item: Leftovers / Lum Berry
+nature: Adamant
+evs: 96 HP / 252 Atk / 160 Spe
+
+[SET COMMENTS]
+
+<p>This set is extremely rare in Ubers, as it can be difficult to set up Rayquaza (Ice Beam is the most common move). If you can bring it out on stuff like Choice Banded Earthquakes or Deoxys-A, you can Dragon Dance as they switch to whatever. Mewtwo falls just short of being KOed, so smack it around with an Earthquake or something the first time it comes in and then save it for later. Extreme Speed is used for Deoxys-A (allowing you to kill them without a Dragon Dance, or run a lot less Speed), in which case you'll want Hidden Power Ghost for Lugia. Rock Slide hits Lugia a bit harder, but the real benefit is to get Ho-Oh on its 4x weakness and a possible OHKO on other Rayquaza. Earthquake hits stuff like Metagross, Kyogre, and Groudon who aren't weak to your other moves.</p>
+
+[SET]
+name: Special Attacker
+move 1: Crunch
+move 2: Ice Beam / Dragon Claw
+move 3: Thunderbolt
+move 4: Fire Blast / Brick Break
+item: Leftovers
+nature: Modest / Rash
+evs: 40 HP / 252 SpA / 216 Spe
+
+[SET COMMENTS]
+
+<p>Look familiar? This is like Salamence's special moveset, only with the addition of Thunderbolt. Surf is redundant, since Thunderbolt will kill Ho-Oh just as well, and Ice Beam takes care of Groudon. Crunch is for Psychic-types like Mewtwo and the Deoxys, while Dragon Claw makes good STAB and a nice choice for dealing with Latios / Latias switch-ins. Fire Blast can hurt Metagross a lot, while Brick Break owns Tyranitar and Blissey.</p>
+
+<p>Unlike Salamence's special set, this set is quite cool. It will kill almost any Groudon and enemy Rayquaza, and nearly 2HKO Kyogre. Dragon Claw is needed for the 2HKO on Latias, but Ice Beam will generally do the job against Latios (they can both skew these numbers by adding Special Defense EVs or HP).</p>
+
+[Other Options]
+
+<p>Rayquaza can produce 101+ HP Substitutes, so that alone should allow you to think of some ways to deal with Blissey and Deoxys-D, which both make appearances in the uber metagame rather often. Psych Up is great for snatching some Calm Minds, but just be sure that what you're taking from doesn't have Ice Beam. It's not on any regular moveset because most things DO possess Ice Beam (or Rock Slide if you're trying to grab Swords Dances from Groudon). Bulk Up can make it easier to take physical hits from Groudon, Metagross and Dragon Dance Rayquaza while setting up, and is best used with Extreme Speed.</p>
+
+[EVs]
+
+<p>Choice Bander set needs maximum Attack. You could go for 280 Speed, which beats Kyogre / Groudon without a +Speed nature. 308 is an option with Jolly to beat their absolute maximum. Or alternately, go for the spread listed under the Choice Band set. The Special Rayquaza needs no Attack EVs, even when using Brick Break, just go for 216 in Speed, 40 HP and the rest in Special Attack.</p>
+
+[Checks and Counters]
+
+<p>Special sweepers with Ice Beam. Rock Slide from Groudon can take on the less bulky Rayquaza, Latias and Latios can KO it, and survive most of its attacks, but has to be on its guard against Choice Banded or Dragon Danced Hidden Power Bug and Ghost. Skarmory completely walls Choice Banders without Overheat (and almost none have it). Lugia can set up a Reflect against it, Toxic it, and stall it out with Pressure and Recover, or just alternate Calm Mind and Recover until finally killing you with Ice Beam. Kyogre is a great counter, but Choice Banded Earthquake and Hidden Power Flying are a 2HKO, so it has to either outspeed it, or scare it into thinking it will outspeed it (won't work with Jolly Rayquaza). Alternately, a Kyogre with 252 HP EVs and 252 Defense EVs takes 49% max damage from Adamant Choice Banded Earthquake (and it also defeats Swords Dance Groudon), so it's not as bad as it sounds, as long as you pack Ice Beam.</p>

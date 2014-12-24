@@ -1,0 +1,86 @@
+Overview
+########
+
+Thanks to its ability, Snow Warning, Snover is the only Pokemon in LC with a completely accurate Blizzard. Snow Warning is also useful for overriding other weather effects, and thereby easily shutting down Sand Rush, Chlorophyll, and Swift Swim users. The problem is that these weather abusers aren't very common. Furthermore, with the Base Power nerf to Blizzard, Snover is less potent than previously. Finally, it is difficult to use Snover reliably when Fletchling, one of its biggest threats, is so common in the metagame.
+
+Choice Scarf
+########
+name: Choice Scarf
+move 1: Blizzard
+move 2: Giga Drain
+move 3: Ice Shard
+move 4: Hidden Power Rock / Hidden Power Ground / Hidden Power Fire
+ability: Snow Warning
+item: Choice Scarf
+evs: 104 Atk / 184 SpA / 200 Spe
+nature: Naive
+
+Moves
+========
+Blizzard is the best STAB move on a hail inducer. It hits a lot of the tier, most notably Flying-types, extremely hard. Giga Drain hits Water-type switch-ins, healing Snover in the process. Ice Shard might seem a bit strange on a Choice Scarf set, but it provides Snover with a method of defeating opposing priority users that have been weakened, specifically Fletchling. The last slot provides coverage against common switch-ins to Blizzard. Hidden Power Fire nails opposing Steel-types, particularly Ferroseed. It is also the most effective choice for dealing with opposing Snover. Hidden Power Rock hits opposing Fire-types, such as Larvesta and Vulpix, on the switch. Hidden Power Ground hits Magnemite the hardest. It also hits a mix of Fire- and Steel-types super effectively, including Ponyta, Vulpix, and Honedge, but it lacks super effective coverage on Ferroseed, Bronzor, and Larvesta.
+
+Set Details
+========
+
+Maximum Speed investment with a boosting nature gives Snover 14 Speed, allowing it to hit 21 Speed with Choice Scarf and outspeed the unboosted metagame. Special Attack is then maxed out to make Snover's attacks hit as hard as possible. A Naive nature increases Speed at the expense of Special Defense, meaning that Snover must try to avoid special attacks.
+
+Usage Tips
+========
+
+Choice Scarf Snover is best used late-game when it can safely spam Blizzard. A prediction gone wrong early- or mid-game can spell doom for Snover. However, it can revenge kill reasonably well. If you bring Snover in on something weak to Ice-type attacks, such as Archen, while your opponent has an Ice-resistant Pokemon in reserve, prediction becomes important. Use Giga Drain or the appropriate Hidden Power to punish the switch-in.
+
+Team Options
+========
+
+As it is weak to Stealth Rock, Snover appreciates the help of a Rapid Spin or Defog user. Fortunately, many of these Pokemon pair well with Snover. Mold Breaker Drilbur can easily take on the Fire- and Steel-types that trouble Snover, including Pokemon with Levitate such as Bronzor. Vullaby can Defog entry hazards away and remove Eviolites with Knock Off, softening up the opposition for Snover. Staryu can take on the Fire-types that give Snover trouble. Archen provides Defog support and helps wall Fire-types such as Fletchling, which are a huge problem for Snover.
+
+Eviolite
+########
+name: Eviolite
+move 1: Blizzard
+move 2: Giga Drain
+move 3: Ice Shard
+move 4: Hidden Power Rock / Hidden Power Ground / Hidden Power Fire
+ability: Snow Warning
+item: Eviolite
+evs: 36 HP / 104 Atk / 40 Def / 184 SpA / 120 SpD
+nature: Quiet
+
+Moves
+========
+Blizzard is a very powerful STAB move that has perfect accuracy in hail. Giga Drain is the best option for a secondary STAB move, as it keeps Snover healthy throughout the match and nails Water-types that resist Blizzard. Ice Shard is a useful move, picking off opposing Pokemon that are faster than Snover and have been significantly weakened. Keep in mind that Eviolite Snover can't take on max Speed Fletchling with Ice Shard as Snover is slower. The Hidden Power of choice goes in the last slot. This choice depends on Snover's teammates and what types of Pokemon are the biggest problem for your team. Hidden Power Rock hits most Fire-types hard. Hidden Power Ground nails Magnemite, and Hidden Power Fire hits Steel-types, especially Ferroseed, extremely hard.
+
+Set Details
+========
+
+The investment in bulk gives Snover even numbers in its defenses, taking the best advantage of Eviolite. The remaining EVs are placed in both attacking stats, with Special Attack being maxed. As Snover needs investment in both offensive and defensive stats, a Speed-lowering nature is used. The EV spread also allows for any Hidden Power listed to be used without trouble.
+
+Usage Tips
+========
+
+Bulky Snover makes use of its typing to repeatedly switch into Water-, Electric-, and Ground-types and heal up with Giga Drain. This makes it an especially good switch-in for Chinchou, as Chinchou rarely carries Hidden Power Fire. This Snover variant can also bluff being Choice-locked, as many people expect Snover to be a Choice Scarf variant. For example, it can surprise Water-types with Giga Drain if the opponent thinks Snover is locked into Blizzard.
+
+Team Options
+========
+
+Snover appreciates a Rapid Spin or Defog user, such as Drilbur, Vullaby, or Staryu. Archen is a good partner as it carries Defog and can take on Pokemon such as Fletchling and Houndour. Snover can take on the Water- and Electric-types that threaten Archen. Fighting-types are a problem for Snover, so Flying-types such as Fletchling and Doduo make good offensive teammates.
+
+Other Options
+########
+
+Energy Ball is a more powerful option which can be used over Giga Drain, although Energy Ball doesn't get any notable KOs that Giga Drain doesn't. Leech Seed is an option on the Eviolite set, although it's usually better to use Giga Drain. Don't use Synthesis, as it only restores 25% HP in hail. Hidden Power Fighting is an option if you're trying to lure Pawniard, but Eviolite Pawniard isn't OHKOed by it and Choice Scarf Pawniard outspeeds any Snover variant. Shadow Ball is an option to 2HKO Honedge, but its usefulness ends there as most other Ghost-types are hit just as hard or harder by Blizzard. Water Pulse can be used in place of Hidden Power in order to hit Fire-types, but it's inferior to Hidden Power Rock because it misses the OHKO on Larvesta and it misses the 2HKO on Vulpix.
+
+Checks & Counters
+########
+
+**Fire-types**: As long as they don't come in on a Hidden Power Rock, Ponyta, Houndour, and Larvesta can switch into Snover without a problem and take advantage of its 4x weakness to Fire. Larvesta in particular can capitalize on the forced switch by using U-turn.
+
+**Vulpix**: Vulpix not only poses a large threat to Snover with its Fire-type STAB moves, but also removes the hail with Drought.
+
+**Steel-types**: Steel-types such as Magnemite and Pawniard can switch in on Snover's STAB moves and immediately threaten it with their super effective Steel-type STAB attacks.
+
+**Bulky Fighting-types**: Bulky Fighting-types such as Mienfoo and Timburr can easily tank a Blizzard and then KO with their Fighting-type STAB moves. In particular, Timburr can revenge kill Choice Scarf Snover quite easily with Mach Punch, which does around 80%.
+
+**Tentacool**: Tentacool resists Blizzard, and if Snover uses Giga Drain, Tentacool's Liquid Ooze will hurt Snover in the process. Tentacool can then threaten Snover with a super effective STAB Sludge Bomb.
+
+**Fletchling**: Fletchling easily revenge kills Snover with priority Acrobatics. The only thing it has to fear is Ice Shard from Choice Scarf Snover.

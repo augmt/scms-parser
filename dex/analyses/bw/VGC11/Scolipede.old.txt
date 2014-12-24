@@ -1,0 +1,53 @@
+[Overview]
+
+<p>Scolipede is a Pokemon which has high Speed and access to Swords Dance, while being cursed by a bad typing and poor defenses. This centipede definitely has its uses, though, as it is blessed with one base Speed point higher than the genie Pokemon and access to fantastic spread attacks. All in all, Scolipede is not to be underestimated; if given the chance to set up, this speedy bug can make easily make things very difficult for the opponent.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Megahorn / X-Scissor / Poison Jab
+move 3: Rock Slide
+move 4: Earthquake
+item: Focus Sash
+nature: Jolly
+ability: Swarm
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Swords Dance is what makes Scolipede usable, boosting its Attack greatly while having the Focus Sash protect it from an OHKO. Rock Slide and Earthquake give good coverage, and will be the primary means of attacking common Pokemon such as Thundurus, Tornadus, and Fire-types such as Chandelure. Megahorn becomes insanely powerful after a Swords Dance and activation of Swarm. It will be the best move option against bulky Pokemon such as Musharna. Poison Jab or X-Scissor can work if accuracy is preferred over the raw power of Megahorn. Protect is listed to survive additional turns and scout the opponent's strategy. Keep in mind, however, that Protect and Swords Dance will be exploited by Encore users, namely Whimsicott.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Scolipede's poor defensive stats force it to only run maximum Speed and Attack. If the opponent sends out Whimsicott, it is not advised to use Swords Dance or Protect. After a Swords Dance, Megahorn can OHKO virtually anything that doesn't resist it, including bulky walls like Musharna.</p>
+
+<p>Megahorn's accuracy is not perfect, and therefore other moves might be more beneficial (especially after a Swords Dance). X-Scissor can be used instead of Megahorn, but grabbing an Attack boost is required for it to really become threatening. Poison Jab is another good choice, getting a STAB boost and dealing super effective damage to Virizion, who resists Earthquake and Rock Slide. The choice between Swarm and Poison Point is quite simple. If Megahorn or X-Scissor is the last move, then Swarm should be used.</p>
+
+[SET]
+name: Physical Attacker
+move 1: Protect
+move 2: Megahorn
+move 3: Rock Slide
+move 4: Earthquake
+item: Focus Sash
+nature: Jolly
+ability: Swarm
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>This set emphasizes Scolipede's high Speed and coverage. Focus Sash usually lets Scolipede use at least two attacks before going down. Megahorn smacks the multitude of bulky Psychic-types littering VGC for super effective damage. Rock Slide complements Megahorn very well, with only a few Pokemon resisting the combination. Earthquake rounds out Scolipede's movepool, hitting Steel-types that resist its other moves. Swarm is the better of Scolipede's abilities, as it gives Megahorn even more power once Scolipede has been sufficiently weakened.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Using an Adamant nature is a possibility. This somewhat compensates for Scolipede's mediocre Attack stat, but lets the genie Pokemon outspeed Scolipede. However, this is only problematic against Tornadus, and only if it has Air Slash or Acrobatics. Poison Jab can be used instead of Earthquake. It still provides good coverage, but hits Whimsicott and Cofagrigus harder without risking a miss.</p>
+
+<p>A Flying-type or Levitate user makes for a good partner to let Scolipede spam Earthquake. Pokemon that can handle spread attacks that Scolipede is weak to are also good teammates. Jellicent, Landorus, and Tornadus are probably Scolipede's best teammates. Keep the threat of Amoonguss in mind when building a team with Scolipede, as some of its best teammates are quite susceptible to the mushroom.</p>
+
+[Other Options]
+
+<p>Choice Band is a decent item, allowing Scolipede to hit with much more power without a turn of setup needed. However, losing the security of having at least two turns to attack is usually not worth the Attack boost which Choice Band brings to the table. If Focus Sash is already held by another Pokemon on your team, any type-resist Berry or Gem could work. An Occa or a Charti Berry works well, while on the other hand, a Bug or a Rock Gem provides a burst of power that will help grab certain KOs that Scolipede would not otherwise get.</p>
+
+[Checks and Counters]
+
+<p>Bulky Pokemon that are not weak to Megahorn, such as Cofagrigus, Escavalier, and Golurk, will wall Scolipede all day long. Trick Room also shuts the centipede down completely. Jellicent is a very good counter to Scolipede, as Water Spout will do significant damage to Scolipede's low Special Defense. Faster Pokemon with super effective moves (especially on Tailwind teams) can also easily knock out Scolipede.</p>

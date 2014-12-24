@@ -1,0 +1,55 @@
+[Overview]
+
+<p>Poliwrath might look like just an average fighter with mediocre stats, but in reality, it is quite a formidable threat. A well-balanced stat distribution gives Poliwrath a few options in offensive and defensive sets, and a unique Water / Fighting typing grants it many useful resistances, while Water Absorb gives it a full immunity to Water-type attacks. These traits allow it to take on many of the most dangerous threats in RU, including Crawdaunt, Kabutops, Aggron, and Feraligatr. In addition, BW brought Poliwrath Circle Throw, a STAB phazing move which works extremely well on a bulky set. Even though Poliwrath is unable to excel in one specific role due to its all-around mediocre stats, it is certainly a Pokemon that has a solid niche in RU.</p>
+
+[SET]
+name: Physically Defensive
+move 1: Protect / Rest
+move 2: Toxic / Sleep Talk
+move 3: Scald
+move 4: Circle Throw
+item: Leftovers
+ability: Water Absorb
+nature: Relaxed
+evs: 252 HP / 4 Atk / 252 Def
+
+[SET COMMENTS]
+
+<p>Poliwrath is able to function as a physical wall in RU due to its unique typing, 90 / 95 / 90 defenses, and ability, Water Absorb. These qualities, along with Circle Throw, allow Poliwrath to counter and phaze many prominent threats, including Entei, Emboar, Escavalier, Crawdaunt, Aerodactyl, Kabutops, Aggron, and most variants of Durant. Protect can be used for scouting the opponent's movesets, as some may be packing moves specifically for dealing with Poliwrath and/or Qwilfish, a major example being Thunder Fang Durant. It also scouts your opponent's plays with Choice item users, allows for extra Leftovers recovery, and stalls for turns to build up Toxic damage. Carrying two status moves in Toxic and Scald allows Poliwrath to better take on both stall and offense teams, at the cost of some longevity. However, by replacing Protect and Toxic with RestTalk, Poliwrath is able to accomplish a couple of things that it otherwise could not. First, it can absorb status for the team and heal itself with Rest, a form of semi-reliable recovery. Second, Poliwrath is no longer completely useless while asleep, as Sleep Talk can choose Circle Throw, which will force out Poliwrath's counters.</p>
+
+<p>Despite having a low Base Power, Circle Throw hits relatively hard thanks to STAB. For example, it 2HKOes Clefable and Cryogonal, both of which take minimal damage from Scald. Speaking of which, Scald is a great move on this set, as it has a chance to burn troublesome opponents, such as Qwilfish and Ferroseed, which would otherwise wall this set, and is Poliwrath's best weapon against Emboar and other Fire-types. While Waterfall might seem appealing, Scald is superior for a couple of reasons, the most prominent being the burn chance, and also because it deals more damage to Pokemon like Aggron and Klinklang, breaking the latter's Substitutes in one hit.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given EV spread maximizes Poliwrath's physical bulk, as it will primarily be used to take on physical attackers. If using Toxic and Protect, Poliwrath fits better on balanced teams, as it's more tailored to take on and cripple a larger variety of Pokemon while providing a defensive backbone. With RestTalk, Poliwrath becomes an immovable wall more suited to stall teams that don't care as much if Poliwrath has to rely on Sleep Talk to accomplish its job. Heal Bell support is nice for both sets, preventing Poliwrath from suffering from Toxic or burn if it carries Protect, and waking it up quicker if it carries RestTalk. Clefable is a good fit to provide cleric support for stall teams, whereas Gardevoir might be a better fit for balanced teams.</p>
+
+<p>Poliwrath loves entry hazard support, as it can phaze opponents with Circle Throw and rack up damage. The combination of Toxic, Scald, Circle Throw, and entry hazards all culminating around a single Pokemon is truly a brutal sight to behold. Thus, Roselia makes for a great partner, as it can lay Spikes or Toxic Spikes and has good type synergy with Poliwrath. Drapion is another good option to lay Toxic Spikes and beats a lot of the Pokemon that give Poliwrath trouble, particularly Lilligant and SubCM Uxie. Steelix and Golurk are great options to provide Stealth Rock, as they have pretty good type synergy with Poliwrath, and the former can continue the phazing chain with Roar. Poliwrath is weak to the ever-present Grass- and Psychic-type moves, so Pokemon that can switch in on the likes of Sceptile, Tangrowth, Rotom-C, Sigilyph, and Slowking make great teammates. Mandibuzz in particular comes to mind, as it resists Grass and is immune to Psychic; furthermore, it can also take advantage of the team's entry hazards with Whirlwind. Bouffalant is another great option, as it can garner a free Attack boost with Sap Sipper by switching into a Grass-type attack, and with entry hazard support, its attacks are fierce to say the least. Fire-types, such as Entei and Moltres, are great switch-ins to the aforementioned Grass-types and can eliminate them with ease.</p>
+
+[SET]
+name: SubPunch
+move 1: Substitute
+move 2: Focus Punch
+move 3: Waterfall
+move 4: Bulk Up / Encore
+item: Leftovers
+ability: Water Absorb
+nature: Adamant
+evs: 160 HP / 252 Atk / 96 Spe 
+
+[SET COMMENTS]
+
+<p>Poliwrath can run an effective SubPunch set, as its numerous resistances allow it to easily set up a Substitute on the majority of Pokemon in RU. In addition to allowing Focus Punch to hit successfully, Substitute also blocks status, so Poliwrath won't have to worry about being burned by Spiritomb's Will-O-Wisp or being put to sleep by Lilligant's Sleep Powder. A STAB Focus Punch hits hard despite coming off of a base 85 Attack; it destroys common Normal-, Rock-, and Steel-types such as Clefable, Kabutops, and Steelix, respectively. Waterfall is Poliwrath's secondary STAB move, and it hits Fire- and Ground-type Pokemon for super effective damage. It also comes in handy when Poliwrath does not have a Substitute up, as Focus Punch will then be unreliable. As for the last moveslot, Bulk Up makes Poliwrath's Substitutes much harder to break with physical attacks. Bulk Up boosts Poliwrath's Attack stat as well, which allows it to deal more damage with Focus Punch and Waterfall. However, Encore gives Poliwrath more opportunities to set up Substitutes on Pokemon locked into Water-type moves.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given EV spread allows Poliwrath to outspeed Adamant Aggron, and lets it hit as hard as possible while retaining as much bulk as possible. Alternative EV spreads of 120 HP / 252 Atk / 136 Spe or 40 HP / 252 Atk / 216 Spe allow for Poliwrath to outspeed Modest Omastar or Timid Omastar and 230 Speed Feraligatr, respectively. Poliwrath should use these if it has Encore, as it can lock these opponents into a Water-type move and set up a free Substitute. Toxic can be used in the last moveslot to hit Pokemon that resist Focus Punch, such as Spiritomb and Slowking.</p>
+
+<p>The likes of Tangrowth can take Poliwrath's moves, heal off the damage, and break Poliwrath's Substitutes. Thus, Pokemon that can eliminate such threats are great teammates. Fire-types are the best for the job; strong attacks such as Choice Band Entei's Flare Blitz can break through walls weakened by Focus Punch. In addition to helping to break walls, Poliwrath can provide solid resistances to Rock- and Water-type moves for its Fire-type teammates. Rotom-C is another recommended partner, as it resists Grass- and Electric-type attacks, and has Volt Switch to nab Poliwrath a free switch-in. Finally, a teammate with Toxic Spikes is extremely useful for wearing down opposing walls, such as Spiritomb and Slowking. Good setters of Toxic Spikes include Roselia and Drapion.</p>
+
+[Other Options]
+
+<p>Poliwrath has very few other options. It can use a Belly Drum set to raise its Attack to sky-high levels, but it will be easily revenge killed due to its low Speed. Hypnosis is another option, but its low accuracy makes it extremely unappealing, and Poliwrath has much better options. Finally, Poliwrath gets Swift Swim from the Dream World, which can help it overcome its poor Speed. However, other Water-type Pokemon, such as Kabutops and Ludicolo, are much better at sweeping in rain due to their wider movepools.</p>
+
+[Checks and Counters]
+
+<p>Tangrowth is the best counter to Poliwrath because of its massive Defense stat and Grass typing. Grass- and Electric-types in general are good checks to Poliwrath, as they can usually OHKO it with a super effective attack; some specific checks include Sceptile, Lilligant, Rotom-C, and Manectric. Ghost-types are also good counters to Poliwrath, as they are immune to its Fighting-type STAB. In addition, Rotom, Dusknoir, and Spiritomb can burn the SubPunch set, making it useless. Psychic-types will also destroy Poliwrath, and Sigilyph, Slowking, Uxie, and Mesprit all take minimal damage from anything Poliwrath can throw at them. Qwilfish walls Poliwrath and can set up entry hazards or Taunt it. Flying-types can hit Poliwrath with a super effective STAB move, and Mandibuzz in particular can prevent Poliwrath from healing or setting up a Substitute with Taunt. Lastly, bulky Swords Dance Scyther is a solid check, as it will beat Poliwrath one-on-one.</p>

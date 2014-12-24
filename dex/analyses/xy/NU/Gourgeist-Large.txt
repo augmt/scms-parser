@@ -1,0 +1,13 @@
+Defensive
+########
+name: Defensive
+move 1: Leech Seed
+move 2: Will-O-Wisp
+move 3: Protect
+move 4: Seed Bomb
+ability: Frisk
+item: Leftovers
+evs: 252 HP / 4 Atk / 252 Def
+nature: Impish
+
+This is a sample set while we are currently working on analyses in the workshop.

@@ -1,0 +1,57 @@
+[Overview]
+
+<p>Camerupt is an often-overlooked Pokemon that is capable of stopping some of the biggest threats in the OU metagame. However, it fares poorly against the common Gyarados, Salamence, and Flygon, and the Choice Band set requires huge amounts of prediction to be effective. Nonetheless, the tank set can be a great team supporter and lure. By drawing in and getting rid of key walls, Camerupt can set up an easy sweep for a teammate.</p>
+
+[SET]
+name: RestTalk
+move 1: Earthquake
+move 2: Flamethrower / Fire Blast
+move 3: Rest
+move 4: Sleep Talk
+item: Leftovers
+nature: Brave
+evs: 92 HP / 176 Atk / 240 SpD
+
+[SET COMMENTS]
+
+<p>With its unique Fire / Ground typing, Camerupt walls Electric-types quite effectively. The massive EV investment lets it take a mere 24% - 28% from 252+ Zapdos's Hidden Power Ice or Grass, as well as 23% - 25% from Timid Raikou's Crunch, making Camerupt one of the best Calm Mind Raikou counters in the game.</p>
+
+<p>Though it is by far the best in this role, Camerupt can do more than wall Electric-types. It switches in on Weezing with relative ease, though Sludge Bomb does take its toll. Support Celebi's Psychic only does 28% - 31%, and Camerupt can retaliate with Fire Blast for 67% - 79%. While Camerupt doesn't exactly wall them, it can beat Jirachi, Jynx, and Alakazam in a pinch: Camerupt is overwhelmingly likely to survive Wish Jirachi's +1 Psychic, and will 2HKO Jirachi 80.7% of the time with Earthquake. Similarly, Jynx and Alakazam miss out on the 2HKO, and are both OHKOed by Earthquake.</p>
+
+<p>Rest and Sleep Talk, combined with a sandstorm immunity, give Camerupt some much-needed durability and allows it to completely wall special Gengar. Dual STAB moves are obvious, and the combination is only resisted by Flygon, Salamence, Gyarados, Moltres, and Charizard in OU. You might find that Fire Blast PP is too rapidly depleted by Zapdos, Suicune, and Dusclops, making Flamethrower a suitable replacement.</p>
+
+[SET]
+name: Choice Band
+move 1: Earthquake
+move 2: Overheat / Fire Blast
+move 3: Rock Slide / Hidden Power Rock
+move 4: Explosion
+item: Choice Band
+nature: Brave
+evs: 4 HP / 252 Atk / 252 SpA
+
+[SET COMMENTS]
+
+<p>This set is particularly tailored to the OU environment. Camerupt's low Speed and common weaknesses make it often only able to stay in for one turn, and Choice Band lets Camerupt make the most out of this one turn. A boosted Earthquake will put major dents in bulky Water-types, while its Fire STAB of choice cripples Steel-type physical walls. The third move is largely filler, but can surprise and take out Gyarados and Salamence. Alternatively, Explosion can destroy a key wall and open up a sweep for the likes of SubSD Heracross. The EVs are straightforward: Camerupt needs all the power it can get.</p> 
+
+[SET]
+name: Tank
+move 1: Earthquake
+move 2: Fire Blast / Flamethrower
+move 3: Toxic
+move 4: Explosion
+item: Leftovers
+nature: Brave
+evs: 28 HP / 188 Atk / 136 SpA / 156 SpD
+
+[SET COMMENTS]
+
+<p>This is basically a weaker but less prediction-reliant version of the Choice Band set; it sacrifices power for ease of use and ability to switch in. The first move Camerupt should use when it comes in is Toxic, as this cripples its most common counters, namely Water-types and Salamence. Additionally, with the looming threat of Fire Blast and Earthquake, opponents typically won't risk switching in a Steel-type. Afterwards, Toxic should be used sparingly unless their originally poisoned Pokemon can no longer switch in. Explosion gives Camerupt the ability to completely wreck another opponent. The EVs go for a mix of bulk and power.</p>
+
+[Other Options]
+
+<p>A variety of Hidden Power types can be considered: Electric for Gyarados, Ice for Salamence, and Grass for Swampert. However, only the Dragon-types will be OHKOed, and even then, maximum Special Attack is needed. Eruption has some novelty value, but Camerupt's other Fire moves are more reliable.</p>
+
+[Checks and Counters]
+
+<p>Dugtrio is the best counter to Camerupt; a good way to remove your opponent's Camerupt is to bait it out with an Electric-type and send Dugtrio in. Everything else fears Explosion, however. RestTalk Zapdos can stall out RestTalk Camerupt; in fact, it only fears Choice Band Rock Slide. Salamence, Gyarados, and Flygon are good checks as long as they avoid Toxic. Claydol's high Special Defense makes it a very safe switch-in, though it can easily become setup fodder for something else; the same applies to bulky Water-types.</p>

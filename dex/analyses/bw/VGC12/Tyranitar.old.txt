@@ -1,0 +1,56 @@
+[Overview]
+
+<p>Tyranitar is one of the most popular Pokemon in the VGC 2012 metagame, and for good reason. It has very impressive stats, the best of which is its massive base 134 Attack. With a base Speed of only 61, however, it is one of the slower Pokemon in the VGC 2012 metagame. This can be taken advantage of by providing it with Trick Room support, or simply by using it to underspeed opposing weather Pokemon. Tyranitar's Sand Stream ability initiates a sandstorm whenever Tyranitar enters the battlefield; when two weather inducers are sent out at the same time (the beginning of the battle, for example), the slower Pokemon's weather stays in effect. Tyranitar's Rock / Dark typing gives it two very useful STAB attacks, but also provides it with a horrific 4x weakness to Fighting-type moves, a very popular attack type in the VGC 2012 metagame. Furthermore, Tyranitar is weak to Ground-, Water-, and Grass-type moves, all of which are common in the metagame as well. Thankfully, Tyranitar's weaknesses to Water- and Grass-type attacks are to a certain extent offset by the Special Defense boost that Rock-types receive during a sandstorm. </p>
+
+[SET]
+name: Physical Attacker
+move 1: Crunch
+move 2: Rock Slide
+move 3: Low Kick 
+move 4: Protect
+item: Chople Berry / Focus Sash
+ability: Sand Stream / Unnerve
+nature: Brave
+evs: 252 HP / 252 Atk / 4 SpD
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>This set takes advantage of Tyranitar's low Speed by using a Speed-reducing nature and a 0 Speed IV, allowing it to take control of the weather, as well as take advantage of Trick Room. Crunch and Rock Slide are obligatory on every Tyranitar set, as they are its strongest STAB moves. Tyranitar can choose between any number of attacks for its third move, as it has a very wide movepool. Low Kick is generally preferred, as it does heavy damage to the many Steel-types that resist Rock Slide and Crunch.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs listed maximize Tyranitar's HP so that it can take both special and physical hits well. However, they do not enable Tyranitar to always survive a Close Combat from 252+ Hitmontop even should Tyranitar be holding a Chople Berry. You can choose to invest 212 EVs into HP to enable Tyranitar to survive the aforementioned hit, but no amount of investment will allow Chople Berry Tyranitar to survive Life Orb Hitmontop's Close Combat with surety. Lastly, it should be noted that Tyranitar is overwhelmingly unlikely to survive a similar assault from Fighting Gem Hitmontop.</p>
+
+<p>Unfortunately, Tyranitar doesn't have many options to deal with opposing Fighting-type Pokemon, which are the biggest threats to it. As such, good teammates for Tyranitar include Pokemon that can comfortably take on Fighting-types, such as Cresselia and Gyarados. Other recommended partners are Pokemon that can take advantage of the sandstorm that Tyranitar summons, such as Garchomp, Excadrill, and Landorus. Pokemon that can quickly eliminate potential threats to Tyranitar, such as Latios and Porygon-Z, also make great teammates for Tyranitar. However if running Unnerve as the ability, Tyranitar can pair well with other weather setters like Abomasnow and Ninetales as well as other Pokemon who can work well without the nuisance Sand Stream can bring. If you are looking to provide Tyranitar with Trick Room support, Slowking, Dusclops, and Dusknoir are among the best options. These Pokemon can cover Tyranitar's weakness to Fighting-type attackers by either hitting them hard with STAB Psychic or Scald, or burning them with Will-O-Wisp, weakening them greatly. The three also have strong defenses and resist or are immune to many of the common attacks directed at Tyranitar, making them excellent teammates. If Tyranitar doesn't already have Fire-type support through teammates, it can use Fire Blast to deal heavy damage against Steel-, Bug-, and Grass-types. Scizor and Ferrothorn are a few to name that Fire Blast threatens.</p>
+
+[SET]
+name: Unnerve
+move 1: Dark Pulse
+move 2: Flamethrower
+move 3: Ice Beam
+move 4: Protect
+item: Chople Berry / Focus Sash
+nature: Modest
+ability: Unnerve
+evs: 252 HP / 252 SpA / 4 Spe
+
+[SET COMMENTS]
+
+<p>This set outlines the use of Tyranitar on a weatherless team, and makes use of its special attacking capabilities. This gives it merit over a physical set because Intimidate no longer cripples Tyranitar. Dark Pulse is the main STAB move for the set, as it hits many Pokemon for neutral damage and most Trick Room users super effectively. Flamethrower is used to give coverage against Steel-types such as Scizor, Metagross, and Ferrothorn; these threats can all haunt a physical set because Tyranitar has no physical options to hurt them significantly. Ice Beam gives coverage against Dragon- and Flying-types such as Garchomp and Thundurus, which can destroy Tyranitar with Earthquake and cripple its teammates with Thunder Wave, respectively. Protect helps Tyranitar work around Pokemon that may threaten it, avoiding all attacks for a turn while a teammate handles the threat.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Without Sand Stream, Tyranitar loses the Special Defense boost provided by sandstorm, making it susceptible to a wider range of attacks. A Chople Berry allows Tyranitar to take less damage from common Fighting-type attacks such as Technician Mach Punch from Hitmontop and Close Combat from anything that doesn't have Fighting-type STAB. A Focus Sash can be used to let Tyranitar survive at least one of these hits, such as a Fighting Gem Close Combat from Hitmontop or Hydro Pump from Ludicolo in the rain. A Modest nature gives Tyranitar a boost in Special Attack, allowing it to perform well in a special attacking role. Although Unnerve may seem like an odd choice for a Pokemon such as Tyranitar, it actually helps Tyranitar function as an attacker on teams that do not want a sandstorm to ensue. However, this doesn't mean that Unnerve comes without further use. It allows Tyranitar to go up against common bulky Pokemon and take them down more easily due to the fact that Unnerve negates type-resistance and health restoration Berries, such as Yache and Sitrus. The EV spread maximizes HP for general bulk allows Tyranitar to take a few neutral hits before it gets KOed, and maximum investment in Special Attack helps Tyranitar hit as hard as possible. Moves such as Blizzard and Fire Blast could be used to hit harder than Ice Beam and Flamethrower at the cost of accuracy. A Quiet nature in conjunction with 0 Speed IVs can be used you are running Tyranitar on a Trick Room team.</p>
+
+<p>With Unnerve, Tyranitar becomes a great partner for sleep, Will-O-Wisp, and Thunder Wave users because Unnerve cancels the use of any kind of Berry that could otherwise reverse the status Tyranitar's partner dishes out. Specific status inducers who work especially well are Togekiss and Amoonguss, who can utilize Follow Me and Rage Powder, respectively, to draw potential KOs away from Tyranitar. Because Tyranitar no longer summons sand with Unnerve, it can easily find space for use on a hail or sun team with Abomasnow or Ninetales. Tyranitar benefits from usage on hail and sun teams because they help Tyranitar work around the rain teams that are problematic to deal with. Pokemon with Prankster, such as Murkrow, Sableye, and Whimsicott, also make great partners as they can neuter physical attackers with Will-O-Wisp or moves that reduce Attack, such as FeatherDance and Charm.</p>
+
+[Other Options]
+
+<p>Tyranitar has a vast movepool, but many of its moves are not viable in VGC 2012. If your team relies heavily on sandstorm being set up, Tyranitar can hold Iron Ball instead of one of the recommended items to lower its Speed, and take advantage of it by running the move Fling. With an Iron Ball, Fling becomes an immensely powerful 130 Base Power Dark-type move, which is further boosted by STAB. One problem with this strategy, though, is that it can only be pulled off once. Additionally, if the target uses Protect, the Iron Ball is used up and the strategy is rendered useless. In place of Low Kick, Tyranitar can instead use a support move, such as Taunt or Thunder Wave. Taunt can be used to mess with Trick Room teams, but Tyranitar itself generally fares well in Trick Room due to its low Speed. 
+
+Tyranitar also has a wide selection of powerful special attacks, such as Fire Blast, Thunderbolt, and Ice Beam, but its base 95 Special Attack pales in comparison to its base 134 Attack stat. Stone Edge can be used in place of Rock Slide, but its low accuracy makes it less reliable, and unlike Rock Slide, it can also be redirected by Follow Me and Rage Powder. Nonetheless, one big advantage of Stone Edge is its ability to easily 2HKO Gyarados, which is a big threat to Tyranitar. Tyranitar receives a number of other moves, such as Iron Head and Aqua Tail, but they are not recommended due to their poor type coverage. If you do not care about initiating a sandstorm, or would rather take better advantage of Tailwind or Icy Wind support, you can use an Adamant nature and a 31 Speed IV. Another option is utilizing 252 Speed EVs and a Jolly nature along with Choice Scarf, which can catch your opponents off guard. This opens up Tyranitar to being OHKOed by any number of attacks, but the added Speed can be helpful in some situations. In particular, Tyranitar can outspeed and OHKO Latios and Thundurus, which can otherwise pose a threat to Tyranitar and its teammates.</p>
+
+[Checks and Counters]
+
+<p>As stated before, Fighting-type Pokemon are the bane of Tyranitar's existence. They are able to deal massive amounts of damage to Tyranitar while taking relatively little in return. Pokemon with the Intimidate ability also fare well against Tyranitar, as Tyranitar almost always relies on physical attacks to deal damage. Hitmontop and Arcanine are particularly threatening because they pose an imminent threat to Tyranitar, but even Salamence and Gyarados can be switched in relatively safely, as neither is OHKOed by Rock Slide after Intimidate. Other Pokemon that can wall Tyranitar well and severely damage it include most Steel-types, such as Metagross and Ferrothorn. </p>

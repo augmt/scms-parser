@@ -1,0 +1,13 @@
+Choice Band
+########
+name: Choice Band
+move 1: Crabhammer
+move 2: Knock Off
+move 3: Superpower
+move 4: X-Scissor
+ability: Hyper Cutter
+item: Choice Band
+evs: 4 HP / 252 Atk / 252 Spe
+nature: Jolly / Adamant
+
+This is a sample set while we are currently working on analyses in the workshop.

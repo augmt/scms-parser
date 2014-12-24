@@ -1,0 +1,62 @@
+[Overview]
+
+<p>Horsea is a good option for a special sweeper in a Rain Dance team. It has the second highest Special Attack among all Pokemon with the Swift Swim ability. Mantyke is often said to outclass Horsea, but this is partially wrong. Horsea has better Speed, Special Attack, and Defense than Mantyke. The Speed is the key factor that separates Mantyke and Horsea. Horsea reaches 32 Speed in the rain or after an Agility, which allows it to outpace all Choice Scarf users, something that Mantyke cannot do. Horsea can also use Agility to increase its Speed, but Chinchou and Mantyke do that better.</p>
+
+[SET]
+name: Rain Dance Special Attacker
+move 1: Rain Dance
+move 2: Hydro Pump / Surf
+move 3: Ice Beam
+move 4: Hidden Power Grass / Hidden Power Electric
+item: Life Orb / Oran Berry
+ability: Swift Swim
+nature: Timid
+evs: 36 Def / 200 SpA / 76 SpD / 196 Spe
+
+[SET COMMENTS]
+
+<p>Horsea is a excellent special sweeper under the rain. With its great base 70 Special Attack, Horsea is strong enough to 2HKO Munchlax (one of the bulkiest special walls in LC) with a Life Orb boosted Hydro Pump in the rain. Timid is the preferred nature on this set, since it reaches 32 Speed with Swift Swim, allowing it to outspeed all Choice Scarfers in LC. Life Orb is the best item on this set in order to help Horsea score OHKOs and 2HKOs on some Pokemon; however, Oran Berry can help recover HP from priority attacks that Horsea is vulnerable to. Having both 36 Defense and Special Defense EVs may seem strange, but Horsea's HP reaches 19, a Life Orb number, without any investment.</p>
+
+<p>Hydro Pump is the main attack on this set. It can tear through any Pokemon who does not resist it. Surf is an option if you find Hydro Pump's accuracy lacking, but you miss out on some important OHKOs and 2HKOs, like the aforementioned 2HKO on Munchlax. Ice Beam is useful to hit Grass-types that resist Horsea's STAB attacks like Shroomish and Paras. Hidden Power Grass allows you to hit Chinchou and Wooper super effectively, while Hidden Power Electric OHKOes Mantyke. Hidden Power Ground is an option to hit Croagunk in addition to Chinchou.</p>
+
+<p>To prove how powerful Hydro Pump is on Horsea, below are several damage calculations. All calculations factor in the boost from rain (except for the Snover calculation) and Life Orb.</p>
+
+<ul class="damage_calculation">
+<li>Hydro Pump vs Max HP / Max SpD Munchlax: 66.67%-81.82% (2HKO with Oran)</li>
+<li>Hydro Pump vs Max HP / Max SpD Chinchou: 44.44%-51.85% (3HKO with Oran)</li>
+<li>Hydro Pump vs 76 HP / 0 SpD Mantyke: 52.38%-61.90%</li>
+<li>Hydro Pump vs 116 HP / 0 SpD Snover: 45.83%-54.17%</li>
+<li>Hydro Pump vs 220 HP / 68 SpD Sassy Bronzor: 75% - 91.7%</li>
+</ul>
+
+[ADDITIONAL COMMENTS]
+
+<p>Priority attackers are the bane of Horsea's sweep. Meowth, Croagunk, and Taillow are all capable of heavily damaging Horsea with their STAB priority moves. Bronzor handles these threats quite well, as it can switch in easily and set up Stealth Rock, or punish them with Earthquake or Psychic. It can also set up Rain Dance should it run out, allowing Horsea to resume its sweep. Snover shuts this set down easily by summoning hail, which removes Horsea's Swift Swim boost allows Snover to take it out with its STAB Grass-type attacks. Bronzor can stop all Snover sets barring the SubSeed set; there is nothing that can deal with the SubSeed set 100% of the time. It is best to attempt to switch in a powerful sweeper such as Houndour when Snover uses Protect and then continuously hit Snover hard with STAB moves. Chinchou or Mantyke will wall Horsea depending on the Hidden Power Horsea is using. Croagunk can check both of them by switching in on a Water-type move and then KO them with a combination of Fake Out and Sucker Punch. Wynaut is also a great choice for a partner to Horsea; it can trap Croagunk and kill it. It can also trap other Pokemon using support moves or attacks that Horsea resists, Encore them, and then let Horsea set up rain and sweep.</p>
+
+[Set]
+name: Agility
+move 1: Agility
+move 2: Surf / Hydro Pump
+move 3: Ice Beam
+move 4: Hidden Power Grass / Hidden Power Electric
+item: Oran Berry / Life Orb
+nature: Timid
+evs: 36 Def / 200 SpA / 76 SpD / 196 Spe
+
+[SET COMMENTS]
+
+<p>This set is similar to the Rain Dance sweeper, except this set uses Agility to alleviate the problems of the duration of rain. You still have the choice between Surf and Hydro Pump but you do not get the boost from rain. Using Hydro Pump over Surf is yet again up to preference. Hydro Pump will obviously hit harder than Surf can, but it has the chance to miss, possibly getting Horsea killed. Oran Berry is the preferred item on this set, because it allows Horsea to gain some health in the process of setting up Agility. You need to recover the much needed HP to help prevent your sweep being ended by priority attacks. The ability does not matter on this set, but having Swift Swim can be a nice way to counter opposing Rain Dance teams and Sniper is not really helpful at all.</p>
+
+<p>This set seems to be outclassed by Mantyke, but there are traits that make Horsea the better Agility user than Mantyke in certain cases. Horsea's Special Attack and Speed are both higher by one point and it is capable of reaching 32 Speed while Mantyke cannot. Horsea also resists Ice Shard and it is not weak to Stealth Rock.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Priority attacks hurt Horsea's sweep badly. Having a Pokemon able to take the priority attacks is a must. Bronzor is a nice way of dealing with priority attacks. Paras can come in on Agility or Surf and put Horsea to sleep with Spore or attack with Seed Bomb, although it takes considerable damage from Ice Beam. Using Hoothoot is a great way to counter Paras, since it resists both of Paras's attacks and is immune to Spore because of its ability, Insomnia. Munchlax can take a couple of Surfs and hurt Horsea severely with Return. Bronzor is a good switch into Munchlax. Wynaut can trap Croagunk, kill it, and Encore other moves to let Horsea get an Agility off.</p>
+
+[Other Options]
+
+<p>On the Agility and Rain Dance sets, Hidden Power Ground is an option to OHKO Croagunk on the switch in. You can use Damp Rock on those sets to help keep Rain Dance active longer, but having more power with Life Orb or restoring HP with Oran Berry are usually better options. Horsea can also try to run a Dragon Dance set, but its physical movepool is lacking and it is generally outclassed by Totodile.</p>
+
+[Checks and Counters]
+
+<p>Most of the counters for Horsea depend on the Hidden Power it is using. Croagunk is an excellent counter for Horsea; it can switch into Horsea's STAB Hydro Pump easily because of its ability, Dry Skin, and can use a combination of Fake Out and Vacuum Wave to knock it out. Croagunk only fears Horsea if it is using Hidden Power Ground. Mantyke is a good counter to Horsea if it is not using Hidden Power Electric. Chinchou walls Horsea if it is using Hidden Power Electric. Snover can counter the Rain Dance set by stopping the rain, outpacing Horsea, and OHKOing it with a Grass-type move.</p>

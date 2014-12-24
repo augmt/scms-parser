@@ -1,0 +1,62 @@
+[Overview]
+
+<p>Meet Scraggy, a Pokemon that was once deemed to be the king of Little Cup. Scraggy is probably the best setup sweeper in the tier, having access to a great Attack stat and good defenses, along with high-powered STABs such as High Jump Kick or Crunch. But the icing on the cake is Dragon Dance: with this rare move, he can boost his Attack to sky-high levels along with his less-than-impressive Speed. His abilities are even more impressive: Shed Skin grants him a pseudo-immunity to status, while Moxie allows him to sweep much easier! Unfortunately, the lizard doesn't have only pros. He's weak to the most common type in the tier, Fighting, and is hard-countered by nearly every Fighting-type in the tier, including Mienfoo, one of the most popular Pokemon in LC. He also has problems with foes holding a Choice Scarf with a Speed stat higher than 15, as they can outspeed and KO him. However, Scraggy is definitely an excellent Pokemon and one of the most dominant threats in Little Cup.</p>
+
+[SET]
+name: Dragon Dance
+move 1: Dragon Dance
+move 2: High Jump Kick
+move 3: Crunch
+move 4: Drain Punch / Knock Off
+item: Eviolite
+nature: Jolly
+evs: 236 Atk / 36 SpD / 212 Spe
+
+[SET COMMENTS]
+
+<p>This is Scraggy's flagship set, and for good reasons. Dragon Dance is the main focus of the set, boosting his meager Speed and his great Attack to terrifying levels, allowing him to outspeed every Pokemon without a Choice Scarf. Common opponents to set-up Dragon Dance users are Misdreavus, Porygon, and Staryu, as they can't cripple him with status thanks to Shed Skin, and their attacks aren't powerful enough to dent him. High Jump Kick is the STAB move of choice, allowing him to decimate everything that tries to stand in his path. Crunch is a reliable STAB, allowing him to hit Ghost- and Psychic-types that might try to rain on his parade. Drain Punch is the main option in the last slot, letting Scraggy recover any HP he may have lost while setting up, and allowing him to clean weakened opponents. Knock Off is an option as well, allowing him to catch his counters and checks, such as Mienfoo or Croagunk, on the switch in to remove their Eviolite and proceed to KO them with a boosted High Jump Kick.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread is simple: Attack and Speed are maximized with the leftover EVs placed in Special Defense to prevent Misdreavus from 2HKOing him with Hidden Power Fighting. Jolly is preferred over Adamant, as the power boost is unnoticeable after a Dragon Dance, and Scraggy likes to outspeed 14 Speed Choice Scarf users such as Snover. The choice of ability is preference-based, as both are good choices. Shed Skin is preferred thanks to the pseudo-immunity to status it provides, allowing Scraggy to set up in front of Pokemon such as Will-O-Wisp Misdreavus or Thunder Wave Slowpoke. Moxie has its merits, however, helping a sweep after a KO. Scraggy appreciates Stealth Rock and Spikes, as they help him get OHKOes on some of his counters. Here are a few calculations to show Scraggy's firepower:</p>
+
+<ul class="damage_calculation">
+<li>+1 236 Atk Scraggy High Jump Kick vs. 156 HP / 196+ Def Eviolite Mienfoo: 16-19 (69.56 - 82.6%) -- 50% chance to OHKO after 3 layers of Spikes</li>
+<li>+1 236 Atk Scraggy High Jump Kick vs. 76 HP / 0 Def Eviolite Timburr: 19-24 (76 - 96%) -- 81.25% chance to OHKO after two layers of Spikes</li>
+<li>+1 236 Atk Scraggy High Jump Kick vs. 36 HP / 20 Def Eviolite Murkrow: 22-27 (95.65 - 117.39%) -- 75% chance to OHKO</li>
+<li>+1 236 Atk Scraggy High Jump Kick vs. 132 HP / 212+ Def Eviolite Hippopotas: 13-16 (52 - 64%) -- guaranteed 2HKO</li>
+</ul>
+
+<p>As you can see, common bulky and defensive Pokemon are either OHKOed or 2HKOed. Zen Headbutt is an option over Drain Punch or Knock Off, as it allows Scraggy to defeat Croagunk, Koffing, and Grimer, as the former resists both of his STABs and the latter two are heavy on the bulky side. However, it doesn't have a lot of purpose outside of these Pokemon, as a STAB High Jump Kick hits harder than a super effective Zen Headbutt against everything else.</p>
+
+<p>Good partners to Scraggy are Pokemon that can KO the Fighting-types that he hates; Murkrow, Drifloon, or Misdreavus all fill that role, as the former two can hit them with powerful Flying-type attacks, and the latter can burn them with Will-O-Wisp. Scraggy, in return, can also beats the special and physical walls that threaten them, such as Chinchou, Porygon or Lileep.</p>
+
+
+[SET]
+name: Choice Scarf
+move 1: High Jump Kick
+move 2: Crunch
+move 3: Zen Headbutt
+move 4: Head Smash / Drain Punch
+item: Choice Scarf
+ability: Moxie
+nature: Jolly
+evs: 36 HP / 236 Atk / 212 Spe
+
+[SET COMMENTS]
+
+<p>Scraggy can be equipped with the Choice Scarf to outspeed every unboosted Pokemon in the metagame, granting him the ability to revenge kill a wide array of Pokemon. Moxie is one of this set's best tools, allowing him to clean late-game with boosted High Jump Kicks. Crunch is its secondary STAB, letting him revenge kill weakened opponents when High Jump Kick's accuracy rate is unfavorable in certain situations, and more importantly to check Ghost-types, such as Misdreavus or Gastly, which are all swiftly OHKOed after Stealth Rock. Zen Headbutt is the main option in the third slot, allowing him to KO Poison-types, especially Croagunk, while Head Smash is preferred in the fourth slot to defeat Flying-types, Larvesta, and Shelmet, which are all threats to Scraggy. Drain Punch, however, can be used for recovery, but its Base Power is undesirable.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread maximizes both Attack and Speed, and the leftovers EVs are placed in HP for overall better bulk. Jolly is preferred over Adamant, as Scraggy needs all the Speed he can get, and the difference in power is unnoticeable after a Moxie boost. Shed Skin is a poor option for this set, as Scraggy prefers the power boost of Moxie and isn't bulky enough to take hits while the status is fading away. Once again, Scraggy prefers Stealth Rock and Spikes support, as they help him rack up 2HKOes and eases sweeps. The ideal partners are Pokemon that can cripple bulky Fighting- and Poison-types for Scraggy to break through them later; Nasty Plot Misdreavus and Knock Off Mienfoo are good examples.</p>
+
+[Other Options]
+
+<p>Scraggy can use a Bulk Up set with Shed Skin and Rest, although, with the dominance of Fighting-types and Murkrow that can 2HKO him even at +1, this set is outclassed by Dragon Dance. Dragon Dance and Rest can be used together; however, Scraggy would prefer to attack, and the sleep turns can be a liability if Shed Skin doesn't activate since Scraggy is 3HKOed by the majority of the tier. Life Orb is an option to OHKO Mienfoo at +1; however, Scraggy has a hard time setting up without the bulk provided by Eviolite and is more vulnerable to priority.</p>
+
+<p>Intimidate is an excellent ability on almost every Pokemon that obtains it; however, it's outclassed on Scraggy thanks to the utility provided by Shed Skin or the Attack boosts provided by Moxie. A bulky attacker set with Intimidate and Fake Out / Knock off / Drain Punch / Crunch can be used if you need a check to physical Shell Smashers and most physical attackers. However, this set on Scraggy is generally outclassed by Mienfoo.</p>
+
+[Checks and Counters]
+
+<p>If one Pokemon had to be mentioned to counter Scraggy, it would be Mienfoo, which can take everything up to a Dragon Dance-boosted Life Orb High Jump Kick and KO Scraggy with Fake Out followed by Drain Punch; it can then just switch out to regain any HP it might have lost in the match-up. Other bulky Fighting-types are excellent checks, too: Riolu can copycat Scraggy's High Jump Kick and go first thanks to Prankster, while Timburr can utilize Mach Punch to its advantage. Croagunk resists both of Scraggy's STABs and can hit him with either Vacuum Wave or Drain Punch; it must be careful of Zen Headbutt though, since it's a guaranteed OHKO. Choice Scarf wielders with more than 15 Speed can hit Scraggy hard, especially Mienfoo and Murkrow, who can both OHKO him. Meanwhile, Drilbur can take a boosted Drain Punch, setup a Swords Dance, and OHKO with Earthquake if sandstorm is activated. The same goes for Sandshrew, except it can also live a boosted High Jump Kick. Speaking of Ground-types, Hippopotas can switch-in on Scraggy, phaze him with Whirlwind, heal off any damage with Slack Off, and repeat the process until Scraggy is weakened enough by Stealth Rock and sand damage to KO him with Earthquake. Take note that all of these Pokemon can be taken care of by using Knock Off on the switch-in, spelling doom for Scraggy's opponent, which is why it's really difficult to hard counter him. Grimer gets a special mention, though, resisting High Jump Kick and being immune to Knock Off thanks to Sticky Hold. However, it's 2HKOed by a boosted Crunch while it can only 3HKO back with Poison Jab or 2HKO with Gunk Shot.</p>

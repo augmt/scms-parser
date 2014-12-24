@@ -1,0 +1,57 @@
+[Overview]
+
+<p>Unlike the large majority of the Pokemon of the fifth generation, Archeops has phenomenal stats that fit its role well. With Attack that approaches overkill, Speed that is uncannily high for a Rock-type, high Special Attack, and a fantastic offensive typing, Archeops is well-suited for its role as a sweeper. Its movepool, while not expansive, provides nearly perfect coverage with the "EdgeQuake" combination. Looking at Archeops, it is evident that Gamefreak earnestly tried to make a speedy, menacing Rock-type sweeper. However, they may have overestimated its strength. Archeops's great power is very cruelly balanced out by its ability, Defeatist. Whenever Archeops loses more than half of its health, its ability halves its attacking stats and effectively neuters it for the rest of the match. A weakness to Stealth Rock and lack of any resistances to the most common priority moves in the tier only serve to compound the issues that Defeatist creates. Nevertheless, even with its debilitating ability, Archeops can succeed in UU by sheer offensive might.</p>
+
+[SET]
+name: Acrobatics
+move 1: Acrobatics
+move 2: Stone Edge
+move 3: Earthquake
+move 4: U-turn
+item: Flying Gem
+nature: Jolly
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>Acrobatics provides Archeops with its most powerful STAB on the first turn it is used. By using Flying Gem, Archeops' Acrobatics has incredible power and does more damage than any Brave Bird in the tier. Even after the Flying Gem is consumed, Acrobatics is still a potent move, with 110 Base Power. Stone Edge is Archeops' secondary STAB. While the accuracy is often aggravating, a 100 Base Power STAB move with the Rock-type's awesome offensive coverage is not to be underestimated. Earthquake has great coverage alongside both Flying- and Rock-type attacks and removes the Rock- and Steel-types that resist Acrobatics. However, one must keep in mind that Steel- and Rock-types are often able to survive an Earthquake and heavily injure or outright KO Archeops in return, so Earthquake is best used preemptively to strike predicted switch-ins. U-turn fills the final moveslot and allows Archeops to play the role of a scout while also getting some quick damage in.</p>
+
+<p>The EVs and nature are standard fare, maximizing Archeops's Speed and power. Putting the remaining 4 EVs into Defense instead of HP allows Archeops to switch into Stealth Rock twice without activating Defeatist.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Hone Claws is an option that can replace U-turn, but considering Archeops's frailty and the dangers associated with Defeatist, the benefits of Hone Claws are rarely worth missing a valuable chance to attack. This is not to say that the boosts can't be impressive--a +1 Flying Gem Acrobatics can OHKO a max HP Cobalion with Spikes support.</p>
+
+<p>Because every precious bit of HP needs to be preserved, Archeops benefits greatly from the presence of a teammate with Rapid Spin. Hitmontop and Claydol are both good choices because they provide bulk and invaluable Rock-type resistances; Claydol is immune to Electric-type attacks as well. Magic Bounce Xatu functions similarly in its ability to keep Stealth Rock off of the field. In the event that Archeops takes a bit too much damage, Wish and Leech Seed can give it a second chance. Otherwise, Reflect and Light Screen support allow it to take hits with greater ease.</p>
+
+<p>Having teammates weak to Ground-type moves can also be effective, providing invaluable opportunities for Archeops to switch into battle. Raikou, Nidoking, and Rhyperior can all work towards this goal and allow Archeops to switch in unscathed. Rhyperior is special in that it draws in the same Pokemon as Archeops, allowing them to jointly weaken their counters and muscle through the enemy team.</p>
+
+[SET]
+name: Choice Band
+move 1: Stone Edge
+move 2: Earthquake
+move 3: U-turn
+move 4: Aerial Ace / Crunch
+item: Choice Band
+nature: Jolly
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>Choice Band allows Archeops to simply mow down every opponent that dares to stand in its way. With the loss of Acrobatics, Stone Edge becomes Archeops' main move, but still hits incredibly hard against any Pokemon that doesn't resist it. Earthquake still fulfills its role of providing invaluable coverage, especially against Steel-types. U-turn plays a greater role on this set, allowing Archeops to hit hard before switching out, avoiding the danger of being locked into the wrong move. The last slot is left to filler. Despite its low Base Power, Aerial Ace dismantles bulky Fighting-types like Hitmontop, which are traditionally problematic for Rock-type sweepers. On the other hand, Crunch deals severe damage to Mew, Dusclops, and Golurk. Psychic-type Pokemon are everywhere in UU, and Crunch can beat them without relying on Stone Edge's accuracy.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>A few moves can also be used in the last slot. Quick Attack is Archeops's only priority move, but it is weak and provides little coverage. Even with the Choice Band, being locked into a 40 Base Power Normal-type move is a severe liability. Acrobatics hits with about 92% of the power of Aerial Ace, but becomes more useful in the event that Archeops is hit by Knock Off.</p>
+
+<p>Much like the previous set, anything that prevents, diminishes, or heals damage done to Archeops is a terrific boon. Pokemon with Rapid Spin and Magic Bounce Xatu become even more important for Archeops, as it needs to switch more frequently when locked into a single move. Again, Leech Seed, Wish, Reflect, and Light Screen are very useful to run.</p>
+
+<p>Just as with the Acrobatics set, Rhyperior and other Pokemon weak to Ground-type moves are good partners because can create opportunities for Archeops to switch in.</p>
+
+[Other Options]
+
+<p>Hidden Power Ice is one of the most viable of Archeops's options, allowing it to KO Gligar with little effort. Knock Off can be used to make Eviolite users like Porygon2, Dusclops, and the aforementioned Gligar far less useful for the rest of the match and also allows Archeops to do serious damage to them with its STAB moves. Taunt can be used to disable a variety of walls and cripple Baton Pass teams, but forces the opponent to attack Archeops, which is not something that is desired. A special set with Hidden Power Rock, Focus Blast, Earth Power, and a filler move can be used but lacks power. Expert Belt serves as a sort of intermediate between Choice Band and Flying Gem - Archeops retains the ability to switch between moves while gaining a valuable 20% power boost, though it lacks access to an effective Flying-type STAB attack and will have to rely more heavily on Stone Edge's shaky accuracy. Choice Scarf can be used, but Archeops ends up starved for the offensive might of other sets. However, its high base Speed allows it to outspeed most of the tier with a Choice Scarf, so it is not something to wholly ignore. One can always consider using Sitrus Berry or other one-use Items instead of Flying Gem on the Acrobatics set. Generally speaking, the power provided by Flying Gem is the best match for Archeops's style of play; an item like Sitrus Berry will leave Acrobatics with a weak Base Power until it is consumed. With regard to nature, Archeops always has the option to run an Adamant nature to further boost its Attack. However, with Adamant, it falls behind Pokemon with 100 base Speed and a positive nature, which is a severe blow to Archeops's already limited survivability.</p>
+
+[Checks and Counters]
+
+<p>While few Pokemon can switch into Archeops, it is not a difficult Pokemon to force out. While Archeops possesses the power to 2HKO the majority of foes it will face in UU, most of those foes need only one turn to beat it into Defeatist range or KO it outright. With Defeatist activated, Archeops becomes rather useless, which makes it critical for Archeops to pick its battles wisely--it will often be forced to predict properly to beat foes by catching them with the correct move on the switch-in. Registeel is not 2HKOed by Earthquake without prior damage, meaning it can always force Archeops out at least once; Registeel's Iron Head easily knocks Archeops into Defeatist range. Archeops must also be weary of faster foes like Raikou, Weavile, and UU's many Choice Scarf users. While Hitmontop must be switched in carefully to avoid Flying-type moves, it knocks Archeops into Defeatist range with Technician Mach Punch. Weavile and Azumarill destroy Archeops with their STAB priority moves, but both take great damage switching into Archeops's STAB attacks. Porygon2 is strong enough to survive two hits from Acrobatics (even if the Flying Gem is intact) and is similarly unafraid of the Choice Band set if it invests in defense.</p>

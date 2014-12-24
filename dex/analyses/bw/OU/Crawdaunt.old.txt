@@ -1,0 +1,43 @@
+[Overview]
+
+<p>Back in the day, Crawdaunt was severely outclassed by numerous offensive Water-types such as Azumarill and Gyarados; however, it has returned to BW OU with a blessing from the Dream World: Adaptability. With this new ability boosting the power of Crawdaunt's STAB moves, it can now practically 2HKO the entire tier. Unfortunately, Crawdaunt has to deal with its atrocious defensive typing, which is compounded by its bad bulk and terrible Speed. While not completely outclassed, Crawdaunt still faces competition from Feraligatr and Gyarados as an offensive Water-type, as they have much higher bulk, Speed, and reliability, despite Adaptability making Crawdaunt stronger than either of them. Although Crawdaunt is outclassed by sturdier and faster physical Water-types, the raw power of Adapatability-boosted Crabhammer in the rain is the main appeal of Crawdaunt in OU.</p>
+
+[SET]
+name: Choice Band
+move 1: Crabhammer / Waterfall
+move 2: Crunch
+move 3: Superpower
+move 4: Double-Edge
+item: Choice Band
+ability: Adaptability
+nature: Adamant
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>Crawdaunt is one of the most powerful Choice Band users in the tier, with its Crabhammer almost reaching the power of Kyurem-B's Outrage, even over-powering it while in the rain. Crawdaunt can even break past the most physically bulky walls in OU such as Skarmory and Forretress. However, keep in mind that Crawdaunt is meant to be a hit-and-run attacker due to its low Speed.</p>
+
+<p>Crabhammer is the main move of the set and hits extremely hard (especially in the rain), as almost everything that's not immune to it gets at least 2HKOed. Waterfall can be used over Crabhammer for the improved accuracy, but the reduced power often makes it an inferior option given how Crawdaunt is meant to come in and do as much damage as possible in one hit. Furthermore, the 20% flinch chance&mdash;one of the main reasons to use Waterfall&mdash;will rarely be taken advantage of with Crawdaunt's horrendous Speed. Crunch has excellent neutral coverage alongside Crawdaunt's Water-type STAB, and lets it defeat Jellicent and Celebi, which are immune to or resist Water, respectively. The last two moves are meant to hit specific targets that resist Crawdaunt's STAB attacks. Superpower deals with Ferrothorn and Keldeo, while Double-Edge is for Toxicroak and Breloom.</p>
+
+<p>Here are a few calculations to portray Crawdaunt's power:</p>
+
+<ul class="damage_calculation">
+<li>252+ Atk Choice Band Adaptability Crawdaunt Crabhammer vs. 224 HP / 252+ Def Skarmory in rain: 260-308 (79.51 - 94.18%) -- guaranteed 2HKO</li>
+<li>252+ Atk Choice Band Adaptability Crawdaunt Crabhammer vs. 252 HP / 252+ Def Forretress in rain: 260-308 (73.44 - 87%) -- guaranteed 2HKO</li>
+<li>252+ Atk Choice Band Crawdaunt Superpower vs. 252 HP / 88+ Def Ferrothorn: 272-322 (77.27 - 91.47%) -- guaranteed 2HKO</li>
+<li>252+ Atk Choice Band Adaptability Crawdaunt Crunch vs. 252 HP / 252+ Def Politoed: 236-278 (61.45 - 72.39%) -- guaranteed 2HKO</li>
+<li>252+ Atk Choice Band Adaptability Crawdaunt Crunch vs. 252 HP / 84 Def Gastrodon: 332-392 (77.93 - 92.01%) -- guaranteed 2HKO</li>
+<li>252+ Atk Choice Band Adaptability Crawdaunt Crabhammer vs. 252 HP / 0 Def Jirachi in rain: 458-540 (113.36 - 133.66%) -- guaranteed OHKO</li>
+</ul>
+
+[ADDITIONAL COMMENTS]
+
+<p>The rain that Politoed summons is mandatory for Crawdaunt, as it enables Crawdaunt's Water-type STAB to reach powers at unimaginable levels. Tailwind Tornadus remedies Crawdaunt's Speed issues, and turns Crawdaunt into a terrifying sweeper. Stealth Rock and Spikes support from the likes of Skarmory and Ferrothorn deter Pokemon such as Gyarados and Celebi from switching in, and also helps Crawdaunt potentially score additional OHKOs. Paralysis support from Celebi or Jirachi is appreciated, as it also mitigates Crawdaunt's Speed issues. Furthermore, Celebi and Jirachi are defensive enough to respond to the majority of sweepers that switch into Crawdaunt. Because Crawdaunt is meant to be a wallbreaker, Pokemon who appreciate having walls removed or weakened make for good partners. Some good examples are Double Dance Landorus-T, Swords Dance Scizor, and Mamoswine.</p>
+
+[Other Options]
+
+<p>Dragon Dance looks great on paper, but Crawdaunt is too slow to sweep, even at +1, as Choice Scarf Keldeo and Terrakion still outspeed and OHKO; Gyarados also performs this role <em>much</em> better. Likewise, Swords Dance can be used to differentiate Crawdaunt from Gyarados and Azumarill, but again, its Speed greatly limits the chance Crawdaunt has at a successful sweep. Aerial Ace allows it to hit Breloom, Toxicroak, and Keldeo without having to resort to Double-Edge, although its uses end there and Double-Edge's enhanced power is more appreciated. Life Orb or Splash Plate can be considered, although Choice Band gives Crawdaunt the raw power it needs to maintain a niche in OU.</p>
+
+[Checks and Counters]
+
+<p>Switching into Crawdaunt is often hard given its extraordinary power. Toxicroak, specifically its Toxic stall set, is arguably Crawdaunt's best counter, as it outspeeds, walls Crawdaunt's STAB moves and Superpower, and OHKOes Crawdaunt with Drain Punch. Using relatively fast and strong attackers to OHKO it is usually a good answer as well; however, switching them in safely is the hard part. For example, Lucario can switch in on Crunch and Double-Edge, Keldeo and defensive Breloom switch into either STAB move, and Ferrothorn switches into everything except Superpower. Ninetales can summon the sun, which lowers the power of Crawdaunt's Water-type STAB, allowing Venusaur&mdash;a very popular Pokemon on sun teams&mdash;to set up on Crawdaunt Choice-locked into Crabhammer or Waterfall. Gastrodon, Ferrothorn, Kyurem-B, Kyurem, Jellicent, and Celebi can tank, or outright absorb, Crabhammer or Waterfall and OHKO back with the appropriate attack. Tangrowth, although rare, walls Crawdaunt to hell and back, and it can also OHKO with its Grass-type STAB. Just avoid giving Crawdaunt switch-in opportunities by not using set up baits, such as Blissey, specially defensive Heatran, and Scizor Choice-locked into Pursuit, as much as possible, as Crawdaunt only needs one turn to wreak havoc.</p>

@@ -1,0 +1,47 @@
+Overview
+########
+After it Mega Evolves, Ampharos's Special Attack becomes the highest of any Electric- or Dragon-type at 165, and it gains impressive 90 / 105 / 110 bulk. These stats, combined with low Speed, make it well-suited for being a bulky Trick Room attacker. However, it mandates Trick Room support in order to justify the Mega slot and to reach its full potential. Ampharos also suffers from a limited offensive movepool; this, combined with no spread moves, makes it fairly predictable.
+
+
+Trick Room Attacker
+########
+name: Trick Room Attacker
+move 1: Thunderbolt
+move 2: Dragon Pulse
+move 3: Focus Blast
+move 4: Protect
+ability: Static
+item: Ampharosite
+evs: 252 HP / 252 SpA / 4 SpD
+ivs: 0 Spe
+nature: Quiet
+
+Moves
+========
+Thunderbolt and Dragon Pulse are powerful STAB moves with excellent neutral coverage. Focus Blast wrecks common Pokemon that are weak to it such as Tyranitar, Heatran, Kangaskhan, and Scrafty. It also hits Excadrill and Ferrothorn, which resist Ampharos's STAB moves, super effectively. Protect allows Ampharos to scout or evade damage while its partner sets up Trick Room or takes out one of its counters.
+
+Set Details
+========
+A Quiet nature and 252 Special Attack EVs provide maximum power. Maximum HP investment provides the best overall bulk. Minimum Speed investment makes Mega Ampharos as slow as possible, benefitting it under Trick Room. Ampharosite is the only reason to use Ampharos; without it, it is outclassed.
+
+Usage Tips
+========
+Ampharos should be used only in Trick Room to take advantage of its low Speed. Use it as a powerful battering ram, taking out or weakening one Pokemon at a time. Try to bring it in after a KO or on a resisted attack to preserve its longevity. Ampharos should be using its high offense and bulk in order to out-muscle opposing Pokemon. For this reason, it should try to avoid super effective attacks even though it can survive most of them.
+
+Team Options
+========
+Trick Room support is essential, as it allows Ampharos to get around its only low stat: its Speed. Among Trick Room users, Aromatisse can strike the Dragon-types that threaten Ampharos while being immune to their STAB attacks, while Cresselia and Gourgeist-XL are immune to or resist the Ground-type attacks that are fired at Ampharos. Cresselia can also use Ice Beam to threaten the Dragon- and Ground-types that threaten Ampharos. Wide Guard support is strongly advised given Ampharos's weaknesses to Earthquake, Blizzard, and Pixilate Hyper Voice. Notable Wide Guard users include Aegislash, which resists the Dragon-, Ice-, and Fairy-type attacks that threaten Ampharos, as well as Conkeldurr and Hariyama, which beat Ice-types with their Fighting-type STAB moves. Azumarill also resists or is immune to Dragon-, Ice-, and Fairy-type moves and can check Dragon- and Ground-types with its STAB moves. Teammates should be able to take advantage of the benefits Ampharos provides in order to justify using Mega Ampharos over other Mega Evolutions. Ampharos checks Flying-types such as Talonflame, Mega Charizard Y, and Gyarados, benefiting the aforementioned Fighting-types Conkeldurr and Hariyama. Ampharos also checks Water-types, supporting Pokemon that fear Water-types such as Heatran and Rhyperior.
+
+
+Other Options
+########
+Hidden Power Ice OHKOes Landorus-T, a very common threat, but is of little use otherwise, as STAB Dragon Pulse is more powerful against other Dragon-types. Volt Switch can maintain offensive pressure and potentially avoid incoming super effective attacks whilst inflicting respectable damage. Discharge is a spread attack that pairs well with Ground-types, but it is not powerful enough to achieve several OHKOs and 2HKOs, and the paralysis chance is counterproductive with Trick Room. Thunder can be used on a rain team for extra power. Thunder Wave can slow down foes, letting Ampharos outspeed them outside of Trick Room. Electric Terrain can prevent and wake up grounded Pokemon from sleep, a status that is commonly problematic for Trick Room teams, and increase the power of Ampharos's and other grounded Pokemon's Electric-type attacks. Light Screen and Safeguard are more supportive options, providing special bulk and status immunity, respectively. Magnet Rise turns Ampharos's most common weakness into an immunity. Cotton Guard lets Ampharos tank physical attacks like a boss, including STAB Earthquakes. Finally, an Agility set can bypass Ampharos's poor Speed without the aid of Trick Room; however, this requires significant Speed investment to make it worthwhile, detracting from Ampharos's bulk.
+
+
+Checks & Counters
+########
+**Offensive Type Advantage**: Ampharos's weakness to Earthquake often leads to its demise. Outside of Trick Room, Landorus and Excadrill can outspeed and 2HKO it. Inside of Trick Room, Rhyperior can outrun it, has a 56.3% chance to OHKO it with Life Orb Earthquake, and if using Lightning Rod, can redirect Thunderbolt. Unfortunately, Ampharos OHKOes Excadrill and Rhyperior with Focus Blast. Note that Wide Guard can protect Ampharos from Earthquake; however, it will not protect Ampharos from Drill Run. Latios, Salamence, and Hydreigon prey on Ampharos's weakness to Dragon, outspeeding and OHKOing it with Draco Meteor. However, during Trick Room, Ampharos outspeeds them and OHKOes them with Dragon Pulse. Sylveon is only 3HKOed by Ampharos while it OHKOes with Choice Specs Pixilate Hyper Voice. Aromatisse and Diancie can avoid a 2HKO thanks to Sitrus Berry and 2HKO Ampharos in return with Moonblast. While Mega Gardevoir is 2HKOed by Ampharos, it OHKOes with Pixilate Hyper Voice. Mega Abomasnow outspeeds Ampharos in Trick Room and 2HKOes with Blizzard; however, it has a 12.5% chance to be OHKOed by Focus Blast.
+
+**Defensive Type Advantage**: Ampharos is very susceptible to Amoonguss, which can redirect all of Ampharos's attacks and avoid being 2HKOed, resists Thunderbolt and Focus Blast, outspeeds Ampharos under Trick Room, and can freely put Ampharos to sleep with Spore. Whimsicott, though uncommon, resists all three of Ampharos's most common attacks, enabling Whimsicott to freely use Encore and other support moves.
+
+**Speed Control**: Ampharos is far less effective without Trick Room due to its poor Speed. Good methods for fending off Trick Room include Taunt to prevent Trick Room from being set up, resetting Trick Room with your Trick Room, or KOing users of Trick Room before they can set it up - standout Pokemon for the last role include Bisharp and Mega Gengar, which can use their STAB moves to hit most Trick Room users super effectively.

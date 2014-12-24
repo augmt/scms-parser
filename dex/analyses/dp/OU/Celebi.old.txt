@@ -1,0 +1,238 @@
+[Overview]
+
+<p>Celebi was highly effective in the ADV era, but the introduction of several new threats have dealt it a severe blow. Celebi's whopping seven weaknesses greatly limit it as a defensive Pokemon, as they leave it open to the likes of Scizor, Tyranitar, Heatran, and Rotom-A; it is also hampered by Trick. Nevertheless, Celebi itself has acquired many new moves it can use to defend itself. Thunder Wave, Leaf Storm, U-turn, Grass Knot, and even Trick help to threaten dangerous enemies. Finally, Celebi boasts resistances to six types, which it can use to easily switch in and support its team.</p>
+
+[SET]
+name: Physically Defensive
+move 1: Grass Knot
+move 2: Recover
+move 3: Thunder Wave / Leech Seed / Heal Bell
+move 4: Hidden Power Fire / Earth Power / Hidden Power Ice
+item: Leftovers
+nature: Bold
+evs: 252 HP / 220 Def / 36 Spe
+
+[SET COMMENTS]
+
+<p>Celebi's solid defensive stats, typing, and movepool allow it to function as an excellent defensive Pokemon. With the ability to cripple the opposing team or support its own, Celebi can function as both an effective threat to the opponent and a great team player.</p>
+
+<p>Grass Knot functions as Celebi's main STAB move; it hits both Tyranitar and bulky Water-types. Recover heals off any damage that Celebi might have taken, while Thunder Wave paralyzes the opposing Pokemon, which lets Celebi recover health before taking a hit. Leech Seed can be used to steadily drain away the opponent's health, as well as heal Celebi's teammates, but Heal Bell cures its teammates of crippling status ailments. The last moveslot provides coverage: Hidden Power Fire is mainly for Scizor, who will otherwise switch in with impunity and U-turn out for heavy damage. Earth Power targets other Steel-types, such as Heatran, while Hidden Power Ice can hit Dragonite and Flygon hard. However, prediction is required here as Celebi will be outsped and likely KOed by the aforementioned threats.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Celebi can also use Reflect or Light Screen in the third moveslot if your team has difficulty handling physical or special attacks, respectively. The EVs of this set allow for maximum physical bulk while outspeeding non-Choice Scarf Jolly Tyranitar.</p>
+
+<p>Celebi's two biggest problems are Scizor and Tyranitar. The best that Celebi can do is attack Scizor with Hidden Power Fire, which won't even OHKO after Stealth Rock damage, or 2HKO Tyranitar with Grass Knot before it strikes back at Celebi with Pursuit or Crunch. Magnezone can trap and KO Scizor if it should attempt to take out Celebi with Pursuit or Bullet Punch; furthermore, Celebi and Magnezone complement each other defensively. Rotom-A can also handle Scizor, as it resists both U-turn and Bullet Punch. While any Rotom-A with Will-O-Wisp can cripple both Scizor and Tyranitar, Rotom-H can scorch the former with Overheat, while Rotom-W can take out the latter with a super effective Hydro Pump. Swampert can freely switch into any of Tyranitar's attacks, force it out with the threat of Earthquake, and take the opportunity to set up Stealth Rock. Machamp too can easily switch in on Crunch, Pursuit, or Stone Edge, set up a Substitute, and begin wreaking havoc with Dynamic Punch. Scizor can take advantage of its Steel typing to come in on Crunch or Pursuit and scare Tyranitar away with U-turn or Bullet Punch.</p>
+
+<p>Celebi also has problems with Heatran, Dragonite, and Rotom-A, especially if it is not running Earth Power or Hidden Power Ice to deal with the former two. A bulky Water-type, such as Suicune or Vaporeon, can handle Heatran. Suicune has the bulk to take a hit from Dragonite and OHKO it with Ice Beam, while Scizor can revenge kill it with Bullet Punch. Choice Scarf Tyranitar can handle Rotom-A that lack Will-O-Wisp; it can also absorb Trick, which Celebi does not enjoy. Blissey is also a reliable counter to Rotom-A thanks to her gargantuan HP and Special Defense. However, she must be careful of Trick, which cripples her tremendously.</p>
+
+[SET]
+name: Tinkerbell (Support)
+move 1: Thunder Wave
+move 2: Leaf Storm
+move 3: Hidden Power Fire / Psychic / U-turn
+move 4: Recover / Rest
+item: Life Orb
+nature: Modest
+evs: 232 HP / 240 SpA / 36 Spe
+
+[SET COMMENTS]
+
+<p>While the previous set focuses solely on Celebi's defensive prowess, Celebi can also combine its offensive and defensive capabilities into one set. This set is for those who don't want Celebi to be a sitting duck, but don't want to sacrifice its support utility either.</p>
+
+<p>Thunder Wave is the only support move on this set, and for good reason, as it cripples many opposing teams that don't pack clerics. Leaf Storm is chosen for its sheer power; to illustrate, it OHKOes 252/0 Tyranitar after Stealth Rock. Hidden Power Fire eliminates Scizor and other Steel-types that like to switch in on Celebi; a combination of Leaf Storm, Hidden Power Fire, and one turn of Stealth Rock damage is enough to KO even Scizor. Psychic can be used for secondary STAB; it provides decent neutral coverage and good power without Leaf Storm's Special Attack drop. U-turn is also a good alternative to scout the opponent's team and remove Leaf Storm's stat drops. Recover heals Celebi's Life Orb recoil damage and doesn't force Celebi to switch out, while Rest allows Celebi to come back in later at full health.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The Speed EVs allow Celebi to outspeed non-Choice Scarf Jolly Tyranitar, specifically Dragon Dance variants; Celebi can therefore KO it before it begins to set up. The HP investment lets Celebi take minimum damage from Life Orb while having the highest possible HP.</p>
+
+<p>Due to the more offensive nature of this set, Scizor, Tyranitar, and Rotom-A aren't as difficult to check. Heatran and Dragonite, however, are still problems, and can be walled by bulky Water-types such as Suicune and Vaporeon, or in the case of the latter, revenge killed by Scizor.</p>
+
+[SET]
+name: Nasty Plot
+move 1: Nasty Plot
+move 2: Grass Knot
+move 3: Psychic
+move 4: Earth Power / Hidden Power Fire
+item: Life Orb / Leftovers
+nature: Timid / Modest
+evs: 252 SpA / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>By the good graces of Game Freak, Celebi was blessed with a new event move: Nasty Plot. This move boosts Celebi's already respectable Special Attack to enormous levels, and Celebi's natural bulk means that it can take a hit, power up, and return fire with gusto. Celebi's movepool also provides it with excellent coverage, and it further has a Speed stat high enough to sweep at the end of a match.</p>
+
+<p>Dual STAB in Grass Knot and Psychic is good enough to beat many Pokemon in OU, but it leaves Celebi helpless before the myriad of Steel-types in the tier. Unfortunately, Celebi is liable to be walled no matter which coverage move it picks. Earth Power OHKOes Heatran, but leaves Celebi vulnerable to Skarmory, Bronzong, and Scizor. Hidden Power Fire deals with all of the Steel-types that laugh at Earth Power, but turns Celebi into setup fodder for Heatran.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Life Orb is the best item for an all-out sweeping Celebi, but Leftovers is a viable option for greater longevity at the cost of some power. The suggested EV spread is straightforward and provides Celebi with maximum Special Attack and Speed. A bulkier variant of this set is viable; shift 116 Speed EVs to HP, use Leftovers over Life Orb, and replace one of Celebi's STAB moves with Recover. Both a Timid and a Modest nature have their advantages. Timid is particularly useful when running Earth Power in the last slot, as Hidden Power Fire unfortunately reduces Celebi's Speed stat. However, the only notable loss from using a Timid nature is the ability to outrun Jolly Lucario, most of whom will opt to use Extreme Speed anyway. Lastly, Energy Ball hits lightweight Pokemon, such as Jirachi, Azelf, and Uxie, harder than Grass Knot does, but comes at the cost of power against the likes of Tyranitar. Keep in mind that, at +2 Special Attack and with Stealth Rock damage, even the lightweight Vaporeon will be OHKOed by Grass Knot, so Energy Ball isn't necessary here.</p>
+
+<p>Even though Celebi isn't slow, it isn't especially speedy either. If a faster offensive Pokemon, such as Gengar or Infernape, switches in on a resisted or setup move, Celebi will be immediately forced out. Therefore, good partners to this Celebi should be able to take on these fast, frail opponents. Gyarados and Vaporeon handle Infernape well, while Scizor, specially defensive Skarmory, and Bronzong can deal with Gengar. When using Steel-types alongside Celebi, be mindful of your team's weakness to Fire-type attacks. Heatran, as usual, is an exceptional partner to Celebi. Not only do the two have perfect defensive synergy, Heatran also complements Earth Power variants by handling pesky Steel-types such as Skarmory and Bronzong. Finally, bulky Water-types such as Vaporeon and Suicune are useful for defeating opposing Heatran, especially ones that carry Choice Scarf.</p>
+
+[SET]
+name: Lead
+move 1: Stealth Rock
+move 2: Leaf Storm
+move 3: Earth Power
+move 4: U-turn / Hidden Power Ice / Hidden Power Fire
+item: Occa Berry / Leftovers
+nature: Timid
+evs: 40 HP / 252 SpA / 216 Spe
+
+[SET COMMENTS]
+
+<p>Celebi can make for a good lead due to its wide movepool, which includes Stealth Rock. Leaf Storm decimates Swampert, Aerodactyl, Tyranitar, and Gliscor, while Earth Power 2HKOes both Metagross and Heatran. U-turn provides momentum for your team, allows Celebi to scout the opposing team while racking up hazard damage, and also helps against opposing Azelf leads. While Hidden Power Ice 2HKOes Dragonite, Hidden Power Fire deals heavy damage to Scizor, Forretress, and Skarmory, and prevents them from freely setting up or attacking.</p>
+
+[ADDITIONAL COMMENTS]
+
+
+N, 4 EVs from HP must be moved to Speed to outpace max Speed Gliscor.
+
+<p>Celebi can use Thunder Wave in either the third or fourth moveslot to cripple opposing leads. 
+
+The choice between Occa Berry and Leftovers depends on whether you want Celebi to be able to set up Stealth Rock against Infernape, as well as beat Heatran and Dragonite leads, or if you want it to have more survivability in general, as Celebi's bulk allows it to come back later on in the game and make itself useful. The given Speed EVs allow Celebi to outrun maximum Speed Gliscor; therefore, if you choose to run Hidden Power Fire, be sure to move 4 HP EVs into Speed. The given Special Attack EVs provide Celebi with as much power as possible, and the remaining EVs are put into HP for extra bulk. A standard spread of 4 HP / 252 SpA / 252 Spe is also viable; this makes Celebi a makeshift revenge killer should it be Tricked a Choice Scarf.</p>
+
+<p>If Celebi lacks Hidden Power Fire, Skarmory and Forretress can freely switch in and begin setting up entry hazards; a spinner is hence recommended. Both Tentacruel and Starmie resist Fire-type moves; while the former is more defensive, the latter can immediately threaten the aforementioned Pokemon with STAB Surf or Hydro Pump. Rotom-H also makes for a viable partner due to its ability to scare away Skarmory, Forretress, and Scizor, as well as its spinblocking capabilities. Lead Tyranitar can be a problem; Machamp can help greatly in this aspect as it resists Tyranitar's STAB moves and can scare it away with Dynamic Punch. If Celebi is using U-turn, its teammates should be able to take care of Azelf. Scizor is a great choice due to its powerful Bullet Punch, while Choice Scarf Tyranitar can trap and remove Azelf with Pursuit. U-turn also leaves your team wide open to Dragonite; in addition to checking it with Ice Beam, Suicune also packs a resistance to Fire-type moves. Scizor and Mamoswine can revenge kill both Azelf and Dragonite, but they share a weakness to Fire with Celebi.</p>
+
+[SET]
+name: Baton Pass
+move 1: Nasty Plot / Swords Dance / Calm Mind 
+move 2: Grass Knot / Seed Bomb
+move 3: Baton Pass
+move 4: Recover / Earth Power / Psychic
+item: Leftovers / Occa Berry
+nature: Timid / Jolly
+evs: 252 HP / 4 SpD / 252 Spe
+
+[SET COMMENTS] 
+
+<p>With Celebi's great bulk, base 100 Speed, and access to a variety of boosting moves, it can function as a great Baton Pass user. Recover and handy resistances also ensure that Celebi will be sticking around for a long time, so Baton Passing several boosts is quite easy.</p>
+
+<p>Celebi has the ability to pass Nasty Plot, Calm Mind, and Swords Dance boosts, which makes it a great supporter for a wide variety of sweepers. Grass Knot and Seed Bomb provide Celebi with handy attacking options against common Taunt users, such as Gliscor and Gyarados, while Baton Pass lets it escape from threats such as Heatran, Skarmory, and most importantly, Pursuit Tyranitar and Scizor. Recover allows Celebi to set up against weaker Pokemon, and also gives it the capability to Baton Pass more than once. Earth Power, on the other hand, allows Celebi to hit common Steel-type switch-ins, such as Heatran, Metagross, and Jirachi. Psychic can also be used in order to hit Dragonite, Rotom-A, and Zapdos on the switch.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>While Leftovers provides more longevity in general, Occa Berry gives Celebi an easier time passing against Heatran and Infernape.</p>
+
+<p>As Celebi has many weaknesses, a good recipient can be hard to find. Pokemon that are innately fast or that can boost their Speed are the most viable. Starmie and Suicune can take advantage of specially oriented boosts as they not only have high Speed and Special Attack, but also synergize well with Celebi defensively by resisting Fire and Ice. Rock Polish Tyranitar is a good receiver of Swords Dance boosts as it resists all Celebi's weaknesses bar Ice and Bug. Agility Lucario and Metagross also work well if they can avoid Fire-type moves, as does Agility or Extreme Speed variants of Dragonite if it avoids Ice-type attacks.</p>
+
+<p>Celebi is viable on Baton Pass chains due to its bulk and useful resistances. Vaporeon is a good partner due to her resistances to Fire- and Ice-type moves and ability to Baton Pass 101 HP Substitutes and Acid Armor boosts, while Scizor can Baton Pass Agility or Iron Defense boosts. Smeargle has a vast movepool that enables it to Baton Pass all sorts of boosts, along with Ingrain.</p>
+
+[SET]
+name: Special Attacker
+move 1: Leaf Storm
+move 2: Hidden Power Fire / Hidden Power Ice
+move 3: Earth Power / U-turn
+move 4: Recover / Rest / Thunder Wave
+item: Life Orb / Leftovers
+nature: Timid
+evs: 32 HP / 252 SpA / 224 Spe
+
+[SET COMMENTS]
+
+<p>This set puts Celebi in an even more offensive role by attempting to maximize Celebi's offensive capabilities without the use of a Choice item or a stat-boosting move. Instead, it simply relies on Celebi's wide coverage to thoroughly surprise many of its checks. This set is comparable to Shaymin's offensive set, but boasts the advantages of a stronger initial move in Leaf Storm, as well as access to U-turn and Recover.</p>
+
+<p>Leaf Storm does huge damage to Tyranitar and Rotom-H, but the combination of Leaf Storm + Hidden Power Fire + Stealth Rock damage will no longer KO Scizor; a little more residual damage is needed. Hidden Power Ice is an alternative option that OHKOes Dragonite. Earth Power strikes Heatran and Metagross, which Celebi can comfortably outspeed, but prior damage is needed to OHKO and 2HKO them, respectively. U-turn lets Celebi scout your opponent's team and removes the Special Attack drops from Leaf Storm, while Thunder Wave cripples Choice Scarf Tyranitar and Scizor.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>32 HP EVs grant Celebi a Life Orb number, which allows it to have the highest HP possible while taking the least Life Orb damage. As Hidden Power Fire necessitates a 30 Speed IV, this Celebi only needs 220 Speed EVs to outspeed all positive base 95s. However, the 4 leftover EVs are best dumped into Speed as Celebi is an offensive Pokemon. If using Hidden Power Ice, feel free to go with a 4 HP / 252 SpA / 252 Spe spread to Speed tie with other positive base 100s. Life Orb lets Celebi hit as hard as possible, while Leftovers can be used alongside Thunder Wave to bluff a defensive set. However, the Life Orb boost is needed for Leaf Storm + Hidden Power Fire to OHKO Scizor.</p>
+
+<p>This Celebi does not require as much defensive support as the other sets do. Additionally, offensive teammates appreciate their checks being cleared out of the way. With Scizor gone, Dragon Dance Tyranitar is free to sweep more easily without fear of being revenge killed; with Rotom-A and Heatran gone, Swords Dance Scizor and Lucario won't have to worry about being outsped and KOed. All three can help Celebi out defensively as well; Tyranitar, Scizor, and Lucario all resist the Dark- and Ghost-type attacks Celebi is weak to.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Leaf Storm
+move 2: Hidden Power Ice
+move 3: Earth Power
+move 4: Trick / U-turn / Rest
+item: Choice Scarf
+nature: Timid
+evs: 252 SpA / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>Celebi's diverse movepool allows it to be a useful revenge killer. Leaf Storm hits for heavy damage right off the bat: it KOes Dragon Dance Tyranitar after a bit of residual damage, deals with Suicune without too many Calm Mind boosts, and hits Gyarados for a good chunk of damage. Hidden Power Ice is your best choice to hit Dragonite and Flygon, while Earth Power can check Heatran, Infernape, and Metagross. The last moveslot is for utility; Trick cripples CurseLax, CroCune, and Blissey, while U-turn scouts the opponent's team. Rest is another viable option as Celebi's Natural Cure ability rids it of sleep upon switching out. However, Celebi should be wary of boosting threats before using the move.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Although Shaymin has a more consistent STAB move in Seed Flare, Celebi's Psychic typing lets it switch into common Fighting-type moves and eliminate unsuspecting opponents. Furthermore, as a Choice user, Celebi also boasts advantages in Trick and U-turn. A similar set can be run with Choice Specs, but as it will have to switch in more frequently, it will be greater Pursuit bait for the likes of Scizor and Tyranitar. Lastly, Hidden Power Fire hits Scizor, Skarmory, and Forretress, but it also prevents Celebi from being able to revenge kill Dragonite.</p>
+
+<p>Scizor, Skarmory, and Forretress can all be problematic to this set, as they wall all Celebi's attacks. Magnezone can help with all of them by trapping them with its Magnet Pull ability and removing them with Thunderbolt or Hidden Power Fire. Heatran and Infernape can also scare them away with their STAB Fire-type moves, while Starmie or Tentacruel can Rapid Spin away entry hazards that they lay down. Tyranitar is problematic as well, as it can remove your revenge killer with Pursuit, but Machamp, Scizor, and Swampert can all easily capitalize on that switch. Finally, Dragonite and Gyarados can still be threats if they come in on the appropriate move. Rotom-A and Vaporeon can handle Gyarados, while Mamoswine and Scizor can revenge kill Dragonite.</p>
+
+[SET]
+name: Calm Mind
+move 1: Calm Mind
+move 2: Energy Ball / Grass Knot
+move 3: Hidden Power Fire / Earth Power
+move 4: Recover
+item: Leftovers
+nature: Bold
+evs: 252 HP / 220 Def / 36 Spe
+
+[SET COMMENTS]
+
+<p>Celebi's stat distribution gives it a lot of versatility; this variant can both deal respectable damage and take hits while setting up. Calm Mind, as opposed to Nasty Plot, is best used with defense in mind, as Celebi's natural bulk and typing allow it to set up more freely and better complement its usual teammates.</p>
+
+<p>Calm Mind is the most important move on the set because it simultaneously rounds out Celebi's defenses and gives it much-needed power to punch through all but the most dedicated of special walls. Unfortunately, with only two-move coverage and unexciting STABs, Celebi will always be walled by one threat or another. Energy Ball is a reliable move with consistent damage and is thus the primary STAB option; Grass Knot will hit Tyranitar harder at the expense of being worthless against lightweight Pokemon such as Rotom-A. Hidden Power Fire is the main coverage choice because the ever-present Steel-types that are neutral or immune to Ground-type attacks will destroy Celebi otherwise. However, Earth Power is still a valuable option as Celebi that lack the move will be soundly beaten by Heatran. Finally, Recover helps keep Celebi healthy so that it can set up multiple times over the match or restore HP after taking a hit.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread and nature provide Celebi with maximum physical bulk and enough Speed to outpace non-Choice Scarf Jolly Tyranitar. While this is largely standard, the physical bulk also serves to reduce physical damage where Calm Mind doesn't help. An alternative spread of 252 HP / 120 Def / 126 Spe Timid allows Celebi to outspeed even the fastest of Suicune, which can be very useful if your team needs extra insurance against it. Leftovers gives Celebi critical lasting power.</p>
+
+<p>First and foremost, teammates that can patch up the holes in Celebi's coverage are necessary. If Celebi is using Hidden Power Fire, Suicune, Swampert, and bulky Gyarados are good choices to deal with Heatran, while a Heatran of your own can eliminate Skarmory and Bronzong, which trouble Earth Power Celebi. Heatran also synergizes perfectly with Celebi and has Explosion to eliminate Blissey, who stops even +6 Celebi cold. As usual, Celebi has trouble with strong Pursuit users such as Scizor and Tyranitar; the former has U-turn as well. To lessen the threat of these powerful Pokemon, a lure such as Will-O-Wisp RestTalk Rotom-A, or a powerful attacker such as Machamp is recommended.</p>
+
+[SET]
+name: SubSeed
+move 1: Substitute
+move 2: Leech Seed
+move 3: Baton Pass / Recover / Hidden Power Fire / Hidden Power Ice
+move 4: Grass Knot
+item: Leftovers
+nature: Timid
+evs: 252 HP / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>As with all Grass-types, Celebi can use a SubSeed set to wear down its opponents. The idea is simple: switch in on a Pokemon that can't threaten Celebi, set up a Substitute, and then Leech Seed away. If threatened, Celebi can Baton Pass its Substitutes to an appropriate counter. Recover allows Celebi to live for an obnoxiously long time, while Hidden Power Fire and Hidden Power Ice damage the Grass-types that are immune to Leech Seed. Furthermore, the former has the benefit of hitting Scizor, Forretress, and Skarmory, while the latter can deal with Dragonite. Grass Knot prevents Celebi from being complete Taunt bait; it can hit common Taunt users reasonably hard.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>SubSeed Celebi should be EVed with emphasis on its bulk.</p>
+
+<p>This Celebi's ability to Baton Pass Substitutes lets it provide good support for sweepers that are themselves difficult to check. Many teams rely on either priority or a bulky wall to check Dragonite; however, behind a Substitute, Dragonite can be even more threatening than it already is. Infernape is also a good choice as a passed Substitute can compensate for its frailty. Entry hazard support is useful to take advantage of the switches Baton Pass causes. Forretress and Skarmory are both good partners because they resist the Ghost-, Dark-, and Bug-type attacks Celebi is weak to, while Rotom-A is a good teammate to spinblock.</p>
+
+<p>If Celebi elects to use Recover or Baton Pass, it will have only one attack, which leaves it open to opposing Forretress and Skarmory. They can freely lay down entry hazards, so a spinner of your own, such as Forretress or Starmie, would be helpful. Roost Dragonite can set up freely in front of Celebi, so the likes of Suicune or Swampert can be helpful in this regard.</p>
+
+[SET]
+name: Perish Song
+move 1: Perish Song
+move 2: Grass Knot
+move 3: Recover
+move 4: U-turn
+item: Leftovers
+nature: Bold
+evs: 252 HP / 224 Def / 32 Spe
+
+[SET COMMENTS]
+
+<p>Perish Song Celebi is an excellent addition to many stall teams that don't want to rely on Trick in order to handle Pokemon such as CroCune, Calm Mind Jirachi, and CurseLax. It's also a good way to stop Baton Pass teams that lack a Soundproof Pokemon, such as Mr. Mime. Recover aids with stalling, while U-turn lets Celebi escape from Dugtrio and lets you scout the switch-in.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>With the stall-oriented idea of Perish Song, it's good to have defensive partners that can help out Celebi. Tentacruel and Blissey can both absorb the Fire- and Ice-type moves aimed towards Celebi, while Skarmory and Forretress can handle the Dark- and Bug-type moves directed at it. Additionally, with Perish Song causing so many switches, Skarmory and Forretress can also help by laying down entry hazards.</p>
+
+[Other Options]
+
+<p>Energy Ball hits Vaporeon and the Rotom formes for more damage, but its reduced power in comparison to Grass Knot against Tyranitar and Suicune is discouraging. Stealth Rock can be used on the defensive set as Celebi can set it up very effectively, but the listed moves in the third moveslot are more reliable. Protect can be used to stall for Leftovers and Leech Seed recovery, and also scout opposing Choice Scizor and Tyranitar. Healing Wish can fully heal one of your Pokemon, but to lose such an excellent defensive Pokemon is a shame. </p>
+
+<p>Celebi can set up different field effects as well. Rain Dance temporarily removes Celebi's weakness to Fire; Celebi also lures Fire-type attacks that rain sweepers can set up on. Celebi receives Sunny Day too, and does have the defenses to set it up, but isn't as effective at this as it shares many common weaknesses with Sunny Day sweepers. Celebi has the bulk to use Trick Room as well. On such a support set, Celebi can use U-turn to scout the opponent's switch.</p>
+
+[Checks and Counters]
+
+<p>Tyranitar and Scizor are, unsurprisingly, huge threats to Celebi, as both of them have great Attack stats and pack super effective moves to KO it. However, Celebi can defeat both of them with some prediction and the right moves. Heracross can switch into most of Celebi's moves and threaten it with Megahorn while not caring about Thunder Wave due to its Guts ability. Weavile can also be a threat to Celebi with Night Slash, Pursuit, and Ice Punch, but needs a Choice Band to deal significant damage.</p>
+
+<p>On the special side, Heatran and Gengar both threaten Celebi with their STAB super effective moves, but both of them despise Thunder Wave and Heatran also fears Earth Power. Skarmory and Forretress can both set up hazards on Celebi, as it can't deal much damage without Hidden Power Fire; the former can also use Whirlwind on a predicted switch to cause even more residual damage. Dragonite fears Thunder Wave and Hidden Power Ice, but if Celebi doesn't have either of those, it can either set up on Celebi or remove it from play with Flamethrower or Fire Blast.</p>
+
+<p>To deal with opposing Celebi on a Baton Pass team, a Perish Song Celebi of your own can ironically be helpful, as it stops Baton Pass teams that don't carry Mr. Mime. Skarmory can switch in on Celebi and use Whirlwind if the chain does not have Ingrain, or use Taunt to prevent Celebi from using Baton Pass. However, note that most other Taunt users, namely Gyarados and Gliscor, don't like taking Grass Knot or Seed Bomb.</p>

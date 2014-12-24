@@ -1,0 +1,88 @@
+[Overview]
+
+<p>Qwilfish is a curious little puffer fish. On one hand, it has mediocre stats and paper-thin defenses, popping at a single touch. On the other hand, it has assets that other Pokemon could only dream of having. With its Swift Swim ability, Qwilfish becomes the fastest Spiker in the rain, while access to Taunt, Explosion, and Destiny Bond allow it shut down numerous walls. Its Poison typing means that it can absorb the dreaded Toxic Spikes that plague many Ubers. With Swords Dance, Qwilfish can also become a deadly sweeper. Play Qwilfish to its strengths, and it will not disappoint.</p>
+
+[SET]
+name: Utility
+move 1: Spikes / Toxic Spikes
+move 2: Taunt
+move 3: Waterfall
+move 4: Destiny Bond / Explosion
+item: Splash Plate / Life Orb
+nature: Jolly
+ability: Swift Swim
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>This set aims to abuse as much of Qwilfish's support options as possible. This set can set up entry hazards, break stall, revenge kill, and even clean up weakened teams. The main idea is to switch Qwilfish into a wall that cannot hurt it, such as Blissey and Lugia. Qwilfish can then Taunt said wall, preventing it from using its support moves, and then set up entry hazards for free. When Qwilfish is low on health, simply use Destiny Bond or Explosion to bring the opponent down with it. Qwilfish also has the added bonus of absorbing Toxic Spikes upon switching in, which is a boon for teams with Pokemon susceptible to them, such as Kyogre and Palkia. Make sure to keep Qwilfish alive to reabsorb Toxic Spikes if they are likely to be up again.</p>
+
+<p>Spikes and Toxic Spikes are the two entry hazards that Qwilfish can set up. Choose the appropriate entry hazard that suits your team. Taunt allows Qwilfish to shut down walls. Waterfall is Qwilfish's preferred STAB attack, and is surprisingly powerful in the rain, capable of 2HKOing Garchomp. It can also revenge kill frailer, weakened threats, such as Darkrai and Mewtwo, and clean up late-game. Destiny Bond is preferred over Explosion because Qwilfish's Explosion fails to KO Groudon and Giratina, two of Qwilfish's biggest counters. However, Explosion can still be used since setup sweepers can potentially set up on Destiny Bond.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Max Speed and a Jolly nature is preferred since it allows Qwilfish to outspeed and revenge kill Choice Scarf Darkrai and Shaymin-S. Splash Plate boosts Waterfall without causing recoil damage, although a Life Orb can be used if Explosion is chosen over Destiny Bond. Leftovers is another option for longevity, although Qwilfish is usually too frail to enjoy its benefits.</p>
+
+<p>Since Qwilfish needs the rain for Swift Swim to activate, Kyogre is an essential teammate as it has Drizzle, though having two Water-types on the same team spells an Electric-type weakness. Having a Garchomp, Dialga, or Ground Arceus is helpful to absorb Electric-type attacks such as Thunder. Rayquaza troubles Qwilfish, since Air Lock nullifies Swift Swim, allowing the dragon to outspeed and OHKO Qwilfish. Choice Scarf Jirachi is an excellent check to both Dragon Dance and Swords Dance Rayquaza while Lugia can take on all variants of Rayquaza very effectively.</p>
+
+<p>Since Qwilfish is a highly effective hazard layer, spinblockers enhance its potency. The Giratina formes are fantastic spinblockers to use; both are able to defeat Groudon without much effort and resist Thunder. Ghost Arceus is also usable as it has reliable recovery. Pokemon that can stall effectively, such as Ludicolo, are great teammates for Qwilfish, especially if Qwilfish is using Toxic Spikes. While it might seem like an odd choice to use on a rain team, Heatran with Torment abuses Toxic Spikes well and patches up weaknesses to Grass Arceus, Latias, and other Pokemon that rain teams have trouble with.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Waterfall
+move 3: Poison Jab
+move 4: Explosion
+item: Life Orb
+nature: Adamant / Jolly
+ability: Swift Swim
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>With a passable base 95 Attack, Swords Dance, and doubled Speed with Swift Swim, Qwilfish can become a deadly sweeper given the opportunity. After a Swords Dance, rain-boosted Waterfall obliterates almost everything that does not resist it, while Poison Jab and Explosion destroy most of the Pokemon that do.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Here are some damage calculations to illustrate Qwilfish's power. All calculations assume that Qwilfish is using an Adamant nature, and rain is present:</p>
+
+<ul class="damage_calculation">
+<li>+2 Waterfall vs. 252/64 Lugia 81.49% - 96.15%</li>
+<li>+2 Waterfall vs. 28/228 Wobbuffet 95.64% - 112.68%</li>
+<li>+2 Waterfall vs. 252/252+ Skarmory 76.35% - 90.12%</li>
+<li>+2 Waterfall vs. 0/0 Giratina-O 51.02% - 59.86%</li>
+<li>+2 Poison Jab vs. 4/0 Palkia 93.16% - 109.93%</li>
+<li>+2 Poison Jab vs. 252/0 Kyogre 81.19% - 95.79%</li>
+<li>+2 Explosion vs. 252/0 Dialga 131.93 - 155.19%%</li>
+</ul>
+
+<p>Max Attack and Speed capitalize on what Qwilfish does best. An Adamant nature guarantees the OHKO on Palkia with Poison Jab, but a Jolly nature can be used if you want Qwilfish to get the jump on Choice Scarf Darkrai and Shaymin-S. Taunt can be used in place of Explosion, but Qwilfish does not have the bulk to use it effectively. Destiny Bond could be used in place of Explosion to surprise the Giratina formes, while Spikes or Toxic Spikes can be used to help bluff a support set earlier in the match and use Swords Dance for a sweep later.</p>
+
+<p>Giratina and Giratina-O are full stops to Qwilfish, although Giratina-O needs to be reasonably healthy to stomach a +2 Waterfall in the rain. Rayquaza outspeeds Qwilfish as Air Lock cancels out Swift Swim, and can easily OHKO it. Groudon resists Poison and brings in the sun to deactivate Swift Swim and to weaken Waterfall. Dialga resists Waterfall and is immune to Poison Jab. However, both need to watch out for a Swords Dance-boosted Explosion. Lugia is an excellent defensive teammate who can check Giratina-O, Dialga, Rayquaza, and Groudon reasonably well. Darkrai, Dark Arceus, and Steel Arceus can set up on the Giratina formes; Latias can set up on Outrage-less Giratina. Mixed Bulk Up Dialga is a fantastic Groudon lure and can easily defeat it, aiding Qwilfish to sweep later. Finally, Wobbuffet support is almost essential for a frail sweeper like Qwilfish.</p>
+
+[SET]
+name: Lead
+move 1: Payback
+move 2: Aqua Jet
+move 3: Toxic Spikes / Spikes
+move 4: Explosion / Destiny Bond
+item: Focus Sash
+nature: Adamant
+ability: Swift Swim
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>While this set seems awkward, Qwilfish can be a surprisingly effective lead in the Uber metagame. With Payback and Aqua Jet, it can easily 2HKO Deoxys-S, limiting it to one layer of entry hazards at most. Against bulkier leads, such as Groudon, Dialga, and Kyogre, it can usually set up one layer of hazards and Explode or set up two layers and die. It can always set up two layers against Kyogre, since Swift Swim allows it to outspeed even Choice Scarf Kyogre. The choice of entry hazard depends on your team. More offensively based teams tend to prefer Spikes, while Toxic Spikes suits defensive teams better. Explosion is the suicide move of choice as it prevents Forretress from spinning away one layer of Spikes. However, Destiny Bond can be used to surprise Groudon and Dialga leads, which Explosion would not OHKO.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>While Qwilfish is an effective lead, it will lose to Darkrai, who outspeeds and puts it to sleep with Dark Void. It also loses to faster leads and leads with priority, such as Giratina-O, Deoxys-A, and Rayquaza. Sleep Talk users such as Dialga and Kyogre are decent switch-ins to Darkrai, but must be wary of Trick. Choice Scarf Heracross is possibly the best switch-in to Darkrai to exist. Lugia is an excellent check to mixed attacking Giratina-O and Rayquaza. Bulky Steel-types such as Jirachi, Metagross, and Steel Arceus can take on Deoxys-A, Giratina-O, and Rayquaza without much trouble too. Giratina-O is a great teammate, as it can block Rapid Spin and picks Deoxys-A off with Shadow Sneak. Giratina and Ghost Arceus are also good spinblockers. Fast stallers, such as Shaymin-S, Ludicolo, and Torment Heatran, love Toxic Spikes support. Substitute + Calm Mind Kyogre also loves Toxic Spikes support as it allows Kyogre to defeat potential counters, while providing eternal rain for Qwilfish. If you choose to use Spikes on Qwilfish, then powerful sweepers such as Dragon Dance Rayquaza and Swords Dance Arceus are great teammates as they appreciate the extra damage from Spikes to finish off possible walls.</p>
+
+[Other Options]
+
+<p>Qwilfish doesn't really have many other options to use in Ubers, due to its relatively poor stats. Aqua Tail can be used over Waterfall for more power at the cost of some accuracy. Return is a viable option for neutral coverage in place of Explosion. Haze quickly wipes away boosts in a pinch, but it is quite useless otherwise. Finally, a Choice Band set with Waterfall, Aqua Jet, Poison Jab, and Explosion can also be used to decent effect.</p>
+
+[Checks and Counters]
+
+<p>Rayquaza outspeeds Qwilfish and OHKOs it with almost any attack. It resists Waterfall, does not take much from Poison Jab, and only needs to watch out for Explosion. Groudon, Dialga, Giratina, and Giratina-O completely wall Qwilfish unless it uses Destiny Bond, but the former two must watch out for Swords Dance-boosted Explosion and Giratina cannot stop Qwilfish from setting up entry hazards. Just hit Qwilfish really hard, and it will not trouble you very much.</p>

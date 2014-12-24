@@ -1,0 +1,160 @@
+[Overview]
+
+<p>Kabutops packs quite a punch (or... slash) with dual STAB on Water and Rock, a combination resisted by only a handful of Pokemon. With its STAB Aqua Tail, backed by Swords Dance, Life Orb, and rain, Kabutops can march through anything that does not resist Water, and it can deal with just about everything else with STAB Stone Edge. Kabutops is almost impossible to revenge kill as well--thanks to Swift Swim, Kabutops's Speed doubles in the rain, and it has STAB Aqua Jet to deter common priority users such as Blaziken, Hitmontop, and Absol. Kabutops can also function well outside of rain, as its base 80 Speed is relatively high even without a boost. If Kabutops gains a free turn, it is almost guaranteed at least one kill, especially under rain. One would do well not to underestimate it.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Waterfall / Aqua Tail
+move 3: Stone Edge
+move 4: Aqua Jet
+item: Life Orb
+ability: Swift Swim
+nature: Jolly / Adamant
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>With Swords Dance to back up those great STAB moves and that impressive Attack stat, this version of Kabutops can be a devastating sweeper. Stone Edge and Aqua Tail provide superb coverage, only resisted by Toxicroak, Poliwrath, and Quagsire in UU. Waterfall is a deadly, reliable STAB move that carries a potential flinch chance, and it is the primary option for Kabutops's main STAB move. However, Aqua Tail becomes noticeably more powerful in the rain, where a Swords Dance boosted Aqua Tail OHKOes Miltank, Hitmontop, and Weezing, as well as Registeel and Uxie most of the time. A Swords Dance and Life Orb boosted Aqua Jet is a very potent weapon and can OHKO many fast but frail sweepers, such as Blaziken, Nidoking, Houndoom, and Hitmonlee.</p>
+
+<p>If you want some more coverage on Kabutops, you can swap Aqua Jet for one of several coverage moves, though this is not recommended since Aqua Jet's safeguard against priority is far more valuable than covering certain niche Pokemon. X-Scissor is perhaps the most notable option to deal slightly more damage to two of Kabutops's deadliest foes--Slowbro and Tangrowth--although it barely out-damages STAB Stone Edge and will not come close to OHKOing either without a lot of previous damage. On the other hand, Return will 2HKO Poliwrath and Quagsire after a Swords Dance, both of whom Kabutops cannot beat otherwise.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>There are two separate sets here: Standard and Rain Dance. In both cases, maximizing Kabutops's Attack stat should be your first priority. If you are not running rain, Kabutops needs maximum Speed to at worst tie with other base 80 Speed Pokemon, such as Venusaur, Mesprit, Blaziken, and Altaria. Waterfall should also be used with this set due to its reliability. However, if you are running a Rain Dance team, an Adamant nature and Aqua Tail are preferable for the greater damage output, which guarantees the death of such threats as Uxie and Registeel. Alternatively, you can try a bulkier spread of 112 HP / 248 Atk / 148 Spe, which gives Kabutops a much easier time setting up on physical threats such as Swellow and Arcanine when rain is not up, while still enabling it to beat Choice Scarf Rotom in the rain.</p>
+
+<p>If not running Rain Dance on your team, you should note that Kabutops is much easier to stop. Kabutops's greatest threats are bulky Water-, Grass-, and Fighting-types. Thus, Venusaur makes an excellent partner to Kabutops, as it resists the STAB attacks of all those types and can hit back with its own STAB moves; Slowbro and Tangrowth are both OHKOed by special sets. Drapion is another option, as it too can deal with Tangrowth and can also trap Slowbro with STAB Pursuit. Bulkier versions are also helpful, as they can use Whirlwind to rack up residual damage. Both Drapion and Venusaur can also absorb Toxic Spikes. Lastly, strong Fire-types such as Thunder Fang Arcanine and Passho Berry Houndoom can bait out and weaken Water-types, allowing Kabutops to overpower them later on. Fire-types, particularly Moltres, can also break down Grass- and Fighting-types.</p>
+
+<p>While Swords Dance Kabutops is fully capable of being used as a standalone sweeper, it truly excels on a Rain Dance team. Electrode is the fastest Rain Dance lead in the game and is guaranteed to set it up. As for other teammates, Uxie is extremely reliable at setting up Rain Dance and can also set up Stealth Rock, Reflect, and Light Screen to aid in Kabutops's sweep. It can also grant Kabutops a free switch with Memento and is a good stop to Toxicroak. Entry hazards are also helpful for Kabutops's sweep and can be set up by Pokemon such as Registeel and Uxie, both of whom also have access to Rain Dance. Below are some damage calculations to show off Kabutops's potentiel.</p>
+
+<ul class="damage_calculation">
+<li>+2 Aqua Tail in rain vs. 252/252+ Uxie: 97.5% - 114.7%</li>
+<li>+1 Aqua Tail in rain vs. 252/252+ Hitmontop: 105.9% - 124.7%</li>
+<li>+2 Aqua Tail in rain vs. 252/252+ Weezing: 109% - 128.7%</li>
+<li>+2 Aqua Tail in rain vs. 252/224+ Miltank: 103.8% - 122.6%</li>
+<li>+2 Aqua Tail in rain vs. 252/0 Registeel: 109.9% - 129.7%</li>
+<li>+2 Aqua Tail in rain vs. 252/0 Venusaur: 91.8% - 108%</li>
+<li>+2 Stone Edge vs. 252/0 Leafeon: 91.6% - 107.8%</li>
+<li>+2 Stone Edge vs. 248/252+ Milotic: 91.1% - 107.6%</li>
+<li>+2 Stone Edge vs. 0/0 Toxicroak: 98.7% - 116.3%</li>
+<li>+2 Aqua Jet in rain vs. 252/0 Hitmontop: 87.2% - 103%</li>
+<li>+2 Aqua Jet in rain vs. 4/0 Hitmonlee: 175.2% - 207%</li>
+</ul>
+
+<p>One problem with Rain Dance is its limited duration. Therefore, there are two ways to use this Kabutops in the rain. The first is to bring it in early and break your opponent's team, while relying on other rain sweepers to clean up afterward, and the other is to whittle down your opponent's team with the relentless pressure of other rain sweepers, bringing in Kabutops to take down anything left standing. On this note, Ludicolo is an excellent partner to Kabutops for its ability to frighten away Tangrowth, Slowbro, and Milotic. Qwilfish can also break the opponent's team--by setting up Swords Dance and threatening a sweep, the opponent may be forced to sacrifice their bulky Water-type to Qwilfish's Explosion. Alternatively, it can also set up Spikes. On the special side, Gorebyss and Omastar are the most potent teammates. Gorebyss is indifferent to the priority moves that plague Kabutops and has Psychic to get rid of Toxicroak and Poliwrath; however, Omastar is faster and hits slightly harder.</p>
+
+[SET]
+name: Lead
+move 1: Stealth Rock
+move 2: Stone Edge
+move 3: Aqua Jet
+move 4: Rapid Spin / Waterfall
+item: Lum Berry / Focus Sash
+ability: Swift Swim
+nature: Adamant
+evs: 132 HP / 252 Atk / 124 Spe
+
+[SET COMMENTS]
+
+<p>Moderate defensive ability and great attacking power make Kabutops a reliable lead. One of its main selling points is its ability to almost always be able to set up Stealth Rock at the beginning of the match. The most common Taunt lead, Ambipom, cannot touch Kabutops with its STAB moves and takes heavy damage in return, though you must beware of variants with Low Kick.</p>
+
+<p>Stone Edge is a solid attacking choice that will OHKO Moltres and 2HKO Cloyster, Qwilfish, Mesprit, and Spiritomb. A Stone Edge combined with an Aqua Jet will finish off Intimidate Arcanine and Ambipom. Aqua Jet will also handle the occasional Focus Sash lead such as Alakazam, as well as giving Kabutops the ability to revenge kill some Pokemon like Blaziken later in the game. The final slot is not as important as the first two. Rapid Spin is really what differentiates Kabutops from other suicide leads--with it, Kabutops can stop Omastar from setting up more than one layer of Spikes and get rid of the opposing lead's Stealth Rock. On the other hand, Waterfall is a solid and reliable STAB choice that doesn't have Stone Edge's accuracy issues. However, its only real use is on Hippopotas and Nidoqueen, and the utility from Rapid Spin is usually more valuable for a lead.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Lum Berry will enable Kabutops to beat the Venusaur leads who try to put it to sleep on the first turn. It will also allow Kabutops to set up Stealth Rock on Uxie without fear of Thunder Wave or Yawn. On the other hand, Focus Sash will ensure that Kabutops will survive Alakazam's Focus Blast or Moltres's Hidden Power Grass and KO both of them with Stone Edge. It will also provide some security against Arcanine; no longer will you have to worry if it is carrying Hidden Power Grass. Bear in mind that outside of a critical hit, however, Kabutops will not beat it, because Arcanine's higher Speed means that it will Extreme Speed Kabutops before Kabutops can Aqua Jet. The 132 HP EVs allow Kabutops to survive Life Orb Ambipom's Fake Out + Low Kick, and either attack back with Stone Edge or set up Stealth Rock. Attack is then maximized, and the remaining EVs are placed in Speed, which allows Kabutops to outrun 0 Speed Uxie.</p>
+
+<p>As good as Kabutops is, there are a number of common leads who can cause it trouble, such as Uxie and Mesprit. Standard support Uxie is 4HKOed by Stone Edge at best when factoring in Leftovers, while Mesprit is 2HKOed by Stone Edge but is still faster and can set up Stealth Rock before escaping with U-turn. Both also have the potential to do serious damage to Kabutops with Thunderbolt or Grass Knot. Absol and Drapion are immune to Psychic and can either trap the pixies with Pursuit or set up with Swords Dance. These Pokemon will also be helpful in removing Ghost-types who block Kabutops's Rapid Spin.</p>
+
+<p>If Kabutops does not carry Rapid Spin, it has trouble with other entry hazard leads. While Cloyster and Qwilfish are 2HKOed by Stone Edge, bulky Omastar is one of Kabutops's worst match-ups; Kabutops can only 4HKO through Leftovers, while Omastar can set up Spikes and Stealth Rock or 2HKO Kabutops with Surf. Offensively inclined Omastar can be 2HKOed by Stone Edge, but can OHKO back with Hidden Power Grass. Thus, if your Kabutops does not have Rapid Spin, you should consider investing in another Rapid Spinner, such as Blastoise. You should also consider Ghost-type support in order to maintain your own Stealth Rock on the field.</p>
+
+<p>When facing a lead such as Ambipom or Alakazam, prediction is key. If you manage to predict a Taunt, Kabutops can use the turn to strike back with Stone Edge, finishing both off on the subsequent turn with Aqua Jet. Theoretically, the most advisable move is to attack first, since regardless of whether they Taunt or not, Kabutops will still 'win' the match-up. However, on teams where Stealth Rock is immensely important, such as overtly offensive teams, getting Stealth Rock down regardless of Kabutops's sacrifice should be your priority. The decision will usually boil down to the team you are running alongside Kabutops, and whose presence your team will benefit most from--Kabutops's or Stealth Rock's. If your team has the momentum to recover, Stealth Rock is important enough to warrant starting on the back foot, provided you have the means to make the most of it.</p>
+
+[SET]
+name: Offensive Rapid Spin
+move 1: Rapid Spin
+move 2: Stone Edge
+move 3: Aqua Jet
+move 4: Swords Dance / Waterfall
+item: Leftovers
+nature: Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>The attributes that make Kabutops a successful sweeper--namely, a stellar base 115 Attack and excellent attacking STAB--also make him a great Rapid Spinner. One of the difficulties entailed in Rapid Spinning is eliminating the Ghost-types who switch in to block Rapid Spin, and while most other UU spinners are walled by common spinblockers, Kabutops can hit every Ghost in the UU tier for solid, neutral damage with his STAB Stone Edge. Offensive Ghost-types such as Rotom and Mismagius are KOed by a combination of Stone Edge and Aqua Jet, and even the most defensive Spiritomb is 2HKOed by a +2 Stone Edge. In most cases, an opponent will have to risk losing a Pokemon to Kabutops in order to successfully preserve his or her entry hazards.</p>
+
+<p>Stone Edge is Kabutops's strongest STAB option and is therefore absolutely necessary on this set. Aqua Jet provides excellent additional coverage and is invaluable as a priority move. In addition to finishing off weakened Mismagius and Rotom, Aqua Jet protects Kabutops from Dugtrio and allows Kabutops to pick off weakened or frail Pokemon such as Houndoom. Swords Dance enables Kabutops to beat Dusclops and Spiritomb, who will otherwise drain all of Stone Edge's PP with Pressure. It also lets Kabutops threaten a sweep and prevents other defensive Pokemon such as Milotic from walling him. Waterfall is not as useful without rain support, but it is an option over Swords Dance to hit the likes of Rhyperior, Steelix, and Donphan.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Attack is maximized so that Kabutops can hit Ghost switch-ins as hard as possible, making spinning easier. With a Jolly nature and 252 Speed EVs, Kabutops ties with other +Speed nature base 80s, including Venusaur, Blaziken, and Mesprit, which can be important when trying to sustain a sweep. If one does not wish to risk a tie with these Pokemon, there are a few lower benchmarks that can be aimed for instead. With a Jolly nature and a spread of 80 HP / 252 Atk / 176 Spe, Kabutops outruns max Speed, +Speed nature base 70s, such as Cloyster and Ludicolo. With an Adamant nature and a spread of 132 HP / 252 Atk / 124 Spe, Kabutops outpaces base 95s who lack Speed investment, such as Uxie. It is possible to go lower than this, although it is not advisable. Kabutops should be able to definitively outrun most Milotic, allowing him to perform a last-ditch Rapid Spin before being KOed should the need arise.</p>
+
+<p>While it may be hard to switch in on Kabutops, it is considerably more difficult for him to switch in than it is for other Rapid Spinners. It is easiest to get Kabutops in after a KO or on a double switch, especially on a Pokemon such as Swellow whom Kabutops can easily threaten and force out. Outside of that, offensively weak Pokemon, including Chansey, Clefable, and Miltank, as well as Fire- and Ice-types who lack super effective coverage moves, such as Arcanine (without Hidden Power Grass) and Articuno, are Kabutops's best opportunities to switch in.</p>
+
+<p>Kabutops is an excellent partner to any Pokemon in dire need of Rapid Spin support. Moltres is a notable example, capable of luring in Chansey, whom Kabutops can switch in on and threaten out, and forcing out many of the Pokemon who give Kabutops trouble, including Registeel, Donphan, Hitmontop, and Venusaur. Scyther also makes a good partner, as he can deal with Venusaur and Hitmontop as well as lure in Arcanine. Scyther can also be paired with Dugtrio in order to immediately get rid of Registeel--who walls both Kabutops and Scyther--by U-turning to Dugtrio as Registeel switches in. Dugtrio also traps and KOes Toxicroak, another Pokemon Kabutops struggles against.</p>
+
+<p>While Kabutops can handle all of UU's spinblockers by himself, doing so requires accurate prediction, not to mention relying on Stone Edge's shaky accuracy. In order to ease prediction (or cushion the blow of a Stone Edge miss), Pursuit Spiritomb can be used alongside Kabutops to trap and KO (or severely damage) most Ghost-types. Spiritomb also handles most Fighting-types, who are prone to switching in on Kabutops, especially if he has yet to Swords Dance.</p>
+
+[SET]
+name: Choice Band
+move 1: Stone Edge
+move 2: Waterfall / Aqua Tail
+move 3: Aqua Jet
+move 4: Return
+item: Choice Band
+nature: Adamant
+evs: 72 HP / 252 Atk / 184 Spe
+
+[SET COMMENTS]
+
+<p>Kabutops's mediocre typing and Speed ensure that it will have a difficult time setting up on most of the metagame. A Choice Band set tries to amend these problems. Stone Edge will make Venusaur think twice about switching in, as those without any investment in Defense take 95% minimum. Kabutops's main Water-typed attack will score a super effective hit on most Ground-types trying to switch in on Stone Edge. Aqua Jet enables Kabutops to revenge kill faster, weakened Pokemon such as Arcanine and Houndoom. For its final moveslot, Return gives a nice neutral attack that has the added advantage of being able to hit Toxicroak, Poliwrath, and Quagsire.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>There are a couple of options in the last slot if you don't want to go with Return. Rapid Spin is a useful option, as common spinblockers such as Mismagius and Spiritomb would be suicidal to try to switch in on something as powerful as Choice Band Kabutops, allowing it to get a surprise Rapid Spin off without much difficulty; however, this does mean that Kabutops will be locked into a weak attack, giving your opponent a very good opportunity to turn the tables on you. Superpower is another option that hits Registeel for more damage, but lowers Kabutops's stats, leaving it very vulnerable. Another point that merits a mention is an alternative, faster EV spread of 4 HP / 252 Atk / 252 Speed with a Jolly nature, which enables you to tie with all other positive base 80 Speed Pokemon, most importantly Venusaur and Blaziken.</p>
+
+<p>Kabutops is likely to run into far more obstacles with this set than with the Swords Dance set due to the loss of power and the inability to switch moves, particularly because it cannot switch to Aqua Jet to ward off revenge killers. Thus, you should play this set to its advantages, namely its ability to hit hard off the bat and impressive STAB coverage. These factors lend themselves more to a wallbreaker or cleaner than to a sweeper. You should consider carefully whether you want your whole team to benefit or to focus your efforts around one sweeper. Choice Band Kabutops tends to draw in Water- and Grass-types, who resist its primary STAB. Standard Tangrowth and Slowbro are both taking around 40-45% damage on average from Stone Edge, whereupon Pokemon such as Rhyperior and Arcanine can take advantage of them. Steel- and Fighting-types, such as Registeel and Hariyama, will also be worn down by repeated attacks, which can be good for sweepers such as Absol. Entry hazards such as Stealth Rock accentuate this weakening process, so make sure to include them on your team.</p>
+
+<p>There are a number of solo sweepers who work well with Kabutops. Swords Dance Scyther and Nasty Plot Mismagius are good examples of fast boosting sweepers, while Swellow and Alakazam represent frail but potent late-game cleaners. On Rain Dance teams, specially inclined cleaners include Omastar and Gorebyss, both of whom have enough power to muscle through a weakened team with STAB Hydro Pump backed by the rain. If you want a physical sweeper to take advantage of Kabutops's weakening of physical walls, however, Swords Dance Ludicolo or Qwilfish are two of the best options.</p>
+
+[SET]
+name: Support
+move 1: Rapid Spin
+move 2: Knock Off / Stealth Rock
+move 3: Stone Edge
+move 4: Waterfall / Aqua Tail
+item: Leftovers
+nature: Careful
+ability: Battle Armor
+evs: 152 HP / 104 Atk / 252 SpD
+
+[SET COMMENTS]
+
+<p>Being weak to the ever popular Close Combat and Earthquake means that Kabutops's good Defense stat is somewhat wasted. In fact, you are better off specializing in Special Defense and running Sand Stream to capitalize on Kabutops's resistances to Ice and Fire, as well as improving its ability to take Surf from bulky Water-types.</p>
+
+<p>This Kabutops can act as a pretty decent Rapid Spinner, mainly because of surprise factor. Pokemon like Venusaur and Hitmontop are more often the first switch-ins to Kabutops than Ghost-types like Spiritomb. Also, once your opponent catches on to the set, Kabutops can remove the spinblocker's Leftovers with a well-timed Knock Off, which, combined with sandstorm support, will significantly decrease its longevity. Stealth Rock is also a support option, but Hippopotas, the only Sand Stream Pokemon in UU, has access to it anyway. If you are using Kabutops outside of sandstorm, however, Stealth Rock is usually a better option than Knock Off for support.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>In order to take resisted attacks better, this Kabutops should maximize its Special Defense stat. Since sandstorm gives Kabutops a 1.5x Special Defense boost, it will gain the most possible stat points this way. After that, some HP EVs are recommended, not only to increase the overall Special Defense but also to improve Kabutops's ability to take hits from physical threats such as Arcanine and Swellow. A minimum of 52 HP EVs will ensure that Jolly Swellow's Guts-boosted Facade cannot 2HKO, and 200 EVs may be used so that Facade will never 2HKO with Stealth Rock factored in. Heavier investment does not serve any particular purpose but will also allow Kabutops to survive unexpected attacks such as Life Orb Arcanine's Thunder Fang. The remaining EVs should be used to buff Kabutops's respectable Attack.</p>
+
+<p>Hippopotas is almost essential in order to activate sandstorm, which is necessary if you want to make Kabutops's special bulk worth using. However, this can cause the rest of your team to suffer if they are not immune to sandstorm, as the residual damage can wear them down quite quickly. Bulky Grass-types have the greatest type synergy with Kabutops. Venusaur has reasonable special bulk and can take Electric-, Grass-, and Fighting-type attacks aimed at Kabutops with ease, while in return Kabutops can switch in on Fire-, Ice-, and Flying-type attacks. Both can also cause heavy damage to the Ground-types that trouble them with their super effective STAB moves. Venusaur can also spread status, absorb Toxic Spikes, and deal with Slowbro and Tangrowth, two of the biggest threats to Kabutops.</p>
+
+<p>Rapid Spin support is extremely helpful to those weak to Stealth Rock, such as Moltres and Scyther. They and other sweepers also benefit from the Stealth Rock and Knock Off support Kabutops provides. To compound the residual damage, dedicated Spikers such as Omastar are useful, as well as Toxic Spikers such as Drapion. Drapion is also a useful teammate since it, like Venusaur, can absorb Toxic Spikes and beat down Slowbro and Tangrowth, as well as stopping Ghost-types who try to block Rapid Spin, and shuffling with Whirlwind.</p>
+
+[Other Options]
+
+<p>Waterfall and Aqua Tail are the competing STAB Water-type moves on all sets, and both have their own advantages and disadvantages. Waterfall's primary advantages are its 20% flinch rate and 100% accuracy. The increased accuracy means that Waterfall is much more reliable on frailer opponents that both Waterfall and Aqua Tail will KO anyway. However, Kabutops will need Stealth Rock support to ensure the guaranteed OHKOs under rain on Miltank, Hitmontop, Weezing, and Registeel on the Swords Dance set with Waterfall, whereas it is not needed with Aqua Tail. The difference in power becomes much more apparent on the Choice Band set. For example, under rain Aqua Tail has a 90% chance (due to accuracy) to OHKO 252 HP / 252 Defense Impish Hitmontop after Intimidate, whereas Waterfall only has a 51% chance, even with the possibility of a flinch. It is up to you to make the choice between power and reliability.</p>
+
+<p>A +2 Aqua Tail, even in rain, has only a minuscule chance to OHKO max HP/max Defense Impish Registeel. Low Kick is therefore an option,as it will always OHKO the Steel-type behemoth with a Swords Dance boost. Natural Gift and a Liechi Berry provides an 80 Base Power Grass-type attack to maim Quagsire with. A Lum Berry can be handy on the Swords Dance set, so Kabutops's sweep isn't ruined by paralysis or burn. This is especially useful against the likes of Weezing and Uxie. Lastly, Kabutops can set up Rain Dance itself, but it generally needs the moveslot more than other Rain Dance sweepers such as Gorebyss, Omastar, or Ludicolo.</p>
+
+<p>With the exception of the Support set, Kabutops should always max out Attack. For the Swords Dance set, 242 Speed (184 EVs, Adamant) is the recommended minimum to outrun positive base 60 Speed Pokemon. Kabutops can also aim for 250 (216 EVs) and 256 (240 EVs) Speed to beat Adamant Absol and Feraligatr, respectively. Kabutops can also run max Speed to tie with other base 80s, such as Gardevoir and Altaria. If you are supporting Kabutops with rain, 136 Speed EVs is probably the minimum amount of Speed you should invest. Those EVs give Kabutops a Speed stat of 230, which beats Timid Scarf Moltres in the rain. Other useful investments are 144 EVs, for Timid Scarf Rotom and 168 EVs, for Scarfed +nature base 95s.</p>
+
+[Checks and Counters]
+
+<p>Under rain, there isn't much that can stop Swords Dance Kabutops without relying on a low damage roll or a Stone Edge miss. Quagsire and Poliwrath are the best options; they 2HKO Kabutops with Earthquake and Brick Break, respectively, and Kabutops's +2 Stone Edge only musters a 3HKO on max HP/max Defense Quagsire and Poliwrath. However, both must be wary of Return, which will always 2HKO after a Swords Dance. Slowbro and Tangrowth take massive damage from a boosted Stone Edge or X-Scissor but will survive both attacks and OHKO Kabutops with Grass Knot or Power Whip. Both must invest heavily in HP and Defense to do so, though.</p>
+
+<p>In the absence of rain, Kabutops is a bit easier to stop, as many Pokemon are no longer KOed by a boosted Aqua Tail or Waterfall. Fighting-types such as Hariyama and Intimidate Hitmontop can take any of Kabutops's assaults and OHKO with powerful STAB attacks. Registeel, Miltank, and Uxie can cripple Kabutops with Thunder Wave. Milotic cannot take a boosted Stone Edge, but in the absence of Swords Dance can cripple Kabutops with Surf or Hidden Power Grass. Offensive variants can also switch in on Swords Dance, outrun Kabutops, and OHKO it with Hidden Power Grass.</p>
+
+<p>When the skies are clear, a lack of Speed will also hurt Kabutops. Toxicroak can switch in on any move, outspeed Kabutops, and KO with Cross Chop. Venusaur works in the same manner, although it must take care not to switch in on Stone Edge, especially not one boosted by Choice Band.</p>

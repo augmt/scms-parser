@@ -1,0 +1,32 @@
+[Overview]
+<p>Upon taking a quick look at Mismagius, it might seem like there is no reason to use it over Gengar. Gengar has arguably better stats, with a higher Speed stat and, more importantly, a much higher Special Attack stat. Gengar also has a secondary Poison-typing, which adds only one weakness to uncommon Psychic-type attacks, but gives it an immunity to Toxic and a useful Grass resistance. However, Mismagius has access to a move Gengar only wishes it could have: Nasty Plot. Being able to boost its Special Attack stat can give it an edge over Gengar. Thus, when using Mismagius always play it to its strength, as otherwise you're better off using Gengar.</p>
+
+[SET]
+name: Nasty Plot
+move 1: Nasty Plot
+move 2: Shadow Ball
+move 3: Hidden Power Fighting / Thunderbolt
+move 4: Substitute / Hidden Power Fighting
+item: Leftovers / Life Orb
+nature: Timid
+evs: 36 HP / 252 SpA / 220 Spe
+
+[SET COMMENTS]
+
+<p>This set is Mismagius's best attempt at a sweep in OU. Mismagius should aim to set up on either a Choice-locked attack that it is immune to, or a defensive Pokemon that is unable to hurt Mismagius badly. It can then attempt a sweep with a very respectable 618 Special Attack and 329 Speed.</p>
+
+<p>Shadow Ball is Mismagius's best STAB move, and is thus a given on this set. Hidden Power Fighting is the best option in the third slot, since it provides Shadow Ball with complementary coverage and also hits the likes of Tyranitar and Heatran, who can otherwise trouble Mismagius, super effectively. Thunderbolt is also a good coverage option, hitting Skarmory super effectively as well as being more powerful against neutral targets such as Scizor. This does make Mismagius easily trappable by Tyranitar, though, so keep that in mind when not using Hidden Power Fighting. Substitute is the best option in the last slot, as it protects Mismagius from status and being revenge killed. If Substitute is not needed, you can sacrifice the insurance it provides and instead use three attacks.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The Speed EVs with a Timid nature let Mismagius outspeed positive-natured base 100s such as Jirachi and Celebi. Special Attack is maximized, and the remaining EVs are put in HP. The choice of item depends mostly on your choice of moves: if you're using Substitute in the last slot, Leftovers is usually the better option, as Substitute, Life Orb, and possibly sandstorm can dent Mismagius quite quickly. If you're not using Substitute, Mismagius really appreciates the power boost from Life Orb. When using Life Orb, dropping the HP EVs to 32 is recommended for minimum Life Orb damage.</p>
+
+<p>Specially defensive Pokemon that aren't weak to Shadow Ball or 4x weak to Hidden Power Fighting can take on Mismagius quite easily. Snorlax and Scizor are good examples, both immune to Shadow Ball and barely affected by Hidden Power Fighting, and can take down Mismagius with either Pursuit or Bullet Punch. A teammate who can deal with those Pokemon is recommended, and Infernape makes for a one, able to take both of them down with a powerful STAB attack.</p>
+
+[Other Options]
+<p>Mismagius can run a rather effective Calm Mind set. Calm Mind lets it set up on special attackers with ease and also makes it harder for the Pokemon such as Choice Scarf Heatran to revenge kill. Pairing that set with Toxic Spikes even lets it set up on and come out on top against Blissey. However, the loss of power when comparing it to the Nasty Plot set is very noticable, so you're usually better off with the Nasty Plot set.</p> 
+
+<p>Hidden Power Fire can be used to hit Scizor, but it has rather poor coverage with Shadow Ball, and using it means common Pokemon such as Heatran and Tyranitar have an easy time against Mismagius. Hidden Power Ground can also be used to hit Heatran harder than Hidden Power Fighting, but after a Nasty Plot, Hidden Power Fighting KOes anyways, so it's usually an inferior option. A set with Taunt and Will-O-Wisp can be used to take down stall, as well as check physical attackers such as Lucario, but Mismagius doesn't really have the bulk to pull it off.</p>
+
+[Checks and Counters]
+<p>Scizor is probably the best Mismagius counter out there. It resists Shadow Ball and is neutral to Hidden Power Fighting and Thunderbolt and can KO Mismagius with Pursuit even if it doesn't switch out. Snorlax is immune to Shadow Ball, has enough bulk to shrug off a Hidden Power Fighting, and can Pursuit or Crunch Mismagius. Jirachi has enough bulk to take a Shadow Ball and can take down Mismagius with Iron Head. If you're okay with using something from the depths of UU, Spiritomb and Drapion are excellent options. Both aren't really bothered by any of Mismagius's attack, and can take it down with one of their STAB attacks. If Mismagius doesn't have a Substitute up, it can be easy to revenge kill. Weavile and Choice Scarf Tyranitar are good options, as they are able to checkmate Mismagius with Pursuit while outspeeding it. Powerful priority moves, such as Bullet Punch from Scizor or Metagross can also take down Mismagius.</p>

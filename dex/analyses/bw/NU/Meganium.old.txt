@@ -1,0 +1,35 @@
+[Overview]
+
+<p>Meganium is your basic bread-and-butter Grass-type Pokemon with nothing too out of the ordinary. A fairly balanced stat spread and decent support movepool make it a versatile Pokemon that can be catered to fit your team's needs. Unlike the many other Grass-types that Meganium faces stiff competition from, such as Torterra and Vileplume, its base 80 Speed and overall bulk make it a fast, decent check against a number of threats, such as Ludicolo, Golurk, and Exeggutor. Despite these qualities, however, Meganium's mono-Grass typing leaves it with weaknesses to types commonly seen within the metagame, specifically Fire-, Ice-, and Bug-types, and vulnerable to all forms of entry hazards. Furthermore, Meganium is easily threatened by many of NU's top threats, such as Braviary, Scolipede, Jynx, and Charizard, which can make it struggle to consistently support its team.</p>
+
+[SET]
+name: Support
+move 1: Aromatherapy
+move 2: Synthesis / Leech Seed
+move 3: Giga Drain
+move 4: Dragon Tail
+item: Leftovers
+nature: Calm
+evs: 252 HP / 4 Def / 252 SpD
+
+[SET COMMENTS]
+
+<p>With its respectable bulk and Speed, Meganium makes a great addition to a team in need of cleric and phazing support. Aromatherapy is its primary support move, curing its team and itself of harmful status effects. Synthesis is used to replenish Meganium's HP and ensure longevity, but Leech Seed can be used if you prefer passive healing and the ability to potentially heal a teammate should Meganium switch out. Giga Drain is Meganium's STAB move of choice, hitting for reasonable damage and restoring some of its health simultaneously. Finally, Dragon Tail separates Meganium from its fellow Grass-types and turns it into an efficient phazer.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>A physically defensive EV spread and nature can be used if you prefer Meganium to take on the likes of Tauros, Kangaskhan, and Primeape better. You can also opt to use a Speed reducing nature rather than an Attack reducing nature if you want Meganium to hit harder with Dragon Tail, but note that this leaves it outpaced by many notable threats, such as Garbodor and defensive Seismitoad. Light Screen or Reflect can also be run depending on your needs. Lastly, Toxic is a decent option to cripple troublesome walls, and Hidden Power Fire is a decent secondary attacking move to hit Grass-, Steel-, and Ice-types hard.</p>
+
+<p>Meganium works really well on defensive teams because of its ability to fill a cleric and phazing role in one teamslot, which separates it from Roselia as a defensive Grass-type. Entry hazard supporters are also strongly encouraged to rack up additional damage when using Dragon Tail. Garbodor and Scolipede are both great options for Spikes and Toxic Spikes support and appreciate Aromatherapy in case of paralysis or burn status; Garbodor also appreciates Meganium's ability to resist incoming Ground-type attacks. Torkoal and Alomomola can also be used to form a potent Fire / Water / Grass core, as they both synergize very well with Meganium and each other's typing. Additionally, they both appreciate cleric support and Torkoal can assist the team with Stealth Rock as well.</p>
+
+[Other Options]
+
+<p>A dedicated dual screens set with Light Clay can be used, but it's outclassed by Serperior due to its higher Speed and Taunt. A RestTalk set is an option, but it's unreliable, and Synthesis and Aromatherapy work well enough for recovery and removing status ailments, respectively. A SubSeed set can be used, but Meganium would need to sacrifice a lot of its bulk in exchange for Speed to make it worthwhile. Counter is an interesting choice to surprise unsuspecting physical attackers. Sunny Day support with Solar Beam and Hidden Power Fire is also a possibility. In terms of offensive options, Body Slam can be used for the 30% chance of paralyzing an opponent, and Petal Dance is a stronger Grass-type attack; however, it's not recommended on defensive sets due to its effect. Meganium has access to Swords Dance and can use moves such as Seed Bomb, Earthquake, and Return, but it's more or less outclassed by Sawsbuck and Cacturne as a physical attacker. Finally, a Choice Specs set could be used, but Meganium doesn't pack the offensive presence to make this viable and thus prefers to stay defensive.</p>
+
+[Checks and Counters]
+
+<p>Strong Pokemon with powerful super effective attacks generally work well to deal with Meganium, as it has many common weaknesses. Charizard, Jynx, Scolipede, Braviary, Swellow, and Haunter are some examples of Pokemon that completely crush it. The majority of Substitute-using Pokemon, including Misdreavus, Scolipede, and Braviary, can set up against Meganium as it struggles to break their bulwark in one hit with Giga Drain or Dragon Tail. Sap Sipper Pokemon, such as Sawsbuck and Miltank, can absorb Leech Seed and Giga Drain and proceed to set up against Meganium. Mantine and Regice can tank Meganium's hits with impunity, thanks to their high Special Defense, and can hit back with their super effective STAB Air Slash and Ice Beam, respectively. Audino, Lickilicky, and Probopass also work well with their high Special Defense and can PP stall Meganium out of Aromatherapy by constantly crippling it with status. Finally, Vileplume is immune to Leech Seed and the potential Toxic and can hit Meganium hard with its STAB Sludge Bomb.</p>
+
+[Unreleased]
+
+<p>Meganium receives Leaf Guard from the Dream World. While it's better than Overgrow on a defensive Pokemon, it is useless unless Meganium has Sunny Day support, as there are no permanent sun inducers in NU. Furthermore, Meganium commonly carries Aromatherapy, which makes Leaf Guard largely pointless.</p>

@@ -1,0 +1,13 @@
+Sleep 'n Sweep
+########
+name: Sleep 'n Sweep
+move 1: Substitute
+move 2: Quiver Dance
+move 3: Hurricane
+move 4: Sleep Powder
+ability: Compound Eyes
+item: Leftovers
+evs: 252 SpA / 4 SpD / 252 Spe
+nature: Timid
+
+This is a sample set while we are currently working on analyses in the workshop.

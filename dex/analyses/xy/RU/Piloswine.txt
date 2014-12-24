@@ -1,0 +1,50 @@
+Overview
+########
+
+Thanks to its unique set of traits, Piloswine finds a niche in the RU metagame as a solid Stealth Rock setter. Piloswine's typing is exclusive to its evolutionary line and coupled with Thick Fat and its good bulk courtesy of its base 100 HP and compatibility with Eviolite, allows Piloswine to switch into some of the most common Pokemon in RU, such as Gligar and Drapion. Piloswine's typing also gives it STAB on key moves, such as Earthquake, Icicle Crash, and Ice Shard, which it can use effectively thanks to its solid base 100 Attack, making Piloswine a respectable offensive threat as well as a defensive one. However, Piloswine is held back by its weaknesses to some of the most common attacking types in the tier, including Water and Fighting. Piloswine also lacks reliable recovery, as it can't hold Leftovers due to its dependency on Eviolite and doesn't have access to any recovery moves.
+
+Tank
+########
+name: Tank
+move 1: Stealth Rock
+move 2: Earthquake
+move 3: Ice Shard
+move 4: Icicle Crash / Icicle Spear
+ability: Thick Fat
+item: Eviolite
+evs: 252 HP / 252 Atk / 4 Def
+nature: Adamant
+
+Moves
+========
+
+Stealth Rock is an essential move for any competitive team, and Piloswine is a stellar user of it thanks to its ability to threaten all of the common Defog users. Earthquake is Piloswine's main STAB move, and due to Piloswine's solid base 100 Attack, it hits most common Pokemon reasonably hard. Ice Shard allows Piloswine to pick off weakened targets, although it doesn't have much use outside of that. Icicle Crash is a consistent Ice-type STAB move which allows Piloswine to nail opposing Flying-, Grass-, and Ground-types, most notably Gligar. Icicle Spear has the added utility of breaking through Substitutes and having the chance to hit harder, but it lacks reliability.
+
+Set Details
+========
+
+As Piloswine doesn't need any Speed EVs to fulfill its role, it is free to fully invest in its HP and Attack, making it both strong and bulky. It can also invest in one of its defenses if required, although losing the ability to hit Gligar and other Pokemon as hard usually makes this an inferior option. Piloswine can also use Oblivious to guarantee Stealth Rock gets set up against Taunt users, such as Cobalion and Qwilfish, but as Piloswine can directly threaten those, it benefits more from the Ice-type resistance and Fire-type neutrality given by Thick Fat.
+
+Usage Tips
+========
+
+Piloswine can tank a lot of stronger hits in a pinch, such as Moltres's Fire Blast and Durant's Iron Head, although it's recommended to keep Piloswine healthy if the opponent has Pokemon you rely on it to check, such as Swords Dance Drapion, which can pick Piloswine off otherwise. As Piloswine is reliant on Eviolite for bulk, it's a good idea to avoid Knock Off as well. Piloswine fares really well against the typical hyper offense team, limiting common Spikes users to only one layer thanks to the combination of the appropriate STAB move and Ice Shard, while also being able to tank unboosted Cobalion's Close Combat and OHKO it back after the Defense drop with Earthquake.
+
+Team Options
+========
+
+Due to Piloswine's lack of recovery, Pokemon that can support it through Wish, such as Aromatisse and Audino, make for good partners to Piloswine. Due to Piloswine's ability to scare away the most common Defog users, it is an outstanding partner for a Spiker, such as Qwilfish or Accelgor. Ghost-types, such as Spiritomb and Doublade, spinblock, keeping entry hazards set up by Piloswine and its other teammates on the opponent's side of the field, while also keeping the Fighting-types that threaten Piloswine in check. The former can also Pursuit trap Bronzong, the only RU Pokemon that resists both of Piloswine's STAB moves. Since Piloswine has an easy time protecting entry hazards from being removed, it is a good teammate for late-game cleaners, such as Sharpedo and Fletchinder.
+
+Other Options
+########
+
+Piloswine can run Roar or Toxic, but it's usually hard to find a slot for either of those two, because they lack the utility of its other moves. Piloswine doesn't have any way of boosting its Attack outside of Curse, making it an interesting option, but Piloswine's not really cut out to be a sweeper. Piloswine has access to both Reflect and Light Screen, making it an interesting user of those moves due to its unique typing and access to Stealth Rock, but that job's generally done better by the myriad of available Psychic-types in RU. Piloswine also has some pretty nifty coverage moves, such as Superpower and Stone Edge, but they are generally unnecessary, as Piloswine's STAB combination already hits most relevant Pokemon hard enough.
+
+Checks & Counters
+########
+
+**Physical Walls**: Physically defensive Pokemon that don't get hit for super effective damage by any of Piloswine's STAB moves, such as Cresselia and Alomomola, can render Piloswine setup bait; the former can set up with Calm Mind, while the latter is free to pass a Wish to any of its teammates or simply wear Piloswine down.
+
+**Bronzong**: All other Steel-type Pokemon either take too much damage from Earthquake or are slower than Piloswine. Bronzong, however, resists or is immune to both of Piloswine's STAB moves courtesy of Levitate and can easily set up Stealth Rock and wear down Piloswine through Toxic and multiple Gyro Balls.
+
+**Fighting-types**: In spite of Piloswine's high bulk, most Fighting-types, such as Sawk, Emboar, and Hitmonlee, are still able to OHKO Piloswine with ease. Gurdurr can set up Bulk Up on Piloswine for free and proceed to recover from any damage dealt to it with Drain Punch, and Hitmontop, while lacking in firepower when compared to the others, can use Rapid Spin to completely stop Piloswine from fulfilling its role.

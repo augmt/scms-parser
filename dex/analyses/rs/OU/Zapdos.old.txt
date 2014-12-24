@@ -1,0 +1,61 @@
+[Overview]
+
+<p>One of the most prominent Pokemon in competitive play, Zapdos has an extremely good stat distribution. It doesn't have any outstandingly bad stats; in fact, it packs a great base 125 Special Attack, which enables it to dent even Snorlax. More defensively, it can stall out Blissey most of the time with RestTalk, as well as absorb status and hence counter Water-types, especially Milotic. It's also one of the greatest Baton Pass users of all time thanks to its ability to shut down the main phazers. All in all, Zapdos can be a great aid to just about any team.</p>
+
+[SET]
+name: RestTalk
+move 1: Rest
+move 2: Sleep Talk
+move 3: Thunderbolt
+move 4: Hidden Power Grass / Hidden Power Ice / Roar
+item: Leftovers
+nature: Calm
+evs: 252 HP / 32 Def / 224 SpD
+
+[SET COMMENTS]
+
+<p>This Zapdos variant is the most durable; it can take hits and status from a ton of Pokemon, including Gengar, Metagross, and all Water-types; reliable recovery and ability to cure status also lets it stall out Blissey one-on-one. Despite its defensive slant, this Zapdos can still pack a punch and scare off the threats it normally does.</p>
+
+<p>The EV spread is relatively simple: 32 Defense EVs make sure that Zapdos survives Salamence's Choice Band Rock Slide, even with sandstorm damage. The rest is put into HP and Special Defense in order to take Ice Beams from various bulky Water-types and to be able to switch in on Gengar's Ice Punch.</p>
+
+[SET]
+name: Baton Pass
+move 1: Substitute / Agility
+move 2: Baton Pass
+move 3: Thunderbolt
+move 4: Hidden Power Grass / Hidden Power Ice
+item: Leftovers
+nature: Timid
+evs: 252 HP / 108 SpA / 148 Spe
+
+[SET COMMENTS]
+
+<p>Zapdos is one of the best Baton Pass users in the game. STAB Thunderbolt dents Skarmory, Weezing, and Suicune and prevents them from standing in Zapdos's way, while Roar Swampert will have to eat a super effective Hidden Power. This Zapdos is great in tandem with Marowak, who can set up a Swords Dance, and Metagross, who resists both of Zapdos's weaknesses: Ice- and Rock-type attacks. Both Pokemon love an Agility being passed to them and can also work well under a Substitute. Tyranitar is another great option, loving the protection Substitute gives while being able to keep the Substitute intact against attacks from Snorlax and unboosted Ice Beams. If you think Zapdos can get away with only Thunderbolt as its only attacking move, it can run both Agility and Substitute.</p>
+
+<p>The listed Speed investment enables Zapdos to outspeed neutral-natured base 100 Speed Pokemon, allowing it to threaten them with a STAB Thunderbolt, making Zapdos a threat by itself.</p>
+
+[SET]
+name: Mixed Attacker
+move 1: Thunderbolt / Thunder
+move 2: Drill Peck
+move 3: Hidden Power Grass
+move 4: Substitute / Thunder Wave
+item: Leftovers
+nature: Mild
+evs: 216 Atk / 156 SpA / 136 Spe
+
+[SET COMMENTS]
+
+<p>Mixed Zapdos gets the job done fairly well too. Drill Peck is a constant nuisance to one of Zapdos's most common switch-ins: Celebi. Superbi is 2HKOed, while more defensive Celebi are forced to Recover after switching into Drill Peck. Spikes support will force Celebi to Recover constantly whenever it switches into Zapdos. Drill Peck is also Zapdos's strongest option against Blissey and Flygon, being able to force them to tread carefully or even switch out of Zapdos. Substitute is the main option for the last move, as it allows Zapdos to scout the opponent's switch-in; Thunder Wave is effective to try to break through defensive walls. It also is a viable option for severely hindering Raikou switching in.</p>
+
+<p>216 Attack EVs are used to nab a guaranteed 3HKO on more defensive variants of Celebi. With Zapdos's resistances to Megahorn and Focus Punch, it can be a makeshift switch-in to Heracross. To avoid being 2HKOed, 136 Speed EVs are used to outspeed Heracross so Drill Peck can KO it before it moves. It also allows Zapdos to handle Modest max Speed Suicune. Speed can be sacrificed for bulk if you think it's needed, but Zapdos will already survive two Hidden Power Flyings from Choice Band Salamence with a Defense-lowering nature.</p>
+
+[Other Options]
+
+<p>Choice Band Zapdos can threaten Celebi and Blissey with Drill Peck and keep Steel-types at bay. Metal Sound is a great option, forcing switches and allowing Zapdos to beat Snorlax and defensive Celebi. Light Screen can be used to keep Gengar, Water-types, and Celebi in check. Thunder Wave and Toxic are useful status moves; the former can be used as a general nuisance, while the latter can be used to wear down Ground-types like Claydol, Swampert, and Flygon. Thunder has a 30% paralysis chance and helps wear down Snorlax quickly; it's most useful on the Sleep Talk set.</p>
+
+[Checks and Counters]
+
+<p>Blissey, Snorlax, and Regice do not take much damage from Thunderbolt, but Zapdos can stall out Blissey if it has Rest. Jolteon can switch into Thunderbolts easily thanks to Volt Absorb and can threaten Zapdos with a Thunderbolt of its own or Roar it out. Raikou doesn't have Volt Absorb, but it can switch in easily with its excellent Special Defense, set up with Substitute and Calm Mind, and finally hit Zapdos with a boosted STAB Thunderbolt.</p>
+
+<p>Venusaur can take on Zapdos nicely with its resistance to Thunderbolt, but it needs to be wary of Drill Peck and Hidden Power Ice. With Synthesis, Venusaur only has to worry about Drill Peck. Celebi does the same but to a better extent with Recover and more HP, as well as Calm Mind; Cradily even has a super effective Rock Slide to work with. Swampert can counter Zapdos that lack Hidden Power Grass, but again, it is troubled by Rest variants. As most Zapdos only have Hidden Power Grass, Flygon is a safe switch-in that can deal heavy damage with Rock Slide; do still be on the watch for Hidden Power Ice variants, though.</p>

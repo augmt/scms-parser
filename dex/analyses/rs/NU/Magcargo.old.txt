@@ -1,0 +1,45 @@
+[Overview]
+
+<p>Magcargo has low stats in everything but Defense (which is undermined by its pathetic HP). It can't even wall most things defensively because its horrible typing gives it many weaknesses. To top it all off, it has a bad movepool. At least Flame Body is a good ability.</p>
+
+[SET]
+name: RestTalk
+move 1: Rest
+move 2: Sleep Talk
+move 3: Flamethrower / Fire Blast
+move 4: Hidden Power Grass
+item: Leftovers
+ability: Flame Body
+nature: Modest / Bold
+evs: 252 HP / 252 SpA / 4 SpD
+
+[SET COMMENTS]
+
+<p>This takes advantage of Magcargo's trait and high Defense to try and stay alive. Magcargo has a horrible defensive typing, but it doesn't have much better to do.</p>
+
+[SET]
+name: Choice Band
+move 1: Self-Destruct
+move 2: Earthquake
+move 3: Rock Slide / Hidden Power Rock
+move 4: Overheat
+item: Choice Band
+ability: Flame Body
+nature: Brave
+evs: 252 HP / 252 Atk / 4 SpD
+
+[SET COMMENTS]
+
+<p>Magcargo has horrible Attack, but Self-Destruct and Rock STAB somewhat make up for that.</p>
+
+[Other Options]
+
+<p>Magcargo can use Reflect to try and negate its massive 4x Earthquake weakness. Light Screen works similarly for Water attacks. Yawn works to force switches. Toxic can be used to wear down Water-types.</p>
+
+[EVs]
+
+<p>Max HP on Magcargo always. Then you'll usually want to just max out whichever attacking stat you're using.</p>
+
+[Checks and Counters]
+
+<p>Any Water-type will easily counter Magcargo, but Whiscash, Quagsire, and Swampert are still hurt pretty badly by Hidden Power Grass. Any physical attacker with Earthquake will also defeat Magcargo soundly, as long as it's not weak to Fire. Self-Destruct and Yawn are about the only way Magcargo can threaten most Pokemon if they aren't weak to Fire.</p>

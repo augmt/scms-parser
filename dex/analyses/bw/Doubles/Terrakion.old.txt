@@ -1,0 +1,75 @@
+[Overview]
+
+<p>Terrakion is a very straightforward Pokemon in both concept and practice. While other Fighting-types might use supportive moves such as Fake Out or rely on other Pokemon to set up field conditions, Terrakion gets straight to the point, outspeeding the majority of the unboosted metagame and often KOing or dealing massive damage with its incredibly useful STAB moves. This straightforward approach is also one of Terrakion's weaknesses, however. The Doubles metagame is riddled with Intimidate users, Cresselia (which basically walls and 2HKOes it), and weather users capable of outspeeding Terrakion, and it can't do much back without getting KOed. However, Terrakion is still a high-priority target that threatens many teams, and with a little speed control, Terrakion can easily dominate games.</p>
+
+[SET]
+name: Sub + 2 Attacks
+move 1: Substitute
+move 2: Close Combat
+move 3: Rock Slide / Stone Edge
+move 4: Protect
+item: Fighting Gem / Rock Gem
+nature: Jolly
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>The general idea of this set is to use Substitute to insulate Terrakion from its checks and to block status and Intimidate. Substitute also helps Terrakion circumvent Close Combat's defense drops, which is always appreciated. Terrakion's STAB moves comprise the set's coverage, which is almost unresisted. A Fighting Gem-boosted Close Combat is Terrakion's weapon of choice, providing it with a power boost equal to that of a Choice Band, allowing Terrakion to OHKO threats such as Kyurem-B, Hitmontop (without Intimidate), Kingdra, and other similarly bulky Pokemon. Rock Gem is also an option, as it guarantees an OHKO on 252 HP Thundurus with Rock Slide as well as having a very good chance of OHKOing Latios with Stone Edge. Protect is in the last slot as a staple Doubles move, and it is especially useful against opponents that try to double target Terrakion's Substitute in hopes of reaching the chewy center.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Gems are the main items you should consider for this set, as items such as Life Orb and Focus Sash would prove redundant or harmful with Substitute. Expert Belt is another item you could try if you dislike Gems, as it provides Terrakion with nice boosts against its common targets, but it's probably not going to score any impressive OHKOs, especially with Rock Slide. The 4 EVs in Defense instead of HP make Terrakion's HP odd, which allows it to make four Substitutes, provided it doesn't take any damage.</p>
+
+<p>Substitute Terrakion relies a bit more on Follow Me and Fake Out support than speed control. Mew, Jirachi, and Amoonguss, as usual, provide just that, as well as offensive support in taking care of Terrakion's checks with their coverage and resistances. Sableye provides Fake Out support as well as an incredibly useful priority Will-O-Wisp to threaten physical Fighting-types and Feint to ensure a knockout on Protecting Tyranitar and other such Pokemon. Cresselia, specifically offensive Cresselia, can provide Terrakion with important speed control and chip damage, as well as help Terrakion with Fighting-types and Landorus-T. A surprise Hidden Power Fire from Cresselia also goes a long way in dealing with the ever-threatening Scizor, but you have to be careful with using this method until you're sure Scizor isn't holding an Occa Berry.</p>
+
+[SET]
+name: Physical Attacker
+move 1: Close Combat
+move 2: Rock Slide / Stone Edge
+move 3: Taunt / X-Scissor / Quick Guard
+move 4: Protect
+item: Focus Sash / Life Orb
+nature: Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>This is about as straightforward as Terrakion can get without losing the ability to change its moves. Close Combat is a staple on any Terrakion, as it OHKOes key Pokemon such as Kyurem and Chople Berry Tyranitar, even without Life Orb. Focus Sash is used, as it allows Terrakion to take a hit without having to worry about how many times it can use Close Combat before it's OHKOed by a slight breeze. Life Orb, in a sense, does the exact opposite, powering up Close Combat enough to turn some 2HKOs into OHKOs while sapping Terrakion of any semblance of bulk. Rock Slide is, by comparison, weaker but deals healthy spread damage to anything weak to or neutral against it, resulting in more gross damage. Stone Edge doesn't have the nice spread coverage or accuracy, but it can OHKO bulky Thundurus and isn't bothered by Wide Guard, allowing Terrakion to check Volcarona more easily.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The third slot is mainly filler. X-Scissor does nice damage to Cresselia and other Psychic-types, 2HKOing said Cresselia with only one turn of Helping Hand support (the first attack brings it just below Sitrus range and the second attack KOes) or a few turns of Sandstorm damage, while Cresselia can only 2HKO in return. Quick Guard not only protects Terrakion from Bullet Punch and Mach Punch, but it also stops slower Pokemon such as Hitmontop and Liepard from using Fake Out on Terrakion or its partner. An important detail to note about Quick Guard is that it does not protect against Prankster-induced priority, such as Thundurus's Thunder Wave. Taunt is rather useful to stop Trick Room, but you have to be careful about Taunting some supporters such as Cresselia and Thundurus, as they can both easily cripple or 2HKO Terrakion regardless of Taunt. Protect is a staple on this set to buy time for Speed changes to take effect or to nab another turn for Terrakion's partner to take out whatever is threatening Terrakion at the moment.</p>
+
+<p>Terrakion doesn't ask for much support outside of the already essential speed control. Cresselia and Mew provide offensive support, tackling tough cats such as Hitmontop, Scizor, and Landorus-T, as well as potentially possessing the incredibly useful Helping Hand. While Hitmontop and Terrakion share the same typing, it can still support Terrakion with Wide Guard and Helping Hand, which can sometimes be all Terrakion needs to tango with rain and sand teams. Swampert also has Wide Guard, but its main attraction is the fact that it can use Ice Beam or Ice Punch to OHKO Landorus-T or leave it vulnerable to a Rock Slide. As a bonus, Swampert can offer Icy Wind support and generally deal damage with its decent base Attack and good STAB coverage.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Close Combat
+move 2: Rock Slide / Stone Edge
+move 3: Earthquake
+move 4: X-Scissor
+item: Choice Scarf
+nature: Adamant
+evs: 236 Atk / 108 Def / 164 Spe
+
+[SET COMMENTS]
+
+<p>A charging bull makes for a frightening opponent. By extension, a bull charging at speeds you wouldn't expect it to makes for a very frightening opponent. To many, this is exactly what a Choice Scarf Terrakion is, with its STAB moves capable of OHKOing its checks that rely on being faster, and the fact that it can run Adamant without worrying about Speed only bolsters its destructive power. However, like the bull that only runs in a straight line, Terrakion can become rather clunky when it's locked into the wrong move, so as always, it's wise to utilize prediction. Earthquake and X-Scissor are mostly filler when compared to the usefulness of Terrakion's STAB moves, but they still offer their perks. X-Scissor hits Cresselia, Latios, and Tyranitar for super effective damage, which is very useful to ease prediction in some cases, while Earthquake is a relatively safe option to hit Heatran super effectively and Fighting-types neutrally.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>If you're feeling adventurous, you could use both Rock Slide and Stone Edge at the same time at the expense of Earthquake. Both moves can have different applications at times, with Rock Slide being a safe early-game option while Stone Edge is more suited to mid- or late-game where you might need more immediate power. To further compare the two, Rock Slide has the Base Power of 55 to one Pokemon, but it can deal damage to two Pokemon at once and has a good chance to flinch, while Stone Edge's Base Power is a whopping 100, but it only hit one Pokemon and has worse accuracy. The EVs ensure that Terrakion outspeeds max Speed Deoxys-A and can survive attacks such as Adamant Life Orb Breloom's Mach Punch and Landorus-T's Earthquake, while the remaining EVs are dumped into Attack for more power.</p>
+
+<p>Terrakion doesn't need much support in general outside of more offensive Follow Me, chip damage and, of course, Helping Hand to guarantee OHKOs. Volcarona can easily dispatch Breloom with Heat Wave, redirect Fake Out, can burn the offender with Flame Body, and can go the hyper offensive route with Terrakion that can easily bulldoze through unprepared teams. Liepard isn't all that powerful or bulky, but it possesses Fake Out as well as a Prankster-boosted Encore to lock Pokemon into undesirable moves such as Trick Room or Protect; in addition, it has rather interesting options in Swagger and Taunt to prevent setup and possibly create free turns for Terrakion. Liepard can also run Sucker Punch to utilize Justified and pick off Pokemon weakened by Terrakion, but you have to be careful about damaging your own Terrakion to the point where it can no longer take advantage of its defensive EVs. Cresselia's offensive set once again comes into play, but defensive sets with Helping Hand might be more suited to helping Terrakion run wild. Sunny Day Cresselia also does a nice job of supporting Terrakion, as it basically neuters rain long enough enough for Terrakion to maim many Pokemon commonly found on rain teams such as Kingdra and Thundurus-T. Outside of this, Terrakion appreciates speed control to manage the opponent's speed control that's working against it.</p>
+
+[Other Options]
+
+<p>Terrakion doesn't have the largest movepool, but it still has some interesting options that could easily fit on the physical attacking set. Quick Attack is rather odd, but it allows Terrakion to pick off weakened opponents such as bulky Thundurus or 252 HP Kyurem-Black that might survive Terrakion's onslaughts and also picks at the opponent before an expected demise at the hands of a priority move or a faster Pokemon. Helping Hand could be used in a similar vein; its best use would probably be powering up a Psychic-type enough to OHKO a threatening Fighting-type or making Draco Meteor even more difficult to wall. On the subject of supportive moves, Safeguard can easily shut down Pokemon that are keen on spreading status, but it isn't useful against Breloom and Amoonguss, and it requires a turn of setup against Thundurus and Sableye due to Prankster. Additionally, Safeguard paired with a Lum Berry can be combined with Swagger to boost Terrakion's Attack to sky-high levels or simply negate an Attack drop from Intimidate.</p>
+
+<p>Swords Dance and Rock Polish are two other moves that can raise Terrakion's stats, but Rock Polish can be redundant if you run any sort of speed control. Swords Dance is a very interesting filler move that can be used on predicted double Protects to great effect, but it requires a great deal of prediction to pull off. Besides the aforementioned Lum Berry, there aren't many other items Terrakion could take advantage of aside from a Choice Band and Chesto Berry. Choice Band's usefulness should be obvious, but an appropriate Gem is usually enough to score KOs. Chesto Berry probably isn't as obvious, but it can prove useful to cure Terrakion of paralysis and burns when paired with Rest prevention is probably the best medicine in this case, though. Finally, Sacred Sword negates stat changes and doesn't cause any of your own, but it's rather weak and probably better suited to VGC environments where evasion moves are not banned.</p>
+
+[Checks and Counters]
+
+<p>Landorus-T and Cresselia are Terrakion's biggest roadblocks. Both can soften its attacks and 2HKO or OHKO Terrakion with their STAB moves while Terrakion can't do much to stop them. In fact, Intimidate in general can handily check Terrakion, but some Intimidate users won't like taking Stone Edges. Common priority users such as Conkeldurr, Breloom, and Scizor can also easily check Terrakion, provided it doesn't hide behind Quick Guard. Amoonguss takes a pittance from Terrakion's STAB moves and redirects them with Rage Powder, can put Terrakion to sleep, and can take chunks out of it's health with Giga Drain. Prankster users, such as Sableye and Thundurus, can also cripple it with priority moves, though again, Thundurus won't like taking a STAB Rock-type move. Faster Pokemon with super effective moves also make quick work of Terrakion, the most notable examples being Latios, Deoxys-A, Shaymin-S, Kingdra, and Excadrill, with the latter two being able to outspeed even the Choice Scarf set in their appropriate weather.</p>
+
+<p>Trick Room, as well as speed control in general, is a major threat to Terrakion, as basically everything it previously outsped can now outspeed Terrakion and KO it, depending on how many times its defenses have dropped due to Close Combat. Jellicent, Slowking, and Gallade are Trick Room setters that can take advantage of their own Trick Room, with the former two having spread moves that hit Terrakion super effectively and the latter having access to Feint to ensure a KO. Cresselia can simply utilize Icy Wind and throw a Psyshock Terrakion's way to KO it. It also sets up Trick Room with ease, which often results in a quick demise for Terrakion.</p>

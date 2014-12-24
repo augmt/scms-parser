@@ -1,0 +1,54 @@
+Overview
+#######
+
+Pangoro and its pre-evolution, Pancham, are the only Pokemon to have access to the move Parting Shot, which lowers the opponent's attacking stats and allows Pangoro to bring in teammates safely. Pangoro is a fantastic Choice Band user thanks to its high Attack stat and three solid abilities to choose from. Of these abilities, each one has a specific perk; Mold Breaker allows Pangoro to hit Weezing with Earthquake, Scrappy means that Ghost-types cannot switch into Storm Throw, and Iron Fist boosts Hammer Arm's power immensely. Pangoro also has other powerful STAB moves, such as Storm Throw and Crunch, though it does lack Drain Punch and Knock Off, unlike other Dark- and Fighting-type Pokemon. Unfortunately, Pangoro's low Speed stat really holds it back from being a top tier threat because it will almost always be taking damage before attacking; Pangoro's bulk is also quite lacking. Pangoro struggles against common threats such as Slurpuff and Vileplume. Finally, Pangoro is weak to Fairy- and Fighting-type moves, which are quite common.
+
+Physical Attacker
+#######
+name: Physical Attacker
+move 1: Storm Throw / Hammer Arm
+move 2: Crunch
+move 3: Parting Shot
+move 4: Poison Jab
+ability: Scrappy / Iron Fist
+item: Choice Band / Fist Plate
+evs: 252 HP / 252 Atk / 4 SpD
+nature: Adamant
+
+Moves
+=======
+
+Storm Throw is useful because it is a reliable STAB move with 100% accuracy and has an added effect of always landing a critical hit, meaning that all defensive boosts will be ignored. Hammer Arm, on the other hand, is much more powerful alongside Iron Fist and the Speed drop is not much of a problem because Pangoro is quite slow anyways. Crunch is another solid STAB option to prevent Ghost-types from gaining a free switch-in and is especially useful when Iron Fist is being used. Parting Shot is one of Pangoro's niches, allowing it to keep up momentum and give a teammate an easier time in setting up; it's also great because Pangoro is slow so its teammate will almost always have a safe switch-in. Poison Jab is mainly used to hit Fairy-type switch-ins, namely Slurpuff, hard. Earthquake can also be used over Poison Jab alongside Mold Breaker to hit Weezing and other Poison-types such as Garbodor. Finally, Taunt works well alongside Parting Shot because it allows Pangoro to prevent the opponent from setting up and then to pivot into a teammate.
+
+Set Details
+=======
+
+The ability chosen is dependent on the move: Scrappy when using Storm Throw and Iron Fist when using Hammer Arm. Scrappy is often the better choice because Storm Throw is more reliable and it prevents Rotom and Mismagius from gaining a free switch in and threatening a burn with Will-O-Wisp. While Mold Breaker is not seen on this set, it can be used if Earthquake is being run to hit Weezing. Choice Band is usually the item of choice because it makes it tough for Pokemon to switch into Pangoro, although Fist Plate can be used to bluff a Choice Band. A simple spread of 252 HP / 252 Atk is advised, although one can also run Speed investment. Some benchmarks to hit with Speed investment that allow Pangoro to outspeed select Pokemon include running 60 Speed EVs for Roselia, 112 EVs for Carracosta, and 132 EVs for Seismitoad.
+
+Usage Tips
+=======
+
+Parting Shot should be the go-to move in most instances because it works wonderfully on predicted switches to keep momentum up and get Pangoro out of unfortunate circumstances. When not using Parting Shot, however, using a Fighting-type STAB move is often the best choice for the wide coverage provided. Be careful about being locked into either Earthquake or Poison Jab, as Earthquake can be taken advantage of by Flying-types and Poison Jab in general does not have very good coverage, and it's especially worse because Pangoro lacks STAB on both moves. When switching in Pangoro, be sure to only bring it in on weak neutral attacks or Psychic-types such as Mesprit once you are sure that Dazzling Gleam is not being used.
+
+Team Options
+=======
+
+Slurpuff makes for a useful partner because it can force out Fighting-types and enjoys Parting Shot because it eases setup and allows for an easier switch-in. Probopass can beat other Slurpuff and also pivot into Pangoro with Volt Switch, and the two share decent synergy as well. Garbodor has good synergy with Pangoro and can take on Fairy-type attacks aimed at Pangoro with ease. Mesprit has nearly flawless synergy with Pangoro and enjoys Ferroseed and Audino being weakened so it can sweep late-game. Other setup sweepers such as Feraligatr enjoy being able to take advantage of the opponent's weakened offense to ease set up. Pangoro fits very well on Trick Room teams, a very underrated playstyle; Mesprit can also be used to set it up.
+
+Other Options
+#######
+
+A set utilizing Swords Dance can be devastating under Trick Room, Trick Room does not last for long and Pangoro has trouble setting up. Stone Edge can be used for all-around coverage but it isn't amazing by any means and is not a great move to be locked into. Choice Scarf is a viable option to boost Pangoro's Speed, but it loses a bunch of bulk by running too much Speed investment, and its Speed is still quite lackluster compared to other Choice Scarf users. Finally, Bulk Up could see use to boost Pangoro's Attack stat, but Pangoro's not bulky enough to truly utilize it.
+
+Checks and Counters
+#######
+
+**Fairy-types**: Pangoro is 4x weak to Fairy-type attacks and Fairy-types such as Slurpuff and Granbull resist both of its STAB moves, although they must be wary of Poison Jab.
+
+**Fairy-type Coverage**: Ghost- and Psychic-types such as Mismagius and Mesprit that commonly carry Fairy-type coverage moves threaten Pangoro.
+
+**Physically Bulky Pokemon**: Pokemon with high Defense stats that also resist Pangoro's STAB moves such as Garbodor, Weezing, and Gurdurr can wall Pangoro.
+
+**Faster Pokemon**: Because Pangoro is quite slow, anything with a higher Speed stat will likely be hitting Pangoro before it can even attack.
+
+**Residual Damage**: Various forms of residual damage such as Will-O-Wisp can wear down Pangoro rather quickly. In particular, entry hazards wear it down the most thanks to its constant switching.

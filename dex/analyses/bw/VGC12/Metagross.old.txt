@@ -1,0 +1,51 @@
+[Overview]
+
+<p>Metagross is a dominating physical attacker in VGC 2012. Its Steel typing allows it to check hail teams and resist Rock Slide, while its bulkiness prevents it from being OHKOed by common spread attacks. In past years, Metagross was closely associated with Explosion. However, Explosion no longer halves the Defense of Pokemon before it hits, so it is less useful than before. Despite the nerf, Metagross is incredibly difficult to take down without it dishing out serious damage beforehand.</p>
+
+[SET]
+name: Standard
+move 1: Meteor Mash
+move 2: Bullet Punch
+move 3: Earthquake / Explosion
+move 4: Protect / Explosion
+item: Occa Berry / Normal Gem
+nature: Adamant
+evs: 252 HP / 252 Atk / 4 Spe
+
+[SET COMMENTS]
+
+<p>This is a straightforward set focusing on pure damage output. Metagross's ability, Clear Body, prevents Intimidate and other stat-reduction strategies from crippling it. STAB Meteor Mash deals enormous damage to anything that does not resist it. Bullet Punch is a useful priority attack for dealing with Focus Sash users and fast, frail Pokemon. Earthquake somewhat rounds out coverage. It gives Metagross a way to hit opposing Metagross, Jolteon, and Fire-type Pokemon. Earthquake is not always the best option for Metagross, however. Explosion still has 187.5 Base Power when factoring in how spread moves' Base Powers are calculated in double battles. As such, Explosion may be necessary in order to deal heavy damage to Pokemon such as Zapdos, Gyarados, and Rotom-W. Occa Berry allows Metagross to survive most Fire-type attacks. This is especially important because of its lower base Special Defense and the widespread use of Heat Wave. Normal Gem is also an option in conjunction with Explosion, drastically increasing its damage output.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>An Adamant nature and 252 Attack EVs are preferred to give Metagross as much power as possible. Meteor Mash followed by Bullet Punch grabs a 2HKO on a huge portion of Pokemon in VGC 2012. Bullet Punch alone 2HKOes Abomasnow, Weavile, Terrakion, and Froslass. If a Normal Gem is given to Metagross, Explosion's power will surpass that of a 2x super effective Earthquake. Normal Gem-boosted Explosion OHKOes most Zapdos, Garchomp, and Rotom-W, some of Metagross' best counters otherwise.</p>
+
+<p>Metagross requires a teammate that can handle Zapdos, Garchomp, and Fire-type Pokemon. Latios provides superb offensive and defensive coverage. Latios can OHKO Garchomp and resists Fire- and Electric-type moves. It is also immune to Ground-type moves, forcing the opponent to think again before using Earthquake. Cresselia functions a lot like Latios, but focuses on support more. Cresselia can use Icy Wind or Trick Room to help Metagross overcome Zapdos while also having a Ground-type immunity. Both of these Pokemon are also immune to Metagross's own Earthquake.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Iron Head / Meteor Mash
+move 2: Ice Punch
+move 3: Explosion
+move 4: Trick
+item: Choice Scarf
+nature: Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Metagross is rarely seen as a Pokemon who can outspeed its enemies. This set is situational, but it yields an incredibly high reward if it pays off. With a Choice Scarf, Metagross outspeeds many of its counters and hits them with a super effective move. Many prominent Pokemon in VGC 2012 have trouble dealing with fast Steel- and Ice-type attacks. Iron Head is a decent STAB attack, and the flinch rate is even more useful with Choice Scarf. Ice Punch deals heavy damage to Zapdos and Garchomp. A super fast Explosion can catch teams completely off-guard. With the Explosion nerf, double Protecting to scout for it has become quite rare, allowing a first-turn Explosion to be more effective. Earthquake can be used to get coverage on Heatran and opposing Metagross. Trick is extremely useful as Metagross can Trick its Choice Scarf onto support Pokemon, such as Cresselia. Getting rid of the Choice Scarf also allows Metagross to switch attacks if the matchup becomes unfavorable.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>With as much Speed investment as possible, Metagross hits 201 Speed, outspeeding Jolteon, Aerodactyl, and Crobat while equipped with a Choice Scarf. Iron Head is preferred over Meteor Mash for its accuracy. Risking two Meteor Mash misses against a Focus Sash user can put Metagross and your team at a major disadvantage; however, the additional power that Meteor Mash brings may be worth it in some cases.</p>
+
+<p>Dusclops and Dusknoir work the best with Choice Scarf Metagross, as it is easy to mistake a team with this combination for a Trick Room team. As such, this draws the attention of the opponent to Dusclops and Dusknoir in an attempt to prevent Trick Room from going up, allowing Metagross to fire off unexpected attacks. Dusclops and Dusknoir can also boost Metagross's attacks with Helping Hand. They have an immunity to Explosion also, allowing them to boost it or use any number of supporting moves the same turn. Ironically, Dusclops and Metagross also cause this set the most trouble. Metagross's best option against Dusclops is to use Trick; nevertheless, Dusclops can still use Will-O-Wisp, crippling Metagross, and then switch out. Opposing Metagross resist Iron Head, Ice Punch, and Explosion, putting your own Metagross at a disadvantage.</p>
+
+[Other Options]
+
+<p>Zen Headbutt gives neutral coverage on Zapdos, Politoed, and Ludicolo and also hits Hitmontop for super effective damage. Iron Head is a decent alternative to Meteor Mash, improving Metagross's accuracy, at the cost of power. If Ferrothorn becomes a problem, Hammer Arm is a good coverage move that can hit Ferrothorn; it can also lower Metagross's Speed, allowing it to function in Trick Room. If Trick Room Metagross is appealing, a Brave nature with 0 Speed IVs is recommended, allowing it to be one of the "fastest" Pokemon on the field in Trick Room. Metagross can make use of ThunderPunch or Ice Punch on any set to deal with Gyarados or Garchomp, respectively. Lum Berry is a solid item choice, protecting Metagross from being frozen by multiple Blizzards, being put to sleep by Spore users, or being burned by Will-O-Wisp.</p>
+
+[Checks and Counters]
+
+<p>Metagross hates battling against physically bulky Pokemon who resist its powerful Steel-type moves. Exceptional counters to Metagross are those who resist or are immune to Earthquake on top of its Steel-type attacks. Zapdos, Rotom-W, Garchomp, Suicune, and Gyarados render almost all of Metagross's attacks useless. Zapdos and Garchomp deserve special mention because of their ability to hit Metagross with a super effective Heat Wave or Earthquake, respectively. Ninetales (and sun teams in general) give Metagross all kinds of trouble; Fire-type Pokemon such as Heatran resist Meteor Mash and can KO Metagross through Occa Berry if sun is up.</p>

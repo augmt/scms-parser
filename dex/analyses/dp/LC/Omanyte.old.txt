@@ -1,0 +1,106 @@
+[Overview]
+
+<p>Omanyte is a great Pokemon in Little Cup due to its excellent movepool and stats. Due to its ability, Swift Swim, Omanyte can be a powerful sweeper underneath rain, while also posing a threat outside of it. With moves such as Hydro Pump, Earth Power, Ancient Power, Spikes, Toxic Spikes, and Stealth Rock, Omanyte can serve both as an offensive or defensive threat. Omanyte still has its faults, though, most notable is its sub-par Speed stat. Not to mention that Omanyte's main STAB move, Hydro Pump, is a common immunity in Little Cup. Pokemon such as Croagunk can switch in with impunity and OHKO Omanyte with Vacuum Wave.</p>
+
+[SET]
+name: Life Orb
+move 1: Hydro Pump / Surf
+move 2: Ice Beam
+move 3: Earth Power
+move 4: Ancient Power
+item: Life Orb
+ability: Swift Swim
+nature: Timid
+evs: 76 HP / 196 SpA / 236 Spe
+
+[SET COMMENTS]
+
+<p>With rain up, Omanyte reaches a Speed of 28, effectively allowing it to outpace the entirety of the metagame that does not run Choice Scarf. Along with its devastating Special Attack, Omanyte has no trouble making holes in the opponent's team.</p>
+
+<p>Hydro Pump is fantastic with the boost from Life Orb and rain, as it can 2HKO almost every Pokemon who isn't immune to it. Ice Beam is a nice coverage move as it allows you to his Dratini for super effective damage, who otherwise would KO you. Earth Power OHKOes Chinchou the majority of the time with Stealth Rock on the field, and can also OHKO Croagunk if you predict its switch-in. Ancient Power can OHKO Snover, though be careful since you tie with max Speed Snover and you will be outpaced by Choice Scarf variants. Ancient Power can also 2HKO Mantyke, who is immune to Hydro Pump if it has Water Absorb as its ability.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Here are some calculations to show how devastating Hydro Pump can be with the rain boost.</p>
+
+<ul class="damage_calculation">
+<li>Hydro Pump vs 220/148 Bronzor: 108% - 132%</li>
+<li>Hydro Pump vs 252/252 Munchlax: 72.7% - 84.8%</li>
+<li>Hydro Pump vs 252/252 Chinchou: 48.1% - 59.3%</li>
+<li>Hydro Pump vs 252/252 Shroomish: 52% - 64%</li>
+<li>Hydro Pump vs 252/252 Snover (in hail): 36% - 44%</li>
+</ul>
+
+<p>Omanyte loves to have Stealth Rock on the field, as it helps deal with Mantyke and Snover. Bronzor is a good choice for a Pokemon to set Stealth Rock and Rain Dance up for Omanyte due to it's bulk; Bronzor can also deal with Choice Scarf Snover and Croagunk fairly easily. Wynaut is also a great partner for Omanyte as it can trap and kill Croagunk and the Choice Scarf-wielding Pokemon whom Omanyte ties or loses to, such as Elekid.</p>
+
+<p>You will need a Pokemon to set up Rain Dance for Omanyte to sweep. Bronzor, as previously mentioned, is a good choice for such a role due to its bulk and access to Stealth Rock. Voltorb is also a great choice as a lead to set Rain Dance up since it outpaces almost all leads, can Taunt other Pokemon trying to set up Sunny Day or Trick Room, and can Explode, creating a free switch-in for Omanyte.</p>
+
+[SET]
+name: Rain Dance Special Attacker
+move 1: Surf
+move 2: Ice Beam / Earth Power
+move 3: Hidden Power Electric
+move 4: Rain Dance
+item: Oran Berry
+ability: Swift Swim
+nature: Modest
+ivs: 30 SpA
+evs: 156 HP / 36 Def / 200 SpA / 76 Spe
+
+[SET COMMENTS]
+
+<p>This set uses Omanyte's Defense stat to help it tank physical attacks so Omanyte has an easier time switching in and then sweeping. With its above average defenses, Omanyte can easily set rain up for itself, and then sweep. With a Modest nature and 200 Special Attack EVs, Omanyte reaches 19 Special Attack, while the 76 Speed EVs allow Omanyte to reach a stat of 22 under rain, making it outpace all non-Choice Scarf Pokemon. Oran Berry is the preferred item on the set because it restores Omanyte's health, although you can use Damp Rock to increase the duration of rain.</p>
+
+<p>Surf is the primary attacking move on the set. In the rain, Surf can dent most Pokemon who aren't immune or resistant to it. Earth Power can be used to hit Electric-types and Croagunk, while Ice Beam can hit Grass- and Dragon-types that resist Surf. Hidden Power Electric allows Omanyte to hit Water-types, especially Mantyke.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>This Omanyte set has troubles with Snover. Bronzor can switch in on Snover and threaten it out with STAB super effective Gyro Ball while also setting down Stealth Rock, limiting the number of times Snover can switch back in. Wynaut is also a great partner for Omanyte, as it can trap Croagunk (who can OHKO Omanyte with Vacuum Wave) and can also create a free turn for Omanyte to set up rain. Another threat is Munchlax, who is able to KO Omanyte before Omanyte can 3HKO it back, however, Bronzor, again, can handle Munchlax fine. If you run Ice Beam instead of Earth Power, Chinchou becomes a problem. You can use Croagunk to deal with it by using Fake Out and Sucker Punch. Using Earth Power leaves you open to Paras and Shroomish, though, so using a Fire-type to dispatch them easily is a good idea.</p>
+
+[SET]
+name: Rock Polish
+move 1: Rock Polish
+move 2: Hydro Pump
+move 3: Earth Power
+move 4: Ancient Power
+item: Life Orb
+ability: Shell Armor
+nature: Modest
+evs: 236 HP / 196 SpA / 76 Spe
+
+[SET COMMENTS]
+
+<p>Omanyte has access to Rock Polish which allows it to double its Speed stat, so Omanyte no longer has to worry about setting up rain to sweep. With the given EVs, Omanyte reaches 22 Speed which allows it to outpace all Pokemon who aren't equipped with a Choice Scarf. The spread gives Omanyte a decent amount of bulk, helping it set up Rock Polish much easier. Shell Armor is the preferred ability so you won't have to fear critical hits.</p>
+
+<p>Hydro Pump allows you to power your way through most Pokemon with its 120 Base Power. Ancient Power and Earth Power allow you to hit Paras and Croagunk respectively, who are immune to Water-type attacks. Hidden Power Grass or Hidden Power Electric can be used to hit Water-types but Hydro Pump does roughly the same amount of damage.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Wynaut is a great partner for Omanyte since it can trap Croagunk that lack Dark Pulse or Shadow Ball. It also creates opportunities for Omanyte to use Rock Polish thanks to Encore. Gligar is also an effective partner for Omanyte. Gligar resists Fighting-type moves and is immune to Ground- and Electric-type attacks, all of which Omanyte is weak against. Another partner for Omanyte is Gastly, which is immune to Fighting- and Ground-type moves and can lure in Munchlax and burn it with Will-O-Wisp</p>
+
+[SET]
+name: Support
+move 1: Stealth Rock
+move 2: Spikes / Toxic Spikes
+move 3: Surf
+move 4: Ancient Power / Ice Beam / Protect
+item: Oran Berry
+ability: Shell Armor
+nature: Calm
+evs: 236 HP / 36 Def / 236 SpD
+
+[SET COMMENTS]
+
+<p>Omanyte is one of the few very effective entry hazard supporters in the Little Cup metagame. Having access to all three forms of entry hazards (Stealth Rock, Spikes, and Toxic Spikes), as well as boasting a high Defense stat, Omanyte won't have a hard time setting up multiple layers of two of the three of the aforementioned hazards. Also, Omanyte is basically the only Pokemon who can effectively set up Spikes or Toxic Spikes, as the other pokemon with access to these moves, such as Pineco, are not equipped to deal with the metagame. As for attacking options, Surf is the primary STAB move of choice, hitting for decent damage so Omanyte is not left helpless offensively. Ancient Power serves as a secondary STAB move, hitting Pokemon like Paras and Mantyke that take Surf with impunity. However, Ice Beam can be used to deal heavy damage against opposing Grass-types, as well as damaging Croagunk and Dratini. If you opt to use Toxic Spikes, Protect may be a worthwhile option give Omanyte a chance to stall the opponent for poison damage. Protect also helps Omanyte scout for dangerous attacks coming from the likes of Choice Scarf Mankey and Gligar. <p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Pairing up Omanyte with Hippopotas is a great idea, as the sandstorm Hippopotas summons increases Omanyte's Special Defense by 1.5x, enhancing its durability on the special side. It's also recommended to use Pokemon who can cover Omanyte's weaknesses to Fighting, Electric, and Grass. This can be done by using Gligar, who resists Fighting and is immune to Electric, or Paras, who resists all of the three types.</p>
+
+[Other Options]
+
+<p>With Chople Berry Omanyte is a decent lure for Croagunk. Chople Berry allows Omanyte to survive a Vacuum Wave from Croagunk and KO it back with Earth Power. The only other thing to consider is having Omanyte learn Knock Off for the support set, so you can remove items. After that, there really isn't much else you can use.</p>
+
+[Checks and Counters]
+
+<p>Omanyte has no real definite counter but depending on the set, it can be countered. Snover gives hell to any Omanyte that isn't running Ancient Power. Croagunk butchers Omanyte with Vacuum Wave if it can avoid getting hit by Earth Power. Munchlax can take on Omanyte with Earthquake as long as Omanyte isn't using Hydro Pump in the rain. Bulky Water-types like Mantyke and Chinchou can cause problems, but they can be taken care of with Ancient Power, Earth Power, or just a STAB Hydro Pump (if Mantyke doesn't have Water Absorb).</p>

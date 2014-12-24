@@ -1,0 +1,29 @@
+[Overview]
+
+<p>Mudkip is generally an average Pokemon--it has a good Attack stat, decent defenses, and a usable Special Attack stat, but its mediocre Speed is what hinders it. Mudkip has a small movepool, but it can still threaten several Pokemon. It has access to uncommon moves such as Mirror Coat, Counter, and Curse, all of which have their own uses and surprise factor. Due to Mudkip's mixed stats it can function as a bulky Pokemon, or even a fully offensive sweeper. The flexibility in its role makes Mudkip a useful Pokemon.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Waterfall
+move 2: Rock Slide
+move 3: Double-Edge / Return
+move 4: Superpower / Ice Beam
+item: Choice Scarf
+nature: Jolly / Naive
+evs: 116 HP / 196 Atk / 196 Spe
+
+[SET COMMENTS]
+
+<p>With a Choice Scarf equipped, Mudkip can fix its speed problems. Waterfall is the main STAB option; it has 80 Base Power and a 20% flinch rate, which is handy because Mudkip will outspeed many opponents. Waterfall hits several threats such as Gligar, usually doing anywhere between 70% to 100%. Note that this isn't completely reliable, however, as many Gligar also carry Choice Scarf and will thus outspeed Mudkip. Double-Edge is a strong move and gets neutral coverage on every Pokemon in LC, while Return serves a similar purpose without the recoil damage at the cost of a bit less power. Superpower provides good coverage and it is useful in revenge killing several Pokemon. Ice Beam is useful as it hits more physically defensive Pokemon such as Gligar harder than Waterfall, and will usually KO them with Stealth Rock support. Rock Slide hits Ice- and Flying-type Pokemon for super effective damage, which is helpful in a metagame where Pokemon like Snover are common.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Aqua Tail lacks accuracy, but as a trade-off has more power. Torrent is useful in boosting Mudkip's STAB even further in several situations where Mudkip's HP is below one-third. A Jolly nature is required to hit 21 Speed, a benchmark to Choice Scarf users to outspeed most other Pokemon. The specified EVs help maximize its Speed and Attack stats, while the remaining EVs are placed into HP to help it take hits slightly better.</p>
+
+[Other Options]
+
+<p>A CounterCoat set can be viable with Mudkip, and so can a set utilizing Toxic and Rest. Yawn is a useful move to have in its arsenal as it causes switches and racks up damage from entry hazards. A specially based Choice Scarf set is viable, using moves such as Surf, Ice Beam, Ancient Power, and Hidden Power Fire, but Mudkip's Special Attack is mediocre, which limits its effectiveness. Its only real merit would be that it is unexpected.</p>
+
+[Checks and Counters]
+
+<p>Water Absorb Pokemon will be good counters since they can take Waterfall and receive a health boost. Chinchou resists STAB Waterfall and can retaliate with its own STAB Thunderbolt. Similarly, Grass-type Pokemon resists Mudkip's STAB and can deal a lot of damage to Mudkip with their own STABs. Be warned that Grass-types will take a lot of damage from Ice Beam if Mudkip has the move. Bronzor and Slowpoke do a lot of damage to the Choice Scarf set, and they also have great defensive stats and resist a lot of Mudkip's moves.</p>

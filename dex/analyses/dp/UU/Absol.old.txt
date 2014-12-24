@@ -1,0 +1,121 @@
+[Overview]
+
+<p>Absol is considered the "Disaster" Pokemon because it is thought to bring bad luck to anyone who meets it, including its opponent. Absol's biggest selling point, its STAB Sucker Punch, is the most powerful priority move in the game. Swords Dance and a monstrous base 130 Attack stat make switching into Absol difficult; and if that weren't bad enough, Super Luck gives Absol a good chance of landing a critical hit. Absol's only real downfalls are its lackluster defenses and average Speed stat.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Sucker Punch
+move 3: Superpower
+move 4: Night Slash / Psycho Cut
+item: Life Orb / Lum Berry
+ability: Super Luck
+nature: Adamant / Jolly
+evs: 252 Atk / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>Absol's amazing base 130 Attack stat, coupled with Swords Dance and the strongest priority move in the game, makes it a devastating sweeper against those who aren't prepared.</p>
+
+<p>Sucker Punch helps mitigate its mediocre Speed. With it, Absol becomes a challenge to take down as Sucker Punch can severely dent or even OHKO would-be revenge killers. Superpower is a great move to pair with Sucker Punch, as it damages Steel- and Dark-type Pokemon, such as Steelix and Drapion, who take little damage from Absol's STAB Dark-type attacks. Night Slash allows Absol to eliminate Pokemon who try to outsmart you by refusing to attack while Absol tries to Sucker Punch, and works extremely well with Absol's Super Luck ability. Psycho Cut, which also benefits from Super Luck, can maim incoming Poison- and Fighting-type Pokemon, such as Weezing, Hitmontop, and Hariyama.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs generate maximum Attack and Speed to increase Absol's potency as a sweeper. The remaining 4 EVs go in Special Defense rather than HP in order to give Absol a HP stat of 271, decreasing the damage it takes from Stealth Rock. If you want, you can also choose to give Absol a 29 HP IV, which means it will take less damage from Life Orb recoil. Adamant is the recommended nature as the extra power can prove very useful; Blaziken can be OHKOed after Stealth Rock by +2 Sucker Punch, and the extra damage can ensure KOs on bulkier walls such as Milotic and Donphan with a little bit of residual damage. However, a Jolly nature can sometimes be useful to get the jump on opponents such as offensive Milotic and Venusaur that run neutral natures. A Jolly nature also allows Absol to outpace slower Blaziken and Toxicroak, enabling it to use Sucker Punch before they can use Vacuum Wave. While Life Orb is the recommended item to boost Absol's power, Lum Berry is also a nice option as it gives Absol a cushion against Weezing's and Spiritomb's Will-O-Wisp. It also helps against Venusaur who may try to evade Sucker Punch by using Sleep Powder.</p>
+
+<p>Entry hazards are a good idea to facilitate your sweep&mdash;Stealth Rock can be easily set up by a lead such as Kabutops or Uxie, while Spikes can be set up by Omastar or Cloyster. If you can manage to get Absol set up and ready to go, there's very little in the UU metagame that can actually stand in its way. However, in practice, using Absol is rarely such a smooth ride, as its poor defensive stats and relatively low Speed immediately highlight two big problems&mdash;first, setting it up without being killed or crippled, and second, stopping faster Pokemon from simply revenge killing it or forcing it out. As for the first point, Absol generally can only set up on weaker attackers with resisted STAB moves. While luring out a Rotom or Alakazam carrying a Choice item with something like a weakened Venusaur can do the trick, you can do more than that. For example, Uxie can provide dual screen support to allow Absol to set up more easily, or give Absol a free switch-in with strategic U-turn pivoting. As for revenge killers, you can first try to ascertain what Pokemon are likely to be faster or carry priority and whether they can avoid Sucker Punch&mdash;for example, Alakazam could revenge kill Absol with Signal Beam, but Absol can beat it to the punch with Sucker Punch. However, Alakazam has the potential to carry Substitute or Encore to thwart this strategy. Having heavy hitters such as Blaziken and Azumarill on your team to weaken your opponent's team is also a good thing to keep in mind, as it allows Absol to sweep weakened enemies much more easily. Fire Blast from Blaziken and Waterfall from Azumarill are both powerful STAB attacks that can severely dent your opponent's bulkier Pokemon, giving Absol a chance to score many kills later in the battle.</p>
+
+<p>Bulkier threats to Absol are hard to come by, yet still exist. While frailer Fighting-types such as Hitmonlee and Primeape are OHKOed by boosted Sucker Punch, more defensive Pokemon such as Hitmontop and Hariyama can be problematic, especially if you lack Psycho Cut. Hitmontop's Technician-boosted Mach Punch is a guaranteed OHKO on Absol, while defensive Hariyama can take anything Absol has, bar Psycho Cut, and hit back with Revenge or Brick Break. Thus, a partner such as Claydol or Weezing who can take down Fighting-types is greatly recommended. Threats that don't immediately attack can be quite threatening as you cannot rely on the extra strength of Sucker Punch. Will-O-Wisp Weezing and Spiritomb can cripple Absol, but can be taken care of by most Fire-types. Moltres can make a pretty good partner to Absol provided you have Rapid Spin support, as Moltres can come in for free on Will-O-Wisp and threaten Weezing and Spiritomb with its STAB Fire Blast, while also checking many of Absol's common counters with its STAB Air Slash and resistance to Fighting-type attacks. As an added bonus, it also beats Tangrowth and Steel-types while drawing out Pokemon such as Chansey that Absol can set up on. Milotic can be a potent foe, as it can Haze away boosts and then attack with STAB Surf or even potentially outspeed Absol. If you are concerned about Milotic, Venusaur can be employed to deal with it, while also helping out by absorbing Toxic Spikes, checking Fighting-types, and crippling opponents with Sleep Powder.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Night Slash
+move 2: Superpower
+move 3: Psycho Cut
+move 4: Pursuit
+item: Choice Scarf
+ability: Super Luck
+nature: Adamant / Jolly
+evs: 252 Atk / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>Choice Scarf makes up for Absol's mediocre Speed, boosting it to a reasonable 373 with an Adamant nature. Due to this great increase in Speed, Sucker Punch becomes a lesser option; Night Slash is a far better choice to hit almost as hard without worrying about opponents potentially using non-damaging moves. Superpower will intimidate those who resist Absol's Dark-type STAB attacks, such as Steelix and Registeel, while Psycho Cut eliminates Fighting-type Pokemon who also enjoy switching in on Absol's STAB attacks. Pursuit is Absol's best choice for the last slot, as it allows Absol to take out retreating Ghost- and Psychic-types.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>With an Adamant nature, Absol reaches 373 Speed, which means that it can outrun Timid Alakazam and everything slower&mdash;essentially the entire unboosted UU metagame. The loss in power from the Swords Dance set is severe, so Adamant is the superior option. A Jolly nature does not allow Absol to outrun anything more of real significance, aside from the odd Dragon Dance Feraligatr or Altaria. Aside from that, the EVs are the standard Absol EVs.</p>
+
+<p>This Absol is very fast, and hence less prone to revenge killing, but unfortunately it is also a lot less powerful, making it much more susceptible to being walled by defensive threats. Weezing and Spiritomb can burn Absol and render it useless, so a Fire-type teammate such as Blaziken or Arcanine can be useful, as they are immune to Will-O-Wisp. Houndoom, in particular, can be a very good partner since Will-O-Wisp activates its Flash Fire ability. However, be aware that Absol and Houndoom have similar weaknesses and are both poor defensively, so don't expect much defensive synergy. Fire-types are also useful for dealing with Tangrowth, who can survive two Night Slashes and either cripple Absol with Stun Spore or Sleep Powder or simply OHKO Absol with STAB Leaf Storm. Lastly, Milotic is still an issue, so Venusaur can be employed as a check.</p>
+
+<p>One of Choice Scarf Absol's main attractions is its fast STAB Pursuit, which allows it to checkmate slower, frail sweepers such as Alakazam and Mismagius, both of whom are OHKOed regardless of whether they switch or not. You can also use it to get rid of a weakened Chansey permanently should it attempt to flee. Pokemon who are threatened by these Pokemon, such as Venusaur, Rotom, and Moltres, value this kind of support. Bear in mind, however, that being locked into a weak move&mdash;not just Pursuit, but also Psycho Cut or Superpower after its Attack drop&mdash;can give your opponent the free turn they need to destroy your team.</p>
+
+<p>It is worth mentioning that Choice Scarf Absol can have some merit in the lead position, acting as an anti-lead that also has a strong presence later on in the game. With its strong STAB Night Slash, it can 2HKO Mesprit and less bulky Uxie, while Superpower allows it to beat Kabutops, Ambipom, and, to a certain extent, Omastar, although Absol is unlikely to 2HKO the last with Superpower. Night Slash scores an OHKO on Alakazam and a 2HKO on Qwilfish, and Pursuit can catch Alakazam attempting to flee. Psycho Cut's main target is Qwilfish, but you cannot OHKO it, so you may prefer Megahorn to improve Absol's chances of OHKOing Mesprit and 2HKOing bulky Uxie and Spiritomb leads.</p>
+
+[SET]
+name: Choice Band
+move 1: Sucker Punch
+move 2: Superpower
+move 3: Night Slash
+move 4: Pursuit
+item: Choice Band
+ability: Super Luck
+nature: Adamant
+evs: 252 Atk / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>Choice Band allows Absol to forgo Swords Dance and hit hard right off the bat. Absol is capable of reaching a whopping 591 Attack, making it a fierce competitor.</p>
+
+<p>Absol should generally always run Sucker Punch as it helps support its mediocre Speed and is Absol's strongest option to deal huge amounts of damage. However, it is well worth noting that locking yourself into Sucker Punch can be a very dangerous move if the opponent outpredicts and decides not to attack. Superpower is a great secondary option, as it allows Absol to deal super effective damage to Dark- and Steel-type Pokemon who resist Absol's STAB moves. The standard Steelix takes a minimum of 66% damage, meaning Absol can always 2HKO. Like on the Choice Scarf set, Pursuit is an excellent option to rid your team of Ghost-types and special walls. In this case, it is stronger against Chansey, and therefore carries less risk in case of a misprediction. However, it cannot be used to checkmate Rotom and Mismagius the way it can with the Choice Scarf set, though it is still quite effective against them. Night Slash is a reliable attack and serves as Absol's "safe" option on this set, since all three other moves have undesirable side-effects.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>While Choice Band Absol has more raw power than the Choice Scarf set, it still isn't quite strong enough to break the most defensive of Pokemon. Thus, the checks and counters of the Choice Band set are usually a mixture of those that resist its STAB attacks and those that are faster and can revenge kill. As this Absol will be switching a lot anyway, faster revenge killers are of less concern than with the Swords Dance set, and the defensive threats are mostly the same as those of the Choice Scarf set.</p>
+
+<p>Where Swords Dance Absol is meant to be a sweeper and Choice Scarf Absol a revenge killer, Choice Band Absol is generally best played in the role of wallbreaker, supporting the team by dealing massive damage to anything that switches in to pave the way for a sweep by another team member. With Stealth Rock support, defensive Pokemon such as Milotic and Donphan can be broken by the sheer power of Absol's STAB moves, paving the way for a sweep by a setup sweeper such as Swords Dance Scyther. Pursuit is also useful to rid you of a fleeing Chansey, meaning that special sweepers such as Nasty Plot Houndoom will have an easier time. Another point to take note of is that Choice Band Absol can lure in Fighting- and Steel-types quite easily, thus allowing you to immediately ascertain what threats your opponent is carrying to your sweepers. This is especially useful if Absol and your sweeper have similar checks; if you can manage to get rid of them with prediction, it can be very useful for your team. Nasty Plot Houndoom in particular values the absence of Fighting-types such as Hitmontop and Hariyama, as well as Milotic; in return, it can switch in on Will-O-Wisp from Weezing and Spiritomb directed at Absol.</p>
+
+[SET]
+name: Attacking Lead
+move 1: Night Slash
+move 2: Superpower
+move 3: Sucker Punch
+move 4: Pursuit / Taunt / Psycho Cut
+item: Focus Sash
+ability: Super Luck
+nature: Adamant
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Absol's combination of an outstanding Attack stat, high critical hit rate, superb coverage, access to a priority move (albeit the unreliable Sucker Punch), and trapping abilities allow it to function as an effective offensive lead. It takes some daring and knowledge of the metagame for Absol to flourish, but if used well, the rewards can be excellent. Absol also boasts the most powerful priority attack in the game, allowing it to function decently in the mid-game as well.</p>
+
+<p>Night Slash is a given. Backed by base 130 Attack, a boosting nature, STAB, and a 25% chance to score a critical hit, it is Absol's best general attack. Superpower gives Absol nearly unresisted coverage when paired with Night Slash, as well as hitting several common leads for super effective damage. Sucker Punch, despite its unreliability, allows Absol to threaten faster Pokemon and perform some revenge killing duties. The final slot is up to personal preference. Pursuit can trap opposing Pokemon attempting to switch out of a predicted Sucker Punch and immediately threaten some common leads, such as Alakazam and the pixies. Taunt is another option, stopping slower leads from setting up, as well as forcing them to attack and run right into Sucker Punch. However, Absol's base 75 Speed means it is less effective at stopping setup compared to faster Taunt users such as Alakazam and Ambipom. The final option in the last slot is Psycho Cut. Many Pokemon will attempt to bypass Absol's Sucker Punch with their own, faster, priority moves. Several common UU priority users such as Nidoking, Blaziken, and Toxicroak are hit super effectively by Psycho Cut. It is also Absol's best attack against Weezing, although physically defensive variants will still remain relatively unscathed.</p>
+
+<p>A Jolly nature is not recommended because Absol has priority to bypass its low Speed. Nonetheless, it is wise to invest in Speed because of the chance that your opponent might Trick a Choice Scarf onto Absol. With maximum investment, Absol makes good use of a Choice Scarf, outspeeding almost the entire unboosted metagame. However, one must be very careful of locking Absol into Sucker Punch.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Much of Absol's value as a lead stems from its ability to put the opponent under pressure. However, the same unpredictability that makes the opponent uncomfortable also makes Absol's best move unclear at times. Therefore, if you choose Absol as a lead, you must be prepared to take calculated risks. Some knowledge of the metagame is very helpful as well. For example, if your opponent leads with Moltres and it shows Life Orb recoil, it probably has Roost. On the other hand, if it doesn't show Life Orb recoil, it is probably carrying a Choice Scarf. This kind of knowledge will greatly aid your choice between Pursuit, Night Slash, and Sucker Punch.</p>
+
+<p>Like every lead, there are other leads that give Absol trouble. Ambipom and Hariyama are particularly troublesome, as they are capable of breaking Absol's Focus Sash with Fake Out and KOing it the next turn. Sleep-inducing Pokemon such as Venusaur and Jynx cause problems as well, while bulky leads such as Rhyperior and Cloyster can easily set up if Absol doesn't have Taunt. Having Pokemon that can deal with all these problems is recommended. Individually, Ambipom is walled by Steel- and Rock-types such as Steelix and Regirock, while Hariyama has trouble with Slowbro and Weezing. Both Ambipom and Hariyama also cannot get past Spiritomb, which can switch in for free on Fake Out. To deal with sleep, a RestTalk user is ideal, but any bulky Pokemon will suffice. Finally, because Absol cannot reliably stop other leads from putting up entry hazards, Rapid Spin support is useful. Hitmontop is a great choice, with access to Foresight to guarantee a successful Rapid Spin and Close Combat to hit bulky Spikes users, namely Cloyster and Omastar, super effectively. However, it is worth noting that suicide Cloyster and Omastar leads can be knocked out by a Night Slash followed by a Superpower.</p>
+
+[Other Options]
+
+<p>One of the main problems with Absol's Swords Dance set is that it suffers from having too few moveslots for all of Absol's necessary options. Therefore, if you want, you can remove Swords Dance from the set altogether and run a simple Life Orb attacker set, relying on Absol's immense power&mdash;even without a boost&mdash;and benefiting fully from the coverage granted by Absol's movepool without being locked into a single move. By doing this, you are able to run both Night Slash and Psycho Cut alongside Sucker Punch and Superpower or include another option such as Megahorn or Pursuit. Without the power from Swords Dance, Absol won't be sweeping teams, but in exchange it can hit hard off the bat and punch holes into any walls who try to absorb the blows. It should generally function similarly to the Choice Band set, but with the added ability to act as a potential late-game cleaner should the need arise.</p>
+
+<p>Megahorn is a powerful weapon that can OHKO Tangrowth after a Swords Dance, something few physical sweepers without a super effective STAB can boast. It is stronger than a STAB Night Slash against neutral opponents, and, besides low accuracy, has no detrimental side-effect. However, Megahorn is a lesser option since Night Slash has the ability to effectively hit Rotom and Mismagius. Stone Edge is extremely strong against Flying-types, but for the most part its coverage is redundant or inconsequential. Zen Headbutt has 10 more Base Power than Psycho Cut, but the latter's higher critical hit rate and better accuracy make up for the slight power drop.</p>
+
+<p>Taunt may seem a poor option on something as frail as Absol; indeed, its uses are mostly situational. However, if you are especially worried about status attacks, it can completely shut down Spiritomb and turn it into setup fodder. Weezing can also be shut down unless it attacks off the bat (since Sludge Bomb will deal decent damage to Absol). However, despite Absol's big weakness to status effects, Taunt's utility is fairly limited, as revenge killing is a far more popular way of dealing with Absol. Absol is also capable of Baton Passing Mean Look, Swords Dance, Calm Mind, and Curse. Baton Passing Mean Look is one of Absol's few niches compared to the rest of the UU Baton Passers. Swords Dance is better left to Scyther, while Hypno and Mr. Mime pass Calm Mind much better than Absol. It is one of the few Pokemon who can Baton Pass Curse as well, but there are still better choices for this job.</p>
+
+<p>Will-O-Wisp can burn opponents while Thunder Wave can cripple some fast sweepers. Perish Song can be used to ruin Baton Pass chains as well. Absol can also learn Wish as a NYPC move, but it is illegal with many of Absol's Egg moves. You are probably better off using a bulkier Pokemon if you are set on using these moves, as even with defensive investment, Absol can barely survive neutral hits.</p>
+
+<p>Since Absol will only ever be used as a sweeper and cannot take a hit from anything, max Attack and Speed are essential to maximize its chances of a successful sweep. This leaves 4 EVs unaccounted for, and while it may seem irrelevant where you place them, 4 HP Absol reaches 272 HP, which is divisible by 4, 8, and 16, which means that Absol will take more damage from residual damage such as Stealth Rock and Spikes. This is of concern on the Choice sets in particular, where a lot of switching is likely, since Absol will faint upon 8 switch-ins to Stealth Rock rather than 9. To avoid this, place the last 4 EVs in the defensive stat of your choice&mdash;which one you choose is largely irrelevant, but putting them in Special Defense ensures Porygon2 won't get a Special Attack boost from Download. Another point that should be considered is that with a 29 HP IV, Absol takes less damage from Life Orb, and thus after three attacks and beyond, a Life Orb Absol with a 29 HP IV will have more HP remaining than one with a 31 HP IV.</p>
+
+[Checks and Counters]
+
+<p>Hitmontop with Intimidate is a good Absol counter. It isn't OHKOed by Sucker Punch and can do heavy damage in return with Mach Punch or Close Combat. It must be wary of Psycho Cut, though, as it will do massive damage even with Intimidate factored in. Hariyama resists Absol's Dark-type attacks, rubs off Superpower, and can threaten to OHKO Absol with Force Palm or Close Combat. However, a Swords Dance-boosted Psycho Cut will OHKO Hariyama. Drapion resists Sucker Punch and is immune to Psycho Cut, and the only concern Drapion should have is a Swords Dance-boosted Superpower. Unfortunately, Drapion cannot OHKO Absol without resorting to a niche move such as Brick Break or X-Scissor. Fighting-types with Mach Punch make most Absol think twice before retaliating. Hitmonlee and Hitmonchan work best as both of them are faster than Absol and can use their strong Fighting-type attacks to OHKO it. Blaziken can revenge kill Absol with Vacuum Wave, as it can survive a boosted Sucker Punch, but just barely. Steelix, Rhyperior, and Regirock can survive an unboosted Superpower and retaliate with Earthquake or Stone Edge.</p>
+
+<p>There are a couple of Pokemon who, while not having the resistances for the job, can attempt to thwart Absol by means of sheer defensive stats and the strength of their secondary moves. Chief among these are Spiritomb and Weezing, who can cripple Absol for the rest of the game with Will-O-Wisp. Be wary, though, since Weezing will take massive damage from a Swords Dance-boosted Psycho Cut. Tangrowth can actually survive two Night Slashes if Absol gets a low damage roll, cripple Absol with Stun Spore or Sleep Powder, or else simply eliminate Absol with STAB Leaf Storm or Power Whip. Leafeon is less defensive than Tangrowth, but is faster than Absol and can take a Night Slash. Milotic is similarly bulky and can use Haze to remove boosts, but Absol will be able to do massive damage if Milotic mispredicts. Offensive Milotic outruns Absol and can do large amounts of damage with Hydro Pump, but is OHKOed by boosted Sucker Punch. Lastly, Donphan can take an attack and hit back with Earthquake or use Ice Shard to pick off a weakened Absol.</p>
+
+<p>In reality, it is rather difficult to switch into Absol with "prediction". After a Swords Dance, Absol can severely damage many of its counters while outpacing a lot of them. The best strategy to take down Absol is to target its two key vulnerable points: its defenses and its Speed stat. Pokemon who use Substitute and are faster than Absol can basically force Absol to use Sucker Punch to get the KO, meaning you can get a free Substitute up to block Sucker Punch damage. For example, Alakazam can threaten to OHKO Absol with a powerful super effective Signal Beam, use Substitute when Absol uses Sucker Punch, and proceed to OHKO Absol from behind its Substitute. Dugtrio can employ a similar strategy with Substitute and Earthquake. Other methods of dodging Sucker Punch include Swellow's and Scyther's Quick Attack, Venusaur's Sleep Powder, and Mismagius's Will-O-Wisp.</p>

@@ -1,0 +1,71 @@
+[Overview]
+
+<p>Vaporeon is probably the best team player of all the Water-types, thanks to Wish and Baton Pass. Its stats are high all-round, and with Haze and Water Absorb, it makes one of the best Suicune counters. Along with the bulkiest Substitutes in the game, Vaporeon can also pass Wish and Acid Armor, which makes it a great asset to Baton Pass chains.</p>
+
+[SET]
+name: Substitute + WishPass
+move 1: Surf
+move 2: Substitute
+move 3: Wish
+move 4: Baton Pass
+item: Leftovers
+nature: Bold
+evs: 248 HP / 228 Def / 32 SpD
+
+[SET COMMENTS]
+
+<p>Vaporeon is an incredibly durable Baton Passer; it can switch into Metagross to support teammates or heal itself. It must heal off any damage taken before switching out or Baton Passing to a teammate, however, as it will otherwise lose the ability to repeatedly switch in and pass Substitute and Wish. Vaporeon's Substitute has more than 100 HP, so Seismic Toss will not break it. This Vaporeon combines nicely with heavy hitters, as they will have more turns to hurt their counters or set up and sweep; examples are Gengar, Heracross, and Rhydon.</p>
+
+[SET]
+name: Wall
+move 1: Surf
+move 2: Wish
+move 3: Protect
+move 4: Toxic / Ice Beam
+item: Leftovers
+nature: Bold
+evs: 252 HP / 228 Def / 28 SpD
+
+[SET COMMENTS]
+
+<p>This set is easier to keep alive and dishes out more diverse damage. Wish + Protect forms a makeshift Recover for Vaporeon, and allows it to heal its teammates too. Protect further eases prediction against Choice users and, in conjunction with Toxic, helps Vaporeon stall out threats that can't 2HKO it.</p>
+
+<p>The given EV spread lets Vaporeon survive two hits from Choice Band Salamence, which allows it to switch in with ease and OHKO back with Ice Beam.</p>
+
+[SET]
+name: Phazer
+move 1: Surf
+move 2: Haze / Roar
+move 3: Wish
+move 4: Ice Beam / Protect / Toxic
+item: Leftovers
+nature: Bold
+evs: 252 HP / 228 Def / 28 SpD
+
+[SET COMMENTS]
+
+<p>Haze provides more security against Suicune, as Suicune is faster and can Roar Vaporeon away before the latter can do the same to it; Haze also works against Soundproof Pokemon. However, with Roar, Vaporeon can blow away Substitutes and inflict Spikes damage on opponents. Several moves are viable in the last moveslot: Ice Beam destroys Dragon-types such as Salamence, Protect eases prediction and pairs well with Wish, while Toxic cripples walls that lack Rest or Natural Cure.</p>
+
+[SET]
+name: Acid Armor + Baton Pass
+move 1: Acid Armor
+move 2: Baton Pass
+move 3: Roar
+move 4: Substitute / Wish
+item: Leftovers
+nature: Bold / Calm
+evs: 252 HP / 228 Def / 28 SpD
+
+[SET COMMENTS]
+
+<p>This set works best on a dedicated Baton Pass team. Acid Armor allows Vaporeon's teammates to set up on powerful physical attackers such as Salamence and Snorlax. With Acid Armor, Vaporeon also becomes the next best counter to Choice Band users outside of Scizor and Mawile. Substitute is preferred in the fourth moveslot for its general utility, especially if you have another Wish user such as Celebi for a teammate; Vaporeon's ability to pass Substitutes that stand up to Seismic Toss is another major plus. However, if you don't have a team slot to spare for a Wish user, then Vaporeon itself can run Wish over Substitute.</p>
+
+[Other Options]
+
+<p>Charm can frustrate physical sweepers with Curse and Dragon Dance. Rest is not as support-oriented as Wish is, but Vaporeon is crippled by status otherwise, so it's a viable option. Vaporeon can also Baton Pass Curse boosts. Hidden Power Electric is the only way Vaporeon can beat Taunt Gyarados, and it also helps against other Water-types as Vaporeon does have a respectable Special Attack stat to work with. A Modest nature is an option on sets with Ice Beam or Hidden Power Electric if you feel Vaporeon needs the extra power. Wish + Baton Pass sets can also run a Relaxed nature with a Speed IV of 0 so that Vaporeon can take a hit and allow a frail sweeper to switch in safely.</p>
+
+[Checks and Counters]
+
+<p>Gyarados can Taunt Vaporeon and set up Dragon Dance with little risk to itself, unless Vaporeon has Hidden Power Electric. Quagsire is immune to Surf thanks to Water Absorb and can set up Curse against sets that lack Haze or Roar. As Tentacruel has high Special Defense and resists both Surf and Ice Beam, it can set up Swords Dance easily. Snorlax can set up Curse boosts on Vaporeon with ease or just wall its hits and prevent it from successfully passing a Substitute. Celebi can set up Calm Mind in Vaporeon's face and Baton Pass to a recipient of its own, or slam it with boosted special attacks. Suicune too can Calm Mind up and Roar out Vaporeon, but unless Spikes are down, Vaporeon can just come right back in and wall mono-attacking Suicune.</p>
+
+<p>Lanturn resists Surf and Ice Beam and has STAB Thunderbolt to smack Vaporeon with. Raikou, Jolteon, and Zapdos can easily 2HKO it too; Zapdos has to watch out for Ice Beam if it doesn't invest heavily in Special Defense, however. Porygon2 has the stats to take Ice Beams easily, can Trace Water Absorb to make Surf less than useless, and can nail Vaporeon with Thunderbolt. Trace Gardevoir functions similarly, except it has Wish over Recover, and can set up Calm Mind. Venusaur and Meganium can take on sets without Ice Beam if they have a Grass-type move to smack Vaporeon with. However, all of the Pokemon listed above need to be wary of Vaporeon Baton Passing to a counter as they switch in.</p>

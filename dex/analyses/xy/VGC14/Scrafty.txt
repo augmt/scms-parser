@@ -1,0 +1,58 @@
+Overview
+########
+
+This generation has been a mixed blessing for Scrafty. On one hand, Scrafty can now use Assault Vest, which greatly increases its defensive capabilities. This, combined with the fact that it is one of the only Intimidate Pokémon that has access to Fake Out, makes it a premier choice for stalling out setup sweepers, early- or late-game. However, there is one thing that has been introduced which severely hurts Scrafty: the Fairy type. Fairy-type Pokémon and moves are able to hit Scrafty for 4x super effective damage, and it can't do much back at them considering its lackluster offenses. Nevertheless, Scrafty should not be taken lightly, for it's still one of the best anti-lead Pokémon.
+
+Fake Out
+########
+name: Fake Out
+move 1: Fake Out
+move 2: Drain Punch
+move 3: Crunch
+move 4: Detect / Ice Punch / Stone Edge
+ability: Intimidate
+item: Lum Berry / Assault Vest
+evs: 252 HP / 244 Atk / 12 Def
+nature: Adamant / Brave
+
+Moves
+========
+
+This move lineup takes the best Scrafty has to offer and puts it all together for a nice Fake Out set. Fake Out is very useful at temporarily postponing the opponent's attempts to set up during the first turn, as well as stalling out passive damage from status and weather. Drain Punch is the primary STAB of choice, helping Scrafty prolong its lifespan while still dealing respectable damage. If a Fighting-type move is not the most optimal choice to use, Crunch is the secondary STAB that can hit Ghost- and Psychic-types.
+
+The last moveslot is down to what you prefer and/or what your team needs. Detect is the protection of choice, as it shields Scrafty from damage while is also able to escape many attempts at Imprisonment. If protection is not a concern, Ice Punch is the elemental punch of choice, covering Scrafty's Flying-type weakness and giving it nice overall coverage. Stone Edge can be used for handling Talonflame and Mega Charizard if they are a major concern. Lastly, Quick Guard is useful for blocking Talonflame's priority Brave Bird, although it doesn't have much use besides that.
+
+Set Details
+========
+
+The EV investment is fairly straightforward. Scrafty is fairly slow, and investing in Speed won't allow it to reach any significantly higher speed tiers; therefore, there is no need to invest in Speed. Most of the EVs therefore go into Scrafty's HP and Attack. However, there are also 12 EVs invested into Defense. This is to ensure that Scrafty can survive a Brave Bird from max Attack Choice Band Talonflame after an Intimidate. A Brave nature can also be used if you intend to run a Trick Room-oriented team.
+
+The choice of item largely depends on what is necessary for your team. A Lum Berry can help against the burns that limit Scrafty's power, and it is also a great answer to Smeargle. However, if status is not a problem, Assault Vest is a viable alternative for expanding Scrafty's special bulk. Keep in mind that running Assault Vest sacrifices the ability to use Detect.
+
+Usage Tips
+========
+
+Scrafty, as the set name implies, excels at hindering the opponents with Intimidate and Fake Out. Therefore, using the aforementioned two correctly is strongly advised. It is important to know when to use Scrafty as an Intimidate lead and when to use it as a backup plan for physical sweepers. If you are anticipating one of the opponent's Pokemon to pack its own Fake Out, don't send out Scrafty first. The opponent will target Scrafty, and you will lose the Fake Out war due to Scrafty's low Speed. Likewise, it is important to know exactly which Pokemon should be held back with Fake Out. One wrong prediction, and Scrafty is essentially running only three moves until it switches out. Speaking of switching out, Scrafty can be switched in and out of battle multiple times if need be. This is especially useful if you want to use Intimidate and/or Fake Out multiple times.
+
+Team Options
+========
+
+Scrafty is a naturally slow Pokemon, sitting at a below-average base 50 Speed, and thus Trick Room is a viable strategy to run. Pokemon that use it well include Aromatisse, Reuniclus, and Slowbro. Scrafty does not have the desired sky-high offenses, so Pokemon that can remedy this with high offenses of their own and benefit from Fake Out and Intimidate also make for excellent partners, with Mega Charizard Y, Mega Kangaskhan, and Choice Gardevoir being notable examples. Finally, Aegislash deserves a special mention, as it resists all of Scrafty's weaknesses and hits hard in return, while Scrafty covers its Dark and Ghost weaknesses.
+
+Other Options
+########
+
+A Sitrus Berry is useful in prolonging Scrafty's lifespan, but Drain Punch heals plenty of damage already, and the times that Sitrus Berry does activate, it is usually too late to take effect. A Roseli Berry can mitigate the Fairy weakness, but many Fairies and Fairy-type moves would still KO Scrafty. Instead of Intimidate, Scrafty can run Shed Skin in order to manually clear itself of unwanted status. This is not recommended, as Scrafty is not intended to be a setup sweeper. Being afflicted with status will have no effect upon Intimidate or Fake Out's purpose. Moxie can be used to increase Scrafty's power, but it is generally inferior for the aforementioned reasons. Instead of running Drain Punch, High Jump Kick can be used for nabbing the OHKO on Mega Kangaskhan not invested in HP, as most of them lack Protect. Take caution when doing this, because with a shaky 90 accuracy, one miss might end you. Finally, Taunt can shut down support Pokémon and force Aegislash to switch out. That does, however, mean that Scrafty loses out on coverage moves and Protect
+
+Checks & Counters
+########
+
+**Fairy-types**: With its 4x weakness to Fairy-types, Pokémon such as Azumarill, Mawile, and Gardevoir can easily KO Scrafty in one hit, even when it is sporting an Assault Vest.
+
+**Conkeldurr**: Conkeldurr is bulky enough to take a hit and strong enough to deal huge amounts of damage with Hammer Arm. It can then finish Scrafty off with Mach Punch.
+
+**Gyarados**: Gyarados can spam Waterfall, and Scrafty isn't able to do much in return unless it runs Thunder Punch, which isn't recommended. Mega Gyarados, however, is not as problematic, since its typing changes entirely into Scrafty's favor.
+
+**Talonflame**: With priority Flying-type moves, Talonflame can easily 2HKO Scrafty after an Intimidate, and it doesn't take much damage from its coverage moves either.
+
+**Will-O-Wisp and Intimidate*: Will-O-Wisp and opposing Intimidate, as well as any other move or ability that lower Scrafty's Attack, greatly hinder its offensive capabilities.

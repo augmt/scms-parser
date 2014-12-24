@@ -1,0 +1,67 @@
+Overview
+########
+
+In previous generations, Mawile was always a disappointing package of a Pokemon, with cool abilities and an interesting movepool but without the tools needed to use them due to its horrid base stat total. Gen 6 was awfully kind to Mawile however, giving it a very useful secondary typing in Fairy and a Mega Evolution that boosts its Attack to obscene levels with not only a stat boost but the coveted Huge Power. Life isn't perfect for Mawile, as its two weaknesses are both extremely common, it's painfully slow, and it's plagued by the common Intimidate and Will-O-Wisp, but it's more than powerful enough to pull its weight. Mawile is now a Pokemon whose useful defensive typing, possession of Intimidate before Mega Evolution, and Attack stat that makes Kyurem-B blush post-Mega Evolution has it sitting pretty as one of the ruleset's best Pokemon.
+
+Mega Attacker
+########
+name: Mega Attacker
+move 1: Play Rough
+move 2: Sucker Punch
+move 3: Iron Head
+move 4: Protect
+ability: Intimidate
+item: Mawilite
+evs: 252 HP / 252 Atk / 4 SpD
+nature: Adamant
+
+Moves
+========
+
+Play Rough is Mega Mawile's most powerful STAB attack and should be relied on primarily to lay down the hurt. Sucker Punch allows Mega Mawile to bypass its bad Speed for a modest hit if it can guess its opponent's moves correctly. Iron Head provides a secondary and 100% accurate STAB attack, making it very useful despite having rather poor coverage with Play Rough. Protect is too fantastic a move to give up, letting Mawile dodge double targets and allowing Mawile's partner to dispose of Pokemon that threaten it.
+
+Set Details
+========
+
+Intimidate is among the best abilities in the game and makes Mawile a good team player before it Mega Evolves, cushioning physical attacks for both it and its teammates. The EV spread is simple; Attack is maximized with the rest dumped into HP to give Mawile the best possible bulk. Mega Mawile hits a breathtaking 344 Attack with maximum investment, but even with little investment, it can still OHKO frail threats and Pokemon hit for super effective damage. If you find the extra damage unnecessary, feel free to take EVs out of Attack, though be warned that you essentially lose two Attack points for every one you gain in another stat. Below are a few useful investment benchmarks. Use whatever sounds useful based off your other team members:
+
+<ul>
+<li>44 Defense allows you to always survive Adamant Choice Band Talonflame's -1 Flare Blitz.</li>
+<li>36 SpDef allows Mawile to never be 2HKOed by uninvested neutral-natured Rotom-W's Hydro Pump and survive Timid Chandelure's max Special Attack Heat Wave.</li>
+<li>124 SpDef allows Mawile to never be OHKOed by max Special Attack Modest Chandelure's Heat Wave.</li>
+<li>148 SpDef allows Mawile to never be OHKOed by Modest max Special Attack Life Orb Tyranitar's Fire Blast or be 2HKOed by max Special Attack Modest Rotom-W's Thunderbolt.</li>
+<li>204 SpDef allows Mawile to always survive Modest Mega Charizard Y's Heat Wave when the sun is down.</li>
+</ul>
+No matter the investment however, so long as Mawile keeps the Adamant nature, it should maintain OHKOs on 4 HP Garchomp, 252 HP Tyranitar, and 4 HP Salamence, even after Salamence's Intimidate.
+
+Of course, Mega Mawile is very slow, so if you wish to use it alongside a Trick Room inducer, giving it a Speed IV of 0 and a Brave nature can work. Just beware that neutral-natured Amoonguss with no investment will be able to outrun and Spore Mawile outside of Trick Room if you do this.
+
+Usage Tips
+========
+
+Don't feel pressured to Mega Evolve as soon as Mawile hits the field. In fact, it's recommend you Mega Evolve only when you need to attack. Intimidate is a very, very useful ability, and preserving it throughout the game is very useful. On the subject of preserving your Mega Evolution, it's recommended you preserve Mawile until your opponent's most serious threats to it are seriously incapacitated or KOed. With its two major weaknesses gone, Mawile's power is something scary late-game.
+
+Mawile on its own, despite being so powerful, is still a slow Pokemon firing off single target attacks and it enjoys team support to operate at maximum efficiency. Trick Room is a welcomed form of speed control, as it allows Mawile to deal damage first without relying on the iffy Sucker Punch. Other forms of disruptive support like Rage Powder and Fake Out are also very welcome, narrowing the situation down for Mawile, if only for one turn with Fake Out.
+
+Team Options
+========
+
+Salamence is an amazing partner for Mawile. The two of them generate frequent switch-in opportunities for each other and cover each other's weaknesses perfectly. Between the two of them, they only share four neutralities. Choice Scarf Salamence in particular can snipe a lot of the Pokemon that give Mawile trouble with its immediate Speed and power. Moreover, as both Pokemon have Intimidate, the combination can punish most physical attackers brutally. Rotom-H is a great answer to Mega Charizard Y and Talonflame, which Mawile enjoys not having to deal with. Tyranitar also helps a lot against Mega Charizard Y and Talonflame with Sand Stream and Rock Slide, though neither Tyranitar nor Mawile are very comfortable around Garchomp. Aromatisse can set up Trick Room and make Mawile really dangerous. It also provides some valuable chip damage with Dazzling Gleam that pushes a lot of 2HKOs on things like Rotom-W into OHKOs. Despite sharing a typing, Mawile and Aromatisse actually have fair defensive synergy together. Finally, Amoonguss can redirect anything Rotom-W wants to do, allowing Mawile to operate in relative peace.
+
+Other Options
+########
+
+Mawile's typing occasionally gives it turns where neither opponent can do anything to it and a switch is fairly obvious. Mawile can take advantage of those turns by taking the time to use Substitute or Swords Dance and put some serious pressure on the opponent. Rock Slide provides Mawile with a way to maim Mega Charizard Y and Talonflame and damage Rotom-H, but it is very weak against most everything else. Intimidate is everywhere, so if you find enemy Intimidate drops to be a huge nuisance, you can experiment with Hyper Cutter, though you should really weigh the pros and cons before doing this because Intimidate is so fantastic. Finally, Mawile has little to damage Ferrothorn, so Fire Fang can be used. Just be aware you aren't getting much more that a hit on Ferrothorn using it.
+
+Checks & Counters
+########
+
+**Fire-types**: Fire-types resist Play Rough and Iron Head and can play around Sucker Punch. Rotom-H, Mega Charizard Y, and Talonflame are the biggest pains as they all have the potential to OHKO a max HP Mawile and can survive a Sucker Punch beforehand.
+
+**Will-O-Wisp**: Like just about every physical attacker in the tier, Mawile is plagued by Will-O-Wisp from the likes of Rotom-W, Rotom-H, Gourgeist, and even the occasional Talonflame. Burning a Mawile is a big step in disposing of it. Still, even when burned, it's essentially operating with its regular base 105 Attack stat, so be cautious.
+
+**Intimidate**: Mawile hates Intimidate from most any source. Enemy Mawile before they Mega Evolve are a pain, as are Gyarados and Mega Manetric. Even the Fairy-type-weak Salamence can get off an Intimidate, particularly on the opening turn, and then run away to safety. Krookodile gets a special mention as well, as despite also being weak to the Fairy-type, it threatens Mawile with a super effective Earthquake.
+
+**Steel-types**: Any Steel-type that doesn't gain a weakness to the Dark-type or neutrality to the Fairy-type or Iron Head from a secondary typing can manage alright against Mawile. Scizor and Ferrothorn (preferably with Iron Head over Gyro Ball) in particular are reasonable answers to Mawile. Just be cautious of the occasional Fire Fang.
+
+**Faster Pokemon with Super Effective Moves**: Even if they can't take a hit, Earthquake users such as Garchomp and Krookodile and things with alright Special Attack and Fire Blast can pose a major threat to Mawile, so long as they can outspeed it and survive a Sucker Punch.

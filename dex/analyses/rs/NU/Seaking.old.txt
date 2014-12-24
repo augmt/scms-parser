@@ -1,0 +1,56 @@
+[Overview]
+
+<p>Seaking is cool, but unfortunately bad. Still, it gets Megahorn, which makes it at least usable. Don't aim for this horn!</p>
+
+[SET]
+name: Rain Dance Sweeper
+move 1: Rain Dance
+move 2: Surf / Hydro Pump
+move 3: Megahorn
+move 4: Hidden Power Grass / Ice Beam
+item: Leftovers
+ability: Swift Swim
+nature: Mild
+evs: 184 Atk / 252 SpA / 72 Spe
+
+[SET COMMENTS]
+
+<p>Seaking has decent stats, but they are not high enough to do something. Rain Dance first, then hit everything with the 270 power Hydro Pump and Megahorn. Hidden Power Grass is probably best as the last move to hit enemy Waters, especially Quagsire, as Megahorn already deals with the Grass-types that Ice Beam normally covers, and there are no Dragons outside of the never used Altaria in UU.</p>
+
+[SET]
+name: Flail
+move 1: Agility
+move 2: Substitute / Endure
+move 3: Hydro Pump / Surf
+move 4: Flail
+item: Liechi Berry
+ability: Water Veil
+nature: Lonely
+evs: 252 Atk / 184 SpA / 72 Spe
+
+[SET COMMENTS]
+
+<p>Agility is the first move you should use. Then you either Substitute or Endure down to 1 HP to activate your Liechi Berry and power up Flail. Hydro Pump hits most of the physical walls--Aggron, Gligar, Golem, and Solrock--hard. You need Hydro Pump to have a guaranteed OHKO on min HP Gligar, and a nearly guaranteed OHKO on max HP Gligar. Hydro Pump will always OHKO max HP Aggron, but Surf never will. Both easily OHKO Golem, however. Solrock is usually OHKOed by Hydro Pump if it has max HP, but never by Surf.</p>
+
+[SET]
+name: Choice Band
+move 1: Megahorn
+move 2: Ice Beam / Double-Edge
+move 3: Hydro Pump
+move 4: Hidden Power Ground
+item: Choice Band
+ability: Water Veil
+nature: Lonely
+evs: 252 Atk / 148 SpA / 108 Spe
+
+[SET COMMENTS]
+
+<p>You can pick any physical Hidden Power really. Like many other underused Pokemon, Seaking is a nice Choice Bander. Megahorn everything in sight, attack with the other moves if something resistant comes. Hitting Jolteon with a Hidden Power Ground running off of a 466 Attack on the switch is cool, but like other Choice Banders, you need prediction.</p>
+
+[EVs]
+
+<p>You'll want to get 190 Speed (72 EVs) on Rain Dance or Agility sets, as this makes you faster than Electrode without a +Speed nature after your boost. Then just split the rest of the EVs into the attacking stats. You'll generally want a Lonely or Mild nature, as Seaking can really only take hits from enemy Waters.</p>
+
+[Checks and Counters]
+
+<p>Seaking has the advantage of hitting special walls with Megahorn. However, enemy Water-types like Walrein and Blastoise will still take Seaking's hits easily and wear it down because of its low defensive stats.</p>

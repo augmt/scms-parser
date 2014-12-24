@@ -1,0 +1,13 @@
+Defensive
+########
+name: Defensive
+move 1: Stealth Rock
+move 2: Recover
+move 3: Lava Plume
+move 4: Toxic
+ability: Flame Body
+item: Leftovers
+evs: 248 HP / 8 Def / 252 SpD
+nature: Bold
+
+This is a sample set while we are currently working on analyses in the workshop.

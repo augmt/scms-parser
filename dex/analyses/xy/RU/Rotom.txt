@@ -1,0 +1,88 @@
+Overview
+########
+
+Even though Rotom's STAB attacks have great coverage, its low 95 Special Attack makes it unable to sweep teams. It also doesn't have a very wide movepool aside from its STAB moves. Besides its HP, Rotom's stats are decent, allowing it to play different roles succesfully in the metagame. It has a good typing, with only three weaknesses, and thanks to its ability Levitate, it loses a weakness to Ground-type moves, effectively having only two weaknesses. Rotom's Ghost typing grants it an immunity to Fighting- and Normal-type moves, such as Rapid Spin. Rotom has access to Volt Switch, which is a great way for it to gain momentum. However, Rotom faces competition from Mismagius as a fast spinblocker.
+
+Choice Scarf
+########
+name: Choice Scarf
+move 1: Volt Switch
+move 2: Thunderbolt
+move 3: Shadow Ball
+move 4: Trick
+ability: Levitate
+item: Choice Scarf
+evs: 4 HP / 252 SpA / 252 Spe
+nature: Timid
+
+Moves
+========
+
+Volt Switch is a good STAB option that allows Rotom to switch out of non Ground-types and helps it gain momentum. Thunderbolt is the most powerful STAB option for Rotom, and it is the best move to use to clean up thanks to its high Base Power; also, unlike Volt Switch, it doesn't force Rotom out. Shadow Ball ensures that Rotom is not completely hopeless against Ground-types. It also grants excellent neutral coverage with Thunderbolt. Trick is a good move to stop a Pokemon from setting up or laying down entry hazards, such as Stealth Rock.
+
+Set Details
+========
+
+Maximum Speed EVs, a Timid nature, and Choice Scarf allow Rotom to outrun any opponent in RU, including Choice Scarf Moltres. 252 Special Attack EVs let Rotom hit harder and help it gain a KO with more ease. Levitate covers Rotom's weakness to Ground-type moves.
+
+Usage Tips
+========
+
+Switch Rotom in when one of its teammates has just been KOed so that it can revenge kill the opponent or use Volt Switch to deal some damage. However, using Rotom as a lead is also an effective way of using it; it can stop setup sweepers with Trick, or just Volt Switch out into a Pokemon that has an advantage over the opponent. Rotom also has a lot of switch-in opportunities thanks to its three immunties; however, recklessly switching Rotom in is not recommended. Be sure to watch out if the opponent has a Ground-type on their team, as Ground-types are immune to Thunderbolt and Volt Switch; furthermore, as Rotom will be forced to switch, the opponent will receive a free turn. Also, use Trick on setup sweepers, as it will force the sweeper to switch out; Trick can also be used on defensive Pokemon to cripple them.
+
+Team Options
+========
+
+Pokemon that can take out Dark-types easily, such as Gurdurr, make good partners, as Rotom can't take out Dark-types by itself. Another Pokemon with U-turn or Volt Switch will be a good partner, forming a core with Rotom. Also, Pokemon that can lay down entry hazards, such as Rhyperior and Accelgor, are quite useful, as they help Rotom gain a KO earlier. Aside from that, Rotom also blocks Rapid Spin, protecting the entry hazards. Wallbreakers such as Moltres or Clawitzer are also rather useful to wear down special walls. Moltres gets an exclusive mention, as it takes care of Doublade, which can easily take Rotom out with Shadow Sneak.
+
+SubSplit
+########
+name: SubSplit
+move 1: Substitute
+move 2: Pain Split
+move 3: Thunderbolt
+move 4: Shadow Ball
+ability: Levitate
+item: Life Orb
+evs: 4 Def / 252 SpA / 252 Spe
+nature: Timid
+
+Moves
+========
+
+Substitute stops status, is a great way to ensure a free turn if someone tries to use a status move on Rotom, and gives Rotom a cushion against quicker opponents, which is useful, as Rotom is pretty frail. Pain Split provides Rotom a bit of recovery and has great synergy with Substitute. Thunderbolt is a powerful attack that also has a chance to paralyze the opponent, sometimes granting Rotom free turns to set up a Substitute. Shadow Ball is also a good STAB move that can defeat Ghost-type Pokemon, which can check Rotom if they aren't dealt with. Will-O-Wisp can be used to let Rotom take physical hits more easily.
+
+Set Details
+========
+
+Life Orb powers up Rotom's attacks and is useful in combination with Pain Split. 252 Speed EVs with a Timid nature allow Rotom to outrun Pokemon such as Moltres. 252 Special Attack EVs allow Rotom to hit hard.
+
+Usage Tips
+========
+
+Thanks to its immunities, Rotom can be sent in when you predict your opponent will use an attack that Rotom is immune to. Its immunities also give Rotom the opportunity to set up Substitute or burn the incoming Pokemon if Rotom carries Will-O-Wisp. Watch out for Exploud's Boomburst, though, as it goes through Substitute and still hits Rotom thanks to Scrappy. If you predict the opponent will use Rapid Spin, switch Rotom in; it is immune to Rapid Spin and thus will stop the opponent from removing your entry hazards. Rotom can also switch in on walls such as Registeel and Alomomola, as it can set up a free Substitute. Rotom can also force quite some switches, so take advantage of that by setting up a free Substitute.
+
+Team Options
+========
+
+Any Pokemon that can beat Rotom's checks and counters, including Gurdurr, Shiftry and Cobalion, makes a good partner. Pokemon that hit targets that resist Rotom's dual STAB moves are good partners, such as Drapion, which hits Shiftry efficiently. Pokemon that set up Toxic Spikes, such as Qwilfish, are useful because Rotom blocks Rapid Spin, and Toxic Spikes allows it to stall out an enemy by Toxic damage and repeatedly setting up Substitutes.
+
+Other Options
+########
+
+Confuse Ray in combination with Thunder Wave is an option to prevent the enemy it from moving at times, though this strategy is extremely luck-reliant. Hidden Power Ice hits Ground-types, while Hidden Power Fire grants coverage against other types. Discharge could be used for a higher chance to paralyze the opponent, but if you need to do more damage, Thunderbolt is better. A dual screens set with Light Clay is decent too, as Rotom's good Speed allows it to set the screens up easily. Choice Specs is an option if you want Rotom to hit as hard as possible. Toxic can be used to inflict damage on the opponent that increases every turn it stays in.
+
+Checks & Counters
+########
+
+**Shiftry**: Rotom basically can't do anything to Shiftry, which resists Rotom's STAB moves and can easily OHKO it with Sucker Punch.
+
+**Spiritomb**: Spiritomb bypasses Rotom's Substitute because of Infiltrator, has access to Sucker Punch and Pursuit, and wears Rotom down quite easily.
+
+**Pursuit**: As Rotom is frail and weak to Dark-type moves, it is useless against opponents with a powerful Pursuit, such as Spiritomb, Drapion, and Escavalier.
+
+**Aromatisse**: Aromatisse can take Rotom's hits with ease and either set up on it or recover health back.
+
+**Bulky Attackers**: Bulky attackers, such as Rhyperior, Druddigon and Virizion, are solid checks, as they can take a hit or two and strike back with powerful attacks.
+
+**Heliolisk**: Heliolisk resists Rotom's dual STAB moves and can KO it easily with Surf.

@@ -1,0 +1,85 @@
+[Overview]
+
+<p>A decent Pokemon in NU play. Super Fang is really a great move, and Raticate learns some other handy moves that can catch opponents off guard, like Thunder Wave and Endeavor. In UU, it should be used with much more caution, and you shouldn't run the Choice Band set there because Stantler and others outclass it by far. In standard, it has no place except for novelty and for abusing Super Fang, as Swellow can do anything else it can do better. It's a lot of fun to use, but by no means a stellar Pokemon.</p>
+
+[SET]
+name: Endeavor
+move 1: Substitute / Endure
+move 2: Endeavor
+move 3: Shadow Ball
+move 4: Quick Attack / Return
+item: Salac Berry / Liechi Berry
+ability: Guts
+nature: Adamant / Jolly
+evs: 252 Atk / 252 Spe / 4 SpD
+
+[SET COMMENTS]
+
+<p>If you're not into Super Fang but you still want to guarantee some damage, use this set. Endure a hit or Substitute four times to get to 1 HP, then use Endeavor to get at least one opponent close to death. If you somehow made it out alive (for example by not letting your fourth Substitute break), finish off the opponent. Shadow Ball is for Ghosts, Quick Attack if you Endeavored an opponent with Mach Punch, Extreme Speed, Quick Attack, Fake Out or a similar first-priority move. A common mistake is to use Pursuit, in case the opponent switches to avoid death. If they do this, however, you should either Endeavor again (putting yet another Pokemon into the same situation), or Shadow Ball if you're expecting a Ghost.</p>
+
+<p>Because Raticate is already so fast, you could use a Liechi Berry instead of a Salac Berry so your Shadow Balls will do more damage. You really only want to use Return with Liechi Berry, otherwise the utility gained from Quick Attack at stopping high priority moves is greater than the damage gained from Liechi. A strategy to use with this set is to Endeavor before you've Substituted down all the way, and switch out (Raticate's HP is low enough that it messes up Pokemon even at half health), and then save him for later to really sweep, and just Endeavor at the end of your run (so it's like using Explosion on Agility Metagross). Raticate makes a decent cleaner.</p>
+
+<p>You might want to use 1 HP DV on Raticate so Endeavor does more damage when you aren't all the way down in health, but keeping your HP at max has the advantage of maybe letting Raticate take a (very weak) hit as it uses a regular Attack.</p>
+
+[SET]
+name: Reversal
+move 1: Substitute / Endure
+move 2: Reversal
+move 3: Shadow Ball
+move 4: Quick Attack / Return
+item: Salac Berry / Liechi Berry
+ability: Guts
+nature: Adamant / Jolly
+evs: 252 Atk / 252 Spe / 4 SpD
+
+[SET COMMENTS]
+
+<p>Reversal gives Raticate a better chance to sweep than Endeavor, but you give up a guaranteed way to bring any non-Ghost down to 1 HP.</p>
+
+[SET]
+name: Choice Band
+move 1: Return / Double-Edge
+move 2: Shadow Ball
+move 3: Super Fang / Hidden Power Fighting / Hidden Power Ground 
+move 4: Facade / Sleep Talk
+item: Choice Band
+ability: Guts
+nature: Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Raticate is not a bad Choice Bander per se, just outclassed anywhere but in NU and UU to an extent. Try to come in on Will-O-Wisp or Toxic to trigger Guts and Facade boosts, and sweep away. Shadow Ball keeps Gengar, Solrock, Shedinja and other Ghosts at bay, Hidden Power Ground does at least some damage to Steels and Rocks like Metagross, Golem and Tyranitar, and 2HKOs Aggron. You can use Hidden Power Fighting over Hidden Power Ground in UU to deal more damage to Cradily, and to have slightly better coverage if you predict wrong, but Hidden Power Ground doesn't lower your Speed. If you cannot catch a status effect, use Return as your main attack. Super Fang can be used if you're not sure about what move to use on the switch, it will damage about anything for 50% early on, so it will weaken most walls significantly.</p>
+
+[SET]
+name: Super Fang
+move 1: Return
+move 2: Super Fang
+move 3: Shadow Ball
+move 4: Thunder Wave
+item: Leftovers
+ability: Guts
+nature: Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Super Fang is Raticate's signature move, and it's a really good one, since it halves the opponent's current HP. This works on anything besides Ghosts, so try to predict those and Shadow Ball them. Thunder Wave can cripple a sweeper and maybe keep you alive for another turn. Finish off weakened opponents accordingly with Shadow Ball or Return. Use this set if you're using Raticate in standard, though it works in UU and NU as well.</p>
+
+[Other Options]
+
+<p> If you're using Raticate in standard you can try the fishy Thunderbolt or Thunder to hurt Skarmory, but Super Fang will probably do a nice job. Iron Tail hurts Solrock, Golem and Lunatone in UU, but is somewhat inaccurate, and two of these fall to Shadow Ball.</p>
+
+[EVs]
+
+<p>Raticate is not likely to live through any sort of decently powered attack, so you should just max Speed and Attack most of the time, dumping the last 4 EVs into HP UNLESS you're using Substitute with Endeavor or Reversal, in which case you should put it somewhere else. Otherwise you won't be able to use Substitute the fourth time to get to 1 HP.</p>
+
+[Checks and Counters]
+
+<p>In general, Raticate is so fragile it won't really take any hit without dying. Because of its dangerous Super Fang and Endeavor, it's hard to find a failsafe counter for it. That makes Raticate sound better than it is though, because Raticate doesn't counter anything by itself.</p>
+
+<p>In standard play, anything that can take a Normal hit can be considered a counter to Raticate. Good examples are Tyranitar, Metagross, Gengar, Dusclops, Skarmory, Weezing, Rhydon, Donphan, Steelix, Suicune, Forretress and Cloyster. Salamence and Gyarados make its life miserable with Intimidate too. However, Gengar, Salamence and Gyarados do not like to be Thunder Waved at all, and Gengar doesn't take Shadow Ball too lightly. All of these except Gengar and Dusclops should watch out for Super Fang. They also wall the Endeavor set somewhat, but Gengar takes massive damage from Shadow Ball (it's OHKOed if you have a Liechi Berry). Heracross, Machamp, and Hariyama totally kill Raticate if they get in on a Thunder Wave.</p>
+
+<p>In UU, Misdreavus and Shedinja beat Raticate the same way Gengar does in standard: by being immune to anything but Shadow Ball. Solrock and Lunatone have to watch out for Shadow Ball and Iron Tail, but will be fine most of the time. Golem is a foolproof Raticate counter, it can even Rock Blast through Substitutes, or eat a super effective Iron Tail and shrug it off. Sandslash and Gligar don't have too much trouble either with their great defense. Poliwrath can OHKO Raticate with Brick Break without taking much damage in return.</p>
+
+<p>In NU, beware of Sudowoodo, Magcargo, Nosepass, and Mawile, the only Normal resists. Nearly everything else will have quite some difficulty standing up to Choice Banded Returns or Facades, and you can wreak havoc with Super Fang as well. Pelipper and Tropius can withstand Raticate for a while if they have to, but like everything else they won't like Endeavor and Super Fang.</p>

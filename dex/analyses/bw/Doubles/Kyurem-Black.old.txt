@@ -1,0 +1,77 @@
+[Overview]
+
+<p>Kyurem-B is a monster in Doubles, which is to be expected from the Pokemon with the highest BST in the metagame. It is certainly intimidating on paper, with incredibly efficient 125 / 100 / 90 defensive stats alongside useful Electric- and Water-type resistances and a base 170 Attack. Unfortunately, there are numerous problems that make Kyurem-B difficult to build a team around and even more difficult to use properly. For starters, it has no physical Ice-type attacks bar the unreliable Freeze Shock, which means it has to fall back on its base 120 Special Attack when using Ice-type moves, which is only average at best. Then there is its double-edged Dragon / Ice typing, which in exchange for useful STAB on Ice- and Dragon-type moves leaves it weak to Steel-, Fighting-, Dragon-, and Rock-type attacks, all of which are common in the Doubles metagame. It also suffers from its base 95 Speed, which leaves it outsped by common threats such as Hydreigon, Latios, and Terrakion, making speed control required if you want non-Choice Scarf variants to see success. Finally, while its Attack is stellar, common abilities like Intimidate as well as burns will lower its offensive presence significantly. However, don't let these flaws discourage you from using Kyurem-B, as it can completely tear down opposing teams with the proper team support. For example, a common Defiant attacker such as Tornadus or Bisharp as a teammate can discourage Intimidate.<p>
+
+[SET]
+name: Mixed Attacker
+move 1: Dragon Claw
+move 2: Fusion Bolt
+move 3: Earth Power / Ice Beam
+move 4: Protect
+item: Life Orb / Dragon Gem
+nature: Naughty
+evs: 228 Atk / 44 SpA / 236 Spe
+
+[SET COMMENTS]
+
+<p>Due to how vast the special side of Kyurem-B's movepool is, it is not hard to see why a mixed attacking set is one of the most popular choices for Kyurem-B. Dragon Claw establishes itself as the Dragon-type STAB move of choice, as it is far more reliable than its more powerful counterpart and deals heavy damage to the majority of the metagame, especially opposing Dragon-types. However, Outrage is certainly a plausible option, as while it will hit a random opponent, it has 50% more power than Dragon Claw, allowing it to achieve KOs that Dragon Claw cannot. Fusion Bolt cements itself in the second slot, standing out as a method to hit Steel-types harder than Dragon Claw and deal super effective damage to bulky Water-types such as Suicune and Jellicent. Earth Power is preferred in the third slot, as it allows Kyurem-B to OHKO troublesome Steel-types, particularly Heatran. Earth Power also lands 2HKOs on the majority of other Steel-types, including Excadrill and Metagross that aren't holding Shuca Berry. However, Ice Beam is an alternative choice for the third slot, as it can hit threats such as Landorus-T and Shaymin-S for OHKOs. Protect is the obvious choice for the final slot, guarding Kyurem-B from dangerous priority attacks such as Bullet Punch and Mach Punch while its partner on the field does some damage.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The 44 Special Attack EVs allow Kyurem-B to always OHKO 252 HP Heatran and Excadrill with a Life Orb-boosted Earth Power. Meanwhile, 236 Speed EVs allow Kyurem-B to hit a nice Speed tier, outrunning Adamant Landorus-T and everything slower, including Jolly Breloom. If Kyurem-B uses Ice Beam instead of Earth Power, 20 Special Attack EVs can be used instead to guarantee the OHKO on 252 HP Landorus-T holding a Yache Berry. If for some reason you would like to run Kyurem-B on a Trick Room team, a Brave Nature with 236 HP EVs should be considered.</p>
+
+<p>Dragon Gem is an option over Life Orb to give Kyurem-B's Dragon-type STAB move more power. However, do take note that Kyurem-B cannot OHKO Heatran with Earth Power without the Life Orb boost, even if 252 Special Attack EVs are invested. Sitrus Berry is another option that can give Kyurem-B some extra bulk that turns many 2HKOs into 3HKOs, but Kyurem-B's large array of weaknesses and the fact that it will no longer achieve an OHKO on Heatran with Earth Power makes this choice heavily situational.</p>
+
+[SET]
+name: Choice Band
+move 1: Dragon Claw
+move 2: Fusion Bolt
+move 3: Outrage
+move 4: Ice Beam / Rock Slide
+item: Choice Band
+nature: Adamant
+evs: 32 HP / 252 Atk / 224 Spe
+
+[SET COMMENTS]
+
+<p>This set aims to use Choice Band to hit Pokemon really hard repeatedly. While at first glance this set seems gimmicky, Kyurem's massive base 170 Attack stat means even Steel-types like Metagross will lose half their health to Outrage. However, this set requires a lot of support to function at its best; Kyurem-B's large amount of weaknesses means that it can be sniped down easily, and the frequency of which Intimidate comes into effect reduces its efficiency. Fortunately, the only Intimidate users that cannot be OHKOed with proper prediction are Hitmontop and Scrafty, so they do not pose a major threat. In particular, Kyurem-B's excellent Water-type resistance makes this set a great threat to rain teams, especially when Kingdra and Steel-types are eliminated. The additional Electric-type resistance and Ice-type neutrality help it check various Electric-types such as Rotom-W and Thundurus to a fair extent, but it must be wary of Will-O-Wisp and Thunder Wave, respectively.</p>
+
+<p>Dragon Claw will be the primary STAB move of choice, especially when Steel-types have yet to be eliminated from play. Fusion Bolt hits bulky Water-types, especially Politoed, slightly harder than Outrage does and is more reliable. Outrage should generally be used only when the opponent's Steel-types or Kyurem-B checks have been eliminated, allowing Kyurem-B to dominate the playing field and deal massive damage to opponents. Ice Beam hits Landorus-T and provides Ice-type STAB while leaving Kyurem-B not completely vulnerable to burns and Intimidate; Rock Slide is a secondary option for a decent spread move, as Heatran already takes huge damage from Fusion Bolt and Outrage.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given spread allows Kyurem-B to outspeed Adamant Landorus-T and any Pokemon slower. Maximum Attack investment grants it more power and the remaining EVs are put into HP for more bulk. A bulky spread of 252 HP / 252 Atk / 4 SpD with an Adamant nature can be used with some speed control; the extra bulk can come in handy as it turns some 2HKOs into 3HKOs. This will also be useful on Trick Room teams. However, the Speed is still preferred in most cases because this set will usually be more "hit-and-run" than "bulky attacking". A fast spread of 4 HP / 252 Atk / 252 Spe with a Jolly nature can be used to outspeed opposing Kyurem and Kyurem-B as well as Jolly Landorus-T among other things.</p>
+
+<p>Choice Band Kyurem-B enjoys teammates that can dispose of the Steel-types that give it trouble. These include partners such as Heatran, Terrakion, Hitmontop, and Chandelure, which have powerful offensive capabilities to match Kyurem-B. Kyurem-B also enjoys teammates such as Tornadus, Cresselia, and Shaymin-S that can deal with Fighting-types. This set in particular has an intense hatred towards Intimidate, so partners with Defiant such as Tornadus and Bisharp make for great allies. Finally, speed control from partners such as Thundurus and Cresselia will help Kyurem-B move first, which is key in allowing it to outspeed faster Dragon-types such as Hydreigon, Latios, and Garchomp.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Dragon Claw
+move 2: Ice Beam
+move 3: Fusion Bolt
+move 4: Rock Slide / Earth Power
+item: Choice Scarf
+nature: Naughty
+evs: 252 Atk / 104 SpA / 152 Spe
+
+[SET COMMENTS]
+
+<p>Choice Scarf allows Kyurem-B to outspeed and demolish a large array of threats it normally cannot, such as Latios, Garchomp, Hydreigon, Tornadus, Thundurus, and more. Dragon Claw is the Dragon-type STAB move of choice; with the extra Speed from Choice Scarf, Kyurem-B can reliably OHKO threats such as Latios granted it gets a safe switch-in. Ice Beam provides Ice-type STAB and can take down threats such as Landorus-T and Shaymin-S. Fusion Bolt hits Tornadus and bulky Water-types such as Suicune and Jellicent for heavy damage. Rock Slide is useful as a spread move that has a chance to flinch the opponents, while Earth Power provides necessary coverage against Steel-types that would otherwise laugh at this set's attempts to hurt them.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given Speed investment allows Choice Scarf Kyurem-B to outspeed positive-natured base 130s. Maximum Attack investment and the rest of the EVs dumped into Special Attack maximize its offensive power. Because this set works around so many common threats, almost any Pokemon appreciates Kyurem-B's support. However, there are definitely some teammates that can help Kyurem-B out a lot; Tornadus and Bisharp with Defiant can deter Intimidate users from reducing Kyurem-B's offensive capabilities. Partners that can deal with Steel-types, such as Heatran, Chandelure, and Hitmontop are also useful so that Kyurem-B doesn't have to lock itself into Earth Power.</p>
+
+<p>This set hates opposing speed control a lot, so Taunt support or partners that can take down common users of Icy Wind and Trick Room will be very helpful. Some examples include Bisharp and Volcarona, which also takes down common Trick Room setters. Kyurem-B itself can usually defeat Thunder Wave Thundurus and common Tailwind setters, so they aren't as much of an issue.</p>
+
+[Other Options]
+
+<p>Berries that offer Kyurem-B some cushioning against its common weaknesses, such as Chople Berry and Haban Berry to soften Fighting-type and Dragon-type blows respectively, can be used to defeat some of its common checks, but these are very situational. A combination of Power Herb and Freeze Shock can allow Kyurem-B to run a completely physical set with a semi-reliable Ice STAB, but this lowers the power of its other moves. A Substitute set can be used to cushion Kyurem-B from blows and ease prediction; however, this strategy is not as effective in Doubles as compared to in singles.</p>
+
+<p>Kyurem-B has a wide movepool, which grants it access to other useful moves that are highly situational. Icy Wind is a good option in the Doubles metagame, performing as a useful mechanism for speed control that also receives a STAB boost. Focus Blast can be used as a coverage option; however, its shaky accuracy is undesirable and thus Earth Power is better suited to eliminate pesky Steel-types. Kyurem-B, with its massive bulk, has access to Light Screen and Reflect. Such as set can throw the opponent off-guard as compared to a common Dual Screens setter like Cresselia. Rest with a Chesto Berry can be used to give Kyurem-B another chance at life, giving it a second chance to sweep the opponent's team.</p>
+
+<p>There are some other gimmicky options that Kyurem-B can try, such as Blizzard spam with hail support, but this would be better performed by normal Kyurem. Kyurem-B has access to Imprison, which can mess up the opponent's strategy if any of their Pokemon happen to carry the same moves as Kyurem-B. Access to Sunny Day and Rain Dance can allow Kyurem-B to disrupt the opponent's weather strategy, especially if their weather setter has been defeated, but this moveslot can be put to better use.</p>
+
+[Checks and Counters]
+
+<p>Almost any Steel-type, such as Scizor, Metagross, and Excadrill, will be a nuisance. However, Kyurem-B is properly equipped to deal with Heatran with Earth Power. Fighting-types serve as good checks to Kyurem-B. These include Breloom, Hitmontop, Conkeldurr, and Terrakion. However, Terrakion needs to avoid the Choice Scarf set, and the others might have some trouble breaking through the bulky sets. Kyurem-B hates Intimidate and burns, as they decrease its offensive power. Landorus-T and Hitmontop are common Intimidate users that can decrease Kyurem-B's damage output, but Landorus-T must avoid Ice Beam. Faster Dragon-types can outspeed and KO Kyurem-B, but they need to have an opportunity to switch in before doing so and must avoid the Choice Scarf set. As a final note, Kyurem-B dislikes sand teams in general as it cannot endure too many Rock Slides.</p>

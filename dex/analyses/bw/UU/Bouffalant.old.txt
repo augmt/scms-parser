@@ -1,0 +1,67 @@
+[Overview]
+
+<p>With an excellent base Attack stat of 110, access to Reckless, and an exclusive recoil move in Head Charge, Bouffalant can hit extremely hard. Bouffalant can also use Swords Dance to boost its Attack stat to sky-high levels, letting it hit even harder. It takes care of the most common physical walls in the tier, at worst 2HKOing them, and can outspeed and Taunt them, preventing them from doing much back. While Reckless makes Bouffalant the powerhouse that it is, it also has access to Sap Sipper, giving it immunity Grass-type moves, including Leech Seed and, crucially, to the most common sleep-inducing move, Sleep Powder. With this, Bouffalant also receives a welcome boost to its Attack stat.</p>
+ 
+<p>In addition to these assets, Bouffalant has great bulk too, with base 95 in all three defensive stats; therefore it takes little damage from weak attacks, and with screen support, takes minimal damage even from the strongest moves. Despite these strengths, Bouffalant is weak to the common Fighting-type moves and is pretty slow, often ending up a sitting duck while setting up. Even with these minor flaws, Bouffalant is still a great wallbreaker and can sweep late-game.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Head Charge / Return
+move 3: Earthquake
+move 4: Wild Charge / Taunt / Megahorn
+item: Lum Berry / Leftovers
+ability: Reckless
+nature: Adamant
+evs: 252 HP / 252 Atk / 4 Def
+ 
+[SET COMMENTS]
+ 
+<p>Although Swords Dance may imply that this set is meant to sweep, it lacks the Speed to do so. Instead, Bouffalant can break slower Pokemon and walls, KOing them with ease with a Reckless-boosted Head Charge. Any Pokemon foolish enough to switch into a Head Charge from Bouffalant is going to bite the grass, and even if it resists the move, it is still going to take a lot of damage. The other moves compliment Head Charge well. Earthquake hits Rock- and Steel-types that resist Head Charge, while Wild Charge hits Mismagius and Aerodactyl, who resist Head Charge and Earthquake.</p>
+ 
+<p>Taunt renders walls who try to status Bouffalant useless, as they aren't powerful enough to do any significant damage back to Bouffalant. Megahorn hits Mew really hard, while also hitting Slowbro and Tangrowth slightly harder than Head Charge; it is capable of OHKOing Slowbro after a Swords Dance. You can also opt to use Sap Sipper over Reckless to gain immunity to the most common sleep-inducing move, Sleep Powder, and other Grass-type moves, which will raise Bouffalant's Attack stat. You can use Return over Head Charge if you opt to use Sap Sipper to avoid the recoil damage.</p>
+ 
+[ADDITIONAL COMMENTS]
+ 
+<p>The EVs listed let Bouffalant hit as hard and last as long as possible. Technician Hitmontop won't be able to OHKO Bouffalant with Mach Punch, even without EV investment in Defense, only 2HKOing it with some luck. Close Combat, however, OHKOes Bouffalant. An alternate EV spread of 132 HP / 252 Atk / 124 Spe can be used to outspeed some faster defensive Pokemon, such as Walrein and Hitmontop. If you want to outspeed Milotic, use 212 Speed EVs instead. To showcase Bouffalant's offensive capabilities, here are some damage calculations, all with the listed EVs, Reckless, and Swords Dance boost.</p>
+ 
+<ul class="damage_calculation">
+<li>Head Charge vs. 252/252+ Suicune 74.5% - 87.6%</li>
+<li>Head Charge vs. 252/252+ Slowbro 78.6% - 92.6%</li>
+<li>Head Charge vs. 252/252+ Zapdos 95.8% - 112.7%</li>
+<li>Head Charge vs. 252/252+ Snorlax 93.7% - 110.1%</li>
+<li>Head Charge vs. 252/252+ Hitmontop 112.5% - 132.6%</li>
+<li>Head Charge vs. 252/252+ Tangrowth 70.3% - 82.7%</li>
+<li>Head Charge vs. 252/252+ Milotic 97.7% - 114.7%</li>
+</ul>
+ 
+<p>Since you are faster than all of these Pokemon bar Suicune, Zapdos, Hitmontop, and Milotic, you will be able to Taunt them and get a Swords Dance boost. The choice of item is up to preference. Leftovers lets Bouffalant recover the recoil damage from Head Charge, while Lum Berry, the preferred choice, keeps you safe from status. Life Orb can also be used to hit harder, but it will wear Bouffalant down really quickly. As far as support goes, dual screens from Pokemon such as Uxie and Cresselia help Bouffalant to last longer. Psychic-types such as the aforementioned Pokemon make excellent teammates for Bouffalant, resisting the Fighting-type moves it is weak to. Behind screens, even Choice Band Heracross can't OHKO Bouffalant at full health. Entry hazards can help Bouffalant score some extra OHKOs. Roserade is a great teammate for Bouffalant, as it resists Fighting-type moves and can set up Toxic Spikes. In addition to screens, Uxie can set up Stealth Rock. Bulky Ghost- and Flying-types, such as Dusclops and Zapdos, help take Fighting-type moves directed at Bouffalant. Dark-types, such as Weavile and Zoroark, can help take down Ghost-types, which are immune to Head Charge. Zoroark's Illusion ability can help early on in the battle, letting it disguise itself as Bouffalant to lure out Ghost-types that predict a Head Charge.</p>
+ 
+<p>This set can also be used on a Trick Room team, with no alterations needed to the moveset. However, a Brave nature with 0 Speed IVs is needed to make Bouffalant as slow as possible. Even though Bouffalant becomes faster than most Pokemon with Trick Room in effect, it's still outrun by Pokemon such as Slowbro and Escavalier. Although Slowbro can't do much to Bouffalant, Escavalier can hit it hard. Pokemon that are good at setting up Trick Room are needed. Uxie and Slowbro do this well, and they also resist Fighting-type moves.</p>
+ 
+[SET]
+name: Choice Band
+move 1: Head Charge
+move 2: Earthquake
+move 3: Wild Charge / Pursuit
+move 4: Megahorn
+item: Choice Band
+ability: Reckless
+nature: Adamant
+evs: 252 HP / 252 Atk / 4 Def
+ 
+[SET COMMENTS]
+ 
+<p>This Bouffalant doesn't hit as hard as the Swords Dance version, but saves it the trouble of setting up and, even if it doesn't hit as hard, it does 2HKO the most common walls in the tier. Head Charge is your main move and deals heavy damage. Earthquake covers the Steel- and Rock-types that resist Head Charge, while Pursuit and Wild Charge hit Mismagius and Aerodactyl, who resist both Head Charge and Earthquake. Pursuit also punish fleeing opponents, especially frail sweepers. Megahorn is mostly a filler move, but hits Slowbro and Tangrowth slightly harder than Head Charge.</p>
+ 
+[ADDITIONAL COMMENTS]
+ 
+<p>The EVs do the same as for the Swords Dance set, except Bouffalant won't last as long without Leftovers, and without Lum Berry, is vulnerable to status. The same alternate EV spread of 132 HP / 252 Atk / 124 Spe can be applied to this set to outspeed some faster defensive Pokemon such as Walrein and Hitmontop. This allow Bouffalant to knock both of them out before they can do anything to it. If you want to outspeed Milotic, move 212 EVs to Speed. Support in form of entry hazards is needed, as Bouffalant won't hit as hard without Swords Dance. Once again, Roserade is a great teammate, as it can use Spikes and resists the Fighting-type moves to which Bouffalant is weak to. Screen support can help Bouffalant take some hits that would KO it otherwise. Uxie or other Psychic-types that can set up dual screens are good teammates as well, as they also resist Fighting-type moves. Bulky Flying- and Ghost-types make great teammates, as they can take super effective Fighting-type moves directed at Bouffalant. Dark-type Pokemon help by taking down Ghost-types, which can get in Bouffalant's way.</p>
+
+[Other Options]
+
+<p>Bouffalant doesn't have much else to use. Other moves it has access to are Retaliate, Iron Head, Poison Jab, Stone Edge, and Rock Slide, but they are inferior to the listed moves and don't cover anything the others don't. It can utilize its bulk to support a team, with access to both Sunny Day and Rain Dance, as well as Toxic, but there are several Pokemon that do this better. It also has access to Rest as its only form of recovery.</p>
+
+[Checks and Counters]
+
+<p>To counter Bouffalant, it's best to send out a faster Pokemon while it's setting up or if a Pokemon has fainted. Heracross can easily KO Bouffalant if Reflect isn't up, but it can't switch into a boosted Head Charge. Dusclops is a fine counter to Bouffalant and can burn it with Will-O-Wisp, but can't do much if Bouffalant Taunts it. Escavalier resists Head Charge and, if it carries a Choice Band and Bouffalant has suffered some damage, can OHKO with Megahorn. However, it's still 2HKOed by Head Charge, even with max HP. Cobalion also resists Head Charge, and can OHKO Bouffalant with Close Combat or Focus Blast, if Bouffalant has taken some damage before, but it needs to be wary of Earthquake.</p>

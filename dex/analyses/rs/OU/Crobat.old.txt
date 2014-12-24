@@ -1,0 +1,43 @@
+[Overview]
+
+<p>Crobat is best off with direct offense, in the form of the Choice Band set. Its amazing Speed makes it a great late-game cleaner, and its nice typing grants it several handy resistances, including 4x ones to Fighting and Bug. However, Crobat has huge problems with Steel-types, and should therefore be paired with Magneton.</p>
+
+[SET]
+name: Choice Band
+move 1: Sludge Bomb
+move 2: Aerial Ace
+move 3: Hidden Power Ground / Hidden Power Fighting
+move 4: Shadow Ball
+item: Choice Band
+nature: Jolly
+evs: 80 HP / 252 Atk / 176 Spe 
+ 
+[SET COMMENTS]
+
+<p>Sludge Bomb's nice 30% chance to cause poison allows Crobat to hurt its common opponents, such as Tyranitar, even if you mispredict. Hidden Power Fighting requires an imperfect Speed IV, which may cause you to lose the tie against opposing Crobat, so you'll have to use Hidden Power Ground if that's important.</p>
+
+<p>Maximize Attack, and hit at least 374 Speed to outspeed Alakazam and Sceptile. The rest of the EVs should go into Crobat's HP.</p>
+
+[SET]
+name: Sleep Talk
+move 1: Sleep Talk
+move 2: Whirlwind
+move 3: 
+move 4: 
+item: Leftovers
+nature: Jolly
+evs: 252 HP / 4 Def / 252 Spe
+ 
+[SET COMMENTS]
+
+<p>That's right, only two moves. The only way you will get this Crobat to work is by setting up three layers of Spikes, then getting Crobat put to sleep; it's highly specific, but effective. Sleep Talk negates Whirlwind's negative priority, and thanks to its immense Speed, Crobat will blow away anything that's slower--in other words, everything. Not only will this inflict massive Spikes damage, it will also force out opponents with Calm Mind, Curse, Swords Dance, and Substitute. However, beware of waking up too early. Rest is an option here if you don't want to rely on your opponent to put Crobat to sleep, but it will then be using Rest instead of Whirlwind 50% of the time.</p>
+
+<p>Maximize Speed and HP, and put the leftovers in Defense or Special Defense; it won't matter much.</p>
+
+[Other Options]
+
+<p>Crobat's Special Attack is high enough that it can use Giga Drain or Hidden Power Grass to dent Swampert and Rhydon on the switch; both are fairly common switch-ins on Sludge Bomb. Quick Attack seems to make little sense as Crobat has a base 130 Speed stat, but it will come as a godsend if you are being swept by a Reversal user, as Crobat can actually switch in on Reversal thanks to its 4x Fighting resistance.</p>
+
+[Checks and Counters]
+
+<p>Pokemon that resist or are immune to Sludge Bomb usually beat Crobat. There is absolutely no chance that Crobat will ever break past the likes of Swampert, Skarmory, Steelix, Weezing, Donphan, and Forretress. Suicune's high Defense lets it take Sludge Bomb well, and while Milotic's Defense isn't as good, Marvel Scale will make it even bulkier if Milotic is poisoned. Aerodactyl outruns most Crobat as they usually don't attempt maximum Speed, and can smash it with Rock Slide; if Crobat lacks Hidden Power Fighting, Tyranitar can do the same.</p>

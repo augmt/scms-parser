@@ -1,0 +1,53 @@
+[Overview]
+
+<p>Scolipede possesses overall mediocre stats bar a "selective" base 112 Speed, but such Speed is all it needs to function. With the departure of Deoxys-D, the position for a fast Spiker was vacant, and candidates to fill this role basically boil down to Accelgor and Scolipede. While each has its advantages, Scolipede boasts a STAB Megahorn, dealing massive amounts of damage to common Pokemon such as Tyranitar and Latios. Furthermore, it has a handy 4x resistance to Fighting, among other small perks. These are just enough to justify Scolipede's role on a team in a position you might otherwise save for Scizor.</p>
+
+[SET]
+name: Support
+move 1: Spikes
+move 2: Toxic Spikes
+move 3: Megahorn
+move 4: Earthquake / Rock Slide
+item: Life Orb
+nature: Jolly
+ability: Swarm
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Access to both Spikes and Toxic Spikes differentiates Scolipede from Accelgor and gives the former a rather specific niche. Offensive teams that need Spikes support for its sweepers can depend on Scolipede to get at least one layer up--two with clever playing, and possibly even three. Scolipede can also hit Taunt users hard with STAB Megahorn. Toxic Spikes support is just as easy, though offensive teams may not need them so much. The two moves in slots three and four give Scolipede an offensive presence: Megahorn can OHKO all offensive Tyranitar variants, and it has a chance to OHKO defensive ones as well, while Earthquake provides important coverage, hitting Steel-types such as Heatran. If Scolipede is using Toxic Spikes, consider swapping out Earthquake for Rock Slide, which covers the Flying-types that resist Megahorn; if not, then using Rock Slide over Toxic Spikes for coverage alongside Megahorn and Earthquake would be ideal.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Life Orb is probably the best item as it allows Scolipede to net OHKOs on most Tyranitar variants. However, if you are leading with Scolipede, Focus Sash is an option to guarantee at least one layer of Spikes on the field. The last item to be considered is Leftovers--this is somewhat ineffective though, since Scolipede isn't meant to tank multiple hits.</p>
+
+<p>Pursuit is an option over Toxic Spikes, since with it Scolipede can trap Latios and Latias pretty well, dealing around 75% if they are switching. If no offensive presence is necessary, Scolipede can run 252 EVs in HP instead of Attack; however, this is a significant drop in power, as Scolipede will no longer be able to 2HKO Reuniclus. Speaking of the Psychic jelly, a Reuniclus of your own will benefit greatly from Toxic Spikes, as Calm Mind variants in particular will be able to stall out Blissey and other special walls while boosting. Volcarona is another Pokemon that likes Scolipede, as Scolipede is able to soak up Toxic Spikes and provide hazards to soften up the opponent. Heatran is helpful in that it absorbs the Fire-type moves aimed at Scolipede and can set up Stealth Rock. Strong special attackers will also capitalize on the extra damage Spikes attains, leading to quicker KOs. Likewise, scouting Pokemon, such as U-turn Scizor, can force the necessary switches so Spikes can break apart the opponent's team.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Megahorn
+move 3: Earthquake
+move 4: Baton Pass / Rock Slide
+item: Life Orb
+nature: Jolly
+ability: Swarm
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>With a unique base 112 Speed and decent Attack, Scolipede can pull off a sweeping set. Swords Dance facilitates this sweep, doubling Scolipede's Attack with just one use. Megahorn is a great STAB move to have, giving Scolipede a way to hit hard without a boost. Earthquake is the best coverage move in conjunction with Megahorn, hitting Steel-types such as Heatran and Magnezone super effectively. The last slot is a bit of a toss up; Baton Pass gives Scolipede utility, passing its Attack boosts when it runs into a tough wall; however, Rock Slide gives a smidgen of extra coverage, hitting Volcarona in particular.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>X-Scissor is an option but should only be considered if you have severe accuracy headaches as it is much weaker and doesn't OHKO Latios, Latias, or Tyranitar without a boost. If you have nothing to Baton Pass to, then Rock Slide should have the go-ahead in the final slot, hitting Flying-types as well as Gengar. However, it is generally a good idea to have offensive complements to Scolipede since it is rather frail and weak to revenge killing. Terrakion and physical Virizon are examples of good Baton Pass recipients, as they can ram through physical walls such as Gliscor after a boost.</p>
+
+<p>Ferrothorn is a good partner for setting up Stealth Rock and Spikes to ease Scolipede's sweep, while Scolipede also gains an opportunity to switch in on Fighting-type moves directed at Ferrothorn. A spinner is also a good partner for Scolipede as it is weak to Stealth Rock. Donphan in particular resists Rock-type moves and can provide Stealth Rock support. Starmie is another good spinner, complementing Scolipede's powerful physical attacks with its special ones.</p>
+
+[Other Options]
+
+<p>There are a few other options for Scolipede. One of them is the combination of Screech and Pursuit--Screech harshly lowers the opponent's Defense, coercing them to switch out, only to be caught off guard by a more powerful Pursuit. However, the imperfect accuracy of Screech, popularity of priority attacks, and Scolipede's inability to take hits make this a gimmicky tactic for it to carry out. Substitute with the Swarm ability is another option, setting up substitutes to activate Swarm for an extra powerful Megahorn. However, a Scolipede with low HP means it will be defeated very quickly, especially by priority moves. Finally, a full Baton Pass set is possible, but in that case, you are better off running a full chain with better suited Pokemon.</p>
+
+[Checks and Counters]
+
+<p>Despite Megahorn's power, common physical walls such as Skarmory, Forretress, and Gliscor all resist Bug and thus wall Scolipede very well. Fire-types are in the same boat--as long as they avoid Earthquake (or Rock Slide in Volcarona's case), they can KO Scolipede with their STAB moves. Sableye, while unable to switch directly into Megahorn, can cripple Scolipede with Prankster Will-O-Wisp and proceed to stall it out. Faster Pokemon, namely Choice Scarf users, outspeed and take Scolipede down easily due to its low defenses: Rotom-W smacks it with a Hydro Pump or Thunderbolt, and Terrakion can OHKO with Stone Edge.</p>

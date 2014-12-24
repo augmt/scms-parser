@@ -1,0 +1,114 @@
+Overview
+########
+
+Sylveon finds itself stuck in a tier where Clefable, which has access to Unaware in addition to Sylveon's Wish and Heal Bell, gives it enormous competition. However, it has a few advantages; namely, a base 130 Special Defense stat that lets it go toe-to-toe with top special threats, such as Greninja, Thundurus, and Latios, and a hard-hitting Pixilate-boosted Hyper Voice that lets it dish out significant damage without any boosts. Top Steel-type threats serve to make Sylveon's life difficult, and reliance on Wish + Protect for recovery leaves it entirely open to phazers and gives the opponent free turns. Merely decent physical bulk and low Speed allow many faster physical attacks to break through it. While not a Pokemon without flaws, Sylveon manages to find a place in today's hostile OU metagame.
+
+Cleric
+########
+name: Cleric
+move 1: Hyper Voice
+move 2: Wish
+move 3: Protect
+move 4: Heal Bell
+ability: Pixilate
+item: Leftovers
+evs: 252 HP / 220 Def / 36 SpD
+nature: Bold
+
+Moves
+========
+
+Thanks to Pixilate, Hyper Voice, even without investment, becomes a powerful STAB attack capable of dealing significant amounts of damage, even 2HKOing threats such as Landorus. Wish + Protect allows Sylveon to heal itself, heal its teammates, and function as a scout. Heal Bell cures Sylveon and its teammates of crippling status conditions. Between Wish and Heal Bell, Sylveon can provide immense support for its teammates. Baton Pass is another option for Sylveon to fit into VoltTurn chains and ensure its teammate receives a Wish unscathed.
+
+Set Details
+========
+
+The given EVs are necessary to patch up Sylveon's meager physical bulk, allowing it to tank Latios's Psyshock comfortably, as well as avoid 2HKOs from attacks such as non-Life Orb Garchomp's Earthquake. These also allow Sylveon to deal with weakened +1 Mega Tyranitar and Mega Pinsir in a pinch if it's healthy. 36 Special Defense EVs allow Sylveon to avoid a 2HKO from Landorus's Earth Power, making it a great check to non-Sludge Wave variants. Full investment in Special Defense can be used, letting Sylveon counter the likes of Choice Specs Keldeo and Mega Charizard Y, but the lack of physical bulk, especially when attempting to handle Latios and Latias, is heavily noticed. Leftovers help Sylveon keep healthy and can be utilized with Protect to gain little bits of recovery throughout the match.
+
+Usage Tips
+========
+
+The basic goal of this set is to take advantage of Sylveon's Fairy typing and sponge a variety of mostly special hits. Know when to pass off a Wish and when to Protect. If Sylveon is running low on health, unless the match is at a point where Sylveon is completely useless, use Protect to gain the assured heal. If you can afford to lose Sylveon or if it is healthy, pass to a teammate. When using Heal Bell, note that it only has 8 PP; you shouldn't be attempting to outstall status users, and you don't need to heal every status inflicted upon Sylveon or its teammates right away. Take care in how often you use it.
+
+Team Options
+========
+
+Sylveon is at home on balanced and semi-stall teams, which appreciate the support and certain level of power it packs into one teamslot. It should be used when the extra special bulk is preferred over Clefable's Unaware and better physical bulk. Pokemon that have to take hits constantly, but don't have any reliable form of recovery, such as Heatran and Landorus-T, greatly appreciate Sylveon's support. Sylveon can also be used with sweepers such as Mega Gyarados to cure paralysis, particularly from Thundurus's Prankster Thunder Wave, and burn. Skarmory and Zapdos make for excellent partners because they can handle Mega Pinsir and Bulk Up Talonflame, which run all over Sylveon. Both can also handle threatening Steel-type attackers fairly well. Pokemon that threaten Heatran and Skarmory also partner well, as these Pokemon can come in on Sylveon and do pretty much as they please, even preventing it from healing with Whirlwind and Roar; options for this role include Keldeo, Manaphy, Earthquake Latios, and your own Earth Power Heatran, which can also handle Talonflame. Pressuring Mega Venusaur is also necessary.
+
+Choice Specs
+########
+name: Choice Specs
+move 1: Hyper Voice
+move 2: Psyshock
+move 3: Shadow Ball
+move 4: Hidden Power Fire / Baton Pass / Hidden Power Ground
+ability: Pixilate
+item: Choice Specs
+evs: 244 HP / 252 SpA / 12 Spe
+nature: Modest
+
+Moves
+========
+
+Hyper Voice is this set's STAB attack; it packs immense Base Power due to Pixilate and ignores Substitutes, using brute force to cover most targets Sylveon comes up against. The other moves cover specific otherwise-counters to this set. Psyshock heavily damages Mega Venusaur, but Shadow Ball is now less important due to the banning of Aegislash. The last slot is a toss-up between tearing apart Ferrothorn and Mega Scizor with Hidden Power Fire, gaining free momentum against switch-ins with Baton Pass, and using Hidden Power Ground to KO threatening Heatran.
+
+Set Details
+========
+
+The EVs maximize bulk and power whilst enabling Sylveon to outrun minimum Speed Tyranitar.
+
+Usage Tips
+========
+
+Hyper Voice should be used in most scenarios, even dealing large damage to certain Pokemon that resist it; for example, it 2HKOes Skarmory. Coverage moves should be used on predicted switch-ins. If Baton Pass is chosen, it should be used when the opponent either has something that Sylveon can't heavily damage or multiple potential outs such that it becomes risky to pick any one coverage option because the opponent's next move is unclear.
+
+Team Options
+========
+
+Pokemon such as Fire Blast Garchomp, Mega Charizard X and Y, and Talonflame are helpful at eliminating threatening Steel-types and Mega Venusaur for Sylveon. Sticky Web support patches up Sylveon's mediocre Speed, making Shuckle and Smeargle good teammates. A lure such as Earthquake Latios can remove Heatran from the game, making Hyper Voice spam much easier. Landorus can eliminate Mega Venusaur, Heatran, Ferrothorn, and weakened Mega Scizor, all major threats to Sylveon, which can check Latios and Latias in return. Defog or Rapid Spin support is also critical because this Sylveon has no method of healing itself and thus is easy to wear down due to its low Speed.
+
+Calm Mind + Baton Pass
+########
+name: Calm Mind + Baton Pass
+move 1: Calm Mind
+move 2: Baton Pass
+move 3: Substitute / Wish
+move 4: Hyper Voice
+ability: Pixilate
+item: Leftovers
+evs: 252 HP / 244 Def / 12 Speed
+nature: Bold
+
+Moves
+========
+
+Calm Mind is used to boost Sylveon's Special Attack and Special Defense to pass to a teammate, but it can also be used to boost Sylveon's damage output. Baton Pass passes boosts and Substitutes to allies that can take their advantage of the boosted stats. Substitute is a good option on a forced switch and can be Baton Passed to a teammate, but Wish allows Sylveon to recover and set up more, and Wish can heal a teammate. Hyper Voice is boosted by Pixilate and is a STAB move, and prevents Sylveon from being completely vulnerable to Taunt.
+
+Set Details
+========
+
+12 Speed EVs let Sylveon outspeed 0 Speed Tyranitar. The rest of the EVs are put in HP and Defense to increase both Sylveon's physical and special bulk. Leftovers grants Sylveon passive recovery, boosting its longevity a little bit. Pixilate turns Hyper Voice into a powerful Fairy-type move.
+
+Usage Tips
+========
+
+Try to get off a Calm Mind and pass it to another Pokemon that will benefit from the boost. Aim to set up on slow Pokemon that do not threaten Sylveon much, such as Conkeldurr and Tyranitar. Make sure you use Baton Pass against fast and powerful Pokemon, before they hit Sylveon hard. You can also Baton Pass out on a predicted switch to a Pokemon that threatens Sylveon, such as Scizor or Excadrill, to gain momentum. Use Wish either when Sylveon's health is low or when you want to Baton Pass it to an ally that is at low health and that can take a hit from the opponent before recovering. Substitute is good to use when predicting an incoming status move. If the status user is faster, it usually isn't able to break through the Substitute, and Substitute allows Sylveon to set up Calm Minds and pass them to an ally that can benefit from it.
+
+Team Options
+========
+
+Fast Pokemon that appreciate a Calm Mind boost, such as Keldeo, Landorus, Thundurus, and Greninja, are good Baton Pass recipients, especially if they resist one of the types that Sylveon is weak to and can sweep after receiving the boosts. Also, Pokemon such as Charizard and Garchomp that can deal with Steel-types make for good partners.
+
+Other Options
+########
+
+A Choice Scarf set can be run to boost Sylveon's meager Speed to respectable levels, pivoting about with Baton Pass and even boasting the ability to do mini-sweeps with Echoed Voice. Yawn can function as a pseudo-phazing move to prevent dangerous threats from setting up on Sylveon. Pixilate-boosted Hyper Beam hits extremely hard and nets many KOs that Sylveon couldn't otherwise, but it is undesirable because it provides the opponent with free turns. RestTalk allows Sylveon to heal against phazers and can make a Calm Mind sweeper set that doesn't have to worry about status. However, the RestTalk Calm Mind set is outclassed by Suicune, and lacking Wish as well as being asleep is immensely detrimental.
+
+Checks & Counters
+########
+
+**Poison- and Steel-types**: Mega Venusaur, (Mega) Scizor, Heatran, and Ferrothorn are some of the biggest counters to Sylveon, as they can tank at least Hyper Voice well and threaten Sylveon with their super effective STAB attacks.
+
+**Phazers**: Pokemon such as Skarmory and Heatran that can phaze ensure Sylveon can't heal itself with Wish, even ignoring Protect. This makes Sylveon much easier to wear down and generally deal with.
+
+**Powerful Physical Attackers**: Despite Sylveon's rather respectable physical bulk with full investment, overwhelming physical attackers like Mega Charizard X and Mega Pinsir can KO a slightly weakened one with their powerful, possibly boosted, attacks.

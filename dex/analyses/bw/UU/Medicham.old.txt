@@ -1,0 +1,53 @@
+[Overview]
+
+<p>Medicham's most notable quality is its great ability, Pure Power, which doubles its otherwise pitiful Attack stat to a monstrous 480. Combine that with a 130 Base Power STAB in High Jump Kick and you have a seriously threatening Pokemon on your hands. Its secondary STAB move, Psycho Cut, has decent coverage with Fighting and does not contact the opponent, preventing abilities such as Mummy and Flame Body from triggering. Medicham is most notable for being able to deal serious damage to all of Heracross's counters, meaning it partners well with one of the best Pokemon in UU. Unfortunately, while Medicham has a great Attack stat, the rest of its stats are nothing to write home about; its base 80 Speed and defensive typing are disappointing to say the least. For these reasons, many of its potential sets are outclassed by Heracross and Mienshao, but Medicham still has a niche as a powerful wallbreaker that can rip huge holes in teams if you manage to bring it in safely.</p>
+
+[SET]
+name: Choice Band
+move 1: High Jump Kick
+move 2: Psycho Cut
+move 3: Ice Punch
+move 4: Trick / Thunder Punch
+item: Choice Band
+ability: Pure Power
+nature: Adamant / Jolly
+evs: 252 Atk / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>Medicham's best and only viable set in UU uses a Choice Band to boost its high Attack to a ludicrous 720 with an Adamant nature. This gives Medicham the power to break through almost every Pokemon in UU with the right attack. High Jump Kick has the most damage potential of any move Medicham carries; at 130 Base Power before STAB, it does heavy damage even to Pokemon that resist it. One needs to be extremely careful about the recoil, however, as an untimely Ghost-type or Protect will send Medicham crashing down. Psycho Cut is a safer move to spam, since Dark types aren't going to be risking coming in on High Jump Kick, and a lot of common responses to Fighting-types take heavy damage from it. Most notably, it 2HKOes offensive Trick Room Cofagrigus, and since Psycho Cut does not make contact, Medicham doesn't have to worry about Mummy. Psycho Cut also scores an OHKO on Chandelure and Mismagius, two other threatening Ghost-types, as well as Crobat, which 4x resists High Jump Kick.</p>
+
+<p>Medicham's last two slots are for coverage against other Fighting resists, many of which give trouble to other Fighting-types such as Heracross. Ice Punch scores an OHKO on Flying-types, including Gligar, Xatu, and all but the bulkiest of Zapdos after Stealth Rock. A well-predicted Ice Punch can clear the way for a Heracross sweep quite easily, turning the tide of a battle. The last attack is largely personal preference. Trick cripples the Psychic-types that wall Medicham, such as Slowbro and Mew. Thunder Punch 2HKOes Slowbro, but between Regenerator and the dangers of a Choice locked Electric-type attack, it's not always as effective as it could be.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Here are just a few calculations that demonstrate Medicham's offensive prowess and ability to clean up Heracross's checks.</p>
+
+<ul class="damage_calculation">
+<li>High Jump Kick vs. 252/252+ Bronzong: 81.95 - 96.74%</li>
+<li>Psycho Cut vs. 252/136+ Cofagrigus 42.5 - 50.62%</li>
+<li>Psycho Cut vs. 252/4 Cofagrigus: 51.87 - 61.25%</li>
+<li>Psycho Cut vs. 252/252+ Nidoqueen 94.27 - 111.45%</li>
+<li>-1 Psycho Cut vs. 252/236+ Qwilfish 80.83 - 95.2%</li>
+<li>Ice Punch vs. 252/252+ Eviolite Gligar 92.21 - 108.98%</li>
+<li>Ice Punch vs. 248/236+ Zapdos 69.45 - 81.98%</li>
+<li>Thunder Punch vs. 248/244+ Slowbro 56.99 - 67.17%</li>
+</ul>
+
+<p>The main choice to make is between an Adamant and Jolly nature. Adamant boosts Medicham's Attack to extraordinary levels, securing KOs on a multitude of slower threats, but Jolly lets Medicham outrun neutral natured Heracross, Kingdra, Nidoking, and Roserade, as well as Chandelure running Hidden Power Fighting. You can run Bullet Punch effectively in the last slot, as it does 35% minimum to Heracross while dispatching Froslass, but since Bullet Punch is illegal with Psycho Cut, using it forces you to run Zen Headbutt. This wouldn't be so bad except Zen Headbutt is a contact move, so you instantly lose to Cofagrigus.</p>
+
+<p>The main support Medicham needs is entry hazards, particularly Stealth Rock. Entry hazards push many Pokemon into KO range, and Stealth Rock limits the amount of times Flying-types can tank a High Jump Kick. Cobalion is a good Stealth Rock setter and has access to Volt Switch, which can help bring Medicham in safely. Empoleon synergizes perfectly with Medicham and can support it by setting up Stealth Rock, burning foes with Scald, and providing free switch-in opportunities with Yawn. Uxie can set up Stealth Rock, U-turn as a Dark type switches in to bring in Medicham for free, and spread paralysis to slow down the opposition; however, the two share common weaknesses. Unlike many Pokemon reliant on hazards, Medicham doesn't require spinblocking support, since Rapid Spin is a great opportunity to bring Medicham in.</p>
+
+<p>Medicham does not have an easy time switching in, so anything that can help patch that weakness is a blessing for it. U-turn, Volt Switch, Baton Passing Substitute, dual screens, and double switching are all great ways to bring Medicham in. Psychic-types and to a lesser extent Ghost-types are huge thorns in Medicham's side, so Pursuit support from the likes of Snorlax and Houndoom is much appreciated. Both of these Pokemon resist Ghost, which is Medicham's most major weakness. Houndoom can also come in for free on support Mew and immediately threaten it with a powerful Pursuit. Unfortunately, neither Pokemon can handle all of Mew's best sets, so using multiple Pokemon to beat all of Mew's common sets is recommended.</p>
+
+[Other Options]
+
+<p>Medicham's stats and typing don't allow it to do much else. Choice Scarf works just fine if you need a fast Fighting-type that beats Crobat and Gligar. However, Choice Scarf Medicham is outclassed by Heracross, which can sweep more easily; Mienshao, which is faster and has Regenerator; and Flygon, which has more opportunities to switch in. You could try a Life Orb if you'd like to switch attacks, but it misses out on some key KOs. Fake Out and / or Bullet Punch can be used to give Medicham priority for emergencies. It's important to note that Bullet Punch and Psycho Cut are illegal together, so if you opt to run Bullet Punch, you are stuck with Zen Headbutt for STAB, which makes physical contact with Pokemon such as Cofagrigius. Other options include Bulk Up, Drain Punch, and Recover, but Medicham is simply too frail to take advantage of these moves.</p>
+
+[Checks and Counters]
+
+<p>Sableye is Medicham's worst nightmare, as it is immune to both of Medicham's STAB attacks. It can survive any one hit from Medicham and cripple it with Will-O-Wisp, which prevents Medicham from doing much of anything. Sableye sometimes even packs its own Trick, so Tricking it a Choice Band doesn't always work. Bulky Psychic-types, such as Cresselia, Uxie, Xatu, and Mew, take little from either of Medicham's STABs. All of them can be EVed to outspeed Choice Band versions, but none like to be Tricked a Choice Band. Xatu also hates elemental punches. Mew can potentially be 2HKOed by Choice Band High Jump Kick, but it would have to be very poorly EVed to both be outsped and fall in two hits. The common support Mew can burn Medicham with Will-O-Wisp and then Recover off the damage.</p>
+
+<p>Other than the above Pokemon, Medicham doesn't have any traditional "counters" that can switch into everything it has, but it can be played around with checks. Cofagrigus is a good start, as if Medicham doesn't predict and use Psycho Cut, its ability will be changed to Mummy, and it will become worthless until it switches out. Dusclops can avoid 2HKOs from all of Medicham's attacks thanks to Eviolite. Froslass and Golurk aren't too bulky, but they are immune to High Jump Kick. Froslass resists Ice Punch and outspeeds Medicham, while Golurk is immune to Thunder Punch. Chandelure works in a similar vein but usually has to risk losing a Speed tie with Medicham. Bronzong can take any attack other than High Jump Kick and KO with Gyro Ball.</p>
+
+<p>Once Medicham locks itself into a move, it is a lot less threatening, as numerous Pokemon can take one of Medicham's attacks, outspeed, and KO with a neutral STAB attack. Additionally, Medicham isn't easy to bring in, so continuous offensive volleys will prevent your opponent from doing so.</p>

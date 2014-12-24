@@ -1,0 +1,62 @@
+[Overview]
+
+<p>Marowak has, by far, the highest Attack stat in the game with a Thick Club equipped. Furthermore, it gets access to Swords Dance to instantly hit the 999 Attack cap and a STAB Earthquake to run off that impressive Attack stat. However, Marowak is very frail and very slow, and despite its impressive attacking strength, it still fails to guarantee OHKOs against several prominent threats even after a Swords Dance boost. Therefore, a lot of prediction and team support is required to get Marowak to perform well on a team. However, when everything does come together for Marowak to work properly, it can single-handedly demolish the opposing team.</p>
+
+[SET]
+name: Swords Dance Sweeper
+move 1: Earthquake
+move 2: Rock Slide
+move 3: Hidden Power Bug / Rest
+move 4: Swords Dance
+item: Thick Club
+ivs: 13 Atk / 13 Def
+
+[SET COMMENTS]
+
+<p>Marowak is the hardest hitter in the game, and this set takes a very basic approach toward maximizing Marowak's wallbreaking capabilities. Earthquake is the STAB move that guarantees a 3HKO against everything that doesn't resist it. This doesn't sound terribly impressive at first; given how frail Marowak is, you'd expect at least 2HKOs all over the place. However, Marowak doesn't just 3HKO foes, it comes very close to 2HKOs, as illustrated by the following damage calculations. Note that, for these calculations, Marowak's Attack stat is set to 254 (508 after the Thick Club boost) by lowering the Attack DV to 13. Also, be aware that defending Pokemon have maximum values (without a nature boost) for all stats in GSC.</p>
+
+<ul class="damage_calculation">
+<li>Earthquake vs. +0 Def Snorlax 46.08% -- 54.01% -- 4.47% chance to 2HKO with Leftovers</li>
+<li>Earthquake vs. +1 Def Snorlax 32.01% -- 37.77% -- 0.12% chance to 3HKO with Leftovers</li>
+<li>Earthquake vs. +0 Def Miltank 45.55% -- 53.44% -- 1.12% chance to 2HKO with Leftovers</li>
+<li>Earthquake vs. +0 Def Suicune 41.69% -- 49.13% -- guaranteed 3HKO with Leftovers</li>
+<li>Earthquake vs. +0 Def Cloyster 39.93% -- 46.86% -- guaranteed 3HKO with Leftovers</li>
+<li>Earthquake vs. +0 Def Umbreon 44.02% -- 51.91% -- guaranteed 3HKO with Leftovers</li>
+<li>Earthquake vs. +0 Def Tyranitar 86.10% -- 101.24% -- 10.26% chance to OHKO</li>
+<li>Earthquake vs. +0 Def Steelix 63.17% -- 74.50% -- guaranteed 2HKO with Leftovers</li>
+<li>Earthquake vs. +1 Def Steelix 42.49% -- 50.14% -- guaranteed 3HKO with Leftovers</li>
+</ul>
+
+<p>Of course, being close to 2HKOs is not ideal, but with some team support and a little bit of residual damage, these KOs can become a reality. Additionally, Marowak runs Rock Slide to 2HKO Zapdos. Hidden Power Bug is the final coverage move, and it allows Marowak to OHKO Exeggutor as it switches in (although it is just short of being a guaranteed KO). However, if Marowak is paired up with Heal Bell support, Hidden Power can be forgone for Rest to allow Marowak the ability to heal off damage and make a second attempt at wallbreaking. Finally, Swords Dance is the move that allows Marowak to transform from an instant offensive threat to a hole-punching wallbreaker by raising its Attack to the 999 cap. However, Swords Dance can be very difficult to set up, and even after a Swords Dance boost, Marowak can miss out on guaranteed OHKOs against important foes, as illustrated in the damage calculations to follow. Note that, in the following damage calculations, Marowak has used Swords Dance to boost its Attack two stages to reach the maximum possible Attack stat of 999.</p>
+
+<ul class="damage_calculation">
+<li>Earthquake vs. +0 Def Snorlax 90.25% -- 106.12% -- 38.46% chance to OHKO</li>
+<li>Earthquake vs. +1 Def Snorlax 60.23% -- 70.94% -- guaranteed 2HKO with Leftovers</li>
+<li>Earthquake vs. +0 Def Miltank 89.06% -- 104.58% -- 30.77% chance to OHKO</li>
+<li>Earthquake vs. +0 Def Suicune 81.64% -- 95.78% -- guaranteed 2HKO with Leftovers</li>
+<li>Earthquake vs. +0 Def Cloyster 77.89% -- 91.42% -- guaranteed 2HKO with Leftovers</li>
+<li>Earthquake vs. +0 Def Umbreon 86.26% -- 101.27% -- 10.26% chance to OHKO</li>
+<li>Earthquake vs. +1 Def Steelix 82.44% -- 97.17% -- guaranteed 2HKO with Leftovers</li>
+</ul>
+
+<p>Thus, the secret to using Swords Dance is to first put the appropriate support in place; a defensive landscape with a lot of paralysis and residual damage allows Marowak to easily clean up, as do dual screens and passing Agility boosts. However, one crucial moment to consider using Swords Dance without a huge amount of support is when you believe the opponent will be switching to Skarmory. Skarmory takes very little damage from any of Marowak's unboosted attacks, but after Swords Dance boosting Marowak's Attack to 999, Rock Slide does 43%-50% to Skarmory, which is a solid 3HKO. Even if Skarmory tries to use Whirlwind to phaze or Curse to reduce Rock Slide's damage to below the 3HKO threshold (29%-34%), the 27% flinch rate (factoring in accuracy) makes KOing Skarmory possible. However, unless you use Swords Dance on the switch, Skarmory can easily tank whatever Marowak has to dish out while whittling away its health with Drill Pecks, and attempting to play for the flinch against a +1 Skarmory can be risky thanks to its boosted Drill Peck.</p>
+
+<p>One thing to note about the Swords Dance set is that, due to a bug in GSC, the Attack stat before the Thick Club boost must be 255 or lower. Otherwise, after a Swords Dance boost, Marowak's Attack stat after the Thick Club boost will roll over to something hilarious like 8 instead of simply capping at 999. That kind of Attack stat barely scares a Level 2 Rattata, let alone the top physical walls of GSC. Using Hidden Power Bug forces the use of a 13 Attack DV (the GSC equivalent to an IV), which automatically sets Marowak's Attack at 254. However, if you decide against using Hidden Power on Swords Dance Marowak for whatever reason, be sure to lower Marowak's Attack stat, either by lowering the Attack DV to 13 or by reducing Stat Experience (roughly equivalent to EVs) to achieve 255 Attack.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Marowak has poor HP, low Speed, and no Leftovers. Therefore, if Marowak takes any hits not deliberately planned for, its ability to function goes down the drain. For this reason, Marowak needs to be brought in on predicted double switches to ensure it isn't switching in on attacks. Pokemon that can bait good match-ups for Marowak to switch into are excellent teammates. Gengar and Zapdos are good at baiting Raikou, which is forced to switch out or risk being OHKOed by Marowak's Earthquake. In addition, Rapid Spin from a Pokemon such as Starmie is incredibly welcome support to pair with Marowak, since Spikes damage is terrible for Marowak to be taking every time it switches in. Paralysis support from Thunder Wave Zapdos or Stun Spore Exeggutor is great for mitigating Marowak's poor Speed and preventing it from taking as many hits. Passing Agility to Marowak is another way to mitigate its poor Speed. In early GSC, using Jolteon to pass Agility to Marowak was such a prominent combo that it was dubbed "JoltWak." Finally, passing screens to Marowak, particularly Light Screen, can allow it to tank more hits while setting up Swords Dance and dishing out hits. Light Screen is the recommended screen to use, as it allows Marowak to tank Suicune's Surfs and Zapdos's Hidden Powers, although Reflect support can allow Marowak to do a better job of tanking Snorlax's Double-Edges and Skarmory's Drill Pecks.</p>
+
+<p>Of course, Rest can be used to mitigate Marowak's frailty by allowing it to recover from prior damage, something most Marowak cannot do otherwise. This allows you to be a bit more daring with when you choose to bring Marowak in, although you still want to avoid bringing it in on any kind of attacking move if you can. However, if Marowak chooses to forgo Hidden Power for Rest, it MUST be paired with either Miltank or Blissey to provide Heal Bell support. Otherwise, Marowak will never be able to wake up from its nap, as it is too frail. Additionally, it is also a good idea to pair Rest Marowak with Pursuit support from a Pokemon such as Umbreon or Tyranitar. This is because, without Hidden Power, Marowak will not be able to damage Exeggutor switch-ins.</p>
+
+[Other Options]
+
+<p>Using Body Slam over Hidden Power on the Swords Dance set allows Marowak to create its own paralysis support, but forces Marowak to miss out on that crucial OHKO against Exeggutor. Fire Blast could be used over Swords Dance and possibly paired with Body Slam to make Marowak an all-out attacker. Fire Blast handily 3HKOes Skarmory without requiring the use of a boosting move beforehand, but that's about all it's good for. Hidden Power Flying can be used over Hidden Power Bug on the Swords Dance set to OHKO Heracross while still 2HKOing Exeggutor and nearly ensuring an OHKO against Exeggutor after a Swords Dance boost. Finally, Marowak can attempt to use a RestTalk set to give it some semblance of longevity. However, RestTalk Marowak hardly compares to other RestTalk users since its defenses, typing, and lack of Leftovers recovery prevent it from switching in very easily. Thus, it's less of a status-absorbing tank and more of a watered-down sweeper.</p>
+
+[Checks and Counters]
+
+<p>Skarmory is one of the best counters to Marowak, as it doesn't fear anything Marowak can dish out aside from Swords Dance-boosted Rock Slides and the uncommon Fire Blast. Even if Marowak has used Swords Dance to threaten with Rock Slide, Skarmory can use Whirlwind to phaze, chip away at Marowak's health with Drill Peck (which only does 22%-26% to Marowak, but every bit of damage counts), or even use Curse to take only 29%-34% damage from +2 Rock Slides (not even a guaranteed 4HKO with Leftovers) while threatening to hit back with boosted Drill Pecks. Suicune is also an excellent Marowak counter, especially with a RestTalk set. Suicune threatens to easily 2HKO Marowak, although it does take heavy damage when switching into an Earthquake. With Sleep Talk, however, Suicune is able to freely use Rest to shrug off those Earthquakes while still threatening to 2HKO Marowak. Cloyster is another good switch-in, but unlike Suicune it takes the same damage from both Rock Slide and Earthquake, so baiting Rock Slides with Zapdos does nothing to make Cloyster's switch in any easier. Furthermore, Cloyster does not last nearly as long as Suicune, so it is much easier for Marowak to wear Cloyster down on the switch. Starmie and Vaporeon are other solid checks that can force Marowak out by threatening to 2HKO with Surf, but they must be wary when switching in, as Earthquake handily 2HKOes them and can OHKO after a Swords Dance boost.</p>
+
+<p>Aside from Skarmory and Water-types, Exeggutor can switch into anything except for Hidden Power Bug and then threaten to use Sleep Powder, Explosion, or a strong special attack. If nothing else, Exeggutor poses enough of a threat to Marowak to bait Hidden Power Bug, which in turn makes it much easier for Water-types to switch into Marowak. Heracross resists Earthquake and only really fears Hidden Power Flying while dealing heavy damage to Marowak in return with Megahorn. However, Megahorn is an unlikely 2HKO against Marowak (it deals 45%-52%) whereas, after a Swords Dance boost, Marowak is guaranteed to 2HKO Heracross with Earthquake. In addition, Zapdos is somewhat of a Marowak check. Zapdos's Hidden Power Grass or Ice will do 43%-50% damage to standard Marowak, so it cannot outpace Marowak's damage output in a one-on-one situation unless it gets very high damage rolls, but it can do significant damage to Marowak while avoiding being OHKOed by Rock Slide and baiting Rock Slides to make it easier for other Marowak checks to switch in.</p>
+
+<p>In general, the best way to neutralize Marowak is to simply attack it. For example, the 46%-54% Snorlax takes from Earthquake isn't necessarily permanent, but the 41%-48% Snorlax does to Marowak is forever due to the lack of Leftovers and defensive aptitude. Zapdos can recover off the heavy damage it takes from Rock Slide, whereas the Hidden Power damage Marowak takes is permanent. Being able to take "temporary" damage to get hits in on Marowak tends to neuter its ability to threaten your team significantly. Just make sure that you don't leave anything in on Marowak that actually does end up being OHKOed.</p>

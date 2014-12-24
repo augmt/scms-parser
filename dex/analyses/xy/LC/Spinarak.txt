@@ -1,0 +1,52 @@
+Overview
+########
+
+Spinarak is one of the three Pokemon in Little Cup that can use the move Sticky Web, and it is the only one with access to another entry hazard move: Toxic Spikes. Spinarak makes for a great lead with Focus Sash, though its great defensive typing resists common attacking types, such as Fairy and Fighting, allowing it to use Eviolite effectively as well. While its Attack is mediocre, it has powerful STAB options in Megahorn and Poison Jab that Spinarak can do considerable damage with. Spinarak's ability Insomnia allows it to act as a sleep absorber and set up easily on Foongus. However, Spinarak has poor stats. Its Speed can sometimes prevent it from doing its job effectively, and it has mediocre defenses, which are compounded by the fact that it's weak to common attacking types. Its STAB combination can also prove problematic, as it is completely walled by Steel-types.
+
+Sticky Web
+########
+name: Sticky Web
+move 1: Sticky Web
+move 2: Megahorn
+move 3: Poison Jab
+move 4: Protect / Toxic Spikes
+ability: Insomnia
+item: Focus Sash / Eviolite
+evs: 116 HP / 196 Atk / 196 Spe
+nature: Adamant
+
+Moves
+========
+
+Sticky Web is the primary reason to use Spinarak in Little Cup. It's a useful entry hazard move which slows down grounded opponents when they enter battle, and Spinarak's teammates will always appreciate a slower opponent. Megahorn is Spinarak's most powerful STAB attack, and it will inflict heavy damage to anything that doesn't resist it. Poison Jab is Spinarak's other STAB move, and it OHKOes Cottonee and 2HKOes Spritzee after Stealth Rock. Protect is useful for keeping Spinarak's Focus Sash intact by protecting against Fake Out users such as Mienfoo, but if you choose to run the defensive Eviolite set, you can use Toxic Spikes to poison switch-ins.
+
+Set Details
+========
+
+Spinarak will always benefit most from choosing Insomnia as its ability, as this will enable it to set up Sticky Web on sleep inducers such as Foongus without worrying about being put to sleep. Focus Sash is Spinarak's primary item, as it will almost always assure that Spinarak sets up Sticky Web successfully. 196 Attack EVs with an Adamant nature allow Spinarak to hit hard. 196 Speed allows Spinarak to outspeed some slower opponents and get an attack off after setting up Sticky Web, while the remaining EVs are placed in HP to increase Spinarak's longevity. Spinarak can also run a defensively-oriented set with Eviolite. Although Spinarak can't be guaranteed the protection from any one move like it has with Focus Sash, it has more use after Sticky Web is used, as it takes negligible damage from any Fighting-type attack in the tier, it can use Toxic Spikes effectively and can counter Cottonee and Spritzee. A bulkier EV spread of 196 HP / 196 Def / 116 SpD with Eviolite gives it enough bulk to almost always survive an Acrobatics from item-less Fletchling.
+
+Usage Tips
+========
+
+Spinarak should typically be used as a lead to ensure Sticky Web can be set up as soon as possible. However, if your opponent has a Pokemon that can remove entry hazards, such as Drilbur or Vullaby, they need to be taken out first so Spinarak can set up Sticky Web later. If Spinarak does manage to set up Sticky Web and your opponent doesn't have a Rapid Spinner or a Defogger, you can save it as a status absorber or death fodder. If Spinarak is using Focus Sash, be wary of opponents that might be running Fake Out, as they may be able to KO Spinarak after breaking its Focus Sash. If Spinarak is running Eviolite, it must be used cautiously. While it is bulkier, it isn't safe from being OHKOed by opponents such as Abra or Vulpix.
+
+Team Options
+========
+
+Pawniard, Mienfoo, Bunnelby, Archen, and Drilbur are all suitable teammates that can utilize Sticky Web, as they all hit quite hard and outspeed all unboosted opponents after the speed drop. For the Flying-type Pokemon unaffected by Sticky Web, such as Taillow and Archen, you can use an Electric-type Pokemon such as Elekid, Magnemite, or Chinchou. Defog users such as Archen or Vullaby can be annoying as they remove Spinarak's Sticky Web, but Pawniard can discourage the use of Defog, as it will trigger Defiant and give Pawniard an Attack boost. A Fighting-type such as Timburr or Croagunk is very useful, as opposing Pawniard will receive an Attack boost from switching in on Sticky Web.
+
+Other Options
+########
+
+Spinarak's other options are fairly limited and somewhat redundant, especially considering it only has one real job to do. However, it has physical priority options in Sucker Punch and Shadow Sneak to get some damage off on opponents such as Abra before going down. X-Scissor is also an option if Megahorn's 85% accuracy is undesirable, although the loss in power is considerable. Baton Pass can be used to ensure a teammate gets a safe switch in. Additionally, this can be used to pass an Agility boost to a very slow teammate.
+
+Checks & Counters
+########
+
+**Pawniard**: Pawniard doesn't take a lot of damage from Megahorn, is unaffected by Toxic Spikes, and will grab a nasty Attack boost upon switching in on Sticky Web thanks to Defiant.
+
+**Archen**: Archen resists both of Spinarak's STAB moves and can use Defog to get rid of the entry hazards Spinarak sets up while doing massive damage with Rock Slide or Acrobatics.
+
+**Natu**: Spinarak is unable to set up entry hazards while Natu is active due to its Magic Bounce ability deflecting them on to Spinarak's side of the field. It also hits hard with Psychic.
+
+**Taunt Users**: Fast users of the move Taunt, including Cottonee and Purrloin, can render Spinarak unable to set up Sticky Web, although both must be wary of Spinarak's STAB moves. 

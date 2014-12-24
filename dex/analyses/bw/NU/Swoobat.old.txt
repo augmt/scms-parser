@@ -1,0 +1,34 @@
+[Overview]
+
+<p>Swoobat is a mediocre Pokemon, but has one decent niche. The combination of Simple and Calm Mind grants Swoobat a +2 boost in both Special Attack and Special Defense after only one turn of setup. In addition to this, it also gets access to Stored Power, a 100 Base Power STAB attack after only one Calm Mind. While this might make Swoobat seem like a top-tier threat, it has quite a few flaws holding it back. Aside from its great Speed stat, all its other stats are terrible. A mediocre base 77 Special Attack means it needs at least one boost to do any sort of significant damage. Its 67 / 55 / 55 bulk doesn't do it any favors, and it is weak to Sucker Punch, the most common form of priority in NU.</p>
+
+[SET]
+name: SubSalac
+move 1: Substitute
+move 2: Calm Mind
+move 3: Stored Power
+move 4: Heat Wave
+item: Salac Berry
+ability: Simple
+nature: Timid
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>This is Swoobat's only set, but it performs it well due to a great base Speed that lets it outspeed most of the tier and access to Calm Mind along with the Simple ability. After a single boost, Stored Power reaches 100 Base Power, which is devastating combined with Swoobat's increased Special Attack and STAB. Due to its high Speed, the only things Swoobat fears being revenge killed by are Choice Scarf Pokemon and priority users. Substitute is a great move that remedies this by preventing Swoobat from being revenge killed by the likes of Skuntank. Stored Power takes advantage of Calm Mind to the fullest with its high Base Power after a Calm Mind or two, and Heat Wave provides excellent coverage with Stored Power, hitting the Dark-, Psychic-, and Steel-types in the tier, such as Jynx, Metang, and Probopass. Salac Berry is the item of choice here, as the +2 Speed boost it gives Swoobat upon falling into the last 25% of its HP both allows it to outspeed the entire tier and further boosts the power of Stored Power.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Out of the additional items that can be considered, Life Orb seems like a great alternative over Salac Berry, but greatly lowers Swoobat's longevity when used in tandem with Substitute. In addition, Salac Berry prevents Choice Scarf users from outspeeding it, and with the Speed boost, Stored Power actually hits harder than it would with Life Orb. Leftovers is another option to increase its longevity, but Swoobat is very frail anyway. In the place of Stored Power, Psyshock and Psychic are alternative STABs that can hit harder without the boost, but Swoobat is very weak without the boost and prefers the higher Base Power of Stored Power after setup. Hidden Power Ground can be used to hit Probopass, Bastiodon, and Skuntank super effectively, but then Swoobat loses the ability to OHKO Jynx, which in turn KOes it after Stealth Rock, even after a Calm Mind boost. Giga Drain is an interesting coverage move as it heals Swoobat after it gets into Salac Berry range, but it provides somewhat redundant coverage along with Stored Power.</p>
+
+<p>Swoobat despises having Stealth Rock on its side of the field, which makes Taunt users such as Serperior and Misdreavus, as well as Rapid Spinners such as Torkoal and Wartortle, good partners; all of them except Misdreavus also share decent synergy with Swoobat. Choice Band Sawk can also help against Stealth Rock setters, OHKOing many as Mold Breaker negates Sturdy. Probopass is a good choice for a partner as it takes Rock-, Ghost-, Ice-, and Dark-type attacks aimed at Swoobat, while also providing a slow Volt Switch to bring Swoobat in safely. Finally, dual screens support from the likes of the aforementioned Serperior is appreciated by Swoobat due to its paper-thin defenses.</p>
+
+[Other Options]
+
+<p>Swoobat has an excellent support movepool, such as Toxic, Tailwind, Taunt, Trick, dual screens, Knock Off, Magic Coat, and U-turn, but it has nowhere near the bulk required to effectively use it. Roost is a reliable recovery move, but Swoobat will never find the time to use it; using Roost will also take away a precious moveslot that could be used for a coverage move. Charge Beam can be used to do a little bit of Electric-type damage while also having a good chance to boost Swoobat's Special Attack, but Calm Mind is much better as it provides a guaranteed boost, and boosts Special Defense as well. Klutz in conjunction with Trick is a usable gimmick, but it is hard to pull off because of Swoobat's frailty, so Swoobat is better off as a Simple Calm Mind sweeper. Choice items are out of the question because of Swoobat's disappointing offensive stats; in addition, Jynx and Gardevoir severely outclass it.</p>
+
+[Checks and Counters]
+
+<p>The best way to counter Swoobat is to prevent it from setting up or Encoring it into Calm Mind. Liepard gets a notable mention for being able to switch into a predicted Stored Power, Encore Swoobat, and KO it with STAB Pursuit. Skuntank is immune to Stored Power, can take a +2 Heat Wave, and can defeat Swoobat with the combination of Pursuit and Sucker Punch. Regice can take any move Swoobat throws at it with ease and OHKO with Ice Beam after Stealth Rock, even if Swoobat has a Calm Mind boost under its belt. However, if Swoobat uses Calm Mind twice, it can survive an Ice Beam, get the Salac Berry boost, and OHKO with a +4 Stored Power. Bastiodon can phaze away Swoobat's boosts with Roar and only really fears Hidden Power Ground, which it can survive provided Sturdy is intact. Audino and Lickilicky can take a Stored Power after one Calm Mind and a Salac boost,and severely damage Swoobat with Body Slam and Double-Edge, respectively.</p>
+
+<p>While it is difficult to counter Swoobat due to the sheer power of a boosted Stored Power, there exist many checks. Although Swoobat can avoid being revenge killed with Substitute, most Choice Scarf Pokemon, such as Glaceon and Jynx, can take out Swoobat if it hasn't gotten its Salac boost due to its frailty. Priority moves, such as Aqua Jet and Sucker Punch from the likes of Carracosta and Cacturne, can defeat Swoobat provided it isn't behind a Substitute. Golem can KO Swoobat through its Substitute with Rock Blast, though Swoobat can OHKO it with a boosted Stored Power if Golem's Sturdy is broken, making it a very shaky check. Finally, Choice Scarf Impostor Ditto can copy Swoobat's boosts if it is not behind a Substitute, outspeed it, and possibly sweep the rest of Swoobat's team.</p>

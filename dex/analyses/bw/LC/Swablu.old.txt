@@ -1,0 +1,32 @@
+[Overview]
+
+<p>Swablu is one of the few Pokemon in Little Cup with the ability Cloud Nine, which negates all weather effects. Normal / Flying typing gives it a few weaknesses on the defensive end, but when coupled with good defensive stats and Roost, Swablu has a good chance to stay around for a while.</p>
+
+[SET]
+name: Weather Guard
+move 1: Roost
+move 2: Toxic
+move 3: Pluck / Hyper Voice
+move 4: Cotton Guard
+item: Eviolite
+ability: Cloud Nine
+nature: Careful
+evs: 236 HP / 36 Def / 236 SpD 
+
+[SET COMMENTS]
+
+<p>This set's main attraction is its ability to help reliably check Sunny Day teams, which it does rather well with a resistance to Grass and Cloud Nine neutralizing the sun's effects. The EVs given give admirable bulk when combined with an Eviolite. Toxic and Roost form the core of your damage output through poison stalling. Not only does this help to beat weather teams, but it reliably beats a number of set-up Pokemon. Pluck gets STAB and is a handy utility move to have, and Cotton Guard is an exceptional defensive buff to have while stalling.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>An alternate EV spread of 236 HP / 32 Def / 240 SpD with an Impish nature can be used as well. This set benefits from Toxic Spikes, as an additional turn of set up as opposed to using Toxic is welcome.</p>
+
+<p>As previously mentioned, Toxic Spikes will aid Swablu's stalling ability. A Pokemon such as Tentacool can be used to set them up. Scraggy can set up on Ferroseed, who is one of the most common switch-ins to Swablu, while Magnemite can trap the opponent's Ferroseed, along with any other Steel-types that can render Swablu ineffective. In general, most Pokemon benefit from entry hazards, and Swablu is no exception. A user of Rapid Spin or Pokemon who can prevent Stealth Rock is effective in ensuring Swablu can enter the battle unscathed.</p>
+
+[Other Options]
+
+<p>Heal Bell is good for team support, but the Combination of Cloud Nine + Heal Bell is illegal, and because Cloud Nine is by far the more useful of the two, Heal Bell is unused for the most part. There are a few other attacking moves you can use, such as Ice Beam, but with bad attacking stats and the usefulness of Pluck, it's not advised. Heat Wave is probably the one special move worth considering because it hits Ferroseed super effectively, who is a common switch-in to Swablu and will injure any other Steel-types. However, Heat Wave is incompatible with Cloud Nine.</p>
+
+[Checks and Counters]
+
+<p>Magnemite is the number one choice for taking Swablu out as it resists Swablu's only attack, is immune to Toxic, attacks from the Special side, and hits Swablu for super effective damage with its STAB. Most Steel-type Pokemon can switch in fearless of anything Swablu has at its disposal and can proceed to set up. Any Pokemon that can use Toxic on Swablu can check it. Lastly, Electric-, Ice-, and Rock-type Pokemon can threaten Swablu with their STAB attacks, but must beware of Toxic.</p>

@@ -1,0 +1,72 @@
+[Overview]
+
+<p>Ampharos is adorable, but sadly this doesn't necessarily make it popular in battle. It is overshadowed pretty badly by Eelektross, who is notable for its mixed attacking prowess and Levitate, as well as several other NU Electric-types, who are faster. Despite the fierce competition, Ampharos actually has a lot of things that these Pokemon don't. For one, it has the highest Special Attack of all NU Electric-types, and can really pack some good power with its Electric-type attacks. It has a lower Speed stat but greater bulk than much of its competition as well, allowing it to take hits that many other Electric-types would otherwise crumble to, and it is not weak to Stealth Rock like Rotom-F and Rotom-S, who are similarly bulky and powerful. While Ampharos has a somewhat shallow movepool, it does have the rare Heal Bell, which further takes advantage of its unusually good bulk. Unfortunately, its lack of reliable recovery means that Ampharos's decent bulk cannot be fully taken advantage of. Ampharos is an oddball amongst its Electric brethren, but it can still be effective.</p>
+
+[SET]
+name: Tank
+move 1: Thunderbolt
+move 2: Hidden Power Ice / Hidden Power Grass
+move 3: Volt Switch
+move 4: Focus Blast / Heal Bell
+item: Life Orb / Leftovers
+ability: Static
+nature: Modest
+evs: 172 HP / 252 SpA / 84 Spe
+
+[SET COMMENTS]
+
+<p>This set attempts to utilize Ampharos's unique traits, namely its bulk, power, and access to Heal Bell, to their fullest. Its decent bulk lets it take some hits, while its power allows it to easily retaliate. Packing the strongest Thunderbolt in NU, Ampharos is easily capable of dealing massive damage to anything that doesn't resist its powerful Electric-type attacks. To hit the Ground-types that are immune to Ampharos's STAB moves, both Hidden Power Ice and Hidden Power Grass are viable options for Ampharos to use in the second slot; the former has greater neutral coverage alongside Thunderbolt and can take on Torterra, while the latter can be used specifically for Seismitoad, a much more common threat. Volt Switch allows Ampharos to keep momentum by taking advantage of the opponent's switches, and still hits hard thanks to Ampharos's high Special Attack despite being mainly a support move. For the last slot, Ampharos can choose either offensive coverage or a support option. Focus Blast hits Normal- and Rock-types such as Lickilicky and Bastiodon and nails Pokemon that can take both Ice- and Electric-type attacks such as Piloswine and Rotom-F, making Ampharos difficult to wall. Alternatively, Heal Bell is Ampharos's biggest niche as an Electric-type, giving it the ability to heal status effects from itself and its teammates, making its whole team harder to wear down with status.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Life Orb gives Ampharos extra power to its attacks, while Leftovers grants Ampharos more survivability. Ampharos still faces stiff competition with Eelektross in terms of wallbreaking, but does trade mixed attacking prowess for slightly more power and Speed as well as the ability to take status attacks if Heal Bell is used. Signal Beam can be used over Focus Blast or Heal Bell, preferably alongside Hidden Power Grass to net the best overall coverage, but misses out on Grass / Poison-types. The Speed EVs allow Ampharos to outspeed uninvested base 65 Pokemon such as Alomomola so that it can take them down without hassle. Alternatively, an EV spread of 132 HP / 252 SpA / 124 Spe outpaces minimum Speed base 70s such as Mantine, but they aren't quite common enough to justify the loss in bulk. A Timid nature with maximum Speed can outspeed threats such as Mandibuzz, Misdreavus, Gorebyss, and Jolly Carracosta, but loses out on both power and bulk, two of Ampharos's greatest advantages.</p>
+
+<p>Choice Specs can be used to allow Ampharos to hit like a nuke without taking recoil, but Choice-locked Electric-type attacks are easily taken advantage of and Ampharos will not be able to make use of Heal Bell as effectively. Ampharos's partners should be able to take advantage of its capacity to punch holes into the opponent's team; fellow special attackers such as Charizard and Kadabra appreciate Ampharos's ability to weaken bulky Pokemon such as Probopass and Musharna for them, while physical attackers such as Primeape, Swellow and Golurk like having Alomomola, Metang, and Mandibuzz out of the way. Primeape even boasts U-turn, which allows it to maintain momentum and form a VoltTurn core with Ampharos's Volt Switch.</p>
+
+[SET]
+name: Specially Defensive
+move 1: Thunderbolt
+move 2: Heal Bell
+move 3: Toxic
+move 4: Volt Switch / Focus Blast
+item: Leftovers
+ability: Static
+nature: Calm
+evs: 252 HP / 4 SpA / 252 SpD
+
+[SET COMMENTS]
+
+<p>Ampharos's decent bulk allows it to take a more defensive route, letting it utilize a specially defensive set to serve as a strong check to special attackers such as Charizard and Eelektross. Thunderbolt is the main STAB move, and can deal solid damage even with no investment in Special Attack. Heal Bell wards off status from itself and its teammates, increasing its survivability. Toxic wears down bulky opponents that would otherwise sponge Ampharos's attacks easily, most notably Ground-types. For the last slot, Volt Switch allows Ampharos to maintain momentum to prevent the opponent from taking advantage of its uninvested attacks, whereas Focus Blast is a strong neutral option against Ground-types and the Electric-types that Ampharos walls.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Even with Focus Blast, Ground-types remain huge problems for Ampharos, especially Golurk. Thus, Grass-type or Flying-type partners are recommended; Ampharos resists the Flying- and Electric-type attacks aimed at them, while they are capable of switching into Ground-type attacks with little trouble. Tangela and Mandibuzz are decent options to consider. Regirock can be a viable partner in case Charizard becomes too much to handle, while the shared Ground-type weakness can be covered with the aforementioned Grass- and Flying-type partners and / or Alomomola. Speaking of which, Alomomola makes a great partner by taking physical hits and providing Wish support to make up for Ampharos's lack of reliable recovery, while Ampharos takes on Electric-types and provides Heal Bell support for Alomomola. Discharge could be used to spread paralysis, but might clash with Toxic against targets which you'd prefer to poison. If Discharge is used, Toxic may be replaced with Hidden Power Ice to nail Grass-types and Golurk, but without investment it won't do much.</p>
+
+[SET]
+name: Dual Screens
+move 1: Reflect
+move 2: Light Screen
+move 3: Volt Switch
+move 4: Heal Bell
+item: Light Clay
+ability: Static
+nature: Bold
+evs: 252 HP / 252 Def / 4 SpD
+
+[SET COMMENTS]
+
+<p>This set complements Ampharos's slow but bulky stat spread very well. Access to dual screens, good bulk, and a slow Volt Switch make Ampharos excel at creating optimal setup conditions for most sweepers, especially offensive setup sweepers on hyper offensive teams. Light Clay is the item of choice to extend the duration of the screens, lengthening the amount of time your sweepers can take hits while setting up. Heal Bell lets Ampharos further support its teammates, in case status prevents the possibility of a sweep on an important sweeper.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Ampharos faces competition from faster dual screen users, such as Serperior and Gardevoir, both of whom can get the appropriate screen up before taking damage and have access to Taunt, while Ampharos might struggle to get both screens up and Volt Switch away. Ampharos does boast the benefit of a slow Volt Switch, however, taking the hit for its teammate and then bringing it in for free, something Serperior and Gardevoir cannot do. A specially defensive spread may be used, but this set prefers well rounded bulk as the dual screens will do the heavy lifting in terms of taking hits. If you don't like Heal Bell, Safeguard can go in the last slot as a final act to set the stage, protecting the setup sweepers from status. Hidden Power Ice allows Ampharos to fight back against Ground-types, but this set isn't really meant for that purpose. Setup sweepers that can set up on Ground-types or Grass-types, such as Serperior, Sawsbuck, Drifblim, and Misdreavus, are excellent partners. The support Ampharos provides isn't limited to these recipients though, as Ampharos practically lays the red carpet for setup sweepers. Swoobat, Linoone, Samurott, Carracosta are all examples of possible teammates that would definitely appreciate the extra bulk.</p>
+
+[Other Options]
+
+<p>Agility is an interesting option to allow Ampharos to outrun foes while maintaining its superior bulk over other Electric-types, but it usually doesn't have enough power to sweep foes, and almost every relevant Choice Scarf user still outspeeds it even after a boost. Zap Plate boosts Ampharos's Electric-type moves without reducing its HP and undermining its bulk, but its coverage moves become noticeably weaker. Magnet Rise can be used to dodge Ground-type moves and Cotton Guard can be used to boost Ampharos's Defense, but Ampharos doesn't really have any moveslots to spare for either of them without leaving it wide open to other threats. Rain Dance + Thunder can be used, but faster Electric-types such as Rotom-S do this better. Ampharos also has Power Gem, but it strikes nothing bar Shedinja harder than its main options. Thunder Wave or Cotton Spore can slow down opponents, but Thunder Wave clashes with Toxic, and Ampharos has Agility if it really needs to outspeed threats. Ampharos has an interesting physical movepool consisting of Wild Charge, Fire Punch, Bulldoze, Brick Break, and Outrage, but Luxray and Eelektross use physical moves more effectively. Body Slam can be used for an alternative way to spread paralysis, but it still can't touch Golurk.</p>
+
+[Checks and Counters]
+
+<p>Ground-types pose a huge threat to Ampharos and can destroy it with their STAB moves; Golurk is noteworthy for being immune to Ampharos's STAB moves and Focus Blast, Golem has Sturdy, Seismitoad only fears Hidden Power Grass, Piloswine takes a pittance from Electric- and Ice-type coverage, and Camerupt isn't weak to anything Ampharos commonly carries. Grass-types make for excellent switch-ins as they do not take too much damage from anything short of a Choice Specs Hidden Power Ice; Roselia, Vileplume, and Calm Mind Serperior can get the upper hand easily. Specially bulky Pokemon such as Lickilicky, Audino, Munchlax, Regice, and Eviolite Dragonair can tank Ampharos's hits, but must be wary of Focus Blast, or Hidden Power Ice in Dragonair's case. Ampharos fears Ground-type moves, but note that it can survive most attacks not backed by STAB, such as Sawsbuck's Nature Power or Kangaskhan's Earthquake.</p>
+
+<p>Its low Speed and lack of reliable recovery make Ampharos easier to check than counter, though note that a healthy Ampharos can survive most powerful attacks, so revenge killing is not easy. Taunt from the likes of Serperior, Skuntank and Misdreavus stunts most defensive Ampharos sets, though other users such as Samurott and Mandibuzz obviously need to watch their step. While Heal Bell allows Ampharos to cleanse itself of status, its meager 8 PP means that repeated use of status can still work on Ampharos provided the status user can withstand Ampharos's assaults. Powerful attacks usually 2HKO Ampharos, so keeping up the offensive pressure on Ampharos can lessen the damage it does to your team and the support it offers to its teammates.</p>

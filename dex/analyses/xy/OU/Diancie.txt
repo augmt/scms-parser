@@ -1,0 +1,14 @@
+Tank
+########
+name: Tank
+move 1: Stealth Rock
+move 2: Diamond Storm
+move 3: Moonblast
+move 4: Hidden Power Fire
+ability: Clear Body
+item: Leftovers
+evs: 252 HP / 4 Atk / 252 SpA
+nature: Quiet
+
+
+This is a sample set while we are currently working on analyses in the workshop.

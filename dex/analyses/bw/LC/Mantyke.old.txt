@@ -1,0 +1,52 @@
+[Overview]
+<p>Mantyke is a rather unique Pokemon in Little Cup. It is one of the few Water-types that can take on Grass-types thanks to its secondary Flying typing. This also makes it a good check to Fighting- and Ground-types. However, its Flying typing works as a double-edged sword as it gives it a crippling 4x Electric weakness and a weakness to Stealth Rock. Don't let this steer you away from using Mantyke, though, as it does have a few more things going for it. It has the best Special Defense in Little Cup by far and it possesses two great abilities, allowing it to be both a defensive and offensive threat.</p>
+
+[SET]
+name: RestTalk
+move 1: Rest
+move 2: Sleep Talk
+move 3: Air Slash
+move 4: Scald / Toxic
+item: Eviolite
+ability: Water Absorb
+nature: Bold
+evs: 156 HP / 196 Def / 36 SpA / 116 SpD
+
+[SET COMMENTS]
+<p>Thanks to its great defenses, Mantyke is a good candidate for a RestTalk set. With the given EVs and an Eviolite, Mantyke reaches a Special Defense stat of 30, allowing it to take on many special attackers such as Snover and Misdreavus. Thanks to the Defense investment and its secondary Flying typing, it can also take on many Fighting-types such as Timburr, Croagunk, and Mienfoo, although it must watch out for the occasional Stone Edge from the latter. The various Grass-types of the tier, such as Shroomish and Foongus, also fear this set since Mantyke shrugs off the status moves that they commonly carry with Rest.</p>
+
+<p>Rest and Sleep Talk are the mandatory moves; Rest is Mantyke's only form of recovery and it removes status such as Toxic, which would otherwise cripple it severely, whilst Sleep Talk stops Mantyke from being dead weight after it has used Rest. Air Slash is Mantyke's most reliable STAB move, and it allows it to take on the aforementioned Fighting- and Grass-types. The last moveslot is a toss-up between Scald and Toxic. Scald is a decent secondary STAB and it deals a large amount of damage to Rock-, Ground-, and Fire-types. The 30% burn chance is also appreciated which can help against physical attackers. However, Toxic is great for crippling bulky Pokemon like Lileep, Porygon, and Frillish, which would otherwise shrug off Mantyke's weak attacks. Toxic and Scald can be used in conjunction, but this is generally not recommended as Mantyke will then be walled by Croagunk, Shroomish, and Foongus.</p>
+
+[ADDITIONAL COMMENTS]
+<p>156 HP EVs give Mantyke an HP stat of 23, which is a Stealth Rock number, allowing Mantyke to take 5 HP damage instead 6 HP upon switching in. Maxed out Defense and a Bold nature are also chosen to boost Mantyke's lower defensive stat as much as possible. The remaining EVs are put into Special Defense and Special Attack. Water Absorb is the ability of choice, but do not expect it to see too much use, as many Water-types carry moves that hit Mantyke super effectively, such as Electric-type moves from Staryu and Chinchou, or Rock-type moves from Tirtouga. There is a not a lot of other options to use in the final slot. Hidden Power Fire could be used to hit Ferroseed, but this is far too situational as Air Slash and Scald are superior in almost all other situations.</p>
+
+<p>Due to Mantyke's Stealth Rock weakness, it needs to be paired with a Rapid Spin user. Drilbur can spin and also absorb Electric-type attacks aimed at Mantyke. Staryu is another option for a spinner, but it adds to Mantyke's Electric-type weakness. Mantyke appreciates a partner that can take on Electric-types such as Chinchou and Magnemite. A Chinchou of your own is a great choice to wall these Pokemon, whilst Mantyke can beat Grass-types that counter it. Lileep and Porygon are also good Pokemon that can beat Chinchou, and Mantyke can handle the Fighting-types that threaten them. Finally, Croagunk can take on many of Mantyke's counters such as Chinchou, Magnemite, Lileep, and Ferroseed.</p>
+
+[SET]
+name: Swift Swim Sweeper
+move 1: Rain Dance
+move 2: Hydro Pump
+move 3: Ice Beam / Substitute
+move 4: Air Slash / Substitute
+item: Life Orb / Eviolite
+ability: Swift Swim
+nature: Modest
+evs: 36 Def / 196 SpA / 36 SpD / 196 Spe
+ivs: 0 HP
+
+[SET COMMENTS]
+<p>Mantyke can also take a more offensive approach with a Rain Dance set. Under rain, it gets a boost to its STAB Water-type moves as well as doubled Speed thanks to Swift Swim. With the prevalence of sand teams in the metagame, Mantyke has a great niche in disrupting the weather. The idea of this set is simple: Mantyke should set up Rain Dance against something that can do little to it, such as Hippopotas or Croagunk, and proceed to tear through the opposing team with its powerful Hydro Pump. Ice Beam is the main coverage move of choice as it can 2HKO Lileep with a Life Orb, allowing Mantyke to break through one of its would-be counters. Air Slash is a good secondary STAB move, hitting Snover and Croagunk for super effective damage. Substitute is another option which can be used over Air Slash or Ice Beam. This helps Mantyke avoid a Sucker Punch from Murkrow or Pawniard, but Croagunk will be an issue if it goes over Air Slash, and Lileep will wall Mantyke if it goes over Ice Beam.</p>
+
+[ADDITIONAL COMMENTS]
+<p>The choice between Eviolite and Life Orb is a tough one. While the power difference is noticeable if you don't have a Life Orb, Eviolite will give Mantyke a much easier time setting up. If Life Orb is your item of choice, make sure you change the HP IVs to 0, which will give Mantyke only 1 HP recoil. Timid is an alternative option for the nature, which avoids the Speed tie with Choice Scarf Misdreavus and Choice Scarf Murkrow, but these situations are rare so Modest is the recommended ability. As for possible changes to the moveset, Hidden Power Grass can be used to 2HKO the standard RestTalk Chinchou on the switch in with a Life Orb.</p>
+
+<p>Mantyke appreciates certain Pokemon removed before it sweeps, particularly Chinchou, Staryu, Lileep, and Ferroseed. Croagunk has the ability to beat all of these Pokemon and also lures out Hippopotas and Bronzor which Mantyke can set up on. Croagunk's ability Dry Skin also benefits from the rain. Diglett can switch in on a predicted Electric-type move and proceed to trap and kill Chinchou, but it must be wary of switching into Hydro Pump or Scald. Lileep beats Chinchou and Staryu, and can also set up Stealth Rock which can help Mantyke get some KOs. In fact, most Grass-types can handle Chinchou and Staryu, making them great partners for Mantyke.</p>
+
+[Other Options]
+<p>Unfortunately, Mantyke's movepool is very shallow, so it doesn't have many other options available to it. An Agility set can be used, but this is generally outclassed by the Swift Swim as it lacks the power of rain-boosted Hydro Pump. However, it does have some advantages such as Snover switch-ins not taking away Mantyke's Speed boost, the ability to run Water Absorb as the ability, and the ability to hit Ferroseed with Hidden Power Fire. Mantyke could utilize Haze, which can help against boosting sweepers like Scraggy and Timburr, but it is hard pushed for a moveslot. A bulky set with Aqua Ring is an option, but the recovery is generally not large enough and it will be beaten by status moves.</p>
+
+[Checks and Counters]
+
+<p>Chinchou is undoubtedly the best Mantyke counter in the tier. It can take anything Mantyke throws at it, only worrying about the rare Life Orb-boosted Hidden Power Grass. It resists every other common attack, uses Rest to prevent Mantyke from defeating it with Toxic, and can KO Mantyke with any of its Electric STAB moves. Other Electric-types or Pokemon that use Electric moves give Mantyke a lot of trouble. Good examples are Magnemite and Staryu, who can both force it out rather easily with Thunderbolt. Ferroseed and Lileep are also troublesome to face. Ferroseed takes very little from any of Mantyke's moves and can set up entry hazards or use Leech Seed to slowly drain Mantyke's health. Lileep only fears Toxic or a Life Orb-boosted Ice Beam, but if you're not carrying those moves, it will take on Mantyke with ease. Both of these Pokemon can set up Stealth Rock which wears Mantyke down and discourages it from switching in too often. Many other bulky Pokemon such as Porygon or Frillish can also wear Mantyke down if it is not carrying Toxic.</p>
+
+<p>A good way to deal with Mantyke is to hit it on its weaker Defense stat. Pawniard and Murkrow will damage Mantyke severely with Sucker Punch if it is not running Substitute. Tirtouga can survive a hit with Sturdy and proceed to KO back with Stone Edge. If Mantyke hasn't had the chance to set up Rain Dance, Drilbur and Sandshrew can both outspeed and KO with Rock Slide. Although it is primarily a special attacker, Snover deserves a mention as it can switch into Hydro Pump from the Rain Dance set, remove rain thanks to Snow Warning, and 2HKO with Blizzard. It must be wary of Air Slash, however.</p>

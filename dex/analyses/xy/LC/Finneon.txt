@@ -1,0 +1,58 @@
+Overview
+########
+
+Finneon is one of only a handful of Pokemon in LC to have access to the move Defog without being weak to Stealth Rock. With its decent bulk and high Speed, Finneon is able to use the move well. Finneon also has access to U-turn, meaning after it has cleared the field of entry hazards, it can preserve momentum by switching out. Although Finneon can use a fast Defog to support its team, a lack of recovery prevents it from being able to repeatedly remove entry hazards. It also finds itself outclassed in other roles by Pokemon such as Chinchou, meaning its set can be predictable. This is further compounded by its limited offensive presence, as it has access to few special attacking moves along with a mediocre Special Attack stat. However, Finneon is able to take on opposing Stealth Rock users such as Drilbur and Archen quite well, meaning it can keep entry hazards off the field better than other Defoggers.
+
+Defog
+########
+name: Defog
+move 1: Defog
+move 2: Scald
+move 3: U-turn
+move 4: Hidden Power Fighting
+ability: Storm Drain
+item: Berry Juice
+evs: 44 HP / 152 Def / 48 SpA / 32 SpD / 232 Spd
+nature: Timid
+
+Moves
+========
+
+Defog is the main reason to use Finneon, as it clears all entry hazards on both sides of the field. Scald is capable of burning physical attackers and is a reliable STAB move, while U-turn allows Finneon to gain momentum after using Defog and act as a pivot. Hidden Power Fighting allows Finneon to 2HKO Eviolite Pawniard and OHKO variants without Eviolite.
+
+Set Details
+========
+
+232 Speed EVs with a Timid nature give Finneon 17 Speed, enabling it to outspeed Dwebble and Pawniard and tie with Archen and Drilbur. 48 Special Attack EVs make Finneon's attacks hit harder, while the remaining EVs are distributed into Finneon's defenses, enabling it to take hits. Berry Juice is best for Finneon, as it has no reliable recovery move and will need to take hits in order to perform its role. Storm Drain is Finneon's most useful ability; as it prevents damage from Water-type moves, and gives Finneon a handy Special Attack boost.
+
+Usage Tips
+========
+
+Finneon can be switched in on Water-type attacks from foes such as Tirtouga and Corphish; from there, it can use Defog to remove entry hazards. After removing entry hazards, Finneon can use U-turn in order to bring a teammate in. Alternatively, if the foe is a physical attacker or weak to Water-type moves, Finneon can use Scald in order to burn it. However, it's important to remember that Pokemon such as Timburr don't mind being burned thanks to Guts. If there is a Pawniard on your foe's team, it may switch in as you use Defog, triggering Defiant and giving it an Attack boost.
+
+Team Options
+========
+
+Pokemon weak to entry hazards really enjoy Finneon's presence, as it can clear away Stealth Rock, enabling teammates such as Fletchling, Ponyta, Larvesta, Archen, Magnemite, and Tirtouga to come in more easily. Diglett and Drilbur are also good teammates for Finneon, as they can deal with Electric-types such as Magnemite and Chinchou. Foongus is a good teammate for Finneon, as it covers its Electric- and Grass-type weaknesses while Finneon can come in on the Fire- and Ice-type moves that threaten Foongus. Foongus can also put a foe to sleep with Spore that Finneon can come in and use Defog on. Pokemon that are weak to Water can lure a Water-type move that Finneon can come in on for free. Fire-types such as Ponyta and Larvesta can deal with the bulky Grass-types that Finneon can't deal with, such as Cottonee, Ferroseed, and Foongus. They also appreciate Finneon's ability to remove entry hazards and check opposing Water-types. Finneon needs a teammate that can beat Pawniard so that it can Defog freely, so Mienfoo and Timburr are suitable for this role.
+
+Other Options
+########
+
+Finneon can use a Choice Scarf set, but it is entirely outclassed by Chinchou. Although Finneon appreciates the recovery from Berry Juice, an Eviolite set can take a +2 Sucker Punch from Pawniard and retaliate with Hidden Power Fighting. Finneon has access to Ice Beam, but it is too weak to 2HKO most Grass-types. Finneon can also use Hidden Power Grass to hit Water-type Pokémon; however, it normally prefers the coverage given by Hidden Power Fighting. Finneon also has access to Toxic, which can be used to wear down walls; however, most walls are paired with a cleric. Finneon can be used as a Swift Swim sweeper, but is outclassed by other Pokemon in that role such as Omanyte and Horsea. Finneon can support its teammates with either Rain Dance or Tailwind, and use U-turn to bring in a teammate that benefits from these moves.
+
+Checks & Counters
+########
+
+**Bulky Grass-types**: Ferroseed, Cottonee, and Foongus take little damage from Finneon's attacks, even Ice Beam. They are all able to inflict heavy damage on Finneon with their Grass-type STAB moves.
+
+**Pokemon immune to Water**: Pokemon with the abilities Dry Skin and Water Absorb, such as Croagunk, Frillish, and Mantyke, are all able to come in on Finneon's Scald, in addition to resisting U-turn and Hidden Power Fighting.
+
+**Bulky Walls**: Bulky Pokemon that can heal off Scald burns, such as Spritzee and Munchlax, can stall Finneon out indefinitely.
+
+**Electric-types**: Chinchou doesn't care about any of Finneon's moves and can threaten it out with Volt Switch. Magnemite also OHKOes Finneon with Volt Switch, and although it takes neutral damage from Scald, it can come in on a Defog and threaten Finneon out.
+
+**Pawniard**: Although Pawniard must be wary of Hidden Power Fighting, it can come in on a Defog and get an Attack boost.
+
+**Setup Sweepers**: Pokemon that don't mind Scald, particularly Croagunk and Timburr, can set up on Finneon easily.
+
+**Porygon**: Trace Porygon can come in on Finneon and trace Storm Drain, meaning it will be immune to Scald, in addition to receiving a Special Attack boost from it.

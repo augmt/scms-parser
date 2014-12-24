@@ -1,0 +1,49 @@
+[Overview]
+
+<p>Venonat is a Bug- and Poison-type Pokemon who has an excellent movepool, allowing it to Baton Pass with the help of its ability and status inflicting moves, namely Sleep Powder and Stun Spore. It also has access to Toxic Spikes. It has a mode of recovery, but it's not completely reliable, as sand is very common. While Venonat does not have the greatest stats, its movepool definitely makes up for it.</p>
+
+[SET]
+name: Baton Passer
+move 1: Agility
+move 2: Baton Pass
+move 3: Sleep Powder
+move 4: Signal Beam / Psychic
+item: Eviolite / Focus Sash
+ability: Compound Eyes
+nature: Timid
+evs: 196 HP / 36 Def / 36 SpA / 236 Spe
+
+[SET COMMENTS]
+
+<p>This set takes advantage of Venonat's excellent movepool and its ability Compound Eyes. The main goal of this set is to put your opponent to sleep, set up an Agility, and pass it on to a slower sweeper. Signal Beam is the STAB of choice, thanks to its confusion chance, making Baton Passing easier. Since Fighting-type Pokemon are common in the metagame and Venonat 4x resists their STAB moves, it can find many opportunities to switch in, cripple them with Sleep Powder, and begin boosting with Agility. As for your item of choice, it mostly comes down to your playstyle. If you plan on setting up just one Agility and passing it on, Focus Sash is the better option. If you plan on setting up more than one Agility, Eviolite is the better option since it increases Venonat's defenses.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Venonat can run Stun Spore over Signal Beam, allowing it to cripple more than one Pokemon, but Signal Beam also has a chance to confuse your opponent, so it comes down to preference. As for teammates, Venonat helps hard-hitting slow Pokemon, such as Litwick, Cranidos, Cubone, and Aron. Eviolite Bronzor with Heatproof is probably the best teammate Venonat can have, as it covers all of its weaknesses, except those to Fire-type moves, to which it is neutral.</p>
+
+[SET]
+name: Substitute + Disable
+move 1: Substitute
+move 2: Disable
+move 3: Morning Sun
+move 4: Signal Beam
+item: Eviolite
+ability: Tinted Lens
+nature: Bold
+evs: 36 HP / 116 Def / 116 SpA / 156 SpD / 76 Spe
+
+[SET COMMENTS]
+
+<p>Substitute + Disable is a great combination for Venonat, as it can Substitute on the first turn to let the Substitute take damage and proceed to Disable the opponent's attack, preventing it from hitting Venonat for super effective damage. If you plan on using Substitute + Sleep Powder or Disable + Sleep Powder, Venonat becomes the perfect setup bait for Scraggy due to Sleep Clause. Mienfoo can cause problems for Venonat, as it can keep using U-turn to stall out Venonat's Morning Sun PP and eventually KO it. Signal Beam isn't the strongest move, but it has a chance to confuse the opponent, which can be quite helpful. Tinted Lens improves Signal Beam, increasing its coverage, and Morning Sun recovers 1/2 of Venonat's maximum health when used in normal weather conditions.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Venonat 4x resists one of the most common types: Fighting. Heatproof Bronzor is the best teammate for this set, as it resists all of Venonat's weaknesses and deals well with opposing Pokemon with which Venonat has trouble such as Taillow. This set works well with entry hazard support, particularly Stealth Rock and Toxic Spikes.</p>
+
+[Other Options]
+
+<p>Bug Buzz can be used over Signal Beam for more power, but Venonat doesn't have the best Special Attack stat, and Signal Beam's 10% confusion chance is more important than the slight increase in power. In the Baton Pass set, Stun Spore or Morning Sun can be used over Signal Beam. As for the defensive set, Toxic Spikes is a good option, as Venonat has the ability to set them up and absorb them for stall-oriented teams. However, Toxic Spikes and Morning Sun is a illegal combination.</p>
+
+[Checks and Counters]
+
+<p>Pokemon immune to sleep, such as Shuppet and Mankey, can pose a threat, freely switching into Sleep Powder and taking little from a resisted Signal Beam, but they must watch out for Stun Spore. Priority can also be a problem, namely from Fake Out Mienfoo; in this scenario, Bronzor is an excellent, if not the best, teammate for Venonat. Taunt users completely shut down Venonat if it's not carrying an attacking move. Hard-hitting Flying- and Fire- type Pokemon, such as Taillow and Litwick, OHKO Venonat with Brave Bird and Fire Blast, respectively. Phazers, such as Hippopotas, can Whirlwind Venonat out while it is setting up Agility, making its effort useless.</p>

@@ -1,0 +1,30 @@
+[Overview]
+
+<p>Swampert has always been a down-to-earth Pokemon, never receiving the many technical or crafty moves its competition has. Swampert's nice coverage and well-rounded stats are usually overshadowed either by Pokemon with neat abilities, such as Gastrodon, or Pokemon that have a similiar typing but can hit harder, such as Rhyperior and Kabutops. However, Swampert has one move its competitors cannot use: Wide Guard. With this small perk in its movepool, Swampert maintains a niche as a reliable Wide Guard user that resists common spread moves and lacks Psychic-, Ice- and Flying-type weaknesses.</p>
+
+[SET]
+name: Wide Guardian
+move 1: Wide Guard
+move 2: Earthquake
+move 3: Waterfall
+move 4: Ice Beam / Rock Slide / Protect
+item: Sitrus Berry / Rindo Berry
+ability: Torrent
+nature: Brave / Adamant
+evs: 252 HP / 252 Atk / 4 SpD
+
+[SET COMMENTS]
+
+<p>Swampert is a great Wide Guard user, blessed with formidable bulk and an excellent typing that makes Fighting-types such as Hitmontop and Conkeldurr jealous. Swampert can take common spread moves such as Blizzard, Rock Slide, and Heat Wave admirably, and the combination of Earthquake and Waterfall makes a great STAB combo. When using Swampert as a lead, keep in mind that Fake Out is in the same priority bracket as Wide Guard, which means that Wide Guard can be stopped. Protect runs on the same counter as Wide Guard, but is a solid move all around to keep Swampert safe from gang attacks and Fake Out. Rock Slide is also an old favorite, as spread moves are appreciated on any team. Ice Beam might look weak given Swampert's average Special Attack, but it still does respectable damage to common Dragon-types.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Pokemon that can make use of Wide Guard and take care of Grass-types make great teammates in general. Examples of this are Volcarona, Zapdos, Abomasnow, and Chandelure. Hail teams are usually weak to Heat Wave and Rock Slide, though the buffeting hail can also be a problem for Swampert. Volcarona can actually find time to use Quiver Dance when under Rock Slide protection, or simply singe the competition with its powerful STAB moves. Zapdos can use Heat Wave and form a Discharge + Earthquake combination, while Chandelure appreciates Surf and Rock Slide protection, and can support Swampert with Trick Room. Sandstorm teams love additional protection from rain teams, and Swampert is immune to sandstorm damage courtesy of its Ground typing.</p>
+
+[Other Options]
+
+<p>Swampert's movepool is quite shallow, but it does have a few options to consider. Hammer Arm has a nice 100 Base Power and raises Swampert's Speed in Trick Room, but it doesn't hit much that Swampert's STABs don't cover already. Aqua Tail is an option over Waterfall for its higher Base Power, but the slight gain in power is overshadowed by the drop in accuracy. Yawn can put an opponent to sleep, but only works one turn after it is used. However, as your opponent probably isn't going to Protect on the first turn of Yawn, it makes them a little more predictable. Rest + Chesto Berry gives Swampert great one-off instant recovery, which is especially handy thanks to its solid bulk. Muddy Water and Scald can be used if you're feeling lucky, but if you find yourself with some free turns, Waterfall and Earthquake are more useful. Surf is another option, but it lacks a secondary effect, so unless you're running a Pokemon to take advantage of it, such as Toxicroak, it's not worth a moveslot. Ice Punch and Icy Wind are both great moves, but they are unfortunately illegal with Wide Guard.</p>
+
+[Checks and Counters]
+
+<p>Bulky Grass-types are the bane of Swampert's existence, especially Ferrothorn and Breloom. Ferrothorn laughs at any attempt to do damage to it, and has access to Power Whip and Seed Bomb. Breloom can outspeed and KO Swampert with STAB Seed Bomb before Swampert has a chance to move, and can also incapacitate Swampert with Spore. Similarly, sun teams can mop the floor with Swampert with Grass-types such as Shiftry and Sawsbuck. Abomasnow cannot use Blizzard freely around Swampert, but has STAB Grass Knot or Giga Drain to deal with the mudfish. Swampert has a hard time with bulky Water-types, especially those that don't use STAB spread moves. Gyarados and Rotom-W are fine examples of this, as they take almost nothing from Swampert's assaults and can hit through Wide Guard. If you're scared of opposing Wide Guard users, you can opt to use single-target moves such as Stone Edge or Rock Blast instead of Rock Slide, when available.</p>

@@ -1,0 +1,165 @@
+[Overview]
+
+<p>Zapdos has an excellent defensive typing, which boasts resistances and immunities to the most common moves of top-tier OU threats such as Scizor, Lucario, and Metagross. Although Zapdos's Stealth Rock weakness limits its walling capabilities, Roost and Rapid Spin support help combat that problem. Zapdos is capable of taking on many of the OU tier's top physical and special threats thanks to its all-around great stats and typing. Its high Special Attack and good Speed allow it to perform wonderfully in an offensive role, and it can even use Baton Pass to effectively support its teammates with stat boosts. Unfortunately, Zapdos struggles with the ever-popular Tyranitar (among other Pokemon), although this can be remedied with proper team support. Despite a few flaws, Zapdos is a very effective Pokemon, and a threat who should always be considered when building a team.</p>
+
+[SET]
+name: Physically Defensive
+move 1: Thunderbolt
+move 2: Roost
+move 3: Hidden Power Grass / Hidden Power Ice
+move 4: Heat Wave / Roar
+item: Leftovers
+nature: Bold
+evs: 248 HP / 228 Def / 32 Spe
+
+[SET COMMENTS]
+
+<p>With only two weaknesses, good stats overall, Roost for recovery, and Pressure to waste opponents' PP, this Zapdos makes a great tank. Given these traits, Zapdos can come in with relative safety against various OU tanks, walls, and sweepers. From there, it can stall out its opponents with Roost, or deal some damage with Thunderbolt, which will hurt even with no EV investment thanks to Zapdos's base 125 Special Attack.</p>
+
+<p>With Heat Wave, Zapdos can run Hidden Power Grass over Hidden Power Ice, losing super effective coverage on Gliscor and Dragonite, but gaining the ability to beat its biggest counter, Swampert. If you decide to run Roar, use Hidden Power Ice so you will have better type coverage. Heat Wave OHKOes Scizor, who might otherwise Roost off the damage dealt by a neutral Thunderbolt. The 32 Speed EVs let Zapdos outrun max Speed non-Scarf Tyranitar.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Even though this Zapdos makes a great defensive addition to any team, it's fairly easy to wall. As with almost any special attacker, it is effectively countered by Blissey. A bulky user of Pursuit can help deal with Blissey; Scizor is a perfect candidate for this thanks to its sky-high Attack and access to Superpower. Metagross is another excellent choice, since it resists both of Zapdos's weaknesses and can seriously damage Blissey with its STAB Meteor Mash. Zapdos also has issues with Stealth Rock, making a Rapid Spinner, such as Starmie, very beneficial.</p>
+
+<p>Other counters to Zapdos vary depending on which moves you choose. Swampert can easily stop any Zapdos who lacks Hidden Power Grass, while Celebi does not fear Zapdos who lack Heat Wave. Tyranitar's high Special Defense and STAB Rock-type moves make it a suitable counter to Zapdos as well. A Celebi of your own can force out Swampert with the threat of a Leaf Storm or Grass Knot. If you really fear Pursuit users, then Shaymin can accomplish many of the same things that Celebi can, but needs to run a more defensive set in order to do so.</p>
+
+[SET]
+name: Specially Defensive
+move 1: Thunderbolt
+move 2: Roost
+move 3: Thunder Wave / Light Screen
+move 4: Heat Wave / Hidden Power Ice
+item: Leftovers
+nature: Calm
+evs: 248 HP / 228 SpD / 32 Spe
+
+[SET COMMENTS]
+
+<p>This is similar to the Physically Defensive set, but with a spread focused on Special Defense. Though the sets appear similar, they play very differently. The Special Defense EVs allow Zapdos to switch in more easily against special attackers like Heatran and Starmie, two Pokemon against whom Zapdos usually has trouble coming in. Zapdos still has enough Defense to switch into many unboosted neutral physical attacks, though super effective hits will significantly damage it.</p>
+
+<p>Thunderbolt is Zapdos's primary STAB attack, and even with no Special Attack EVs, it will deal a healthy amount of damage to any Pokemon who doesn't resist it. Roost allows Zapdos to restore 50% of its health in one turn, which helps on such a defensive Pokemon. Thunder Wave is the main choice in the third slot to provide paralysis support, but Light Screen can be used to better sponge special hits and support your team. Heat Wave is the best choice in the final slot to hit Steel-types, but Hidden Power Ice can be used instead if you wish to hit Dragon- and Ground-types. If using Hidden Power Ice, an alternate EV spread of 248 HP / 224 SpD / 36 Spe should be used with 19 Attack IVs and 30 Speed IVs.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>This set runs into many of the same problems as the previous set. Blissey and Tyranitar still wall this set. Metagross, Scizor, Tyranitar, and Machamp are very good partners to this set to help cover Zapdos's weakness to the aforementioned Pokemon. Swampert and Celebi are also good switch-ins against this set, although they will struggle to beat Zapdos one-on-one. Toxic Spikes are a great complement to this set since Zapdos's counters are usually grounded, specially-based walls who rely on recovery to win. It is also important to note that this set will have more difficulty countering powerful physical threats due to its lower Defense stat, so make sure to back Zapdos up appropriately with physically bulky Pokemon like Gliscor, Rotom-A, and Skarmory.</p>
+
+[SET]
+name: SubRoost
+move 1: Substitute
+move 2: Roost
+move 3: Thunderbolt
+move 4: Hidden Power Ice / Toxic
+item: Leftovers
+nature: Timid
+evs: 192 HP / 64 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>Zapdos's best way of annoying the opponent is stalling them out with Substitute and Roost when Toxic Spikes are up, and it does quite a good job at it. This set is designed to be used in conjunction with Toxic Spikes, and aims to accumulate poison damage on some of Zapdos's usual switch-ins while taking advantage of Pressure to waste your opponent's PP. Common victims of this strategy include Tyranitar, non-Cleric Blissey, and Thick Fat Snorlax. Substitute and Roost, when used wisely, will block status and keep Zapdos at high health.</p>
+
+<p>Almost all Flying-type Pokemon immune to Toxic Spikes will fall to Zapdos's STAB Thunderbolt, or in Gliscor's case, Hidden Power Ice. Toxic is also a viable option in the last slot if you decide to not run this set alongside Toxic Spikes, though it is recommended that you do. Toxic has additional usefulness in poisoning Pokemon immune to Toxic Spikes, namely Pokemon with Levitate, such as Rotom-A, who would otherwise switch in and set up on Zapdos. Thankfully, few Steel-type Pokemon can reliably switch in against this Zapdos. Heatran and Calm Mind Wish Jirachi can give this set trouble, as well as Metagross with Ice Punch. Metagross without Ice Punch, however, can be outstalled and worn down with Thunderbolt, while Empoleon has very little chance of achieving much.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>This Zapdos successfully combines the ability to outstall most walls and outspeed many common Pokemon, such as Jolly Lucario. It also gets a free Substitute if it comes in on a Choice-locked Ground-type move, such as Choice Scarf Tyranitar's Earthquake.</p>
+
+<p>Baton Pass can also be used in place of Hidden Power Ice. Baton Pass allows Zapdos to Pass a Substitute to a teammate when a counter comes in. For example, if Tyranitar switches in on Zapdos, it can Baton Pass out to a Lucario waiting in the wings. At that point, Lucario will have a Substitute up, and will be able to easily set up a Swords Dance and sweep. Baton Pass also helps for scouting Zapdos's counters, although if you're interested in doing that, you will be better off with U-turn.</p>
+
+<p>Since the aim of this set is to stall, this Zapdos works best when paired with Toxic Spikes. Forretress and Tentacruel resist the Ice-type attacks aimed at Zapdos, can set up Toxic Spikes, and are able to Rapid Spin Stealth Rock away to assist Zapdos further. Roserade and Smeargle do not work particularly well with Zapdos defensively, but they deserve a mention because they are the only other OU Pokemon who can reliably set up Toxic Spikes for your team, and can put a Pokemon to sleep with Sleep Powder and Spore respectively. If you find yourself in a situation where Zapdos is easily countered by your opponent's team, Baton Pass might prove to be a worthwhile option in conjunction with Substitute, allowing your teammates to get in for free even if Zapdos is incapable of stalling out the opposition.</p>
+
+[SET]
+name: Special Attacker
+move 1: Thunderbolt
+move 2: Heat Wave
+move 3: Hidden Power Grass / Hidden Power Ice
+move 4: Roost
+item: Life Orb / Leftovers
+nature: Timid / Modest
+evs: 4 Def / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>Offensive Zapdos can be quite a threat to teams that expect a weaker, more defensive Zapdos. The given attacks provide surprisingly good coverage in OU, and with Zapdos's massive Special Attack, can heavily damage many common Pokemon. With Hidden Power Ice as your last move, no Pokemon outside of Lanturn resists the entirety of this set. Zapdos is a very durable Pokemon, even with no EV investment in its defenses, and with Roost, it can still be very difficult to take down.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Life Orb is the recommended item for the extra power, but Leftovers is viable as well for improving Zapdos's longevity. If Swampert isn't a problem for you, Hidden Power Grass can be replaced by Hidden Power Ice for a pseudo-BoltBeam combination, which provides excellent type coverage. A Timid nature is preferred in order to outspeed more threats, but a Modest nature can be used if you would prefer more power.</p>
+
+<p>This set is a bit more difficult to counter than the defensive sets because it makes use of Zapdos's impressive Special Attack stat and type coverage, but it is still stopped cold by Blissey. Specially bulky Pursuit users are a great way to deal with her. Because of the lack of defensive investment, this Zapdos is especially prone to revenge killing. When using this set, it is important that you also pair it up with Pokemon who can switch in on the likes of Mamoswine's Ice Shard, Lucario's Extreme Speed, and to a lesser extent, Scizor's Bullet Punch. A Skarmory, Choice Scarf Magnezone, or your own Scizor can be used to remedy these weaknesses. Skarmory gets a special mention as he can effectively use Spikes to rack up residual damage on the opponent and punish them for switching in and out of Zapdos.</p>
+
+[SET]
+name: Choice
+move 1: Thunderbolt
+move 2: Hidden Power Ice / Hidden Power Grass
+move 3: Heat Wave
+move 4: U-turn
+item: Choice Scarf / Choice Specs
+nature: Timid
+evs: 4 Def / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>Choice Scarf Zapdos is meant to lead, and gives issues to common leads like Azelf, Metagross, and Heatran. If the opposing lead is not a good match up, Zapdos can U-turn out to an appropriate counter. Hidden Power Ice is chosen because it complements Thunderbolt and allows Zapdos to revenge kill Dragonite and Flygon. If defeating Swampert is of absolute importance, Hidden Power Grass is usable on this set, though Hidden Power Ice is preferred. With Heat Wave, Zapdos can reliably revenge kill opposing Steel-types such as Agility Metagross. The given EVs allow Choice Scarf Zapdos to Speed tie with Choice Scarf Flygon, and possibly revenge kill it with Hidden Power Ice. Choice Specs could be used as an alternative item on this set for more power, but Choice Scarf is generally preferred as it allows Zapdos to act as a more effective revenge killer.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Much like with other Zapdos sets, Blissey will wall you to no end. Swampert is a good match-up against this set, as is Tyranitar (though both need to watch out for Hidden Power Grass). If your opponent is especially gutsy, they could even send in a Water-type to sponge Heat Wave or Hidden Power Ice and force you to take more damage from Stealth Rock. In order to fix these problems, Scizor makes a great partner, since it is capable of dealing with Tyranitar and Blissey quite easily. Zapdos's weakness to Stealth Rock is a massive hindrance for a Choice set, as without Roost you are sacrificing one of its best assets in its defensive longevity. Because of that, pairing this Zapdos with a Wish user such as Jirachi or your own Blissey can greatly prolong Zapdos's lifespan. Rapid Spin support is also helpful; Starmie and Tentacruel are good choices for this role.</p>
+
+[SET]
+name: Baton Pass
+move 1: Baton Pass
+move 2: Agility
+move 3: Substitute
+move 4: Thunderbolt
+item: Leftovers 
+nature: Timid
+evs: 248 HP / 140 Def / 88 SpA / 32 Spe
+
+[SET COMMENTS]
+
+<p>This set is fairly straightforward: set up an Agility while your opponent switches to their Zapdos counter, Substitute while you're faster than the opposing Pokemon, and then Baton Pass to a sweeper with low Speed. Physical attackers are often the best choices as they scare off Blissey and fare well against Electric-types like Jolteon, who are common switch-ins to Zapdos. It is important to note that this set is meant to be played defensively, utilizing Zapdos's amazing typing and bulk to get the Baton Pass off instead of just boosting your stats, setting up a Substitute, and attempting to sweep.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>This set has a defensive set-up to ensure that Zapdos has the bulk for pulling off an Agility and Substitute. You can afford to cut down on Speed here because you will be outspeeding the vast majority of OU after an Agility, except Choice Scarfers like Starmie. The 32 Speed EVs are recommended to beat Jolly Tyranitar. You can add some Speed EVs to be able to set up a Substitute in front of slower versions of Celebi and Jirachi, but beware that if Zapdos's Speed stat hits 246, it will Speed tie with Choice Scarf Flygon and Jirachi&mdash;and if Zapdos wins the Speed tie, your Baton Pass recipient instead of Zapdos will take a hit. The Defense is there so Zapdos can take physical hits from Pokemon like Gyarados or Metagross, but you can shift it to Special Defense if you want to stand a better chance against Starmie, Heatran, and other powerful special attackers.</p>
+
+<p>As with most Baton Passers, this Zapdos is fairly difficult for your opponent to counter directly. Good supporters would be Pokemon such as Metagross or Lucario, who are relatively easy to Baton Pass to with their resistances to both of Zapdos's weaknesses. Other slow-but-powerful Pokemon can use this to their advantage, such as Swords Dance Heracross, Swords Dance Rhyperior, and Nasty Plot Porygon-Z. Machamp is also a good choice, as he is extremely difficult to deal with once he gets an Agility boost under his belt. Since nearly every Pokemon in the game benefits from a +2 Speed boost, this Zapdos will surely be an asset to your team. Zapdos can effectively Baton Pass Substitutes as well, something many Pokemon benefit greatly from. Frail Pokemon in particular appreciate having a Substitute Passed to them, as the Substitute allows them to take a hit that they would otherwise take heavy damage from.</p>
+
+[Legal IVs for Hidden Power]
+
+<p>The following IVs are necessary for each Hidden Power type with the given natures, assuming all other IVs are 31:</p>
+
+<dl>
+<dt>Hidden Power Grass</dt>
+<dd>Modest: 30 Def / 30 SpA</dd>
+<dd>Timid: 2 Atk / 30 SpA</dd>
+<dd>Bold: 14 Atk / 30 SpA</dd>
+<dd>Calm: 14 Atk / 30 SpA</dd>
+
+<dt>Hidden Power Ice</dt>
+<dd>Modest: 10 Atk / 30 Def</dd>
+<dd>Timid: 22 Atk / 30 Def</dd>
+<dd>Bold: 10 Atk / 30 Def</dd>
+<dd>Calm: 19 Atk / 30 Spe</dd>
+
+<dt>Hidden Power Fighting</dt>
+<dd>Modest: 22 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe</dd>
+<dd>Timid: 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe</dd>
+<dd>Bold: 10 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe</dd>
+<dd>Calm: 3 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe</dd>
+</dl>
+
+[Other Options]
+
+<p>Zapdos is a sturdy user of Rain Dance and can take advantage of it with a 100% accurate STAB Thunder off one of the highest Special Attack stats in OU. It can also run the defensive set with RestTalk that was standard in ADV, but it is very difficult to use in the heavily offensive D/P metagame. Thunder Wave is a good choice to support a slower team, especially one with a slow sweeper like Rhyperior. Discharge can replace Thunderbolt on any set to abuse its 30% paralysis rate at the cost of a lower Base Power. Zapdos is also capable of utilizing a Metal Sound set, but it requires a lot more team support than it is usually worth.</p>
+
+<p>Generally, you'll want a defensive Zapdos to have nearly maxed out HP and a ton of EVs in either of its defenses. It is important to remember that using 248 HP EVs is more beneficial than fully maximizing HP, since it allows you to switch into Stealth Rock five times instead of four. Using max HP does allow you recover additional HP with Leftovers, however. On offensive Zapdos, you should always max Speed to at least Speed tie with opposing max investment base 100 Speed Pokemon. The defensive Roost sets can opt for a faster spread if you want them to beat Lucario more easily; 176 Speed EVs with a Speed-boosting nature will outspeed all non-Scarfed Lucario. HP should then be maxed, and the remaining 80 EVs should be poured into Special Attack or Defense. On more defensive Zapdos sets, it doesn't hurt to invest in a bit more Speed to outspeed key threats.</p>
+
+[Checks and Counters]
+
+<p>Because of Zapdos's versatility, it is hard to outright counter it. However, there are certain Pokemon that can stop Zapdos regardless of set. Immunity Snorlax tops this list, as with Immunity it is immune to Toxic should Zapdos choose to run it, and with its high Special Defense, Zapdos has a hard time dishing out any noticeable damage. Thick Fat Snorlax does a good job at beating Zapdos, but it must watch out for Toxic. Provided Zapdos doesn't have Toxic, Blissey and Tyranitar are excellent counters to it. With Blissey's enormous special bulk, Zapdos is rendered useless and is forced to switch out lest it want to be statused. With Sandstorm raging, Tyranitar's special bulk increases greatly, as does its ability to counter Zapdos. Tyranitar doesn't fear any of Zapdos's moves and easily beats Zapdos by using either Crunch or Stone Edge. However, Tyranitar must be wary of using Stone Edge on SubRoost Zapdos, as Pressure allows Zapdos to stall out all of Stone Edge's PP. Specially defensive Heatran threatens Zapdos through the use of either Lava Plume, Toxic, or Roar.</p>
+
+<p>Many of Zapdos's counters depend on what Hidden Power it is using. While using Hidden Power Ice, Zapdos is vulnerable to Pokemon such as Swampert and Mamoswine. Swampert is able to take any attack Zapdos throws at it and is able to KO Zapdos with a combination of Ice Beam and Earthquake (as it uses Roost). Mamoswine is able to switch into anything not named Heat Wave and threaten Zapdos with either Ice Shard or Stone Edge. While using Hidden Power Grass, Zapdos's counter list expands greatly. Pokemon such as Gliscor and Flygon make excellent switch-ins; Gliscor is able to Toxic Zapdos, which greatly reducing its staying power, and Flygon is able to outmuscle it. Nidoqueen can use Zapdos as a setup fodder in order to set up either Stealth Rock or Toxic Spikes, and is then able to KO Zapdos through the use of Ice Beam. Celebi is able to paralyze Zapdos with Thunder Wave, essentially crippling it for the rest of the match; however Celebi must be cautious of Heat Wave. Shaymin is in the same boat as Celebi, but instead aims to KO Zapdos with Hidden Power Ice rather than crippling it. All of these counters are dependent on Zapdos lacking Toxic.</p>
+
+<p>Pokemon such as Electrivire and Jolteon can switch into Thunderbolt with impunity and have the bulk to switch into any of Zapdos's other moves, making them good checks to Zapdos. Electrivire can use the Motor Drive boost in order to fire off super-effective Ice Punches, while Jolteon can use Thunderbolt to deal major damage. Although both Pokemon do have the bulk to take any of Zapdos's moves, that does not mean they can repeatedly switch in, as they will quickly wear out. Raikou can set up multiple Calm Minds on Zapdos provided it does not get hit by Toxic. RestTalk Rotom-A can switch into Zapdos and then proceed to wear it out while recovering when needed; it threatens Zapdos with strong a Ice STAB that causes Zapdos to run in fear. Weavile is able to use Ice Punch to KO Zapdos if it chooses to stay in, or can use Pursuit on the predicted switch to deal heavy damage.</p>

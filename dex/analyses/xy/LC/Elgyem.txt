@@ -1,0 +1,74 @@
+Overview
+########
+- Cute alien
+- Can reliably recover health
+- Very weak to Knock Off
+- Low Speed + Analytic lets it hit harder
+
+Physical Wall
+########
+name: Physical Wall
+move 1: Psychic
+move 2: Shadow Ball
+move 3: Recover
+move 4: Hidden Power Fighting / Thunder Wave / Calm Mind
+ability: Analytic
+item: Eviolite 
+evs: 236 HP / 240 Def
+nature: Bold
+
+Moves
+========
+
+- Psychic is the obligatory STAB move that deals decent damage
+- Shadow Ball hits the and Psychic-types that have little to fear from Elgyem's STAB
+- Recover is almost mandatory for healing off damage while tanking physical hits
+- Hidden Power Fighting hits Dark-types that might switch in to wall its other attacks, and is especially good for hitting Pawniard on the switch-in
+- Thunder Wave is an ideal option for quickly putting setup sweepers out of commission and making them easy to take out by teammates
+- Calm Mind is a setup option that can capitalize on forced switches for more power
+
+Set Details
+========
+
+- Eviolite is the ideal item to use here because Elgyem gets Recover to reliably heal and therefore does not need Berry Juice, and it appreciates the added bulk
+- The given EVs maximize Elgyem's physical bulk and gives Elgyem an HP stat of 25, a Stealth Rock number, which is important for minimizing hazard damage
+- 240 Def EVs are used instead of 236 due to Hidden Power Fighting's IV requirements
+- Analytic ability works perfectly with Elgyem's low Speed, allowing it additional power against faster foes as well as switch-ins
+
+Usage Tips
+========
+
+- Elgyem is used primarily to wall Meditite, and often gets a free turn as Meditite switches out to bring in a teammate with a better matchup
+- Recover needs to be used in advance in many situations while tanking hits because of Elgyem's low Speed; if it waits too late to use it, it may not have the chance to
+- Predicted switches to Steel- or Dark-types (especially Pawniard) can be capitalized on by using HP Fighting, punishing them for attempting to threaten Elygem by switching in
+- Thunder Wave also makes an ideal option for crippling switch-ins and also gives Elgyem a Speed advantage that makes it easier to select moves
+- Calm Mind is ideal for use with Recover to make Elgyem into a self-sustaining sweeper, much like Spritzee, but Pokemon that Elgyem is weak to will need to be removed before this can reliably be done
+
+Team Options
+========
+
+- Fighting-types help Elgyem deal with the Dark-types that threaten it. Spritzee can help against many of these too, but it is less effective against Pawniard
+- Dark-types like Vullaby are good partners for Elgyem, as they handle the Ghost-types that Elgyem fears.
+
+Other Options
+########
+
+- Psyshock is an alternative and slightly weaker option over Psychic that can hit the physical defense of foes rather than special
+- Signal Beam is an option to hit both the Psychic- and Dark-types that wall Elgyem's STAB, but it does not hit Meditite for super effective damage like Shadow Ball, and Elygem loses out on a OHKO against Pawniard if this is used over HP Fighting
+- Thunderbolt is an additional coverage option for hitting Water- and Flying-types for super effective damage
+- Synchronoise hits Psychic-types incredibly hard, but it unfortunately is not useful at all otherwise
+- Energy Ball is an additional coverage option for hitting Grass-type-weak enemies for super effective damage
+- Toxic stalling can work with Recover for wearing down bulky/support enemies
+- Elgyem is slow enough to make use of Trick Room, but unfortunately it is not a very reliable playstyle in Little Cup, it also ruins the benefit of Analytic; however, a set with Trick Room, Calm Mind, Recover, and Psychic can be deadly once Psychic-type resists and immunities are removed. This is not very practical, though
+- Magic Coat is a nice surprise against hazard setters or status spreaders
+
+Checks & Counters
+########
+
+**Dark-types**: If these manage to get in, they can cause Elgyem a lot of problems, especially Pawniard if it can enter battle without taking a HP Fighting; Knock Off significantly hampers Elgyem's walling capabilities
+
+**Ghost-types**: These can severely hurt Elygem with STAB Shadow Ball
+
+**U-turn Users**: Even slow U-turn users like Larvesta can get a decent chunk of damage with U-turn and then switch out to a partner that can finish Elgyem off after taking the damage; ones that get STAB from it are obviously more worrisome
+
+**Toxic**: As is the case with most self-sustaining walls, Toxic will wear Elgyem down despite its ability to recover health at will

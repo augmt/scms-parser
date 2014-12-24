@@ -1,0 +1,53 @@
+Overview
+########
+
+It's hard to imagine how a Pokemon with such low defenses could manage to be a threat in the metagame, but Sharpedo manages to pull it off. For starters, Sharpedo has access to one of the best offensive abilities any Pokemon could wish for: Speed Boost, allowing it to reach insane levels of speed after only a couple of turns. This, combined with its fantastic STABs and coverage moves, makes it one of the best late-game cleaners available in UU. However, using Sharpedo can prove to be a high risk, high reward strategy because of its initial Speed, which requires a turn of Protect to patch up, and its frailty that can turn it into a dead weight.
+
+
+Cleaner
+########
+name: Cleaner
+move 1: Protect
+move 2: Waterfall
+move 3: Crunch
+move 4: Ice Beam
+ability: Speed Boost
+item: Life Orb
+evs: 252 Atk / 104 SpA / 152 Spe
+nature: Naughty
+
+Moves
+========
+
+Protect is used so that Speed Boost can activate while Sharpedo takes no damage. It's fairly predictable though, so the opponent can easily take advantage of this. Crunch is a strong STAB move that OHKOes Cofagrigus and Metagross most of the time after Stealth Rock damage, and OHKOes Chandelure. Waterfall is another STAB move that deals with the plethora of Fire- and Ground-type wallbreakers that infest the tier, such as Victini, Darmanitan, Houndoom, and Nidoking. It's worth noting that Sharpedo's STABs alone deal with a huge portion of the metagame, as they have amazing neutral coverage. Ice Beam is specifically used to deal a minimum of 60% to 0/4 Hydreigon and 252/0 Chesnaught, but you should also use it if the opposing Pokemon is hit harder by it than Sharpedo's STABs, examples include Flygon, Noivern, Shaymin, and Crobat.
+
+Set Details
+========
+
+The given EVs maximize the damage output from Sharpedo's attacks and let it outpace max Speed Crobat and Aerodactyl after a boost. The rest are dumped into Special Attack to deal as much damage as possible to Hydreigon and Chesnaught. Life Orb is used to increase the power of Sharpedo's moves, and a Naughty nature is used so you don't lower either attacking stat and take priority attacks slightly better than with Lonely.
+
+Usage Tips
+========
+
+You should weaken the opponent's team enough before releasing the shark to use it effectively. It's best to remove priority users entirely before attempting to sweep, as Sharpedo's defenses are paper thin; it doesn't want to take a hit. Ever. While Sharpedo is commonly saved until late in the game, it's actually advisable to try to get it in earlier in the game to weaken one of its checks so it can sweep more easily late-game.
+
+Team Options
+========
+
+Pokemon that can set up entry hazards like Forretress can prove to be invaluable when attacking. Pokemon which lure and weaken bulky Pokemon are also appreciated. Spinblockers and fast Taunt users are good teammates as they help keep entry hazards on the field. The latter also prevents recovery to help Sharpedo sweep. Due to the change in Roar and Whirlwind mechanics, phazers can prevent Umbreon, Florges, and Wish users in general from healing by using phazing moves on them as they use Protect. Slow U-turn or Volt Switch users also make for great partners and allow Sharpedo to come in, hit a check on the switch, switch out, and come back later for the kill. Grounded Poison-types that can also set up entry hazards like Nidoqueen and Qwilfish also make for good partners as they absorb Toxic Spikes, which Sharpedo doesn't appreciate. Froslass is another great Pokemon that can lay down Spikes and help with other utility moves, such as Thunder Wave and Destiny Bond.
+
+Other Options
+########
+
+You can opt to use Aqua Jet to out-prioritize other priority users, potentially saving Sharpedo from a possible KO. Destiny Bond is also a viable move Sharpedo can utilize, as with Speed Boost it will most likely outspeed the opponent, making it very likely that Sharpedo will be able to successfully use Destiny Bond. Substitute can also be used so Sharpedo can take an attack or two, while also allowing it to stall out for Speed Boost. Earthquake and Zen Headbutt work as alternate coverage moves that you can tailor to your needs, while you can use Hydro Pump when running a 252 SpA / 104 Atk EV spread.
+
+Checks & Counters
+########
+
+**Pokemon that resist Sharpedo's STABs**: Chesnaught, Hydreigon, Toxicroak, and Shaymin can be a little hard to deal with if they are healthy at late-game, though Hydreigon and Chesnaught get hit hard by Ice Beam.
+
+**Bulky Water-types**: Sharpedo has a hard time getting around some bulky Water-type Pokemon like Swampert, Suicune, and Alomomola, so they can halt Sharpedo from paving through teams.
+
+**Bulky Pokemon that can take a hit**: Pokemon like Snorlax, Florges, and Aromatisse can take an attack from Sharpedo and then KO back.
+
+**Priority**: Priority users like Lucario, Honchkrow, and Mega Absol with Sucker Punch can easily stop Sharpedo in its tracks.

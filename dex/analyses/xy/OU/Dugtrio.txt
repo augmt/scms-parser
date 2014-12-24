@@ -1,0 +1,55 @@
+Overview
+########
+
+As the only fully evolved Pokemon with access to Arena Trap, Dugtrio has a very specific niche in the OU metagame as a unique trapper and revenge killer. Dugtrio's blazing Speed stat complements this excellently, allowing it to trap and finish off a wide range of weakened threats. It also has a decent movepool that includes useful support moves such as Memento and Stealth Rock. However, Dugtrio certainly does have some flaws preventing it from being a common sight in the OU metagame. Its mediocre Attack means it will have some trouble taking out some bulkier opponents, and its pitiful defenses mean it will be KOed very easily, even by resisted hits. In addition to this, Dugtrio's lack of priority outside of Sucker Punch and weakness to the common Aqua Jet only compounds its frailty, leaving it susceptible to opposing revenge killers. Furthermore, Arena Trap is generally inferior to Shadow Tag, as Dugtrio cannot trap Levitate users and Flying-types. Although Dugtrio can almost always successfully trap and revenge kill a weakened opponent, including some of the tier's powerhouses such as Mega Gyarados, Terrakion, Kyurem-B, and Mega Medicham, it is not very useful outside of its niche and should be played very carefully to not be a waste of a teamslot.
+
+Trapper
+########
+name: Trapper
+move 1: Earthquake
+move 2: Reversal
+move 3: Memento / Stone Edge / Substitute
+move 4: Stealth Rock
+ability: Arena Trap
+item: Focus Sash
+evs: 252 Atk / 4 Def / 252 Spe
+ivs: 21 HP / 0 Def / 0 SpD
+nature: Naive / Hasty
+
+Moves
+========
+
+Earthquake is Dugtrio's main move and most powerful STAB option. Earthquake's main use is to revenge kill weakened Pokemon and take out Heatran. Reversal works well with a Focus Sash and provides a great source of Fighting-type coverage; at 1 HP, Reversal is stronger than even Earthquake. It hits Pokemon such as Tyranitar and Terrakion for massive damage. Stone Edge has great coverage with Earthquake, KOing Volcarona and weakening the Flying-types which are immune to Arena Trap. Memento opens up setup opportunities for teammates and cripples whatever switches into Dugtrio after it has KOed a trapped Pokemon. Alternatively, Substitute could be used to get maximum power Reversal reliably and provide a buffer against Bisharp's Sucker Punch. Stealth Rock, a mandatory form of support, is a good option to use if you can't fit it onto another Pokemon.
+
+Set Details
+========
+
+Full investment in Attack and Speed maximizes Dugtrio's revenge killing capabilities, and a Hasty nature ensures that it outruns the many threats in the 100-115 Speed tier that often run Speed boosting natures, while lowing its Defense to abuse Reversal. A Focus Sash somewhat remedies Dugtrio's paper-thin defenses, allowing it to take at least one hit before it faints, as well as giving it a shield against priority. 21 HP IVs allow Reversal to reach full power more easily, especially on resisted hits such as Tyranitar's Stone Edge.
+
+Usage Tips
+========
+
+Dugtrio is a Pokemon best brought in to revenge kill opposing Pokemon or on other free switches to secure KOs. This means that it can be brought in on U-turn or Volt Switch off predicted switch-ins of its primary targets, such as Tyranitar and Heatran. Because it might need to trap a Pokemon at any time, Dugtrio doesn't really excel at any particular point of the game. Due to its excellent Speed, Dugtrio can also trap many slower Choice Scarf users, notably Tyranitar. In addition, due to its mediocre power, it can generally only KO frail and weakened threats. Memento and Stealth Rock are best used after Dugtrio has already performed its trapping duties so that it can provide a form of utility outside of its offensive role.
+
+Team Options
+========
+
+Defog or Rapid Spin support is highly recommended when using Dugtrio in order to ensure that its Focus Sash stays intact; however, Rapid Spin support is preferred when using Stealth Rock to keep Dugtrio's hazards intact. Examples of teammates that can provide this support include Latios, Starmie, and Mandibuzz. Pokemon that can use Volt Switch or U-turn are excellent partners, too, as they can bring Dugtrio in safely on threats it is supposed to trap. Talonflame and Thundurus are both good partners in this regard. Dugtrio reciprocates this support by trapping and KOing troublesome counters to these Pokemon. Indeed, Dugtrio is one of the best Pokemon to pair with Talonflame by virtue of the fact that it can trap and KO one of Talonflame's best counters: Heatran. This also extends to Ferrothorn, as Dugtrio can also trap Magnezone, which is extremely threatening to to Ferrothorn.
+
+Other Options
+########
+
+Dugtrio does not have many other options due to its relatively small niche. An Adamant nature can be used along with Rock Tomb to hit Mega Charizard X and slow it down, then finish it off with Earthquake. This set also gives Dugtrio a 75% chance to OHKO Bisharp. Aerial Ace can be used to hit Mega Heracross and Breloom, two much more prominent threats that are now increasing in usage. Sucker Punch can also be used to hit Mega Alakazam, Latias, and Latios, but it is not recommended. A Choice Band set with Pursuit for Pokemon like Gengar, Latias, and Latios can also be used to some effect.
+
+Checks & Counters
+########
+
+By definition, nothing counters Dugtrio if it is revenge killing opponents that can be trapped by Arena Trap, because counters need to switch in. Although it can sometimes defeat threats, given the right conditions, there are still plenty of checks to Dugtrio. One of the best ways to beat Dugtrio is to not let it actually trap what it wants to through the use of moves like Baton Pass and U-turn. Moreover, Flying-types, Ghost-types, and Pokemon with Levitate can always escape the clutches of Dugtrio's Arena Trap.
+
+**Physically Bulky Pokemon**: It is no secret that Dugtrio falls far behind typical OU attacking standards, and, as a result of this, most Pokemon with decent physical bulk that aren't weak to the EdgeQuake combination can take on Dugtrio relatively well. Skarmory, Gliscor, and Landorus-T wall all of Dugtrio's attacks and proceed to set up hazards in its face or outright KO it.
+
+**Water-types**: Bulky Water-type Pokemon almost always make for excellent Dugtrio checks. Slowbro, Vaporeon, and Suicune can all wash away Dugtrio with their super effective Scalds and take relatively low damage from its Earthquake and Reversal.
+
+**Grass-types**: Thanks to their resistance to Ground and/or ability to hit Dugtrio super effectively, many Grass-type Pokemon make for great Dugtrio checks. Trevenant and Gourgeist can take any of Dugtrio's attacks with ease and either burn it or outright KO it with an appropriate move. Breloom resists both Ground and Rock while simultaneously packing priority in the form of Mach Punch. Lastly, Mega Venusaur can use its stupendous defensive stats to wall anything that Dugtrio attempts to throw at it and proceed to KO it with a super effective Giga Drain.
+
+**Priority**: Because Dugtrio has very pitiful defensive stats, virtually every form of priority is threatening to it. Scizor, Azumarill, and Talonflame are all good users of priority moves and can take down Dugtrio with a swift revenge kill. However, Talonflame must watch out for a potential Stone Edge if Dugtrio still has its Focus Sash intact. Bisharp can also strike down Dugtrio with its powerful Sucker Punch or take advantage of Memento, gaining an Attack boost, though it cannot take an Earthquake. Finally, despite their weakness to Reversal, Mamoswine and Weavile can both pack priority Ice Shard to pick off Dugtrio.

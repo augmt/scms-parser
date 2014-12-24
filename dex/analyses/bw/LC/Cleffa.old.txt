@@ -1,0 +1,70 @@
+[Overview]
+
+<p>While Cleffa is a weak Pokemon with low stats, not everything is terrible for it. It has an extremely wide movepool that makes it incredibly unpredictable, so it can catch something off-guard if played correctly. Cleffa also has an incredible ability in Magic Guard, which means weather and entry hazards are no problem. Despite the positives, Cleffa still isn't a very good Pokemon, as its stats are too low to do anything very effectively.</p>
+
+[SET]
+name: Endeavor
+move 1: Endeavor
+move 2: Protect
+move 3: Encore
+move 4: Thunder Wave / Toxic
+item: Focus Sash
+ability: Magic Guard
+nature: Hasty
+evs: 236 Spe
+
+[SET COMMENTS]
+
+<p>Magic Guard makes it much easier to keep a Focus Sash intact, so Cleffa can survive a normally lethal move and deal massive damage with Endeavor. Cleffa should normally switch in after a KO on something that can usually KO it as well, and use Endeavor on the opposing threat to take it down to 1 HP. With Snover support for hail, Cleffa can usually manage to KO a Pokemon before fainting. Protect scouts for surprising moves that could break Cleffa's Focus Sash such as a random Fake Out. Encore can stop something from trying to set up on Cleffa, which is otherwise easy if Cleffa is at full HP. In the last slot, Thunder Wave or Toxic can be used to do something to Pokemon that are immune to either Endeavor or Hail, such as Gastly, Frillish, and Snover.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The only EVs required on this Cleffa are Speed, which makes Cleffa as fast as possible. Any other EVs would be either wasted or counterproductive, as Cleffa has no attacking moves and would like to be at low defensive stats. Snover support for hail is required with this set, as it can deal the finishing blow to most Pokemon that are hit by Endeavor. Hippopotas could be used for the sand, but many more threats are immune to it. Priority from the likes of Timburr is nice, as it can KO opponents such as other Snover that are immune to hail. Stunky could help with the odd Solosis, which also carries Magic Guard. Dwebble, Ferroseed, and Shellder are all problems for Cleffa, as they commonly use moves that hit multiple times to break Cleffa's Focus Sash.</p>
+
+[SET]
+name: Dual Screens
+move 1: Reflect
+move 2: Light Screen
+move 3: Thunder Wave
+move 4: Wish
+item: Light Clay / Eviolite
+ability: Magic Guard
+nature: Bold
+evs: 196 HP / 212 Def / 76 SpD
+
+[SET COMMENTS]
+
+<p>Cleffa has decent bulk to set up Reflect and Light Screen, so it is good at supporting its teammates in this way. Thunder Wave provides good support for sweepers by paralyzing important Pokemon such as Gastly. In the last slot, Wish is used as a way for Cleffa to heal either itself or a teammate.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Light Clay causes Reflect and Light Screen to last an extra three turns, but if that isn't needed, then Cleffa can use Eviolite for some much appreciated extra bulk. Scraggy, Clamperl, and Shellder are all great teammates for Cleffa, as they can set up behind Screens quite effectively. Slowpoke and Gastly also work well, as they can switch in on Fighting-type attacks aimed at Cleffa. Pawniard is a problem for Cleffa due to its super effective Brick Break, so a Fighting-type such as Timburr works well as a partner to check it.</p>
+
+[SET]
+name: Stallbreaker
+move 1: Wish
+move 2: Protect
+move 3: Toxic
+move 4: Fire Blast
+item: Eviolite
+ability: Magic Guard
+nature: Calm
+evs: 196 HP / 52 Def / 236 SpD
+
+[SET COMMENTS]
+
+<p>Very few Pokemon on a stall team can get through Cleffa thanks to Magic Guard and the boost from Eviolite, so it is an effective stallbreaker. Wish and Protect provide Cleffa with important healing and support the team as well. Toxic is great on this set, as it can wear down defensive Pokemon such as Hippopotas over time. Lastly, Fire Blast is used to hit Ferroseed while still dealing damage to Poison-types such as Gastly.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Scraggy and Dratini are threats to this set, as they have Shed Skin and can set up on Cleffa. Timburr is a good teammate to check Scraggy, while Ferroseed helps against Dratini. Tentacool can set up Toxic Spikes on Cleffa, as it can take a few hits from Psychic. Staryu can deal with Tentacool, as it has Thunderbolt, Rapid Spin, and Natural Cure, all of which help stop Tentacool from successfully doing its job. Tentacool is also a good teammate for Cleffa, as its Toxic Spikes help break stall. If using Toxic Spikes, then Encore is an option over Toxic to stop offensive Pokemon from setting up.</p>
+
+[Other Options]
+
+<p>Cleffa has many other options to consider using. Psychic could hit Fighting-types and Gastly. Shadow Ball is good for Ghost- and Psychic-types which can cause Cleffa problems. Magical Leaf and Shock Wave are somewhat weak, but they can hit Water-types super effectively. Psyshock is Cleffa's best special option against Munchlax, but isn't great against many other Pokemon. Signal Beam can hit Dark- and Psychic-types at the same time, which could come in handy. Flamethrower and Fire Blast are usable to hit Steel-types. Fake Tears could force a switch, though it's unlikely that Cleffa would survive to actually threaten something with it. Work Up is there if Cleffa wants to try to set up, but it rarely has the time to do so. Cleffa actually learns Belly Drum, but it's just too weak to use it effectively. Its physical movepool includes Return, Zen Headbutt, Dig, and Iron Tail, none of which really do enough damage without a boost.</p>
+
+<p>Cleffa learns Soft-Boiled for instant healing, but it is sadly illegal with Cleffa's biggest selling point, Magic Guard. Aromatherapy would be great, but it's illegal with Wish or Soft-Boiled so it's better left off. Charm could weaken a physical attacker, but it's unlikely that Cleffa could survive even with the move. Sing has terrible accuracy, but a sleep-inducing move is always helpful. Sweet Kiss could cause some problems, but relies too much on luck to be worthwhile. Finally, Safeguard is another option for team support to consider.</p>
+
+[Checks and Counters]
+
+<p>Gastly, Duskull, and Frillish are immune to Endeavor, so they counter that set. Sets without Endeavor have a completely separate pool of counters. Scraggy, Timburr, and Mienfoo can take a hit, outspeed, and heal up while KOing with Drain Punch. Stunky walls most Cleffa, as it is immune to Toxic and Psychic. Dratini has Shed Skin, so it can usually set up on Cleffa safely. Pawniard with Brick Break can destroy any set with Reflect or Light Screen and will stop Cleffa from supporting its teammates.</p>

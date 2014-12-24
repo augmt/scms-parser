@@ -1,0 +1,159 @@
+[Overview]
+
+<p>Although Sceptile is often eclipsed by other Grass-types, such as the omnipresent Venusaur, he has the potential to effectively fill a variety of different roles on a standard UU team. As the fastest non-Uber SubSeeder, Sceptile is one of the most effective users of the strategy. Additionally, with high Speed and Special Attack, Sceptile is tailor-made for the role of fast, deadly special sweeper; access to moves like Swords Dance and Leaf Blade, as well as a usable Attack stat, make Sceptile a viable physical sweeper. Despite his offensive prowess, Sceptile's low defenses often limit his survivability. When used correctly, however, Sceptile can singlehandedly sweep or stall through large portions of the UU metagame. All in all, Sceptile is a very versatile Pokemon who is a mainstay in the UU environment and should always be considered when making a UU team.</p>
+
+[SET]
+name: SubSeed
+move 1: Substitute
+move 2: Leech Seed
+move 3: Energy Ball / Leaf Storm
+move 4: Hidden Power Ice
+item: Leftovers
+nature: Timid
+evs: 4 Def / 252 SpA / 252 Spe
+ivs: 7 HP
+
+[SET COMMENTS]
+
+<p>With the advent of DPP, Sceptile's ADV title of the fastest SubSeed user in the game was usurped by Shaymin-S. Now, however, with Shaymin-S banished to the Uber tier, Sceptile finally has time to shine. Sceptile boasts numerous advantages over other common UU SubSeeders, such as Tangrowth and the ubiquitous Venusaur. Most notably, Sceptile possesses a magnificent base 120 Speed, which lets him outpace the entire UU metagame (apart from Swellow and Electrode). Sceptile's ability, Overgrow, works perfectly with Substitute, allowing Sceptile to launch more powerful STAB Grass attacks if he ends up Substituting to low health. He also has a respectable base 105 Special Attack to wear opponents down faster.</p>
+
+<p>The tried-and-true strategy of SubSeeding is nothing new to Sceptile, having previously been Sceptile's flagship set in ADV. Switch Sceptile in on something he scares away (such as Milotic or Rhyperior), throw up a Substitute, and strike the switch-in with Leech Seed. From here, Sceptile's prodigious Speed allows him to create an near-infinite string of Substitutes to weather the opponent's assault, while simultaneously draining their health every turn. Sceptile can speed up the process by attacking with Energy Ball and Hidden Power Ice. Leaf Storm is a viable alternative to Energy Ball, because Substitute often brings Sceptile under 1/3 of his health (thus activating Overgrow). A STAB Overgrow Leaf Storm is tremendously strong, and can dent many of Sceptile's counters. However, the harsh drop in Special Attack hurts Sceptile's attacking prowess.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>SubSeed is a strategy notorious for causing switches, so SubSeed Sceptile is best paired up with entry hazard supporters to rack up damage even faster. Sceptile does have the misfortune of being walled easily by bulkier Fire-types, such as Magmortar and Arcanine. Therefore, it is a good idea to use Sceptile in tandem with a bulky Water-type, like Milotic or Slowbro. They provide extra insurance against Fire- and Steel-types, can Ice Beam Grass-types and Altaria, and can pave the way for Sceptile to SubSeed unhindered.</p>
+
+<p>One of the most common strategies in UU is to use a so-called Fire + Water + Grass core, which possesses excellent synergy. To complete the trinity, a strong Fire-type that can cover up Sceptile's weaknesses can be used. Arcanine and Blaziken are good choices, as they provide the firepower needed to muscle their way through SubSeed Sceptile's counters -- while trashing any overeager Grass-types who can withstand Sceptile's Hidden Power Ice. Blaziken's STAB Fighting-type attacks also demolish Clefable and Chansey, two annoyances to Sceptile. However, Swellow, one of the two Pokemon in UU that outspeeds Sceptile, is a dangerous threat that the aforementioned Fire-types cannot deal with. To take care of Swellow and other Flying-types, you can use Sceptile in concert with Rhyperior, who provides the perfect answer to these problems. Rhyperior solidly walls Flying-types such as Swellow and Altaria, and has a powerful STAB Earthquake to dispose of annoying Steel-types. Dugtrio is also a satisfactory answer to Steel-types.</p>
+
+<p>To fully reap the benefits of Sceptile's great Speed and Special Attack, both stats should be maximized. If one wants Sceptile's Substitutes to have more survivability, EVs can be allocated from Special Attack to HP. Sceptile should preferably invest at least 196 EVs into Special Attack, which allows him to 2HKO variants of Venusaur (with Hidden Power Ice) that do not invest in Special Defense. The IVs allow Sceptile to maximize Hidden Power Ice's strength, as well as provide a Leftovers number. If the need arises, Sceptile can Substitute five times in a row using the specified IVs. Note that the specified IVs should only be used if Sceptile is not running any HP EVs.</p>
+
+[SET]
+name: Choice Specs
+move 1: Leaf Storm
+move 2: Focus Blast
+move 3: Hidden Power Ice
+move 4: Energy Ball / Dragon Pulse
+item: Choice Specs
+nature: Timid
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>Three things make Sceptile a brilliant candidate for a Choice Specs set: his respectable base 105 Special Attack, his blazing base 120 Speed, and his wide special movepool. A STAB Choice Specs Leaf Storm from Sceptile is downright scary and will blast its way through almost anyone who doesn't resist it. Unfortunately, Grass isn't the best offensive type, so this is where the other moves come to the rescue. Focus Blast provides a high-power (albeit inaccurate) tool for hitting the likes of Registeel and Chansey, while Hidden Power Ice strikes Flying-types (specifically Altaria) and fellow Grass-types (specifically Venusaur) who are keen to switch in on Sceptile. The last slot presents a choice of Energy Ball or Dragon Pulse, two moves that are best suited for late-game sweeping. Energy Ball provides Sceptile with a reliable STAB move when Leaf Storm isn't needed, whereas Dragon Pulse offers superior type coverage.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Specs Sceptile is a top-tier revenge killer, netting many OHKOs with Leaf Storm alone. The following calculations demonstrate the power of Sceptile's Leaf Storm:</p>
+
+<ul class="damage_calculation">
+<li>Leaf Storm vs. 252/0 Uxie: 66.4% - 78.2%</li>
+<li>Leaf Storm vs. 0/0 Swellow: 97.3% - 114.6%</li>
+<li>Leaf Storm vs. 244/0 Spiritomb: 91.7% - 108.3%</li>
+<li>Leaf Storm vs. 0/0 Houndoom: 61.6% - 71.6%</li>
+<li>Leaf Storm vs. 252/100 Clefable: 66.5% - 78.7%</li>
+<li>Leaf Storm vs. 252/252 Steelix: 78% - 92.1%</li>
+<li>Leaf Storm vs. 248/0 Milotic: 124.2% - 146.6%</li>
+<li>Leaf Storm vs. 212/0 Torterra: 88% - 103.6%</li>
+<li>Leaf Storm vs. 4/0 Mismagius: 108% - 127.5%</li>
+<li>Leaf Storm vs. 252/0 Mismagius: 79.6% - 93.8%</li>
+</ul>
+
+<p>This variant of Sceptile will be switching out very often, due to the Special Attack drops from his primary move, Leaf Storm. Thus, Rapid Spin support is desirable to keep Sceptile healthy in the long run. Good candidates for this job are Blastoise, who can scare away the Fire-types Sceptile despises, and Claydol, who takes care of both Fire- and Steel-types simultaneously with its STAB Earth Power. Claydol especially serves as a good partner to Sceptile, because it can not only spin away entry hazards, but also lay down hazards of its own to aid Sceptile. Arcanine and Blaziken are both excellent partners to this Sceptile, as they have wallbreaking potential and can easily eliminate special walls such as Chansey (as well as the quintessential Grass-type wall, Tangrowth) that try to block Sceptile. Fire-types also have great synergy with Sceptile, as they resist many of Sceptile's weaknesses (such as Bug, Fire, and Ice), whereas Sceptile himself defensively complements Fire-types (resisting Water and Ground). Dugtrio's useful Arena Trap ability allows him to comfortably dispose of Registeel and Chansey with STAB Earthquake, making him an ideal partner for Sceptile.</p>
+
+[SET]
+Name: Life Orb
+move 1: Leaf Storm
+move 2: Focus Blast
+move 3: Hidden Power Psychic / Hidden Power Ice
+move 4: Synthesis
+item: Life Orb
+nature: Modest
+evs: 72 HP / 252 SpA / 4 SpD / 180 Spe
+
+[SET COMMENTS]
+
+<p>With his excellent Speed and Special Attack, Sceptile functions quite well at sweeping with a Life Orb boost. Sceptile's pure Grass typing helps him switch into many common attacks, such as Surf and Earthquake (unlike Venusaur), and Synthesis allows him to instantly replenish his health, giving him more sustainability. Leaf Storm from Sceptile's base 105 Special Attack will destroy most Pokemon, apart from those who resist it or have obscenely high Special Defense (such as Chansey). Focus Blast is an excellent attack to open with because most of Sceptile's counters are either Steel-type or Normal-type. To round off Sceptile's type coverage, Hidden Power Psychic or Hidden Power Ice can be used. Hidden Power Psychic nails Weezing, Blaziken, Venusaur, and Toxicroak, while Hidden Power Ice deals with opposing Grass-types and Altaria. Most Grass-types, however, will take a lot of damage from or be OHKOed by Focus Blast.</p>
+
+<p>At first glance, the EV spread may seem strange, but it's tailored to do specific tasks. Special Attack is maximized because Sceptile needs to hit as hard as possible. Speed is the next thing that's considered, since Sceptile should at least outspeed neutral-natured base 110s and positive-natured base 95s. 176 EVs will suffice, but if you opt for Hidden Power Psychic, invest another 4 EVs to make up for the reduced Speed IVs, making it 180 Speed EVs in total. The remaining EVs are dumped in HP to help Sceptile switch into resisted attacks; however, with Hidden Power Psychic, 76 HP EVs will only allow Sceptile ten attacks before it faints from Life Orb recoil, so 4 EVs should be relocated to Special Defense. Otherwise, with Hidden Power Ice, the spread is a simpler 80 HP / 252 SpA / 176 Spe. Alternatively, maximizing Speed with a Timid nature is also an option. This allows you to outpace Pokemon like Scyther and Mismagius at the cost of 2HKOing Pokemon such as Registeel and losing approximately 6% of Sceptile's total HP.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Because Sceptile is a one-dimensional special attacker, he's walled by Pokemon such as Chansey and specially defensive Venusaur. Additionally, bulky Fire-types like Arcanine and Moltres can easily switch in. This makes Azumarill an effective teammate for Sceptile. Azumarill can switch into any of the aforementioned Pokemon besides Venusaur (assuming Venusaur has a Grass-type attack) and OHKO them. Arcanine is also quite effective, since his Flash Fire ability allows him to switch into Fire-type attacks directed at Sceptile and possibly set up a sweep of his own. Sceptile also often lures in Registeel, who resists Sceptile's STAB Grass-type attacks. However, this variant of Sceptile can 2HKO Registeel with Focus Blast, opening up a path for other sweepers such as Alakazam, Mismagius, and Swellow.</p>
+
+<p>Also, with Leaf Storm potentially dropping Sceptile's Special Attack stat, Sceptile is often forced out by Pokemon like Life Orb Venusaur and Moltres. Therefore, it is a good idea to carry a sturdy defensive Pokemon to take attacks from these threats. With this in mind, Milotic and Registeel make a great defensive combo: Milotic deals with Moltres, and Registeel deals with Venusaur.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Leaf Blade
+move 3: Earthquake / X-Scissor
+move 4: Rock Slide / Double-Edge
+item: Life Orb / Leftovers
+nature: Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Sceptile is traditionally seen as a specially-based Pokemon because his base 105 Special Attack often overshadows his middling base 85 Attack. However, Swords Dance, the transition of Leaf Blade becoming physical, and a good physical movepool all work to make Sceptile a viable physical attacker. This set is simple - use Swords Dance to boost Sceptile's Attack to an impressive 538, then attack with the remainder of Sceptile's moves. Leaf Blade was pumped up to 90 Base Power during the D/P transition. Its decent power and high critical hit rate make it a solid STAB move for Sceptile and a must on any physical set. Earthquake provides great neutral coverage and allows Sceptile to hit Registeel and Poison-types. X-Scissor can be used over Earthquake, allowing Sceptile a way to dispose of Tangrowth and Leafeon. Rock Slide grants Sceptile universal type coverage in UU, while also taking care of otherwise dangerous threats such as Moltres and Altaria. Double-Edge is a viable alternative to Rock Slide, providing neutral coverage against the likes of Venusaur and Moltres.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Swords Dance Sceptile, like the SubSeed variant, dislikes Flying-types, who can come in, outspeed/wall him, and OHKO with their STAB moves. Therefore, this particular Sceptile is best used in conjunction with sturdy Steel- or Rock-types, such as Steelix or Rhyperior, who can eliminate these threats. Rhyperior, again, serves as an especially great partner to Swords Dance Sceptile; Rhyperior and Sceptile have great defensive synergy. Weezing is the biggest threat to any physical Sceptile, walling him with superior Defense and burning him with Will-O-Wisp and KOing with Sludge Bomb. Houndoom is an excellent way to eliminate Weezing, as he can come in on a predicted Will-O-Wisp, which will activate the hellhound's Flash Fire. From here, Houndoom's STAB Fire moves can easily take care of Weezing.</p>
+
+[SET]
+name: Attacking Lead
+move 1: Leaf Storm
+move 2: Quick Attack
+move 3: Hidden Power Ice / Endeavor
+move 4: Rock Slide
+item: Life Orb / Focus Sash
+nature: Naive
+evs: 40 Atk / 252 SpA / 216 Spe
+
+[SET COMMENTS]
+
+<p>Although Sceptile is commonly seen as a sweeper or SubSeeder, using it as an attacking lead to prevent early setup is a viable alternative. Boasting a base 105 Special Attack stat, Sceptile's Leaf Storm is capable of KOing many of the popular leads utilized in the UU metagame. Quick Attack is Sceptile's best choice to beat faster, frailer leads, like Electrode, before they can cause serious damage to Sceptile.</p>
+
+<p>Hidden Power Ice allows Sceptile to beat leads such as Torterra and Jumpluff before they can set up Stealth Rock or put Sceptile to sleep, respectively. Endeavor can be used in place of Hidden Power if you opt for Focus Sash, as it allows Sceptile to beat bulky Pokemon who try to set up after Sceptile's Focus Sash breaks. Such Pokemon include Registeel, who often tries to force Sceptile to switch while setting up Stealth Rock. Rock Slide is a great move for Sceptile, allowing it to effectively dispose of Moltres and Scyther who try to kill it with their STAB attacks, especially the latter, who is a very common lead. Rock Slide also allows Sceptile to beat Swellow if Sceptile holds Focus Sash.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The choice between Life Orb and Focus Sash is hard. Life Orb guarantees many kills that cannot be obtained with Focus Sash, such as the surefire OHKO on Ambipom with Leaf Storm and the 2HKO on Mesprit. However, Focus Sash allows Sceptile to abuse Overgrow and Endeavor, making it a deadly attacker at 1 HP. Focus Sash is also Sceptile's only way to beat Swellow and the rare Choice Scarf Scyther. Lum Berry is an option to counter Choice Scarf sleep leads like Venusaur and Jumpluff, while also avoiding Thunder Wave from Uxie, but it usually isn't the best choice due to the power and survivability Sceptile loses without its Life Orb and Focus Sash, respectively. Hidden Power Fire and Earthquake are viable options to beat Steel-types; barring Probopass or Magneton, however, Steel-types can still set up on Sceptile if it doesn't carry Earthquake. Protect can be used to block Fake Out from the swarm of Ambipom leads seen in UU, but it is hard to find a moveslot for it, and it's only important if Sceptile holds Focus Sash.</p>
+
+<p>Houndoom is a great teammate due to its ability to set up on Mismagius, whose special bulk otherwise poses a problem for Sceptile. Houndoom definitely appreciates Sceptile's ability to remove bulky Water-types such as Milotic with ease, and it loves switching in on Ice- and Fire-type attacks thanks to its passable special bulk and Flash Fire ability, respectively. Houndoom also beats the Bug-type Pokemon who scare away Sceptile.</p>
+
+<p>Spikes Qwilfish, especially with Taunt, can set up on the likes of Registeel; it can safely Taunt and absorb Toxic, netting it some free turns to set up Spikes. Spiritomb with Pursuit utterly obliterates Mismagius, who gives Sceptile trouble with its above-average special bulk. Spiritomb also has a field day with Uxie, whose high defensive stats can also be a problem for Sceptile.</p>
+
+[SET]
+name: Mixed Attacker
+move 1: Leaf Storm
+move 2: Hidden Power Ice
+move 3: Leaf Blade / Rock Slide
+move 4: Earthquake / Low Kick
+item: Life Orb
+nature: Hasty
+evs: 252 Atk / 80 SpA / 176 Spe
+
+[SET COMMENTS]
+
+<p>As mentioned before, Sceptile has good physical and special attacking stats. Additionally, many of his moves became physical during the DPP transition, allowing for both of his potent attacking stats to be utilized. This paves the way for him to become an effective mixed sweeper in the UU environment. This particular Sceptile is capable of destroying stall and does a very good job in taking out the premier walls in UU. Leaf Storm is Sceptile's primary method of attacking, scoring massive damage against the likes of Milotic and Rhyperior. Hidden Power Ice provides Sceptile with a valuable tool for hitting the ever-present Venusaur. The remaining two physical moves should be used in complementary pairs. The advantages and disadvantages of each pair are listed below:</p>
+
+<p>Leaf Blade and Earthquake allows Sceptile to 3HKO Registeel with Earthquake and 2HKO Chansey with Leaf Blade. Leaf Blade also provides Sceptile with a reliable STAB move. However, these two attacks leave Sceptile helpless against Moltres. Another combination is Low Kick and Leaf Blade; Low Kick grant Sceptile a valuable 2HKO on Registeel, while Leaf Blade, as mentioned before, cleanly 2HKOes Chansey. Yet, Sceptile sacrifices coverage on Arcanine and Moltres. Rock Slide and Low Kick are another good duo, as Low Kick 2HKOes Registeel, while Rock Slide lets Sceptile OHKO Moltres; this leaves him susceptible to bulky Arcanine, though. Lastly, Rock Slide and Earthquake can be used together, giving Sceptile the best coverage; these two moves allow him to 3HKO Registeel, 2HKO bulky Arcanine, and OHKO Moltres. Earthquake and Rock Slide, however, leave Sceptile without a reliable STAB move.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>In terms of pure attack power, Sceptile is inferior to other UU mixed sweepers, such as Blaziken and Magmortar. What gives mixed Sceptile viability is the sheer surprise factor. While he serves as an excellent stallbreaker, mixed Sceptile is best used as a late-game sweeper, due to the fact that he has much higher Speed than the aforementioned Pokemon. Mixed Sceptile benefits greatly from entry hazard support, which makes his sweep easier. Unlike the SubSeed set, bulky Water support is not as necessary, because mixed Sceptile has the ability to outspeed and KO most Fire-types with Earthquake or Rock Slide. However, it does not hurt to have one in reserve.</p>
+
+[Other Options]
+
+<p>Sceptile can abuse Overgrow, his sky-high Speed stat, and his ability to force switches by running a SubLiechi set. The premise of the set is to Substitute on something Sceptile scares away, and then use Swords Dance. Then, continue to Substitute, which will forcibly activate the Liechi Berry. From here, Sceptile has an astronomically powered +3 STAB Overgrow Leaf Blade at his disposal. This enormously powerful attack, coupled with Sceptile's prodigious Speed, make a SubLiechi set very dangerous. However, this set is somewhat hard to set up, and priority users have a field day with it.</p>
+
+<p>Another attractive (albeit unreliable) option that Sceptile has at his disposal is the possibility of running an Endeavor set. After surviving a fatal blow (via Focus Sash or Endure), Sceptile can use Endeavor to lower his opponent's HP to 1, as long as the target in question is not Ghost-type. More importantly, however, Sceptile's Overgrow ability activates, powering up his already powerful Leaf Storm. Even better, Sceptile can use Quick Attack to dispose of Endeavor-weakened opponents. However, the one thing restricting the viability of this set is the abundance of priority users in UU, which nullifies the purpose of this set completely.</p>
+
+<p>Sceptile has access to Pursuit, Crunch, and Night Slash, three Dark moves that can work on the physical sets. However, their type coverage is unremarkable. In the healing department, besides Leech Seed, he receives Synthesis and Giga Drain. In terms of an alternative STAB move, Grass Knot is always an option, but generally should not be used unless one is planning to use Sceptile in the OU environment. Sceptile can use Counter in conjunction with Focus Sash to produce some interesting but generally unreliable results. Screech is an interesting option but is generally overshadowed by Swords Dance unless Sceptile is trying to force switches. Sceptile receives Thunder Punch, but not Ice Punch to batter Dragons. Sceptile can throw together a Choice Band set, but Swords Dance packs more power and is generally more reliable. Additionally, Sceptile learns the Sunny Day + Solar Beam combo, but is too frail to pull it off successfully.</p>
+
+[Checks and Counters]
+
+<p>Defensively, Weezing is arguably the best Sceptile counter around; he resists Grass, Ground, and Fighting (the most common attack combination Sceptile uses) and can burn physical variants as well as dispatch of any variant with STAB Sludge Bomb. Sceptile is also prone to being revenge killed by Scarfed Pokemon, particularly the likes of Moltres and Typhlosion. Registeel is also a fairly reliable counter to Sceptile lacking Focus Blast or Earthquake. Chansey sufficiently walls any specially based set well; a Specs Focus Blast can only muster a 3HKO (37.29% - 43.99%). Chansey must be wary of the mixed sweeper, though - his prime objective is to lure Chansey out and then strike her with physical attacks. Clefable's Magic Guard ability, which prevents her from being afflicted by passive damage, allows her to serve as a hard counter to SubSeed Sceptile. Venusaur is also a good check to Sceptile, as he can freely switch in on any of Sceptile's Grass-type attacks (watch out for Hidden Power Ice, though).</p>
+
+<p>Flying-types, as mentioned before, are Sceptile's Achilles' heel. Swellow is a dangerous late-game threat that can outspeed Sceptile and OHKO him with Brave Bird. However, due to his frailty, he must stay on his toes and not switch in carelessly. Altaria is defensively bulky and can take on pretty much any Sceptile set without fear of retribution unless Sceptile is running Hidden Power Ice. Moltres sports a quad-resistance to Grass and can take care of any Sceptile lacking Rock Slide or Hidden Power Rock.</p>

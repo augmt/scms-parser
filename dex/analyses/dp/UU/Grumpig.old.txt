@@ -1,0 +1,103 @@
+[Overview]
+
+<p>Although Grumpig seems outclassed by its fellow Psychic-types, it does have some advantages over them; Grumpig has higher Special Attack than Uxie, while Thick Fat allows it to take on Fire- and Ice-types much more easily, which is especially helpful as UU is filled with Pokemon such as Moltres, Blaziken, and Arcanine. Grumpig also has decent Speed, and excellent Special Defense and HP. This makes it a great supporter, which is further reinforced by its support movepool, which includes moves such as Taunt, Heal Bell, Reflect, and Light Screen. Unfortunately, Grumpig's average Defense doesn't help its Pursuit weakness at all, and its lack of recovery outside of Rest is disappointing. Overall, Grumpig is a decent defensive Pokemon, making it usable on stall teams and those with plenty of entry hazards.</p>
+
+[SET]
+name: Support
+move 1: Heal Bell
+move 2: Thunder Wave / Toxic
+move 3: Reflect / Magic Coat 
+move 4: Psychic
+item: Leftovers
+ability: Thick Fat
+nature: Calm
+evs: 252 HP / 80 Def / 176 SpD
+
+[SET COMMENTS]
+
+<p>Grumpig makes an excellent support Pokemon. Its good defenses, Thick Fat ability, and decent movepool are the main selling points. Heal Bell turns Grumpig into a good cleric, healing dangerous status, such as poison and burn, from its teammates; the second slot gives Grumpig its own status to play with, crippling the opponent with paralysis or poisoning them with Toxic. Reflect helps Grumpig compensate for its lower Defense stat, aiding it against Pursuit users, such as Absol and Spiritomb, while Magic Coat helps Grumpig bounce back status moves and other damaging moves like Leech Seed. Finally, Grumpig should use Psychic in the last slot to cover itself against Taunt users, though a lot of them will be Dark-types. Psychic also acts as STAB, hitting the likes of Venusaur and Toxicroak super effectively.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>This Grumpig is EVed as defensively as possible; 252 HP and 176 Special Defense EVs ensure that Grumpig survives a Fire Blast followed by two Air Slashes from Timid Moltres 100% of the time. The remaining EVs are placed into Defense, giving Grumpig some much needed physical bulk, which helps against Pursuit users.</p>
+
+<p>This Grumpig needs to survive as long as possible to support its teammates, and without its own recovery, it needs extra Wish support. Chansey and Clefable are excellent choices due to their high HP and Special Defense, along with great support moves to cripple the opponent. Leafeon and Espeon are other good choices, as they both have access to Baton Pass, allowing them to escape the battle while passing any boosts too. Using Espeon is a little risky, however, as it shares the same typing with Grumpig, and thus the same weaknesses.</p>
+
+[SET]
+name: Calm Mind
+move 1: Calm Mind
+move 2: Substitute
+move 3: Psychic
+move 4: Signal Beam / Hidden Power Fighting
+item: Leftovers
+ability: Thick Fat
+nature: Timid
+evs: 252 HP / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>Grumpig's good HP, Thick Fat ability, and decent defenses make it a fine Calm Mind user. Calm Mind boosts its already high Special Defense, while the Special Attack boosts turn it into a dangerous sweeper. Substitute is a great move, blocking harmful status such as poison and burn, and Grumpig's Substitutes are difficult to break by special attackers after a few Calm Minds. Psychic is used for reliable STAB, and when paired with Signal Beam, it covers most types in UU barring Steel. Hidden Power Fighting can be used in the last slot instead of Signal Beam to cover Steel-types, but only if you don't mind losing to Psychic-types like Uxie. Focus Blast may also be used in the last slot, and although the lower accuracy is a turn-off, it does have the advantage of not lowering Grumpig's Speed IV that Hidden Power Fighting does.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs ensure that Grumpig ties with positive natured Venusaur and Blaziken, but remember that if you use Hidden Power Fighting you miss out on that chance by one point. Max HP is used for making sturdy Substitutes, and making Grumpig as bulky as possible. The remaining EVs are placed into Special Defense for more bulk. You may try 252 Special Attack EVs over HP, though it makes Grumpig much more frail. Taunt may be used over Substitute in this case, as the Substitutes will be much easier for the opponent to break. Shadow Ball is another alternative to use on this set in place of Psychic, and it gives perfect coverage alongside Hidden Power Fighting, though the loss of STAB isn't recommended.</p>
+
+<p>Depending on what move is in the last slot, you'll need partners to help with type coverage; when using Signal Beam, Grumpig is vulnerable to Steel-types, and when using Hidden Power Fighting, Grumpig is unable to hit other Psychic-types. If Signal Beam is used, Fire-types such as Blaziken or Moltres should be on hand to blast through troublesome Steel-types, and if you decide to use Hidden Power Fighting, Dark-types like Spiritomb and Drapion are a good way to get past other Psychic-types.</p>
+
+<p>Due to Grumpig's specially-inclined nature, Chansey and Clefable are major problems for this set; Fighting-types, such as Blaziken, Hitmonlee, and Hariyama, are therefore great partners, as they can KO the aforementioned Pokemon with ease thanks to their STAB moves. Dugtrio is another excellent partner as it can trap the likes of Chansey, Clefable, and Registeel with its ability, and then proceed to KO them with STAB Earthquake. Dugtrio also makes short work of Houndoom and Drapion, both of whom are very dangerous foes for Grumpig to face.</p>
+
+<p>Dark-types in general are problematic, especially Spiritomb with its massive defenses, lack of weaknesses, and access to super effective moves such as Sucker Punch and Pursuit. The best way to defeat Spiritomb is to cripple it and wear it down slowly. This is easily achieved with Toxic Spikes, and the best Pokemon to set them up are Drapion and Qwilfish. Fire-types like Blaziken also do a decent job at tackling Spiritomb as they have an immunity to Will-O-Wisp, and Blaziken takes reduced damage from Dark-type attacks as it's part Fighting-type. Blaziken can scorch Spiritomb with STAB Fire Blast or Flare Blitz for an easy KO.</p>
+
+[SET]
+name: Dual Screens
+move 1: Reflect
+move 2: Light Screen
+move 3: Psychic
+move 4: Heal Bell / Thunder Wave
+item: Light Clay 
+ability: Thick Fat
+nature: Calm
+evs: 252 HP / 252 SpD / 4 Spe
+
+[SET COMMENTS]
+
+<p>This set makes the most of Grumpig's decent defenses, Thick Fat ability, and access to both of the dual screens. Reflect and Light Screen allow Grumpig to support its teammates by giving them an easier setup. Heal Bell also helps with supporting teammates by removing harmful status such as poison, burn, and sleep; this then makes a RestTalker a good choice for your team as it can then be woken up quickly. Alternatively, Thunder Wave or Toxic can be used in the last slot to spread status and cripple the opponent's team; any Spiritomb switching in certainly won't like being poisoned. Psychic is mainly used as filler and gives Grumpig something to do should it be Taunted, though this slot can be switched with Signal Beam to hit the Dark- and Psychic-types who will likely be switching in. Taunt may also be used to cripple slow set-up sweepers, such as Clefable and Slowking, as well as walls that attempt to lay entry hazards or spread status like Registeel. Light Clay is the item of choice as it prolongs the number of turns you will have screens on the field.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs on this set focus on Grumpig's good Special Defense and above average HP. The remaining EVs are placed into Speed, which allows Grumpig to outrun positive natured Rhyperior, who will usually be swichting in on a predicted Thunder Wave and an opportunity to pierce Grumpig with Megahorn. Grumpig may also run a Timid nature with a faster spread of 252 HP / 4 SpD / 252 Spe. This allows Grumpig to set up the dual screens quickly, tying with all base 80 Pokemon like Venusaur and Blaziken, who can't deal a lot of damage to Grumpig anyway.</p>
+
+<p>Setup sweepers make excellent partners for this set as they can exploit the boosted defenses that the dual screens provide while they set up stat boosts. Dragon Dance Altaria is a fantastic choice for a teammate as it already has high defenses, and its decent typing grants it an immunity to Ground-type moves and resistances to Water-, Grass-, and Fighting-type moves. Scyther is another great option as the dual screens help it set up more easily, and after a single Swords Dance it becomes a fearsome sweeper, capable of tearing the opponent's team apart if they lack a Steel-type. Finally, Mismagius is another great choice as it can set up Nasty Plot behind the dual screens, and has enough power to 2HKO Chansey with +6 Hidden Power Fighting.</p>
+
+<p>As Grumpig lacks its own recovery outside of Rest, support from Wish users is very welcomed. Chansey and Clefable are two excellent options; they are able to switch into a variety of special attackers with their high HP and Special Defense, cripple the opponent with status, and support Grumpig with Wish. Leafeon is another good option as it has much higher Speed and access to Baton Pass; Leafeon may also pass Swords Dance boosts to other teammates as well.</p>
+
+[SET]
+name: Choice
+move 1: Trick
+move 2: Psychic
+move 3: Shadow Ball
+move 4: Focus Blast 
+item: Choice Scarf / Choice Specs
+ability: Thick Fat
+nature: Timid / Modest
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>With a Choice item equipped, Grumpig turns into a potent threat and revenge killer; utilize Trick to cripple walls and setup sweepers like Clefable. Psychic is Grumpig's most powerful STAB move and hits Fighting- and Poison-types, such as Hariyama and Toxicroak, super effectively. Shadow Ball and Focus Blast provide perfect type coverage, hitting everything in UU for at least neutral damage; you may use Hidden Power Fighting instead of Focus Blast for its higher accuracy, though the drop in power isn't usually worth it. Modest Choice Specs Grumpig can 2HKO Tank Registeel with Focus Blast, and 3HKO Chansey.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Grumpig's attacks will leave huge dents in the opponent's walls and make them vulnerable to other special sweepers. Mismagius makes a good partner for this reason as it can really take advantage of any holes in the opponent's team. With a weakened Registeel and Chansey, Mismagius's chances of sweeping are much higher, and after setting up with Nasty Plot, it has a chance to 2HKO Chansey with Hidden Power Fighting.</p>
+
+<p>As this set uses Choice items, you may wish to use a scout Pokemon to ease prediction, and keep Grumpig for late-game sweeping. Pokemon with U-turn and Baton Pass make good choices to reveal the opponent's team and force switches; Scyther and Swellow are excellent users of U-turn, while Espeon and Mr. Mime are excellent Baton Passers, even if they aren't passing any stat boosts.</p>
+
+<p>Specially defensive walls like Chansey and Milotic are difficult to get past, though none of them appreciate being Tricked a Choice item, or being hit with multiple Choice-boosted attacks for that matter. Fighting-types, like Hitmonlee and Hariyama, can break through Normal- and Steel-types like Chansey and Registeel, while bulky Grass-types can wear down Milotic with Leech Seed or even KO it with Leaf Storm. Toxic Spikes are also helpful for wearing down walls; Drapion, Qwilfish, and Nidoqueen are great choices to set up Toxic Spikes due to their bulk, or in Qwilfish's case, its high Speed. Toxic Spikes are also handy for wearing down Spiritomb, who is a major threat to this set's success. Chansey can be trapped by Dugtrio's Arena Trap ability, and it is KOed by Dugtrio's STAB Earthquake. Chansey may also be beaten by Taunt Mismagius with Nasty Plot, as it is 2HKOed by +6 Hidden Power Fighting. Finally, Fire-types can take on Spiritomb thanks to their immunity to Will-O-Wisp; Blaziken is one of the best for the job as it also sports a resistance to Dark-type attacks. These Pokemon can then proceed to blast Spiritomb with their powerful STAB moves.</p>
+
+[Other Options]
+
+<p>Grumpig can use RestTalk to remedy its lack of recovery, though it's pretty unreliable considering the number of weaknesses Grumpig has to common moves. Counter is an interesting option and allows Grumpig to take on many physical attackers, especially Fighting-types, by hitting them back twice as hard. On the special side, Grumpig may use Mirror Coat to bounce back powerful hits such as Mismagius's Shadow Ball. Utilizing a ParaFusion set may be tempting with Confuse Ray and Thunder Wave, though it's pretty luck-based and very risky. Finally, Grumpig may use Trick Room along with a Quiet or Sassy nature, obtaining a Speed stat of 148, slow enough to outrun most of UU under Trick Room conditions, especially since it has the defenses to take an attack while setting up, and support the team afterwards.</p>
+
+[Checks and Counters]
+
+<p>Chansey, Clefable, and Registeel are by far the best counters for Grumpig; they all have high Special Defense, many support moves to cripple Grumpig, and two of them have reliable recovery moves. They'd better watch out for Grumpig with Trick or Choice Specs Focus Blast though; using Stealth Rock is an easy way to see if Grumpig doesn't have Leftovers, so be wary of Trick. Dark-types, particularly Spiritomb, also make excellent counters as they have an immunity to Psychic, good Special Defense, and powerful STAB moves, such as Sucker Punch and Pursuit. Drapion is another good choice as it can set up Toxic Spikes, or shut down Grumpig with Taunt; Skuntank is also a good, uncommon counter. Almost any Pokemon with good Special Defense and access to a super effective attack can take on Grumpig. Just watch out for Choice sets, as Choice Specs boosted attacks may hurt.</p>

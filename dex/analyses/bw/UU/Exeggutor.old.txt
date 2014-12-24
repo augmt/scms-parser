@@ -1,0 +1,99 @@
+[Overview]
+
+<p>Although Exeggutor took a serious blow from the effective loss of Explosion, it can still pose a serious threat thanks to its high Special Attack and Sleep Powder. Exeggutor can work around its low Speed, whether by doubling it through its Chlorophyll ability, or by turning the opponent's own Speed against it with Trick Room. Exeggutor also has a niche as one of the few viable Pokemon with Harvest, which allows it to stall out entire teams with the right support. Although the severe weakness to Bug-type moves, and consequentially, a weakness to the ubiquitous U-turn, makes Exeggutor difficult to fit into just any team, it can pay off well for those teams that find room for it.</p>
+
+[SET]
+name: Sunny Day
+move 1: Sunny Day
+move 2: Solar Beam / Grass Knot
+move 3: Hidden Power Fire / Psyshock
+move 4: Sleep Powder
+item: Life Orb / Heat Rock
+ability: Chlorophyll
+nature: Modest / Timid
+evs: 252 SpA / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>Chlorophyll allows Exeggutor to patch up its low Speed, beating out base 130 Speed Pokemon after a Sunny Day. Solar Beam is Exeggutor's best STAB move in the sun, although Grass Knot is a perfectly acceptable alternative if you find yourself needing a more reliable attack. Hidden Power Fire effectively becomes a STAB move in the sun and nails Grass-types hard. Psyshock also works, since many Grass-type Pokemon carry a secondary Poison typing, and it also gives Exeggutor a better chance at beating specially bulky walls. However, this leaves Exeggutor walled by Steel-types, who would normally fall to a super effective Hidden Power Fire. Sleep Powder gives Exeggutor a chance to set up Sunny Day against slower Pokemon, and can also be used on the last turn of sun to give Exeggutor a chance to set it up again and continue sweeping.</p>
+
+<p>The choice of item is an important one. Life Orb boosts power significantly, and is best when Exeggutor acts as a stand-alone sweeper. However, if Exeggutor's teammates also benefit from Sunny Day, then Heat Rock is an alternative to ensure that even if Exeggutor fails, its teammates can still pick up where it left off.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>A Modest nature is preferred, since Exeggutor does not outspeed any notable Choice Scarf Pokemon with a Timid nature. However, if neutral base 100 Speed Pokemon are a concern, Exeggutor can get the jump on them with a Timid nature. The EVs are simple, and are meant to maximize Exeggutor's offensive capability. If Life Orb is being used, a 29 HP IV reduces the recoil from it by 1 point, giving Exeggutor slightly more longevity after two attacks. Leaf Storm is an option over Solar Beam, but this reduces Exeggutor to more of a hit-and-run type of sweeper, which Lilligant does better thanks to its high Speed. Another option is Explosion, which, while weak, can get a stronger Chlorophyll sweeper out onto the field with no risk.</p>
+
+<p>Pokemon that benefit from Sunny Day make the best teammates for Exeggutor. Other Chlorophyll Pokemon, such as Victreebel and Lilligant, are obvious choices. Fire-type Pokemon also make for good partners, since they greatly appreciate the extra boost in power that Sunny Day provides to their STAB moves. Choice Scarf Pokemon, in particular, work very well. Examples include Victini and Typhlosion, both of which can throw out extremely powerful V-creates and Eruptions, respectively. Fire-type Pokemon also resist U-turn, a move that Exeggutor greatly fears. Rhyperior can set up Stealth Rock and loves having its Water-type weakness reduced by Sunny Day.</p>
+
+[SET]
+name: SubSeed
+move 1: Leech Seed
+move 2: Protect
+move 3: Substitute
+move 4: Hidden Power Fire / Psychic
+item: Sitrus Berry
+ability: Harvest
+nature: Bold
+evs: 252 HP / 252 Def / 4 Spe
+
+[SET COMMENTS]
+
+<p>This set makes use of Exeggutor's physical bulk in order to stall out opponents. Harvest can recycle Sitrus Berries, giving Exeggutor the chance to stall out a large number of enemies. Leech Seed is the main form of damage on this set, and supplements Exeggutor's recovery. Substitute blocks status, and the health lost from generating it is usually recovered. Protect helps to stall out opponents, and provides more free recovery from Leech Seed. Hidden Power Fire nails most Grass-types, which are immune to Leech Seed, for respectable damage. Psychic is an option for dealing with faster Pokemon with Substitute, such as Bulk Up Poliwrath.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs and a Bold nature maximize Exeggutor's physical bulk, allowing it to set up Substitutes more easily. If Hidden Power Fire is not being used, switch to perfect Speed and Special Attack IVs. Exeggutor can use Wish to heal reliably, becoming even more difficult to take down. However, this comes at the cost of a way to deal with Grass-types. Ingrain foils attempts to phaze Exeggutor out and supplements Exeggutor's recovery, but it similarly forces the sacrifice of Exeggutor's coverage move. Sleep Powder allows Exeggutor to incapacitate an opponent and then set up Leech Seed or Substitute for free. Toxic is also an option to stack up residual damage.</p>
+
+<p>Toxic Spikes support is heavily recommended, since it makes Exeggutor less reliant on Leech Seed and conserves the PP of Substitute and Protect. Nidoqueen resists U-turn and benefits from having a teammate to take Water-type attacks aimed at her. Pokemon that can deal with Grass-types in general are appreciated; Fire-types such as Arcanine work well. Paralysis support is beneficial since it allows Exeggutor to move first against paralyzed opponents, and if the opponent becomes fully paralyzed, Exeggutor gains a free turn of recovery and a free turn of damage against the opponent. Sunny Day support is also helpful, as it guarantees that Harvest will recycle Sitrus Berry and also boosts the strength of Hidden Power Fire.</p>
+
+[SET]
+name: Trick Room
+move 1: Trick Room
+move 2: Sleep Powder
+move 3: Leaf Storm / Grass Knot
+move 4: Psyshock / Hidden Power Fire
+item: Life Orb
+ability: Harvest
+nature: Quiet
+evs: 232 HP / 24 Def / 252 SpA
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>With access to Sleep Powder, Exeggutor is one of the best users of Trick Room available in UU. Exeggutor can come in when a Trick Room set by a teammate is about to expire, use Sleep Powder on the last turn, and then reactivate Trick Room in complete safety. Leaf Storm is Exeggutor's strongest move and goes well with this set, given its hit-and-run nature. Grass Knot does not reduce Exeggutor's Special Attack, but it also does not get KOs as consistently as Leaf Storm. Hidden Power Fire hits most Steel-types for reasonable damage, but the main target, Escavalier, underspeeds Exeggutor, so Exeggutor loses to it while Trick Room is up anyway.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>A Life Orb boosts Exeggutor's power significantly, allowing it to pose more of a threat while Trick Room is up. A Quiet nature and maximized Special Attack aid Exeggutor in this respect. Since Exeggutor wants to outspeed as many things as possible while Trick Room is up, a 0 Speed IV is ideal. Note that if Exeggutor is using Hidden Power Fire, then a 2 Speed IV must be used instead. 232 HP gives a Life Orb number, and the rest of the EVs are placed in Defense. Although Exeggutor is not abusing the ability to recycle Berries on this set, Harvest is preferred over Chlorophyll so that in the event that the sun is shining, Exeggutor will not outspeed the opponent and move second under Trick Room. Explosion, while weak, is an option to get Exeggutor off the field immediately, allowing a more powerful Trick Room sweeper to get into play unscathed.</p>
+
+<p>Teammates that benefit from Trick Room are essential. Victini can also set up Trick Room and hits very hard with V-create, which effectively makes it faster while Trick Room is up. It can also use Final Gambit to remove a problematic opponent. Cofagrigus and Dusclops are both reliable users of Trick Room, and they resist Bug-type moves, a common weakness for most users of Trick Room. Slow, hard-hitting Pokemon, such as Aggron or Escavalier, take advantage of a teammate's Trick Room well.</p>
+
+[SET]
+name: Choice Specs
+move 1: Leaf Storm
+move 2: Psyshock
+move 3: Hidden Power Fire
+move 4: Sleep Powder
+item: Choice Specs
+ability: Chlorophyll
+nature: Modest / Timid
+evs: 4 HP / 252 SpA / 252 Spe
+ivs: 2 Atk / 30 SpA / 30 Spe
+
+[SET COMMENTS]
+
+<p>With a pair of Choice Specs equipped, Exeggutor can forgo attempts to patch up its mediocre Speed and instead simply hit hard right off the bat. Leaf Storm is Exeggutor's strongest move, putting a heavy dent in anything that doesn't resist it. Psyshock provides Exeggutor with a nice secondary STAB and helps Exeggutor deal with specially bulky walls. Sleep Powder cripples almost anything that might be able to take one of Exeggutor's attacks, although using it forces Exeggutor out immediately afterward, unless the opponent has Natural Cure for its ability, giving Exeggutor a chance to put something else to sleep if played correctly. Hidden Power Fire deals with Steel-types, which resist both of Exeggutor's STAB moves.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>A Modest nature is preferred for the power it provides, but Timid is also an option to outspeed the few other Pokemon near Exeggutor's Speed tier, such as Gorebyss and 0 Spe Roserade. The EVs are straightforward, maximizing Exeggutor's offense and allowing it to outpace most walls. Hidden Power Ice can be used to nail Altaria, but since Leaf Storm still OHKOes Flygon on the switch-in, there isn't much point in using it.</p>
+
+<p>Entry hazard support is vital to this set's success, since hazards and double switching are Exeggutor's best bet for wearing down those who take little from Choice Specs assaults. A strong Pursuit user also works, as does a Pokemon with Trick. Porygon-Z can ruin foes with Trick, and together with Exeggutor it can bludgeon its way through most specially bulky walls. Pokemon that appreciate having Steel-types weakened love this set. Swellow can spam Brave Bird once Steel-types are removed, and can also sponge U-turns for Exeggutor.</p>
+
+[Other Options]
+
+<p>Exeggutor can use Rest with a Lum Berry and Harvest to constantly keep itself healthy, but there are many threats that can OHKO Exeggutor, so this strategy is difficult to pull off. Giga Drain is an option on any offensive set, since it can heal off damage. Energy Ball is slightly more powerful than Giga Drain, but the recovery Giga Drain provides almost always outweighs the benefit of a little extra damage. If special walls are not a concern, then Psychic is a better move than Psyshock in most situations. Gravity gives perfect accuracy to Exeggutor's moves, most notably Sleep Powder and Leaf Storm. Stun Spore can be used to paralyze opponents. Exeggutor has access to dual screens, but is generally outclassed in this role by many other Pokemon. Wish can be used to pass off fairly sizable amounts of recovery to teammates, but Exeggutor has a hard time using it for itself. Synthesis provides healing, although it is useless when a weather other than sun is up. Worry Seed suppresses an opponent's ability, but as a result, the opponent becomes immune to Sleep Powder, one of Exeggutor's best moves. A Swords Dance or Curse set with Wood Hammer and Zen Headbutt can be used, but it isn't very effective due to Exeggutor's poor defensive typing and low Special Defense.</p>
+
+[Checks and Counters]
+
+<p>Thanks to Sleep Powder, Exeggutor is difficult to counter before Sleep Clause has been activated. However, any Pokemon with a Bug-type move, especially U-turn, poses an immediate threat to Exeggutor. Scyther is one of the most dangerous examples, since it can pound Exeggutor's team with powerful U-turns if Exeggutor doesn't sacrifice itself to take the hit. Escavalier is Exeggutor's worst nightmare if Exeggutor lacks Hidden Power Fire and has already used Sleep Powder, as its Megahorn is powerful enough to OHKO Exeggutor several times over, and it can also trap and KO a fleeing Exeggutor with Pursuit. Choice Scarf Fire-type Pokemon with a Base Speed of 90 or higher pose a serious threat to Sunny Day Exeggutor, since they can throw out boosted Fire-type attacks while outspeeding it. Weavile can put Exeggutor in a bad situation, since predicting incorrectly about whether Weavile will use Ice Shard or Pursuit can be disastrous. Magic Bounce Xatu completely counters SubSeed Exeggutor, and handles most other variants nicely.</p>

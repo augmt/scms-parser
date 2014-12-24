@@ -1,0 +1,124 @@
+Overview
+########
+
+The banning of Deoxys-S and Deoxys-D from OU paved the way for a lot of suicide leads to rise in relevancy, and out of all these, Azelf is the most similar to the Deoxys formes. Much like them, it sports very good Speed, allowing it to outspeed the majority of the unboosted metagame and, more importantly, most suicide leads. It also has a great support movepool, with access to Stealth Rock, dual screens, Rain Dance, and Taunt. Unfortunately, it's not nearly as fast as Deoxys-S and is very frail, meaning it can be outsped and KOed more easily. Its defensive typing is quite bad too, leaving it vulnerable to Pursuit.
+
+Azelf has a few tricks to differentiate itself from Deoxys-S. It has good mixed offenses and access to Explosion, which affirms its role as a suicide lead. Its ability is also very useful, giving it an immunity and alleviating its weakness to Choice Scarf users, given that they tend to be Ground types.
+
+Suicide Lead
+########
+name: Suicide Lead
+move 1: Stealth Rock
+move 2: Taunt
+move 3: Explosion
+move 4: Fire Blast / Knock Off
+ability: Levitate
+item: Focus Sash
+evs: 196 Atk / 60 SpA / 252 Spe
+nature: Naive / Hasty
+
+Moves
+========
+
+This set's main goal is to set up Stealth Rock as quickly and as reliably as possible, using Taunt when necessary. Once Stealth Rock been set up and Azelf's Focus Sash has been broken, Explosion gives instant momentum to the team, dealing huge damage to anything that doesn't resist it in the process. The fact that the opposing Pokemon, even if it survives the Explosion, will be unable to remove Stealth Rock from the field on that turn is the icing on the cake. Knock Off is good to threaten Latios, Latias, and especially Starmie, the former two being outsped and 2HKOed and the latter being OHKOed after Stealth Rock or Life Orb damage. It also provides great utility in general. Fire Blast is an equally good choice for the last moveslot since it OHKOes Bisharp, Scizor, and Ferrothorn. It also deals tons of damage to Excadrill, which is an important target given that it is able to spin Stealth Rock away.
+
+
+Set Details
+========
+
+Focus Sash is a given on this set in order to survive at least one hit and therefore virtually guarantee that Stealth Rock will be set up. The given Speed EVs enable Azelf to Speed tie with Starmie, which is important, as it can bring Azelf down to 1 HP as Azelf sets up Stealth Rock and proceed to spin the rocks away while finishing off Azelf in the process. The offensive EVs allow Azelf to KO Bisharp with Fire Blast while powering up Explosion. Because Azelf is expected to be brought down to its Focus Sash immediately, it minds neither a -Def or -SpD nature, but a Naive nature will let it take priority hits better, as well as guarantee that it will live through two hits of Bullet Seed followed by a Mach Punch from Focus Sash Breloom.
+
+Usage Tips
+========
+
+This set is to be used as a dedicated lead on a hyper offensive team. Its purpose is to set up Stealth Rock on the first turn and use Explosion once it's down to its Focus Sash. However, you might want to play differently in some situations; for instance, if Azelf is facing Bisharp, you might want to use Fire Blast on the first turn, predicting Knock Off or Pursuit. This set has a low reliance on Taunt, given that Defog is less devastating for the team and that Explosion also blocks entry hazard removal for that turn. If you've already set up Stealth Rock and the opponent sends their Defogger in, Azelf is free to use either Explosion or Taunt, depending on the situation. If you think a Pokemon is going to attempt to set up against Azelf, Taunt it. Sometimes you might not want to lead with Azelf, given that it is a very obvious lead, and you may prefer to anti-lead the opponent's answer to it. For example, you can lead with Choice Scarf Tyranitar if you see Starmie on the opposing team.
+
+Team Options
+========
+
+Focus Sash Azelf, much like all other suicide leads, is best used on hyper offensive teams, which can stop Defoggers and Rapid Spinners from removing Stealth Rock by maintaining offensive momentum. Bisharp is a very good partner, as it can take advantage of Defog and check Starmie, which can spin Stealth Rock away.
+
+Dual Screens
+########
+name: Dual Screens
+move 1: Reflect
+move 2: Light Screen
+move 3: Taunt
+move 4: Stealth Rock
+ability: Levitate
+item: Light Clay
+evs: 240 HP / 44 Def / 224 Spe
+nature: Timid
+
+Moves
+========
+
+This set acts as a dual screens setter, capable of doubling the team's overall bulk for a few turns. Taunt is a very useful tool to stop opposing Defoggers, entry hazard setters, screen setters, setup sweepers, and slower Taunt users. Stealth Rock, alongside Taunt, gives Azelf a good reason to be used over Latios, Latias, or Klefki. It lets Azelf give extra support to its teammates, and affirms its role as a lead. U-turn can be good for gaining momentum and providing Azelf with multiple opportunities to set up screens if needed. Fire Blast is an option if Bisharp and Excadrill are a problem.
+
+Set Details
+========
+
+Light Clay is necessary on this set to increase the duration of the screens Azelf sets. 224 Speed EVs let Azelf outspeed Thundurus. The allocation of the remaining EVs lets Azelf always take a Brave Bird from Choice Band Talonflame. If that isn't a concern, a spread of 252 HP / 32 SpD / 224 Spe gives Azelf a chance to live two Hydro Pumps from Choice Specs Keldeo after Light Screen. A spread of 176 HP / 80 Def / 252 Spe can be used to Speed tie with opposing Azelf and potentially Taunt them first, as well as Speed tie with Starmie and Raikou. This spread still survives a Brave Bird from Choice Band Talonflame, however it slightly loses out on special bulk. A Timid nature minimizes Foul Play and confusion damage, but a Jolly nature should be chosen if U-turn is run.
+
+Usage Tips
+========
+
+This set is preferably used as a lead, giving your team's sweeper extra bulk to set up immediately and dent the opposing team early. It can also be used mid-game if you need your win condition to set up more easily. Try to get Stealth Rock as well as both screens up, and use Taunt on defensive Pokemon. It is ill-advised to set screens against mixed attackers, given that you cannot reliably determine what attack they will use first which screen to set up first. If your opponent plays passively in order to stall the screens out, use Taunt to force them to take Azelf down as quickly as possible in order to preserve as many screen turns as possible. If the opponent keeps switching, you can hard switch to your sweeper or even wait for the screens to run out and set them back up again.
+
+
+Team Options
+========
+
+Dual screens provide great support for sweepers such as Mega Charizard X, Mega Tyranitar, and Mega Gyarados, making it easier for them to set up sweep. Screens can also be used in conjunction with wallbreakers such as Mega Gardevoir and Mega Medicham, which are usually quite frail but are much harder to take down while the screens are up. They are also useful for baiting a Defog to give Bisharp or Defiant Thundurus an Attack boost. Bisharp is a particularly good partner because it can trap Latias and Starmie, both of which can cause trouble for Azelf. Choice Scarf Heatran is also a decent partner, as it checks priority users such as Talonflame and lures Greninja, both of which threaten Azelf a lot. Teammates that can deal with Choice Scarf users are also appreciated.
+
+Rain Dance
+########
+name: Rain Dance
+move 1: Rain Dance
+move 2: Stealth Rock
+move 3: Taunt
+move 4: Explosion
+ability: Levitate
+item: Damp Rock
+evs: 240 HP / 44 Def / 252 Spe
+nature: Jolly
+
+Moves
+========
+
+Azelf's high Speed and access to Rain Dance, Stealth Rock, and Taunt make it one of the best manual rain setters in the tier. It gives rain teams a useful secondary setter and enables the rain sweepers to apply offensive pressure very early on, while also setting up Stealth Rock and stopping opposing leads from doing so. Explosion deals a lot of damage, enables something to come in for free, and saves rain turns. U-turn can also be used over Explosion, given that it keeps Azelf alive in case Azelf needs to use Rain Dance later. Fire Blast can be used to deal with Ferrothorn and other Grass-types that are very threatening to rain teams, but it should obviously be used before rain has been set up.
+
+Set Details
+========
+
+Damp Rock increases the number of rain turns from five to eight. The EV spread enables Azelf to outspeed Thundurus while also being able to take a Brave Bird from Choice Band Talonflame. A Jolly nature is used over a Timid nature so as to not weaken the power of Explosion.
+
+Usage Tips
+========
+
+This set is mostly to be used as a lead on rain teams; however, you might want to keep it around as a late-game rain setter in case Politoed goes down prematurely. Set up Stealth Rock as soon as possible and use Taunt against defensive threats. Always use Explosion or U-turn immediately after Rain Dance, so as to not waste rain turns. You might even want to use Rain Dance right before Azelf is KOed. If you go up against Defoggers, Taunt them if rain is not yet up, or use Explosion if it is.
+
+Team Options
+========
+
+This set is obviously to be used on rain teams that want a secondary rain inducer. Therefore, it is to be used alongside Swift Swim Pokemon, as well as Hurricane and Thunder users. Mega Manectric is a particularly good partner, as it checks both Greninja and Talonflame, both of which can outspeed Azelf and deal a huge amount of damage to it.
+
+Other Options
+########
+
+An offensive set with Life Orb can be used, but it is for the most part outclassed by the likes of Mega Alakazam, Greninja, Thundurus, and Starmie. It does, however, have a few advantages over them. Namely, Azelf can cripple Chansey with Knock Off, act as an offensive Stealth Rock setter, and has access to two coveted moves for special sweepers in Fire Blast and Nasty Plot. However, one cannot fit all of these into a single set, and therefore, it is hard to justify using Azelf in an offensive role. Magic Coat is an option to deal with faster Taunt users, but they are quite rare and generally not worth forfeiting a moveslot just to deal with. Thunder Wave can also be a pretty useful support move to cripple faster foes, but is hard to fit onto a set. Hidden Power Fighting can be used to somewhat threaten Tyranitar but doesn't do very much to it, so it's really not worth it most of the time.
+
+Checks & Counters
+########
+
+**Pursuit Trappers**: Pursuit users often put Azelf in a bad position, and stop it from preforming its duties at all. Tyranitar's Choice Scarf set outspeeds and can either OHKO any set not carrying a Focus Sash with Crunch or prevent it from switching out with Pursuit. Bisharp beats non-Fire Blast variants, and can even check these with Sucker Punch. Weavile can outspeed and decimate Azelf.
+
+**Priority Users**: Azelf is very frail and therefore priority from the likes of Talonflame, Azumarill, and Diggersby will hurt it a lot. Priority users can also finish it off after breaking its Focus Sash, thus preventing it from doing anything else than set up Stealth Rock.
+
+**Faster Offensive Pokemon**: Pokemon that outspeed Azelf, such as Greninja and Alakazam, can 2HKO it before it sets up. Choice Scarf users also fall in this category, but none of these can actually OHKO Azelf if it runs maximum HP investment.
+
+**Faster Taunt users**: Taunt users which outspeed Azelf such as Thundurus, Aerodactyl, Sableye, and Mega Alakazam can shut down any common set, unless it runs Magic Coat.
+
+**Multi-Hit Moves**: If Azelf is holding a Focus Sash, Pokemon with access to multi-hit moves, such as Breloom and Mega Heracross, can break Azelf's Focus Sash and KO it. However, all of these are slower, which means that Azelf will still be guaranteed to at least set up Stealth Rock.
+
+**Taunt Lures**: Pokemon that are known to be defensive but decide to run an offensive set, such as Heatran and Politoed, can trick Azelf into Taunting them and attack Azelf instead. This also applies to setup sweepers such as Gyarados and Mega Charizard X, which are prone to Dragon Dancing. However, nothing stops Azelf from supporting its teammates regardless, so they are far from being reliable checks.

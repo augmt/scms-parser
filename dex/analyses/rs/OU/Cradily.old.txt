@@ -1,0 +1,67 @@
+[Overview]
+
+<p>Cradily is a great special sponge with physical STAB not found on such fiends as Milotic and Regice. Don't underestimate its ability.</p>
+
+[SET]
+name: Physical Attacker
+move 1: Rock Slide
+move 2: Earthquake
+move 3: Toxic
+move 4: Recover
+item: Leftovers
+nature: Adamant
+evs: 252 HP / 164 Atk / 92 SpD
+ 
+[SET COMMENTS]
+
+<p>Cradily is a truly great special sponge, and will make the majority of Electric-types cry for their respective Pokemon mothers. It's fairly easy to use: Toxic foes such as Suicune and stall with Recover. Try to catch Metagross on the switch with Earthquake, as it will OHKO with Meteor Mash. As for EVs, go for lots of HP and Special Defense.</p>
+
+[SET]
+name: Defensive
+move 1: Amnesia
+move 2: Barrier
+move 3: Toxic
+move 4: Rest
+item: Leftovers
+nature: Careful
+evs: 252 HP / 164 Def / 92 SpD
+ 
+[SET COMMENTS]
+
+<p>This Cradily is an industrial-strength stall Pokemon. Its great niche is Suction Cups, which prevents it from being phazed. Better hope your opponent doesn't have a Weezing.</p>
+
+[SET]
+name: Barrier + Mirror Coat
+move 1: Rock Slide
+move 2: Barrier
+move 3: Mirror Coat
+move 4: Recover
+item: Leftovers
+nature: Careful
+evs: 252 HP / 164 Def / 92 SpD
+ 
+[SET COMMENTS]
+
+<p>Barrier up, and when they give up and attack you with a special attack, Mirror Coat it back in their faces.</p>
+
+[SET]
+name: Special Attacker
+move 1: Giga Drain
+move 2: Hidden Power Fire
+move 3: Toxic / Rock Slide / Earthquake
+move 4: Recover
+item: Leftovers
+nature: Modest
+evs: 252 HP / 164 SpA / 92 SpD
+ 
+[SET COMMENTS]
+
+<p>Special Cradily is a great Swampert counter. Watch out for Giga Drain's low PP.</p>
+
+[Other Options]
+
+<p>Psych Up is funny if you can pull it off on Curse Snorlax, Dragon Dance Salamence, or Dragon Dance Gyarados, but it's not recommended alongside Swagger, especially as Cradily also receives Confuse Ray.</p>
+
+[Checks and Counters]
+
+<p>Weezing, Metagross, and Snorlax counter most sets; Skarmory and Swampert are slightly less reliable picks. Toxic also cripples defensive Cradily, whose only means of healing is Recover.</p>

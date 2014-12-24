@@ -1,0 +1,53 @@
+Overview
+########
+
+Terrakion's potent offensive typing and good base 108 Speed carves it a niche in Ubers as an offensive Stealth Rock setter. Possessing powerful Fighting / Rock coverage with Close Combat and Stone Edge, Terrakion is not easy to switch into and dispatches prominent threats such as Yveltal, Ho-Oh, and slow variants of Extreme Killer Arceus. Sadly, its base 108 Speed still lets it down against the likes of Mewtwo, Gengar, and Arceus formes that invest in Speed, notably the aforementioned Extreme Killer. This greatly impairs Terrakion's viability, although it can circumvent the problem with Sticky Web support. Also, Terrakion offers teams very little defensive synergy aside from a Dark-type resistance that helps against Yveltal and Darkrai, albeit situationally. It is aided by Justified, a useful ability that raises Terrakion's Attack by one stage when hit by a Dark-type move. Finally, solid checks to Terrakion exist in the form of Ground-, Ghost-, and Fairy-types, although all of these are hard-pressed to switch into it repeatedly.
+
+Offensive Stealth Rock
+########
+name: Offensive Stealth Rock
+move 1: Stealth Rock
+move 2: Close Combat
+move 3: Stone Edge
+move 4: Taunt / Toxic
+item: Life Orb / Fist Plate
+evs: 4 HP / 252 Atk / 252 Spe
+nature: Jolly
+
+Moves
+========
+
+Stealth Rock is an indispensable entry hazard and Terrakion uses its decent Speed and the threat of its powerful STAB moves to function as an effective setter. Close Combat is Terrakion's strongest move, hitting Steel-types such as Dialga, Ferrothorn, and Heatran super effectively. Boosted by a Life Orb, it deals heavy damage to Pokemon that do not resist its moves. Stone Edge rounds out Terrakion's coverage nicely, hitting Ho-Oh, Yveltal, Lugia, and the Ghost- and Fairy-types that resist Close Combat. Taunt prevents opposing setup, and also stops Giratina-O and incoming support Arceus from attempting to use Will-O-Wisp or Defog. Toxic could also be used in this moveslot to cripple Terrakion's switch-ins.
+
+Set Details
+========
+
+252 Speed EVs with a Jolly nature outruns everything relevant, notably allowing Terrakion to outspeed Palkia and Mega Kangaskhan. 252 Attack EVs and a Life Orb maximize Terrakion's offensive potential, allowing it to do 49-58% damage to 252 HP support Arceus and 79-93% damage to offensive Palkia with Close Combat. A Fist Plate can also be used to give Close Combat a decent 1.2x power boost while avoiding getting worn down by Life Orb recoil, and the targets of Stone Edge are generally KOed by it anyway, so the damage loss there is not too significant.
+
+Usage Tips
+========
+
+This set is not a dedicated lead; it fares badly against common leads such as Deoxys formes and Groudon. Play smartly based off Team Preview. The combination of Terrakion's STAB moves is difficult for many defensive Pokemon to handle, and more offensively-inclined Pokemon such as Palkia can be picked off with Close Combat after taking minimal prior damage. Even offensive Groudon takes a hefty 55-66% from Close Combat. Therefore, do not blindly sacrifice Terrakion in a hurry after it has set up Stealth Rock, as its power and coverage may come in handy later in the match. In the same vein, exercise prediction in using Taunt or Toxic. For example, hitting a predicted Ghost Arceus switch-in with Toxic is very useful. Lastly, bear in mind that although Terrakion has a poor defensive typing, Dark- and Normal-type resistances allow it to check non-Jolly-natured Extreme Killer Arceus, switch into Yveltal's Dark Pulse in a pinch, and check Focus Blast-lacking Darkrai.
+
+Team Options
+========
+
+Sticky Web support from Shuckle or Smeargle lets Terrakion check Extreme Killer Arceus more reliably and outspeed all common Choice Scarf users. Also, Terrakion's access to Stealth Rock and Taunt lets it fit in on such builds. Mega Gengar is a great teammate to trap and KO bothersome Fairy-types. Yveltal handles Ghost-types, notably being an excellent check to Ghost Arceus, which threatens Terrakion greatly. A check to boosted Geomancy Xerneas is needed, making Scizor, Klefki, and Aegislash viable partners. Checks to Ground-type spam are also appreciated, as Terrakion shares a Ground-type weakness with many of its other recommended teammates. Support Arceus formes with Will-O-Wisp, Giratina-O, and Landorus-T can do this; note that since Terrakion sets Stealth Rock for the team, Landorus-T can take on other roles, if it is used.
+
+Other Options
+########
+
+Muscle Band gives all of Terrakion's attacks a 1.1x boost with no drawback, but it misses out on the added power the listed items bring. For example, Muscle Band Terrakion misses out on the 2HKO with Close Combat against 252 HP / 0 Def support Arceus formes. Quick Attack can be used with a Focus Sash to limit Deoxys-A to a single layer of hazards, but otherwise it has little utility. A Choice Scarf set checks Extreme Killer Arceus quite reliably; unfortunately, with the prevalence of Ghost- and Fairy-types in the tier and Terrakion's inability to switch moves, the set is lackluster overall. A double boosting set also has merit in being able to either pick up a Rock Polish boost and sweep offensive teams, or ravage stall-based teams with Swords Dance. However, this set is largely outclassed by double-boosting Ground-types such as Groudon and Landorus-T, as it offers teams next to no defensive synergy. Finally, consider giving Terrakion an Adamant nature when using it on dedicated Sticky Web teams.
+
+Checks & Counters
+########
+
+**Ghost-types**: These are immune to Close Combat. Ghost Arceus can switch into Stone Edge, although it cannot do so more than once. However, it threatens to cripple Terrakion with Will-O-Wisp or pick it off with Judgment, and it can Recover off damage incurred. Aegislash resists Stone Edge and can OHKO Terrakion with STAB Gyro Ball. Mega Gengar cannot switch into Stone Edge at all but OHKOes Terrakion with Focus Blast if it carries the move. It can also force a double KO with Destiny Bond in a one-on-one situation.
+
+**Ground-types**: Ground Arceus, Groudon, and Landorus-T can all OHKO Terrakion with STAB Earthquake, although offensive variants of Groudon and Landorus-T cannot switch into Close Combat and Stone Edge, respectively. Gliscor's Earthquake only manages a 2HKO, but it is not itself 2HKOed by any of Terrakion's attacks.
+
+**Mewtwo**: Mewtwo and its Mega Evolutions can take any one attack from Terrakion, and then outspeed and OHKO it.
+
+**Fairy-types**: Xerneas, Fairy Arceus, Sylveon, and Clefable resist Close Combat and can beat Terrakion one-on-one. Fairy Arceus and physically defensive Xerneas stand out as checks; the former has reliable recovery, commonly runs Will-O-Wisp, and can outspeed Terrakion with the appropriate Speed investment, while the latter has the bulk to survive two Stone Edges and OHKOes back with Moonblast.
+
+**Revenge Killing**: Bullet Punch users, Deoxys-A, and common Choice Scarf users such as Kyogre, Zekrom, and Xerneas can all switch in to dispatch Terrakion after it has KOed something.

@@ -1,0 +1,35 @@
+[Overview]
+
+<p>Slaking boasts excellent HP, great Speed, and an unrivaled Attack stat. This, combined with its great movepool, would make it an amazing Pokemon were it not for its Truant ability, which forces Slaking to idle every other turn. As such, Slaking is best suited as a Choice Band user and must employ a hit-and-run strategy: hit hard, then immediately switch out to avoid the negative drawbacks of Truant. Slaking can put holes in the opponents team, but relies heavily on precise prediction. With the right support, Slaking is exceptional at dealing massive damage and picking off healthy and weakened Pokemon alike.</p>
+
+[SET]
+name: Choice Band
+move 1: Return / Double-Edge
+move 2: Earthquake
+move 3: Shadow Ball
+move 4: Focus Punch
+item: Choice Band
+nature: Adamant
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Return is Slaking's primary attack, and at over 150 Base Power after STAB, it packs a titanic punch; Pokemon such as Suicune, Snorlax, and Celebi take over 50% damage from it. In fact, even factoring in the latter's Intimidate, it comes very close to outright OHKOing Zapdos and Salamence. Double-Edge is an option over Return as it deals extra damage in exchange for recoil. While the extra power is appreciated in certain situations, such as to nab the OHKO on the aforementioned Zapdos and Salamence, the recoil can sometimes be too much of a drawback.</p>
+
+<p>Earthquake provides coverage against the Rock- and Steel-type Pokemon that resist Return, such as Tyranitar, Magneton, Jirachi, and Metagross; the former two are OHKOed, and the latter two nearly so. Shadow Ball allows Slaking to OHKO Gengar, who is immune to Return, and can otherwise be problematic; it is also a little stronger against Celebi. The last move is largely filler, and isn't as important as the previous three. Focus Punch is the primary option for its ability to OHKO 252/0 Tyranitar, Snorlax, and opposing Slaking. Focus Punch can also do over 50% to Skarmory, which otherwise walls Slaking.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread is straightforward: maximum Attack and an Adamant nature give Slaking an incredible 690 Attack with a Choice Band, while maximum Speed makes Slaking surprisingly fast. Fury Swipes is worth consideration in the last slot to break the Substitutes of and potentially KO Pokemon such as Ninjask, Jolteon, and Sceptile. A Choice Band is the best--and only--item for Slaking, as it must usually switch out after firing off an extremely powerful attack to avoid being setup bait or giving the opponent a free attack. Being forced to switch out mitigates the locking effect of Choice Band, so Slaking might as well make full use of the Attack boost.</p>
+
+<p>Skarmory can take any of Slaking's common attacks and set up Spikes, which severely hinders it. Magneton makes an ideal partner as its ability to trap and eliminate Skarmory lets it clear a path for Slaking.</p>
+
+[Other Options]
+
+<p>Hyper Beam, Slaking's most powerful attack, can possibly outright KO Weezing and Suicune. However, it is rather situational; Return and Double-Edge are better primary STAB attacks. Fire Blast can OHKO Forretress and Scizor, as well as 2HKO Skarmory. If using Fire Blast, though, it is recommended that you first weaken Skarmory, as it can otherwise survive the first hit and use Rest while Slaking's Truant takes effect.</p>
+
+[Checks and Counters]
+
+<p>Ghost- and Steel-types, such as Gengar and Skarmory, can cause problems for Slaking as they are respectively immune and resistant to Slaking's Normal-type STAB moves. While Gengar can fire off status moves at an idle Slaking or the switch-in, it is a check and not a hard counter, as Slaking can OHKO it with Shadow Ball. Skarmory, on the other hand, can take advantage of free turns to set up Spikes. Residual damage from Spikes and sandstorm is a big problem for Slaking as, with Spikes on the field and sandstorm in play, Slaking will lose a portion of its health every time it switches in. Proper prediction can aggravate this weakness as Slaking will have to switch out having done little or no damage.</p>
+
+<p>Users of Protect can stop Slaking in its tracks: Blissey and Ninjask can use Protect on Slaking's attacking turn and do whatever they please when Truant kicks in. Blissey can use Wish to support its team while Slaking is idling, or wear its HP down with Seismic Toss. Ninjask can use Protect or Substitute against non-Fury Swipes variants, set up a Swords Dance boost, and Baton Pass on the free turns. In general, Slaking cannot beat Substitute Pokemon, as they can simply attack Slaking as it breaks the Substitute and set up another on the free turn. This applies especially to faster opponents, in particular Ninjask, Gengar, and Sceptile.</p>

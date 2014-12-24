@@ -1,0 +1,115 @@
+Overview
+########
+
+Kyurem-B is a huge offensive threat. Thanks to its great offensive stats, it has the capability to go mixed, making it a very unpredictable opponent. Kyurem-B also sports some pretty good defensive stats which are further supported by a decent typing, allowing it to switch into a lot of resisted hits with relative ease. Teravolt is a useful ability, as it lets Kyurem-B ignore abilities like Mega Venusaur's Thick Fat and Rotom's Levitate. Unfortunately, it has a pretty lackluster support movepool, so it can only fill an all-out attacking role. Kyurem-B's base 95 Speed doesn't do it many favors either, as it falls short of a lot of common threats in the metagame such as Latios and Terrakion. 
+
+Substitute
+########
+name: Substitute
+move 1: Substitute
+move 2: Ice Beam
+move 3: Earth Power
+move 4: Protect
+ability: Teravolt
+item: Leftovers
+evs: 228 HP / 252 SpA / 28 SpD
+nature: Modest
+
+Moves
+========
+
+Kyurem-B can take advantage of its resistances to Electric- and Water-type moves by setting up a Substitute on common Pokemon such as Rotom-W, which makes it much harder to handle. Ice Beam is the Ice-type STAB attack of choice, being Kyurem-B's strongest STAB option bar the unreliable Blizzard. Earth Power is useful to help Kyurem-B handle Pokemon that Ice Beam can't hit, such as Rotom-W, Heatran, and Bisharp. Protect is a defining move in Doubles, stalling out field effects and buying Kyurem-B's partner time to attack. It is doubly important when coupled with Substitute, as it can help Kyurem-B survive even more hits than usual to help break through Pokemon that can often handle Kyurem-B well, such as Terrakion.
+
+Set Details
+========
+
+Leftovers are used to heal Kyurem-B over time and ensure that it can create as many Substitutes as possible. The EV spread ensures that Leftovers heals the highest amount of HP possible. Kyurem-B's Special Attack stat is maximzed to let it hit as hard as possible, and the remaining EVs are put into Special Defense to help it against the specially based threats that it typically sets up against. A spread using 224 Speed EVs (at the cost of sacrificing some HP) to get the jump on Landorus-T can be used, but it is not generally advised as it makes it harder to set up and maintain a Substitute.
+
+Usage Tips
+========
+
+To effectively use Substitute Kyurem-B, switch it into Pokemon that can't really do anything to it, such as Cresselia or Grass-, Electric-, and Water-types not named Keldeo, and then use Substitute. Aside from surprise coverage or critical hits, these Pokemon will typically be unable to break the Substitute and Kyurem-B can use the free turns created to its advantage. Through the use of Protect, Kyurem-B can avoid predicted double targeting and maintain its Substitute for even longer amounts of time.
+
+Team Options
+========
+
+Substitute Kyurem-B is an excellent choice for rain teams as it can help out Pokemon such as Kingdra and Ludicolo by clearing out rain checks such as Mega Venusaur, Rotom-W, and Amoonguss. Kingdra has notable synergy with Kyurem-B as it can check Dragon-type Pokemon that Kyurem-B fears with Draco Meteor. Kyurem-B has good defensive synergy with Pokemon like Heatran and Landorus-T, as it easily switches in on the Water-type attacks that are often used against them. Aegislash easily switches in on Rock- and Fighting-type Pokemon that Kyurem-B often has trouble with whilst also providing Wide Guard support which can help maintain a Substitute when facing moves such as Rock Slide and Earthquake. Fire-type Pokemon such as Heatran and Charizard can help Kyurem-B handle Steel-type Pokemon that don't fear Earth Power, such as Ferrothorn and Scizor. Bulky Water-type Pokemon can be an issue, so Kyurem-B really benefits from an Electric-type partner such as Rotom-W or Thundurus.
+
+Mixed Offense
+########
+name: Mixed Offense
+move 1: Dragon Claw / Outrage
+move 2: Ice Beam
+move 3: Fusion Bolt / Earth Power
+move 4: Protect
+ability: Teravolt
+item: Life Orb / Expert Belt
+evs: 240 Atk / 44 SpA / 224 Spe
+nature: Lonely
+
+Moves
+========
+
+Dragon Claw is Kyurem-B's main physical STAB move. It has the power to take down almost every Dragon-type Pokemon in the metagame in a single hit. Outrage can also be used in this slot instead, and has the potential to be very effective thanks to the increase in power. However, Outrage is unreliable because Kyurem-B cannot chose its target, which is a significant drawback. In addition to this, Kyurem-B will also be locked into Outrage, and unable to switch moves. Ice Beam is a great secondary STAB attack which effectively handles Landorus-T as well as the odd Grass-type Pokemon such as Mega Venusaur. Fusion Bolt is a powerful coverage move that can net OHKOs on Pokemon such as Politoed and Mega Charizard Y. It also provides good damage against Pokemon that resist Ice- and Dragon-type moves. Earth Power is a solid choice to hit Rotom formes and Heatran. Protect is important as it helps Kyurem-B avoid taking damage when possible. It also helps scout out surprise sets and dish out some damage with Kyurem-B's partner as it uses Protect.
+
+Set Details
+========
+
+The Speed investment provided allows Kyurem-B to outspeed maximum Speed Adamant Landorus-T, which it can subsequently OHKO with Ice Beam. The investment provided gives Kyurem-B the strength to OHKO 252 HP Heatran with Earth Power and provides a little bit more of a kick for any other special attacks it may be using. Life Orb is generally the more useful item, but use of an Expert Belt can bluff other items and keeps it free from recoil damage. A Lonely nature is best because it will help Kyurem-B wall typically special attacking Electric-, Water-, and Grass-types even more effectively.
+
+Usage Tips
+========
+
+The use of speed control in the form of moves such as Icy Wind or Thunder Wave is greatly appreciated  it helps make up for Kyurem-B's just average Speed stat. Kyurem-B should be used to switch into resisted hits to put it into a situation where it can apply a lot of pressure to the opponent's team and force further switches. Thanks to its great power and coverage, Kyurem-B can be used to plow through more defensively orientated teams as well as some faster, frailer teams.
+
+Team Options
+========
+
+Choice Scarf Gardevoir partners well with Kyurem-B, as it has the ability to take down common Intimidate users as well as Dragon-types such as Garchomp and Latios with Moonblast. Quick Guard support helps check Scizor for Kyurem-B; good users include Hitmontop and Terrakion. Tailwind support from Togekiss is beneficial, as it somewhat mitigates Kyurem-B's Speed issues. Togekiss can also use Follow Me to redirect oncoming attacks, particularly Dragon-type attacks, aimed at Kyurem-B. Pokemon like Scizor that can handle opposing Fairy-types are useful, as Kyurem-B is often unable to do very much to them.
+
+Choice Band
+########
+name: Choice Band
+move 1: Dragon Claw
+move 2: Fusion Bolt
+move 3: Outrage
+move 4: Ice Beam / Rock Slide
+ability: Teravolt
+item: Choice Band
+evs: 24 HP / 252 Atk / 232 Spe
+nature: Adamant
+
+Moves
+========
+
+Dragon Claw is the safer option over Outrage, as it lets Kyurem-B pick its target and will hit very hard when coming off of Kyurem-B's fully invested base 170 Attack. It hits hard enough to 2HKO most Intimidate users, even at -1. When it is safe to use it, Outrage has the raw power to smash through even some of the more bulky Pokemon that populate the metagame, such as Rotom-W and Mega Venusaur. Fusion Bolt is a strong choice for coverage and lets Kyurem-B dent Pokemon that resist its STAB attacks, such as Heatran, which it can 2HKO. There are also some Pokemon like Politoed and Mega Charizard Y that Outrage can easily OHKO. Despite the lack of Special Attack investment, Ice Beam is really useful just for OHKOing Landorus-T. If the Ice-type coverage is not needed, Rock Slide is an excellent choice for its ability to deal good spread damage.
+
+Set Details
+========
+
+The Choice Band coupled with the EV spread and nature ensures that Kyurem-B will be hitting as hard as possible and helps it overcome the possible effect of Intimidate, to an extent. The Speed ensures that Kyurem-B will outspeed Adamant Landorus-T as well as neutral natured Mega Garchomp. The final few EVs are put into HP to provide a little bit of extra bulk.
+
+Usage Tips
+========
+
+You shouldn't be too hasty to use Outrage, as you cannot choose the target it will hit, so it causes unnecessary coinflip scenarios. Outrage should only be used when you need the extra power or you can afford to hit either target. Intimidate and burns are much more threatening to this set, so it is important to attempt to clear out Pokemon that carry moves like Will-O-Wisp before being too reckless. Kyurem-B needs to avoid Fairy-type Pokemon as it is difficult to take them down, especially when locked into a Dragon-type move.
+
+Team Options
+========
+
+Togekiss can support Kyurem-B with moves such as Follow Me to redirect attacks as well as Thunder Wave and Tailwind to help alleviate Kyurem-B's middling Speed. Jirachi is similar to Togekiss except its typing helps it handle oncoming Fairy-type attacks better, but it is not immune to Dragon-type attacks. Choice Scarf Gardevoir can clear out common Intimidate users such as Hitmontop as well as frailer Dragon-types like Latios and Garchomp. Partners like Mega Charizard Y that can handle Steel-type Pokemon that Kyurem-B struggles with are beneficial as it helps pave the way for Kyurem-B 
+as it attempts to punch holes. Scizor and Aegislash are powerful options as both are Pokemon that can handle the Fairy-types that threaten Kyurem-B; they also deal with Terrakion well.
+
+Other Options
+########
+
+A fully special set utilizing Draco Meteor can be effective because it does not have to worry about Intimidate or Will-O-Wisp spam. Focus Blast can be a useful option, as it can OHKO Bisharp with ease. Iron Head can hurt Fairy-types like Sylveon and Gardevoir more than Fusion Bolt. If hail support is available, Blizzard is preferred over Ice Beam. Damage-reducing berries such as the Haban, Chople, or Charti Berry can be used to lure in Pokemon that expect to be able to easily take down Kyurem-B. Zen Headbutt provides super effective coverage on Fighting-type Pokemon like Hitmontop and Conkeldurr, which can be useful. Roost can be used for longevity and it increases Kyurem-B's overall bulk. A Power Herb can be used for a more powerful physical STAB attack in the form of Freeze Shock, however it isn't usually worth it. A Dragon Fang can be held to boost the power of Kyurem-B's Dragon-type attacks and also bluff other items such as a Choice Band.
+
+Checks & Counters
+########
+
+**Attack Control**: Both burns and Intimidate can have a big impact on Kyurem-B, particularly for the Choice Band set. They stops Kyurem-B from being able to hit as hard, making it much easier to handle. Hitmontop and Scrafty are the most irritating Pokemon for Kyurem-B to deal with as both neuter its Attack and then threaten it with powerful Fighting-type moves.
+
+**Offensive Typing Advantage**: Both Fairy- and Steel-types find it easy to switch into most of Kyurem-B's attacks and bite back with powerful super effective moves. Mega Gardevoir is a big threat as it can use its Pixilate-boosted Hyper Voice to destroy Kyurem-B whilst also doing damage to its partner. Scizor can easily switch in and force Kyurem-B out with the threat of its Technician-boosted, STAB Bullet Punch. Bulkier threats like Assault Vest Conkeldurr and Scrafty also threaten Kyurem-B as they can take a hit and then proceed to dish out damage with their super effective STAB moves.
+
+**Speed**: Faster threats such as Latios, Garchomp, and Terrakion all carry moves that can plow through Kyurem-B. Super effective moves are not the only worry, as plenty of faster threats can hit Kyurem-B for a lot of damage before it can retaliate. Examples include Mega Charizard Y's sun boosted Heat Wave and Mega Kangaskhan's Return.

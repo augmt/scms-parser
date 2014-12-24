@@ -1,0 +1,60 @@
+[Overview]
+
+<p>In-game, Bibarel is phenomenally useful as an "HM slave" and is highly recommended for any team. Unfortunately, that usefulness doesn't transfer over into the competitive scene. While Bibarel has an amazing offensive STAB combination, its shallow usable movepool and base stats leave a lot to be desired. However, Bibarel has a saving grace on the battlefield as an awesome Baton Pass recipient thanks to its unique ability, Simple.</p>
+
+[SET]
+name: Baton Pass Receiver
+move 1: Waterfall
+move 2: Return
+move 3: Quick Attack
+move 4: Taunt / Toxic
+item: Life Orb / Leftovers
+ability: Simple
+nature: Adamant
+evs: 252 HP / 252 Atk / 4 Def
+
+[SET COMMENTS]
+
+<p>Although it has been cursed with a dull movepool and depressing base stats, Bibarel possesses an amazing ability, Simple. When combined with excellent dual STAB attacks that are only resisted by Shedinja in UU, Bibarel makes an impressive Baton Pass receiver.</p>
+
+<p>In preparation for a Bibarel sweep, you must know two important things. Firstly, Simple doubles the effect of stat boosts, and the effect is the same when Bibarel receives boosts from a Baton Passer. Secondly, in reverse, Simple also doubles stat drops that Bibarel receives. This could be unfortunate if Bibarel or your Baton Passer is caught on the end of an Intimidate. One can prevent Bibarel's intended Attack boost from dropping before it is passed by using a Baton Passer with the ability Hyper Cutter. The most notable example of this is Gligar, who is able to pass both Agility and Swords Dance boosts.</p>
+
+<p>With Return, Bibarel tears through walls like tissue paper, OHKOing Uxie, Weezing, and Milotic with Stealth Rock damage. Waterfall takes care of Steel-, Rock-, and Ghost-types, OHKOing Steelix, Regirock, and Spiritomb. Quick Attack is a viable option to beat Sucker Punch and all other priority after Bibarel is passed a Speed boost. The final move comes down to what specific actions you would like Bibarel to perform. Taunt will keep Haze, phazing moves, and status away from Bibarel, while Toxic will help make Bibarel more useful should it be forced into battle before acquiring multiple boosts. Superpower can be used as an emergency Registeel removal; however, the Attack and Defense drops are doubled, so its use is highly cautioned.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The subsequent calculations assume that Bibarel is equipped with a Life Orb and is passed at least one Swords Dance (this converts to +4 when the boosts are passed to Bibarel).</p>
+
+<ul class="damage_calculation">
+<li>+4 Life Orb Return vs 252 HP / 252 Def Impish Tangrowth: 81.2% - 95.8%<li>
+<li>+4 Life Orb Return vs 252 HP / 252 Def Impish Uxie: 90.7% - 106.8%<li>
+<li>+4 Life Orb Return vs 252 HP / 252 Def Bold Slowbro: 91.4% - 107.6%<li>
+<li>+4 Life Orb Return vs 248 HP / 252 Def Bold Milotic: 113.7% - 133.8%<li>
+<li>+4 Life Orb Return vs 252 HP / 252 Def Bold Weezing: 101.5% - 119.5%<li>
+<li>+4 Life Orb Return vs 252 HP / 252 Def Impish Drapion: 104.7% - 123.3%<li>
+<li>+4 Life Orb Waterfall vs 252 HP / 252 Def Impish Steelix: 102.3% - 120.9%<li>
+<li>+4 Life Orb Waterfall vs 252 HP / 252 Def Impish Regirock: 99.5% - 117.6%<li>
+<li>+4 Life Orb Waterfall vs 252 HP / 0 Def Impish Registeel: 73.6% - 86.8%<li>
+<li>+4 Life Orb Waterfall vs 252 HP / 252 Def Impish Spiritomb: 93.8% - 110.5%<li>
+<li>+4 Life Orb Quick Attack vs 0 HP / 0 Def Blaziken: 93% - 110%<li>
+<li>+4 Life Orb Quick Attack vs 252 HP / 0 Def Hitmontop: 71.4% - 84.2%<li>
+<li>+4 Life Orb Quick Attack vs 0 HP / 0 Def Absol: 116.6% - 137.6%<li>
+</ul>
+
+<p>The EV spread is straightforward: 252 Attack EVs paired with an Adamant nature maximizes Bibarel's offensive prowess. HP is also maximized in order to be able to get Bibarel in safely. No Speed EVs are necessary because after an Agility boost, Bibarel has an astounding 534 Speed, which is faster than every unboosted Pokemon in the UU tier. Lum Berry can be just as useful as Life Orb even if Bibarel is running Taunt, since Bibarel is completely open to status when it comes into battle unless a Substitute is part of the Baton Pass chain. Leftovers is another viable item choice, but it prevents Bibarel from OHKOing a few defensively oriented Pokemon.</p>
+
+<p>The idea behind this set is to pair Bibarel with a Pokemon that can not only Baton Pass a Speed boost, but also an Attack boost at the same time. The previously mentioned Gligar is therefore a necessity as a teammate. You are welcome to try out other Baton Passers, such as Leafeon; you might even try constructing a simple Baton Pass chain to increase your chances of success. A good model to follow is that of a Sleep Powder Agility Venomoth who Baton Passes to Gligar, who then Swords Dances and Baton Passes the final boosts to Bibarel. Bibarel, however, is not the "bulkiest bulb" around; dual screen and Wish support will make it easier to get Bibarel in and, once it's in position, to actually pull off a sweep. It is recommended that you make full use of Gligar, but other good supporters include the UU Eeveelutions. They can not only Baton Pass Wish, but also Swords Dance and dual screens (depending on which one you use). If you decide to use Leftovers instead of Life Orb, you might consider enhancing your Baton Pass chain to even pass defensive boosts like Amnesia and Barrier from Pokemon like Gorebyss or Stockpile from Drifblim. More information on the inner workings and strategy behind Baton Pass chains can be found here: http://www.smogon.com/dp/articles/baton_pass_chains.</p>
+
+<p>Bibarel is susceptible to Intimidate from the likes of Hitmontop and Arcanine, as the Attack drop is doubled thanks to Simple. Arcanine is not very threatening to Bibarel itself, being weak to Waterfall; however, with some smart switching it can quickly bring Bibarel's Attack stat down to less dangerous levels. In order to remedy this potential problem, pairing Bibarel with a Pokemon such as Altaria or Milotic can keep Arcanine at bay. Hitmontop can also make use of Intimidate as well as threaten Bibarel with Mach Punch. Pairing Bibarel with Drifblim is a good idea, as Drifblim can force Hitmontop out and then set up a Substitute to start the Baton Pass chain all over again.</p>
+
+[Other Options]
+
+<p>Aqua Tail and Double-Edge can replace Waterfall and Return on the Baton Pass recipient set, respectively. However, Aqua Tail's lower accuracy could prove fatal to Bibarel's sweep should it miss, and Double-Edge's recoil could easily deplete Bibarel's HP too quickly. Plus, Waterfall and Return already achieve all of the KOs Bibarel needs. The only other physical options available to Bibarel are Focus Punch and Superpower. Neither provides Bibarel with any extra coverage, and Superpower's Defense and Attack drops are doubled thanks to Simple. Bibarel can go the special attacking route as well; however, Bibarel's Special Attack stat sits at a meager base 55. Charge Beam, Grass Knot, Ice Beam, Surf, Thunderbolt, and Shadow Ball round out Bibarel's special movepool.</p>
+
+<p>Bibarel also has boosting moves in Curse and Amnesia; however, Bibarel is not fast nor bulky enough to set up by itself and can make much better use of Speed and Attack boosts passed to it. Super Fang should only be used should Bibarel not receive any boosts, as Bibarel is capable of straight up KOing the strongest walls of UU with the appropriate boosts under its belt. The rest of Bibarel's usable movepool consists of Stealth Rock, Yawn, and Thunder Wave. While all have their uses, Bibarel is much better off attacking and making use of its offensive prowess than supporting the team.</p>
+
+[Checks and Counters]
+
+<p>Should Bibarel be successful in receiving both a Swords Dance and an Agility boost, little in UU can stop a Bibarel sweep. Registeel stands the best chance of not being OHKOed by Bibarel's assaults; however, it has no way of OHKOing Bibarel back. Keep in mind that Registeel should not attempt to use Thunder Wave as Bibarel will more than likely use Taunt on Registeel before it can paralyze it. Hitmontop, Blaziken, and Toxicroak can attempt to snipe Bibarel with Mach Punch and Vacuum Wave, but Quick Attack will do a number on all of them. Shedinja is completely immune to both of Bibarel's STABs and can put a stop to a Bibarel sweep. However, Bibarel can bypass Shedinja with Pluck or Toxic, and entry hazards will prevent Shedinja from even entering battle. Tangrowth has a chance of surviving a Swords Dance-boosted Return with Stealth Rock down and can proceed to either put Bibarel to sleep or give it some major whiplash with Power Whip.</p>
+
+<p>Without any boosts, Bibarel is nothing more than a sitting duck. Electric-types such as Manectric, Rotom, and Lanturn can fry any Bibarel with Thunderbolt; Grass-types such as Venusaur, Exeggutor, and Leafeon can slap Bibarel with their Grass-type attacks; and finally, Fighting-types such as Hitmonlee and Hariyama can pound Bibarel into oblivion with their STAB attacks.</p>

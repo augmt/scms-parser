@@ -1,0 +1,73 @@
+[Overview]
+
+<p>With the transition from DPP to BW, the Rotom formes traded their Ghost typings for that of their respective signature moves, leaving Rotom as the only Electric / Ghost Pokemon. Its unique typing grants it resistances and immunities to common attacking types such as Electric, Fighting, Bug, and Ground. This in turn gives Rotom numerous opportunities to switch in and pose a nuisance, which it excels at thanks to moves such as Will-O-Wisp, Trick, and Volt Switch. Rotom's stats don't disappoint either: it has relatively good Speed, decent Special Attack, and moderate defenses. Altogether, Rotom is a great Pokemon, and with proper investment can shine in a variety of roles, both offensive and defensive.</p>
+
+[SET]
+name: Choice
+move 1: Volt Switch / Thunderbolt
+move 2: Shadow Ball
+move 3: Hidden Power Fighting
+move 4: Trick
+item: Choice Scarf / Choice Specs
+nature: Timid / Modest
+evs: 252 SpA / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>While Rotom has a shallow attacking movepool, it has just enough options to make effective use of a Choice item. With immunities to Spikes and Toxic Spikes, as well as a neutrality to Stealth Rock, Rotom can switch in and out many times while taking minimal damage. However, this is not the only factor that makes Rotom's Choice sets very effective: when equipped with a Choice item, Rotom becomes a very potent threat. With a Modest nature and a Choice Scarf, Rotom reaches a Speed stat of 421, while Timid Choice Specs Rotom attains a sky-high Special Attack stat of 433.</p>
+
+<p>Aside from being a solid STAB attack, Volt Switch is an excellent momentum-grabbing move, which racks up damage and scouts the opponent's switch-in. Thunderbolt is another option for greater power, and can grant Choice Scarf Rotom an easier endgame sweep. However, be careful about recklessly using either of these moves, as Ground-types and Pokemon such as Volt Absorb Jolteon, who are immune to Electric-type moves, will leave Rotom no choice but to switch out with its metaphorical tail between its legs. Shadow Ball, Rotom's secondary STAB attack, has good synergy with its Electric-type STAB, as few commonly seen Pokemon resist both moves. Rounding out Rotom's arsenal, Hidden Power Fighting grants unresisted coverage alongside Rotom's dual STAB, hitting Steelix, Magneton, Krookodile, and the rare Ferroseed super effectively. Despite being super effective, however, even Choice Specs Hidden Power Fighting will scarcely dent the likes of Snorlax, hence the last move, Trick. With a little prediction, this nifty move can easily render most walls and bulky Ground-types, such as Gligar and Quagsire, virtually useless.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Hidden Power Grass can replace Hidden Power Fighting to surprise the aforementioned bulky Ground-types, Rhyperior in particular, but Trick often deals with them just as effectively. If choosing Hidden Power Ice, Rotom should also utilize Choice Scarf and a Timid nature in order to revenge kill Adamant Choice Scarf Flygon and all Choice Scarf Nidoking. Maximum Speed investment also allows Choice Scarf Rotom to outspeed all +2 Gorebyss and neutral-natured +1 Sharpedo, making it an option worth considering if these threats are troublesome. On the other hand, a Modest nature gives all Rotom a much-needed boost to its unremarkable base 95 Special Attack. Discharge and Thunder are alternative primary STAB moves, but the former's power drop is undesirable on an offensive Rotom, while the latter's accuracy is poor outside of rain, and there are better Rain Dance abusers out there. Finally, Will-O-Wisp, though odd on a Choice set, may be useful to cripple physically based Ground-types who switch in looking to catch Rotom locked into Volt Switch, if Trick isn't your cup of tea.</p>
+
+<p>While Rotom's three attacks have excellent coverage together, neither of its STABs are particularly good attacking types to be locked into: the numerous Ground-types in UU, such as Rhyperior, Flygon, and even Nidoking, laugh at Thunderbolt and Volt Switch, and thanks to their high offensive stats, can pose a significant threat to your team. Normal-types, particularly Snorlax and Clefable, take no damage from Shadow Ball and can retaliate with crippling status or a super effective Crunch; Dark-types, such as Weavile, Bisharp, and Krookodile can also switch into Shadow Ball and decimate Rotom with a powerful STAB Pursuit. There are many ways to handle the individual Ground-type threats; bulky Water- and Grass-types, such as Slowbro, Suicune, Roserade, and Shaymin, generally fare well. Fighting-types, such as Hitmontop, Machamp, and Heracross, are good options to help your team counter the latter threats, but Rotom must tread carefully so as to avoid eating a boosted Pursuit.</p>
+
+[SET]
+name: Physically Defensive
+move 1: Will-O-Wisp
+move 2: Pain Split
+move 3: Thunderbolt / Discharge
+move 4: Shadow Ball / Toxic
+item: Leftovers
+nature: Bold
+evs: 252 HP / 252 Def / 4 SpD
+
+[SET COMMENTS]
+
+<p>With 50 / 77 / 77 defenses, Rotom is hardly exceptional defensively. However, its access to a move that halves a foe's Attack, as well as one that recovers health, grants it the potential to be a good physical wall and a significant threat to the opposition. Will-O-Wisp and Pain Split are the two aforementioned moves; the former inflicts the burn status, drastically decreasing the damage output of enemy physical attackers, while Pain Split gives Rotom some form of recovery, especially when used on high HP foes such as Snorlax. Thunderbolt is Rotom's main STAB attack due to its high Base Power, but Discharge is a viable option for a greater chance of paralysis. Bear in mind, though, that it might activate at the wrong time, paralyzing a threat you would rather have burnt. Shadow Ball offers Rotom a way to hit the physically attacking Ground-types it can wall, which are immune to Thunderbolt and Discharge, and gets a STAB boost as well. Toxic is another option to consider in the fourth moveslot as it enables Rotom to cripple special attackers, who typically don't mind being burnt.</p>
+
+[ADDITIONAL COMMENTS] 
+
+<p>The EV spread and nature maximize Rotom's physical bulk, enabling it to better switch into physical attackers in order to burn them. An alternative spread of 252 HP / 4 Def / 252 SpD with a Calm nature can be used, as Will-O-Wisp shores Rotom up on the physical side; however, the former option is preferred as Snorlax is far superior at walling special threats. Thunder Wave can be run over Shadow Ball or Toxic to provide yet another form of status support. Will-O-Wisp should never be replaced, though.</p>
+
+<p>Physically defensive Rotom pairs nicely with a Normal-type special wall, such as Clefable or Snorlax, to supplement it on its weaker defensive side. Rotom covers their Fighting-type weakness with an immunity, and the former two provide Rotom with Wish support, which will be especially useful mid- and late-game, when the effectiveness of Pain Split will likely be reduced. Physical Fire-type attackers and Guts users, such as Victini, Darmanitan, Arcanine, and Heracross, can be problematic too, because Rotom cannot neuter them with Will-O-Wisp. As such, bulky Water-types make good teammates; many variants of Suicune also appreciate Toxic wearing opponents down.</p>
+
+[SET]
+name: Dual Screens
+move 1: Light Screen
+move 2: Reflect
+move 3: Volt Switch
+move 4: Will-O-Wisp / Shadow Ball
+item: Light Clay
+nature: Timid
+evs: 252 HP / 4 Def / 252 Spe 
+
+[SET COMMENTS]
+
+<p>Access to both Light Screen and Reflect, along with good Speed and typing, allows Rotom to pull off a dual screens set very effectively. This set's execution is simple but effective: put up Reflect or Light Screen depending on the opponent, and when both screens are up, Volt Switch out to bring a sweeper in safely. Will-O-Wisp is a fantastic move to use alongside Volt Switch as it allows Rotom to burn Ground-types, most of whom are physically inclined; it also enables even this less defensive Rotom to completely wall most physical threats behind Reflect. Lastly, Shadow Ball is a good option for players more concerned about Taunt. Bear in mind, however, that Azelf has far better offenses, Uxie has superior utility in Heal Bell, Yawn, and Memento, Xatu has the Magic Bounce ability, while Cresselia has unparalleled bulk. Therefore, when looking to Rotom as a dual screener, be sure to play to its advantages, namely Volt Switch, Will-O-Wisp, resistances to Steel- and Bug-type moves, as well as spinblocking capability.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Dual Screens Rotom doesn't have many other options. The EV spread and nature shouldn't be altered: maximum Speed investment, as well as a boosting nature, allow Rotom to outspeed as many opposing Pokemon as possible, while the rest of the EVs grant it the best overall bulk possible by maximizing its poor HP. Light Clay extends the duration of both Reflect and Light Screen, providing maximum support for Rotom's teammates. Though generally not recommended, Leftovers can be used over Light Clay for some form of recovery. Pain Split can also be run in the last slot to grant Rotom an alternative form of healing without the need to forgo Light Clay.</p>
+
+<p>The most important teammates for any dual screener are frail, powerful Pokemon that can abuse the protection the screens grant them. Shell Smash Baton Pass users, namely Gorebyss and Smeargle, come to mind here. Cobalion can come in on Dark- and Ghost-type attacks aimed at Rotom, possibly gaining an Attack boost in the process, and set up Swords Dance or Calm Mind. This makes Cobalion an excellent partner for this Rotom variant, as dual screens go a long way in mitigating Cobalion's lack of priority, making it much harder to revenge kill.</p>
+
+[Other Options]
+
+<p>Rotom has a few other offensive options worth considering. A RestTalk set can be used along with Will-O-Wisp and Thunderbolt in the last two slots; the EVs and nature should be taken from the Physically Defensive set. A SubCharge set is also an option, considering Rotom is immune to Seismic Toss. Access to Pain Split makes it even more effective, but Rotom generally lacks the bulk to be an effective slow boosting threat. Defensively, Rotom can use Spite, but it's more of a gimmick and is rather situational. Finally, Rotom receives Rain Dance and Sunny Day, and thanks to its decent Speed stat can pull it off fairly reliably, but it is neither an exceptional weather supporter nor weather abuser.</p>
+
+[Checks and Counters]
+
+<p>Faster Ghost- and Dark-type Pokemon with strong STAB attacks can easily OHKO offensive Rotom and Taunt defensive variants, rendering them useless. Houndoom in particular receives a Flash Fire boost from Will-O-Wisp, outspeeds Rotom, and can do massive damage with any of Dark Pulse, Pursuit, and Sucker Punch. Bisharp possesses STAB Sucker Punch, Honchkrow has Pursuit in addition to Sucker Punch (but must watch out for Rotom's Electric-type STAB attacks), Weavile outspeeds Rotom and packs powerful Dark-type moves in Pursuit and Night Slash, and finally, Krookodile laughs at both of Rotom's STAB attacks. However, none of the above Pokemon will appreciate being burnt. Mismagius can put up a Substitute to block status, outspeed Rotom, and OHKO it with Shadow Ball, but can't switch in safely as it is weak to Rotom's Shadow Ball. Special walls can take hits from Rotom all day, heal off the damage, and cripple Rotom with status moves, slowly stalling it out, while specially defensive tanks such as Snorlax can comfortably sponge a hit and retaliate with a super effective Crunch or Pursuit. The aforementioned duo are rendered useless by Trick, however, and take significant damage from Pain Split due to their huge HP stats. While not a dedicated special wall, Steelix deserves a mention for nonetheless being an excellent Rotom check; a resistance to Ghost-type moves and an immunity to Electric-type ones allows it to come in on Choice variants with ease and cripple Rotom with status.</p>

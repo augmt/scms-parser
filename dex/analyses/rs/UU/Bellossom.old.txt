@@ -1,0 +1,39 @@
+[Overview]
+
+<p>Bellossom can't hit hard. Use only on UU teams.</p>
+
+[SET]
+name: SunnyBeamer
+move 1: Sunny Day
+move 2: Solar Beam
+move 3: Hidden Power Fire / Hidden Power Ice
+move 4: Sleep Powder
+item: Leftovers
+nature: Modest
+evs: 8 HP / 252 SpA / 248 Spe
+
+[SET COMMENTS]
+
+<p>This thing is even worse than Vileplume, mainly because of 90 Special Attack compared to Vileplume's 100. However, it can switch in on a special hit, and if it's something like a Surf, Bellossom will just shrug it off with Leftovers. Generally use Sunny Day to get a large Speed boost and then use your other moves depending on what your opponent sends out. Hidden Power Fire gets the boost from Sunny Day (50% more damage in the Sun); Hidden Power Ice hits Flying-types super effectively.</p>
+
+[SET]
+name: Double Powder
+move 1: Stun Spore
+move 2: Sleep Powder
+move 3: Hidden Power Grass / Razor Leaf
+move 4: Moonlight / Charm / Leech Seed
+item: Leftovers
+nature: Calm
+evs: 244 HP / 88 SpA / 176 SpD
+
+[SET COMMENTS]
+
+<p>Supporter, the most useful set. Sleep Powder something, Charm it, Stun Spore whatever comes next, or go with Sleep Powder + Stun Spore and healing, but keep in mind people usually don't fall for this. Hidden Power Grass has more power, while Razor Leaf has a high CH rate. Razor Leaf does less damage over time, but can help against Calm Minders and other Pokemon that boost Special Defense.</p>
+
+[EVs]
+
+<p>198 Speed for Sunny Day + Solar Beam set obviously, for the supporter I suggest Calm and some Special Defense EVs, split the rest between Special Attack, HP and Defense, Maxing HP and splitting the rest between Special Defense and Defense is a good idea since you won't be hitting stuff anyway. For the Toxic set, you need more Special Attack because you should do some damage to the steels. For the attacking set go with HP, Special Defense and Attack because you'll switch in Thunderbolts and Surfs and Bellossom can take Earthquakes without Defense EVs anyway, plus the Earthquake user will probably switch.</p>
+
+[Checks and Counters]
+
+<p>Muk will be its ultimate counter, with its great special tanking stats as well as its resistance. Any Fire-type, sans Magcargo and Camerupt, won't like switching into its Solar Beams. Hypno can also be used as a fine counter with its high defenses and many utility moves.</p>

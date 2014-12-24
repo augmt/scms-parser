@@ -1,0 +1,50 @@
+Overview
+########
+
+Despite the nerf to sand teams, Lileep maintains its position as a solid wall. It has access to Stealth Rock, which is more important than ever with Sturdy + Berry Juice and Pokemon such as Fletchling, Larvesta, and Ponyta, turning some 2HKOs into OHKOs. Lileep can also wall special attackers that don't have a setup move, such as Abra, Chinchou, Staryu, and Gastly. The same goes for physical attackers that cannot set up and lack super effective moves against Lileep, such as Carvanha, Ponyta, and Bunnelby. One of Lileep's biggest problems is its weakness to Fighting- and Steel-types, both very common in Little Cup. It is also setup bait for certain sweepers. The loss of permanent sand also hurts its ability to rack up passive damage and limits the duration of its 1.5x Special Defense boost while walling.
+
+Tank
+########
+name: Tank
+move 1: Stealth Rock
+move 2: Giga Drain
+move 3: Recover
+move 4: Ancient Power / Toxic
+ability: Storm Drain
+item: Eviolite
+evs: 228 HP / 140 Def / 140 SpD
+nature: Calm / Bold
+
+Moves
+========
+
+Stealth Rock is an important entry hazard, and Lileep is one of the few walls with access to it that also gets a recovery move. Giga Drain gets STAB and recovers HP, and hits Staryu and Drilbur, two of the most common Rapid Spin users, for super effective damage. Recover is for longevity, since Giga Drain doesn't recover enough HP most of the time. Ancient Power also gets STAB and a nice 10% chance for +1 across all stats, while also hitting most Defog users such as Vullaby and Archen, as well as Larvesta, Fletchling, and other Flying-type Pokemon super effectively. Toxic wears down walls Lileep would be otherwise be unable to harm. Earth Power and Hidden Power Fighting can be used for Fire- or Steel-type coverage, particularly against Magnemite and Pawniard, but they offer less coverage on other important Pokemon.
+
+Set Details
+========
+
+A Calm nature lets Lileep take on special attackers a bit better, but it can also use a Bold nature with a 228 HP / 220 Def / 60 SpD EV spread. The maximum HP investment is to help increase Lileep's mixed bulk
+
+Usage Tips
+========
+
+Setting up Stealth Rock is Lileep's primary purpose. The second is to wall or pivot and switch into Pokemon that trouble its teammates, such as Foongus, Abra, Staryu, Chinchou, Ponyta, and special attackers. It can often be the weakest link on a team, despite having a great niche, so sometimes it is better to just set up Stealth Rock and then sacrifice it to get another Pokemon in safely.
+
+Team Options
+========
+
+Slowpoke and Ponyta / Mienfoo / Timburr make a great pivot core, being able to switch in on most Pokemon in the metagame. Use it with teammates that hate the Pokemon Lileep walls or pivots into and/or appreciate Stealth Rock. Lileep likes partners that can take on Steel- and Fighting-types. Mienfoo and Timburr can easily take on Pawniard, Magnemite, and Ferroseed, while Larvesta or Vullaby can switch into Fighting-types and also still take on Pawniard. Lileep has the added bonus of being able to take on powerful sun-boosted Fire-type attacks from most variants of Ponyta and Vulpix, so it doesn't mind if your Larvesta's, Ponyta's, or Vulpix's Sunny Day boosts your opponent's Fire-type attacks.
+
+Other Options
+########
+
+Amnesia, Barrier, Stockpile, and Curse are decent options, especially Curse as it makes Lileep a boosting tank. Mirror Coat could be a fun surprise, but is too situational. Bullet Seed is a good option together with Curse if you want to use physical moves, since it allows Lileep to beat Tirtouga one-on-one at +2 Attack.
+
+Checks & Counters
+########
+
+**Fighting-types**: Mienfoo, Timburr, and other Fighting-types can Knock Off Lileep's Eviolite and then severely damage it with their STAB moves.
+
+**Steel-types**: Pawniard and Magnemite both resist Giga Drain and Ancient Power, are immune to Toxic, and have a super effective STAB Steel-type move that they can 2HKO Lileep with. However, they must watch out for Hidden Power Fighting and Earth Power, respectively.
+
+**Setup sweepers**: Fletchling can set up on Lileep if it lacks Ancient Power. Calm Mind Spritzee can set up on it as well, but hates Toxic.

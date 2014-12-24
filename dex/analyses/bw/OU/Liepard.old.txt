@@ -1,0 +1,32 @@
+[Overview]
+
+<p>With a support movepool of great moves such as Encore and Thunder Wave, Liepard can be quite an annoyance on the battlefield. A contender for the title of most frustrating Prankster Pokemon to face, Liepard can stack the paralysis and confusion status effects from behind the safety of a heightened-priority Substitute. Liepard needs all the help it can get as it lacks decent bulk and will go down fairly quickly to anything if left open to attack, but even so, with proper support and a little luck, it can be a solid player in any battle.</p>
+
+[SET]
+name: Swagger
+move 1: Swagger
+move 2: Thunder Wave / Encore
+move 3: Foul Play
+move 4: Substitute
+item: Leftovers
+ability: Prankster
+nature: Timid
+evs: 144 HP / 56 Def / 60 SpD / 248 Spe
+
+[SET COMMENTS]
+
+<p>For those fortunate enough to have never run into this set, this Liepard takes advantage of Prankster to create a Substitute, then induce confusion with Swagger. Annoying but harmless enough, right? It would be if Liepard didn't have Foul Play. Foul Play uses the opponents' Swagger-raised Attack stats against them as they struggle to even damage Liepard back and avoid damaging themselves in their confusion. This strategy is very much luck-based, but if luck favors Liepard, it can easily sweep a team.</p>
+
+<p>Thunder Wave and Encore both help Liepard stay behind a Substitute, as its defense stats are extremely bad. Thunder Wave stacks on top of Swagger to ensure opponents will be unlikely to attack anytime soon. Encore gives Liepard extra chances to set up at the cost of a secondary status. Foul Play, again, takes advantage of Swagger's Attack-raising effect, and also gives Liepard a needed option to handle Magic Bounce users.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Liepard's Speed EVs allow it to outpace neutral base 120s such as Alakazam and positive base 105s such as Zoroark, and the defensive EVs maximize its overall bulk. Entry hazards are a necessity for this set as the opponent can otherwise just switch out constantly without fear. Pokemon that can reliably spread paralysis, such as Jirachi, Rotom-W, and Celebi, make great partners for Liepard and reduce its risk factor. Sand and hail remove Liepard's Leftovers recovery, so while it's not required, rain support can be very helpful. Pokemon such as Ferrothorn and Forretress are able to set up entry hazards against Liepard and cripple its team for the rest of the battle, so Rapid Spin support can be very handy. Extreme Speed threatens this strategy a good deal, so be wary around Lucario and Dragonite. Imposter Ditto makes a great partner for Liepard as it can take advantage of the opponent's Swagger-boosted Attack stat and potentially steamroll though teams should Liepard fall.</p>
+
+[Other Options]
+
+<p>To be generous, Liepard's offensive movepool is bad, so even though it has Nasty Plot, don't bother with it. Priority Yawn can be nice for forcing switches alongside Encore, but there are very few situations in which it's better than Thunder Wave as Liepard can already render Pokemon useless with Encore. Liepard also has the gimmick of priority Assist, but diving into Assist-based teams would take an entire article.</p>
+
+[Checks and Counters]
+
+<p>Liepard is very frail but deceptively hard to shut down thanks to priority Thunder Wave, Swagger, and Foul Play punishing anything that wants to KO it. Magic Bounce users will just be hit with Foul Play, so they're not practical counters. Bulky Landorus-T is one of the best checks to Liepard as it can just come in and U-turn on it, resetting all of Liepard's setup, but other defensive Ground-types work almost as well. Pokemon with low Attack and/or a Dark resistance that don't really mind paralysis such as Leftovers Magnezone, Forretress, specially defensive Rotom-W, and specially defensive Heatran work perfectly as checks to Liepard. The former three Pokemon can also break its Substitute with Volt Switch while bringing in another Pokemon to KO it, while Heatran can Roar Liepard out. Ferrothorn works well thanks to Iron Barbs, but Rocky Helmet Skarmory is even better thanks to Roost and Whirlwind.</p>

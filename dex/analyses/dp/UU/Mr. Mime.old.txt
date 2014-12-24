@@ -1,0 +1,81 @@
+[Overview]
+
+<p>Although Mr. Mime doesn't look the part, he can make an excellent addition to any team. Whether he's passing stat boosts, Substitutes, or sweeping with Nasty Plot, he does his job well thanks to his wide movepool. Moves such as Taunt and Encore aid Mr. Mime in setting up, while his good offensive movepool helps him sweep. He also has abilities that are both quite useful in their own regard. Baton Pass sets in particular benefit from Soundproof to prevent the opponent from phazing him out with Roar, while Filter weakens the super effective attacks that may connect with Mr. Mime. It's not all good news though, as Mr. Mime's horrible physical defenses give him a terrible weakness to Pursuit users such as Spiritomb and Drapion, greatly limiting his supporting prowess.</p>
+
+[SET]
+name: Baton Pass
+move 1: Nasty Plot / Calm Mind
+move 2: Baton Pass
+move 3: Taunt / Substitute / Encore
+move 4: Psychic / Charge Beam
+item: Leftovers
+ability: Soundproof
+nature: Timid
+evs: 252 HP / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>Mr. Mime makes a fine Baton Passer due to his above average Speed, great stat boosting moves (including the somewhat rare Nasty Plot), and an amazing ability. Soundproof renders Roar useless, making it harder for the opponent to remove Mr. Mime's stat boosts, although he's still affected by Whirlwind. Taunt makes it more difficult for opposing Pokemon to force Mr. Mime off the field, which is especially helpful against the common Milotic with Haze. Substitute helps Mr. Mime avoid status, and as an added bonus can be passed to other teammates, while Encore is great for crippling Pokemon who used a support move on the previous turn, such as Stealth Rock. Finally, Psychic and Charge Beam are listed so Mr. Mime isn't completely shut down by Taunt. Psychic is a reliable STAB move, and Charge Beam has a good chance to raise Mr. Mime's Special Attack, which is yet another possible boost for Mr. Mime to pass.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>252 Speed EVs ensure that Mr. Mime outruns Jolly Toxicroak, Nidoking, and Hitmonlee, while outrunning Timid Milotic and tying with Timid Moltres. You may choose to run a more defensive EV spread of 252 HP / 192 SpD / 64 Spe, though this requires support from another Pokemon who can pass Mr. Mime Speed; the best choice for this is Gorebyss, as it may also pass Defense and Special Defense boosts. 64 Speed EVs ensure that Mr. Mime outruns Choice Scarf Rotom after an Agility has been passed to him.</p>
+
+<p>As Mr. Mime will be passing Special Attack boosts, a recipient to capitalize on these boosts is necessary. Moltres is an excellent choice, due to its high Special Attack and Speed, while its decent defenses allow it to switch in more easily, though the field must be free from Stealth Rock. Alakazam is another excellent recipient due to its massive Special Attack and Speed, though its low defenses may cause problems when switching in without a Substitute. It also shares the same typing as Mr. Mime, making it more vulnerable to a super effective move.</p>
+
+<p>A dual screen user may be an effective teammate, allowing Mr. Mime to accumulate more boosts before he has to use Baton Pass. Uxie is an excellent choice as it can support the team with entry hazards, paralysis support, and even Memento. Alakazam is also a fine choice as it has the Speed to set up screens before the opponent can attack; it also has Taunt to stop the opponent from setting up. Other good Pokemon for this role include Ampharos and Clefable, as both have high defenses and excellent defensive synergy with Mr. Mime.</p>
+
+[SET]
+name: Choice
+move 1: Trick
+move 2: Psychic
+move 3: Thunderbolt
+move 4: Focus Blast / Baton Pass / Shadow Ball
+item: Choice Scarf / Choice Specs
+ability: Filter
+nature: Timid
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>This set attempts to make Mr. Mime a revenge killer, using Choice Scarf for Speed and Choice Specs for power. Trick is listed in the first slot as it allows Mr. Mime to cripple an opposing wall that could potentially be problematic. For example, a Choice Scarf will make a Pokemon such as Registeel useless, locking it into only one move and barely boosting its pathetic Speed. Psychic is used as STAB, while Thunderbolt is used to provide coverage against Water-types such as Milotic. It also hits Spiritomb, who is immune to Mr. Mime's other attacking moves. The final slot is used for extra type coverage, or in the case of Baton Pass, to allow Mr. Mime to scout the opponent's team and escape Pursuit. Baton Pass is the main reason to use Mr. Mime over Alakazam, though Filter also makes him more difficult to KO than his spoon-holding rival. Focus Blast hits Steel-types like Registeel super effectively. Shadow Ball provides coverage against Ghost- and Psychic-types such as Mismagius and Uxie.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>When holding a Choice Scarf, Mr. Mime becomes one of the fastest Pokemon in UU, reaching 459 Speed and outrunning everything up to and including Choice Scarf Moltres, Timid Alakazam, Electrode, and many more. 252 Speed EVs ensure that, even without a Choice Scarf, Mr. Mime still reaches 306 Speed, outrunning base 85 Pokemon like Toxicroak and slower Pokemon like Timid Milotic. Filter is the better ability in this case, as Mr. Mime isn't going to pass any stat boosts, and he needs the extra insurance against super effective hits due to his low HP and Defense stats.</p>
+
+<p>Spiritomb is a major threat if Mr. Mime isn't carrying Baton Pass, or is unable to use it; Pursuit against a fleeing Mr. Mime is sure to KO him. The best way to cripple Spiritomb is to set up Toxic Spikes, which will slowly drain its health. Qwilfish is a great Pokemon to set them up due to its high Speed and ability to Explode afterwards. Another way to cripple Spiritomb is to Trick a Choice item onto it; just beware that it isn't a Choice Band variant, as they usually have Trick on their own moveset. Registeel is a good counter to Spiritomb, as long as it doesn't get burned by Will-O-Wisp. Registeel's huge defenses and Steel-typing allow it to wall Spiritomb indefinitely.</p>
+
+<p>Chansey and Clefable can be difficult to beat, though neither of them appreciate being Tricked a Choice item, or taking repeated hits from Choice Specs Focus Blast. The best way to overcome Chansey or Clefable is by using a Fighting-type like Hitmonlee who can hit them super effectively with its STAB attacks. Dugtrio is another interesting choice as it can trap the opponent's special wall with its Arena Trap ability, then hit them with STAB Earthquake. Dugtrio is also good for dealing with Houndoom (though beware of Sucker Punch) and Registeel.</p>
+
+<p>If you opt for Focus Blast in the last slot, Mismagius becomes an excellent choice on your team. With Registeel and Houndoom removed from the match, Misumagius can freely set up Nasty Plot and sweep the opponent's team with boosted Shadow Ball and Hidden Power Fighting. Taunt is a good option for Mismagius as it prevents Chansey or Clefable from using healing or status moves, while Seismic Toss doesn't affect Mismagius due to its Ghost typing.</p>
+
+[SET]
+name: Nasty Plot Sweeper
+move 1: Nasty Plot
+move 2: Psychic
+move 3: Thunderbolt
+move 4: Encore / Focus Blast / Baton Pass
+item: Life Orb
+nature: Timid
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>This set uses Nasty Plot to raise Mr. Mime's Special Attack, while utilizing Encore or Baton Pass to support the team. Psychic is used as a reliable STAB move, while Thunderbolt is used to cover Steel- and Dark-types. Encore is a good choice if you wish to cripple an opponent, locking them into a support or non-attacking move, Focus Blast hits Steel-, Rock-, Normal-, and Dark-types super effectively, and Baton Pass is used to escape Pursuit users and pass Nasty Plot Boosts.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>This set may use both abilities, as they both have their good points. Soundproof is a good choice as it stops Pokemon with Roar from removing Mr. Mime's stat boosts, while Filter means that Mr. Mime takes less damage from super effective attacks. Soundproof is the superior choice when using Baton Pass, as this allows Mr. Mime to pass boosts to teammates without the risk of losing the boosts, while Filter is better when you use any other option as Mr. Mime doesn't have a way to escape Pursuit users, and this will weaken the blow.</p>
+
+<p>Chansey and Clefable cause Mr. Mime problems due to their huge HP and Special Defense stats. A Fighting-type like Hitmontop is an excellent teammate due to its high Attack stat and STAB Close Combat. Mixed sweepers like Magmortar are also great as they can catch the aforementioned special walls off guard with special moves, then hit them with a super effective Cross Chop.</p>
+
+<p>Again, Spiritomb walls this set well due to its huge defenses. Toxic Spikes are helpful to Mr. Mime as they drain Spiritomb's health. Qwilfish is a good lead to set these up due to its high Speed and access to Taunt and Explosion. Houndoom is usable as it resists Dark- and Ghost-type moves, and can switch into Will-O-Wisp thanks to Flash Fire. Spiritomb also has trouble getting past Chansey and Clefable due to their high defenses and access to status moves.</p>
+
+[Other Options]
+
+<p>Mr. Mime may utilize dual screens to support teammates, though he has better things to do with his time, and roles like this are better left to faster or bulkier Pokemon like Alakazam or Uxie. Psych Up is usable to copy the opponent's stat boosts, then pass them to a teammate, though it's unreliable. Grass Knot is an interesting option, as it is good against heavier opponents like Milotic and Rhyperior, though it should not be Mr. Mime's only attack. Barrier is a good choice to pass Defense boosts to a teammate, and helps Mr. Mime with his low Defense stat and Pursuit weakness. Finally, Teeter Dance and Thunder Wave may be used together to form a ParaFusion set, but this is very luck-based and unreliable.</p>
+
+[Checks and Counters]
+
+<p>Mr. Mime is always specially based, making Chansey and Clefable ideal counters to most sets, though they dislike being Tricked a Choice item. Their high HP and Special Defense stats, along with reliable recovery moves, make them very sturdy and difficult to take out with special attacks. Spiritomb is another excellent counter due to its Dark-typing, great defenses, and access to Pursuit, which is deadly against Mr. Mime's awful Defense. Claydol is an interesting option as it has a resistance to Psychic, an immunity to Thunderbolt, good Special Defense, and Earthquake, which hits Mr. Mime on its weaker Defense; although it must be wary of Grass Knot. Most Dark-types with decent Special Defense, such as Drapion and Skuntank, can take on Mr. Mime with a combination of Sucker Punch and Pursuit.</p>

@@ -1,0 +1,59 @@
+[Overview]
+
+<p>Murkrow returns to the competitive scene for a fourth time, eyes aglow with the flames of vengeance. For three entire generations, this mobster crow was relegated to cleaning and ridding the ramparts of pesky Pikachu. However, as the fifth generation rolled in, Murkrow received two gifts that helped distinguish it from others. Eviolite was the first, bolstering each of the crow's defenses by 50%. This boost allows Murkrow to stomach the majority of UU's onslaughts, with a little help from Roost. The second is Prankster, which turns Murkrow's boring, cliched card trick into one of dexterity and ingenuity.</p>
+
+<p>Unfortunately, the gifts could not mitigate all of Murkrow's problems. While it does have priority Roost, which might or might not be beneficial depending on the opponent, Murkrow is still weak to Stealth Rock, taking a hefty 25% each switch in. Furthermore, its defenses are rather low, even with Eviolite. These factors combined mean Murkrow can still be taken out easily with the right Pokemon. Although this mafia crow might never reach godfather status, it can prove to be an asset to a tailored team.</p>
+
+[SET]
+name: Perish Trapper
+move 1: Perish Song
+move 2: Mean Look
+move 3: Roost
+move 4: Taunt / Substitute 
+ability: Prankster
+item: Eviolite
+nature: Bold
+evs: 248 HP / 252 Def / 8 SpD
+
+[SET COMMENTS]
+
+<p>Murkrow not only has access to Perish Song and Mean Look, but also gets Prankster as an ability. Thus, it can employ the Perish Trap strategy better than many other Pokemon. The general course of action is to use Mean Look to trap a wall that has little offensive prowess. While the opponent is unable to escape, Murkrow can sing its Perish Song and doom the opponent (provided it is not undead). The remaining two turns can be spent Roosting off attacks, in preparation for switching out on the third. As the wall cannot flee while Murkrow is still in, Perish Song takes effect and KOes it. However, not all plans proceed smoothly, and in some cases it might be wiser to Perish Song first. For example, if your opponent switches to a strong attacker that can threaten to KO Murkrow or set up, using Perish Song first will alleviate the otherwise disadvantageous aftereffects of a fainted Murkrow and a boosted opponent.</p>
+
+<p>The final two moves make Murkrow's job easier. Priority Roost is immensely useful, as it removes Murkrow's Electric-, Rock-, and Ice-type weaknesses. However, it can be just as harmful, subjecting Murkrow to super effective Fighting- and Bug-type moves, and thus must be used with caution. This issue is most likely not troubling if used against walls, but is good to keep in mind. The final slot can either have Taunt or Substitute. The former stops walls from using status moves, phazing, or setting up on Murkrow, and can help it incapacitate the opponent for the Perish Trap. However, the latter is a good barrier against offensive opponents, stalling out Perish Song turns without having to land on the ground and tank incoming Fighting- or Bug-type attacks.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs are straightforward: 248 HP and 252 Defense maximize Murkrow's physical bulk with an odd HP number for Stealth Rock. This allows Murkrow to take on physical attackers reliant on setup, such as Dragon Dance Kingdra. However, an alternative spread of 248 HP / 124 Def / 136 SpD and a Calm nature enables Murkrow to function better as a mixed wall. However, this is usually not the best choice, as even with Eviolite, Murkrow is still somewhat frail. On the topic of defenses, dual screen support can help Murkrow take strong hits from the likes of Victini, Zapdos, and Weavile. Feather Dance is an option in the last slot to weaken physical attackers for easy picking with Perish Song and Mean Look. However, Murkrow needs too many turns to do this safely, in which time the opponent can attack or just switch out.</p>
+
+<p>Entry hazards are great for Murkrow, as they discourage opposing walls from switching out of Perish Song. The mere presence of Murkrow can also force switches, softening the opponent without any effort. U-turn users such as Azelf and Victini maintain momentum after Perish Song has run its course, as they are able to scout any switch-in the opponent makes. If Mean Look is not active, switch Murkrow out after turn 2 to a U-turn or Volt Switch user and maintain the pressure. However, opposing U-turn and Volt Switch Pokemon such as Flygon and Jolteon will pose problems, escaping the effects of Mean Look and bringing in a proper check. Murkrow must also beware of strong attackers such as Rhyperior, which can outright KO the crow with strong STAB attacks. In addition, Murkrow is unable to function against opponents with Taunt, unless the crow itself carries Taunt.</p>
+
+<p>There are many Pokemon that can aid Murkrow's efforts. Clerics are helpful, as the many turns required to successfully Perish Trap leave Murkrow open to status. Rapid Spin users help Murkrow get the upper hand, removing the loss of 25% HP each switch in and allowing Murkrow to Perish Trap many opposing walls. Hitmontop and Donphan are great partners in this regard: both resist Rock-type moves, and the latter is immune the Electric-type moves. Pokemon that appreciate the removal of walls will be able to run through teams. Sharpedo is a great example, as its Speed Boost is great for sweeping, but it lacks raw power to muscle through bulky Pokemon.</p>
+
+[SET]
+name: Prankster
+move 1: Feather Dance
+move 2: Roost
+move 3: Taunt
+move 4: Toxic
+ability: Prankster
+item: Eviolite
+nature: Bold
+evs: 248 HP / 252 Def / 8 SpD
+
+[SET COMMENTS]
+
+<p>This set aims to abuse Prankster, as Murkrow has one of the best support movepools in UU. Feather Dance is an appealing move, softening the opponent's physical attacks. From there, you can either bring in a frail sweeper safely or wear the opposition down with Toxic. Roost provides priority healing, but once again is a double-edged sword: removing Ice-, Electric-, and Rock-type weaknesses is useful in the UU tier, but adding Fighting- and Bug-type weaknesses is not. Taunt has tons of utility, able to stop special attackers, such as Mismagius and Calm Mind users, from setting up; however, Murkrow shouldn't stay in on offensively inclined special attackers due to its lower Special Defense. Taunt also stops Steel-types that are immune to Toxic, namely Ferroseed, from setting up hazards. When paired in conjunction with Taunt, Toxic breaks down walls without clerical abilities.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs are aimed toward increasing physical bulk, and allow Murkrow to take on the majority of attackers in the tier. Alternative spreads of 248 HP / 124 Def / 136 SpD or 248 HP / 8 Def / 252 SpD are viable for either evenly distributed bulk or special bulk, but they lack the utility physical bulk gives. Haze is an option over Taunt, but has its drawbacks; it can only stop set-up sweepers, and its continual use is required to keep the boosts at bay, whereas Taunt stops all boosting for three to five turns. Furthermore, Haze removes drops from Murkrow's Feather Dance, making the set rather counterproductive. On the upside, Haze is the only true counter to Baton Pass teams as Murkrow can switch in on the turn Baton Pass is used and remove the boosts, even if Xatu is the Pokemon to switch in.</p>
+
+<p>Special walls are great partners, relaxing the strain Murkrow has to undergo against special threats. Rapid Spin users are also helpful to keep Murkrow healthy. Lastly, entry hazards are beneficial as Murkrow can force switches.</p>
+
+[Other Options]
+
+<p>Murkrow has a couple of other options to consider in light of Prankster. Priority weather is very interesting, but it will only last 5 turns without Heat Rock or Damp Rock, as Murkrow without Eviolite is too frail. Tailwind is another field effect that is intriguing, though only lasting three turns is sub-optimal. While Whirlwind can provide phazing to one's team, its priority remains very low. Protect could be useful in stalling out Perish Song or Toxic turns, but Roost will usually do the job better. Thunder Wave is great for supporting slower attackers on one's team; however, it is generally unneeded on Murkrow's best sets. Mirror Move is also interesting, as priority means it could potentially infinitely loop a phazing move. However, it will generally only copy a useless move. Psycho Shift is situational, but lets Murkrow function as a status absorber.</p>
+
+[Checks and Counters]
+
+<p>Most special attackers can take down physically bulky Murkrow; those with super effective moves such as Zapdos, Jolteon, and Raikou are especially troublesome. RestTalk Milotic and Suicune trouble Murkrow variants, shaking off Toxic and setting up or phazing. Bisharp is unaffected by Feather Dance because of Defiant, is immune to Toxic, and can set up on and KO Murkrow. Steel- and Poison-types are unafraid of Toxic and can throw their own status at Murkrow, but physical attackers of those types must watch out for Feather Dance, which turns them into lame ducks. Magic Coat users, while uncommon due to the exceptional prediction required, will bounce back Murkrow's efforts and turn its own weapons against it.</p>

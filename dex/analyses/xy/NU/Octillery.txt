@@ -1,0 +1,13 @@
+Choice Specs
+########
+name: Choice Specs
+move 1: Hydro Pump
+move 2: Ice Beam
+move 3: Energy Ball
+move 4: Fire Blast
+ability: Sniper
+item: Choice Specs
+evs: 252 HP / 252 SpA / 4 SpD
+nature: Modest
+
+This is a sample set while we are currently working on analyses in the workshop.

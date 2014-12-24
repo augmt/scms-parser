@@ -1,0 +1,65 @@
+[Overview]
+
+<p>Butterfree, at a glance, is a terrible Pokemon. Horrible typing, bad stats overall, a shallow movepool, and a 4x Stealth Rock weakness undermine much of her remaining positive qualities. However, Butterfree does have one thing going for her: a 97.5% accurate Sleep Powder! Compound Eyes remedies Sleep Powder's otherwise problematic accuracy, which plagues other sleep-inducing leads such as Scarf Venusaur and Jumpluff. Having access to a 97.5% accurate Stun Spore is also pretty good, and with U-turn to scout for switch-ins, Butterfree starts to seem like a decent option. In the end, while these things certainly don't make up for Butterfree's large number of shortcomings, they at least help her to stand out as an interesting alternative status spreader.</p>
+
+[SET]
+name: Choice Scarf Lead
+move 1: Sleep Powder
+move 2: Stun Spore
+move 3: U-turn
+move 4: Bug Buzz
+item: Choice Scarf
+ability: Compound Eyes
+nature: Timid
+evs: 4 Def / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>This set allows Butterfree to outspeed many Pokemon in UU and quickly cripple them with an accurate Sleep Powder or Stun Spore. This set functions best as a lead, since there is no need to worry about switching into Stealth Rock; she can also stop the opponent from getting up entry hazards, which helps her teammates later in the match. Even though Choice Scarf may lock you into Sleep Powder or Stun Spore, it is still Butterfree's most consistent way of spreading status, as Butterfree's frailty and relatively low base 70 Speed really hurt her ability to status things.</p>
+
+<p>Sleep Powder is a given on this set, as the main reason you should be using Butterfree in the first place is her very reliable 97.5% accurate Sleep Powder. It's also (as mentioned previously) a great way to stop your opponent's lead from getting entry hazards up. U-turn provides a way for Butterfree to scout the opposition for any Sleep Talkers who may attempt to absorb your Sleep Powder, while Stun Spore allows Butterfree to accurately spread paralysis that's only blocked by Ditto, Persian and Hitmonlee later in the match. Bug Buzz rounds off the set by providing a nice STAB move from Butterfree's decent base 80 Special Attack.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>With a Timid nature, 252 Speed EVs, and a Choice Scarf, Butterfree reaches a Speed stat of 393, outspeeding every non-Scarfed lead in UU, barring Electrode. This almost guarantees that Butterfree will outspeed and put to sleep the opposing Pokemon. 252 EVs in Special Attack make Butterfree's Bug Buzz as strong as possible without sacrificing any Speed. Though a Timid nature weakens U-turn further, U-turn is extremely weak anyway, so there isn't much point to using a Naive or Hasty nature. However, if you wish for U-turn to hit harder, and don't find Bug Buzz too useful, max out Butterfree's Attack and give her a Jolly nature. If you opt for this route, you should replace Bug Buzz with another support move, such as Toxic, as Bug Buzz won't be doing much due to the lack of investment. Another alternate EV spread is 248 HP / 8 Def / 252 Spe. This increases Butterfree's overall durability quite a bit and allows you to take Ambipom's Fake Out better. This spread also makes it easier for Butterfree to come in later in the match to spread status.</p>
+
+<p>Because this set loses badly to Electrode, having a way to deal with Rain Dance is advised. Pairing Butterfree with bulky Water-types like Milotic and a Registeel can help against Rain Dance teams, as well as providing two solid defensive Pokemon for Butterfree to U-turn to. Stealth Rock greatly hampers Butterfree's ability to switch in later in the match, so Rapid Spinners are useful. Hitmontop, Donphan, and Blastoise are great choices as they resist some of Butterfree's common weaknesses. They also have a way to get a guaranteed Spin off with Foresight or Odor Sleuth.</p>
+
+<p>Offensively, Swellow and Ursaring work well in conjunction with Butterfree. Butterfree can give both of them a free switch in with Sleep Powder or U-turn to activate their Orbs. From this point, they can proceed to rip large holes in the opposing team (or at least put immediate pressure on the opponent). Rhyperior and Aggron are also great options because Butterfree can give them a free switch-in or set up turn, which they can use to wreak havoc. Butterfree can also slow down the opposition with her accurate Stun Spore. In general, Pokemon who benefit from free switches and/or free turns are great choices to pair with Butterfree.</p>
+
+[SET]
+name: Double Status Lead
+move 1: Sleep Powder
+move 2: Stun Spore
+move 3: U-turn
+move 4: Protect
+item: Focus Sash
+ability: Compound Eyes
+nature: Jolly
+evs: 248 HP / 8 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>Though this set seems extremely similar to the first set, it plays quite differently. Whereas the first set is guaranteed to put a Pokemon to sleep, this set attempts to cripple more of the opponent's team after you've slept the opposing lead, or provide a free switch-in to one of your Pokemon. This set is especially effective against slower leads such as Omastar and Uxie because Butterfree will be able to outspeed and put them to sleep, allowing her to either paralyze the switch-in if they switch out, or simply scout the opponent's move with U-turn. Against faster leads with Taunt, this set does much worse, as it is almost forced to U-turn immediately. However, this can still give one of your Pokemon a free switch-in, so this can potentially benefit your team.</p>
+
+<p>Like the first set, Sleep Powder is once again used to stop slower leads from getting their entry hazards up. Stun Spore, with correct prediction, can allow you to cripple a third of your opponent's team in tandem with Sleep Powder via the Double Powder strategy. However, this strategy can be easily telegraphed due to it being commonly used on Butterfree, so U-turn provides a safe scouting move when you're unsure if your opponent will switch out. Protect is yet another scouting move that also allows you to stop the most common lead in UU, Ambipom, from breaking Butterfree's sash with Fake Out and KOing her the next turn.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given EVs make Butterfree as fast as possible without using a Choice Scarf. With 248 EVs in HP, Butterfree has a bit more overall bulk to take light attacks after her Sash has been broken. Maximum HP is not needed because Butterfree would only be able to switch into Stealth Rock once without taking any prior damage, thanks to her HP stat being an even number. Alternatively, you can move the HP EVs into Attack if you want to boost U-turn's power. However, U-turn is still quite weak, even with that much investment, so dropping the EVs into HP is generally the better option.</p>
+
+<p>As with the last set, Electrode is a huge threat. Carrying Pokemon like Milotic, Registeel, and Venusaur can help deal with the rain that Electrode is likely to bring. Kabutops and Arcanine leads can be quite threatening as well, seeing as they commonly carry Lum Berry. Milotic can once again be quite helpful in stopping these leads, though Kabutops will still be able to set up Stealth Rock, while Arcanine may try to Toxic Milotic.</p>
+
+<p>Once again, Pokemon who can abuse free switch-ins and turns when the opponent is crippled by sleep, such as Swellow and Ursaring, are effective partners to this set. However, this set provides more opportunities for slow, hard-hitting Pokemon such as Absol and Hariyama to set up or punch holes in the opposing team. This set can generally spread paralysis more easily than the first set because you aren't restricted to a single move. The paralysis can then assist these hard-hitting Pokemon, such as the aforementioned Absol and Hariyama, as well as Aggron and Rhyperior, in smashing through these teams that are slowed down from paralysis. Dugtrio is also an interesting partner for this set. Butterfree can U-turn out of a potential victim for Dugtrio, such as Registeel, who may attempt to absorb your sleep, allowing Dugtrio to get in for free and proceed to trap and KO the switch-in.</p>
+
+[Other Options]
+
+<p>Unfortunately, Butterfree's movepool is really shallow, so there aren't many viable options here. Roost and Morning Sun may be used if you want some healing, but 50% healing generally doesn't mean much for Butterfree. It could work somewhat decently if you're running a spread of 248 HP / 8 Def / 252 Spe, but even then, Butterfree is rather frail. Butterfree could cobble together a Sunny Day set up set with Sleep Powder, Sunny Day, Morning Sun/Safeguard, and U-turn, but other Pokemon can do a better job of it. Energy Ball can be used if you want to deal with Kabutops, Omastar, and Rhyperior; however, Bug Buzz is generally the better option, as you hit Mesprit and Uxie harder, both of whom are more common than Kabutops, Omastar, and Rhyperior. It should also be noted that even Energy Ball won't OHKO Rhyperior and only has a slim chance of OHKOing Omastar.</p>
+
+[Checks and Counters]
+
+<p>Butterfree absolutely despises any kind of Sleep Talker, as they can absorb the status effects, especially sleep, that Butterfree spreads around. RestTalk Altaria, Spiritomb, and Rotom are all particularly annoying for Butterfree to face because they can either set up in her face or, in Rotom's case, KO Butterfree with a STAB Discharge or Thunderbolt. Pokemon who can set up Substitute before Butterfree can do anything are also irritating for Butterfree to face, though they must be wary of Stun Spore on the switch-in. Rotom and Mismagius are great examples of this, as they're bulky enough to take Butterfree's weak STAB moves and set up on her.</p>
+
+<p>As a lead, Butterfree fears Electrode. Electrode will always outspeed Butterfree and stop her from putting it to sleep with Taunt. From there, Electrode can set up Rain Dance without much fear of any of Butterfree's weak attacks. Leads with Lum Berry are also irksome, as the Lum Berry will remove the sleep instantly while the opposing Pokemon sets up on or KOes you. Lead Swellow is another lead who Butterfree fails against. With Protect, he can stop any attempts by Butterfree to paralyze or sleep him, then become immune to her status attacks via his Toxic or Flame Orb. After this, Swellow can simply KO Butterfree.</p>
+
+<p>If you lack a Sleep Talker, sending a bulky Pokemon who can survive being asleep for a couple of turns will do just fine. Milotic, Registeel, Chansey, and Altaria are great choices for this. In the case of the last two, they can remove the sleep upon switching out with their handy Natural Cure ability, so they won't have to stay asleep for long. For Milotic and Registeel, they are easily bulky enough to sleep for a couple of turns and still take a few hits safely. Toxic Orb Clefable is also a good counter to Butterfree, as she becomes immune to Butterfree's status after Toxic Orb activates and can easily shrug off her weak attacks.</p>

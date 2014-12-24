@@ -1,0 +1,90 @@
+Overview
+########
+
+Phantump is one of only two Pokemon in the Little Cup tier with access to the ability Harvest. With this ability, Phantump has a 50% chance of recycling a used Berry, which means that Phantump can utilize Oran Berry to heal itself repeatedly. It has a wide movepool for breaking down walls, including Will-O-Wisp and Leech Seed, and its Ghost / Grass typing resists four common attacking types as well as being immune to Normal-type, Fighting-type, and powder-based moves. Unfortunately, Phantump faces a crippling weakness to Knock Off which not only hits it for super effective damage, but also removes Phantump's Berry permanently. Carrying a Berry also hampers its mediocre defenses, giving it limited opportunities to set up a Substitute due to weaknesses to five common attacking types. Its offensive options are also fairly limited, so an offensive set is difficult to use.
+
+SubSeeder
+########
+name: SubSeeder
+move 1: Substitute
+move 2: Leech Seed
+move 3: Will-O-Wisp
+move 4: Horn Leech / Shadow Claw
+ability: Harvest
+item: Oran Berry
+evs: 172 HP / 132 Def / 196 SpD
+nature: Careful
+
+Moves
+========
+
+Substitute is necessary for Phantump to avoid heavy hits and being crippled by status and Knock Off while allowing it to attack or cripple opponents in safety. It also can lower Phantump's HP to a range where Oran Berry will activate. Leech Seed is useful for wearing down bulky opponents while providing Phantump with recovery. Will-O-Wisp also helps wear down walls, and it also cripples physical attackers which helps Phantump stand up to hits its mediocre Defense otherwise wouldn't. Horn Leech or Shadow Claw can be chosen as Phantump's physical attack. Horn Leech hurts Water-, Ground-, and Rock-type opponents, notably Drilbur and Tirtouga, as well as providing Phantump with even more recovery, while Shadow Claw ensures it isn't walled by Grass- or Fire-types.
+
+Set Details
+========
+
+Phantump relies on using an Oran Berry alongside Harvest to heal itself and recycle the Berry. It chooses to run 196 Special Defense EVs are used with a Careful nature in order to maximize its special bulk and take hits more comfortably. 132 Defense EVs give it reasonable physical bulk and the remaining EVs are placed in HP so that it can tank some hits.
+
+Usage Tips
+========
+
+Phantump is good at wearing down walls like Lickitung or Munchlax, that don't appreciate being seeded or burned. It can also set up a Substitute on things slower than it and proceed to whittle down their health with Leech Seed while healing itself. Phantump is also a decent spinblocker, able to hit common Rapid Spinners in the tier like Drilbur and Staryu quite hard with Horn Leech. Phantump is frail, however, and should never stay in on an opponent with Knock Off unless it is behind a Substitute, as Knock Off will remove Phantump's Berry and hit for super effective damage.
+
+Team Options
+========
+
+Vulpix is a decent teammate for Phantump, as it sets up sun which makes Harvest trigger every turn. It can also fire off a sun-boosted Fire Blast to deal with opponents Phantump has trouble pushing past, particularly Ferroseed. Houndour resists four of Phantump's five weaknesses and has an easier time taking out opponents Phantump has weakened with Leech Seed or Will-O-Wisp. Phantump also appreciates Pokemon like Magnemite or Chinchou to remove Flying-type opponents such as Fletchling and Doduo. Archen can also take out Flying-types while also being able to set up Stealth Rock.
+
+Attacker
+########
+name: Attacker
+move 1: Horn Leech
+move 2: Shadow Claw
+move 3: Rock Slide
+move 4: Substitute
+ability: Natural Cure / Harvest
+item: Eviolite / Oran Berry
+evs: 12 HP / 196 Atk / 132 Def / 116 SpD / 52 Spe
+nature: Adamant
+
+Moves
+========
+
+Horn Leech is useful for hitting opponents such as Drilbur, Tirtouga, Diglett, and Chinchou for super effective damage. It also heals Phantump, which is welcome, considering it doesn't carry Leech Seed on this set. Shadow Claw is Phantump's other STAB and is capable of OHKOing Misdreavus without Eviolite after Stealth Rock damage. Rock Slide is great defeating for Flying- and Bug-type opponents, particularly Fletchling which resists Phantump's STAB options. Substitute is a useful option for activating Oran Berry as well as giving Phantump an opening to attack behind the safety of a Substitute.
+
+Set Details
+========
+
+Eviolite and Natural Cure are Phantump's preferred choices on this set as Phantump hates status, so the ability to cure it by switching out is convenient. Eviolite allows Phantump with 132 Defense EVs to take a 110 Base Power Acrobatics from Adamant Fletchling, and also allows it to take a Shadow Ball from Timid Misdreavus when running 116 Special Defense EVs. 196 Attack EVs with an Adamant nature ensure Phantump's attacks hit as hard as possible. The remaining EVs are placed in HP and Speed to increase survivability and allow it to outspeed some slower opponents. Oran Berry and Harvest can be used if healing is needed, but Phantump generally prefers the bulk afforded by Eviolite.
+
+Usage Tips
+========
+
+Phantump can break walls that have had their items removed and can finish off weakened opponents after they've taken damage from entry hazards. It is also quite good at preserving entry hazards as it can spinblock and hit spinners like Drilbur and Staryu for good damage with Horn Leech. However, Phantump is still frail even with Eviolite, so it should not used carelessly, especially against opponents with Knock Off.
+
+Team Options
+========
+
+Phantump appreciates an ally with Knock Off, such as Pawniard or Mienfoo, as it removes items that trouble Phantump, such as Eviolite and Berry Juice. It also really enjoys an entry hazard setter such as Tirtouga or Trubbish to soften some bulkier opponents. Phantump can even benefit from Sticky Web, which enables it to outspeed some faster opponents. A Baton Passer like Torchic can also help Phantump overcome its Speed issues by passing it one or two Speed boosts. Mienfoo with Stone Edge is a great lure for Flying-types as well as being able to handle the Dark- and Steel-types Phantump can't take on. Archen is also a useful Flying-type check with access to Stealth Rock.
+
+Other Options
+########
+
+Wood Hammer is a stronger STAB option than Horn Leech, but taking recoil is really unwelcome on both sets. Phantump can be a decent Trick Room setter, as its low Speed and high Attack make it a good user of the strategy. Other physical options such as Poison Jab and Bulldoze can be used for Fairy- and Steel-types, but they are fairly weak and don't really offer much additional coverage. Other Berries can be utilized with Harvest, such as a Lum Berry with Rest or a stat-boosting berry, however, Lum Berry is less consistent than Natural Cure and stat-boosting berries are risky as they only activate once Phantump is below half of its full health.
+
+Checks & Counters
+########
+
+**Knock Off Users**: Pawniard, Mienfoo, and Timburr disrupt Phantump's Harvest ability by permanently removing a Berry with Knock Off. It also hits for super effective damage and can KO Phantump without Eviolite most of the time.
+
+**Pawniard**: Pawniard is faster than Phantump and can KO any variant without Eviolite with Knock Off. Horn Leech and Shadow Claw barely leave a scratch on it. Eviolite Phantump is KOed by Knock Off most of the time and cannot do anything significant in return.
+
+**Timburr**: Timburr doesn't fear burns thanks to its ability Guts, isn't bothered by any of Phantump's attacks, and can hit back with Knock Off or Ice Punch.
+
+**Taunt Users**: Cottonee and Purrloin can leave Phantump useless without its support moves by using Taunt.
+
+**Fire-types**: Growlithe and Ponyta can heal off Leech Seed damage all day long with Morning Sun and smash Phantump with Flare Blitz, all while being immune to Will-o-Wisp.
+
+**Flying-types**: Archen and Fletchling are powerful enough to outspeed and OHKO Phantump variants without Eviolite.
+
+**Infiltrator and Sound-Based Moves**: Although rare in Little Cup, Pokemon with the Infiltrator ability or a sound-based move can hit Phantump through its Substitute. 

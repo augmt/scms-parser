@@ -1,0 +1,73 @@
+[Overview]
+
+<p>A swift UU Pokemon that could do with some use. It can totally wreck teams with just a Swords Dance under the belt, and surprise people with the Choice Band set. If you manage to Baton Pass Agility or Swords Dance to the right recipient, your opponent is going to be in pain. You probably don't want to use Scyther in standard environment--the big amount of weaknesses on all sides is too glaring. Give Scyther some love in UU play.</p>
+
+[SET]
+name: Baton Pass
+move 1: Agility
+move 2: Baton Pass
+move 3: Silver Wind / Hidden Power Bug / Hidden Power Flying
+move 4: Swords Dance
+item: Liechi Berry / Leftovers
+nature: Adamant / Jolly
+evs: 184 HP / 252 Atk / 72 Spe
+
+[SET COMMENTS]
+
+<p>Baton Passing Scyther. Once you get in, Agility, then Baton Pass if you can't stand the incoming opponent. If you think you can get away with it, you can Swords Dance as well. You need at least one attacking move, I personally like Hidden Power Bug since it also gets the Swarm bonus once your HP gets below 33%, and it has better power than Silver Wind.</p>
+
+[SET]
+name: Swords Dance Sweeper
+move 1: Swords Dance
+move 2: Substitute / Aerial Ace
+move 3: Silver Wind
+move 4: Hidden Power Rock / Hidden Power Flying
+item: Leftovers / Liechi Berry
+nature: Adamant
+evs: 40 HP / 252 Atk / 216 Spe 
+
+[SET COMMENTS]
+
+<p>Not a big fan of this set, though Hidden Power Rock can give a nasty surprise to Fearow or something.</p>
+
+[SET]
+name: Choice Band
+move 1: Aerial Ace
+move 2: Hidden Power Rock
+move 3: Silver Wind
+move 4: Steel Wing / Quick Attack
+item: Choice Band
+nature: Adamant / Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Choice Band Scyther. Not the best set, but a possible 479 Attack with Jolly nature, 525 with Adamant seems appealing to me. Silver Wind boost potential as well.</p>
+
+[SET]
+name: Reversal
+move 1: Hidden Power Bug / Hidden Power Ghost
+move 2: Endure / Substitute
+move 3: Swords Dance
+move 4: Reversal
+item: Salac Berry
+nature: Adamant
+evs: 128 HP / 252 Atk / 128 Spe
+
+[SET COMMENTS]
+
+<p>Save it for later, when everything is in your KO range. With a Swords Dance in, a Scyther at 1HP OHKOs a lot of stuff. Hidden Power Ghost is for Banette and Misdreavus, and Hidden Power Bug still has that fantastic Swarm boost when you're sweeping and hits Pokemon like Hypno and Grumpig hard. Watch out for Quick Attackers like Fearow and Gligar, though Scyther is so fast it can switch out of them and come later to bring more pain.</p>
+
+[EVs]
+
+<p>Reversal set needs at least 264 Speed if you're in standard play. For UU, it depends on what you want to outspeed. The fastest Pokemon are Electrode and Persian. You need 278 or 242 to outspeed these. It's up to preference.</p>
+
+<p>If you're using Agility, you will obviously not need much Speed. The ultimate maximum you should go for is 290 or even 300, you might want to be able to outspeed things without having to use Agility. Scyther's minimum is 246, which is already enough to beat everything after one Agility.</p>
+
+<p>For other sets, 309 (max without nature), 310, or 339 (max with nature) is preferable. 309 beats Jolly Kangaskhan, 310 beats Adamant Scyther and Modest Electabuzz / Manectric. Max Speed ties with them at worst.</p>
+
+<p>Scyther will always need max Attack, and the other EVs should go into HP. The only exception here is the Substitute / Reversal set, where you should make sure that your HP is not divisible by four. This is to make sure you can Substitute four times to get Reversal to 200 Base Power.</p>
+
+[Checks and Counters]
+
+<p>Gligar, Fearow, Muk, Magmar, Ninetales, Banette, Misdreavus, Nidoking, Nidoqueen, Golem, Aggron, Sandslash</p>

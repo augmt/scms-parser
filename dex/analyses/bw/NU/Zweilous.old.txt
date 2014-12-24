@@ -1,0 +1,53 @@
+[Overview]
+
+<p>Zweilous is a niche Pokemon that should only be used on a need basis, but it possesses a few qualities that make can make it worthwhile. It has great bulk with Eviolite and can support defensive teams by walling a large portion of the special attackers in NU. It can also provide phazing to rack up damage from entry hazards with Dragon Tail and Roar. Offensively, it can deal massive damage with Outrage and Crunch, while taking advantage of its typing and the appropriate moves to get past the top physical walls in the tier, Alomomola and Misdreavus, opening the path for partners to break through. Its lack of reliable recovery means that it gets worn down quickly by entry hazards, putting a hamper on its ability to wall Pokemon or just stay alive during a match; as a result, Zweilous requires support to make the best out of it. While Zweilous's typing has great resistances, it also comes with some terrible weaknesses that common Pokemon such as Scolipede, Jynx, and Primeape can easily take advantage of.</p>
+
+[SET]
+name: Specially Defensive
+move 1: Rest
+move 2: Sleep Talk
+move 3: Roar
+move 4: Dragon Tail / Crunch
+item: Eviolite
+nature: Careful
+evs: 248 HP / 200 SpD / 60 Spe
+
+[SET COMMENTS]
+
+<p>Zweilous's Dark / Dragon typing grants it many resistances to common special attacks, and with 72 / 70 / 70 defenses alongside Eviolite, it can take on a huge slew of special attackers in the tier. The list of Pokemon that Zweilous beats is huge; these Pokemon provide it opportunities to phaze teams around with Roar and Dragon Tail to rack up damage from Stealth Rock and Spikes. Pokemon such as Eelektross, Rotom-S, Zebstrika, Serperior, Exeggutor, Ludicolo, Alomomola, Musharna, Charizard, Misdreavus, and Haunter make up a large portion of the metagame and are easily walled and taken advantage of by Zweilous.</p>
+
+<p>Zweilous's main draw, other than walling special attackers, is its ability to phaze other Pokemon with both Roar and Dragon Tail. Roar ignores the effects of Hustle and allows for more reliable phazing, while Dragon Tail ignores the effects of Taunt and deals damage but only has a shaky 72% accuracy when putting Hustle into account. Having both Roar and Dragon Tail at once might seem weird, but it maximizes the chances of Sleep Talk picking a phazing move, which is extremely useful to keep a phazing chain going. Crunch is a good option over Dragon Tail for 2HKOing Musharna, Duosion, and Misdreavus, but its use ends there. Crunch gets in the way of Sleep Talk's phazing and only deals decent damage to neutral targets. However, if your team is weak to those targets, Crunch can be a blessing as the combination of good special bulk, phazing, and ability to beat Musharna, Duosion, and Misdreavus is not found on many other Pokemon in the tier.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>60 Speed EVs allow Zweilous to outspeed uninvested Alomomola and Tangela while also phazing them through Sleep Talk before they can do anything in return. This is really useful for Zweilous as it prevents Alomomola and Tangela from using Wish or Leech Seed, respectively, which would decrease the damage done on the Pokemon being forced in to take damage from entry hazards. With all the talk about entry hazards, it should come to no surprise that some of the best partners for Zweilous are Stealth Rock and Spikes users. As this set is more tailored to fit on defensive teams, the best Stealth Rock users for the job are Metang, Bastiodon, Torkoal, and Regirock. Each have niches for stall teams and pair well with Zweilous, especially Metang and Torkoal, who have good defensive synergy with it and support it by countering Jynx and providing Rapid Spin support, respectively.</p>
+
+<p>Rapid Spin users in general are very good for Zweilous, who doesn't like having to switch into entry hazards while attempting to wall the Pokemon it needs to. Torkoal and Wartortle are the best defensive Rapid Spin users in the tier; Torkoal is a good check to Scolipede, Primeape, and Jynx that bother Zweilous, while Wartortle can guarantee Rapid Spin thanks to Foresight. As Zweilous is constantly using Rest, Heal Bell and Aromatherapy are great support options for it. They allow Zweilous to instantly wake up without having to be out on the field for two turns, which is useful if it desperately needs to be awake to heal with Rest or phaze with Roar. Musharna and Misdreavus are the best users of Heal Bell to partner with Zweilous as they can take the Fighting-type attacks aimed at it. Meganium, Audino, and Lickilicky are also good options to use Aromatherapy or Heal Bell on stall teams, but they compound weaknesses with Zweilous.</p>
+
+[SET]
+name: Offensive Tank
+move 1: Outrage
+move 2: Substitute
+move 3: Toxic
+move 4: Crunch / Superpower
+item: Eviolite
+nature: Jolly
+evs: 48 HP / 252 Atk / 208 Spe
+
+[SET COMMENTS]
+
+<p>Hustle gives Zweilous a lot of power, and a STAB Outrage in a metagame where Steel-type Pokemon are uncommon is frightening. With the metagame being more inclined towards offense, Outrage is generally a OHKO on most offensive Pokemon with only a few of them avoiding a OHKO after Stealth Rock. Due to its decent bulk with Eviolite and good typing, Zweilous is capable of setting up a Substitute on a good number of Pokemon, including Alomomola, Misdreavus, Tangela without HP Ice, Roselia, Eelektross, Exeggutor, and Serperior. Most importantly, it allows Zweilous to turn the most popular physical walls in the tier, Alomomola and Misdreavus, into complete setup bait. Toxic, alongside Substitute, allows Zweilous to beat Alomomola and Tangela, crippling them so that Zweilous's partners can break through them. Crunch is a reliable STAB attack that, unlike Outrage, doesn't lock Zweilous into one move. Superpower can be used to hit Probopass, Klang, and Bastiodon, but it doesn't work well with Substitute due to the Defense and Attack drops, forcing you to wear down Alomomola with only Toxic or risk an Outrage confusion.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>208 Speed EVs and a Jolly nature allow Zweilous to outspeed max Speed Timid Gorebyss and slower Pokemon such as Misdreavus, Exeggutor, and Alomomola, all of which give Zweilous an opportunity to set up a Substitute. Zweilous also can use a moveset of Thunder Wave, Outrage, Crunch, and Superpower with a 196 HP / 252 Atk / 60 Spe EV spread and an Adamant nature to spread around paralysis, hit harder, and have more coverage options than the main set. 60 Speed EVs allow it to outspeed uninvested Roselia so it can OHKO Roselia before it can set up Spikes, and the HP EVs allow it to take several hits thanks to Eviolite. While that set has more bulk and more coverage, it loses out on the utility brought by Substitute and Toxic, which allows it to do important things like bring down Alomomola and set up on Misdreavus.</p>
+
+<p>Thanks to its ability to lure in and defeat Alomomola and Tangela, as well as turning Misdreavus into setup fodder, Pokemon that struggle against any of them, such as Kangaskhan, Primeape, Sawk, Carracosta, Scolipede, and Charizard, make good partners. As Zweilous lacks any form of recovery, entry hazards and constant use of Substitute wear it down quickly. For that reason, Wish support is appreciated to keep Zweilous alive; Alomomola in particular is a great partner as Zweilous can defeat most of the Pokemon that gives it trouble.</p>
+
+[Other Options]
+
+<p>Zweilous can use a Choice Scarf to outspeed up to base 110 Pokemon such as Tauros, but its reliance on Hustle means that it has to take a gamble every time, making it a poor revenge killer. It can also use a Choice Band to break apart almost every wall with Outrage, but generally speaking, as soon as it grabs a KO, it will leave Zweilous open to being KOed itself due to its lack of bulk without Eviolite. Zweilous has more gimmicky options that it can use such as Taunt and Torment, but it doesn't have room for them in its sets, and it's far too slow to use Taunt. It also has access to Rain Dance and Sunny Day, but there are better Pokemon capable of setting up weather that also bring other kinds of utility to those kinds of teams. Zweilous would also need to make a choice between using Eviolite to have an easier time setting up weather, or a Damp Rock or Heat Rock to extend the amount of time the weather is up.</p>
+
+[Checks and Counters]
+
+<p>While it can be a little difficult to get a free switch into a defensive Zweilous due to its constant phazing, the only real threatening thing about it is just that. With Zweilous's specially defensive set being unable to hit hard, Pokemon such as Scolipede, Primeape, Sawk, Samurott, Jynx, and Piloswine are capable of doing major damage to Zweilous without much of a risk. On the other hand, offensive sets are countered depending on their move choices; sets without Superpower are beaten by Steel-type Pokemon such as Probopass, Klang, and Bastiodon, and sets without Crunch are forced out after Superpower's stat drops or Outrage's confusion. Alomomola, Tangela, and Regirock can take Outrages and Crunches, but have to watch out for Toxic crippling them. Gurdurr benefits from Toxic due to Guts and can take an Outrage while retaliating back with a Drain Punch. As both sets lack reliable recovery, they are easily worn down by entry hazards, which makes any kind of neutral attack deal significant damage to Zweilous.</p>

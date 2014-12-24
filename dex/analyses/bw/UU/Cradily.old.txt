@@ -1,0 +1,79 @@
+[Overview]
+
+<p>There's no wonder Cradily has such a cheesy grin on its face. Cradily boasts high defensive stats, usable attacking stats, and access to some nifty support moves to boot. There's only one thing holding it back: its awful Speed stat. Luckily, Cradily can function without any Speed at all, as it relies on its massive bulk. Access to Recover, Curse, and Stealth Rock make Cradily an excellent tank and team supporter--too bad it doesn't have Leech Seed, as most other Grass-types have access to it. What makes Cradily truly menacing is its Rock typing; with Hippopotas's Sand Stream activated, Cradily receives a 50% boost to its Special Defense, making it an impossible-to-KO tank. Furthermore, Cradily has numerous resistances, few weaknesses, and Suction Cups blocks any attempt to phaze it. Thanks to Suction Cups, Cradily is an excellent Baton Pass receiver; Storm Drain, on the other hand, grants it an immunity to common Water-type attacks, such as Scald. In short, use Cradily in sandstorm, or don't use it at all. It's an effective Pokemon, regardless of which role it fills, just don't underestimate it, and it won't disappoint.</p>
+
+[SET]
+name: Tank
+move 1: Recover
+move 2: Stealth Rock / Rock Slide
+move 3: Toxic / Energy Ball
+move 4: Hidden Power Fire 
+item: Leftovers
+ability: Storm Drain
+nature: Sassy
+evs: 252 HP / 172 Def / 84 SpD
+
+[SET COMMENTS]
+
+<p>What makes this set so amazing is the presence of sandstorm in the UU tier, which boosts Cradily's Special Defense by 50%. Thanks to Storm Drain, Cradily becomes a prime candidate for countering mono-attacking Suicune, not to mention it receives a nifty boost to its Special Attack upon each failed hit. The idea behind this set is to get up Stealth Rock, poison as much as you can with Toxic, and proceed to stall the opponent with a combination of sandstorm-boosted Special Defense and Recover. Stealth Rock provides team support, but Rock Slide is a handy alternative to beat the likes of Chandelure and Arcanine. Toxic gives Cradily a way to wear down bulkier opponents, such as Slowbro, while Energy Ball provides secondary STAB and a way to break through bulky Water-types. Hidden Power Fire is Cradily's only way to hit Steel-types outside of Earthquake, and it deals a number on Grass-types and Pokemon that are immune to Toxic.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs on this set accomplish one thing in particular: they ensure that Cradily is never 2HKOed by Life Orb Chandelure's Fire Blast, while providing exceptional special bulk in sandstorm. The remaining EVs are placed into Defense, which makes it easier for Cradily to take physical Normal- and Electric-type moves, such as Body Slam and Wild Charge, respectively. A Sassy nature maintains Cradily's high level of bulk without lowering any of its attacking stats. Not only that, Cradily's Speed is awful enough already, so it won't be outrunning much to begin with. A completely physical set can be used with Earthquake and Rock Slide, while Seed Bomb can replace Rock Slide if you prefer a more powerful STAB.</p>
+
+<p>Hippopotas is a mandatory teammate; without Hippopotas, there would be no permanent sandstorm, and Cradily would be much less effective. Pokemon that can switch into Cradily's weaknesses are also helpful. Suicune can switch into Ice- and Steel-type moves aimed at Cradily, but sandstorm will wear it down eventually. Arcanine and Chandelure are in a similar boat; they can switch into Ice-, Bug-, and Steel-type moves, but they're not immune to sandstorm; Stealth Rock will also take its toll on them. Chandelure can also switch into Fighting-type moves, and pose a defensive threat with Will-O-Wisp. Thick Fat Miltank is another good teammate, as it can switch into Ice-type moves, provide Heal Bell support, and cripple faster threats with Thunder Wave. Thanks to Natural Cure and Aromatherapy, Roserade and Shaymin are also decent clerics. Furthermore, Natural Cure enables Roserade and Shaymin to use Rest, as it wakes them up upon switching out.</p>
+
+[SET]
+name: Mono-Attacker
+move 1: Curse
+move 2: Rest
+move 3: Sleep Talk
+move 4: Rock Slide / Seed Bomb
+item: Leftovers
+ability: Suction Cups
+nature: Careful
+evs: 252 HP / 4 Def / 252 SpD
+
+[SET COMMENTS]
+
+<p>Thanks to its high defenses, access to recovery, and pitiful Speed, Cradily is an ideal Curse user. Suction Cups give Cradily a nifty immunity to phazing moves, and makes it a lot easier for it to boost its stats with Curse. With Curse raising its Attack and Defense, and sandstorm raising its Special Defense, Cradily is almost impossible to KO, and thanks to Rest and Sleep Talk, it can avoid status and remain healthy for the remainder of the match. If you choose Rock Slide in the last slot, Cradily is walled by Ground-types, such as Rhyperior, and if it picks Seed Bomb, it gets walled by Fire- and Flying-types. Regardless of which move it picks, Cradily will have trouble breaking through Steel-types, though it can stall the majority of them with Rest and Curse.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>As Curse will be raising Cradily's Defense already, the EVs focus on Cradily's Special Defense, which is further boosted by sandstorm. A more offensive spread can be used with a Chesto Berry and another coverage move, but it's highly outclassed by the Swords Dance set. Stone Edge or Earthquake can be used in the last slot, though Stone Edge has very low PP, and Earthquake is walled by Flying-types and Pokemon with the Levitate ability.</p>
+
+<p>Hippopotas should be used to induce permanent sandstorm, and it can support Cradily by setting up Stealth Rock. Toxic Spikes should be considered as well; bulkier opponents, such as Suicune, are severely hampered by them, so their walling abilities will be drastically lowered. Qwilfish and Roserade are decent choices for setting up Toxic Spikes; Qwilfish can switch into Ice- and Steel-type moves aimed at Cradily, while Roserade can cripple an opponent with Sleep Powder, or wake Cradily up with Aromatherapy.</p>
+
+<p>Mew can switch into Fighting-type moves aimed at Cradily, Taunt opposing walls, and pass stat boosts to its teammates. Suicune is another decent partner since it can switch into Ice- and Steel-type moves and raise its stats with Calm Mind. In addition, Suicune and Cradily form an excellent defensive core, and they are difficult to break through if they are used correctly. Lastly, this set is completely walled by Steel-types, and it requires support from Fire- or Ground-types. Chandelure, Arcanine, Rhyperior, and Nidoking are all excellent teammates; the former two can switch into Cradily's Ice-type weakness, while the latter two can switch into its Bug-type weakness.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Stone Edge / Seed Bomb
+move 3: Earthquake
+move 4: Recover
+item: Leftovers
+nature: Adamant
+evs: 252 HP / 252 Atk / 4 Def
+
+[SET COMMENTS]
+
+<p>Although it's primarily a defensive Pokemon, Cradily can take advantage of its bulk to set up Swords Dance. After a boost from Swords Dance, Cradily is incredibly powerful, and its STAB moves provide decent type coverage to boot. Stone Edge has a high critical hit rate, and it scores super effective damage on Flying- and Fire-types. Alternatively, Seed Bomb can be used to hit Water- and Ground-types super effectively. Earthquake is a staple on this set, as it gives Cradily a way to break through Steel-types, such as Registeel and Cobalion. If you decide to use Seed Bomb and Earthquake, Cradily is completely walled by Flying-types, which is unfortunate. Finally, Recover helps Cradily set up, and it works astoundingly well in tandem with its massive bulk. Furthermore, Recover can be used to bluff a defensive set, but just be careful you don't end up revealing Swords Dance too early.</p>
+ 
+[ADDITIONAL COMMENTS]
+
+<p>The EVs on this set focus on Cradily's Attack and HP; its Speed is awful, and it isn't worth investing in. Both of Cradily's abilities work on this set, and they both have their own merits. Suction Cups ensure that Cradily's boosts aren't removed by phazing moves, while Storm Drain gives it an immunity to Water-type moves, and turns mono-attacking Suicune into set-up bait. A Life Orb can be used over Leftovers, and Recover can help mitigate the recoil; however, Life Orb drastically reduces Cradily's defensive prowess, and without Leftovers, the opponent will realize that Cradily is playing an offensive role. Stockpile can be used over Earthquake to boost its defenses, making Cradily unstoppable if sandstorm is in effect. Furthermore, Recover keeps Cradily alive, and Swords Dance will raise its Attack to insane levels.</p>
+
+<p>Hippopotas is an essential teammate as it summons permanent sandstorm, raising Cradily's Special Defense. Entry hazards are also recommended, as they weaken switch-ins, thus making it easier for Cradily to KO the opponent. Roserade and Qwilfish can set up Toxic Spikes, Aerodactyl and Hippopotas can set up Stealth Rock, and Froslass can set up Spikes. Remember, if you're using entry hazards, carry a Ghost-type to keep them on the field.</p>
+
+<p>Pokemon that can switch into Cradily's weaknesses help it survive longer. Cobalion can switch into Steel-, Ice-, and Bug-type moves, and it can threaten the aforementioned typed Pokemon with its STAB moves. Arcanine and Registeel are also good choices, as they can switch into Steel-, Ice-, and Bug-type moves. A cleric or status absorber is helpful, mainly because Cradily is crippled by Will-O-Wisp. RestTalk Heracross is a decent status absorber, and it can pose a solid offensive threat as well. Shaymin and Roserade can switch into status moves, and Natural Cure heals them upon switching out. Umbreon can support Cradily with Heal Bell, and Synchronize will bounce back any status. If you decide to use Seed Bomb in the last slot, a Pokemon that can break through opposing Flying-types is helpful. Electric-types, such as Rotom-H, can knock Flying-types out of the sky, and Rock-types, such as Rhyperior, can crush Flying-types with their raw power.</p>
+
+[Other Options]
+
+<p>Cradily's movepool is surprisingly large, and it's filled with some hidden gems. Gastro Acid can put an end to Pokemon that rely on their ability; Levitators are good examples since Cradily can hit them with Earthquake. Confuse Ray is pretty unreliable, but it gives Cradily more opportunities to set up. Substitute blocks harmful status, but it isn't easy to pull off due to Cradily's poor Speed. A Choice Band set is viable, but why waste Cradily's defensive potential? Mirror Coat can surprise a powerful special attacker, but it's usually a waste of a moveslot, not to mention it requires perfect prediction to pull it off. Tickle is very gimmicky, but it lowers the opponent's Attack, heightening Cradily's defensive prowess. Wring Out can finish off a weakened opponent, but it's very unreliable. A set consisting of Sunny Day, Solar Beam, and Hidden Power Fire is usable, but unfortunately Cradily doesn't have an ability that benefits from the sun. Rock Polish can be used as an attempt to boost Cradily's Speed, but without Swords Dance, it won't be dealing a lot of damage.</p>
+
+[Checks and Counters]
+
+<p>Cradily is pretty easy to counter; you just need to be aware of what coverage move it's carrying. Steel-types, such as Registeel and Escavalier, can take on sets which lack Hidden Power Fire or Earthquake, and they can hit Cradily super effectively with their STAB moves. Similarly, sets without Seed Bomb or Energy Ball are walled by Blastoise and Suicune; just ensure they carry Toxic or Ice Beam to take care of Cradily. Togekiss and Zapdos can take on sets without a Rock-type move, and most of them have access to Roost, making them extremely difficult for Cradily to KO. Fighting-types, such as Machamp, can switch into Cradily's assaults, and Pokemon with the Guts ability can take advantage of sets carrying Toxic. Torterra resists Rock- and Ground-type moves, and thanks to its high defensive stats, it won't be taking a lot from any of Cradily's other moves either. Amoonguss is in a similar boat; it resists Grass- and Ground-type moves, and it can cripple Cradily with status moves. Weezing has an immunity to Ground-type moves, resists Grass-type moves, and has access to Will-O-Wisp to burn Cradily.</p>
+
+<p>Dusclops is bulky enough to take on most sets, and it has access to Will-O-Wisp and Pain Split to cripple Cradily. Umbreon is a decent check as it can Taunt Cradily, trap it with Mean Look, and Baton Pass to a threatening sweeper, such as Moltres. Slowbro takes little damage from any of Cradily's physical attacks, has Calm Mind to boost its Special Defense, and Slack Off to restore its health. Unfortunately, Slowbro doesn't like being poisoned, and Energy Ball will hurt a lot if Cradily is faster than Slowbro. Flygon resists Rock- and Grass-type moves, and it has an immunity to Ground-type moves. If all else fails, try Tricking Cradily a Choice item or Taunting it. Rotom-H is a common Trick user, Spiritomb and Chandulure can burn Cradily with Will-O-Wisp, and Mew can Taunt Cradily and set up on it. Almost anything with a decent Defense stat can beat Cradily; just stop it before it has chance to set up.</p>

@@ -1,0 +1,51 @@
+[Overview]
+
+<p>Very little has changed for Eevee since DPP. Thanks to Adapability, its STAB moves are doubled in power, making Eevee an excellent user of Choice Band with access to powerful priority in Quick Attack. However, with the advent of Eviolite, Eevee's power has become somewhat less impressive. Eevee can also work well as a mixed attacker, with Work Up allowing it to raise both attacking stats at once to make it a potent stall-breaker. Despite its poor movepool, Eevee can still sweep successfully with the correct support.</p>
+
+[SET]
+name: Choice Band
+move 1: Quick Attack
+move 2: Return
+move 3: Bite
+move 4: Baton Pass / Iron Tail
+item: Choice Band
+ability: Adaptability
+nature: Jolly / Adamant
+evs: 236 Atk / 36 Def / 236 Spe
+
+[SET COMMENTS]
+
+<p>This set is Eevee's most powerful approach that doesn't require set up. Quick Attack is good for hitting faster Pokemon, such as Shell Smash users and Pokemon holding a Choice Scarf. Return's massive power of 204 will deal serious damage to anything that does not resist it. While Bite has low Base Power, it is Eevee's only weapon against Ghost-types, which are immune to its powerful STAB Normal attacks. Baton Pass is used in the last slot for scouting purposes.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread is very simple: 236 in Attack and Speed maximize Eevee's sweeping capabilities. A Jolly nature is encouraged to make Eevee as fast as possible. An Adamant nature can be used for maximum power. If you do not wish to run Baton Pass, Iron Tail is an option to hit Rock-types that resist Eevee's STAB attacks.</p>
+
+<p>Ghost-type and Steel-type Pokemon are a problem for this Eevee variant because they can come in, being immune or resistant to its Normal-type attacks, and proceed to set up while it is locked in on a useless move, making Pursuit users such as Pawniard and Munchlax good partners for their ability to trap and kill Ghost-type Pokemon. Magnemite is also a good partner because it can trap Steel-types.</p>
+
+[SET]
+name: Mixed Attacker
+move 1: Work Up / Return
+move 2: Quick Attack
+move 3: Shadow Ball / Bite
+move 4: Hidden Power Fire / Hidden Power Ice
+item: Life Orb
+ability: Adaptability
+nature: Naive / Hasty
+evs: 236 Atk / 240 Spe
+
+[SET COMMENTS]
+
+<p>Work Up makes Eevee a powerful mixed sweeper. It can come in on a support Pokemon, such as Ferroseed, or a weakened Pokemon, scare them out, and proceed to set up. After one Work Up, a +1 Life Orb Quick Attack is more powerful than a Choice Band-boosted one. Shadow Ball and Bite covers Ghost-type Pokemon. However, faster Ghost-types such as Gastly will outspeed Eevee, so you will need to predict their switch in. Hidden Power Fire is great for hitting Steel-types, especially Ferroseed, which will want to switch in and wall Eevee's powerful Normal-type attacks.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Return can be used in the place of Work Up if you want Eevee to be an all-out attacker. Shadow Ball has better coverage than Bite, and a higher Base Power, but Bite is an option because Eevee has a higher Attack stat than Special Attack, and it can hit Frillish on its weaker defensive side. Hidden Power Ice can be used to hit Hippopotas on the switch in, however Hidden Power Fire is strongly recommended to hit Steel-type Pokemon, which otherwise wall Eevee.</p>
+
+[Other Options]
+
+<p>Yawn is a viable move; it can be used with Protect to shut down a member of the opponent's team. Baton Pass can be used to pass on a Work Up boost, which could come in useful. Eevee can pass on its stat boosts when it is low on health and give another teammate an opportunity to sweep. Although gimmicky, a Curse set could work. With an Eviolite, and maximum HP and Special Defense, Eevee can take on the role of a tank. Quick Attack ignores the Speed drops, which is very useful, and Ghost-types with Hidden Power Fighting won't do much damage when Eevee has an Eviolite and maxed out Special Defense. Wish is an option to recover Eevee's health, if you are using a bulky variant; it can also provide useful Wish support for the entire team. Hidden Power Ground can be used on the mixed attacker set to hit Steel-types, most notably Aron.</p>
+
+[Checks and Counters]
+
+<p>Ghost-type Pokemon generally check Eevee because they are immune to its powerful STAB attacks. Gastly can easily switch in on a Quick Attack or Return, and set up a Substitute without taking any damage. With some prediction, Eevee can beat Ghost-type Pokemon with Bite as they switch in, so they are not true counters. Bulky Steel-type Pokemon such as Ferroseed resist Eevee's STAB attacks, but they must watch out for Hidden Power from mixed Eevee.</p>

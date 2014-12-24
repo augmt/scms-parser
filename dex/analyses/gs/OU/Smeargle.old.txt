@@ -1,0 +1,47 @@
+[Overview]
+
+<p>Smeargle's stats are just too crappy. If he were a little faster, he would be great, but his mediocre Speed, coupled with the fact that he can't take a hit, leaves something to be desired. He can screw over a lot of teams (in particular stall teams), but a lot of it has to do with extreme prediction and extreme luck.</p>
+
+[SET]
+name: TrapPass
+move 1: Spider Web
+move 2: Protect
+move 3: Disable
+move 4: Baton Pass
+item: Leftovers
+
+[SET COMMENTS]
+
+<p>If Smeargle is facing a phazer, use the moves in order: hit them with Spider Web when they switch in, use Protect when they try to phaze Smeargle out with Roar or Whirlwind, Disable it, and then Baton Pass to its appropriate counter. If they switch to a RestTalk Pokemon when Smeargle uses Spider Web, just Baton Pass to the counter; at 100% health, Smeargle can take any hit that's not super effective against it (except Megahorn from Heracross, which has an approximate 16% chance of OHKOing Smeargle--odds are still greatly in Smeargle's favor).</p>
+
+[SET]
+name: Stat-Up Baton Pass
+move 1: Spore
+move 2: Belly Drum / Agility / Swords Dance
+move 3: Recover / Encore / Super Fang
+move 4: Baton Pass
+item: Leftovers
+
+[SET COMMENTS]
+
+<p>This is the more traditional Smeargle. Spider Web isn't listed because trapping an opponent and then putting them to sleep is considered cheap in GSC by some. So instead, just put one of the opponent's Pokemon to sleep, set up Belly Drum or Agility when they're helpless, and Baton Pass to a sweeper. The last slot is up to personal preference. Recover could give Smeargle another shot at doing it if it doesn't work the first time. Encore could be used on a non-damaging move to maybe give Smeargle some time to Baton Pass. Super Fang could also be used to try and force something to use Rest so Smeargle gets a free turn.</p>
+
+[SET]
+name: Spikes
+move 1: Spikes
+move 2: Encore
+move 3: Destiny Bond
+move 4: Mirror Coat
+item: Leftovers
+ 
+[SET COMMENTS]
+
+<p>This is a pretty good and unexpected set. Spikes is always nice to have on a team for support, Mirror Coat is generally unexpected but will OHKO any special attacker if you predict correctly, Destiny Bond can take something else down when Smeargle kicks the bucket, and Encore is just a cool move in general to mess things up.</p>
+
+[Other Options]
+
+<p>To be honest, despite learning every move in the game except for Explosion and Self-Destruct, those three movesets covered every worthwhile move on Smeargle.</p>
+
+[Checks and Counters]
+
+<p>Any attacking move will cripple Smeargle. Paralysis also makes Smeargle pretty useless since Speed is really the only stat he needs to worry about. Switching in a RestTalk user on Spore is a good idea since he relies on that free turn from sleep to set up his moves.</p>

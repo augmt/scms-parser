@@ -1,0 +1,32 @@
+[Overview]
+
+<p>Relicanth is an underappreciated Swift Swim Pokemon, similar in role to Kabutops. While it lacks the Speed and power of its ancient brethren, it makes up for this with a sizable amount of added bulk and access to Head Smash. While Relicanth's Water / Rock typing doesn't do it many favors, making it weak to many of the common types in the metagame, it can become a serious threat if taken lightly.</p>
+
+[SET]
+name: Swift Swim Attacker
+move 1: Waterfall / Aqua Tail
+move 2: Rock Slide
+move 3: Head Smash / Earthquake / Rain Dance
+move 4: Protect
+item: Life Orb
+ability: Swift Swim
+nature: Adamant
+evs: 52 HP / 252 Atk / 204 Spe
+
+[SET COMMENTS]
+
+<p>Waterfall is Relicanth's primary STAB move. In the rain, it is effectively a 120 Base Power STAB move with an added chance of flinching. Aqua Tail can be used instead of Waterfall, trading the flinching and some accuracy for a bit more power, but as Relicanth's other moves aren't 100% accurate, it will lose out on its only reliable attack. Rock Slide allows Relicanth to hit both of its opponents for decent damage and, once again, cause the opponent to flinch. For Relicanth's third move, it has a bit of choice. Head Smash can used for its sheer power, hitting even harder than a rain boosted Waterfall, but the recoil from it can really add up. Alternatively, Earthquake provides Relicanth with a secondary spread move and allows it to damage Pokemon it couldn't otherwise, such as Toxicroak and Empoleon. However, it is a bit unwieldy to use due to many of Relicanth's best partners not being immune to Ground-type moves. Lastly, Rain Dance can be used as a way to manually set up the weather. Relicanth's final move is Protect, a staple move on many Pokemon in the VGC metagame.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>204 Speed EVs provide Relicanth with 101 Speed, allowing it to outrun base 130s, such as Crobat and Jolteon, in rain. If you don't worry about those Pokemon, a bulkier spread of 156 HP / 236 Atk / 116 Spe can be used, outspeeding Pokemon such as Latios and Thundurus and having enough bulk to survive a Jolly Terrakion's Close Combat when at full HP. Life Orb is the preferred item, boosting all of Relicanth's moves; however, other items such as damage-boosting Gems, type-resist Berries, and Sitrus Berry make good substitutes.</p>
+
+<p>As Relicanth will often need the rain, Politoed aids it tremendously. Dragon-type Pokemon, such as Dragonite, Hydreigon, and Latios, can provide a switch-in opportunity for Relicanth, as they are able to take most types of attacks that are threatening to it. Lightningrod Pokemon, such as Manectric or Seaking, can redirect away harmful Electric-type moves, but must be wary of oncoming Earthquakes. Gravity users, such as Cresselia and Starmie, can remove the risk of Relicanth missing with its attacks. If you manage to get both rain and Gravity set up, Relicanth can go all out without worrying about Speed or accuracy. Finally, Pokemon with Transform, namely Ditto and Smeargle, can work as partners for Relicanth to pull off the legendary Double Relicanth strategy.</p>
+
+[Other Options]
+
+<p>Relicanth's alternate ability, Rock Head can be utilized, negating the heavy recoil of Head Smash and allowing Relicanth to act as a Trick Room attacker. Relicanth's Dream World ability Sturdy can also be used, providing Relicanth a safety net against any one attack, but due to its sizable bulk, its other abilities are better suited for it. Relicanth has a few support moves in the form of Safeguard and Icy Wind, stopping the threat of Thunder Waves and slowing down the opponent, respectively. Double-Edge may be used when running Rock Head, providing a decently powerful attack that hits most things for neutral damage. Stone Edge can be used on a Swift Swim set if you feel that the recoil from Head Smash is too much. Lastly, Relicanth can use Substitute on its moveset, as it will find a number of opportunities to set up when in the rain.</p>
+
+[Checks and Counters]
+
+<p>Ludicolo is Relicanth's biggest hurdle, easily outrunning it and draining it dry with Giga Drain. Zapdos, Thundurus, and Rotom-A are also dangerous due to their STAB Thunderbolts; however, they do not like taking Head Smashes straight on. Toxicroak, Ferrothorn, and Gastrodon are immune or resistant to Relicanth's STAB moves and can hit back hard with their own STAB moves. While Trick Room can stop Swift Swim Relicanth, one must be wary of slower varieties of Relicanth that can function well under the influence of Trick Room.</p>

@@ -1,0 +1,29 @@
+
+Set
+##########
+name: 1 [ORAS] Mega Camerupt
+ability: Solid Rock
+evs: 252 HP / 4 Atk / 252 SpA
+nature: Quiet
+item: Cameruptite
+move 1: Fire Blast
+move 2: Earth Power
+move 3: Earthquake / Stealth Rock
+move 4: Hidden Power Grass / Rock Slide
+ 
+Every Camerupt-M should be running Fire Blast and Earth Power and probably should have a special inclination. Camerupt has a kind of shitty moveset for Sheer Force coverage, but I don't think it should be setting SR. It does have buffed defenses, but those are semi-lost because of the lack of Solid Rock. I'd rather be taking advantage of the great offensive buffs and punching holes through literally everything (or just blowing away a team on a TR squad). It's not the greatest (which is why it will probably end up NU!).
+
+Set
+########
+name: 2 [ORAS Doubles] Mega Camerupt
+item: Cameruptite
+Ability: Solid Rock
+evs: 252 HP / 4 Def / 252 SpA
+nature: Quiet
+ivs: 0 Spe
+move 1: Heat Wave
+move 2: Earth Power
+move 3: Substitute / Hidden Power Ice
+move 4: Protect
+
+Camerupt provides an answer to most common threats to Trick Room. One is Amoonguss. Camerupt can't /quite/ KO the onsite spread (252+ SpA Sheer Force Camerupt Heat Wave vs. 252 HP   / 76+ SpD Amoonguss: 360-426 (83.3 - 98.6%) but it comes really close and can also Sub against Spores and not worry about Giga Drain breaking its subs. The common anti-TR steels, Escavalier, Scizor, Bisharp, and Aegislash-shield (o__o) are all OHKOed by Camerupt's STAB options, and the most common Taunt user in the metagame, Thundurus, can't touch Camerupt. Beyond just beating common Trick Room counters, Camerupt's STAB moves are also incredibly difficult to tank thanks to its generally good coverage. Hidden Power Ice can be used over Substitute to hit a couple of the Pokemon that are not threatened by its STAB moves, most notably Salamence and Landorus, which are both OHKOed.

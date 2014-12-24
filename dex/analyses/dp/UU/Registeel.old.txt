@@ -1,0 +1,97 @@
+[Overview]
+
+<p>Registeel is one of the best support Pokemon in the UU metagame. Besides setting up Stealth Rock, it is the quintessential defensive pivot that we see so much of in the current metagame. Offensive and defensive teams alike rely on it to check a whole host of threats&mdash;many super effective attacks will barely do over 70% to it. While Registeel does have quite a few Pokemon that can switch in and do serious damage to it, no Pokemon is without its faults, and overall Registeel is one of the most solid Pokemon in UU.</p>
+
+[SET]
+name: Tank
+move 1: Stealth Rock
+move 2: Seismic Toss
+move 3: Thunder Wave / Toxic
+move 4: Shadow Claw / Iron Head
+item: Leftovers
+nature: Careful
+evs: 252 HP / 4 Def / 252 SpD
+
+[SET COMMENTS]
+
+<p>This is the set most Registeel use. It checks many common UU Pokemon, such as Mismagius, Rotom, Alakazam, and Venusaur. Registeel boasts impressive base 150 defenses, which means that it has great staying power, even with a mediocre base 80 HP. Seismic Toss is chosen as Registeel's primary attack to deal reliable damage. Thunder Wave cripples fast sweepers and makes them easier for Registeel's teammates to handle, but Toxic wears down bulkier Pokemon. The last slot comes down to Shadow Claw versus Iron Head. While Iron Head gains STAB, Steel is not a very effective attacking type, so Iron Head hits most Pokemon for less damage than Seismic Toss. Shadow Claw is a specialized option to help Registeel beat the Pokemon that are immune to Seismic Toss. In most situations, Seismic Toss will be Registeel's attack-of-choice, making Iron Head a secondary option.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>What sets Registeel apart from other bulky Pokemon is two things: the ability to set up Stealth Rock and the ability to spread status. These two qualities make it invaluable when facing offense. Stealth Rock is always an important support move, and having it on a Pokemon like Registeel is a reliable way to set it up. Paralysis is a large hindrance to many sweepers looking to break through Registeel. On the other hand, many of Registeel's main switch-ins are Ground-type or very slow, which is why Toxic can be used instead of Thunder Wave. You will want to get Registeel out early to set up Stealth Rock and possibly Toxic a defensive component of the opponent's team. A Careful nature and maximum Special Defense is used to squeeze as much special bulk as possible into Registeel.</p>
+
+<p>While Registeel is not a very diverse Pokemon, there are some moves that it can use to net a surprise KO or to do more damage to some common switch-ins. The most notable one is Toxic, which can cripple quite a few of Registeel's counters, such as Milotic, Rhyperior, Donphan, and Torterra. They will be hard-pressed to take repeated assaults from Seismic Toss while Toxic neuters Leftovers recovery. Another less notable option that can be used is Ice Punch, which hits Torterra for a 2HKO while still breaking Mismagius and Rotom's Substitutes. If an opponent has Torterra, it will often be his primary check to Registeel, and Ice Punch will make it think twice before switching in.</p>
+
+<p>The final alternative is to shift 56 EVs from Special Defense into Attack and use Iron Head. The EVs will guarantee that Iron Head 2HKOes Mismagius after it switches into Stealth Rock and uses Substitute.</p>
+
+[SET]
+name: Mono-Attacker
+move 1: Iron Head
+move 2: Curse
+move 3: Rest
+move 4: Sleep Talk
+item: Leftovers
+nature: Careful
+evs: 252 HP / 252 SpD / 4 Def
+
+[SET COMMENTS]
+
+<p>This Registeel set takes a more durable approach to checking threats. With Rest and Sleep Talk, Registeel works as a good sleep absorber for your team. Curse allows it to become an offensive force after a few turns, while also increasing its defensive capabilities. Registeel's typing and pre-Curse defensive stats allow it to set up with ease on many of UU's top threats, such as Venusaur, Milotic, and Mismagius. Rest allows it to take repeated blows from heavy hitters and makes Registeel a threat throughout a game. Iron Head is chosen as Registeel's sole attack since it receives STAB and is boosted by Curse.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>While Registeel has many chances to use Curse, if it only has one boost under its belt, there are many Pokemon who it should not stay in on. If Torterra or Donphan comes in and Registeel has not boosted sufficiently, chances are they will land a critical hit on Registeel before Registeel can KO them. You should wait until their checks and counters to Registeel are sufficiently weakened before you attempt to sweep. Additionally, Registeel's Attack may not be high enough to pose a threat to some offensive Pokemon after only one Curse. Sometimes it will be in your best interest to Iron Head right off the bat to scout their switch-in. You may also not want to use Rest to heal minimal amounts of damage, since a sleeping Registeel is far more susceptible to being setup fodder than one who is awake.</p>
+
+<p>This set has quite a few merits over the standard Tank Registeel. The most obvious is reliable healing in Rest. However, this set cannot utilize Stealth Rock or status, and is more susceptible to being setup bait for Fire- and Water-types. Curse Registeel is a slightly better switch-in to threats who wear down standard Registeel with their powerful attacks, such as Mismagius, Alakazam, and Scyther. The other notable difference is that Curse Registeel actually poses an offensive threat.</p>
+
+<p>There are few other options that Curse Registeel can employ. The main change that is suggested is to remove Sleep Talk for Earthquake and change the item to Chesto Berry. This allows Registeel to boost to a reasonable level and use Rest as a one-time pass to restore itself back to 100% health and sweep using the boosts it obtained. An example of a situation where this would work would be if Registeel Curses as Dugtrio comes in, Curses again, Rests, and sweeps. This, combined with the extra coverage that Earthquake provides, can make Registeel a fearsome sweeper.</p>
+
+[SET] 
+name: Lure
+move 1: Curse
+move 2: Iron Head
+move 3: Explosion
+move 4: Earthquake / Ice Punch / Counter
+item: Occa Berry
+nature: Adamant
+evs: 252 HP / 252 Atk / 4 SpD
+
+[SET COMMENTS]
+
+<p>Despite being commonly seen as a defensive Pokemon, Registeel can make use of its average Attack and access to both Curse and Explosion to pose as a serious threat after a single turn of set-up. This set aims to abuse the aforementioned traits in order to act as a reliable defensive pivot, lure, and sweeper. When equipped with an Occa Berry, Registeel can draw in and remove its most common counters, such as Moltres and Arcanine, thus paving the way for one of its teammates to sweep. In the earlier stages of the match, this set is meant to be played just as the standard defensive set, acting as a special wall and check to the plethora of Normal-, Flying-, and Grass-types that roam the UU tier, such as Swellow, Scyther, and Leafeon; this is done in order to bait the opponent into a false sense of security. Once the opposing team has been sufficiently scouted for potential threats, Registeel can grab a boost with Curse and retaliate against the subsequent switch-in with the appropriate move.</p>
+
+<p>Regarding the moveset, Iron Head acts as Registeel's always invaluable STAB, hitting both Ghost and Rock-types that like taking chances by switching into Registeel while expecting it to Explode, as well as Flying-types, without having to resort to Explosion. Speaking of Explosion, it's an amazing move that can cripple opposing walls like Milotic, and dispatch of Moltres and Donphan, both of which aren't hit for significant amounts of damage by any of Registeel's other moves. The choice for the last move is perhaps the most important part of this set, as it will determine how often this set will rely on taking a risk and using Explosion to defeat its counters. Earthquake is the preferred option, as it abuses Occa Berry to its fullest extent by taking care of Houndoom, Arcanine, and Blaziken. Ice Punch is another option if Registeel's main purpose is beating Torterra; however, it falls short of OHKOing bulkier versions, even after Stealth Rock damage. If neither of those options sound appealing, Counter is an interesting move that severely hurts Rhyperior, Donphan, and Torterra if they hit Registeel with Earthquake, but will be made useless if any of these Pokemon decide to use Roar or any sort of support move instead. Running a Chople Berry is another option if one's main objective is removing Fighting-types such as Hariyama, Hitmontop, and Toxicroak from play; however, none of these Pokemon can actually OHKO Registeel once it has grabbed a single Curse boost, meaning that it should only be used if Registeel's defensive capabilities are heavily relied upon by the user's team.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Because this set's main selling point is its ability to take many of Registeel's usual counters out of commission, pairing it with a Pokemon that can benefit from the removal of said threats is highly recommended. Swords Dance Venusaur makes a nifty partner, given the fact that many of its counters, such as Arcanine, Houndoom, and Moltres, are handily baited by Registeel. Absol is another great teammate, as not only does it benefit from the removal of bulky physical walls like Donphan, Torterra, and Arcanine, but it can also easily get past RestTalk Rotom, which completely shuts this set down.</p>
+
+<p>Since this set does not have Leftovers, does not have any heavy investment in Special Defense, and has a frequency of having to Explode on the opponent, Registeel loses a considerable amount of its walling capabilities, which means that having secondary checks to the threats it's usually meant to counter is recommended. Specially defensive Arcanine makes a good partner due to its ability to beat most Grass-types and check Rotom, Mismagius, and Alakazam. Rhyperior can take care of most Flying-types of the tier, has the option of setting up Stealth Rock, and enjoys having both Torterra and Donphan removed from play.</p> 
+
+[SET]
+name: Rain Dance Support
+move 1: Rain Dance
+move 2: Explosion
+move 3: Shadow Claw
+move 4: Seismic Toss / Thunder Wave
+item: Damp Rock
+nature: Careful
+evs: 252 HP / 4 Def / 252 SpD
+
+[SET COMMENTS]
+
+<p>While Registeel is normally used as a standard defensive pivot, it can go the utility route and set up Rain Dance. Explosion is used because it is a safe way to get in a sweeper and can cripple an opposing defensive wall, such as Milotic. Shadow Claw is used as Registeel's second attack to prevent Mismagius and Rotom from getting free Substitutes, which is a common way of dealing with Rain Dance teams. Seismic Toss is preferred in the last slot as a way to deal reliable damage. Thunder Wave can slow down an opposing sweeper, but it also tends to waste turns, something that rain teams don't like.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Registeel is a good user of Rain Dance for a couple of reasons. Firstly, it is almost impossible to OHKO Registeel, virtually guaranteeing that you will get rain going. Registeel can also check quite a few Pokemon that give the average rain team trouble once the weather has run out, such as Alakazam, Mismagius, and Venusaur. Since Registeel can often play such a critical role in a rain team's success, you are advised to switch Registeel out rather than using Explosion in the early game. However, this does not mean that Explosion should never be used; a well timed Rain Dance followed by Explosion can heavily swing the momentum in a rain team's favor. Registeel's typing can work well with quite a few rain sweepers by luring out Fire-types, netting them a free switch-in.</p>
+
+<p>Registeel, however reliable, should not be your only Rain Dance user. While frail lead users of the move, such as Ambipom, are a fine choice, another bulky Pokemon to help take hits once the rain subsides is usually going to be the most reliable option. Synergy-wise, some of the best partners to Rain Dance Registeel are Rotom and Uxie. Rotom sports handy immunities to Ground and Fighting, and can threaten a KO against Moltres, a common nemesis of Rain Dance teams. Uxie has base 130 defenses, allowing it to switch in on most non-super effective attacks and set up rain. Uxie also provides a check to Substitute Rhyperior and Toxicroak, while Registeel covers Uxie's Mismagius weakness. It goes without saying that Registeel should be paired with sweepers that can take advantage of the rain.</p>
+
+[Other Options]
+
+<p>While Registeel is fairly one-dimensional, it does have a few moves that it can utilize to surprise the opponent. Charge Beam can be used in conjunction with three special moves to form a sweeping set of sorts. More Defense EVs can be used to help beat Pokemon like Kabutops, Swellow, and Scyther better, but that is often better left to Steelix. A specially-based "RegiLure" set can be employed to lure out Registeel's normal counters, outspeed them, and KO them; Flash Cannon / Hidden Power Water / Thunderbolt / Explosion with an EV spread of 64 HP / 196 SpA / 248 Spe and a Mild nature and Occa Berry is an example of such a set. Rhyperior and Donphan are both 2HKOed by Hidden Power Water, as are the Fire-types that normally switch into Registeel. Flash Cannon hits many Pokemon quite hard, and Thunderbolt can hit Water-types super effectively.</p>
+
+[Checks and Counters]
+
+<p>Registeel has quite a few reliable counters. Rhyperior, Donphan, and Torterra only fear Toxic, and can come in on any of Registeel's attacks and threaten a KO with STAB Earthquake. Even Ice Punch only manages 50% against Torterra, and barely scratches Donphan and Rhyperior. Fire-types such as Arcanine, Ninetales, Moltres, and Houndoom can come in on a Shadow Claw or Iron Head and proceed to threaten to KO Registeel with their STAB Fire move. Hitmonlee's STAB Close Combat OHKOes most Registeel, and he has Limber, allowing him to switch into Thunder Wave with no risk. Omastar can switch into Registeel and set up Spikes and Stealth Rock, while Seismic Toss is only a 4HKO. Dugtrio can switch in on Stealth Rock, Thunder Wave, or Shadow Claw and trap Registeel with Arena Trap; Registeel is 2HKOed by a Choice Band or Life Orb Earthquake.</p>

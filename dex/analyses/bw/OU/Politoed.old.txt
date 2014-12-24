@@ -1,0 +1,115 @@
+[Overview]
+
+<p>Drizzle had been long overdue to test the waters of a standard metagame, and it was a wise decision to release the ability in a generation where OU is more powerful than ever. The weather has a phenomenal effect on OU, with various offensive and defensive perks that any OU team can take advantage of. Rain's dominance is undeniable; the stormy weather single-handedly accounts for the viability of Pokemon such as Gastrodon, who is seemingly designed to defend against rain teams, and Tornadus, whose signature Hurricane saves it from obscurity. The potency of rain stall must also be recognized; rain turns previously annoying support Pokemon, such as Tentacruel, Ferrothorn, and Jirachi, into defensive stalwarts.</p>
+
+<p>But who's the lucky winner in our Dream World lottery? None other than the Pokemon from GSC that everyone forgot about: Politoed. With such lackluster stats and a strictly average movepool, it's easy to see why our froggy friend has remained unused in every competitive metagame since it was introduced. However, with former greats such as Suicune and Empoleon bumming in the depths of UU while Politoed maintains higher usage than ever, Drizzle's influence says more than enough about Politoed's role in OU.</p>
+
+[SET]
+name: Choice Specs
+move 1: Hydro Pump
+move 2: Ice Beam
+move 3: Focus Blast / Psychic
+move 4: Hidden Power Grass / Surf
+item: Choice Specs
+ability: Drizzle
+nature: Modest
+evs: 252 HP / 4 Def / 252 SpA
+
+[SET COMMENTS]
+
+<p>Being able to deal with this set is a requirement for OU teams. Politoed might not have the most dangerous stats or movepool, but the viability of this set is determined by its ability to summon rain upon entry, making its STAB attacks considerably more dangerous. The boost from Choice Specs and rain more than doubles the power of Hydro Pump, which allows it to 2HKO some of the most specially bulky Pokemon in OU, including Jirachi, Latios, and Mew. It is not easy to switch in a Pokemon that simply resists Water-type attacks due to its massive damage output. To illustrate the might of its Drizzle-enhanced power, here is a small list of common Politoed checks that should almost never switch into Hydro Pump:</p>
+
+<ul class="damage_calculation">
+<li>Hydro Pump vs. 0/0 Salamence: 68.3% - 80.7%</li>
+<li>Hydro Pump vs. 0/0 Naive Salamence: 75.8% - 89.4%</li>
+<li>Hydro Pump vs. 0/0 Haxorus: 95.6% - 112.6%</li>
+<li>Hydro Pump vs. 0/0 Hydreigon: 63.1% - 74.5%</li>
+<li>Hydro Pump vs. 0/0 Rotom-W: 73.14% - 86.36%</li>
+</ul>
+
+<p>Even without coverage, only the bulkiest of resists are capable of tangoing with the walking flood that is Politoed. One of the few things stopping Politoed from drowning everything in its path is Hydro Pump's imperfect accuracy, as a 20% deduction has a proven side effect of costing games. In case you want to play it on the safe side, Surf is a viable option in lieu of or alongside Hydro Pump to ensure that an untimely miss doesn't come into play during the simple act of revenge KOing a target.</p>
+
+<p>Ice Beam, Hidden Power Grass, and Focus Blast all serve a similar function in tripping up Politoed's usual checks, provided you can predict their switch-in. Ice Beam prevents the likes of Latias and Dragonite from switching in and setting up freely, while also warding off Celebi and Virizion, who can take a Hydro Pump better than most. Hidden Power Grass is Politoed's best option against both Gastrodon and Jellicent, who make most of Politoed's offensive options useless. Focus Blast will probably see the least use of the three coverage options, as its only notable targets are Ferrothorn and the odd Abomasnow; however, Ferrothorn's omnipresence and Politoed's lack of convincing other options make it the optimal choice for the third slot. However, Psychic is a great alternative if you're not a fan of Focus Blast's accuracy, and can OHKO standard Toxicroak and 2HKO standard Tentacruel. Do keep in mind that it's usually safest to open up with a STAB attack, as its coverage moves are much weaker and easy to punish.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Choice Specs Politoed is a perfect fit for offensive rain teams. The front-runner of its teammates is Keldeo, whose 129 base Special Attack allows it to unleash destructive Hydro Pumps without refrain. Its secondary Fighting typing allows it to threaten Ferrothorn, Chansey, and Blissey, making it a valuable asset to rain teams. Tornadus follows behind with a commanding base Speed of 111 and powerful Hurricanes to match. Thundurus-T is as dangerous an ally as it is an enemy; its Volt Absorb negates the Electric attacks used against Politoed and its teammates while the rain increases its Thunder's accuracy to perfection, allowing it to deal major damage even to the Pokemon that resist it. Starmie is also a powerhouse under the rain, sporting a souped-up Hydro Pump and powerful Electric-type coverage with Thunder. Finally, there is Toxicroak, who checks enemy Keldeo looking to bulldoze Politoed and its teammates. With a Swords Dance boost, Toxicroak can also wipe out enemy rain teams in a heartbeat.</p>
+
+<p>Politoed really shouldn't be using anything other than the moves listed above, but as a passing recommendation, Perish Song can be used as a last-ditch attempt to defeat Calm Mind users and especially bulky walls during the end-game.</p>
+
+[SET]
+name: Defensive
+move 1: Scald
+move 2: Protect / Ice Beam / Refresh
+move 3: Perish Song / Encore
+move 4: Toxic / Hypnosis
+item: Leftovers
+ability: Drizzle
+nature: Bold
+evs: 252 HP / 252 Def / 4 SpD
+
+[SET COMMENTS]
+
+<p>Politoed is a competent special attacker thanks to Drizzle, but the only thing it needs to do in order to support its team is survive. To this end, a defensive Politoed can be a valuable asset, with access to some of the most infuriating support moves in the game. Scald is the worst of them all; someone at Game Freak apparently decided Water-types weren't good enough, so they were granted the ability to deal decent damage and burn opposing switch-ins with one move. The threat of a burn is enough to keep Ferrothorn at bay, as a burned Ferrothorn is easy prey for Substitute users such as Gyarados, Landorus-T, and Gliscor.</p>
+
+<p>Protect further aids Politoed's stalling capabilities by scouting the opponent's moves while residual damage slowly withers away their HP. In addition, it garners free Leftovers recovery from its guaranteed safety, giving it further survivability despite of its lack of reliable recovery moves. Perish Song works brilliantly in tandem with Protect by discouraging the opponent from staying in and attacking as the count goes down. An alternative approach to warding off set up sweepers is the use of Encore and Ice Beam; Ice Beam is the one thing standing between Dragonite and several Dragon Dances, while other set up sweepers are thwarted by Encore, forcing them to boost futilely as a check switches in. Last but not least are Politoed's status attacks of choice, Toxic and Hypnosis. Toxic is preferred alongside Protect and Perish Song, allowing Politoed to force switches, spread poison, and wither away the HP of Pokemon it is normally helpless against, including enemy bulky Water-types such as Slowbro and Water Absorb Vaporeon. Hypnosis does not require a specific combination of moves in order to work, making it useful in nearly any situation. Its only real limitations are its low accuracy and Sleep clause, but it's a welcome balance for the ability to disable one Pokemon on the opposing team nigh permanently.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>There are a few other options worth considering to keep Politoed healthy. Chesto Berry + Rest is a tried and true combination for defensive Pokemon with no recovery, and Politoed can make good use of it as a one-time full heal. The downside to this, aside from only being useful once, is that Politoed can't make use of Leftovers to heal throughout the battle. Refresh allows Politoed to heal status ailments at no cost, which can be extremely useful in the war of attrition versus Pokemon such as Ninetales and Heatran, who often employ the use of status attacks to wear Politoed down.</p>
+
+<p>Concerning teammates, this Politoed is often seen on more defensive teams, or as a glue for offensive teams. Its defensive partners include Jirachi, who takes no scuff from Grass-type attacks, or the likes of Latios and Hydreigon under rain, Tentacruel, who uses its increased longevity from Rain Dish to set up Toxic Spikes and stall out the opposition with Protect, and Ferrothorn, whose reduced Fire weakness allows it to shrug off the damage from a stray Hidden Power Fire and set up hazards with further impunity. Ferrothorn also counters Electric-types who would otherwise give rain teams problems.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Hydro Pump
+move 2: Surf / Psychic
+move 3: Ice Beam
+move 4: Encore / Perish Song
+item: Choice Scarf
+ability: Drizzle
+nature: Timid
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>Politoed is a far cry from the best revenge killer, but a Choice Scarf gives it a chance to flex its power on much faster foes. With a Choice Scarf equipped, Politoed can outpace any Pokemon under 130 base Speed and assail it with the corresponding attack. Hydro Pump gives it just enough power to KO Tornadus reliably with as little as one round of Life Orb recoil, and 2HKO the likes of Starmie, Rotom-W, and Salamence with the help of Stealth Rock. Surf is a reliable secondary STAB attack whose reliability is crucial in the face of dangerous setup sweepers, such as Terrakion and Thundurus-T, that can use a missed opportunity to turn the game around. However, Psychic is also a very viable option, as Toxicroak and Tentacruel are common threats that take a pittance or nothing from Politoed's Water-type attacks and can take advantage of it. Ice Beam is also a vital move for this set, revenge KOing not only the likes of an unboosted Haxorus, Salamence, or Hydreigon, but even an Adamant Dragonite with a Dragon Dance under its belt (assuming Multiscale has been broken).</p>
+
+<p>The fourth moveslot is Politoed's last resort, being useful in situations where simply attacking will not get the job done. Encore can lock an opposing Pokemon into a specific attack and literally save games. If Encore is not your cup of tea, then Perish Song is a great option; a quick Perish Song can really ruin a Calm Mind Jirachi's or Reuniclus's day, and is Politoed's only chance at forcing either foe to switch. This is especially useful against pesky Substitute users, such as Gliscor, who are forced to forfeit their momentum before the timer runs down.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>As for other moves on this set, there aren't many other viable ones. A fast Hypnosis is also useful in allowing Politoed to disable a threatening sweeper or punish a switch. Hidden Power Electric can be used to let Politoed revenge kill Gyarados. The primary function of this set is revenge killing, but a Choice Scarf opens Politoed up to issues it wouldn't have to address with the commanding power of a Choice Specs or the ability to switch moves with Leftovers. For example, Gastrodon is nigh impossible to wear under normal circumstances. To address this issue, one can add to the ranks a considerably bulky Grass-type that can absorb status attacks (Celebi and Lum Berry Virizion come to mind) or set up hazards and predict with Hidden Power Grass. Overall, this set is completely useless against defensive playstyles, so especially potent stallbreakers such as SubPunch and Protect + Leech Seed Breloom as well as Substitute + Bulk Up Toxicroak make good partners to exploit the presence of an enemy Chansey or Blissey for easy switch-ins and setup.</p>
+
+[SET]
+name: Special Attacker
+move 1: Hydro Pump
+move 2: Ice Beam
+move 3: Hidden Power Grass / Focus Blast
+move 4: Hypnosis / Encore / Perish Song
+item: Leftovers / Water Gem
+ability: Drizzle
+nature: Modest
+evs: 252 HP / 4 Def / 252 SpA
+
+[SET COMMENTS]
+
+<p>A common criticism for Choice-item wielding Politoed sets is that being locked into any move other than its STABs leaves it vulnerable to opposing setup. This set has virtually no problem with setup sweepers, as it has just the right moves to foil their every attempt. The power of Hydro Pump is necessary for allowing Politoed to 3HKO specially defensive Tyranitar under sand and 2HKO Ninetales under sun. Ice Beam punishes any Dragonite or Hydreigon attempting to set up on Politoed and deals major damage to Breloom and Latios on the way in. The third move slot is a bit trickier, as both moves provide important coverage: Ferrothorn will not want to switch in on Focus Blast, and both Gastrodon and Rotom-W loathe Hidden Power Grass. Tyranitar also fears Focus Blast, suffering a 2HKO even with a specially defensive set in sand.</p>
+
+<p>The final move slot allows Politoed to aggravate any Pokemon it cannot outright KO. Hypnosis can cripple any Pokemon that switches in, save for Natural Cure users such as Chansey, Blissey, and Celebi. Predictable setup sweepers such as Latias are foiled with Encore, which locks them into their boosting move while a threatening teammate comes in to finish the job. Finally, there's Perish Song. While this set lacks any real methods of stalling, the function of the move remains useful in forcing any defending Pokemon to switch before the third turn expires. Ferrothorn makes a good switch-in to most Pokemon under rain, and can use its own Protect to stall out the Perish Song turns in place of Politoed while setting up Spikes as the opponent switches.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>This Politoed is best for offensive teams that cannot sacrifice even an ounce of their momentum. In place of Hydro Pump, Surf or Scald are usable alternatives, each for different reasons: the burn rate of Scald helps defeat Ferrothorn when not using Focus Blast, while Surf is a reliable all-purpose attack with perfect accuracy and the power to KO many Pokemon that don't resist it. A Water Gem makes a shockingly useful tool for this set, allowing Politoed to bluff a Choice item when using a coverage move, and save its STAB attack as a trump card. Of course bluffing is not its only use, since few Pokemon can safely switch into a rain-boosted STAB Hydro Pump that is further augmented by Water Gem. Wobbuffet might be a rare sight in OU these days, but at max Speed, it can outpace any Politoed at minimum Speed and lock it into an undesirable move with Encore. A Politoed player can cover for this contingency by sparing at least 24 EVs for Speed, which allows it to switch to a safer attack to use against Wobbuffet, such as Hypnosis.<p>
+
+[Other Options]
+
+<p>Politoed has a physical movepool consisting of Waterfall, Earthquake, Ice Punch, and Payback; moves that can be used to hit the likes of Tyranitar and Latias harder than the rest of its options. Belly Drum increases its Attack stat to sky-high levels, which is surprising for a Pokemon with only 75 base Attack--all at the cost of 50% of its HP. Difficulty of setup aside, Politoed will almost never be able to pull off a sweep after a Belly Drum boost, even with a Salac Berry. Haze is a good move, but Politoed doesn't have the defenses to stop setup sweepers in their tracks. The best it can do is wipe away their boosts while taking a major blow, and then switch out to a better check. Rest and Sleep Talk are fairly useful options for a defensive Politoed, giving it some means of recovery outside of Leftovers to survive weather wars. It is recommended to carry a teammate with Heal Bell or Aromatherapy to relieve Politoed of its sleep status, as the new sleep mechanics of Black and White force the defending Pokemon to wait out its sleep turns all in one sitting in order to cure. Much to any rain player's chagrin, Politoed is unlikely to survive those turns under the heat of offensive pressure.</p>
+
+[Checks and Counters]
+
+<p>Politoed is powerless outside of rain, so it stands to reason that its mortal enemies are not only Pokemon that can switch in and KO it, but Pokemon that can change the weather. The mere presence of an enemy weather setter is enough to change any rain team's game plan in favor of keeping Politoed alive. Eternal sun is simply a nightmare for rain, lowering the accuracy of Thunder and Hurricane, while also weakening Water-type moves. The battle is all but won once the weather war is in a Drought team's favor. However, Ninetales is a Pokemon that requires a dedicated crew as well, even more so than Politoed due to its common weaknesses, so slapping it on one's team is usually not the best solution for combating rain. On a dedicated Sun team, Ninetales can use Sunny Day as Politoed switches in to reverse the rain team's momentum and threaten Politoed with Solar Beam, or eliminate Politoed with a +2 Energy Ball. Tyranitar can easily trap a Politoed locked into Ice Beam with Pursuit. Abomasnow laughs at all of Politoed's attacks, save for Focus Blast.</p>
+
+<p>Even under ideal weather conditions, many OU Pokemon can exploit Politoed's mediocre stats. Defensively, Ferrothorn, Gastrodon, and Jellicent have little trouble switching into Politoed unless it predicts with a Specs Focus Blast or Hidden Power Grass, respectively. Ferrothorn uses its free turns to set up a minefield of hazards for its teammates, while Gastrodon can use the +1 boost from Storm Drain to threaten Politoed's teammates. Keldeo freely sets up Calm Minds on Politoed lacking Encore, as do Latios, Latias, and Virizion. Celebi has no trouble switching into a non-Specs Ice Beam and can recover the damage as Politoed switches, or even leech HP from Politoed with its STAB Giga Drain and Leech Seed. Rotom-W, Jolteon, Zapdos, and Raikou keep both Politoed and its teammates in check with STAB Electric-type attacks. They can Volt Switch away from incoming counters and Rotom-W can burn Ferrothorn with Will-O-Wisp, making Ferrothorn much easier to handle.</p>
+
+<p>Most prominent offensive Pokemon in OU carrying a Choice Band or Choice Specs can simply KO Politoed without much prior damage. For example, a Choice Band Terrakion can KO a defensive Politoed with up to 77% of its health left. Specs Latios and Hydreigon both OHKO Politoed most of the time with Draco Meteor, requiring no prior damage whatsoever. Haxorus, Dragonite, and Lucario can also KO a relatively healthy Politoed using their STAB attacks and a Choice Band. A special mention goes to Gothitelle and Dugtrio for being able to trap and KO a weakened Politoed. With the help of Choice Specs, Gothitelle can KO even a healthy Politoed with Thunderbolt.</p>

@@ -1,0 +1,45 @@
+[Overview]
+
+<p>Kingdra isn't seen much. This is due to the prevalence of Pokemon such as Blissey and Milotic, who wall it all day; the likes of Suicune can even use it as setup bait for a Calm Mind sweep.</p>
+
+[SET]
+name: Rain Dance Sweeper
+move 1: Rain Dance
+move 2: Surf / Hydro Pump
+move 3: Ice Beam
+move 4: Toxic / Hidden Power Electric
+item: Leftovers
+nature: Modest
+evs: 240 HP / 252 SpA / 16 Spe
+
+[SET COMMENTS]
+
+<p>Kingdra has decent defensive stats, but can't really damage much. Toxic is for Milotic and Thick Fat Snorlax. Hidden Power Electric is a good choice to do some damage to Water-types such as Milotic, and also covers Gyarados.</p>
+
+<p>This specially offensive Kingdra should always maximize its Special Attack, and then probably maximize HP as well. Even uninvested, it hits 412 Speed in rain, which outpaces everything bar Ninjask and some Electrode; therefore, it doesn't need much Speed investment. 16 Speed EVs guarantee that Kingdra is faster than Jolly Marowak outside of rain, and also lets it beat Adamant Ninjask in rain. You don't really need to worry about Jolly Ninjask, but if you really want, you can bring Kingdra to 230 Speed, which requires 96 EVs.</p>
+
+[SET]
+name: Dragon Dance + Flail
+move 1: Substitute / Endure
+move 2: Flail
+move 3: Dragon Dance
+move 4: Hydro Pump
+item: Liechi Berry
+nature: Lonely
+evs: 252 Atk / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>If you can force a switch or otherwise nab a free turn to use Dragon Dance, Flail should damage a lot of the opposing team. The likes of Skarmory, Weezing, and Gengar are easily dealt with via Hydro Pump. Endure might let Kingdra set up more Dragon Dance boosts, but leaves it vulnerable to status.</p>
+
+<p>Substitute variants of this set should run maximum Attack and a minimum of 264 Speed; place any leftover EVs into Special Defense to strengthen Kingdra's Substitutes against attacks such as Ice Beam. Kingdra can choose not to invest in Speed if it is using Endure, as it can gain more Dragon Dance boosts.</p>
+
+[Other Options]
+
+<p>It can use Rest, or use DragonBreath for paralysis.</p>
+
+[Checks and Counters]
+
+<p>Snorlax, Blissey, and Regice wall it just like they wall almost all special attackers. Celebi can stop it because it resists Surf; although it's weak to Ice Beam, Kingdra doesn't have the Special Attack to hurt it too much. 252/16 Celebi is only 3HKOed by Modest Kingdra's Ice Beam, which means it has plenty of time to set up with Calm Mind or use Leech Seed on Kingdra.</p>
+
+<p>Though the former has to beware of Hidden Power Electric, Gyarados and Suicune can generally come in easily and set up a sweep with Dragon Dance or Calm Mind, respectively. Milotic, although it lacks a setup move, still walls Kingdra's hits thanks to its high Special Defense and Recover, and can slowly wear it down with Ice Beam; the same applies to Ludicolo and Vaporeon.</p>

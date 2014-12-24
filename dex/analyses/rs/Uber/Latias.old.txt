@@ -1,0 +1,57 @@
+[Overview]
+
+<p>Latias is deadly with Soul Dew and awesome special stats right off the bat. Versatile, powerful, and unpredictable are words that describe Latias well. Latias is nice to use over Latios for that higher Special Defense stat (444 instead of 384 after Soul Dew, without EVs) in addition to more Defense (216 versus 196 without EVs).</p>
+
+[SET]
+name: Standard
+move 1: Calm Mind
+move 2: Dragon Claw
+move 3: Safeguard / Refresh
+move 4: Recover
+item: Soul Dew					
+nature: Modest
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>Dragon Claw has no immunities, and with Safeguard + Recover + Calm Mind, nothing can really hurt Latias that much. This set stomps Blissey into small pieces. I wish I could suggest it on a lot of other Pokemon, but they only get STAB on a move like Psychic, which there are Pokemon immune to. Watch out for Metagross--that should be your only real worry. This set isn't seen nearly as much as some others, but with all the Toxic going around currently, it could make a comeback, especially since Metagross is less common due to the rise of Skarmory and Kyogre. Refresh lets Latias actually switch into those statuses, and it beats Icy Wind Blissey, but it doesn't block freeze and sleep and cannot be passed. It also works just that turn instead of lasting five.</p>
+
+[SET]
+name: Calm Mind Sweeper
+move 1: Calm Mind
+move 2: Ice Beam
+move 3: Thunderbolt / Thunder
+move 4: Recover
+item: Soul Dew
+nature: Modest
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>The sweeper set for Latias has the ability to severely damage most of the Uber metagame and can wall most hits with Soul Dew. Ice Beam will usually OHKO Groudon and always OHKO Rayquaza, and the Electric moves are for Ho-Oh and Kyogre respectively.</p>
+
+[SET]
+name: Support
+move 1: Light Screen / Reflect / Protect / Recover
+move 2: Dragon Claw
+move 3: Toxic
+move 4: Wish / Recover
+item: Soul Dew
+nature: Timid
+evs: 252 HP / 140 Spe / 86 SpA / 32 SpD
+
+[SET COMMENTS]
+
+<p>Latias is resistant to Water, Psychic, Electric, Fire and Grass, making it an ideal special sponge. It's also one of the better Substitute Kyogre counters in the game. It's faster than Kyogre thanks to its high Speed, can break its Substitute with Dragon Claw, and can Toxic it before it can set up another. Ice Beam is barely a 3HKO from most Kyogre (without a Light Screen up), so with Light Screen / lots of recovery, Kyogre will die to Toxic before Latias falls.</p>
+
+[Other Options]
+
+<p>Roar can let you take advantage of Spikes and phaze Calm Mind users and can work in tandem with Psych Up, which can steal Calm Minds from Kyogre and such. Latias can paralyze stuff with Thunder Wave.</p>
+
+[EVs]
+
+<p>307 is the minimum Speed Latias should generally run. Max Speed (without nature) is also useful, as it beats out Jolly Rayquaza. You will probably want lots of Special Attack. You'll generally want a Modest nature, but a Timid nature can also be used to get 320 Speed, just beating out Modest Latias, Modest Latios, and Jolly Rayquaza.</p>
+
+[Checks and Counters]
+
+<p>Blissey and Deoxys-D beat Latias without Safeguard / Substitute / Refresh. If Latias does have Safeguard, however, Blissey can set up a Light Screen and switch out to something that can now take those hits a bit better. Blissey and, to a lesser extent, Deoxys-D can also beat Latias with Psych Up / Calm Mind and Ice Beam, depending on who gets a critical hit first (but remember, the Ice Beam users also have the 20% / 10% freeze chance on their side). Alternately, Blissey with Icy Wind will also beat Safeguard Latias. Lanturn with Toxic beats Thunder / Ice Beam Latias, but loses easily to Safeguard / Dragon Claw. Snorlax can somewhat counter it (particularly Choice Band Snorlax), but has difficulties switching into those powerful special attacks. Shedinja stops Latias without Hidden Power Fire / Dark, and if your opponent wants an all-out sweeper set, they are much more likely to choose Latios for that, and thus will be less likely to have Hidden Power Fire / Hidden Power Dark on Latias. The problem with relying on Shedinja is that Spikes also spell its end. Metagross can take a few Dragon Claws and OHKO with Choice Banded Meteor Mash / Shadow Ball (provided Latias doesn't have max HP), but is 2HKOed by Thunder. Tyranitar can stack Special Defense to take a hit and set up, provided Latias hasn't gotten in a bunch of Calm Minds. Sand Stream also hurts Latias, who lacks Leftovers thanks to Soul Dew. Deoxys-A can come in on Recover, Calm Mind, or any other non-attacking move but Thunder Wave, and OHKO with Shadow Ball, but it needs a Choice Band to do it 100% of the time.</p>

@@ -1,0 +1,13 @@
+Swift Swim
+########
+name: Swift Swim
+move 1: Rain Dance / Tailwind
+move 2: U-turn
+move 3: Waterfall
+move 4: Toxic
+ability: Storm Drain / Swift Swim
+item: Damp Rock / Leftovers
+evs: 252 HP / 4 Def / 252 Spe
+nature: Jolly
+
+This is a sample set while we are currently working on analyses in the workshop.

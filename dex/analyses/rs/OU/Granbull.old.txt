@@ -1,0 +1,35 @@
+[SET]
+name: Bulk Up
+move 1: Bulk Up
+move 2: Return
+move 3: Earthquake / Shadow Ball
+move 4: Rest
+item: Leftovers
+nature: Adamant
+evs: 172 HP / 252 Atk / 16 Def / 12 SpD / 56 Spe
+
+[SET COMMENTS]
+
+<p>The strategy for this set is rather simple: use Bulk Up against weak physical attackers, and Rest off the damage. The Attack drop from Intimidate makes it easier for Granbull to get the first Bulk Up boost. The choice between Earthquake and Shadow Ball depends on your team.</p>
+
+[SET]
+name: SubPunch
+move 1: Focus Punch
+move 2: Substitute
+move 3: Return
+move 4: Shadow Ball
+item: Leftovers
+nature: Adamant / Brave
+evs: 196 HP / 252 Atk / 36 Def / 24 SpD
+
+[SET COMMENTS]
+
+<p>Intimidate is always nice for a lead to have, and this role is where this Granbull functions best. Substitute eases prediction and sets up the powerful Focus Punch, which dents the common Rock and Steel type switch-ins. Return gains STAB, and Shadow Ball is for Ghosts. A Brave nature guarantees Granbull will move last, meaning it can take a hit, set up a Substitute, and then use Focus Punch as they break the Substitute.</p>
+
+[Other Options]
+
+<p>Granbull is beefy enough to make use of Roar; it can also take most physical hits and Counter back for big damage. Reflect is a good move to buffer your team's Defense if you really need it. Granbull does have access to many special moves, but those should be avoided because of how much lower Granbull's Special Attack is compared to its Attack.</p>
+
+[Checks and Counters]
+
+<p>Skarmory and Forretress take very little damage from any of Granbull's attacks and can set up Spikes on it. Fast special sweepers will take a chunk out of Granbull, though they will risk being maimed themselves if they don't KO Granbull.</p>

@@ -1,0 +1,55 @@
+Overview
+########
+
+It took three entire generations for Game Freak to acknowledge Exploud's existence, but they did it the best way they could: Boomburst. Boomburst rescued Exploud from the depths of NU and made it an extremely strong powerhouse that tears RU apart, as it is essentially a 140 Base Power STAB move coming from a respectable base 91 Special Attack. It also hits through Substitute and damages Ghost-types due to Exploud's ability, Scrappy. Pokemon that resist Exploud's Boomburst are generally manhandled by its excellent coverage moves, such as Surf and Fire Blast. However, Exploud is slow and needs to fully invest in Speed to be effective. Additionally, while somewhat bulky, its Normal typing is not great defensively, granting it absolutely zero notable resistances, and thus Exploud can't switch into attacks very often. Still, Exploud is a monster with Boomburst and a true threat to be considered when building a team.
+
+
+BOOMBURST
+########
+name: BOOMBURST
+move 1: Boomburst
+move 2: Fire Blast
+move 3: Surf
+move 4: Focus Blast / Work Up / Sleep Talk 
+ability: Scrappy
+item: Choice Specs / Life Orb
+evs: 4 Def / 252 SpA / 252 Spe
+nature: Modest
+
+Moves
+========
+
+Boomburst is really the only reason to use Exploud, as it's basically a spammable STAB 140 Base Power move that hits through Substitute and damages Ghost-types. All its other moves are just for beating what Boomburst can't. Fire Blast is for Steel-types that resist Boomburst and also destroys Soundproof Abomasnow which is immune to Boomburst. Surf hits Rock-types such as Rhyperior and Regirock. Flamethrower is a less powerful but more reliable alternative for handling Steel-types due to its higher accuracy, and is the preferred choice when running Choice Specs. If using Life Orb, then Substitute is preferred, as it allows Exploud to dodge Toxic and Thunder Wave. Exploud also forces a lot of switches, which makes it fairly easy to set up a Substitute. If your team needs a sleep absorber, Exploud can use Sleep Talk on the last slot.
+
+Set Details
+========
+
+Investing fully in Speed lets Exploud outspeed everything up to neutral uninvested base 95 Pokemon such as Drapion and Xatu. Timid doesn't outspeed any notable threats, and also greatly lowers Exploud's decent Special Attack. Choice Specs versus Life Orb is a matter of greater immediate power or the freedom to switch between moves. Silk Scarf can also be used to bluff Choice Specs while boosting Boomburst's power, but Exploud's other coverage moves also need the power. If using Exploud on a Trick Room team, use a Quiet nature with an EV spread of 248 HP / 252 SpA / 8 SpD and 0 Speed IVs.
+
+Usage Tips
+========
+
+Exploud is not that bulky, so don't switch it into non-Ghost-type moves very often. Instead, try bringing Exploud in after a KO or on a double switch, preferably against a slower Pokemon. Before starting to spam Boomburst, make sure that the opponent either doesn't have any healthy Pokemon that resist Normal-type moves. If Exploud has Substitute, only use it when predicting a switch; otherwise it can be a waste of a turn and health.
+
+Team Options
+========
+
+Powerful physical attackers such as Cobalion, Hitmonlee, Doublade, and offensive Drapion greatly benefit from Exploud's wallbreaking capabilities. In return, these Pokemon help break through special walls that can take Boomburst or coverage moves easily. Doublade in particular has good defensive synergy with Exploud, being immune to Fighting-type moves, while the latter is able to switch in on Ghost-type attacks. Due to its low Speed, Exploud also appreciates speed control. One of the best ways of controling Speed is Sticky Web, which makes Exploud even more fearsome. Good Sticky Web users include Kricketune and Leavanny. Exploud is also an excellent SmashPass recipient, as the boosts in Speed and Special Attack turn it into a powerful sweeper. The best SmashPasser in RU, Gorebyss, is therefore a good partner.
+
+
+Other Options
+########
+
+Focus Blast hits Normal-types and Cradily harder than Boomburst, but its accuracy is a major letdown. Exploud has a big special movepool consisting of Ice Beam, Shadow Ball, Extrasensory, and more, but these moves are all outclassed by Boomburst. Similarly, its physical movepool is also large, but it's outclassed as a physical Normal-type by Braviary and Cinccino, which are faster and more powerful. Fake Tears can force switches or strengthen its moves, but it generally isn't very useful. Similarly, Work Up can be used to boost Exploud's Special Attack, but its low Speed keeps Exploud from sweeping faster foes. Choice Scarf solves Exploud's Speed issues, but it'll need to run a Timid nature to outspeed base 115 Speed Pokemon, and it also misses the power from Choice Specs or Life Orb. Finally, never use Soundproof as the ability since one of Exploud's Boomburst's main qualities besides the power is its ability to hit everything including Ghost-types, which are normally immune to Normal-type moves.
+
+
+Checks & Counters
+########
+
+**Specially Defensive Pokemon**: Registeel, Bronzong, Assault Vest Druddigon, Specially Defensive Cresselia, Assault Vest Slowking, Assault Vest Escavalier, Cradily, and Assault Vest Meloetta can all switch into Boomburst and retaliate by either crippling Exploud with a powerful attack or a status move. However, Registeel, Bronzong, and Escavalier should be cautious when switching into Life Orb because of Fire Blast. 
+
+**Faster Fighting-types and Revenge Killers**: Every Fighting-type that is faster than Exploud can check it, including Hitmonlee, Choice Scarf Emboar, Cobalion, and Virizion. Powerful revenge killers such as Braviary, Moltres, and Durant can also come in and smash Exploud due to its low Speed.
+
+**Status**: Exploud greatly fears both paralysis and poison, which halve its already middling Speed and reduce its longevity, respectively. Toxic Spikes are especially notable, as they put Exploud on a timer immediately after it switches in, a big help for defensive teams that struggle to take repeated Boombursts.
+
+**Soundproof **: Soundproof Abomasnow walls Exploud locked in Boomburst, but if it's running Life Orb, then it loses to Fire Blast. While not common, Soundproof Mr. Mime, Soundproof Bouffalant and Soundproof Exploud itself can also switch into Exploud's main STAB attack; however, the latter two fear the rare Focus Blast.

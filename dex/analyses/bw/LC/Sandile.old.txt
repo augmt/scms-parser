@@ -1,0 +1,62 @@
+[Overview]
+
+<p>Sandile's high Speed and Attack make it a threat to contend with in Little Cup. With Moxie boosting Sandile's Attack each time it scores a KO, it can quickly become an unstoppable threat. Sandile's movepool is just wide enough to succeed in the fast-paced Little Cup metagame. It can pose a threat to even bulky walls such as Munchlax, Frillish, and Bronzor, use Pursuit to trap Misdreavus and Abra, or even throw in Hone Claws to make it a decent set-up sweeper. Unfortunately, Sandile's awful defensive stats in conjunction with weaknesses to common Fighting- and Water-type moves makes it easy to take it down. Still, Sandile makes a fine addition to any team, and should not be underestimated.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Earthquake
+move 2: Crunch
+move 3: Fire Fang
+move 4: Stone Edge / Pursuit
+item: Choice Scarf
+ability: Moxie
+nature: Adamant
+evs: 180 Atk / 76 Def / 236 Spe
+
+[SET COMMENTS]
+
+<p>With a Choice Scarf, Sandile easily outspeeds all unboosted Pokemon in Little Cup. Earthquake and Crunch are its two STAB attacks, hitting a wide range of foes very hard. Fire Fang complements Sandile's other moves very well, OHKOing Ferroseed while also smacking Bronzor hard, while Stone Edge provides coverage on Flying-types. Alternatively, Pursuit can see usage for its ability to trap Misdreavus or the occasional Gastly, but Sandile must beware of Will-O-Wisp.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Adamant is the nature of choice here, as Sandile already outspeeds most unboosted threats with a Choice Scarf and appreciates the power boost. Moxie is the preferred ability on this set, allowing Sandile to clean up weakened teams easily with team support. This set appreciates having its opponents weakened by entry hazards. Dwebble thus makes a great partner for Sandile, as it can set up both Spikes and Stealth Rock. Dual screen support from the likes of Bronzor and Exeggcute also aids Sandile immensely, as it finds it difficult to take hits with its abysmal base 35 defenses. The EV spread maximizes Sandile's Attack and Speed, allowing it to hit as hard and as fast as possible, with the rest dumped into Defense.</p>
+
+[SET]
+name: Hone Claws
+move 1: Hone Claws
+move 2: Earthquake
+move 3: Fire Fang / Stone Edge
+move 4: Crunch / Pursuit
+item: Life Orb
+ability: Moxie
+nature: Jolly / Adamant
+evs: 180 Atk / 76 Def / 236 Spe
+
+[SET COMMENTS]
+
+<p> With access to Hone Claws, a wonderful ability in Moxie, and powerful STAB attacks, Sandile can function very well as a setup sweeper. Earthquake and Crunch are Sandile's dual STAB attacks, giving Sandile great neutral coverage and hitting anything that doesn't resist them very hard after a boost. However, Pursuit can be used over Crunch to revenge kill fleeing Pokemon, Psychic-types in particular. There are two options for the final moveslot. Stone Edge pairs very well with Sandile's other moves, giving it the excellent EdgeQuake coverage as well as decimating any Flying-types who may switch in for free on Earthquake. Stone Edge also has its imperfect accuracy boosted by Hone Claws, making it much more reliable. On the other hand, Fire Fang roasts Steel-type walls such as Ferroseed and Bronzor to a crisp, which is very useful when considering the ubiquity of these threats.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p> The EV spread is straightforward, maximizing Sandile's Attack and Speed. Adamant and Jolly are both great options for a nature. While Adamant gives Sandile a great deal of power, Jolly allows it to outspeed threats such as Rufflet and Chinchou. Pokemon that can set up entry hazards, such as Dwebble, aid Sandile immensely. Fire-types such as Houndour also make good teammates, as they can deal with threats such as Snover with ease. However, note that they add to Sandile's Water-type weakness. Choice Scarf users that can clean up the remains after Sandile has weakened the opponent's team also make fine partners.</p>
+
+<p>The damage calculations given below highlight the amount of havoc which Sandile can cause with Life Orb after a Hone Claws boost:</p>
+
+<ul class="damage_calculation">
+<li>Earthquake vs. 84 HP / 188 Def neutral-natured Ferroseed: 93.9% - 112.2%</li>
+<li>Earthquake vs. 236 HP / 196 Def neutral-natured Eviolite Frillish: 62.4% - 72.8%</li>
+<li>Earthquake vs: 36 HP neutral-natured Dwebble: 99% (Sturdy)</li>
+<li>Fire Fang vs. 84 HP / 188 Def neutral-natured Ferroseed: 100%</li>
+<li>Fire Fang vs. 236 HP / 196 Def neutral-natured with Eviolite Frillish: 20.8% - 26%</li>
+<li>Fire Fang vs. 36 HP neutral-natured Dwebble: 53.1% - 59.1%</li>
+<li>Crunch vs. 84 HP / 188 Def neutral-natured Ferroseed: 41.3% - 47.2%</li>
+<li>Crunch vs. 236 HP / 196 Def neutral-natured Eviolite Frillish: 100%</li>
+</ul>
+
+[Other Options]
+
+<p>Payback can hit faster threats very hard, but Sandile is pretty fast and will rarely be taking hits, making this a very poor choice. Sandile also has access to Toxic, but it is better off attacking. Intimidate can also be used over Moxie to force switches and allow Sandile to take physical attacks occasionally, but Sandile will badly miss the ability to boost its Attack each time it lands a KO, especially on the Choice Scarf set.</p>
+
+[Checks and Counters]
+
+<p>Sandile's awful defensive stats and weaknesses to common Fighting- and Water-type attacks make it extremely easy to counter. Priority attacks in particular are the bane of its existence, meaning Pokemon such as Timburr and Croagunk can take down Sandile without breaking a sweat. Unaware Wooper makes a fine check too, as it ignores any Attack boosts which Sandile might have acquired and OHKOes with STAB Waterfall. Snover can switch into Earthquake and dispose of Sandile with Blizzard or Giga Drain. However, it must watch out for Fire Fang, which will OHKO.</p>

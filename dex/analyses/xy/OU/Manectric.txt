@@ -1,0 +1,56 @@
+Overview
+########
+
+Meet Manectric, a unique Electric-type Pokemon that has a number of outstanding features that allow it to stand out in the Overused environment. Manectric enters the metagame with its Mega Evolution possessing a blistering fast base 135 Speed stat—outspeeding the entire unboosted metagame barring Deoxys-S, Mega Alakazam, and Mega Aerodactyl—as well as an excellent ability in Intimidate. On top of this, it has access to Fire-type coverage moves in Overheat and Flamethrower at its disposal, differentiating it from other Electric-types. With Intimidate, Mega Manectric is able to support its team by weakening physical attackers, making it easier to get your own threats in and obtain momentum. It can further support its team by checking Pokemon such as Scizor, Talonflame, Thundurus, and Togekiss with ease, thanks to its paralysis immunity and resistances to Steel-, Electric-, and Flying-type attacks. Said resistances in addition to its ability also allow it to shrug off priority attacks, giving your team a solid answer to very common threats. However, Mega Manectric is not without its faults, as it has to work with subpar 70 / 80 / 80 bulk, a lack of recovery, the fact almost all of its main special attacks were nerfed, and a narrow movepool that makes it a very predictable Pokemon. On top of this, it occupies your team's Mega Slot and generally has a lower damage output than most attackers, especially for a Mega Evolution. But don't let these flaws discourage you; Mega Manectric is very effective if you can play to its advantages, as it offers incredible offensive utility and support for your team.
+
+Special Attacker
+########
+name: Special Attacker
+move 1: Thunderbolt
+move 2: Volt Switch
+move 3: Overheat
+move 4: Hidden Power Ice
+ability: Lightningrod
+item: Manectite
+evs: 4 Def / 252 SpA / 252 Spe
+nature: Timid
+
+Moves
+========
+
+The move selection is very simple and straightforward; Mega Manectric doesn't have much else to work with, though it has everything it needs to be effective. Thunderbolt is the main Electric-type STAB move of choice for attacking, and Volt Switch is also mandatory in order to gain momentum. Hidden Power Ice has excellent coverage alongside Thunderbolt, and is Manectric's only option to keep it from being bait for Ground- and Dragon-types such as Landorus, Garchomp, and Dragonite. Overheat has a significant amount of power, enough to OHKO common Steel-types such as Excadrill, Lucario, and Ferrothorn.
+
+Set Details
+========
+
+A Timid nature maximizes Mega Manectric's Speed, letting it hit 405 Speed after Mega Evolution and outpace neutral-natured base 85 Speed Pokemon and below at +1 Speed, such as Adamant Dragonite and Gyarados. A Modest nature can be used, but it isn't recommended, as this puts Mega Manectric at 369 Speed, which allows it to be outsped by positive-natured base 120 Speed Pokemon and above, such as Alakazam and Greninja. Overheat is optimal despite the subsequent power drop it inflicts, as Mega Manectric will often be switching in and out due to the hit-and-run nature of the set, and having the guaranteed OHKO on certain threats that Flamethrower can't achieve is too important to pass up.
+
+Usage Tips
+========
+
+Mega Manectric works best as a hit-and-run attacker during the early- and mid-game phases with Intimidate and Volt Switch, and acts better as a cleaner late-game with its base 135 Speed and excellent coverage. With this in mind, one can use the support tactic of bringing Mega Manectric in on a physical attacker it actually can't beat, such as Tyranitar, just to get off Intimidate, and then switch back to one's primary check for the attacker in order to soften the blow it will take. However, make sure to count the cost of switching Mega Manectric in, as it is easily worn down between entry hazards and attacks even after Intimidate due to it having no form of reliable recovery. Be advised that due to Hidden Power's nerf, even Pokemon 4x weak to Ice such as Garchomp are going to need a bit of prior damage before they can be KOed by it reliably, so play conservatively with Mega Manectric until you're in a position with which to take the upper hand either by picking off a weakened foe or getting in an attacker on a weakened threat.
+
+Team Options
+========
+
+As it is only weak to the Ground-type, partners that resist or are immune to Ground-type attacks are effective and easy to pair with Mega Manectric. Landorus-T for instance can help it by forming a dual-Intimidate VoltTurn core, while setting up Stealth Rock to help weaken foes. Mega Manectric hates dealing with hazards of all kinds due to how easily it is worn down, so partners with Rapid Spin or Defog, such as Starmie, Mandibuzz, Latias, and Scizor, all work effectively to keep the field clear. Mega Manectric has issues with all special walls and numerous Assault Vest users, so Pokemon which can beat them by hitting their weaker Defense make for effective partners. Pokemon such as Scizor and Talonflame are examples of hard-hitting physical attackers, both of which can form a VoltTurn core with Mega Manectric.
+
+Other Options
+########
+
+Due to Mega Manectric's shallow movepool, it doesn't have too many other options it can use without being hampered in some way. Flamethrower can be used instead of Overheat if you want a more reliable Fire-type move, but its power will often fall short of getting much-needed KOs. Hidden Power Grass can be used in order to beat Gastrodon and Quagsire, but Mega Manectric loses out on hitting several more relevant threats in OU. Charge Beam can be used to boost Mega Manectric's Special Attack stat, but it will have to give up an important coverage move or the ability to gain momentum with Volt Switch. The boost from Charge Beam is also unreliable and at times can end up costing you a vital turn. Electric Terrain is another option, as it offers a more reliable boost to Mega Manectric, but it only applies to Electric-type moves. It does have the potential to help grounded teammates by keeping them from being put to sleep, but the move's utility is situational at best, and just as with Charge Beam, Mega Manectric has to lose out on either important coverage options or the ability to gain momentum.
+
+Checks & Counters
+########
+
+**Special Walls**: Chansey and Blissey stop Mega Manectric in its tracks as they take pitiful damage from any of its attacks and can heal with either Wish or Soft-Boiled, or inflict status on an incoming teammate. Tyranitar's incredible special bulk thanks to the boost it gets from sand allows it to survive any hit and hit back reasonably hard, even allowing it to trap Mega Manectric with Pursuit as it Volt Switches out. Rotom-H is a hard counter to Mega Manectric, as it resists its entire moveset and can hit it hard with Overheat, use Volt Switch to get the momentum advantage, or inflict status. Specially defensive Heatran can not only switch in on Overheat and get a free boost from Flash Fire, but it can stomach Thunderbolt very easily and either set up Stealth Rock or hit hard with a boosted Fire-type move.
+
+**Ground-types**: Quagsire and Gastrodon wall Mega Manectric if it lacks Hidden Power Grass. Even physically defensive Hippowdon can survive a Hidden Power Ice and KO back with Earthquake. Mamoswine resists Hidden Power Ice and has a neutrality to Overheat thanks to Thick Fat; however, Overheat still 2HKOes it, so it's a shaky check at best if it ends up switching in on a Fire-type move.
+
+**Dragon-types**: Goodra, even without an Assault Vest, is able to stomach a Hidden Power Ice very easily and inflict massive damage. Dragons not 4x weak to Hidden Power Ice, such as Mega Charizard X, Mega Ampharos, and Kyurem-B, can take a Hidden Power Ice and deal serious blows in return. Mega Charizard X is notably dangerous for being able to use Mega Manectric as setup bait.
+
+**Mega Venusaur**: Thanks to its ability Thick Fat and its tremendous bulk, Mega Venusaur is able to switch in even on Overheat or Hidden Power Ice with ease, giving it a free turn to use Sleep Powder or Leech Seed while eventually forcing Mega Manectric out in the process.
+
+**Choice Scarf users**: Most Choice Scarf users, examples being Garchomp or Terrakion, can revenge kill Mega Manectric with ease, especially if it's been weakened beforehand.
+
+**Passive Damage**: Given its hit-and-run nature and no recovery, Mega Manectric gets worn down easily by all forms of entry hazards. Burn and poison status can also put it on a timer, though this can at least be somewhat offset by switching out frequently.

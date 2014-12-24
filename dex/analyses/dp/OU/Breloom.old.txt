@@ -1,0 +1,151 @@
+[Overview]
+
+<p>Breloom is unique; unique in typing, unique in strategy, and perhaps unique in accomplishment as well. As the OU Pokemon with the third lowest Base Stat Total, Breloom is an excellent example of a Pokemon capable of overcoming its middling stats through its access to a fantastic ability, an item that caters specifically to its needs, and a movepool that gives it all the necessary tools to fully utilize its advantages. Breloom's unique typing allows it to switch into top threats such as Tyranitar with ease, and Spore almost guarantees the incapacitation of at least one opponent. Combine that with a multitude of ways to take advantage of Substitute, as well as a unique ability that heals it while granting it immunity to status, and Breloom turns from a mediocre mushroom with middling stats into one of the most difficult Pokemon to deal with in the OU metagame.</p>
+
+[SET]
+name: SubPunch
+move 1: Substitute
+move 2: Focus Punch
+move 3: Spore
+move 4: Seed Bomb / Stone Edge
+item: Toxic Orb
+ability: Poison Heal
+nature: Adamant / Jolly
+evs: 12 HP / 252 Atk / 244 Spe
+
+[SET COMMENTS]
+
+<p>Between Spore, STAB Focus Punch, and its unique ability Poison Heal, Breloom is quite possibly the best user of the SubPunch strategy ever created. The strategy is simple; set up a Substitute, then start firing off brutal STAB Focus Punches. With its massive base 130 Attack and the 150 Base Power of Focus Punch, Breloom's attacks are nearly impossible to shrug off. For example, the standard Life Orb Starmie takes 58.6% - 69.3% from Adamant Breloom's Focus Punch; it is quite difficult to find a Pokemon that can reliably switch into Breloom.</p>
+
+<p>Substitute and Focus Punch are the focus of this set. Substitute allows Breloom to use Focus Punch without fear of interruption, and is especially effective on Breloom because Poison Heal enables it to heal off the HP lost to Substitute in a mere two turns. Spore, Breloom's signature move, is the only 100% accurate sleep-inducing move in the entire game. It not only lets Breloom incapacitate one of its counters on the switch, but also makes it easy for Breloom to set up the first Substitute and start its rampage. Seed Bomb is Breloom's best coverage move, as it is a reliable attack against bulky Water-types, and also dents Rotom-A. However, Stone Edge is more effective against a number of Pokemon that resist Focus Punch, such as Gyarados, Dragonite, and Zapdos.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>252 Attack EVs let this set achieve maximum damage output, while 12 HP EVs achieve maximum healing from Poison Heal. The rest of the EVs are placed in Speed so that Breloom outpaces defensive Suicune and Rotom-A. Breloom can also use a spread of 36 HP / 252 Atk / 224 Spe with a Jolly nature to outspeed defensive Celebi, defensive Zapdos, neutral Heatran, all Empoleon, and the majority of opposing Breloom.</p>
+
+<p>While Breloom is difficult to counter, there are still a couple of Pokemon that give it trouble. Celebi is the most obvious one, as it boasts solid defensive stats, resists both of Breloom's STABs, and has Natural Cure to remove the effects of Spore. Tyranitar can help eliminate Celebi, as it can easily switch into both Psychic and Hidden Power Fire, the only two attacks Celebi regularly carries that are effective against Breloom. If sandstorm isn't your style, Heatran can grab a Flash Fire boost from Celebi's Hidden Power Fire, and can use either Choice Scarf or Shuca Berry to evade taking massive damage from a potential Earth Power. Other issues for SubPunch Breloom include RestTalk Rotom-A, which can absorb Spore and hit back with Shadow Ball, and RestTalk Gyarados, which can shrug off Breloom's attacks and Roar it out. Choice Scarf Tyranitar can deal with both by eliminating the former with Crunch or Pursuit, and the latter with STAB Stone Edge.</p>
+
+[SET]
+name: SubSeed
+move 1: Substitute
+move 2: Leech Seed
+move 3: Spore
+move 4: Focus Punch
+item: Toxic Orb
+ability: Poison Heal
+nature: Impish / Adamant
+evs: 236 HP / 252 Def / 20 Spe
+
+[SET COMMENTS]
+
+<p>While the previous set is geared towards hammering the opponent with powerful STAB attacks, this set aims to stick around and whittle away at the opposing team. Though the SubSeed combination is by no means new, Breloom's unique assets allow it to perform the role in a very interesting way. First, Spore guarantees Breloom not only the ability to incapacitate at least one opponent, but also a free turn to use Substitute or Leech Seed. Second, Toxic Orb + Poison Heal makes it easy for Breloom to replenish the health lost from setting up Substitutes and block incoming status moves. Finally, STAB Focus Punch makes Breloom a veritable threat even without offensive investment, and allows it to hit hard when immediate damage is needed over stalling.</p>
+
+<p>The moveset is fairly self-explanatory. Spore is the best reason to use Breloom, as a 100% accurate sleep move is indispensable. Leech Seed slowly drains the health of foes while replenishing Breloom's, and allows it to bring down even the bulkiest of foes while setting up Substitutes with ease. Substitute synergizes well with both Leech Seed and Poison Heal, as it allows Breloom to take no more than 25% damage per turn while healing nearly as much at the end of each turn. Focus Punch rounds out the set by enabling Breloom to deal significant damage to enemies from behind a Substitute if need be.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>As this set is designed to stall opponents out rather than hit them hard, defensive EVs are preferred. 236 HP EVs provide maximum recovery from Poison Heal, while 252 Defense EVs and an Impish nature allow Breloom to take resisted hits from opponents such as Tyranitar and Gyarados, whom Breloom can effectively wall barring rare coverage moves. The leftover EVs are dropped into Speed to help it outpace opponents such as Skarmory. An Impish nature is preferred to help Breloom take hits, but an Adamant one can be used to increase the power of Focus Punch. An alternative spread of 44 HP / 252 Atk / 212 Spe provides a more offensive approach to the set. The HP EVs provide a Poison Heal number, the Attack investment boosts damage output, and the Speed EVs allow Breloom to outpace neutral Tyranitar.</p>
+
+<p>While Celebi is a nuisance to the previous set, it is even more of a terror for this set, as it takes a pittance from Focus Punch, is immune to Leech Seed, and packs either Psychic or Hidden Power Fire to hit Breloom. Choice Scarf Tyranitar is therefore an invaluable teammate for Breloom. Additionally, Tyranitar brings the extra benefit of instant sandstorm, which negates Leftovers recovery of vulnerable foes and makes Leech Seed more effective at stalling them out. Grass-types in general are dangerous for this set; while they are threatened by Focus Punch, immunity to Leech Seed makes them especially effective checks. Heatran hence works especially well alongside this set, as it can comfortably switch into most Grass-types, and Shuca Berry variants can also take Earth Power from Shaymin and Celebi. Tentacruel also works well as a partner, as it can switch into most Grass-types and proceed to set up Toxic Spikes, which expedite the stalling process. Keep in mind however, that Toxic Spikes will limit the use of Spore to Flying and levitating Pokemon, Steel-types, and Poison-types.</p>
+
+[SET]
+name: All-Out Attacker
+move 1: Spore
+move 2: Facade / Stone Edge
+move 3: Seed Bomb
+move 4: Superpower / Sky Uppercut / Mach Punch
+item: Toxic Orb / Life Orb
+ability: Poison Heal
+nature: Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>While most of Breloom's best sets focus on its ability to use Substitute, this set focuses more on Breloom's massive base 130 Attack and fantastic type coverage. In addition to making it a powerful offensive status absorber, Breloom's Poison Heal ability also gives it constant healing and a devastating 140 Base Power Facade.</p>
+
+<p>As always, Spore is a fantastic move for Breloom. However, it is less of a setup aid on this set, and functions as more of a way to cripple or temporarily take out a counter, which makes it easier for Breloom to take advantage of its excellent power and type coverage. Facade is one of the big draws of this set, as it provides more power than some of Breloom's STAB attacks. Alternatively, Breloom can use Stone Edge alongside Life Orb for a powerful coverage move against Flying-types that resist its dual STAB. Seed Bomb is Breloom's only usable Grass-type STAB, but Breloom has many viable Fighting-type STAB moves. Superpower is its strongest possible initial attack, but the stat drops often force Breloom to switch out. Sky Uppercut is a more consistent Fighting STAB, while Mach Punch gives Breloom a form of priority and lets it pick off weakened targets.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs on this set are fairly straightforward: maximize Attack and Speed as this set should neither take hits nor set up, but simply blast through foes. A Jolly nature lets Breloom outrun neutral base 80 Speed Pokemon and Gyarados. Toxic Orb is the primary item to activate Poison Heal and power up Facade, but Life Orb gives Breloom's relatively weak STABs a little more bite. If running Life Orb, note that Breloom can still switch into Toxic or Toxic Spikes. This lets it gain both the Life Orb power boost and the benefits of Poison Heal, the most notable of which is negating Life Orb recoil.</p>
+
+<p>As this Breloom doesn't have a Substitute to hide behind, it has issues against faster sweepers that can revenge kill it with ease due to its middling stats. Notably problematic Pokemon are Ghost-types such as Rotom-A and Gengar, which are immune to both Facade and Breloom's Fighting-type STAB of choice. A Choice Scarf Pursuit user, such as Scizor or Tyranitar, can help remove these pesky Ghost-types and allow Breloom to deal as much damage as possible. These Pursuit users can also function effectively against Celebi; defensive variants can shrug off even Facade, while offensive variants often carry either Psychic or Hidden Power Fire to easily eliminate Breloom. Gyarados is an issue for Breloom that lack Stone Edge, as is Heatran; the likes of Vaporeon and Suicune can cover these weaknesses.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Mach Punch
+move 3: Seed Bomb / Stone Edge
+move 4: Spore / Facade
+item: Toxic Orb / Life Orb
+ability: Poison Heal
+nature: Adamant
+evs: 12 HP / 252 Atk / 244 Spe
+
+[SET COMMENTS]
+
+<p>While the All-Out Attacker focuses more on breaking through an opponent's defenses with powerful attacks, this set aims to use Swords Dance to boost Breloom's already powerful STAB Mach Punch, circumvent Breloom's middling Speed, and sweep the opponent's team. Between Spore, Poison Heal's recovery and status immunity, and Breloom's solid set of resistances, it's easy for Breloom to find an opportunity to set up Swords Dance and enable a sweep.</p>
+
+<p>Mach Punch is the preferred Fighting-type STAB attack on this set, as after a Swords Dance boost, it allows Breloom to pick off many faster offensive Pokemon. Seed Bomb and Stone Edge are both good choices in the second slot. While Seed Bomb provides secondary STAB and reliable power, Stone Edge hits Gyarados and other Flying-types that would otherwise wall Breloom. The final slot is a toss-up; Spore allows Breloom to incapacitate an opponent, which makes it easier to set up, but Swords Dance-boosted Facade is not only immensely powerful, but also provides excellent neutral coverage alongside Mach Punch, Seed Bomb, or Stone Edge.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>An Adamant nature is used as Mach Punch somewhat negates the need for speed. Maximum Attack provides Breloom with all the power it can get, 12 HP EVs provide optimal healing from Poison Heal, and the remaining EVs are put into Speed to outpace defensive Rotom-A and Suicune. Toxic Orb gives Breloom additional survivability, as well as an immunity to status, which would otherwise incapacitate it. However, Life Orb boosts Breloom's power significantly, and it still has the option of gaining the benefits of Poison Heal by switching into Toxic Spikes or Toxic.</p>
+
+<p>As with any other Breloom set, Celebi causes significant problems for this Breloom if it packs Psychic or a super effective Hidden Power. However, note that Hidden Power fails to OHKO Breloom, while +2 Toxic Orb Facade deals 61-72% damage, while Life Orb Stone Edge deals 57-67%. As such, Breloom's teammates can focus on weakening Celebi with entry hazards to let it break through its most notable counter. Other great counters to this set are faster Pokemon that resist or are immune to Mach Punch, such as Starmie, Gengar, Rotom-A, and Ice Fang or Bounce Gyarados. Tyranitar and Scizor make excellent partners for this set as they have Pursuit to take out many of the Psychic- and Ghost-types that resist Fighting but are weak to Dark. Tyranitar can also punish opposing Flying-types, most notably Zapdos, with its powerful STAB Stone Edge. Between sandstorm, Crunch, and Pursuit, Tyranitar has a multitude of options to wear down Celebi, and can soften it up so that Breloom can take it out later in the game. In the same vein, Zapdos and Rotom-A can deal plenty of damage to many of Swords Dance Breloom's counters with their powerful Electric-type attacks, which might allow Breloom to pick said counters off later in the match.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Spore
+move 2: Superpower
+move 3: Seed Bomb
+move 4: Stone Edge
+item: Choice Scarf
+ability: Poison Heal
+nature: Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>While base 70 Speed isn't very impressive, it's enough to let Breloom run an effective Choice Scarf set. Choice Scarf Breloom can easily incapacitate a faster foe with Spore early on in the match, and then return to revenge kill opponents with its powerful dual STAB. With Choice Scarf, Breloom can outspeed any Pokemon with less than base 130 Speed, and surprise many opponents, such as Starmie, Infernape, and +1 neutral Gyarados, by revenge killing them.</p>
+
+<p>Spore allows Breloom to remove an opponent from play, and is even more effective with the Speed boost from Choice Scarf. Seed Bomb and Superpower make up Breloom's dual STAB combination; Superpower is the preferred Fighting STAB due to its massive power and the hit-and-run nature of this set. Stone Edge rounds out Breloom's type coverage nicely with a super effective hit on Flying-types that wall Breloom's dual STAB, as well as neutral coverage on Celebi and Gengar, which also resist both of Breloom's STAB attacks.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs are fairly straightforward: maximize Attack and Speed, and drop the remainder into HP. A Jolly nature gives Choice Scarf Breloom 393 Speed and lets it outrun all Pokemon with less than base 130 Speed, as well as +1 neutral Gyarados, which it can eliminate with Stone Edge.</p>
+
+<p>As this Breloom is a hit-and-run Pokemon that chooses its targets, dealing with its counters becomes a lot less important. However, with Choice Scarf locking it into a single attack, Breloom's counters become even more notable. Celebi can switch into any of Breloom's attacks with ease and use Natural Cure to wake up as it switches out. RestTalk Rotom-A can also cause problems for Choice Scarf Breloom, as it can mitigate Spore with Sleep Talk, and Breloom's offensive moves do not pose a significant threat to it. Zapdos can deal with these two Pokemon, as they rarely carry attacks that threaten Zapdos, while Zapdos can retaliate with either Toxic or Heat Wave.</p>
+
+[SET]
+name: Double Status
+move 1: Spore
+move 2: Stun Spore
+move 3: Focus Punch / Superpower / Sky Uppercut
+move 4: Seed Bomb / Stone Edge
+item: Toxic Orb
+ability: Poison Heal
+nature: Adamant
+evs: 12 HP / 252 Atk / 244 Spe
+
+[SET COMMENTS]
+
+<p>This set aims to use Breloom as a platform for spreading status around the opposing team. Often, after the opponent switches out their designated sleep absorber, they will head immediately to their Breloom counter; this allows Breloom to take advantage of the switch by paralyzing the incoming Pokemon with Stun Spore, potentially crippling two opponents and remaining healthy enough to take on further members of the opposing team.</p>
+
+<p>Spore is, as always, one of the big draws of this set. Stun Spore capitalizes on the switches created by Spore by crippling faster opponents looking to outrun Breloom. Focus Punch is Breloom's most powerful attack, but without Substitute, Breloom can use it only on predicted switches or on status moves. For this reason, Superpower and Sky Uppercut are viable options to provide Breloom with a more reliable Fighting-type STAB. The final slot is for coverage: Seed Bomb provides secondary STAB, but Stone Edge hits Flying-types hard, and has excellent coverage alongside Breloom's Fighting-type STAB.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Like most sets, 252 Attack EVs maximize Breloom's damage output. 12 HP EVs hit a Poison Heal number, and the rest of the EVs are placed in Speed to outpace defensive Suicune and Rotom-A. An alternative spread of 36 HP / 252 Atk / 224 Spe with a Jolly nature lets Breloom outspeed most defensive Celebi and Zapdos, neutral Heatran, all Empoleon, and the majority of opposing Breloom. Finally, a spread of 236 HP / 248 Atk / 24 Spe with an Adamant nature puts a more defensive spin to the set; it allows Breloom to spread more paralysis throughout the match, at the cost of outspeeding a number of slower offensive Pokemon.</p>
+
+<p>Celebi is absolutely the most difficult opponent for this Breloom to get around, as Natural Cure not only cures the sleep induced by Spore, but also the paralysis induced by Stun Spore. RestTalk Rotom-A also works well as a check, as it can negate Spore with Sleep Talk or eliminate paralysis with Rest. Zapdos and Choice Scarf Tyranitar can switch into most common attacks aimed at Breloom and take out these Pokemon, but Choice Band is generally the superior option for Tyranitar to take advantage of the paralysis that Breloom can spread.</p>
+
+[Other Options]
+
+<p>While most of Breloom's options are covered in the sets listed above, there are a couple of notable moves that might be useful on niche sets. Thunder Punch guarantees a KO on Gyarados, but Stone Edge generally does well enough and offers coverage against Zapdos and Dragonite as well. Bulk Up is an option, but Breloom's 60 / 80 / 60 defenses don't do it any favors. On top of that, many of Breloom's counters are specially based, which limits the defensive value of Bulk Up and makes Swords Dance a significantly more appealing choice.</p>
+
+[Checks and Counters]
+
+<p>If ever there was a Pokemon specifically designed to counter Breloom, it's Celebi. With Natural Cure to shrug off Spore, resistances to Breloom's dual STABs, and a solid super effective attack in STAB Psychic, Celebi has Breloom cornered all day long. However, there are a number of other Pokemon that can deal with Breloom effectively. RestTalk Rotom-A is one of the best Breloom counters as it is capable of dealing significant damage to Breloom with Shadow Ball and can break Breloom's Substitutes with Thunderbolt. RestTalk Gyarados has Intimidate to soften up Seed Bomb and Focus Punch, though Stone Edge can prove problematic.</p>
+
+<p>Once Breloom has successfully put a Pokemon to sleep, it becomes much easier to deal with. Gengar is immune to Focus Punch and resistant to Seed Bomb; this allows it to take Breloom's attacks as needed and hit back with powerful STAB Shadow Ball. Zapdos and Dragonite resists both of Breloom's STABs, and the former can eliminate Breloom with Heat Wave or Hidden Power Ice. However, Stone Edge and Facade can cause problems for them. Aside from these Pokemon, there are still many ways to deal with Breloom. Sets without Substitute can easily be handled by switching a faster Pokemon in on a resisted attack; for instance, Starmie can switch in on a Fighting-type attack, and Jirachi on Seed Bomb, Facade, or Stone Edge. Without Substitute, Breloom is easily revenge killed.</p>

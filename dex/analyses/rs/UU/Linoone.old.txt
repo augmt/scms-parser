@@ -1,0 +1,59 @@
+[Overview]
+
+<p>It learns some interesting moves in Belly Drum, Extremespeed, and Trick, and if played right, can screw up the opponent's entire strategy.</p>
+
+[SET]
+name: Belly Drum
+move 1: Belly Drum
+move 2: Extreme Speed
+move 3: Shadow Ball
+move 4: Hidden Power Ground / Hidden Power Fighting / Substitute
+item: Leftovers / Lum Berry / Salac Berry
+nature: Adamant
+evs: 108 HP / 252 Atk / 12 Def / 136 Spe
+
+[SET COMMENTS]
+
+<p>Go with Salac Berry if you are going with Substitute, although that may not be necessary since the move you will use the most is Extremespeed. Get some reassurance of a switch and Belly Drum / Extremespeed away. If you use Hidden Power Fighting, drop 4 Defense EVs for 4 Speed EVs so you remain faster than Adamant Gligar.</p>
+
+[SET]
+name: Substitute + Flail
+move 1: Substitute / Endure
+move 2: Belly Drum
+move 3: Flail
+move 4: Shadow Ball
+item: Salac Berry
+nature: Adamant
+evs: 120 HP / 252 Atk / 136 Spe
+
+[SET COMMENTS]
+
+<p>Here is where the real damage comes into play. The Quick Attackers and Extremespeeders in UU rip this to pieces. However, this thinking has led few people to use a Pokemon with Flail / Reversal in UU, meaning people have let their guard down as far as having Quick Attackers goes.</p>
+
+[SET]
+name: Choice Band
+move 1: Return / Extreme Speed
+move 2: Shadow Ball
+move 3: Hidden Power Ground / Hidden Power Fighting
+move 4: Trick / Flail / Surf
+item: Choice Band
+nature: Adamant / Lonely
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Sweep a tad with your Choice Band, and when they least expect it, Trick their Walrein or Skarmory with it and screw it for the rest of the match. I don't suggest going with the non-Trick version, but Extremespeed + Trick is illegal. Flail is really just filler, in case you want Extremespeed. Even at 35.4% HP, Flail has the same power as Extremespeed, and it gets more at 20.8% health (100 power), rising again to 200 power if you are lucky enough to take hits that bring you down to 4.2% health. Surf lets you 2HKO Golem if you want to use Extremespeed and don't want to use Flail, but it's mostly filler.</p>
+
+[Other Options]
+
+<p>Endure over Substitute on the Flailer set. Nothing much else really.</p>
+
+[EVs]
+
+<p>Max Attack always. A 270 Speed stat is plenty in UU. For the SubFlail set make sure that Linoone's actual HP stat is not divisible by 4, for example, 300 HP won't work, as you'll be left with 1/4 health after the third Substitute / Sub + Belly Drum, thus weakening Flail. It doesn't matter if you end up with 1, 2, or 3 HP, though.</p>
+
+[Checks and Counters]
+
+<p>Gligar survives an attack and can finish it off. Golem can take one Belly Drummed Hidden Power Ground / Hidden Power Fighting. Aggron blocks those without Hidden Power Fighting / Hidden Power Ground. Cradily can take anything but Hidden Power Fighting and hit Linoone with any attack.</p>
+
+<p>The main way to counter Linoone is to simply just keep attacking it; since it's so fragile, it won't get off its Belly Drum and thus will be countered.</p>

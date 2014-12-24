@@ -1,0 +1,85 @@
+[Overview]
+
+<p>Probably the worst Uber. Offensive sets are either a poor man's Deoxys-A or a poor man's Mewtwo, and defensive sets wish they were Deoxys-D. At least it has Speed going for it.</p>
+
+[SET]
+name: Staller
+move 1: Taunt
+move 2: Toxic
+move 3: Knock Off
+move 4: Recover
+item: Leftovers
+nature: Timid
+evs: 252 HP / 120 Def / 120 SpD / 16 Spe
+
+[SET COMMENTS]
+
+<p>Toxic opponents, Taunt all forms of recovery and status, and toss in a few Knock Offs between Recovers and Taunts. Nothing is getting an Aromatherapy past this.</p>
+
+[SET]
+name: Mixed Sweeper
+move 1: Calm Mind
+move 2: Thunder
+move 3: Ice Beam / Fire Punch
+move 4: Superpower
+item: Leftovers / Lum Berry
+nature: Hasty
+evs: 240 Atk / 252 SpA / 16 Spe
+
+[SET COMMENTS]
+
+<p>Unlike Deoxys-A, this can actually take special hits as it uses Calm Mind to set up. Superpower is to stop Blissey from blocking you. With these EVs, Deoxys-S will 2HKO a 4/252 Blissey 100% of the time, factoring in the Attack drop from Superpower, and it is just faster than a Hasty Deoxys-A, the fastest Pokemon you'll encounter in Ubers (except some Swift Swimmers). If you want Deoxys-S's special attacks to have a bit more power, you can switch to Mild, lower its Attack, and raise its Speed to 176 EVs.</p>
+
+[SET]
+name: Choice Band
+move 1: Superpower
+move 2: Shadow Ball
+move 3: Extreme Speed
+move 4: Fire Punch / Ice Beam
+item: Choice Band
+nature: Hasty
+evs: 252 Atk / 240 SpA / 16 Spe
+
+[SET COMMENTS]
+
+<p>Deoxys-S is not the strongest Choice Band user out there, but its fantastic Speed makes it a good choice. Nothing resists the combo of Superpower and Shadow Ball. Extreme Speed is solely to stop Choice Band Deoxys-A. Ice Beam beats Groudon and Rayquaza, but Fire Punch helps against Forretress and Metagross. Only use Fire Punch if you have Groudon. If you have Fire Punch, you might want to replace the Special Attack EVs with HP, but Ice Beam needs the Special Attack to damage its intended targets.</p>
+
+[SET]
+name: Support
+move 1: Spikes
+move 2: Knock Off
+move 3: Recover
+move 4: Shadow Ball
+item: Leftovers
+nature: Jolly
+evs: 252 HP / 80 Atk / 76 Def / 84 SpD / 16 Spe
+
+[SET COMMENTS]
+
+<p>This attempts to set up Spikes and Knock Off random items. Shadow Ball lets it finish off Latias and Latios and OHKO Deoxys-A.</p>
+
+[SET]
+name: Taunt + Calm Mind
+move 1: Psychic / Ice Beam
+move 2: Calm Mind
+move 3: Taunt
+move 4: Recover
+item: Leftovers
+nature: Timid
+evs: 252 HP / 240 SpA / 16 Spe
+
+[SET COMMENTS]
+
+<p>This set has obvious weaknesses to Dark- and Psychic-types if you go with Psychic and is stopped cold by Kyogre if you use Ice Beam, but it beats Blissey and company one-on-one. Deoxys-S has the Speed to come in on some other Calm Mind users and win any Calm Mind war by Taunting any attempts by the enemy to Calm Mind. The only way this can backfire is if the enemy Calm Minds once while Deoxys-S switches in and is a Pokemon that has a strong non-Psychic attack to hurt Deoxys-S with, such as Latias, Latios, and Kyogre. Other than that, the fastest Taunt user in the game ruins a lot of stuff; try it out and have fun.</p>
+
+[Other Options]
+
+<p>Oh lordy, this Pokemon can do a lot. It can pull off Counter or Mirror Coat (best used with Recover). Deoxys-S gets Light Screen, Reflect, and Safeguard, and it has the Speed to use any of these. Substitute is an option for most Pokemon, but especially things with a lot of Speed, and this Pokemon is all about the Speed. Rock Slide works if you are lucky and want to flinch, as Deoxys-S is fast enough to flinch anything, and it hits both Ho-Oh and Rayquaza. Pursuit is available for other Psychic-types, especially Deoxys-A, but it needs to be used carefully, as some of those Pokemon can do some damage to Deoxys-S if they know it has Pursuit and stay in (you need 172 Special Attack EVs to have a chance to OHKO and 248 Special Attack EVs and a +Special Attack nature to always OHKO a Deoxys-A that stays in). Snatch always allows for some creativity, so don't be afraid to get creative with Deoxys-S.</p>
+
+[EVs]
+
+<p>For most sets, you'll want to get to 440 Speed to be faster than +Speed Deoxys-A, which requires 16 Speed EVs and a +Speed nature or 176 EVs and a neutral nature. Offensive sets should go for maxing the attacking stats, and defensive sets should max HP and then focus on the defenses.</p>
+
+[Checks and Counters]
+
+<p>The most reliable counter is probably Forretress. It can Rapid Spin away Spikes, is immune to Toxic, doesn't take much from physical attacks, doesn't take much from special attacks except Thunder and Fire Punch, and can easily 2HKO with STAB Hidden Power Bug. Tyranitar and Snorlax beat Deoxys-S that lack Superpower. Blissey can stop anything without Taunt or Superpower. Groudon with max HP is rarely 2HKOed by Ice Beam, and it can OHKO or 2HKO back with Earthquake (guaranteed OHKO if it is Choice Banded). Kyogre 2HKOes Deoxys-S with Surf even if it gets a Calm Mind in (it OHKOes otherwise), but it is 2HKOed by Thunder after Deoxys-S uses Calm Mind. It won't take much damage from anything else, however. Latias and Latios can Calm Mind up against any special attacker and easily beat it with their high Special Defense, but hate Knock Off variants. Ho-Oh beats any Deoxys-S that does not have Rock Slide.</p>

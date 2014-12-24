@@ -1,0 +1,43 @@
+[Overview]
+
+<p>Burmy carries on Game Freak's legacy of impeccable Bug-types. However, Burmy introduced a few new things to this line of outstanding insects. Firstly, Burmy was the first Pokemon in this group to be given Bug Bite, while less appealing Bug-types, such as Weedle, Caterpie, and Wurmple, can't do anything original and had to copy Burmy. Secondly, Burmy is the definition of unique, with three alternate formes to differentiate itself from its fellow Bug-types while not at all changing its impressive battling tactics. Unlike other inferior Bugs, Burmy has access to Shed Skin, allowing it to wall and counter Pokemon such as Slowpoke and Baltoy who rely on Toxic to deal damage and are absolutely demolished by its ferocious Bug Bite. Despite having a relatively shallow movepool, Burmy has access to all it needs with Bug Bite, Hidden Power Ice, and Tackle hitting most of Little Cup for neutral damage. Burmy has, without a doubt, knocked Caterpie, Weedle, and Wurmple right off their pedestal and the usage statistics chart for good.</p>
+
+[SET]
+name: Tank
+move 1: Bug Bite
+move 2: String Shot
+move 3: Protect
+move 4: Hidden Power Ice
+item: Oran Berry
+nature: Relaxed
+evs: 196 HP / 204 Atk / 76 Def
+
+[SET COMMENTS]
+
+<p>Thanks to its phenomenal defenses, Burmy can tank hits from just about any Pokemon in LC. Its Bug typing leaves Burmy with only three weaknesses and useful resistances to common attacking types such as Grass. Bug Bite will be Burmy's main method of dealing damage, allowing it to always OHKO 0 HP / 0 Defense Abra. Burmy also has access to the mighty String Shot, allowing it to slow down any switch-in and eat it alive with Bug Bite. String Shot also makes Burmy a great team player, allowing it to slow down fast opponents so Burmy's slower teammates can come in and continue to wreak havoc. Protect is another excellent move and allows Burmy to scout opponent's movesets, particularly those of Taillow and Ponyta, while they fail to touch this defense fortress. Using Hidden Power Ice means Burmy is able to hit Gligar extremely hard; even with no Special Attack EVs, Burmy always 2HKOes 156 HP / 76 SpD Gligar with its powerful chill.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>To showcase Burmy's offensive prowess, take a look at the following damage calculations with the current EV spread and nature:</p>
+
+<ul class="damage calculation">
+<li>Bug Bite vs. 0/0 Abra 105.2% - 136.8%</li>
+<li>Bug Bite vs. 0/0 Carvanha 95.2% - 128.2%</li>
+<li>Bug Bite vs. 36/236 Slowpoke 46.1% - 53.8%</li>
+<li>Bug Bite vs. 220/152+ Bronzor 24% - 28%</li>
+<li>Hidden Power Ice vs. 156/76 Gligar 64% - 80%</li>
+<li>Hidden Power Ice vs. 0/0 Taillow 50% - 70%</li>
+<li>Hidden Power Ice vs. 0/0 Dratini 50% - 60%</li>
+</ul>
+
+<p>As a natural tank and staller, Burmy benefits from Toxic Spikes support. Despite a lack of recovery, Burmy's Bug Bite will often heal it due to the plethora of Oran Berries in LC; however, having Wish support from a sturdy Pokemon such as Lickitung still helps Burmy stay in longer. Burmy also has access to Tackle, which hits Weedle harder, but Burmy will usually lose to Weedle either way due the fact that Weedle 4x resists Bug. If your team has problems with any certain Pokemon who Burmy can pick out and defeat, a custom type of Hidden Power can be used to crush them.</p>
+
+<p>Machop is a great teammate; without Psychic-types in the way, it can smash teams into bits. Burmy can slow down any Ghost-type with String Shot, allowing Machop to come in and demolish them with Payback. Diglett can easily remove Fire- and Steel-types in Burmy's way, and can set up Stealth Rock, which is a huge boon as Burmy causes many switches. Likewise, Spikes support will damage your opponent on every switch-in, aiding Burmy's sweep. Pineco, Burmy's fellow Bug friend, will be able to set up both Stealth Rock and Spikes as well spin away Stealth Rock which is usually a burden on our bag worm. Geodude and Rhyhorn resist all of Burmy's weaknesses and can set up Stealth Rock or demolish opposing teams with String Shot support.</p>
+
+[Other Options]
+
+<p>Burmy has access to Tackle which can be used over Bug Bite to conserve PP. This is important because Burmy's incredible stalling skills often force it to run out of PP and take nasty recoil from Struggle. Burmy also has three cool formes, so use whichever forme you think looks coolest!</p>
+
+[Checks and Counters]
+
+<p>Nothing really outright counters Burmy, except maybe Weedle, Ledyba, and Pidgey. If you can get them in safely and avoid String Shot, they may have a chance to take down the tanking beast. Otherwise, good luck to you.</p>

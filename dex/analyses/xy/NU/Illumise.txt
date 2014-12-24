@@ -1,0 +1,13 @@
+Prankster
+########
+name: Prankster
+move 1: Rain Dance
+move 2: Encore
+move 3: U-turn
+move 4: Thunder Wave
+ability: Prankster
+item: Damp Rock
+evs: 248 HP / 252 Def / 8 Spe
+nature: Bold
+
+This is a sample set while we are currently working on analyses in the workshop.

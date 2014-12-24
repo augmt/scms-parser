@@ -1,0 +1,49 @@
+[Overview]
+
+<p>A good Pokemon to use in the UU metagame as it stops many sweepers and Choice Band users cold in their tracks. It also has Explosion, which can help to eliminate a Pokemon that's causing you trouble and generally gives some shock value. Golem's weaknesses to Earthquake and special attacks are a huge scar, though.</p>
+
+[SET]
+name: RestTalk
+move 1: Earthquake
+move 2: Hidden Power Rock / Rock Slide
+move 3: Rest
+move 4: Sleep Talk
+item: Leftovers
+ability: Sturdy
+nature: Impish
+evs: 252 HP / 240 Atk / 16 Def 
+
+[SET COMMENTS]
+
+<p>Golem's best switch-in opportunity is something with Choice Band, like Fearow and Kangaskhan. From there, try to predict your opponent's next move and attack accordingly. Rest keeps Golem alive, and Ground + Rock covers just about anything you'll encounter in UU.</p>
+
+[SET]
+name: Choice Band
+move 1: Earthquake
+move 2: Rock Slide / Hidden Power Rock
+move 3: Hidden Power Bug / Double-Edge
+move 4: Explosion
+item: Choice Band
+ability: Rock Head
+nature: Adamant / Impish
+evs: 252 HP / 252 Atk / 4 Spe
+ 
+[SET COMMENTS]
+
+<p>A much more offensive Golem. Hidden Power Bug hits Grass types like Meganium harder than your other moves, as well as covering Solrock and Lunatone, but cannot be used with Hidden Power Rock.</p>
+
+[Other Options]
+
+<p>With Block you can trap something on the switch, but the chance that Golem will be beating whatever switches in on him is slim. Its prime use is trapping Quagsire or some other slower Pokemon and then Exploding on it, but beware Damp or Protect Quagsire. Toxic can be used to wear things like Meganium and Solrock down, but won't work if your opponent has Aromatherapy or Heal Bell. Counter is a great surprise: Golem can survive many Earthquakes and Fighting hits to bounce them back for a quick KO. Roar is useful for Baton Pass chains.</p>
+
+<p>Golem can use Body Slam to paralyze a few of its counters, and can follow up with Rock Slide to lock them into paralysis and flinch until they faint. Focus Punch can hit some things hard on the switch, but it has the same power as Earthquake after STAB, so that won't generally do much for you.</p>
+
+[EVs]
+
+<p>Just put a load in HP and Attack, and a little in Defense. Defensive Golem should use Impish, while Choice Banders can use Impish or Adamant. A little Speed can be welcome to Explode on slow stuff, though. 72 EVs is enough for most Vileplume. Trying to outspeed Solrock or Walrein isn't worth the investment.</p>
+
+[Checks and Counters]
+
+<p>Golem has trouble with Solrock. Levitate grants it immunity to Earthquake, and with stacked HP and Defense and a faster Reflect, it is not easy to get past. Lunatone has less Defense, but the same typing and ability as well as that super effective Ice Beam to watch out for. Grasses generally make Golem shiver with fear, especially those who have Earthquake resistance, like Meganium and Bellossom. Vileplume and Victreebel OHKO him with any Grass move as well, but they don't like eating repeated STAB Earthquakes. Waters are a problem as well as that's Golem's secondary 4x weakness. Blastoise, Politoed and Poliwrath can all take a beating and Surf or Hydro Pump away. Walrein is weak to Rock, but if it can get in on another move, Golem is still toast. Quagsire has the advantage of the Rock resistance, and can also use STAB Earthquake or Surf, or Ice Beam. Misdreavus is immune to Double-Edge, Explosion, and Earthquake which is a great hindrance, especially for Choice Banders.</p>
+
+<p>Besides all this, any kind of decently powered special attack will really mess up Golem, if it doesn't end up KOing him. Not all special attackers like to come into Golem Earthquakes or Rock Slides though.</p>

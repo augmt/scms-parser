@@ -1,0 +1,27 @@
+Defensive
+########
+name: Defensive
+move 1: Moonblast
+move 2: Wish
+move 3: Protect
+move 4: Aromatherapy / Toxic
+ability: Flower Veil / Symbiosis
+item: Leftovers
+evs: 252 HP / 232 Def / 24 SpD
+nature: Calm
+
+This is a sample set while we are currently working on analyses in the workshop.
+
+Offensive Calm Mind
+########
+name: Offensive Calm Mind
+move 1: Calm Mind
+move 2: Moonblast
+move 3: Psychic
+move 4: Aromatherapy / Substitute
+ability: Flower Veil / Symbiosis
+item: Leftovers
+evs: 132 HP / 252 SpA / 124 Spe
+nature: Modest
+
+This is a sample set while we are currently working on analyses in the workshop.

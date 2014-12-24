@@ -1,0 +1,54 @@
+Overview
+########
+
+Barbaracle can become a fearsome sweeper due to its access to Shell Smash, one of the best boosting moves in the game, and its decent Speed and bulk, which let it set up and sweep in situations where other Shell Smash users, such as Crustle and Carracosta, cannot. In addition, Barbaracle's movepool contains some nice coverage moves, which let it break through Pokemon that would otherwise counter it. However, if Barbaracle's Lum Berry is gone, any kind of status will cripple it and stop its sweep, and its bulk, while good, is nowhere near enough to take hits from the powerful attackers in the tier. It is also vulnerable to almost all priority users in NU after Shell Smash lowers its defenses. Last but not least, Barbaracle's one-dimensionality and reliance on either inaccurate or weak STAB moves can be a hindrance. However, if you use it correctly, Barbaracle should have no trouble sweeping through weakened or unprepared teams.
+
+Shell Smash Sweeper
+########
+name: Shell Smash Sweeper
+move 1: Shell Smash
+move 2: Razor Shell
+move 3: Stone Edge
+move 4: Cross Chop
+ability: Tough Claws
+item: Lum Berry / Life Orb
+evs: 4 HP / 252 Atk / 252 Spe
+nature: Jolly
+
+Moves
+========
+
+Shell Smash is the main reason to use Barbaracle, as it increases its Attack, Special Attack, and Speed stats by two stages each, allowing it to outspeed most of the metagame. Razor Shell is Barbaracle's primary STAB move because it is boosted by Tough Claws, making it more powerful than Stone Edge. Stone Edge is less accurate than Razor Shell but is very useful to hit Pokemon that resist Water, such as Ludicolo and Exeggutor. Cross Chop, despite its poor accuracy, is important for hitting Normal- and Steel-types such as Audino, Ferroseed, and Klinklang. For the last moveslot, Grass Knot and X-Scissor are two other options; Grass Knot is an excellent lure for Water-types such as Seismitoad, while X-Scissor hits Grass-types such as Exeggutor and Tangela. In addition, both moves are boosted by Tough Claws.
+
+Set Details
+========
+
+In order to prevent the effects of crippling status moves such as Thunder Wave and Will-O-Wisp, Lum Berry is the preferred item. Life Orb, on the other hand, gives Barbaracle a significant power boost, allowing it to secure KOs on certain Pokemon. Tough Claws is the only ability that should be considered: it gives a nice boost to Razor Shell and Cross Chop, and Sniper and Pickpocket are too luck-based and situational, respectively. Attack and Speed EVs are maxed out in order for Barbaracle to hit as fast and hard as possible. Jolly is the best nature for this set, as it lets Barbaracle outspeed Choice Scarf users with base 95 Speed or more. An Adamant nature is another option for more power, but Jolly is nearly always preferred.
+
+Usage Tips
+========
+
+Barbaracle should be brought in on something that cannot status or heavily damage it, such as a Pokemon Choice-locked into a resisted move. It should not, however, be brought in before the opponent's walls are weakened, as otherwise, it has a much lower chance of sweeping. Shell Smash should always be used first. After setting up, proceed to attack with Razor Shell or a coverage move.
+
+Team Options
+========
+
+As with all offensive Pokemon, Barbaracle appreciates the presence of entry hazards to weaken the opposing Pokemon. Stealth Rock guarantees that Barbaracle will OHKO 4 HP Mesprit and Feraligatr with +2 Stone Edge, while Stealth Rock and one layer of Spikes allow it to OHKO specially defensive Seismitoad 100% of the time. Ferroseed, Crustle, and Qwilfish are all good Stealth Rock and Spikes users. Pokemon that can easily KO Barbaracle's counters or set up on them, as well as those that can punch holes in the opponent's team, are much appreciated to make it easier to sweep late-game. Magmortar and Sceptile are two good partners, as they can come in on Grass-types and Water-types, respectively, and either get a free attack off or, in Sceptile's case, set up a Substitute. Other strong special attackers, such as Typhlosion, Accelgor and Samurott are also important for eliminating physically defensive Pokemon that ruin Barbaracle. Bulky Grass-types such as Gourgeist and Tangela are great counters to Barbaracle but can also act as good teammates because they can counter Water-types that give Barbaracle trouble.
+
+Other Options
+########
+
+Barbaracle does not have very many other options. A Shell Smash set with more HP and less Speed investment could be used to take more hits after setting up, but it would be outclassed by bulkier Shell Smash users such as Carracosta. A set using Taunt and Stealth Rock can be used to stop most leads. White Herb is a decent item choice to restore Barbaracle's defenses after it lowers them with Shell Smash, but Lum Berry or Life Orb is usually preferred for the protection from status and the extra power, respectively. Barbaracle's movepool contains alternative coverage moves such as Earthquake, which hits Poison-types such as Garbodor and Qwilfish harder, and Poison Jab, which hits Grass-types slightly harder. Despite this coverage, they are situational and generally should not be used over the listed moves.
+
+Checks &amp; Counters
+########
+
+**Water-types**: Water-types, Seismitoad and Poliwrath in particular, can take all of Barbaracle's moves barring Grass Knot and severely damage or KO it in return. Qwilfish is physically bulky and has Intimidate to take a few hits from Barbaracle, but it lacks the super effective STAB moves the other two have.
+
+**Grass-types**: Grass-types, such as Vileplume, Gourgeist, and Tangela, have enough bulk to take a Stone Edge or even a X-Scissor and can easily OHKO Barbaracle with their 4x super effective STAB moves. This is compounded by the fact that Barbaracle's most commonly used move is Razor Shell, meaning these Pokemon can easily switch in and deal damage.
+
+**Physical Walls**: Physically bulky Pokemon such as Granbull can take a boosted hit from Barbaracle and severely weaken or KO it. If Barbaracle's Lum Berry is gone, they can also threaten it with status, as it cannot sweep when burned, poisoned, or paralyzed.
+
+**Gurdurr**: Eviolite Gurdurr can take all of Barbaracle's moves at +2 and easily OHKO it with Drain Punch. It can also take a Razor Shell after switching into Stone Edge or entry hazards once as well.
+
+**Priority**: Common priority moves in the tier, such as Sucker Punch and Mach Punch, can take out Barbaracle once it has lowered its defenses with Shell Smash. Pawniard and Kangaskhan are two good Sucker Punch users, while Gurdurr is an excellent Mach Punch user.

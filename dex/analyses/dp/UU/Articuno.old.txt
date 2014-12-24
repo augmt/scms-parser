@@ -1,0 +1,51 @@
+[Overview]
+
+<p>With its sheer bulk and excellent support movepool, Articuno definitely lives up to its reputation as one of the legendary birds. Unfortunately, its Ice / Flying typing gives it a 4x weakness to Rock-type moves, including the ubiquitous Stealth Rock, which removes 50% of Articuno's health upon entry. Despite this disadvantage, Articuno's enormous base 125 Special Defense and respectable base 90 HP give it more than enough reason to be considered when making a team. It also makes an incredible team player since it has access to Heal Bell, allowing it to remove status ailments from fellow teammates. Articuno reaches a modest Speed of 295, enough to outspeed a respectable amount of Pokemon, and to Pressure stall opposing teams with Toxic and Substitute.</p>
+
+[SET]
+name: SubRoost
+move 1: Substitute
+move 2: Roost
+move 3: Ice Beam
+move 4: Toxic
+item: Leftovers
+nature: Timid
+evs: 252 HP / 32 SpD / 224 Spe
+
+[SET COMMENTS]
+
+<p>This set aims to utilize Articuno's excellent natural bulk and great Speed to stall opposing Pokemon. The idea is to come into an attack that Articuno resists or takes little damage from, force a switch, and get a Substitute up. From there, use Toxic on the opponent and outstall it using a combination of Roost and Substitute. Taking Articuno's ability Pressure into account, the opponent will likely run out of PP before it manages to KO Articuno. Steel-types are immune to Toxic so there is no point in trying to outstall them unless they have moves with low PP. Poison-types are immune as well, although most Poison-type Pokemon have secondary typings that are weak to Ice. For example, Venusaur, probably the most common Poison-type Pokemon in the metagame, is outsped and destroyed by Articuno's Ice Beam. Other Pokemon that are immune to Toxic, such as Toxicroak, are mostly fragile and can be taken out with relative ease.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given Speed EVs enable Articuno to outspeed base 80 Speed Pokemon, such as Venusaur, Blaziken, and Life Orb Milotic. This allows it to switch in regardless of whether Stealth Rock is up and Roost off any damage. 248 HP EVs can be considered as they allow Articuno to switch into Stealth Rock more than twice.</p>
+
+<p>Steel-types cause problems for Articuno as they are immune to Toxic and resistant to Ice Beam. Bulky Fighting- and Ground-types such as Hitmontop and Donphan make excellent teammates since they both have access to Rapid Spin to remove the lethal Stealth Rock, as well as powerful STAB moves to deal with Steel-types.</p>
+
+[SET]
+name: Support
+move 1: Ice Beam
+move 2: Roost
+move 3: Roar
+move 4: Heal Bell / Toxic
+item: Leftovers
+nature: Calm
+evs: 252 HP / 252 SpD / 4 Spe
+
+[SET COMMENTS]
+
+<p>Articuno has enough bulk to support its team efficiently. With access to Heal Bell, it can heal itself and its fellow teammates of status ailments. Heal Bell also complements Articuno's ability to stall other Pokemon with Roost and its ability, Pressure. Toxic is an alternative to Heal Bell and is great for dismantling bulky walls such as Chansey and Milotic, forcing them to switch out. Ice Beam is Articuno's sole reliable STAB move and has great overall coverage. Roar is especially annoying if your team can provide Articuno with entry hazard support. As it shuffles the opponent's team, it allows you to scout as well as rack up residual damage.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Due to Articuno's typing, it lacks the ability to switch into most physical attacks. For this reason, bolstering its Defense stat is often a futile task. Investing 252 EVs into Articuno's Special Defense stat, on the other hand, allows it to be a great tank and sponge almost any special attack with ease. Articuno is also helpful against Rain Dance teams as both Ludicolo and Gorebyss fail to 2HKO it.</p>
+
+<p>This set appreciates entry hazards to maximize Roar's effectiveness. Donphan and Rhyperior make good teammates as they both have excellent Defense, a resistance to Rock-type moves, and the ability to set up Stealth Rock. Light Screen and Reflect are decent alternatives for the fourth moveslot, as they can help sweepers set up with greater ease.</p>
+
+[Other Options]
+
+<p>Besides what has already been mentioned, there aren't a lot of other options. Articuno has usable Speed and Special Attack stats, which could work on a Life Orb set with a moveset of Ice Beam / Hidden Power Flying / Roost / Ancient Power. As for support options, Articuno can use Haze to remove stat boosts from slower opponents, such as Curse Registeel or Calm Mind Slowbro, or set up Sunny Day or Rain Dance for a teammate. However, Pokemon such as Registeel and Uxie can also set up weather, and have the advantage of not being weak to Stealth Rock. A RestTalk set could be used with Ice Beam and Roar, but Articuno's Stealth Rock weakness severely hampers its effectiveness.</p>
+
+[Checks and Counters]
+
+<p>Articuno lacks a solid offensive movepool, meaning there are plenty of Pokemon that can comfortably switch into its attacks. However, due to its ability to function as a great Toxic staller, Articuno lacks many solid counters. Steel-types in general have little to fear as they are immune to Toxic, take pitiful damage from Ice Beam, and can severely dent Articuno with super effective Steel- or Rock-type moves, such as Iron Head and Stone Edge. Electric-type Pokemon such as Rotom and Manectric outspeed Articuno and can either use Substitute to block an incoming Toxic or fire off Thunderbolts. Encore users such as Clefable, who is also immune to Toxic, can cause severe problems for Articuno, locking it into one move for several turns. Opposing sweepers can take advantage of such opportunities to set up on Articuno; alternatively, bulky walls can cripple Articuno with a status-inducing move, such as Toxic or Thunder Wave.</p>

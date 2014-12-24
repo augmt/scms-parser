@@ -1,0 +1,54 @@
+Overview
+########
+
+Throh's excellent HP and good defenses give it solid overall bulk. In addition, it has decent offensive presence which can be further bolstered by Bulk Up and Guts, and Bulk Up's Defense boosts can make Throh rather hard to take down from the physical side. Throh's biggest niche is its access to STAB Circle Throw, a very useful phazing attack that is especially potent in conjunction with entry hazards. However, Throh suffers from a poor Speed stat and is forced to rely on Rest for recovery, and it faces stiff competition from the likes of Hariyama and Gurdurr, which hit harder and have priority attacks to boot.
+
+Bulk Up
+########
+name: Bulk Up
+move 1: Circle Throw
+move 2: Knock Off / Sleep Talk
+move 3: Bulk Up
+move 4: Rest
+ability: Guts
+item: Leftovers / Chesto Berry
+evs: 252 HP / 4 Def / 252 SpD
+nature: Careful
+
+Moves
+========
+
+Circle Throw is a STAB attack with a great deal of utility thanks to its phazing effect; it punishes opponents trying to set up at the same time as Throh as well as checks and counters trying to switch in. Knock Off has great neutral coverage alongside Circle Throw. It most notably hits Ghost- and Psychic-types for super effective damage, and depriving the foe of its held item is always useful. However, running Knock Off means that Throh has to forego Sleep Talk, in turn forcing it to forego Leftovers in favor of Chesto Berry. Additionally, foregoing Sleep Talk means that Throh is a sitting duck for two turns unless you have cleric support. Sleep Talk lets Throh function whilst asleep, though running it instead of Knock Off makes Throh completely useless against Ghost-types. Bulk Up provides an increase to Throh's Attack and Defense, allowing it to pose as more of an offensive threat whilst increasing its physical bulk. Rest is Throh's sole means of recovery. When equipped with a Chesto Berry, Throh will be able to wake up immediately after its first use of Rest.
+
+Set Details
+========
+
+Guts is the ability of choice on this set because it increases Throh's Attack when afflicted with status. Leftovers grants Throh much-appreciated passive recovery, whereas Chesto Berry guarantees that Throh will wake up immediately after having regained health with Rest. Chesto Berry should only be used if Throh is running Knock Off.
+
+Usage Tips
+========
+
+Throh can be brought in on a Pokemon that it scares out and proceed to set up. Weaker physical attackers can be rendered setup bait for Throh. If it is running Sleep Talk rather than Knock Off, Throh should not be setting up if there is a Ghost-type on the opponent's team. Use common sense to judge when to use Rest, as Throh will either have to stay in for two turns while being reliant on Sleep Talk, or switch out to let a cleric wake it up (The latter only applies to Chesto Berry variants after their Chesto Berry has been consumed.) Being badly poisoned or burned isn't favorable for Throh in the long run, so Throh may want to use Rest some point soon after having been afflicted with one of those statuses. Once Throh has accumulated some boosts, Circle Throw is the best thing to use in most scenarios. Circle Throw's phazing effect is especially useful when an opponent tries to set up or brings in a non-Ghost-type check. Use Knock Off if you predict a Ghost- or Psychic-type switch-in.
+
+Team Options
+========
+
+Throh likes having teammates that can set up hazards, such as Garbodor and Ferroseed, because it is going to be doing a lot of phazing. The latter makes for a particularly good choice as it resists Fairy and Psychic while Throh resists Knock Off, which cripples Ferroseed. Cleric and Wish support works wonderfully with a set such as this; Throh can be awoken from its sleep after using Rest, and Wish will be able to heal Throh. Lickilicky and Audino are great examples of Pokemon capable of providing this support, as they have access to Heal Bell, can take hits well, and pass large Wishes thanks to their great HP. Pursuit trappers such as Liepard and Sneasel work well alongside Throh, as they can dispose of, or, at the very least, badly weaken Ghost- and Psychic-types.
+
+Other Options
+########
+
+When considering other options for Throh, one must bear in mind that it can't really afford to give up the main options listed. Throh can make rather hefty Substitutes thanks to its great HP; Substitute will protect Throh from status and less powerful attacks. Taunt is a possibility for its surprise value and can prevent slower opponents from setting up. Toxic can cripple walls. Storm Throw is a STAB attack whose guaranteed critical hit rate allows Throh to get past boosted opponents, though Circle Throw's phazing essentially does this, and Circle Throw is a more effective utility option in general. Superpower is the strongest attack Throh gets, but it dislikes the stat drops; thus, the move should only be used if Throh is being used as an attacker on a Trick Room team. Throh gets Stone Edge as an alternative coverage option, but Knock Off is preferable for hitting Ghost- and Psychic-types. Throh can opt for Poison Jab as a coverage move against Fairy-types, but Knock Off is far more useful otherwise. Throh has access to the elemental punches, which are useful against specific threats, but Throh can't spare a moveslot for any of them. Finally, an Assault Vest set is a possibility on account of Throh's bulk and decent offensive movepool, though Hariyama is more preferable for this role, as it hits much harder and has priority for picking off weakened foes.
+
+Checks and Counters
+########
+
+**Faster Flying-type Attackers**: Pokemon such as Swellow and Dodrio will be able to inflict a great amount of damage on Throh, even after a few uses of Bulk Up.
+
+**Ghost-types**: Ghost-types aren't susceptible to Throh's phazing attempts thanks to their immunity to Circle Throw. Substitute + Disable variants of Haunter will be able to wall Throh by taking a hit with Substitute then disabling Knock Off.
+
+**Fairy-types**: Certain Fairy-types, including Granbull, Slurpuff, and Togetic, take little damage from Circle Throw and can hit Throh with their super effective STAB moves. However, Togetic will not enjoy being deprived of its Eviolite by Knock Off.
+
+**Psychic-types**: Bulky Psychic-types such as Musharna can sponge hits from Throh and strike it back with a super effective STAB attack.
+
+**Taunt**: Taunt is problematic for Throh, as it temporarily deprives Throh of the ability to set up and regain HP.

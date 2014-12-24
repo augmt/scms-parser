@@ -1,0 +1,61 @@
+[Overview]
+
+<p>With a huge 130 base HP stat, decent stats all around, an excellent offensive movepool coverage-wise, and a great ability in Water Absorb, Lapras looks awesome in theory. However, it has major issues in practice. First of all, Lapras is outclassed by other OU Water-types, notably Vaporeon (who also has Water Absorb), Milotic, and Swampert, in the role of bulky Water. This is because many of the Pokemon that bulky Waters typically check, such as Tyranitar and Metagross, beat Lapras one-on-one due to its irksome secondary Ice typing, which gives it many qualities undesirable in a bulky Water, most notably a weakness to Rock and a neutrality to Steel. In addition, Lapras is outclassed as a Dragon Dance sweeper by other Pokemon with higher offensive stats, physical STAB, and a better physical movepool, such as Salamence. Finally, Lapras is outclassed as an all-purpose special wall by the likes of Regice due to the fact that Lapras has two special weaknesses to common attacking types, namely Electric and Grass, and is also vulnerable to all forms of passive damage and status.</p> 
+
+<p>In general, Lapras works best against teams that rely on defensive type synergy and resistances, as opposed to those that rely on dedicated special walls to counter special attackers. Lapras has one major niche in OU: Toxic enables it stall out bulky Waters such as Milotic, and Roar enables it to phaze boosting Waters such as Suicune, and rack up Spikes damage as well. However, note that if it lacks Roar, Lapras is a poor answer to Suicune, as Suicune will then be able to Pressure stall it with ease.</p>
+
+[SET]
+name: RestTalk
+move 1: Ice Beam
+move 2: Thunderbolt / Roar
+move 3: Rest
+move 4: Sleep Talk
+item: Leftovers
+ability: Water Absorb
+nature: Bold 
+evs: 252 HP / 164 Def / 92 SpA
+
+[SET COMMENTS]
+
+<p>Switch this into a bulky Water and predict accordingly; either use Roar to rack up hazard damage, or hit the incoming Electric-type with Ice Beam. Otherwise, the idea of this set is to function as a general tank and status absorber. Rest and Sleep Talk enable Lapras to stay alive for long periods of time, recover its health back, and not be dead weight when asleep.</p>
+
+<p>Thunderbolt gives Lapras a good answer to Water-types such as Vaporeon, while Roar makes it a reliable phazer that capitalizes on Spikes support. Note that Roar only really works alongside Spikes support; without it, Lapras will be ironically stalled to a rather boring death by the status-inflicting Water-types it usually likes to switch into. Forgoing Thunderbolt for Roar, however, leaves Lapras with major issues with special walls such as Blissey and Snorlax. The latter in particular can fearlessly set up multiple Curse boosts on it and proceed to do huge damage to your team.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Maximize Lapras's HP to optimize its tanking ability. The given spread provides roughly equal defenses so that Lapras can take both physical and special hits decently enough. The Special Attack investment enables Lapras to deal out decent damage to the Water-types it can absorb status from, such as Toxic Milotic.</p>
+
+<p>This set works best alongside Spikes support, but unfortunately, none of the three most common OU Spikes users synergize particularly well with Lapras: Skarmory shares a crippling Electric weakness with Lapras, while Cloyster shares the exact same typing as Lapras. Your best bet for Spikes support is Light Screen or specially defensive variants of Forretress, which can defend itself to some extent against neutral special hits, such as Gengar's Thunderbolt. Despite the Electric weakness, however, Skarmory is a decent Spikes user because it can switch into and set up on Blissey and Snorlax, while Curselax forces Forretress to Explode at some stage. Furthermore, Forretress and Skarmory make decent switch-ins to Metagross, and the latter also counters Heracross; both are foes that Lapras fears. Swampert makes for an excellent partner to Lapras thanks to its ability to check Tyranitar and Metagross; it is also immune to the Electric-type attacks that Lapras hates. However, beware as Swampert has issues with Electric-types that utilize Hidden Power Grass, which most do nowadays.</p>
+
+[SET]
+name: Utility
+move 1: Ice Beam
+move 2: Thunderbolt
+move 3: Toxic / Heal Bell
+move 4: Roar
+item: Leftovers
+ability: Water Absorb
+nature: Bold
+evs: 252 HP / 164 Def / 92 SpA
+
+[SET COMMENTS]
+
+<p>This Lapras, while bereft of recovery aside from Water Absorb, can provide very effective team support. The idea behind this set is to switch into Water-types and heal off any prior damage by absorbing Surf, then proceed to deal out damage, phaze, spread status, or provide cleric support. Toxic is preferred over Heal Bell as catching the likes of Raikou on the switch disables it from sweeping, but Heal Bell is also a good option because Lapras is a relatively durable cleric. On the flip side though, Toxic leaves Lapras vulnerable to status itself, especially poison, while Heal Bell often renders it unable to inflict decent residual damage. Roar is an important aspect of the set as it enables Lapras to capitalize on forced switches, rack up Spikes damage, and also phaze opponents that try to set up on it. It is possible to forgo Roar to accommodate both Toxic and Heal Bell, but this is inadvisable.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread is standard; max HP optimizes its ability to take hits in general. The Defense EVs are invested to roughly equal out both of Lapras's defenses. The rest of the EVs are placed into Special Attack so that Lapras packs a little more offensive punch with its Ice Beams and Thunderbolts.</p>
+
+<p>If Lapras chooses not to use Heal Bell, physically defensive Heal Bell Celebi makes a good partner as it resists the Fighting-, Electric-, and Grass-type attacks that plague Lapras's existence, while also removing Lapras's vulnerability to status. Note that Heracross, OU's premier Fighting-type, beats them both unless Celebi has substantial Speed investment, so it's advisable to also pack a Heracross counter, such as Skarmory. Swampert makes a decent partner thanks to its resistances to Rock and Steel, as well as its immunity to Electric; it can also check threats to Lapras, such as Tyranitar and Metagross. Both share a weakness to Grass though, so be sure to pack a teammate that resists Grass, such as Skarmory or Salamence, which are both good Heracross checks as well. Claydol makes an excellent partner to Lapras thanks to its ability to check Tyranitar, as well as its key resistances to Rock and Fighting, and its immunity to Electric. In addition to spinning away the Spikes that wear Lapras down, Claydol can also bait Water moves from the likes of Milotic to heal Lapras. Yet again, though, Heracross beats both Claydol and Lapras, so Skarmory or another of the aforementioned Heracross counters is recommended.</p>
+
+[Other Options]
+
+<p>Lapras has an interesting boosting move in Dragon Dance and could potentially occupy a niche as a bulky boosting sweeper with Dragon Dance and 101 HP Substitutes, as well as either the unresisted combination of Hidden Power Ground and Ice Beam, or Return and Surf. Surf is a decent STAB move that provides some coverage; not only is it Lapras's best option against Metagross, it might allow Lapras to take Tyranitar by surprise and hit it for good damage. Surf can also nail Houndoom, but note that Surf forces Lapras to forgo one half of the BoltBeam combination--usually Thunderbolt. There's always Hydro Pump as well, but this is inferior to Surf on a tank such as Lapras due to its lower accuracy and PP.</p>
+
+<p>Sing is a good option for the Utility set as it lets Lapras put an unsuspecting switch-in to sleep, but its accuracy is shaky, and it leaves Lapras vulnerable to status and unable to wear down its counters. Psychic can catch Heracross off-guard, but is generally not worth it as it provides no notable coverage outside of Heracross. Perish Song is an interesting option for an alternative phazing move that can deal with threats such as the feared last-Pokemon Calm Mind Suicune; it can also work decently in conjunction with Chaosbreon. Finally, Lapras can function as a decent Curse user, but it is weak to the most common special type in the game, and is easily OHKOed or 2HKOed by all STAB Thunderbolts.</p>
+
+[Checks and Counters]
+
+<p>Special walls in general, such as Blissey and Snorlax, shrug off anything that Lapras can throw at them; Curse Snorlax can even set up on Lapras that lack phazing utility, while Blissey can heal its teammates of status that Lapras has spread. Specially defensive and Light Screen Forretress variants can use Lapras as Spikes fodder if Lapras is not carrying Surf or Hydro Pump. Regice laughs at anything Lapras throws at it and can hit it hard with Thunderbolt. Dusclops completely walls Lapras and can status it with Will-O-Wisp or Toxic, and its Pressure ability lets it beat even RestTalk Lapras.</p>
+
+<p>Heracross has the Special Defense to take hits from Lapras, and can hit it with a super effective Fighting move. In addition to being immune to Toxic, Metagross can also take all of Lapras's hits, then swiftly 2HKO it with Meteor Mash. Tyranitar needs to watch out for Surf and Toxic, but once it's safely in, it can dispatch of Lapras with a powerful Rock Slide or set up with Substitute or Dragon Dance on a predicted switch; uninvested Tyranitar outspeeds Lapras by one point. Houndoom is a good answer to Lapras as it is not even 3HKOed by Thunderbolt and can deal a good 45% with Fire Blast. However, as with Tyranitar, it needs to be cautious of Surf and Toxic. Specially defensive Zapdos is a decent answer to Lapras despite being hit super effectively by Ice Beam; Ice Beam is a 3HKO while Zapdos's Thunderbolt 2HKOes Lapras. SubCM Jirachi makes an excellent Lapras counter as it can boost up to make its Substitutes unbreakable, is immune to Toxic, and immediately threatens Lapras with Thunder or Thunderbolt. SubCM Raikou is in a similar boat to Jirachi, but needs to watch out for Toxic on the switch. Lanturn and Magneton both resist the BoltBeam combination and can hit Lapras for super effective damage with their STAB Electric moves. Thick Fat Hariyama resists Ice moves and can hit Lapras hard with Cross Chop.</p>

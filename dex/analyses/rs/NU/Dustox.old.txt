@@ -1,0 +1,57 @@
+[Overview]
+
+<p>Dustox is mostly inferior to other Pokemon if you use a sweeper set due to its low Attack, but its Special Defense is good enough to stop most pure special sweepers. It should only be used on NU teams.</p>
+
+[SET]
+name: Special Wall
+move 1: Light Screen
+move 2: Moonlight
+move 3: Whirlwind
+move 4: Sludge Bomb
+item: Leftovers
+nature: Careful
+evs: 252 HP / 4 Atk / 252 SpD
+ 
+[SET COMMENTS]
+
+<p>Whirlwind's primary use is to stop the common Substitute Baton Passers from getting far. Sludge Bomb is used over other attacks for the power and 30% poison chance, but if you really want to be able to take on a specific Pokemon better, don't hesitate to replace it. Light Screen and Moonlight absolutely shut down any special attacker you might see, except maybe Girafarig.</p>
+
+[SET]
+name: Physical Attacker
+move 1: Sludge Bomb
+move 2: Aerial Ace
+move 3: Hidden Power Ground
+move 4: Sleep Talk
+item: Choice Band
+nature: Jolly / Adamant
+evs: 4 HP / 252 Atk / 252 Spe
+ 
+[SET COMMENTS]
+
+<p>STAB Sludge Bomb hits quite a few things hard in NU. Hidden Power Ground lets Dustox hit Mawile and Sudowoodo for at least some damage. Aerial Ace and Hidden Power Ground already cover everything that resists Sludge Bomb, so another attack would be redundant. For this reason, Sleep Talk is probably your best option, so Dustox can absorb sleep moves.</p>
+
+[SET]
+name: SunnyBeamer
+move 1: Sunny Day
+move 2: Solar Beam
+move 3: Hidden Power Fire
+move 4: Toxic
+item: Leftovers
+nature: Timid / Modest
+evs: 4 HP / 252 Spe / 252 SpA
+ 
+[SET COMMENTS]
+
+<p>The counters for this set are the exact opposite of the counters to Dustox's other ones, so if the opponent expects a different set, you might be able to do something. Toxic is your only hope against things like Noctowl.</p>
+
+[Other Options]
+
+<p>You could use Silver Wind on a set for STAB, but it won't really be hitting much. Giga Drain can be used for Relicanth and the like.</p>
+
+[EVs]
+
+<p>Focus on your attacking stat for the two sweeper sets, with a bit of Speed. For the special wall, you'll want max HP and a lot of Special Defense (maybe even max) with a Careful nature.</p>
+
+[Checks and Counters]
+
+<p>Sudowoodo, Relicanth, and anything else that carries a Rock-type attack will really put the hurt on Dustox, unless it's the SunnyBeamer, which somewhat sturdy Flying-types like Noctowl and Pidgeot can wall with ease.</p>

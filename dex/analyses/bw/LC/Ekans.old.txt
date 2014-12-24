@@ -1,0 +1,62 @@
+[Overview]
+
+<p>Say hello to Ekans, perhaps the most underrated threat in Little Cup. A good defensive typing allows it to tank hits from Fighting-type threats such as Mienfoo, while its amazing support movepool, including Substitute, Swagger, Disable, Protect, Switcheroo, and Glare, can be used to stall out the opponent until they're knocked out from residual damage or Ekans's variety of attacks. It even gets two great abilities in the form of Intimidate and Shed Skin. Unfortunately, Ekans has no other appeal, as offensively, it is outclassed by Croagunk and Grimer. It also must overcome the problem of horrible offensive typing with good team support; Poison-type moves hit only Grass-type Pokemon super effectively, while not doing any damage to Steel-types and being resisted by four other types. Ekans also suffers from subpar stats, which makes it hard to consider for a spot on a team. Ultimately, although it has a few problems, Ekans is a good Pokemon that poses a threat to many opponents.</p>
+
+[SET]
+name: Coil
+move 1: Coil
+move 2: Gunk Shot
+move 3: Sucker Punch
+move 4: Rest / Earthquake
+item: Eviolite
+ability: Shed Skin
+nature: Careful
+evs: 236 HP / 4 Def / 244 SpD
+
+[SET COMMENTS]
+
+<p>Coil was given to Ekans this generation, and there is no reason not to use it. Coil is a boosting move that raises the user's Attack, Defense, and accuracy, which is perfect on Ekans, a physically-based Pokemon with low Defense and an inaccurate, powerful STAB move in Gunk Shot. Gunk Shot is recommended as Ekans's main STAB move due to its monstrous power and high accuracy when paired with Coil; after a single use of Coil, Gunk Shot's accuracy will be around 93%, easily making it reliable. Poison Jab is an alternative to Gunk Shot if you like the immediate higher accuracy and PP, but Ekans probably won't be around long enough to use Gunk Shot more than 8 times anyway, and if you're not using Coil then you're not achieving the goal of this set. Sucker Punch is used mostly for priority and the ability to beat Gastly. Gunk Shot will do at least 27% to Gastly, always breaking its Substitute. This means with good prediction, Ekans has no hard time with Gastly thanks to Sucker Punch, especially as it resists Sludge Bomb and has Shed Skin to render Hypnosis close to useless. Sucker Punch can also make Ekans a revenge killer in desperate measures or OHKO frail Psychic-types such as Abra before they can attack it.</p>
+
+<p>Rest and Earthquake are both useful moves for the last slot. Rest will heal Ekans, so it is usually the better choice, and Shed Skin works in harmony with Rest to wake Ekans up. If your team has Wish support, however, you may want to go with Earthquake. Earthquake allows Ekans to beat opposing Poison-types without Levitate, namely Croagunk, which resists Ekans's other two moves.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>You can use Poison Fang or another Poison-type move over Gunk Shot if you don't trust its accuracy even after the accuracy boost provided by Coil. Bulldoze is available in the last slot if you wish to lower your opponent's Speed; note that using Coil or Rest on a switch will almost always give better results, though. Ekans has access to some very obscure, situational moves such as Seed Bomb, Rock Slide, and even Wrap. These should almost never be used over the moves listed in the set, but if your team has more use for them, it's an exception.</p>
+
+<p>Good teammates for Ekans are Pokemon that can defeat Ground- and Psychic-types. Frillish is a perfect candidate; both of its STAB moves are super effective on Ekans's weaknesses. Frillish can also somewhat take care of Gastly so long as it is not behind a Substitute. It will, however, lose the majority of its health from a Shadow Ball, and Life Orb or Choice Specs variants will beat Frillish. Cottonee can come in on Ground-type moves and use Encore, and it can lock Gastly into Substitute to boot. On top of this, Ekans can take Poison-type moves aimed at Cottonee with ease. Leech Seed support will also be useful to constantly heal Ekans, especially if it isn't running Rest.</p>
+
+[SET]
+name: Annoyer
+move 1: Switcheroo
+move 2: Glare
+move 3: Swagger
+move 4: Acid Spray / Giga Drain
+item: Choice Scarf
+ability: Intimidate
+nature: Timid
+evs: 236 HP / 4 Def / 4 SpD / 240 Spe
+ivs: 30 Spe
+
+[SET COMMENTS]
+
+<p>The basic strategy of this set is to switch into something that fears Ekans such as Mienfoo, scare it with Intimidate, hit the switch-in with Switcheroo, hit the next switch-in with Glare, and use Swagger on it. This is probably the most annoying set in Little Cup; every single obscure move Ekans can learn combine to make it impossible to hit. Switcheroo is to put Ekans's Choice Scarf on an opposing wall. Because Ekans lures walls such as Slowpoke and Ferroseed, Switcheroo is extremely useful for crippling them. Afterward, depending on the opponent, it's best to use either Glare or Swagger. If the opponent is a fast Pokemon that can't harm Ekans, Glare will hit any switch-in, even Ground-types, assuming it hits. If it is a slow Pokemon such as Ferroseed which will probably try to set up anyway, Swagger is the best choice to hinder their setup. If the victim will outspeed Ekans with a Choice Scarf and be able to damage it easily, however, switching to a check is the best idea.</p>
+
+<p>Intimidate is the preferred ability as it causes switches, which is Ekans's lighter fluid so to speak. Ekans, believe it or not, is a phenomenal Scraggy check. With the EVs and nature above, Choice Scarf Ekans will outspeed Scraggy after a Dragon Dance, reset its Attack stat with Intimidate, and give it a Choice Scarf. It can then proceed to wreak havoc with Glare and Swagger on switch-ins.</p>
+
+<p>The last slot is reserved for an attacking move so that Ekans isn't complete Taunt bait. Acid Spray is a useful STAB move which will cause even more switches, as it harshly lowers the foe's Special Defense. Giga Drain is an option over Acid Spray, however, as it gives Ekans some health back, which it greatly desires. It also hits Ground-types on the switch.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>In the last slot, you may use Protect or Substitute to stall out damage from Swagger (or poison damage if your team has Toxic Spikes). You can remove the Defense and Special Defense EVs to put 36 into Ekans's Special Attack, which will then hit 11, but this set is meant to be bulky and not offensive, so it's not recommended. The nature should be swapped to Jolly if one desires to use a physical move. Attract is an option if your team has Toxic Spikes, but it's very situational.</p>
+
+<p>Users of entry hazards are the best teammates for Ekans. As it will usually cause three to four switches a game, you will want to have as many entry hazards as possible. Omanyte, which has decent synergy with Ekans, has access to every form of entry hazard. Pineco also has access to all 3 entry hazards as well as Rapid Spin. Dwebble can use Stealth Rock and Spikes, and it can beat Psychic-types with Bug-type attacks. Stunky can get rid of Psychic-types using Pursuit, and it also beats Gastly, especially Lum Berry Stunky. Wynaut can trap and kill most Ground-type Pokemon that threaten Ekans.</p>
+
+[Other Options]
+
+<p>Ekans has access to Substitute and Disable, which work well because it only has two weaknesses. You can use an offensive Choice Scarf set, although Ekans doesn't have much of a movepool for it. Some other attacking moves it gets are Double-Edge, Pursuit, Aqua Tail, and Thief. Thief can be used without an item to act as a pseudo Knock Off. Additional support moves include Haze and Gastro Acid.</p>
+
+[Checks and Counters]
+
+<p>On the Coil set, Choice Band Diglett beats Ekans even after Coil. Slowpoke can take any of Ekans's moves and hit it back with Psychic. Pawniard completely walls Ekans unless it runs Earthquake, and it has access to Psycho Cut to hurt Ekans badly. Any Psychic-type Pokemon with Substitute that predicts well might be able to outsmart Ekans.</p>
+
+<p>On the Annoyer set, Cottonee flat-out beats it due to priority Taunt. Lickitung has Own Tempo and can beat Ekans with Return or Earthquake. Any Pokemon with a Substitute up completely walls Ekans.</p>

@@ -1,0 +1,48 @@
+[Overview]
+<p>Despite its NFE status, Dusclops makes a great candidate to put some balance into your team. Possessing good defensive stats, pure Ghost typing, and a number of supporting moves, Dusclops has carved itself a niche in UU as a bulky spinblocker. Its ability, Pressure, also deters a sweeper's offensive advances, sometimes even forcing them to switch out in order to preserve their precious PP. While Spiritomb appears to outclass Dusclops due to its additional Dark typing and higher base offensive stats, Dusclops possesses greater bulk, as well as access to Trick Room, giving it yet another way to reliably support its teammates. With these numerous advantages, Dusclops can prove to be a valuable member to any standard UU team.</p>
+
+[SET]
+name: Bulky Spinblocker
+move 1: Seismic Toss
+move 2: Will-O-Wisp
+move 3: Rest / Pain Split
+move 4: Sleep Talk / Shadow Punch / Toxic
+item: Leftovers
+nature: Impish
+evs: 252 HP / 252 Def / 4 SpD
+
+[SET COMMENTS]
+<p>While all Ghost-types can block Rapid Spin, they are generally frail and easily KOed. Dusclops, however, has the defensive stats to function as a reliable bulky spinblocker on many teams. Seismic Toss gives Dusclops a means of offense so as not to be completely ruined by Taunt. Will-O-Wisp cripples opposing physical attackers, while the combination of Rest and Sleep Talk cures Dusclops of status and is its best means of recovery.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Shadow Punch can be used over Sleep Talk to take down Rotom and Mismagius, while Toxic can wear down bulky Fire- and Water-type switch-ins. Although Dusclops becomes somewhat vulnerable while it is sleeping without Sleep Talk, its defenses allow it to survive the two turns of Rest without much fear. Pain Split can be used over Rest to take advantage of Dusclops's naturally low HP stat; however, status can become an issue should you choose to forgo Rest.</p>
+
+<p>Due to the physically-based UU metagame, Dusclops will usually switch into more physical attacks than special ones; therefore, physical defense is maximized, with the leftover EVs going into Special Defense. An Impish nature further increases Dusclops's physical bulk, making it even harder to defeat.</p>
+
+<p>Dusclops appreciates teammates that can take advantage of burn support. Aggron makes an excellent partner, resisting both of Dusclops's weaknesses, crushing a team weakened by Will-O-Wisp and Seismic Toss, and luring in Fighting-type moves for Dusclops to switch into. Miltank sets up Stealth Rock, cures status with Heal Bell, and possesses an immunity to Ghost-type moves, while also luring in Fighting-type attacks. Dusclops is a magnet for the other UU Ghosts, which can switch in on Seismic Toss and force it out with the threat of STAB moves. Mismagius is especially dangerous because it can carry Taunt, which effectively shuts Dusclops down. Other Taunters, such as Ambipom, Nidoking, and Drapion, outspeed Dusclops easily, though they must be wary of switching into a Will-O-Wisp. Houndoom gains a boost in power from Will-O-Wisp, and threatens with STAB Pursuit or Dark Pulse. Clefable is also immune to Will-O-Wisp, and can carry Trick to ruin Dusclops's fun.</p>
+
+[SET]
+name: Trick Room Support
+move 1: Trick Room
+move 2: Seismic Toss
+move 3: Will-O-Wisp
+move 4: Pain Split
+item: Leftovers
+nature: Relaxed
+evs: 252 HP / 252 Def / 4 SpD
+ivs: 0 Spe
+
+[SET COMMENTS]
+<p>While Dusclops is a great spinblocker, it also has access to Trick Room, making it a good Trick Room supporter. Its great defenses ensure that Dusclops can set up Trick Room multiple times, unlike its otherworldly kin, Banette. Seismic Toss is Dusclops's reliable damage move, because its actual offenses will fail it more often than not. Will-O-Wisp ensures that any opposing physical sweeper hoping to take advantage of Trick Room is crippled. Pain Split allows Dusclops to steal HP from its opponent, weakening many Pokemon to the point where Trick Room sweepers on your team can come in and easily mow down the opposition. Rest can be used over Pain Split to cure status; however, Dusclops will not be staying in for long, and the two turns spent sleeping could be better used to set up Trick Room.</p>
+
+[ADDITIONAL COMMENTS]
+<p>Like the Bulky Spinblocker, the EVs and nature ensure that Dusclops is as physically buky as possible. A Relaxed nature makes Dusclops extremely slow, allowing it to almost always move first under Trick Room conditions.</p>
+
+<p>Aggron makes an excellent partner, thanks to its resistances to Ghost- and Dark-type moves, low Speed, and devastating sweeping potential. Guts Ursaring also makes a good teammate due to its low Speed and high Attack. It is immune to Ghost-type moves, and lures in Fighting-type moves for Dusclops to switch in on. Taunters ruin this set, and Mismagius can set up easily after using Taunt. Slowbro and Slowking don't mind Trick Room, and they can set up on Dusclops easily.</p>
+
+[Other Options]
+<p>Dusclops has a couple of other options that it can run. A Gravity set is viable, and Dusclops also has access to Dynamic Punch and Earthquake, although they run off of its less-than-impressive base 70 Attack stat. Calm Mind lets Dusclops become more of a special wall, but it is not as effective as the Bulky Spinblocker set at walling. Dusclops can run a more offensive Trick Room set; however, its offensive stats really let it down. As for moves, Spite can quickly wear down the PP of an opponent's move, shaving off 6 PP (factoring in Pressure) each time Dusclops is attacked. Substitute can be used in conjunction with Pain Split, and Focus Punch can be used to discourage opposing Pokemon from switching in freely. Shadow Sneak allows Dusclops to finish off weakened opponents, and Taunt prevents opponents from setting up, although Dusclops's low Speed stat makes it very hard to use it effectively. Memento can set up a partner for a sweep, and Destiny Bond can take down an opponent if you predict correctly and use it on the turn before Dusclops is KOed.</p>
+
+[Checks and Counters]
+<p>Despite Dusclops's bulk, it does have a number of counters. Taunters shut Dusclops down since it mostly uses non-attacking moves. The UU Ghosts threaten Dusclops on the special side with STAB Shadow Ball (or in Spiritomb's case, STAB Dark Pulse). Mismagius deserves a special mention among the Ghost-types because it also possesses Taunt, allowing it to completely shut down Dusclops and set up on the switch. Clefable doesn't mind being burned, and can cause problems with Wish and Trick. Houndoom gets a boost from Will-O-Wisp, while threatening with STAB Pursuit or Dark Pulse.</p>

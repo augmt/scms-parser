@@ -1,0 +1,72 @@
+[Overview]
+
+<p>On a scale from 1 to 10, with 10 being the coolest, Pinsir scores at least a 12. Besides its fantastic design, Pinsir also boasts a fearsome base 125 Attack, above-average Speed, STAB X-Scissor to hit many of RU's walls super effectively, and powerful coverage moves such as Earthquake, Stone Edge, and Close Combat. Throw that all together and you have a dangerous offensive Pokemon. Unfortunately for Pinsir, "dangerous offensive Pokemon" are a common sight in RU, and Pinsir's limited switch-in opportunities and lack of a powerful STAB move have made it difficult to justify using over other physical sweepers like Kabutops, Gallade, and Durant. In fact, there's only one thing that really makes Pinsir worth considering over more standard alternatives: Moxie. Pinsir is the only viable Pokemon with Moxie in RU, giving it a unique ability to put constantly increasing offensive pressure on its opponent. Moxie forces Pinsir's opponents to respond predictably or risk losing the match quickly as Pinsir picks up boosts and becomes unwallable. It requires a significant amount of support to be successful; if you're looking for a physical sweeper that you can throw on your team as an afterthought and be successful, Kabutops or Gallade would be a better choice. On the other hand, if you're looking to build a team around an extremely manly bug with the potential to steamroll healthy teams in just a few turns, give Pinsir a shot.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: X-Scissor
+move 3: Earthquake
+move 4: Quick Attack
+item: Life Orb
+ability: Moxie
+nature: Adamant / Jolly
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>The market for Swords Dance in RU might seem crowded, but Pinsir has plenty of perks that make it a lethal boosting sweeper. Above-average Speed gives Pinsir the advantage against the popular base 80 Speed group, and a solid Defense stat allows it to brush off most priority moves. Bug typing, despite all its defensive disadvantages, is a blessing offensively, as STAB X-Scissor slices through many of RU's top defensive Pokemon, including Tangrowth, Slowking, and Uxie. Earthquake is the coverage move that RU's other Bug-types wish they had, giving Pinsir super effective coverage against Qwilfish, Steelix, and Rhydon. The true magic of this set, however, is the combination of Quick Attack and Moxie. For most Pokemon, non-STAB Quick Attack is dismissed as too weak to be useful, but with Moxie, it becomes an excellent defense against revenge killers and is the key to Pinsir's success. After a Swords Dance boost, Pinsir can OHKO most of RU's best walls with X-Scissor or Earthquake. With Moxie kicking in and boosting Pinsir to +3, Quick Attack becomes powerful enough to OHKO most potential revenge killers with hazard support. Once it reaches +3, the list of Pokemon that can stop Pinsir from sweeping is short: Aerodactyl, Archeops, Durant, Emboar (with a Choice Scarf), Entei, Misdreavus, Quagsire, and Rotom. Unless your opponent has one of those Pokemon healthy, the game is over.</p>
+
+<p>Of course, the real trick is getting to +3 in the first place. Pinsir's best chance at setting up is by forcing out slow Pokemon like Slowking and Lanturn. Against fast offensive teams, Pinsir probably won't have the opportunity to set up and is unlikely to single-handedly 6-0 your opponent's team. However, it still has value in offensive match-ups thanks to its Speed, power, and access to priority. Pinsir can OHKO Kabutops attempting to spin or pick off weakened Cinccino and Manectric with Quick Attack, and although a single Moxie boost usually won't be enough to sweep, it does put a lot of pressure on your opponent to play conservatively and predictably to avoid giving Pinsir the opportunity to pick up any more boosts.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Here are some damage calculations showing how difficult Pinsir can be to wall at +2 and to revenge kill at +3:</p>
+
+<ul class="damage_calculation">
+<li>+2 X-Scissor vs. 252/252+ Tangrowth 110.6 - 131.2%</li>
+<li>+2 X-Scissor vs. 252/88 Amoonguss 99.5 - 117.6%</li>
+<li>+2 X-Scissor vs. 252/124 Druddigon 96.9 - 114.2%</li>
+<li>+1 Earthquake vs. 252/240+ Qwilfish 119.2 - 140.1%</li>
+<li>+2 Earthquake vs. 88/0 Eviolite Rhydon 92.8 - 109.4% (94% chance to OHKO after Stealth Rock)</li>
+<li>+2 Earthquake vs. 248/0 Escavalier 84.5 - 99.7% (75% chance to OHKO after Stealth Rock)</li>
+<li>+2 Earthquake vs. 252/220+ Steelix 74.9 - 89% (31% chance to OHKO after Stealth Rock and 1 layer of Spikes)</li>
+<li>+3 Quick Attack vs. 0/4 Absol 83.8 - 98.9% (75% chance to OHKO after Stealth Rock)</li>
+<li>+3 Quick Attack vs. 0/4 Galvantula 80.8 - 95.4% (OHKO after Stealth Rock)</li>
+<li>+3 Quick Attack vs. 0/4 Manectric 80.8 - 95.4% (56% chance to OHKO after Stealth Rock)</li>
+<li>+3 Quick Attack vs. 0/4 Moltres 51.4 - 60.7% (OHKO after Stealth Rock)</li>
+<li>+3 Quick Attack vs. 0/4 Cinccino 78 - 92.1% (OHKO after Stealth Rock and 1 layer of Spikes)</li>
+<li>+3 Quick Attack vs. 0/4 Sceptile 75.8 - 89.7% (94% chance to OHKO after Stealth Rock and 1 layer of Spikes)</li>
+<li>+3 Quick Attack vs. 0/4 Typhlosion 62.3 - 73.4% (69% chance to OHKO after Stealth Rock and 1 layer of Spikes)</li>
+</ul>
+
+<p>Life Orb and an Adamant nature might sound like overkill at first, given that Pinsir will be boosting its Attack with Swords Dance and Moxie, but a look at the calculations above reveals that Pinsir really does need all the power it can get. Switching to a Lum Berry or a Jolly nature makes many of those OHKOs disappear, and if Pinsir can't OHKO its initial switch-in or potential revenge killer, its sweep will end before it begins. Luckily, Kabutops and Gallade usually run Adamant natures, so Adamant Pinsir will still outspeed them, although it will unfortunately miss out on beating Smeargle and Timid Mesprit. Stone Edge is a tempting move to add to this set in order to hit Pokemon such as Aerodactyl, Moltres, and Rotom, but most of its potential targets are faster than Pinsir, so it wouldn't prevent them from stopping Pinsir's sweep; it's certainly not worth giving up Earthquake's coverage against physical walls or Quick Attack's priority. Close Combat would normally be an appealing alternative to Earthquake, but sadly it is illegal with Quick Attack, so it is not recommended on this set.</p>
+
+<p>As the calculations above show, Pinsir relies heavily on entry hazard support. Stealth Rock is absolutely essential for wearing down Moltres and Pinsir's other Fire- and Flying-type checks, but Spikes are also very valuable, especially for bringing faster Pokemon into Quick Attack's range. If you can consistently get multiple layers of Spikes up, that extra damage can also make up for the power loss if you choose to use a Jolly nature. Qwilfish is a fantastic teammate for Pinsir, as it can set up Spikes, spread paralysis to help Pinsir beat faster Pokemon that Quick Attack can't OHKO, and check most of the Pokemon that give Pinsir trouble. Uxie and Druddigon are also good teammates that can spread paralysis to additional targets and set up Stealth Rock. Spiritomb and Escavalier provide helpful Pursuit support to take out opposing Rotom, Misdreavus, and Mesprit. Finally, Pinsir greatly appreciates Rapid Spin support. It isn't strictly necessary, as Pinsir should ideally only need to switch in one time per match to sweep, but Kabutops has excellent synergy with Pinsir, so it's usually worth including.</p>
+
+[SET]
+name: Choice Scarf
+move 1: X-Scissor
+move 2: Earthquake
+move 3: Close Combat
+move 4: Stone Edge
+item: Choice Scarf
+ability: Moxie
+nature: Adamant
+evs: 16 HP / 252 Atk / 240 Spe
+
+[SET COMMENTS]
+
+<p>Pinsir's decent Speed, excellent Attack, and great coverage moves make it an effective revenge killer when holding a Choice Scarf. It can OHKO many of RU's most popular sweepers, including Kabutops, Sceptile, Entei, Cinccino, Sigilyph, and Moltres, and its solid Defense allows it to survive powerful priority attacks, including Choice Band Entei's Extreme Speed and +2 Life Orb Kabutops's Aqua Jet. Moxie is the cherry on top of this set, allowing Pinsir to put heavy pressure on the opponent and potentially achieve a late-game sweep. However, beware of focusing too much on trying to get a Moxie sweep. Without a boosting item or the ability to switch moves, Pinsir is quite easy to wall, even at +1, so it usually won't have any shot at sweeping until late in the game when the opponent's team is significantly weakened. This can make it tempting to try to keep Pinsir healthy for the end of the match in order to achieve that sweep. Unfortunately, no matter how healthy it is, there will be many matches when Pinsir simply won't be able to sweep, so keeping it in reserve all match will result in a wasted teamslot and put you at a disadvantage. If your opponent's team looks particularly vulnerable to a Pinsir sweep, go for it, but otherwise you should play Pinsir like any other revenge killer: send it out whenever you need to KO or force out a dangerous opponent.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>240 Speed EVs allow Pinsir to outspeed +1 Modest Magmortar and +2 Adamant Aggron. The 16 HP EVs actually do serve a useful purpose: they guarantee that Pinsir will survive a super effective Hidden Power from Life Orb Sceptile if it hasn't taken any previous damage, meaning Pinsir can revenge kill Sceptile even if Sceptile has a Substitute up. Pinsir needs an Adamant nature to consistently get the KOs it should; Entei, Sigilyph, and Emboar will usually survive a hit from Jolly Pinsir even after Stealth Rock, but all three will usually fall to Adamant Pinsir. You should only consider using Jolly if you have multiple layers of hazards to make up for the loss of power and you need Pinsir to outspeed Accelgor and positive-nature +1 base 80 Speed Pokemon, such as Jolly Choice Scarf Medicham and Jolly Weak Armor Kabutops. Speaking of Kabutops, it is an excellent partner for this set. As a revenge killer, Pinsir will want to switch in several times during the match without being crippled by Stealth Rock damage; Kabutops can reliably spin away hazards and has great synergy with Pinsir. Poliwrath is a hard stop to both Pinsir and Kabutops, so make sure you bring something that can beat it, such as Rotom, Sigilyph, or Uxie.</p>
+
+[Other Options]
+
+<p>Pinsir can use an all-out attacking set with Life Orb or Choice Band to do a lot of damage to slow or paralyzed teams. However, it has difficulty switching in safely, and faster Pokemon will easily force it out, so this type of set doesn't really play to Pinsir's strengths. A Substitute + 3 attacks set with a Salac Berry can sweep late-game if the opponent's physical walls and priority users have been eliminated, but it will struggle to accomplish anything at all before those two conditions are met. Superpower and the uncommon Storm Throw are Pinsir's best legal options for Fighting-type coverage on sets that use Quick Attack, but both are completely inferior to Close Combat in any other situation. Pinsir can set up Stealth Rock if absolutely necessary, but it's not very good in a supporting role and rarely has moveslots to spare. Toxic is Pinsir's best option against certain bulky Pokemon like Misdreavus and Quagsire. Finally, Hyper Cutter and Mold Breaker are both decent abilities; Mold Breaker in particular is intriguing, as it allows Pinsir to beat one of its biggest counters in Rotom (although Mold Breaker announces itself when Pinsir comes into the match, so good players won't switch Rotom in). Unfortunately, Pinsir is simply a mediocre Pokemon without Moxie. If you're using Pinsir with one of its other abilities, you'd almost certainly be better off using another Pokemon like Kabutops, Durant, Gallade, or Entei in its place.</p>
+
+[Checks and Counters]
+
+<p>Quagsire and Misdreavus are the safest counters to Pinsir; Misdreavus resists or is immune to most of Pinsir's attacks, has excellent physical bulk with Eviolite, and can burn Pinsir with Will-O-Wisp, while Quagsire ignores Pinsir's Moxie boosts with Unaware and can simply stall it out with Recover. All other counters depend on which set Pinsir is running. Rotom and Aerodactyl are excellent answers to the Swords Dance set, but neither can switch into Stone Edge from the Choice Scarf set. Poliwrath and Alomomola are hard stops to the Choice Scarf set, but Poliwrath takes heavy damage from the Swords Dance set and can only phaze Pinsir with Circle Throw, while Alomomola becomes setup bait as it is forced into a predictable Wish + Protect cycle. Faster Choice Scarf users that can survive Quick Attack are good revenge killers if Pinsir is weakened, but most of them won't be able to OHKO a healthy Pinsir without a STAB super effective attack; for example, Choice Scarf Rotom-C's Thunderbolt does a maximum of 78% to Pinsir. In general, the most important thing is to prevent Pinsir from boosting. Avoid switching in slower Pokemon that give it a chance to set up or weakened Pokemon that it can KO for a free Moxie boost. Without boosts, Pinsir is just another powerful physical attacker that any good team should already be able to handle.</p>

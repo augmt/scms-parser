@@ -1,0 +1,42 @@
+[Overview]
+
+<p>Typhlosion seems to be a fairly average Pokemon, with relatively low defensive stats and no superb offensive stats either. On top of this, it has weaknesses to Earthquake, Surf, and Rock Slide, three incredibly common attacks in VGC 2012. However, being one of five VGC legal Pokemon that have access to STAB Eruption, Typhlosion is a pretty cool pick for any respectable sun team.</p>
+
+[SET]
+name: Special Attacker
+move 1: Eruption
+move 2: Heat Wave
+move 3: Solar Beam / Hidden Power Ground
+move 4: Protect
+item: Fire Gem
+nature: Timid
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>This set makes use of Typhlosion's power in the sun. STAB Eruption is Typhlosion's primary attacking option, and inflicts massive damage to all Pokemon, even ones that resist Fire-type attacks. However, as its damage output depends on Typhlosion's health, Heat Wave is a secondary STAB option for when Typhlosion is at low HP. SolarBeam and Hidden Power Ground grant Typhlosion coverage on Pokemon that can take an Eruption, such as Tyranitar, Rhyperior, and Heatran, hitting them for super effective damage. If running Hidden Power Ground, the EVs should be changed to 4 HP / 4 Def / 248 SpA / 252 Spe to account for the IV drop. Protect lets Typhlosion avoid damage from both its opponents and its ally for a turn.</p>
+
+<p>Without sun, Typhlosion is fairly lacking. Eruption doesn't do as much as one might expect, as many Pokemon in the VGC 2012 metagame resist Fire-type attacks. As Eruption is Typhlosion's main selling point, it really doesn't stand much of a chance without proper sun support. Weaknesses to many common spread moves don't do Typhlosion any favors either, so it is often rendered useless if opposing auto-weather starters are able to win the weather war.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>As mentioned before, Typhlosion absolutely needs sun support. However, Ninetales, who sets up sun with its Drought ability, shares the same weaknesses as Typhlosion. It can therefore be a little dangerous to have both on the same team, but when you take into account all the Grass-types that have the Chlorophyll ability, a sun team can come together fairly nicely. Typhlosion also loves Tailwind support, as its base 100 Speed isn't too great. With Tailwind up, Typhlosion outspeeds many common threats and can deal tons of damage in the sun. Whimsicott is a great partner, because Prankster grants it priority on both Tailwind and Sunny Day should Ninetales lose the weather war or faint.</p>
+
+<p>What people often underestimate is how hard Typhlosion can hit. In the sun, Fire Gem Eruption can KO almost all of the commonly seen Pokemon, making Typhlosion a truly dangerous Pokemon. To back this statement up, here are some damage calculations showcasing Eruption's power.</p>
+
+<ul class="damage_calculation">
+<li>Eruption vs. 4/0 Latios 75% - 88.5%</li>
+<li>Eruption vs. 252/0 Hitmontop 149.7% - 176.4%</li>
+<li>Eruption vs. 4/0 Garchomp 78.3% - 92.9%</li>
+<li>Eruption vs. 252/252 Cresselia 74% - 87.2%</li>
+</ul>
+
+<p>Even though Typhlosion is able to hit hard, it doesn't take hits well. Rhyperior can shrug off Hidden Power Ground and OHKO with Earthquake; in fact, any Pokemon Typhlosion fails to KO can often take it out or cripple it. Cresselia survives Eruption and can set up Trick Room, which can often mean trouble for your team, especially if you have Tailwind up. Additionally, Typhlosion appreciates partners that can clean up for it, as well as Helping Hand support, which can let it nab OHKOs it would normally miss out on.</p>
+
+[Other Options]
+
+<p>Typhlosion can use a type-resist Berry, such as Shuca Berry or Charti Berry, to alleviate some of the damage from Earthquake and Rock Slide, respectively. Typhlosion can also make use of a Choice Scarf for some more Speed; Choice Scarf Typhlosion hits 250 Speed, outspeeding Metagross, Latios, Gengar, and Swift Swim Ludicolo, among others. Overheat is yet another option, as it hits incredibly hard in the sun, but the drop in Special Attack can be a hindrance. Hidden Power Ice can be used to hit Dragon-type Pokemon for heavy damage as well.</p>
+
+[Checks and Counters]
+
+<p>Tyranitar can counter Typhlosion fairly well, because specially defensive variants can survive SolarBeam, and it can injure or OHKO Typhlosion with STAB Rock Slide, depending on its Attack investment. Rhyperior can counter Typhlosion under Trick Room, and those who change the weather on Typhlosion can also beat it. In general, Trick Room teams hit Typhlosion pretty hard, as its base 100 Speed and Timid nature means it will easily be outpaced under the effects of Trick Room. Rain teams can also cause trouble for Typhlosion, who relies heavily on harsh sunlight for its power. Latios and Latias can check Typhlosion well, as they survive its powerful Eruption and can hit back hard with their STAB Dragon-type attacks.</p>

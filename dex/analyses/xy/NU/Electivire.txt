@@ -1,0 +1,13 @@
+All-Out Attacker
+########
+name: All-Out Attacker
+move 1: Wild Charge
+move 2: Cross Chop
+move 3: Ice Punch
+move 4: Hidden Power Grass
+ability: Motor Drive
+item: Life Orb
+evs: 252 Atk / 4 SpA / 252 Spe
+nature: Naive
+
+This is a sample set while we are currently working on analyses in the workshop.

@@ -1,0 +1,43 @@
+[Overview]
+
+<p>While Skitty may seem dwarfed by many other sweepers in Little Cup in terms of both power and Speed, Skitty has one thing going for it: Normalize. Normalize gives Skitty STAB on literally every attacking move it knows, while admittedly sacrificing any coverage it would have gotten. But if opposing Pokemon that resist or are immune to Normal-type attacks have been removed, Skitty can be quite difficult to stop. While Skitty is a fun Pokemon to use, for the most part it is outclassed by other priority users such as Croagunk, Aipom, Meowth, and Glameow, all of whom have better stats across the board. Basically, Skitty is just another fun Normal-type that is unlikely to see any real competitive use.</p>
+
+[SET]
+name: Priority Attacker
+move 1: Fake Out
+move 2: Sucker Punch
+move 3: Return
+move 4: Baton Pass / Thunder Wave
+item: Life Orb / Silk Scarf
+ability: Normalize
+nature: Adamant
+evs: 236 Atk / 76 Def / 196 Spe
+
+[SET COMMENTS]
+
+<p>Priority attacks are one of the most valuable resources in Little Cup, and Skitty is one of the only Pokemon in the game that has STAB on two: Fake Out and Sucker Punch. Fake Out is simply a great move for racking up free damage on the opponent while they can do nothing back, and Sucker Punch is very effective due to the offensive nature of Little Cup, very often giving Skitty the first hit on Pokemon trying to harm it. Not to mention that with STAB, Sucker Punch's Base Power is a massive 120.</p>
+
+<p>Return is Skitty's most powerful attack and should be used when a priority attack is either not needed (i.e. if the target is slower), or not strong enough (i.e. the target is still healthy). Baton Pass may seem odd at first glance simply because Skitty isn't boosting any of it stats, but it is invaluable in that it allows Skitty to scout for Pokemon that trouble it, and immediately switch out, giving good offensive momentum. Thunder Wave is a good option on Skitty because it is the only Pokemon that can paralyze Gligar with a 100% accurate move. It also lets Skitty cripple Rock- or Steel-type switch-ins; Rock Polish Aron, in particular, will have very little success sweeping when it is paralyzed.</p>
+
+[ADDITIONAL COMMENTS]
+
+</p>To illustrate the power of Skitty's attacks, here are some damage calculations:</p>
+
+<ul class="damage_calculation">
+<li>Life Orb Fake Out + Sucker Punch vs. 0/0 Gligar: 69.6% - 86.9%</li>
+<li>Life Orb Fake Out + Sucker Punch vs. 0/0 Houndour: 133.3% - 166.7%</li>
+<li>Life Orb Fake Out + Return vs. 236/36 Munchlax: 75.7% - 97%</li>
+<li>Life Orb Fake Out + Sucker Punch vs. 36/36 Machop: 95.9% - 120.9%</li>
+</ul>
+
+<p>Life Orb is the best option on this set simply because Skitty will not be living very long due to its poor defenses, so it should be trying to get as much damage in as possible. Silk Scarf is also a very viable option, as because all of Skitty's attacks are Normal-type, it gives them all a 1.2x boost, and doesn't inflict any recoil damage.</p>
+
+<p>Obviously, Skitty is one Pokemon that requires a lot of support to make it work due to its non-existant coverage. Pokemon with Pursuit help a great deal because they can trap and kill Ghost-types who are immune to Skitty's attacks. Good users of Pursuit include Munchlax, Stunky, and Houndour, all of which are great options. Steel- and Rock-types also pose a big threat to Skitty as they both resist Normal-type attacks. Diglett works pretty well thanks to its ability to trap and KO most of them with a fast, powerful STAB Earthquake. Magnemite can be utilized to deal with Levitate Bronzor.</p>
+
+[Other Options]
+
+<p>Skitty has some interesting options to support its team with. Heal Bell can be used over Baton Pass in the last moveslot to de-status your team, and Wish can be useful in healing and increasing the longevity of your team. Skitty has access to Calm Mind, and the special movepool to back it up (without Normalize, obviously), but it is, for the most part, too slow and weak to set up and sweep effectively.</p>
+
+[Checks and Counters]
+
+<p>Any Ghost-type Pokemon is a 100% hard counter to Skitty using Normalize, simply because they are immune to Normal-type attacks; therefore, having the likes of Gastly, Duskull, Drifloon, and Shuppet on your team will ensure Skitty won't be able to touch it (just be wary of Baton Pass). Other counters include Rock- or Steel-type Pokemon such as Aron, Bronzor, Onix, and Magnemite. If Skitty is not running Normalize, then treat it like you would with any other weak Normal-type.</p>

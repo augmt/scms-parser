@@ -1,0 +1,60 @@
+[Overview]
+
+<p>Zangoose is a fearsome wallbreaker thanks to its perfect coverage and its ability, Toxic Boost. It has access to Swords Dance, and it's known for being able to nearly OHKO the entire tier after one turn of setup. Priority is also a highlighted trait on Zangoose; its Quick Attack can OHKO Jynx after Stealth Rock and can nearly KO -1 Primeape. Unfortunately, Zangoose is quite frail, and it does not like to take even neutral hits, so it can be difficult to set up Swords Dance and activate Toxic Orb unscathed. Zangoose is hindered not only by Toxic Orb putting it on a timer, but also by the prevalence of priority in the tier, such as from Kangaskhan, Carracosta, Gurdurr, and Skuntank. It also faces competition from fellow status Orb sweepers, specifically Swellow and Ursaring; the former is faster but has poorer coverage, and the latter can be faster or stronger than Zangoose with its abilities, but Zangoose possesses a mixture of both.</p>
+
+[SET]
+name: All-Out Attacker
+move 1: Facade
+move 2: Close Combat
+move 3: Night Slash
+move 4: Quick Attack
+item: Toxic Orb
+ability: Toxic Boost
+nature: Jolly
+evs: 252 Atk / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>This set acts as a wallbreaker, as it's able to break down NU's most sturdiest walls. Facade becomes a powerful move after Toxic Orb is activated, reaching a Base Power of 210 when STAB is factored in. Close Combat grants additional coverage on Rock- and Steel-types that resist Facade, such as Golem, Regirock, and Probopass. Night Slash completes Zangoose's coverage, as it is able to hit Ghost-types, specifically Golurk and Misdreavus, which would otherwise be able to switch freely into any other move Zangoose has. Finally, Zangoose has access to Quick Attack, which allows it to defeat weakened, faster opponents, such as Jynx and Primeape.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>A Jolly nature is preferred because it allows Zangoose to Speed tie with Kangaskhan and outspeed positive-natured base 80 and 85 Speed Pokemon, such as Gardevoir and Sawk. However, an Adamant nature can be used to 2HKO Alomomola, Tangela, and offensive Regirock. Protect could be used over Quick Attack to guarantee Toxic Orb's activation, but it forces Zangoose to give up a moveslot and isn't useful outside of activating Toxic Orb.</p>
+
+<p>Entry hazard support from Golem and Garbodor is recommended to snag crucial KOs on the likes of Kangaskhan and Gardevoir. Zangoose appreciates slow Volt Switch support from users such as Eelektross, as it can activate its Toxic Orb without having to take a hit or relying on defeating the opponent. Eelektross also can take care of Alomomola and Tangela; the former can Toxic stall Zangoose, and the latter can deal heavy damage with Giga Drain. Dark-types such as Skuntank can remove Ghost-types, allowing Zangoose to freely use Close Combat and Facade. Common Fighting-types, such as Primeape and Gurdurr, can check Zangoose; a Psychic-type such as Musharna is a good teammate to tank hits and set up with Calm Mind. Late-game sweepers, such as Swords Dance Scolipede and Shell Smash Carracosta, appreciate having Zangoose as a wallbreaker, as it can take down their counters for them to successfully sweep.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Facade
+move 3: Close Combat
+move 4: Quick Attack / Night Slash
+item: Toxic Orb
+ability: Toxic Boost
+nature: Jolly
+evs: 252 Atk / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>This set, if used properly, can nearly OHKO the entire tier after a boost. Factoring in Swords Dance, Zangoose hits 658 Attack with a Jolly nature. A +2 Toxic-boosted Facade will OHKO Alomomola and can possibly OHKO Tangela. However, due to its frailty, Zangoose struggles to set up Swords Dance; in the long run, it might not even be worth the hassle to set it up. Close Combat will demolish Rock- and Steel-types, such as Bastiodon, Carracosta, and Gigalith. The fourth move depends on what Pokemon Zangoose wants to defeat. Quick Attack allows Zangoose to bypass faster Pokemon that try to revenge kill it, but it is then walled by Ghost-types. Night Slash permits Zangoose to hit Ghost-types, but it is then checked by faster Pokemon such as Primeape, Jynx, and Scolipede.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Here are a few calculations to show you how fearsome Zangoose is after a Swords Dance with just a Jolly nature:</p>
+
+<ul class="damage_calculation">
+<li>+2 Facade vs. 252/252+ Alomomola:97.8% - 115.2%</li>
+<li>+2 Facade vs. 240/252+ Musharna: 115.9% - 136.7%</li>
+<li>+2 Quick Attack vs. 0/0 Primeape: 100% - 117.7%</li>
+<li>+2 Quick Attack vs. 4/0 Gardevoir: 91.7 - 108.3%</li>
+</ul>
+
+<p>A Jolly nature allows Zangoose to Speed tie with Kangaskhan and Jolly Sawk. However, an Adamant nature can be used for more power, and with a Swords Dance boost, Zangoose can OHKO defensive Misdreavus and Tangela with the appropriate move and Stealth Rock support. If you opt to run Quick Attack on Zangoose, a Pursuit trapper such as Skuntank is required, as Zangoose cannot do a thing against Ghost-types. Alternatively, if you choose to run Night Slash, Zangoose is vulnerable to faster Pokemon, particularly common Choice Scarf variants of Primeape, Charizard, and Jynx. Tanks or walls, such as Alomomola, Lickilicky, Golem, and Metang, make good teammates because they can either counter those Pokemon or take a hit and strike back. Entry hazard support from Pokemon such as Scolipede, Piloswine, Roselia, and Golem are recommended. With just Stealth Rock support, Zangoose's Quick Attack can possibly OHKO threats such as Scolipede, Sawsbuck, and Pinsir at +2. Kangaskhan shares a common Fighting-type weakness, but it works well with Zangoose because they share similar checks, which they can both weaken until one of them can break through.</p>
+
+[Other Options]
+
+<p>Zangoose has a few other options, but it should generally be running its standard moveset. Pursuit allows Zangoose to trap fleeing Ghost- and Psychic-types, although it's ideally better to just run Night Slash. Zangoose has access to all of the elemental punches, but they don't add additional coverage. The only notable one is Ice Punch, which allows it to OHKO Torterra. Zangoose has access to a wonderful specially offensive movepool with powerful moves such as Fire Blast, Ice Beam, and Thunderbolt, but they're unusable because of Zangoose's low base 60 Special Attack. Final Gambit with max HP will generally allow Zangoose to take down one Pokemon, but that wastes its potential. Taunt is interesting, as it'll stop walls such as Alomomola and Musharna from recovering health. Finally, other items, such as Choice Band, Life Orb, Choice Scarf, and Silk Scarf, can replace Toxic Orb if you can predict a Toxic, but it is an unwise decision; predicting a Toxic that Zangoose can switch into is very difficult and unlikely, making it not worth the risk to run another item.</p>
+
+[Checks and Counters]
+
+<p>Very few Pokemon can outright counter Zangoose. With that being said, Metang is a perfect counter, as it isn't weak to Close Combat and can take down Zangoose with Meteor Mash. Any relatively bulky Pokemon, such as Gurdurr, Golurk, and Piloswine, can take an unboosted hit and strike back with their STAB moves. Furthermore, faster Pokemon that can take a Quick Attack can check Zangoose; Tauros, Scolipede, and Haunter are good examples. Priority users such as Carracosta, Kangaskhan, Swellow, and Golem can take down a weakened Zangoose. Walls such as Tangela and Alomomola can take on Zangoose one-on-one, with the former being able to take any of Zangoose's hits while striking back with Giga Drain, and the latter is able to Toxic stall Zangoose; however, they must be wary of a Swords Dance-boosted attack. Before Zangoose activates its Toxic Orb, many Pokemon can easily tank a hit and KO it, as Zangoose lacks the power from Toxic Boost as well as a double-powered Facade.</p>

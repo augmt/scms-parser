@@ -1,0 +1,138 @@
+[Overview]
+
+<p>Claydol is best described as quite a mixed bag. It has impressive defensive stats but mediocre offensive stats, six excellent resistances but six crippling weaknesses, and a vast movepool but little to take advantage of it with. It is one of the best support Pokemon in the game, with access to Stealth Rock, Rapid Spin, and dual screens, as well as less commonly seen methods of support such as Trick Room and Rain Dance. In addition to this, it can wall a great number of Pokemon, and its defensive stats allow it to take hits from both sides and come in on a wide variety of opponents. Also, it has access to moves such as Calm Mind as well as reliable offensive moves, which includes desirable STAB Ground-type moves. It is as unpredictable as the British weather and can be quite as depressing for the opponent's team.</p>
+
+<p>On the downside however, Claydol's many weaknesses are often its undoing. All six weaknesses are to very common types, and the Pokemon who use them are often very common as well; for example, Venusaur, Milotic, Moltres, and Mismagius are all top-flight Pokemon who Claydol is almost always beaten by. This is also the area where Claydol's lack of offense comes back to haunt it, meaning that many Pokemon are not as threatened by it as they otherwise could be.</p>
+
+[SET]
+name: Support
+move 1: Rapid Spin
+move 2: Stealth Rock
+move 3: Earth Power
+move 4: Psychic / Ice Beam / Shadow Ball
+item: Leftovers
+nature: Bold
+evs: 252 HP / 144 Def / 112 SpA
+
+[SET COMMENTS]
+
+<p>Rapid Spin is the core move of this set, and can be used with any team style, while Claydol's natural bulk combined with the lack of damage taken from all entry hazards allow it to get its job done with ease. Claydol can also set up Stealth Rock itself, thereby doing two support jobs in one team slot. Claydol's relative indifference to Fighting- and Ground-type moves means that it can usually afford to switch into Hitmontop or Donphan as they spin, and then either set up Stealth Rock again as they run, or kill them with STAB Psychic or Ice Beam.</p>
+
+<p>Of its two STAB choices, a Ground-type move gives the best coverage. Claydol can use both physical and special moves equally well - however, while Earthquake has more power on paper, Earth Power is preferable for several reasons. Firstly, many Pokemon who Claydol will be aiming at are hit harder on the special side. Secondly, most of the important moves that Claydol should be using in the last slot are special moves, and having both moves working off the same attacking stat means that you do not have to split EVs. For the last slot, there are a number of choices depending on what you feel threatens Claydol the most. Psychic is a reasonably good secondary STAB, Ice Beam has the best coverage alongside Earth Power, while Shadow Ball is useful to hit Ghosts who try to block Rapid Spin.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Psychic is the first option as a secondary STAB move, allowing Claydol to take on Fighting-types much more easily, but does not have any notable cohesion with Earth Power. Ice Beam offers far more in coverage, creating an unresisted Ice + Ground move combination. In particular, Ice Beam allows Claydol to hit Swellow and other Flying-types, as well as Grass-types who resist Earth Power, for super effective damage. Shadow Ball hits Ghost-types coming in to block Rapid Spin; however, it cannot touch Swellow. Lastly, Toxic is an option to cripple Spiritomb or Milotic on the switch.</p>
+
+<p>For the EVs, you should first max out HP, as Claydol is noted for being able to wall attacks from both ends with reasonable success. As for the rest, allocating a reasonable amount to Defense, as well as a Bold nature, is the advisable course of action to take since Claydol is primarily a physical wall; 144 Defense EVs give Claydol about equal defensive stats on both ends, while the remainder is pushed into Special Attack to bolster Claydol's otherwise quite average offense.</p>
+
+<p>Claydol itself is a good check to many physical attackers because it resists Close Combat, Stone Edge, and Earthquake. Thus, it makes an excellent partner to boosting sweepers such as Absol and Kabutops, who are more than happy to let Claydol dispose of Fighting-type foes while also setting up Stealth Rock to support the sweepers. Claydol's access to Rapid Spin benefits Pokemon who are weak to Stealth Rock; for example, Moltres and Scyther both greatly value the removal of the rocks, as they would be the death of them without a spinner. Other Rock-weak Pokemon such as Swellow and Arcanine also value Stealth Rock's absence, saving them a great deal of health. Choice Band Spiritomb makes an excellent partner, as not only can it trap and OHKO Ghost-types such as Mismagius and Rotom with STAB Pursuit, but it can also use its own Ghost typing to block any Rapid Spin attempts made by the opponent, keeping Claydol's Stealth Rock on the field. For these reasons, Spiritomb is Claydol's best friend and worst enemy from a strategic point of view.</p>
+
+<p>The most effective way to deal with an opposing Spiritomb is generally to employ a Fire-type wallbreaker, such as Blaziken or Arcanine, who can dispose of it with Fire Blast or Flare Blitz respectively, and have the benefits of being immune to Will-O-Wisp and possessed of a Dark-type resistance or Intimidate respectively. Due to Claydol's numerous weaknesses, there are a wide variety of offensive Pokemon who give Claydol trouble, the most common being Mismagius, Venusaur, and Milotic. Specially defensive Registeel can deal with the former two, as well as being a good check to Swellow and Scyther. It also has good defensive synergy with Claydol, as it resists five of Claydol's six weaknesses while Claydol resists two of Registeel's three weaknesses, without them sharing a single weakness. Together, they resist 15 of the 17 types in the game. The two unresisted types are Fire and Water, and as such a bulky Water-type can be useful. Milotic is one of the best choices since it has good all-round defensive stats, access to Recover and can take Water and Ice attacks aimed at Claydol with ease, as well as taking Fire attacks aimed at Registeel. Opposing Water-types can be dealt with through Grass-types, so including Venusaur or Sceptile on your team would be a good investment, though you must be careful as it will make you susceptible to Moltres. Stealth Rock whittles Moltres and other Flying-types down quite quickly, allowing you to usually bring it down with repeated assaults, if you lack a bulky Water-type such as Milotic.</p>
+
+[SET]
+name: Calm Mind
+move 1: Calm Mind
+move 2: Earth Power
+move 3: Psychic / Ice Beam
+move 4: Rest
+item: Chesto Berry
+nature: Modest
+evs: 160 HP / 252 SpA / 96 Spe
+
+[SET COMMENTS]
+
+<p>Claydol has access to Calm Mind as well as STAB Earth Power, allowing it to perform the role of a bulky setup sweeper. Thanks to its good bulk and resistances, Claydol can come in on something it frightens and begin setting up. Claydol is usually weaker to special attackers, but by boosting its Special Defense stat it can survive most major assaults and return fire with its own moves. Claydol can then recover health and remove status using Rest, the major drawback of which can be negated once by using Chesto Berry for the item.</p>
+
+<p>Calm Mind boosts Claydol's decent Special Defense stat while also raising its rather average Special Attack stat to make it an offensive threat. Earth Power is Claydol's most useful special STAB option. For its second offensive move, STAB Psychic is a strong choice, as greater overall power is more important to Calm Mind Claydol than super effective coverage. Earth Power hits the Steel-types who resist Psychic, as well as Houndoom and Drapion, for super effective damage while Psychic hits common Grass-types such as Venusaur, as well as Weezing, for super effective damage. For the last slot, Rest is the primary option, giving Claydol a bit more durability, recovering lost HP, and also preventing the opponent from attempting to stall you out with Toxic.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>For other options, Ice Beam has the best coverage with Earth Power, hitting Grass-types and Flying-types for super effective damage. In the item slot a Chesto Berry is used in order to wake Claydol up immediately after the use of Rest. The reason why a Lum Berry is not used is because the Chesto Berry cannot be accidentally removed by a different status condition. Claydol is given maximum Special Attack EVs, as otherwise it is unlikely to be doing any serious damage even when boosted. After that enough EVs are allocated to Speed to beat 52 Spe Blaziken and everything slower, although you do also have the alternative of running 108 EVs in order to beat 56 Spe Milotic and Adamant Torterra. 160 EVs are given to HP, which is important as Claydol gains a HP stat of 301. This means that it can take three Seismic Tosses, allowing it to set up on Chansey by alternating between Calm Mind and Rest. Although Claydol cannot ever 2HKO Chansey even when at +6, both Earth Power and Psychic have a chance to lower Chansey's Special Defense, so it is likely that Claydol will win the stall-war.</p>
+
+<p>Without Shadow Ball, Mismagius can Calm Mind up alongside Claydol and destroy it with its own Shadow Ball. Registeel makes a good check to most Mismagius but it cannot beat Substitute + Charge Beam Rotom, who can be revenge killed by Pokemon such as Pursuit Dugtrio and specially defensive Drapion. You will also want a way to beat the bulky Water-types who love to switch into Claydol, whom Registeel and Milotic both cannot beat either. Specially defensive Venusaur makes a great check to almost all bulky Water-types such as Milotic and Slowbro, taking even the most powerful Ice Beams with ease, recovering health with Synthesis, and killing with STAB Energy Ball or Power Whip.</p>
+
+[SET]
+name: Choice Scarf Lead
+move 1: Trick
+move 2: Stealth Rock
+move 3: Rapid Spin
+move 4: Earth Power / Explosion
+item: Choice Scarf
+nature: Bold
+evs: 252 HP / 252 Def / 4 SpD
+
+[SET COMMENTS]
+
+<p>Claydol's versatility as a lead allows it to pull off a Trick-oriented set quite effectively. Tricking is only half the fun; deciding how to capitalize on your opponent's misfortune is the second part of this set's strategy.</p>
+
+<p>Stealth Rock is always welcome on any team, but the two remaining moves are more dependent on the rest of your team. The moves listed are obviously the most general, since all teams enjoy Rapid Spin support and Earth Power / Explosion allows Claydol to attack after Tricking away its Choice Scarf. However, many other utility moves can be used in lieu of these moves. Claydol has access to dual screens which can come in handy on offensive teams that employ fragile sweepers, and can use Toxic to shorten the life expectancy of enemy walls. No matter how you decide to use Claydol, its reliability as a team supporter cannot be ignored.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given EV spread helps Claydol switch in against strong physical threats, like Aggron, Donphan, and Hitmonchan. However, if Claydol is using Explosion (or any other physical attack) in its moveset, use an Impish nature instead of Bold.</p>
+
+<p>Claydol has troubles with a few other popular leads, including Alakazam, Ambipom, Mesprit (especially Trick variants), and Uxie. Luckily, all of these Pokemon can be countered by one teammate: Choice Band Spiritomb. Spiritomb has no troubles switching in against these threats and Pursuiting them as they try to switch out. Other than these leads, however, Claydol should be able to pull off its strategy without a hitch.</p>
+
+<p>Pokemon locked into one attack make prime setup fodder. Teammates such as Venusaur, Rhyperior, or other boosting Pokemon or Substitute users have no problem switching in and setting up. Be wary of switching in blindly, however; many players will switch out their Tricked Pokemon if they feel threatened. Luckily, common leads such as Cloyster and Omastar will stay in and continue to lay down entry hazards, lessening the chance of a blind switch. Choice-locked Pokemon are also prime candidates for Dugtrio, whose Arena Trap makes picking them off simple. The shared Water weakness between Claydol and Dugtrio should not be overlooked, however, and should be covered by the rest of your team. It should be mentioned that Tricking your opponent's lead may not always be the best way to go about using Claydol; locking walls or boosting sweepers such as Chansey and Swords Dance Venusaur into non-attacking moves may be just as important as setting up Stealth Rock or dual screens at the beginning of the match.</p>
+
+[SET]
+name: Lead
+move 1: Reflect
+move 2: Light Screen
+move 3: Stealth Rock
+move 4: Explosion
+item: Light Clay / Lum Berry
+nature: Careful
+evs: 252 HP / 80 Def / 176 SpD
+
+[SET COMMENTS]
+
+<p>Claydol's pure support set is about as far as you can go in terms of team support. This set's only concern is bringing the full force of Claydol's movepool onto the opponent very early in the game and by using Claydol's impressive defensive capabilities in tandem with its excellent support movepool to make an early sweep possible by a fast, powerful boosting sweeper such as Nasty Plot Mismagius or Swords Dance Scyther.</p>
+
+<p>Stealth Rock is used to support the team, allowing your sweepers to get the necessary OHKOs and 2HKOs that they may not achieve otherwise. It also breaks any Focus Sashes that your opponent may be trying to hide. Reflect and Light Screen make up the popular 'dual screen' combination, shielding your team from attacks. Explosion is your final move, and grants your sweeper a free switch after Claydol's death. Light Clay increases the duration of Light Screen and Reflect by three turns, and is the item of choice on this set, while Lum Berry is the other recommended item, allowing you to live through Venusaur's Sleep Powder, though admittedly it could also simply attack with Energy Ball or Power Whip.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The set is most effectively used as a lead, where the idea is to set up both screens and Stealth Rock, and then Explode on your opponent's face, taking down or weakening one of your opponent's Pokemon and allowing your sweeper to come in for free. From there, your sweeper can boost up and take down the rest of your opponent's team. With Light Clay, assuming you have used Light Screen, Reflect, and Stealth Rock, with a turn to explode and a turn to set up once with your sweeper, you still have three turns of Reflect and two turns of Light Screen left, hopefully granting you enough time to wreak irreparable damage and allowing your team to clean up where your sweeper left off. A Calm nature and high Special Defense EVs allows you to take beatings from specially-inclined leads before falling thanks to Claydol's impressive Special Defense stat, assuming Claydol used Reflect first. 80 Defense EVs are invested to give Claydol reasonable defensive stats on both sides.</p>
+
+<p>The order you use dual screens should be determined by the sweeper you intend to send in; for example, Dragon Dance Altaria is quite weak on the physical side, so Reflect should be used first, just in case you are knocked out next turn. As previously mentioned, setup sweepers work best alongside this Claydol variant, coming in immediately after Claydol has Exploded and setting up stat boosts under the protection of Claydol's lingering screens. Nasty Plot Mismagius works well within this capacity, being able to set up more bulky Substitutes and boost its Special Attack. Another tactic is to use Claydol in tandem with a Baton Passer such as Scyther to set up a Swords Dance or Agility before passing it off to another powerful Pokemon, though this tactic requires much skill and half your team to pull off. The most likely ways that this strategy will fail are if your opponent has a Taunt lead such as Ambipom or Electrode, completely shutting Claydol down, or a Pokemon with Brick Break, who can make your efforts all for naught in one turn.</p>
+
+[SET]
+name: Trick Room
+move 1: Trick Room
+move 2: Earthquake
+move 3: Stone Edge
+move 4: Explosion
+item: Life Orb / Leftovers
+nature: Brave
+evs: 252 HP / 252 Atk / 4 Def
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>Thanks to Claydol's good overall defensive stats it makes for a top choice Trick Room activator in Underused, giving it another way to support its teammates. With a Brave nature and 0 Speed IVs Claydol reaches 139 Speed, enough to outspeed all Pokemon of base 55 Speed or higher under Trick Room, with its offensive moves able to cause some trouble to the opponent's team.</p>
+
+<p>Explosion acts as a single safe switch for your Trick Room sweeper, though generally Claydol will not want to sacrifice itself so quickly until late-game, as its bulk means it can usually set up Trick Room more than once per game. This leaves you with two moveslots, giving you a choice of combination between Ice Beam and Earth Power or Stone Edge and Earthquake. To avoid splitting EVs, as Earthquake and Explosion are both physical attacks, the "EdgeQuake" combination is the preferred set of moves here.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>A Brave nature lowers Claydol's Speed, a useful tactic on a Trick Room team, while increasing Claydol's Attack. To maximize Attack, 252 EVs are invested, as well as 252 EVs in HP to promote overall bulk, while the leftover EVs are slotted into Defense. A Speed IV of 0 is used to minimize your Speed stat for optimal efficiency under Trick Room conditions.</p>
+
+<p>One of the great benefits of using Trick Room is that its effects are carried on to the next Pokemon, allowing it a maximum of four turns of wrecking time. On the physical side, Rampardos has a massive Attack stat and can destroy almost any Pokemon it walks into, with its low Speed and horrible defensive stats made up for by Trick Room, allowing it to outspeed most competition. Marowak is also extremely powerful, with its signature item Thick Club boosting its Attack, allowing it to fire off very powerful STAB Earthquakes. Rhyperior has strong STAB moves and a good offensive typing as well as decent defensive stats and access to Swords Dance, with its poor Speed now an extra bonus. Ursaring, too, has Swords Dance and can use a Flame Orb to activate Guts, also granting it a 140 Base Power STAB move in the form of Facade to use off its 130 base Attack stat. On the special side, Clamperl works a lot like Marowak, with its signature item DeepSeaTooth boosting its Special Attack to a maximum of 540, added to the fact that it is faster than almost anything else under Trick Room. Glaceon is another good special choice, being able to fire off powerful Ice Beams from its base 130 Special Attack stat, and its low Speed now considered a great asset.</p>
+
+[Other Options]
+
+<p>Claydol seemingly has an endless array of support moves. It learns both Rain Dance and Sunny Day, but its utility on these teams is limited, as it receives no boost itself from weather. Ways for Claydol to boost its stats include Rock Polish, which is generally outclassed by Trick Room, and Cosmic Power, allowing it to slowly become an impenetrable fortress over time, especially when in tandem with RestTalk, but also leave it exposed to boosting sweepers such as Swords Dance Absol and critical hits. RestTalk can be used on its own too, but this gives Claydol a serious case of moveslot syndrome.</p>
+
+<p>Zen Headbutt is Claydol's only physical Psychic STAB, and having no great coverage is not usually worth the moveslot. Rock Slide is an alternative to Stone Edge on physical sets if you dislike Stone Edge's accuracy. On the special side, Shadow Ball hits Ghosts who may try to block Rapid Spin, in particular Mismagius and Rotom, and Toxic is a nice weapon to use against the bulky Water-types who may attempt to switch in. In the same vein, Grass Knot can also be used against heavier Water-types in general.</p>
+
+<p>Claydol is primarily a defensive Pokemon, and as such maximum HP is a must on all of its sets, as it will frequently be required to check opponents on both sides. After this, most of the remaining EVs should be placed in Defense, as Claydol is going to need it to take on powerful Fighting- and Ground-types. Some EVs should also be placed into Special Attack or Special Defense, and Claydol has the potential to run Speed EVs as well to outspeed slower threats since it is one of the faster walls at 75 base Speed. In particular, 60 EVs allow you to outrun 16 Speed Rash Blaziken, whom you can usually OHKO with STAB Earth Power or Psychic, as well as 0 Speed Milotic. If you wish to invest more heavily, 108 Speed outspeeds most bulky Milotic, Torterra, and 64 Speed Blaziken.</p>
+
+<p>The Calm Mind set requires a great deal of Special Attack in order to maximize damage output, and Speed EVs are generally also advised here since Claydol can benefit greatly from outspeeding certain key threats and dealing damage before it can be harmed. For Trick Room, Claydol is inclined to be more offensive, so maximum Attack is usually the best choice along with a Brave nature to make it more effective under Trick Room, although a Relaxed nature is also plausible if you want a more defensive Claydol. You should also use a Speed IV of 0 in order to outspeed as many Pokemon as possible under Trick Room conditions.</p>
+
+[Checks and Counters]
+
+<p>The best counters for Claydol are generally bulky Water-types who can take its moves with ease; for example, Milotic works very well, taking little damage from Earth Power and resisting Ice Beam while able to hit back with STAB Surf. Spiritomb does not have any notable resistances but can block Claydol's attempts to Rapid Spin and eliminate it with Pursuit if it tries to flee. Grass-types such as Venusaur also work very well, and although Venusaur itself does not resist Earth Power, it takes little damage from unboosted Ice Beams and can outspeed and hit back with STAB Leaf Storm. Scyther is immune to Earth Power and both it and Absol can OHKO with their STAB moves, but Scyther fears Ice Beam and Stone Edge, while Absol will not enjoy taking repeated Earth Powers.</p>
+
+<p>In general, most Pokemon who can hit Claydol hard can check it, as its offensive stats are not great. Mismagius is immune to Earth Power and can deal serious damage to Claydol with Shadow Ball, though it must be wary of Claydol's own Shadow Ball. Azumarill and Feraligatr can take an Ice Beam and attack back with STAB Waterfall. Lastly, if Claydol lacks Ice Beam or Shadow Ball, other Claydol may pose a problem.</p>

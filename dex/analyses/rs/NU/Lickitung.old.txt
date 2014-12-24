@@ -1,0 +1,74 @@
+[Overview]
+
+<p>Lickitung is an excellent jack of all trades for NU play, most notably with the awesome supportive moves Knock Off, Heal Bell, and Wish. It can also hurt things decently with its nice physical movepool, Counter some Choice Band users, or Curse / Swords Dance up. In UU however, it is outclassed by Kangaskhan and in standard Snorlax takes his cake, not to mention other handy Normal-types like Ursaring, Tauros, and Slaking.</p>
+
+[SET]
+name: Support
+move 1: Seismic Toss / Body Slam
+move 2: Heal Bell
+move 3: Wish / Toxic
+move 4: Protect / Knock Off
+item: Leftovers
+nature: Careful
+evs: 252 HP / 88 Spe / 168 SpD
+
+[SET COMMENTS]
+
+<p>This is a defensive set that you should use in NU like you would use Blissey in standard. Heal Bell or Wish to heal yourself and the team, and Seismic Toss or Body Slam to wear opponents down and in the case of the latter, potentially paralyze. Toxic makes up for Lickitung's inferior Attack, while Knock Off is ever-useful. Protect can work with Wish.</p>
+
+[SET]
+name: Choice Band
+move 1: Body Slam / Return
+move 2: Earthquake
+move 3: Rock Slide
+move 4: Sleep Talk
+item: Choice Band
+nature: Adamant
+evs: 168 HP / 252 Atk / 88 Spe
+
+[SET COMMENTS]
+
+<p>Choice Band is a surprise. Aipom and Furret pull this off better due to higher Speed, but at least Lickitung has Rock Slide to hit Butterfree, Beautifly, and Ledian really hard (as well as other Bug-types, but note Return will do more to those). Sleep Talk is there as a filler move; if you have it you can use Lickitung to absorb any sleep move and still continue hitting. Shadow Ball is nearly useless in NU because there's no Ghost-types or Solrock, though it hits Chimecho harder than nearly anything else. If you're using this in UU play for some reason, you'll want Shadow Ball for Solrock, Lunatone, and Ghost-types, and in standard you will need it for Gengar. Replace Rock Slide in that case. Focus Punch or Fire Blast are options for standard as well.</p>
+
+[SET]
+name: SubPunch
+move 1: Substitute
+move 2: Focus Punch
+move 3: Body Slam
+move 4: Earthquake / Wish
+item: Leftovers
+nature: Brave / Adamant
+evs: 252 HP / 252 Atk / 4 Def
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>Focus Punch hits Nosepass, Sudowoodo, Mawile, and other NU Normal resisters really hard. It's easy to set-up and requires almost no prediction. Earthquake is not only to hit Plusle and Minun harder but also to finish off Normal resists, which is more practical than trying to Focus Punch again as they might hit Lickitung and Substitute costs it more health. Wish can work to regain lost health.</p>
+
+<p>The -Speed nature and 0 Speed IV are optional to ensure Lickitung is outsped by enemy Lickitung and other things it Speed ties with, but there's also occasions where you want to be faster, so Adamant and perfect IVs all around is equally acceptable</p>
+
+[SET]
+name: Curse
+move 1: Curse
+move 2: Return / Body Slam
+move 3: Rest / Wish
+move 4: Earthquake
+item: Leftovers
+nature: Careful
+evs: 252 HP / 112 Atk / 144 SpD
+
+[SET COMMENTS]
+
+<p>Lickitung with Curse can tank and put a hurt into the NU standards. Wish is a little impractical and makes Lickitung vulnerable to Toxic, but Rest gives enemies more opportunities to come in and hurt it or use Haze, Leech Seed, Roar, Whirlwind, and other nasty things.</p>
+
+[Other Options]
+
+<p>Belly Drum is suicide with Lickitung's low Speed, unless you can Baton Pass it some boosts, or paralyze a lot of opponents. It's a little slow for Swords Dance as well, but at least that isn't as all-out, so it's a decent option. Counter is great for Choice Band users as Lickitung survives nearly everything in NU (and quite a lot in standard and UU too). Return and Double-Edge are always options over Body Slam--while Body Slam can paralyze and thereby fix Lickitung's lackluster Speed, Return and Double-Edge give it more attacking power. Psych Up can snatch boosts from Baton Pass users.</p>
+
+[EVs]
+
+<p>Max HP on defensive Lickitung, and max Attack on the offensive versions. 88 Speed EVs allow it to outspeed Togetic and Ariados with no Speed EVs, which can come in handy. Any spare EVs can be used to work on defenses, like demonstrated in the sets.</p>
+
+[Checks and Counters]
+
+<p>Sudowoodo, Magcargo, Nosepass, Corsola, Mawile, and Relicanth are good NU Normal resists that can take any Normal hit from Lickitung. Their Defense is high enough to take one or two Earthquakes too, except for Magcargo as it's 4x weak instead of 2x. Dustox can Whirlwind it out if Lickitung boosts something, but has kind of low Defense so Dustox will mostly be there to sop up Toxics or Seismic Tossing sets, or when Lickitung is Resting. Torkoal has immense Defense and can Yawn to force out Lickitung or hit it hard with a Fire move. Pelipper can take quite a few hits too.</p>

@@ -1,0 +1,76 @@
+[Overview]
+
+<p>Tauros is a straightforward, dangerous physical attacker in NU, capable of threatening a wide variety of teams. The reason for this should be fairly obvious&mdash;it's one of the fastest Pokemon in the tier, packs plenty of power, and has a good amount of coverage in its decent movepool. This is combined with an excellent ability in Sheer Force, which pushes its attacking prowess even further, and it has ways to work around Pokemon that other Normal-types would typically struggle with. Tauros's main flaw is that it usually struggles with prominent physical walls. It also has competition with Kangaskhan, who has Scrappy and several priority moves to work with.</p>
+
+[SET]
+name: Life Orb
+move 1: Rock Climb
+move 2: Earthquake
+move 3: Zen Headbutt
+move 4: Substitute
+item: Life Orb
+ability: Sheer Force
+nature: Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>This is the set Tauros is best known for, offering impressive coverage that is augmented by its high Attack and Speed. Like any other Pokemon that utilizes Sheer Force, Tauros has the advantage of ignoring Life Orb recoil while still obtaining all the benefits of the item, meaning outpredicting it will not wear it down as quickly as other Pokemon. Rock Climb is the strongest STAB move Tauros gets that is affected by Sheer Force, and is thus used on this set. Although not boosted by the ability, Earthquake is essential for coverage against Steel- and Rock-types. Zen Headbutt gets a super effective hit on Fighting-types such as Gurdurr and is the only way Tauros can hit most of the Ghost-types in the tier, including Haunter, Misdreavus, and Drifblim. Zen Headbutt also gets the bonus of 2HKOing Weezing. Because the above three moves offer excellent coverage, Tauros has room to run Substitute. With a Substitute, it can ease prediction and protect itself from status, as well as defeat defensive variants of Misdreavus without Foul Play as it is immune to Misdreavus's Ghost STAB. Substitute also allows Tauros to avoid revenge killers and hit them hard before they are able to damage it.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Tauros should always run maximum Speed and a Jolly nature in order to take advantage of its excellent Speed stat, as it outspeeds all but a handful of NU Pokemon. Because Rock Climb's imperfect accuracy can be fairly annoying at times, Return is a suitable replacement, although note that it is not only weaker, but also causes Tauros to take recoil damage from its Life Orb. Rock Slide could be used over Zen Headbutt to hit Drifblim harder and get a very strong hit on foes such as Braviary, but Zen Headbutt and Rock Climb already hit both targets very hard, respectively, and without Zen Headbutt, Tauros becomes much more vulnerable to Gurdurr, Weezing, and Throh.</p>
+
+<p>Despite the fact that it has Zen Headbutt, the most common Fighting-types in the tier are still threats to Tauros. This is because Gurdurr and Throh have the bulk to take a hit and retaliate, while Primeape, and to a lesser extent Sawk, often utilize Choice Scarf, allowing them to outspeed and OHKO Tauros with Close Combat. Bulky Psychic-types such as Musharna can wall and defeat a majority of the Fighting-types in the tier, while Ghost-types such as Misdreavus are immune to their STAB moves and can burn them, although note that a few of them have Guts as an ability. In an unlikely scenario in which Tauros gets afflicted by a status condition and has its offensive prowess severely cut, both of them also have Heal Bell. Many prominent physical walls, such as Alomomola and Tangela, have a relatively easy time dealing with Tauros as a result of it not having any way to cripple them. Sawsbuck and Electabuzz are capable of defeating both of them; Sawsbuck absorbs a majority of Tangela's attacks thanks to Sap Sipper and can hit Alomomola hard with Horn Leech, while Electabuzz's Electric STAB and Vital Spirit allow it to take on both walls as well. Finally, although Tauros has Earthquake, most Rock-types can take a hit or two thanks to their extremely high Defense stats and potentially defeat it. This makes Tangela a good partner, taking on Rock-type attacks with its high Defense and dispatching them with Giga Drain. Tangela also does well against Golurk, who is another Pokemon that threatens Tauros.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Double-Edge
+move 2: Earthquake
+move 3: Stone Edge
+move 4: Pursuit / Retaliate
+item: Choice Scarf
+ability: Intimidate
+nature: Adamant / Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Although it might seem like a waste to give a Choice Scarf to a Pokemon as fast as Tauros, this excessive Speed is in large part why it makes such an effective Choice Scarf user. Because Tauros is so fast, it can afford to run an Adamant nature and still be capable of revenge killing weather sweepers. More importantly, however, even Adamant Tauros can outspeed almost all other prominent Choice Scarf users in the tier, most notably ones at base 95 Speed, such as Primeape and Jynx. Double-Edge is the strongest reliable STAB Tauros has, and it is the move it will be using in nearly every situation. Earthquake is primarily for hitting Rock- and Steel-types who can switch into Double-Edge, for a solid amount of damage. Stone Edge allows Tauros to OHKO Drifblim, and it is the best option it has against Misdreavus. The final move is used for specific situations. Pursuit practically checkmates Jynx, Haunter, and Kadabra to an extent, OHKOing them if they switch out and still dealing a substantial amount of damage even if they don't. Retaliate, on the other hand, is an interesting option that goes well with Tauros's role as a revenge killer&mdash;it usually finishes off the opponent in this case due to its high power. Note that neither move is particularly good to be locked into though, however, as both are fairly weak most of the time.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Although Adamant is the preferred nature for this particular Tauros, a Jolly nature allows it to outspeed the few Pokemon that can possibly outspeed it otherwise, including Choice Scarf Charizard and Modest Choice Scarf Zebstrika, as well as Timid Victreebel and Ludicolo in their respective weathers. Intimidate is the only ability that Tauros can benefit from on this set and does offer it a few additional switch-ins. Return could be used in the last moveslot for an alternative STAB move, or even over Double-Edge, although the power drop is notable. Toxic is useful in the case of a predicted switch into a Pokemon that Tauros struggles against; Rock-types, Golurk, Misdreavus, Tangela, and Alomomola do not enjoy getting poisoned, but it is a rather bad move to get locked into and relies almost completely on prediction.</p>
+
+<p>Ghost-types are particularly dangerous against this set because Double-Edge is usually used more than other moves, and many also do not mind Tauros's other moves. Skuntank is a good partner as a result, as it can do a good job against them thanks to Pursuit and its arsenal of other Dark-type moves, although it must be careful around Golurk due to Earthquake. Steel- and Rock-types will also often get free switch-ins due to Tauros's reliance on Double-Edge, and they typically have Defense stats high enough to tank its attacks. Due to this, strong Fighting-types such as Sawk make good partners, as they can power through most of them with their STAB moves. Finally, Alomomola and Tangela can switch into anything Tauros has other than Toxic and wall it entirely, so Pokemon that can deal with both of these, such as Electabuzz, make good teammates.</p>
+
+[SET]
+name: Substitute + Endeavor
+move 1: Substitute
+move 2: Endeavor
+move 3: Rock Climb
+move 4: Zen Headbutt
+item: Life Orb
+ability: Sheer Force
+nature: Jolly
+evs: 8 HP / 248 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Although this set might look somewhat gimmicky at first, it makes Tauros an excellent lure for Pokemon that would typically wall it with ease, opening up the way for other sweepers to have a much easier time. The goal of this set is to use Substitute as many times as possible, and then use Endeavor to bring the opponent down to very low HP, leaving it able to be finished off by just about any move and irreparably damaged if it lacks recovery. Among the Pokemon that this set can wear down immensely are Regirock, Carracosta, and Metang. To an extent, it can also wear down Pokemon such as Alomomola and Tangela as well, although they have recovery to compensate for the loss of HP. This set is still capable of doing damage to its foes outside of this strategy&mdash;Rock Climb alongside Sheer Force and a Life Orb is still strong enough to make it a hard-hitting physical attacker. Finally, Zen Headbutt is the best move Tauros has to hit Ghost-types, which are immune to Endeavor.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>8 HP EVs are used in order to allow Tauros to make four Substitutes while at full health, with the last one leaving it with 1 HP remaining. Sheer Force and a Life Orb is recommended so that Tauros does not depend too much on Endeavor to deal damage. Leftovers is a subpar option to restore HP lost using Substitute, allowing it to cripple a few extra foes, as this is somewhat counterproductive due to Endeavor. With Leftovers, be sure to use Intimidate and Return in order to maximize the damage output from Tauros's Normal STAB. Earthquake is also a decent option in order to hit Steel- and Rock-types hard; however, it will not come in handy too often because Endeavor already cripples them, and Earthquake forces Tauros to take recoil damage from Life Orb, unlike Zen Headbutt.</p>
+
+<p>As this variant of Tauros is made to work around its typical counters, not very many partners are needed for it to function at its best. However, this set still struggles with Ghost-types because they are immune to Endeavor, so Skuntank support can come in handy due to its STAB Pursuit and other Dark-type moves. If there are entry hazards on the field, Tauros might no longer be able to make Substitutes at a higher than intended health, and if Toxic Spikes is on the field, it is practically incapable of doing its job. For this reason, a Rapid Spin user might be worth using&mdash;Torkoal and Armaldo in particular enjoy the absence of Rock-types because both are weak to their STAB. Finally, physical attackers that struggle with breaking through walls make good partners, as they can take advantage of Tauros's ability to remove them. Kangaskhan is a good example of this, as it can do a lot more damage without the opponent's Rock-type being able to easily switch into its Normal STAB, and it can hit Ghost-types thanks to Scrappy, making up for Tauros's inability to cripple them. Pokemon that struggle against Alomomola and Tangela, such as Gurdurr, also make good partners, but beware that, due to Regenerator and their instant recovery, Tauros will need to be able to do enough damage to finish them off before they recover their HP.</p>
+
+[Other Options]
+
+<p>Even though Tauros has a relatively generous movepool, most of it is unusable, and it lacks very many other options. Despite its terrible Special Attack, Sheer Force allows it to use Fire Blast and Thunder to 2HKO Tangela and Alomomola. However, these moves have limited use outside of this because they do not inflict a lot of damage against most targets, and Thunder in particular has horrid accuracy. Iron Head is boosted by Sheer Force and hits Rock-types harder than anything else Tauros has, but its coverage otherwise is fairly bad, making Earthquake the superior option most of the time. Earthquake also hits Steel-types such as Metang much harder than Iron Head. Tauros's only setup option is Work Up, but in the end, a +1 boost is rarely enough to take advantage of, especially for a Pokemon that rarely has space to run it. Wild Charge can OHKO Drifblim and deals a heavy blow on other Flying-types and doesn't have any chance of missing, but the recoil damage can be fairly annoying. Finally, Tauros can utilize a Choice Band with Intimidate to make a decent offensive pivot, but with Sheer Force canceling out Life Orb recoil on most moves, the main advantage of Choice Band is somewhat wasted. In fact, because of its reliance on Double-Edge, a Choice Band set often takes more recoil damage than a Life Orb set!</p>
+
+[Checks and Counters]
+
+<p>Tauros has several ways to get around many Pokemon that would usually counter it, leaving few Pokemon that can reliably take on all variants. Any Misdreavus with Foul Play over Shadow Ball is the best way to take on Tauros, as it is immune to its STAB, can burn it with Will-O-Wisp, and has an attack that can break its Substitutes. It also has Heal Bell to take any surprise Toxics. Golurk is also immune to Normal-type attacks and isn't weak to anything Tauros has. It can hit back hard with Drain Punch and Earthquake. Although Gurdurr is 2HKOed by Zen Headbutt, it has Drain Punch to heal off the damage and get out of range of this, Mach Punch to finish Tauros off, and the bulk to switch into any other attack. Alomomola can wall Tauros almost completely and stall it out due to Wish, and it can usually break its Substitutes with Waterfall. Additionally, recoil from Double-Edge takes a large toll on Tauros due to Alomomola's high HP. It must be careful around Endeavor, although Regenerator and Wish help it regain lost HP. Tangela is in a similar boat in regards to walling, although its Giga Drain will always break Tauros's Substitutes.</p>
+
+<p>There exist more shaky checks to Tauros that need to be careful around coverage moves or Endeavor due to lack of reliable recovery. Regirock is a prime example of this despite being able to cripple Tauros with Thunder Wave and wear it down with Drain Punch while keeping itself healthy. It has a high enough Defense to sponge an Earthquake, but it still must be careful around Tauros. Defensive variants of Carracosta have Solid Rock to mitigate damage from Earthquake and can wear down Tauros over time. Weezing gets 2HKOed by Zen Headbutt, but it can wall Tauros otherwise and burn it with Will-O-Wisp. Finally, Tauros can be revenge killed by faster Pokemon such as Swellow and Choice Scarf Primeape, although this is only if Tauros doesn't have a Choice Scarf of its own and isn't behind a Substitute.</p>

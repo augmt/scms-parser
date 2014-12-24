@@ -1,0 +1,57 @@
+[Overview]
+
+<p>With high-power moves, an impressive base 120 Attack, and a decent base 100 Speed, Staraptor charges towards its opponents head-first, hitting hard and fast. Receiving both the Intimidate and Reckless abilities, it can choose between providing support for the team, or going straight for the KO. Its poor defenses, further weakened by recoil damage or Close Combat defense drops, might make one think twice about using Staraptor, but with a bit of support and by picking its fights wisely, this black-feathered bird can blaze a path through its opponents' teams.</p>
+
+[SET]
+name: Choice
+move 1: Brave Bird
+move 2: Double-Edge
+move 3: Close Combat
+move 4: U-turn
+item: Choice Scarf / Choice Band
+ability: Reckless
+nature: Adamant / Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>With Reckless boosting Staraptor's recoil moves, its Brave Bird and Double-Edge become 144 Base Power STAB moves. Brave Bird and Close Combat provide great coverage, while Double-Edge fills in the remaining gaps by hitting Thundurus and Zapdos hard. U-turn provides Staraptor with a way to switch out while dealing damage, but it can be risky if Staraptor is blocked by Protect while using U-turn.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs allow Staraptor to hit as hard and fast as possible. Its Double-Edge can OHKO 4/0 Thundurus and 4/0 Latios, and with a Choice Scarf, it will easily be able to outrun them to execute its attacks. A Choice Band can be used instead of a Choice Scarf, trading Speed for power and increasing Staraptor's OHKO list, but it will require a lot of support as Staraptor's base 100 Speed is just a bit too slow for the job. Choice Band Staraptor should also utilize a Jolly nature; even with Jolly, Staraptor can OHKO 4/0 Garchomp with its recoil moves.</p>
+
+<p>If being locked into one move is unfavorable, Staraptor can run a Normal or Flying Gem instead of a Choice item. This allows Staraptor to have more freedom of choice in terms of its moves, and enables it to run Protect over U-turn. Similarly to Choice Band Staraptor, it will need quite a bit of support to work well, due to the presence of many faster Pokemon in the metagame.</p>
+
+<p>An alternative EV spread of 252 HP / 52 Atk / 204 Spe allows the best use of Final Gambit. With 192 HP, Staraptor's Final Gambit delivers an OHKO against the likes of Metagross, Togekiss, Ferrothorn, Porygon2, and Latias, who can be difficult for it to KO normally. 204 Speed EVs give Staraptor 146 Speed, allowing it to always outrun Choice Scarf base 80 threats, such as Chandelure or Mamoswine. As Final Gambit becomes the main focus of the set, Intimidate is recommended over Reckless.</p>
+
+<p>Using this Staraptor will be all about having it land its devastating attacks while finding a way to keep it alive for as long as possible. Users of Fake Out, Follow Me, or Helping Hand work very nicely in allowing Staraptor to survive longer or hit harder. Faster sweepers, such as Latios and Terrakion, can also work by keeping the opponent under pressure with heavy hitting attacks.</p>
+
+[SET]
+name: Tailwind Support
+move 1: Brave Bird
+move 2: Close Combat
+move 3: Tailwind
+move 4: Protect
+item: Wacan Berry
+ability: Intimidate
+nature: Adamant
+evs: 252 Atk / 140 SpD / 116 Spe
+
+[SET COMMENTS]
+
+<p>The goal of this Staraptor is to provide Intimidate and Tailwind support to its team; once it sets up, it can proceed to go on the offensive. Brave Bird and Close Combat provide great coverage, and differentiates Staraptor from Salamence, who is able to perform a similar role. Tailwind allows Staraptor to double the Speed of its teammates for three turns, while Protect protects Staraptor from incoming attacks.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>116 Speed EVs give 135 Speed, allowing Staraptor to outrun Ludicolo in the rain after using Tailwind. The rest of the EVs go into maximizing Staraptor's Attack, with the remainder added into Special Defense. Investing in Special Defense instead of HP allows Staraptor to survive non-STAB Ice Beams or Blizzards from various Water-type Pokemon, such as Politoed and Ludicolo, while Staraptor can hold a Wacan Berry to survive Zapdos's Thunderbolts, provided Zapdos does not run Life Orb or an Electric Gem. A Flying Gem or Life Orb can be run instead if you feel confident that you can keep Staraptor away from the high voltage.</p>
+
+<p>A partner that runs Fake Out increases Staraptor's chances of using Tailwind. Hitmontop can work very nicely, layering a second Intimidate upon the opponents, while Tailwind will allow it to outrun most Pokemon. Although Staraptor can hit hard, it does not last very long on the field. Be sure to have some heavy attackers on standby to back it up after it sets up Tailwind; many common Pokemon, such as Metagross, Chandelure, or Latios, make good teammates, but Tailwind can also open up the field for more interesting options, such as Darmanitan or Dragonite.</p>
+
+[Other Options]
+
+<p>Staraptor's movepool is quite shallow. Whirlwind stops Trick Room, Quick Attack gives Staraptor a priority move that can finish off weakened opponents, and Endeavor can be used at low HP as a surprise attack. Staraptor can try to be a revenge killer while keeping Intimidate by using Normal Gem and Retaliate; however, it is heavily situational. Lastly, FeatherDance further lowers the opponents' Attack stats. Most of the time, though, Staraptor will be hard-pressed to find space for these moves on its moveset.</p>
+
+[Checks and Counters]
+
+<p>Staraptor is quite frail and tends to take large amounts of recoil damage whenever it attacks, so it will go down quickly to powerful special attacks, or even non-Intimidate-weakened physical attacks. However, landing said attack on Staraptor can be tricky due to its Speed and power. Thundurus and Zapdos resist the combination of Brave Bird and Close Combat and can KO with Thunderbolt, but neither takes kindly to getting hit by Double-Edge. Metagross can take just about anything Staraptor can throw at it and strike back hard with Meteor Mash, but has to watch out for Final Gambit. Bisharp's Attack gets boosted by Intimidate, and it can OHKO with Sucker Punch. Sableye can cripple Staraptor with priority Will-O-Wisp. Lastly, Swift Swim Pokemon have little to worry about if the rain is up, as they outrun and OHKO Staraptor without too much of a problem.</p>

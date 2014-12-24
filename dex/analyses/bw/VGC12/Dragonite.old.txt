@@ -1,0 +1,52 @@
+[Overview]
+
+<p>In previous years, Dragonite was known as one of the weaker Dragon-types largely outclassed by its fellow Dragon-types, particulary Flygon and Garchomp, which were both faster. But now, thanks to its new ability, Multiscale, Dragonite's bulk has greatly increased, allowing it to hit hard before getting KOed. However, with its 4x weakness to Ice-type moves, the original dragon might have a hard time taking Blizzards, even with the help of Multiscale.</p>
+
+[SET]
+name: Physical Attacker
+move 1: Dragon Claw
+move 2: Extreme Speed
+move 3: Fire Punch
+move 4: Protect
+item: Haban Berry / Leftovers
+ability: Multiscale
+nature: Adamant
+evs: 204 HP / 252 Atk / 52 Spe
+
+[SET COMMENTS]
+<p>This is the standard Dragonite set. Dragon Claw is Dragonite's main move, as it gets the STAB boost and is only resisted by Steel-types. Fire Punch provides nice coverage along with Dragon Claw, hitting Abomasnow and Steel-types for super effective damage. However, it should be noted that despite being super effective, Fire Punch won't do over 50% to max HP Metagross. ExtremeSpeed will allow Dragonite to strike first, moving even before all other priority attacks bar Fake Out. Protect is a staple for most Pokemon in VGC, and can also be used in sync with Leftovers to help restore HP each turn.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The 204 HP EVs allow Dragonite to always survive Life Orb Latios's Draco Meteor, and also gives it maximum Leftovers recovery and good bulk. The 52 Speed EVs let Dragonite outrun minimum speed Rotom-A. The rest of the EVs are put into Attack. An Adamant nature allows Dragonite to deal as much damage as possible, while Leftovers is used to restore some HP each turn, which might allow multiple usage of Multiscale. Haban Berry, however, lets Dragonite survive a Dragon Gem Latios's Draco Meteor, which it cannot do with just Multiscale.</p>
+
+<p>As for teammates, Ground-types such as Krookodile can work well as Dragonite is immune to their Earthquake. Scrafty is a handy partner as it has Fake Out to help Dragonite preserve Mutiscale for a turn. Its STAB attacks are also super effective against Abomasnow and Latios, Dragonite's two main counters. Either Politoed or Ninetales can also be used to get rid of opposing sandstorm and hail if needed, as both of these weathers will break Dragonite's Multiscale.</p>
+
+[SET]
+name: Special Rain Attacker
+move 1: Draco Meteor / Dragon Pulse
+move 2: Hurricane 
+move 3: Thunder / Flamethrower
+move 4: Protect
+item: Dragon Gem / Haban Berry
+ability: Multiscale
+nature: Modest
+evs: 204 HP / 252 SpA / 52 Spe
+
+[SET COMMENTS]
+
+<p>Dragonite has a good Special Attack stat, so a specially offensive set should not be underestimated. Draco Meteor is a strong Dragon-type STAB attack, but has the unfortunate side effect of halving Dragonite's special attack after use, so Dragon Pulse can be a good alternative. Hurricane gets the STAB bonus too, and has perfect accuracy in the rain. Thunder can be used on a rain team, and can also be a good option outside of rain. Flamethrower gets good coverage with Dragonite's primary STAB, but will be weakened by rain if Dragonite is on a rain team. Protect is almost a necessity in VGC, and should be used on almost everything in it.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread is the same as the physical attacker set—the HP EVs guarantee Dragonite will survive Life Orb Latios's Draco Meteor, while the Speed EVs let it outpace uninvested Rotom-A—except the Attack EVs are moved to Special Attack instead and a Modest nature is used. As for item choice, Dragon Gem is useful for powering up Dragonite's Dragon-type attack, while the Haban Berry can help against opposing Dragon-types, most notably Dragon Gem Latios.</p>
+
+<p>As this is a weather-oriented set, Politoed gets first mention. In the rain, Thunder and Hurricane both have perfect accuracy, and with their 120 Base Power, they will do massive amounts of damage. Other partners include Earthquake users, Fake Out users, and Pokemon that can counter Dragonite's checks, such as Krookodile, Hitmontop, and Scrafty, respectively.</p>
+
+[Other Options]
+
+<p>Dragonite can also run a Trick Room set; the only change required would be to put the Speed EVs into HP and to use a Brave or Quiet nature. An unmentioned but viable attack to use is Earthquake, though Rock Slide is generally a better spread attack as it won't damage your partner. Brick Break is another option as it has good coverage with Dragon Claw, and can also break the rare Light Screen and Reflect. Roost could be chosen over Protect to renew Multiscale and restore health, but Protect is generally the preferred option in VGC. Dragonite can run the Inner Focus ability to prevent flinching from Fake Out, a move commonly used on Dragonite to break Multiscale. The extra turn could allow Dragonite to either attack or set up Tailwind.</p>
+
+[Checks and Counters]
+
+<p>As stated before, Latios and Abomasnow can counter Dragonite quite well. Abomasnow summons hail, which breaks Multiscale, making Yache Berry the only way to thwart Abomasnow. Similarly, Tyranitar conjures a sandstorm, and Rock Slide severely dents Dragonite once Multiscale is gone. Fake Out users, such as Hitmontop, can help break Multiscale, but they must be wary of the rare Inner Focus Dragonite that could use that turn to its advantage.</p>

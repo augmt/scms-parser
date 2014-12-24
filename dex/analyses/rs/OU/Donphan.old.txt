@@ -1,0 +1,43 @@
+[Overview]
+
+<p>Donphan's main advantage over Claydol, Starmie, and other Rapid Spin users is its ability to actually hurt the most common spinblocker: Dusclops. However, Donphan faces serious problems in a lack of a reliable recovery move, as well as the fact that it's hurt by the Spikes it's coming in to spin. It also has trouble with poison status, which Starmie can shrug off thanks to Natural Cure. While Donphan makes an excellent Dragon Dance Tyranitar counter, it has some troubles with TyraniBoah variants. All in all, it is a solid Pokemon.</p>
+
+[SET]
+name: Tank
+move 1: Earthquake
+move 2: Hidden Power Rock
+move 3: Rest
+move 4: Rapid Spin / Roar
+item: Leftovers
+nature: Impish / Adamant
+evs: 252 HP / 44 Atk / 188 Def / 24 Spe
+
+[SET COMMENTS]
+
+<p>Donphan is a typical physical tank and spinner. Switch it into one of the many physical attackers it can handle, then fire off attacks or use Rapid Spin. Thanks to its high base Attack stat and powerful STAB Earthquake, Donphan's damage output is a lot higher than almost every physical wall in OU. Hidden Power Rock is generally superior to Rock Slide because Donphan is too slow to take advantage of the flinch chance, and Hidden Power Rock does more damage on average. Additionally, Hidden Power Rock has more PP; this can be quite useful when facing a stall team, which is when Rapid Spin Donphan really shines. While Donphan is one of the few good users of Rapid Spin, it can also use Roar to phaze Pokemon such as Snorlax, Salamence, and Ninjask.</p>
+
+<p>You'll generally want to maximize Donphan's HP and invest fairly equally into its Attack and Defense. 24 Speed EVs allow Donphan to outspeed Relaxed Swampert, but if you aren't worried about the mudfish, you can dump the EVs into Attack or Defense instead.</p>
+
+[SET]
+name: Choice Band
+move 1: Earthquake
+move 2: Rock Slide
+move 3: Hidden Power Bug / Hidden Power Ghost
+move 4: Rapid Spin
+item: Choice Band
+nature: Adamant
+evs: 80 HP / 188 Atk / 216 Def / 24 Spe
+
+[SET COMMENTS]
+
+<p>This set is useful for multiple reasons. The first is that as long as your opponent packs a Ghost, such as Dusclops or Gengar, standard Donphan won't be able to Rapid Spin. With a Choice Band, however, Donphan can 2HKO Dusclops with Earthquake and Gengar with Rock Slide. Second, Donphan has a horrible typing, as far as special resistances go, in addition to an equally bad Special Defense stat. It will therefore have to either OHKO the incoming special attacker or switch out; Choice Band perfectly suits this sort of hit-and-run style of play. The final reason is sheer surprise: Donphan OHKOes Celebi with Hidden Power Bug, for instance, and 2HKOes all bulky Waters bar Suicune with Earthquake. Hidden Power Ghost can be used over Hidden Power Bug to OHKO Gengar and still do some damage to Celebi.</p>
+
+<p>Choice Band Donphan needs a bit more Attack than its Rapid Spin counterpart does. The remaining EVs are split between HP and Defense for maximum physical survivability.</p>
+
+[Other Options]
+
+<p>Counter is a nice surprise, but Donphan won't be taking much physical damage anyway, and does enough damage to Tyranitar with STAB Earthquake. Body Slam can cause paralysis, but that's about it. The Rapid Spin set can use Substitute in place of Rest to beat Dusclops one-on-one and to ease prediction, but Donphan will be worn down much more quickly. Toxic can be used to cripple Swampert and other Waters that often switch in on Donphan.</p>
+
+[Checks and Counters]
+
+<p>Donphan falls to any special attack; the trick is to switch your special attacker in without it dying to Donphan's powerful attacks. Bulky Water-types and Celebi make solid counters to the defensive set, but the Choice Band do can serious damage to almost all of them. Skarmory and Flygon fare well against the Choice Band, and prediction in general will usually work against it.</p>

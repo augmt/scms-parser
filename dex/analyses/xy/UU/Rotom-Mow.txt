@@ -1,0 +1,104 @@
+Overview
+########
+Rotom-C doesn't just mow lawns - it is also great at checking dangerous Water- and Ground-type Pokemon such as Suicune, Swampert, and Krookodile. Rotom-C's high Special Attack means that it can hit hard, and good defenses ensure that it can take a hit. Whether it is keeping up offensive momentum with Volt Switch or spreading status with Thunder Wave or Will-O-Wisp, Rotom-C is bound to get the job done. Additionally, access to Trick means that Rotom-C can cripple a special wall by giving it a Choice item on the predicted switch, and even though it is not very fast, base 86 Speed is still enough to get the jump on opponents such as Suicune. However, Rotom-C certainly has its problems - its only Grass-type STAB move halves its Special Attack, limiting how long it can stick around for, and it lacks reliable recovery. There are some things that Rotom-C just can't mow down; most Fire-types are very effective checks to Rotom-C, and it struggles to do much against Grass-type foes. Finally, it faces serious competition from its oven-based brethren, Rotom-H. When opting to use Rotom-C, one should ensure that you draw out its maximum potential by taking full advantage of the unique traits it has to offer.
+
+Choice Specs
+########
+name: Choice Specs
+move 1: Volt Switch
+move 2: Leaf Storm
+move 3: Thunderbolt
+move 4: Trick
+item: Choice Specs
+ability: Levitate
+evs: 252 SpA / 4 SpD / 252 Spe
+nature: Timid
+
+Moves
+========
+Volt Switch is your go-to for momentum-grabbing, and with Choice Specs equipped, it's going to pack an extra punch. Leaf Storm is an already powerful attack, and not much can stand up to the sheer power it sports after a boost from Choice Specs. Thunderbolt's a viable option if you wish to have a harder-hitting Electric-type STAB move and don't want to switch out, though it is by no means mandatory and can be eschewed in favor of a utility option such as Pain Split or Will-O-Wisp. Trick can cripple special walls that attempt to come in and take Rotom-C's attacks; for example, Pokemon like Umbreon and Snorlax will lose a lot of utility with Choice Specs forced upon them.
+
+Set Details
+========
+Choice Specs turns Rotom-C into a hard-hitting offensive pivot that is capable of OHKOing lots of UU's frailer threats. Full investment in Special Attack and Speed lets Rotom-C hit as hard and as fast as possible. 4 EVs in Special Defense give Download users a boost to their Attack. A Timid nature is optimal for this set, as Rotom-C needs to be as fast as possible.
+
+Usage Tips
+========
+This set's focus is wallbreaking, and it should be played as such. Trick away your Choice Specs if you predict a special wall to come in. Leaf Storm is the primary choice of attack on account of its spectucular power, even when resisted. The drop in Special Attack isn't the biggest of concerns, given the hit and run nature of this set. Take advantage of Rotom-C's resistances to common attacking types when searching for an opportunity to switch it in.
+
+Team Options
+========
+Choice Specs variants of Rotom-C fit well on offensively-inclined teams. As it is effective at removing certain troublesome defensive threats such as Suicune and Gligar, Rotom-C works well with Pokemon like Darmanitan, which despise the aforementioned defensive Pokemon. In particular, the latter can threaten the Grass-types that can sponge Rotom-C's STAB attacks, and it can also use U-turn to provide its own momentum. Removal of Stealth Rock enables Rotom-C to go about using Volt Switch without having to worry about being slowly worn down, so Rapid Spin or Defog support is always appreciated. Examples of teammates capable of providing this are Mega Blastoise, Tentacruel, Starmie, and Crobat. As Rotom-C is walled by Snorlax, physically offensive Fighting-types make for good teammates, as they are great checks to the latter if it hasn't boosted its Defense. Mienshao, Infernape, and Machamp are examples of such Pokemon.
+
+Choice Scarf
+########
+name: Choice Scarf
+move 1: Volt Switch
+move 2: Leaf Storm
+move 3: Thunderbolt
+move 4: Trick
+item: Choice Scarf
+ability: Levitate
+evs: 252 SpA / 4 SpD / 252 Spe
+nature: Timid / Modest
+
+Moves
+========
+Volt Switch is a necessity for letting Rotom-C switch to a Pokemon that matches up favorably against the one your opponent has out, keeping momentum. Leaf Storm is a powerful STAB attack that dents many Pokemon that don't resist it, and it makes short work of Ground-types who try to come in on a predicted Volt Switch. Thunderbolt is a STAB move that can be used if you wish to stay in and hit harder than Volt Switch, but it can be foregone in order to run a utility option such as Pain Split or Will-O-Wisp. Trick lets Rotom-C burden a specially defensive wall with a Choice Scarf upon their switch-in.
+
+Set Details
+========
+With a Choice Scarf equipped, Rotom-C becomes a potent revenge killer. Full investment in Special Attack and Speed lets Rotom-C hit as hard and fast as possible. The 4 EVs in Special Defense let Porygon2 and Porygon-Z end up with a Download boost to their Attack stat. A Timid nature lets Rotom-C have the best chance of getting in an attack first, though it can use a Modest nature to crank up its damage output.
+
+Usage Tips
+========
+As it takes on the role of a revenge killer with this set, Rotom-C should be brought into play after one of its teammates has been taken out. Volt Switch will be the move you will be using most in order to continually grab that vital offensive momentum and either revenge kill or wear down the opponent. Use Trick when you predict a switch to the likes of Porygon2, Snorlax, and other specially defensive Pokemon. If you predict a switch to a Ground-type, use Leaf Storm instead of Volt Switch.
+
+Team Options
+========
+As Stealth Rock wears Rotom-C down as it repeatedly switches in, Rapid Spin or Defog support is useful. Blastoise in particular makes for a good partner, as it can spin away Stealth Rock and check Fire-types such as Darmanitan that try to ruin Rotom-C's fun. As this set is centered around the gain of momentum with Volt Switch, it can be played in a VoltTurn team to great success. Rotom-C appreciates teammates such as Darmanitan that can threaten problematic Grass-types. Assuming it hasn't boosted its Defense, Snorlax, which walls Rotom-C, is easily handled by physical Fighting-types such as Mienshao, Infernape, and Machamp.
+
+Defensive
+########
+name: Defensive
+move 1: Leaf Storm
+move 2: Volt Switch
+move 3: Pain Split
+move 4: Will-O-Wisp / Thunder Wave
+item: Leftovers
+ability: Levitate
+evs: 252 HP / 252 SpD / 4 Spe
+nature: Calm
+
+Moves
+========
+Leaf Storm is a solid STAB move that will do some decent damage, even when uninvested. Volt Switch lets Rotom-C switch out to an appropriate teammate whilst doing a bit of damage. Pain Split works well in conjunction with Rotom-C's poor HP and is its best means of recovery. In the last slot, Will-O-Wisp cripples physical attackers and also deals residual damage, whereas Thunder Wave significantly slows fast threats.
+
+Set Details
+========
+Maximized HP and Special Defense EVs in combination with a Calm nature ensure that Rotom-C can take special hits the absolute best it can. Leftovers provides all-important passive healing.
+
+Usage Tips
+========
+Thanks to its typing, Rotom-C can make for a solid switch-in to opponents such as Mega Blastoise. Volt Switch should be used to seize offensive momentum. Rotom-C should aim to spread status around the team of the opponent as you see fit. Pain Split is best used when Rotom-C's health is dwindling and its opponent's health is relatively high. Leaf Storm should be used when Rotom-C needs to do some more significant damage. Be wary that due to Leaf Storm's detrimental side effect, you will probably want to hard switch or Volt Switch out after using it. Rotom-C sports resistances to several common attacking types, so bring it into play on a predicted use of a move such as Thunderbolt or Hydro Pump.
+
+Team Options
+========
+Like the Choice Scarf set, this set values Rapid Spin or Defog support to stop Rotom-C from being plagued by residual damage. Offensively-inclined Pokemon who benefit from the offensive momentum gained and struggle against the bulky Water-types that Rotom-C can deal with make for good teammates. Darmanitan is such a Pokemon, and not only is it also able to use U-turn to provide the team with its own momentum, but it can dispatch of the Grass-types like Roserade that Rotom-C struggles against.
+
+Other Options
+########
+Hidden Power Fire or Hidden Power Ice can be used on the Choice Specs and Choice Scarf sets in order to nail opponents that resist Rotom-C's STAB moves. An offensively-inclined set without a Choice item that gives Rotom-C the freedom to attack, spread status, and heal is a possibility. Rotom-C can run a SubSplit set, but because of Leaf Storm's side effect, it won't be effective for sticking around. Going the RestTalk route is a possibility for shrugging off status and trying to make Rotom-C last. Charge Beam could be used to pick off weakened foes and bolster offensive presence in the process. Shadow Ball is a coverage option that can be used against Pokemon such as Celebi and Metagross. Finally, a physically defensive set could take advantage of Rotom-C's resistances to some common physical attacks such as Earthquake.
+
+Checks & Counters
+########
+
+**Grass-types**: Rotom-C is forced to rely on the weak Hidden Power should it wish to do any sort of damage to Grass-types, which wall its STAB combination. Roserade is a great answer to Rotom-C; not only can it take whatever Rotom-C throws at it, but it can hit back with a super effective STAB Sludge Bomb.
+
+**Fire-types**: Above all, Rotom-H totally walls Rotom-C and OHKOes it with Overheat. Other Fire-types such as Arcanine and Entei can survive Rotom-C's attacks and are able to KO it swiftly. However, those Pokemon can't handle Choice Scarf Rotom-C, which Volt Switches out before they can attack it, and they risk being OHKOed by a Choice Specs-boosted Thunderbolt after Stealth Rock.
+
+**Special Walls**: Rotom-C despises having to face special walls such as Blissey and Snorlax, as they sponge Rotom-C's attacks like there's no tomorrow. Aditionally, Snorlax can smack Rotom-C hard with Return or use Pursuit as Rotom-C Volt Switches out.
+
+**Dragon-types**: Dragon-types resist Rotom-C's dual STAB combination, and UU has no shortage of powerful Dragon-types, including Hydreigon, Goodra and Haxorus, which will all make quick work of Rotom-C.
+
+**Revenge Killers**: Opponents such as Mienshao or Hydreigon outspeed Rotom-C and will be able to revenge kill it. These two Pokemon sometimes carry a Choice Scarf of their own, which allows them to even outspeed Choice Scarf Rotom-C.

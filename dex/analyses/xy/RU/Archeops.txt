@@ -1,0 +1,51 @@
+Overview
+########
+
+Archeops finds a unique niche by having access to Taunt, Stealth Rock, and Endeavor, a trait that only it has in RU. This, in conjunction with its high Speed, sets Archeops apart as a lead because it allows Archeops to effectively set entry hazards, block hazards and Defog, and bring something down alongside it. Endeavor works especially well on Archeops because of Archeop's low defenses and HP. What really holds Archeops back is its ability, Defeatist; however, because Endeavor does not calculate damage based on the user's Attack stat, this is not so much of an issue. However, Defeatist does prevent Archeops from running effective offensive sets. Additionally, lead Archeops is forced to run Focus Sash, and even then it can be played around with Rock Blast. Priority is also a massive thorn in Archeops's side, as it is weak to both Ice Shard and Aqua Jet, and hit neutrally by all other priority moves bar Extreme Speed and Quick Attack; this often prevents it from using Endeavor at 1 HP.
+
+Lead
+########
+name: Lead
+move 1: Taunt
+move 2: Stealth Rock
+move 3: Endeavor
+move 4: Head Smash / Knock Off
+ability: Defeatist
+item: Focus Sash
+evs: 252 Atk / 252 Spe
+ivs: 0 HP / 0 Def / 0 SpD
+nature: Jolly
+
+Moves
+========
+
+Taunt is very useful on a lead because it prevents the opponent's lead from setting up entry hazards, and thanks to its high Speed, Archeops is able to outspeed and Taunt Cobalion as well as slower leads. Taunt also works effectively late-game to prevent recovery on more defensively-oriented teams. Stealth Rock works well in tandem with Taunt because Archeops can both prevent the opponent from setting up hazards and set up hazards of its own. Taunt also blocks Defog, making it a wonderful move to use alongside Stealth Rock. Endeavor is Archeop's main niche, being able to take anything bar Ghost-types down with Archeops when at 1 HP. Head Smash is especially useful because when at 1 HP, its recoil will KO Archeops, blocking Rapid Spin or Defog; it's also quite strong, even when in Defeatist range. Knock Off is useful as well for removing Eviolite from the likes of Gligar and Togetic. Quick Attack could be used to KO something once brought down into Endeavor range, although not many good players will allow this to happen.
+
+Set Details
+========
+
+Running a Jolly nature with 252 Speed EVs enables Archeops to be as fast as possible. Running 252 Attack EVs is the only useful EV allocation and is nice for boosting Head Smash's power. Focus Sash is nearly mandatory because it enables Archeops to survive any attack bar multi-hit ones from full HP. Finally, dropping HP, Defense, and Special Defense IVs to 0 is helpful to ensure Archeops is brought down to 1 HP by all attacks.
+
+Usage Tips
+========
+
+Leading with Archeops is often the best idea because Focus Sash is always intact and Taunt is especially useful at the start of the match. However, using Archeops later in the match to set up Stealth Rock late-game and occasionally use Endeavor is not a bad idea, and spamming Head Smash against weakened teams is quite nice. Setting up Stealth Rock is the priority of this set, though if the opponent's lead carries hazards it's best to Taunt right away. Endeavor can only be used once, so be careful not to waste it. Knock Off should never be prioritized over Endeavor for various reasons. A specific example of this is that when the opponent has a Pokemon with Eviolite, it's best to use Endeavor to bring the foe to where anything can KO it, while Knock Off would just leave the foe without bulk. Use Head Smash instead of Endeavor when at 1 HP and suspecting a hazard removal move because it will bring Archeops down and make sure Rapid Spin and Defog cannot be used.
+
+Team Options
+========
+
+Dugtrio is able to trap and eliminate Pokemon that have been brought down with Endeavor. This is especially useful for bulkier Pokemon that may recover health through Regenerator. Sharpedo appreciates the entry hazard support to break through bulkier threats. Ghost-types make for good partners because they can block Rapid Spin, which Taunt fails to do. Moltres stands out because it likes entry hazards wearing down opponents throughout the match and Taunt blocking Stealth Rock from being set. Braviary also makes for a good partner because it enjoys Taunt blocking Stealth Rock and deterring to Defog thanks to Defiant.
+
+Other Options
+########
+
+Offensive sets are usually the first thing to come to mind when Archeops is discussed, as it does have access to a wide movepool including the powerful Acrobatics and Stone Edge; but these sets are decent at best, being outclassed by many other Pokemon. Choice Band Head Smash might be appealing, but Archeops will faint quickly when doing so. Dragon Tail is a neat option because it can force away any Defog or Rapid Spin user on the turn they switch into Archeops, but it is prediction-reliant. A set with Switcheroo and Choice Scarf is another unique niche but outclassed as well. U-turn can be used for momentum, but Archeops is a suicide lead and U-turn is thus not advised. Toxic cripples Alomomola, which threatens a Scald burn in return.
+
+Checks & Counters
+########
+
+**Rock Blast**: Rock Blast from the likes of Cinccino and Rhyperior breaks Archeop's Focus Sash and OHKOes it; this prevents Endeavor from being used.
+
+**Ghost-types**: Ghost-types are immune to Endeavor, and many, such as Spiritomb, don't mind Knock Off.
+
+**Rapid Spin and Defog**: These moves remove Stealth Rock, undoing Archeop's work; additionally, Rapid Spin cannot be blocked by Taunt. Kabutops particularly stands out because it can Rapid Spin away hazards and has Aqua Jet as well.

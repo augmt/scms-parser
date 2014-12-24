@@ -1,0 +1,99 @@
+[Overview]
+
+<p>Gengar is a very powerful threat due to its great stats and diversity, and its vast movepool is aided by its high Special Attack and Speed. Though held back by its awful defenses, Gengar will often have multiple opportunities to switch in safely thanks to immunities to Ground-, Fighting-, and Normal-type attacks. Because of its versatility and great coverage, Gengar is very difficult to properly counter once it is on the offensive. Gengar also has a wide variety of support moves at its disposal, ranging from status moves, such as Will-O-Wisp and Hypnosis, to Destiny Bond and Perish Song. Gengar can easily clean up late-game when teams have been weakened and opposing Pokemon are in KO range of its potent attacks.</p>
+
+[SET]
+name: Status
+move 1: Thunderbolt
+move 2: Ice Punch
+move 3: Giga Drain / Will-O-Wisp
+move 4: Hypnosis / Will-O-Wisp / Destiny Bond / Explosion / Taunt
+item: Leftovers
+nature: Timid
+evs: 172 HP / 148 SpA / 188 Spe
+
+[SET COMMENTS]
+
+<p>This set combines Gengar's great coverage with a variety of support moves to cripple Pokemon that normally switch into it. Thunderbolt and Ice Punch create a pseudo-BoltBeam combination, which hits all but dedicated special walls for huge damage. Giga Drain is a great attack to nail Swampert, who can be problematic due to its bulk and immunity to Thunderbolt. However, Will-O-Wisp can be used in its place, as Giga Drain has little use outside of Swampert, who is crippled by Will-O-Wisp anyway. Will-O-Wisp also shuts down other physical attackers, such as Tyranitar and Metagross, both of whom Gengar is otherwise virtually useless against.</p>
+
+<p>A myriad of choices are available in the last slot. Hypnosis is the preferred option as it allows Gengar to put one Pokemon to sleep and essentially render it useless; its terrible accuracy is its main drawback though. Destiny Bond is very useful in the last slot, as it grants Gengar one last kill as it is taken down. It can also give Gengar free turns during which it can attack, spread burns, or switch out for free, as not many players will attack it after it has used Destiny Bond. Explosion lets Gengar go out with a bang; it is particularly useful against Blissey and Snorlax, both of whom otherwise wall Gengar.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>188 Speed EVs and a Timid nature let Gengar outrun the likes of Jolly Flygon, Timid Jirachi, and +1 Tyranitar, while HP EVs allow it to survive the occasional gentle breeze. Specifically, 172 HP EVs guarantee Gengar will always survive a burned Choice Band Metagross's Meteor Mash. The remaining EVs are invested in Special Attack to pump up Gengar's damage output. Make sure to use a Hasty nature and move the HP EVs to Attack if using Explosion; this will let it do about 80-90% to both Snorlax and Blissey, KOing them after minor prior damage.</p>
+
+<p>Blissey takes pathetic damage from Gengar's attacks and can cripple it with Thunder Wave, as well as heal burned or sleeping teammates with Aromatherapy. Celebi is 3HKOed by Ice Punch, but can Recover off damage, set up with Calm Mind, and OHKO Gengar with Psychic; to top it all off, neither of these Pokemon are crippled by status due to Natural Cure. Starmie and Raikou can easily switch in on Ice Punch and Thunderbolt respectively, then outspeed and KO Gengar. Adamant Dugtrio can trap and kill all of the aforementioned Pokemon, as well as Magneton, which is the only Pokemon that resists all of Gengar's attacks.</p>
+
+<p>Taunt is an unexpected move that can turn the tables on some of Gengar's most common counters, such as Blissey, Snorlax, Regice, and Zapdos. Gengar should attempt to burn these Pokemon as they switch in, then when they attempt to use a recovery or status move, Taunt them to prevent it, and switch to an appropriate counter or attempt to finish them off. The effectiveness of this strategy is a lot greater if you have Spikes support and sandstorm to wear down the aforementioned Pokemon's HP. Destiny Bond can also be used in conjunction with Taunt to force the opponent to use an attacking move, thus taking the foe down when Gengar is KOed.</p>
+
+[SET]
+name: McIceGar
+move 1: Thunderbolt
+move 2: Ice Punch
+move 3: Substitute
+move 4: Focus Punch
+item: Leftovers
+nature: Hasty
+evs: 184 Atk / 136 SpA / 188 Spe
+
+[SET COMMENTS]
+
+<p>A relic from the early days of ADV, this set has since declined in usage, but it is still effective. The idea of the set is to use Substitute and Focus Punch to beat the Pokemon that wall purely special variants, namely Blissey, Snorlax, and Regice, all of whom take around 50% from a Focus Punch. Blissey cannot touch Gengar without Ice Beam, as Gengar is immune to Seismic Toss, and Substitute blocks Thunder Wave. The other two moveslots contain the BoltBeam combination of Thunderbolt and Ice Punch, giving Gengar great coverage alongside Focus Punch. The former nails the bulky Water-types common in the tier, most notably Vaporeon, Suicune, and Gyarados, as well as Skarmory. The latter puts a dent in Celebi and Zapdos on the switch, and can also OHKO Dragon-type Pokemon such as Flygon, Salamence, and Dragonite.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>188 Speed EVs and a Hasty nature let Gengar outrun base 100 Speed Pokemon such as Flygon and Jirachi, as well as +1 Tyranitar. 184 Attack EVs allow Gengar's Focus Punch to do 49.9% - 59% to standard Blissey, 2HKOing it most of the time; Snorlax is also 2HKOed, and Tyranitar OHKOed. The remaining EVs are put into Gengar's Special Attack stat to boost the damage output of Ice Punch and Thunderbolt.</p>
+
+<p>The main issue with this set is its inability to threaten common Pokemon such as Jirachi and Swampert. Once the opponent figures out that Gengar doesn't pack Hypnosis, Will-O-Wisp, or Giga Drain, they can deal with it easily. Dugtrio can trap and KO several Pokemon that can pose problems to Gengar, namely Jirachi, Starmie, and Raikou, as well as Blissey after she has been weakened by Focus Punch.</p>
+
+[SET]
+name: All-Out Attacker
+move 1: Thunderbolt
+move 2: Ice Punch
+move 3: Giga Drain
+move 4: Fire Punch
+item: Leftovers
+nature: Timid / Modest
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>High Speed and Special Attack stats as well as a great movepool make Gengar an excellent all-out attacker. This set sacrifices support moves such as Will-O-Wisp and Hypnosis to gain the widest possible coverage against common Pokemon. With perfect neutral coverage, this is an anti-metagame set that is effective against teams that play off resistances. Thunderbolt hits Skarmory and bulky Water-types such as Gyarados, Suicune, and Vaporeon, whereas Ice Punch nails Zapdos and Celebi for around 40%, and OHKOes the common Dragon-types. Giga Drain nails Swampert, who shrugs off Gengar's other attacks and 2HKOes it with Hydro Pump. As Swampert is a common switch-in to Gengar, the opponent will have trouble against this set if Swampert is their only reliable check to it. Fire Punch, Gengar's last move, allows it to OHKO Forretress and Scizor, and 2HKO Magneton and Metagross, as well as standard Jirachi after Spikes damage.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread is very straightforward: maximize Gengar's Speed to outpace Pokemon with base 100 Speed, as well as Speed-tie with opposing Gengar. Next, maximize Gengar's Special Attack to ensure a high damage output. A Timid nature is advised to make Gengar as fast as possible, but a Modest nature can be used to increase Gengar's power even further, if you don't mind losing to opposing Gengar.</p>
+
+<p>As Gengar lacks Will-O-Wisp, Tyranitar can be a problem, as it doesn't take much from Gengar's attacks. Starmie can switch in on a predicted Ice Punch or Fire Punch, then outspeed and KO Gengar with Psychic. Gengar is not OHKOed by any of its other attacks though, and can finish it off with Thunderbolt if it doesn't carry Psychic. Raikou is also problematic as it outspeeds Gengar and has access to Calm Mind. As such, Dugtrio makes a reliable teammate, because it can eliminate Raikou and +1 Tyranitar. Defensive variants of Zapdos and Celebi cause further problems for Gengar, taking about 40% from super effective moves while doing serious damage to Gengar with Thunderbolt and Psychic, respectively. Tyranitar can be used to assist Gengar's team against Zapdos, while Dugtrio can switch in on a Recovering Celebi and 2HKO with Hidden Power Bug.</p>
+
+[SET]
+name: Perish Trapper
+move 1: Mean Look
+move 2: Perish Song
+move 3: Substitute / Taunt
+move 4: Destiny Bond / Protect / Hypnosis
+item: Leftovers
+nature: Timid
+evs: 252 HP / 96 Def / 80 SpD / 80 Spe
+
+[SET COMMENTS]
+
+<p>Perish Trapping Gengar is often unexpected and can turn the tables on typical Gengar counters. The idea of the set is to use Mean Look as a Gengar counter such as Blissey or Snorlax switches in and trap it, then use Perish Song to KO it. Substitute effectively provides free turns at the cost of a quarter of Gengar's HP. After two turns, Gengar switches to an appropriate switch-in, scoring a free KO on the trapped opponent. Destiny Bond is used in the final moveslot to let Gengar take out another Pokemon after successfully Perish Trapping something. It should only be used as a last resort, such as when Gengar has lost most of its HP from making Substitutes. Taunt can be used instead of Substitute to stop attempts at crippling Gengar with status moves or phazing it, but Protect must then be used in the final moveslot as Gengar needs free turns to pull off the strategy. Hypnosis is an alternative to put the trapped Pokemon to sleep, rendering it useless as Perish Song takes effect. However, its low accuracy makes it a risky option.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>This bulky EV spread allows Gengar to survive dangerous moves such as Celebi's Psychic and Choice Band Salamence's Hidden Power Flying, as Gengar is vulnerable while it sets up Perish Song. With 80 Speed EVs and a Timid nature, Gengar has over 300 Speed, allowing it to outspeed a vast number of Pokemon and use Substitute to provide free turns for itself. Its Speed stat should not be maximized though, because bulk is this set's main priority.</p>
+
+<p>For the purposes of trapping, Dugtrio makes an excellent teammate because of its Arena Trap ability. Dugtrio can reliably trap and KO Pokemon with Perish Song if Gengar is KOed before Perish Song has fully taken effect. However, Dugtrio will need the otherwise slightly gimmicky Substitute or Protect in its movepool. Dugtrio can also assist against Starmie, Raikou, and Dragon Dance Tyranitar, all of which are problematic for Gengar.</p>
+
+[Other Options]
+
+<p>Choice Band Gengar is a gimmicky option, but an option nonetheless, as it has two strong physical STAB attacks in Sludge Bomb and Shadow Ball. This set can do serious damage to Pokemon that normally counter Gengar, as Blissey and Snorlax are nailed by Focus Punch, and Celebi by Sludge Bomb. Once the opponent discovers the set, however, Gengar can be easily countered and will often end up resorting to Explosion quite quickly. Shadow Ball used to be a common move for dispatching of Celebi and other Gengar. Sludge Bomb is the only other physical move worth using on Gengar, as it dents Blissey for about 25-30% and has a chance to poison. This will force Blissey to resort to using Soft-Boiled, which is when Gengar can hit her with Focus Punch for the 2HKO. Gengar can run a mixed set with both special and physical attacks, but this would be less effective overall due to the split EVs. Additionally, it would run into serious issues with Metagross and Jirachi, and is generally not effective in this metagame. Taunt is an option to prevent Snorlax and Blissey from healing, and becomes a decent option with some HP EVs and Spikes support.</p>
+
+[Checks and Counters]
+
+<p>Blissey can come in on most Gengar sets with ease; special attacks do virtually nothing to it, and Natural Cure makes status moves ineffective. That said, it is usually wise to switch out to a sleep absorber on Hypnosis to activate Sleep Clause. Curse + RestTalk Snorlax can set up on Gengar without fear of Will-O-Wisp; the standard RestTalk Regice is a solid Gengar counter as well. Teams that use resistances to defend against strong special attackers will often have to figure out or guess Gengar's set first, as it is very versatile.</p>
+
+<p>With some careful playing, Calm Zapdos will usually be able to switch in; Ice Punch deals considerable damage, but Gengar will usually lose one-on-one. Celebi can take on Gengar well thanks to Recover and Calm Mind, as Gengar won't usually risk staying in and taking Psychic. Jirachi works in a similar way, except it takes less damage from Thunderbolt than Celebi takes from Ice Punch. Bulky Sleep Talk Tyranitar and Metagross can usually switch in on Gengar easily--McIceGar isn't that common, so Tyranitar is usually safe. With maximum HP and some Special Defense investment, these Pokemon can reliably shut Gengar down. Tyranitar will also be able to trap and eliminate Gengar with Pursuit.</p>
+
+<p>Raikou is a good counter too, because it doesn't take much damage from Thunderbolt or Ice Punch, and can outspeed and do around 70% damage to Gengar with Thunderbolt; it should be wary of an incoming Hypnosis or Will-O-Wisp though. Rest + Sleep Talk Raikou, though situational, is a hard counter to Gengar. Dusclops is in the same boat; Rest + Sleep Talk sets will easily switch in on Gengar, but the Pain Split variant should watch out for status.</p>

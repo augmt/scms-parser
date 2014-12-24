@@ -1,0 +1,86 @@
+Overview
+########
+
+Crustle is one of the best entry hazard setters in NU thanks to its access to the highly sought after combination of Stealth Rock and Spikes. Its ability Sturdy complements this by acting as a pseudo-Focus Sash, allowing Crustle to set up entry hazards more reliably. Additionally, Crustle can attempt sweeps with Shell Smash, and it has a decent physical movepool, consisting of options such as Stone Edge, X-Scissor, Earthquake, and Knock Off. However, Crustle's Achilles' heel is its extremely low Speed, which hinders it greatly in both its roles. Despite this flaw, Crustle is a unique Pokemon and can be very deadly when played to its strengths.
+
+Hazard Setter
+########
+name: Hazard Setter
+move 1: Stealth Rock
+move 2: Spikes
+move 3: Rock Blast
+move 4: Knock Off
+ability: Sturdy
+item: Red Card / Mental Herb
+evs: 252 Atk / 4 Def / 252 Spe
+nature: Jolly
+
+Moves
+========
+
+The combination of Stealth Rock and Spikes is crucial to this set, as there are only a few Pokemon in the tier that have access to both. Rock Blast will do solid damage to many Defoggers and Rapid Spinners, such as Mantine, Pelipper, Vullaby, Cryogonal, and Armaldo. It also nails Xatu, which can block Crustle's attempts to set up entry hazards with Magic Bounce. Knock Off provides further utility by removing the opposing Pokemon's item.
+
+Set Details
+========
+
+Maximum Speed investment is needed, as this set's goal is to quickly set up as many entry hazards as possible. Red Card prevents the opponent from taking advantage of the free turns granted while Crustle sets up. As long as they do not carry Mold Breaker or multi-hit moves, the Pokemon will be forced out after they hit Crustle, regardless of their stat boosts, thanks to Sturdy. Mental Herb allows Crustle to avoid Taunt or Encore once, which can be huge depending on the situation. Maximum HP investment is an option on this set that allows Crustle to survive a Stone Edge from Choice Band Sawk, as well as a four-hit Rock Blast from maximum Attack Rhydon. However, moving 252 EVs from Attack to HP for this reason will cause Crustle to deal considerably less damage with Rock Blast to the likes of Pelipper, Armaldo, and Xatu.
+
+Usage Tips
+========
+
+In most cases, one should lead with Crustle to begin pressuring the opponent with entry hazards as quickly as possible. However, one should look out for Pokemon that can potentially OHKO Crustle, such as Mold Breaker Sawk, Basculin, or super effective multi-hit move users, such as Klinklang and Rhydon. If not using Mental Herb, be wary of Taunt from the likes of Archeops and Samurott, as well as Encore users that limit Crustle to setting up only one type of entry hazard before forcing it out. If the opponent has a reliable way to remove hazards, it is a good idea to keep Crustle alive so that it can look for an opportunity to set them up again if the opponent successfully clears their side of the field of entry hazards.
+
+Team Options
+========
+
+Ghost-types, such as Rotom and Mismagius, should definitely be considered as teammates because they can prevent the opponent from clearing entry hazards with Rapid Spin. It is not recommended to pair Crustle with defensive Ghost-types such as Dusclops, as Crustle is better suited to offensive teams. Offensive Pokemon that appreciate entry hazard support make great teammates. Examples include, but are not limited to, Klinklang, Swellow, Feraligatr, and Lilligant. Pawniard, in particular, is a very good option to use with Crustle, as it not only enjoys the benefits of Stealth Rock and Spikes, but it can also discourage the opponent from using Defog thanks to its Defiant ability.
+
+Shell Smash
+########
+name: Shell Smash
+move 1: Shell Smash
+move 2: X-Scissor
+move 3: Stone Edge
+move 4: Earthquake
+ability: Sturdy
+item: Lum Berry / White Herb / Life Orb
+evs: 252 Atk / 4 Def / 252 Spe
+nature: Adamant
+
+Moves
+========
+
+Shell Smash is a dangerous move on anything that learns it, and Crustle is no exception, as it becomes a powerhouse with it in a single turn. X-Scissor is Crustle's most reliable STAB attack, which will destroy most Grass-, Psychic-, or Dark-types after a boost. Stone Edge hits Fire- and Flying-types and is significantly more powerful than X-Scissor. Earthquake provides Crustle with coverage on Steel-types that resist its STAB combination.
+
+Set Details
+========
+
+Maximum Attack investment is used to hit as hard as possible. Crustle won't outspeed most Choice Scarf users after Shell Smash anyway, so an Adamant nature is preferred. Lum Berry can help Crustle avoid status, but Life Orb allows it to hit harder, which comes in handy versus bulkier Pokemon such as Seismitoad and Rhydon. White Herb can help preserve Crustle's bulk, letting Crustle take priority moves, such as Bullet Punch and Aqua Jet, with more ease.
+
+Usage Tips
+========
+
+In most cases, people will expect Crustle to set up entry hazards, especially if one leads with it. This can be used to one's advantage. Keep in mind that this set only hits 378 Speed after a Shell Smash, meaning it is outsped by Modest Electrode and everything faster.
+
+Team Options
+========
+
+Speed control, such as with Sticky Web or Thunder Wave support, can prevent Crustle from being revenge killed by faster threats after a Shell Smash. Entry hazards are greatly appreciated by this set, as most of its counters, which include Seismitoad, Steelix, and Gurdurr, are grounded. Teammates that can lure out bulky Water-, Ground-, and Rock-types, such as Expert Belt Rotom-F or Passho Berry Ninetales, can help clear the path for a Crustle sweep.
+
+Other Options
+########
+
+Power Herb with Solar Beam and maximum Special Attack can be used on the Hazard Setter set to surprise common leads such as Seismitoad and Rhydon. However, it is situational and has little use otherwise. Salac Berry is an option that increases Crustle's Speed in an attempt to set up more layers of entry hazards, and it works nicely with Sturdy. However, Crustle is outsped by a lot of Pokemon, even at +1 Speed. In a similar vein, Weak Armor in conjuction with Focus Sash can be used to obtain Speed boosts and survive strong hits, but it suffers from the same problem as Salac Berry.
+
+Checks & Counters
+########
+
+**Mold Breaker**: Choice Band Sawk, Rampardos, and Basculin can ignore Sturdy and OHKO Crustle before it has the chance to set up entry hazards.
+
+**Multi-hit Moves**: Powerful Rock Blast users such as Rhydon and Golem can OHKO Crustle if they get a high roll with Rock Blast. Klinklang can OHKO with Gear Grind or attempt a sweep after setting up Shift Gear.
+
+**Bulky Water-types**: Poliwrath and Seismitoad can take a boosted hit from the Shell Smash set and retaliate with Scald. Kabutops is not particularly bulky, but it has enough defense to switch into any attack and use Rapid Spin or OHKO Crustle with Stone Edge.
+
+**Bulky Ground-types**: Steelix and Rhydon can survive a +2 Earthquake and strike back with Gyro Ball or Rock Blast. Sandslash can take multiple hits from Crustle and use Rapid Spin.
+
+**Bulky Fighting-types**: Gurdurr can beat Crustle by setting up alongside it with Bulk Up and then taking it out with Drain Punch plus Mach Punch. Hariyama can kill Crustle with the combination of Close Combat and Bullet Punch while surviving any boosted hit.

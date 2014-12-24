@@ -1,0 +1,50 @@
+[Overview]
+
+<p>Grimer is quite the underrated Pokemon. It has a very high base 80 Attack and HP, along with good base 50 Defenses. Its typing is a blessing in a Fighting-type filled metagame, and its ability, Sticky Hold, prevents Knock Off from removing its item, making it literally the best Mienfoo counter available. It can run a lot of different sets, from bulky attacker to Curse, and has a wide movepool. Unfortunately, Grimer has some cons, mainly its Ground-type weakness, making it incredibly weak to Drilbur. Its Poison typing doesn't provide any useful resistances outside of Fighting and Bug, meaning attacks like Brave Bird, Hydro Pump, and Blizzard hit it hard. All in all, Grimer is an excellent Pokemon in this metagame and should always be prepared for.</p>
+
+[SET]
+name: Bulky Attacker
+move 1: Poison Jab / Gunk Shot
+move 2: Fire Punch
+move 3: Shadow Sneak
+move 4: Pain Split
+item: Eviolite
+ability: Sticky Hold
+nature: Impish
+evs: 116 HP / 196 Atk / 116 Def / 36 SpD
+
+[SET COMMENTS]
+
+<p>This set puts all of Grimer's best traits into one single moveset: its bulk, its Attack stat, and its movepool. Poison Jab or Gunk Shot is the main STAB move on this set, being the classic "accuracy vs. power" dilemma. Gunk Shot can 2HKO even the bulkiest walls, such as Porygon and Lileep, with Stealth Rock and poison status, while every Fighting-type in the tier except Croagunk is 2HKOed without any residual damage. However, Poison Jab still nabs the 3HKO on all of the aforementioned threats, and has perfect accuracy to boot. Fire Punch hits Steel-types such as Pawniard, Bronzor, and Magnemite for good damage, while Shadow Sneak is a useful priority move, allowing Grimer to pick off Abra and weakened Misdreavus. Finally, Pain Split provides a form of recovery.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread allows Grimer to maximize its Attack, while splitting the remaining EVs in its defenses, and an Impish nature allows Grimer to take physical hits better. Scraggy is a good partner, as Grimer can check the Fighting-types that can halt Scraggy's sweep. Grimer also forms a fine defensive core with Shroomish and Porygon, as it can take assaults from the Fighting-types that annoy this core, while Shroomish takes the Ground-type hits that would KO Grimer otherwise.</p>
+
+[SET]
+name: Curse
+move 1: Curse
+move 2: Poison Jab
+move 3: Rest
+move 4: Sleep Talk
+item: Eviolite
+ability: Sticky Hold
+nature: Careful
+evs: 196 HP / 116 Def / 196 SpD
+
+[SET COMMENTS]
+<p>Grimer can also attempt to sweep with a Curse set after Steel-types have been eliminated. Thanks to its solid defenses and access to a reliable STAB in Poison Jab, Grimer can effectively sweep late-game; even defensive Misdreavus is 2HKOed at +6. Curse allows it to boost its Attack and Defense while lowering its already-abysmal Speed. Poison Jab is a reliable STAB, whose secondary effect of poisoning can always be useful. Rest and Sleep Talk provide Grimer with a semi-reliable form of recovery, allowing it to stay healthy while it sets up.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread maximizes Grimer's HP and Special Defense; the remaining EVs are placed in Defense. A Careful nature allows Grimer to take special hits even better, as its Defense will be increased anyway by Curse. Magnemite is a great partner, as it can trap annoying Steel-types that prevent Grimer from sweeping thanks to their immunity to Poison.</p>
+
+<p>Powerful attackers such as Life Orb Murkrow, Life Orb Misdreavus, and Drilbur can easily break through Grimer even after a boost; it is best to remove these threats before trying to set up. This set can also act as a pivot, switching into Fighting-types early-game and spreading poison, before using Curse and sweeping late-game.</p>
+
+[Other Options]
+
+<p>Grimer has some cool options available to it. It has a pretty extensive special movepool, containing gems such as Fire Blast, Thunderbolt, and Sludge Bomb; unfortunately, it has a poor base 40 Special Attack stat. Rock Slide is a viable option to KO Fire- and Bug-types more easily, but Gunk Shot already does a pretty good job at it. However, it can be useful against Larvesta. Stockpile can be used to stall out the opponent, but Curse is nearly always better thanks to the Attack boost. Payback could be used to hit Ghost-types, but Shadow Sneak hits them nearly as hard on the switch anyway.</p>
+
+[Checks and Counters]
+
+<p>Drilbur is the best Grimer check available. Access to Swords Dance and STAB Earthquake allows it to dispatch Grimer in one hit. Misdreavus can burn the bulky attacker with Will-O-Wisp, while Nasty Plot variants can set up on the Curse set. Abra holding Focus Sash can survive any hit from Grimer and KO it with Psychic. Hard-hitting Pokemon such as Life Orb Murkrow and Staryu can 2HKO Grimer easily while entry hazards will greatly hurt it thanks to its lack of reliable recovery. It should be noted that Knock Off is a poor option against Grimer, as its ability, Sticky Hold, prevents its item from being removed.</p>

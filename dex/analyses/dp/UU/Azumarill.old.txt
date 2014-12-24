@@ -1,0 +1,86 @@
+[Overview]
+
+<p>With physical STAB, the equivalent of 150 base Attack, decent defenses, and convenient typing, Azumarill can run circles around unprepared teams. With a Choice Band, it can break down even UU's bulkiest walls with the appropriate move, 2HKOing Slowbro, Milotic, Regirock, Registeel, Steelix, and Spiritomb. Substitute variants can take advantage of a wide range of defensive Pokemon including Chansey and Registeel, breaking the mid-game wide open with a massive Attack stat and decent coverage. Azumarill has a niche on offensive teams due to its good defenses, ability to take hits, and STAB priority move. Although Aqua Jet somewhat alleviates Azumarill's Speed concerns, its subpar Speed is still its greatest shortcoming.</p>
+
+[SET]
+name: Choice Band
+move 1: Waterfall
+move 2: Aqua Jet
+move 3: Return / Double-Edge
+move 4: Ice Punch / Superpower
+item: Choice Band
+ability: Huge Power
+nature: Adamant
+evs: 244 HP / 252 Atk / 4 Def / 4 SpD / 4 Spe
+
+[SET COMMENTS]
+
+<p>Azumarill's convenient resistances to Water-, Ice-, and Fire-type attacks paired with respectable 100 / 80 / 80 defenses grant it multiple opportunities to switch in and inflict damage. Waterfall and Return provide great type coverage; the attacking combination of Water + Normal is resisted only by Shedinja (in UU) and Empoleon (in OU). Double-Edge's additional power can be useful at times (it allows Azumarill to sometimes 2HKO Slowbro with Stealth Rock support), but in general, the recoil sacrifices too much of Azumarill's bulk. Aqua Jet allows Azumarill to function as a potent revenge killer and even gives it a chance at a late-game sweep once Water-type resists are weakened or eliminated. The last slot is allocated for type coverage; Ice Punch helps Azumarill combat Venusaur, Tangrowth, and Altaria switch-ins, while Superpower gives a super effective hit on the likes of Registeel.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Bulky Water-types such as Slowbro and Milotic can shrug off Azumarill's attacks and recover off any damage taken. Other physically bulky Pokemon, such as Venusaur, Tangrowth, Registeel, and Weezing, may also be problematic. Pairing Azumarill with a Grass-type and a specially-based Fire-type is recommended to take advantage of the defensive and offensive synergy inherent in the Fire / Grass / Water combination. Venusaur can easily switch into Slowbro, Milotic, and Tangrowth. Houndoom can take advantage of a fleeing Grass-type to get in a Nasty Plot, and also has access to Dark STAB to combat Slowbro. Blaziken can OHKO opposing Grass-types and even 2HKO bulky Water-types with appropriate prediction.</p>
+
+<p>Azumarill can 2HKO the majority of UU with the appropriate move, but choosing the wrong attack can often mean a free turn for the opponent. The key to defeating the set is the same as the key to success--whenever Azumarill appears in battle, it is recommended to read your opponent like a large-print copy of Dr. Seuss and pick your move accordingly. Often, even when Azumarill is brought into a Fire- or Ground-type, opening with Return may be more beneficial than using Waterfall. Your opponent is unlikely to keep his or her Pokemon in or bring in a Regirock, Steelix, Registeel, or physically frail Ghost; on the other hand, Return can hit the majority of Azumarill's common switch-ins like Venusaur or Milotic for neutral damage.</p>
+
+[SET]
+name: SubPunch
+move 1: Substitute
+move 2: Focus Punch
+move 3: Waterfall / Ice Punch
+move 4: Aqua Jet / Encore / Toxic
+item: Leftovers
+ability: Huge Power
+nature: Adamant
+evs: 252 HP / 252 Atk / 4 Spe
+
+[SET COMMENTS]
+
+<p>While the Choice Band set is dependent on prediction to inflict massive amounts of damage, this set takes advantage of Azumarill's ability to create 101 HP Substitutes to function more as a team player in wearing down the opponent.</p>
+
+<p>The first two moves are self-explanatory, and Waterfall provides a reliable STAB attack. However, Ice Punch can be used to hit Venusaur and other Grass-types hard. Aqua Jet is the preferred option in the last slot, as it allows Azumarill to reliably revenge kill low-HP opponents and threaten Fire-types such as Houndoom, Ninetales, Arcanine, and Magmortar. Azumarill can also use Aqua Jet and its low Speed to garner a free Substitute: use Substitute as an attack from a faster but weakened opponent hits Azumarill, then Aqua Jet for the KO before the Substitute is broken. Encore is also an option to help Azumarill set up a Substitute more reliably and rack up Spikes and Stealth Rock damage; it also stops RestTalkers such as Milotic in their tracks. Finally, Toxic can be used to cripple Slowbro and Slowking, which easily switch into this set and wall it.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Since this Azumarill loses the raw power granted by a Choice Band and Double-Edge, bulky Pokemon like Milotic and Tangrowth become more of a problem, and Toxic can be used over an attack to cripple them. Ice Punch can be used in the last slot, but it is really only useful for Venusaur; furthermore, it doesn't OHKO, and Venusaur outpaces Azumarill, which means this is an uphill battle--Azumarill is generally better off sticking to another attack.</p>
+
+<p>Pokemon who can withstand assaults from the Choice Band set will also fare well against the SubPuncher. For example, while Slowbro is occasionally 2HKOed by a Choice Band-boosted Double-Edge, it is never 4HKOed by this set's attacks. However, with the decreased power comes increased unpredictability. While a SubPunching Azumarill cannot defeat Slowbro or Tangrowth through raw power, it can cripple them with Toxic or rack up entry hazards damage by Encoring a Slack Off or Moonlight.</p>
+
+<p>As with any Substitute user, Azumarill benefits from a way to restore lost HP. Wish support, perhaps from Clefable, can greatly extend Azumarill's lifespan. Defensive screens are also a great option because they allow Azumarill's Substitutes to live through two hits from Slowbro and four hits from Milotic (unless it has a super effective Hidden Power). Torterra is a fine choice for a partner, as it can set up both Reflect and Light Screen and has access to Leech Seed to restore Azumarill's HP. Azumarill resists Torterra's Fire and Ice weaknesses while Torterra is immune to the Electric attacks that Azumarill attracts. Gardevoir and Clefable can also set up dual screens, and both have access to Wish to replenish Azumarill's HP.</p>
+
+[SET]
+name: RestTalk
+move 1: Rest
+move 2: Sleep Talk
+move 3: Waterfall
+move 4: Return / Double-Edge
+item: Leftovers
+ability: Huge Power
+nature: Adamant
+evs: 248 HP / 252 Atk / 4 Def / 4 SpD
+
+[SET COMMENTS]
+
+<p>RestTalk Azumarill is a great example of a tank, as it's able to inflict significant damage to opponents while retaining great bulk. Rest and Sleep Talk are the two most important moves of the set as they offer Azumarill several advantages: a somewhat reliable recovery move, safety against some crippling status, such as burn and poison that could turn Azumarill into setup fodder, and the ability to keep attacking the opponent while asleep. Waterfall is a powerful and reliable STAB attack that can dent everything that doesn't resist it. The final slot brings the only choice one should consider when using this set. Return is the preferred move, because even though it offers less power than Double-Edge, it doesn't have recoil, thus providing Azumarill with more durability. Since Water- and Normal-type attacks offer very good neutral coverage, Azumarill won't find itself being walled by many Pokemon in UU.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread is the most logical one when thinking about a physically-inclined tank: The HP EVs are needed to give Azumarill the bulk to take neutral physical and special attacks with relative ease; 252 Attack EVs maximize the damage output and, when paired with Huge Power, let Azumarill dish out some major hits; the remaining 4 EVs go to Special Defense to avoid the rare Porygon2 Download boost. Leftovers is the preferred item because it allows Azumarill to be less dependent on Rest and therefore capable of better performance. Even though Life Orb lets Azumarill hit harder, it isn't recommended. An Impish nature with an EV spread of 252 HP / 252 Def / 4 SpD can be used to turn Azumarill into a very bulky physical wall but it will miss the extra power dearly.</p>
+
+<p>Not many Pokemon are able to take a STAB Waterfall from Azumarill and be in good shape for the rest of the match. Pokemon who do, however, have to be dealt with by Azumarill's teammates. Venusaur is the most common, as it has the ability to either set up on Azumarill or outright OHKO it. Leafeon and Tangrowth can do the same thanks to their great bulk and access to several support options. Finally, Milotic can also wall Azumarill very well due to its great bulk; more offensive variants lack this, but are still able to beat Azumarill one-on-one with superior firepower. Due to the low Speed of the set, fast Pokemon with super effective STAB moves can come in with some prediction and OHKO Azumarill. Rotom is perhaps the best example of a check as it can switch on Return and OHKO with Thunderbolt if Azumarill has been weakened sufficiently; Sceptile is another good check thanks to its STAB Grass-type attacks. However, both have to avoid Waterfall and Return, respectively, or risk being severely crippled.</p>
+
+<p>To be able to defeat those Pokemon, specially defensive Arcanine is probably the best teammate Azumarill can have; it beats most of Milotic's sets if it carries Toxic, the four Grass-types thanks to its Fire STAB, and Rotom with its great bulk. Nidoqueen and specially defensive Drapion are also good partners for their ability to set up Toxic Spikes, which help Azumarill in outlasting its opponents, while maintaining reasonable synergy. Finally, Spiritomb is very useful for its ability to spinblock and trap Rotom and the less threatening Mismagius.</p>
+
+[Other Options]
+
+<p>If you don't care about using moves with 90% accuracy, Aqua Tail is a stronger alternative to Waterfall and can be substituted on any of the sets. Leftovers is a viable option instead of a Choice Band on offensive teams looking to capitalize on Azumarill's bulk and resists; this makes it harder for Pokemon like Toxicroak or Mismagius to set up on Azumarill, but obviously comes at the cost of some power--this makes Toxic an attractive option in conjunction with Leftovers. Sing can be used by Azumarill to send its counter to sleep, but it is generally too unreliable. </p>
+
+<p>The primary EV spread given in the sets is optimal. Azumarill won't be winning Speed awards any time soon, so maximizing HP and Attack makes the most of its bulk and powers up its attacks. However, moving a few EVs into Speed is an option to outspeed other neutral-nature base 50s who may invest slightly in Speed, including Regirock, Registeel, Chansey, Hariyama, and Tangrowth. Be sure not to take any EVs out of HP for the SubPunch set, though, as 252 EVs are required to allow Azumarill to create 101 HP Substitutes. Using 84 Speed EVs outspeeds minimum Speed base 60 Pokemon such as Clefable and Weezing. On the RestTalk set, the last four EVs are placed into Special Defense to ensure Porygon2 doesn't get a Special Attack boost from Download.</p>
+
+[Checks and Counters]
+
+<p>Slowbro stands out as Azumarill's number one counter. It resists all of Azumarill's commonly used moves except for Double-Edge / Return and has access to reliable recovery. Despite this, Slowbro must beware of Toxic, since a Slowbro inflicted with Toxic is essentially neutered (and can be stalled out by Substitute if Slowbro lacks Psychic or Hidden Power Electric). In the same vein, defensive variants of Milotic fare relatively well but risk a 2HKO from a Choice Band-boosted Double-Edge. However, Milotic actually outspeeds Azumarill, meaning it can escape the 2HKO by abusing Double-Edge's recoil damage with Recover, activating Marvel Scale through Rest, or KOing Azumarill with Hidden Power Electric or Grass.</p>
+
+<p>Venusaur sports a resistance to Waterfall and Focus Punch and can strike back with powerful STAB Grass attacks or Leech Seed and recover lost HP with Synthesis. With an immunity to Azumarill's STAB, Water Absorb Pokemon are also fine counters. Poliwrath can use Azumarill as an excuse to start using Bulk Up while Encoring Azumarill's Substitute, while Quagsire can Curse. Lapras has a massive HP stat, higher Speed, and access to Thunderbolt, but it will have to beware of Stealth Rock and the possibility of taking a heavy hit from Superpower or Focus Punch. While Toxicroak is also immune to Water attacks because of its ability, Dry Skin, its relative physical frailty means switching it directly into Azumarill is not recommended. However, it does sport a resistance to Fighting-type attacks, which allows it to more easily set up on a Choice-locked Superpower or a Substitute Azumarill without Encore.</p>
+
+<p>Weezing is never 2HKOed by Waterfall and can force Azumarill out with the threat of Will-O-Wisp or Thunderbolt, but it lacks reliable recovery. Tangrowth, possessing defensive stats that make Skarmory a tad green, can defeat Azumarill even if it has a Choice Band and Ice Punch (but will lose if it has taken previous or residual damage). Altaria works against variants without Ice Punch, resisting the entirety of Azumarill's moveset except for Double-Edge. Luxray can switch in easily thanks to Intimidate and threaten with a STAB Thunderbolt.</p>

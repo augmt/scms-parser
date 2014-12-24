@@ -1,0 +1,55 @@
+[Overview]
+
+<p>Roselia is one of few Pokemon in NU that has access to Spikes, which she can set up reliably thanks to her Grass-, Water-, and Electric-type resistances and good special bulk with Eviolite. Her typing and relatively high Special Attack also allow her to stop various Pokemon in NU, such as Ludicolo, Alomomola, and Seismitoad. Unfortunately, Roselia's Defense is rather lackluster even with Eviolite, leaving her vulnerable to common physical attacks, such as those from Golurk and Scolipede. She also faces competition as a Spiker from Scolipede and Garbodor, as the former has a better offensive presence and the latter has better physical bulk to tank Fighting- and Bug-type attacks.</p>
+
+[SET]
+name: Spikes
+move 1: Spikes
+move 2: Rest / Synthesis
+move 3: Giga Drain
+move 4: Sludge Bomb
+item: Eviolite
+ability: Natural Cure
+nature: Calm
+evs: 248 HP / 8 Def / 252 SpD
+
+[SET COMMENTS]
+
+<p>This set takes advantage of Roselia's access to Spikes and solid special bulk which allows her to switch into most special attacks with relative ease. Roselia can also use her immunity to Toxic to grant her free switches and start setting up Spikes. Rest restores all of Roselia's HP, increasing her longevity at the cost of having to switch out so that Natural Cure can wake her up. Synthesis can be used instead, as it lets Roselia stay in longer and set up more layers of Spikes. Giga Drain is Roselia's primary STAB attack, hitting common Pokemon such as Golem and Samurott for super effective damage. Sludge Bomb is useful for hitting the many Pokemon that resist Giga Drain, such as Charizard, Tangela, and Serperior, and gives Roselia a way to hit Pokemon with Sap Sipper.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>A specially defensive spread is usually Roselia's best option because of her ability to check common special attackers. Additionally, Armaldo is the only spinner in the tier capable of switching into Roselia without being 2HKOed after Stealth Rock damage, as Wartortle and Torkoal can be taken down by Giga Drain and Sludge Bomb, respectively.</p>
+
+<p>Although she might not look the part, Roselia is also capable of running a physically defensive spread exceptionally well&mdash;this allows her to utilize her more physically-inclined defensive typing while still having good special bulk. By utilizing such a spread, Roselia can now check Ground-types, such as Golem, more easily. However, while this variant of Roselia does have its merits, it still has some glaring flaws&mdash;for example, Roselia's physical bulk is still not fantastic even when invested, and it can still be 2HKOed by many common physical attackers in the tier, such as Scolipede and Kangaskhan. Additionally, this Roselia cannot check special attackers, such as Ludicolo and Samurott, nearly as well as a specially defensive variants, as it's far more vulnerable to Ice Beam. Physically defensive Roselia is still viable and can certainly be considered under the right circumstances; however, the specially defensive one is superior in most cases.</p>
+
+<p>As Roselia's Defense is lacking, she appreciates having a Pokemon to take physical hits for her. Alomomola is one of the best options, as not only can it take physical hits for Roselia, but it also resists the Fire- and Ice-type moves that ruin Roselia's day. Meanwhile, Roselia can take any Electric- and Grass-type attacks, as well as Toxics, aimed at Alomomola. It should be noted that Alomomola does not beat most Ice-types, it just tanks their hits in order to pivot to another partner. Musharna is another great partner, as it can effectively wall Sawk, one of the bigger threats to Roselia. Bastiodon is also a good choice thanks to its access to Stealth Rock, and it synergizes well with Roselia typing wise. As for spinblockers, Misdreavus is one of the best options, not only because of its bulk, but also because it can burn the physical attackers that threaten Roselia. Finally, Skuntank makes a good partner, as it can take care of any Psychic-types that threaten Roselia.</p>
+
+[SET]
+name: Offensive Pivot
+move 1: Sleep Powder
+move 2: Sludge Bomb
+move 3: Giga Drain
+move 4: Synthesis
+item: Eviolite
+ability: Natural Cure
+nature: Modest
+evs: 160 HP / 252 SpA / 96 Spe
+
+[SET COMMENTS]
+
+<p>With an offensive set, Roselia can serve as a bulky offensive pivot and status absorber for more offensive and balanced teams. Roselia can come in, take a hit, strike back with strong STABs coming off of base 100 Special Attack, and use Sleep Powder to disrupt the opposing team. The ability to absorb Toxic Spikes along with Poison STAB really separate Roselia from other bulky offensive pivots such as Tangela. Without Spikes on this set, Roselia is able to use Sleep Powder to cripple would-be checks that would normally have nothing to fear. Sludge Bomb is Roselia's most powerful STAB move, and it has really good neutral coverage and a handy chance to poison the foe. Giga Drain, Roselia's other STAB, covers the Ground- and Rock-types that resist Sludge Bomb, and it also lets Roselia take on bulky Water-types such as Seismitoad and Alomomola that can be problematic for offensive teams. Synthesis allows Roselia to remain healthy throughout the match, and it can be used to heal up against the Pokemon that are put to sleep by Sleep Powder.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The Speed EVs used on this set are to allow Roselia to outspeed max Speed Golem, Armaldo, and Marowak, with the rest thrown into Special Attack and HP for offensive presence and added bulk. Both Eviolite and Natural Cure allow Roselia to come in against a variety of attackers and absorb status for the team. Toxic Spikes or Spikes could be used on this set, but using Spikes would mean that you can't use Sleep Powder, as the two are illegal together, and Roselia doesn't usually have room for Toxic Spikes. Leaf Storm can be used over Giga Drain, but Roselia likes to stay in for as long as it can without being forced to switch out. For this same reason, though Rest might sound better than Synthesis thanks to Natural Cure, it is usually inferior.</p>
+
+<p>Roselia partners really well with other pivots that share great defensive synergy. Metang and Regirock are both good options, as they can set up Stealth Rock, and Metang can take on Flying-, Psychic-, and Ice-type attacks while Regirock can take on Flying- and Fire-type attacks. In return, Roselia can take on opposing Water- and Grass-types really well and also has a good matchup against most Ground-types. Practically every Steel-type walls Roselia completely, so offensive partners that can take them on will prove to be beneficial. Strong Fighting-types such as Sawk and Fire-types such as Charizard and Camerupt can come in on most Steel-types and take them on with their STAB super effective attacks. Finally, Roselia's ability to absorb Toxic Spikes is greatly appreciated by setup sweepers that play significantly worse while poisoned. Carracosta loves the lack of Toxic Spikes on its side of the field, and it can set up against Fire- and Flying-types that try to take out Roselia. Similarly, Swords Dance Samurott can set up against Ice- and Fire-types and hates to be poisoned.</p> 
+
+[Other Options]
+
+<p>Roselia has a great support movepool with moves such as Aromatherapy, Stun Spore, Cotton Spore, and Toxic. She also has access to Toxic Spikes, which could be used instead of Sludge Bomb on some teams. Extrasensory is an option to hit Poison-types such as Garbodor and Scolipede harder. Roselia also has access to Sleep Powder, but because it's illegal with Spikes, it rarely sees use. As Roselia's typing is more suited to taking physical attacks, one could choose to run an EV spread of 248 HP / 252 Def / 8 SpD with a bold nature to capitalize on this. Keep in mind that Natural Cure is really the only ability you should be using on Roselia, as Poison Point is too unreliable and Leaf Guard is basically an inferior Natural Cure that needs sun up in order to work. Finally, Roselia could also utilize her relatively high Special Attack on an offensive set with Leaf Storm or Giga Drain alongside Sludge Bomb, allowing her to hit opponents hard and get more chances to set up Spikes, but Leaf Storm is illegal with Spikes and Roselia faces competition as an offensive Spiker from Scolipede.</p>
+
+[Checks and Counters]
+
+<p>Despite Roselia's impressive bulk with Eviolite, nearly any physical attacker can take her down. Sawk, Golurk, and Scolipede can all at least 2HKO Roselia. On top of that, not even Roselia's special bulk can protect her from the Psychic-, Fire-, and Ice-types throughout NU; Pokemon such as Jynx, Gardevoir, and Charizard all make short work of her with their super effective STAB moves. Steel-types can also switch into Roselia with few problems. Klang is one of the best options as it can simply set up while all Roselia can do is use Spikes or switch out. Poison-types are in the same boat, resisting both of Roselia's STABs and even absorbing any Toxic Spikes Roselia might have set up. Muk, Skuntank, and Golbat are good choices, as Muk can OHKO with Ice Punch, while Skuntank can damage Roselia on the way out with Pursuit, taking away about half her health. Golbat, while unable to absorb Toxic Spikes, takes almost nothing from Roselia's attacks and can OHKO her with Brave Bird. Finally, while they might give her a free turn to set up, both Knock Off and Trick remove Roselia's precious Eviolite, rendering Roselia far less useful.</p>

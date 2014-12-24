@@ -1,0 +1,109 @@
+[Overview]
+
+<p>Vileplume, on her own merits, is a very respectable Pokemon, but she has always received the short end of the stick from Game Freak. In the same generation she was introduced in, Game Freak saw fit to introduce Venusaur, who has better stats than Vileplume in everything other than Defense. Unsurprisingly, Vileplume has been relegated to at least a tier lower than Venusaur throughout the generations, and this honestly hasn't changed much in BW. Furthermore, despite the banishment of Venusaur and Roserade into higher tiers, Vileplume receives significant competition in RU from the newly introduced Amoonguss and now Eviolite-wielding Roselia; nonetheless, she is able to distinguish herself from them with her unique traits. Defensively, Vileplume has significantly more physical bulk than Roselia and boasts Aromatherapy over Amoonguss, so she acts as a neat mix of the two. Unlike the two, Vileplume is also capable of acting as a strong special attacker by utilizing her great STAB coverage and as an excellent tank due to her mix of power and bulk. Make no mistake, Vileplume is not a Pokemon to be underestimated.</p>
+
+[SET]
+name: Support
+move 1: Aromatherapy
+move 2: Giga Drain
+move 3: Sludge Bomb
+move 4: Moonlight 
+item: Black Sludge
+ability: Effect Spore
+nature: Bold
+evs: 252 HP / 252 Def / 4 SpD
+
+[SET COMMENTS]
+
+<p>Though she might seem outclassed by Roselia and Amoonguss, Vileplume differentiates herself from them by combining useful traits of the two. Vileplume's access to Aromatherapy and excellent physical bulk allow her to act as a physically defensive cleric while checking and countering almost every threat that Amoonguss does. This gives Vileplume a unique niche, as cleric support is not particularly widespread, and the ability to check threats such as Feraligatr, Hitmonlee, Rhydon, and Lilligant makes Vileplume useful outside of her clerical duties. Additionally, thanks to Vileplume's nice Special Attack, she can hit these threats reasonably hard with her STAB moves. However, Aromatherapy is the main reason you should be using Vileplume; without it, you might as well use Roselia or Amoonguss as your defensive Grass-type.</p>
+
+<p>Giga Drain and Sludge Bomb serve as Vileplume's obligatory STAB moves and allow her to check a variety of threats; Giga Drain nails foes such as Feraligatr and Hitmonlee for some nice damage, while Sludge Bomb dents Lilligant and Sawsbuck. These two moves also have wonderful synergy together, as only Poison- and Steel-types resist the combination; this prevents Vileplume from being setup bait. Moonlight serves as a reliable recovery move that keeps Vileplume healthy and capable of consistently checking troublesome threats while curing her team of status.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs maximize Vileplume's physical bulk, allowing her to check threats such as Rhydon, Feraligatr, and Hitmonlee. As Roselia outclasses Vileplume as a specially defensive cleric, this also distinguishes Vileplume from Roselia. However, a specially defensive spread is still viable, as Vileplume's access to Black Sludge gives her an advantage over Roselia, and Vileplume is also effective at checking the threats that Roselia usually checks, including Rotom and Galvantula. Alternatively, some Defense EVs can be shifted into Special Attack to hit foes harder. For example, with 132 EVs, you can guarantee that Vileplume will 2HKO Entei with Stealth Rock on the field. Effect Spore is the recommended ability, as Vileplume will often switch into contact moves, making it a great way to spread status to the opposing team.</p>
+
+<p>Sleep Powder and Stun Spore are viable options that can replace either Giga Drain or Sludge Bomb. The former gives Vileplume a weapon against almost anything and makes opponents wary of switching into her. The latter, on the other hand, provides slower teammates with useful paralysis support and allows them to tear through the opposing team without fear. However, Vileplume faces four-moveslot syndrome; each listed move is necessary for her to continually provide cleric support and check a wide variety of threats.</p>
+
+<p>To demonstrate how bulky Vileplume is, here are some damage calculations:</p>
+
+<ul class="damage_calculation">
+<li>252 Atk+ Rhydon Earthquake 40.68% - 48.31%</li>
+<li>252 Atk+ Life Orb Feraligatr Waterfall 18.08% - 21.47%</li>
+<li>252 Atk+ Life Orb Feraligatr Return 31.07% - 36.72%</li>
+<li>+2 252 Atk+ Life Orb Feraligatr Return 61.58% - 72.60%</li>
+<li>252 Atk+ Golurk Earthquake 39.27% - 46.61%</li>
+<li>252 Atk+ Life Orb Reckless Hitmonlee High Jump Kick 41.53% - 49.15%</li>
+<li>252 Atk Life Orb Aerodactyl Stone Edge 40.96% - 48.59%</li>
+<li>252 Atk+ Poliwrath Focus Punch 22.88% - 27.12%</li>
+<li>252 Atk Primeape Close Combat 18.93% - 22.60%</li>
+<li>252 Atk Primeape Ice Punch 31.64% - 37.85%</li>
+</ul> 
+
+<p>As a supporting Pokemon, Vileplume doesn't really need that much support herself, as her access to reliable recovery and Aromatherapy allow her to be fairly self-sustaining. However, she does need certain teammates to deal with troublesome threats that can capitalize on her plethora of weaknesses. Like almost every Grass-type Pokemon in the game, Vileplume appreciates being paired with a Fire- and a Water-type Pokemon to form a core that packs good resistances and that can take on most threats with ease. Moltres and Entei work well with Vileplume, as Vileplume can beat troublesome Pokemon such as Feraligatr, Lanturn, and Rhydon for them, while they can destroy Ferroseed and Roselia, who would otherwise use Vileplume as setup bait. Slowking is another wonderful partner for Vileplume, as he can take on the likes of Moltres, Entei, and Gallade, who would normally give Vileplume trouble. In return, Vileplume can heal Slowking of Toxic with Aromatherapy. Rock- and Steel-types, such as Rhydon and Steelix, are also great partners as they ward off Flying-types, who can give Vileplume issues. Additionally, they appreciate the cleric support that Vileplume provides, as they both lack a form of recovery to mitigate the effects of status.</p>
+
+[SET]
+name: Special Attacker
+move 1: Sleep Powder
+move 2: Giga Drain
+move 3: Sludge Bomb
+move 4: Moonlight
+item: Life Orb / Black Sludge
+ability: Effect Spore
+nature: Modest
+evs: 92 HP / 252 SpA / 164 Spe
+
+[SET COMMENTS]
+
+<p>In a throwback to DPP UU Venusaur, Vileplume can pull off a remarkably similar special attacking set to what was arguably the most prominent threat in that metagame; by utilizing the exact same STAB coverage and Special Attack stat that made Venusaur so fearsome, Vileplume is a very potent threat in the RU metagame. First and foremost, Vileplume has Sleep Powder to incapacitate the few Pokemon that can stand up to her powerful STAB coverage. Furthermore, there is nothing that compares to Vileplume's combination of bulk and power in RU: Amoonguss is too slow and weak, Roselia is weaker due to her need to use Eviolite, and Victreebel is incredibly frail. The only thing that holds Vileplume back is her poor Speed, but she can still outrun many common RU walls and deal massive damage off her good Special Attack. Overall, this Vileplume makes a fearsome tank. Like DPP UU Venusaur, she can switch into many prominent threats such as Sceptile (beware of Acrobatics), Tangrowth, Rotom-C, and Slowking and dish out incredibly powerful attacks to continually wear down the opposing team.</p>
+
+<p>Sludge Bomb and Giga Drain are Vileplume's quintessential offensive attacks, and they have remarkable coverage together. Sludge Bomb is Vileplume's main attack due to its significantly higher Base Power and excellent neutral coverage, while Giga Drain dents many common walls, such as Slowking and Poliwrath, and restores a significant amount of Vileplume's HP. With good prediction, the combination of these two moves will break down many common RU cores, including the Tangrowth and Slowking core. Because this requires an incredible amount of prediction to pull off successfully, Sleep Powder is a fantastic move, as it can simply be thrown out to cripple whatever switches in, should you feel unsure of your prediction skills. Sleep Powder also allows Vileplume to circumvent some of her counters by putting them to sleep and then bashing at them with her incredibly lethal STAB attacks. To round out this set, Moonlight gives Vileplume a very reliable form of recovery due to RU's lack of weather, and it helps mitigate Life Orb recoil, as well as damage from entry hazards and attacks, allowing Vileplume to stay alive to check troublesome threats and smack opponents with her powerful attacks.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given EVs allow Vileplume to outspeed uninvested base 70 Speed Pokemon such as Poliwrath, which allows her to quickly nail them with a powerful attack or Sleep Powder. Maximum Special Attack investment is highly recommended on Vileplume to make her as strong as she can possibly be, while any remaining EVs should be dumped into HP to give Vileplume some extra bulk. Maximum Speed investment with a Timid nature is another decent option, as Vileplume still hits respectably hard and becomes able to outspeed troublesome foes such as Adamant Bouffalant and 2HKO them. On the other hand, fewer Speed EVs can be used if bulk is more important: 142 Speed EVs let Vileplume outrun uninvested Lanturn, 124 Speed EVs beat out uninvested base 65 Speed Pokemon such as Sandslash, and 84 Speed EVs can be used for base 60 Speed Pokemon such as Clefable. It is not recommended to run fewer Speed EVs unless you simply want to maximize HP, as beyond this, most Pokemon tend to use at least a little Speed investment. Effect Spore is the recommended ability; though unreliable, the 30% chance to inflict a status condition on the opposing Pokemon can come in handy, and Vileplume is too slow to make use of Chlorophyll. However, note that Chlorophyll has no move restrictions while Effect Spore does; moves such as Leech Seed can only be used with Chlorophyll. Hidden Power Fire can also be used over Moonlight if you desperately need a way to remove Steel-types.</p>
+
+<p>To show how powerful and bulky this Vileplume is, here are some damage calculations:</p>
+
+<ul class="damage_calculation">
+<li>Sludge Bomb vs. +1 4/0 Lilligant 110.64% - 130.50%</li>
+<li>Sludge Bomb vs. 0/0 Accelgor 92.69% - 108.97%</li>
+<li>Sludge Bomb vs. 4/0 Scolipede 47.71% - 56.11%</li>
+<li>Sludge Bomb vs. 0/0 Moltres 65.73% - 77.88%</li>
+<li>Sludge Bomb vs. 0/4 Bouffalant 58.31% - 68.88%</li>
+<li>Sludge Bomb vs. 252/0 Uxie 41.81% - 49.44%</li>
+<li>Sludge Bomb vs. 248/116+ Slowking 35.37% - 41.98%</li>
+<li>Giga Drain vs. 252/0 Poliwrath 83.33% - 98.44%</li>
+<li>Giga Drain vs. 52/204+ Lanturn 65.35% - 77.23%</li>
+<li>Giga Drain vs. 248/116+ Slowking 56.49% - 67.18%</li>
+<li>Giga Drain vs. 0/0 Aerodactyl 61.79% - 72.76%</li>
+</ul> 
+
+<ul class="damage_calculation">
+<li>252 SpA Life Orb Accelgor Bug Buzz 57.24% - 67.43%</li>
+<li>252 SpA Life Orb Lilligant Hidden Power Fire 63.16% - 75.00%</li>
+<li>+1 252 SpA Lilligant Hidden Power Fire 73.68% - 86.84%</li> 
+<li>+1 252 SpA Life Orb Lilligant Hidden Power Fire 95.39% - 112.50%</li>
+<li>252 Atk Life Orb Adaptability Crawdaunt Crunch 80.92% - 95.39%</li>
+<li>252 Atk Life Orb Sawsbuck Return 68.09% - 80.26%</li>
+<li>252 Atk Life Orb Scolipede Megahorn 75.00% - 88.16%</li>
+<li>252 Atk+ Choice Band Aggron Ice Punch 90.13% - 106.58%</li>
+</ul> 
+
+<p>As you can see from these damage calculations, entry hazards are lethal for Vileplume, as she can just barely survive the attacks from some of RU's most powerful attackers. Furthermore, with entry hazards, Life Orb recoil, and damage from attacks as she switches in, Vileplume will not last as long as one might like. As such, Rapid Spin support is recommended to increase Vileplume's longevity and allow her to keep dishing out powerful attacks. Kabutops, Sandslash, Hitmonchan, and Cryogonal make wonderful spinners to use alongside Vileplume. The former two are able to set up Stealth Rock for Vileplume in addition to spinning away entry hazards, while the latter two are extremely reliable spinners. Entry hazards of her own are also beneficial, as demonstrated by the above damage calculations. In addition to Sandslash and Kabutops, Omastar, Ferroseed, Qwilfish, and Crustle make excellent entry hazard users, as they can each use two different types of entry hazards to assist Vileplume.</p>
+
+<p>This set's main adversaries are defensive Poison- and Steel-type Pokemon, as they resist Vileplume's STAB combination and Sleep Powder can only do so much in dealing with them. Magneton makes a wonderful partner because of this, as it is immune to Poison-type attacks and can easily trap and KO troublesome Steel-types such as Ferroseed, Klinklang, and other Magneton. Alternatively, Ground-types such as Steelix, Sandslash, Golurk, and Rhydon can wield a STAB Earthquake that hits both Poison- and Steel- type Pokemon super effectively. Specially defensive Pokemon such as Munchlax, Cryogonal, Clefable, and Mandibuzz might also pose an issue if an opposing Pokemon is already asleep, so powerful physical attackers, particularly Hitmonchan, Entei, Aggron, Feraligatr, and Medicham, are recommended partners. Entei and Feraligatr also share wonderful type synergy with Vileplume, as Vileplume works well in the traditional Fire / Water / Grass core due to its members' abilities to take on each other's weaknesses extraordinarily well.</p>
+
+[Other Options]
+
+<p>Despite a wide variety of options at her disposal, Vileplume often struggles to utilize them effectively enough to distinguish herself from other Pokemon and most of the time becomes inferior to other RU Pokemon instead. Vileplume can attempt to use a Swords Dance set with powerful physical attacks in Seed Bomb, Bullet Seed, Drain Punch, Nature Power, and Return, but it is ineffective as Vileplume's pitifully low Speed and mediocre Attack prevent her from being a true threat. Moreover, she is horribly outclassed by Sawsbuck, Leafeon, and even Bellossom, who all boast the stronger STAB Leaf Blade, as well as either better Speed or superior bulk. In addition, Vileplume can attempt to go mixed to hit foes that wall her special attacks, such as Drain Punch for Munchlax and Cryogonal. Unfortunately, she is simply too weak to utilize these non-STAB physical attacks, as they only do marginally more damage against the majority of foes. Choice Scarf and Choice Specs might seem like decent items, but Vileplume is much too slow to utilize Choice Scarf effectively and often values the ability to switch moves over the slight power boost from Choice Specs. Petal Dance is Vileplume's strongest STAB move, but it is not a good move to be locked into as it is easily resisted and thus almost guarantees Vileplume's demise.</p>
+
+<p>Support-wise, Vileplume has some other moves that work nicely. Leech Seed is a wonderful support move that helps Vileplume wear down tough special walls such as Munchlax; she can even attempt to utilize the fabled SubSeed combination in tandem with her powerful Poison-type STAB attacks to ward off troublesome Grass-types that might attempt to stop Leech Seed. However, as far as healing is concerned, Moonlight is simply much more reliable, and Leech Seed does not deal with most of the Pokemon Vileplume has issues with. For example, Clefable, Roselia, Cryogonal, and Ferroseed are all Pokemon who couldn't care less about Leech Seed and will be glad for the opportunity to set up. Furthermore, Leech Seed is illegal with Effect Spore, which severely hinders Vileplume's usefulness with defensive sets. Stun Spore is another powerful option that Vileplume can use decently, as her great bulk ensures that she can repeatedly switch in to paralyze opponents, but she often has trouble finding room for it on her sets. Finally, Vileplume makes a very respectable user of Sunny Day because of her access to Chlorophyll, STAB Solar Beam, and Moonlight. However, keep in mind that stacking a sun team with only Grass- and Fire-type inducers and sweepers is rarely a good idea. As such, there are often better users of Sunny Day.</p>
+
+[Checks and Counters]
+
+<p>As with anything that carries a sleep-inducing move, RestTalk users are always recommended to prevent Vileplume's Sleep Powder from opening a huge hole in your team. Munchlax, the primary RestTalk user of RU, does an admirable job of completely and utterly walling Vileplume no matter what she does, and his ability to spread paralysis will further burden Vileplume. Alternatively, RestTalk Spiritomb, Magneton, and Hariyama are the next best choices, as they can still beat Vileplume, though not nearly as well as Munchlax can. If your prediction skills are good, you can use other RestTalk users such as Poliwrath and Lanturn. Although they lose to Vileplume one-on-one, they can switch in to take the Sleep Powder if necessary, but note that one misprediction will cause these Pokemon to take a huge amount of damage. Keep in mind, however, that all of these Pokemon are still somewhat crippled by sleep, as they will have to rely on the unreliable Sleep Talk. Therefore, you can instead opt to simply sacrifice a Pokemon to Sleep Powder, then attempt to wake it up once Vileplume has been removed from the match.</p>
+
+<p>Once a Pokemon has been put to sleep, Poison- and Steel-types are easily the best counters to Vileplume. As far as Steel-types go, Magneton and Klinklang are wonderful counters, as they can easily set up Substitutes against Vileplume's pitiful STAB attacks, then utilize their boosting move in Charge Beam or Shift Gear to wreak havoc. Ferroseed is another Steel-type who can switch in without fear and easily set up a layer of Spikes, making Vileplume a huge liability to her team. As for Poison-types, Drapion is an amazing counter against Vileplume due to his ability to Taunt her before setting up Toxic Spikes or wearing her down with Crunch. Though she doesn't resist Vileplume's Poison-type attacks, Roselia works equally well, as her wonderful special bulk lets her take Poison-type attacks with ease and set up layers of Spikes and Toxic Spikes. In fact, most special walls can take on Vileplume pretty easily too; Mandibuzz, Cryogonal, and Clefable can also take Vileplume's attacks with ease. Though they will not stop support Vileplume from providing cleric support, they can nonetheless switch into Vileplume for a free setup opportunity.</p>
+
+<p>Offensively, Vileplume has quite a few weaknesses thanks to her Grass / Poison typing, and Pokemon who can prey upon them generally work well. The likes of Entei, Scyther, Moltres, Gallade, and Medicham will easily wreck Vileplume with their powerful STAB moves, but note that they have issues switching into offensive variants. Scolipede in particular is able to switch into Vileplume's STAB attacks with ease, set up a Swords Dance, and slam Vileplume with its incredibly powerful Megahorn. Bulky Calm Mind users such as Sigilyph, Uxie, and Mesprit can all use Vileplume as setup bait and demolish her with super effective Psychic-type STAB attacks. Bouffalant deserves a special mention, as he can not only destroy Vileplume with his incredibly powerful Head Charge, but also switch into all of Vileplume's moves bar Sludge Bomb with ease--even gaining an Attack boost from Giga Drain and Sleep Powder.</p>

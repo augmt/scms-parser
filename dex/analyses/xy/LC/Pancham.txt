@@ -1,0 +1,45 @@
+Overview
+########
+Pancham is a Fighting-type panda with access to a very powerful move: Parting Shot, which lets it fill a support niche that the other Fighting-types in the tier, such as Mienfoo and Timburr, cannot. Thanks to Pancham's low Speed, it can almost always bring a teammate safely into a foe with lowered offenses, giving it room to set up. Pancham's ability Scrappy gives it another niche: hitting Ghost-type Pokemon with its Fighting-type STAB moves. However, not all is well for it. Pancham lacks access to Drain Punch or any other healing move, meaning it gets worn down very quickly. Pancham also is not as powerful as other Pokemon in the tier, such as Croagunk, meaning that it is often outclassed as a Fighting-type. Despite these flaws, Pancham is still a very viable choice for any Little Cup team!
+
+Support
+########
+name: Support
+move 1: Parting Shot
+move 2: Circle Throw
+move 3: Storm Throw
+move 4: Stone Edge
+ability: Scrappy
+item: Eviolite
+evs: 140 HP / 100 Atk / 100 Def / 132 SpD
+nature: Sassy
+
+Moves
+========
+Circle Throw is a great STAB move, as it forces switches to stop setup sweepers and racks up entry hazard damage. Parting Shot is Pancham's signature move, which lowers the foe's Attack and Special Attack and then switches in a teammate to take advantage of the opponent's lowered offenses. Parting Shot works exceptionally well on Pancham because it is very slow, so it almost always ensures that Pancham's teammate will switch in safely. Storm Throw is a solid STAB move that always lands a critical hit. Stone Edge hits Ponyta and Larvesta, along with Fire- and Flying-type switch-ins.
+
+Set Details
+========
+The current EV spread gives Pancham all-around bulk, allowing it to survive Spritzee's Moonblast, and even giving it a 6.3% chance to survive Abra's super effective Psychic and itemless Fletchling's super effective Acrobatics. A Sassy nature gives Pancham the slowest Parting Shot possible. Scrappy is the preferred ability so Pancham can force out Ghost-types with Circle Throw.
+
+Usage Tips
+========
+Do not ever use Parting Shot on Pawniard, as Defiant will boost Pawniard's Attack to +3. Pancham is good against setup sweepers because it can force them out and remove their boosts with Circle Throw. Shell Smash users are particularly vulnerable, as most are weak to Circle Throw. Try to always use Parting Shot if possible, as it is Pancham's niche and is what makes it usable. Absent a Defiant Pokemon on the opponent's team, it's also a very low-risk, high reward move. Using Pancham with setup sweepers of your own is recommended, as Parting Shot gives teammates room to set up.
+
+Team Options
+========
+Setup sweepers like Tirtouga, Fletchling, and Pawniard are great teammates that enjoy a safe switch into an opponent with lowered offenses. Spritzee is a nice partner, as it can either set up with Calm Mind or keep Pancham alive by passing Wishes to it. Tirtouga is one of the best partners available, as it counters Flechling, a major threat to Pancham, and can safely set up Shell Smashes after Parting Shot.
+
+Other Options
+########
+Pancham has many different options to choose from, including a Choice Scarf set, which allows Pancham to reach the magical 21 Speed tier. Iron Fist can be used over Scrappy, as it makes Sky Uppercut a very powerful STAB move. Mold Breaker is another cool option and bypasses Sturdy, allowing Pancham to OHKO Tirtouga. Toxic is a neat option to cripple and wear down walls. Crunch can be used to hit Ghost-types super effectively, but is less useful if Pancham is Scrappy. Swords Dance is a possibility, but Pancham lacks the bulk and Speed to effectively utilize the move. Rock Slide can be used over Stone Edge if you're concerned about accuracy, however, you miss out on a lot of power. Bulk Up is another viable option that patches up Pancham's Defense and bolsters its Attack. Finally, Choice Band is usable because Pancham can still spam Parting Shot and Choice Band makes Pancham's other attacks very powerful, but the bulk from Eviolite is greatly missed.
+
+Checks & Counters
+########
+**Flying-types:** Most Flying-type Pokemon can reliably beat Pancham with their STAB moves. Fletchling in particular is a great counter because Gale Wings ensures that Pancham will not have time to use Parting Shot.
+
+**Psychic-types:** Psychic-types can typically beat Pancham with their STAB moves. Abra is a great example because the vast majority of the time, it can OHKO Pancham with Psychic.
+
+**Status:** Will-O-Wisp cuts Pancham's power and longevity greatly. Toxic also wears down Pancham's health quickly, which hurts.
+
+**Natu:** Natu has a 4x resistance to Pancham's STAB moves, and if it switches into a Parting Shot, Natu gets a free switch and leaves Pancham at -1 Attack, thanks to Magic Bounce.

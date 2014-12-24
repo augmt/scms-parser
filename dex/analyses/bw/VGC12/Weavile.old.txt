@@ -1,0 +1,41 @@
+[Overview]
+
+<p>Weavile is the fastest Fake Out user in VGC 12, and its STAB moves also OHKO many offensive threats. Unfortunately, its below-average defenses and weaknesses to two of the most common priority attacks, Mach Punch and Bullet Punch, prevent Weavile from completely dominating the scene. A lack of spread attacks also means that Weavile is incredibly predictable. Nevertheless, Weavile's ability to pick apart offensive teams is what sets it apart from other Fake Out users.</p>
+
+[SET]
+name: Fake Out Attacker
+move 1: Fake Out
+move 2: Ice Punch / Ice Shard
+move 3: Night Slash
+move 4: Low Kick
+item: Focus Sash / Expert Belt
+ability: Pickpocket
+nature: Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Weavile is used similar to most other Fake Out users: use Fake Out on the bigger threat to your team and attack with Weavile's teammate. However, it excels at grabbing OHKOs after turn one, something which many other Fake Out users fail at. STAB-boosted Night Slash does heavy damage to common VGC 2012 walls such as Cresselia, Latias, and Dusknoir. Ice Punch is a fantastic STAB attack to have coming off of base 125 Speed, as Garchomp, Zapdos, and other Dragon- and Flying-type Pokemon are on almost every team. Ice Punch also gives coverage on Amoonguss, one of the most annoying defensive walls in the metagame. Ice Shard is another STAB option, and its added priority is a useful tool against faster Pokemon, such as Aerodactyl and Choice Scarf Garchomp. However, Ice Shard's lower Base Power is an issue, and it thus does not get the same KOs that Ice Punch does. Low Kick hits Steel- and Rock-type Pokemon for serious damage, and serves as a decently powerful coverage option as most of them are heavy and are hit by Low Kick at 120 Base Power.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Weavile will always win the Fake Out war against Hitmontop, Infernape, and Scrafty due to its higher Speed. Pickpocket is the better ability choice over Pressure, allowing Weavile to actually get some use out of it's ability. However it only finds use when holding items such as Focus Sash and other consumable items. A Jolly nature and 252 Speed EVs are used to Speed tie with other Weavile and positive-natured Swellow. Maximum Attack EVs allow Weavile to net more KOs with Expert Belt; Focus Sash is also an item option to give gives Weavile two turns to attack.</p>
+
+<ul class="damage_calculation">
+<li>Fake Out + Ice Punch vs. 4/0 Yache Berry Garchomp 95.7% - 114.1%</li>
+<li>Fake Out + Ice Punch vs. 140/0 Zapdos 106.01 - 126.23%</li>
+<li>Fake Out + Low Kick vs. 4/0 Heatran 95.21 - 113.77%</li>
+<li>Ice Punch vs. 4/0 Thundurus 127.74% - 150.97%</li>
+<li>Night Slash vs. 4/0 Latios 102.6% - 124.4%</li>
+<li>Low Kick vs. 252/0 Tyranitar 139.13% - 164.25%</li>
+</ul>
+
+<p>Weavile struggles with Fire-type opponents such as Choice Scarf Chandelure and Speed Boost Blaziken. Chandelure is immune to Fake Out, giving it a free turn to OHKO Weavile, while in addition to resisting both Weavile's STAB attacks, Blaziken can Protect against Fake Out, outspeed and OHKO the next turn. Water-type Pokemon work very well with Weavile, as they provide a Heat Wave resistance and appreciate the removal of Zapdos. Tailwind users or slower Pokemon that use strong spread attacks can also benefit from Weavile's fast Fake Out.</p>
+
+[Other Options]
+
+<p>Taunt works very well on Weavile, stopping Trick Room from rendering its high Speed useless. Substitute is a decent option if a double Protect is predicted, but this is more risky due to the common spread and priority attacks. Ice Gem is a viable item option too, powering up Ice Punch or Ice Shard for one turn without locking Weavile into one move.</p>
+
+[Checks and Counters]
+
+<p>Steel-type Pokemon who do not take super effective damage from Low Kick are Weavile's best counters; Metagross and Scizor are the best options, quickly 2HKOing Weavile with Bullet Punch. Conkeldurr and Hitmontop OHKO Weavile with Mach Punch after using Protect against the Fake Out. Choice Scarf Fire-type Pokemon, such as Chandelure, Charizard, and Heatran, only let Weavile use Fake Out before being KOed by Heat Wave. Although its Fake Out is slower, Infernape takes negligible damage from all of Weavile's attacks and can OHKO back with a STAB move of choice. Bronzong shrugs off Weavile's attacks and can either set up Trick Room or deal heavy damage with Gyro Ball.</p>

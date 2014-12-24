@@ -1,0 +1,30 @@
+[Overview]
+
+<p>Magcargo is a Pokemon which has many crippling flaws that prevent it from shining in the limelight of the NU metagame. Due to its horrible typing, Magcargo not only has a Stealth Rock weakness, but it also sports 4x weaknesses to common Water and Ground-type moves, as well as a weakness to Fighting-type moves. To make matters worse, Magcargo has incredibly underwhelming Special Defense and HP, meaning that many powerful special attacks, such as Jynx's Focus Blast, will take it out after Stealth Rock. Despite these problems, Magcargo still makes a decent check to several important Pokemon in the NU metagame, including Swellow, Drifblim and Charizard, thanks to its key resistances to Normal-, Flying-, and Fire-type attacks. Magcargo also has a unique support movepool, including options such as Memento, Will-O-Wisp, and Stealth Rock, as well as a reliable recovery move. However, theses traits do not make Magcargo a good Pokemon and more often than not, other defensive Fire- and Rock-types, such as Torkoal and Regirock, will be better options for your team.</p>
+
+[SET]
+name: Defensive
+move 1: Stealth Rock
+move 2: Recover
+move 3: Lava Plume
+move 4: Toxic
+item: Leftovers
+ability: Flame Body
+nature: Bold
+evs: 248 HP / 8 Def / 252 SpD
+
+[SET COMMENTS]
+
+<p>This set uses Magcargo's unique defensive typing to check various threats in the NU metagame, particularly Fire- and Normal-types such as Charizard and Swellow respectively. Because of this, Magcargo can find multiple opportunities to reliably set up Stealth Rock. In the second slot, Recover is to heal Magcargo from any damage it has taken. It should be noted that Magcargo's Stealth Rock weakness forces it to Recover against foes that it walls, slowing down the team's momentum. Lava Plume is a great STAB option thanks to its nifty 30% burn chance, which can cripple many common switch-ins, such as Golurk. However, despite its decent Base Power, most foes will take very little damage from it due to Magcargo's sub-par Special Attack. This forces Magcargo to use Toxic as its primary form of damage.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given EV spread allows Magcargo to tank weaker special attacks, such as Zebstrika's Thunderbolt, while still allowing it to survive relatively powerful physical attacks, such as Swellow's Facade. Hidden Power Rock or Hidden Power Grass can be used for STAB or to hit Water- and Rock-types, respectively. However, these moves have little utility outside of hitting specific targets. Will-O-Wisp can be used over Toxic to cripple physical attackers, but Lava Plume already has a decent chance to burn. Good partners for Magcargo include those who resist its weaknesses. Seismitoad is a good partner because it absorbs Magcargo's Water-type weakness and resists its Rock-type weaknesses. It can also use Stealth Rock and open up a moveslot for Magcargo. Misdreavus is another solid partner, as it's immune to both Fighting- and Ground-type moves and can heal Magcargo from status with Heal Bell.</p>
+
+[Other Options]
+
+<p>Magcargo can run an offensive Shell Smash set with Fire Blast, Earth Power, and Hidden Power Grass, but it is very difficult for Magcargo to set up due to its common weaknesses. If you do decide to run a Shell Smash set, then Memento is a fine option over Earth Power, as it allows easier setup for Pokemon like Zangoose. A dual screens set is also viable, but it suffers from the same problem as the Shell Smash set. Clear Smog can be used to eliminate stat boosts, but its low Base Power is a turnoff and Magcargo has a hard time fitting it into one of its moveslots. Overheat and Fire Blast can be used for their power, but Lava Plume is usually the better choice thanks to its higher PP and higher chance to burn. Finally, a Sunny Day set with Heat Rock can be used, but Magcargo merely compounds the weaknesses that sun teams already have.</p>
+
+[Checks and Counters]
+
+<p>Magcargo is not very hard to counter thanks to its low Special Attack and common weaknesses. Carmerupt is Magcargo's best counter, as it can switch into anything Magcargo throws at it, barring Toxic, and annihilate it with Earthquake. Seismitoad is another good counter, as it can switch into most of Magcargo's moves and destroy it with either of its STAB attacks. Defensive variants fear status from Magcargo, however. Probopass and Torkoal only fear the rare Earth Power, and both of them can retaliate with their own Earth Power. Golurk and Carracosta can both outspeed and OHKO Magcargo with their STAB attacks. In general, any Pokemon faster than Magcargo with a super effective attack can be considered a check to it.</p>

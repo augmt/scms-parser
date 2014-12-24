@@ -1,0 +1,27 @@
+Choice Specs
+########
+name: Choice Specs
+move 1: Bug Buzz
+move 2: Air Slash
+move 3: U-turn
+move 4: Sleep Talk / Shadow Ball
+ability: Tinted Lens
+item: Choice Specs
+evs: 4 Def / 252 SpA / 252 Spe
+nature: Timid / Modest
+
+This is a sample set while we are currently working on analyses in the workshop.
+
+Speed Boost
+########
+name: Speed Boost
+move 1: Protect
+move 2: Bug Buzz
+move 3: Air Slash
+move 4: Giga Drain / Shadow Ball
+ability: Speed Boost
+item: Life Orb
+evs: 4 Def / 252 SpA / 252 Spe
+nature: Modest
+
+This is a sample set while we are currently working on analyses in the workshop.

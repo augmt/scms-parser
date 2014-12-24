@@ -1,0 +1,144 @@
+[Overview]
+
+<p>The first thing you may notice about this odd-looking Pokemon is its correspondingly odd Poison/Dark typing. This typing is critical to much of Drapion's success, both as a sweeper and as a defensive utility counter. Offensively, the Dark subtype grants a great offensive STAB, which in turn complements Drapion's nice movepool. Defensively, Drapion's Dark subtype gives it useful resistances to Ghost-, Psychic-, and Dark-type attacks, while its Poison subtype neutralizes the Fighting-type coverage attacks typically used by Pokemon with those STABs and offers resistances to Grass- and Poison-type attacks. This Pokemon is not a common sight in UU, but don't let that fool you--Drapion is very good at what it does, both as a sweeper and as a defensive stronghold.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Crunch
+move 3: Earthquake
+move 4: Aqua Tail
+item: Life Orb
+ability: Sniper
+nature: Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Drapion has solid Speed and Attack stats backed up by Swords Dance and great offensive moves, making it a dangerous UU sweeper. After Drapion sets up a Swords Dance, either on weak attackers such as Chansey or against switching Ghost- and Psychic-types, it can use its high Speed and excellent type coverage to terrorize the tier.</p>
+
+<p>Crunch has excellent neutral coverage, so it is Drapion's preferred move for sweeping. Earthquake hits many of the UU Pokemon who resist Dark, including Registeel, Aggron, and Blaziken, for super effective damage. All of the remaining Dark resisters are hit for at least neutral damage. While these two moves provide nice coverage, there are some Pokemon who will wall the combination due to sheer defensive stats. Chief among these are bulky Ground-types, who can threaten Drapion with Earthquake. Aqua Tail helps alleviate this problem, as it OHKOes Rhyperior and can OHKO Donphan after a tiny bit of residual damage.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs on this set are straightforward for a sweeper set. A Jolly nature is chosen to enable Drapion to outpace Moltres, Rotom, and Toxicroak, and to ensure it Speed ties opposing Leafeon, Houndoom, and Arcanine. In practice, though, many Arcanine choose to use either an Adamant nature or a Jolly nature with defensive EVs, which means Jolly Drapion will outpace almost all Arcanine.</p>
+
+<p>Both of Drapion's abilities can be useful, but Sniper is preferred on this set since it is not supposed to take many hits before it tries to rampage through the opponent's team. While Life Orb is more reliable, Scope Lens can be used with Night Slash to turn Drapion into a critical hit abuser. Since this comes with a drop in power on non-critical hit shots, Aqua Tail is not as effective against Ground-type Pokemon, so replacing it with Cross Poison is an option for another STAB attack that is able to abuse critical hits. Finally, using a Lum Berry lets Drapion freely set up against most Venusaur, Slowbro, and Rotom without worrying about being hit by a nasty status effect.</p>
+
+<p>There are also some different moves that can be used in the last slot to take care of specific threats. Ice Fang lets Drapion hit defensive Torterra for an OHKO but suffers from drastically reduced power against Donphan and Rhyperior. Taunt means bulkier Pokemon with weak or resisted attacks won't be able to cripple Drapion with status moves, such as Will-O-Wisp or Sleep Powder; specifically, it turns counters like Will-O-Wisp Weezing into setup fodder. Taunt will also stop Milotic from using Haze, but a mispredicted Surf will deal heavy damage to Drapion. Finally, Poison Jab hits Pokemon who are neutral to Drapion's other attacks, including Hitmontop, Tangrowth, and Leafeon. Its poor coverage compared to Crunch's makes it only a secondary option.</p>
+
+<p>Although bulky Grounds are Drapion's stereotypical counters, Aqua Tail makes most of them unreliable checks at best. However, Steelix's massive Defense stat allows it to solidly counter Drapion, even when Drapion has Earthquake or Aqua Tail. Donphan and Rhyperior who run more Defense than the standard--or even an Impish nature--are also good counters. 252 HP / 0 Def Torterra struggles to survive Swords Dance Crunch if it has taken a bit of prior damage, but physically defensive versions can shrug off all of Drapion's attacks except for Ice Fang. Hitmontop boasts a resistance to Drapion's primary STAB and packs Intimidate to cut Drapion's Attack stat, allowing it to quickly wear down Drapion with Close Combat. Haze Milotic is able to stall out Drapion via Life Orb recoil and Surf, but its chances of beating critical hit-abusing variants of this set are low. Finally, while Drapion's Speed stat is decent, it lacks a priority move, and many faster Pokemon have no qualms revenge killing a Drapion weakened by Life Orb.</p>
+
+[SET]
+name: All-Out Attacker
+move 1: Pursuit
+move 2: Crunch
+move 3: Earthquake
+move 4: Aqua Tail / Ice Fang
+item: Choice Band / Life Orb
+ability: Sniper
+nature: Jolly
+evs: 252 Atk / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>It may seem like a shame not to use Swords Dance, but Drapion's access to Pursuit makes an all-out attacking set viable. Drapion has several qualities that distinguish it from other common Pursuit users. First, a neutrality to Fighting-type attacks means that Drapion performs better against Alakazam's Focus Blast and Mismagius's Hidden Power Fighting. Second, its relatively high Speed--greater than that of Rotom--allows Drapion to fire off attacks before it is hit by nasty status effects, especially burn. Finally, an expansive movepool with great coverage means Drapion has lots of team utility beyond just using Pursuit.</p>
+
+<p>Pursuit and Crunch are obvious moves on this set. Pursuit lets Drapion perform its trapping duties, and Crunch gives it a reliable STAB attack. Earthquake provides the best coverage with Crunch, as it hits Steel-types super effectively and Fighting-types neutrally. Aqua Tail washes away Rhyperior and hits Donphan harder than any of Drapion's other attacks, but only Ice Fang will 2HKO physically bulky Torterra.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread is straightforward; Attack and Speed are maximized, and the last four EVs are dumped in Special Defense to help take resisted special hits better. Although lowering Speed comes at the expense of being unable to Speed tie opposing base 95s, an alternative spread of 252 Atk / 32 SpD / 224 Spe can be used to outpace Rotom while taking less from powerful attacks such as Alakazam's Focus Blast or Mismagius's Nasty Plot-boosted Thunderbolt.</p>
+
+<p>Good teammates for this set are Pokemon who appreciate the absence of Mismagius and Rotom. Powerful Choiced attackers, such as Hitmonlee and Tauros, benefit when there are no opposing Pokemon immune to their STAB moves present, although Spiritomb is not easily trapped by Drapion and can still cause them some grief. Eliminating the Levitating Ghosts will make it easier for Choice Band Rhyperior to carelessly spam Earthquake. Additionally, Rapid Spin users love when opposing Ghosts are eliminated, as do their Stealth Rock-weak teammates. In particular, Donphan is a good partner because its STAB Earthquake deals with Spiritomb, who is the Ghost-type Drapion has the most problems with.</p>
+
+[SET]
+name: Bulky Swords Dance
+move 1: Swords Dance
+move 2: Taunt
+move 3: Crunch
+move 4: Earthquake / Protect
+item: Leftovers
+ability: Battle Armor
+nature: Jolly
+evs: 252 HP / 120 SpD / 136 Spe
+
+[SET COMMENTS]
+
+<p>This variation from the standard Swords Dance set focuses on obtaining more than one Swords Dance with the help of a bulky EV spread. Drapion's typing allows it to set up on specially-inclined sweepers such as Mismagius, Rotom, and Choiced Alakazam, as well as against weak walls such as Weezing, Chansey, and Slowbro. However, the lack of Attack investment and Life Orb makes Drapion more vulnerable to its typical counters. Thorough scouting and well-timed setup is required for this set to function at its best.</p>
+
+<p>Taunt allows Drapion to shut down common checks, including Registeel, Weezing, and Spiritomb, by preventing them from using status moves. It also stops Milotic from using Haze, and Blastoise from using Roar. This gives Drapion more chances to use Swords Dance and keep boosting its Attack. Crunch and Earthquake provide optimal coverage alongside each other. Protect may seem like an odd choice, but it can PP stall attacks such as Hitmontop's Close Combat, and is also very useful to garner Drapion additional Leftovers recovery.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>With 136 Speed EVs and a Jolly nature, Drapion outpaces all base 80 Speed Pokemon, including Venusaur, Blaziken, and Kabutops. This lets it OHKO Blaziken and Kabutops with Earthquake and Taunt Venusaur's Sleep Powder. 252 HP is used to maximize Drapion's overall bulk, and the remaining EVs are put into Special Defense to make the most of Drapion's resistances. Lowering Speed to 44 EVs will give Drapion greater bulk while still letting it outpace neutral-natured base 80 Speed Pokemon.
+
+<p>This set has much less power than the standard Swords Dance set, so it will struggle against bulky Ground-types. Without a Pokemon who can lure and substantially weaken the opponent's Ground-type, Drapion has little hope of sweeping. Aggron with Aqua Tail and / or Ice Punch can 2HKO offensive variants of Rhyperior, Donphan, and Torterra with Head Smash and the appropriate coverage move, while defensive versions of all three are 2HKOed by two hits from said coverage move. Steelix is a bit of a problem, but Aggron's Low Kick handles it well. Rhyperior and Steelix can be both lured in by a strong Normal- or Flying-type attacker. Scyther, especially when backed up by Spikes, quickly wears these two down with repeated U-turns. Tauros deals a healthy chunk of damage to both with Earthquake; even though it won't 2HKO either of the two, Tauros will leave them extremely weakened and easy prey for Drapion's own Earthquake. Registeel with Explosion and Ice Punch baits and KOes Donphan and Torterra.</p>
+
+[SET]
+name: Specially Defensive
+move 1: Crunch
+move 2: Whirlwind
+move 3: Toxic Spikes / Sleep Talk
+move 4: Taunt / Knock Off / Rest
+item: Leftovers
+ability: Battle Armor
+nature: Careful
+evs: 252 HP / 4 Def / 252 SpD
+
+[SET COMMENTS]
+
+<p>Although Drapion has mediocre Special Defense, its resistances to Ghost-, Dark-, Grass-, and Poison-type attacks along with an immunity to Psychic-type attacks make a specially defensive set quite useful. It serves as a hard stop to offensive Mismagius, Rotom, Uxie, Mesprit, special Venusaur, and most Alakazam.</p>
+
+<p>Crunch provides a reliable STAB attack that hits most Ghost- and Psychic-types super effectively. Drapion takes minimal damage from most attacks these Pokemon use--with perhaps the exception of Alakazam's Life Orb Focus Blast--meaning it has lots of free turns to abuse. These can be used to Whirlwind the opposing team, quickly racking up residual damage.</p>
+
+<p>The choice of moves in the last two slots depends on what role you want Drapion to serve. Using Toxic Spikes along with either Taunt or Knock Off gives Drapion more versatility, but using Rest and Sleep Talk gives it much greater longevity. Toxic Spikes are effective at wearing down many grounded sweepers and walls despite the popularity of grounded Poison-types in UU. Taunt stops walls from using their recovery moves and from setting up entry hazards. Knock Off eliminates Leftovers, Life Orb, and Choice items, making both walls and sweepers easier to handle. Finally, if you really want to use Toxic Spikes without giving up Drapion's recovery, running Rest without Sleep Talk is a viable option as long as you have a cleric on the same team.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given nature and EV spread maximize Drapion's specially defensive capabilities. Mismagius's Life Orb Thunderbolt will never 3HKO this set, and Alakazam's Life Orb Focus Blast will never 2HKO. Battle Armor is the more useful ability for this set since it is supposed to take hits rather than dish them out, and getting pelted by a critical hit can quickly put a damper in your plans. For example, it allows Drapion with Rest to stall out standard Milotic without worrying about a potential critical hit.</p>
+
+<p>If Dugtrio starts becoming a pain, Drapion can run Shed Shell to escape, but this obviously forces it to forfeit Leftovers recovery. Making this swap on variants without Rest isn't recommended because that means Drapion won't have a way to recover its health.</p>
+
+<p>Drapion appreciates Pokemon who can cover its nasty weakness to Ground-type attacks. Physically defensive Milotic is able to handle most Earthquake users with its great bulk and STAB Surf. Milotic obviously cannot deal with Torterra's powerful Wood Hammer, so using another Pokemon such as Weezing in tandem can complete the defensive core. Weezing also provides a valuable resistance to Fighting-type attacks.</p>
+
+<p>Since this set primarily relies on residual damge to do its job, its teammates should be able to lay down Stealth Rock and Spikes. Omastar is probably the best overall choice for defensive teams since it can lay down both hazards by itself. It is also a good switch-in to the Flying-type attacks that hit many other stall members neutrally or super effectively. Cloyster has Spikes but not Stealth Rock; to compensate for that, it can use Rapid Spin to clear hazards the opposing team has set up. Finally, Qwilfish provides Spikes along with a unique set of resistances, but the weakness to Ground-type attacks that it shares with Drapion may be off-putting.</p>
+
+[SET]
+name: Lead
+move 1: Crunch
+move 2: Toxic Spikes
+move 3: Taunt
+move 4: Earthquake
+item: Lum Berry / Leftovers
+ability: Sniper
+nature: Jolly
+evs: 32 HP / 252 Atk / 224 Spe
+
+[SET COMMENTS]
+
+<p>Drapion can make an effective lead, as it possesses the ability to shut down set-up leads with Taunt and set up Toxic Spikes against them. It can also outspeed and deal massive damage to, if not OHKO, common UU threats such as Rotom and Blaziken, giving it considerable use outside of the lead position.</p>
+
+<p>Drapion can outspeed and Taunt common leads such as Uxie, Mesprit, and Spritomb, essentially preventing them from functioning as a lead. It can then proceed to set up Toxic Spikes, as the aforementioned leads cannot hurt Drapion. Aside from that, Drapion can make use of powerful attacks in Crunch and Earthquake. Crunch has STAB, and is Drapion's primary attack, hitting common leads such as Uxie and Mesprit for super effective damage. Earthquake provides good coverage when paired with Crunch, hitting Electrode, Houndoom, Qwilfish, and Steel-type Pokemon that resist Crunch for super effective damage. Lum Berry prevents Drapion from being crippled by status from the likes of Mismagius, Venusaur, Jumpluff, and Butterfree.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Leftovers is an option over Lum Berry, as it gives Drapion helpful, gradual recovery. An EV spread of 180 HP / 104 Atk / 224 Spe is recommended with Leftovers, as it allows Drapion to survive two Surfs from bulky Omastar.</p>
+
+<p>Ambipom is a problem for this lead, as it can deal 40% damage to Drapion with Fake Out and potentially KO it afterwards with Return. It can also use Taunt, preventing Drapion from setting up Toxic Spikes. Donphan is another lead that Drapion does not fare well against. It can OHKO Drapion with STAB Earthquake, and takes minimal damage from any of Drapion's attacks due to its high Defense stat. Additionally, it can use Rapid Spin to clear the field of any Toxic Spikes that Drapion can set up. Mismagius makes an exceptional partner, as it can deal with the aforementioned problematic leads. Mismagius is immune to Fake Out, and can 2HKO Ambipom with Thunderbolt or Hidden Power Fighting. It is also immune to Donphan's Earthquake, and can block its attempts at using Rapid Spin.</p>
+
+[Other Options]
+
+<p>Most sets should invest fully in two stats and place the remaining EVs in HP or Defense. Defensive sets do not have any particular Speed benchmarks to worry about, while offensive sets usually derive more benefit from max Attack and Speed than from any minimal defensive investment. The one exception is on the bulky Swords Dance set, which should maximize HP, pick a Speed benchmark, then place the remaining EVs into Special Defense. 224 Speed EVs beat similarly natured base 91 and 90 Pokemon (Rotom and Moltres), 176 Speed EVs beat similarly natured base 85 Pokemon (Toxicroak and Pinsir), and 136 Speed EVs beat similarly natured base 80 Pokemon (Venusaur and Kabutops). A Jolly nature and 44 Speed will outpace neutral-natured base 80 Pokemon; this is more efficient than Careful with 136 Speed because Drapion's base Speed stat is higher than its base Special Defense stat.</p>
+
+<p>Shed Shell is an option on all of Drapion's sets if Dugtrio is a problem, but the offensive sets will miss the Life Orb boost, while defensive sets will miss Leftovers recovery. The set that loses the least from using Shed Shell is probably the RestTalk set, since it has an alternative way to recover its HP. Payback can also be used on defensive sets since it guarantees the OHKO on sweeper Mismagius and Rotom without Stealth Rock. Crunch is usually a superior option, though, as it will still deal near fatal damage to those two while sporting higher PP and more reliable power.</p>
+
+<p>A set with Rest, Sleep Talk, Acupressure, and Crunch can be tricky to stop if Drapion hits the right boosts early in its setup. It's not reliable enough to beat most of Drapion's standard hard counters, though.</p>
+
+[Checks and Counters]
+
+<p>Drapion's typical counters are physically bulky Pokemon, especially ones with a resistance to Dark-type moves or access to Ground-type moves. Whether a specific Pokemon can counter Drapion also depends on the Drapion set in question. Life Orb Drapion is quickly worn down by Intimidate Hitmontop, but the bulky Swords Dance set will simply set up additional Swords Dances on Hitmontop before KOing it with the help of Close Combat's Defense drops. Bulky Ground-type Pokemon such as Donphan, Rhyperior, Steelix, and Torterra have high Defense and STAB Earthquake. If Drapion packs Aqua Tail, though, Donphan and Rhyperior with offensive spreads will get mauled, and if Drapion has Ice Fang, Torterra will be in trouble. However, Donphan and Rhyperior who invest heavily in HP and Defense will survive as long as they are high on health. Unfortunately for Torterra, it can't survive a boosted Ice Fang even if it has max Defense--it must hope that Drapion neglects Ice Fang in favor of Aqua Tail to hit the more common Donphan and Rhyperior. Standard Steelix has nothing to fear from Drapion since it has an astronomical 200 base Defense, making it the most reliable Ground-type counter. If Drapion uses a bulkier set, its lower immediate power makes all of these Ground-types great counters.</p>
+
+<p>Several other Pokemon can beat Life Orb Drapion by virtue of unique abilities or moves. Note that the bulky Swords Dance set with Taunt can shut down many of these strategies since they are based on moves that aren't direct attacks. Weezing and Spiritomb who pack heavy investments in Defense survive Crunch cleanly and can cripple Drapion with Will-O-Wisp. Milotic with Haze can stall Drapion with Life Orb recoil for a few turns and finish it off with Surf (which hits Drapion's much lower Special Defense stat), but this is a tad unreliable due to the higher chance of Drapion firing off critical hits. Tangrowth has Leech Seed and Sleep Powder at its disposal to disrupt Drapion, and it can also recover HP through Synthesis and hit Drapion with Earthquake. In general, bulkier teams need to use a bit of intelligent switching if they want to beat Drapion without losing part of their valuable defensive core.
+
+<p>Offensive teams have an easier time revenge killing Drapion because it has a prominent Earthquake weakness, mediocre Special Defense, and no priority attacks. Tauros is the best offensive switch-in to Drapion since it can buffer attacks with Intimidate, outpace Drapion, and OHKO with Earthquake. Other fast Pokemon such as Swellow, Scyther, Ambipom, and Manectric also check Drapion, but they should be careful not to switch into Crunch. Funnily enough, due to Drapion's naturally low Special Defense, Alakazam easily checks Swords Dance Drapion--if its Focus Blast hits. Offensive Hariyama boasts a resistance to Crunch, and it can handle Swords Danced Earthquake well if it's high on health. It may be a good idea to invest a few EVs into Defense, though, as Earthquake can become problematic if Stealth Rock is up and Hariyama is eating Toxic Orb / Flame Orb damage.</p>

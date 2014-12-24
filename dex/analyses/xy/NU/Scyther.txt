@@ -1,0 +1,13 @@
+Choice Band
+########
+name: Choice Band
+move 1: Aerial Ace
+move 2: Bug Bite
+move 3: Brick Break
+move 4: Quick Attack / Pursuit
+ability: Technician
+item: Choice Band
+evs: 252 Atk / 4 Def / 252 Spe
+nature: Jolly
+
+This is a sample set while we are currently working on analyses in the workshop.

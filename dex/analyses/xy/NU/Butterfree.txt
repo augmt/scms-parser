@@ -1,0 +1,14 @@
+Quiver Dance Sweeper
+########
+name: Quiver Dance Sweeper
+move 1: Sleep Powder
+move 2: Quiver Dance
+move 3: Bug Buzz
+move 4: Psychic
+ability: Tinted Lens
+item: Life Orb
+evs: 4 HP / 252 SpA / 252 Spe
+nature: Modest / Timid
+
+
+This is a sample set while we are currently working on analyses in the workshop.

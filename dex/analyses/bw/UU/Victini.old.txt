@@ -1,0 +1,83 @@
+[Overview]
+
+<p>Victini's cute looks have been the source of deception for many players, unaware of its true potential outside its competitively worthless title of 'Legendary'. Indeed, 100 base stats across the board are still solid, but by no means impressive in the current generation of Pokemon. Even in UU, the threat of entry hazards, Pursuit, and the ever-common Sucker Punch serve to make its lifespan remarkably short for all of its bulk. Without Rapid Spin support, it is hard for Victini to function at all.</p>
+
+<p>However, if you're looking for a reason to acknowledge this creature as a threat, halt the search at V-create. Victini's signature move happens to be one of the strongest attacks in existence. Although a handful of Pokemon can safely withstand the attack, Victini's supplementary movepool serves it well against even these. Powerful attacks such as Focus Blast, Thunder, and Blue Flare profit from the accuracy boost of Victory Star, and STAB Psychic 2HKOs some of its robust enemies, including Kingdra and Arcanine.</p>
+
+<p>It wouldn't be a stretch to say that, in many cases, Victini is a threat even before the battle begins. Alongside Darmanitan and Chandelure, it is one of the main incentives to pack an especially sturdy Fire-type resist on your team, and it can use U-turn to weaken its checks before launching V-create with reckless abandon. As it stands, Victini is a powerful wallbreaker that eliminates many key contenders in the UU metagame. Don't be surprised to find the words 'not very effective' scroll uselessly onto the screen as one of its checks is reduced to ashes.</p>
+
+[SET]
+name: Choice Band
+move 1: V-create
+move 2: U-turn
+move 3: Bolt Strike
+move 4: Zen Headbutt / Brick Break
+item: Choice Band
+nature: Jolly / Adamant
+evs: 252 Atk / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>With overall average stats and no appropriate boosting moves, it is well established that Victini is not designed to sweep; however, one thing it does well that no other UU Pokemon can do is deliver crushing blows with V-create. V-create's colossal Base Power of 180 makes it the strongest Fire-type attack in Pokemon and one of the defining traits that make Victini the monster it is. As an example of its destructive power, a Choice Band-boosted V-create soundly 3HKOes standard Rhyperior, one of the most physically bulky Pokemon in the tier, and even Kingdra, whose natural bulk and handy double resistance to Fire-type attacks ensures it can take a V-create better than most. You might even be wondering at this point what keeps Victini from asserting its dominance with exclusive access to such an incredible move and the stats to back it up. The answer becomes readily apparent after its first use: Victini's defenses and Speed lower by one stage each time after use. This makes it easier to force out after a KO, and exacerbates its Pursuit weakness for Krookodile, Weavile, and Snorlax to readily exploit.</p>
+
+<p>As recklessly as Victini plays, it does have at least one safe option to open the game with in U-turn. U-turn allows Victini to attack without risk in the presence of its checks, some of which are immune to V-create and can use a Flash Fire boost to threaten the team. A Jolly nature helps Victini stand toe-to-toe with Shaymin and Zapdos, while maintaining the advantage over Darmanitan and Roserade. Outside of Speed, the only other real reason not to choose an Adamant nature is mercy; Adamant Victini makes even physically defensive Milotic cry, soundly 2HKOing it with V-create after Stealth Rock damage. Even Slowbro and Suicune are reduced to prey, as the increased damage allows Victini to 2HKO with Bolt Strike. An Adamant nature also makes it slower than Gligar after a Speed drop, unfortunately, so the support of another teammate is recommended to rectify this flaw. Calm Mind users such as Suicune, Cresselia, and Bronzong can easily set up on Gligar.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs are standard for an all-out offensive Pokemon such as Victini, with 4 EVs allocated to Special Defense in order to prevent Download Special Attack boosts from Porygon2 and Porygon-Z.</p>
+
+<p>While this may appear to encroach on Darmanitan's territory, there are a few key factors that make Victini well-suited for this role. The first of their key differences lies within their choice of signature moves: Darmanitan's Flare Blitz causes heavy HP recoil, while V-create lowers Victini's Speed and defenses, which can go unpunished without a Pursuit user in tow. Victini's Fighting resistance and solid defenses come in handy for checking the likes of Heracross and Machamp. Victini is also faster than Darmanitan and can Speed tie with other base 100 Speed Pokemon, as well as check Darmanitan itself.</p>
+
+<p>Victini works well with a number of Pokemon, but its favorite teammates are, bar none, Blastoise and Hitmontop. Due to its hit-and-run nature, Victini will appreciate the ability to U-turn safely into its teammates and switch out after using V-create. A lot of Victini's checks are physical attackers, such as Swampert, which gives Hitmontop plenty of opportunities to switch in and spin away entry hazards. Blastoise plays its strength more toward its typing, allowing it to switch into Flash Fire users, threaten common Stealth Rock users, and spin Stealth Rock away when possible. Xatu remains a reliable choice for preventing Stealth Rock, and can even contribute to U-turn chains alongside Victini. Roserade effortlessly sets up Spikes in the face of enemy bulky Water-types, which translates some of Victini's 3HKOs into 2HKOs. Offensively, Victini works well with Kingdra, who switches in on Fire-immune Pokemon such as Chandelure, and can form a wallbreaking duo alongside Victini with its Choice Specs set. Suicune also switches in well on most of the Pokemon that threaten Victini while Victini makes short work of both Shaymin and Roserade.</p>
+
+[SET]
+name: Choice Scarf
+move 1: V-create
+move 2: U-turn
+move 3: Bolt Strike
+move 4: Flare Blitz / Zen Headbutt
+item: Choice Scarf
+nature: Jolly / Adamant
+evs: 252 Atk / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>If you've ever thought to yourself, "Damn, I wish Victini's best move didn't lower its Speed," then you were probably looking for this set. Choice Scarf is another effective item for Victini, putting to use its power and scouting ability for checking sweepers rather than breaking walls. The ability to ram through Milotic and Rhyperior with resisted hits will be missed, but in spite of that, its resume improves with a list of foes it dared not cross previously, such as Mienshao, Cobalion, and Mismagius. Even Raikou and Azelf, two of the tier's most dangerous sweepers, live in fear of not knowing Victini's item right away, as it could spell the difference between an easy sweep and the fiery cinders of defeat.</p>
+
+<p>There are some drawbacks to using this set, however; without a Choice Band, defensive checks have an easier time switching into Victini, and the Speed loss from V-create makes it even worse for maintaining momentum. Substitute users can also exploit this weakness by forcing Victini to V-create until it is slower, and move in for the kill under the safety of their Substitute. Flare Blitz helps remedy these issues by ensuring Victini will always have the speed to check what it needs to, and allowing it to pull off some timely end-game sweeps without having to use V-create. Zen Headbutt is Victini's only chance at damaging Kingdra and Flygon, two very important targets in UU.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Jolly is the preferred nature, allowing Victini to outpace and defeat most of the common Choice Scarf users, including Krookodile and Darmanitan. Since this set is obviously not as powerful as Choice Band, more team support is required to mitigate its checks. Spikes is the easiest answer to these threats, as coincidentally, almost all of Victini's checks are vulnerable to entry hazards. Roserade and Ferroseed set up on Suicune and Milotic, whose weak Ice Beams fail to even 3HKO without Special Attack investment.</p>
+
+<p>On a minor additional note, Victini falls just short of a Speed tie with other base 100s after the stat drops, so Shaymin and Flygon will always outspeed and defeat a Victini at -1. Don't attempt to risk a Speed tie after V-create; it will never work.</p>
+
+[SET]
+name: Special Attacker
+move 1: V-create / Blue Flare
+move 2: Psychic
+move 3: Grass Knot
+move 4: Focus Blast
+item: Life Orb
+nature : Naive / Timid
+evs: 4 Atk / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>Victini feigns its ability to be a brilliant special attacker through sheer coverage and the threat of a seemingly inevitable V-create. The gist of this set is to cause major damage by fooling the opponent, as most players would not think to switch their special wall into Victini until their Rhyperior meets a Blue Flare or Psychic. For this set, the primary STAB can be either Blue Flare or V-create, depending on whether or not you want to play the mixed attacker angle. With some prediction and entry hazard support, most special walls switching in are annihilated by two consecutive Focus Blasts, including Porygon2, Umbreon, and Clefable, but V-create allows Victini to defeat those checks with even less prior damage and no prediction. Its downfall, however, is that the stat drops make it harder to maintain pressure against an offensive team. In most cases, Psychic is a safe attack to open up with, as it can catch some of Victini's checks off guard, such as Chandelure and Blastoise, and 2HKO them. Last, but not least, Grass Knot terrorizes Swampert and Rhyperior switch-ins, and makes the opponent think twice before switching their Suicune, Milotic, or Slowbro in.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The ability to attack both physically and specially with aplomb is a boon, since UU's dedicated physical walls, such as Gligar and Slowbro, are simply not ready to take both a V-create and a strong special attack. Substitute Calm Mind Raikou is the best partner for this set, as it can sweep easily once Snorlax and Swampert have been weakened or defeated. Other sweepers that can take advantage of the Pokemon Victini attracts and weakens include Heracross, who is a major threat with Gligar out of the way, and Zapdos, who is walled by many of the same Pokemon as Raikou.</p>
+
+<p>Victini can use other moves with this set to catch its foes off guard. The less accurate Thunder gives Victini an easier time 2HKOing Milotic, as V-create followed by Thunder is a KO after Stealth Rock whereas Grass Knot is not. Thunder is also a very near guaranteed OHKO on Slowbro with Stealth Rock damage. Psyshock is a great way to deal with Snorlax, who otherwise walls this set. Work Up allows Victini to become even more dangerous, and possibly sweep bulky offensive teams, but using a STAB attack and pivoting to the appropriate move against its switch-ins works just as well.</p>
+
+[Other Options]
+
+<p>Yes, I agree that Victini has no need for "Other Options" with its signature move being as ridiculous as it is, but Quality Control is making me do this. Shadow Ball is useful almost exclusively for killing Chandelure, but since it's such a major threat in UU, it might find a way home on your own custom special attacker set. Flame Charge seems cool on Victini, but it's a much cooler idea for Pokemon with higher offensive stats that can feasibly sweep a team after the Speed boost. Final Gambit is Victini's substitute for Explosion; use it with 252 HP EVs (or preferably, not at all) to waste any non-Ghost-type under 404 HP attempting to switch-in. It will cost you your Victini, though. Finally, there's Trick Room. It is not recommended, but if you are so inclined, you should keep in mind that Victini is faster than most walls even at its lowest possible speed, and it will still have to muscle its way through sturdy defensive checks before attempting to sweep.</p>
+
+[Checks and Counters]
+
+<p>Victini's power and versatility do not lend themselves to full counters, but it does have many safe checks. Physical attacking sets are walled consummately by Rhyperior, defensive Arcanine, and defensive Swampert; three very common Pokemon in UU. Defensive Water-types, such as Suicune and Slowbro, can easily halt Victini's path to victory, provided it only uses its STAB attacks as Bolt Strike is a 2HKO on both with Stealth Rock on the field, even with Choice Scarf. Chandelure can steal momentum from Victini like no other by discouraging the use of V-create, lest its Flash Fire-boosted attacks pulverize Victini's teammates. Houndoom's STAB Pursuit and Sucker Punch can take Victini out of the match quickly, although it has a tough time switching into anything but Victini's STABs. Despite not taking its STAB attacks well, Flygon is another very common check to Victini; it can take at least one of each of its moves and retaliate with Earthquake. Weavile, Snorlax, and Krookodile take advantage of V-create's Defense drops with Pursuit, effectively trapping Victini once enough prior damage has been dealt.</p>
+
+<p>V-create also makes checking Victini a hell of a lot easier. Once its trump card is played, Victini sits at a harmless 218 Speed (327 with Choice Scarf) with lower defenses; enough for any sweeper in UU to take advantage of. Quite possibly the greatest punishment for a thoughtless V-create is the use of Substitute Dragon Dance Kingdra. Under the safety of its Substitute, Kingdra can set up and ram through almost anything not named Empoleon.</p>

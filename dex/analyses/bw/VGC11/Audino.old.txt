@@ -1,0 +1,31 @@
+[Overview]
+
+<p>Audino may seem woefully outclassed by other VGC 2011 Pokemon, with relatively poor defensive stats and no offenses to speak of. However, its Normal typing allows it to serve as an effective Trick Room user that is able to remain useful against Chandelure, a feat few other Trick Room users can boast. Although Audino's weakness to Fighting-type attacks along with its mediocre stats may make it seem useless at first glance, its bevy of support options makes it a useful Trick Room supporter.</p>
+
+[SET]
+name: Support
+move 1: Trick Room
+move 2: Heal Pulse
+move 3: Helping Hand
+move 4: Protect / Safeguard
+item: Mental Herb / Chople Berry
+nature: Sassy
+ability: Healer
+evs: 252 HP / 4 Def / 252 SpD
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>Trick Room allows Audino to support a team based around it. Audino is one of the few users of Heal Pulse in the tier, and it pairs well with Trick Room, allowing it to increase the survivability of a bulky attacker such as Reuniclus or keep Gigalith's Sturdy intact. Helping Hand makes up for Audino's lacking offensive stats by boosting the power of its partner's move, making it an excellent partner for Pokemon such as Conkeldurr with powerful spread attacks. Protect allows Audino to bypass its weaknesses for a turn and give its teammates a chance to eliminate Pokemon such as Conkeldurr that can harm Audino. Since Taunt shuts down Audino completely, Mental Herb is the best choice for an item, allowing Audino to continue supporting its partner even after getting Taunted once. The EVs and nature prevent Chandelure from 2HKOing Audino with Heat Wave, which means Chandelure can't easily shut it down, unlike other Trick Room users such as Musharna and Reuniclus. Healer allows Audino to act as a pseudo-cleric, healing its partners of status. This is all the more useful when considering the fact that Pokemon such as Amoonguss, which spread status around as much as possible, are commonly used in VGC 2011.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Safeguard can be used to stop Amoonguss from putting Audino's teammates to sleep, but means Audino automatically loses to Fighting-types unless it holds a Chople Berry. A Chople Berry allows Audino to take any Fighting-type attack and continue to support its teammate, but makes it completely vulnerable to Taunt. A more physically defensive spread of 252 HP / 252 Def / 4 SpD with a Relaxed nature has an 86.5% chance to survive a Conkeldurr's Guts-boosted Drain Punch, allowing Audino to forgo a Chople Berry, but it does mean Audino is 2HKOed by Chandelure's Heat Wave, somewhat removing Audino's already tenuous niche. Teammates that can take advantage of Audino's Heal Pulse and Helping Hand include most slower Pokemon with spread attacks. For this reason, Conkeldurr makes a great partner, hitting hard with Helping Hand-boosted Rock Slide, while easily taking out Terrakion, a Pokemon with which Audino has significant trouble. Carracosta is also useful, as it can take out Terrakion with its STAB Waterfall and hit hard with Rock Slide, while taking advantage of Heal Pulse to maintain Sturdy. Audino has many problems with Fighting-types due to its weakness to their STAB attacks, so having a slow Psychic-type to attack them in Trick Room can help it tremendously. Reuniclus fills this role very well, taking advantage of Heal Pulse to maintain its good bulk, having the ability to OHKO almost every Fighting-type with its STAB Psychic, and doing huge damage to Amoonguss, which normally renders Audino useless with Spore.</p>
+
+[Other Options]
+
+<p>Audino has access to Simple Beam, which in conjunction with a bulky setup sweeper can form a gimmicky but viable strategy. For example, a Scrafty or Conkeldurr with Bulk Up can quickly become an unstoppable force with Simple. Archeops also makes a good partner, with Simple Beam nullifying its ability Defeatist. However, Audino is vulnerable to Taunt and powerful attacks when it sets up, so it's rather unreliable. Return is an option for an attacking move so that Audino isn't complete Taunt bait, but it's so weak that it's hardly worth using. Healing Wish can allow Audino to bypass its tendency to become a sitting duck after setting up Trick Room, and also helps a teammate that's taken some previous damage, but it does KO Audino, making it generally a poor strategy. Audino has access to Sunny Day and Rain Dance, which can allow it to support a weather-based team as well as a Trick Room team. An additional advantage to using Audino for a weather team is its ability to set up even when it faces Imprison Chandelure, unlike a Trick Room supporter. While Whimsicott is far more effective at abusing Encore, it is still a viable option on Audino, allowing it to lock an opponent into a move such as Taunt, or in Chandelure's case, Imprison, which can prove game-breaking.</p>
+
+[Checks and Counters]
+
+<p>Any Fighting-type can do severe damage to Audino with its STAB attacks, and most can even OHKO Audino unless it uses a Chople Berry. Most Taunt users can completely incapacitate Audino unless it holds a Mental Herb. Chandelure with Imprison can stop Audino from setting up Trick Room, but it will then have to take a Helping Hand-boosted hit from Audino's teammate.</p>

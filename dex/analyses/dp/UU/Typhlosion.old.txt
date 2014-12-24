@@ -1,0 +1,90 @@
+[Overview]
+
+<p>With a high Special Attack stat, a great Speed stat, and a wide variety of attacking options, Typhlosion is a powerhouse in UU. He's one of those Fire-types that you'd use on a Sunny Day team but he can still function outside of them. Typhlosion is  also exceptional at abusing Choice items. Despite being incredibly powerful, Typhlosion is not without weaknesses. He lacks specific otherwise important coverage moves, and has to rely on Hidden Power Rock for coverage against opposing Fire-types. Also, Typhlosion is quite difficult to use due to his Stealth Rock weakness, and is relatively easy to counter if you know his set. While Typhlosion faces stiff competition from Moltres, his superior Speed and lesser weakness to Stealth Rock along with access to Eruption are enough to differentiate him from the fire phoenix. If you want a powerful Sunny Day sweeper or a useful Choice Scarf user, you should give Typhlosion a chance. A well-played Typhlosion is capable of demolishing entire teams.</p>
+
+[SET]
+name: Sunny Day Special Attacker
+move 1: Sunny Day
+move 2: Fire Blast
+move 3: Solar Beam
+move 4: Hidden Power Rock
+item: Life Orb
+nature: Timid
+evs: 252 SpA / 36 SpD / 220 Spe
+
+[SET COMMENTS]
+
+<p>This set can be devastating when used correctly. Sunny Day boosts Typhlosion's Fire-type moves to incredible levels, allowing Typhlosion to deal heavy damage to Pokemon that don't outright resist them. Fire Blast is Typhlosion's STAB move of choice and is quite strong initially, but is even more ridiculous when the sun is out. To put it into perspective, even the standard Chansey is capable of being 2HKOed by a sun boosted Fire Blast with some residual damage. Solar Beam allows Typhlosion to beat common bulky Water-types like Milotic and Slowbro. Sun also reduces the damage taken from of Water-type moves, allowing Typhlosion to reliably beat Slowbro and Milotic without taking heavy damage from their attacks. In addition, Solar Beam allows Typhlosion to bypass bulky Rock-types like Omastar and Regirock, however the latter needs residual damage in order to be OHKOed by Solar Beam. Hidden Power Rock is used for damaging opposing Fire-types like Moltres, Houndoom, and Arcanine who would completely wall Typhlosion otherwise.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Here are some damage calculations to demonstrate Typhlosion's power:</p>
+
+<ul class="damage_calculation">
+<li>Solar Beam vs. 252/0 Milotic: 63.1% - 74.3%</li>
+<li>Solar Beam vs. 252/0 Blastoise: 79.6% - 93.9%</li>
+<li>Solar Beam vs. 252/220 Regirock: 61% - 72%</li>
+<li>Fire Blast (sun) vs. 0/252 Chansey: 39.9% - 47.2%</li>
+<li>Fire Blast (sun) vs. 252/100 Clefable: 76.1% - 89.8%</li>
+<li>Bold 0 SpA Milotic Surf (Sun) vs. Typhlosion: 38.4% - 45.1%</li>
+</ul>
+
+<p>While Life Orb is the more reliable item, Heat Rock can be used to extend the number of turns sun stays on the field. The extended turns can also help out Typhlosion's teammates should you choose to run Pokemon who also receive a boost from the sun. Max Special Attack EVs are used to maximize Typhlosion's damage potential. Maximizing Speed is not recommended because Hidden Power Rock drops Typhlosion's Speed stat by 1. Instead, 220 Speed Speed EVs are used to ensure that Typhlosion will outspeed all Pokemon with base 95 Speed. The remaining EVs are placed in Special Defense to give Typhlosion an easier time taking weak special attacks. Flamethrower can be used over Fire Blast for more reliability, but it should be noted that the power difference is huge.</p>
+
+<p>Typhlosion usually struggles against specially defensive Arcanine and Altaria. Both of them are only 3HKOed by Hidden Power Rock and can wear Typhlosion down with Extreme Speed or Toxic, respectively. Thus, Omastar is a top notch partner for Typhlosion. The two Pokemon share fantastic synergy with each other and Omastar is capable of switching in on and beating the aforementioned counters or using them as setup fodder. Typhlosion massively appreciates the presence of entry hazards because they allow Typhlosion to attain key 2HKOs and OHKOs. For example, Arcanine and Altaria no longer counter Typhlosion if Stealth Rock is present on the field because they have a chance of being 2HKOed by Hidden Power Rock. Typhlosion can also 2HKO Chansey with Fire Blast in the sun if Stealth Rock and one layer of Spikes are out. By abusing Typhlosion's ability to easily force switches, you can continually wear down the opponent's team until they are in KO range.</p>
+
+<p>Blastoise is also a great partner, as he shares useful defensive synergy with Typhlosion and is capable of using Rapid Spin to remove Stealth Rock, significantly increasing Typhlosion's staying power. Offensively, Azumarill is recommended due to her ability to take on Typhlosion's counters, as well as the fact that she greatly appreciates the removal of bulky Water-types. Typhlosion's ability to remove bulky Water-types like Milotic and Slowbro can greatly help offensive Pokemon like Moltres, Arcanine, Rhyperior, Feraligatr, and other Pokemon who have a hard time getting past bulky Water-types.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Eruption
+move 2: Focus Blast
+move 3: Hidden Power Rock / Hidden Power Grass
+move 4: Fire Blast
+item: Choice Scarf
+nature: Modest / Timid
+evs: 32 HP / 252 SpA / 224 Spe
+
+[SET COMMENTS]
+
+<p>Typhlosion has both the Speed and the power to abuse a Choice Scarf. Eruption is Typhlosion's trademark move, a 150 Base Power Fire-type move that is capable of dealing incredible amounts of damage to most of the UU metagame. Focus Blast is used to target bulky Rock-types like Regirock and Omastar, as well as Houndoom and other Pokemon who are otherwise barely affected by Eruption. Hidden Power Rock allows Typhlosion to hurt opposing Fire-types while Hidden Power Grass targets weakened Water-types. Eruption gets progressively weaker as Typhlosion's health diminishes, and thus Fire Blast is a useful secondary move when Eruption is no longer useful, and is especially powerful if Blaze is activated. When using Choice Scarf Typhlosion, you should never lead with Eruption due to the multitude of Fire-type resistances in UU. Instead, leading with Focus Blast or Hidden Power Rock is recommended to scout for and even OHKO checks like Omastar and Houndoom.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs listed maximize Typhlosion's offensive capabilities while allowing him to outspeed most of the UU metagame. If you want Typhlosion to outspeed opposing Choice Scarf Pokemon, a Timid nature with a spread of 72 HP / 252 SpA / 4 SpD / 184 Spe allows Typhlosion to outspeed max Speed Choice Scarf Rotom, the fastest common Choice Scarf user in UU.</p>
+
+<p>The main drawback of this set is the existence of Stealth Rock. Stealth Rock lowers Eruption's power, costing Typhlosion significant sweeping ability. Keeping Typhlosion at maximum health is definitely required to get the most out of this set. It is highly recommended that you run a Rapid Spin user alongside Typhlosion. Not only does it keep Eruption at peak power, but it also allows him to switch into battle more times. Dedicated spinners like Hitmontop and Blastoise are fine partners for Typhlosion. Blastoise and Typhlosion share decent synergy with each other and, as a bonus, Blastoise is able to use Foresight to bypass any Ghost-types attempting to block Rapid Spin.</p>
+
+<p>Unfortunately, even keeping entry hazards off the field alone will not guarantee that this set will succeed. Pokemon like Milotic and Arcanine are capable of walling Typhlosion's attacks and blocking his attempts at sweeping regardless. Both Pokemon are easily capable of shrugging off Hidden Power Grass and Rock, respectively. Sunny Day Regirock is a phenomenal partner to Typhlosion. It is capable of walling Arcanine, and it can lure out and OHKO bulky Water-types like Milotic and Azumarill with Explosion, giving Typhlosion an infinitely easier time at sweeping. It even supports Typhlosion by providing him with Sunny Day support, which greatly boosts the power of Eruption. Healing Wish users like Mesprit are also immensely useful partners. Should Typhlosion take damage or get afflicted by status, Healing Wish can restore Typhlosion to tip-top shape to give him another chance at sweeping. Alternatively, you can use a Pokemon who learns both Wish and Heal Bell, like Clefable and Chansey.</p>
+
+[SET]
+name: Choice Specs
+move 1: Overheat / Eruption
+move 2: Focus Blast
+move 3: Hidden Power Grass / Hidden Power Rock
+move 4: Fire Blast / Flamethrower
+item: Choice Specs
+nature: Timid
+evs: 252 SpA / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>Choice Specs, when coupled with Typhlosion's high Speed and Special Attack stats, turns it into a fearsome special attacker. Choice Specs boosts Typhlosion's already good Special Attack to incredible levels, letting his Fire-type STAB moves deal heavy damage to Pokemon that don't resist them. Overheat is extremely strong after a Choice Specs boost, allowing Typhlosion to 2HKO specially defensive Clefable even after the Special Attack drop. Only dedicated special walls and Pokemon who resist Overheat can safely switch in. Eruption is only slightly stronger than Overheat, but it can be used repeatedly and has perfect accuracy. Unfortunately, a significant effort is required to keep Eruption at full power. It should be noted that the Special Attack drop after using Overheat isn't detrimental because this variant of Typhlosion is mainly used as a hit-and-run attacker.</p>
+
+<p>Focus Blast is used to deal heavy damage to bulky Rock-types like Regirock and Omastar, who take pitiful damage from Overheat. It also OHKOes Houndoom, a common check to Choice-locked Typhlosion. Hidden Power Grass is used to damage Water-types, and is strong enough to noticeably damage them. Milotic, for example, is 2HKOed by Choice Specs Hidden Power Grass after Stealth Rock damage. Hidden Power Rock is used to deal good damage to opposing Fire-types, and is useful against specially defensive Arcanine and Altaria. Fire Blast is used for dealing consistent damage where needed, while Flamethrower is weaker but more reliable. If Hidden Power Rock is used, be sure to change Typhlosion's EVs to 252 SpA / 36 SpD / 220 Spe.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Since this set is mostly used as a hit-and-run type of Pokemon, Rapid Spin support is highly recommended to increase the number of times Typhlosion can switch in. Dedicated Rapid Spin users like Hitmontop and Blastoise are fine partners for this reason. Bulky Water-types like Milotic and specially defensive Arcanine are still a problem for this set despite the increase in power, and Typhlosion cannot hope to break through Chansey. Swords Dance Venusaur, while unconventional, is an effective partner to Typhlosion. He can easily switch into Milotic and threaten her with Power Whip, and is capable of beating Chansey due to the physical nature of his set. Venusaur is also capable of luring out and OHKOing specially defensive Arcanine with Earthquake. Dugtrio also deserves a mention due to his ability to guarantee the removal of Chansey with Arena Trap and STAB Earthquake.</p>
+
+<p>As mentioned earlier, Eruption is an option over Overheat for a more reliable, high-power move that requires greater support in order to be effective. If you do happen to use Eruption, you should ensure that your entire team is dedicated to supporting Typhlosion. Running a Rapid Spinner is practically required, and the ability to heal Typhlosion is also welcomed. Healing Wish users can safely restore Typhlosion to maximum health and cure him of any status ailments, giving him another chance at sweeping. Sunny Day support is also recommended when using Eruption because Typhlosion's power rises to outrageous levels under the sun. A sun-boosted Choice Specs Eruption is capable of OHKOing most of the metagame. Even the hardiest of special walls and Fire-type resists cannot deal with sun-boosted Eruption. Specially defensive Arcanine, Milotic and Chansey are all 2HKOed by Choice Specs sun-boosted Eruption. However pulling this off is easier said than done and requires extreme precision.</p>
+
+[Other Options]
+
+<p>Typhlosion is capable of running a Substitute and Petaya Berry set which possesses devastating power when fully set up, but it's usually outclassed by the Sunny Day set, which does the same thing without whittling down Typhlosion's health and still being walled by bulky Water-types. Extrasensory can be used on any set and is useful against Fighting-types who are resistant to Fire-type moves like Blaziken and Thick Fat Hariyama. Typhlosion has a surprisingly large physical movepool, with gems like Flare Blitz, Howl, Thunder Punch, and Earthquake, and is thus capable of running a physical sweeper set. However, that set is completely outclassed by Arcanine, who boasts more bulk, power, and priority.</p>
+
+[Checks and Counters]
+
+<p>Chansey is easily the best Typhlosion counter in the UU metagame. She can switch into nearly anything he can dish out and cripple him with status or wear him down with Seismic Toss. Chansey is 2HKOed by sun-boosted Eruption at full power, but that is a pretty rare circumstance. Specially defensive Arcanine is an incredible counter to Sunny Day Typhlosion. Arcanine can easily sponge any of Typhlosion's attacks, and can wear him down with status. He also gets a boost from Sunny Day, giving him an even greater advantage. However, Arcanine should watch out for Hidden Power Rock, which has a decent chance of 2HKOing Arcanine if Stealth Rock is in play. Specially defensive Altaria is also a good counter to Typhlosion. He's similar to Arcanine in that he can take everything Typhlosion can throw at him and cripple him with status, but he should also be wary of Hidden Power Rock, which has a chance to 2HKO after Stealth Rock damage. Bulky Water-types like Milotic and Slowking are decent checks to Typhlosion provided that the sun isn't up. Water-types in general should watch out for Sunny Day, which not only allows Typhlosion to effectively use Solar Beam, but also decreases the power of their Water-type moves. Thick Fat Hariyama is another incredible counter to Typhlosion, as he can easily take a sun-boosted Fire Blast and weaken Typhlosion with his STAB Fighting-type moves. Regirock is also a decent check to Typhlosion, but it should watch out for Solar Beam, which deals a fair amount of damage.</p>
+
+<p>Choiced sets are easier to counter than other sets. All of the above counters apply, and now bulky Water-types are more than capable of switching into Typhlosion, as the worst thing they have to fear is Hidden Power Grass. Typhlosion is even checked by Flash Fire users like Houndoom, who can switch in on a Fire-type move and nail Typhlosion as he switches out with Pursuit. While it may only happen once in a blue moon, you should be wary of Choice Specs max power Eruption in the sun, which can quite literally 2HKO all of the counters listed here, barring Houndoom. In general, Stealth Rock makes Typhlosion significantly easier to deal with as it strips off 25% of his health, limiting the number of times he can switch into battle and weakening Eruption if he's using it.</p>

@@ -1,0 +1,84 @@
+[Overview]
+
+<p>Slowbro hasn't changed much in the transition to BW2, only gaining the ability to use Trick and Signal Beam with Regenerator from the BW2 move tutors, but the metagame has certainly changed around it. With a lot of new powerful physical attackers in the tier, such as Mienshao, Virizion, and Scrafty, things aren't as easy for the Bro. With Heracross gaining Moxie from the Dream World, it has now become the number one Pokemon in UU usage stats, which means that Slowbro also has to fear its powerful STAB Megahorn even more frequently than before. However, Slowbro's extremely good physical bulk and awesome ability in Regenerator give it the ability to survive super effective hits and either hit back or switch out and recover one-third of its health. That and its base 100 Special Attack should really be taken into account, since they give it an edge over other bulky Water-types, namely Suicune. With access to Trick Room and Calm Mind, it's not hard for Slowbro to change a battle's outcome&mdash;especially with its many chances to switch in on the great number of Fighting- and Fire-types it counters&mdash;while Slack Off allows it to gain health back without switching out and losing its boosts. Its low Special Defense and virtually nonexistent Speed still hold it back, however, especially since it faces competition from the likes of Mew and Meloetta as Calm Mind users, the latter having an immunity to Ghost&mdash;though lacking a Fighting-type resistance.</p>
+
+<p>Overall, the once extremely popular RBY Pokemon continues to be a staple of the Underused metagame, and can be a great asset to any team.</p>
+
+[SET]
+name: Calm Mind
+move 1: Calm Mind
+move 2: Scald
+move 3: Psyshock
+move 4: Slack Off
+item: Leftovers
+ability: Regenerator
+nature: Bold
+evs: 248 HP / 244 Def / 16 SpA
+
+[SET COMMENTS]
+
+<p>This is the standard Calm Mind Slowbro, a set that's existed since the third generation, albeit with the gifts it got from the two generations that followed. Still, it plays pretty much the same way, being a physical tank capable of boosting its weaker Special Defense and its usable Special Attack stat at the same time, similarly to how CurseLax plays on the specially defensive field. The strategy is simple: switch it in on a physical move the Hermit Crab Pokemon resists&mdash;e.g. Mienshao's High Jump Kick or Darmanitan's Flare Blitz&mdash;and Calm Mind on the predicted switch to a special attacker. If Slowbro manages to get a couple of boosts behind its belly, it'll be very hard to take out, barring critical hits.</p>
+
+<p>Though Calm Mind also improves Slowbro's Special Attack, this set is not really meant to sweep as much as it's meant to be able to tank hits on both defensive sides; that said, it can work as a late-game sweeper once its counters have been weakened, just like most stat-boosters. Teams leaning towards stall really appreciate Slowbro's power, as it is a nice tank that can take both physical and special attacks&mdash;despite its five weaknesses. Scald and Psyshock are its STAB moves of choice, the former has a 30% chance to burn the target, which particularly makes physical attackers such as Snorlax easier to beat, while the latter enables Slowbro to win Calm Mind wars against Suicune and Virizion that switch in while Slowbro uses Calm Mind. Slack Off rounds out the set, giving Slowbro a way to recover HP without having to switch out and lose its boosts.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The 16 Special Attack EVs let Slowbro OHKO standard 252/0 Roserade with Psyshock on the switch after Stealth Rock, while the rest are used to optimize physical defense to make the most of its bulk. Fire Blast can be used instead of either of Slowbro's STAB moves to hit Shaymin&mdash;and to a lesser extent, Bronzong&mdash;harder, though doing so means losing out on beating things it otherwise should, such as Arcanine, Darmanitan, and Machamp, the first two being hit harder by Scald, and the latter by Psyshock.</p>
+
+<p>As for partners, Pokemon that can absorb Toxic Spikes (however rare they might be) really help Slowbro succeed. Amoonguss and Roserade stand out, each having its perks over the other: for one, Amoonguss has much better overall bulk, Regenerator, and the rare Spore, while Roserade can set up Spikes and Toxic Spikes, is much faster and more powerful, can absorb status thanks to Natural Cure and can use Sleep Powder, which though not as reliable as Spore and unfortunately illegal with Spikes, does go well with its high Speed stat. Other options for a Toxic Spikes absorber include Nidoking and Nidoqueen, both being able to set up Stealth Rock and having more offensive presence due to Sheer Force. A paralysis spreader can also be useful to get around Slowbro's Speed issues. Notable ones, though gimmicky, are Whimsicott and Liepard, both having access to Prankster to get priority on Stun Spore and Thunder Wave, respectively. Double status Amoonguss is another good option for spreading paralysis, being able to cripple another Pokemon after Sleep Clause has activated. Finally, things that can lure in and take out Suicune and Milotic (especially RestTalk variants) also make good teammates for Slowbro. Special mention here goes to mixed Victini, which is amazing at luring bulky Water-types and hitting them hard with Thunderbolt or Grass Knot&mdash;or the now available Bolt Strike. However, Rotom-H can also do the trick if it predicts the switch (no pun intended).</p>
+
+[SET]
+name: Physical Tank
+move 1: Scald
+move 2: Psyshock
+move 3: Slack Off
+move 4: Thunder Wave / Fire Blast
+item: Leftovers
+ability: Regenerator
+nature: Bold
+evs: 248 HP / 244 Def / 16 SpA
+
+[SET COMMENTS]
+
+<p>This set is a great asset on balanced teams that struggle with Fighting-types other than Heracross and Scrafty. Scald is the set's main move, having a notable chance to completely cripple the physical attackers Slowbro has to counter. Psyshock is a bit better than Psychic as the Fighting-types it's used for have better Special Defense on average, and Psyshock also hits Roserade on its weaker defensive stat. Slack Off offers the Hermit Crab Pokemon a means of recovery in case it can't reliably switch out. Thunder Wave can go on the last slot to paralyze faster things (like 80% of the metagame, accounting for immunities) that try to switch in on it, but Fire Blast is an option to hit Shaymin harder.</p>
+
+<p>It should be noted that Slowking has access to Dragon Tail to not be setup fodder, but Slowbro has the advantages of having higher natural physical bulk and being able to run both of its STABs on the same set, something Slowking can't do without losing either a support or a recovery move.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>16 Special Attack EVs let Slowbro KO Roserade on the switch after Stealth Rock, while the rest goes to optimizing physical defense. Ice Beam can be used to KO Flygon, but a burnt Flygon is already as good as dead (and it will usually U-turn out of Slowbro); Ice Beam can also hit Druddigon super effectively. Grass Knot is another option to hit opposing bulky Water-types harder. Yawn can also be used in the last slot, being able to phaze opponents that try to set up on Slowbro.</p>
+
+<p>Roserade and Amoonguss partner up well with this set, the former being faster and more powerful and the latter being much bulkier, forming a solid Regenerator core with Slowbro for defensive and balanced teams to fall back on. Offensive Snorlax can benefit from Slowbro's paralysis and burn spreading, allowing it to hit things hard more reliably. It should be noted that, defensively speaking, a core of Slowbro, Aromatherapy Roserade, and Snorlax is very difficult to break, but it just takes one misprediction for Heracross to sweep your team. Lastly, this set fears Toxic poison, so a cleric and a Toxic Spikes absorber can be useful. Roserade fills both niches, but Mismagius can also work on balanced teams.</p>
+
+[SET]
+name: Choice Specs
+move 1: Surf / Scald
+move 2: Psyshock / Psychic 
+move 3: Fire Blast
+move 4: Grass Knot / Trick
+item: Choice Specs
+ability: Regenerator
+nature: Modest
+evs: 252 HP / 252 SpA / 4 Spe
+
+[SET COMMENTS]
+
+<p>Unlike the previous sets, this one capitalizes on Slowbro's good base 100 Special Attack stat, hitting 492 with a Modest nature and Choice Specs. Here, it functions well as a bulky pivot for more offensive teams, but isn't as good on defensive teams due to the big loss in bulk. Surf gets the upper hand here instead of Scald, being more powerful overall&mdash;though if you need the burn chance, Scald is perfectly usable. Psyshock is a bit better than Psychic against the things Slowbro will be using it on (notably Snorlax), but Psychic still OHKOes standard 252/240+ Roserade after Stealth Rock. Fire Blast offers coverage against Shaymin and Bronzong that try to switch in on Slowbro, and Grass Knot rounds out the set giving it coverage against the ever-present bulky Water-types. Trick is an option in the last slot, though, crippling special walls such as Snorlax and Umbreon.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Regenerator is probably more important here than on the other sets, since Slowbro is being used as a hit-and-run Pokemon without any other form of recovery. The EVs make Slowbro a full tank, investing in HP and Special Attack. The leftover EVs go to Speed to outpace uninvested Snorlax, Amoonguss, and opposing Slowbro. An alternate spread of 248 HP / 120 Def / 140 SpA with a Modest nature can be used to prevent Life Orb Darmanitan from 2HKOing Slowbro after Stealth Rock, while still reliably OHKOing Shaymin and Bronzong after Stealth Rock, but this Slowbro isn't meant to tank repeated hits anyway, and the standard spread already reliably counters Choice Scarf Darmanitan and Choice Scarf Victini, their most-used sets. Ice Beam can be used to hit Flygon and Druddigon for super effective damage, while also hurting Shaymin. Signal Beam and Focus Blast are other coverage options, hitting Umbreon harder than anything else, while also getting coverage on opposing Slowbro and Slowking and opposing Snorlax and Empoleon, respectively, but they're otherwise weaker than the listed options.</p>
+
+<p>As for teammates, a Pokemon that can spread paralysis is a great asset to this Slowbro. While Prankster users Whimsicott and Liepard are good at it, Togekiss is also an option with Thunder Wave or Serene Grace Body Slam, and double status Amoonguss can be used to form the BroMoonguss Regenerator core. Though Slowbro's ability helps most of the times, Rapid Spin support can be useful to prevent 2HKOs from turning into OHKOs with Stealth Rock and a layer of Spikes. Hitmontop is probably the best option, being able to switch into Heracross's Megahorn and Scrafty's Crunch with ease thanks to Intimidate, while also not sharing weaknesses with Slowbro like Blastoise and Kabutops do. Finally, while not as mandatory as the Calm Mind set since this Slowbro is pretty self-sufficient, Pokemon that can lure in and KO Suicune and Milotic, such as Expert Belt mixed Victini and Rotom-H, can also be useful.</p>
+
+[Other Options]
+
+<p>Slowbro has a surprisingly extensive movepool, both offensive and supportive. It can run an offensive Trick Room set, but that's probably better left to Slowking due to its access to Nasty Plot. Slowbro can also support Trick Room teams, however uncommon they might be, tanking hits and casting the move so another Pokemon can sweep with it. However, Bronzong can probably pull that off better thanks to learning Explosion and therefore having the ability to create a free switch for something like Curse Snorlax to sweep. It can also go offensive with Life Orb instead of Choice Specs, trading losing 10% health after each move for the ability to switch moves, but since it'll be forced out to regain health anyway, the sheer power of Choice Specs is almost always better.</p>
+
+<p>Outside of the listed moves, Slowbro can run supportive moves such as Yawn&mdash;acting as a phazer by forcing the opponent to switch out&mdash;, Disable, and Psych Up on the Physical Tank set, while having offensive option such as Ice Beam, Signal Beam, Shadow Ball, and Focus Blast for the Choice Specs set, though they're generally inferior options to its main coverage moves.</p>
+
+[Checks and Counters]
+
+<p>Shaymin is probably the top Slowbro counter, not fearing status thanks to Natural Cure and taking just a little over 50% from Fire Blast&mdash;unless it's coming from the Choice Specs set. It can then proceed to KO with Seed Flare or set up a Substitute on the predicted switch. Roserade only fears Psyshock and Fire Blast, but it can come in on anything else and proceed to set up Spikes, put Slowbro to sleep, or outright KO it with Giga Drain or Leaf Storm. Scrafty can usually switch in unscathed, thanks to its typing and the fact that it generally either has Lum Berry or Shed Skin to cure it from burns, and can use Slowbro as setup fodder. This is especially true for Bulk Up variants, since they normally have heavy investment in Special Defense and take little from Scald and Fire Blast, while being immune to Psyshock.</p>
+
+<p>Slowbro has many common weaknesses, but many Pokemon can't switch in on it with ease without knowing its set. Once they realize what Slowbro's running, though, it becomes easier to deal with. Mew, for example, takes little damage from most of its moves&mdash;outside of the uncommon Signal Beam and Shadow Ball&mdash;thanks to its natural bulk, but fears status and has a hard time beating Calm Mind versions if it switches in while Slowbro sets up. Still, Nasty Plot Mew can usually beat any Slowbro set one on one unless it switches in on a status move. Some Kingdra variants&mdash;such as Substitute, ChestoRest, and Lum Berry&mdash;can set up on the physical tank all day, but they fear Psyshock from the Choice Specs set and won't be able to beat the Calm Mind version if they switch while Slowbro boosts. Zapdos and Raikou fear paralysis, but they can switch in on anything Slowbro throws at them and outright KO or set up a Substitute or Calm Mind in Raikou's case. Opposing bulky Water-types Suicune and Milotic can come in on any move Slowbro has&mdash;though Suicune needs Rest to avoid being worn down&mdash; and proceed to Toxic or set up on it. As most variants are mono-attackers, they won't precisely like being Tricked a Choice Specs and Grass Knot will also hurt them, but they won't be completely crippled by either move. Finally, Virizion and Heracross fear Fire Blast and Psyshock, but they can switch in after Slowbro has beat something and proceed to set up on it or KO it. Moxie Heracross and Lum Berry-less Virizion should be wary of Scald burns, though, since a healthy Slowbro won't be OHKOed by their STABs without setup. Overall though, Slowbro is quite powerful and not easily handled, but it can be worked around by exploiting the defensive sets' lack of immediate power and the fact that it's Choice-locked when using the Choice Specs set.</p>

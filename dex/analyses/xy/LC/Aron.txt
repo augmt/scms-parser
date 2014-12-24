@@ -1,0 +1,119 @@
+Overview
+########
+
+Aron is a unique Pokemon with a high Defense stat and ten resistances that enable it to wall Fairy- and Flying-type Pokemon such as Spritzee and Fletchling. Aron has access to the most powerful Rock-type move, Head Smash, and the ability Rock Head, which negates Head Smash's recoil. Aron also has access to Metal Burst, which can be used alongside Sturdy and its low Speed stat to severely dent foes caught off guard. However, Aron has two unfortunate 4x weaknesses to Ground- and Fighting, which allow Pokemon of these types, such as Drilbur and Mienfoo respectively, to easily take advantage of it. Aron also has a 2x weakness to Water-type moves; these weaknesses, alongside Aron's low Special Defense, make it tough for Aron to fit into a metagame where these types are common. Aron's capability as a wall is also hampered by the fact that it has no recovery outside of the unreliable RestTalk, which it cannot afford to run. The only hope it has at recovery is Berry Juice, which can only be used once.
+
+Sturdy Lead
+########
+name: Sturdy Lead
+move 1: Rock Slide
+move 2: Heavy Slam / Iron Head
+move 3: Superpower
+move 4: Metal Burst / Stealth Rock
+ability: Sturdy
+item: Berry Juice
+evs: 196 Atk / 196 Def / 116 SpD
+ivs: 0 Spe
+nature: Brave
+
+Moves
+========
+
+Rock Slide is Aron's most reliable STAB move, as it does not cause recoil, keeping Sturdy intact; alternatively, Head Smash can also be used for its raw power. It is important to note that Head Smash wears Aron down extremely fast and breaks Sturdy. Heavy Slam is Aron's secondary STAB move, has 100% accuracy, and is able to hit the majority of the tier for a lot of damage. Iron Head is another option which is more consistent in its damage output and has a nifty chance of flinching the foe. However, it should be noted that Heavy Slam hits Bunnelby, Cottonee, Drilbur, Foongus, Scraggy, Snubbull, Spritzee, Timburr, and Vullaby, among others, for more damage than Iron Head. Superpower provides useful coverage against Steel-types such as Pawniard which resist both of Aron's STAB moves. Metal Burst works well in tandem with Aron's low Speed stat and Sturdy, which allows it to live one hit from full health and potentially deal a lot of damage in return. Alternatively, Stealth Rock is another option for the last slot that can be used to wear down switch-ins and provide team support.
+
+Set Details
+========
+
+The listed EVs maximize Aron's damage output while retaining its good physical bulk. No HP EVs are used so that Aron is able to recover all of its health from Berry Juice at 1 HP. 0 Speed IVs and a Brave nature ensure that Aron is as slow as possible so that it will be able to use Metal Burst after the foe attacks, as the move will fail if Aron moves first.
+
+Usage Tips
+========
+
+Aron is usually able to take at least two hits thanks to Sturdy and Berry Juice, which brings Aron back to full health in order to withstand another attack. Because Berry Juice is Aron's only form of recovery, you should be wary of Knock Off users. Pokemon with the Mold Breaker ability, such as Drilbur, are able to ignore Sturdy, making it unwise for Aron to stay in on these Pokemon. Metal Burst should be used when predicting a strong blow because if Aron is brought down to 1 HP, it will most likely KO the attacker in return. Head Smash should be used sparingly should Sturdy not be broken, as using Head Smash will instantly break it. Aron's typing should be taken advantage of; switch it into Fairy- and Flying-types such as Spritzee and Fletchling.
+
+Team Options
+========
+
+A Pokemon that carries Rapid Spin or Defog can remove entry hazards and allows Aron's Sturdy to remain intact upon switching in, as breaking it renders Aron unable to use Metal Burst effectively. Pokemon such as Trubbish that can beat common Knock Off users such as Mienfoo and Timburr are helpful, as they ensure that Aron will keep its Berry Juice. Pokemon such as Chinchou that can beat Aron's two prime counters, Drilbur and Slowpoke, also make for good partners.
+
+Rock Head
+########
+name: Rock Head
+move 1: Head Smash
+move 2: Heavy Slam / Iron Head
+move 3: Superpower
+move 4: Stealth Rock / Rock Polish
+ability: Rock Head
+item: Eviolite / Berry Juice
+evs: 36 HP / 196 Atk / 116 Def / 116 SpD / 36 Spe
+nature: Adamant
+
+Moves
+========
+
+Head Smash is an extremely powerful STAB move that can 2HKO even some Pokemon that resist it. It works well alongside Rock Head, which negates its recoil. Heavy Slam is useful because it hits the majority of the metagame hard, while Iron Head could be used for more reliable damage. Superpower is used to beat Steel-types, such as Pawniard and Magnemite, which resist Aron's STAB moves. Stealth Rock is a very useful move in general because it wears down switch-ins and supports Aron and its teammates. Alternatively, Rock Polish could be used to boost Aron's Speed and set it up for a potential sweep, though it is important to note that practically all Choice Scarf users will still outspeed Aron even after a boost.
+
+Set Details
+========
+
+The listed Attack EVs and an Adamant nature maximize Aron's offensive potential, and the defensive investment allows Aron to hit Eviolite numbers. By running 36 Speed EVs, Aron is able to outpace Spritzee and smack it with Heavy Slam. Eviolite can be used alongside Wish support, as it greatly increases Aron's longevity and bulk. Berry Juice forms a wonderful combination with Sturdy because when Aron is at 1 HP, Berry Juice will bring it back to full health. However, using a Life Orb is justifiable when running Rock Polish for a boost in power to all of Aron's moves at the expense of a bit of health loss.
+
+Usage Tips
+========
+
+Aron makes for a great counter and switch-in to Fletchling thanks to its 4x resistance to Fletchling's Flying-type moves. Head Smash is capable of denting even Pokemon that resist Rock-type moves, so simply using it on predicted switches is a good idea; however, one must remember that it only has 8 PP and should not be wasted.
+
+Team Options
+========
+
+Pokemon that often force switches pair well with Aron due to its ability to provide Stealth Rock support. Pokemon that can handle Aron's weakness to Fighting-types, such as Spritzee and Slowpoke, make for good partners. Spritzee can also pass Wishes or use Aromatherapy to keep Aron healthy throughout the match; this is especially useful when Aron chooses to run an Eviolite. Meanwhile, Slowpoke has the ability to beat Drilbur, another problem for Aron. Foongus makes for a good partner because it can soak up Water-type attacks from Pokemon such as Chinchou and Staryu.
+
+Sticky Web Attacker
+########
+name: Sticky Web Attacker
+move 1: Heavy Slam
+move 2: Hone Claws
+move 3: Earthquake
+move 4: Magnet Rise / Rock Slide / Head Smash
+ability: Heavy Metal
+item: Life Orb
+evs: 116 HP / 196 Atk / 196 Spe
+nature: Adamant
+
+
+Moves
+========
+
+Thanks to Heavy Metal, Aron's weight is doubled, making Heavy Slam's power even stronger. Hone Claws bolsters Aron's Attack stat to reasonable levels and can be used against Pokemon that Aron walls, such as Fletchling. Earthquake hits Electric- and Steel-types, which resist Heavy Slam. Magnet Rise is extremely useful because it allows Aron to set up on Ground-type Pokemon without fear. Should having a secondary STAB move be of use, Rock Slide or Head Smash may be used; both are good options, though missing a Head Smash could cost Aron a sweep.
+
+Set Details
+========
+
+Heavy Metal doubles Aron's weight from 60 kilograms to a massive 120 kilograms, which allows Heavy Slam to hit like a truck against the light LC metagame. To put this into perspective, the only Pokemon that weighs more than this is Wailmer, and the closest Pokemon below 120 kilograms is Munchlax, at 105 kilograms; the rest of the tier is far below this. Sticky Web support makes up for Aron's low Speed, so more investment is not necessary; Aron outspeeds anything with 17 Speed or below after Sticky Web. Running 36 HP EVs is quite specific but allows Aron to only take 1 HP Life Orb recoil. Life Orb boosts Aron's damage output while allowing it to change moves; without Life Orb, Aron loses the ability to OHKO Mienfoo with Heavy Slam at +1 Attack.
+
+Usage Tips
+========
+
+Fletchling is a prime foe to set up Hone Claws on thanks to Aron's 4x resistance to Flying-type moves. Another Pokemon that Aron can set up on is Spritzee, which fails to do anything to Aron and is OHKOed by Heavy Slam. Similarly, Heavy Slam should be used on practically everything thanks to its high Base Power, which allows it to dent anything that does not resist it. Using coverage moves where appropriate is what Aron should do otherwise, but mainly spamming Heavy Slam is usually a good option.
+
+Team Options
+========
+
+A Sticky Web setter, such as Surskit or Spinarak, is a necessity and is what this set revolves around. Another Pokemon that can set up entry hazards, such as Drilbur, is a useful partner because entry hazards can turn some 2HKOs into OHKOs. Preventing entry hazard removal is equally as important; Pawniard can deter Defog, while Ghost-types such as Gastly are able to block Rapid Spin. Pawniard in particular stands out for its ability to get rid of Gastly, which is unaffected by Sticky Web and threatens Aron with Shadow Ball or Destiny Bond.
+
+Other Options
+########
+
+A dedicated Rock Polish set has potential as a sweeper; however, it is outclassed by Tirtouga, which has a better typing and access to Shell Smash. Autotomize is an inferior Rock Polish because it weakens Heavy Slam, making Rock Polish the better move in almost all occasions. Double-Edge could be used alongside Rock Head, but Aron's STAB moves deal more damage to neutral targets in most cases anyway. Earthquake allows Aron to 2HKO Honedge; however, Honedge is able to OHKO Aron with Sacred Sword, and Pawniard is often the larger threat to aim for. A super effective Shadow Claw, which may seem useful in order to deal super effective damage to certain threats, still deals less damage than a neutral Head Smash, making it an unwise move to run. A set utilizing Curse may seem good on paper, but in practice it is usually let down thanks to Aron's low Special Defense stat. Magnet Rise could surprise Ground-types, but it doesn't really do much otherwise because most Ground-types carry Fighting-type moves as well. Using RestTalk as a means of recovery is a possibility, though it's shaky at best and RestTalk Aron has a case of four-moveslot syndrome. It should be noted that a level 1 Endeavor set should never be used because it is nowhere near as effective in LC as it is in higher tiers.
+
+Checks &amp; Counters
+########
+
+**Mold Breaker**: Drilbur and Pancham can bypass Sturdy thanks to Mold Breaker and OHKO Aron with their respective STAB moves. Both of these Pokemon also resist Head Smash, although they must watch out for Heavy Slam. Other Mold Breaker Pokemon include Axew and Cranidos; however, these Pokemon are not able to stomach a Head Smash and thus have to worry about switching into Aron.
+
+**Fighting-types**: Once Sturdy is broken, Aron is almost always OHKOed by Fighting-type attacks; however, these Fighting-type Pokemon risk being hit by Metal Burst should Sturdy not be broken. However, once it is broken, Fighting-types, such as Mienfoo, Croagunk, and Timburr, are all able to live Aron's STAB moves and KO it with their own STAB moves.
+
+**Dedicated Physical Walls**: Slowpoke stands out as a prime physical wall that beats Aron because it avoids the 2HKO from Head Smash, KOes Aron in return with Scald, and can even paralyze Aron with Thunder Wave. Phanpy is able to avoid the 2HKO from all of Aron's moves and beats it with Earthquake and Ice Shard. Lickitung is not 2HKOed by Head Smash and can PP stall with Wish and Protect to slowly wear down Aron.
+
+**Breaking of Sturdy**: Several methods can be used to break Aron's Sturdy, such as the use of entry hazards, which break Sturdy upon Aron switching in. Another way is with a burn from Will-O-Wisp, which also halves Aron's Attack stat.
+

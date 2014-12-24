@@ -1,0 +1,74 @@
+[Overview]
+
+<p>Skarmory, one of the best physical walls since GSC, returns in BW to protect its team from Ubers' physical titans: Extreme Killer Arceus, Groudon, Rayquaza, and Excadrill. In fact, the steel bird is the best Swords Dance Arceus counter in general, specifically Extreme Killer Arceus, that exists. With base 140 Defense, reliable recovery in Roost, great defensive typing, and a wide arsenal of support moves such as Spikes, Stealth Rock, Whirlwind, Toxic, and Taunt, Skarmory makes for a great Pokemon to support your team. Skarmory's Sturdy ability allows it to tank and scout hits when at full health, which can prove helpful in some situations such as when facing Choice Scarf Kyogre or Palkia. Skarmory does have its downfalls, though; it is worn down quickly by common special attacks such as Surf and Focus Blast. Weaknesses to Fire- and Electric-type moves also make it prone to Fire Blast and Thunder, two moves that are very common in Ubers. Nevertheless, the armored bird's qualities are by far greater than its frailties, making it a great addition to any team, be it offensive or defensive one.</p>
+
+[SET]
+name: Support
+move 1: Spikes
+move 2: Roost
+move 3: Whirlwind
+move 4: Toxic / Taunt / Brave Bird
+item: Leftovers
+ability: Sturdy
+nature: Impish
+evs: 252 HP / 4 Def / 252 SpD
+
+[SET COMMENTS]
+
+<p>Spikes-stacking is an extremely dangerous playstyle in Ubers because it's very hard to Rapid Spin with bulky Ghost-types lurking everywhere--Ghost Arceus and the Giratina formes. Skarmory is one of the lucky Pokemon to get access to Spikes, which can easily wear down the opponent, and, thanks to its excellent defensive typing, it can often lay down several layers in one game. With the ability to phaze with Whirlwind, Skarmory can easily stack more and more residual damage on the opposing Pokemon, eventually KOing them unless they have a recovery move. Roost provides reliable recovery, and it grants Skarmory the ability to take on a few, even boosted, physical hits with its base 140 Defense; this also makes it the best Extreme Killer Arceus counter you can find. Toxic is the preferred option in the last slot, as without it, Skarmory will not be able to stop Extreme Killer Arceus one-on-one. Toxic is also a great move against common switch-ins to Skarmory such as Kyogre, Palkia, Reshiram, and setup sweepers such as Calm Mind Arceus, as none of them appreciate Toxic. Taunt stops Pokemon such as Ferrothorn and Forretress from freely setting up entry hazards on Skarmory, whereas Brave Bird lets Skarmory attack in case it has been Taunted itself.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread and nature ensure that Skarmory will not be 2HKOed by a +2 Life Orb Extreme Killer Arceus's Brick Break if it hasn't taken Stealth Rock damage, while still retaining great special bulk. Moreover, Dialga with 56 Special Attack EVs has a very small chance of OHKOing Skarmory with Draco Meteor followed by Fire Blast (if both roll max damage, it does 103.91% factoring Stealth Rock damage). Here are a few damage calculations that demonstrate Skarmory's great bulk:</p>
+
+<ul class="damage_calculation">
+<li>+2 Life Orb 252 Atk+ Normal Arceus Brick Break 44.61% - 52.69%</li>
+<li>56 SpA Dialga Draco Meteor 36.22% - 42.81</li>
+<li>-2 56 SpA Dialga Fire Blast 41.31% - 49.1%</li>
+<li>4 Atk Groudon Stone Edge 20.95% - 24.55%</li>
+<li>252 Atk Rayquaza Outrage 43.11% - 50.89%</li>
+<li>252 Atk Salamence Outrage 30.53% - 36.22%</li>
+<li>252 SpA Palkia Draco Meteor 37.72% - 44.31%</li>
+<li>+1 0 Atk Dialga Outrage 22.75% - 26.94%</li>
+</ul>
+
+<p>If you wish to ensure Skarmory's victory against Extreme Killer Arceus, an EV spread of 252 HP / 184 Def / 72 SpD can be used. With this spread, Skarmory will never be 2HKOed by a +2 Life Orb Brick Break from Adamant Arceus with 252 Attack EVs even after Stealth Rock damage. If your team lacks Stealth Rock, it can be used over Spikes, but Spikes is generally a much better option as Skarmory is one of the few Pokemon that learn it, unlike Stealth Rock. Red Card can be used to take advantage of Skarmory's Sturdy ability, as it will allow Skarmory to stack more entry hazard damage on the opponent.</p>
+
+<p>Kyogre is a remarkable teammate; the rain it provides thanks to Drizzle nullifies Skarmory's weakness to Fire-type attacks, and the Spikes support Skarmory provides allows Kyogre to get past its usual counters, such as Palkia. Gastrodon synergizes perfectly with Skarmory, as it is immune to Electric-type attacks and resists Fire-type attacks, whereas Skarmory 4x resists Grass-type attacks. Moreover, Gastrodon can easily sponge the special attacks aimed at Skarmory and vice versa. Chansey and Blissey play similar roles to Gastrodon. They do not resist Fire- or Electric-type attacks, but their huge base Special Defense and HP allow them to easily sponge Fire Blasts and Thunders. In addition to this, they can cure Skarmory from status effects with Heal Bell and can pass enormous Wishes to Skarmory and its teammates. The Giratina formes also make fantastic partners, as they too synergize perfectly with Skarmory, and their spinblocking qualities ensure Skarmory's Spikes-stacking won't go to waste. A Ground-type Pokemon to switch into Thunder is advised, making Excadrill, Ground Arceus, Garchomp, and the aforementioned Gastrodon great teammates. Excadrill can also provide Rapid Spin support, allowing Skarmory to avoid the 2HKO from Extreme Killer Arceus and Dialga.</p>
+
+[SET]
+name: Custap Lead
+move 1: Taunt
+move 2: Stealth Rock
+move 3: Spikes
+move 4: Whirlwind
+item: Custap Berry
+ability: Sturdy
+nature: Timid
+evs: 252 HP / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>Skarmory is a staple of bulky entry hazard setters. However, when Skarmory takes a more offensive turn by becoming a suicide lead, it performs just as well. It has many qualities that other entry hazard Pokemon lack: great defensive typing, fantastic bulk, and an awesome support arsenal. Even without any investment in physical defense, Skarmory is still as bulky as ever: +0 252+ Life Orb Rayquaza's Outrage and +2 252+ Life Orb Extreme Killer Arceus aren't a 2HKO, allowing you to phaze them away, racking up entry hazard damage. Yet, if someone is trying to overpower Skarmory with special attacks or repeated physical hits, have no fear&mdash;the combination of Sturdy and Custap Berry will almost always guarantee you another move.</p>
+
+<p>This set is pretty self-explanatory. Stealth Rock and Spikes are a phenomenal way to apply pressure and support your team. Skarmory's base 70 Speed and the Speed EVs allow it to outspeed other common Pokemon such as Groudon and Dialga, which are now prevented from laying their own Stealth Rock by Skarmory's Taunt, which also prevents status inflictions. Whirlwind is a great method of stacking up entry hazard damage, also stopping Pokemon such as Ghost Arceus, Rayquaza, and Groudon from setting up on Skarmory.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread allows Skarmory to be as fast as possible in order to prevent opposing entry hazards and lay its own while still being somewhat bulky. Lowering HP and Defense IVs and EVs is an option if you wish to get into Custap Berry range much faster. This Skarmory has two advantages over Forretress in Whirlwind and Taunt, which completely stop setup Pokemon from doing their job. This set can use Lum Berry to set up in front of Darkrai and Smeargle, or Mental Herb to mess around with faster Taunt users, such as Deoxys-S. You can also use Brave Bird over Whirlwind as a damage inflicting move, which can also result in a spinblock by fainting to recoil damage or KOing the foe's spinner.</p>
+
+<p>Powerful Pokemon that can cause many switches are the best partners for this Skarmory, as they simply enjoy the additional damage caused by entry hazards. Ho-Oh, Palkia, Kyogre, Kyurem-W, Reshiram, Zekrom, and Rayquaza all come into account. Ghost Arceus and Giratina-O beat Xatu, which walls this set completely and makes it useless, while also spinblocking so Skarmory's work won't go to waste. Faster Taunt Pokemon, such as Prankster Sableye and Tornadus, also render this set useless, unless using Mental Herb. Thus, a Pokemon to deal with those two is advised, such as Ho-Oh or Thundurus.</p>
+
+<p>This set cannot stop Rapid Spin users from fulfilling their job, unfortunately. Thus, something to handle those reliably is advised; Giratina-O or Ghost Arceus come to mind, as they can cause many switches with Dragon Tail or huge force. Both can also beat Deoxys-S, which is troublesome for this set, unless running Mental Herb. Darkrai is also a pain, as Skarmory cannot do much to defeat it. Genesect can leave a huge dent in Darkrai with its STAB U-turn, and Mewtwo, while not a reliable switch-in at all, can OHKO Darkrai with a single Aura Sphere.</p>
+
+<p>Do note that Sturdy is a key part of this team's success, and that this set will not do as well against defensive teams as it does against offensive ones. Thus, this set should only be used on offensive teams over other entry hazard setters when looking for an emergency Extreme Killer Arceus check and a Steel-type they could use.</p> 
+
+[Other Options]
+
+<p>Unfortunately, Skarmory does not have many other options. A spread of 252 HP / 252 Def / 4 SpD can be used, but Skarmory needs all the Special Defense it can get to tank common special moves such as Draco Meteor. A gimmicky Swords Dance + Autotomize set can be used, but it would not work well with Skarmory's poor selection of STAB attacks and mediocre base 80 Attack.</p>
+
+[Checks and Counters]
+
+<p>As previously mentioned, Skarmory has a glaring weakness to special attackers due to its mediocre base 70 Special Defense, so Pokemon such as Reshiram, Kyogre, and Palkia make fantastic counters, though they will not enjoy being poisoned. Dialga deserves a special mention as it can switch into everything Skarmory has, including Toxic thanks to its Steel typing, and can OHKO with Fire Blast, or Thunder if it's raining. Thanks to Rayquaza's Air Lock ability, it ignores any weather changes, so it can come into Skarmory and OHKO with Fire Blast or V-create regardless of the weather. Reshiram, with its Turboblaze ability, and Zekrom, with its Teravolt ability, ignore Sturdy's new effect and can OHKO Skarmory with their Fire- and Electric-type STAB moves, respectively. Xatu also shuts down Skarmory with its Magic Bounce ability and access to Roost.</p>
+
+<p>Unless Skarmory is using Brave Bird, it is completely shut down by Taunt users such as Mewtwo and Thundurus. Although Gliscor is usually unable to touch Skarmory, in fact Skarmory is often considered to be one of its most reliable counters, when running Taunt Gliscor can easily stop Skarmory from doing anything, and can even set up a Substitute on it. Calm Mind Arceus can set up on Skarmory, but unless they carry Refresh, they fear Toxic and do not enjoy being phazed. Ho-Oh can easily OHKO Skarmory with its signature move, Sacred Fire, if it's not raining, but it does not enjoy being phazed if Stealth Rock is present. Giratina-O can OHKO with Thunder in the rain and Hidden Power Fire in the sun, but like many others, it does not enjoy being poisoned. Choice Band Terrakion can easily 2HKO Skarmory with Close Combat, whereas the Swords Dance variant can attempt to set up, but it takes 54.32% - 64.19% from Brave Bird at -1 Defense, making it a shaky check. Groudon with a Fire-type move, such as Fire Punch, Fire Blast, or Overheat, can land a surprise kill on Skarmory thanks to the sun it summons.</p>

@@ -1,0 +1,80 @@
+[Overview]
+
+<p>Drifblim is a unique Ghost-type Pokemon in RU. Boasting a huge base 150 HP, a massive support movepool, and the rare Unburden ability, this blimp is more than ready to support its team. Drifblim's Ghost / Flying typing gives it many useful resistances and immunities, but it also comes with a few drawbacks. The first is a weakness to Stealth Rock, which severely hinders Drifblim's spinblocking abilities. It is also weak to Pursuit, and with base 44 Defense, Drifblim will be hard-pressed to survive one. While Unburden cures Drifblim's low base 80 Speed, its mediocre offenses hinder its ability to sweep. Nevertheless, Drifblim has a solid niche in RU as a team supporter and should not be overlooked.</p>
+
+[SET]
+name: AcroBlimp
+move 1: Acrobatics
+move 2: Will-O-Wisp
+move 3: Destiny Bond
+move 4: Shadow Ball / Substitute
+item: Flying Gem
+ability: Unburden
+nature: Naughty / Adamant
+evs: 20 HP / 252 Atk / 236 Spe
+
+[SET COMMENTS]
+
+<p>Because of the deficit of spinners in RU, Spikes-stacking teams have become popular, so a spinblocker will likely be necessary. Drifblim can fill that role fairly well, as it is able to beat the most common Rapid Spin users in RU. The combination of Flying Gem, Acrobatics, and Unburden allows Drifblim to hit hard and become extremely fast. Acrobatics will OHKO Hitmonchan, Hitmonlee, and Cryogonal, while Will-O-Wisp cripples other Rapid Spin users, such as Kabutops and Sandslash. After Unburden activates, Drifblim reaches 510 Speed, which allows it to outspeed all Choice Scarf Pokemon with base 105 Speed or less. This enables Drifblim to use Destiny Bond to secure one more KO before it goes down. Finally, Shadow Ball allows Drifblim to hit physical walls and opposing Ghost-types, but Substitute can be used in order to avoid status.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Drifblim's EVs give it as much Attack as possible, as well as enough Speed to outspeed Choice Scarf Manectric after the boost from Unburden; 168 Speed EVs are an option to outrun Choice Scarf Primeape after Unburden if Manectric is not a problem. The remaining EVs are put into HP to make Drifblim a bit bulkier overall. An Attack boosting nature lets Acrobatics hit as hard as possible; however, if Drifblim is using Shadow Ball, use a Naughty nature. Flying Gem is mandatory, as its use increases the power of Acrobatics and activates Unburden.</p>
+
+<p>Drifblim greatly appreciates hazard support, as it can both spinblock and gain a few more OHKOs and 2HKOs on Pokemon such as Moltres, Tangrowth, and Mandibuzz. Roselia and Rhydon are thus ideal partners, as not only can they set up all the hazards between them, but they also resist Electric-type attacks commonly aimed at Drifblim, as well as Rock-type attacks in Rhydon's case. A Pursuit user works well with Drifblim too by eliminating troublesome Ghost-types, such as Rotom. Rapid Spin support should also be considered, as the damage from Stealth Rock limits Drifblim's survivability. Hitmonchan is a great partner; it can not only remove Stealth Rock, but also take out Rock- and Steel-types that give this set problems. Aerodactyl, Aggron, and Klinklang can wall Drifblim but must be careful of Will-O-Wisp and Destiny Bond. Choice Scarf Galvantula outspeeds Drifblim even after the Unburden boost and can OHKO with a STAB Electric-type attack. Other special attackers are also dangerous; bulky Ghost-types, such as Rotom and Calm Mind Spiritomb, can take a hit and KO Drifblim with a super effective hit of their own.</p>
+
+[SET]
+name: Weather Balloon
+move 1: Rain Dance 
+move 2: Weather Ball
+move 3: Thunder
+move 4: Acrobatics
+item: Flying Gem
+ability: Unburden
+nature: Rash
+evs: 20 Atk / 252 SpA / 236 Spe
+
+[SET COMMENTS]
+
+<p>This Drifblim can support itself as well as its teammates. Rain Dance lets it support its Swift Swim teammates, gives it a good coverage move in Weather Ball, and boosts Thunder's accuracy to 100%. Weather Ball and Thunder both hit reasonably hard due to Drifblim's base 90 Special Attack, so they should not be underestimated; Thunder also hits the Water-type Pokemon that resist Weather Ball. Finally, Acrobatics rounds out Drifblim's already great coverage. A Flying Gem-boosted STAB Acrobatics will annihilate any Grass-types that stand in this set's way and will also double Drifblim's Speed by activating Unburden. With good coverage to complement its high Speed, Drifblim will surely KO at least one Pokemon and can even pull off one more Rain Dance before it goes down.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>236 Speed EVs let Drifblim outrun Choice Scarf Manectric after Unburden activates. While standard, this is especially useful on a rain team, as Manectric is a huge threat to Water-types. 252 Special Attack EVs maximize the power of Drifblim's main attacking options, and the rest are put in Attack to boost the power of Acrobatics. A Naughty nature can be used instead of a Rash one to boost the power of Acrobatics, but Drifblim should generally capitalize on its higher Special Attack and powerful special moves.</p>
+
+<p>Sunny Day lets Drifblim support a sun team, but Thunder cannot be used. Drifblim can run Thunderbolt instead, but its significantly lower Base Power will hinder its ability to sweep. Shadow Ball is another alternative, but it is generally less useful as it does not provide good coverage. In the sun, Weather Ball becomes a Fire-type move, which can be useful in eliminating Steel-types. Good teammates in the sun include Charizard, Sawsbuck, and Victreebel, but note that Rapid Spin support will be almost mandatory.</p>
+
+<p>Naturally, Swift Swim Pokemon are ideal partners for Drifblim. Kabutops is particularly notable for its ability to Rapid Spin; it can even set up Stealth Rock, which will help Drifblim gain some KOs. Drifblim can also aid its Swift Swim friends by eliminating the Grass-types that stand in their way. However, note that most Swift Swim Pokemon are Water-types and therefore compound the team's weakness to Electric-type moves, so either Lanturn or a Ground-type teammate will be appreciated.</p>
+
+[SET]
+name: Calm Mind
+move 1: Calm Mind
+move 2: Shadow Ball
+move 3: Thunderbolt / Hidden Power Fighting
+move 4: Rest / Substitute
+item: Chesto Berry / Sitrus Berry
+ability: Unburden
+nature: Modest
+evs: 20 HP / 252 SpA / 236 Spe
+
+[SET COMMENTS]
+
+<p>Calm Mind is Drifblim's best setup option, and Drifblim can hit surprisingly hard after one boost due to its decent base 90 Special Attack. Shadow Ball is Drifblim's most powerful attack here, and only a few Pokemon, mainly Dark-types, resist it. Thunderbolt hits Mandibuzz, which would otherwise wall this set and phaze Drifblim with Whirlwind. However, Hidden Power Fighting lets Drifblim dent troublesome Steel-type Pokemon, such as Steelix and Klinklang. Rest is a surprisingly good recovery move for this set, as its Chesto Berry not only wakes Drifblim instantly but also activates Unburden. Substitute is an alternative over Rest to block status and possibly obtain a free Calm Mind boost. With a Sitrus Berry, Drifblim will recover the HP lost from Substitute while activating Unburden to become a fast special sweeper.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The Speed EVs allow Drifblim to outspeed Choice Scarf Manectric after Unburden, but note that if Drifblim is using Hidden Power Fighting, it needs 240 Speed EVs. Drifblim's Special Attack is maximized so that it hits as hard as possible, and the remaining EVs are put into HP to make it a bit bulkier. As previously mentioned, Rest should be used with a Chesto Berry and Substitute with a Sitrus Berry. Another viable item is a Ghost Gem, which will both boost Shadow Ball's power on the first use and activate Unburden. Drifblim can use Hidden Power Fighting in the fourth moveslot for additional coverage. It will still work well with a Sitrus Berry, as Drifblim can survive a surprising amount of attacks after a Calm Mind, including Life Orb Moltres's Fire Blast.</p>
+
+<p>A bulky EV spread of 252 Def / 16 SpA / 240 Spe with a Modest nature lets Drifblim set up more easily and possibly even Baton Pass its boosts, but note that this EV spread leaves Drifblim extremely weak and unable to KO many threats. The likes of Magneton and Tangrowth are good recipients of the Calm Mind boosts, though. Magneton can remove troublesome Steel-types and offensive Tangrowth can eliminate Absol and Drapion.</p>
+
+<p>Drapion and Mandibuzz are Calm Mind Drifblim's worst enemies because they can shrug off Drifblim's attacks with ease and phaze it with Whirlwind, which removes all acquired boosts and Unburden's effect. Pokemon that can dispose of these two are good partners; Sandslash in particular can also set up Stealth Rock and spin for Drifblim. Another counter to this set is Cryogonal, as it boasts massive Special Defense stats and can Haze Drifblim. Dark-type Pokemon, such as Spiritomb and Absol, can take advantage of Drifblim's horrible Defense stat and use either Sucker Punch or Pursuit to take it down. Finally, Steel-types such as Ferroseed and Steelix will wall this set if Drifblim lacks Hidden Power Fighting. Magneton is therefore a great teammate as it removes these Steel-types while resisting all moves super effective against Drifblim.</p>
+
+[Other Options]
+
+<p>Due to Drifblim's massive support movepool, it has quite a few alternative options, though most of them are not worthy of individual sets. It can run a dedicated Baton Pass set to pass Substitute and boosts from Calm Mind or Stockpile. It can also run a more defensive set to become a sturdier spinblocker, and the Aftermath ability can let it rack up damage on spinners. Though rather gimmicky, Drifblim can play the role of a Flare Boost sweeper as well; when it is burned, its Special Attack will be increased by 1.5x. It has a niche as the only fully evolved Pokemon with the ability, but this is not a reliable strategy as it will be worn down too quickly by Stealth Rock and burn damage to sweep.</p>
+
+<p>Drifblim has a few other support options it can use. Will-O-Wisp, Toxic, or Thunder Wave can be used to cripple opposing Pokemon. Will-O-Wisp is helpful if Drifblim is the only spinblocker on your team, as it will help against Kabutops. Toxic helps to wear down opposing walls that give Drifblim trouble, such as Mandibuzz. Thunder Wave cripples sweepers that attempt to OHKO Drifblim, such as Omastar. Haze removes boosts from Pokemon such as Lilligant, while Memento sacrifices Drifblim to cripple an opposing attacker. Disable is an interesting move; due to Drifblim's many resistances and immunities, most Pokemon have only one move effective against it. Drifblim can try a SubDisable set, but it is inferior to every listed set.</p>
+
+[Checks and Counters]
+
+<p>The best way to take down Drifblim is to keep Stealth Rock on the field; due to its Flying typing, Drifblim will take 25% damage upon switching in, and its lack of reliable recovery and its low defenses mean that it will not be able to take many hits after Stealth Rock damage. Drapion is perhaps the most solid counter to Drifblim, as it only takes neutral damage from any of Drifblim's moves and can either hit it with a super effective STAB Crunch or phaze it with Whirlwind. Magneton resists all of Drifblim's moves except for Hidden Power Fighting and can KO it with a super effective STAB Electric-type move. Absol will decimate Drifblim with Sucker Punch, but will take a massive amount of damage if it switches into Acrobatics. Finally, phazers render Drifblim useless, as it will lose its Unburden boost for the remainder of the match, and it cannot do much with its base 80 Speed; Mandibuzz is the best phazer to use against Drifblim, as it boasts good defenses in addition to Whirlwind.</p>

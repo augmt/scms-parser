@@ -1,0 +1,13 @@
+Curse
+########
+name: Curse
+move 1: Curse
+move 2: Body Slam / Return
+move 3: Milk Drink
+move 4: Heal Bell
+ability: Scrappy
+item: Leftovers
+evs: 252 HP / 4 Def / 252 SpD
+nature: Careful
+
+This is a sample set while we are currently working on analyses in the workshop.

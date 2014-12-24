@@ -1,0 +1,32 @@
+[Overview]
+
+<p>Although Froslass seems outclassed by Deoxys-S, it has a few traits that differentiate it from the cosmic biped. Firstly, Froslass is the only Pokemon in the game that can both spinblock and use Spikes. Secondly, Froslass is immune to Extreme Speed, the most common priority move in the tier. This allows it to almost always get two turns against the slower opponents--of whom there are many, thanks to Froslass's base 110 Speed stat. Lastly, Froslass's ability, Cursed Body, allows it to disable moves from Choice Pokemon and render mono-attackers useless. However, Froslass is still extraordinarily frail and weak, and suffers the dilemma of having to choose between using Taunt or setting up hazards, and the wrong choice can let an opponent knock it out or set up on it.</p>
+
+[SET]
+name: Spikes
+move 1: Spikes
+move 2: Taunt
+move 3: Icy Wind / Ice Beam
+move 4: Shadow Ball / Destiny Bond
+item: Focus Sash
+ability: Cursed Body
+nature: Timid
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>This is the only set Froslass should ever use. Spikes and Taunt are non-negotiable; Spikes is the crux of the set, as the ability to deal indirect damage to the grounded Pokemon in Ubers is an amazing asset to any team. Taunt prevents a multitude of dangerous Pokemon from setting up, and stops others from laying entry hazards. This set also functions as a decent anti-lead, as getting off one layer of hazards and using Taunt against the opposing lead is quite a likely scenario. The combination of Icy Wind and Shadow Ball can be used to 2HKO Deoxys-S. Ice Beam can be used to 2HKO Groudon and OHKO Rayquaza; however, against Rayquaza, Froslass should first use Spikes and then Icy Wind, as it 2HKOes Rayquaza if it decides to use Dragon Dance. If Rayquaza decides to attack right off the bat, at least it won't be able to boost its Speed. Destiny Bond can prove fatally annoying for the opponent; with a layer of Spikes down, Froslass can use Destiny Bond for up to eight turns, all whilst the opponent switches around trying to find a way to KO Froslass. Taunt should be used against slower Pokemon to prevent them from using Toxic or Will-O-Wisp to KO Froslass down to its Focus Sash. Destiny Bond is also useful to revenge kill Extreme Killer Arceus without a Speed-boosting nature, if Deoxys-S is not a concern.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The Special Attack EVs are needed to get the the aforementioned 2HKOs and OHKOs. Maximum Speed is needed to outspeed Terrakion and Speed-creeping Arceus; investing in bulk doesn't help Froslass survive anything.</p>
+
+<p>Leads are said not be non-existent in BW. However, with the fall in usage of Scizor in Ubers, Froslass can lead in more games than not. The only semi-common leads Froslass should avoid are Tyranitar and Darkrai. A fast Groudon with Stealth Rock and an auxiliary Fire-type move makes a good partner, as it can set up Stealth Rock, outspeed and OHKO all Ubers spinners, and deal with Tyranitar. Froslass needs another sturdy Ghost-type team mate to spinblock after it inevitably bites the dust; Giratina-O is a good candidate, as it works very well on sun teams. A Choice Scarf Genesect can lead against Darkrai and bring it down to its Focus Sash or outright KO it with U-turn. If another Pokemon comes in to absorb U-turn it is more than Likely Froslass can then come in and do its job.</p>
+
+[Other Options]
+
+<p>Froslass can use Thunder Wave to potentially catch Choice Scarf users trying to get a quick 2HKO on it. Toxic can also be used to catch Giratina-O and Lugia off-guard, however, Thunder Wave can hit a much larger range of targets.</p>
+
+[Checks and Counters]
+
+<p>Froslass is actually fairly difficult to stop from doing its job. Darkrai is undoubtedly the best way to handle Froslass, it outspeeds the icy lady and incapacitates her with Dark Void. Darkrai can also set up a Substitute with little risk on the predicted switch out. Tyranitar also beats Froslass reliably, as Crunch will bring it down to its Focus Sash and sandstorm damage will finish it off on the same turn. Giratina-O can also swiftly 2HKO Froslass with Shadow Sneak and limit it to only one layer of Spikes. Espeon can switch into Froslass if it's not using Shadow Ball and reflect Spikes and Taunt with Magic Bounce, which renders Froslass useless. Although rare, a lead Cloyster can bypass Focus Sash with Rock Blast and OHKO Froslass.</p>

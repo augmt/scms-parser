@@ -1,0 +1,32 @@
+[Overview]
+
+<p>At first glance, Aerodactyl seems like a rather nondescript Pokemon. Sure, it's fast and has access to Taunt and STAB Rock Slide, but it doesn't hit very hard at all, possesses a weak Flying-type STAB, and has weaknesses to a plethora of common types. However, Aerodactyl was given a subtle but huge improvement in its Dream World ability: Unnerve. Unnerve prevents the opponent's Pokemon from using any of their berries, which means there is no more Yache for Garchomp, Charti for Thundurus, Chople for Scrafty, Occa for Scizor, Shuca for Metagross, Coba for Amoonguss, or Sitrus or Lum for anything. This can be an incredibly potent way to assure KOs with Pokemon that can otherwise be stymied by common resistance berries. This simple change makes Aerodactyl a useful team player, and helps it in its own right against the common users of Charti and Coba Berries.</p>
+
+[SET]
+name: Unnerve Support
+move 1: Rock Slide
+move 2: Aerial Ace
+move 3: Tailwind / Taunt
+move 4: Protect / Taunt
+item: Focus Sash / Rock Gem
+ability: Unnerve
+nature: Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Rock Slide is the obvious STAB move that provides a strong hit on both opponents. Aerodactyl is faster than Tornadus and Thundurus and can OHKO both with a Rock Gem-boosted Rock Slide, and they can't use Charti Berry to do anything about it either. Aerial Ace provides more coverage; it's most useful against Fighting-types that resist Rock Slide. It is incredibly weak at 60 BP, but it can still do heavy damage with STAB, especially when it is super effective. Tailwind provides incredibly helpful support for the team, and Aerodactyl is also fairly good at setting it up due to its high Speed. It isn't as much of a sure thing as Prankster Tailwind, but it is pretty much as close as you can get. If you are worried about your opponents setting up, you can run Taunt instead, but with priority setup and Mental Herb, Taunt is not as reliable as it used to be. Protect is as useful as always to scout your opponents' move, stall out set-up moves, such as Trick Room, and shield Aerodactyl from a threat while its partner finishes off that particular foe. Protect is even more useful on Aerodactyl when considering the fact that it will assure another turn in which your partner will be able to hit through berries. Again, Taunt can be run over Protect if you really want both it and Tailwind, but Protect is usually the better option.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Focus Sash is the first choice of item to keep Aerodactyl alive for longer, and with Aerodactyl's frailty and many common weaknesses, you will find it will activate often. The longer Aerodactyl is alive, the longer you will be able to hit through your opponents' berries, and so, even if Aerodactyl doesn't do much with its extra bit of life, its partner can. Rock Gem is another option if Focus Sash is being used by one of your other Pokemon, as it allows Aerodactyl to do more reasonable damage itself, instead of relying on its partner to do the damage. Without Rock Gem, Aerodactyl can't OHKO Tornadus, Thundurus, Chandelure, or much else. Still, Focus Sash is most useful if you can possibly afford to put it on Aerodactyl. Speed is maxed because it is Aerodactyl's greatest asset other than Unnerve, and putting EVs anywhere else really isn't worth it. The remaining EVs are invested in Attack, allowing Aerodactyl to at least deal a significant amount of damage to its opponents.</p>
+
+<p>Aerodactyl's best teammates are the things it supports best, which are Pokemon that tear into threats deprived of the effect of their resistance berries. Mamoswine is one of the most effective partners for Aerodactyl. It will greatly appreciate not having to worry about Yache Berries when trying to Ice Shard threats weak to it, such as Garchomp, and fewer Pokemon will be able to dodge a KO from Earthquake without Shuca Berry. Aerodactyl is also immune to Earthquake, meaning Mamoswine can spam it freely. Mamoswine will also appreciate Tailwind support because of its only average Speed. Any of the rest of the multitude of Pokemon that are often limited by resistance berries will also appreciate Aerodactyl's support, but it is important to consider whether Persian or Aerodactyl is a better fit to provide Unnerve support. Smeargle and Amoonguss also get special mentions because Unnerve allows them to use Spore with impunity, not having to worry about Lum Berries.</p>
+
+[Other Options]
+
+<p>Aerodactyl has Crunch, Earthquake, Aqua Tail, Fire Fang, and Thunder Fang as other coverage options, but it is usually better off with just its STAB moves. Bulldoze is an interesting option for further team support, dropping your opponent's Speed, which can allow your partner to hit them before they attack, and through their berries too! Fly is an interesting option. If your sole goal is to gain more turns of Unnerve support, Fly can glean you a few more turns with the turns that you are invulnerable. However, it is not too effective from an offensive viewpoint, as the opponent can just use Protect on the turns Aerodactyl lands and attack on the turns it goes up; it must be noted that doing this also makes the opponent incredibly predictable, which Aerodactyl's partner can take advantage of. Neither of Aerodactyl's other abilities are at all worth running, and Unnerve is pretty much the only reason to run Aerodactyl anyway.</p>
+
+[Checks and Counters]
+
+<p>Aerodactyl's biggest problem is its frailty and weakness to quite a few common types, which makes it fairly easy to counter. Rain teams with Swift Swim users will have an especially easy time with Aerodactyl as Swift Swim Kingdra, Ludicolo, and Kabutops are all able to outspeed Aerodactyl and OHKO it with Water-type attacks. Scizor's Bullet Punch OHKOes Aerodactyl, but Scizor needs to be wary of being OHKOed prematurely by Aerodactyl's partner, especially because it is incapable of using its Occa Berry. Ferrothorn is another good counter, as it can either Leech Seed or OHKO Aerodactyl with Gyro Ball. It even has Iron Barbs, breaking Aerodactyl's Focus Sash on contact. Jolteon is also of note because it Speed ties with Aerodactyl and can OHKO with Thunderbolt. Plenty of other Pokemon are capable of OHKOing Aerodactyl, but really, the best way to counter Aerodactyl is by not having it counter you because you tend to rely too much on resistance berries in the VGC metagame.</p>

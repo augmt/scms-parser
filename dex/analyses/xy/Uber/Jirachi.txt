@@ -1,0 +1,98 @@
+Overview
+########
+
+Jirachi is quite literally a lucky star. With Serene Grace doubling the chance of moves' secondary effects occurring, its Iron Head gets a very handy 60% flinch rate; coupled with paralysis support, opponents hit by Iron Head only have a only have a 30% chance to attack. Serendipity aside, Jirachi's typing grants it nine resistances and one immunity—although in context, not many of these are particularly useful. Additionally, Jirachi is immune to Toxic and takes reduced Stealth Rock damage, and its Steel typing gives it a defining niche as a check to Fairy-types, notably Geomancy Xerneas, which has very few reliable checks. Sadly, Steel-types lost their resistances to Ghost- and Dark-type attacks this generation, while retaining their weaknesses to Ground- and Fire-type attacks, exposing Jirachi to a number of top threats, including newcomers such as Yveltal and Mega Gengar. Also, because Jirachi cannot afford to invest in its Attack, it has little offensive presence, not to mention that it is vulnerable to practically every other Steel-type in the tier. All things considered, Jirachi has its fair share of flaws, but it excels in its role and can be counted on to get the job done.
+
+
+Specially Defensive
+########
+name: Specially Defensive
+move 1: Thunder Wave
+move 2: Iron Head
+move 3: Wish
+move 4: U-turn
+item: Leftovers
+evs: 252 HP / 4 Atk / 252 SpD
+nature: Careful
+
+
+Moves
+========
+
+Thunder Wave cripples the opponent with paralysis. Its most significant target is Geomancy Xerneas, which is much easier to handle by Jirachi and its teammates if its Speed boosts are negated. Iron Head is Jirachi's STAB move of choice, doing 42-50% to standard 108 HP / 28 Def Geomancy Xerneas. Once augmented by Serene Grace, it has a useful 60% flinch rate that can subdue any Xerneas variant when used with Thunder Wave. Wish allows Jirachi to pass parcels of 202 HP to its teammates and also heal its own HP, if needed. In the last moveslot, U-turn is a useful move to preserve momentum by letting Jirachi pivot out of switch-ins to it, as well as Mega Gengar attempting to trap it, which would prevent it from checking Xerneas later in the game. Healing Wish is a rare and nifty move that can give a weakened teammate a second wind. This can prove very useful in catching opponents off-guard late-game and potentially staging a sweep with a Pokemon they thought they had previously put out of commission. Lastly, Stealth Rock can be used especially if your team is hard-pressed to fit another user of the move. Jirachi's Steel typing gives it a useful immunity to Toxic and a 2x resistance to Stealth Rock, which aids it in switching in to set up the entry hazard. However, Jirachi's typing also leaves it vulnerable to common offensive threats such as Ho-Oh, Yveltal, and Ground-types, which may make it difficult for it to find opportunities to switch in.
+
+
+Set Details
+========
+
+252 HP and SpD EVs with a Careful nature maximize Jirachi's special bulk at the cost of its unused Special Attack stat, letting it better stomach the assaults of boosted Geomancy Xerneas and stand up stoutly to neutral and resisted special attacks. Leftovers grants Jirachi passive healing, which works well with spamming Iron Head and Protect, if it is used. Jirachi's item choice is essentially non-negotiable as it needs all the spare HP it can get.
+
+
+Usage Tips
+========
+
+If you see a Xerneas in Team Preview, Jirachi should not be switching in on much else as it needs the bulk of its HP intact to stand up to Geomancy Xerneas (it is prudent to assume Xerneas to be a Geomancy variant), which it is a dedicated check to and which justifies its usage in the first place. Xerneas aside, Jirachi generally fares well against Fairy-types, so feel free to switch it in on those, while maneuvering your way around Will-O-Wisp burns from the likes of Fairy Arceus. When Jirachi is on the field and you predict the opponent to switch out, evaluate the benefits of staying in. Depending on the opponent's team structure, you should not be too eager to stay in and attempt to hit switch-ins with Thunder Wave. Many common switch-ins to Jirachi, such as Ho-Oh and Landorus-T, are not too bothered by paralysis while having a significant offensive presence. With regard to the above point, staying in to use and pass a Wish to a teammate might be the best course of action; Wish passing is a relatively rare and useful means of support that Jirachi can offer its team, so make full use of it. As mentioned before, do not let Jirachi sustain a burn; the status condition eats away at its health and halves Iron Head's power. This is especially significant if you see Xerneas in Team Preview. When in a pinch, rely on Iron Head's flinch rate to muscle past weakened threats, provided they are already paralyzed and do not resist Iron Head; the odds are technically in your favor. Finally, be wary of double switches into Mega Gengar, as well as Pursuit users such as Scizor and Tyranitar, if you see them in Team Preview.
+
+
+Team Options
+========
+
+Choice Scarf Kyogre is a stellar teammate for Jirachi, doing well against most of the Pokemon that check it, such as Ground-types and Ho-Oh. It also greatly appreciates Jirachi's Wish support. The rain Kyogre brings is useful for insuring Jirachi against Fire Blast Mewtwo. Bulky Fairy-types are generally good partners to check Dark-types. Physically defensive Xerneas can do this, as well as handle most Ground-types that like switching into Jirachi. Other Xerneas variants such as a Life Orb all-out attacker also synergize well with Jirachi. Landorus-T and Gliscor handle Zekrom and can set up Stealth Rock, which checks Ho-Oh. Their Flying typing also allows them to check other Ground-types. Notably, Gliscor with Roost and Toxic is an excellent Ho-Oh check, being immune to burns while possessing reliable recovery. Yveltal appreciates Jirachi's support in checking Fairy-types; in return, it can help Jirachi against Ghost- and Ground-types, though it must predict carefully around the latter. Specially defensive Palkia checks Kyogre excellently and fares well against Calm Mind Arceus formes barring Fairy Arceus, which Jirachi conveniently checks. Tyranitar fares well against Ho-Oh and Yveltal; it can also check Calm Mind Ghost and Electric Arceus with Toxic and its impressive special bulk in sand, but note that it compounds the team's Ground-type weakness.
+
+
+Choice Scarf
+########
+name: Choice Scarf
+move 1: Iron Head
+move 2: U-turn
+move 3: Healing Wish
+move 4: Ice Punch / Trick
+item: Choice Scarf
+evs: 128 HP / 252 Atk / 4 SpD / 124 Spe
+nature: Jolly
+
+
+Moves
+========
+
+Iron Head is a reliable STAB move; with a Choice Scarf boosting Jirachi's Speed, its 60% flinch rate comes in very useful for picking off weakened opponents. Secondary effects aside, don't underestimate Iron Head's power; with maximum Attack investment, 108 HP / 28 Def Geomancy Xerneas takes 53-63% from the move, while frailer Pokemon like Mega Mewtwo Y and Darkrai have a high chance of being 2HKOed after taking a round of Stealth Rock damage. U-turn's damage output is paltry, but it is nonetheless a key move on this set as it allows Jirachi to pivot out of unfavorable matchups unscathed. Healing Wish allows Jirachi to sacrifice itself to fully restore a weakened teammate; it works nicely with a Choice Scarf as Jirachi's elevated Speed means it can likely pull off the move uninterrupted. In the last moveslot, Ice Punch is useful for hitting Landorus-T, a common switch-in to Jirachi. Note that when factoring in Intimidate's Attack drop, Ice Punch does not even manage a 2HKO on physically bulky Landorus-T, although offensive variants are cleanly dispatched. Alternatively, Trick is a useful move for crippling bulky Pokemon such as Ferrothorn and Heatran that are popular switch-ins to standard specially defensive Jirachi. Locking an opposing wall or tank into a single move severely inhibits its defensive and supportive capabilities, paving the way for Jirachi's teammates to sweep.
+
+
+Set Details
+========
+
+124 Speed EVs with a Jolly nature lets Choice Scarf Jirachi outspeed everything up to Deoxys-A. 252 EVs are then invested in Attack to let Jirachi's Iron Head hit as hard as possible. 128 HP EVs provide some appreciable bulk; Geomancy Xerneas's +2 Hidden Power Fire only has a 25% chance of OHKOing Jirachi after it taken two rounds of Stealth Rock damage. As mentioned, a Choice Scarf allows Jirachi to outspeed many frail offensive powerhouses and overwhelm them with Iron Head. Also, a fast Healing Wish can reverse the tide of the battle in a pinch.
+
+
+Usage Tips
+========
+
+Choice Scarf Jirachi has some offensive presence and therefore should be played more aggressively than standard specially defensive Jirachi. It revenge kills frail offensive Pokemon such as Mega Mewtwo Y and Mega Gengar quite reliably and should generally be used to do so. However, if its item has already been revealed and the opponent's switching out is imminent, do not hesitate to U-turn into a relevant teammate. Be alert in seeking out opportunities to use Healing Wish. Double switching Jirachi in on an opposing Pokemon that the intended recipient of its Healing Wish matches up well against is highly recommended. For example, if you are aiming to restore your Rock Polish Groudon for a late-game sweep and the opponent has a Klefki, actively attempt to use Healing Wish against it, so that you give Groudon a favorable switch-in. Also, take note that Healing Wish is best used when Jirachi itself is on the brink of being KOed itself. Lastly, be mindful of Jirachi's health, especially if you see in Team Preview that the opponent has a Xerneas. Note that this set cannot deal with Geomancy Xerneas nearly as well as specially defensive Jirachi; a +2 Hidden Power Fire has a 25% chance of OHKOing it after it has taken two rounds of Stealth Rock damage. Be more conservative with switching Jirachi in if you are intending to check what is a possible Geomancy Xerneas with it later in the game.
+
+
+Team Options
+========
+
+This set finds its home on offensive teams in need of a sturdy pivot that can be reserved to deal upwards of 50% damage to Geomancy Xerneas. Enrtry hazard support, especially Stealth Rock, is necessary for Iron Head to net many crucial 2HKOs, such as against Mega Mewtwo Y and Darkrai. Suicide leads such as Deoxys-S can build offensive pressure for Jirachi to capitalize on early-game. Teammates that can provide Thunder Wave support are also much appreciated, as paralyzed opponents let Jirachi and its Iron Head abuse the Serene Grace paraflinch strategy to no end. Groudon, Xerneas, and even Kyogre are viable users of Thunder Wave that simultaneously pose a large offensive threat. It is worth highlighting that powerful wallbreakers and sweepers are good partners for Jirachi as they can take advantage of its U-turn to switch in and soften up the opposition for Jirachi to clean up with Iron Head; they are also excellent recipients of Healing Wish. The latter point is particularly notable, as hard-hitters like Choice Specs Kyogre and Mega Blaziken can wreak havoc early-game, only to be completely renewed by Healing Wish late-game to clinch you the victory.
+
+
+Other Options
+########
+
+Toxic can be used in the fourth slot on specially defensive Jirachi. It is situationally more useful than Thunder Wave against defensive Pokemon like Lugia and support Arceus formes, as well as Calm Mind Arceus formes (especially Electric Arceus). It can also be used over Thunder Wave if your team can reliably weaken Geomancy Xerneas as it sets up such that it falls within KO range of Iron Head, but note that reliably checking Geomancy Xerneas is what gives Jirachi its niche in Ubers in the first place. Protect can also be used here to guarantee Jirachi can receive its own Wish, and it is good for scouting what move opponents carrying Choice items lock themselves into. Magic Coat sees use in reflecting Will-O-Wisp burns from support Arceus formes. Do note, however, that it is quite a situational move and does not stop opponents from boosting their stats/healing themselves, or setting up Substitute. Finally, Fire Punch can be considered on either set as it is useful for smacking Ferrothorn, Scizor, and Forretress for a sizable chunk of damage; all of these Pokemon otherwise wall Jirachi.
+
+
+Checks & Counters
+########
+
+**Ground-types**: Ground-types are immune to Thunder Wave and take a pittance from Iron Head. Groudon, Landorus-T, Ground Arceus, Gliscor, and Hippowdon can all freely switch in on Jirachi and threaten to set up Stealth Rock or a boosting move.
+
+**Electric-types**: Electric-types are also immune to Thunder Wave and resist Iron Head. Electric Arceus and Zekrom are both threatening offensive checks to Jirachi that can freely switch in and force it out.
+
+**Fire-types**: Ho-Oh and Blaziken do not want to switch into Thunder Wave, but Jirachi can do little to harm them otherwise. In the same vein, Heatran, Fire Arceus, and Reshiram threaten Jirachi greatly.
+
+**Status Absorbers**: Specially defensive Kyogre, specially defensive Palkia, and Giratina-A are notable examples of these; all of them can sponge Thunder Wave and wall Jirachi cold, shrugging off Iron Head damage with Rest.
+
+**Pursuit Users**: Scizor and Tyranitar can deal hefty damage to fleeing Jirachi with Pursuit, although the latter is prone to Iron Head.
+
+**Dark- and Ghost-types**: Darkrai and Dark/Ghost Arceus don't like switching in on Thunder Wave but threaten Jirachi in their respective ways (STAB moves/sleep/setup) if they switch in safely. Calm Mind Dark Arceus with Refresh is especially threatening as it can set up uninhibited by paralysis. Mega Gengar can Taunt Jirachi, preventing it from using Thunder Wave. It can then force a double KO with Destiny Bond or beat it one-on-one if it carries Shadow Ball.

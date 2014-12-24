@@ -1,0 +1,13 @@
+Spikes
+########
+name: Spikes
+move 1: Spikes
+move 2: Protect
+move 3: Toxic Spikes
+move 4: Poison Jab
+item: Eviolite
+ability: Speed Boost
+evs: 252 HP / 4 Atk / 252 Spe
+nature: Jolly
+
+This is a sample set while we are currently working on analyses in the workshop.

@@ -1,0 +1,39 @@
+[Overview]
+
+<p>Clamperl has a lot going for it this generation, as it is able to use DeepSeaTooth and received a very powerful boost in the form of Shell Smash. DeepSeaTooth Clamperl is by far the most powerful Pokemon in LC, especially when combined with Shell Smash which boosts its already insane Special Attack and fixes its mediocre Speed. It has a fairly shallow movepool, but with 68 Special Attack after a single turn of setup, a vast majority of the metagame is OHKOed regardless. Clamperl's only real drawback is its Speed; it's too slow to forgo Shell Smash, but Shell Smash Clamperl is very vulnerable to the ubiquitous priority attacks in Little Cup, which really limit its sweeping potential. Despite these issues, Clamperl is still one of the most threatening (and adorable!) Pokemon in Little Cup.</p>
+
+[SET]
+name: Shell Smash
+move 1: Shell Smash
+move 2: Surf
+move 3: Ice Beam / Substitute
+move 4: Hidden Power Grass / Hidden Power Fire
+item: DeepSeaTooth / Eviolite
+ability: Rattled
+nature: Timid
+evs: 76 HP / 248 SpA / 180 Spe
+ivs: 30 Atk / 30 SpA
+
+[SET COMMENTS]
+
+<p>The premise of this set is simple: find an appropriate time to use Shell Smash and then annihilate everything. With DeepSeaTooth and a Timid nature, Clamperl's Special Attack reaches 34, 68 after a Shell Smash, allowing it to OHKO almost every Pokemon in LC. Shell Smash also brings Clamperl's Speed up to 26, which will outspeed virtually everything in the tier barring a few of the faster Choice Scarf users. The other three moves provide Clamperl with adequate enough coverage to hit everything for at least neutral damage. Surf is Clamperl's strongest STAB move, Ice Beam hits Grass- and Dragon-types that resist Surf, and Hidden Power Grass hits most of the Water-types that resist both Surf and Ice Beam. On the other hand, Substitute is notable over Ice Beam as well due to the massive damage Surf does, even when it's resisted. Substitute helps Clamperl beat Sucker Punch users, such as Murkrow. Timid is much more important than Modest on this set, as the extra 4 Special Attack points gained after a Shell Smash are incredibly redundant compared to the 2 Speed points that help to remove many of Clamperl's would-be checks. Rattled allows Clamperl to boost its Speed even more; by switching in on a U-turn from Mienfoo or Taillow, Clamperl will have 19 Speed without a Shell Smash boost, allowing it to outspeed a majority of the tier, and virtually everything if it can pull off a Shell Smash.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Hidden Power Fire can be used instead of Hidden Power Grass to hit Ferroseed, one of the only Pokemon that can survive an attack from +2 Clamperl, although this leaves Clamperl unable to hit most opposing Water-types for neutral damage. Likewise, Hidden Power Electric can be used to hit Tentacool and Mantyke harder.</p>
+
+<p>It is important to note that DeepSeaTooth Clamperl and Eviolite Clamperl should be played very differently. DeepSeaTooth Clamperl can be sent out early- and mid-game to fire off powerful attacks in order to wear down its checks or get easy kills. It should only use Shell Smash once all the opposing priority users, faster Choice Scarf users, and other checks are gone. Eviolite Clamperl cannot be sent out as early in the match, as it won't be able to hit hard enough without a Shell Smash boost. It doesn't need to be as wary of priority users, but everything else will still need to be removed for it to successfully pull off a sweep. The extra bulk that Eviolite provides will also help Clamperl to safely set up a Shell Smash.</p>
+
+<p>Clamperl is one of those Pokemon that a team is centered around&mdash;its checks need to be covered by the rest of the team for it to have no problem sweeping. Entry hazards can wear down all of the Pokemon that check Clamperl, especially the bulky walls that lack reliable recovery such as Ferroseed and Munchlax, so Dwebble and Ferroseed are great teammates. Pokemon that can help to take out priority users are also important. Wynaut can help trap and kill Croagunk, as well as some of the Choice Scarf Pokemon that check Clamperl, as well as help provide set-up opportunities. Substitute + Hypnosis Gastly generally either scares out or lures common priority users too, and also has the added bonus of luring out and weakening Ferroseed. Magnemite can also be used to trap Ferroseed and OHKO it with Hidden Power Fire.</p>
+
+[Other Options]
+
+<p>Defensive Clamperl sets are kind of mediocre with all of the boosting Pokemon and hard hitters around. A RestTalk set with DeepSeaScale could work though, as Clamperl hits 32 Special Defense with DeepSeaScale and a Calm nature. It also gets Scald to help ward off physical attackers. Clamperl also gets Iron Defense which could work well in tandem with Shell Armor; however, Clamperl lacks any form of reliable recovery, so it won't be able to stick around for very long. Shell Armor can be used if you are paranoid about critical hits. It is usually inferior to Rattled though, as the speed boost that Rattled can provide is often much more game-changing.</p>
+
+[Checks and Counters]
+
+<p>Clamperl's checks and counters can be divided into three distinct groups: bulky Pokemon that can survive a boosted hit and OHKO Clamperl back, priority users that can revenge kill it after a Shell Smash, and Pokemon that can outspeed a +2 Clamperl and OHKO it. Both Ferroseed and Munchlax can survive any of Clamperl's attacks with enough investment in Special Defense and OHKO it back with Bullet Seed or Return, respectively. Mantyke can also survive any attack bar Hidden Power Electric and OHKO Clamperl back with a little bit of prior damage, while Eviolite Chinchou can survive any attack except Hidden Power Grass.</p>
+
+<p>Sucker Punch users such as Stunky and Pawniard will both easily kill a Shell Smash-boosted Clamperl, although the mindgames that come with Sucker Punch might be unappealing and are risky against competent players. Mienfoo and Croagunk also work; however, they are significantly weaker, so without some residual damage, it might take a few sacrifices to bring Clamperl down. Timburr can pick off Clamperl as well with Mach Punch, but because it won't flinch as Fake Out does, Clamperl needs to be very weakened to be KOed.</p>
+
+<p>Misdreavus and Murkrow will outspeed a +2 Timid Clamperl if they are holding a Choice Scarf and can hit it with Thunderbolt and Brave Bird, respectively. Similarly, Sand Rush Drilbur can outspeed and KO Clamperl with Earthquake in the sand. Choice Scarf Chinchou, Mienfoo, and Houndour can outspeed Modest Clamperl after a boost, but will be outsped and OHKOed by Timid versions.</p>

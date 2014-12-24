@@ -1,0 +1,98 @@
+[Overview]
+
+<p>Salamence is one of the best sweepers in the current metagame. Its ability, Intimidate, coupled with resistances to Fighting and Bug, makes it a good switch-in to popular Pokemon such as Heracross, and its immunity to Ground-type attacks allows it to switch in on Earthquake. Nothing cleans up weakened teams as nicely as the Dragon Dance set does, and nothing switches in easily on the Choice Band set. If you expect one variant and it turns out to be another, chances are you will be in a world of pain.</p>
+
+[SET]
+name: Dragon Dance
+move 1: Dragon Dance
+move 2: Hidden Power Flying
+move 3: Earthquake
+move 4: Rock Slide / Fire Blast
+item: Leftovers
+nature: Adamant
+evs: 4 HP / 252 Atk / 252 Spe
+ivs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD
+
+[SET COMMENTS]
+
+<p>This might be one of the best sweepers in the game, able to set up a Dragon Dance and sweep at any moment. There are two different ways to play this set: bring it in early to throw out powerful attacks to scout for bulky Water-types, or save it for late-game, waiting for the bulky Water-types of the opponent to be weakened. No matter how you play it, Salamence is always going to be a threat with Dragon Dance.</p>
+
+<p>Rock Slide is the preferred option in the last slot, as it is Salamence's best attack against Zapdos and can take out opposing Salamence and Gyarados. Fire Blast is a good second option, however, denting Skarmory and Forretress extremely hard. If you opt for Rock Slide, make sure you have an answer to Skarmory with Magneton or some other lure, as Skarmory will consistently ruin your day.</p>
+
+<p>The basic EV spread is used to at worst Speed tie other neutral-natured base 100 Speed Pokemon. While uncommon, it also outspeeds Jolly Heracross and is generally a safe Speed to hit. A bulkier spread is just as good, being able to survive more Ice Beams and tank hits from Heracross better. If you choose to use a bulkier version of Dragon Dance Salamence, use 116 HP / 252 Atk / 140 Spe to outspeed Adamant Heracross and Modest Suicune before a Dragon Dance.</p>
+
+[SET]
+name: Choice Band
+move 1: Hidden Power Flying
+move 2: Rock Slide
+move 3: Earthquake
+move 4: Brick Break / Fire Blast
+item: Choice Band
+nature: Adamant / Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>The closest thing to a 100% counter to this set is Ice Beam Suicune. Standard counters, such as Weezing, Milotic, Swampert, and Claydol, will not be able to withstand the Choice Band-boosted assault nearly as well, and will be 3HKOed in most cases. Again, the fourth moveslot is a toss-up; each of the moves has its obvious merits. Brick Break does huge damage to Tyranitar and helps a lot against Curse Snorlax. Fire Blast, however, can 2HKO Skarmory and can OHKO some Forretress.</p>
+
+<p>Adamant is the preferred nature for Choice Band Salamence, but a Jolly nature can be used to beat out other Salamence, Zapdos, and the myriad Pokemon that commonly run about 300 Speed. As for EVs, Salamence needs maximum Attack, no questions asked. The Speed investment, however, is up to preference. When in doubt, maximize it for a stat of 299, but 270 or 286 are fine numbers to hit as well. Any leftover EVs can go into HP.</p>
+
+[SET]
+name: Wish
+move 1: Wish
+move 2: Protect
+move 3: Flamethrower
+move 4: Toxic
+item: Leftovers
+nature: Bold
+evs: 252 HP / 252 Def / 4 Spe
+
+[SET COMMENTS]
+
+<p>Salamence makes an excellent defensive Pokemon when backed by Intimidate. Wish gives it semi-reliable recovery, and Salamence can use the sheer power of its former sets to its advantage here. Because Swampert and Milotic are such common switch-ins, Toxic can neuter them enough so that they won't be able to check other threats. Protect allows Wish to heal Salamence more easily, and also lets it stall with Toxic. Flamethrower nails Skarmory and Forretress, both of which might try to set up on you.</p>
+
+<p>When coupled with Intimidate, max HP and Defense EVs allow Salamence to take on almost any physical attacker and stall it out with Toxic. An alternative set with an Adamant nature can be useful to keep Tyranitar and Metagross in check while threatening Snorlax and Celebi. Earthquake and Hidden Power Flying should be used over Toxic and Flamethrower.</p>
+
+[SET]
+name: MixMence
+move 1: Hidden Power Grass
+move 2: Fire Blast
+move 3: Brick Break
+move 4: Dragon Claw / Rock Slide
+item: Leftovers
+nature: Rash
+evs: 24 Atk / 232 SpA / 252 Spe
+ivs: 30 Def / 30 SpA
+
+[SET COMMENTS]
+
+<p>The mixed nature of this Salamence lets it break walls, especially Swampert. The strategy for removing Swampert is simple: lure it in and let the Hidden Power Grass rip. Salamence's Special Attack is actually the fifth highest among OU Pokemon, so Fire Blast can make short work of Skarmory and Forretress, while making a big dent in Jirachi, Metagross, and Celebi. With 24 Attack EVs, Brick Break will always 2HKO Blissey in sand with Spikes, meaning that not even Blissey can safely come in. Snorlax and Tyranitar both need to avoid it as well. The last slot can be Dragon Claw or Rock Slide; the former counters Flygon and other Salamence, while the latter is Salamence's strongest attack against Zapdos and Aerodactyl. Dragon Claw is a decent STAB attack though, and can be more easily spammed by Salamence.</p>
+
+<p>MixMence should use a Rash nature, as Ice-type attacks will KO it regardless; STAB Thunderbolts similarly 2HKO. The Defense drop from a Mild nature allows the likes of Heracross's Megahorn to 2HKO after Intimidate, which is unwanted. Maximum Speed allows it to tie with other Salamence, which can be key when using Dragon Claw. It also gets the jump on all variants of Suicune and Heracross.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Below are damage calculations that will prove useful when using MixMence:</p>
+
+<ul="damage_calculation">
+<li>24 Atk Salamence <strong>Rock Slide</strong> vs. 252 HP / 32 Def <strong>Zapdos: 41 -- 49%</strong> -- Guaranteed 3HKO</li>
+<li>24 Atk Salamence <strong>Rock Slide</strong> vs. 68 HP / 0 Def <strong>Gyarados: 50-- 59%</strong> -- Guaranteed 2HKO with sand damage</li>
+<li>24 Atk Salamence <strong>Brick Break</strong> vs. 104 HP / 148 Def <strong>Snorlax: 34 -- 40%</strong> -- Guaranteed 3HKO with 1 layer of Spikes or sand damage</li>
+<li>24 Atk Salamence <strong>Brick Break</strong> vs. 4 HP / 252+ Def <strong>Blissey: 40 -- 47%</strong> -- 36.33% chance to 2HKO after 1 layer of Spikes and sand damage</li>
+<li>24 Atk Salamence <strong>Brick Break</strong> vs. 16 HP / 120 Def <strong>Tyranitar: 70 -- 82%</strong> -- 56.25% chance to OHKO after 3 layers of Spikes</li>
+<li>24 Atk Salamence <strong>Brick Break</strong> vs. 252 HP / 112 Def <strong>Regice: 36 -- 42%</strong> -- Guaranteed 3HKO with 1 layer of Spikes or sand damage</li>
+<li>232+ SpA Salamence <strong>Fire Blast</strong> vs. 252 HP / 60+ SpD <strong>Regice: 34 -- 39%</strong> -- Guaranteed 3HKO with 1 layer of Spikes or sand damage</li>
+<li>232+ SpA Salamence <strong>Hidden Power Grass</strong> vs. 252 HP / 0 SpD <strong>Swampert: 80 -- 95%</strong> -- 50% chance to OHKO after 1 layer of Spikes</li>
+<li>232+ SpA Salamence <strong>Hidden Power Grass</strong> vs. 252 HP / 0 SpD <strong>Milotic: 31 -- 37%</strong> -- Guaranteed 3HKO after 1 layer of Spikes and sand damage</li>
+<li>232+ SpA Salamence <strong>Hidden Power Grass</strong> vs. 252 HP / 0 SpD<strong> Suicune: 33 -- 39%</strong> -- Guaranteed 3HKO after 1 layer of Spikes or sand damage</li>
+<li>232+ SpA Salamence <strong>Dragon Claw</strong> vs. 0 HP / 0 SpD <strong> Salamence: 92 -- 108%</strong> -- 50% chance to OHKO</li>
+<li>232+ SpA Salamence <strong>Dragon Claw</strong> vs. 188 HP / 0- SpD <strong> Flygon: 98 -- 114%</strong> -- 93.75% chance to OHKO</li>
+</ul>
+
+[Other Options]
+
+<p>Roar is effective if your opponent's Dragon Dance counter is a phazer such as Skarmory or Suicune; use Dragon Dance as they switch in and Roar them away before they can do the same in return.</p>
+
+[Checks and Counters]
+
+<p>Milotic, Swampert, and Suicune all wreck Salamence's sweep with Toxic or Ice Beam, while Salamence cannot possibly OHKO them. Claydol and Weezing are immune to Earthquake and don't fall to Salamence's other moves too quickly either. Regice isn't too reliable as a Salamence counter, as it's weak to Brick Break and Rock Slide, but it can work in a pinch. Most other checks must play a guessing game. Zapdos and Aerodactyl can trouble Salamence that lack Rock Slide, while Skarmory is hard to defeat outside of a Fire-type move. Rock- and Steel-types, such as Tyranitar and Metagross, can also switch in easily on most of Choice Band Salamence's moves. Finally, despite Salamence's good defensive typing, it has several crippling weaknesses. Most outstanding of these are Ice-type moves; examples include Zapdos's Hidden Power Ice, Gengar's Ice Punch, and Ice Beam from bulky Water-types.</p>

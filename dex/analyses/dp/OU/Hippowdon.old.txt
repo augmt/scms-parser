@@ -1,0 +1,134 @@
+[Overview]
+
+<p>With its Sand Stream ability and access to Stealth Rock and Roar, Hippowdon is arguably the best starter there is for a stall team. Hippowdon is always restricted by its low Special Defense and Speed stats, but even outside of stall it is useful, especially when running a Curse set. If you are looking for a physically bulky Pokemon or a phazer, then Hippowdon is a sure bet.</p>
+
+[SET]
+name: Physically Defensive
+move 1: Earthquake
+move 2: Slack Off
+move 3: Stealth Rock
+move 4: Roar / Toxic / Stone Edge / Ice Fang
+item: Leftovers 
+nature: Impish
+evs: 252 HP / 152 Def / 104 SpD
+
+[SET COMMENTS]
+
+<p>In DPP's fast-paced metagame, Hippowdon provides valuable physical bulk. Hippowdon also sports an immunity to Electric-type attacks and a resistance to the Rock-type, two very common attacking types. Additionally, Hippowdon  boasts 10% more physical bulk than Skarmory, its main rival for the position of physical wall. On top of all these things, Lucario cannot even OHKO Hippowdon with a boosted Close Combat. In fact, most unboosted physical moves, outside of Explosion and Self-Destruct, will never OHKO Hippowdon.</p>
+
+<p>Hippowdon is a very good choice for a Pokemon to set up Stealth Rock. Hippowdon can take a hit, comfortably set up Stealth Rock, and then recover any damage which it has taken by using Slack Off. In addition to laying down Stealth Rock, Hippowdon can shuffle Pokemon around with Roar, scouting your opponent's team and dealing passive damage through sandstorm and Stealth Rock. Ice Fang may seem like a move that wouldn't fit well in Hippowdon's moveset, but it hits Dragonite, Flygon, and Gliscor, who can be problematic for stall teams. Stone Edge is a good attacking move, as it can hit both Dragonite and Gyarados switch-ins, who often see Hippowdon as setup fodder. Finally, Toxic is also a noteworthy option, and goes hand-in-hand with Hippowdon's stalling ability. If you run into the occasional Taunt Pokemon, however, then Hippowdon becomes almost useless. If you are not using Hippowdon for setting up Stealth Rock, then replacing Stealth Rock with any one of the aforementioned suggested fourth slot moves is ideal.</p> 
+
+[ADDITIONAL COMMENTS]
+
+<p>Pokemon such as Vaporeon, Suicune, and Celebi will all laugh at Hippowdon's attacks and can hit back with their STAB Water- and Grass-type moves. For the most part, Tentacruel can switch in against these Pokemon and scare them away with Hidden Power Electric or Sludge Bomb, along with helping out Hippowdon's stalling ability by removing Toxic Spikes from your side of the field and setting up Toxic Spikes of its own. Blissey is a fine partner, since she can take most special attacks aimed at Hippowdon and hit back with a crippling status move, such as Toxic or Thunder Wave. Skarmory is another Pokemon who works well when paired with Hippowdon. Both Pokemon are physically defensive, meaning that when one is in a weakened state, the other can fill in the role until an opportunity arises where the other can heal itself. Skarmory also can lay down Spikes, making Hippowdon's shuffling ability much more deadly and annoying. Of course, setting down all of these entry hazards would be a waste if a Pokemon just came in and used Rapid Spin, removing them from the field. Using a Ghost-type such as Rotom-A is extremely helpful for this reason.</p>
+
+[SET]
+name: Specially Defensive
+move 1: Stealth Rock
+move 2: Slack Off
+move 3: Earthquake
+move 4: Roar / Ice Fang / Crunch / Toxic
+nature: Careful
+item: Leftovers
+evs: 252 HP / 4 Def / 252 SpD
+
+[SET COMMENTS]
+
+<p>Hippowdon's Special Defense stat may not look impressive at a quick glance, but with its great HP stat, Hippowdon is capable of taking on some of the peskiest special sweepers in the metagame. Hippowdon can use its Electric-type immunity to switch into common threats such as Jolteon and Zapdos, both of which fail to 2HKO Hippowdon with Choice Specs and Life Orb Hidden Power Grass or Ice, respectively. Hippowdon can also switch into Calm Mind Jirachi and retaliate with Earthquake. Other notable Pokemon it is capable of handling are Life Orb Gengar, mixed attacking Dragonite, and even Choice Specs Heatran in a pinch--Hippowdon can Slack Off the damage from Overheat and come out on top.</p>
+
+<p>Hippowdon makes an excellent user of Stealth Rock. This variant is particularly good at using it because Hippowdon is capable of taking both physical and special attacks. Slack Off gives Hippowdon reliable recovery so it can stay healthy throughout the battle, making it difficult for the opponent to remove Stealth Rock permanently. Roar works wonders in combination with entry hazards by shuffling the opponent's team. If there is not a great need for Roar, there are other moves that can work in its place. Ice Fang works for eliminating Dragonite and Flygon, two threats that can otherwise only be phazed out. Crunch is beneficial if you are in need of something to take out Gengar; it also works well against Rotom-A. Toxic offers consistent damage to work alongside Sand Stream and has excellent coverage with Earthquake, as the latter hits most Steel-types for super effective damage.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Here are some damage calculations that demonstrate Hippowdon's great special bulk with the given EV spread:</p>
+
+<ul class="damage_calculation">
+<li>252 Timid Life Orb Gengar Shadow Ball vs. Hippowdon: 36% - 42.4%</li>
+<li>252 Timid Choice Specs Jolteon Hidden Power Grass / Ice vs. Hippowdon: 42.9% - 51%</li>
+<li>252 Timid Life Orb Zapdos Hidden Power Grass / Ice vs. Hippowdon: 40.5% - 48.1%</li>
+<li>252 Modest Life Orb Zapdos Hidden Power Grass / Ice vs. Hippowdon: 44.8% - 52.9%</li>
+<li>252 Timid Jirachi +1 Psychic vs. Hippowdon: 38.6% - 45.7%</li>
+<li>252 Timid Jirachi +1 Grass Knot vs. Hippowdon: 69% - 81.4%</li>
+<li>200 Rash Dragonite Draco Meteor vs. Hippowdon: 55% - 65%</li>
+<li>200 Rash Dragonite -2 Draco Meteor vs. Hippowdon: 27.9% - 32.9%</li>
+<li>252 Modest Choice Specs Heatran Overheat vs. Hippowdon: 79.3% - 93.6%</li>
+<li>252 Modest Choice Specs Heatran -2 Overheat vs. Hippowdon: 39.5% - 46.7%</li>
+</ul>
+
+<p>If you want Hippowdon to take physical attacks more effectively, you can try using an Impish nature with an EV spread of 252 HP / 72 Def / 184 SpD; this spread will give you the best of both worlds. The only downside is that it can be stretched thin easily and isn't quite as effective at taking special hits as it wants to be. The mixed spread would be recommended if you only want to take on select special threats, such as Life Orb Gengar, but won't take on Calm Mind Jirachi, Jolteon, Dragonite, and others that well.</p>
+
+<p>While Hippowdon can still take physical attacks like a beast, it loses the ability to survive boosted attacks from the likes of Lucario and other physical sweepers. To amend this deficiency, defensive RestTalk Gyarados is recommended as a teammate for Hippowdon. They are excellent partners for each other because Hippowdon covers Gyarados's Electric- and Rock-type weaknesses, while Gyarados has a resistance to Water-type attacks and takes neutral damage from Grass- and Ice-type attacks aimed at Hippowdon. As an added benefit, Gyarados checks physical Pokemon with its bulk and Intimidate, and can then phaze them with Roar for added entry hazard damage. For those special attackers that are still too much for Hippowdon, like offensive Suicune and Starmie, Blissey makes an excellent teammate. She can sponge special hits like a trooper and threaten Toxic back at those Water-types.</p>
+
+[SET]
+name: Curse
+move 1: Curse
+move 2: Slack Off
+move 3: Earthquake
+move 4: Ice Fang / Stone Edge
+item: Leftovers
+nature: Careful
+evs: 252 HP / 84 Def / 172 SpD
+
+[SET COMMENTS]
+
+<p>Hippowdon carries a rather impressive 112 base Attack stat along with one of the best HP and Defense stat combinations in the game. Because of its already horrendous Speed stat, Hippowdon makes great use of the move Curse. As Curse boosts Hippowdon's Attack stat even higher, Ice Fang becomes the better move, allowing you to score KOs on many Flying-type Pokemon. However, if Gyarados still worries you, then Stone Edge is the better attacking choice.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>This set falls to the same opponents as the previous set, except it is even more vulnerable to Toxic, as it aims to stay in for longer periods of time than the standard Physical Wall. It's helpful to run Tentacruel alongside this set, as it can absorb Toxic Spikes and take the special attacks that Hippowdon fears. Tentacruel can also use Rapid Spin, removing all entry hazards and allowing Hippowdon to come in with a bit more flexibility. Heal Bell Celebi and Aromatherapy Blissey can also remove status from Hippowdon, which will greatly increase the hippo's survivability.</p>
+
+[SET]
+name: Choice Band
+move 1: Earthquake
+move 2: Crunch
+move 3: Ice Fang / Stone Edge
+move 4: Fire Fang / Slack Off / Toxic
+item: Choice Band
+nature: Adamant
+evs: 252 HP / 124 Atk / 132 Def
+
+[SET COMMENTS]
+
+<p>Choice Band Hippowdon, though seemingly inferior to the Curse set, can actually cause your opponent quite a headache once you have figured out the Pokemon on their team.</p>
+
+<p>Earthquake serves as Hippowdon's obligatory STAB move, whereas Crunch is used to hit Levitating Ghost-types, such as Rotom-A. Deciding whether to use Ice Fang or Stone Edge really boils down to whether you want to hit Gliscor and Flygon harder or Gyarados harder. The final move is more a matter of preference than anything else. When given Fire Fang, Hippowdon can do reasonable damage to Forretress, as well as OHKO Scizor. Slack Off has merit as the last move, allowing Hippowdon to heal off any damage which it has taken during the match and allow itself the chance to try to sweep again. However, since Hippowdon is holding a Choice Band, it is forced to switch out and switch back in. Toxic can also be used, but as Celebi and Skarmory are common switch-ins to Hippowdon, it will do no more than allow your opponent a few free turns of set-up.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs may seem spread thin, but they maximize Hippowdon's potential. With the given EVs, Hippowdon has a high chance of OHKOing Dragonite and Gyarados with Ice Fang and Stone Edge, respectively. Hippowdon can also survive a Jolly Lucario's Swords Dance boosted Close Combat and OHKO it back with Earthquake. This Hippowdon set dislikes Skarmory quite a bit. Even when using Fire Fang, Skarmory can easily Roost off the damage, making anything Hippowdon does outside of switching null. Running Magnezone to trap Skarmory is a good idea, removing the physical wall halting Hippowdon's sweep. Celebi can still cause Hippowdon issues with its STAB Grass-type moves, so Scizor can help remove Celebi thanks to its 4x weakness to Bug-type attacks, though you must be careful of Hidden Power Fire.</p>
+
+<p>If you decide to not run Slack Off on this set, then having a Pokemon that can pass Wish to Hippowdon for healing would be extremely helpful. On top of that, a Pokemon such as Forretress or Skarmory that can set down Spikes makes sweeping with Hippowdon much easier, as it severely hurts the opponent's switch-ins. Of course, Forretress can also use Rapid Spin, removing anything that could harm Hippowdon.</p>
+
+[SET]
+name: Stockpile
+move 1: Stockpile
+move 2: Roar
+move 3: Slack Off
+move 4: Earthquake / Toxic
+item: Leftovers
+nature: Impish
+evs: 176 HP / 84 Def / 248 SpD
+
+[SET COMMENTS]
+
+<p>Hippowdon is probably the only Pokemon in the game that can make good use of the defense boosts granted by Stockpile. After a single Stockpile, Hippowdon becomes incredibly difficult to KO without Toxic, as it can survive both a Grass Knot from 40 SpA Celebi, a Waterfall from Adamant Life Orb Gyarados, and Roar them both away with over half of its health left after Leftovers. Half health may seem low, but the only other even remotely common things that could subsequently KO Hippowdon are offensive Life Orb Suicune and Choice Specs Heatran, so it is likely that Hippowdon will be able to Slack Off afterwards. After a second Stockpile, there are few things in OU which can even 3HKO the sandy hippopotamus.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>This set is designed for use with entry hazards, preferably Stealth Rock and at least one layer of Spikes. It's incredibly easy to get multiple defensive boosts via Stockpile, and with its then huge defenses, Hippowdon can spam Roar and Slack Off as necessary. Since the main things that it fears are Toxic and faster phazers, this set is mainly recommended as a countermeasure against offensive teams. Offensive teams rarely carry instant self-healing moves and almost never use Toxic, forcing them to rely on a critical hit to beat Hippowdon. Even if your opponent is not running an offensive team, this set is still useful; however, you should pack a cleric if you can, and try to get it out early in the match to scout your opponent's team.</p>
+
+<p>Earthquake is the recommended move in the last slot, giving Hippowdon an excellent, all-purpose attacking option against the likes of Blissey. Avoid overusing Roar to stall out opposing Pokemon, as Hippowdon will eventually be struck by a critical hit, and attacking with Earthquake is often the better option. If you aren't worried about critical hits, then Toxic is a viable option over Earthquake provided that your team is not already using Toxic Spikes. With Roar, you don't really have to worry about Substitute, so everything that isn't immune on your opponent's team is likely going to be taking poison damage before long. Taunt is hardly an issue since all the common Taunters--Azelf, Gyarados, and Gliscor--are immune to Earthquake anyway.</p>
+
+<p>Stockpile on Hippowdon is very risky, since so many things can go wrong. Toxic and Taunt are the primary issues you'll face when using this set. Pokemon that occasionally run Taunt, such as Azelf, can cause you harm by setting up in your face while you are unable to Roar them away. Once again, Tentacruel does not mind taking a Toxic for Hippowdon, nor does it care about switching into Toxic Spikes. Taunt may cause Tentacruel some grief, but its STAB Surf helps alleviate this.</p>
+
+<p>Having a Pokemon that can use Rapid Spin is vital for Stockpile Hippowdon, so having a Pokemon that can remove Ghost-type Pokemon is important as well. Choice Band Tyranitar comes into play to stop Ghost-types from blocking your Rapid Spin with its STAB Crunch and Pursuit.</p>
+
+[Other Options]
+
+<p>Although Hippowdon has a disappointingly shallow movepool, there are a few other useful moves it can employ. Yawn is an alternative to Roar. It will never miss, even if a Pokemon's evasion is raised (due to Sand Veil or Snow Cloak, for example), and is useful in forcing switches to rack up more entry hazard damage. However, it makes Hippowdon extremely vulnerable to Substitute users, and it becomes worthless once Sleep Clause is in effect. If you feel like going for paralysis, Body Slam can be used in the fourth moveslot of any set. This can provide vital support for a slower team, but with a mediocre 85 Base Power, poor coverage, and only a 30% chance to paralyze, there are better options. If you really do not like Blissey, then Superpower is also an option, but its coverage is almost pointless against every other Pokemon. If you fail to take down the pink blob in one shot she can easily use Soft-Boiled to recover any lost HP, while Superpower becomes progressively weaker and reduces Hippowdon's impressive Defense.</p>
+
+<p>Maximum HP and a heavy investment in Defense is needed to effectively counter Tyranitar and to have a chance to survive strong boosted attacks, such as Lucario's +2 Life Orb Close Combat. The EV spread of the Physical Wall set maximizes Hippowdon's walling potential, giving it a bonus point and going as far as giving it a chance of surviving Mixed Infernape's Grass Knot. If you choose to run Curse, adding some Special Defense EVs and using a Careful nature is ideal, and if you are running Stockpile then you should be applying Special Defense in bulk. No matter what set you run, you should remember that maximum HP and 80 Special Defense EVs will cause Hippowdon to be only 3HKOed by SubPunch Tyranitar's Ice Beam, making it an almost guaranteed counter to any Tyranitar set (beware, though, as some Choice Band Tyranitar carry Aqua Tail to 2HKO Hippowdon).</p>
+
+[Checks and Counters] 
+
+<p>Defensive Hippowdon's lack of attacking power hurts it here. Any special attacker with moderate Defense and no Ground-type weakness will switch in happily. Special mention goes to both Bronzong and Skarmory, as both take negligible damage from Hippowdon's attacks and can set up on it. Speaking of setup, Gyarados will happily come in on any set without Stone Edge and Dragon Dance away. Celebi and bulky Water-types can switch in on just about anything and force Hippowdon out with a STAB Grass Knot or Surf, and, depending on the set, may be able to set up as well.</p>

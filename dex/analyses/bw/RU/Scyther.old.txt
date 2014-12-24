@@ -1,0 +1,80 @@
+[Overview]
+
+<p>Even though Scyther boasts the same Base Stat Total as its evolution, Scizor, a simple retype has set the two eons apart. While Scizor has been consistently vying for top spot in OU, Scyther is forced to dwell in its shadows. Even in RU, Scyther cannot perform well due to the amount of support it requires. It's 4x Stealth Rock weakness as well as its weakness to common Fire-, Electric-, and Rock-type attacks makes it hard for Scyther to be effective. Once the extremely tough deed of taking out all of Scyther's threats is done, it can use Swords Dance to set up or Baton Pass its boosts to a teammate. Additionally, if Stealth Rock is removed, Scyther can effectively scout with U-turn. Overall, Scyther has a lot of trouble doing well in RU, and there are usually better choices out there.</p>
+
+[SET]
+name: Offensive Swords Dance
+move 1: Swords Dance
+move 2: Aerial Ace
+move 3: Bug Bite / Quick Attack
+move 4: Brick Break / Quick Attack
+item: Life Orb / Lum Berry
+ability: Technician
+nature: Jolly
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>Scyther's stat spread--specifically its monstrous base 110 Attack and base 105 Speed--is perfect for a Swords Dance sweeper. After one boost, Scyther's Attack stat reaches a frightening 638, enough to slice through all but the bulkiest of walls. Its movepool, while shallow, is tailor-made for this set, as Technician turns the normally weak Aerial Ace and Bug Bite into deadly STABs. In a tier bereft of Steel-types, Bug and Flying are both extremely potent offensive types. Brick Break rounds off this set, allowing Scyther to hit Pokemon that resist its STAB combination, namely Steelix and Aggron.</p>
+
+<p>The EV spread is standard, taking advantage of Scyther's excellent Speed and Attack. A Jolly nature is an absolute necessity, as it allows Scyther to outspeed the base 95 Speed tier, and proceed to raze the likes of Uxie and Primeape with its boosted STAB moves. Life Orb gets the best mileage out of any setup sweeper, and Scyther is no exception. However, because of its crippling Stealth Rock weakness, Scyther often gets only one chance to set up and sweep. Lum Berry is therefore a viable alternative; it not only prevents Scyther from being shut down by a rogue Thunder Wave or Toxic, but also ensures that Scyther is not a ticking time bomb.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Although Scyther can comfortably outspeed most of RU, there are still troublesome Pokemon, such as Galvantula, who can outspeed and cause headaches. Many Choice Scarf users can also exploit Scyther's sub-par bulk. Therefore, Quick Attack is a viable option to make Scyther less prone to revenge killers. Bolstered by Technician and a Swords Dance boost, Quick Attack drastically diminishes the number of Pokemon who can reliably revenge kill Scyther. Unfortunately, should Scyther choose to run Quick Attack, it sacrifices a great deal of coverage, and Uxie and Steelix can comfortably wall Scyther should it lack the appropriate move.</p>
+
+<p>As mentioned before, Scyther suffers from a crippling Stealth Rock weakness. Rapid Spin support is therefore a must, with Cryogonal, Hitmonchan, and Kabutops being the best options in RU. Sandslash also provides Stealth Rock support, which allows Scyther to nab a number of OHKOs and 2HKOs it wouldn't otherwise get. Moltres and Charizard absolutely have their way with Scyther, making Slowking an ideal teammate. Scyther returns the favor by taking out powerful Bug- and Dark-types, such as Crawdaunt and Accelgor, who would otherwise be absolute nightmares for Slowking.</p>
+
+[SET]
+name: Choice
+move 1: U-turn
+move 2: Aerial Ace
+move 3: Bug Bite / Quick Attack
+move 4: Brick Break / Bug Bite
+item: Choice Band / Choice Scarf
+ability: Technician
+nature: Jolly
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>Like its elder brethren Scizor, Scyther makes use of its excellent Attack and access to STAB U-turn to act as a fantastic scout. U-turn builds momentum, and can bail Scyther out of unfavorable matchups. Scyther's ninja-esque Speed gives it an advantage over Scizor in some instances, as Scyther can force opponents into a no-win situation: either stay in and die, or switch out and lose momentum. Technician-boosted Aerial Ace is a great complementary STAB for hitting Fighting-types, whereas Technician-boosted Bug Bite hits harder than U-turn and is more reliable when going for a late game sweep. Quick Attack is an excellent option over Bug Bite if running Choice Band, as it allows Scyther to pick off frail but potentially dangerous sweepers. Brick Break is the coverage move of choice, as it allows Scyther to hit Steel types, such as Steelix and Aggron, that resist its dual STAB combination.</p>
+
+<p>The choice between a Band and a Scarf (pun not intended) depends on what you want Scyther to accomplish; the former packs significantly more power and dents opposing walls, potentially opening up a sweep for a teammate, whereas the latter allows Scyther to troll faster Pokemon such as Galvantula, Sceptile, and Accelgor, while simultaneously fulfilling the role of revenge killer. While Choice Scarf variants are more reliable for a late game sweep and more difficult to revenge kill, Choice Band variants grab significantly more KOs and can attempt a sweep much earlier.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Technician-boosted Pursuit gives Scyther the ever so handy U-turn + Pursuit combination, made famous by none other than the crimson mantis itself. With so many RU teams reliant on Uxie and Tangrowth to wall threats, Scyther can throw a wrench into the opponent's plans by playing mind games with this dangerous combination of attacks. Quick Attack is a viable move on the Choice Scarf set--just kidding, anyone who tries this should feel ashamed.</P>
+
+<p>Obviously, U-turn spamming will not work if Scyther is losing 50% of its health every time it switches in. As a result, Rapid Spin support is an absolute necessity; Cryogonal, Kabutops, and Hitmonchan are some of the most reliable spinners in RU. Furthermore, because Rapid Spin is so crucial for this set to function properly, it is important to eliminate all potential spinblockers. Scyther itself is not the bug for the job, since most bulky Ghost-types will stay in as it Pursuits and cripple it with Will-O-Wisp. It is therefore advisable to run a Dark-type, such as Absol or Drapion, to eliminate bulky Ghost-types, and ensure you don't run into problems when attempting to pull off a spin.</p>
+
+[SET]
+name: Bulky Swords Dance
+move 1: Swords Dance
+move 2: Aerial Ace
+move 3: Roost
+move 4: Baton Pass / Brick Break
+item: Eviolite
+ability: Technician
+nature: Jolly
+evs: 248 HP / 8 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Black and White brought Scyther a very useful gift in the form of Eviolite, which allows Scyther to perform the role of a bulky Swords Dance sweeper. While this set lacks the sheer power and immediate sweeping potential of the standard Swords Dance set, it does alleviate Scyther's below average bulk and enables it to accumulate multiple boosts. As always, Aerial Ace provides a powerful, reliable STAB, and allows Scyther to dispose of troublesome phazers such as Hariyama. Roost maintains Scyther's survivability, and potentially allows it to stall out weaker Electric- and Ice-type attacks; an added bonus is the ability to Roost off Stealth Rock damage should your Rapid Spinner go down early. Your choice for the final moveslot depends on what role you want Scyther to fill. If all you're looking for is a bulky sweeper, Brick Break provides the best possible coverage alongside Aerial Ace. However, Scyther is capable of passing Attack boosts via Baton Pass. Speed is maximized to ensure a Speed tie with opposing Scyther, and 248 HP EVs ensure Scyther can switch into Stealth Rock at least twice without fainting.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Bug Bite can be used as an alternative STAB if running Baton Pass. As a stand-alone STAB move, Bug Bite is more useful on some occasions. However, if using Brick Break, Aerial Ace is the preferred STAB move due to the superior coverage of Fighting- and Flying-type moves. Scyther also has the option of running Safeguard to protect itself against status. Unfortunately, this is very situational, as it only allows Scyther to bypass bulky Ghost-types attempting to Will-O-Wisp, and sacrifices coverage as well as Baton Pass.</p>
+
+<p>As with any Scyther set, Rapid Spin support is an absolute must. Hitmonlee in particular has great synergy with this set; not only can Hitmonlee guarantee a spin with Foresight, it can also dispatch Steelix with High Jump Kick, making Scyther's life that much easier. Hitmonlee is also a great recipient for Swords Dance passes. Bulky Ghost-types such as Rotom and Misdreavus are huge nuisances to the duo, however, so a strong Dark-type, such as Spiritomb or Drapion, makes a great partner. This set absolutely loathes status of all kinds, so a reliable status absorber such as Clefable or a cleric such as Heal Bell Uxie would work well too.</p>
+
+[Other Options]
+
+<p>Scyther has access to Reversal, which can hit tremendously hard with the help of a Focus Sash and a Swords Dance boost; Fighting-type moves also provide excellent coverage alongside Scyther's Flying-type STAB. Scyther can also take advantage of its Stealth Rock weakness by running an odd-numbered HP stat; by switching in twice with Stealth Rock up, Scyther attains a maximum power Reversal. Because this would make Scyther incredibly prone to revenge killing, Substitute can be used to scout for potential revenge killers. Scyther also has access to Agility, which it can utilize in one of two ways: either as a replacement for Swords Dance on the Bulky Swords Dance set, or along with Swords Dance or Substitute on a designated Baton Pass set.</p>
+
+[Checks and Counters]
+
+<p>As far as counters go, Moltres is without a doubt Scyther's worst nightmare. It resists Scyther's Bug-type STAB, has enough bulk to take an Aerial Ace, and can turn Scyther into a fried mantis. To make matters worse, Moltres can Roost off any damage accumulated from the altercation and continue its onslaught. Bulky Ghost-types such as Misdreavus laugh at Scyther's attacks and send it packing with Will-O-Wisp. Steelix can impose its will on most sets, as it can set up Stealth Rock and phaze. However, Steelix is potentially 2HKOed by a +2 Life Orb boosted Brick Break.</p>
+
+<p>The best way to deal with Scyther is without a doubt Stealth Rock. It severely limits Scyther's ability to set up and can prevent the Choice set from functioning entirely. With Stealth Rock up, Scyther can be forced into a corner; if it stays in, it will fall to a check or revenge killer, while if it switches out, it will loses half its health the next time it switches in. Hence, eliminating the opposing Rapid Spinner is crucial for dealing with Scyther. Additionally, Scyther loathes status of all kinds, and if it gets tagged by a status move as it tries to set up, it will be severely limited. Scyther's relatively low bulk and horrendous defensive typing can be exploited; although Scyther is fast, it is no Accelgor. Many Choice Scarf users and natural speed demons, such as Manectric and Galvantula, can outspeed and revenge kill Scyther, but must be wary of a boosted Quick Attack.</p>

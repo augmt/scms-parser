@@ -1,0 +1,94 @@
+[Overview]
+
+<p>Aggron is a neat Pokemon with good stat distribution and a good movepool--it is just hampered by two terrible 4x weaknesses to very common attack types. Aggron is a real force in the UU environment, battering everything in sight with STAB Head Smash from an impressive base 110 Attack.</p>
+
+<p>What sets Aggron apart from other Rock-types is its Steel typing. This gives Aggron a whole slew of resistances, which means it will have an easier time switching into moves such as Ice Beam and U-turn than most Rock-types.</p>
+
+[SET]
+name: Choice Band
+move 1: Head Smash
+move 2: Aqua Tail
+move 3: Low Kick
+move 4: Ice Punch / Toxic
+item: Choice Band
+ability: Rock Head
+nature: Jolly / Adamant
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>With Choice Band and a Jolly nature, Aggron reaches an astounding 478 Attack. Aggron is easily capable of switching into battle thanks to its numerous resistances. Head Smash is Aggron's main form of attack due to its absurd Base Power, good offensive typing, and STAB. Aqua Tail pairs nicely with Head Smash, hitting those Pokemon hoping to switch into a Rock attack (such as Rock/Ground-types) for super effective damage. Low Kick nails Pokemon such as Steelix, Regirock, and Registeel for an easy 2HKO, while Ice Punch destroys Torterra. If you don't fear Torterra setting up, and you need a way to reliably take out bulky Grass or Water Pokemon, Toxic is a good option over Ice Punch.</p>
+
+<p>With a Jolly nature, Aggron will almost always outrun defensive Milotic, and basically any other defensive Pokemon. However, an Adamant nature is viable, boosting Aggron's Attack to 525, meaning Aggron will hit that much harder. Aggron still outpaces most of the walls in UU, but there are defensive Pokemon, such as Milotic and Venusaur, who can easily be faster than Aggron with just 8 or 12 EVs invested in Speed.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Aggron works best when used with a sandstorm. In UU, unfortunately, Hippopotas is the only option to set up sandstorm, but it at least can support Aggron with Stealth Rock as well. Speaking of Stealth Rock, Aggron will force a ton of switches regardless of which set it is using, so residual damage of any kind is beneficial.</p>
+
+<p>Offensively, Aggron will easily clear the path for fast and frail physical sweepers such as Swellow and Ambipom, since a Choice Band boosted STAB Head Smash will 2HKO or even OHKO many physical walls. With its monstrous Attack and Head Smash's absurd Base Power, Aggron can destroy many of the common physical walls in UU. If you are aiming to sweep with Aggron, using Pokemon such as Blaziken to clear out some of the physical walls is a good idea. Packing a strong Pursuit user to get rid of Claydol is also recommended.</p>
+
+<p>Since Aggron will always be locked into an attack, it needs much more defensive support than the other two sets. Pokemon such as Donphan and Steelix easily force Aggron out if it's using Head Smash, so using Pokemon such as Tangrowth or Slowbro to take the physical hits with ease and hit back with STAB attacks is a good idea. Also, almost any special Water-type attack will OHKO Aggron outside of sandstorm, and special attacks in general hurt Aggron. This makes Chansey and Clefable great teammates for Aggron since they can take special hits quite easily, while also being able to set up Stealth Rock and spread paralysis. Clefable can also Encore a Pokemon to help Aggron set up. Mismagius and Rotom have amazing synergy with Aggron, since they resist each other's weaknesses, except for Aggron's Water weakness. Altaria is also a great partner since it resists every one of Aggron's weaknesses.</p>
+
+[SET]
+name: SubPunch
+move 1: Substitute
+move 2: Head Smash
+move 3: Focus Punch
+move 4: Magnet Rise
+item: Leftovers
+ability: Rock Head
+nature: Adamant
+evs: 160 HP / 252 Atk / 12 SpD / 84 Spe
+
+[SET COMMENTS]
+
+<p>Aggron has decent bulk with some HP investment, especially on the physical side, allowing it to easily set up a Substitute on many Pokemon. It also helps that Aggron has quite the ability to force switches with its dangerous 150 Base Power Head Smash attack. The major thing holding Aggron back is its 4x weakness to the ever-common Ground-type attacks, so that's where Magnet Rise comes in. With Magnet Rise, Aggron is barely touchable by its usual counters, who rely on Earthquake to hit Aggron. This means Pokemon such as Donphan will be forced to use Stone Edge, which merely 3HKOes Aggron's Substitute. Pokemon such as Steelix and Donphan are also hit hard by Focus Punch, another 150 Base Power move (though it lacks STAB). The strategy is pretty straightforward: you come in on one of the many attacks that Aggron resists and set up a Substitute. If the opponent switches in a Pokemon such as the previously mentioned Donphan or Steelix, use Magnet Rise. Proceed to destroy your opponent's team from behind your Substitute with Head Smash and Focus Punch. If your opponent has Roar on their Steelix or Donphan, it may be wise to just use Focus Punch instead of Magnet Rise, especially if you have used Magnet Rise earlier in the match.</p>
+
+<p>84 Speed outruns minimum Speed Clefable and Weezing, allowing Aggron to hit them with Head Smash or set up Substitute before getting hit by a status effect. This also helps against Brave Cloyster who runs Surf and would otherwise break your Substitute or even OHKO you before you can OHKO it. 160 HP EVs reaches a Leftovers point +1 HP, allowing Aggron to use Substitute five times from full health. The  remaining EVs are put in Special Defense to allow Aggron to more easily switch into Choiced Shadow Ball and Dark Pulse, but they can also be placed into Speed.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>This set is exceptional with residual damage. It forces switches with Magnet Rise, and Stealth Rock and Spikes turn many 2HKOes into OHKOes, such as against Venusaur. Sandstorm support is also great; it gives Aggron an impressive Special Defense stat to go along with its decent defensive typing. This means Aggron will be able to set up Substitutes on more Pokemon.</p>
+
+<p>Since this is essentially a lure for physically defensive Pokemon, Aggron makes a great Pokemon to use alongside Pokemon such as Swellow or Ambipom. With Donphan, Regirock, Registeel, or Steelix out of the way, Swellow and Ambipom can abuse their Speed and powerful Normal-type attacks. Unfortunately, while Aggron has great resistances and Defense, it still has trouble with Water- and Fighting-type attacks. This makes Slowbro and Slowking great teammates for this Aggron set, as they easily fend off both of those attacking types while also spreading paralysis, which always helps any Pokemon with Substitute.</p>
+
+[SET]
+name: Rock Polish
+move 1: Rock Polish
+move 2: Head Smash
+move 3: Aqua Tail
+move 4: Low Kick / Ice Punch
+item: Life Orb
+ability: Rock Head
+nature: Adamant / Jolly
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>With Head Smash and a very respectable Attack stat, the only thing stopping Aggron from plowing through teams is its poor Speed. Of course, this can be remedied by Rock Polish, which boosts Aggron's Speed to a whopping 398, outrunning Pokemon such as Dugtrio, Alakazam, and Sceptile, even with a Speed boosting nature. It also outpaces neutral natured base 80s with Choice Scarf, but with a Jolly nature, Aggron is faster than base 80s with Choice Scarf and a Speed boosting nature; however, it really appreciates the power from Adamant, as it secures 2HKOs on Tangrowth and Regirock, while giving Aggron a much higher chance of OHKOing Rhyperior.</p>
+
+<p>Aggron needs to focus on super effective coverage, as Head Smash is so powerful that it will do more than almost any other attack even when resisted. Aqua Tail 2HKOes Donphan and OHKOes almost every Rock- or Ground-type, which are Aggron's most common switch-ins. Low Kick 2HKOes Regirock and can KO Registeel if it switches into Stealth Rock and a Head Smash. Ice Punch can be used over Low Kick if you prefer beating Torterra, who is KOed after switching into Head Smash.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Aggron has trouble with different Pokemon depending on what it uses in its last move slot. If Aggron uses Low Kick, Torterra will cause some serious trouble. This is easily remedied by using a Pokemon such as Venusaur to switch in and hit Torterra with a strong Sludge Bomb, or better yet, using something like Swords Dance Leafeon to set up on Torterra. If Aggron uses Ice Punch, it will have some trouble with Regirock and Registeel. Registeel is pretty easy to deal with by using a Pokemon such as Donphan or even Torterra to switch in and set up Stealth Rock. Dugtrio can come in and trap it as well. Regirock is more difficult as it hits much harder, meaning you need to carry a Pokemon with respectable defenses that resists Stone Edge and is preferably immune to Thunder Wave. Torterra and Donphan are still both good choices, but Dugtrio isn't powerful enough to trap and KO Regirock as long as it has a decent amount of HP. Using a Pokemon such as Blaziken or Arcanine to break the opponent's walls makes it a lot easier for Aggron to sweep as well, since they will weaken or KO bulky Water-types, such as Slowbro and Milotic, while possibly also taking care of Dugtrio with priority.</p>
+
+<p>Aggron definitely benefits from Spikes support as well, because it can then use a Jolly nature, making it less susceptible to Choice Scarf revenge killers. Qwilfish is a pretty good partner, being able to switch into weak Fighting-type attacks and set up. Claydol is also a great teammate, as it not only sets up Stealth Rock and screens, but it also easily takes Fighting- and Ground-type attacks.</p>
+
+[Other Options]
+
+<p>Aggron can run Screech in order to beat some of its common counters. After a Screech, Head Smash OHKOes most Pokemon without a Rock resistance, and Donphan, Claydol, and Rhyperior are all KOed by Aqua Tail. Since it doesn't need an Adamant nature to attain these KOes, Aggron can run a Jolly nature, which allows it to outpace defensive Milotic and OHKO it with Head Smash after Screech. However, most of Aggron's common switch-ins are 2HKOed by Head Smash or by a Head Smash followed by the appropriate coverage move anyway. As such, you are better off just outright attacking in most cases.</p>
+
+<p>Aggron could run a more defensive set with sandstorm support, but it is almost always outclassed by other bulky Rock-types due to its low HP. Stealth Rock is also an option as a filler, but Aggron will almost always be doing more harm by crushing the opponent with Head Smash.</p>
+
+<p>Iron Tail is an option as well, especially if you pair Aggron with Gravity to compensate for its poor accuracy. It has decent coverage with Head Smash and has a chance to lower the target's Defense.</p>
+
+<p>A decent Trick Room set could be used since Aggron is slow and hits like a mack truck; Head Smash will destroy almost anything that doesn't resist it. The trouble is when Trick Room isn't up, Aggron is too specially frail to do anything without getting OHKOed first. Even with Aggron's horrible Speed, Choice Scarf is a viable option. With a Choice Scarf, Aggron can outrun Pokemon with base 95 Speed, and it still hits hard enough to 2HKO Milotic after Stealth Rock.</p>
+
+[Checks and Counters]
+
+<p>Switching into a 225 Base Power (factoring in STAB) attack, from an Attack stat of 350, is no easy task. Resisting Head Smash isn't enough; you need to resist it and have impressive Defense. Donphan, Nidoqueen, and Claydol wall Aggron's Fighting and Rock attacks, but they need to beware of Choice Band Ice Punch and Aqua Tail. Milotic can switch in and OHKO Aggron if it packs 8 Speed EVs to outrun Aggron as well. Hitmontop can switch into Head Smash after an Intimidate and OHKO with a STAB Fighting attack. Quagsire and Gastrodon are only 3HKOed by Aggron's Head Smash as long as there are no Spikes on the field, and they can Recover and set up Curse. In OU, Swampert and Hippowdon are the two best counters since they resist Head Smash and aren't hit too hard by Aggron's coverage moves. They can both send STAB Earthquakes at Aggron, which will easily OHKO.</p>
+
+<p>Revenge killing is far easier, especially if Rock Polish isn't in effect. Any Pokemon with a super effective special attack, or simply any Fighting- or Ground-type attack, will easily OHKO Aggron. Vacuum Wave works great if you need to revenge kill Aggron after Rock Polish, since it will likely not be able to survive it as long as it's coming from a decent Special Attack stat. Mach Punch will do well too, but Aggron can survive as long as it has a decent amount of HP left.</p>
+
+<p>Most neutral special attacks will do good damage; just beware of Aggron's high attack power when using frail special sweepers.</p>

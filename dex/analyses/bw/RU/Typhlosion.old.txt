@@ -1,0 +1,83 @@
+[Overview]
+
+<p>In a tier occupied by powerful Fire-types such as Entei and Moltres, Typhlosion naturally has a bit of trouble finding a place on a team. Sporting the same well-rounded statistics as its brethren, Typhlosion is by no means frail, although a weakness to Stealth Rock and several common attacking types detract from this. However, Typhlosion has a few aces up its sleeve that allow it to distinguish itself from its fellow Fire-types. Its movepool holds some hidden gems, including the potent Eruption, which offers Typhlosion a much-needed powerful STAB attack. Of course, that's not to say that Typhlosion is weak by any means. A high base 109 Special Attack supported by a respectable base 100 Speed allows Typhlosion to hit hard and fast and lends it to serving as a powerful Choice item user, among other options. While certainly no one-man army, a properly supported Typhlosion is capable of laying all manner of destruction in its wake.</p>
+
+[SET]
+name: Choice Specs
+move 1: Eruption
+move 2: Fire Blast
+move 3: Focus Blast
+move 4: Hidden Power Grass / Hidden Power Rock
+item: Choice Specs
+nature: Timid
+evs: 252 SpA / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>Whilst wielding Choice Specs, Typhlosion becomes one of the most dangerous immediate special attackers in the tier. A maximum power Eruption being fired off 475 Special Attack is nothing to scoff at; it's even capable of beating bulky Pokemon such as Druddigon and Poliwrath with Stealth Rock in play. Of course, while ideal, Typhlosion can't always remain at full HP, so Fire Blast ensures that it retains a usable STAB move outside of such a scenario. Additionally, when Typhlosion is worn down enough, Blaze can supplement Fire Blast's power to the point where the drop in Base Power is almost unnoticeable. Focus Blast offers respectable neutral coverage alongside Typhlosion's Fire-type attacks, hitting Rock-types and dedicated special walls such as Clefable and Regirock for super effective damage. Lastly, Hidden Power allows Typhlosion to round off its coverage or even reinforce it. Hidden Power Grass hits bulky Water-types such as Slowking and Lanturn hard while offering a more accurate method to hit Rock-types. Hidden Power Rock hits Fire-types for super effective damage, allowing it to hit Pokemon such as Entei hard as it tries to switch in.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Considering the fact that Choice Specs Typhlosion excels against slower, bulkier teams, a Modest nature is not out of the question, allowing it to push through defensive Pokemon more efficiently. However, when doing so, Typhlosion is outsped by Pokemon such as Moltres, Rotom, and Lilligant, and risks a Speed tie with Adamant Entei, and this should be taken into account when doing so. Even so, a Timid nature is usually more than enough, as can be observed in its damage:</p>
+
+<ul class="damage_calculation">
+<li>Eruption vs. 4/0 Kabutops 41.6 - 48.85%</li>
+<li>Eruption vs. 4/0 Entei 55.25 - 65.22%</li>
+<li>Eruption vs. 4/0 Moltres 57.94 - 68.22%</li>
+<li>Eruption vs. 252/4 Poliwrath 45.83 - 53.9%</li>
+<li>Eruption vs. 252/0 Druddigon 49.44 - 58.37%</li>
+</ul>
+
+<p>Flamethrower is an available option over Fire Blast, the choice boiling down to the long-standing power versus accuracy debate.</p>
+
+<p>More so than most of its Fire-type brethren, Typhlosion needs Rapid Spin support to function, ensuring the most powerful Eruption possible. Kabutops stands out as a natural partner, maintaining a solid offensive presence while reliably spinning, with each appreciating the other's ability to lure in bulky-Water-types and wear them down. Moreover, Kabutops lures in bulky Grass-types such as Tangrowth, which Typhlosion can in turn threaten with its STAB attacks. As Typhlosion is hard-pressed to outpace faster teams, paralysis support can help Typhlosion burn through teams. Rotom-C and Ferroseed both make solid partners in this right, covering up Typhlosion's weaknesses well, with the former being able to maintain offensive momentum with Volt Switch and the latter being able to set up hazards on an assortment of Pokemon Typhlosion lures in.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Eruption
+move 2: Fire Blast
+move 3: Focus Blast
+move 4: Hidden Power Rock
+item: Choice Scarf
+nature: Timid
+evs: 252 SpA / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>Though inferior to the Choice Specs set, with access to a powerful STAB Eruption and strong offensive stats, Choice Scarf Typhlosion makes for a useful revenge killer and late-game sweeper. Eruption is naturally the crux of the set, allowing Typhlosion to hit everything that doesn't resist it for respectable damage. Of course, Fire Blast's consistent damage remains important to Typhlosion's success, allowing it to perform even at sub-optimal HP. Focus Blast offers respectable neutral coverage alongside Typhlosion's STAB moves, punishing Rock-types such as Kabutops and Omastar should they try to switch in on a predicted Fire-type attack. Hidden Power Rock rounds off Typhlosion's coverage, allowing it to hit Fire-type Pokemon hard, as well as allowing Typhlosion to consistently knock out incoming Aerodactyl. It should be noted, though, that it doesn't hit nearly as hard as the Choice Specs set, and will thus get worn down much more easily by entry hazards due to the need to switch out more often.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>A Modest nature can be utilized to hit harder, although losing the ability to outpace Timid Lilligant after a Quiver Dance is pretty detrimental to Typhlosion's ability as a revenge killer. In terms of alternative moves, Flamethrower offers a more accurate option to Fire Blast, although without an item boosting its Special Attack, Typhlosion really appreciates the extra power. Hidden Power Grass can be utilized over Hidden Power Rock to hit bulky Water-types hard, but it should be noted that targets such as Slowking and Lanturn need to be worn down quite significantly before being threatened by this move.</p>
+
+<p>In order to retain Typhlosion's HP and Eruption's power, a Rapid Spin user is necessary to Typhlosion's success. Kabutops and Cryogonal are both apt partners for the task. Because it lacks the immediate power to break through bulky resistances, Typhlosion thoroughly appreciates dedicated hazard support to wear down bulky Water- and Dragon-types that switch into it. Ferroseed, Druddigon, and Qwilfish all make solid examples of such partners, setting up Stealth Rock or Spikes on common Typhlosion checks. However, certain dedicated special walls such as Slowking are capable of walling Typhlosion even with hazard support, making powerful Pursuit users such as Escavalier and Spiritomb good partners for trapping such threats.</p>
+
+[SET]
+name: Sunny Day
+move 1: Sunny Day
+move 2: Fire Blast
+move 3: Solar Beam
+move 4: Hidden Power Rock
+item: Life Orb 
+nature: Timid
+evs: 252 SpA / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>While often seen utilizing a Choice item, by utilizing Sunny Day, Typhlosion can put holes in some of its more conventional checks and counters, while also supporting Sunny Day teams. Fire Blast offers Typhlosion a powerful STAB attack that gets further boosted by the presence of sun, even dealing respectable damage to Pokemon such as Druddigon. Common switch-ins to Typhlosion, such as Slowking and Lanturn, find the tables turned as their Water-type STAB moves are reduced in power, and Typhlosion can respond with a powerful Solar Beam. Hidden Power Rock ties everything together, allowing Typhlosion to hit opposing Fire-types hard, preventing Pokemon such as Moltres from burning turns of Sunny Day (pun intended).</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Flamethrower can be utilized in the place of Fire Blast for a STAB move, should accuracy be more important than extra power. Heat Rock is an option over Life Orb and allows Typhlosion to prolong the Sunny Day for an additional 3 turns, although the drop in power is very noticeable when met with Pokemon such as Slowking and Druddigon. Due to the nature of the set, Chlorophyll sweepers such as Victreebel and Sawsbuck are excellent partners for Typhlosion, taking advantage of the Sunny Day by setting up and wearing down each other's prospective checks and counters. Sunny Day supporters such as Uxie and Regirock both present solid support for Typhlosion, offering not only respectable checks to opposing Fire-types, but also Stealth Rock and Sunny Day, allowing Typhlosion to sweep more effectively. Rapid Spin support is obviously thoroughly appreciated for keeping Typhlosion alive and kicking, making Cryogonal an excellent partner, being immune to Ground-type attacks aimed at Typhlosion and capable of threatening Dragon-types with it's STAB Ice Beam, while providing the obvious Rapid Spin support.</p>
+
+[Other Options]
+
+<p>With most of its attacking options restricted to what's already been stated, Typhlosion's remaining possibilities are quite sparse. Substitute can be utilized to minimize prediction and get down to Blaze range more safely, although aside from this it accomplishes very little in terms of surmounting Typhlosion's standard set of checks and counters. Will-O-Wisp is a neat option capable of safely crippling a handful of Typhlosion's common switch-ins, although there is rarely a time where Typhlosion wouldn't rather be attacking outright. With access to a couple of physical moves such as Earthquake and Wild Charge, Typhlosion can overcome select counters such as Slowking and Lanturn with proper prediction, although in the end the same can be accomplished with Choice Specs and the same prediction abilities without starkly reducing Typhlosion's overall usefulness.</p>
+
+[Checks and Counters]
+
+<p>As one would imagine, entry hazards, notably Stealth Rock, are Typhlosion's undisputed bane, ruining its Eruption and generally wearing it down before it can accomplish much. Regirock and its high Special Defense can take a few Eruptions, setting up Stealth Rock in the process. Bulky Altaria can shrug off Eruptions as well and recover the damage through Roost, though it must be careful of Hidden Power Rock. Moreover, bulky Water-types such as Slowking and Lanturn take very little from all but Choice Specs Hidden Power Grass and Solar Beam and can cripple it with paralysis in return. Additionally, regardless of variant, priority, such as Kabutops's Aqua Jet and Entei's Extreme Speed, keeps Typhlosion in check throughout the match. In more specific cases, the Choice Scarf set can be managed by defensively oriented Pokemon such as Druddigon and Clefable, which take very little damage from all but the inaccurate Focus Blast. In a similar vein, naturally bulky Pokemon such as Gallade can take any given hit and hit back hard in return. While Choice Specs has a few less conventional counters, it is much more vulnerable to being revenge killed, with Pokemon such as Aerodactyl, Galvantula, and Scolipede being capable of outpacing and knocking it out.</p>
+
+[Unreleased]
+
+<p>Typhlosion receives Flash Fire as a Dream World ability. This will be an excellent addition to Typhlosion's arsenal, as an immunity to Fire-type attacks would grant Typhlosion a method of preserving its HP for Eruption, while further enhancing its Fire-type attacks in the process.</p>

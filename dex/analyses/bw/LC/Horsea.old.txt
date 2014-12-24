@@ -1,0 +1,30 @@
+[Overview]
+
+<p>Horsea is a premier special sweeper on Rain Dance teams. Swift Swim, coupled with base 60 Speed, allows Horsea to reach 32 Speed in the rain. It has the second highest Special Attack among all Pokemon with Swift Swim. Thanks to its high Speed stat, Horsea is a good option to use over Mantyke. Horsea also has higher Defense and Special Attack than Mantyke. Horsea's base 70 Special Attack allows it to reach 17 Special Attack with maximum EV investment and a Modest nature. It has a good base 70 Defense stat, but a poor base 25 Special Defense stat, which means Horsea can only take physical hits effectively.</p>
+
+[SET]
+name: Swift Swim Sweeper
+move 1: Rain Dance
+move 2: Hydro Pump / Surf
+move 3: Ice Beam
+move 4: Hidden Power Grass / Hidden Power Electric
+item: Life Orb / Eviolite
+ability: Swift Swim
+nature: Modest / Timid
+evs: 36 Def / 200 SpA / 76 SpD / 196 Spe
+
+[SET COMMENTS]
+
+<p>In the rain, Horsea reaches up to 32 Speed with a Timid nature, and 30 Speed with Modest. With maximum EV investment and a positive nature, Horsea can reach up to 17 Special Attack, while with a Timid nature, it reaches only 16 Special Attack. Modest is the preferred nature because Horsea needs the extra power to deal with walls such as Ferroseed carrying Eviolite. The first moveslot is the most important. In this slot, Horsea should use Rain Dance; with Rain Dance, Horsea's Speed is doubled and Hydro Pump is boosted. The second moveslot should carry Hydro Pump, Horsea's strongest attack. With a 120 Base Power STAB move boosted by Rain, Horsea can be very threatening to anything that doesn't resist Water-type attacks. Ice Beam is in the third moveslot to hit Pokemon that Hydro Pump can't hit neutrally, such as Dragon- and Grass-types. Finally, Hidden Power Grass is recommended to cover Water-type Pokemon that resist both Hydro Pump and Ice Beam. It can also hit Chinchou for super effective damage, which is a big plus as Chinchou is dangerous in the rain. The given EV spread maxes out Horsea's Special Attack and Speed while giving one more point to its Defense and Special Defense stats. Life Orb is the best option for an item on the set. It gives Horsea the extra attacking power needed to KO and 2KHO certain threats.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>A Timid nature may be considered over a Modest nature if you want Horsea to outspeed Scarf users with 20 Speed. However, a Pokemon with a Speed stat of 20 is very rare. Using Surf over Hydro Pump is a viable option if you prefer to have more reliability in exchange for lower damage. Hidden Power Electric can be used over Hidden Power Grass to hit Mantyke for 4x super effective damage. Other than that, Hidden Power Electric has no benefits over Hidden Power Grass with the moveset Horsea is using. Eviolite may also be considered over Life Orb to give Horsea more bulk. It is not a very good option though, because Horsea in the rain outspeeds the whole metagame, so it won't be taking many hits anyway.</p>
+
+[Other Options]
+
+<p>Horsea is capable of running an Agility set with a moveset of Agility, Hydro Pump, Ice Beam, and Hidden Power Grass. It is virtually the same as the Rain Dance set without the boost to Water-type attacks and with a permanent Speed boost. Chinchou completely outclasses the Agility set though, which is why it isn't very viable. A Dragon Dance set could also be utilized, but Horsea has a relatively small physical movepool, which basically rules that set out.</p>
+
+[Checks and Counters]
+
+<p>Horsea has a few counters that will stop it dead in its tracks. Ferroseed walls the Rain Dance set completely, resisting all of Horsea's attacks barring Ice Beam, which won't do nearly enough damage to 2HKO it. Ferroseed can also hit Horsea for super effective damage with Bullet Seed. Priority also beats Horsea into the ground. Croagunk in particular can do a lot of damage to Horsea with Fake Out + Vacuum Wave due to Horsea's pitiful Special Defense. Choice Scarf Snover can also be detrimental to this set, as it will change the weather from rain to hail and outspeed and KO Horsea with Giga Drain.</p>

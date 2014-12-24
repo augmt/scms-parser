@@ -1,0 +1,43 @@
+[Overview]
+
+<p>Boasting three signature moves and two base stats over 100, Vespiquen stands out among the herd of forgettable flying bugs in UU. With Pressure, Roost, and more bulk than Spiritomb, Vespiquen would seem to be a solid defensive Pokemon. Unfortunately, Bug / Flying is a terrible defensive typing with a crippling 4x Rock weakness, and Vespiquen's low Speed makes it easy for opponents to take advantage of this. Furthermore, she must compete directly for a team slot with Articuno and Moltres, both of whom have similar bulk and much higher Speed.</p>
+
+<p>Despite these flaws, Vespiquen can still be a successful counter to some powerful UU threats. Her signature move, Attack Order, is a great STAB attack that hits several common frail sweepers hard. Furthermore, her resistances to Ground, Fighting, Bug, and Grass give her many opportunities to safely switch in and start stalling.</p>
+
+[SET]
+name: Bulky Bee
+move 1: Attack Order
+move 2: Toxic
+move 3: Substitute
+move 4: Roost
+item: Leftovers
+nature: Careful
+evs: 248 HP / 8 Def / 252 SpD
+
+[SET COMMENTS]
+
+<p>This set is the best way to take advantage of Vespiquen's above-average bulk, Pressure ability, and reliable recovery. Vespiquen can switch in on a resisted Choice attack such as Earthquake, Close Combat, or Leaf Storm, forcing the opponent to switch out and giving Vespiquen the opportunity to set up a Substitute. Behind a Substitute, Vespiquen is protected from status and super effective attacks such as Stone Edge and Fire Blast, which she is able to stall out of PP by repeatedly using Substitute to abuse Pressure. If the opposing Pokemon lacks such dangerous moves, Vespiquen can hit it with Toxic and proceed to stall it out with Substitute and Roost. Slow, bulky Water-types that Vespiquen outspeeds, such as Slowbro and Quagsire, are easily defeated with this strategy if they lack Rest. Finally, Vespiquen can use her signature move, Attack Order, to counter certain frail special sweepers. Life Orb Alakazam and Choice Specs Sceptile are both OHKOed, and neither one can 2HKO Vespiquen with any of their standard attacks.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given EVs maximize Vespiquen's special bulk, allowing her to repeatedly switch in on special attackers who lack powerful super effective moves. HP is not maximized to prevent Vespiquen from fainting on the second switch into Stealth Rock, although Rapid Spin support is highly recommended when using Vespiquen as it will make keeping her healthy significantly easier. The remaining EVs are placed in Defense to slightly reduce the damage taken from resisted physical attacks Vespiquen may switch into.</p>
+
+<p>Poison- and Steel-types are immune to Toxic and resist Attack Order, meaning they can just about switch into this set for free. Aggron, Toxicroak, and Drapion will all gladly come in on any move and set up while Vespiquen is forced to switch out. To discourage this, Vespiquen could run Hidden Power Ground over one of her other moves. Even with a hindering nature and no EV investment, Aggron will be easily 2HKOed and Toxicroak and Drapion are both 3HKOed, which is enough to limit a sweep and prevent further set-up if Vespiquen hits them as they switch in.</p>
+
+<p>An easier solution is to provide Vespiquen with a Ground-type teammate who can smash Poison- and Steel-types with STAB Earthquake. Donphan can check Aggron, Toxicroak, and Drapion very well, and also provides Rapid Spin support to prevent Vespiquen from losing half of her HP each time she switches in. Vespiquen and Donphan also have good defensive synergy, as Donphan can tank Flare Blitz and Stone Edge all day, while Vespiquen can easily switch in on Leaf Storm aimed at Donphan. Hitmontop is another reliable spinning partner for Vespiquen. He resists Rock, has solid physical defense alongside Intimidate, and can hit Steel-types hard with Close Combat. He also appreciates Vespiquen's ability to take on Psychic-types such as Alakazam and Slowbro.</p>
+
+<p>Though not a necessity, having Toxic Spikes support would allow Vespiquen to drop Toxic from her moveset, making room for another move such as Hidden Power Ground or Defend Order. Nidoqueen and Drapion are both solid choices to provide this, but Nidoqueen has the bonus of being able to hit many of Vespiquen's counters hard with Earth Power or Ice Beam. For offensive teams, Vespiquen's biggest contribution will be eliminating Slowbro or Quagsire, so Pokemon who appreciate their removal are good partners. Kabutops and Blaziken can easily power through a team once the opposing bulky Water is defeated, making them both excellent partners.</p>
+
+[Other Options]
+
+<p>Vespiquen's defensive stats are equal, so a physically-defensive set is possible, but it is generally less effective. The vast majority of physical attackers carry a powerful super effective Rock-, Ice-, Flying-, or Fire-type move that would prevent Vespiquen from switching in unless the opponent was locked into a resisted move. The specially-defensive set can survive nearly any resisted physical attack anyway, and allows Vespiquen to switch in on non-Choiced special attackers such as Alakazam, making it a vastly superior option.</p>
+
+<p>Defend Order raises both of Vespiquen's defensive stats, making her Substitutes difficult to break without a super effective move and thus greatly increasing her stalling potential. It is difficult to find a moveslot for it or the time to use it during battle, though. Heal Order is a nice instant recovery move, but Vespiquen has access to Roost, which is exactly the same except it handily removes Vespiquen's nasty Flying-type weaknesses when facing slower foes like Quagsire and Steelix. Destiny Bond is difficult to use with Vespiquen's low Speed, but it lets you play some mindgames with your opponent and can possibly get a surprise KO on a Pokemon like Steelix.</p>
+
+<p>If you're looking for alternate attacking moves, Aerial Ace and Hidden Power Flying get a STAB boost and make Vespiquen an even better check against Choiced Fighting-types. Vespiquen can use Signal Beam instead of Attack Order if she's running a Hidden Power, as that allows her to switch to a Calm nature, increasing the strength of Hidden Power, but Attack Order is more powerful and many of Vespiquen's targets are frailer on the physical side. X-Scissor and U-turn are other good physical STAB moves, but U-turn's switching effect doesn't really mesh with what Vespiquen is trying to accomplish, and X-Scissor is simply outclassed by Attack Order. Outside of her STAB attacks and Hidden Power, Vespiquen's attacking movepool is truly abysmal, so don't even think about trying an offensive set with her unless you enjoy using Sludge Bomb or Return as "coverage" moves.</p>
+
+[Checks and Counters]
+
+<p>Stealth Rock is a nightmare for Vespiquen, stripping off half of her HP every time she switches in. With her low Speed, she is unlikely to get the chance to recover that damage off with Roost before being KOed. If Stealth Rock is on the field, Vespiquen won't be walling anything except Choiced attackers locked into a 4x resisted move.</p>
+
+<p>Hazardous stones aside, anything immune to Toxic and not weak to Attack Order generally has little to fear from Vespiquen. Unless she is packing Hidden Power Ground, Aggron, Drapion, and Toxicroak can all switch in and set up for free as Vespiquen is forced to switch out. Hariyama and Swellow both resist Attack Order and love switching into Toxic to activate Guts. In general, the simplest way to defeat Vespiquen is to take advantage of her low Speed. Hit her with Toxic before she gets a Substitute up, and she is instantly turned into dead weight. Stone Edge and other powerful super effective physical attacks have the same effect, only much more direct.</p>

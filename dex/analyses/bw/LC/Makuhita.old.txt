@@ -1,0 +1,50 @@
+[Overview]
+
+<p>Outclassed somewhat by more dangerous Fighting-types such as Scraggy, Makuhita will rarely be a popular choice for most Little Cup teams. It is reduced to being a bench warmer most of the time, since it cannot pose a major threat to the opponent without significant support. Still, Makuhita has access to Belly Drum, a move that no other Fighting-type has, making it quite unique. Belly Drum quadruples Makuhita's Attack stat, giving it the chance to pull off a sweep. This is easier said than done, however, as Makuhita's low Speed and flimsy defenses make it vulnerable to opposing priority. Still, Makuhita can be a pretty useful Pokemon if given the right support, and should always be given a thought when looking for a Fighting-type to use on your team.</p>
+
+[SET]
+name: Support
+move 1: Force Palm / Toxic
+move 2: Whirlwind
+move 3: Knock Off
+move 4: Bullet Punch / Brick Break
+item: Eviolite
+ability: Thick Fat
+nature: Careful
+evs: 180 HP / 196 Atk / 36 Def / 36 SpD
+
+[SET COMMENTS]
+
+<p>With Makuhita's feeble defenses and mediocre Speed, it isn't muscular enough to actually be a threat to anything without assistance, meaning it can just run a support set for helping a more potent teammate. STAB Force Palm does a decent amount of damage to most threats, and has a nifty chance of paralysis that can cripple the opponent. However, Toxic can serve as a replacement to Force Palm if the chance of paralysis which the former offers is not needed, chipping away at the opponent's health and crippling walls. Whirlwind enhances Makuhita's utility, foiling the attempts of sweepers to set up while also shuffling the opponent's team and stacking up residual damage. Knock Off is a great move to have considering the ubiquity of Eviolite, and thus makes a teammate's sweep easier. There are two options for the last slot. Bullet Punch provides useful priority and can pick off weakened opponents, but Brick Break provides a powerful STAB move that also shatters any screens in play.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread ensures that Makuhita can withstand most attacks and dish out damage in return. Thick Fat grants Makuhita useful resistances to Fire- and Ice-type moves, allowing it to take on threats such as Houndour and Snover more easily. Since Makuhita functions best under Trick Room, a bulky Pokemon that can set up the field effect partners very well with it. Bronzor comes to mind immediately, as it can set up Trick Room with ease thanks to its great bulk, while also dealing with the Psychic- and Fighting-type threats which trouble Makuhita.</p>
+
+[SET]
+name: Trick Room Sweeper
+move 1: Belly Drum
+move 2: Close Combat / Cross Chop
+move 3: Bullet Punch
+move 4: Ice Punch
+item: Eviolite / Oran Berry
+ability: Guts
+nature: Brave
+evs: 180 HP / 196 Atk / 36 Def
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>Though Makuhita can't sweep by itself without support, it does have access to Belly Drum, which sends its Attack stat skyrocketing from a measly 16 to a jaw-dropping 64! This kind of power is more than enough for Makuhita to sweep. Close Combat is a powerful STAB move that will destroy anything that doesn't resist it, and is Makuhita's most powerful attack. Cross Chop can be used if the drop in defenses resulting from each use of Close Combat is an issue, but bear in mind that it is inaccurate. Bullet Punch gives Makuhita the ability to muscle through faster threats once it has set up, dealing massive damage if not OHKOing most threats. Ice Punch rounds out Makuhita's coverage, eliminating Flying-types with ease.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread is almost identical to the first set, with the only differences being the removal of the Speed EVs and usage of a 0 Speed IV to ensure that Makuhita outruns most other threats when Trick Room is in play. Guts ensures that a burn won't cut short Makuhita's sweep, and is thus preferred over Thick Fat. There are two options for an item. While Eviolite will give Makuhita the bulk to take priority attacks, Oran Berry will give it a form of recovery, and also activates when Belly Drum is used, forming a potent combo with the move. Again, Bronzor is an excellent partner for Makuhita, resisting all of Makuhita's weaknesses and setting up Trick Room.</p>
+
+[Other Options]
+
+<p>Makuhita's small movepool doesn't give it too many other options to work with. Fake Out can be used to render the opponent useless for a turn, and can be used over Bullet Punch or even with it, but Makuhita has trouble finding a moveslot for both. Counter can be used to net a surprise KO on physical attackers, but Makuhita just doesn't have the physical bulk to put it to good use.</p>
+
+[Checks and Counters]
+
+<p>Makuhita's low Speed and poor defenses make it very easy to check. Flying-types such as Taillow and Rufflet make an easy meal of Makuhita, OHKOing with their STAB attacks. The same goes for Psychic-types such as Abra, though if Trick Room is in effect, these checks will have to take at least one hit before going for the KO.</p>

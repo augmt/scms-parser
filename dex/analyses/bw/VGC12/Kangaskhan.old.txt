@@ -1,0 +1,32 @@
+[Overview]
+
+<p>Kangaskhan's main selling point is its ability, Scrappy, which allows its Normal- and Fighting-type attacks to hit Ghost-type Pokemon, thus making Kangaskhan the only Pokemon that can use Fake Out on a Ghost-type Pokemon. In addition to this, Scrappy reduces the number of Pokemon that can safely switch in to take Kangaskhan's STAB moves, making it a surprisingly good offensive threat. While its Normal-typing is far from being a good defensive typing, Kangaskhan has a decent amount of bulk to allow it to take a hit or two. If your team is looking for a Fake Out user and has some troubles with Ghost-type Pokemon, Kangaskhan might be the Pokemon for the job.</p>
+
+[SET]
+name: Fake Out Support
+move 1: Fake Out
+move 2: Return / Double-Edge
+move 3: Low Kick
+move 4: Protect / Sucker Punch / Helping Hand
+item: Chople Berry / Normal Gem
+ability: Scrappy
+nature: Adamant
+evs: 252 HP / 228 Atk / 28 SpD
+
+[SET COMMENTS]
+
+<p>This set makes full use of Kangaskhan's Scrappy ability. Fake Out causes any target, except for those with Inner Focus, to flinch in fear for the first turn. Return provides Kangaskhan with a powerful STAB move. However, Double-Edge can be used over it, trading survivability for extra power. Low Kick provides coverage alongside Kangaskhan's STAB move, hitting most Rock- and Steel-type Pokemon super effectively. Between Return and Low Kick, Kangaskhan can hit everything except for Shedinja for neutral damage. Kangaskhan's final move is up to one's preference. Protect allows Kangaskhan to block incoming attacks, which is very valuable in VGC. Sucker Punch provides Kangaskhan with another priority attack, letting it pick off weakened opponents, or strike first against faster opponents. Lastly, Helping Hand allows Kangaskhan to boost the power of its ally's attacks, providing additional team support.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>28 Special Defense EVs in addition to 252 HP EVs guarantees that Kangaskhan will survive a Life Orb-boosted Draco Meteor from Latios. The remainder of the EVs are then placed into Attack to provide some strength to Kangaskhan's moves. Holding a Chople Berry stops Fighting-type Pokemon, such as Terrakion, Gallade, and Hitmontop, from OHKOing Kangaskhan with Close Combat or other Fighting-type attacks. A Normal Gem can be used instead of a Chople Berry, allowing Kangaskhan to dish out respectable damage with a STAB attack. An alternate EV spread of 4 HP / 252 Atk / 252 Spe can be used with a Life Orb, providing Kangaskhan with a more offensively-oriented role on the team.</p>
+
+<p>Kangaskhan works great with Pokemon such as Tornadus and Volcarona that use set up moves, such as Tailwind and Quiver Dance. Its ability to flinch Ghost-type Pokemon with Fake Out lets Kangaskhan play a big role in stopping them from setting up Trick Room. To further prevent Trick Room from being set up, Dark- and Ghost-type Pokemon make good allies, hitting many of the common Trick Room users super effectively. If Kangaskhan is running Helping Hand, Choice Scarf users, such as Abomasnow and Chandelure, can be great partners as they outrun most Pokemon and their spread moves can be boosted by Kangaskhan's Helping Hand.</p>
+
+[Other Options]
+
+<p>It is possible for Kangaskhan to run a Level 1 Endeavor set, especially since Scrappy allows Endeavor to hit Ghost-type Pokemon. However, this will require Trick Room support and a way to deal with sandstorm and hail to be effective. Aside from this, Kangaskhan has access to Circle Throw, which allows it to phaze out Trick Room users while doing some of damage. Circle Throw also has the added advantage of being able to phaze the target before it uses Trick Room, as Trick Room has lower priority. Earthquake gives Kangaskhan a spread move that also hits just about everything for neutral damage when used in tandem with Return. Lastly, Disable provides an interesting support option, allowing Kangaskhan to shut down an opponent's last used move.</p>
+
+[Checks and Counters]
+
+<p>Kangaskhan is only weak to Fighting-type attacks, but does not have any resistances. Thus, the easiest way to handle it is to hit it hard with powerful STAB attacks. Although Return and Low Kick will hit everything for at least neutral damage, Metagross and Scizor can take either attack fairly easily and hit back with Meteor Mash and Bug Bite respectively. Pokemon with Intimidate, such as Salamence and Hitmontop, can lower Kangaskhan's Attack, making it easier to handle, but they should be aware that Kangaskhan might still be able to pull off a supporting role if it is running Helping Hand.</p>

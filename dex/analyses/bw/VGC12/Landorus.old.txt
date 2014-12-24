@@ -1,0 +1,53 @@
+[Overview]
+
+<p>Landorus has two things going for it: a strong STAB Earthquake, and a good defensive typing. While it may seem outclassed by Garchomp, with its better secondary STAB typing and superior Speed, Landorus distinguishes itself from Garchomp with access to Explosion, lack of a weakness to Dragon-type attacks, immunity to Ground-type attacks, and Sand Force, which can make its attacks ridiculously powerful. Similar to Garchomp, though, Landorus has a 4x weakness to Ice-type attacks, which makes it susceptible to a multitude of common attackers. While it has its downsides, Landorus's huge power, excellent speed, and spread coverage makes it a powerful attacker in its own right.</p>
+
+[SET]
+name: Physical Attacker
+move 1: Earthquake
+move 2: Rock Slide
+move 3: Explosion
+move 4: Protect
+item: Yache Berry / Normal Gem
+nature: Adamant / Jolly
+ability: Sand Force
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Landorus's Speed and coverage make it a good check to most Rock- and Fighting-type attackers. Earthquake and Rock Slide have amazing type coverage, and with a Sand Force boost, Landorus hits incredibly hard with Earthquake, OHKOing or 2HKOing literally anything that doesn't resist it. Explosion is quite powerful and does good damage to Pokemon such as Abomasnow that Landorus can't normally beat. Explosion also has good synergy with Earthquake, as Earthquake does huge damage to the Rock- and Steel-types that resist Explosion. Protect is a staple move in VGC play.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>An Adamant nature boosts Landorus's Attack. While a Jolly nature allows Landorus to outspeed a few more Pokemon, its awkward base 101 Speed stat make the Speed increase just about useless. A Yache Berry lets Landorus take Blizzard and Ice Punch or an Ice Shard, while Normal Gem gives Explosion an extra boost to KO reasonably bulky stuff such as Abomasnow. Jolly Landorus outspeeds base 100s, but Adamant hits noticeably harder. Because Landorus still loses to a number of faster Pokemon such as Weavile and Latios with Jolly, an Adamant nature with less Speed investment is usable, giving Landorus greater power and bulk in exchange for some Speed. Landorus really loves Musharna as a partner; it can use Thunder Wave to slow down faster opponents and Helping Hand to boost Landorus's spread attacks, while being immune to Earthquake and Explosion due to Telepathy. Cresselia is just about as useful, with greater bulk but without an immunity to Explosion. Gengar is another good partner for that same reason and an immunity to Explosion. It can also use Icy Wind to slow down opponents, all while efficiently checking Latios, as long as Gengar holds a Focus Sash. Good teammates for Landorus are immune to Earthquake and preferably Explosion, and can complement Earthquake's coverage by hitting Flying-types and Levitate users. Pokemon that can provide Speed support for Landorus through Tailwind or Thunder Wave are also useful, since Landorus isn't extremely fast. Aerodactyl is a good example, with STAB Rock Slide to hit Flying-types and Tailwind to boost Speed.</p>
+
+[SET]
+name: Special Attacker
+move 1: Earth Power
+move 2: Hidden Power Ice
+move 3: Psychic / Grass Knot
+move 4: Protect
+item: Yache Berry / Life Orb
+ability: Sand Force
+nature: Modest
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>While often overlooked in favor of its higher Attack stat, Landorus does possess a base 115 Special Attack stat, and can run an effective special-based set. This enables Landorus to surprise its normal counters and threaten many of the most common Pokemon in the tier. Earth Power provides a reliable STAB move, and unlike Earthquake, does not hit Landorus's ally, allowing any Pokemon to be run alongside it. Hidden Power Ice gives Landorus a way to hit Zapdos and Dragon-type Pokemon, who otherwise wall this set, for super effective damage. The last attacking move comes down to what the team needs. When using Psychic, this set is able to counter Hitmontop, one of the most common Pokemon in the metagame, with ease. Psychic 2HKOes Hitmontop, while Intimidate doesn't bother Landorus at all. On the other hand, Grass Knot allows Landorus to damage Pokemon such as Swampert, Jellicent, and Gastrodon, who can normally survive Landorus's assaults. Protect is generally recognized as a necessary move for any VGC Pokemon, and for good reason. This is because with Protect, Landorus can stall out the effects of Trick Room, wait for its partner to take out a threat, or let a weather condition whittle down its opponent's HP.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Because of Landorus's gaping 4x weakness to Ice, a Yache Berry must be used to allow it to survive one Ice-type attack. However, a Yache Berry may already be in use elsewhere, however, in which case a Life Orb is an acceptable alternative for the power boost provided. A positive Speed nature is wasted on Landorus, as it outspeeds nothing important with its peculiar base 101 Speed stat, so a Modest nature is used to raise Landorus's Special Attack.</p>
+
+<p>Landorus greatly appreciates sandstorm support, weakening the omnipresent Blizzard and strengthening Earth Power, thanks to Landorus's ability Sand Force. Because of this, Tyranitar makes for a great partner, bringing permanent sand and the ability to hit the Special Defense beast Cresselia with Crunch. Any Pokemon who can take out the Ice-types that threaten Landorus would be a greatly appreciated partner, especially to defeat the deadly Abomasnow. While Landorus can run Rock Slide on the physical side to take care of these Pokemon, hitting with its unboosted Attack stat makes this method ineffective. Water-types are a constant bug to Landorus, so Electric-type Pokemon, such as Zapdos, make for great teammates. Zapdos is able to utilize STAB Discharge, thanks to Landorus's Ground-typing, while Landorus can use Earth Power to wreck the Rock-types who want to ruin Zapdos's fun.</p>
+
+<p>Because of Landorus's inability to hit Ice-types, Focus Blast is an option. Whilst its 70% accuracy is less than desirable, it does give a way to take out the Ice-types who make Landorus's life miserable. Hidden Power Flying provides a secondary STAB and hits harder than Psychic, though the drop in power towards Dragon-types and other Landorus is noticeable. Hidden Power Fire is a decent choice if one is overly worried about Scizor or Abomasnow, but the sacrifice in coverage makes this a less attractive option.</p>
+
+[Other Options]
+
+<p>A Choice Scarf set with an Adamant nature provides an unexpected check to a ton of faster Pokemon, including would-be checks such as Weavile. U-turn cuts down on prediction, especially against Trick Room teams, and hits Abomasnow hard while escaping Blizzard. Imprison can stop Protect and Earthquake, which can be quite handy, and Sandstorm can be useful if your Tyranitar or Hippowdon is KOed, stopping rain and sun teams while activating Sand Force. Bulldoze acts as a pseudo-Icy Wind, and still hits reasonably hard, but it's somewhat difficult to use effectively since so many Pokemon are immune to it. Hammer Arm OHKOes non-Chople Berry Tyranitar, but has overlapping coverage with Earthquake and lowers Landorus's speed.</p>
+
+[Checks and Counters]
+
+<p>Ice-types, especially Abomasnow, are Landorus's worst enemy, easily OHKOing with their STAB attacks unless Landorus has a Yache Berry, although Rock Slide will do a number on any Ice-type. Bulky Water-types, and rain teams in general, can cause problems for Landorus as well, although Grass Knot from a special set will hurt. Breloom takes little from Earthquake or Rock Slide, and can use Spore to incapacitate Landorus, but it is easily KOed by Explosion or Psychic. Latios outspeeds and KOes Landorus, while Latias takes little from most attacks and can do good damage in return. Thundurus and Zapdos can severely damage or KO Landorus with Hidden Power Ice, but are damaged in return by Rock Slide. Rotom-W easily OHKOes with Hydro Pump, but is KOed by a Normal Gem or Helping Hand Explosion.</p>

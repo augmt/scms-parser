@@ -1,0 +1,60 @@
+Overview
+########
+
+Whimsicott is one of the few beneficiaries of the useful Prankster ability. It differentiates itself from fellow recipients by being the only one of them to learn Leech Seed, which it can use to great effect. Prankster Encore is another useful tool that punishes enemy attempts to heal or set up on Whimsicott. Typing-wise, Whimsicott gained a new Fairy typing, which along with its original Grass typing allows it to check a key offensive threat in Zekrom. Unfortunately, Whimsicott has hopeless special bulk and is easily overwhelmed even by more powerful physical hits. Also, if you do not provide it with entry hazard support, stalling out its PP is also an option to render it incapable of doing any real damage. Overall, Whimsicott is a Pokemon that possesses glaring weaknesses but also highly unique qualities that establish a distinct niche for it.
+
+Prankster
+########
+name: Prankster
+move 1: Leech Seed
+move 2: Substitute
+move 3: Encore
+move 4: Stun Spore / Taunt
+ability: Prankster
+item: Leftovers
+evs: 252 HP / 252 Def / 4 SpD
+nature: Bold
+
+Moves
+========
+
+Leech Seed is Whimsicott's only form of damage output. Getting priority from Prankster, it can rack up a lot of residual damage while keeping Whimsicott healthy. Prankster Substitute helps rack up Leech Seed damage; the cost of making the Substitute is compensated by the recovery from Leech Seed and Leftovers. Encore is a very useful tool when augmented by Prankster, letting Whimsicott lock opponents into non-attacking moves that can be capitalized on by switching into relevant teammates. Stun Spore has shaky accuracy, but this is mitigated somewhat as Whimsicott will often find opportunities to use the move from behind the safety of a Substitute. Alternatively, Taunt shuts down many defensive Pokemon such as Blissey, Giratina, and Lugia, although one must watch out for Aeroblast from the latter. A couple of other options are worth mentioning for use in the last moveslot. Memento is a viable choice on offensive teams, allowing Whimsicott to weaken the opponent to ease setup for a teammate, albeit at its own demise. Knock Off is also worth a mention as removing an opponent's item is always useful; it also has a chance to 3HKO Mega Gengar.
+
+Set Details
+========
+
+252 HP and Defense EVs with a Bold nature maximize Whimsicott's physical bulk, which goes a long way in helping it check and switch into threats such as Zekrom and Ground-types. Leftovers provides passive healing; in tandem with Leech Seed, it is integral in allowing Whimsicott to make "free" Substitutes.
+
+Usage Tips
+========
+
+Realize that Whimsicott is frail and folds quickly to special attacks or repeated physical hits. Bring it in via double switching or on resisted physical hits from Pokemon like Groudon or Zekrom and proceed to use Leech Seed, then Substitute, perpetuating the SubSeed cycle. Ensure that entry hazards, minimally Stealth Rock, are up before doing this, as the opponent can otherwise switch Pokemon in and out of Whimsicott to drain its PP. Be proactive in seeking out opportunities by switching in on non-attacking moves such as Recover, Substitute, and Defog, and using Encore to lock opponents into these moves. You can then afford to use Leech Seed freely, or switch into a teammate that can take advantage of the situation. Encore is also a good way to hinder setup sweepers like Calm Mind Arceus formes, but you have to make smart switch-ins or you risk Whimsicott getting crippled or KOed by an attacking move. If you predict a Grass-type switch-in like Ferrothorn or Grass Arceus, use Taunt instead of Leech Seed. For that matter, liberally use Taunt on defensive Pokemon attempting to heal themselves, use a status move, etc. Speaking of which, be mindful of status moves, notably Toxic, on Pokemon such as Landorus-T that might catch you off guard. That being said, do not be overly predictable in using Taunt. Opponents will likely catch on soon enough when you are attempting to Taunt their wall/tank and switch to a Pokemon that poses an immediate offensive threat to Whimsicott. In these cases, throwing out a Leech Seed or double switching to an appropriate teammate is the wiser move.
+
+Team Options
+========
+
+In general, powerful wallbreakers like Choice Specs Palkia and Life Orb Yveltal appreciate Whimsicott checking Zekrom for them and giving their user's team an offensive backbone. Note that Ferrothorn largely outclasses Whimsicott if it is used with Kyogre, as it checks many of the same threats, such as Zekrom and most Calm Mind Arceus formes. Ho-Oh is another great teammate as it massacres the majority of Whimsicott's checks and appreciates it checking Zekrom. Klefki provides Spikes support that works great with Whimsicott's ability to force many switches; it also helps check Xerneas and Yveltal. Having other Taunt users on your team to prevent attempts to Defog is recommended. Yveltal can do this to Scizor, as can Mega Mewtwo Y to support Arceus formes. Bulky Mega Mewtwo Y is also a good general check to special attackers such as Calm Mind Arceus formes and Palkia. Giratina-O and physically defensive Yveltal can check Extreme Killer Arceus, as well as pesky Steel-types such as Scizor and Genesect for Whimsicott. On offensive teams, Volt Switch and U-turn users can bring Whimsicott in safely; Choice Scarf Zekrom is a great offensive Volt Switch user, while Scizor doubles as a Xerneas check but compounds the team's Ho-Oh weakness.
+
+Other Options
+########
+
+Whimsicott has several other nifty moves that find themselves on the cusp of viability. U-turn allows it to pivot out of unfavorable matchups, notably keeping it from being Mega Gengar bait. Moonblast is Whimsicott's strongest STAB move, 2HKOing Yveltal and Zekrom. Tailwind doubles Whimsicott and its teammates' Speed for four turns and is a usable choice on offensive teams. Toxic can cripple defensive Pokemon with access to recovery moves, although Taunt similarly cripples them by preventing them from healing. Grass Whistle puts the target to sleep and gets +1 priority, but a terrible 55% accuracy means it isn't much more than an elevated gimmick.
+
+Checks & Counters
+########
+
+Many Pokemon check Whimsicott one-on-one, but not so much if it has managed to hit them with Leech Seed on the switch-in, which is reasonably easy to do with a basic level of prediction. What is listed here are then the Pokemon that beat it regardless.
+
+**Grass-types**: These are immune to Leech Seed, meaning Whimsicott cannot hurt them at all. Ferrothorn, Amoonguss, Grass Arceus, and Shaymin-S have their way with Whimsicott.
+
+**Ho-Oh**: Ho-Oh can switch in and out of Whimsicott unscathed, provided Stealth Rock is not up, as Regenerator allows it to heal off the damage incurred from Leech Seed.
+
+**STAB U-turn**: Scizor and Genesect can use a powerful STAB U-turn to pivot out of Whimsicott, breaking its Substitute and gaining momentum against it, or otherwise dealing severe damage to it.
+
+**Extreme Speed**: Extreme Speed gets +2 priority and will thus hit Whimsicott before it can react. Extreme Killer Arceus can set up on and overwhelm Whimsicott with Swords Dance and Extreme Speed.
+
+**Special Attackers**: Whimsicott loses to many of the tier's special attackers, even if it hits them with Leech Seed on the switch. Yveltal can break Whimsicott's Substitutes with Oblivion Wing while keeping itself healthy. Calm Mind Arceus formes force Whimsicott to continually  predict between Taunt and Substitute. Even an unboosted neutral Judgment from a 0 SpA Arceus forme does 60-71% to Whimsicott, so it's pretty much fighting a losing battle if it stays in.
+
+**Cloyster**: Icicle Spear breaks Whimsicott's Substitute on the second hit and has a 62.5% chance of KOing it from full health.
+
+**Magic Bounce**: Espeon, Xatu, and Mega Absol are all rarely used in Ubers, but they render Whimsicott helpless by reflecting its support moves.

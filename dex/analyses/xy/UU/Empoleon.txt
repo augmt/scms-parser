@@ -1,0 +1,56 @@
+Overview
+########
+
+Empoleon returns for XY UU with a whole new niche: Defog, which allows it to easily clear entry hazards from the field. It has good defensive stats, a great defensive typing, a good movepool, and a resistance to Stealth Rock. In addition, it retains its capability from last generation to reliably set up Stealth Rock multiple times throughout the match. It can even use both Stealth Rock and Defog on the same set. It also has a decent Special Attack stat so it isn't complete setup bait. Its typing grants it a whopping ten resistances, including very useful ones to Flying, Bug, Rock, Water, Ice, Dragon, and more; its typing also gives it an immunity to Poison, allowing it to clear Toxic Spikes without fear of being poisoned.
+
+Unfortunately, Empoleon has its flaws. Despite being a bulky Water-type, it can't handle powerful Fire-types due to its disappointing Defense stat and weakness to secondary STAB or coverage moves. Also, its Speed is relatively disappointing, leaving it outsped by most common offensive threats. Finally, while its defensive typing offers many useful resistances, it gives it weaknesses to Electric-, Ground-, and Fighting-type moves, which are common in the metagame. Despite these flaws, Empoleon is still an extremely effective defensive entry hazard controller in UU.
+
+Specially Defensive
+########
+name: Specially Defensive
+move 1: Stealth Rock
+move 2: Defog / Toxic / Protect
+move 3: Scald
+move 4: Roar
+ability: Torrent
+item: Leftovers
+evs: 252 HP / 4 SpA / 252 SpD
+nature: Calm
+
+Moves
+========
+
+Stealth Rock deals damage to Pokemon when they switch in, making it significantly harder for Fire- and Flying-types to switch in on Empoleon. Defog is useful for clearing away entry hazards for your team. Keep in mind, however, that it also clears entry hazards that you have set up, so you will need to set up Stealth Rock again. Toxic is useful for dealing large amounts of damage to opponents, crippling walls, and putting sweepers on a timer. Protect can be used to stall for Leftovers recovery and burn damage from Scald. Scald is a reliable STAB move that has a chance to burn the opponent, crippling physical attackers and dealing chip damage to opponents. Roar allows you to phaze away boosts from setup sweepers and force the opponent to take entry hazard damage.
+
+Set Details
+========
+
+The given EVs and a Calm nature are used to maximize Special Defense and HP, utilizing Empoleon's good natural bulk. Leftovers aids in recovery, as well as stalling for burn and Toxic damage. It also allows you to shrug off damage from entry hazards more easily, which is useful, as Empoleon should be used to clear them away. The EVs can be changed around a bit to fit the needs of the team Empoleon is on. For example, if you really need a bit more physical bulk, you can put some EVs in Defense; while if you're using Empoleon on a slightly more offensive team and can't afford to lose much momentum, you can choose to run more Special Attack EVs.
+
+Usage Tips
+========
+
+Empoleon should use its good bulk to switch in and reliably clear entry hazards or set up Stealth Rock multiple times throughout the match. Its plethora of resistances assists it in this goal, as it can easily come in on most attacks; its resistances include Rock (as a matter of fact, Empoleon is the only Defogger with a Stealth Rock resistance), Ice, Flying, Dragon, and Fairy. Use Roar to clear away boosts from opposing sweepers and rack up damage so that your teammates have less trouble sweeping. Roar is also very useful in disrupting Wish passing from Pokemon such as Florges, Aromatisse, Blissey, Umbreon, and Alomomola. It also works through Protect, making it harder for them to recover and aiding in wearing them down.
+
+Team Options
+=========
+
+Wish passers, especially Florges and Aromatisse, make for good teammates, as they resist Fighting-type moves and can heal Empoleon, which is worn down relatively easily. Florges and Aromatisse, along with other special walls such as Blissey and Umbreon, can take on Electric-types that trouble Empoleon. Also, because Empoleon forces a fair number of switches, Pokemon that can capitalize on that make for good teammates. For example, Florges can't touch Empoleon, so you could double switch to Hydreigon. Pokemon that appreciate entry hazard removal, especially Fire- and Flying-types, enjoy the Defog support Empoleon provides. Stealth Rock support also makes it easier for Pokemon such as Krookodile, Mienshao, and Hydreigon to wallbreak. Finally, Pokemon that appreciate Empoleon's ability to switch into their weaknesses, such as Rotom-H, Noivern, and Kyurem; the first having particularly good synergy with Empoleon.
+
+Other Options
+========
+
+An Assault Vest seems like a good idea considering Empoleon's decent bulk and Special Attack, but it just falls a bit short in offensive presence, cannot take physical hits well, and has no recovery whatsoever. A bulky Choice Specs set looks good too, but it is simply outclassed by other Pokemon and, again, falls short in sheer damage output. A Swords Dance set with Defiant could be used to pressure Defoggers and potentially sweep late-game, especially considering Empoleon's access to Aqua Jet, but its base 86 Attack is disappointing and it has abysmal Speed for a sweeper, forcing it to use Aqua Jet often. Empoleon's classic Agility + SubPetaya set seems like it could be an effective sweeper, increasing its Special Attack and Speed, but it lacks raw power and Speed, and is revenge killed by many popular Choice Scarf users. Finally, an Agility set with Life Orb and room for a third attack seems decent, but it has even less power than the aforementioned Agility + SubPetaya set and wears Empoleon down rather quickly.
+
+Checks and Counters
+========
+
+**Electric-types**: Electric-types such as Rotom-C, Raikou, and Mega Ampharos threaten Empoleon with their powerful STAB moves. Mega Ampharos, in particular, can take anything Empoleon can throw at it and 2HKO with Thunderbolt. It hardly fears the rare Ice Beam.
+
+**Fighting-types**: Most Fighting-types can revenge kill Empoleon with their STAB moves. Toxicroak, though it does not reliably OHKO Empoleon with Drain Punch, walls it because of Dry Skin, forcing a switch where it can freely set up Swords Dance.
+
+**Physical Attackers**: Hard-hitting physical attackers such as Mienshao, Darmanitan, and Krookodile have little trouble dispatching Empoleon because of its low Defense. Even some Fire-types, though they cannot switch in freely on Empoleon, can all OHKO or severely damage Empoleon with their STAB moves.
+
+**Blissey**: Blissey can easily stall out Empoleon with a combination of Seismic Toss and Soft-Boiled and does not fear status thanks to Natural Cure.
+
+**Grass-types**: Grass-types have nothing to fear from Empoleon except the rare Ice Beam. Only Shaymin and Celebi are affected by Toxic, and they can shrug it off with Natural Cure.

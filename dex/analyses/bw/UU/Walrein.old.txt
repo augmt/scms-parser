@@ -1,0 +1,30 @@
+[Overview]
+
+<p>Walrein's niche in UU stems from its decent bulk and access to great passive recovery in hail via Ice Body. With support from Snow Warning, Walrein restores 1/8 of its health every turn and can use Protect to gain back 1/4 of its health before the opposing Pokemon can even land a hit. Walrein's good bulk allows it to force out weak attackers, giving it plenty of chances to set up a Substitute and then easily recover the HP lost. Its Special Attack is decent enough to be useful, and its STAB Blizzard deals a fair amount of damage. However, its Water / Ice typing leaves it vulnerable to Electric- and Fighting-type attacks, both of which are common in UU. It also has a weakness to all forms of entry hazards, especially Stealth Rock. Even so, Walrein has the potential to pull its weigh on hail teams.</p>
+
+[SET]
+name: Stallrein
+move 1: Substitute
+move 2: Protect
+move 3: Blizzard / Surf
+move 4: Roar / Toxic
+item: Leftovers
+ability: Ice Body
+nature: Bold
+evs: 232 HP / 168 Def /108 Spe
+
+[SET COMMENTS]
+
+<p>This set aims to become a bulky threat by taking advantage of Walrein's good defenses and decent Special Attack. When Protect and Substitute are combined with passive recovery from Leftovers and Ice Body, Walrein almost always takes no net damage while the opponent steadily loses health to hail. Walrein usually starts out by switching in against something it can force out with its good bulk and powerful STAB Blizzard. It then uses Substitute as the opponent switches and recovers a total of 12.5% of its health due to Leftovers and Ice Body. Finally, it uses Protect, regaining another 12.5% and thus fully restoring the health it used to construct the Substitute. If the opponent succeeds in breaking the Substitute the following turn, Walrein just constructs a new one while waiting for the passive damage from hail to build. Blizzard deals heavy damage to many Pokemon immune to Toxic Spikes, such as Crobat, Nidoqueen, Nidoking, Roserade, and Zapdos. Surf hits Steel-types for more damage and has much more PP, allowing Walrein a better chance of coming out on top against Steel-types that carry Leftovers. Roar allows Walrein to phaze setup attackers and deal more passive damage through previously deployed entry hazards, but Toxic is also a good option, as it eases reliance on Toxic Spikes support by allowing Walrein to poison opponents itself.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread gives Walrein enough Speed to outpace 0 Speed Blastoise, which allows Walrein to phaze Blastoise with Roar before Blastoise can phaze it first. The HP EVs ensure Walrein's Substitutes can always take a Night Shade or Seismic Toss and that the Substitute and Protect combination always fully recovers its HP. The rest is invested in Defense, as physical attacks don't often hit Water-types for super effective damage. Alternatively, Walrein can run a faster spread of 232 HP / 108 Def / 168 Spe to outpace and phaze Suicune with Roar. It can also run a Special Defense spread of 232 HP / 36 Def / 216 SpD / 4 Spe with a Calm nature that can set up on Choice Specs Chandelure and Raikou as long as Toxic Spikes are on the field, and also outpaces minimum Speed Umbreon. Abomasnow is a vital teammate, as hail is crucial to this set's success. Walrein enjoys Toxic Spikes support, as its strategy involves stacking passive damage. Nidoqueen and Roserade are both great choices for setting up Toxic Spikes due to their ability to cover Walrein's weaknesses. The former can tank Fighting- and Electric-type attacks while the latter is strong against Electric- and Grass-types. Because Walrein is weak to all forms of entry hazards, it appreciates the help of a Rapid Spin user. Blastoise is the best Rapid Spin user in UU, but it shares two weaknesses with Walrein. Claydol, while an inferior Rapid Spin user overall, can tank Fighting- and Electric-type attacks.</p>
+
+[Other Options]
+
+<p>Choice Specs takes advantage of Walrein's decent Special Attack, but it is outclassed in this regard by Glaceon. Thick Fat can be used to give Walrein a resistance to Fire-type attacks, but then it cannot take advantage of all the passive recovery. Walrein has other interesting support moves such as Encore and Yawn, but it has a hard time fitting them into a set.</p>
+
+[Checks and Counters]
+
+<p>Cinccino and Rhyperior can use Rock Blast to break Walrein's Substitute and damage it, but both take heavy damage from Blizzard. Bisharp with Leftovers can set up on Walrein while avoiding poison, negating hail damage, and resisting Blizzard. Cobalion can also do this while threatening it with a super effective Close Combat, but it must be wary of the Special Defense drops, as Blizzard can then weaken it. No Steel-type directly fears Walrein; however, they can potentially be phazed by Roar and stalled by the combination of Walrein's great bulk, Protect, Substitute, and hail damage. Bulky Shed Skin Scrafty can set up Bulk Up, heal status conditions, and hit Walrein for super effective damage with its Fighting-type STAB. SubRoost Zapdos can PP Stall Walrein out of Blizzard and heal hail damage with Roost. Entry hazards make Walrein unable to take powerful attacks such as Darmanitan's Flare Blitz and Flygon's Outrage. Defensive teams have an easier time against Walrein. Hail damage and Toxic don't scare Umbreon, as it can heal status and HP with Heal Bell and Wish, respectively. Suicune has Leftovers to negate hail damage, takes virtually nothing from Blizzard, heals Toxic with Rest, and can force out Walrein with Roar before Walrein can recover its health. RestTalk Snorlax, while rare, takes little from Blizzard and can phaze with Whirlwind, but loses to Walrein if both phaze at the same time.</p>

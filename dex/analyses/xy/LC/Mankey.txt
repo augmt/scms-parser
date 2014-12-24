@@ -1,0 +1,54 @@
+Overview
+########
+
+Mankey has a nice movepool that includes Close Combat, Earthquake, Gunk Shot, the elemental punches, and U-turn. It also has two good abilities, Defiant and Vital Spirit, as well as good base Attack and Speed stats. However, it is quite frail and is outclassed by other common Fighting-types in certain roles; for example, both Mienfoo and Timburr outclass it as a pivot, as they have access to Knock Off to hit Ghost-types and cripple foes. However, Mankey's niche lies in its Choice Scarf set, which can utilize Defiant and a STAB Close Combat to punch holes in opposing teams.
+
+Choice Scarf
+########
+name: Choice Scarf
+move 1: Close Combat
+move 2: U-turn
+move 3: Earthquake
+move 4: Gunk Shot / Ice Punch
+ability: Defiant
+item: Choice Scarf
+evs: 36 HP / 196 Atk / 76 Def / 196 Spe
+nature: Jolly / Adamant
+
+Moves
+========
+
+Close Combat is Mankey's STAB move of choice, sporting 120 Base Power. U-turn allows Mankey to pivot out of unfavorable matchups and scout, as its damage output can determine whether the foe is running Eviolite or Berry Juice. Earthquake is primarily for hitting Poison-types, such as Trubbish, that can otherwise wall Mankey; it also smacks Chinchou for super effective damage. Gunk Shot hits Fairy-types that resist Mankey's STAB, notably Snubbull, Cottonee, and Spritzee, for super effective damage. Ice Punch provides Mankey with a means of hitting Foongus, which shrugs off Mankey's other attacks.
+
+Set Details
+========
+
+The EVs are primarily centered on maximizing Mankey's Attack and Speed and enhancing its capabilities as a physical attacker; the remaining EVs are invested in HP and Defense to boost Mankey's bulk. An Adamant nature allows Mankey to 2HKO both Timburr and Spritzee with Close Combat and Gunk Shot, respectively, and have a decent chance to KO Trubbish after Stealth Rock damage. A Jolly nature can be utilized instead, boosting Mankey's Speed to 17, which allows it to Speed creep Choice Scarf Bunnelby and Modest Choice Scarf Chinchou. Defiant turns Mankey's fear of Sticky Web into something it appreciates, capitalizing on Sticky Web's Speed drop and gaining a +2 Attack boost; it also deters foes from attempting to Defog, which also boosts Mankey's Attack by two stages. Choice Scarf lets Mankey outspeed every unboosted Pokemon in Little Cup and still hit 17 Speed when Sticky Web is in play.
+
+Usage Tips
+========
+
+Due to Mankey's frailty, one should be cautious when switching it in, as most moves it doesn't resist will put a large dent in it. Mankey functions best as a late-game cleaner, so bringing it in by slowly pivoting, or simply sacrificing a Pokemon, is preferred.
+
+Team Options
+========
+
+Slow pivots, such as Mienfoo and Chinchou, can allow Mankey to switch in safely so it can proceed to threaten the foe with a powerful attack. Knock Off support from the likes of Pawniard and Mienfoo softens up opposing walls, enhancing Mankey's cleaning and revenge killing capabilities. Entry hazard support from the likes of Archen, Tirtouga, and Ferroseed is quite beneficial, as it whittles down the health of Mankey's switch-ins, eventually allowing Mankey to capitalize on their low HP and KO them with one of its coverage moves. Also, opponents will usually attempt to Defog away entry hazards, at which point Mankey can switch in and gain a +2 Attack boost thanks to Defiant. Pokemon that can handle Fairy-, Poison-, and Flying-types have good synergy with Mankey, as they clear away the Pokemon that resist its STAB attack. Tirtouga, Archen, and Ferroseed make great teammates, as the former two can handle Poison- and Flying-types, while the latter can handle Poison- and Fairy-types.
+
+Other Options
+########
+
+An itemless set including Acrobatics and Thief can be utilized, giving Mankey a pseudo-Knock Off, as well as a strong 110 Base Power Flying-type move. Vital Spirit is an option, but it can only really check Foongus and even then, Mankey can only 2HKO it after Stealth Rock damage. Encore can cripple support Pokemon and, in tandem with Bulk Up, can provide Mankey with a free turn to set up; Foongus is especially hampered by Encore, as Mankey is immune to Spore if it has its other ability Vital Spirit and can threaten Foongus with Ice Punch. Rock Slide allows Mankey to hit Flying-types and, more importantly, Larvesta for super effective damage. Taunt, combined with Mankey's impressive 17 Speed, can shut down opposing entry hazard leads and support Pokemon, creating free turns and momentum for Mankey and its allies. Night Slash gives Mankey a way to hit Ghost-types so that it doesn't have to switch out every time Gastly or Pumpkaboo switches in.
+
+Checks & Counters
+########
+
+**Flying-types **: Flying-types such as Fletchling and Choice Scarf Doduo can effectively revenge kill Mankey, as both can outspeed and hit it with a super effective Flying-type move. Vullaby can also handle Mankey, as it avoids the 2HKO from Close Combat as long as Stealth Rock isn't up.
+
+**Poison-types**: Poison-types such as Croagunk and Trubbish don't mind anything Mankey can throw at them, bar Earthquake, and can hit it with a STAB Sludge Bomb or Gunk Shot, respectively. Foongus is hit neutrally by Earthquake and can avoid the 2HKO from Ice Punch if Stealth Rock isn't up. Koffing completely walls Mankey thanks to Levitate, rendering Earthquake useless against it.
+
+**Psychic-types**: Bulky Psychic-types, notably Slowpoke, can easily handle Mankey, as they're only hit super effectively by U-turn. Slowpoke, due to its handy ability Regenerator, can actually heal off more damage than Jolly Mankey can deal with U-turn; however, Adamant Mankey can outdamage Regenerator's healing capability by one point of HP. Gothita and Wynaut can also switch into any of Mankey's attacks, bar U-turn, and trap it, eventually KOing it with either Psychic or Counter, respectively.
+
+**Fairy-types**: Fairy-types, notably Spritzee, can be quite an issue for Mankey, as although Gunk Shot can 2HKO Spritzee, it can comfortably take any of Mankey's other moves and threaten it with a super effective Fairy-type move. Spritzee also has access to reliable recovery in Wish, letting it repeatedly switch into Mankey's Close Combat, and can OHKO Mankey with Moonblast.
+
+**Ghost-types**: Due to Mankey's lack of a Dark-type move on its main set, Ghost-types can usually switch in with little trouble. Gastly and Frillish, in particular, are large nuisances, as the former is immune to Earthquake and the latter can threaten Mankey with Scald and Will-O-Wisp. Pumpkaboo is also a large threat, as it resist Earthquake and can burn Mankey with Will-O-Wisp. 

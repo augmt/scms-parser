@@ -1,0 +1,29 @@
+Offensive Support
+########
+name: Offensive Support
+move 1: Stealth Rock
+move 2: Psychic
+move 3: Thunderbolt
+move 4: Healing Wish
+ability: Levitate
+item: Life Orb
+nature: Timid
+evs: 4 HP / 252 SpA / 252 Spe
+
+This is a sample set while we are currently working on analyses in the workshop.
+
+Choice Scarf
+########
+name: Choice Scarf
+move 1: Psychic
+move 2: Energy Ball / Shadow Ball
+move 3: Hidden Power Fire
+move 4: Healing Wish
+ability: Levitate
+item: Choice Scarf
+evs: 252 SpA / 4 SpD / 252 Spe
+nature: Timid
+
+This is a sample set while we are currently working on analyses in the workshop.
+
+

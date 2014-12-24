@@ -1,0 +1,13 @@
+Utility Support
+########
+name: Utility Support
+move 1: Toxic
+move 2: Thunder Wave
+move 3: U-turn
+move 4: Return
+ability: Fur Coat
+item: Leftovers 
+evs: 252 HP / 4 Def / 252 Spe
+nature: Jolly
+
+This is a sample set while we are currently working on analyses in the workshop.

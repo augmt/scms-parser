@@ -1,0 +1,31 @@
+[Overview]
+
+<p>Whismur is one of many Pokemon in Little Cup cursed with low stats. It is quite frail, and has very low Speed, which can be a crippling combination. Luckily for Whismur, it has the highest Special Attack stat of any Normal-type that has access to a good special STAB move, except for Porygon, giving it a useful niche. Because Whismur is so slow, it is a decent Trick Room attacker, and can fit on a team dedicated to the effect.</p>
+
+[SET]
+name: Trick Room Attacker
+move 1: Hyper Voice
+move 2: Fire Blast
+move 3: Shadow Ball
+move 4: Ice Beam
+item: Life Orb
+ability: Soundproof
+nature: Quiet
+evs: 244 HP / 12 Def / 188 SpA / 12 SpD
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>At its absolute minimum, Whismur reaches a glacial 6 Speed, which lets it move ahead of almost everything when Trick Room is up. Hyper Voice is a powerful STAB move that has great neutral coverage, making it the perfect choice to use as Whismur's main attacking option. Fire Blast hits Steel-types that resist Hyper Voice, such as Ferroseed and Magnemite, super effectively. Shadow Ball is used in the third slot to hit common Ghost-types such as Gastly and Frillish. Lastly, Ice Beam is mainly filler, but is Whismur's strongest move against the otherwise dangerous Lileep.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Bulky Fighting-types, such as Scraggy and Timburr, cause this set problems with their super effective STAB moves. A bulky Pokemon that resists Fighting-type moves would be a good choice; two good options for this job are Shelmet and Grimer. Munchlax and Lickitung have high HP and Special Defense, so they can tank all of Whismur's moves effectively. Fighting-types are therefore good teammates for Whismur, as they can take a hit and heal off the damage with Drain Punch. Whismur also needs teammates to set up Trick Room, and Duskull, Porygon, and Slowpoke are all good choices.</p>
+
+[Other Options]
+
+<p>While Whismur has an incredibly large movepool, most of its options are outclassed. Fake Tears can help gain KOs, but Whismur would rather just attack. Endeavor is an interesting option as a last-ditch move to weaken something. Work Up is Whismur's way to set up, but it is much too frail to try. A mixed set could work, as Whismur's Attack and Special Attack stats are the same. Extrasensory could hit Fighting-types slightly harder, but it has little utility otherwise. Flamethrower is an option over Fire Blast for the accuracy, though the power loss is undesirable. Toxic is an interesting option to deal with Munchlax and Lickitung, though Whismur still loses to versions with Rest. Roar and Circle Throw can phaze, but Whismur is too frail to do this effectively. Finally, a physical set with Howl and various physical moves could be used, but many other Pokemon are far better at that than Whismur.</p>
+
+[Checks and Counters]
+
+<p>Bulky Fighting-types such as Scraggy, Mienfoo, and Timburr easily beat Whismur with their STAB moves, and are some of the best checks to it. Dwebble sets up hazards easily, as Whismur has no effective way of damaging it. Munchlax and Lickitung wall Whismur thanks to their high HP and Special Defense. Priority moves also work well, bypassing Trick Room and dealing a good amount of damage.</p>

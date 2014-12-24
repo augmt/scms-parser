@@ -1,0 +1,32 @@
+[Overview]
+
+<p>Volcarona is a potent special sweeper, with a Special Attack stat nearly matching that of Chandelure. It is also the only Pokemon other than Amoonguss with Rage Powder, giving it a unique combination of sheer power and team support. Volcarona is not a Pokemon that should be overlooked. It is, however, plagued by a horrific defensive typing, with a 4x weakness to Rock Slide, and weaknesses to Surf, Water Spout, and Acrobatics as well. The only positive for its defensive typing is a resistance to Fighting-type moves, but most Fighting-type Pokemon carry Rock Slide anyway.</p>
+
+[SET]
+name: Special Attacker
+move 1: Heat Wave / Overheat
+move 2: Bug Buzz
+move 3: Rage Powder / Overheat
+move 4: Protect
+item: Focus Sash
+ability: Flame Body
+nature: Timid
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>Heat Wave hits both opponents hard, but will rarely OHKO either of them. Overheat, on the other hand, scores quite a few OHKOs, including Amoonguss, 4 HP Tornadus and Thundurus a majority of the time, and many others. If you plan to focus more on supporting with Rage Powder while using Volcarona, Overheat is probably the better option because the Special Attack drop will be less significant. Bug Buzz is your second STAB attack and it OHKOes the slower Hydreigon, while hitting Reuniclus and Musharna hard, too. Protect gives your partner time to kill threats to Volcarona such as the numerous Rock Slide users in the metagame. It is also needed to waste a turn of Fake Out while preserving your Focus Sash. Because Mienshao and Liepard are faster than Volcarona, it must Protect first turn to dodge Fake Out, which will occur before Rage Powder. Focus Sash is used because Volcarona has trouble with the frequency of Water-, Flying- and Rock-type moves.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Volcarona needs 248 EVs in Speed and a Timid nature to outspeed Hydreigon and OHKO it with Bug Buzz. The last four are run just to Speed tie with opposing Volcarona. Volcarona is frail on the physical side, but can take special hits reasonably well thanks to its base 105 Special Defense stat. Its weaknesses and the heavy use of Rock Slide make Focus Sash clearly the best item. Life Orb or Charti Berry seem like good options, but Life Orb doesn't grant any notable OHKOs or 2HKOs, and Charti Berry often won't prevent Volcarona from being OHKOed by Rock Slide anyway due to its lackluster Defense.</p>
+
+<p>Volcarona is a strong stand-alone Pokemon but still enjoys and supports any kind of setup. The most noteworthy is Sunny Day, as it powers up Volcarona's already strong Fire-type moves. Tailwind is another good choice for support for Volcarona, allowing it to get the jump on the many Pokemon faster than it. Volcarona can even work in some kind of Trick Room team, despite having base 100 Speed, due to Rage Powder and Volcarona's ability to still undercut many common Pokemon. On a Trick Room team, an alternate EV spread of 252 HP / 252 SpA / 4 SpD should be used, along with a Quiet nature. A partner using Wide Guard remedies Volcarona's quadruple Rock Slide weakness and Water Spout weakness and so provides turns for Volcarona to attack. Inner Focus Mienshao stands out as one of the best partners to Volcarona with Fake Out and Wide Guard support.</p>
+
+[Other options]
+
+<p>Sunny Day and Quiver Dance can be used if you utilize a Wide Guard partner to protect yourself from Rock Slide. Flamethrower is an option if you want a powerful Fire-type single target move that won't drop your Special Attack. Fiery Dance's 80 Base Power is lower than Flamethrower's 95, but Fiery Dance will give you a +1 Special Attack boost half of the time. Finally, Fire Blast is a fourth option for Volcarona's Fire-type STAB. It is much more powerful than Flamethrower, but still doesn't reach many of the OHKOs that Overheat gets, and its accuracy is shaky. SolarBeam is an option if you are using Volcarona in sun, mainly to hit Jellicent. Hidden Power Rock can be used to hit Chandelure and other Fire-types.</p>
+
+[Checks and Counters]
+
+<p>Rock Slide hits Volcarona hard, but that can be played around by using Wide Guard. Water Spout Jellicent is also a threat to Volcarona, though Wide Guard can once again protect the moth. Volcarona's Flying-type weakness can be targeted by Acrobatics users such as Tornadus and Archeops. Chandelure is immune to whatever Fire-type attack Volcarona has, and resists Bug Buzz, meanwhile 2HKOing Volcarona with Shadow Ball.</p>

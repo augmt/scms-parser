@@ -1,0 +1,73 @@
+[Overview]
+
+<p>Being the fastest user of the Guts ability, Taillow is considered one of the most devastating sweepers in LC, only taking one turn for it to move from an average attacker to a destructive powerhouse. Its insanely strong STAB Facade and Brave Bird give it the ability to obliterate a huge portion of the metagame, not to mention that even the most bulkiest of LC Pokemon are 2HKOed or OHKOed with a bit of entry hazard support. However, Taillow has notable disadvantages. Its Stealth Rock weakness, solid counters such as Bronzor and Aron, and vulnerability to priority moves hinder its ability to pull off a successful sweep. On top of this, Taillow tends to die fast through the residual damage from Stealth Rock, poison, and recoil it takes from Brave Bird. Despite these shortcomings, with the right team support and when used correctly, Taillow will still be an impressive late-game sweeper with its high offensive prowess.</p>
+
+[SET]
+name: Guts Sweeper
+move 1: Facade
+move 2: Brave Bird / Pluck
+move 3: Quick Attack
+move 4: U-turn / Protect
+item: Toxic Orb
+nature: Jolly
+evs: 36 HP / 236 Atk / 236 Spe
+
+[SET COMMENTS]
+
+<p>Taillow may have a mediocre Attack stat of 15, but after Guts is activated, this is not the case. Once Toxic Orb activates, Taillow's Attack stat shoots up to a threatening stat of 22, which, when paired with its high 19 Speed stat, turns Taillow into an extremely dangerous sweeping force. Unprepared teams will definitely have a hard time combating this fearsome bird, as its phenomenally powerful Facade can tear through those that don't outright resist it.</p>
+
+<p>Taillow's moveset is very straightforward. Facade is the primary attacking option for sweeping, as it boasts an insane Base Power of 140 thanks to Taillow's poison status. Brave Bird's 120 Base Power is mostly used to destroy Ghost-types, which is important as they pack an immunity to Facade. The only disadvantage Brave Bird has is that Facade is always going to be the stronger attack in most circumstances, due to its higher Base Power. Brave Bird's recoil will also pile up on the poison damage Taillow takes, leaving it with not much health left over. A great alternative to Brave Bird is Pluck. Even though its Base Power is considerably lower, it can prove to be very helpful in many situations. The biggest advantage Pluck has over Brave Bird is it can steal Berry items that the opponent's Pokemon are wielding, meaning it can consume an Oran Berry from Munchlax or receive a Speed boost from Totodile's Salac Berry. Pluck also has no recoil effect, unlike Brave Bird, so if you have a way to eliminate Ghost-types, than Pluck is the superior secondary attacking option. Quick Attack is an excellent priority move to have, as it can help Taillow stop opposing priority Pokemon from hurting Taillow, such as Sucker Punch Houndour or Vacuum Wave Croagunk. The last moveslot is open to U-turn or Protect. U-turn helps Taillow scout and flee from enemies that it can't hurt as much and still do reasonable damage at the same time, while Protect is very useful in allowing Taillow to activate its Toxic Orb without taking any damage. In most cases, U-turn is the better way to go, as it's not difficult to switch Taillow into a move like Earthquake from Gligar or Shadow Ball from Gastly, or even just using Taillow to revenge kill a weakened enemy, to activate its Toxic Orb without being harmed.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>To see how powerful Facade is, below are several damage calculations against some of the bulkiest of threats.</p>
+
+<ul class="damage_calculation">
+<li>Facade vs. 236 HP / 36 Def Adamant Munchlax: 91% - 100% </li>
+<li>Facade vs. 220 HP / 148 Def Sassy Bronzor: 36% - 48% </li>
+<li>Facade vs. 236 HP / 236 Def Impish Gligar: 62% - 73% </li>
+<li>Facade vs. 212 HP / 132 Def Impish Hippopotas: 73% - 92% </li>
+<li>Facade vs. 236 HP / 132 Def Relaxed Wynaut: 83% - 97% </li>
+</ul>
+
+<p>As you can see with the above calculations, Facade is capable of 2HKOing most of the bulkiest tanks and walls, meaning Pokemon that are defensively weaker than these will have to watch out.</p>
+
+<p>As mentioned previously, if you are capable of disposing of Ghost-types, Taillow wouldn't have to worry about using Brave Bird, as its side-effect is rather harmful. With that in mind, Houndour and Stunky are excellent teammates to use, as they are the best Pursuit users in the LC metagame. They both have access to Sucker Punch and Pursuit, which can easily remove Ghost-types like Drifloon and Duskull from getting in Taillow's way. Another problem Taillow encounters is the ever present Stealth Rock, which scrapes off 25% of Taillow's health every time it switches in. This is extremely brutal due to the fact that Taillow is also reducing more of its HP from Toxic Orb, so it won't be surviving for a long period of time. Staryu is a great offensive Rapid Spinner to remove Stealth Rock from your field, who also resists Taillow's Ice-type weakness; however, it packs an Electric-type weakness just like Taillow. Besides removing entry hazards from your field, Taillow enjoys entry hazards on your opponent's field, as it can potentially turn many of its 2HKOs into solid OHKOs. For example, if we use the calculations shown above, Munchlax, Hippopotas, and Wynaut will fall under an OHKO if Stealth Rock and Spikes were in play. Entry hazards will give Taillow a much easier time at sweeping and becomes less fearful of Pokemon surviving its attacks. Bronzor is a superb Stealth Rock supporter because of its excellent overall bulk, and it's resistant to Rock-type attacks fired at Taillow, while Omanyte is arguably the most effective Spikes supporter, thanks to its great Defense and decent typing, though it adds an additional Electric weakness like Staryu.</p>
+
+[SET]
+name: Life Orb Sweeper
+move 1: Return
+move 2: Brave Bird / Pluck
+move 3: Hidden Power Ground
+move 4: Quick Attack / U-turn
+item: Life Orb
+nature: Naive
+evs: 236 Atk / 36 SpA / 236 Spe
+
+[SET COMMENTS]
+
+<p>Taillow is one of those Pokemon that is unable to greatly damage its common counters, such as Bronzor, Onix, Shieldon, and Aron, as they are all resistant to both of Taillow's STAB attacks. However, this set attempts to turn the tables. With the use of Life Orb and the surprising Hidden Power Ground, Taillow can catch most of its counters off-guard, which can easily mess up your opponent's plan at stopping Taillow's sweep.</p>
+
+<p>Return is Taillow's primary STAB attack, hitting for a great amount of damage to those unresistant. The second moveslot is offered to Brave Bird or Pluck. Both of these moves have their pros and cons, so it's up to personal preference when choosing which one to use. Brave Bird is an extremely dangerous STAB attack, hitting many Pokemon that reside in Little Cup very hard. The downfall to this is the fact that Taillow's HP will be going down rapidly, since the recoil Brave Bird and Life Orb have is brutal, not to mention Taillow's Stealth Rock weakness. On the other hand, Pluck is significantly weaker than Brave Bird, but it does have the opportunity to steal Berry items from the opposing Pokemon. This can be very beneficial to Taillow when it's up against Oran Berry holders, as it can rejuvenate nearly half of its health that was lost. Taillow's common counters being Pokemon like Onix, Aron, Geodude, Magnemite, and Shieldon; Hidden Power Ground is capable of dealing massive amounts of damage to them, OHKOing Aron, Shieldon, and Magnemite while 2HKOing Geodude and Onix. However, there are some other special attacks Taillow can choose from, depending on what you want to hit harder, such as Hidden Power Grass and Heat Wave. The last moveslot is given to Quick Attack and U-turn. Quick Attack serves as a handy priority attack to knock out weakened threats and hit most other priority users first because of Taillow's high Speed, while U-turn is a reliable move to switch Taillow out of a Pokemon that it can't hurt, such as Bronzor, while still doing a decent amount of damage at the same time.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Taillow's Stealth Rock weakness really hinders its ability to sweep. It also gives Taillow less chances to abuse its Life Orb, since its reducing its HP quickly with the recoil and Stealth Rock damage. Therefore, it's strongly recommended to remove this entry hazard to make Taillow's job much easier. Anorith is a great Rapid Spinner to look into, as it boasts high Speed and Attack stats that help it Rapid Spin successfully. Besides worrying about removing entry hazards, it's a good idea to set up entry hazards of your own, particularly Stealth Rock and Spikes. This way, Taillow can potentially turn 2HKOs into certain OHKOs. Bronzor is one of the most reliable Stealth Rock users, thanks to its great overall defenses and excellent typing. It also packs a resistance to Rock-type attacks aimed at Taillow, which is always helpful. As for setting up Spikes, Omanyte should be put up for consideration. It has great Defense and a variety of support moves that could help your team, such as Knock Off and Toxic Spikes. Lastly, this may seem a bit hard to accomplish, but using Pokemon that attract Will-O-Wisp users can be quite helpful. The reason for this is because it gives Taillow the perfect opportunity to switch into Will-O-Wisp, which would make its attacks insanely strong, as it would be boosted by Life Orb and Guts. Any pure physical attackers can attract Will-O-Wisp users, such as Mankey, Gligar, and Elekid to name a few.</p>
+
+[Other Options]
+
+<p>Taillow's limiting movepool doesn't really offer it any other notable moves it can use, but there are a few that can be useful. Heat Wave may seem like a gimmicky option, but it can be helpful against Steel-types, particularly Bronzor. With a Life Orb and only 36 SpA EVs, Heat Wave can deal around 50% damage to the standard Bronzor, which is pretty reasonable since Bronzor laughs at nearly every other move Taillow uses. Counter in tandem with Focus Sash can be used to great effect as well, since Taillow's frail defenses will guarantee that Counter will KO the opposing Pokemon once hit by a physical attack. Because Taillow generally poses as a big threat, it may end up forcing several switches, which is why Pursuit can be used to good effect since it helps hurt Pokemon that attempt to switch out, as well as hitting Ghost-types super effectively. With a combination of Focus Sash, Endeavor, and Quick Attack, Taillow can have a chance to bring down at least one Pokemon from the opposing team all the time; but, Taillow would have to be used with a low Speed stat otherwise it will be difficult to pull off because Taillow needs to be attacked first in order for Endeavor to work properly.</p>
+
+<p>Taillow can make use of Choice Band or Choice Scarf, since it has the moves to use them effectively. The main problem about Choiced Taillow is the fact that Doduo does this job better. Doduo packs much higher Attack than Taillow, assuming Taillow does not receive a Guts boost, and still reaches a high enough Speed stat to outpace a lot of threats. The only thing that differentiates Taillow from Doduo is that it has access to U-turn, which is beneficial on any Choice set.</p>
+
+<p>Even though Hidden Power Ground is the recommended Hidden Power type to use on the Life Orb set, Taillow has several other attacks that are useful. Hidden Power Fighting hits everything Hidden Power Ground does, except it is capable of hurting Lileep and hitting Bronzor neutrally, but fails to OHKO Magnemite. Hidden Power Water hits Onix, Geodude, and Rhyhorn for 4x the damage, but loses power against Aron and Shieldon, as well as doing very little to Kabuto and Omanyte. Hidden Power Grass destroys Onix, Geodude, Rhyhorn, Omanyte, and Kabuto, but it fails to get past Aron, Shieldon, and Magnemite. Finally, Heat Wave is useful for nailing both Bronzor and Magnemite but loses coverage against Rock-types. All of these can be used instead of Hidden Power Ground, so it's really up to what your team needs.</p>
+
+<p>For non-attacking moves, Taillow can use an Agility to set to make it one of the fastest Little Cup sweepers in the game. Roost, although difficult to use because of Taillow's pathetic defenses, can be useful as well, healing up to 50% of Taillow's health. It's especially helpful since Taillow is taking repeated damage from Stealth Rock, Life Orb, or status, so Roost can help keep it healthy. Finally, a SubLiechi set can make Taillow a threatening offensive force, as it won't be taking any recoil damage from the likes of Life Orb or status, and it won't have to be locked into one attack from a Choiced item.</p>
+
+[Checks and Counters]
+
+<p>Rock- and Steel-types are probably the best counters to Taillow, as they pack a resistance to both of Taillow's STAB attacks and moves that hit it super effectively. Common examples of these Pokemon are Aron, Geodude, Bronzor, and Magnemite. Aron is capable of setting up Rock Polish with impunity, Geodude can set up Substitute and fire off powerful Stone Edges, Bronzor has the opportunity to set up Stealth Rock, and Magnemite can set up Substitute or Magnet Rise. However, these Pokemon must watch out for Hidden Power Ground (excluding Bronzor due to Levitate), as they will be OHKOed.</p>
+
+<p>Besides using tanks or walls, priority and Choice Scarf users are great for revenge-killing Taillow. Since it has such pitiful defensive stats, priority moves will deal a great amount of damage. Fake Out Meowth and Vacuum Wave Croagunk are just some of the most common priority users in LC, all of which boast great Attack. It should be noted that Taillow with Quick Attack can be quite harmful, since it can potentially make Fake Out not flinch and Sucker Punch never hit. As far as Choice Scarfers go, Gligar, Machop, and Porygon are all excellent Pokemon to use. Gligar packs excellent physical bulk and power, Machop has access to the dangerous Dynamic Punch, and Porygon gains a free Download boost, unless Taillow is running a Naive nature.</p>
+
+<p>The easiest way to make Taillow less threatening is to simply set up Stealth Rock early-game and have a Ghost-type to block Rapid Spin. Gligar and Bronzor are capable of setting up Stealth Rock very well, while Duskull and Drifloon are excellent Pokemon to use to stop Rapid Spin from working.</p>

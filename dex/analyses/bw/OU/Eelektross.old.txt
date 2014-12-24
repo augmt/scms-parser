@@ -1,0 +1,103 @@
+[Overview]
+
+<p>Eelektross is well-known as the third Pokemon in the game without a single weakness. Being a pure Electric-type gives it only one weakness, to Ground-type attacks, which is cancelled out by Levitate. Moreover, this ability also happens to give it a useful immunity to both Spikes and Toxic Spikes. Unlike most Electric-types, Eelektross is slow and bulky, which immediately gives it a powerful niche in the metagame. Its excellent offensive stats of base 115 Attack and base 105 Special Attack only add to its appeal, and it has a good movepool as well. However, it is not without its faults. Its base 50 Speed stat is a real letdown, and means that, if it does not invest in Speed, Eelektross will actually find itself getting outpaced by many walls, including Blissey and Swampert, making it less threatening offensively. Furthermore, if you are looking for a faster Pokemon that does a similar sweeping job, Electivire is as good as it gets, with a near-identical movepool, higher Attack, and Motor Drive. Don't let this make you think that Eelektross is in any way outclassed, however--its access to Grass Knot, Coil, Acid Spray, Levitate, and higher Special Attack make absolutely sure of that. Eelektross is a Pokemon to watch out for, and with good reason.</p>
+
+[SET]
+name: Mixed Attacker
+move 1: Wild Charge / Thunderbolt
+move 2: Flamethrower
+move 3: Dragon Claw / Hidden Power Ice 
+move 4: Grass Knot / Brick Break
+item: Life Orb
+nature: Naughty / Rash
+evs: 252 Atk / 212 SpA / 44 Spe
+
+[SET COMMENTS]
+ 
+<p>Generally speaking, if you want to use Eelektross effectively, it's best that you try to differentiate it as much as possible from Electivire and other, faster Electric-types. While this set doesn't do this per se, it does exhibit many features that Electivire cannot equal, such as its higher Special Attack stat and access to Grass Knot. For STAB, Eelektross has two good options to choose from. Wild Charge and Thunderbolt both have about the same power on foes with roughly equal defensive stats, but Wild Charge is preferable because it will always 2HKO Blissey with Stealth Rock, whereas running Thunderbolt requires that Eelektross run Brick Break to beat it, thus limiting type coverage. Wild Charge also gets a stronger hit on foes such as Tyranitar, while those it does not, such as Forretress, Skarmory, and Hippowdon, are usually covered by one of Eelektross's coverage moves anyway. However, Thunderbolt is also very useful in its own right as it is unaffected by Intimidate, does not cause recoil damage, and means Eelektross does not need to split its EVs. Thunderbolt also hits standard Vaporeon, who is physically defensive, for greater damage.</p>
+ 
+<p>In terms of coverage attacks, Flamethrower covers Grass-types, with particular emphasis on Ferrothorn, who is an extremely great pain otherwise. It also covers Steel-types such as Scizor and Metagross, which is helpful if you are running Wild Charge. The biggest threats who resist the combination of Electric / Fire are the grounded Dragons, such as Haxorus and Hydreigon. There are two options to hit these Dragons with--Hidden Power Ice and Dragon Claw. On the one hand, Hidden Power Ice easily 2HKOes both Hydreigon and Haxorus, and also allows you to take out bulkier Dragons such as Dragonite as well as Ground-types should Eelektross lack Grass Knot. On the other hand, Dragon Claw will OHKO Hydreigon and Haxorus with Stealth Rock, but will never OHKO bulky Dragonite and other such opponents, so you should decide depending on which you feel is more threatening to your team. In the last slot, Brick Break is pretty much solely for Blissey and Chansey, who take next to nothing from everything else. It also beats down Snorlax and Tyranitar. If Eelektross is running Wild Charge, it has no need of Brick Break, so it can run an additional coverage move. Grass Knot is a good choice, as it covers all Pokemon that are immune to Electric-type moves, notably heavy Ground-types such as Hippowdon and Quagsire.</p>
+ 
+[ADDITIONAL COMMENTS]
+ 
+<p>The EVs and nature are subject to change depending on what your moveset is and what you want to get out of your Eelektross. First, you should maximize its primary attacking stat. If Eelektross is running Wild Charge, you should use 252 Attack EVs and a Naughty nature, whereas if it elects to use Thunderbolt, use 252 Special Attack EVs and a Rash nature. After this, 44 Speed EVs allows Eelektross to outrun minimum Speed Blissey and other base 55s, and you can stick the remaining EVs into Eelektross's other offensive stat. Alternatively, you can choose to run a more conservative spread of 4 HP / 252 Atk / 252 SpA with a Brave or Quiet nature, which gives you more power overall at the cost of losing out to quite a few unboosted walls, including Blissey. However, this does allow you to forgo the use of a defense-hindering nature. If you want to, you can even switch some EVs to HP in order to bulk Eelektross up a bit; in the absence of a big Speed stat, Eelektross's lack of weaknesses is one of the biggest points to capitalize on.</p>
+ 
+<p>Stealth Rock and other entry hazards are very useful commodities, and help greatly in maximizing Eelektross's damage output. Ferrothorn and Forretress are excellent options to set up Spikes and Stealth Rock, though it is advised that you do not run two types of entry hazard on one Pokemon. Defensive complements to Eelektross are difficult to find, due to the fact that it has no weaknesses. In terms of offensive complements, Eelektross has excellent type coverage, but can come under threat from Dragon-types if not running Hidden Power Ice or Dragon Claw, especially Haxorus, who has Mold Breaker and Earthquake to bypass Levitate. Generally speaking, bulky Water-types such as Jellicent and bulky Steel-types such as Heatran are good options to take them on. Furthermore, Water-types can bait out Electric-type attacks and Steel-types can bait out Ground-type attacks, both of which Eelektross can easily switch in on--Magnezone and Heatran are especially useful partners as they can lure in Ground-type attacks for Eelektross to switch in on for free. As a bonus, bulky Steel-types such as Metagross and Scizor have difficulty against Water- and Ground-types, whom Eelektross performs well against thanks to its Electric-type STAB and Levitate.</p>
+ 
+[SET]
+name: Acid Spray
+move 1: Acid Spray
+move 2: Thunderbolt
+move 3: Flamethrower
+move 4: Grass Knot / Hidden Power Ice
+item: Leftovers
+nature: Modest
+evs: 252 HP / 252 SpA / 4 SpD
+ 
+[SET COMMENTS]
+ 
+<p>Acid Spray is one of the moves that Eelektross gets that other Electric-types do not, which is an immense benefit to using it. In essence, Acid Spray is a 40 Base Power Poison-type attack; however, it is for its secondary effect that it is so prized. It will always lower the opponent's Special Defense stat by two stages, essentially doubling Eelektross's Special Attack. When combined with Eelektross's wide special movepool, this makes for a very effective strategy.</p>
+ 
+<p>Thunderbolt is Eelektross's main STAB attack, and will maim just about everything it touches after an Acid Spray. Flamethrower destroys bulky Grass- and Steel-types, particularly Ferrothorn, and Grass Knot deals with Ground-types. Hidden Power Ice is a usable alternative if you are worried about losing coverage on Dragon-types, particularly Haxorus, who is a big threat to you otherwise. However, it has fairly redundant coverage with Flamethrower and Thunderbolt, and this combined with its relatively low Base Power tends to make it not worth using.</p>
+ 
+[ADDITIONAL COMMENTS]
+ 
+<p>The EVs and nature maximize Eelektross's Special Attack, while also increasing its bulk with 252 HP EVs and Leftovers. Thanks to the fact that Eelektross has no weaknesses, its bulk is actually very good indeed, despite its low base stats. The remaining EVs are plunked in Special Defense in order to prevent Pokemon with Download from getting a Special Attack boost if they switch in on Eelektross, rare as they might be. Life Orb can be used over Leftovers if you want more power, but Eelektross's bulk will suffer greatly because of it.</p>
+ 
+<p>Stealth Rock and Spikes support is just as, if not more important for this set than for the Mixed Attacker set, not merely because the residual damage helps Eelektross to obtain vital OHKOs and 2HKOs, but also because Acid Spray has the potential to force a lot of switches as the switch-in suddenly finds its Special Defense halved. Because of this, it is best to take advantage in any way you can. Ferrothorn, Forretress, and Skarmory are all excellent choices to set up Spikes, Stealth Rock, or even both. If not running Hidden Power Ice, Eelektross has great trouble with Dragon-types. Because of this, Bronzong or Skarmory can make an excellent partner, as they can both deal with most Dragon-types and also set up entry hazards. However, Skarmory has issues with Hydreigon and Bronzong has issues with Haxorus, so that will definitely have to be addressed by another Pokemon on your team. Generally speaking, any bulky Pokemon with Ice Beam, such as Suicune or Starmie, does a good job at warding them off.</p>
+ 
+[SET]
+name: Physical Coil
+move 1: Coil
+move 2: Wild Charge
+move 3: Substitute / Brick Break
+move 4: Dragon Tail / Dragon Claw
+item: Leftovers
+nature: Careful
+evs: 252 HP / 4 Atk / 252 SpD
+ 
+[SET COMMENTS]
+ 
+<p>This set takes a very different approach to offensive Eelektross, one which takes into account its high Attack stat, good defensive ability, and access to boosting moves. Coil is a powerful move that boosts Attack, Defense, and accuracy by one stage each, turning Eelektross into a slow-moving tank with the potential to thoroughly irritate any team that can't quite hit it hard enough.</p>
+ 
+<p>Wild Charge is Eelektross's STAB attack of choice, the fact that it is pretty much Eelektross's only worthwhile physical STAB move notwithstanding. The recoil might hurt it somewhat, but in the interests of power conservation, it is recommended that you do not try to replace it. Substitute is a move that Eelektross can make great use of, stopping your opponent from using secondary attacks--such as Toxic, Will-O-Wisp, or Leech Seed--to cripple Eelektross. In the last slot, Dragon Tail is a useful move, which is rather like Acid Spray in that it is used not for its power but for its secondary effect. It allows Eelektross to pseudo-haze other Pokemon, which is useful both for preventing Eelektross from being forced out by Whirlwind or Roar and for racking up entry hazard damage on foes such as Ferrothorn and Hippowdon. In addition, it provides almost perfect neutral coverage with Wild Charge.</p>
+ 
+[ADDITIONAL COMMENTS]
+ 
+<p>If you do not like the stallish nature of this Eelektross set, you can try a more offensively oriented spread. With a Brave nature and a spread of 252 HP / 252 Atk / 4 SpD, Eelektross can accomplish roughly the same task, but with less defensive and more offensive power. If you do decide to take this route, you might also want to switch items and moves in order to further this goal. Life Orb is a useful substitute for Leftovers, if you want to further increase Eelektross's power output. Substitute and Dragon Tail become much less useful when running an offensive spread, given Eelektross's loss of bulk, but its physical movepool is somewhat lackluster, so you will have difficulty finding replacements. Dragon Claw is a more powerful alternative for Dragon Tail that doesn't have negative priority, and Crunch can be useful over Substitute in order to take down bulky Ghost- and Psychic-types. Brick Break is useful to chop through Steel-types as well as Tyranitar, though that's about the extent of its usefulness. Lastly, you might want to switch 44 EVs to Speed in order to outrun Blissey, as you might otherwise have problems with it.</p>
+ 
+<p>As always, entry hazards are a welcome commodity, and thanks to Dragon Tail, this Eelektross can make better use of them than many of its other sets by directly forcing switches. Eelektross runs into trouble against Pokemon that can beat its assaults. While Dragon Tail makes it impossible for Pokemon such as Conkeldurr and Snorlax to try to set up on Eelektross, it should be noted that Eelektross can be broken down through constant assaults, as it lacks any kind of recovery move. With that in mind, Wish support from Blissey or Vaporeon makes a welcome investment, as this allows Eelektross to stick around for longer in order to get the boosts necessary to pose a threat. Blissey can also provide paralysis support, which is very welcome as Eelektross is not exactly fast. Lastly, after all this shuffling, the best way to take advantage of this is by using a set-up sweeper to finish the job. Landorus and Terrakion are two good examples of this.</p>
+ 
+[SET]
+name: Mixed Coil
+move 1: Coil
+move 2: Thunder / Zap Cannon
+move 3: Brick Break
+move 4: Hidden Power Ice
+item: Life Orb / Leftovers
+nature: Quiet
+evs: 252 HP / 4 Atk / 252 SpA
+ 
+[SET COMMENTS]
+ 
+<p>While ordinarily the most lucrative boost afforded to Coil would be that of Attack, this does not necessarily mean that Coil-based sets have to be wholly or even primarily based around physical attacks, as shown below. Eelektross is the proud owner of an excellent accuracy-boosting move and several STAB moves of high power and imperfect accuracy, making a specially based Coil set seem attractive. By using Coil, Eelektross turns into a powerful mixed attacker capable of beating many common special walls, such as Blissey, Ferrothorn, and Jellicent, allowing it to break defensive teams and even pose an issue to certain offensive teams as well.</p>
+ 
+<p>Coil is the core move of this set, and with good reason. The biggest boon of using the move here is the accuracy boost, which makes certain STAB moves far more attractive. For example, Thunder attains 93% accuracy after one Coil boost, and perfect accuracy after two. This, combined with its high power, makes it a devastating weapon that Eelektross can use to great effect. Alternatively, if you are feeling particularly ballsy, you can try to run Zap Cannon instead, which has the same power, only half the PP, and such truly appalling accuracy that even after two uses of Coil, it only hits 83% accuracy. The only real reason to run it over Thunder is its extremely lucrative secondary effect, a 100% chance of paralysis, which is an immense help owing to Eelektross's subpar Speed. However, as Zap Cannon requires three Coil boosts to hit perfect accuracy, it is rarely worth it. In the last two slots, Brick Break is absolutely necessary, as after a Coil boost and Life Orb, it will 2HKO Blissey, Ferrothorn, and Chansey, something few special attackers can boast. In the last slot, you will want a way to take down Ground-types and others that resist Electric-type attacks. Hidden Power Ice is usually the best option, because it has the best overall coverage alongside Thunder.</p>
+ 
+[ADDITIONAL COMMENTS]
+ 
+<p>As with most of these Eelektross sets, the EV spread is incredibly straightforward. First, Special Attack is maximized, and then HP is maximized to increase Eelektross's impressive bulk. Assuming that you are using a Life Orb, Attack EVs are generally unnecessary, as the targets of Brick Break are all 2HKOed with no investment; however, if you are running Leftovers, it might be worth investing some EVs to secure the 2HKO on Ferrothorn. If you decide to do so, 148 EVs are advised as the bare minimum in order to 2HKO 252 HP Shed Shell Ferrothorn with Stealth Rock. Life Orb is, generally speaking, the superior item for this reason. However, Leftovers also has strong reasons for its choice, namely the length of time Eelektross will need to set up, and the need to make good use of its impressive bulk.</p>
+ 
+<p>As always, entry hazard support is useful to build up passive damage and help Eelektross obtain vital OHKOs and 2HKOs. Offensively speaking, this Eelektross set has little to worry about in terms of type coverage, as Thunder gets a very strong hit on most specially defensive Pokemon, and Brick Break covers most of the rest. Outside of a Pokemon such as Porygon2 or Lanturn, there is very little that is actually going to wall Eelektross, which brings us back to the original problem of hard-hitting Pokemon simply switching in to weather you down. There is very little that you can do to prevent this, but there is everything you can do to capitalize on it. After luring in faster sweepers or wallbreakers, you can deal serious damage or OHKO outright, allowing you to break the fast, frail backbone of your opponent's team. This can be very beneficial to a set-up sweeper such as Haxorus or Terrakion, who will appreciate the lack of fast Pokemon who could either revenge kill or else impede its sweep in some other way.</p>
+
+[Other Options]
+
+<p>Eelektross has plenty of other options quite apart from the ones listed here, and there are many effective sets not listed here that you might well have success with. For example, Thunder Wave is an excellent support option that Eelektross can make great use of, particularly due to its low Speed stat. Eelektross also has access to Charge Beam, which can be used to boost its Special Attack in a vein similar to the Acid Spray set. However, the boost is not as great as the effective boost on the Acid Spray set, nor is the boost reliable to obtain, but at least it does remain after the foe has switched out. Similarly, a Choice Specs set can benefit greatly from Eelektross's high Special Attack and wide special movepool, with a moveset of Thunderbolt / Flamethrower / Grass Knot / Hidden Power Ice or Volt Switch being the obvious combination to use. Eelektross's physical movepool is somewhat more sparse, though it is still fairly cohesive, with Wild Charge, U-turn, Rock Slide, Dragon Claw, Brick Break, Crunch, and Return making up just about the entirety of it. This can be enough for a Choice Band set, though it is not recommended. Eelektross can flourish under Trick Room thanks to its low Speed stat, using some variant of the first set with minimum Speed. Lastly, Eelektross has two pseudo-hazing moves in Roar and Dragon Tail, both of which are very much usable options.</p>
+
+[Checks and Counters]
+
+<p>True counters to Eelektross are few and far between thanks to the power of its type coverage, so much so that there are very few common Pokemon that can wall it in any conventional sense. One of the main exceptions is Rotom-H who, thanks to its unique Electric / Fire typing, resists all of Thunderbolt, Flamethrower, Grass Knot, and Hidden Power Ice, and takes only neutral damage from Brick Break. Similarly, Lanturn is immune to Eelektross's STAB by virtue of its Volt Absorb ability and takes only minor damage from Grass Knot, as it is a very light Pokemon.</p>
+ 
+<p>In terms of more common Pokemon, those that resist Eelektross's STAB have to be mentioned. Haxorus comes right at the very top of this list, as not only does it resist Electric-, Fire-, and Grass-type attacks, making it extremely easy to switch in, but its Mold Breaker ability allows it to bypass Levitate, meaning that Eelektross is facing down a super effective Earthquake off a whopping base 147 Attack. Hydreigon, Latios, and Salamence also work similarly, but must rely on their STAB attacks to hit hard. However, they are all not perfect counters by any means, as Hidden Power Ice or Dragon Claw will do heavy damage back.</p>
+ 
+<p>In general, even though Eelektross has no weaknesses, it has few resistances too, so nearly anything that can hit it with a strong STAB attack will wear it down over time. Generally this is the best way to approach Eelektross--play cautiously and to resistances, so it blows itself out, rather than trying to counter it in the traditional sense.</p>

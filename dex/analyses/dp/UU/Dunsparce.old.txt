@@ -1,0 +1,69 @@
+[Overview]
+
+<p>Dunsparce is a really cool Pokemon, but unfortunately, he isn't a great choice competitively. Dunsparce is very similar to most generic Normal-types; he has a large movepool, but mediocre stats. Due to this, Dunsparce can't effectively utilize many of the useful moves in his repertoire, as he is either too frail or too weak to make good use of them.</p>
+
+<p>Fortunately, Dunsparce has one utterly amazing advantage that turns this extremely generic-but-cool Pokemon into a ridiculously aggravating opponent to face. This advantage is his ability: Serene Grace. With Serene Grace, Dunsparce is essentially a Jirachi or Togekiss of UU. If you've ever faced a Jirachi or Togekiss in OU, you should know just how annoying Serene Grace complimented by paralysis support can be. Serene Grace alone makes Dunsparce have unique, high flinch-rate moves; therefore, when using him, make sure to abuse it as much as possible.</p>
+
+[SET]
+name: ParaFlinch
+move 1: Body Slam / Thunder Wave
+move 2: Headbutt
+move 3: Bite / Zen Headbutt
+move 4: Earthquake / Rock Slide
+item: Leftovers
+ability: Serene Grace
+nature: Adamant
+evs: 144 HP / 252 Atk / 36 Def / 76 SpD
+
+[SET COMMENTS]
+
+<p>Dunsparce is a very annoying Pokemon to fight against, and this set allows Dunsparce to whittle down the opposing Pokemon as the opponent is forced to watch and hope for Dunsparce to stop flinching their Pokemon. However, even if they do manage to land a hit on Dunsparce, they'll have to hit him another time before he faints, as Dunsparce is generally bulky enough to take a hit or two before healing the damage off with Leftovers.</p>
+
+<p>Dunsparce will often need a paralysis move to get the endless stream of flinches going. Either Body Slam or Thunder Wave is perfect for this purpose. Body Slam has a nice chance of paralysis, and can do damage at the same time, while Thunder Wave is more reliable. In the end, the choice between the two is mainly up to preference. Headbutt is Dunsparce's main flinch move, as it has a solid 60% flinch rate and is boosted by STAB. Bite and Earthquake hit the Ghost-, Rock-, and Steel-types that Headbutt cannot hit, and Bite has a high flinch rate as well. It should be noted, however, that Earthquake is fairly weak, so it should only be used to deal with weakened Rock- and Steel-types.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs look complicated at first, but in reality, they're actually fairly simple. An Adamant Nature and 252 Attack EVs allow for maximum power, while the remaining EVs are placed into Dunsparce's defenses to make him bulkier. Investing in Speed is generally unnecessary, as Dunsparce should ideally be used with paralysis support. However, you can use a simple 252 Atk / 4 Def / 252 Spe spread if you want Dunsparce to outspeed some Pokemon without paralyzing them first, though this sacrifices bulk.</p>
+
+<p>Dunsparce has a couple of good alternative moves. Roost can be used to make Dunsparce bulkier, but it's hard to find room for it on this set. Zen Headbutt can be used over Bite to hit bulky Fighting-types that Dunsparce has issues with while retaining the ability to hit Ghost-types. Unfortunately, it only has a 40% flinch rate. Rock Slide can go over Earthquake if you feel that your team can cover Rock- and Steel-types well enough, rendering Earthquake's Rock- and Steel- type damaging services unnecessary. Iron Tail can be used to hit Rock-types harder; it also has a 60% chance to lower their defenses. However, it's unreliable due to it's poor accuracy, so Earthquake is generally the better option.</p>
+
+<p>This set particularly enjoys team members who can spread paralysis, as well as slow, strong Pokemon who can take advantage of paralysis support. Slowbro and Slowking are good choices for this purpose, as they resist Dunsparce's only weakness and are bulky. Registeel can also spread paralysis, as well as set up Stealth Rock to punish switches; however, it shares a Fighting weakness with Dunsparce. Examples of Pokemon who can take advantage of paralysis include Rhyperior and Aggron. Though both are weak to Fighting, they're both strong and bulky and can abuse paralysis support with hard-hitting attacks.</p>
+
+[SET]
+name: Substitute + Paralysis
+move 1: Substitute
+move 2: Thunder Wave / Body Slam
+move 3: Headbutt
+move 4: Earthquake / Bite
+item: Leftovers
+ability: Serene Grace
+nature: Adamant
+evs: 252 HP / 212 Atk / 44 Spe
+
+[SET COMMENTS]
+
+<p>Dunsparce tends to force switches, as opponents will often try to switch out to avoid being flinched. With Substitute, Dunsparce can protect himself and paralyze the switch-in. Since Dunsparce has the ability to create 101 HP Substitutes, he can easily set up on Pokemon that rely mainly on Seismic Toss for damage, such as Chansey and Registeel.</p>
+
+<p>Substitute is what differentiates this set from the previous one. As mentioned above, Substitute allows Dunsparce to take advantage of switches. Thunder Wave or Body Slam can be used to paralyze the switch-in. Thunder Wave is recommended over Body Slam on this set, as its perfect accuracy is generally more useful than Body Slam's damage, though Body Slam is still a viable option. Headbutt is Dunsparce's main STAB once again, and has an excellent 60% flinch rate. Earthquake or Bite can be used in the last slot to hit Rock- and Steel-types or Ghost-types respectively. Unfortunately, since you can only choose one move, he'll always walled by at least one opposing type; Ghost-types if you pick Earthquake, and Steel-types if you pick Bite.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs of this set are quite simple. 252 HP EVs allow Dunsparce to create 101 HP Substitutes, while 44 Speed EVs allow Dunsparce to outspeed Chansey and set up a Substitute in her face. The remaining EVs are poured into Attack to make Headbutt and Earthquake or Bite stronger. This spread, though simple, is necessary for the set's success. Without 252 HP EVs, Dunsparce can't set up on Seismic Tosses, while 44 Speed EVs are important because Chansey could otherwise hit Dunsparce with Toxic before he gets behind a Substitute.</p>
+
+<p>Since this set will only use one coverage move, Pokemon that can deal with the type that walls Dunsparce are necessary. If you choose Earthquake, Choice Banded Spiritomb is a good Pokemon to trap and KO Ghost-types. Spiritomb also has the advantage of being immune to Fighting, which allows him to switch in easier. If you opt for Bite, Dugtrio can come in, trap the Steel-type Pokemon, and KO it with Earthquake (or at least severely damage it). However, since Dugtrio is so frail, be wary of switching him directly into attacks.</p>
+
+[Other Options]
+
+<p>Like most Normal-types, Dunsparce has an extensive movepool with many cool attacks that could work with Serene Grace. Sadly, most of his other physical options have mediocre coverage with Headbutt. Some of these notable attacks include Poison Jab and Iron Tail. Poison Jab's chance to Poison and Iron Tail's chance to lower defenses rise to a 60% chance with Serene Grace, making them somewhat viable, though they still have bad coverage.</p>
+
+<p>On the special side, Dunsparce has two notable moves that can boost his low Special Attack stat: Calm Mind and Charge Beam. Unfortunately, Dunsparce isn't bulky enough to abuse either of these, and doesn't hit hard enough with special attacks even after a boost. However, Dunsparce does have a plethora of special attacks that can take advantage of Serene Grace. These include: Thunder, Water Pulse, Shadow Ball, Ancient Power, Ice Beam, and Fire Blast. The increased secondary chances of these attacks make them more viable, though many of their effects are still unreliable.</p>
+
+<p>Dunsparce can use a support set with Stealth Rock, Roost, Thunder Wave, and a filler move, but doesn't really have the bulk to serve this purpose effectively. Alternatively, he can use Agility rather than paralysis to support his flinching moves. However, a 60% chance to flinch isn't particularly amazing by itself, and Dunsparce generally prefers paralysis since it adds another obstacle for the opponent to break through.</p>
+
+[Checks and Counters]
+
+<p>Bulky Fighting types can give Dunsparce some issues. Pokemon such as Hitmontop and Hariyama are bulky enough to take numerous Headbutts, and if they stop getting flinched for one turn, they can strike Dunsparce with a super effective, STAB Fighting attack. Hitmonlee is also problematic; although he isn't particularly bulky, Hitmonlee is immune to paralysis thanks to Limber and can outspeed and smash Dunsparce with a Close Combat.</p>
+
+<p>Generally, Rock- and Steel-types do well against Dunsparce. Although he can hit them with a super effective Earthquake, Dunsparce is so weak that even Earthquake won't do much damage. Due to this, Rhyperior, Registeel, Steelix, and even Aggron can counter Dunsparce. Rhyperior and Aggron can simply set up in Dunsparce's face, though Aggron can only set up with the SubPunch set and still has to predict properly. Dunsparce won't be getting past Registeel and Steelix anytime soon since they're both exceedingly bulky. Registeel can also paralyze Dunsparce, preventing him from outspeeding other paralyzed Pokemon.</p>
+
+<p>In general, any physically defensive Pokemon will do fine against Dunsparce. Although they risk getting haxed to death by Headbutt and paralysis, they are generally bulky enough to eventually PP stall out Headbutt. Even if these physically bulky Pokemon lack a recovery move to stall out Dunsparce, they can probably knock out Dunsparce eventually, or at least do enough damage to ensure that the next switch-in can easily KO him.</p>

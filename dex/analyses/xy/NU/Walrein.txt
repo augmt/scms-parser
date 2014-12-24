@@ -1,0 +1,13 @@
+Stallrein
+########
+name: Stallrein
+move 1: Substitute
+move 2: Protect
+move 3: Roar / Toxic
+move 4: Blizzard / Surf
+item: Leftovers
+ability: Ice Body
+evs: 232 HP / 220 Def / 56 Spe
+nature: Bold
+
+This is a sample set while we are currently working on analyses in the workshop.

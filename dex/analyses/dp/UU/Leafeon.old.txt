@@ -1,0 +1,91 @@
+[Overview]
+
+<p>Leafeon's nearly unresisted coverage and auspicious stat distribution make it a very difficult Pokemon for some teams to handle. Leafeon smashes through prominent physical walls such as Slowbro, Donphan, and Milotic and only has approximately three solid counters in Registeel, Steelix, and Weezing. Unlike other UU sweepers, Leafeon doesn't suffer from one-dimensionality, as it can also run two very effective defensive sets to surprise its usual responses. After all of these factors are considered, it becomes clear that Leafeon is one of the most versatile Pokemon in the metagame.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Leaf Blade
+move 3: Double-Edge
+move 4: Synthesis / Quick Attack
+item: Life Orb
+nature: Jolly
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>With high Speed and Attack, Leafeon is capable of sweeping an opponent's team with Swords Dance. In contrast to other Swords Dance sweepers such as Venusaur, Leafeon's niche is to obtain a Swords Dance boost on physical attackers due to its enormous base 130 Defense. Furthermore, Leafeon boasts great type coverage in its movepool; in UU, Grass- and Normal-type coverage is only resisted by Registeel, Shedinja, and Drifblim.</p>
+
+<p>Leaf Blade is Leafeon's primary STAB move, and it is capable of OHKOing frequently used physical walls such as Slowbro, Milotic, and Donphan after a Swords Dance. Noteworthy physical walls that Leafeon cannot OHKO are Miltank and Steelix, but they are both 2HKOed and cannot significantly threaten Leafeon in return. Double-Edge is Leafeon's primary attacking move against Flying-, Grass-, and Fire-types, which will often try to switch into a resisted Leaf Blade. To better understand why Double-Edge is chosen over the recoilless Return, consider that it can OHKO Moltres and 252 HP Venusaur after a Swords Dance boost. It also deals around 60% to defensive Arcanine, which means that it can be OHKOed with a little residual damage and Stealth Rock in play. Additionally, Double-Edge cleanly 2HKOes specially defensive Weezing after a single boost.</p>
+
+<p>The final slot comes down to two moves: Synthesis and Quick Attack. Synthesis is preferred as it allows Leafeon to offset residual damage and the recoil taken from Double-Edge and Life Orb. Given its high Speed and ability to threaten many Pokemon, Leafeon can find itself using Synthesis repeatedly. Quick Attack can be a great option to strike frail and fast Pokemon; but generally, it will not OHKO unless the target has been weakened substantially.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Stealth Rock support is essential since it makes it much tougher for Fire-, Bug-, and Flying-type Pokemon like Moltres, Scyther, and Altaria to repeatedly switch into Leafeon. Good Pokemon for setting up entry hazards for Leafeon are Regirock, Omastar, and Kabutops. Kabutops and Regirock can set up Stealth Rock and take on faster Fire- and Flying-type Pokemon that trouble Leafeon, while Omastar makes up for a general lack of offensive prowess by setting up both Spikes and Stealth Rock to facilitate Leafeon's sweep.</p>
+
+<p>Dugtrio makes a great partner alongside Leafeon because it can trap and 2HKO Registeel with Earthquake. Due to Leafeon's enormous 130 base Defense and high Speed, Registeel is much more likely to Thunder Wave than Iron Head, which gives Dugtrio an easier time switching in. Another defensive threat is Weezing, which can Haze Leafeon's boosts away, cut its attack with Will-O-Wisp, or attack with Sludge Bomb. Pairing Leafeon with Flash Fire users such as Houndoom and Arcanine allow it to sweep much easier; these Fire-types also have good type synergy with Kabutops and Omastar, which function well alongside Leafeon.</p>
+
+[SET]
+name: Baton Pass
+move 1: Baton Pass
+move 2: Swords Dance
+move 3: Roar / Synthesis
+move 4: Leaf Blade
+item: Leftovers
+nature: Jolly
+evs: 132 HP / 4 Atk / 120 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>Leafeon is one of the few Pokemon who can Baton Pass effectively due to its high Speed and exceptional Defense. Swords Dance is good for Leafeon to let it hit very hard and then pass it to a better sweeper for the situation if a hard counter comes in. Roar foils phazers such as Steelix or Drapion who would otherwise attempt to phaze Leafeon's boost before it can be passed. Synthesis can replace Roar if you prefer Leafeon to heal instead of stopping enemy phazers. Leaf Blade rounds out the set with an obligatory STAB attack; even with minimal EV investment, it can do surprisingly high damage to Slowbro, Donphan, and Milotic.<p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Max Speed EVs allow Leafeon to Speed tie with Pokemon in the base 95 Speed category, which is especially important against Houndoom and Drapion. 132 HP and 120 Def help optimize Leafeon's bulk so that it can Baton Pass safely. As a testament to Leafeon's bulk, Jolly Life Orb Ambipom's Fake Out will only deal 33.55% - 39.80% to it.</p>
+
+<p>Leafeon's attempt to pass a Swords Dance boost may benefit from dual screens. Uxie makes an exceptional dual screen user due to its bulky stat distribution and fair Speed. After it drops both Reflect and Light Screen, it can U-turn to safely switch in Leafeon. Uxie can also set up Stealth Rock to help your Baton Pass recipient score crucial OHKOs. As for receivers, Rhyperior is one of the best thanks to Leafeon's ability to draw in Registeel, making it easier for Rhyperior to set up Rock Polish. Flash Fire Arcanine is also an excellent recipient of Swords Dance as it can score an additional boost with Flash Fire to really send its damage output over the top. Its offensive power meshed with high Speed, solid overall bulk, and a good movepool make it an excellent choice for your team.<p>
+
+[SET]
+name: Physical Wall
+move 1: Wish
+move 2: Protect
+move 3: Leaf Blade
+move 4: Yawn / Roar / Heal Bell
+item: Leftovers
+nature: Impish
+evs: 252 HP / 252 Def / 4 SpD
+
+[SET COMMENTS]
+
+<p>Leafeon can be extremely effective in the UU tier as a physical wall thanks to its convenient resistances to Grass-, Water-, and Ground-type attacks. Leafeon's staggering base 130 Defense allows it to take on a number of potent physical threats including Feraligatr, Azumarill, Dugtrio, and Torterra. The icing on the cake, though, is having a reliable recovery move, a niche that other physical walls tend to lack.</p>
+
+<p>Leafeon has some useful support moves in its arsenal: Wish, Protect, Yawn, Roar, and Heal Bell. As a natural physical wall, Wish is too good to pass up on this set because it supports the entire team and acts as a reliable recovery move in conjunction with Protect. Yawn plays as a reliable scouting move, which quickly identifies the opposing team's responses to Leafeon and helps you form strategies in the long run. If Sleep Clause is in effect, Leafeon will be unable to phaze the foe with Yawn, so Roar is a good alternative. Heal Bell allows Leafeon to clean its entire team of status as needed, and can be invaluable in many situations. Leaf Blade provides Leafeon a way to dish out respectable damage to Pokemon such as Feraligatr and Azumarill, both of which are 2HKOed by Leaf Blade.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>To demonstrate Leafeon's bulk, here are some calculations:</p>
+
+<ul class="damage_calculation">
+<li>252 Atk Adamant Azumarill Ice Punch: 35.9% - 42.5%</li>
+<li>252 Atk Adamant +2 Feraligatr Return: 49.1% - 57.8%</li>
+<li>252 Atk Adamant +1 Feraligatr Ice Punch: 53.9% - 64.1%</li>
+<li>252 Atk Jolly Choice Band Dugtrio Stone Edge: 21.3% - 25.1%</li>
+<li>252 Atk Adamant Torterra Stone Edge: 24.9% - 29.3%</li>
+</ul>
+
+<p>Running Synthesis, Yawn, Roar, and Leaf Blade as the moveset allows Leafeon to circle through teams by alternating between Roar and Yawn to rack up entry hazard damage and potentially reveal your opponent's entire team. Synthesis fits in because it acts as an instant recovery move, as opposed to Wish which takes two turns. This version can perform much better with entry hazards on the field to rack up damage over time. Additionally, on any variant of this set, Return can be used over one of the supporting moves to patch up Leafeon's coverage and give it a way to deal damage to Pokemon like Venusaur when the need arises.</p>
+
+<p>A simple 252 HP / 4 Def / 252 Spe spread with a Jolly nature can also be used. Combined with Leafeon's high Speed and great physical bulk, this spread can act as a reliable switch-in to Pokemon such as Absol and Hitmonlee, in addition to those it already checks respectably well. Leafeon can switch into their assaults and threaten them with STAB Leaf Blade before taking a hit in return.</p>
+
+<p>Having Spikes and Stealth Rock on the field at the same time is helpful for the entire team due to the fact that Leafeon is capable of forcing many switches. Stealth Rock is more important than Spikes in general because Fire- and Flying-types will switch in most frequently, and taking 25% or more per switch can prevent them from countering Leafeon over time. The best defensive choice for this role is Omastar, as it has good defensive synergy with Leafeon and can set up both Stealth Rock and Spikes.</p>
+
+<p>To prevent Fire-types--Blaziken and Magmortar in particular--from recklessly switching in on Leafeon and wreaking havoc, Milotic serves as a great partner to take them on. Milotic is capable of surviving Fire Blast followed up by Superpower from Blaziken and Fire Blast followed up by Thunderbolt from Magmortar, which allows Milotic to OHKO them both back with Surf. Despite its 252 HP EVs, Leafeon is rather naked on the special side, meaning that it will be maimed by even neutral special attacks. Chansey, with its great special bulk, can handle a significant portion of the special sweepers in the UU metagame. Registeel, additionally, can help against Mismagius, one of the specially offensive Pokemon that Chansey can't beat reliably. Registeel is also capable of setting up Stealth Rock while hitting Mismagius with Iron Head until it faints.</p>
+
+[Other Options]
+
+<p>Leafeon has three useful support moves which were not mentioned in the above sets: Knock Off, Charm, and Tickle. Knock Off removes the foe's item, while both Charm and Tickle work to weaken physical attackers and generally force them to switch-out. Curse seems interesting, but you'll need to invest plenty of Special Defense EVs to get the best out of the set, and even then Registeel and Regirock do the job better because of their superior stat distributions for that role.</p>
+
+[Checks and Counters]
+
+<p>Weezing is the best Leafeon counter, as even a boosted Double-Edge will fail to OHKO it. Weezing can then strike back with Sludge Bomb or Will-O-Wisp, KOing or crippling Leafeon. Without Stealth Rock on the field, Houndoom and Arcanine can switch into Leafeon and threaten it out with their STAB attacks. Choice Scarf Moltres also breaks Leafeon successfully if it isn't switching into Stealth Rock recklessly. Should Leafeon lack Quick Attack, then faster Pokemon such as Espeon or Swellow can come in and force Leafeon to switch out with their powerful special and super effective attacks, respectively. Registeel completely walls Leafeon thanks to its pure Steel typing, and has access to Thunder Wave to neutralize Leafeon's beloved Speed. Steelix's enormous Defense stat lets it play similarly to Registeel against Leafeon, although it will still be taking respectable damage from boosted neutral Leaf Blade.</p>

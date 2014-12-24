@@ -1,0 +1,52 @@
+Overview
+########
+
+Zigzagoon is the only Pokemon in Little Cup with the rare Belly Drum + Extreme Speed combination. This allows it to sweep with a STAB +2 priority move and a maximized Attack stat, given it can find an opportunity to set up. However, its movepool is relatively sparse, lacking coverage options. It is also quite slow, which means that Pokemon that resist Extreme Speed can easily revenge kill Zigzagoon.
+
+Belly Drum
+########
+name: Belly Drum
+move 1: Belly Drum
+move 2: Extreme Speed
+move 3: Thief
+move 4: Protect / Rock Smash / Iron Tail
+ability: Pickup
+item: Berry Juice
+evs: 132 HP / 196 Atk / 28 Def / 108 SpD / 36 Spe
+nature: Adamant
+
+Moves
+========
+
+Belly Drum gives Zigzagoon an effective Attack stat of 52; this allows it to OHKO the majority of the tier with Extreme Speed, its main STAB move. Extreme Speed is powerful and has +2 priority, which means it is almost always guaranteed to go first, and it does massive damage to most Pokemon at +6. Thief allows Zigzagoon to steal useful items such as Tirtouga's Berry Juice, restoring Zigzagoon's health in the process. There are several options for the last move. Protect helps stop Fake Out users such as Aipom and Mienfoo. Rock Smash hits Pawniard, Ferroseed, and Lileep. Iron Tail hits Spritzee, which can survive a +6 Extreme Speed, as well as other Rock-types harder than Rock Smash. Seed Bomb is also an option to hit Tirtouga, Onix, and other Rock-types that is more accurate than Iron Tail.
+
+Set Details
+========
+
+The EV spread maximizes Zigzagoon's Attack, while also allowing it to survive Fletchling's 110 Base Power Acrobatics at 100% health. The other EVs are allocated into Speed, which allows Zigzagoon to outspeed Jolly Tirtouga. Pickup is convenient to obtain Berry Juices, and while it is a rare occurrence, it still can be helpful in some situations. Berry Juice is used to heal back to 100% health after a Belly Drum.
+
+Usage Tips
+========
+
+Zigzagoon has limited mid-game use, but it has incredible late-game power. It can be used as a revenge killer for very weak Pokemon with an unboosted Extreme Speed, but almost everything can force it out, so it's not recommended. Zigzagoon is best used late-game when its counters are weakened or gone, or if the opponent sends out a Pokemon that can't hurt Zigzagoon enough to stop it from setting up.
+
+Team Options
+========
+
+Stealth Rock or Spikes are necessary to remove Sturdy or Focus Sash; thus, good partners are Dwebble, Onix, and Trubbish. Reflect, Light Screen, Encore, Safeguard, and Memento greatly aid Zigzagoon in helping it set up. Pursuit users such as Pawniard and Houndour help remove Ghost-types. Having a Fighting-type Pokemon on your team, such as Mienfoo or Timburr, really helps Zigzagoon; they can handle Rock- and Steel-type Pokemon that resist Extreme Speed, while also hitting Ghost-types with Knock Off, meaning that most of Zigzagoon's counters are taken care of. Knock Off support from Mienfoo or Pawniard is also important, as even at +6 Zigzagoon struggles to KO bulkier Pokemon such as Vullaby and Spritzee. Zigzagoon appreciates the use of lures such as Hidden Power Fighting Vullaby to weaken or even OHKO counters such as Pawniard.
+
+Other Options
+########
+
+A set consisting of Gluttony with a Salac Berry and an EV spread of 196 Atk / 28 Def / 28 SpD / 196 Spe, alongside an Adamant nature, can get Zigzagoon to +6 Attack and +1 Speed straight away, allowing it to outspeed the whole unboosted metagame. This really helps against Pokemon that manage 19 Speed. Gunk Shot will OHKO Spritzee at +6 while having slightly better accuracy than Iron Tail.
+
+Checks & Counters
+########
+
+**Ghost-types**: Ghost-types are immune to Extreme Speed and often outspeed Zigzagoon; Gastly and Drifloon are just a few examples of Ghost-types that give it trouble.
+
+**Rock-types**: Rock-types resist Extreme Speed and can often deal heavy damage to Zigzagoon, as it is quite frail. Some examples include Lileep, Tirtouga, Archen, Dwebble, and Onix.
+
+**Steel-types**: Steel-types such as Pawniard and Magnemite resist Extreme Speed and can hit back hard. Ferroseed can also survive a hit and use Gyro Ball or Thunder Wave, either dealing heavy damage to or crippling Zigzagoon.
+
+**Fake Out**: If Zigzagoon is not carrying Protect, Fake Out users are very annoying, as after Zigzagoon has set up, Fake Out can often KO Zigzagoon.

@@ -1,0 +1,30 @@
+[Overview]
+
+<p>Budew is a Pokemon that has not been blessed with very many good qualities; its attacking stats are quite low, and it is very physically frail. Budew's only redeeming qualities are access to Spikes and decent Special Defense, which give it a small niche to work with. It does sport useful resistances to Fighting-, Electric-, and Water-type moves, which do give it a few opportunities to switch in. Overall, however, Budew is quite weak, and if not used for its very specific qualities, another Pokemon is certainly preferred in its place on a team.</p>
+
+[SET]
+name: Spiker
+move 1: Spikes
+move 2: Giga Drain
+move 3: Sludge Bomb
+move 4: Rest
+item: Eviolite
+ability: Natural Cure
+nature: Modest
+evs: 196 HP / 196 SpA / 36 SpD / 76 Spe
+
+[SET COMMENTS]
+
+<p>Budew reaches 23 HP and 21 Special Defense when holding an Eviolite, which is usually enough to set up multiple layers of Spikes. Giga Drain provides Budew with damage as well as modest healing, which is the perfect combination for this set. Sludge Bomb provides extra power, but lacks the healing that Giga Drain provides. Finally, Rest is a more potent form of healing for Budew to use, and the turns that would be spent sleeping can be avoided by switching out thanks to its ability, Natural Cure.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>If extra bulk is desired, an EV spread of 196 HP / 36 SpA / 196 SpD / 76 Spe is an option with a Modest or Calm nature. Synthesis can be used over Rest if one would rather have healing without the need to switch out. This set needs help against Tentacool, which can take all of Budew's attacks and Rapid Spin any Spikes that are set up. Houndour and other Fire-types are problems, as are Flying-types such as Doduo and Taillow. Chinchou is a fantastic teammate for Budew, as it checks all of the aforementioned Pokemon. Fighting-types are also good teammates as backup options to KO Houndour.</p>
+
+[Other Options]
+
+<p>Budew does have a few other interesting options to consider. A Life Orb or Choice Specs set could work with paralysis support, but many other Pokemon outclass Budew at such a role. Hidden Power Psychic is useful to do a bit of damage to Poison-types such as Tentacool, though it fails to KO most. Shadow Ball hits Gastly and Duskull, which is quite helpful at times. Hidden Power Fire's main use is to hit Ferroseed, but it has little utility otherwise. Sleep Powder is a great status move, but it is illegal with Spikes. While Grass Whistle is legal with Spikes, it is far too inaccurate to be worth the moveslot. Leaf Storm and Extrasensory are other attacking moves, but both are illegal with Spikes as well. Lastly, Swords Dance could work with Seed Bomb and Return on a Trick Room team, but Budew's low Attack stat means that it is entirely outclassed.</p>
+
+[Checks and Counters]
+
+<p>Tentacool is probably the best counter to Budew, as it can take any attack quite easily and has Rapid Spin to get rid of any Spikes that are set up. Flying-types avoid Spikes, and most of them can land an OHKO on Budew. Fire-types such as Houndour and Ponyta deal massive damage to Budew. Grimer walls Budew, though it can't prevent Spikes from being set up.</p>

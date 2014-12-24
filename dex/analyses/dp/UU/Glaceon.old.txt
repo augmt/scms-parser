@@ -1,0 +1,31 @@
+[Overview]
+
+<p>Glaceon is a flawed Pokemon whose unique assets are somewhat overshadowed by its weaknesses. While STAB Ice attacks are very useful, Glaceon's limited movepool gives it few tools to abuse its huge Special Attack stat with. Glaceon's low Speed forces it to rely on its defenses, which, while decent, are largely wasted due to Glaceon's lack of resistances and multitude of weaknesses (including one from Stealth Rock).</p>
+
+<p>It's not all bad news, however. Glaceon finds a niche on hail teams, where it can abuse its immensely powerful Blizzard and avoid some attacks thanks to its Snow Cloak ability. The fact that nothing is immune to Ice, together with Glaceon's lack of coverage, means that more often than not it is preferable to abuse the boosts of Choice items rather than maintain the ability to switch attacks. Overall, few teams specifically prepare for Glaceon, which may just lead to their frosty doom.</p>
+
+[SET]
+name: Choice
+move 1: Blizzard
+move 2: Hidden Power Ground / Hidden Power Grass
+move 3: Baton Pass
+move 4: Ice Beam / Shadow Ball
+nature: Timid / Modest
+item: Choice Scarf / Choice Specs
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>Glaceon's low Speed and high Special Attack make Choice Scarf the best option for its item. With a Choice Scarf and a Timid nature, Glaceon can outspeed Pokemon with a base Speed of 120, which includes all of UU and NU (except for Swellow and Electrode). Blizzard does plenty of damage even without a boost, making Glaceon a potent revenge killer under hail conditions. Many frail sweepers, such as Alakazam, are OHKOed by Blizzard after Stealth Rock, which means that Glaceon is extremely threatening to offensively oriented teams. This set can also be used with Choice Specs and a Modest nature, which shifts the focus from overwhelming sweepers to breaking past walls. Glaceon generally functions better in the former role, however, as it is easily revenge killed without Choice Scarf's Speed boost.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Hidden Power Ground adds coverage against Fire-types and Aggron, and allows Glaceon to at least dent Registeel. Hidden Power Grass is only recommended in conjunction with Choice Specs, as the Special Attack boost is required in order to 2HKO Bold Milotic. Baton Pass allows Glaceon to scout its counters, and is extremely effective together with Dugtrio to trap Registeel and Fire-types. Ice Beam lets Glaceon function outside of hail, but Shadow Ball is an option to provide coverage on Slowbro and Slowking, as well as the rare Jynx and Grumpig. If you are using Choice Specs and Hidden Power Grass, you can use Water Pulse, which OHKOes most Fire-types after Stealth Rock damage. However, the low Base Power makes it generally unappealing.</p>
+
+[Other Options]
+
+<p>Glaceon can work well as a recipient of Baton Passed boosts, especially Speed boosts. In this role, it can use the boosts for its own attacks and then pass them on when it gets low on health. Glaceon can equip a Life Orb and use its low Speed to run a Trick Room set with three attacks and Wish, although the lack of coverage means that it will be easy for the opponent to stall until Trick Room runs out. Wish can also fit on the Choice set over Baton Pass, especially if you have good switch-ins to Glaceon's common counters. With decent defenses and access to Heal Bell and Wish, Glaceon can run a defensive set, especially under hail conditions. However, it is generally outclassed by Articuno in a defensive role, who has much higher defenses, more resistances, Roost, and Pressure.</p>
+
+[Checks and Counters]
+
+<p>Glaceon's primary counters are Registeel, Chansey, and Milotic, although Milotic fears Specs Hidden Power Grass. Slowking deserves a special mention as a counter as any set without Hidden Power Grass or Shadow Ball will be walled endlessly by it. Most other Water-types do well, although those who lack reliable recovery will eventually succumb to repeated attacks and hail damage. Poliwrath is a good option since it can threaten Glaceon with Fighting-type attacks. Water/Ice-types, while rare, can easily take any attack that isn't Hidden Power Grass, and hit back with neutral Water-type attacks. Fire-types are decent checks, although they must be wary of Hidden Power Ground or Specs Water Pulse when switching in. Arcanine stands out among these as it has decent special bulk to cushion hits from Blizzard and even Hidden Power Ground. Hitmontop and Hitmonlee have the Special Defense to take a hit and can threaten back with super effective priority moves. Thick Fat Hariyama can easily take on Ice attacks and threaten back with STAB Fighting moves. Stealth Rock makes wearing down Glaceon much easier, as it will have to switch out a lot if it runs up against a bulky Ice resist.</p>

@@ -1,0 +1,70 @@
+[Overview]
+
+<p>Makuhita is a Fighting-type Pokemon with rather low stats in everything but HP and Attack. With an ability in Thick Fat, Makuhita gains resistances to Fire- and Ice-type attacks, making threats such as Houndour easy to deal with. It was given a large physical movepool to complement its decent Attack stat, including all of the elemental punches. However, Makuhita has a tough time against physical walls, such as Gligar, whose stats and typing allow it to easily counter Makuhita (as long as it does not come in on an Ice Punch). Overall, Makuhita is a decent Pokemon with, like every other Pokemon, its own flaws.</p>
+
+
+[SET]
+name: Lead
+move 1: Fake Out
+move 2: Rock Slide / Ice Punch
+move 3: Close Combat / Cross Chop
+move 4: Bullet Punch
+item: Oran Berry
+ability: Thick Fat
+nature: Jolly
+evs: 196 Atk / 36 Def / 36 SpD / 236 Spe
+
+[SET COMMENTS]
+
+<p>This is Makuhita's standard lead set. The main purpose is to use Fake Out on turn one, which will cause the opposing Pokemon to flinch. Makuhita can then proceed to do damage the opponent with either Close Combat or Rock Slide. Bullet Punch is helpful as it gives Makuhita a priority attack. Ice Punch is an option for hitting Gligar who would otherwise counter this set. Cross Chop can be used instead of Close Combat if the Defense and Special Defense drop is off-putting, but Makuhita's defensive stats are dangerously low to begin with. As for the item, Oran Berry lets Makuhita recover a good amount of health if it can last long enough for it to activate.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs may seem complicated, but they are used for a specific purpose. This spread gives Makuhita a Speed stat of 13 and an Attack stat of 15. The remaining EVs are invested in Makuhita's Defense and Special Defense stats for a bit of extra bulk. Rock Slide is the better move for this set, as it inflicts a good amount of damage and has a chance to make your opponent flinch if it can outspeed it. However, using Rock Slide means missing out on Ice Punch for Gligar, who can be a real problem. Toxic can be used if walls are proving problem, but it makes this set more of a supporter than an actual lead. Bronzor is a sturdy wall who takes care of Makuhita's weaknesses and can set up Stealth Rock. Any Pokemon who can set up entry hazards would be a good partner for Makuhita, as it can cause a lot of switches. Makuhita has trouble taking out Gligar and Pokemon who have decent attack stats, as its poor defensive stats would not stand a chance against them.</p>
+
+[SET]
+name: Support
+move 1: Force Palm / Toxic
+move 2: Whirlwind
+move 3: Fake Out / Protect/ Bulk Up
+move 4: Brick Break 
+item: Oran Berry
+ability: Thick Fat
+nature: Careful
+evs: 180 HP / 196 Def / 116 SpD
+
+[SET COMMENTS]
+
+<p>Rather than attempt a directly offensive approach, this set focuses more on supporting the team. The choice between Force Palm and Toxic depends on preference. If slowing a Pokemon is the main priority, run Force Palm, as it has a 30% chance to leave the opponent paralyzed. If you want to take down walls, run Toxic, as the residual damage caused can be a huge benefit to Makuhita. Brick Break is better than Force Palm when paired with Toxic, as having two Fighting-type attacks on the same is redundant. Whirlwind forces the opponent to switch out, and can be exceptionally helpful when paired with entry hazard support. Protect should be used only with Toxic, as it would be fairly pointless otherwise. Because of Makuhita's low Defense stat, Bulk Up is an option, as it gives boosts to both its Attack and Defense stats.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Toxic and Force Palm shouldn't be used together, as two status inflicting moves on one set can be redundant. Oran Berry recovers a good amount of health when Makuhita's falls below 50%, often saving its life. Makuhita's ability, Thick Fat, reduces damage from Fire- and Ice-type moves by 50%, increasing its defensive capabilities, making it much more combat efficient. Refresh is an option, as it cures any status condition Makuhita may suffer. Close Combat can be used over Brick Break for more power, but the reduction to Makuhita's Defense and Special Defense stats can be dangerous. Once again, a good partner would be Bronzor, as it resists all of Makuhita's weaknesses and can set up Stealth Rock. Also, a Baton Passer would be helpful, as Makuhita will take as much help as it can get in terms of stat boosts.</p>
+
+[SET]
+name: Trick Room Sweeper
+move 1: Belly Drum
+move 2: Close Combat / Cross Chop
+move 3: Bullet Punch
+move 4: Ice Punch / Fire Punch
+item: Oran Berry / Life Orb
+ability: Guts
+nature: Brave
+evs: 196 Atk / 180 HP / 36 Def / 36 SpD
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>This set makes use of Trick Room and Belly Drum to attempt a sweep. After using a Belly Drum, Makuhita reaches a staggering Attack stat of 64, allowing it to tear through almost any Pokemon. Oran Berry helps Makuhita recover most of the HP it loses after using Belly Drum, which is helpful. Bullet Punch is for hitting Pokemon who are slower than Makuhita, as they can outpace it if Trick Room is up. Close Combat and Cross Chop are both exceptional attacking options, but both have their flaws. Close Combat gives Makuhita a Defense and Special Defense drop every time it is used, while Cross Chop has shaky accuracy and less power. Ice Punch is the preferred option for the final slot for hitting Gligar, who would otherwise counter Makuhita. Fire Punch can be used as well to hit Bug-types and Bronzor, but has little use outside of that.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The item chosen depends on the team being used. Life Orb can be used for the boost in power, but it greatly reduces Makuhita's longevity, as Belly Drum already depletes half of its health. Oran Berry is preferred, as it recovers 10 HP after using Belly Drum. Makuhita is better used with the help of a dual screener so as to reduce damage taken. Once again, Bronzor makes for a good teammate, as it is a decent wall and covers Makuhita's weaknesses.</p>
+
+[Other Options]
+
+<p>Makuhita doesn't have too many other options due to its limited movepool. Fire Punch can be used to hit Bronzor and Bug-type Pokemon for super effective damage. Makuhita gets a couple of decent special attacks, but with such a terrible Special Attack stat, this is an inferior option. Earthquake is not used, simply because Makuhita's STAB Fighting-type attacks already hit most of the same opponents for more damage. Superpower is an option, but the drop to Makuhita's Attack and Defense stats can be severely dangerous.</p>
+
+[Checks and Counters]
+
+<p>Ghost-type Pokemon, such as Duskull, counter Makuhita very well, as they can switch into a Fighting-type move and cripple Makuhita with a status condition. Offensive Pokemon who outspeed Makuhita can be a major threat outside of Trick Room. Even Pokemon who don't outspeed Makuhita can severely damage it with priority moves. Koffing resists Makuhita's STAB attacks and can OHKO with STAB Sludge Bomb. Although it's a great partner, Bronzor can also be used to counter a Makuhita not running Fire Punch.</p>

@@ -1,0 +1,43 @@
+[Overview]
+
+<p>A horrible Pokemon. It can work somewhat with the right team and some Encore prediction though. Just hope you are lucky!</p>
+
+[SET]
+name: Staller
+move 1: Toxic
+move 2: Encore
+move 3: Protect
+move 4: Wrap
+item: Leftovers
+nature: Careful
+evs: 252 HP / 228 Def / 28 SpD
+
+[SET COMMENTS]
+
+<p>Shuckle's not that great, but he can work as a mini Wobbuffet with this Encore moveset. For this to work, you need Magneton and Dugtrio on your team. It won't work any other way. Toxic stuff and Protect to get HP back. When you predict a Substitute, Encore it and switch to Dugtrio. If you predict Aromatherapy, do the same. If you are bad at predicting, Shuckle won't work at all. You'll need to kill Skarmory off first with Magneton. Weezing will stop you no matter what you have, so I suggest you pack a Facade Swellow or Ursaring. Encore Will-O-Wisp, switch to Swellow, and OHKO nearly everything with Facade. Proceed to sweep. Obviously not as effective as Wobbuffet, but Shuckle is allowed in OU matches.</p>
+
+[SET]
+name: Rollout
+move 1: Defense Curl
+move 2: Rollout
+move 3: Rest
+move 4: Toxic
+item: Leftovers
+nature: Careful
+evs: 252 HP / 252 Atk / 4 SpD
+
+[SET COMMENTS]
+
+<p>Defense Curl to boost your Defense and the power of Rollout. Even with Shuckle's low Attack, Rollout can do some massive damage on the 4th and 5th roll.</p>
+
+[Other Options]
+
+<p>Body Slam can paralyze things like Gyarados trying to set up on you, Attract can stall. Nothing that isn't mentioned, really.</p>
+
+[EVs]
+
+<p>252 HP, rest in defenses how you see fit. Rollout version requires Attack.</p>
+
+[Checks and Counters]
+
+<p>Any Steel / Poison type are immune to Toxic, Shuckle's main offense. Zangoose can abuse Immunity to block Toxic, but loses to Rollout. Anything with Rest and anything with Substitute block Toxic, as well, and Substitute can scout for a Rollout miss. Blissey, Miltank, and Celebi can heal the entire team of Toxic. Gyarados and Tyranitar can Taunt Shuckle to block Toxic and Dragon Dance up, but Gyarados has to worry just a bit about Rollout.</p>

@@ -1,0 +1,87 @@
+[Overview]
+
+<p>Bidoof is often neglected as a generic in-game HM slave because of its poor stats all across the board. However, don't let this slave's ugly face fool you as it does have two very special abilities in Simple and Unaware, allowing it to set up twice as fast as other sweepers and hurt the opponent efficiently, or to easily counter stat uppers, respectively. These unusual gifts from Arceus are the only reasons Bidoof is not completely outclassed by other Normal-type Pokemon, so abuse them to their fullest.</p>
+
+[SET]
+name: Curse
+move 1: Curse
+move 2: Quick Attack
+move 3: Return
+move 4: Aqua Tail
+item: Oran Berry
+ability: Simple
+nature: Adamant
+evs: 204 HP / 236 Atk / 36 Def
+
+[SET COMMENTS]
+
+<p>This set utilizes Curse to its maximum potential to deal as much damage to the opponent as possible. With just one Curse, Bidoof gets to 30 Attack and 22 Defense, which are quite intimidating stats indeed. STAB Quick Attack is a must due to Curse lowering Bidoof's already-pitiful Speed, as its priority will remedy the Speed loss. While Return does not have priority, it is very strong after a Curse, and even Pokemon who resist it will be hit hard. The final slot should be Aqua Tail to hit Rock-type Pokemon for super effective damage and to strike Ghost-types neutrally; together, Normal- and Water-type moves also have perfect neutral coverage in Little Cup.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs maximize its HP and Attack, and the rest allow it to take physical hits a bit better. Bronzor can take some hits, even after a Curse, and possibly 2HKO Bidoof back with Psychic, so Magnemite is a good teammate for Bidoof to have as it can trap Bronzor and take it out with STAB Thunderbolt. Fast special attacking Ghost-types such as Gastly and Drifloon can be trouble for Bidoof with their Normal immunity, so having a Pursuit user such as Stunky can help trap and eliminate them for the rest of the match.</p>
+
+[SET]
+name: Special Attacker
+move 1: Charge Beam
+move 2: Thunderbolt
+move 3: Ice Beam
+move 4: Hidden Power Fighting
+item: Oran Berry
+ability: Simple
+nature: Modest
+evs: 204 HP / 40 Def / 240 SpA
+
+[SET COMMENTS]
+
+<p>This set focuses on boosting Bidoof's Special Attack, and hitting the opponents hard with powerful moves that offer a wide range of coverage. Charge Beam has a 70% (63% when factoring in accuracy) chance of boosting Bidoof's Special Attack from 14 to 28, more than enough to allow it to wreak havoc from there. Thunderbolt hits Mantyke and other Water-type Pokemon for good damage, Ice Beam defeats Dragon-type Pokemon such as Dratini, and Hidden Power Fighting allows it to hit Steel-types such as Magnemite for super effective damage.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs maximize Bidoof's HP and Special Attack stat, while giving it one Defense point. Oran Berry is the only suggested item because of Charge Beam's shakiness as it may not boost Bidoof's Special Attack or it could miss completely. Oran Berry will allow Bidoof to have more chances to set up. Once Bidoof has a boost, nothing can wall it; even 236 SpD Munchlax takes 53.3% - 66.7% from a boosted Hidden Power Fighting.</p>
+
+[SET]
+name: Unaware
+move 1: Ice Beam
+move 2: Thunderbolt
+move 3: Quick Attack
+move 4: Return
+item: Oran Berry
+ability: Unaware
+nature: Quiet
+evs: 204 HP / 196 Def / 36 SpD
+
+[SET COMMENTS]
+
+<p>Thanks to Unaware, which bypasses an opponent's stat boosts, Bidoof can easily counter dangerous threats such as Swords Dance Gligar and Krabby, Dragon Dance Bagon and Dratini, and many others. Ice Beam covers Gligar and other Dragon-types, while Thunderbolt destroys Pokemon such as Agility Mantyke and Swords Dance Krabby. Quick Attack is useful to finish off Pokemon that can survive the first attack. Finally, Return gives Bidoof a strong STAB move to deal more damage to specially-defensive Pokemon.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs are all invested into bulk, because most stat-uppers take a ton of damage from Bidoof's attacks without investment anyway. For example, Thunderbolt deals 80% - 100% to 36 HP Krabby and 90.9% - 109.1% to 76 HP Mantyke; Ice Beam does 87% - 121.7% to 0 HP / 0 SpD Gligar, 57.1% - 76.2% to 28 HP / 36 SpD Dratini, and 66.7% - 85.7% to Bagon. In sum, a combination of Stealth Rock, super effective move, and Quick Attack will take all of those Pokemon out. Oran Berry allows Bidoof to replenish health and counter more threats, while a Relaxed nature allows it to take hits easier. Its EV spread maximizes HP and Defense, while boosting its Special Defense by one point.</p>
+
+[SET]
+name: Baton Pass Receiver
+move 1: Substitute
+move 2: Return
+move 3: Quick Attack
+move 4: Aqua Tail
+item: Oran Berry
+ability: Simple
+nature: Jolly
+evs: 44 HP / 236 Atk / 36 Def / 188 Spe
+
+[SET COMMENTS]
+
+<p>Thanks to Simple, Bidoof doubles all the stat boosts that it gets, including those Baton Passed to it, turning Bidoof into a terrifying Baton Pass receiver. Normal and Water get perfect neutral coverage, allowing Bidoof to hit every Pokemon extremely hard. Note that stat drops are doubled too, so Intimidate will lower Bidoof's Attack by two when Baton Passed. Therefore, Gligar is the perfect Baton Passer to Bidoof because of Hyper Cutter, which prevents Intimidate from taking effect, as well as having the bulk to set up. Gligar has access to both Swords Dance and Agility, and if each move if used once, Bidoof will have +4 Attack and +4 Speed upon receiving the Baton Pass, which allows it to easily sweep through many teams. Substitute allows Bidoof to scout for dangerous moves, and once it's behind a Substitute, Bidoof is almost impossible to take out. Return is a powerful STAB attack that can KO almost every Pokemon that does not resist or have an immunity to it. Quick Attack has priority, and allows Bidoof to finish off opposing priority users such as Croagunk, provided they've been weakened enough.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Oran Berry is used so Bidoof has an easier time setting up a Substitute, and allows it to stay around longer. After one Swords Dance and Agility boost, Bidoof reaches 42 Attack and 39 Speed, and can easily demolish teams. The EV spread maximizes Attack and Speed, and boosts its HP and Defense stat by one point, allowing it to take hits more easily. Dual screen support is greatly appreciated, allowing Gligar to set up much more easily, while helping reduce the damage taken when Bidoof is sent in.</p>
+
+[Other Options]
+
+<p>Unfortunately, Bidoof's movepool is not very deep, meaning it does not have many other options to choose from. Shadow Ball can be used on the Special Attacker set to hit Psychic- and Ghost-type Pokemon, but does not have much utility otherwise. Thunder Wave allows Bidoof to cripple faster Pokemon, and Superpower can be used on the Unaware set to take out Steel-type Pokemon such as Aron. Rock Smash is an option over it that doesn't lower Bidoof's Attack and Defense, but keep in mind that Rock Smash has only 40 Base Power, which is not very strong, even after a boost.</p>
+
+[Checks and Counters]
+
+<p>Bronzor can somewhat counter Bidoof as it resists its STAB, is neutral to Aqua Tail, and is able to set up Stealth Rock to weaken Bidoof in the long run. Gastly can outspeed and defeat Bidoof with Sludge Bomb. Though not a true counter, Croagunk checks Bidoof very well. A combination of Fake Out and Vacuum Wave can easily knock out Bidoof. Croagunk also outspeeds every set but the Baton Pass Reciever, meaning that it can do these without fear of Quick Attack. Finally, Magnemite can come in on anything but a Fighting-type attack, and hit Bidoof hard with Thunderbolt.</p>

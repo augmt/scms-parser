@@ -1,0 +1,30 @@
+[Overview]
+
+<p>Excadrill is a powerful Pokemon in the VGC 2012 metagame due to its good typing and base 135 Attack stat. It has a respectable base 88 Speed stat that can be boosted greatly by one of Excadrill's abilities, Sand Rush, which doubles Excadrill's Speed in sandstorm. Excadrill's other ability, Sand Force, increases the power of its Rock-, Ground-, and Steel-type attacks by 30% when sandstorm is in effect. However, this is less useful due to Excadrill's relatively weak defenses; it rarely survives an assault from the opposing Pokemon to strike back with a Sand Force-boosted attack. Excadrill's true strength comes from its ability to fire off powerful STAB Earthquakes at Speeds higher than any unboosted Pokemon in the VGC 2012 metagame.</p>
+
+[SET]
+name: Sand Sweeper
+move 1: Earthquake
+move 2: Rock Slide
+move 3: X-Scissor
+move 4: Protect / Substitute
+item: Life Orb / Chople Berry
+nature: Adamant
+ability: Sand Rush
+evs: 60 HP / 252 Atk / 196 Spe
+
+[SET COMMENTS]
+
+<p>Earthquake is Excadrill's most powerful attack, receiving a STAB boost and hitting every Pokemon on the field (including its teammate). Unfortunately, Excadrill's movepool is somewhat lacking, so the third move can be any number of mediocre choices. X-Scissor hits popular Pokemon such as Latios, Latias, and Cresselia hard, making it the most desirable option. Finally, Substitute is a viable option over Protect because of Excadrill's high Speed in sandstorm, protecting it from status moves, such as Spore and Will-O-Wisp. The EVs listed allow Excadrill to outpace max Speed Choice Scarf Terrakion in sandstorm.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Excadrill works best with a teammate that can set up sandstorm easily, which means Tyranitar or Hippowdon due to their Sand Stream ability. A Tyranitar that is paired with Excadrill should carry Air Balloon, allowing it to avoid Excadrill's Earthquake until it is hit by another attack. Other good teammates are Pokemon that are immune to Earthquake, such as Flying-type Pokemon and Pokemon with Levitate. Excadrill often has difficulty with opposing Flying-types such as Zapdos, which is not OHKOed by any of Excadrill's attacks and can do heavy damage to Excadrill with Heat Wave, so Pokemon that fare well against Zapdos, such as Latios, work well with Excadrill. Conveniently, Latios also has Levitate, enabling it to evade Excadrill's Earthquake. Fighting-type Pokemon are often huge threats to Excadrill, as the latter cannot OHKO many of them and is hit super effectively by their STAB Fighting-type attacks. As such, Flying-type Pokemon with Intimidate, such as Gyarados and Salamence, are particularly good teammates for Excadrill. Cresselia is another Pokemon that is immune to Earthquake, and it can decimate Fighting-type Pokemon with STAB Psychic. Another useful teammate for Excadrill is Thundurus, as it can deal with threats such as Gyarados and Zapdos easily, and can also use Thunder Wave to slow down other Pokemon so that Excadrill can outspeed them should sandstorm be absent.</p>
+
+[Other Options]
+
+<p>As stated before, Excadrill's movepool is rather small, but it does have a few options outside of the ones listed. Although Excadrill learns both Swords Dance and Hone Claws, set-up moves are difficult to get off safely due to the fast-paced nature of double battles. If Excadrill can nab a Swords Dance boost, however, it becomes quite difficult to stop. Drill Run is an option over Earthquake, but Earthquake's ability to hit both opponents makes it more attractive in most situations. Bulldoze is another possibility, but unless Excadrill's teammates will benefit greatly from the potential Speed drop, it is not worth it. Brick Break and Aerial Ace are viable options, although their uses depend largely on Excadrill's teammates and what type coverage is necessary. It is possible to use Sand Force instead of Sand Rush and try to set up Trick Room to allow Excadrill to move before its foes, but this is a lot of work as neither Tyranitar nor Hippowdon learn Trick Room, and thus this strategy would consume 3 of your teamslots. The greater problem with this, however, is that Rhyperior and other naturally slow Pokemon are generally much better at this job than Excadrill. As for items, both Ground Gem and Focus Sash are reasonable choices for Excadrill, with the former giving Excadrill's first Earthquake an extra boost in power, and the latter making up for Excadrill's weak defenses. Both Occa and Shuca Berry are options as well, helping Excadrill handle certain Pokemon more easily. Mold Breaker can be a solid option for a Pokemon like Excadrill, who have Earthquake as a STAB boosted move. Allowing it to hit anything that would normally avoid Earthquake with the ability Levitate. Even though Sand Rush and Sand Force may seem to outclass it, Mold Breaker can be used with Excadrill on a team that doesn't feature sand.</p>
+
+[Checks and Counters]
+
+<p>Pokemon that are immune to Earthquake and pack strong, super effective attacks against Excadrill are the best counters to it. Good examples include Zapdos, Gyarados, Rotom-W, Rotom-H, and Hitmontop—the latter is not immune to Earthquake but often carries Intimidate to lower Excadrill's Attack. Garchomp makes a great check to Excadrill as it can KO the latter with STAB Earthquake, but it has to be wary of Excadrill's own Earthquake, which can 2HKO most variants of Garchomp. The same can be said for Terrakion; it can OHKO Excadrill with Close Combat, but must be wary of being outsped—even with Choice Scarf—and OHKOed by Earthquake.</p>

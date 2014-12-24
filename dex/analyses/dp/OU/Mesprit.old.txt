@@ -1,0 +1,97 @@
+[Overview]
+
+<p>BoltBeam and Psychic provide outstanding type coverage, allowing Mesprit to check some of the biggest threats in OU. High defensive stats allow it to take powerful hits, while above average offensive stats allow Mesprit to deal back decent amounts of damage. Mesprit is able to deal with threats such as Gyarados, Dragonite, Flygon, and Infernape with its great type coverage. Mesprit's only major downfall is the lack of a reliable recovery move outside of Rest. Wish support is always recommended due to Mesprit having to deal with such powerful hits.</p>
+
+[SET]
+name: Utility Counter
+move 1: Thunderbolt
+move 2: Ice Beam
+move 3: Psychic
+move 4: Thunder Wave / U-turn / Stealth Rock
+item: Leftovers
+nature: Bold
+evs: 252 HP / 180 Def / 76 SpD
+
+[SET COMMENTS]
+
+<p>This set is designed to KO dangerous OU sweepers such as Gyarados, Dragonite, and Infernape. Even without Special Attack EVs Mesprit is able to OHKO all 4 HP / 0 SpD Gyarados with Thunderbolt after Stealth Rock damage, all offensive Dragonite and Flygon with Ice Beam, and all Naive Infernape with Psychic. The EVs ensure that you never get KOed by these threats in return.</p>
+
+<p>Thunder Wave is the best option in the final slot as it gives Mesprit the chance to cripple faster sweepers and KO them on the following turn. Stealth Rock is another useful option, as it allows Mesprit to score an OHKO on Gyarados when it decides to switch in, and it also renders any Focus Sashes useless. U-turn allows Mesprit to escape an oncoming Tyranitar or Scizor before they are able to severely damage it with Pursuit.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs on this set are specialized to take hits as well as possible. Max HP is vital as it allows Mesprit to survive even boosted assaults from the most powerful OU sweepers. 180 Defense EVs ensure that Mesprit survives a +2 offensive Gyarados's Waterfall 100% of the time, and it also allows Mesprit to survive a +1 Outrage from Dragon Dance Dragonite. 76 EVs in Special Defense allow Mesprit to survive a standard Life Orb Gengar's Shadow Ball most of the time. This is shown in the damage calculations below, along with more OU threats included.</p>
+
+<ul class="damage_calculation">
+<li>+2 252 Atk Adamant Gyarados + Life Orb Waterfall vs 252 HP / 180 Def = 73% - 87%</li>
+<li>252 SpA Timid Gengar + Life Orb Shadow Ball vs 252 HP / 76 SpD = 84% - 99%</li>
+<li>252 Atk Adamant Machamp + Leftovers Payback vs 252 HP / 180 Def = 49% - 58%</li>
+<li>252 Atk Jolly Flygon + Choice Scarf Outrage vs 252 HP / 180 Def = 33% - 40%</li>
+</ul>
+
+<p>Stealth Rock support is helpful if Mesprit decides to not run it. Forretress makes a fine choice as it is able to switch in against Bug-, Ghost-, and Dark-type moves, while it is also able to remove entry hazards from Mesprit's side of the field. Stealth Rock is necessary to OHKO Gyarados after it switches in.</p>
+
+<p>Support from Wish is a massive help to Mesprit as it is unable to restore its health outside of Leftovers and Rest. Vaporeon is a great choice to do this as it has a huge HP stat and decent defenses. Blissey is another fine choice as she can switch in on Ghost-type moves with an immunity and threaten them with Thunder Wave. Mesprit and Blissey are a great defensive combination as they are able to switch in on each other's weaknesses. For example, Mesprit is able to switch in on Fighting-type moves that Blissey cannot handle.</p>
+
+<p>With the removal of Gyarados, Dragonite, and Gengar, Fighting-types such as Lucario and Infernape are able to set up without the fear of being KOed. After a boost from Swords Dance, Lucario will be almost unstoppable. Threats such as Tyranitar, Scizor, and Weavile will all be OHKOed by Close Combat and Crunch. Infernape is a great option as it can deal serious damage both physically and specially, allowing it to defeat Rotom-A with Fire Blast, Swampert with Grass Knot, and Blissey with Close Combat. Magnezone is another option as it can switch into Scizor's Bullet Punch and trap it with Magnet Pull. Magnezone can then take out Scizor with Hidden Power Fire or damage it with Thunderbolt. </p>
+
+[SET]
+name: Trick Room
+move 1: Trick Room
+move 2: Thunderbolt
+move 3: Ice Beam
+move 4: Psychic / U-turn
+item: Leftovers
+nature: Relaxed
+evs: 252 HP / 180 Def / 76 SpD
+ivs: 29 Def / 0 Spe
+
+[SET COMMENTS]
+
+<p>Mesprit makes an excellent user of Trick Room in OU due to its below average Speed and brilliant defensive stats. This set retains the ability to remove Gyarados, Dragonite, and Infernape with little trouble, while also allowing Mesprit to set up Trick Room and support slower members of its team. Thunder Wave isn't an option on this set as it will make the opponent slower than you, allowing them to outspeed Mesprit in Trick Room conditions.</p>
+
+<p>Trick Room allows Mesprit to support slow teammates. Thunderbolt and Ice Beam create the BoltBeam combination, giving great type coverage and being resisted by only Magnezone in OU. If Infernape or Gengar cause problems to your team, Psychic is the better option. U-turn allows Mesprit to escape the battle and scout oncoming attacks, as well as potentially bringing in a sweeper unharmed.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs on this set are the same as the above as they allow Mesprit to survive powerful boosted hits while being able to set up Trick Room for teammates. If you decide to use U-turn over Psychic, an alternative spread is recommended. 252 HP / 4 Def / 252 Spe with a Timid nature allows Mesprit to move after most opponents, allowing the switch-in to come in unharmed.</p>
+
+<p>Wish support is helpful here as it allows Mesprit to switch in and set up Trick Room multiple times. Vaporeon is a great teammate for this as it can switch in on Water-type moves with an immunity and support the team with Wish. Its low Speed is helpful too as it allows you to use Wish before taking a hit.</p>
+
+<p>As this set is designed for Trick Room, slow and powerful teammates are recommended. Metagross, Snorlax, and Magnezone make great choices as they all pose a significant threat in the OU tier. Metagross is able to rip holes in the opponent's team with its STAB-boosted Meteor Mash and powerful Explosion. Snorlax is a great tank for Trick Room teams as it can set up Curse and batter the opponent with boosted Body Slam and Crunch. Magnezone, on the other hand, attacks from the special side. If Blissey decides to come in and wall you, Magnezone is free to use Explosion in her face.</p>
+
+<p>Steel-types are good partners as they can switch in on Dark- and Bug-type moves aimed at Mesprit. Magnezone makes an excellent teammate with its typing and good defensive stats. A huge Special Attack stat will allow it to switch in on resisted moves and force its way through your opponent's team with STAB Thunderbolt. Magnezone also has the bonus of Magnet Pull, allowing it to trap Scizor and OHKO it with Hidden Power Fire.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Psychic
+move 2: Ice Beam
+move 3: Thunderbolt
+move 4: U-turn / Hidden Power Fire
+item: Choice Scarf
+nature: Modest
+evs: 72 HP / 252 SpA / 184 Spe
+
+[SET COMMENTS]
+
+<p>A great special movepool and high Special Attack make Mesprit an excellent revenge killer. 184 Speed EVs and a Choice Scarf allow Mesprit to outrun common OU threats such as Gengar and Dragonite, while it is able to OHKO them with a super effective move. Psychic is used as a reliable STAB move that hits Gengar and Machamp super effectively. Ice Beam will OHKO Dragonite and Flygon, while dealing huge damage to Celebi and Ground-types. Thunderbolt OHKOes Gyarados, and it also provides excellent type coverage alongside Ice Beam. U-turn allows Mesprit to scout Pursuit users switching in and gain information about the opponent's team. Hidden Power Fire allows Mesprit to hit Scizor super effectively upon its switch-in.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>184 Speed EVs give Mesprit 363 Speed, which allows it to outrun positive natured base 115 Pokemon. Max Special Attack is vital for Mesprit to deal as much damage as possible. The remaining EVs are placed into HP, giving Mesprit a little bulk. When using Hidden Power Fire, an extra 4 EVs should be placed into Speed to negate the lower Speed iv required.</p>
+
+<p>As this set removes common threats such as Dragonite, Gyarados, Gengar, and Infernape, setup sweepers have an easier time boosting their stats without the risk of being KOed. Dragon Dance Tyranitar is an option as Infernape and Dragonite are unable to hit it with Close Combat or Earthquake. A Babiri Berry is recommended however, due to the common usage of Scizor. Dragon Dance Kingdra is another option, as Mesprit is able to remove Dragonite from play. After a few boosts from Dragon Dance, Kingdra will be deadly with Outrage and Waterfall.</p>
+
+[Other Options]
+
+<p>Mesprit has an amazing movepool; there are many options to consider. Reflect and Light Screen allow Mesprit to support its teammates while weakening attacks aimed at it. Healing Wish is somewhat risky, but allows Mesprit to restore the health of a deadly sweeper, which opponents may be unable to handle a second assault from. This move may be tempting but the exchange of Mesprit's life is a big turn off. Magic Coat can cripple opponents that try to status Mesprit, which is helpful in OU as many Vaporeon and Blissey use Toxic. Finally, Grass Knot is usable if you lack a way to remove Swampert, but this limits Mesprit's type coverage.</p>
+
+[Checks and Counters]
+
+<p>Pokemon that resist the BoltBeam combination or take little damage from any specially based attack are great counters to Mesprit. Blissey is every special Pokemon's worst nightmare. With her mammoth HP stat and great Special Defense, she is able to wall Mesprit all day with no problem. Blissey is also able to weaken Mesprit with Seismic Toss as it is unable to recover its health without Rest.</p>
+
+<p>Magnezone is another great option as it takes minor damage from Thunderbolt, Ice Beam, and Psychic, while it is able to hit Mesprit with a STAB Thunderbolt or take most of Mesprit's health with Explosion.</p>
+
+<p>Tyranitar makes an excellent counter to Mesprit as it has an immunity to Mesprit's STAB Psychic, and it also takes a small amount of damage from the BoltBeam combination thanks to the Special Defense boost that sandstorm provides. Choice Band Tyranitar is able to OHKO Mesprit with Crunch 100% of the time, while Pursuit will also OHKO if Mesprit tries to escape.</p>
+
+<p>Scizor makes another fine option as it takes little damage from Psychic or Ice Beam, while Thunderbolt only 4HKOes a Choice Band variant. U-turn will always OHKO Mesprit when Scizor is holding a Choice Band and Mesprit has taken damage from Stealth Rock. Scizor also has access to Pursuit in case Mesprit tries to switch.</p>

@@ -1,0 +1,70 @@
+[Overview]
+
+<p>Umbreon can be an extremely deadly Pokemon because of its access to Mean Look, Baton Pass, and Taunt. It can make a great wall as well as a good supporter, and contributes Mean Look, Wish, Charm, and good Substitutes to a <a href="/rs/articles/baton_pass">Baton Pass chain</a>. It might open your team up to powerful hits such as Heracross's Megahorn and Focus Punch, though, so be careful. Pairing it with Dugtrio and using Baton Pass the first turn Umbreon is out is a good way to quickly patch up this weakness, however.</p>
+
+[SET]
+name: Mean Look + Baton Pass
+move 1: Mean Look
+move 2: Baton Pass
+move 3: Taunt
+move 4: Wish / Moonlight
+item: Leftovers
+nature: Bold / Calm
+evs: 252 HP / 32 Def / 224 Spe
+
+[SET COMMENTS]
+
+<p>This set is best used with Perish Song Celebi and boosting sweepers. Once you get Umbreon in safely, Taunt phazers and stat-boosters, use Mean Look, and pass to a counter. This strategy is harder than it seems, but it can be extremely effective in the hands of a skilled player. Wish is better if you can use it with proper prediction, especially as it can potentially heal a teammate, but Moonlight's instant healing is also highly useful. However, note that Moonlight's healing is halved in sandstorm.</p>
+
+<p>224 Speed EVs enable Umbreon to outspeed Dragon Dance Tyranitar. Maximize HP and dump the rest in Defense.</p>
+
+[SET]
+name: Curse + Baton Pass
+move 1: Curse
+move 2: Baton Pass
+move 3: Taunt
+move 4: Moonlight
+item: Leftovers
+nature: Careful / Calm
+evs: 252 HP / 120 Def / 136 SpD
+
+[SET COMMENTS]
+
+<p>Umbreon can also Baton Pass Curse boosts. Once again, it can block any attempts at phazing from the likes of Aerodactyl with Taunt and set up Curse to better tank physical hits while relying on its amazing Special Defense to sponge special attacks. Once it is done setting up, Umbreon can Baton Pass to a fast sweeper with a White Herb for a winning sweep.</p>
+
+[SET]
+name: WishPasser
+move 1: Wish
+move 2: Protect
+move 3: Baton Pass
+move 4: Toxic / Substitute
+item: Leftovers
+nature: Sassy
+evs: 252 HP / 120 Def / 136 SpD
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>Wish is yet another useful tool with which Umbreon can use Baton Pass to support its teammates. The 0 Speed IV and Speed-lowering nature ensure Baton Pass goes last so that Umbreon--and not its recipient--takes the incoming hit.</p>
+
+[SET]
+name: Mean Look + Toxic
+move 1: Mean Look
+move 2: Toxic
+move 3: Taunt / Protect
+move 4: Moonlight / Wish
+item: Leftovers
+nature: Careful
+evs: 252 HP / 32 Def / 224 Spe
+
+[SET COMMENTS]
+
+<p>This set can be exceedingly difficult to stop if used in conjunction with Magneton to eliminate Skarmory; Poison-types will still shut Umbreon down completely though. Houndoom is also a nice partner for this set as it can Pursuit Poison-types such as Gengar and Weezing. All Umbreon has to do is switch in safely; it can then begin a cycle of misery for the opponent by trapping the foe with Mean Look, hitting it with Toxic, and blocking recovery with Taunt, healing off any damage taken in the process with Moonlight or Wish.</p>
+
+[Other Options]
+
+<p>Umbreon can soften up opponents with Charm and Tickle for a teammate to sweep. It can also run Charm along with Wish to counter Curse users pretty easily. Torment can further aggravate opponents and Pursuit can be used as an offensive option, but these are generally not recommended due to their unreliability. Umbreon can also use Snatch with Baton Pass to catch boosts such as Dragon Dance and Curse as it is typically setup bait. Psychic can hurt common switch-ins such as Gengar and Heracross, but it has little other use.</p>
+
+[Checks and Counters]
+
+<p>Jolteon, Espeon, Mr. Mime, and other fast Substitute + Baton Pass users are Umbreon's best checks, while Taunt users such as Gyarados, Gengar, and Houndoom can prevent Umbreon from doing anything. If Umbreon doesn't invest in Speed, Taunt + Dragon Dance Tyranitar can set up on it too. Medicham, Primeape, Breloom, Hariyama, and Heracross can use their STAB Fighting- or Bug-type moves to stop Umbreon, and the Guts users among them love Toxic as well.</p>

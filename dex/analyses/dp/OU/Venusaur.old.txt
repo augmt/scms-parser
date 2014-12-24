@@ -1,0 +1,70 @@
+[Overview]
+
+<p>At first glance, it may seem unwise to use Venusaur over Roserade, who has higher speed, better Special Attack, and the ability to set up Toxic Spikes. However, Venusaur has a few unique tricks up its sleeves which allow it to function well in OU. Venusaur is much bulkier than Roserade, allowing it to take hits which Roserade isn't able to. Venusaur also has access to Swords Dance and Power Whip, turning it into a frightening sweeper. Other Grass-types such as Shaymin and Celebi don't outclass Venusaur either, because Venusaur's Poison typing allows it to absorb Toxic Spikes, allowing teammates to switch in without being crippled by poison. Venusaur has its own niche, which allows it to function well in OU, but don't go slapping it on every team and expecting it to be wonderful.</p>
+
+[SET]
+name: Leech Seed
+move 1: Leech Seed
+move 2: Sleep Powder
+move 3: Leaf Storm / Grass Knot
+move 4: Hidden Power Fire / Sludge Bomb
+item: Leftovers / Black Sludge
+nature: Calm
+evs: 252 HP / 24 SpA / 176 SpD / 56 Spe
+
+[SET COMMENTS]
+
+<p>Venusaur can perform excellently as a Leech Seed abuser, thanks to its great bulk coupled with the ability to incapacitate a counter or check with Sleep Powder. Leech Seed provides Venusaur with some form of recovery, while weakening the opposing Pokemon at the same time. Leaf Storm offers a powerful STAB move that hits many Pokemon hard, but lowers its Special Attack after every use. Grass Knot is a great alternative, still hitting quite hard thanks to many top Pokemon that reside in the tier being very heavy. Hidden Power Fire allows Venusaur to hit Steel-types that would otherwise wall this set, such as Scizor. Since Scizor is one of the most common switch-ins to Venusaur, and can also not get harmed by Leech Seed thanks to U-turn, it can easily switch in and hit Venusaur hard or allow the opposing team to gain momentum. Sludge Bomb can be used instead of Hidden Power Fire for a secondary STAB move, but Venusaur loses out on the ability to hit Steel-types.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Hidden Power Ground is an option in the last slot to hit Heatran. If it is used, Timid along with 252 Speed EVs should be used to outspeed Heatran, and be able to nail it with Hidden Power Ground. Note that a lot of bulk will be sacrificed if Venusaur is to run maximum Speed. Synthesis can be used over Leech Seed, as it offers more recovery. Unfortunately, sandstorm is a common effect in the metagame, and very often, Venusaur will only be healing a meager 25% health. The EVs are tailored to give Venusaur a lot of special bulk, while still being able to outspeed 0 Speed Rotom-A. The 24 Special Attack EVs allow Venusaur to break Gengar's Substitute with Hidden Power Fire.</p>
+
+<p>Unless Hidden Power Ground is used, Heatran is a great counter to Venusaur that can switch in on anything but Sleep Powder and force it out with a STAB Fire-type attack. Infernape functions similarly, and is able to outspeed all Venusaur and take it out with Fire Blast. Bulky Gyarados is a solid teammate to counter the aforementioned threats since he can take Fire Blast easily and take the typical coverage moves well. Gyarados can force both of them out, and use Dragon Dance on the switch.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Sleep Powder
+move 3: Power Whip
+move 4: Earthquake
+item: Life Orb
+nature: Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Venusaur can effectively run a Swords Dance set that is not outclassed by other Grass-types due to solid attacking options and access to Sleep Powder. Sleep Powder allows Venusaur to incapacitate a check or counter that switches in, while having an awesome STAB attack like Power Whip and good coverage in Earthquake practically makes this set worth running. Once set up against the omnipresent Swampert, Suicune, Vaporeon, or sleeping check, Venusaur can fire off powerful attacks backed by 526 Attack and Life Orb.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The below calculations show how powerful Venusaur is after a single Swords Dance.</p>
+
+<ul class="damage_calculation">
+<li>+2 Life Orb Power Whip vs 252/252+ Blissey: 94.7% - 111.5%</li>
+<li>+2 Life Orb Power Whip vs 252/252+ Hippowdon: 114.3% - 134.8%</li>
+<li>+1 Life Orb Power Whip vs 248/252+ Gyarados: 59.5% - 70.2%</li>
+<li>+2 Life Orb Power Whip vs 252/252+ Rotom-A: 84.2% - 99.7%</li>
+<li>+2 Life Orb Power Whip vs 252/4 Gliscor: 86.4% - 102%</li>
+<li>+2 Life Orb Power Whip vs 12/0 Breloom: 85.2% - 100%</li>
+<li>+2 Life Orb Power Whip vs 0/0 Gengar: 107.3% - 126.4%</li>
+<li>+2 Life Orb Power Whip vs 240/0 Machamp: 118.1% - 138.8%</li>
+<li>+2 Life Orb Power Whip vs 4/0 Celebi / Shaymin: 54.4% - 64%</li>
+<li>+2 Life Orb Power Whip vs 248/228+ Zapdos: 39.9% - 47%</li>
+<li>+2 Life Orb Power Whip vs 248/0 Zapdos: 55.6% - 65.8%</li>
+<li>+2 Life Orb Earthquake vs 248/0 Scizor: 60.6% - 71.1%</li>
+<li>+2 Life Orb Earthquake vs 252/224+ Jirachi: 75.7% - 89.1%</li>
+<li>+2 Life Orb Earthquake vs 0/0 Jirachi: 122% - 143.7%</li>
+</ul>
+
+<p>Occa Berry is an option over Life Orb so that Venusaur can take a Fire-type move from the likes of Choice Scarf Heatran and OHKO back. Venusaur outspeeds non-Choice Scarf Heatran and Adamant Lucario, allowing Venusaur to nail them both with Earthquake before either of them can attack. Sludge Bomb can be used over Sleep Powder to 2HKO Shaymin and Celebi and OHKO Breloom even with a Jolly nature. Return can be used to hit Dragonite, Zapdos, and other Grass-types for more damage. The EV spread is a standard offensive spread, maximizing Attack and Speed so Venusaur can hit harder and outspeed as many foes as possible. The remaining 4 EVs are put into HP because you might as well to boost Venusaur's bulk slightly.</p>
+
+<p>Most Pokemon will take a lot of damage from a boosted Power Whip, even if resisted. Celebi is probably the best check to this Venusaur, since it resists both Power Whip and Earthquake and can remove sleep if necessary thanks to Natural Cure. Celebi can also pack STAB Psychic and Recover to deal with Venusaur and keep itself healthy. Since Celebi and Skarmory are both problematic Pokemon for this set, Choice Scarf Scizor and Magnezone are nice choices to bring along. With a Choice Scarf, Scizor can easily switch into Psychic without fear of Hidden Power Fire on the next turn and U-turn to destroy Celebi or keep up momentum. A Magnezone of your own can also be used to take out opposing Skarmory so that Venusaur can more easily attempt its sweep.</p>
+
+[Other Options]
+
+<p>Venusaur does not have many viable options in OU. Growth can be used to boost Venusaur's Special Attack, and with a set of Grass Knot, Sludge Bomb, and Hidden Power Fire or Hidden Power Ground, Venusaur should not be taken lightly. Hidden Power Ice is another option, hitting Zapdos, Dragonite, and Grass-types hard. Light Screen can be used to lower the damage output of special attacks that are directed at your team. Roar isn't a bad option either, allowing Venusaur to phaze threats that try to set up on it. Finally, Toxic can be used to cripple a bulky wall, preventing them from doing their job.</p>
+
+[Checks and Counters]
+
+<p>Though Venusaur has quite a few counters that can dispose of it, all checks and counters must beware of a potential Sleep Powder, which could severely cripple them. For that reason, it would be wise to switch in a status absorber to take the Sleep Powder before switching to your counter. Once sleep clause has been activated, Venusaur becomes much easier to counter, as there are a number of Pokemon who resists Venusaur typical attacking options. Skarmory is without a doubt the best counter to physical sets. Even boosted Power Whips don't bother it thanks to its typing, which 4x resists Grass-type attacks. It is also immune to Earthquake, meaning that there is nothing Venusaur can do to hurt Skarmory. In return, Skarmory can easily set up Spikes on Venusaur, smash it with Brave Bird, or phaze it with Whirlwind. Zapdos can switch into Venusaur and either set up a Substitute or fire off a powerful Heat Wave. Dragonite is also not weak to any of Venusaur's attacks, and can blast Venusaur away with Outrage. Note that Venusaur may carry Hidden Power Ice on some special sets, but it's never strong enough to OHKO Dragonite. Choice Scarf Heatran can switch in on anything but a Ground-type attack and threaten Fire Blast, much the same way as Infernape. Celebi is a solid response to all Venusaur as well, since it's immune to Leech Seed, resists Grass- and Ground-type attacks, and can hurt Venusaur with STAB super effective Psychic.</p>

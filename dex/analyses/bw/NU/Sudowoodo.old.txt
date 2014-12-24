@@ -1,0 +1,55 @@
+[Overview]
+
+<p>Sudowoodo, as with most other Rock-type Pokemon, has high Attack and Defense stats. Unfortunately, its pure Rock typing makes the Imitation Pokemon weak to common attacking types, such as Grass, Water, and Fighting, and is therefore often shunned in favor of a Pokemon with a solid secondary typing. However, Sudowoodo does have one trick up its sleeve that sets it apart from other Rock-types: Wood Hammer. While other Rock-type Pokemon would flee from Water- and Ground-types, Sudowoodo can fight back, scoring many surprise KOs against unsuspecting opponents. Sudowoodo can also take on the role of a support Pokemon by laying down Stealth Rock and sponging hits from the common Braviary and Swellow. However, aside from that niche, Sudowoodo doesn't have anything over other Rock-types, so always keep that in mind when including it on your team.</p>
+
+[SET]
+name: Support
+move 1: Stealth Rock
+move 2: Stone Edge
+move 3: Wood Hammer
+move 4: Toxic
+item: Leftovers
+ability: Rock Head
+nature: Impish
+evs: 252 HP / 4 Atk / 252 Def
+
+[SET COMMENTS]
+
+<p>With a respectable Defense stat, Sudowoodo can easily take on a support role. It can set up Stealth Rock, which stops common threats from repeatedly switching in. Misdreavus can be used as a spinblocker to keep Stealth Rock present and also has the benefit of being immune to Fighting-type attacks. STAB Stone Edge hits surprisingly hard coming off its base 100 Attack, and is Sudowoodo's main way of dealing damage to foes. The inclusion of Wood Hammer sets Sudowoodo apart from other Rock-types; it allows Sudowoodo to hit Water- and Ground-types, which wall its fellow Rock-types, hard. Finally, Toxic is there to cripple opposing sweepers and walls.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Leftovers are necessary on this set due to Sudowoodo's lack of recovery. The given EVs and nature maximize Sudowoodo's Defense, allowing it to endure even the most powerful of physical attacks. This set makes an excellent counter to the common Flying-types in NU, being able to comfortably switch into Brave Bird or Facade and scare them out with Stone Edge (make sure to watch out for Braviary's Superpower though). However, Sudowoodo's low Special Defense makes it very vulnerable, so one must be careful around special attackers. Specially defensive Altaria works brilliantly in conjunction with Sudowoodo, being able to take the numerous specially based attacks directed at Sudowoodo and Roosting off the damage. Lickilicky also works well, being one of the tier's best special walls and also being able to pass enormous Wishes, replenishing Sudowoodo's HP. However, Sudowoodo should be cautious of Fighting-type attacks, which neither Sudowoodo nor Lickilicky resist.</p>
+
+<p>Rock Head increases Sudowoodo's survivability by negating Wood Hammer recoil, making it the primary option for the ability. Sturdy could be used, but in that case, Earthquake is recommended over Wood Hammer, as the recoil damage would break Sturdy.</p>
+
+[SET]
+name: Physical Attacker
+move 1: Stone Edge
+move 2: Wood Hammer
+move 3: Earthquake
+move 4: Sucker Punch 
+item: Life Orb / Choice Band
+ability: Rock Head
+nature: Adamant
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Thanks to a decent base 100 Attack and a good movepool, Sudowoodo can take on the role of a physical attacker. Once again, Stone Edge is a great STAB move and, thanks to the Attack investment, allows Sudowoodo to heavily dent foes. Earthquake is used with this to form the EdgeQuake combination, allowing Sudowoodo to hit most Pokemon for at least neutral damage. Wood Hammer allows Sudowoodo to decimate Water- and Ground-types, and being Sudowoodo's niche move, should always be present. Due to an abysmal Speed stat, Sucker Punch is used in the final move slot to take out faster, weakened foes.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Sudowoodo's poor Speed means it is outpaced by most Pokemon in the tier, and will therefore have difficulty sweeping. The given EVs allow it to beat uninvested base 60 Speed Pokemon, while the Adamant nature increases Sudowoodo's Attack. Having a Pokemon to set up entry hazards will be of great benefit to Sudowoodo. Cacturne for example can set up Spikes, allowing Sudowoodo to KO many more Pokemon. Garbodor is an alternative, being able to set up either Spikes or Toxic Spikes depending on the situation.</p>
+
+<p>While Sudowoodo has a good offensive presence, physical walls such as Tangela can stop it completely. To remedy this, a special attacker should be used to remove the said wall and give Sudowoodo a better chance of a sweep. Magmar works well in this role, being able to easily deal with Tangela thanks to its powerful STAB Fire Blast and immunity to sleep, while its coverage moves enable it to deal with most other physical walls.</p>
+
+<p>Rock Head is chosen to negate Wood Hammer recoil. Sturdy doesn't offer much use, as entry hazards will almost always be up. A Choice Band turns Sudowoodo into a spectacular wallbreaker. However, a Choice-locked Sucker Punch can easily be used as setup bait. This is easily remedied by using a Life Orb instead, but the decrease in power is very noticeable. Finally, Hammer Arm can be used over another move if you are having problems with Dark- and Normal-types, although this isn't recommended due to the superior coverage provided by its other moves.</p>
+
+[Other Options]
+
+<p>Sudowoodo has a couple of other options, thanks to its decent movepool. Double-Edge works well with Rock Head, but it sacrifices coverage and generally should be avoided. Rest allows Sudowoodo to fully heal, although due to the risk of being setup fodder, it should be used in conjunction with a cleric. Rock Slide can be used over Stone Edge for higher PP and accuracy, but the drop in power is very noticeable. Sudowoodo has access to the elemental punches, which may seem like a good idea, but the low Base Power and unneeded coverage makes these options inferior. Sudowoodo was also gifted with Focus Punch, allowing for a SubPunch set. However, Sudowoodo has difficulty forcing switches, and deciding which moves to swap out for Substitute and Focus Punch can be a pain. Explosion is also an option if you want to end with a bang, although the BW nerf and Sudowoodo's low Speed makes this difficult to use successfully. Sudowoodo gets two decent boosting moves in Rock Polish and Curse. Rock Polish doubles Sudowoodo's Speed, but even then it is still too slow to outspeed the top tier threats and too weak to get past a lot of the walls in the tier. The latter would be feasible were it not for Sudowoodo's poor Special Defense, which leaves it prone to special attacks when setting up. The Dream World gave Sudowoodo the Rattled ability, which raises its Speed by one stage when hit by a Bug-, Dark-, or Ghost-type move, all very common attacking types in the NU tier. While this seems usable, a Speed boost of only one stage means practically nothing to Sudowoodo.</p>
+
+[Checks and Counters]
+
+<p>Due to Sudowoodo's pure Rock typing, it possesses many common weaknesses and is therefore easy to counter. Most Pokemon can 2HKO Sudowoodo with a decently powerful special attack. Tangela is a nightmare to face, taking only neutral damage from Stone Edge while resisting Wood Hammer and Earthquake. A Giga Drain from it is a surefire 2HKO, even from the support variant. Bulky Psychic-types such as Musharna can set up all over a Sudowoodo lacking Toxic, taking only neutral damage from its attacks. In general, bulky Pokemon give Sudowoodo trouble.</p>

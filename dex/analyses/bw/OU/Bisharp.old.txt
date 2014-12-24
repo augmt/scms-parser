@@ -1,0 +1,51 @@
+[Overview]
+
+<p>The first thing that sticks out when one looks at Bisharp is his odd typing. Dark / Steel gives him two key resistances to Dragon- and Ghost-type attacks, but at the same time opens him up to super effective Ground- and Fighting-type moves, both of which are common in the metagame. Fortunately, Bisharp makes up for his weak defensive typing with his excellent base 125 Attack, which allows him to leave a large dent in many of his opponents. Bisharp does have a below average base Speed of 70, meaning he gets outsped and sometimes KOed by two-thirds of the metagame. At least, he would. Luckily he has access to the powerful Sucker Punch, nullifying his Speed issues and 2HKOing, or sometimes even OHKOing, most opponents that don't resist the move. Outside of this, Bisharp's movepool does give him a slight amount of maneuverability, allowing him to avoid being completely predictable.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Substitute
+move 2: Sucker Punch
+move 4: Brick Break / Iron Head
+item: Life Orb / Leftovers
+ability: Defiant
+nature: Adamant
+evs: 252 HP / 252 Atk / 4 Def
+
+[SET COMMENTS]
+
+<p>This is essentially the best set Bisharp can run. After a Swords Dance, Bisharp's Attack jumps to a massive 766, enough to OHKO just about anything in the metagame, bar Lucario or Conkeldurr, with STAB Sucker Punch. Alternatively, you could run Night Slash, which saves face against SubDisable Gengar, but it's not quite as powerful and doesn't have priority, so it's not recommended. Substitute helps Bisharp set up on an opponent's switch to Conkeldurr or Ferrothorn, then KO with Iron Head or Brick Break, respectively. The item choice is according to preference: in the end, it's a question of the power of Life Orb versus the survivability of Leftovers. Life Orb is recommended, but either one works.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The set deals nicely with common threats such as Reuniclus and Salamence, OHKOing both with Sucker Punch. If you find the recoil damage from Life Orb to be somewhat off-putting, Leftovers can be held to make life slightly easier after Substituting, but beware that Bisharp's moves will lose a great deal of power. The choice between Iron Head and Brick Break is purely subjective, as it all depends on who you want to hit. Iron Head can be used against bulky Pokemon resistant to Fighting-type attacks, such as Dragonite or Cosmic Power Sigilyph, while Brick Break allows for perfect type coverage to fill the hole left by Sucker Punch (which is ineffective against Dark-, Fighting-, and Steel-types, two of which Brick Break hits super effectively). Conkeldurr has little to no trouble weathering a resisted Sucker Punch and OHKOing with Drain Punch. This can be rectified by using Gengar to absorb the incoming attack and responding with the appropriate move.</p>
+
+<p>Max EVs in Attack allow for the aforementioned jump to 766 after Swords Dance; the HP EVs are mainly for sponging hits, but these can be shifted into defenses if you prefer. Inner Focus should only be used in place of Defiant if you plan on switching Bisharp to the front in the Team Preview, in case you run into the relatively rare Fake Out lead; this, however, is obviously not practical, and you're better off using Defiant since you get a free Attack boost on top of your (hopefully) already accumulated Swords Dance boosts when Intimidate users such as Gyarados try to switch in.</p>
+
+[SET]
+name: Thunder Wave
+move 1: Thunder Wave
+move 2: Pursuit
+move 3: Sucker Punch
+move 4: Brick Break / Iron Head
+item: Life Orb
+ability: Defiant
+nature: Adamant
+evs: 132 HP / 172 Atk / 204 SpD
+
+[SET COMMENTS]
+
+<p>Bisharp can also play the part of a bulky status inducer. Thunder Wave is vital to this set, as it greatly slows down faster set-up sweepers that would otherwise kill Bisharp off the bat and proceed to sweep. Sucker Punch, again, provides strong STAB priority, and is Bisharp's attack of choice. Pursuit is the second key element of the set, since it can take statused opponents who try to switch out by surprise. Once again, the last slot is up to preference: Iron Head for secondary STAB, or Brick Break to achieve perfect type coverage alongside Sucker Punch.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>As with the Swords Dance set, Fighting-types are the bane of Bisharp's existence. In these instances, Bisharp's best hope is to try and use Thunder Wave and switch out the next turn, although you must take care not to accidentally Thunder Wave a Conkeldurr. Life Orb, as usual, buffs Bisharp's Attack greatly at the cost of survivability. Toxic can replace Thunder Wave, but it only really makes a difference against Ground-types. As for the EVs, even with only 172 EVs in Attack, Bisharp reaches a not-too-shabby 361, while the Special Defense EVs defend against common special moves it can switch into, like Hydro Pump or Draco Meteor. As an alternative, you can max out HP to help sponge some hits, or the HP EVs listed can be shifted to Defense to help Bisharp survive more physical hits. Again, running Inner Focus on this set is not a good idea; in fact, it's actually a worse idea here, as Bisharp has no way to increase his Attack bar Defiant boosts.</p>
+
+[Other Options]
+
+<p>As stated previously, Bisharp's movepool depth is slightly above average, giving a fair few options outside of those listed. Low Sweep deals about the same damage as Brick Break, plus lowers the opponent's Speed, which is always welcome. Bisharp also has access to Stealth Rock, which can be used to great effect alongside Taunt and Thunder Wave on a makeshift lead set. Rock Polish can replace Swords Dance on the first set to fix Bisharp's low Speed, but its use is redundant with Sucker Punch, and the set greatly misses the power boost afforded by Swords Dance.</p>
+
+[Checks and Counters]
+
+<p>Conkeldurr tends to have a field day with Bisharp, switching in on a failed Sucker Punch and 2HKOing or sometimes OHKOing with Mach Punch. In fact, anything with a strong Fighting-, Fire-, or Ground-type move (assuming Bisharp doesn't have an Air Balloon) can beat Bisharp, as long as it resists, or at least takes neutral damage from, Sucker Punch, and has over base 70 Speed. Even non-Choice Scarf Heatran can outspeed Bisharp and OHKO him with Fire Blast.</p>

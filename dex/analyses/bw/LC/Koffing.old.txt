@@ -1,0 +1,54 @@
+[Overview]
+
+<p>It's not hard to see why Smogon praises Koffing. When taking a quick look at Koffing, you'll notice its exceptional Defense stat, resistance to the plethora of Fighting-type moves, and incredible ability in Levitate. Dig a little deeper and you'll find a good movepool filled with interesting attacking and supporting options. However, like most Pokemon, Koffing is not without its faults. Koffing's Special Attack stat is mediocre at best, which means that powerful attackers such as Chinchou and Magnemite can take advantage of it with ease. Additionally, Koffing's low Special Defense stat lets most special attackers 2HKO it. To make matters worse, Koffing doesn't have access to reliable recovery outside of Rest, giving it difficulty sticking around for very long. However, don't let these faults deter you; when played to its strengths, namely walling most physical attackers in Little Cup, Koffing can prove to be a valuable member of your team.</p>
+
+[SET]
+name: Pain Split
+move 1: Pain Split
+move 2: Clear Smog
+move 3: Will-O-Wisp / Toxic
+move 4: Fire Blast 
+item: Eviolite
+nature: Bold
+evs: 36 HP / 236 Def / 236 SpD
+
+[SET COMMENTS]
+
+<p>This is Koffing's bread-and-butter set. Pain Split is Koffing's best form of recovery in a fast-paced metagame such as Little Cup; 
+stealing the opponent's HP not only lengthens Koffing lifespan but also allows it to weaken foes. Clear Smog distinguishes Koffing from other physical walls, as it enables Koffing to take away stat boosts from the likes of Scraggy and Timburr, both of which are powerful boosting sweepers in Little Cup. Will-O-Wisp allows Koffing to cripple physical attackers such as Mienfoo, as well as causing prominent Koffing switch-ins such as Chinchou to take residual damage. Toxic is a viable option over Will-O-Wisp for crippling walls such as Chinchou, Lileep, and Hippopotas. Fire Blast rounds off the set by giving Koffing an option to hit Steel-types, such as Ferroseed and Bronzor, which would otherwise wall Koffing with ease.</p> 
+
+[ADDITIONAL COMMENTS]
+
+<p>Levitate is what puts Koffing over the edge as a physically defensive wall; the ability to wall Fighting-types and the popular Drilbur is a niche that no other Pokemon in Little Cup can fill. Like most Pokemon in Little Cup, Koffing should use an Eviolite to take physical and special hits, despite its low Special Defense stat. The listed EV spread gives Koffing 21 / 30 / 23 defenses; the low HP investment is necessary to ensure that Koffing gains as much HP as possible with Pain Split.</p>
+
+<p>Like many RBY Pokemon, Koffing has a lot of flexibility in terms of its moves. Sludge Bomb can be used over Fire Blast for a strong STAB attack that does respectable damage to the likes of Lileep. Flamethrower is a more accurate alternative to Fire Blast, but the drop in power is noticeable. Thunderbolt is useful for checking Water-types such as Staryu that like to switch into Koffing. Finally, Shadow Ball can be considered if your team is in need of a physically defensive wall that can check Misdreavus.</p>
+
+<p>As Koffing has a relatively low Special Defense stat, Pokemon that can take special attacks for it are good teammates. Porygon can take most special attacks for Koffing, and Koffing can take Fighting-type moves for Porygon. RestTalk Chinchou can switch into most Water-types that plague Koffing's existence and remove them with Volt Switch or Thunderbolt. Shroomish is another good partner as it has good synergy with Koffing and can take most Water-type moves. Misdreavus, one of the scariest setup sweepers in the tier, sets up on Koffing with nominal worries if Koffing isn't using Toxic. Thus, Stunky is a good partner as it traps and disposes of Misdreavus with ease.</p>
+
+[SET]
+name: RestTalk
+move 1: Rest
+move 2: Sleep Talk
+move 3: Clear Smog
+move 4: Fire Blast / Sludge Bomb
+item: Eviolite
+nature: Bold
+evs: 196 HP / 76 Def / 236 SpD
+
+[SET COMMENTS]
+
+<p>Koffing can use a RestTalk set efficiently thanks to its good Eviolite-boosted stats, good defensive typing, and awesome ability. Rest gives Koffing a recovery move that cures status and fully heals HP, and Sleep Talk prevents Koffing from being completely useless while sleeping. Clear Smog is a staple on Koffing, as it prevents setup sweepers such as Scraggy and Timburr from defeating it with ease. Finally, Fire Blast roasts Steel-types such as Ferroseed that like to switch into Koffing. Sludge Bomb is a viable alternative as it gives Koffing a reliable STAB move that hits harder against Water-types than Fire Blast.</p> 
+
+[ADDITIONAL COMMENTS]
+
+<p>Eviolite is just as necessary as it is on any defensive pivot as it allows Koffing to survive throughout the battle. The EVs maximize Koffing's defenses; there is no need to lower its HP to maximize Pain Split recovery. Koffing can viably run several moves in the fourth moveslot. Flamethrower is a less powerful Fire Blast that does not KO Steel-types as effectively but has perfect accuracy. Thunderbolt is useful for taking down Staryu, a Water-type that is known to switch into Koffing, and is also useful for checking Murkrow. Finally, Shadow Ball can be used if your team needs a physical wall that checks Misdreavus too.</p>
+
+<p>As Koffing doesn't have great Special Defense even with the boost from Eviolite, Pokemon that can take on powerful special attackers are good teammates. Lileep can easily beat most special attackers, while Chinchou and Shroomish can deal with Water-types. In return, Koffing can take on Fighting-types for this trio. Porygon can also sponge special attacks and pairs well with Koffing, which can do the same with physical attacks.</p>
+
+[Other Options]
+
+<p>Koffing has a pretty enormous movepool. With access to Sunny Day and Rain Dance, Koffing can act as a weather supporter. Taunt can stop Ferroseed and Shelmet from setting up Spikes. Destiny Bond is a cool surprise move that can take out key threats, but Koffing is a little too slow to use it effectively. Memento is nice for giving setup sweepers such as Scraggy a great opportunity to sweep. Stockpile is a interesting option, as unlike many Stockpile users, Koffing doesn't have to worry about Toxic.</p>
+
+[Checks and Counters]
+
+<p>Koffing is pretty easy to check; all you need to do is exploit its low Special Defense stat. Staryu, Chinchou, Misdreavus, Gastly, and nearly every other special attacker can 2HKO Koffing even if it has Special Defense investment. As Koffing doesn't have too much of an offensive presence, it's also not incredibly difficult for these Pokemon to switch into Koffing without taking much damage. Abra can even OHKO Koffing; it also doesn't fear burn and poison because of its Magic Guard ability. Ponyta is one of the few physical attackers that can defeat Koffing as it doesn't fear Will-O-Wisp and can 2HKO with a sun-boosted Flare Blitz.</p>

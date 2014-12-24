@@ -1,0 +1,13 @@
+Assault Vest
+########
+name: Assault Vest
+move 1: Gunk Shot
+move 2: Poison Jab
+move 3: Fire Punch
+move 4: Ice Punch
+ability: Poison Touch
+item: Assault Vest
+evs: 4 HP / 252 Atk / 252 SpD
+nature: Adamant
+
+This is a sample set while we are currently working on analyses in the workshop.

@@ -1,0 +1,77 @@
+[Overview]
+
+<p>Probopass is an odd-looking fellow, isn't he? Sporting an immense 145 base Defense and 150 base Special Defense, Probopass has the ability to take many hits and support his teammates with decent support moves such as Stealth Rock, Thunder Wave, and Gravity. Additionally, Probopass's Magnet Pull ability is somewhat useful, as it traps the few Steel-types in UU: Registeel, Steelix, Aggron, and Magneton. Everything looks good so far! However, upon closer inspection you'll notice that he's lacking in HP, while his typing gives him an unfortunate 4x weakness to both Ground- and Fighting-type attacks. Probopass is a flawed Pokemon, but if you give him the right support and cover his crippling weaknesses, he becomes a decent supporter and an unbreakable wall capable of checking many threatening Pokemon that reside in UU, such as Houndoom, Rotom, and some variants of Spiritomb.</p>
+
+[SET]
+name: Specially Defensive
+move 1: Stealth Rock
+move 2: Thunder Wave / Toxic
+move 3: Power Gem
+move 4: Earth Power / Thunderbolt
+item: Leftovers
+ability: Magnet Pull
+nature: Calm
+evs: 252 HP / 4 Def / 252 SpD
+
+[SET COMMENTS]
+
+<p>This set takes advantage of Probopass's great Special Defense and usable HP stats, turning him into a legitimate special tank. The heavy focus on Special Defense gives Probopass the ability to take on special attackers such as Rotom, Houndoom, and Spiritomb much easier, and the moveset is designed to make the best of the support options given to him. Stealth Rock, Thunder Wave, and Toxic are all helpful moves, and with Probopass's immense bulk, he can abuse said moves numerous times if need be. Power Gem is for STAB, while Earth Power and Thunderbolt are used for better type coverage, hitting Steel-types and bulky Water-types, respectively. Toxic should only be used alongside Earth Power, as Steel-types are immune to Toxic and take less damage from Thunderbolt, while Thunder Wave can be used to overcome Probopass's low Speed.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>As for other move options, Probopass can utilize Explosion, enabling him to deal huge damage and take out a possible threat to your team; when using Explosion, a Sassy nature is recommended since it doesn't lower Probopass's Attack. Explosion also turns Probopass into a lure for Ground-, Fighting-, and Water-types, letting him easily take them out and pave the way for a teammate to potentially sweep. Alternatively, Gravity can be used to support Probopass's teammates and boost the accuracy of more shaky moves. Other benefits of Gravity include an Earthquake which cannot be evaded, and the ability to use moves such as Zap Cannon. Chople, Shuca, or Passho Berry can be used to weaken super effective Fighting-, Ground-, or Water-type attacks. Rest and Sleep Talk overcome Probopass's lack of recovery, and they turn Probopass into a great sleep absorber and wall.</p>
+
+<p>Below are some damage calculations demonstrating Probopass's walling ability:</p>
+
+<ul class="damage_calculation">
+<li>Timid 252 SpA Vensaur Leaf Storm vs. 252 HP / 252 SpD Probopass: 41.7% - 49.1%</li>
+<li>Timid 252 SpA Houndoom +2 Fire Blast vs. 252 HP / 252 SpD Probopass: 57.4% - 68.5%</li>
+<li>Modest 252 SpA Moltres Fire Blast vs. 252 HP / 252 SpD Probopass: 45.7% - 53.7%</li>
+<li>Timid 252 SpA Rotom Thunderbolt vs. 252 HP / 252 SpD Probopass: 27.2% - 32.4%</li>
+</ul>
+
+<p>Unfortunately, due to Probopass's typing, he carries a nasty 4x weakness to Ground- and Fighting-type attacks, so a teammate who can switch into such moves is extremely helpful. Flying-types such as Altaria and Moltres are effective, as they are immune to Ground-type attacks and resist Fighting-type moves. Ghost-types such as Mismagius and Rotom are also great, as they pack immunities to both Fighting- and Ground-type attacks, while their Ghost typing gives them an immunity to Rapid Spin, preventing the Stealth Rock Probopass sets up from being removed.</p>
+
+<p>Bulky Water-types can be troublesome; however, such foes are easily defeated by the likes of Venusaur and Ludicolo, while Chansey and Clefable can stall them with Seismic Toss and Soft-Boiled. Toxic and Toxic Spikes are also helpful, as they cause worsening damage each turn, making it much harder to recover the damage. Dragon Dance Feraligatr can set up on most bulky Water-types who lack Hidden Power Grass, while Altaria can set up against those who lack Ice Beam. Finally, Hippopotas can be used alongside Probopass, as the sandstorm Hippopotas provides boosts Probopass's Special Defense by 50%. This allows Probopass to tank special hits much more effectively, and it ensures that Probopass will never be 2HKOed by +2 Houndoom's Fire Blast. Just be sure that the sandstorm doesn't hinder the rest of your team.</p>
+
+[SET]
+name: Trapper
+move 1: Magnet Rise
+move 2: Taunt / Substitute
+move 3: Earth Power
+move 4: Power Gem / Hidden Power Grass / Thunderbolt
+item: Leftovers
+ability: Magnet Pull
+nature: Modest
+evs: 172 HP / 252 SpA / 84 Spe
+
+[SET COMMENTS]
+
+<p>With his Ground-type weakness eliminated, Probopass is surprisingly difficult to KO, especially when Steel-types such as Magneton and Steelix cannot escape, and Probopass stops their attempts to phaze him with Taunt. Substitute is an alternative to Taunt, as it protects Probopass from status while giving him a turn to set up Magnet Rise or hit the opposing Pokemon with an attack. Earth Power deals great damage to Steel-, Fire-, and Electric-types, Power Gem hits Flying-types such as Moltres and Altaria, and Hidden Power Grass is used to 2HKO Ground-types such as Dugtrio and Donphan. Thunderbolt is mainly used for bulky Water-types such as Milotic, though support from Toxic Spikes is usually more effective in dealing with such foes; Thunderbolt also scores a super effective hit against most Flying-types.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Using a Modest nature along with 84 Speed EVs ensures that Probopass outruns most Steel-types in UU, most notably minimum Speed Registeel. Alternatively, you could run a more defensive spread without Speed or Special Attack, while using Toxic to stall bulkier opponents such as Donphan or Milotic.</p>
+
+<p>Ground- and Fighting-type moves are a problem for Probopass, so a teammate who can switch into them is recommended. Claydol can switch into both Ground- and Fighting-type moves with an immunity and resistance, respectively; Claydol also has access to Stealth Rock and Rapid Spin to support teammates. If you wish to go down a more offensive route, Moltres is a viable choice, as it can switch in quite easily and threaten opponents with STAB Fire-type moves; however, if you use Moltres, make sure you have Rapid Spin support, as it loses half of its health upon switching into Stealth Rock.</p>
+
+<p>As the main goal of this set is to trap and get rid of Steel-types, Pokemon who benefit from their removal are great teammates. Venusaur and Espeon can take advantage of a team which lacks Registeel, while Scyther, Absol, and Swellow can power through an opponent who lacks Steelix. Below are some damage calculations to give you an idea of the damage Probopass will be dealing to common UU Steel-types:</p>
+
+<ul class="damage_calculation">
+<li>252 SpA Modest Probopass Earth Power vs. 252 HP / 252 SpD Steelix: 40.1% - 47.5%</li>
+<li>252 SpA Modest Probopass Earth Power vs. 0 HP / 0 SpD Magneton: 185.9% - 219.1%</li>
+<li>252 SpA Modest Probopass Earth Power vs. 0 HP / 0 SpD Aggron: 160.9% - 190.7%</li>
+<li>252 SpA Modest Probopass Earth Power vs. 252 HP / 252 SpD Registeel: 22.5% - 26.9%<li>
+</ul>
+
+<p>Although the calculation against Registeel is unimpressive, it is easily defeated with Taunt; Iron Head deals a maximum of 20% to Probopass, while Magnet Rise makes Earthquake useless. If Registeel is proving to be a problem, Spikes support from Qwilfish or Cloyster may be helpful.</p>
+
+[Other Options]
+
+<p>Choice Specs can be used to give Probopass more power, and his special movepool is good enough to make it work. Probopass has access to Rock Polish, though his low offensive stats and poor Speed aren't going to help him accomplish a sweep any time soon. A Shuca or Chople Berry may be used to reduce damage from Ground- or Fighting-type attacks, respectively. Discharge can be used over Thunderbolt for its higher paralysis rate, which is helpful due to Probopass's terrible Speed. Ancient Power can be used for STAB instead of Power Gem, since the small chance of boosting Probopass's stats is nice if it works. Finally, Torment can be used alongside Protect, taking advantage of Probopass's decent typing and stalling ability.</p>
+
+[Checks and Counters]
+
+<p>Bulky Ground-types such as Donphan and Claydol are ideal counters, as they are immune to Thunder Wave and Thunderbolt, take little damage from Power Gem, and have STAB Earthquake to hit Probopass with; just make sure he doesn't have a chance to use Magnet Rise. Gligar can switch into Earth Power or Thunderbolt, while it can use Taunt to set up on Probopass. Dugtrio can switch into almost all of Probopass's attacks, trap him with Arena Trap, and KO him with STAB Earthquake provided he hasn't set up Magnet Rise.</p>
+
+<p>Bulky Water-types can take a few hits from Probopass, and even Hidden Power Grass and Thunderbolt can be recovered from, while they can hit Probopass with a super effective STAB Surf. Chansey and Clefable can take on most special-based sets thanks to their high HP and Special Defense stats, while using Seismic Toss to overcome Probopass's massive defenses. Most Fighting-types can take on Probopass, especially Hitmonlee with Limber and Hariyama with Guts.</p>

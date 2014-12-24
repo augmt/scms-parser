@@ -1,0 +1,41 @@
+[Overview]
+
+<p>Thanks to its brilliant offensive typing, high Defense, and low Speed, Slowbro makes for an effective counter to speedy attackers and weather sweepers. With the ability to set up Trick Room, outspeed most opponents under it, and deal with threats to other Trick Room sweepers, this 'Bro has what it takes to lead its team to victory. One must not write off Slowbro as just a physically bulky Slowking, as its unique traits allow it to fill a role that Slowking simply cannot.</p>
+
+[SET]
+name: Trick Room
+move 1: Trick Room
+move 2: Scald / Surf
+move 3: Psychic / Psyshock
+move 4: Protect / Ice Beam / Flamethrower
+item: Sitrus Berry / Mental Herb
+ability: Regenerator
+nature: Quiet
+evs: 244 HP / 156 SpA / 108 SpD
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>Slowbro relies on its high bulk to set up Trick Room, shrugging off the majority of physical attacks directed at it. Once Trick Room is up, Slowbro can function as a powerful, bulky sweeper with its good Special Attack, low Speed, and dual STAB attacks. Scald is its main attack, dealing solid damage while also having a nifty 30% burn chance. As Scald is a Water-type attack, rain support will greatly increase Slowbro's offensive power. Surf can be utilized to hit both opponents, but a suitable partner such as Ludicolo or Toxicroak is required to mitigate the damage that Surf will otherwise do.</p>
+
+<p>Psychic is used to take down Fighting-types such as Hitmontop, Toxicroak, and Hariyama; it also functions as a strong secondary STAB. Due to Slowbro's physical bulk, it is never 2HKOed by Sucker Punch from Hitmontop or Toxicroak without a Dark Gem, while Psychic will 2HKO in return. If Blissey or other special walls are of concern, Psyshock can be used instead to deal physical damage while still receiving a STAB boost.</p>
+
+<p>Protect is a staple in this metagame, allowing Slowbro to stop a predicted Fake Out or Taunt and guard itself from attacks while its partner eliminates a threat. However, using Protect will limit Slowbro's coverage, so either Ice Beam or Flamethrower can be used in its place. Ice Beam hits the ever-common Zapdos, Thundurus, and Latios for super effective damage, while Flamethrower will hit Metagross, Ferrothorn, Scizor, and Abomasnow, likely OHKOing the latter two outside of rain.</P>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread gives Slowbro near maximum overall bulk; the rest is put in Special Attack to nearly maximize damage. A 0 Speed IV is essential to make Slowbro as fast as possible under Trick Room. Slowbro's Regenerator ability and a Sitrus Berry grant it incredible longevity and the capability to take many hits. Mental Herb can be used to stop the effects of Taunt, virtually guaranteeing Trick Room gets set up.</p>
+
+<p>As Slowbro has trouble with bulky Water-types, it appreciates partners that can dispose of them. Ferrothorn works extremely well under Trick Room with its incredible bulk and powerful STAB Grass attacks. Eelektross is also an excellent Trick Room partner that can zap Water-types with STAB Electric attacks. Slow, bulky Fighting-types such as Conkeldurr, Scrafty, and Hariyama all benefit from Trick Room and can scare away Ferrothorn with STAB Fighting attacks; the latter two can also use Fake Out to give Slowbro a better chance of setting up Trick Room.</p>
+
+<p>Politoed's Drizzle ability brings rain, which boosts the power of Scald and Surf. Rain speeds up Swift Swim users as well, making them much slower while Trick Room is in effect. Slowbro also works well with Abomasnow, as hail makes Blizzard 100% accurate.</p>
+
+[Other Options]
+
+<p>A Wacan Berry can be used to decrease the damage from common Electric moves, which Slowbro is weak to, while a Colbur Berry can help Slowbro take a STAB Dark attack from the likes of Tyranitar and Scrafty. Slowbro can use Choice Specs to hit hard without any setup, but it will require Trick Room support from a teammate to perform this job well. Slack Off can provide it with an additional way to heal, but Slowbro must forgo either Protect or a coverage move. As mentioned, Blizzard has 100% accuracy in a hailstorm, and can be used on a hail team. Fire Blast hits noticeably harder than Flamethrower, but at the cost of lower accuracy. Grass Knot is an option to hit bulky Water types that would otherwise wall Slowbro. Shadow Ball and Signal Beam hit Ghost- and Psychic-types, but Slowbro's main STAB attacks are usually better. Icy Wind and Thunder Wave are good options to lower the opponents' Speed outside of Trick Room. Slowbro's physical bulk also lets it effectively use Counter to surprise physical attackers.</p>
+
+<p>Slowbro is capable of running a support role both in and out of Trick Room. Heal Pulse can be used to heal a partner and works well under Trick Room. However, Rage Powder or Follow Me can make this strategy backfire, and note that if Slowbro's partner faints before Heal Pulse lands, an opponent will be healed instead. Light Screen can be used to bolster your team's Special Defense, enabling Slowbro to better sponge strong super effective special attacks. Safeguard can be used to prevent status, notably sleep, which can put a stop to a Trick Room sweep.</p>
+
+[Checks and Counters]
+
+<p>Ferrothorn, Rotom-C, Ludicolo, and Amoonguss can take any attack in Slowbro's arsenal barring Fire Blast or Flamethrower and hit back with STAB Grass attacks. Rotom-W can take Slowbro's STAB attacks and swiftly KO with STAB Thunderbolt. Similarly, Zapdos and Thundurus can strike Slowbro down with their own STAB Thunderbolts. Due to Storm Drain, Gastrodon completely shuts Slowbro down if it lacks both Grass Knot and Psychic. Hydreigon's STAB Dark Pulse inflicts heavy damage, while Latios and Latias both have access to Thunderbolt; these Pokemon only fear the rare Ice Beam or Signal Beam. Lastly, Escavalier outspeeds Slowbro under Trick Room and will OHKO with STAB Megahorn; however, it must be wary of Flamethrower or a Scald burn.</p>

@@ -1,0 +1,13 @@
+Stealth Rock
+########
+name: Stealth Rock
+move 1: Stealth Rock
+move 2: Seismic Toss / Drain Punch
+move 3: Rock Slide
+move 4: Explosion / Protect / Thunder Wave
+ability: Clear Body
+item: Leftovers
+evs: 252 HP / 252 Atk / 4 SpD
+nature: Impish
+
+This is a sample set while we are currently working on analyses in the workshop.

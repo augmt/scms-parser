@@ -1,0 +1,67 @@
+[SET]
+name: Physically-based
+move 1: Rock Slide
+move 2: Earthquake
+move 3: Toxic
+move 4: Recover
+item: Leftovers
+nature: Adamant
+evs: 252 HP / 164 Atk / 92 SpD
+ 
+[SET COMMENTS]
+
+<p>Standard Cradily. Toxic foes, Recover off the damage. Cradily is a truly great special sponge, and makes the majority of Electrics cry for their respective Pokemon mothers.</p>
+
+[SET]
+name: Staller
+move 1: Amnesia
+move 2: Barrier
+move 3: Toxic
+move 4: Rest
+item: Leftovers
+nature: Careful
+evs: 252 HP / 164 Def / 92 SpD
+ 
+[SET COMMENTS]
+
+<p>Industrial strength stalling bullshit. This only works because of Suction Cups, and you'd better hope your opponent doesn't have a Poison-type.</p>
+
+[SET]
+name: Barrier + Mirror Coat
+move 1: Rock Slide
+move 2: Barrier
+move 3: Mirror Coat
+move 4: Recover
+item: Leftovers
+nature: Careful
+evs: 252 HP / 164 Def / 92 SpD
+ 
+[SET COMMENTS]
+
+<p>Barrier up, and when they give up and attack you with a special attack Mirror Coat it back in their faces.</p>
+
+[SET]
+name: Specially-based
+move 1: Giga Drain
+move 2: Hidden Power Fire
+move 3: Toxic / Rock Slide / Earthquake
+move 4: Recover
+item: Leftovers
+nature: Modest
+evs: 252 HP / 164 SpA / 92 SpD
+ 
+[SET COMMENTS]
+
+<p>Special Cradily. Watch out for Giga Drain's PP.</p>
+
+[Other Options]
+
+<p>It can Confuse Ray if you really feel the need to use the move.</p>
+
+[EVs]
+
+<p>Lots of HP and Special Defense. If you are using a Mirror Coat version, concentrate on your attack stats and Defense more.</p>
+
+[Checks and Counters]
+
+<p>Cradily is acceptable for use in the Underused metagame. In that environment the counters for Cradily are Meganium and Gligar. These two can generally switch into Cradily without fear. Sandslash also can switch into physical Cradily without much trouble. Watch out for Pokemon carrying the move Toxic, especially if you use Recover as your method of regaining health.</p>

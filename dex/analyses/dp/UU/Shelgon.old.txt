@@ -1,0 +1,51 @@
+[Overview]
+
+<p>Shelgon is a rather overlooked Pokemon in UU, mainly due to his NFE status. However, one who looks past such a label will notice quite a few reasons to use him. With the strongest Outrage in the UU metagame, good physical Defense, and a good boosting move in Dragon Dance, Shelgon can sweep unprepared teams.</p>
+
+<p>However, Shelgon is not without downsides. His Speed and Special Defense are extremely poor. While he can boost his Speed with Dragon Dance, he will still be outsped by faster attackers like Mismagius and Alakazam, who are extremely common in the UU tier. His poor Special Defense means that you must go out of your way to compensate in order for Shelgon to be used effectively. Shelgon needs to be well-supported in a team or not used at all.</p>
+
+[SET]
+name: Dragon Dance
+move 1: Dragon Dance
+move 2: Outrage
+move 3: Brick Break
+move 4: Dragon Claw
+item: Life Orb
+ability: Rock Head
+nature: Adamant / Jolly
+evs: 28 HP / 252 Atk / 228 Spe
+
+[SET COMMENTS]
+
+<p>Boasting the strongest Outrage in UU, Shelgon can easily poke gaping holes into the opposition's team after a Dragon Dance. The idea is simple: Dragon Dance up whenever you get the chance and start attacking. Outrage is for pure power, while Brick Break is Shelgon's strongest option against the Steel-types in UU who resist Outrage. Dragon Claw is mainly a filler move, but it allows Shelgon to dish out damage without having to lock himself into Outrage and potentially getting revenge killed.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>To demonstrate the power of Shelgon after he has used Dragon Dance, here are some damage calculations:</p>
+
+<ul class="damage_calculation">
+<li>+1 Outrage vs 252/252+ Milotic: 73.44% - 86.72%</li>
+<li>+1 Outrage vs 252/252+ Slowbro: 57.87% - 68.02%</li>
+<li>+1 Outrage vs 252/252+ Uxie: 57.06% - 67.23%</li>
+<li>+1 Outrage vs 252/252+ Tangrowth: 51.98% - 61.14%</li>
+<li>+1 Brick Break vs. 252/0 Registeel: 54.95% - 64.84%</li>
+<li>+1 Brick Break vs. 252/0 Steelix: 43.12% - 50.92%</li>
+</ul>
+
+<p>The EVs are relatively simple. Attack is maximized to deal as much damage as possible. 228 Speed EVs allow Shelgon to outrun neutral base 95s after a Dragon Dance, assuming an Adamant nature, although one may elect to run Jolly to outspeed their positive-natured counterparts. The rest of the EVs are dumped in HP, giving Shelgon some bulk. An alternative spread of 252 HP / 28 Atk / 228 Spe can also be used if one prefers bulk over immediate power. With this spread, Substitute and Leftovers can replace Dragon Claw and Life Orb, as the aim is for a more gradual sweep.</p>
+
+<p>While Shelgon packs enormous power, his poor Speed and Special Defense make it difficult to be able set up a Dragon Dance. It is a good idea to incorporate Encore and U-turn users to give Shelgon a free switch and an opportunity to set up. Dual screens are extremely beneficial to Shelgon. Clefable is possibly one of the best Encore users in UU due to her bulk and reliable recovery. She can also act as a defensive pivot to take special attacks aimed at Shelgon. Poliwrath and Azumarill can Encore and are capable of switching into the Ice attacks that are normally aimed at Shelgon. Lopunny and Mr. Mime gets special mentions for being able to use Encore and allowing Shelgon to switch in with Baton Pass; however, they are also defensively lacking and add to a team's frailty. Shelgon should preferably Dragon Dance on relatively weak-hitting enemies like Chansey and Uxie, but one must watch out for Thunder Wave and other forms of status, as they will either completely cripple Shelgon or deeply cut into his sweep.</p>
+
+<p>It is best to keep Shelgon for late-game, when faster special attackers have been eliminated or incapacitated, before attempting to sweep. It is also a good idea to eliminate or weaken any Steel-types on the opposing team as well. While this may sound like a lot of support, there are Pokemon who can do more than one of the above simultaneously. Magneton can trap Steels like Steelix and Registeel and hammer them with STAB Thunderbolts or a super effective Hidden Power Fire, although Magneton will generally lose to Registeel with Seismic Toss. The magnet can also set up dual screens for Shelgon. Dugtrio is another great partner to run alongside Shelgon, as he can trap and severely wound Steels not named Steelix so that Shelgon can just Brick Break through them. Bulky status spreaders like Uxie can also Thunder Wave faster opponents while setting up dual screens for Shelgon. Uxie can also use Memento to give Shelgon a free switch. Pokemon who can lay down Spikes also help Shelgon out immensely, as they can wear down opponents enough to get them into Outrage's kill range. Omastar and Cloyster are probably the best Spikers in the UU tier due to their great Defense and their ability to switch into Ice attacks directed at Shelgon and proceed to set up Spikes.</p>
+
+[Other Options]
+
+<p>A Choice Band set with attacks like Crunch, Rock Slide, and Fire Fang can be used, but is inadvisable due to Shelgon's terrible Speed and Special Defense. On the topic of Shelgon's other attacks, while they are available to Shelgon, it is best to stick to the moves given, as the rest of the attacks lack power and do not provide much additional coverage. Shelgon also has a wonderful special movepool, but his lackluster Special Attack does let him down. However, one may use a Choice Specs Shelgon lure in physical walls like Steelix or Slowbro and 2HKO them with Fire Blast or Draco Meteor. Iron Defense is also an option, but would generally be useless because Shelgon would be forced out by special attacks anyway.</p>
+
+<p>Shelgon can also go on a defensive route by utilizing a set with Wish, Protect, and Roar to wall physical threats like Aggron and Rhyperior. However, lack of Attack investment means that he is difficult to threaten said physical threats in any way, meaning Shelgon will lose eventually. Similarly, Shelgon can also run a RestTalk set, but again, lack of the Attack investment means he is not going to win against many physical threats either.</p>
+
+[Checks and Counters]
+
+<p>Steelix and Registeel are easily the best counters to Shelgon, only fearing a boosted Brick Break when they drop to around 60% health. Steelix can easily force Shelgon out with Roar, and Registeel can use Thunder Wave to cripple him.</p>
+
+<p>Generally, the easiest way to remove Shelgon is by preying on his horrible Speed and attacking him with a powerful special attack. Anything faster than base 100 Speed with a powerful special attack that hits for neutral or super effective damage can either force Shelgon out or just KO him if he's locked into Outrage.</p>

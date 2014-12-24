@@ -1,0 +1,71 @@
+[Overview]
+
+<p>Virizion is an excellent Pokemon in the VGC 2012 metagame. It has great STAB coverage against many common Pokemon, such as Tyranitar and Politoed. With base 108 Speed, Virizion outspeeds a large portion of the metagame, which makes it an excellent choice to attack quickly with great power. High Special Defense and decent HP stats, coupled with key resistance to Water-, Rock-, Ground-, and Electric-type moves—which are often seen in the form of spread moves—in addition to resistances to Grass- and Dark-type moves, enable Virizion to be both an effective wall and a supporting Pokemon as well. However, Virizion is limited by average offensive stats, a shallow movepool, low physical bulk, and weaknesses to Fire- and Ice-type moves. Overall, Virizion is an incredibly versatile Pokemon that can fit many roles on your team effectively if used wisely.</p>
+
+[SET]
+name: Physical Attacker
+move 1: Leaf Blade
+move 2: Sacred Sword / Close Combat
+move 3: Stone Edge / X-Scissor
+move 4: Protect
+item: Life Orb
+nature: Jolly
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Leaf Blade is Virizion's only physical Grass-type attack, and allows it to take down many common members of rain teams, such as Politoed, Jellicent, and Gastrodon, as well as other Water-types, such as Slowbro, Suicune, and Starmie. Leaf Blade also hits many Pokemon commonly found on sand teams, such as Hippowdon, Krookodile, Tyranitar, and Rhyperior, very hard. Sacred Sword and Close Combat provide Virizion with a strong Fighting-type STAB. Close Combat hits much harder and can gain KOs that Sacred Sword would miss out on, but the Defense and Special Defense drops leave Virizion extremely vulnerable to most attacks. Thanks to its Fighting-type coverage, Virizion is able to hit Excadrill and Heatran for super effective damage, and also dent other common Pokemon, such as Metagross. Although its accuracy is shaky at best, Stone Edge provides coverage against Flying-type Pokemon, such as Togekiss, Tornadus, Thundurus, and Zapdos. If Stone Edge doesn't cut it for you, X-Scissor is another option that allows Virizion to hit Grass- and Psychic-types, such as Ludicolo, Latios, Latias, and Cresselia, for super effective damage. Protect is a vital move in VGC that enables Virizion to avoid a turn of damage while its partner takes out an imminent threat.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Life Orb is the preferred item for this set thanks to the 30% boost it gives to all of Virizion's attacks; however, if you find the 10% recoil unappealing, Grass Gem or Fighting Gem are both viable options to boost one of Virizion's STAB moves for a one-time hit. Expert Belt is another option that boosts Virizion's super effective hits without any drawbacks. Maximum Speed investment and a Jolly nature enable Virizion to Speed tie with other base 108 Speed Pokemon, such as Infernape and Terrakion. Virizion can also run Safeguard or Helping Hand in place of X-Scissor, Stone Edge, or Protect; however, losing the coverage or protection granted by those moves can be dangerous and might not be worth your while. Virizion can also run Hidden Power Ice with a Naive nature to hit Landorus, Garchomp, and other Dragon- and Flying-types super effectively.</p>
+
+<p>Fire-types are good partners thanks to their ability to take down Ice-type Pokemon that threaten Virizion. Heatran and Chandelure make for exceptional partners to Virizion due to their Flash Fire ability, which gives them immunity to Fire-type moves, as well as their resistance to Ice-type moves. Virizion also appreciates Fake Out support, as it allows Virizion to take out threats while they are incapable of attacking; Hitmontop therefore makes for an excellent partner thanks to its access to both Fake Out and Wide Guard. Wide Guard can block the Heat Waves and Blizzards that plague Virizion, and Fake Out can give it a free turn in which to attack. Hitmontop also has Intimidate, which makes up for Virizion's lack of physical bulk. Furthermore, Hitmontop's access to Sucker Punch allows it to take out Chandelure and Latios, who pose major threats to Virizion. Follow Me and Rage Powder users can make for good partners to Virizion as well; however, Rage Powder users tend to be Bug-type Pokemon, who might be weak to the Flying-type moves that they are redirecting.</p>
+
+[SET]
+name: Special Attacker
+move 1: Giga Drain
+move 2: Focus Blast
+move 3: Hidden Power Ice
+move 4: Protect
+item: Life Orb
+nature: Timid
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>With a Special Attack stat equal to its decent Attack stat, Virizion can also run a set that capitalizes on its specially based movepool. Giga Drain provides Virizion with a strong Grass-type STAB in addition to recovery, which is something the physical set lacks. Focus Blast is Virizion's only special Fighting-type move, and its low accuracy is a major detriment to the set. However, thanks to its 120 Base Power, Focus Blast hits very hard and makes up for Virizion's merely decent offensive stat. Hidden Power Ice provides coverage against Salamence, Garchomp, and Landorus, all of which Virizion outspeeds. Protect allows Virizion to scout for moves and protect itself from damage for a turn.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Once again, Life Orb is the recommended item for Virizion. The attack boost is appreciated because Virizion's Speed stat requires it to use a Speed-boosting nature in order to keep up with common metagame threats such as Infernape, Terrakion, Garchomp, and Landorus. If the 10% recoil is unappealing, Expert Belt is once again a viable item to boost Virizion's super effective attacks by 20% at no cost. Grass Gem and Fighting Gem are also options, but their one-time-use might make them unappealing. The EVs maximize Virizion's Special Attack and Speed, which allows it to hit hard while keeping pace with speedy metagame threats. If you want Virizion to be slightly bulkier, a spread of 28 HP / 252 SpA / 228 Spe is viable; however, the reduced Speed only allows Virizion to outspeed base 105 Speed Pokemon, such as Mienshao.</p> 
+
+<p>Virizion will appreciate partners that can break through special walls, such as Cresselia and Blissey, whom it fares poorly against; the likes of Tyranitar and Hitmontop fill this role excellently. Tyranitar resists Flying-, Fire-, and Psychic-type moves, and can hit those three types for super effective damage with its STAB moves, while Hitmontop has access to Fake Out, Sucker Punch, Wide Guard, and Close Combat, which either dent special walls or prevent spread moves and normal attacks from harming Virizion. Virizion is very susceptible to weather when running this particular set, and particularly dislikes the Special Defense boost Tyranitar gains from sandstorm. Therefore, physical attackers who can OHKO Tyranitar, such as Hitmontop and other Fighting-types, make for very useful teammates.</p>
+
+[SET]
+name: Dedicated Support
+move 1: Reflect
+move 2: Light Screen
+move 3: Giga Drain
+move 4: Helping Hand / Protect 
+item: Sitrus Berry
+nature: Timid
+evs: 252 HP / 28 Def / 228 Spe
+
+[SET COMMENTS]
+
+<p>This set takes advantage of Virizion's vast support movepool. Reflect and Light Screen help lessen the damage that Virizion and its teammate might take. Virizion's Speed enables it to get these screens up before many strong slower attackers get a chance to move. Giga Drain stops Virizion from becoming Taunt bait, and also enables it to recover HP as it attacks, while Helping Hand can aid its partner in getting OHKOs it might not have been able to score without the boost, which makes Virizion a powerful ally. However, if Helping Hand isn't needed, Protect is a valuable tool to help keep Virizion safe from harm.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs and nature enable Virizion to outspeed Pokemon with base 105 Speed or less, and provide ample bulk to cushion hits. Other support options include Taunt, Quick Guard, and Safeguard, all of which might be worth considering over a screen if your team isn't particularly weak to either physical or special hits. Virizion can also run Sacred Sword instead of Giga Drain to hit a little harder, but without Giga Drain's HP recovery, Virizion will be forced to run Leftovers, which is usually an inferior option to Sitrus Berry. Leftovers can replace Sitrus Berry if it is being used by another Pokemon, but seeing as VGC matches don't run for very many turns, Sitrus Berry is preferred.</p>
+
+<p>As Virizion is a supporting Pokemon, its teammates will have to make up for its lack of offensive presence. Strong attackers, such as Dragonite, Latios, Terrakion, Volcarona, and Metagross, all appreciate screen support and Helping Hand's boosts to pick up a few extra KOs. Without a strong offensive partner, Virizion's support efforts will generally be wasted.</p>
+
+[Other Options]
+
+<p>Virizion could make use of any Choice item, but the lack of versatility of these sets can be crippling, especially in fast-paced VGC matches. Virizion's shallow movepool further limits the viability of a Choice item; it will usually have to rely on Hidden Power for coverage. Virizion has access to Calm Mind, Work Up, and Swords Dance, but these moves aren't very viable in VGC and often reveal your set, which makes them mediocre options at best. In conclusion, a fairly shallow movepool leaves Virizion with little to work with outside the listed sets.</p>
+
+[Checks and Counters]
+
+<p>Bulky walls tend to cause trouble for Virizion, especially if they only take neutral damage from Virizion's STAB attacks. Intimidate can cripple the physical set, and special walls will be able to take Virizion's hits with relative ease. Users of Drain Punch, such as Conkeldurr, can hit Virizion hard and regain HP at the same time, and they only take neutral damage from Virizion's STAB attacks. Virizion also has trouble with Dragon-type Pokemon. Even with Hidden Power Ice, Virizion will usually be unable to OHKO common Dragon-types; Latios, Dragonite, and Salamence can thus make quick work of Virizion. Flying-type Pokemon such as Tornadus and Fire-type Pokemon such as Infernape can take down Virizion with their STAB attacks as well.</p>

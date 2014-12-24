@@ -1,0 +1,95 @@
+[Overview]
+
+<p>Feraligatr is a Pokemon that is often overlooked in OU, largely because of its seemingly average stats. While base stats of 105 Attack and 100 Defense are by no means bad, its base 78 Speed is lacking for an OU sweeper. Fortunately, Feraligatr thrives in the rain-dominated metagame, as it powers up its Water-type STAB attacks in the form of Aqua Jet and Waterfall, which possess good neutral coverage. Its access to Aqua Jet, Crunch, Swords Dance, and a useful ability in Torrent give it a definite niche in OU over other physical rain attackers such as Gyarados and Azumarill.</p>
+
+<p>Although Feraligatr is an effective late-game sweeper thanks to Aqua Jet, it can also function well mid-game, as opposing weather starters that attempt to remove rain have a hard time switching into it. The only exception is Abomasnow, who still won't enjoy taking a hit from Feraligatr while eating hazards damage. Defensively, its Water typing allows it to overpower common bulky Water-types or other Pokemon that seemingly wall it, barring Scald burns.</p>
+
+<p>That said, Feraligatr does have a number of flaws. Its STAB is resisted by many popular OU Pokemon. Furthermore, it is too slow to freely spam Waterfall against offensive threats and therefore is forced to rely on Aqua Jet or its bulk to take a hit and dish back damage. However, given proper support, Feraligatr has the potential to wreak havoc due the fact that it is a forgotten threat with a specific niche, which gives trouble to a lot of stall teams already hard-pressed to cover common OU threats.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Aqua Jet
+move 3: Waterfall
+move 4: Crunch / Superpower / Ice Punch
+item: Mystic Water
+ability: Torrent
+nature: Adamant
+evs: 184 HP / 252 Atk / 72 Spe
+
+[SET COMMENTS]
+
+<p>The goal of this set is to come in late-game against something that cannot do much back to Feraligatr, such as Forretress, or more commonly, Pokemon that cannot knock Feraligatr out, which include OU powerhouses such as Keldeo, Terrakion, and Scizor. From there Feraligatr can proceed to grab a Swords Dance boost as the opponent attempts to weaken it or switch out. At this point, the opposing team should be weakened enough such that faster threats will either fail to OHKO Feraligatr and get knocked back by a boosted Waterfall or Crunch, or be picked off by a +2 Mystic Water--and possibly Torrent--boosted Aqua Jet in the rain, while any slower walls will succumb to Waterfall or Feraligatr's coverage move of choice.</p>
+
+<p>As stated above, Aqua Jet is the main selling point of this set. It allows Feraligatr to bypass its Speed issue and decimate weakened faster threats. Its power in the rain is almost comparable to Scizor's Bullet Punch, and it goes above and beyond that once Torrent kicks in. This might seem easier said than done, but Feraligatr's surprising bulk allows it to set up much more comfortably than expected. For instance, despite Keldeo's resistances to Water and Dark-type moves, it cannot take Feraligatr out in one hit and will fall to a boosted Waterfall + Aqua Jet. Gyarados also falls in the same vein. Additionally, Aqua Jet allows Feraligatr to check multiple boosting threats in OU, such as Terrakion, Scizor, and Volcarona.</p>
+
+<p>While it is tempting to use two coverage moves in place of Waterfall, a rain-boosted STAB Waterfall still comes in handy in most cases, as it allows Feraligatr to muscle through Hippowdon, Skarmory, Landorus-T, Gliscor, and less bulky Pokemon that resist Water-type moves. Superpower packs a massive punch and easily breaks through Ferrothorn, Gastrodon, and Chansey, among others; it can also be fired off unboosted to soften some threats, most notably Rotom-W. Ice Punch prevents Dragonite and Salamence from setting up on Feraligatr, and deals significant damage to other Dragon-types that resist Water, such as Latios, Latias, and Hydreigon. It also severely injures bulky Grass-types such as Celebi and Amoonguss, as well as less common ones like Tangrowth. Crunch, on the other hand, is the ideal choice for dealing with Jellicent, Celebi, and Slowbro. Crunch is listed first as it decimates the ever-so-common Jellicent and Celebi, and a boosted Waterfall will still hurt the other walls. Crunch also allows Feraligatr to support Keldeo, as it removes problematic Pokemon such as Jellicent and bulky Celebi, who cannot OHKO with Giga Drain. Keep in mind that a 2x-resisted STAB Mystic Water-boosted Waterfall in the rain still hits harder than any of Feraligatr's neutral coverage moves bar Superpower.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given Speed EVs allow Feraligatr to outspeed uninvested Rotom-W, and by extension any fast Jellicent. A bulkier spread can be used, however getting outsped and burned by Jellicent will put an end to Feraligatr's sweep. Conversely, more Speed EVs can be used to outspeed uninvested base 100 Speed Pokemon or Adamant Breloom at the cost of significant bulk.</p>
+
+<p>The power behind Feraligatr's attacks goes far beyond what its supposedly only average base 105 Attack might suggest, as shown by these calculations, all of which factor in a Swords Dance boost, Mystic Water, Torrent, and rain:</p>
+
+<ul class="damage_calculation">
+<li>Aqua Jet vs 248/0 Rotom-W 51.82% - 61.39%</li>
+<li>Aqua Jet vs 248/0 Latias 49.86% - 58.68%</li>
+<li>Aqua Jet vs 248/0 Scizor 96.5% - 113.99%</li>
+<li>Aqua Jet vs 192/64 Reuniclus 94.87% - 111.74%</li>
+<li>Aqua Jet vs 0/0 Latios 66.45% - 78.41%</li>
+<li>Aqua Jet vs 0/0 Dragonite (no Multiscale) 53.87% - 63.16%</li>
+<li>Aqua Jet vs 0/0 Starmie 73.18% - 86.21%</li>
+<li>Aqua Jet vs 0/0 Breloom 76.63% - 90.42%</li>
+<li>Aqua Jet vs 0/0 Keldeo 56.04% - 65.94%</li>
+<li>Aqua Jet vs 0/0 Jirachi 97.07% - 114.66%</li>
+<li>Waterfall vs 252/252+ Reuniclus 135.85% - 159.91%</li>
+<li>Waterfall vs 252/252+ Skarmory 113.17% - 133.23%</li>
+<li>Waterfall vs 252/88 Ferrothorn 69.89% - 82.1%</li>
+<li>Waterfall vs 248/16 Starmie 115.48% - 136.22%</li>
+<li>Waterfall vs 248/0 Rotom-W 103.63% - 122.11%</li>
+<li>Waterfall vs 248/0 Amoonguss 103.25% - 121.58%</li>
+<li>Waterfall vs 0/0 Dragonite (no Multiscale) 107.43% - 126.32%</li>
+<li>Crunch vs 252/252+ Slowbro 56.85% - 67.01%</li>
+<li>Crunch vs 248/216+ Jellicent 76.43% - 90.32%</li>
+<li>Crunch vs 248/0 Celebi 81.89% - 96.77%</li>
+</ul>
+
+<p>Getting into Torrent range is a big part of Feraligatr's performance. Luckily, Feraligatr's bulk allows it to weather most hits, even some super effective ones, and live with just enough HP to start a Torrent-boosted rampage. Here is a list of some common attacks that can bring it close to or into Torrent range, with the listed EV investment of 184 HP:</p>
+
+<ul class="damage_calculation">
+<li>252 Atk+ Kyurem-B Fusion Bolt 82.35% - 96.92%</li>
+<li>252 SpA+ Rotom-W Volt Switch 71.43% - 84.03%</li>
+<li>252 Atk+ Choice Band Scizor U-turn 52.94% - 62.46%</li>
+<li>252 SpA Life Orb Starmie Thunderbolt 73.95% - 87.39%</li>
+<li>252 Atk (+1) Terrakion Close Combat 81.79% - 96.64%</li>
+<li>252 SpA+ Life Orb Reuniclus Psychic 67.23% - 78.99%</li>
+<li>252 Atk+ Gyarados Waterfall (Rain) 29.41% - 34.45%</li>
+<li>252 SpA Choice Specs Keldeo Hydro Pump (Rain) 71.43% - 84.03%</li>
+<li>0 SpA Amoonguss Giga Drain 47.06% - 55.46%</li>
+<li>0 Atk Ferrothorn Power Whip 68.91% - 81.51%</li>
+<li>0 SpA Celebi Giga Drain 52.94% - 63.03%</li>
+</ul>
+
+<p>Naturally, entry hazards can jeopardize Feraligatr's tanking capability, so a spinner is recommended. Tentacruel and Starmie are arguably the best choices to support Feraligatr. The former can soak up Toxic Spikes, which is by far the most dangerous hazard for Feraligatr. The latter packs an offensive presence which has good synergy with it.</p>
+
+<p>Rain support is mandatory for Feraligatr to shine in OU. An offensive Politoed, especially a Choice Specs variant, is a good partner as it helps soften up Pokemon that resist Water-type moves such as opposing Tentacruel, Rotom-W, Latios, Starmie, and Ferrothorn. Speaking of Ferrothorn, it is also a good partner for Feraligatr, as it can take on or at least switch into common Pokemon that trouble Feraligatr, such as Latias, Latios, Amoonguss, Celebi, Starmie, and Rotom-W, and in return lay hazards to facilitate Feraligatr's late-game sweep.</p>
+
+<p>As far as items go, it is hard to find one with more utility and consistency than Mystic Water. Lum Berry can be used to get an extra Swords Dance or attack without worry of a status move or Scald burn. Life Orb is also an option as it further boosts Feraligatr's power (including that of its coverage moves), however it essentially puts a timer on Feraligatr's sweep, and is therefore not recommended. A Wacan or Rindo Berry can also prove useful in extending Feraligatr's sweep, although it requires specific and proper planning and will not perform as consistently as Mystic Water.</p>
+
+[Other Options]
+
+<p>There are a few other options that can be considered when using Feraligatr in OU, however it is hard to find one that is not outclassed by another Pokemon. Feraligatr can make good use of its bulk to run a Choice Band set, but Azumarill is better in this regard. Likewise, a Dragon Dance set is viable, but Gyarados usually performs this better due to its ease in getting two Dragon Dances up, which is necessary for either of them to outspeed common Choice Scarf foes.</p>
+
+<p>A Swords Dance set with Aqua Jet and two coverage moves can be used, as the combination of Superpower and Crunch can dispose of defensive cores such as Ferrothorn + Jellicent. Feraligatr also receives other physical moves that are worth mentioning, such as Aqua Tail, Earthquake, Return, Shadow Claw, and Low Kick. Waterfall is still preferred over Aqua Tail as it generally nets the same KOs while having perfect accuracy and a chance to flinch. Earthquake is a gimmicky option that hits Tentacruel, Toxicroak, and Jirachi harder, as well as making quick work of Ninetales that might think it can tank a hit in the sun. Return can be used to hit its checks and counters neutrally, barring Ferrothorn and Jellicent. Shadow Claw is an option over Crunch to keep a neutral hit on Toxicroak but loses some crucial OHKOs. Finally, Low Kick lacks the negative effects of Superpower and still gets the job done against Ferrothorn. However, it should be noted that Superpower is much more reliable against special walls and Rotom-W.</p>
+
+<p>A Substitute + Swords Dance set can be used at the expense of Aqua Jet or the coverage move, leaving Feraligatr with only Water-type attacks. Substitute is a nice surprise move as it can block status and ward off Scald burns, and reliably getting into Torrent + boosting-berry range is also a neat option to have. However, mono-Water-type attacks leave it completely walled by too many things and dropping Aqua Jet makes little sense as it is Feraligatr's main selling point. Substitute does work as a one-time cushion against revenge killers, but it will lose the ability to pick off weakened teams, which should be the goal of a team centered around Feraligatr.</p>
+
+[Checks and Counters]
+
+<p>Feraligatr's checks and counters can be divided into two categories, yet they have one thing in common: a resistance to Water. The first group of checks to Feraligatr comprises of those that can outspeed and deal heavy damage to it. These include Latias, Latios, Salamence, Dragonite, Kyurem-B, Breloom, Celebi, Venusaur, Toxicroak, Starmie, and Rotom-W. Keep in mind that most of these Pokemon need to be kept healthy to properly check Feraligatr, as a boosted Aqua Jet can pick off weakened ones. This is especially true for Rotom-W, who, despite being able to maim Feraligatr with its STAB Electric-type attack or Will-O-Wisp, is one of the easier Pokemon to wear down as it is often forced to switch in and out to deal with Feraligatr's common teammates Starmie, Politoed, and Tornadus. Checks in this group also need to take Feraligatr out in one hit, as they will fall to the Waterfall + Aqua Jet combination otherwise. Toxicroak gets a special mention as it is immune to Feraligatr's dreaded Water-type moves, and can set up in return. Technician Breloom also outspeeds Feraligatr with the given EV spread and can out-prioritize Feraligatr with Mach Punch, as can Extreme Speed Dragonite.</p>
+
+<p>The second way to handle Feraligatr is by attempting to wall it. Pokemon that fall into this category are Jellicent, Ferrothorn, Tentacruel, Tangrowth, Amoonguss, and Slowbro. However, they will all fall to the appropriate coverage move. If Feraligatr lacks the coverage move to deal with these Pokemon, Jellicent can cripple Feraligatr with Will-O-Wisp, Tangrowth and Amoonguss can neuter Feraligatr with Sleep Powder and Spore respectively or outright attack with Giga Drain, and Ferrothorn can utilize Power Whip and Leech Seed. Tentacruel, like a lot of other bulky Water-types, can attempt to stomach Feraligatr's assault, but cannot do much in return aside from fishing for a Scald burn. However, the Toxic set can try to stall Feraligatr out, and laying up Toxic Spikes early will help in limiting Feraligatr's staying power.</p>
+
+[Unreleased]
+
+<p>Sheer Force is an interesting addition to Feraligatr, as not only does it aid the Swords Dance set, but it also makes a Dragon Dance set more viable. In addition to boosting the power of Waterfall, Crunch, and Ice Punch, this ability also negates Life Orb recoil when the aforementioned moves are used. This will allow Feraligatr to fire off much more powerful unboosted attacks right off the bat, increasing its versatility.</p>

@@ -1,0 +1,43 @@
+[Overview]
+
+<p>If you venture outside of the NU game, you'll find Sunflora quite underpowered and unable to withstand most offense, especially on the physical side. Sunflora is definitely an overlooked Pokemon, even in NeverUsed, but it can be quite useful to a NU team in a couple different roles.</p>
+
+[SET]
+name: SunnyBeam
+move 1: Sunny Day
+move 2: Solar Beam
+move 3: Hidden Power Fire / Hidden Power Ice
+move 4: Grass Whistle
+item: Petaya Berry
+nature: Modest / Timid
+evs: 36 HP / 252 SpA / 220 Spe
+
+[SET COMMENTS]
+
+<p>Here we have the NU tier's version of a SunnyBeamer. Sunflora lacks the Speed and the reliable sleep move to make it comparable to an Exeggutor in OU or Vileplume in UU. In the NU environment though, it can clean up decently late-game. This is pretty much an all or nothing sweeper, so the Petaya boost is more valuable than Leftovers would be. That is also why Grass Whistle is in the last slot. Its accuracy is hard to take, but it is the only option available to get rid of your opponent's counter and keep sweeping. The EVs given are for if you are Timid, as they will make you faster than Jolly Raticate and Adamant Sneasel after a Sunny Day. If you are Modest, just max Special Attack and Speed.</p> 
+
+[SET]
+name: Specially Defensive
+move 1: Razor Leaf 
+move 2: Hidden Power Fire / Hidden Power Ice
+move 3: Leech Seed
+move 4: Synthesis / Light Screen
+item: Leftovers
+nature: Calm
+evs: 252 HP / 68 SpA / 188 SpD
+
+[SET COMMENTS]
+
+<p>Sunflora has the HP and Special Defense to wall pretty well in NU. This would probably be the preferred role for Sunflora as it does a better job at this than at sweeping with its large Special Attack. It makes a nice SunnyBeam counter, especially if your opponent tries to Sunny Day in front of you, as it will always survive at least one Hidden Power Fire. If you have to switch in on the Sunny Day, Sunflora can just Synthesis stall until the sunlight fades.</p>
+
+[Other Options]
+
+<p>Encore is always worth a mention. Sunflora learns Endeavor, too, and NU is full of Quick Attack users to pair it with. Growth is an option to boost Sunflora's Special Attack. Swords Dance and Curse are comedy options, but Sunflora does learn them.</p>
+
+[EVs]
+
+<p>For the SunnyBeamer, the only real question is Timid or Modest. Modest gives you quite a boost in Special Attack, but Sunflora will be slower than Jolly Raticate after using Sunny Day and tied with Timid Plusle and Minun if it uses Hidden Power Fire as that will lower its Speed IV by one. Timid allows Sunflora to outspeed everything in NU after the Sunny Day, but it may lack the power necessary. The special wall might surprise you if EVed similarly to the spread above. Modest Plusle's Hidden Power Ice is a 4HKO; likewise for a defensive Whiscash's Ice Beam. STAB Ice Beam from most Dewgong and Piloswine (200 Special Attack and below) is a 3HKO. You can go even more defensive at the expense of your attacking power, should you choose to.</p>
+
+[Checks and Counters]
+
+<p>Swalot will stop the SunnyBeamer cold and has Liquid Ooze for Leech Seed. Pidgeot cannot be OHKOed at full health by anything Sunflora can dish out unless it has Hidden Power Ice and a Petaya boost and can come in on a predicted Razor Leaf or Sunny Day. Roselia can come in and stack Spikes or Aromatherapy on the walling version and can Synthesis off its super effective Hidden Power.</p>

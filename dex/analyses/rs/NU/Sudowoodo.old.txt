@@ -1,0 +1,60 @@
+[Overview]
+
+<p>Sudowoodo should only be used on NU teams. It's simply outclassed by Golem in UU, and it's a worse Regirock if you try it in OU. In NU, however, it provides a good defensive backbone that still has attacking power.</p>
+
+[SET]
+name: Choice Band
+move 1: Hidden Power Rock / Rock Slide
+move 2: Earthquake
+move 3: Focus Punch / Double-Edge
+move 4: Explosion
+item: Choice Band
+ability: Rock Head
+nature: Adamant
+evs: 252 HP / 252 Atk / 4 SpD
+
+[SET COMMENTS]
+
+<p>Choice Band Sudowoodo is a beast in NU. It's one of six Normal resisting Pokemon (one of which is Magcargo, which is terrible), and has Explosion to give it the advantage over Relicanth.</p>
+
+[SET]
+name: RestTalk
+move 1: Rest
+move 2: Sleep Talk
+move 3: Hidden Power Rock / Rock Slide
+move 4: Earthquake
+item: Leftovers
+ability: Sturdy
+nature: Adamant
+evs: 252 HP / 152 Atk / 104 Def
+
+[SET COMMENTS]
+
+<p>If you want your Sudowoodo to have more staying power, you can make it a RestTalker.</p>
+
+[SET]
+name: Calm Mind
+move 1: Calm Mind
+move 2: Fire Punch
+move 3: Hidden Power Grass
+move 4: Thunder Punch / Explosion
+item: Leftovers
+ability: Sturdy
+nature: Modest / Quiet
+evs: 252 HP / 252 SpA / 4 SpD
+
+[SET COMMENTS]
+
+<p>Well, I don't know why Sudowoodo gets Calm Mind, but hey, you can try it. Hidden Power Grass is essential to hit Relicanth and especially Whiscash. It can OHKO Relicanth after a Calm Mind with a Modest or Quiet nature. Use Quiet with Explosion, Modest without.</p>
+
+[Other Options]
+
+<p>Sudowoodo has the defenses to take just about anything physical and Counter it back.</p>
+
+[EVs]
+
+<p>Sudowoodo is basically the slowest thing you'll encounter on an NU team, so Speed EVs won't be particularly helpful beyond a token investment to outspeed other base 30s. For this reason, you'll want to max Attack for the attacking sets and then focus on HP and Special Defense or HP and Defense. The Calm Minder needs 252 Special Attack EVs.</p>
+
+[Checks and Counters]
+
+<p>Mawile can switch into Choice Band Rock Slides and won't be OHKOed by Earthquake thanks to Intimidate. Anything with a special move is threatening to Sudowoodo thanks to its low Special Defense. The best counter, however, is probably Whiscash, as its Ground typing means it resist Rock Slide without being weak to Choice Band Sudowoodo's other attacks.</p>

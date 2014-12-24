@@ -1,0 +1,13 @@
+Specially Defensive
+########
+name: Specially Defensive
+move 1: Wish
+move 2: Protect
+move 3: Toxic / Thunder Wave
+move 4: Psychic
+ability: Insomnia
+item: Leftovers
+evs: 248 HP / 8 Def / 252 SpD
+nature: Calm
+
+This is a sample set while we are currently working on analyses in the workshop.

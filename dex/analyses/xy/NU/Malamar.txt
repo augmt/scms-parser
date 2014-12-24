@@ -1,0 +1,13 @@
+RestTalk
+########
+name: RestTalk
+move 1: Rest
+move 2: Sleep Talk
+move 3: Superpower
+move 4: Night Slash / Psycho Cut
+ability: Contrary
+item: Leftovers
+evs: 252 HP / 4 Atk / 252 SpD
+nature: Careful
+
+This is a sample set while we are currently working on analyses in the workshop.

@@ -1,0 +1,74 @@
+Overview
+########
+
+- Access to the useful Electric-type STAB.
+- Access to Prankster, along with usable 79 / 70 / 80 defenses, makes Thundurus very annoying
+- Great offensively with base 125 SpA and base 111 Speed
+- A lot of support options, such as Thunder Wave, Taunt, Swagger, Substitute, and Rain Dance
+- However, it has weaknesses to Ice- and Rock-type moves which are both common in the current metagame
+- Additionally, Electric-types are now immune to Thunder Wave, making spreading paralysis more difficult than before
+- While 79 / 70 / 80 defenses are okay, Thundurus is still frail and won't be taking many strong neutral hits.
+
+Bulky Utility
+########
+name: Bulky Utility
+move 1: Thunderbolt
+move 2: Hidden Power Ice 
+move 3: Taunt
+move 4: Thunder Wave
+ability: Prankster
+item: Sitrus Berry 
+evs: 212 HP / 128 Def / 52 SpA / 96 SpD / 20 Spe
+nature: Modest
+
+Moves
+========
+- Thunderbolt serves as primary STAB move and is good for hitting things like Mega Charizard Y and Suicune hard
+- Hidden Power Ice serves as coverage and deals heavy damage to common Ground-types such as Garchomp and Landorus-T.
+- Taunt is an option to prevent field effects like Trick Room from going up and to stop status moves like Will-O-Wisp and Spore from being used
+- Substitute can be used instead of Taunt, as it is useful for serving as a semi-Protect and guarding Thundurus from Sleep Powders and Spores that may come its way.
+- Thunder Wave is basically the big point of this set. With its higher bulk (than other Thundurus sets) it can last longer, giving it more time to support its teammates with ever-so-useful speed control
+
+Set Details
+========
+- The given HP investment makes HP divisible by 16 so Leftovers will heal as much as possible. The additional defensive investment allows you to survive a Timid Life Orb Latios Draco Meteor and unboosted Adamant Landorus-T Stone Edge. 20 Spe EVs let Thundurus move before maximum Speed Jolly base 70s, most notably Breloom. Remaining EVs are dumped into SpA so you can hit as hard as possible
+- If you opt to run Substitute, Leftovers is an option as the constant healing it provides will allow you to generate more Substitutes.
+- If you are running Sitrus Berry, an alternative spread of 244 HP / 108 Def / 60 SpA / 72 SpD / 20 Spe and a Modest Nature is possible, hitting the same benchmarks of the spread above except with HP being divisible by 4 (max Sitrus recovery), and you get 8 extra SpA EVs to hit a tad harder with.
+
+Usage Tips
+========
+- Spamming Thunder Wave on faster opponents is the best way to use this set. As long as they are not an Electric-type, their Speed advantage will be lost and open to attacks.
+- Take note of the Speed mechanics in Doubles: Even if you Thunder Waved a faster opponent on a turn, the speed drop will not take effect until the next turn, which means to say that the target can still outspeed your partner.
+- This set absolutely hates Trick Room, so Taunt should be used on suspected Trick Room setters and eliminate them from the game as soon as possible.
+- If you run Substitute, play smart and only do so when you are confident that the opponent will not attack Thundurus. This allows Thundurus to have a buffer against faster attacks and status effects.
+
+Team Options
+========
+- Pokemon that appreciate the speed control that Thundurus provides make good teammates. These are commonly powerhouses that lack a bit of speed, including but not limited to Kyurem-B, Landorus or Landorus-T, Tyranitar, Charizard, and Bisharp.
+- Mamoswine makes for a great partner for Thundurus, as Mamoswine takes the Ice- and Rock-type attacks for Thundurus while Thundurus can take the Grass- and Fighting-type attacks aimed at Mamoswine. Additionally, Mamoswine can feel free to spam Earthquake while Thundurus can paralyze the faster opponents that threaten Mamoswine.
+
+Other Options
+########
+
+- Swagger and Rain Dance are nice utility moves that Thundurus has access to. However, Swagger is extremely unreliable and can backfire if the opponent does not get confused. Rain Dance is a good move for a rain team but foregoes an important moveslot on the set.
+- Hidden Power Flying is an interesting option for a neutral STAB to damage opponents with, but it also has a lack of super effective coverage.
+- Protect is a great move in Doubles, and works especially well on Thundurus because it is unexpected on the main set.
+- A Nasty Plot set with Substitute grants Thundurus immediate power and permits it to easily OHKO or 2HKO the whole of the metagame, while having insurance against faster teams or Trick Room teams. However, it takes a lot of skill to set up in this fast paced Doubles metagame and is not recommended for newer players.
+- Choice items such as Choice Specs or Choice Scarf can be used, but Thundurus-T is a more efficient choice item user.
+
+Checks & Counters
+########
+
+**Offensive Typing Advantage**
+
+- Mamoswine in particular is an extremely common counter that can deal heavy damage with Ice Shard, resists the BoltBeam combination, and is immune to Thunder Wave.
+- Latias and Latios have the bulk to take a Hidden Power Ice yet can OHKO back with Draco Meteor.
+- Ground-types in general are immune to Thunder Wave and Thunderbolt, and most usually have the bulk to survive a Hidden Power Ice, while carrying Stone Edge that can deal major damage to Thundurus.
+
+**Speed Control**
+
+Trick Room teams completely undermine the role of Thundurus, thus they should be Taunted and eliminated immediately so that Thundurus can do its job.
+
+**Speed**
+
+Many Pokemon outspeed Thundurus and can OHKO easily due to its frailty. However, they usually cannot switch in safely or are crippled by Thunder Wave for the rest of the match. However, some dangerous and notable enemies that are unaffected by Thunder Wave include Garchomp, Landorus, and Scarf Rotom-W, all of which can deal major damage to Thundurus.

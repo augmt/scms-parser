@@ -1,0 +1,36 @@
+Set
+#############
+name: 1 [ORAS] Slowbro
+item: Slowbroite
+ability: Oblivious
+evs: 252 HP / 252 Def / 4 SpA
+nature: Bold
+move 1: Calm Mind
+move 2: Rest / Slack Off
+move 3: Sleep Talk / Psyshock
+move 4: Scald
+
+With the ability Shell Armor ensuring that it cannot be struck by a critical hit, massive Defense, and Calm Mind to patch up its lower Special Defense, Mega Slowbro is the ideal Pokemon to run a RestTalk Calm Mind set. Mega Slowbro also has access to Slack Off for reliable recovery, which can be used over RestTalk, freeing up a moveslot for Psyshock to break through Chansey and Blissey, as well as Water-immune Pokemon such as Toxicroak and Jellicent. However, Mega Slowbro's susceptibility to Toxic makes RestTalk a more reliable option.
+
+Set
+#############
+name: 2 [ORAS Doubles] Slowbro
+item: Slowbroite
+ability: Oblivious
+evs: 252 HP / 20 SpA / 232 SpD
+nature: Sassy
+move 1: Trick Room
+move 2: Fire Blast
+move 3: Scald
+move 4: Protect / Psyshock
+
+Mega Slowbro is by far the physically bulkiest Trick Room setter in the Doubles metagame, which allows it to set Trick Room in the face of some traditional offensive checks to Trick Room, and hit them back with Fire Blast.
+
+- 252+ Atk Mega Scizor Bug Bite vs. 252 HP / 0 Def Slowbro: 216-254 (54.8 - 64.4%)
+- 252+ Atk Life Orb Bisharp Knock Off vs. 252 HP / 0 Def Slowbro: 174-211 (44.1 - 53.5%)
+- 252+ SpA Aegislash Shadow Ball vs. 252 HP  / 232+ SpD Slowbro: 270-320 (68.5 - 81.2%)
+- 20 SpA Slowbro Fire Blast vs. 252 HP / 4 SpD Mega Scizor: 404-476 (117.4 - 138.3%)
+- 20 SpA Slowbro Fire Blast vs. 4 HP / 0 SpD Bisharp: 272-320 (100 - 117.6%)
+- 20 SpA Slowbro Fire Blast vs. 252 HP / 0 SpD Aegislash-Blade: 350-412 (108 - 127.1%)
+
+In Aegislash's case, if Slowbro Trick Rooms before it Fire Blasts, it can't KO it because it'll likely never hit it in Blade Forme again, but at least it set Trick Room. Unfortunately, Slowbro has little recourse against other methods of stopping Trick Room, such as Sleep (apart from hitting Amoonguss super effectively—if it wins the speed tie—and failing to KO, it can't do much), using Trick Room (it can't hit any common setters for decent damage), and Taunt. The last one, at least, can be ameliorated by using Oblivious as Slowbro's ability and not Mega Evolving if the opponent leads with Taunt.

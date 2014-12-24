@@ -1,0 +1,34 @@
+[Overview]
+
+<p>Cacturne is certainly an odd Pokemon in VGC. With base 115 Attack and Special Attack, its stats are geared towards offense, but its low defenses cause it to take damage as hard as it can deal it out. Its base 55 Speed is fairly low, but can be seen as a blessing in disguise: it can be effective both in and out of Trick Room based on how its Speed is managed. Cacturne's unique Grass / Dark typing, along with Sand Veil and Water Absorb as abilities, gives it several niche roles on teams. Potentially usable in rain, sand, and Trick Room, this cactus can become dangerous if underestimated.</p>
+
+[SET]
+name: Sucker Punch
+move 1: Sucker Punch
+move 2: Seed Bomb
+move 3: Low Kick / Payback
+move 4: Protect
+item: Focus Sash
+nature: Adamant
+ability: Water Absorb
+evs: 124 HP / 252 Atk / 132 Spe
+
+[SET COMMENTS]
+
+<p>Sucker Punch makes up for Cacturne's underwhelming Speed, providing a powerful STAB priority move. Seed Bomb acts as a secondary STAB move for Cacturne, and does heavy damage to Politoed and Tyranitar. Low Kick gives Cacturne a way to damage Steel-types, but if these threats are covered well by its teammates, Payback can be used as it hits harder against faster Pokemon. Lastly, Protect is used to stop incoming attacks, many of which will KO the cactus.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>132 Speed EVs give Cacturne 92 Speed, allowing it to outrun uninvested base 70 Speed Pokemon, such as Metagross, Hitmontop, and Politoed. Outrunning these Pokemon is important as it allows Cacturne to move first with Sucker Punch over opposing priority moves. The rest of the EVs are placed into Attack first, then HP. Although Cacturne holds a Focus Sash, the small amount of HP can help it handle weak or resisted attacks.</p>
+
+<p>252 HP / 252 Atk / 4 SpD can be used instead of the listed EV spread to help Cacturne take non-STAB Ice Beams and be bulkier in general. This opens up its item spot for alternative choices, such as Dark Gem or Life Orb, to increase Cacturne's damage output. If Cacturne is on a Trick Room team, a Brave nature and 0 Speed IV should be used.</p>
+
+<p>Because Cacturne has Water Absorb, it works well in rain teams. Its partner can use Surf freely, while Cacturne's STAB attacks make short work of Pokemon that resist Water-type moves, such as Latios, Gastrodon, and Jellicent. Cacturne's Water Absorb also makes it a great check to rain teams, as it can hit hard against the Water-types, such as Politoed or Ludicolo, while disrupting their primary offense option.</p>
+
+[Other Options]
+
+<p>Cacturne has a number of support moves to choose from, though it doesn't necessarily have the stats to use them effectively. Taunt is useful for stopping Trick Room and for forcing opponents to switch out or get hit with Sucker Punch. 252 Speed should be run if using Taunt in order to outspeed Cresselia. Teeter Dance can catch the opponent off guard, confusing both of their active Pokemon. Substitute can be used in tandem with the threat of Sucker Punch; with the right timing, Cacturne can get away with setting up Substitute without taking a hit. Switcheroo is another interesting move for Cacturne; however, it is impossible to have Switcheroo, Seed Bomb, and Water Absorb on the same Cacturne. Running special attacks on Cacturne is possible, but Water Absorb Cacturne is currently unable to learn Dark Pulse or Giga Drain, mandating the usage of Sand Veil. While Sand Veil isn't bad, an immunity to Water-type moves is more useful, even on a sand team.</p>
+
+[Checks and Counters]
+
+<p>Cacturne is not particularly difficult to take out, but taking a Sucker Punch isn't always desirable. Fighting-type Pokemon, such as Toxicroak and Hitmontop, can handle Cacturne with minimal risk to themselves. Flying-types, such as Zapdos and Tornadus, can give Cacturne some trouble, but are hit pretty hard by Sucker Punch. Steel-types, especially Heatran and Scizor, have fairly little to worry about and can KO with Fire- or Bug-type moves respectively. Lastly, Follow Me or Rage Powder users, such as Amoonguss and Togekiss, can safely divert Cacturne's attacks and only fear the odd Taunt.</p>

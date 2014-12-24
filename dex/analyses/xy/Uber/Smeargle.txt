@@ -1,0 +1,60 @@
+Overview
+########
+
+With access to all moves, Smeargle has carved out a niche in Ubers as a Sticky Web setter. Unfortunately, Smeargle's terrible base stats limit it to only being a support Pokemon. In addition, Smeargle is also much slower than other common leads, such as the Deoxys formes, Darkrai, and Scolipede. Smeargle is also not helped by the fact that it has to compete with Shuckle as a Sticky Web setter, which is free to run a Mental Herb to avoid Taunt. Despite these flaws, Smeargle is able to distinguish itself thanks to its unparalleled movepool and reputation as a high risk, high reward Pokemon.
+
+
+Sticky Web Lead
+########
+name: Sticky Web Lead
+move 1: Sticky Web
+move 2: Nuzzle
+move 3: Rapid Spin / Magic Coat
+move 4: Taunt / Spore
+item: Focus Sash
+ability: Technician
+evs: 248 HP / 8 Def / 252 Spe
+nature: Jolly
+
+
+Moves
+========
+
+Smeargle is one of two viable Sticky Web setters in Ubers; the hazard allows for easier use of powerful nukes that are typically hampered by their low Speed. Nuzzle is mandatory on this set as it allows Smeargle to spread paralysis even when Taunted, foiling setup sweepers that attempt to boost on Smeargle. The paralysis Nuzzle causes also allows Smeargle to move first on subsequent turns so that if it becomes Taunted, it can lay Sticky Web as soon as Taunt expires. Smeargle has two options for anti-hazard support, the first being Rapid Spin, which eliminates foe hazards without eliminating Smeargle's Sticky Web. The second is Magic Coat, which prevents the opponent from laying entry hazards and also helps combat Taunt and Dark Void, although it is prediction-reliant. Although Smeargle is slow compared to other common leads, Taunt is the best option in the final slot, as opponents can be slowed down by Nuzzle paralysis or Sticky Web; this can be especially helpful against support Arceus, which commonly switches in to Defog. Taunt also helps combat Substitute users or setup sweepers, which will be restrained from boosting. Spore is also an option in the final slot to scare the opponent into their sleep fodder, and the move is generally useful against spinners. If the opponent doesn't switch or doesn't have sleep fodder, this gives Smeargle free turns to set Sticky Web and possibly switch out unharmed. Lastly, Whirlwind is an option that can be used to allow Smeargle to stop Substitute users and setup sweepers.
+
+
+Set Details
+========
+
+Max Speed EVs are optimal to give Smeargle a chance to move first; its offensive and defensive stats are too low to salvage, so the rest of the EVs are put into HP to give Smeargle the best possible chance of tanking hits, although Smeargle is still quite fragile even after HP investment. Smeargle's only option for an item is a Focus Sash to typically ensure that it can set up Sticky Web. A Jolly nature is used to further increase Smeargle's Speed, while Technician allows Nuzzle and Rapid Spin to deal slightly more damage.
+
+
+Usage Tips
+========
+
+Smeargle's purpose is to successfully lay Sticky Web while preventing the opponent from setting up entry hazards. All the other moves are only used to ensure that Sticky Web is set up. Rapid Spin, in particular, should be used to stop foes that choose to stack hazards against Smeargle rather than knock it out.
+
+
+Team Options
+========
+
+The primary purpose of Sticky Web is to be utilized alongside teammates that benefit from it; this includes Pokemon such as Choice Specs Kyogre, Choice Band Ho-Oh, Mega Lucario, Xerneas, Yveltal, Groudon, and Palkia. Choice Scarf Genesect pairs excellently with Smeargle as it can counter Darkrai leads while being fast enough to check threats such as Geomancy Xerneas thanks to Sticky Web. Fast Taunt is also helpful for ensuring that Sticky Web remains for the duration of the battle; Sableye and Thundurus have priority Taunt while Sableye can also handle Mega Kangaskhan counter leads. Mega Gengar and Mewtwo also have access to a fast Taunt in addition to generally threatening support Arceus. A dedicated solution for Mega Kangaskhan leads is also a good teammate; Smeargle fails to set Sticky Web against Mega Kangaskhan. Ghost-types with Will-O-Wisp are useful to check Mega Kangaskhan, while some offensive Pokemon such as Mega Mewtwo X and Mega Blaziken can beat Mega Kangaskhan one-on-one. Smeargle is also strained to set Stealth Rock in addition to Sticky Web, so a reliable setter of Stealth Rock such as Groudon or Dialga is recommended.
+
+
+Other Options
+========
+
+Even though it has a massive movepool, Smeargle doesn't have very many alternate options. A SmashPass set with Baton Pass, Shell Smash, Spore, and Magic Coat can work, but is difficult to use in this metagame and is inconsistent; in a similar vein, Smeargle can run a Quiver Pass set. Endeavor is an option, as Smeargle is easily brought to one HP, but there is no room for it on the Sticky Web set. Dark Void can be used over Spore to be able to put Grass-types to sleep; however, the inaccuracy of Dark Void is often not worth this added benefit. Smeargle can also function as a setter of Trick Room and make use of Destiny Bond.
+
+
+Checks and Counters
+========
+**Multi-Hit Moves**: Users of multi-hit moves can OHKO Smeargle, ignoring its Focus Sash. Mega Kangaskhan is the largest threat as it can always OHKO Smeargle. Scolipede can occasionally OHKO Smeargle with Pin Missile. Although Cloyster and Breloom can OHKO Smeargle, their lower Speeds allow for Smeargle to still set Sticky Web.
+
+**Substitute users**: These can be combated with Whirlwind, but this is only a temporary solution, as they are still not inflicted with status. In addition, they often break Smeargle's Focus Sash before getting phazed out.
+
+**Darkrai**: Darkrai is difficult to play against without Magic Coat, as Dark Void renders Smeargle useless before it gets to set Sticky Web.
+
+**Mega Gengar**: Mega Gengar is difficult to deal with without Magic Coat, and doubles as a spinblocker if switched to after the opponent lays entry hazards. It can be punished with Nuzzle, but Smeargle will be trapped and likely taken down.
+
+**Defog users**: Defog users are able to remove Sticky Web; however, if they switch in after Sticky Web is set or switch into Nuzzle and Smeargle has Taunt, they can be stopped. 

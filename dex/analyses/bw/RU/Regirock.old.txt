@@ -1,0 +1,61 @@
+[Overview]
+
+<p>Regirock sports an amazingly high base 200 Defense, backed by an acceptable base 80 HP. It can take on some of the strongest physical attacks, even weaker super effective ones. Additionally, Regirock can make do with its base 100 Special Defense with EV investment while still maintaining most of its physical bulk. Rock is not an excellent defensive typing as it's weak to many common attacking types, such as Ground, Water, Grass, and Fighting; nonetheless, it grants Regirock a crucial resistance to Fire, which allows it to comfortably check many Fire-types, such as Moltres and Entei. Another of Regirock's flaws is its lack of any reliable recovery outside of Rest. Despite such drawbacks, Regirock is still a very sturdy and reliable defensive Pokemon in RU, and also one that can set Stealth Rock reliably and repeatedly when needed. Aside from being a generally good bulky wall to fall back on, Regirock finds its niche in stopping many Fire-types--specifically, it is one of the few counters to Moltres.</p>
+
+[SET]
+name: Support
+move 1: Stealth Rock
+move 2: Rock Slide
+move 3: Thunder Wave / Toxic
+move 4: Protect / Earthquake
+item: Leftovers
+nature: Careful
+evs: 252 HP / 4 Atk / 252 SpD
+
+[SET COMMENTS]
+
+<p>With Stealth Rock almost an absolute necessity on every team, Regirock is a reliable and consistent Stealth Rock user. It defeats Cryogonal one on one, meaning that spinblocking against Cryogonal isn't compulsory as you could switch Regirock in as Cryogonal uses Rapid Spin and just set it back up again. Rock Slide is chosen as the STAB move over Stone Edge thanks to its higher PP and better accuracy to deal consistent damage; it also OHKOes both Moltres and Cryogonal. Thunder Wave and Toxic are both secondary support options to cater to teams. Thunder Wave slows down sweepers and other offensive threats such as Durant and Stoutland, whereas Toxic is an option for use on defensive teams looking to stall out foes and to cripple many of Regirock's common switch-ins, such as Lanturn and Gallade. Protect can be used in the fourth slot to scout for moves such as Medicham's High Jump Kick while letting Regirock heal with Leftovers and helps Regirock to check Fire-types more reliably in the long run. Protect helps to stall out foes with poison damage from Toxic. Earthquake is yet another reliable attacking move that dents Kabutops and Steel-type switch-ins such as Steelix and Aggron.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>A specially defensive EV spread allows Regirock to handle Fire-type behemoths such as Moltres, and Regirock still has plenty of physical bulk even without investment. Here are some damage calculations to demonstrate Regirock's huge special bulk and its still-high physical bulk:</p>
+
+<ul class="damage_calculation">
+<li>252 SpA Life Orb Moltres Hidden Power Grass 38.46 - 45.6%</li>
+<li>252 SpA Life Orb Moltres Fire Blast 24.72 - 29.12%</li>
+<li>252 Atk Choice Band Hustle Durant Iron Head 77.47 - 91.2%</li>
+</ul>
+
+<p>Moltres can manage a maximum of 74.7% damage in total with one Fire Blast and Hidden Power Grass. Thus, bar a critical hit or burn, Regirock needs about 62% HP after entry hazards to check Moltres if Regirock has Protect. Specially defensive Regirock is no slouch physically either, as shown by Choice Band Durant's failure to OHKO it from full health. Wish support from teammates such as Clefable and Alomomola are good options to keep Regirock healthy as it often needs to be at high HP to be able to check the aforementioned threats. Rapid Spin support from Cryogonal, ironically, is also helpful as Regirock has no reliable recovery and appreciates the removal of hazards. However, this compounds your team's Fighting-type weakness, so Ghost-types such as Rotom and Spiritomb, bulky Poison-types such as Qwilfish and Amoonguss, and Psychic-types such as Mesprit and Uxie will come in handy. Other Grass-types, such as Tangrowth and Roselia, are also good teammates as they resist Water- and Grass-type attacks; the latter can also provide further entry hazard support. Aside from defensive teammates, offensive Pokemon such as Moltres and Lilligant are also good teammates as they can capitalize on the status spread by Regirock and fall back on its defenses if they fail to pull off a sweep. Stone Edge is an option over Rock Slide for added power, but it can be stalled out easily by SubRoost Moltres and has poorer accuracy. Rock Slide is often enough as it is usually used against foes weak to it.</p>
+
+[SET]
+name: Sunny Day
+move 1: Sunny Day
+move 2: Stealth Rock
+move 3: Rock Slide
+move 4: Fire Punch / Explosion
+item: Heat Rock
+nature: Careful
+evs: 252 HP / 4 Atk / 252 SpD
+
+[SET COMMENTS]
+
+<p>Regirock's Rock typing is a huge boon for sun teams. It pairs well with many sun sweepers as it can take Fire-type attacks targeting Grass-type sweepers while also resisting common priority moves or being bulky enough to sponge them. Many priority users, such as Extreme Speed Entei, Belly Drum Linoone, and Swords Dance Absol, threaten sun teams due to their sweepers' frailty. Regirock is able to check the aforementioned Pokemon. It also benefits from sun as its Water weakness is negated, and its natural Fire resistance lets it shrug off even sun-boosted attacks. Regirock can set up not only Sunny Day, but also Stealth Rock, and is thus a good utility teammate for sun teams. It can often set up Sunny Day more than once when needed, as it has the defenses to keep itself healthy enough for another setup.</p>
+
+<p>Rock Slide is the main STAB move used, often to check opposing Fire-types hoping to take advantage of sun-boosted Fire-type attacks. However, when relying on Regirock to check Fire-types, be wary of the occasional Solar Beam from Pokemon such as Typhlosion. Rock Slide is also useful for dealing with Cryogonal, a common Rapid Spin user. Fire Punch receives pseudo-STAB from sun, where it is just as powerful and even more reliable than Rock Slide. Escavalier and Durant are both notable foes that Fire Punch works extremely well against, and the former is often even slower than Regirock as it usually does not invest in Speed. Explosion, however, is a usable last resort to deal damage while bringing in another teammate safely, possibly paving a way for a sweep.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>A specially defensive EV spread enables Regirock to tank special hits more comfortably as it already has sufficient physical bulk. It also allows Regirock to sponge common special Water-type attacks such as Scald, and physical ones aren't going to break through Regirock while weakened by sun. As with all dedicated sun inducers, Heat Rock is used to prolong the sun. Thunder Wave is another option to support the team as it slows down foes, which can be helpful in the event that the sun is out. Toxic deters opponents from stalling out sun with Protect, though Thunder Wave is usually the better option for an offensive sun team. Stone Edge can be considered for added power over Rock Slide. For other great Sunny Day users as teammates, Uxie is a good partner and complements Regirock, as it resists Fighting and is immune to Ground. Furthermore, with Regirock taking care of Stealth Rock, Uxie will be able to free up a moveslot for another support move such as Heal Bell. Sun sweepers are definitely compulsory teammates. Victreebel, Exeggutor, Moltres, and Sawsbuck are common sun sweepers. However, defensive sun-reliant teammates such as Harvest Exeggutor are also usable, though less common.</p>
+
+[Other Options]
+
+<p>While Regirock's main niche is as a defensive Pokemon that can check many Fire-types, and even straight-up counter Moltres, it also has several other more offensive options to choose from. Drain Punch and Hammer Arm are viable Fighting-type attacks. Counter can be used as Regirock's titanic Defense virtually guarantees that it will not fall to any non-super effective physical attack. Curse is a possible boosting option, though Regirock's Rock typing does not really help in this regard as it is weak to many common attacking types. Strong support in removing Fighting-type attacks and other threatening foes will be needed to pull off a sweep. In most cases, Regirock will be better off supporting the team than receiving support. Rest, used in tandem with Chesto Berry or cleric support, is worth considering if your team has trouble dealing with Fire-types. Regirock can also work as an offensive tank with a spread of 252 HP / 252 Atk / 4 SpD and support the team with Stealth Rock and even Thunder Wave. Drain Punch, Stone Edge, and Earthquake are all usable on an offensive tank Regirock. It has a reduced ability to check Fire-types without Special Defense investment, however. Explosion with a type-resist Berry, such as Chople or Rindo Berry, allows Regirock to lure and take out Fighting-types such as Hitmonlee or Grass-types such as Sceptile, respectively.</p>
+
+[Check and Counters]
+
+<p>Fighting-types are a menace for Regirock: Poliwrath often has Rest to shrug off status while Guts Hariyama benefits from it. Steel-types have an easy time setting up on Regirock: Steelix can set up Stealth Rock and proceed to threaten with Earthquake, Klinklang can use Shift Gear if Regirock doesn't have Earthquake, and Escavalier and Durant can threaten directly with Iron Head, provided that Regirock does not have Fire Punch. Grass-types can also walk over Regirock without much difficulty; Sceptile can prey on Regirock's lower Special Defense, while Lilligant can either put down Regirock with Sleep Powder or use it as setup fodder should Lilligant have a Lum Berry. Defensive Water-types such as Slowking and Lanturn can safely wall Regirock, though the latter has to watch out for Earthquake. Slowking has Regenerator and fears only Toxic, while Lanturn sometimes carries Heal Bell to negate even that. Qwilfish can Taunt Regirock and set up entry hazards, but Earthquake dents it as Clear Body negates Intimidate. Offensive Water-types such as Kabutops and Omastar can set up on it, although Thunder Wave will badly cripple them. Ferroseed can set up directly on Regirock without Fire Punch. Regirock abhors status as it greatly reduces its ability to reliably fulfill its main purpose--checking Fire-types. A strong offensive presence coupled with status can sometimes be sufficient to stop a cleric from healing Regirock of status and allow said Fire-type to finally get past Regirock.</p>
+
+[Unreleased]
+
+<p>Regirock receives Sturdy as its Dream World ability. This is only a minor upgrade over Clear Body, as there isn't much in RU that can OHKO Regirock to begin with, but it's still an improvement. As long as the battlefield is free from entry hazards, Regirock can use Sturdy to work as an emergency check to Pokemon such as Sceptile and Feraligatr, surviving a hit and replying with Thunder Wave or Explosion. This gives Sturdy more utility than Clear Body, which rarely comes into play at all except to nullify Intimidate from Qwilfish.</p>

@@ -1,0 +1,51 @@
+[Overview]
+
+<p>On the surface, Archen looks as though it would dominate Little Cup. It has the second highest base Attack stat in the metagame, accompanied by high Special Attack and Speed. Its typing also allows it to check Murkrow--one of few with reliable recovery--and it also has a powerful STAB attack in Stone Edge. Access to Stealth Rock via a move tutor and decent bulk (even greater under sand) make it a solid offensive pivot. However, Archen has one of the worst abilities in the game, halving its Attack and Special Attack when under 50% HP; although this is somewhat mitigated by Roost, it is also weak to Stealth Rock, somewhat frail without Eviolite, and is vulnerable to powerful priority attacks that can knock it into Defeatist range before it can attack. Overall, Archen fits a niche in Little Cup as a reasonably bulky pivot and powerful attacker, but must be wary of the powerful attackers in the metagame.</p>
+
+[SET]
+name: Eviolite
+move 1: Rock Slide / Stone Edge
+move 2: Roost
+move 3: Acrobatics
+move 4: U-turn / Stealth Rock
+item: Eviolite
+nature: Adamant
+evs: 236 HP / 100 Atk / 76 Def / 76 SpD
+
+[SET COMMENTS]
+
+<p>Upon gaining access to Roost in BW2, Archen's viability shot up; its crippling ability, Defeatist, can now be mitigated with reliable recovery, and it can utilize this to be able to check the powerful Flying-types in the metagame repeatedly. It is never 2HKOed by Murkrow's Brave Bird after Stealth Rock and hail, meaning it can Roost out of danger and KO with Rock Slide. Stone Edge is a considerably more powerful STAB, but Archen is then easily PP stalled by SubRoost Murkrow. Acrobatics is a secondary STAB attack, which lets Archen hit Fighting- and Grass-types super effectively, and if Eviolite is removed via Knock Off, will always OHKO Impish Mienfoo, as well as Quiet Croagunk and Jolly Scraggy. Pluck can be used here, but the only Pokemon which use Berries are Bronzor and Dwebble, both of which beat Archen anyway, and both Pluck and Acrobatics have the same damage output. U-turn allows Archen to seize momentum gained by forcing out Murkrow and other Flying-types; however, Archen can also use these forced switches to set up Stealth Rock.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The listed EV spread gives Archen enough bulk to avoid the 2HKO from Murkrow, with the remaining EVs invested in its great Attack and decent Special Defense. The last slot is mostly a filler and can be filled with many other moves: Crunch hits Misdreavus far more reliably than Stone Edge; Knock Off cripples Choice Scarf users and Pokemon that rely on Eviolite, such as Mienfoo; finally, Earthquake can be used to make the EdgeQuake combo, hitting the entire metagame bar Bronzor and Baltoy neutrally and hitting specific threats including Magnemite and Chinchou super effectively.</p>
+
+<p>The best teammates for Archen are those that are threatened by Flying-types; Mienfoo and Croagunk benefit massively from having Archen there to cushion attacks from Murkrow and Drifloon and can take on Rock-type attacks for it. As Archen is severely hindered by Stealth Rock, spinners, such as Drilbur--which can cushion Rock- and Electric-type attacks--and Staryu, make excellent teammates. Conversely, having entry hazards set up by Ferroseed or Dwebble make Archen less reliant on 2HKOs and the poor accuracy of Stone Edge. It's also walled by bulky Steel-types, including Magnemite, Bronzor, and Pawniard; Houndour is a great offensive check to them, while your own Magnemite can trap and set up on both Bronzor and slower Pawniard.</p>
+
+[SET]
+name: Acrobatics
+move 1: Acrobatics
+move 2: Stone Edge / Rock Slide 
+move 3: Earthquake
+move 4: U-turn / Roost
+item: Flying Gem / Oran Berry
+nature: Jolly
+evs: 76 HP / 180 Atk / 196 Spe
+
+[SET COMMENTS]
+
+<p>Archen makes a superb dedicated attacker in its own right. With Acrobatics coming off 20 Attack, along with STAB and Flying Gem, it has one of the most powerful attacks in the metagame, often OHKOing even Eviolite Misdreavus after Stealth Rock. Stone Edge is a powerful secondary STAB attack, providing good neutral coverage and allowing Archen to check Murkrow in a pinch, KOing after Stealth Rock with Defeatist activated. Earthquake completes Archen's coverage, KOing Magnemite effortlessly and hitting Chinchou for good damage. The final slot is somewhat of a filler: U-turn lets Archen scout its checks, while Roost gives it more longevity. Flying Gem boosts Acrobatics tremendously, although Oran Berry gives Archen a second chance by taking it out of Defeatist range once.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread listed maximizes Attack and Speed, and places the remaining EVs in HP. Acrobatics is Archen's most reliable and powerful attack by a long way, and should be used over Earthquake wherever possible, unless the target resists Flying. Acrobatics Archen detests Stealth Rock, as it makes it even more vulnerable to priority; as such, Rapid Spin users make great teammates. Steel-types check Archen easily, as non-STAB Earthquake is not overly powerful, and Pokemon such as Pawniard can easily KO in return with Iron Head. Ponyta and Magnemite can easily switch into Steel-types, while Houndour can easily force them out if it gets the chance to switch in. Teammates that can counter priority users, including Croagunk, Tirtouga, and Murkrow, are necessary to let Archen sweep. Fighting-types are useful as they can check Rock- and Steel-types that can take an attack from Archen and KO back.</p>
+
+[Other Options]
+
+<p>Head Smash is a superlatively strong STAB attack--roughly as strong as Flying Gem-boosted Acrobatics--but the 50% recoil drags Archen into Defeatist range almost immediately. A Choice Scarf set has merit in that it would outspeed +1 Scraggy and Snover, but Archen is already very weak to Stealth Rock and it appreciates being able to switch moves. It has a high Special Attack stat, and it might be able to use a Hidden Power for super effective coverage, if desired, but Archen's Attack is just so much higher and it has a considerably better physical movepool. On top of its superlative attacking stats, it also has boosting moves, including Agility and Hone Claws; however, with its miserable bulk without Eviolite, it's easily knocked into Defeatist range. The same applies for support moves such as Taunt and Tailwind. The Eviolite set can be used with more offensive EVs if you don't mind Archen losing the ability to perfectly counter Murkrow.</p>
+
+[Checks and Counters]
+
+<p>The top counter to Archen is Bronzor, which takes a pittance from any attack and can damage it in return with Flash Cannon. Other than Bronzor, nothing can reliably counter Archen--taking one attack from it is hard enough. Any of Lileep, Tirtouga, and Shellder can take a hit from it and KO in return. Ferroseed, Porygon, Slowpoke, and Frillish are able to cripple Archen through status or directly attacking to push it into Defeatist range. Magnemite can wall Archen that lack Earthquake, but is easily KOed if the latter does run it.</p>
+
+<p>Archen has considerably more checks than counters; Staryu, Elekid, Drilbur, Misdreavus, and Dwebble can outspeed and KO Archen after Stealth Rock. Misdreavus can also burn it, making it essentially dead-weight. Choice Scarf users, including Snover and Chinchou, are able to easily outpace and KO Archen. A few Pokemon, namely Timburr, Scraggy, Foongus, and Shroomish, can take any hit other than Flying Gem-boosted Acrobatics and cripple Archen. Its main weakness is Defeatist, and anything, particularly powerful priority and Stealth Rock, which hastens lowering its HP, will help to mitigate it as a threat.</p>

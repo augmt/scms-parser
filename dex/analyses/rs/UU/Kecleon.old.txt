@@ -1,0 +1,13 @@
+[SET]
+name: RestTalk
+move 1: Rest
+move 2: Sleep Talk
+move 3: Return / Double-Edge
+move 4: Brick Break / Iron Tail / Hidden Power Steel
+item: Leftovers
+nature: Careful
+evs:  252 HP / 252 Atk / 4 SpD
+
+[SET COMMENTS]
+
+<p>Kecleon has a high Special Defense stat, and can use this to wall most special attackers like Electabuzz (without Cross Chop, which few have in UU). Double-Edge is an option because you are using Rest to constantly restore your HP, but recoil still hurts on 324 max HP. The last slot is mostly for Rock Pokemon. Brick Break hits Aggron on its 4x weakness, rather than neutral, while the Steel move hits Solrock and Lunatone, as well as any Misdreavus and Sableye you may encounter. Iron Tail vs. Hidden Power Steel is really just a question of power vs. accuracy.</p>

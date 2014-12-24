@@ -1,0 +1,59 @@
+Overview
+########
+
+Volbeat is a good sun and rain setter thanks to its ability, Prankster, which allows it to set up weather before most opponents can attack. In addition, it also has access to a slow U-turn, allowing it to set up weather, take a hit, and bring in a sweeper unharmed. The combination of priority weather and a slow U-turn sets it apart from the bulkier Uxie and the more offensive Liepard. Volbeat also has decent supporting capabilities, with moves such as Encore, Thunder Wave, and Tailwind.
+
+Weather Supporter
+########
+name: Weather Supporter
+move 1: Rain Dance / Sunny Day
+move 2: U-turn
+move 3: Encore
+move 4: Thunder Wave / Tailwind
+ability: Prankster
+item: Damp Rock / Heat Rock
+evs: 248 HP / 252 Def / 8 SpD
+ivs: 0 Spe
+nature: Relaxed
+
+Moves
+========
+
+Volbeat has access to priority Rain Dance and Sunny Day, which grants almost guaranteed immediate Speed boosts to its teammates. U-turn allows Volbeat to take a hit and pivot out to a sweeper slowly after setting up weather. Prankster Encore prevents opponents from setting up and grants Volbeat momentum-shifting capabilities with U-turn. Thunder Wave allows Volbeat to slow down troublesome foes, such as Kangaskhan, as well as opposing weather sweepers. Tailwind allows Volbeat to support its teammates by boosting their Speed in case they do not have Swift Swim or Chlorophyll.
+
+Set Details
+========
+
+A Relaxed nature and no Speed investment makes Volbeat's U-turn as slow as possible so that it can bring in more teammates safely. With the given Speed investment, Volbeat will be slower than uninvested base 70 Speed Pokemon, such as Mantine and Poliwrath. Defense EVs complement Volbeat's typing and allow Volbeat to set up on physical attackers, such as Sawk and Kangaskhan.
+
+Usage Tips
+========
+
+Volbeat can be sent out whenever weather is needed. The threat of Prankster Encore can be used to gain free turns. After setting up rain or sun, Volbeat should U-turn out as soon as possible to enable its teammates to make as much use of weather as possible. When playing with Volbeat, it is usually better to use your other weather starter early-game and save Volbeat for later; an almost guaranteed 8 turns of weather can be game-changing and so it is wise to save Volbeat for an emergency.
+
+Team Options
+========
+
+Volbeat appreciates other teammates that can set up weather. Uxie and Liepard are fantastic weather setters. In addition, there are several other weather starters specific to each weather. For instance, Rotom-S and Ludicolo are decent weather starters for rain, and Regirock, Probopass, and Golem are decent options for sun. For rain teams, Swift Swim sweepers such as Ludicolo, Seismitoad, Carracosta, Qwilfish, and Mantine make good teammates. Other good Pokemon for rain teams include Swanna, which takes advantage of Hydration and a fully accurate Hurricane, and Jynx, which benefits from Dry Skin's passive healing. For sun teams, Chlorophyll sweepers, such as Victreebel, Exeggutor, Sawsbuck, and Leafeon, do well as teammates. Sun teams can also include Fire-types which take advantage of the sun's boost to the power of Fire-type moves. Typhlosion, Pyroar, Magmortar, and Ninetales benefit from the power boost along with its added protection from Aqua Jet users provided by the sun.
+
+Other Options
+########
+
+Tail Glow + Baton Pass is a decent option to consider, as Volbeat can find several setup opportunities thanks to Encore and successfully pass +3 Special Attack boosts to teammates. Volbeat gets access to reliable recovery in Roost, but it does not have a moveslot for it and would prefer to immediately U-turn to a teammate. Volbeat can use Toxic to catch bulky opponents on the switch and wear them down for its teammates. Bug Buzz is a STAB move to consider, but Volbeat has better things to be doing than attacking opponents with its low Special Attack stat. Trick can be considered as a fun option to cripple walls, but it is nothing more than a gimmick.
+
+Checks & Counters
+########
+
+**Constant Offensive Pressure**: The best way to stop Volbeat is to hit it hard when it comes in so that it can't keep switching in throughout the match, as Volbeat's bulk isn't fantastic and it won't last long. Threatening a KO before Volbeat uses U-turn also means that that Volbeat user has to choose between letting it faint or letting a sweeper take damage.
+
+**Stealth Rock**: Stealth Rock can wear Volbeat down and discourage it from coming in to set up weather too many times. Stealth Rock setters should beware of Encore, though.
+
+**Slow and powerful attackers**: Hariyama and Dragalge are examples of Pokemon that are slower than Volbeat's U-turn and will still hit its teammates. They also don't mind paralysis too much.
+
+**Ground- and Electric-types**: Rhydon, Electivire, and other Ground- and Electric-types can switch into Thunder Wave and attempt to KO Volbeat before it U-turns.
+
+**Kangaskhan and Kecleon**: Kangaskhan and Kecleon carry Fake Out and Sucker Punch, not only wasting weather turns but also picking off weakened weather sweepers.
+
+**Rain checks**: Ferroseed, Mantine, Dragalge, Lanturn, and Ludicolo annoy many rain teams because they wall most rain sweepers thanks to their amazing typing and bulk. Toxic Spikes is also annoying for rain teams because it wears down rain sweepers quickly.
+
+**Sun checks**: Hariyama, Dragalge, Lanturn, Flareon, and Mantine are good stops to sun due to a combination of good bulk and decent typing or ability. Keeping up Stealth Rock is a good way to wear down Fire-types on sun teams as well.

@@ -1,0 +1,84 @@
+Overview
+########
+
+Arcanine is a very versatile Pokemon in the UU metagame thanks to its good all-around stats and expansive movepool. Arcanine's Fire typing allows it to effectively wall some of the tier's top offensive Pokemon. It can opt for a defensive set utilizing Morning Sun for reliable recovery and its great ability Intimidate to handle powerful physical attackers. As a defensive Pokemon, Arcanine has support moves such as Will-O-Wisp, Roar, and Toxic to cripple attackers or phase out setup sweepers. While outclassed by other Fire-types for an offensive role, Arcanine has Extreme Speed, which always outprioritizes common priority moves such as Mach Punch and Sucker Punch. Arcanine also sports a great physical movepool to utilize, including Crunch, Close Combat, and Wild Charge. Unfortunately, Arcanine is susceptible to all forms of entry hazards, in particular Stealth Rock.
+
+Defensive
+########
+name: Defensive
+move 1: Morning Sun
+move 2: Will-O-Wisp / Toxic
+move 3: Flare Blitz
+move 4: Extreme Speed / Roar
+ability: Intimidate
+item: Leftovers
+evs: 248 HP / 8 Atk / 252 Def
+nature: Impish
+
+Moves
+========
+
+Morning Sun provides a form of reliable recovery, keeping Arcanine healthy to consistently take hits from physical attackers. Will-O-Wisp cripples physical attackers such as Honchkrow and Lucario and it also spreads residual damage to Arcanine's switch-ins. Toxic is an option to hit Fire-types and bulky Water-types that aim to absorb Will-O-Wisp, such as Chandelure and Vaporeon respectively. Toxic damage wears down bulky Water-types more effectively than burn damage, as the increasing damage puts a timer on them. Flare Blitz is a very powerful STAB move that prevents Arcanine from being setup bait, but the recoil can be detrimental to Arcanine's longevity. Extreme Speed allows Arcanine to pick off weakened opponents, despite minimal Attack investment. Roar can be used to force out setup sweepers and rack up entry hazard damage.
+
+Set Details
+========
+
+Intimidate allows Arcanine to take physical hits very well. Maximum Defense investment is used to capitalize on Arcanine's inherently good bulk, and 248 HP EVs are used for an odd HP number to take less damage from Stealth Rock. An alternative EV spread of 248 HP / 196 Def / 64 Spe can be used to outpace Adamant Honchkrow and burn it before it attacks Arcanine. Leftovers is important to provide passive recovery throughout the match.
+
+Usage Tips
+========
+
+Arcanine is best used as a pivot into physical attackers, especially those lacking a super effective move to hit it with. Will-O-Wisp or Toxic is generally the safest move to go for earlier in the game to catch walls trying to tank a Flare Blitz, or to cripple physical attackers. If Arcanine is weakened and doesn't have time to heal up, it is useful as a clutch Intimidate user to lower an opponent's Attack before going down. Don't use Flare Blitz too often because its recoil hurts. Morning Sun has low PP, so use it sparingly.
+
+Team Options
+========
+
+Defensive Grass-types to tank Water- and Ground-type moves aimed at Arcanine, such as Shaymin and Celebi, make for good teammates. Entry hazard removal is very important for Arcanine, as it is susceptible to all forms of entry hazards, especially Stealth Rock. Pokemon such as Mega Blastoise, Aerodactyl, and Starmie make for good teammates for this role. Starmie and Mega Blastoise are particularly useful because they can force out the Ground- and Rock-types that threaten Arcanine. Specially defensive Pokemon such as Umbreon and Florges are useful to take on the special attackers such as Nidoking and Hydreigon that Arcanine can't handle well. These two partners are notable, as they are also able to provide Wish and Heal Bell support to compensate for Morning Sun's low PP and Arcanine's vulnerability to Toxic.
+
+Offensive
+########
+name: Offensive
+move 1: Flare Blitz
+move 2: Extreme Speed
+move 3: Close Combat
+move 4: Wild Charge / Crunch
+ability: Flash Fire / Intimidate
+item: Life Orb
+evs: 252 Atk / 4 Def / 252 Spe
+nature: Adamant
+
+Moves
+========
+
+Flare Blitz is Arcanine's most powerful physical STAB move, massively denting anything that does not resist it. Extreme Speed allows Arcanine to hit faster threats and also to act as a revenge killer for weakened threats such as Hydreigon and Mienshao in some scenarios. Close Combat hits Mega Houndoom, Hydreigon, and Rhyperior for super effective damage. However, Rhyperior will need a significant amount of prior damage to be 2HKOed by Close Combat. Wild Charge hits bulky Water-types such as Vaporeon and Alomomola. Crunch is an option to hit Victini and Chandelure, with the latter being immune to all of Arcanine's other attacks. Morning Sun can be used to mitigate Flare Blitz and Life Orb recoil, but Arcanine greatly appreciates having as many coverage options as possible.
+
+Set Details
+========
+
+Maximum Attack and Speed investment is used to hit as hard as possible. An Adamant nature is used for a significant boost in power because using a Jolly nature does not allow Arcanine to outspeed anything significant. Flash Fire is very helpful to gain a boost to Flare Blitz upon switching in on a predicted Fire-type attack from Pokemon such as Chandelure and Victini. Intimidate is an alternative to act as a bulky pivot for physical attackers, possibly feigning a defensive set. Life Orb is used to make the best use of Arcanine's coverage moves, though Life Orb recoil alongside Flare Blitz recoil will wear down Arcanine very quickly.
+
+Usage Tips
+========
+
+Arcanine functions best as a wallbreaker or as a revenge killer for slower opponents. Flare Blitz should be used sparingly with the various Fire-type resists in the tier, and it will quickly chip away at Arcanine's health alongside Life Orb recoil. If using Flash Fire, switch into a predicted Fire-type attack. Prediction is important with this set to effectively utilize Arcanine's coverage moves, such as hitting a Chandelure on the switch with Crunch or Hydreigon with Close Combat.
+
+Team Options
+========
+
+Rapid Spin and Defog users such as Mega Blastoise and Empoleon make for good teammates. Grass-types such as Shaymin or Celebi are good partners to handle the Rock- and Water-types that are problematic for Arcanine. Wish and cleric support from Pokemon such as Florges and Umbreon is helpful to heal Arcanine from status and keep it healthy.
+
+Other Options
+########
+
+Arcanine does not have many other options to utilize. It can use a special attacking set with Sunny Day, Solar Beam, and Fire Blast to lure its usual checks and counters. Howl can be used to boost Arcanine's Attack, but it generally doesn't get many opportunities to set up. Arcanine can utilize a Choice Band set to increase its Attack to massive levels, allowing it to punch holes in the opposing team. However, not being able to switch moves to hit targets with the appropriate coverage move could be problematic.
+
+Checks & Counters
+########
+
+**Entry Hazards**: Entry hazards, in particular Stealth Rock, cripple Arcanine's lifespan upon switching in.
+
+**Strong Special Attackers**: Strong special attackers such as Chandelure, Nidoking, and Mega Ampharos can switch into defensive Arcanine fairly easily and proceed to OHKO or 2HKO it. Chandelure is the most threatening of the three, as it only fears Toxic, unless it is running substitute to mitigate this problem.
+
+**Bulky Water-types**: If Arcanine lacks Wild Charge, bulky Water-types can take most attacks and stall it out. Swampert in particular is immune to Wild Charge, resists Flare Blitz, and takes neutral damage from Arcanine's other coverage moves.
+
+**Faster Pokemon**: While they can struggle to switch in safely, faster Pokemon, especially ones that resist Extreme Speed, can threaten to KO offensive Arcanine. Some examples of these are Mega Aerodactyl, Flygon, and Hydreigon.

@@ -1,0 +1,116 @@
+Overview
+########
+
+VGC14, and by extension Generation VI, was none too kind to Dragon-types, nerfing Draco Meteor, introducing Fairy-types, and banning the premier Dragon, Latios. As if to fill the void, Charizard was given a new Mega Evolution that plays similarly to the Dragons of days old, with insanely powerful Overheats nuking any Pokemon that are not specially defensive (and even some that are), good coverage with Solar Beam, and reliable spread damage in the form of Heat Wave. As a twist of fate, its new ability Drought allows Mega Charizard Y to consistently defeat its long-time rival Blastoise, as well as more prominent Water-types such as Rotom-W and Politoed. Mega Charizard X was actually granted the Dragon-type and plays so differently from the more common Mega Charizard Y that it can turn a match on its head in the likely event that it can capitalize on that initial surprise. Dragon Dance allows Mega Charizard X to play similarly to Volcarona in VGC12, and although it does lack the spread damage option that made Volcarona so feared, it does enough damage to a single target to make up for this.
+
+As always however, there are some catches to using Charizard. While it's difficult to KO it with Thunderbolts, Rock Slide from any decently strong Pokemon can quickly clip Mega Charizard Y's wings, and given the wide distribution of the move, it can come out of nowhere and instantly KO Charizard. It's also incredibly dependent on the weather staying in its favor, which means after it Mega Evolves, Tyranitar and Politoed can easily come in, wall, and OHKO Charizard with their STAB moves. In the same vein, Mega Charizard X is easily checked by Intimidate and faster Dragons such as Garchomp and Choice Scarf Salamence. This, and the fact that it doesn't have any spread coverage outside of the significantly weaker Heat Wave, makes it easier to play around, even if the opponent is thrown off by its surprise Mega Evolution.
+
+Mega Charizard Y
+########
+name: Mega Charizard Y
+move 1: Heat Wave
+move 2: Solar Beam
+move 3: Overheat / Ancient Power
+move 4: Protect
+ability: Solar Power / Blaze
+item: Charizardite Y
+evs: 244 SpA / 12 SpD / 252 Spe
+nature: Modest / Timid
+
+Moves
+========
+
+Heat Wave is a great STAB Fire-type move that Charizard can throw around without worrying as much about it getting blocked by Protect, and as such it's the main move it will be using. Solar Beam is equally important to make sure Charizard can threaten the opponent's weather changing Pokemon when Drought is activated, mainly Tyranitar and Politoed, as well as Rotom-W and various Rock- or Ground-types. The third slot is usually reserved for a more powerful single-target option such as Overheat to OHKO bulkier Pokemon that may give Charizard trouble such as Scrafty. To give an example of Overheat's power, with a Modest nature, Charizard is capable of OHKOing 252 HP Mega Kangaskhan. Overheat can be replaced by Fire Blast or Flamethrower to avoid the Special Attack drop, though you should double check to make sure you're not missing out on any important KOs that your team may depend on. Ancient Power is an interesting third slot option if you don't see any need for a second Fire move. With the added Rock-type coverage, Charizard is free to OHKO Talonflame and other Mega Charizard Y, as well as enabling it to deal decent damage to Rotom-H or nab a free +1 in every stat once in a blue moon. Finally, Protect is rather non-negotiable because of Charizard's crippling weakness to Rock Slide. Protect buys time for allied Chlorophyll Pokemon to use Sleep Powder or OHKO any threatening Rock Slide users.
+
+Set Details
+========
+
+Solar Power is the preferred ability in the event of a mirror match, where Charizard can actually outdamage Mega Charizard Y with Overheat to pick up an unexpected KO. It's especially important when using Ancient Power because it allows Charizard to OHKO opposing Charizard in every scenario, bar bulkier variants and Mega Charizard X. If you're not concerned with any of this or plan to Mega Evolve right off the bat, Blaze is the superior option to conserve bulk in the mirror match. A Modest nature is preferred in order to attain important OHKOs such as on 252 HP Rotom-W and 4 HP Tyranitar with Solar Beam and the aforementioned 252 HP Mega Kangaskhan with Overheat. However, if you don't plan on trying to OHKO any of these Pokemon, it may be worth using a Timid nature to outspeed neutral-nature base 100 Speed Pokemon such as non-Choice Scarf Salamence and Mega Kangaskhan, which could save Charizard from powerful physical attacks or even a Rock-type move. The EV spread is rather simple, with 12 Special Defense EVs used to ensure Charizard isn't OHKOed by 252 Special Attack Rotom-A's Thunderbolt at full HP. Bulkier EV spreads are also viable, such as 220 HP / 108 Def / 12 SpA / 4 SpD / 164 Spe, which aims to outspeed Smeargle and survive Garchomp's Rock Slide, although the drop in power can sometimes be noticeable.
+
+Usage Tips
+========
+
+Because Charizard maintains its Speed tier, it can afford to be conservative with Mega Evolving. For example, Drought's sunlight only lasts for 5 turns, so it's unwise to Mega Evolve on a turn when Charizard should Protect, unless a partner Chlorophyll user needs the sun to gain the Speed advantage. Additionally, Mega Evolving on the first turn can allow Tyranitar to come in and weaken Charizard, so it may be worth holding off on Mega Evolving if you see an opposing weather changer in Team Preview. Counting the turns of sunlight is also important because of Charizard's dependence on its weather, and is imperative if you plan on switching out relatively early after Mega Evolving to avoid a potential faster Rock Slide or to reinstate sunlight later in the game. Be sure to count the turns of sunlight and make sure you're not wasting them.
+
+It may be tempting to use Overheat, but unlike Draco Meteor, which has outstanding neutral coverage, Overheat is more easily punished by Rock- or Water-types. Be cautious of clicking Overheat if your opponent has a bulky Pokemon that resists Fire-type moves. If this seems a little too complicated, you can use Fire Blast or Flamethrower, but they may not OHKO certain threats that are important to your team.
+
+Team Options
+========
+
+Charizard and Venusaur make an incredibly effective sun core. With the Speed boost Chlorophyll provides, Venusaur can put dangerous Pokemon such as Garchomp and Kangaskhan to sleep before they can move and deal chunk damage, allowing Charizard to finish them off with Heat Wave. It also deals with Politoed and Tyranitar nicely, although Tyranitar may carry Ice Beam or Fire Blast, and can help you keep the upper hand in those matchups.
+
+Garchomp and Mamoswine can form a solid core with Charizard that spams Heat Wave and Earthquake instead of Discharge and Earthquake. Garchomp is the better pick to use Rock Slide on other Charizard and reliably finish off Kangaskhan, while Mamoswine can pick off Garchomp without risking a Speed tie or trading Dragon Claws. Both do a great job at forming a fast, hard-hitting lead with Charizard, so choose the one that better caters to your team.
+
+Aerodactyl, Mienshao, and Scrafty can either stop Rock Slides or weaken them to the point where non-STAB Rock Slide will fail to OHKO Charizard. Aerodactyl and Mienshao both have Wide Guard and can also smack common Rock Slide users such as Garchomp and Tyranitar for super effective damage with Ice Fang and High Jump Kick, respectively. Scrafty can both Fake Out and Intimidate Rock Slide users, as well as do reasonable damage with Ice Punch and Drain Punch, although it will rarely OHKO its target without a boosting item or prior Fake Out damage.
+
+Dragon Dance
+########
+name: Dragon Dance
+move 1: Dragon Dance
+move 2: Dragon Claw
+move 3: Flare Blitz
+move 4: Protect
+ability: Blaze
+item: Charizardite X
+evs: 92 HP / 174 Atk / 244 Spe
+nature: Adamant
+
+Moves
+========
+
+Dragon Claw and Flare Blitz receive a boost from Tough Claws after Mega Evolving and are Charizard's main STAB moves. Dragon Dance is a given on a Dragon Dance set, allowing Charizard to outspeed and OHKO Pokemon such as Garchomp and Mega Manectric, which would normally give Mega Charizard Y trouble. Protect rounds out the set, allowing Charizard to avoid dangerous Dragon-type moves upon Mega Evolving or Rock-type moves before doing so.
+
+Set Details
+========
+
+Defensively, the EVs listed allow Charizard to survive a Choice Band-boosted Talonflame's Brave Bird as Mega Charizard X and an unboosted Hydreigon's Draco Meteor as regular Charizard.
+
+Offensively, after a boost, Charizard outspeeds common Choice Scarf Pokemon such as Rotom-A and Mamoswine as well as naturally fast Pokemon such as Mega Manectric and Garchomp, while packing enough punch to OHKO the format's bulkier Pokemon such as Mega Kangaskhan and Mega Manectric even after an Intimidate. Before a boost, Charizard has enough Speed to outspeed Timid Tyranitar and Smeargle and enough power to OHKO opposing Dragons with Dragon Claw.
+
+An Adamant nature is used for more power because Speed isn't much of an issue when using Dragon Dance. The only notable Pokemon Jolly Charizard would outspeed after a boost is Modest Choice Scarf Salamence, which is next to impossible to reliably scout. The fact that you would at best Speed tie with Timid Salamence and other base 100 Speed Pokemon such as other Charizard and Mega Kangaskhan before a boost also makes the extra Speed useless.
+
+Usage Tips
+========
+
+Mega Charizard X stands out from other boosting Pokemon such as Swords Dance Garchomp and Dragon Dance Gyarados/Mega Gyarados because of its immunity to Will-O-Wisp. It also has a leg up from being able to masquerade as a special attacker due to Mega Charizard Y's popularity. It might be a good idea to let the opponent guess at Charizard's forme by not Mega Evolving when using Protect and only revealing its true colors when on the offensive.
+
+Because Charizard changes its typing, it might be a good idea to remain unevolved when setting up to better tank Dazzling Gleam or Dragon-type moves should your opponent figure out what Mega Evolution you're using, which tends to happen in best of three sets. Again, Charizard can survive different attacks with the given EV spread depending on whether or not it Mega Evolves, so make sure you've assessed the situation before clicking the Mega Evolve button.
+
+Despite the temptation to always boost before attacking, it really isn't necessary to do so in many common situations. Garchomp as well as some Salamence will most likely try to use Rock Slide if it doesn't have any reason to think Charizard isn't Mega Charizard Y, so Mega Charizard X's Dragon Claw will often pick up an OHKO provided Rock Slide doesn't score a flinch. Flare Blitz will OHKO Amoonguss and Aegislash, provided the latter doesn't use King's Shield, and so on. The real goal to keep in mind when using Dragon Dance is to outspeed faster, more frail Pokemon such as Mega Manectric and Aerodactyl, and OHKO bulkier Pokemon such as Mega Kangaskhan and Mega Venusaur. If Charizard can achieve the necessary KOs without boosting, don't bother trying to boost. Don't get greedy with Dragon Dance. Know when you have enough Speed and Attack to deal with your enemies.
+
+Team Options
+========
+
+Mienshao, Scrafty, and Aerodactyl make good teammates for Charizard focusing on creating free turns for Charizard to boost. Mienshao and Scrafty both have access to Fake Out and can scare Tyranitar into using Protect; they also have access to Taunt or Feint to prevent Protects and disruptive moves such as Trick Room and King's Shield so Charizard can freely attack. Aerodactyl offers a fast Sky Drop that can act like a Fake Out, but you have to be careful about trying to pick up Pokemon that are over Sky Drop's weight limit of 200 kg, such as Tyranitar. It might be worth checking with your Pokédex before trying to do any heavy lifting.
+
+While Amoonguss doesn't help Mega Charizard X that try to mask themselves as Mega Charizard Y, it's a rather consistent option to consider if you don't care about trying to play pretend. Rage Powder redirects dangerous Dragon Claws and Draco Meteors, and Spore can create free turns. Rotom-W, Gyarados, and Ludicolo are some more Pokemon that do a good job at taking care of various Ground-types such as Mamoswine, forming a decent offensive core, and supporting Charizard. Ludicolo provides Fake Out pressure, while Gyarados and Rotom-W can weaken physical attacks with Intimidate or Will-O-Wisp.
+
+Other Options
+########
+
+Mega Charizard Y doesn't have much room to fit in moves outside of the third slot, so it's best if you look at your options in that sense. Fire Pledge is an odd option, but it can actually be rather viable when partnered with Venusaur's Grass Pledge to create a fiery field that does damage over time. This not only does heavy damage on the first attack, but allows you to get chip damage on important targets such as Rotom-W to comfortably OHKO them without having to actually attack them first.
+
+Hidden Power Ice can deal with Garchomp and Salamence should you be using Wide Guard to grab a surprise OHKO on those two, as Mega Charizard Y usually doesn't have anything to really hit those two with. Dragon Pulse is significantly weaker but still does solid damage to those two as well as other Pokemon outside of sun. However, both Dragon Pulse and Hidden Power Ice are largely situational, as Charizard really shouldn't be trying to attack these Pokemon in these situations anyway; Mega Charizard Y is generally much less threatening outside of sun regardless of what third option you decide on.
+
+Sunny Day and Sky Drop are more supportive options and aren't usually a good idea considering how Charizard should be the one being supported, but if you consider an additional Fire-type move to be redundant, they may be worth your while. Sky Drop is basically a free Fake Out depending on whether or not Charizard is faster than whatever it uses Sky Drop on, as well as how heavy the target is. Sunny Day keeps the sun shining for more than five turns and, more importantly, it turns the tables on Rain Dance users such as Ludicolo and Meowstic that aim to set the rain after Charizard Mega Evolves. However, Sunny Day has limited use outside of these two scenarios.
+
+Naturally, Mega Charizard X is more physically oriented, so it has Charizard's physical movepool to toy with. Defensively, Mega Charizard X makes better use of Roost and Will-O-Wisp than Mega Charizard Y does, and it could run a bulkier set with an Impish nature that aims to check various Grass- and Steel-types such as Amoonguss and Aegislash without being as worried about being OHKOed by a stray Rock Slide. However, a bulkier Mega Charizard X does face competition from Rotom-H, Chandelure, and even Moltres for the role of a bulky Fire-type, each of which don't even require Mega Evolving and can therefore hold useful items such as Leftovers, Sitrus Berry, and Charti Berry.
+
+Offensively, Mega Charizard X has Rock Slide to hit Talonflame and Mega Charizard Y and a few other neat moves that get boosted by Tough Claws such as Shadow Claw, Steel Wing, and Brick Break, though it's hard to find a moveslot for any of these options given the impeccable coverage granted by its Dragon- and Fire-type STAB combination. It unfortunately doesn't have an alternate physical Fire-type STAB option, but it does have a few options for Dragon-type STAB moves in Outrage and Dragon Rush. While both of these moves are more powerful than Dragon Claw, the inherit inconsistencies of the 75% accuracy of Dragon Rush and the random targeting of Outrage make them weaker choices.
+
+Checks &amp; Counters
+########
+
+**Weather Control**: As Mega Charizard Y, Charizard is reliant on sunlight, if Solar Beam is any indication. Politoed, Hippowdon, and Tyranitar are natural enemies of Mega Charizard Y because of their abilities Sand Stream and Drizzle, although they are in danger of being hit with Solar Beam if caught inside the sunlight. Tyranitar is also capable of reinstating its own sandstorm via Mega Evolution while also threatening a 4x super effective Rock Slide, and it can even take advantage of Charizard's Protect with a well-timed Dragon Dance. Manual weather change is also effective. Rain Dance is an obvious choice given how it neuters both Fire-type moves and Solar Beam and grants Prankster users such as Meowstic-M and Sableye access to priority weather control due to its wide distribution. Kingdra and Ludicolo can also spare a moveslot for the move considering their alliance with Politoed, and they can often prove to be very useful should the team find itself having trouble with Charizard.
+
+**Rock Slide**: Garchomp threatens with Rock Slide, can outspeed any Charizard thanks to its convenient Speed tier, can pack a Lum Berry for any potential Venusaur partners, and resists its Fire-type moves. Salamence is in a similar camp because it usually runs a Choice Scarf, although it often has to rely on the unreliable Stone Edge to pick up an OHKO. Basically, anything with a Rock-type move and a respectable Attack stat can threaten Mega Charizard Y, although after one Intimidate, any Pokemon that doesn't receive a STAB boost will often miss out on an OHKO or struggle to do so.
+
+**Type Advantages for Mega Charizard Y**: Mega Manectric, Zapdos, and Rotom-H can threaten Mega Charizard Y with strong Thunderbolts, and in Rotom-H and Manectric's case, even take advantage of the sunlight with their own Overheats. Rotom-H also resists Mega Charizard Y's moves and occasionally opts for a pair of Safety Goggles, making it a solid check to Charizard / Venusaur leads. Other Pokemon that can tank Charizard's hits include Goodra and Chandelure. Goodra, like Rotom-H, can give Venusaur trouble with Sap Sipper, can deal consistent damage to Charizard, doesn't take much from Charizard thanks to its Dragon typing as well as its massive base 150 Special Defense, and can even prevent Charizard from using Protect against a Rock Slide, courtesy of its access to Feint. Chandelure can outright wall Mega Charizard Y with Flash Fire, leaving it free to either utilize the sunlight with its own Heat Wave, further boosted by Flash Fire, set up a Substitute, or set up Trick Room. Other notable Pokemon that resist Charizard's attacks include Hydreigon with its powerful Draco Meteor, Moltres with the occasional Ancient Power, and Mega Ampharos, which deals with Charizard in the same manner as Goodra.
+
+**Team Preview**: Mega Charizard X can be a huge problem to deal with if you're caught off guard. This problem is compounded by the fact that Mega Charizard X can't be easily sniffed out on Team Preview, so it might be worth taking note of the opponent's team to look for clues as to which forme Charizard will take. A huge indicator of Mega Charizard X on Team Preview is Amoonguss, which would be replaced with a Venusaur if it were Mega Charizard Y, as well as the absence of Pokemon like Mamoswine and Scrafty, which are more commonly paired with Mega Charizard Y. Generally, Mega Charizard Y teams are usually much more focused around it with options such as Venusaur, while Mega Charizard X teams will seem looser with more commonly used Pokemon such as Amoonguss. Pay attention to Team Preview for any telltale signs of a Mega Charizard X, since checking it will be harder to do if you bring your Mega Manectric or Rotom-H and expect them to do the heavy lifting.
+
+**Type Advantages for Mega Charizard X**: Faster Dragon-types such as Noivern, Choice Scarf Salamence, and Choice Scarf Hydreigon threaten Mega Charizard X after Mega Evolution and before a Dragon Dance. Noivern in particular is useful to Frisk Charizard's Charizardite to confirm any suspicions you may have as to its true forme. Garchomp is generally useful to check Charizard, although it has a hard time KOing Mega Charizard X, despite its super effective STAB Dragon Claw. However, if it can manage to get about 20-30% worth of its health chipped off, which can be easier if it's baited into a Flare Blitz or two, Garchomp can be a decent check to Mega Charizard X as well. While Mega Charizard X isn't reliant on weather, it does get handily checked by Kingdra, which can outspeed Mega Charizard X even after a Dragon Dance inside rain and can obviously OHKO it with Draco Meteor. Azumarill can wall Mega Charizard X thanks to its unique Water / Fairy typing and can 2HKO it with Play Rough or even take the opportunity to set up a Belly Drum and then OHKO it with Play Rough. Outside of these threats, Pokemon such as Tyranitar and Aerodactyl can still deal hefty damage with Rock Slide, even with only a 2x super effective hit and Mega Charizard X's greater Defense; they can also switch in on a Flare Blitz, though Dragon Claw will still deal good damage against the two, especially if Mega Charizard X can get a boost beforehand.
+
+**Speed Control**: Speed control, although rare in VGC14, is a huge threat to Mega Charizard X. Trick Room in particular is not very kind to it due to its tendency to boost its Speed, making it easier to set up for Pokemon such as Mega Mawile or Mega Ampharos, which Charizard would normally check. The more threatening users are Slowbro and Aromatisse, as they resist or are immune to one of Mega Charizard X's STAB moves. Thunder Wave and Tailwind are also good options for speed control, with the notable users being Gyarados and Rotom-A for Thunder Wave and Aerodactyl and Talonflame for Tailwind. While Rotom-H can't do much by itself once Charizard is paralyzed, Rotom-W and Gyarados can at least chip away at it with Hydro Pump and Waterfall, respectively. Aerodactyl is always a good Charizard check, and with Tailwind, it forces Charizard to set up three Dragon Dances to outspeed anything during those three turns, allowing teams to more easily deal with Mega Charizard X, provided they can take advantage of those three turns. Talonflame doesn't necessarily need Tailwind to outspeed Mega Charizard X, but if it isn't in Brave Bird KO range, it might be wise to let the team deal a little damage beforehand. Choice Band Talonflame variants are also effective in checking Mega Charizard Y, although if either Charizard invests enough in bulk, Talonflame will be easily picked off due to its natural frailty and Brave Bird recoil.
+
+**Intimidate**: Lastly, Intimidate is a good way to moderate how powerful Mega Charizard X can become and is a very welcome addition to any team, with other powerful physical attackers such as Mega Mawile and Mega Kangaskhan roaming the metagame. Salamence, again, can not only threaten Mega Charizard X with a Draco Meteor but can also offer Intimidate support. Scrafty can use Fake Out or even Taunt on Mega Charizard X to prevent it from setting up, and Gyarados can paralyze Charizard to prevent it from doing much of anything. Other Intimidate users such as Mega Manectric, Mega Mawile, Krookodile, and Staraptor can't really take Mega Charizard X's Flare Blitz or are hard to fit on teams, but any Intimidate user is worth bringing against Mega Charizard X. 

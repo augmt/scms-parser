@@ -1,0 +1,154 @@
+[Overview]
+
+<p>Zoroark is all about fighting dirty by using sneaky tricks and underhanded tactics to win matches. It achieves this by utilizing its signature ability, Illusion, which allows it to appear as the Pokemon in the sixth slot of your team. This can lead to some pretty tricky mind-games, as your opponent has no idea if you've sent Zoroark out or not. That Scizor that just switched in might secretly be a Zoroark in disguise that's just waiting to roast your Skarmory with Flamethrower. Your Heatran might not stop that Jirachi if it happens to carry Focus Blast. However, when all's said and done, Zoroark is burdened with several limitations that prevent it from being an absolute murderer. It's disappointingly frail, to the point where it can never switch into anything, and any remotely powerful attack will OHKO it. It relies on its Speed to KO opposing Pokemon, but base 105 Speed is a step below several prominent Pokemon, notably Keldeo, Terrakion, and Gengar. Furthermore, even with its above-average Speed, its low defenses render it especially weak to opposing priority. Still, when it comes down to it, Zoroark is the perfect assassin, taking out unaware targets with impunity; just don't let it get caught outside of the shadows.</p>
+
+[SET]
+name: All-Out Attacker
+move 1: Sucker Punch
+move 2: Low Kick
+move 3: Flamethrower
+move 4: Dark Pulse / Hidden Power Ice
+item: Life Orb
+nature: Naughty
+evs: 200 Atk / 92 SpA / 216 Spe
+
+[SET COMMENTS]
+
+<p>Zoroark's best asset to most teams will be Illusion or its powerful STAB Sucker Punch. This set utilizes both without having to rely solely on its physical coverage. By focusing on Zoroark's Attack rather than Speed, Zoroark gains a Life Orb Sucker Punch rivaling a Choice Band Scizor Bullet Punch in power. This makes the lowered Speed rather trivial as the Sucker Punch is doing essentially the same damage as a fully-invested Life Orb Timid Dark Pulse, which looks like this:</p>
+
+<ul class="damage_calculation">
+<li>Sucker Punch vs. 252/4 Reuniclus: 91.98% - 108.25%</li>
+<li>Sucker Punch vs. 0/0 Tornadus: 69.57% - 81.61%</li>
+<li>Sucker Punch vs. 4/0 Venusaur: 59.93% - 70.86%</li>
+<li>Sucker Punch vs. 0/0 Salamence: 56.19% - 66.16%</li>
+</ul>
+
+<p>This not only makes Zoroark a fantastic late-game sweeper, but it also functions as a huge safety net for its team, picking off weakened sweepers no matter how fast they may be. As for the things that resist Sucker Punch, Low Kick is the most effective answer to Tyranitar and Heatran, OHKOing them both (after Stealth Rock on Heatran's end.) Flamethrower is reserved for Skarmory, Ferrothorn, and Forretress, but the craftier Zoroark user might be able to fool a Scizor via Illusion and a suitable partner. Dark Pulse is for back-up STAB should the opponent either not attack or attempt to burn Zoroark; this is extremely helpful against a status-spreading Jellicent, Politoed, or Rotom-W that may attempt to deceive the master of deception upon seeing Sucker Punch. Hidden Power Ice takes down Landorus-T, Gliscor, and Dragonite at the cost of reliable coverage against Water-types.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The Speed EVs allow Zoroark to reach 300 Speed, outpacing neutral nature base 100s. The attacking EVs are balanced between OHKOing Heatran after Stealth Rock with Low Kick and having a decent chance to OHKO Ferrothorn with Flamethrower without entry hazards. You could shift the EVs even further into the Attack stat for a stronger Low Kick on Heatran to OHKO without hazards and a more terrifying Sucker Punch, but at that point you might be better off running the Swords Dance set.</p>
+
+<p>An alternate EV spread of 32 Atk / 244 SpA / 232 Spe with a Naive nature can be used as a faster, more specially-based attacker at the cost of priority power. It does maintain enough Attack to OHKO Latios and Starmie that otherwise outspeed Zoroark. It's great for catching Garchomp and Landorus-T with Hidden Power Ice or Kyurem and Hydreigon with Focus Blast, but the main set handles most other Pokemon easier. As stated above, Hidden Power Ice can nail Dragon-types, Gliscor, and Landorus-T when used with the Naive nature spread. Similarly, Focus Blast can be used over Low Kick, but only if you're using the Naive nature EVs. Night Daze is an option over Dark Pulse for a bit more power, but it comes at the cost of accuracy.</p>
+
+<p>Due to how frail it is, Zoroark demands one or two teammates with U-turn of Volt Switch to get it into battle and snipe a threat. Scizor gets a big recommendation as it has U-turn and a priority move of its own. When Zoroark is paired with other priority users, nearly all Speed-boosting sweepers will be KOed by them together, which gives you an even bigger safety net to stop any sweep. Other great U-turn and Volt Switch partners include Rotom-W, Infernape, Celebi, Jolteon, and even Forretress and they can also be used for Illusion, but U-turn users like Landorus-T, Thundurus-T, and Gliscor are great for getting Zoroark into battle as well even though they aren't candidates for Illusion.</p>
+
+<p>Another helpful factor when playing with Zoroark is to have a teammate or two that soften the opponent's team quickly. Choice Band Heracross and Choice Specs Latios make great teammates for this reason, and very threatening Illusions as well, since they resist Zoroark's Fighting weakness. Powerhouses like those two are valuable because once you significantly weaken a team, Zoroark can just go around taking down foe after foe with its priority and coverage. U-turn and Volt Switch also help wear down teams and break Substitutes. Again, it cannot be stressed enough how important teammates with these moves are. Anything with neutrality to Stealth Rock and no auto-activating ability can be used as an Illusion, so long as you make it tough to get Spikes on the field. Therefore, be sure to experiment and find the right Pokemon for you.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Sucker Punch
+move 3: Flamethrower / Night Slash
+move 4: Low Kick
+item: Life Orb
+nature: Naughty
+evs: 252 Atk / 40 SpA / 216 Spe
+
+[SET COMMENTS]
+
+<p>Despite having a limited physical movepool, Zoroark can still function as a decent physical sweeper. Access to the ever-useful Swords Dance and Sucker Punch are all it needs to be a devastating physical sweeper. Zoroark is capable of sweeping through offensive teams if left unchecked because the majority of revenge killers fall to a boosted Sucker Punch. Access to Flamethrower sets Zoroark apart from most other Swords Dance users, because Flamethrower lets it crush common Steel-types such as Skarmory, Ferrothorn, and Forretress. While Night Slash might seem like a poor move choice, it has a key use in dealing with stall teams, especially against Pokemon such as Jellicent and Gastrodon who resist Zoroark's coverage moves and can bypass Sucker Punch with non-attacking moves. Low Kick gets excellent coverage with Sucker Punch and crushes Tyranitar and Heatran, who would otherwise wall Zoroark, and also take on Blissey, who easily avoids Sucker Punch by using a status or recovery move. Low Kick also happens to be effective against Steel-types in the rain.</p>
+
+<p>You will want to use Illusion to its maximum potential to get the best use out of Zoroark. Due to Zoroark's awful defenses, you need to rely on forced switches via bluffs if you want to set up. Zoroark can still serve as a decent physical sweeper if its disguise is blown, but it's really important to get that Swords Dance off because it can't do much damage without it. This set is geared towards tackling frailer offensive teams because the majority of stall teams have a way of bypassing Sucker Punch. Low Kick and Flamethrower are not enough to deal with stall; thus, Zoroark needs a teammate that can deal with stall-based teams.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>An Attack-boosting nature with maximum Attack investment is used because Sucker Punch ignores the need for a Speed-boosting nature. 216 Speed EVs allow Zoroark to outspeed neutral natured Pokemon with base 100 Speed, and the rest of the EVs are dumped into Special Attack to boost Flamethrower. Zoroark can outright forgo Sucker Punch for Night Slash, which unlike Sucker Punch, cannot be outmaneuvered, and is more useful on against defensive and support Pokemon. However, this comes at the cost of power against offensive teams, who rely on faster and frailer Pokemon to deal with Zoroark. Alternatively, Zoroark can use both Sucker Punch and Night Slash to get a handle against both offensive and stall teams. However, without Flamethrower, Zoroark loses out on the ability hurt Skarmory and other Steel-types that take negligible damage from Low Kick such as Jirachi. Taunt can stop defensive Pokemon in their tracks, especially those that carry status moves. Unfortunately, Zoroark's extreme frailty means that it can be 2HKOed by just about any Pokemon, making Taunt a gimmicky option at best.</p>
+
+<p>Zoroark's teammates should cover its weaknesses, grant it opportunities to set up with their disguises, or allow Zoroark to switch in unharmed via U-turn. Celebi is a perfect partner because on top of providing Zoroark with a defense against Fighting-types, it lures out both Latios and Latias, as well as Trick Room Reuniclus, and destroys them with Sucker Punch. It's also capable of checking Terrakion and Keldeo, 2 Pokemon that Zoroark heavily struggles with, due to the fact that they both resist Sucker Punch and can easily OHKO Zoroark with their respective Fighting-type moves. Celebi is even capable of countering Hippowdon, who can stop this set in its tracks. U-turn or Volt Switch support can be provided by the aforementioned Celebi, Landorus-T, Scizor, Rotom-W, Infernape, or Forretress. Entry hazards from the likes of Ferrothorn, Skarmory, and Forretress are appreciated since Zoroark needs all of the extra damage it can get because it can't afford to take a hit. Haxorus is an interesting partner for Zoroark. The two Pokemon share no defensive synergy whatsoever, but Zoroark is capable of luring out and taking out Skarmory, giving Haxorus a significantly easier time at sweeping. Furthermore, Zoroark's disguise is preserved because Haxorus sometimes uses Swords Dance as well. Unfortunately, Haxorus is forced to use Rivalry because Mold Breaker gives a visual cue, and can ruin Zoroark's disguise against an observant opponent.</p>
+
+[SET]
+name: Choice Specs
+move 1: Dark Pulse
+move 2: Focus Blast
+move 3: Flamethrower / Hidden Power Ice
+move 4: Trick
+item: Choice Specs
+nature: Timid
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>With Choice Specs, Zoroark can inflict major damage right off the bat, without the need to set up a Nasty Plot. Each of Zoroark's moves receives a fairly large boost in power which allows it to OHKO and 2HKO Pokemon it couldn't otherwise. A Choice Specs-boosted Dark Pulse, for example, is capable of flat-out OHKOing standard Jellicent after Stealth Rock, and dishes out a much more significant amount of damage to Pokemon that take neutral damage from Dark Pulse when compared to other sets. Focus Blast provides Zoroark with impeccable coverage, and specifically allows it to OHKO or cripple most of the Dark-type resists in OU such as Tyranitar, Heatran, Terrakion, and Ferrothorn. Flamethrower might seem redundant on a set when Focus Blast is already being used, but it has its uses against Steel-types that take neutral damage from Focus Blast such as Jirachi, Metagross, and Bronzong. Hidden Power Ice, on the other hand, is useful for specifically OHKOing Pokemon that have a quadruple weakness to Ice, such as Dragonite (provided that Multiscale is broken), Gliscor, and Landorus-T. Trick is arguably the most important move on this set, since it allows Zoroark to completely cripple most switch-ins and beat Pokemon that it can't muscle its way through such as Blissey and Chansey. It's especially useful when used in tandem with Illusion since Zoroark can Trick targets that would never ordinarily switch into it. You only get one chance at using Trick, so knowing when to use it is vital.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>U-turn is an option on this set for quick retreat, but it goes against the entire point of using Choice Specs Zoroark, which is to cause as much immediate damage as possible. Extrasensory is an option for those looking to get consistent damage against Fighting-types such as Keldeo, but it doesn't provide Zoroark with any noteworthy coverage otherwise, and a non-STAB 80 Base Power Psychic-type move is one of the worst things to be locked into. Grass Knot deals with Gastrodon, who is capable of sponging Zoroark's other attacks with its high Special Defense. In addition, it adds to Zoroark's already stellar coverage, allowing it to hit 11 out of the 17 types for super effective damage. Fighting-type Pokemon, such as Keldeo and Conkeldurr, will have little to no trouble switching into even Choice Specs Zoroark, so extra precautions should be taken to ensure that Zoroark's disguise deters those Fighting-types from switching in. Breloom and Terrakion are some of the other Fighting-types to look out for; they can't exactly switch into most of Zoroark's moves, but if they receive an opening via Dark Pulse, it could prove disastrous (especially in Terrakion's case, as Dark Pulse makes it even stronger).</p>
+
+<p>Choice Specs Zoroark is a powerful lure since it has enough oomph to OHKO just about any Pokemon with the right coverage move, or cripple most Pokemon with Trick, making it ideal as a partner to Pokemon who are stopped by common walls. For example, if Jellicent is a problem for any of your other Pokemon, Zoroark can lure it out and OHKO it with Choice Specs Dark Pulse. The removal of Jellicent means that Pokemon such as Keldeo have a much easier time sweeping, and Rapid Spin users have a field day. This is merely just one example of putting Choice Specs Zoroark's ability to OHKO unsuspecting targets to good use. You can pair Zoroark up with all kinds of Pokemon, so don't hesitate to experiment. That said, don't fret if Zoroark's Illusion is broken at any point in the match, since it's still a decent Choice Specs user due to its good Speed and great coverage. Zoroark is unfortunately frail, but U-turn or Volt Switch support is extremely helpful to get Zoroark in the battle. For that reason, Scizor, Celebi, Rotom-W, Landorus-T, and Jirachi can be great partners.</p>
+
+[SET]
+name: Nasty Plot
+move 1: Nasty Plot
+move 2: Dark Pulse
+move 3: Focus Blast
+move 4: Substitute / Flamethrower
+item: Life Orb / Focus Sash
+nature: Timid
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>High Speed and Special Attack stats along with a superb array of coverage moves make Zoroark a good special sweeper. Nasty Plot boosts Zoroark's Special Attack to an incredible 678, which gives it enough power to OHKO most of the metagame and even muscle its way through the sturdiest walls, which makes it an excellent wallbreaker. Nasty Plot boosts Dark Pulse's low Base Power and gives it real killing power, enough to OHKO practically any offensive Pokemon that doesn't resist it, or 2HKO them at worst. Focus Blast gives Zoroark some necessary coverage and guarantees the OHKO on specially defensive Tyranitar and Heatran after a Nasty Plot boost. Substitute is vital for letting you scout switches and it gives you the option of choosing to use Nasty Plot (against slower threats) or an attacking move (against faster threats). Meanwhile, Flamethrower targets Steel-types that are neutral to Fighting, such as Jirachi and Scizor, who are difficult to remove otherwise.</p>
+
+<p>The key to using Nasty Plot Zoroark is to avoid getting hit at all costs and to make good use out of Illusion, which separates it from your run-of-the-mill frail, boosting sweeper. Illusion, when utilized correctly, can grant Zoroark a free turn in which it is capable of setting up outright or attacking an unaware opponent. Good teammates that strengthen Zoroark's disguises are recommended. When it comes to stallbreaking, Zoroark is unique because it can cause the opponent to bring in the wrong Pokemon, which equates to free damage, or possibly even an extra Nasty Plot.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The following damage calculations illustrate Zoroark's wallbreaking potential:</p>
+
+<ul class="damage_calculations">
+<li>+2 Life Orb Dark Pulse vs 248/216 Jellicent 148.51% - 174.5%%</li>
+<li>+2 Life Orb Dark Pulse vs 200/0 Landorus-T 04.6 - 123.57%%</li>
+<li>+2 Life Orb Dark Pulse vs 252/0 Gliscor 114.69% - 135.03%</li>
+<li>+2 Life Orb Dark Pulse vs 252/0 Rotom-W 100% - 117.76%</li>
+<li>+0 Life Orb Flamethrower vs 252/216+ Ferrothorn 97.73% - 114.77%</li>
+<li>+2 Life Orb Flamethrower vs 252/252+ Jirachi 90.59% - 106.44%</li>
+<li>+2 Life Orb Dark Pulse vs 252/0 Tentacruel 75.8% - 89.3%
+<li>+2 Life Orb Focus Blast vs 252/0 Blissey 69.5% - 81.8%</li>
+<li>+2 Life Orb Focus Blast vs 252/0 Chansey 58.5% - 69%%</li>
+<li>+2 Life Orb Focus Blast vs 252/252+ Tyranitar 152.5% - 180.2%</li>
+<li>+2 Life Orb Focus Blast vs 252/252+ Heatran 114.5% - 135.2%</li>
+</ul>
+
+<p>The choice between Focus Sash and Life Orb is a fairly important decision to make when using Zoroark. Life Orb gives Zoroark significantly more power, which grants it several more OHKOes after a Nasty Plot boost. Focus Sash, on the other hand, guarantees that Zoroark will survive at least one attack, provided that entry hazards are not on the field. It's particularly useful in the lead position and against faster Pokemon in general, but it makes Zoroark noticeably weaker. A Modest nature can be used for more power, but Zoroark's ability to outspeed Volcarona and Salamence is useful. Grass Knot can be used to target bulky Water-types that are capable of taking a Nasty Plot-boosted Dark Pulse, such as Gastrodon, and also lets Zoroark deal heavy damage against Tyranitar without relying on Focus Blast and its shaky accuracy. Hidden Power Ice is useful for its ability to take out prominent Pokemon with a major weakness to Ice such as Dragonite (provided that Multiscale is broken), Landorus-T, and Gliscor, without any boosts, which is a very valuable asset in the OU metagame. </p>
+
+<p>Nasty Plot Zoroark likes having entry hazards on the field because they allow it to secure OHKOs against sturdy walls. Blissey, for example, has a chance of being OHKOed by a +2 Focus Blast with a layer of Spikes and Stealth Rock. Ferrothorn and Forretress are all decent choices, but if they're too slow for your taste, you might want to consider using Smeargle or Accelgor. Regardless of how strong Nasty Plot Zoroark is, Fighting-types are the absolute bane of its existence. Conkeldurr and Keldeo can easily switch into Zoroark and threaten it with their STAB moves. Starmie, Latios, Terrakion, and other faster Pokemon with powerful attacks can instantly end Zoroark's sweep with their powerful STAB moves.</p>
+
+<p>Scizor has decent defensive synergy with Zoroark, and can check a few of the faster Pokemon that give Zoroark trouble such as Latios, Terrakion, and Tornadus while giving Zoroark much needed switch priority. Zoroark can also help out Scizor in return by eliminating its biggest counter, Skarmory, with a well-timed Flamethrower. Switch-priority is a must to get Zoroark into battle safely, so VoltTurn teammates like the aforementioned Scizor, Celebi, Rotom-W, and Landorus-T help greatly. While there are a ton of Pokemon who pair up with Nasty Plot Zoroark, Nasty Plot Mew and Celebi are some of the best possible offensive partners to Zoroark. Both of them can check the Fighting-types that trouble Zoroark, and the illusion isn't necessarily revealed if Zoroark uses Nasty Plot, because it's not uncommon for Mew or Celebi to use Nasty Plot itself. Utilizing Illusion to its fullest is absolutely essential for this set to work. You need to be able to force switches in order to set up, and you should always keep in mind that Zoroark isn't fast enough to sweep the metagame, so using Nasty Plot against teams that carry naturally faster Pokemon generally isn't a good idea.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Dark Pulse
+move 2: Focus Blast
+move 3: Hidden Power Ice / Flamethrower
+move 4: Trick / U-turn
+item: Choice Scarf
+nature: Timid / Naive
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>When equipped with a Choice Scarf, Zoroark turns into a speedy revenge killer that can make good use of its ability to net surprise KOs. Dark Pulse is a reliable STAB move, but it's fairly weak so it's solely used for damaging Pokemon that are weak to it such as Latios and Jellicent. Focus Blast works extremely well with Dark Pulse, taking out the majority of Pokemon who resist it, such as Tyranitar and Heatran, and provides Zoroark with perfect coverage. Hidden Power Ice is vital for revenge killing Dragon Dance users, such as Salamence or Dragonite, in addition to targeting Landorus-T and Gliscor, while Flamethrower decently damages Steel-types that are neutral to Focus Blast such as Jirachi and Scizor. Trick utterly cripples most Pokemon, but Zoroark gives up the ability to revenge kill threats without a Choice Scarf, so use it with discretion. U-turn is a Choice Pokemon's best friend, as it lets Zoroark scout its opponent's switch-in and counter accordingly.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Fighting-types have always been Zoroark's bane, and this set is no exception. Conkeldurr and Keldeo can switch into any of Zoroark's moves and force it out with their STAB Fighting moves or use it as setup fodder. Terrakion and Breloom have a significantly easier time switching into this set, due to its pathetic damage output, and wreak havoc once they switch in. Psychic-types and Fighting-type counters make for great partners, since once Zoroark is discovered, they will attempt to switch in non-stop. There are several important things to consider when using Choice Scarf Zoroark. It is extremely weak; Dark Pulse is unable to do decent damage to pretty much any self-respecting offensive Pokemon. In order to succeed with Choice Scarf Zoroark, you need to play to its strengths. Only target Pokemon that take super effective damage from any of Zoroark's moves or weakened Pokemon. In other words, don't try be a hero! Pick battles that you're sure to win, since Choice Scarf Zoroark will go down hard if it's played recklessly. Try to use its ability to net a surprise KO by disguising as a Pokemon that is normally too slow to use a Choice Scarf whenever possible. There is no need for you to center your entire strategy around Illusion, however; Zoroark is a revenge killer first and foremost, and doesn't need to worry about being exposed.</p>
+
+[Other Options]
+
+<p>Zoroark has a bunch of cool and interesting moves to choose from, but they often end up being inferior choices. Zoroark can use Pursuit on a couple of its sets, but Zoroark has neither the bulk nor the Speed to make good use of Pursuit, and Tyranitar and Weavile are often better picks. A Choice Band set could be used, but Zoroark's pitiful physical movepool makes it a subpar option at best. A Calm Mind set is an option if you want Zoroark to reinforce its Special Defense alongside its Special Attack. However, Zoroark's terrible bulk makes it a pointless endeavor, and Nasty Plot is superior in nearly all cases. An Agility + 3 attacks set could be used, and truth be told Zoroark has the coverage to pull it off. However, Zoroark isn't naturally strong enough to sweep entire teams. Zoroark also has access to the semi-exclusive Memento, but it is outclassed by other Memento users such as Latios and Uxie, who have superior support moves. A Torment set is an option, but Zoroark has neither the bulk or the typing to pull it off.</p>
+
+[Team Preview Management]
+
+<p>Team Preview is a very important factor to consider to get the most out of Zoroark. Team order makes some opponents think that Zoroark is meant to be the Pokemon in the back at Team Preview, so before you even search for a battle, move Zoroark's least-likely Illusion to the back of your party. Its VoltTurn partner is a great Pokemon to have appear in the last slot as it will almost never really be Zoroark's Illusion. Unless you will often lead with Zoroark, you want to put Zoroark in your 1st party slot. This may make you opponent weary of your false lead Zoroark and could very easily score you a free KO with the Pokemon you do lead off with. But make absolutely sure you do not rely on your opponent predicting Zoroark as that will get you KOed more often than not. However, if you do want to lead with Zoroark, have it be in any other party slot but the first and last one. Your team order should now be a complete red herring for your opponent to follow.</p>
+
+<p>Now, you're in Team Preview so it's time to shuffle your team around to its true order. A general rule of thumb is that if you're not leading with Zoroark, it should be moved to your 2nd party slot. This ensures it will almost always have an Illusion since it's so far from the back of the party. The order of your teammates is also very important to change. Pokemon with Intimidate or another auto-activating ability should always be put in the 3rd slot of your party if you're not leading with them because you don't want Zoroark to appear as them if you can help it. Ground-, Rock-, and Steel-types should be moved to the same place as Intimidate Pokemon if you're facing a sandstorm team. Similarly, you should have at least one Pokemon with U-turn or Volt Switch away from the back of your party as Zoroark needs to use them to get into battle. Choose the best lead as you would with any normal team. Your 6th slot should be your least-helpful Pokemon without an auto-activating ability in this specific battle. For example, if battling a rain team, your Rock- or Ground-type may be your least important teammate and will act as Zoroark's Illusion for the battle until you need it. Against a sand team, Pursuit-weak Pokemon may be the least helpful due to a waiting Tyranitar, so Zoroark will take on their appearance until the Tyranitar is taken out. After all that preparation, it's now time to battle and combine your premeditated trickery with battling skill to give you the edge!</p>
+
+[Checks and Counters]
+
+<p>Outright countering Zoroark is a difficult prospect due to its Illusion ability. Zoroark users can mix and match their teams before the battle starts, so it's impossible to tell when exactly Zoroark comes out. That Haxorus that just switched has no intentions of using of Outrage, and is just waiting to melt your Skarmory with Flamethrower; alternatively, your Tyranitar might not stop that Latias if it happens to be a Zoroark carrying Focus Blast. Zoroark can play a huge role in lead match-ups as a result of its ability since it can potentially strike unaware Pokemon and OHKO them with the right coverage moves.</p>
+
+<p>Fortunately, there are several ways to uncover Zoroark's disguise. First and foremost, Illusion does not copy visual ability cues, so if a Zoroark disguises itself as a typical user of Mold Breaker or Intimidate, it's a dead giveaway. Second, Zoroark is neutral to Stealth Rock, so if Zoroark disguises itself as a Pokemon who is weak to Stealth Rock or resistant to it, you can immediately tell on the switch in. Zoroark and its partner obviously share different health bars and status, so you can also use that information to uncover its identity. It's a little harder to deal with Zoroark if its Illusion partners are neutral to Stealth Rock and their abilities lack a visual cue, especially early into the battle. Remember, as the battle drags on, it becomes harder for a Zoroark user to hide its disguise, especially when hazards are up and Pokemon are more weakened in general.</p>
+
+<p>Countering Zoroark when its disguise has been revealed is significantly easier. Zoroark can't stand Fighting-types, and Fighting-types such as Keldeo and Conkeldurr have no problem switching into most sets and can OHKO Zoroark with their STAB Fighting-type moves. Conkeldurr also has access to Mach Punch, which bypasses Zoroark's Speed advantage and readily OHKOes it after Stealth Rock damage. Other Fighting-types such as Terrakion and Breloom will have some difficulty switching into one or two of its moves, but can easily beat it if they manage to switch into a Dark-type move or setup move. To add insult to injury, Terrakion's Justified ability raises its Attack by one stage, making Zoroark a liability in certain circumstances. Just about any Pokemon that is faster than Zoroark can be considered a check, because its extreme frailty means it is OHKOed by just about any STAB move. Scizor is a good check due to its strong priority Bullet Punch and resistance to Dark Pulse, but it needs to avoid Flamethrower. Blissey and Chansey are strong checks to most sets, but they need to watch out for Trick (or Low Kick in Blissey's case, which can OHKO when boosted with hazards in play or 2HKO unboosted). Specially defensive Jirachi takes a negligible amount of damage from most of Zoroark's moves, and is an especially hard counter if rain is active. Zoroark struggles against Pokemon that it can't hit for super effective damage since its main STAB is fairly weak. Pokemon such as Garchomp or Rotom-W can be considered checks provided that they're healthy or Zoroark hasn't boosted yet.</p>

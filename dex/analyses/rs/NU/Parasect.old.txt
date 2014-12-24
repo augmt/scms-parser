@@ -1,0 +1,57 @@
+[Overview]
+
+<p>Parasect is NU for a good reason: its typing is awful. With two 4x weaknesses (to Fire and Flying) as well as weakness to Ice Beam, it really has a hard time coming into anything. Its really, really low Speed isn't helping either. Even in NU it is outclassed both as a Grass and a Bug Pokemon by Sunflora and Roselia for the former and Dustox for the latter. It does get some very good moves like Aromatherapy and Spore, but overall it isn't exactly worth it.</p>
+
+[SET]
+name: Support
+move 1: Spore
+move 2: Aromatherapy
+move 3: Sludge Bomb
+move 4: Hidden Power Rock / Hidden Power Bug
+item: Leftovers
+nature: Adamant
+evs: 252 HP / 64 Atk / 168 Def / 24 Spe
+
+[SET COMMENTS]
+
+<p>A support-oriented Parasect. Puts something to Sleep, heals the team of status, and takes on Choice Banded Ground / Fighting attacks. Hidden Power Bug is good for decent damage all around thanks to STAB, but Hidden Power Rock hits the omnipresent Choice Band Birds, Pidgeot and Murkrow. Only use Hidden Power Rock in NU, Hidden Power Bug is superior in UU.</p>
+
+[SET]
+name: Swords Dance
+move 1: Spore
+move 2: Swords Dance
+move 3: Sludge Bomb / Aerial Ace
+move 4: Hidden Power Rock / Hidden Power Bug / Hidden Power Ground
+item: Leftovers
+nature: Adamant
+evs: 252 HP / 252 Atk / 4 Spe
+
+[SET COMMENTS]
+
+<p>Because people expect Spore, you might not want to use that right away. For instance, if they have Murkrow, you've just given them a free switch to come in and use Choice Banded Drill Peck on your team; the same goes for Sludge Bomb Ariados. For this reason, it's generally best to open with Swords Dance if you predict a Sleep Talker, or Hidden Power Rock if you predict one of those two. Hidden Power Rock is a good opener if you have no idea what to do, because the common switches into Parasect are weak to it. Hidden Power Ground can do something to Mawile and maybe Sudowoodo, but Sudowoodo has STAB on Rock Slide, so you can't stay in on it. Once again, only use Hidden Power Rock in NU, Hidden Power Bug and Ground are superior in UU.</p>
+
+[SET]
+name: Special Attacker
+move 1: Spore
+move 2: Giga Drain / Solar Beam
+move 3: Hidden Power Ice / Hidden Power Fire
+move 4: Growth / Sunny Day
+item: Leftovers
+nature: Modest
+evs: 236 HP / 252 SpA / 24 Spe
+
+[SET COMMENTS]
+
+<p>This set's main power is that it can kill its main counters through surprise. For instance, Mawile will take quite a bit of damage from Hidden Power Fire, and Sudowoodo is 2-3HKOed by Giga Drain. If you use Hidden Power Ice, you can still hit Murkrow and Pidgeot on the switch super effective, so they'll likely think you're using Hidden Power Rock. For this reason, Growth and Sunny Day should generally be used later on in the match (and also because you need to make sure they don't have any guys that can OHKO Parasect). This is inferior to Pokemon like Vileplume in UU; the accuracy of Spore over Sleep Powder does not make up for the worse stats and ability.</p>
+
+[Other Options]
+
+<p>Parasect could try out using Thief, but this works best if it has a physical attack or two, as otherwise, it might end up stealing a Choice Band, thus rendering itself fairly useless. Parasect has a decent amount of Defense, and thus can survive even a Choice Band Pidgeot Return without any EVs whatsoever, and max HP allows it to survive a Choice Band Double-Edge, which can take quite a few enemies by surprise, but watch out for Flying moves. Stun Spore is good for alternate status and completely screws up Pidgeot and Fearow. Aerial Ace can be used with Hidden Power Bug, but it hits so few things it's not generally worth it.</p>
+
+[EVs]
+
+<p>Needs a lot of HP so it can last at least one turn. A few Speed EVs can be useful, primarily for Sudowoodo. Other than that, you'll want to give it a lot in the attacking stat of choice on the attacking sets, and boost the defenses for support-oriented Parasect.</p>
+
+[Checks and Counters]
+
+<p>Ariados is immune to Spore thanks to Insomnia, and resists Hidden Power Bug and Sludge Bomb. However, it has to beware of Hidden Power Rock, as it will take a large chunk out of it. Mawile is immune to its main attack, Sludge Bomb, and resists just about anything else Parasect can throw at it, especially with that Intimidate, letting it potentially set something up with a Swords Dance or a Substitute. Glalie, although not particularly sturdy against Parasect's attacks, can scare it off with STAB Ice Beam and use that to set up Spikes. Sudowoodo shrugs off whatever Parasect might do, and attacks with STAB Rock attacks, but greatly fears special attacking sets. Murkrow and Pidgeot are also the big threats to Parasect, but have to worry about Hidden Power Rock, and even Sludge Bomb takes a hefty chunk of life. Murkrow, however, has the advantage of being immune to Spore, but Pidgeot resists Hidden Power Bug.</p>

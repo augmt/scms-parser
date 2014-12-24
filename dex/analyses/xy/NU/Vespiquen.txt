@@ -1,0 +1,13 @@
+Wall
+########
+name: Wall
+move 1: Protect
+move 2: Roost
+move 3: Toxic
+move 4: Attack Order
+item: Leftovers
+ability: Pressure
+evs: 248 HP / 252 Def / 8 SpD
+nature: Impish
+
+This is a sample set while we are currently working on analyses in the workshop.

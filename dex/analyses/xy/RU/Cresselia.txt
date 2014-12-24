@@ -1,0 +1,119 @@
+Overview
+########
+
+Cresselia, which was banned in the previous generation of RU, returns as an incredible wall. Sporting fantastic 120 / 120 / 130 defenses, Cresselia is the overall bulkiest Pokemon in RU. This, coupled with a reliable recovery move in Moonlight, makes Cresselia very hard to take down. On top of that, its movepool is huge, with access to a plethora of supportive moves such as Thunder Wave, Lunar Dance, Reflect, Light Screen, Magic Coat, and even a boosting move in Calm Mind. Cresselia also has the ability Levitate, which gives it immunity to Spikes, Toxic Spikes, and Ground-type moves, making it even harder to wear down. Cresselia has a solid base 85 Speed, something that's rarely seen on a wall. Unfortunately, because of its not-too-great Special Attack and lack of Taunt, Cresselia can often be rendered setup fodder by Pokemon such as Braviary, Drapion, Escavalier, and Doublade. Moreover, Cresselia's typing gives it weaknesses to common types such as Ghost, Dark, and Bug, but Knock Off is its most troublesome issue.
+
+Wall
+########
+name: Wall
+move 1: Moonblast
+move 2: Psyshock
+move 3: Moonlight
+move 4: Thunder Wave / Toxic
+ability: Levitate
+item: Leftovers
+evs: 252 HP / 152 Def / 104 SpD
+nature: Bold
+
+Moves
+========
+
+Psyshock is Cresselia's STAB move that OHKOes less bulky Fighting-types such as Hitmonlee, which often pack Knock Off. Moonblast is used for coverage and hits Dark-types, which are immune to Psyshock, for super effective damage. Moonlight is instant recovery which is mandatory on a wall. Unfortunately, Moonlight only has 8 PP, which means that Cresselia can easily get PP stalled, so don't use Moonlight unless it's necessary. Thunder Wave is used to cripple the opponent and to make sweeps for teammates easier. Toxic can also be used, but Toxic stall is hard due to Moonlight lacking enough PP to stall with. Lunar Dance is also an option, as after Cresselia has walled what it needs to, completely restoring a teammate's health and PP is really appreciated on offensive teams. Hidden Power Fire can be used for Escavalier and Durant.
+
+Set Details
+========
+
+252 HP EVs are used to maximize mixed bulk, making Cresselia both physically and specially defensive. 152 Defense EVs and a Bold nature allow Cresselia to avoid a 2HKO from Adamant Hitmonlee's Life Orb-boosted Knock Off after Stealth Rock. Cresselia can then just recover HP with Moonlight, which means that Cresselia effectively counters Hitmonlee. The remaining EVs are used in Special Defense to further bolster Cresselia's special bulk. Leftovers is used for a small amount of recovery each turn.
+
+Usage Tips
+========
+
+Cresselia works really well as a bulky pivot and a tank due to its great bulk. Use Cresselia to wall what your team needs to wall, and try and cripple as many of the opponent's Pokemon as possible with either Thunder Wave or Toxic. Watch out for Pursuit trappers, however, as they can easily give Cresselia trouble.
+
+Team Options
+========
+
+Aromatisse has good defensive synergy with Cresselia as it resists Bug- and Dark-type moves that Cresselia fears. Alomomola can also be used, as it deals with most Dark- and Bug-types while also walling Escavalier. Moltres is also a great teammate for Cresselia, and can easily deal with Escavalier. Slower powerhouses love Thunder Wave support, such as Clawitzer, Exploud, and Emboar. Moltres and Substitute + Bulk Up Braviary can also Toxic stall weaker opponents thanks to Cresselia's Toxic.
+
+SubCM
+########
+name: SubCM
+move 1: Substitute
+move 2: Calm Mind
+move 3: Moonblast
+move 4: Moonlight / Psyshock
+ability: Levitate
+item: Leftovers
+evs: 252 HP / 136 Def / 120 Spe
+nature: Bold
+
+Moves
+========
+
+Substitute is used to make Cresselia less vulnerable to status ailments such as poison, letting it beat walls like Alomomola, and eases prediction. Calm Mind is Cresselia's setup move, and after a few boosts, Cresselia can perform a sweep if its counters are either gone or weakened. Moonblast is the preferred attacking move because it has zero immunities as opposed to Psyshock, also hitting Dark-types such as Spiritomb and Drapion. Moonlight is used for instant recovery and makes it easier for Cresselia to set up Calm Minds. Psyshock can be used instead of Moonlight if you have a teammate that deals with Skuntank, Drapion, and Registeel, such as Dugtrio. Psyshock also gets STAB, and so hits harder than Moonblast, while also allowing Cresselia to beat opposing Calm Mind users.
+
+Set Details
+========
+
+252 HP and 136 Defense EVs are used to improve Cresselia's physical bulk. Special Defense EVs are not needed as Cresselia can use Calm Mind, which boosts its Special Defense by one stage. 120 Speed EVs are used to let Cresselia outspeed Modest Exploud, so as to use Calm Mind or Moonlight before it can hit you with a Boomburst
+
+Usage Tips
+========
+
+Do not attempt to sweep before Cresselia's counters are either gone or weakened; as such, a Calm Mind sweep should not be attempted until late-game. Use Calm Mind against offensively weaker opponents, such as walls or support-oriented Pokemon, and recover with Moonlight. Watch out for status aliments, namely poison and paralysis, as both of them can stop Cresselia's sweep, so don't be afraid of using Substitute often.
+
+Team Options
+========
+
+Moltres is a great partner for Cresselia, as it deals with one of the best counters to Cresselia, Escavalier. Cresselia also deeply appreciates teammates that take care of offensive Dark-types such as Sharpedo; Aromatisse is a good option. Destiny Bond + Nasty Plot Mismagius is a great partner for Cresselia, as it easily lures out and KOes Drapion, Skuntank, and other Dark-types; it can also weaken more defensive threats, making a sweep for Cresselia much easier. Fast and strong Pokemon with U-turn or Volt Switch are also appreciated by Cresselia. Once they have weakened the opposing team's wall, these Pokemon can pivot into Cresselia, which then can set up with ease and start sweeping. Wallbreakers such as Clawitzer and Exploud can wear down defensive cores, meaning Cresselia won't need as many Calm Minds to perform a sweep.
+
+Dual Screens
+########
+name: Dual Screens
+move 1: Reflect
+move 2: Light Screen
+move 3: Lunar Dance
+move 4: Thunder Wave / Psyshock
+item: Light Clay
+evs: 252 HP / 4 Def / 252 Spe
+nature: Timid
+
+Moves
+========
+
+Light Screen and Reflect halve damage from special and physical attacks respectively, and are great support for setup sweepers. Lunar Dance is used so Cresselia can fully recover a weakened teammate after doing its job. Thunder Wave is used to cripple the opponent. Psyshock can be used if you want a damaging move instead of Thunder Wave.
+
+Set Details
+========
+
+252 Speed EVs and a Timid nature are used to let Cresselia set up screens more easily by outspeeding a good amount of the metagame. The remaining EVs are used for mixed bulk, as Cresselia needs to be able to take some hits while setting up screens. Light Clay is used so Reflect and Light Screen have a duration of eight turns instead of five turns.
+
+Usage Tips
+========
+
+This set is very straightforward to use. Set up both screens and use Thunder Wave on the opponent, or just use Lunar Dance if Cresselia is weakened to fully recover a weakened teammate. Be aware of that this set can be setup bait, especially against sweepers with Substitute that can escape Thunder Wave.
+
+Team Options
+========
+
+The dual screens set works especially well on offensive teams with many setup sweepers. Use teammates that appreciate dual screen support, namely setup sweepers and Baton Pass users such as Slurpuff, Omastar, Barbarcle, Combusken, and Gorebyss. Other dual screens users are also appreciated to lessen the pressure on Cresselia to keep setting them up; Meowstic-M and Uxie are both good options.
+
+Other Options
+########
+
+Because of Cresselia's fantastic mixed bulk and instant recovery in Moonlight, Cresselia works really well as a Trick Room setter. Magic Coat can also be used, but is usually too situational to be worth a moveslot. Shadow Ball can be used if your team has trouble dealing with Doublade. Energy Ball can be used to deal with bulky Water-types, and OHKOes Alomomola at +3 after Stealth Rock damage. Ice Beam doesn't deal with most switch-ins any better than Psyshock or Moonblast, and so is in most cases not worth a moveslot. Cresselia also works well as a sun setter thanks to reliable recovery in Moonlight, which recovers 66% instead of 50% of Cresselia's HP under strong sunlight, and can also use Lunar Dance to recover a weakened sun sweeper.
+
+Checks & Counters
+########
+
+**Ghost-types**: Strong Ghost-types, such as Doublade, Spiritomb, and Cofagrigus, are a problem for Cresselia. Doublade and Cofagrigus can use Cresselia as a setup bait, use Swords Dance or Nasty Plot, and then knock it out with their Ghost-type STAB moves. Spiritomb completely walls Cresselia without Moonblast, and can also Pursuit trap it.
+
+**Bug-types**: Powerful Bug-types such as Escavalier, Durant, and Yanmega are all huge threats for Cresselia and deal tons of damage, while Cresselia can't do much back.
+
+**Dark-types**: Offensive and also fairly bulky Dark-types such as Drapion, Shiftry, and Skuntank are also huge threats for Cresselia, especially Skuntank and Drapion, as they only take neutral damage from Moonblast.
+
+**Taunt Users**: Taunt users can stop Cresselia from using its support moves, making Cresselia almost totally useless. Notable users of Taunt are Cobalion, Skuntank, Banette, and Whimsicott.
+
+**Infiltrator and Toxic Users**: Pokemon with Infiltrator and Toxic can be a huge problem for SubCM Cresselia. Spiritomb and Golbat are common users, though Golbat has to watch out for variants of Cresselia with Psyshock.
+
+**Defog Users**: Defog users can give the dual screens set trouble, especially Skuntank, as Cresselia can't do much to it.

@@ -1,0 +1,13 @@
+Calm Mind
+########
+name: Calm Mind
+move 1: Calm Mind
+move 2: Rest
+move 3: Shadow Ball
+move 4: Thunderbolt
+ability: Unburden
+item: Chesto Berry
+evs: 4 HP / 252 SpA / 252 Spe
+nature: Modest
+
+This is a sample set while we are currently working on analyses in the workshop.

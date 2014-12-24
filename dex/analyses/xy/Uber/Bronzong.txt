@@ -1,0 +1,57 @@
+Overview
+########
+
+Bronzong stands out as one of the best support Pokemon in Ubers. Its Steel typing and ability, Levitate, grant it an immunity to Toxic and most entry hazards as well as nine resistances, including to Stealth Rock and Fairy-type moves. Coupled with high defenses and a usable HP stat, these traits allow Bronzong to easily switch into numerous important threats, particularly Xerneas. However, Bronzong does have a few major flaws as a defensive Pokemon. It has no reliable recovery move outside of Rest, and it is forced out by most Taunt users. Additionally, it gained two weaknesses in the transition to XY, and permanent rain no longer exists to mitigate its Fire weakness. Its former niche as a dual screens user is also considerably less useful due to the newly buffed Defog. These faults aside, Bronzong is a great choice for any team in need of the specific roles it can fulfill.
+
+Support
+########
+name: Support
+move 1: Gyro Ball
+move 2: Stealth Rock
+move 3: Toxic
+move 4: Earthquake / Protect
+ability: Levitate
+item: Leftovers
+evs: 252 HP / 4 Atk / 252 SpD
+ivs: 0 Spe
+nature: Sassy
+
+Moves
+========
+
+Gyro Ball is Bronzong's most powerful STAB move due to its low Speed, and it deals a surprisingly large amount of damage to faster opponents. Bronzong makes a great, reliable Stealth Rock user thanks to its plethora of resistances and ability to switch into Toxic and entry hazards with impunity. Toxic gives Bronzong a way to defeat most common walls and Defog users attempting to remove Stealth Rock, most notably support Arceus formes. Earthquake rounds off the set and allows Bronzong to hit many Pokemon super effectively that it cannot inflict with Toxic, such as Dialga, Heatran, Klefki, and Aegislash. However, Protect can be used instead in order to accumulate extra rounds of Leftovers recovery and Toxic damage.
+
+Several other moves are viable options in the last slot. Hidden Power Ice from an oddly decent base 79 Special Attack can turn Bronzong into a complete counter to Gliscor and Landorus-T, though it cannot reliably 2HKO either. Similarly, Hidden Power Fire nails Scizor, Genesect, Forretress, and Ferrothorn, but it will not OHKO any of them. Rock Slide OHKOes Ho-Oh after Stealth Rock damage. Lastly, Explosion prevents Bronzong from being setup bait and can provide another teammate with the opportunity to come in safely.
+
+Set Details
+========
+
+The given EV spread makes Bronzong as specially bulky as possible. However, if it needs to be a true counter to Geomancy Xerneas, a Brave nature with a spread of 252 HP / 252 Atk / 4 SpD is an option. This will ensure that standard Geomancy Xerneas is always OHKOed by Gyro Ball after it boosts, while powering up the move against other threats as well. Equipping an Iron Plate and moving 28 EVs into Attack from the listed spread also accomplishes this.
+
+Usage Tips
+========
+
+Bronzong is a simple Pokemon to use. Switch it in on one of its resistances or immunities and set up Stealth Rock as early in the match as possible, using Gyro Ball, Toxic, and the last move when appropriate. Avoid staying in against walls with RestTalk, especially those that also run Will-O-Wisp. If you require Bronzong to counter a specific Pokemon on your opponent's team, ensure that it is not repeatedly switched in and thus worn down.
+
+Team Options
+========
+
+Bronzong does not require much team support of its own, as it provides support itself by virtue of checking Fairy-types and setting up Stealth Rock. Still, it does have great defensive synergy with many common Pokemon in Ubers. Kyogre alleviates Bronzong's Fire-type weakness with Drizzle, though it only lasts for five turns. Yveltal checks Ghost-types and a few other Taunt users. Ho-Oh laughs at Fire-type moves and has no problem taking most Ghost- and Dark-type ones. Palkia and Zekrom work similarly in regards to Fire-type moves, and Zekrom is able to check most Taunt users. Fairy-type Pokemon also make good teammates, as they handle Dark-types nicely. As a final note, a teammate with a priority move is required if Bronzong is being used to check Geomancy Xerneas without running one of the alternative spreads mentioned in Set Details. Examples of these include Rayquaza, Arceus, Giratina-O, Genesect, and Kangaskhan.
+
+Other Options
+########
+
+Bronzong has few worthwhile options aside from the ones mentioned. Hypnosis incapacitates a counter, but it has very shaky accuracy and is generally unreliable. Reflect and Light Screen can allow a teammate to set up with ease, even against a boosted sweeper. Rest is Bronzong's only recovery move and is usable with cleric support. Finally, Bronzong is a solid user of Trick Room.
+
+Do not be tempted to use Heatproof. Bronzong does not handle Fire-type moves well regardless, and losing Levitate renders it unable to switch into Earthquake and Spikes.
+
+Checks & Counters
+########
+
+**Status Absorbers**: In general, these include Pokemon that resist Gyro Ball and have ways of dealing with Toxic, such as RestTalk Kyogre, Rest Palkia, Calm Mind + Refresh Water Arceus, and RestTalk Giratina.
+
+**Taunt Users**: Gengar, Darkrai, Mewtwo, and Yveltal in particular are all capable of removing Bronzong with a super effective move. However, the first three are hit very hard by Gyro Ball due to their high Speed and frailty.
+
+**Fire-types**: Ho-Oh stands out, as it doesn't mind Toxic due to its recovery from Regenerator, and Substitute sets can avoid Toxic entirely. Blaziken and Reshiram can KO Bronzong with a super effective STAB move.
+
+**Steel-types**: Dialga and Heatran can deal with Bronzong by using Fire-type attacks, though Heatran needs to be mindful of Earthquake. Skarmory, Forretress, and Ferrothorn can switch into Bronzong and set up entry hazards, but the latter two should be wary of the odd Hidden Power Fire. Forretress can also use Rapid Spin to remove Stealth Rock. Mold Breaker Excadrill is able to lay down Stealth Rock, use Rapid Spin, and KO Bronzong with Earthquake. However, it takes heavy damage from Bronzong's own Earthquake.

@@ -1,0 +1,73 @@
+[Overview]
+
+<p>Scizor is an interesting Pokemon. Its type, Bug / Steel, is a cool defensive type with only one weakness (4x to Fire). It has a base Attack of 130. It can learn Agility to make up for its low Speed. Finally, it can survive most Explosions with about 10% or 20% to spare. So, the question remains: why the hell isn't it used more often?</p>
+
+<p>Simple: its offensive movepool sucks. The only useful attacks it gets are Silver Wind, Steel Wing, and Hidden Power. While it does get STAB off Silver Wind and Steel Wing, their low Base Powers mean they won't do any major damage to teams. Physical walls and tanks completely shut it down, any Fire-type attack will always OHKO it, and even Blissey can hurt it with Thunder Wave if it lacks Hidden Power Fighting.</p>
+
+<p>However, for what it has to work with, Scizor isn't too bad. On occasion, Silver Wind can give stat boosts and provide it with some additional staying power. Agility grants it the potential to sweep. It can OHKO Psychic-types that lack a Fire move, such as Alakazam without Fire Punch; it can survive any attack from Aerodactyl and OHKO back with Steel Wing; finally, it can OHKO Jolteon with Hidden Power Ground. Scizor is not a bad Pokemon, but requires some setup and, occasionally, a little luck.</p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Silver Wind
+move 3: Hidden Power Rock
+move 4: Agility
+item: Leftovers / Liechi Berry
+nature: Adamant
+evs: 108 HP / 252 Atk / 148 Spe
+
+[SET COMMENTS]
+
+<p>Try to nab an Agility or Swords Dance boost on the switch. While Scizor can sweep decently, it is rather underpowered due to lack of a good movepool. Hidden Power Rock takes down Salamence and other Flying-types, and also nails Houndoom.</p>
+
+[SET]
+name: Baton Pass
+move 1: Baton Pass
+move 2: Iron Defense / Silver Wind
+move 3: Swords Dance / Silver Wind
+move 4: Substitute
+item: Leftovers
+nature: Impish
+evs: 252 HP / 48 Def / 208 SpD
+
+[SET COMMENTS]
+
+<p>Scizor fits nicely into a Baton Pass chain. Aside from Mawile, it is the only Baton Pass user that resists Normal-type attacks, and it has the HP and Defense to back this up. Substitute is a must here to block critical hits; it also blocks random status moves and scouts for Fire Blast on the likes of Snorlax. Silver Wind is useful for Tyranitar, but do invest in Scizor's Attack if taking this route. Otherwise, focus on Scizor's HP and defenses.</p>
+
+[SET]
+name: Reversal
+move 1: Agility
+move 2: Endure
+move 3: Reversal
+move 4: Hidden Power Ghost / Swords Dance
+item: Liechi Berry
+nature: Adamant
+evs: 108 HP / 252 Atk / 148 Spe
+
+[SET COMMENTS]
+
+<p>With Liechi Berry activated, Scizor's Reversal does more damage than even Heracross's. Agility ensures Scizor will go first, while Scizor's Steel typing ensures it won't die to sandstorm after using Endure.</p>
+
+<p>Don't be tempted to use either Salac Berry or Substitute; keep Scizor's poor base 65 Speed in mind. Even after the Salac boost, it cannot outspeed Jolteon and Aerodactyl, but Agility lets it outspeed everything but Ninjask. In fact, if you like, you can give Scizor 176 Speed EVs to let it outrun Adamant Ninjask, but even with the full 252 Speed EVs, Scizor cannot outspeed Jolly Ninjask, and it's not worth it to run a Jolly nature purely to beat out Ninjask.</p>
+
+[SET]
+name: Choice Band
+move 1: Silver Wind
+move 2: Hidden Power Rock / Hidden Power Ground
+move 3: Steel Wing
+move 4: Quick Attack / Double-Edge
+item: Choice Band
+nature: Adamant
+evs: 30 HP / 252 Atk / 228 Spe
+
+[SET COMMENTS]
+
+<p>This set can hit hard off the bat; however, it has some trouble with enemy Steel-types. Baton Pass is an option in the last slot to scout and maintain momentum, and is particularly effective when used alongside Magneton and Dugtrio to trap the likes of Skarmory.</p>
+
+[Other Options]
+
+<p>Counter can let Scizor bounce back some boosted hits.</p>
+
+[Checks and Counters]
+
+<p>Any Fire-type attack can take it down; most special attackers will eventually break through it as well. Phazers such as Skarmory and Suicune can keep Scizor from successfully using Baton Pass while walling any attacks it can throw their way.</p>

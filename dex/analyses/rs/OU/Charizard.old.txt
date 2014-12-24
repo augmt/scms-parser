@@ -1,0 +1,94 @@
+[Overview]
+
+<p>Using Charizard requires a lot of advance planning, but it's usually worth the effort. Thanks to Belly Drum, it can decimate teams after bulky Waters have been worn down and faster Pokemon such as Starmie and Gengar removed; Charizard can even run a Salac Berry to help with the latter problem. Another of Charizard's issues is its lack of moveslots: the more setup moves it runs, the fewer attacking options it gets. However, a smart player can always bluff, or even pair Charizard with Dugtrio, Magneton, or Explosion users to clear the way for it. To put it simply, Charizard is a high-risk, high-reward Pokemon.</p>
+
+[SET]
+name: Recoil Abuser
+move 1: Belly Drum
+move 2: Double-Edge
+move 3: Fire Blast / Overheat / Flamethrower
+move 4: Earthquake
+item: Salac Berry
+nature: Lonely / Naughty
+evs: 252 Atk / 120 SpA / 136 Spe
+
+[SET COMMENTS]
+
+<p>Charizard can run a multitude of Belly Drum-related sets, but they have their distinguishing features: this one plays differently to the others before it sets up. The various Bellyzard sets face numerous problems: all variants have trouble with bulky Waters, sets lacking Substitute face difficulty in activating their Salac Berry, while sets that run Substitute forgo crucial coverage. Fortunately, this Charizard avoids all these issues.</p>
+
+<p>Double-Edge OHKOes Milotic, Swampert, Vaporeon, and even Suicune after some minor damage, and Charizard survives the recoil to enter Salac Berry range. After obtaining the boost, simply use Earthquake and Charizard's Blaze-boosted Fire move to sweep. Double-Edge can be used once more as a kamikaze move, but few teams have multiple Pokemon that resist both Fire and Ground. Nonetheless, it's best to wait until you know most of their team before trying to set up Charizard.</p>
+
+<p>As with every variant that uses Salac Berry or Dragon Dance, Charizard should hit a Speed stat of 270 to outspeed Adamant Heracross before a boost. The minimum Speed one should run is 264, while maximizing Speed lets Charizard tie with Salamence. Next, maximize its main offensive stat and put any spare EVs into the other attacking stat.</p>
+
+[SET]
+name: Belly Drum + 3 Attacks
+move 1: Belly Drum
+move 2: Fire Blast
+move 3: Earthquake
+move 4: Rock Slide / Hidden Power Flying
+item: Salac Berry
+nature: Lonely
+evs: 252 Atk / 120 SpA / 136 Spe
+
+[SET COMMENTS]
+
+<p>The strategy for a Belly Drum Charizard lacking Substitute is generally to switch into weak attacks, such as Skarmory's Drill Peck or Blissey's Seismic Toss, lowering its health enough that Salac Berry activates after Belly Drum. Alternatively, one could Belly Drum on a switch at full health, fire off attacks without the Salac boost, and switch out against faster foes. To switch in and Belly Drum a second time, however, you will have to switch Charizard in on a predicted Skarmory or Forretress switch, or on a Choice Band user locked into Earthquake.</p>
+
+[SET]
+name: Substitute + Belly Drum
+move 1: Substitute 
+move 2: Belly Drum
+move 3: Fire Blast 
+move 4: Hidden Power Flying / Earthquake / Return
+item: Salac Berry
+nature: Lonely
+evs: 252 Atk / 120 SpA / 136 Spe
+ivs: 30 HP / 30 SpA / 30 SpD / 30 Spe
+
+[SET COMMENTS]
+
+<p>Belly Drum Charizard that run Substitute play very differently to those that don't. You should look to switch this in on the likes of Skarmory using Spikes, and Substitute as your opponent switches to a Water-type not named Suicune. Then Belly Drum to get Salac Berry's boost, and sweep. While it isn't as effective, it's much easier to successfully set up.</p>
+
+<p>If using Hidden Power Flying, be sure to transfer 4 EVs from Special Attack to Speed. The 30 HP IV makes Charizard's HP divisible by 4, enabling it to activate Salac Berry after a Substitute and a Belly Drum.</p>
+
+[SET]
+name: Special Attacker
+move 1: Substitute / Sunny Day
+move 2: Hidden Power Grass / Hidden Power Ice
+move 3: Fire Blast
+move 4: Focus Punch
+item: Leftovers / Petaya Berry
+nature: Rash / Mild
+evs: 24 Atk / 240 SpA / 244 Spe
+
+[SET COMMENTS]
+
+<p>While this set has some surprise value, it is largely inferior to the Belly Drum ones. Substitute has two functions: firstly, it reduces the prediction needed to use Focus Punch, and secondly, it lets Charizard activate Petaya Berry. After boosts from Petaya Berry, Blaze, and Sunny Day, Charizard's Fire Blast is extremely strong and does a lot to anything that's not named Blissey or Snorlax.</p>
+
+<p>An Attack stat of 225 is needed to let Focus Punch always 2HKO Blissey; if using a Hidden Power that reduces Attack, move some Special Attack EVs to Attack to make up for it. </p>
+
+[SET]
+name: Physical Attacker
+move 1: Dragon Dance / Swords Dance
+move 2: Aerial Ace / Hidden Power Flying
+move 3: Hidden Power Grass / Rock Slide / Earthquake
+move 4: Fire Blast
+item: Leftovers
+nature: Lonely
+evs: 140 HP / 252 Atk / 116 Spe
+
+[SET COMMENTS]
+
+<p>While it is physically offensive, this Charizard is not as much of an all-out sweeper as the Belly Drum variant is. Rock Slide is the normal move in the third slot, but Earthquake can badly dent Tyranitar. Hidden Power Grass is nice for catching Ground- and Water-types on the switch, but Charizard will have to use the slightly weaker Aerial Ace instead of Hidden Power Flying. Hit 299 Speed if using Swords Dance.</p>
+
+[Other Options]
+
+<p>Flamethrower is an option over Fire Blast on every set for people who prefer accuracy to power, and it comes in especially handy when your Belly Drum-boosted Charizard is facing down a half-health Skarmory. Fire Blast does more damage on average, though, and its extra power is helpful against Weezing and Celebi. Overheat is both accurate and powerful, but if your opponent packs two Pokemon you'll need to use a Fire move for, you're screwed.</p>
+
+<p>The other moves Charizard gets are rather novel, and usually too circumstantial to work. Sunny Day not only weakens the Water moves Charizard is weak to, but also boosts Charizard's Fire moves, and when combined with Blaze, lets it pack a punch. A Swords Dance-boosted Brick Break can bust up Snorlax, Tyranitar and Blissey, but Belly Drum or even Focus Punch are usually better options. Toxic can annoy Swampert, Tyranitar, Aerodactyl and some others; it isn't a bad option as Charizard can lure your opponent's main Water-type and help wear it down.</p>
+
+[Checks and Counters]
+
+<p>Suicune, Swampert, Milotic, and Vaporeon will always survive whatever an unboosted Charizard throws at them, falling only to a Belly Drum-boosted Double-Edge, or in Swampert's case, Hidden Power Grass. They can then counter with a Surf or Hydro Pump. Zapdos Speed ties with Charizard, switches in easily on Earthquake, Hidden Power Flying, and even Fire moves to an extent, and will OHKO with Thunderbolt.</p>
+
+<p>Any user of Rock moves also threatens Charizard: Aerodactyl resists most of Charizard's moves, outspeeds it, and OHKOes it with Rock Slide. Tyranitar can take an unboosted Earthquake and either cripple it with Thunderbolt or KO it with STAB Rock Slide. Furthermore, Tyranitar's mere existence cripples Belly Drum variants, as sandstorm's residual damage greatly shortens Charizard's lifespan and limits its ability to sweep. </p>

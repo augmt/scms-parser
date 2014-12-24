@@ -1,0 +1,13 @@
+Rain Lead
+########
+name: Rain Lead
+move 1: Rain Dance
+move 2: Taunt
+move 3: Thunder
+move 4: Volt Switch
+ability: Static
+item: Leftovers
+evs: 252 HP / 4 SpA / 252 Spe
+nature: Timid
+
+This is a sample set while we are currently working on analyses in the workshop.

@@ -1,0 +1,68 @@
+[Overview]
+
+<p>Abomasnow is the cornerstone of hail teams, as it's the only fully evolved Pokemon with access to Snow Warning, an ability that induces permanent hail, which most notably makes Blizzard's accuracy 100%. Abomasnow might seem like a gimmick at first due to its poor defensive typing and stats, but it has the potential to single-handedly beat all opposing weather starters, e.g. Politoed, Ninetales, Tyranitar, and Hippowdon.</p>
+
+<p>Since the beginning of BW, OU has become more dangerous for Abomasnow. Old threats, specifically Breloom, have become better equipped to punish it. However, Abomasnow is still viable as a weather starter in OU, as its unique typing offers four key resistances and its solid offensive movepool lets it check and hit a wide variety of threats such as Garchomp, Heatran, and Rotom-W.</p>
+
+[SET]
+name: Mixed
+move 1: Wood Hammer
+move 2: Ice Shard
+move 3: Hidden Power Fire
+move 4: Protect / Earthquake
+item: Expert Belt
+ability: Snow Warning
+nature: Lonely
+evs: 252 Atk / 172 SpA / 84 Spe
+
+[SET COMMENTS]
+
+<p>Abomasnow's flagship set in BW can wreak havoc on common weather teams due to its unparalleled coverage. Wood Hammer is Abomasnow's go-to STAB attack, flattening the many Ground-, Rock-, and Water-type Pokemon found in OU such as Hippowdon, Terrakion, and Rotom-W. Ice Shard allows Abomasnow to pick off weakened threats, patching up its middling Speed. Ice Shard also hits Dragon-type Pokemon hard, especially Dragonite, Salamence, and Garchomp due to their 4x weakness to Ice-type attacks. Hidden Power Fire allows Abomasnow to melt Steel-type foes, mainly Ferrothorn and Scizor, which could otherwise wall Abomasnow's STAB combination. The last moveslot is mostly preference-based, as Protect allows Abomasnow to scout its opponent, potentially locking a Pokemon carrying a Choice item into a move while racking up some extra hail damage, which can be the difference between an OHKO and a 2HKO. However, Earthquake can be used to heavily damage Fire-type Pokemon, like Heatran and Ninetales on the switch, two Pokemon that typically cause hail teams problems.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>With the given EV spread, Abomasnow's Attack is maximized; significant investment is run in Special Attack to OHKO Scizor with Hidden Power Fire. The EVs also allow Abomasnow to outspeed minimum Speed Politoed and Skarmory. In terms of moves, if you do opt for Earthquake over Protect, an alternate EV spread of 240 Atk / 120 SpA / 148 Spe is recommended, as it allows Abomasnow to outspeed specially defensive Heatran and decimate it with Earthquake. Blizzard can be run over Hidden Power Fire if your team is capable of dealing with Steel-types, as it gives Abomasnow a move that allows it to break through physical walls, such as Skarmory and Gliscor, and hit incoming Grass-, Dragon-, and Ground-types.</p>
+
+<p>Because of its typing, Fire- and Fighting-types are a huge bane to Abomasnow, making partners like Heatran, Jellicent, Gengar, and Reuniclus excellent choices. Jellicent and Heatran also have the advantage of checking faster variants of Scizor, which would typically outspeed and KO Abomasnow with Bug Bite or U-turn. Heatran also has access to Stealth Rock, making it harder for switch-ins to check Abomasnow. Jellicent can burn opposing Scizor, Terrakion, Jirachi, and other common physically-oriented checks to Abomasnow with Will-O-Wisp, giving Abomasnow more opportunities to switch in. These four Pokemon also work well on hail teams as a whole, checking opposing Heatran, Jirachi, Terrakion, and Scizor, some of the largest threats to the playstyle. Abomasnow's crippling weakness to Stealth Rock makes Starmie and Tentacruel solid partners to it. Access to Rapid Spin and having great type synergy with Abomasnow&mdash;both resist the two types that threaten Abomasnow&mdash;make them excellent partners. Pokemon that can take advantage of the hail brought about by Abomasnow's Snow Warning, such as Kyurem and Kyurem-B, also make excellent partners, as the ability to fire off 100% accurate Blizzards makes them extremely threatening.</p>
+
+[SET]
+name: Physical Attacker
+move 1: Ice Shard
+move 2: Wood Hammer / Earthquake
+move 3: Protect
+move 4: Leech Seed
+item: Leftovers
+ability: Snow Warning
+nature: Adamant
+evs: 172 HP / 252 Atk / 84 Spe
+
+[SET COMMENTS]
+
+<p>Abomasnow makes for a very adept physical attacker thanks to its powerful STAB Wood Hammer, priority Ice Shard, and surprise factor, as it's typically expected to be using Blizzard and other special attacks. Ice Shard is arguably the most useful move on this set, as it hits many opponents in OU hard, 2HKOing and even OHKOing a large number of threats. Here are some calculations to exemplify its usefulness:<p>
+
+<ul class="damage_calculation">
+<li>Ice Shard vs. 0/0 Dragonite (Multiscale in-tact): 37.15% - 44.58%</li>
+<li>Ice Shard vs. 0/0 Dragonite (Multiscale broken): 74.3% - 89.16%</li>
+<li>Ice Shard vs. 200/0 Landorus-T (With Intimidate): 35.77% - 43.36%</li>
+<li>Ice Shard vs. 200/244 Landorus-T (Without Intimidate): 53.11 - 62.87%</li>
+<li>Ice Shard vs. 0/0 Garchomp: 67.22% - 80.67%</li>
+<li>Ice Shard vs. 4/0 Latios: 45.69% - 54.3%</li>
+<li>Ice Shard vs. 0/0 Salamence: 83.38% - 99.09%</li>
+<li>Ice Shard vs. 252/184+ Gliscor: 41.8% - 50.84%</li>
+</ul>
+
+<p>Abomasnow's alternate STAB move, Wood Hammer, is equally as punishing, as its sheer power makes it difficult to switch into. It hits Water-, Ground-, and Rock-types, such as Jellicent, Gastrodon, and Tyranitar, hard, giving teammates more opportunities to sweep. Earthquake can be used over Wood Hammer, as it allows Abomasnow to hit Heatran and Ninetales switch-ins, as well as Electric-types, such as Magnezone, Jolteon and Raikou. Leech Seed provides Abomasnow with a somewhat reliable form of recovery, recovering 12.5% HP on top of what Leftovers recovers. It can also function as a sort of phazing move, as it discourages many opposing Pokemon from staying in for too long. Protect further bolsters Leech Seed's recovery effect, allowing Abomasnow to recover 37.5% of its HP after two turns (with Leftovers of course) while forcing the opponent to take more residual damage via hail and Leech Seed. Protect also allows Abomasnow to scout the opposition, locking opponents that carry a Choice item into a move.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The listed EV spread maximizes Abomasnow's Attack and bulk while giving it enough Speed to outrun minimum Speed Politoed. However, if you prefer an Abomasnow with more bulk, a spread of 248 HP / 8 Def / 252 SpD can be utilized in order to switch in against Water- and Electric-type attacks. A Life Orb can be used over Leftovers if more power is desired, as it can make the difference between a 2HKO and an OHKO, most notably the KO on Dragonite with Multiscale broken. Unfortunately, the lack of Leftovers recovery and additional recoil damage are unfavorable for Abomasnow.</p>
+
+<p>Because this variant lacks Hidden Power Fire, teammates such as Magnezone and Heatran are recommended, as they are capable of removing Steel-types, specifically Scizor, Skarmory, and Ferrothorn. Carrying Magnezone or Heatran also makes dealing with faster Scizor variants easier, as Choice Scarf and 252 Speed Scizor variants outpace and KO Abomasnow with U-turn or Bug Bite. Tentacruel and Heatran are able to deal with Fire-type threats and synergize well with Abomasnow. Tentacruel has access to Rapid Spin and Toxic Spikes, adding to the residual damage and removing Stealth Rock, giving Abomasnow an easier switch in. Pokemon that function well on hail teams, such as Reuniclus, Jellicent, and Kyurem, also make for solid partners, as they all benefit from Leech Seed's recovery and residual damage, while countering common Abomasnow checks, specifically Scizor and Terrakion.</p>
+
+[Other Options]
+
+<p>Giga Drain can be used on the mixed and physical sets over Wood Hammer for extra recovery. However, it is not recommended, as Wood Hammer is just so much more powerful than Giga Drain. Focus Blast may also seem like a logical choice on the mixed set; however, its shaky accuracy makes it an unfavorable choice. Additionally, Earthquake and Hidden Power Fire have similar coverage to Focus Blast, making it redundant. Abomasnow does have access to Swords Dance, but due to its abysmal Speed stat, it cannot fully take advantage of a +2 boost to its Attack stat. Equipping Abomasnow with Choice Specs or Choice Band might seem like a decent idea, but they would require excess switching, which is not recommended for a Pokemon with a Stealth Rock weakness. The same is true for Choice Scarf Abomasnow, which is outsped by positive natured base 115s and other Choice Scarf Pokemon.</p>
+
+[Checks and Counters]
+
+<p>The downside of Abomasnow's typing is its crippling weakness to Stealth Rock, which arguably functions as the most reliable check to Abomasnow. Fire-, Steel-, and Fighting-types, such as Volcarona, Metagross, and Terrakion, make for reliable checks to Abomasnow due to their super effective STAB moves. Opposing weather starters, such as Ninetales and Tyranitar, also make for solid checks to Abomasnow despite having to watch out for Earthquake and Wood Hammer, respectively. Jirachi, Scizor, and Terrakion function as the best checks to Abomasnow and hail teams, being able to heavily damage the opposition while resisting key attacking types, such as the STAB of opposing Ice-types. Bulky Steel-types, such as Jirachi, Skarmory, and Heatran, in addition to Chansey and Blissey, can wall Abomasnow effectively.</p>

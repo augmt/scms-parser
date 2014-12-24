@@ -1,0 +1,161 @@
+[Overview]
+
+<p>Togekiss fills a unique role in the OU metagame with its ability to serve as a sweeper, a specially defensive tank, an excellent Nasty Plot Baton Passer, or as a general annoyance. It's also one of the few users of Serene Grace, and it's certainly able to put it to good use with its great movepool. Togekiss's respectable typing provides it with enough ways to switch into combat and its above average defenses make it surprisingly difficult for opponents to shoot down this paper plane without STAB, super effective attacks.</p>
+
+<p>Togekiss has a few weaknesses that it needs to watch out for when being used, however. As it is weak to Rock-type attacks, it loses 25% of its HP upon switching into Stealth Rock. Additionally, Togekiss is not fast enough to outpace a large portion of the metagame, having only a base 80 Speed stat. This means that if you plan on having Togekiss successfully sweep, you will need to either spread paralysis around or eliminate your opponent's faster Pokemon. Despite these downfalls, Togekiss is a useful addition to any team with the right support.</p>
+
+[SET]
+name: Defensive Nasty Plot
+move 1: Nasty Plot
+move 2: Air Slash
+move 3: Aura Sphere / Heal Bell
+move 4: Roost 
+item: Leftovers
+ability: Serene Grace
+nature: Modest
+evs: 252 HP / 36 SpA / 220 Spe
+
+[SET COMMENTS]
+
+<p>This Togekiss takes a more conventional route toward sweeping, taking advantage of its massive Special Attack, good defenses, and access to Roost in order to successfully obtain a Nasty Plot boost. With a Modest nature, a boosted Air Slash does catastrophic damage, OHKOing Scizor after Stealth Rock, while scoring 2-3HKOs even on Pokemon who resist it. When you combine Air Slash's flinch rate and Togekiss's bulk, you'll find that it has no problem sweeping teams that are sufficiently weakened. Unlike most Nasty Plot sweepers, Togekiss has both instant recovery in Roost and the bulk needed to take down opponents without worrying about taking excessive damage; even weaker super effective hits won't significantly damage it.</p>
+
+<p>Aura Sphere is for Tyranitar, who threatens an OHKO with Stone Edge. Aura Sphere OHKOes right back after a Nasty Plot, while also providing useful extra damage against Blissey, Metagross, Heatran, and other Pokemon who resist Flying. While Air Slash is often the primary attack against these foes, Aura Sphere allows you to finish off these Pokemon at higher percentages. Heal Bell is extremely useful against stall teams, allowing Togekiss to switch in and absorb status attacks, while providing the means to win against even Toxic Blissey 1-on-1 in tandem with Roost.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Substitute is an option if you use Aura Sphere. Using it on the switch allows you to scout out threats such as Choice Scarf Tyranitar and Pokemon with status moves. You won't beat Seismic Toss + Toxic Blissey with it, but it may be useful in providing some rudimentary status prevention. Safeguard can do effectively the same job as Heal Bell, but instead of healing the rest of the team, it provides a safety net if Togekiss is forced to switch out, with the additional benefit of having more PP. The drawback is that it does not allow Togekiss to switch into status attacks. Lum Berry is an option that lets you beat Blissey 60% of the time. If you Plot on the switch, and then Plot again as she statuses you, a 2HKO is possible by using Air Slash, hoping for a flinch, followed by Aura Sphere.</p>
+
+<p>The EV spread takes advantage of Togekiss's impressive bulk by maximizing its already-awesome HP stat. If you want to be able to OHKO Scizor with a +2 Air Slash after Stealth Rock, however, then you can take some EVs out of HP and place them into Special Attack; 192 Special Attack EVs are enough to ensure the OHKO. 220 Speed EVs are used to outrun Modest Heatran, and if you don't care about Heatran, you can lower that number to boost Togekiss's Special Attack further. If you invest at least 192 EVs in HP, Vaporeon will never 2HKO with Ice Beam after Stealth Rock.</p>
+
+<p>Togekiss's main concerns are Rotom-A and Zapdos. While this set does a little better against them than other sets, they are both still big threats to Togekiss's sweep and need to be dealt with beforehand. Pursuit users are great teammates to pair with Togekiss, as they get rid of Rotom; this allows Togekiss's team to use a Rapid Spinner to clear away Stealth Rock. Heracross is probably the best choice since it isn't bothered by Will-O-Wisp, but Metagross, Tyranitar, and Snorlax all work as well. With Rotom out of the way, Rapid Spin support from Starmie, Forretress, or Tentacruel helps tremendously as without Stealth Rock, Togekiss can switch in and out repeatedly at will, giving it a good chance against Zapdos. Stealth Rock support will hurt Zapdos enough to make it unable to repeatedly switch into play. If you pack Tyranitar for Rotom, it also makes a great Zapdos check, boasting high Special Defense and super effective STAB Rock-type attacks.</p>
+
+<p>Paralysis support helps tremendously as Togekiss isn't the fastest sweeper in the game. Pokemon such as Jirachi, Gyarados, and Celebi can all provide useful paralysis support. Jirachi in particular is nice as it lures out Starmie, whom you can Pursuit.</p>
+
+[SET]
+name: Offensive Nasty Plot
+move 1: Nasty Plot
+move 2: Air Slash
+move 3: Fire Blast
+move 4: Roost / Aura Sphere
+item: Life Orb
+ability: Serene Grace
+nature: Timid
+evs: 192 HP / 236 Spe / 80 SpA
+
+[SET COMMENTS]
+
+<p>This set takes a more offensive approach to Nasty Plot Togekiss. While many Togekiss sets aim to exploit its impressive bulk, this set takes advantage of its massive Special Attack and decent Speed. Very few Pokemon will be able to switch in on this Togekiss safely once it secures a Nasty Plot boost; indeed, every Pokemon in the OU tier is at the very least 2HKOed by a +2 Togekiss.</p>
+
+<p>Nasty Plot allows Togekiss to boost its already high Special Attack to astronomical levels in just one turn of set up. Air Slash is Togekiss's STAB move, and comes with a neat 60% flinch rate, thanks to Serene Grace. Fire Blast is used to hit Pokemon such as Jirachi and Bronzong, who resist Togekiss's Air Slash. It also sees additional use in its ability to OHKO 252 HP Zapdos and Rotom-A who resist all of Togekiss's other moves and can otherwise set up on it. Roost is the best choice in the final slot for its ability to heal Togekiss's health, prolonging its sweep. However, Aura Sphere can be used instead to give Togekiss a means of hitting Tyranitar and Heatran, who will otherwise wall Togekiss.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Another interesting option for a move is Shadow Ball. With it, Togekiss is able to hit Rotom-A for high damage right off the bat. However, it has very little use beyond this, and so is often better off untouched.</p>
+
+<p>The EV spread is customized to fit Togekiss's needs. After a Nasty Plot boost, Togekiss's Life Orb Fire Blast will do a minimum of 87% damage to 252 HP Rotom-A, while 252 HP Zapdos is hit for at least 80% damage. With Stealth Rock support, Togekiss is able to easily OHKO both of the aforementioned Pokemon. 236 Speed EVs and a Timid nature are used as they allow Togekiss to outspeed Adamant Lucario and proceed to scorch it with Fire Blast for an OHKO. The remaining EVs are placed into HP, giving Togekiss an impressive HP stat of 359; when you combine this number and Togekiss's already impressive defenses, you'll find that you have both a sturdy and powerful sweeper on your hands.</p>
+
+<p>One of the most important things to have when using this Togekiss set is Stealth Rock support. It allows Togekiss to achieve several notable OHKOes that it otherwise would not be able to, so it is a necessity. Swampert is a good choice for the role of a Stealth Rock user as he and Togekiss cover each other's weaknesses very well. Metagross is another capable teammate for the same reason. Rapid Spin support can also be a big factor when using this Togekiss. It will lose 25% of its health every time it switches in, which means that it will be put at a disadvantage from the very first time it comes into play, and will not be able to sweep quite as easily. For this reason, Rapid Spin support is extremely beneficial alongside this Togekiss; Life Orb Rapid Spin Starmie is a good choice for this. It can switch in easily on many attacks that would otherwise threaten Togekiss, such as Ice Beam, and proceed to either spin or beat down the opposing team with its powerful STAB attacks. It is also a great offensive partner alongside Togekiss. While not at all necessary, Thunder Wave support is an interesting option to use alongside this set, as it allows Togekiss to outspeed and severely damage Pokemon who would otherwise be faster than it. Celebi is capable of using Thunder Wave well, and works decently on a defensive level alongside Togekiss.</p>
+
+[SET]
+name: Paraflinch
+move 1: Air Slash
+move 2: Thunder Wave / Body Slam
+move 3: Aura Sphere / Nasty Plot / Substitute
+move 4: Roost
+item: Leftovers
+nature: Bold
+ability: Serene Grace
+evs: 252 HP / 188 Def / 68 SpD
+
+[SET COMMENTS]
+
+<p>Serene Grace is definitely not wasted on a Pokemon like Togekiss. A 60% flinch rate combined with paralysis support leaves the opposing Pokemon with only a 30% chance of doing anything at all. Combine this with Togekiss's general bulk and recovery in the form of Roost, and it can pose a serious threat to an opponent's team.</p>
+
+<p>Air Slash is mandatory for STAB and flinching on Togekiss. Thunder Wave is the most reliable option in the second slot to paralyze whoever your opponent might switch into Togekiss. Body Slam is another option to use in order to have the ability to paralyze Pokemon immune to Thunder Wave. The third slot has numerous options to choose from. Aura Sphere is the primary choice to round out Togekiss's coverage, hitting Rock- and Steel-types particularly hard. Nasty Plot is available to help Togekiss sweep, although it should be noted that it's illegal with Body Slam. Substitute can also be used to make Togekiss even harder and more annoying to take down and keep it safe from status. The last move is given to Roost to provide Togekiss with reliable recovery.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs and nature are chosen to give Togekiss enough physical bulk so that Choice Band Scizor's Bullet Punch will never 2HKO you even after Stealth Rock is taken into account. The rest of the EVs are placed into Special Defense to add as much special bulk as possible. No Speed investment is used here as the set should attempt to paralyze as much as possible before trying to sweep.</p>
+
+<p>Pokemon who further help spread paralysis around an opponent's team are great candidates for teammates to this Togekiss. Jirachi, carrying Iron Head and its own paralysis-inducing attack, immediately comes to mind. Jirachi can also switch into the Rock- and Ice-type attacks aimed at Togekiss with ease. Celebi and Blissey can spread paralysis around quite effectively, although it should be noted that they share much of their counter lists with Togekiss. Magnezone resists all of the attacks Togekiss is weak to, while Togekiss will gladly switch into Ground-type attacks aimed at Magnezone. Magnezone will also happily remove the Steel-type Pokemon who resist Togekiss's Air Slash. Entry hazard support should definitely be considered with this Togekiss as well, since once the opponent is paralyzed and can't hit Togekiss, they will not want to stay in and sacrifice their Pokemon. Speaking of entry hazards, Rapid Spin support is worth considering to give Togekiss an easier time switching in. Forretress can perform this role admirably by being able to sponge up the attacks aimed at Togekiss and set up Spikes or Rapid Spin as they switch out.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Air Slash
+move 2: Aura Sphere
+move 3: Fire Blast / Flamethrower
+move 4: Trick
+item: Choice Scarf
+nature: Timid
+ability: Serene Grace
+evs: 4 Def / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>A quick and easy fix to Togekiss's middling Speed is to slap a Choice Scarf on it. Many of the Pokemon who switch into Togekiss expecting to outspeed it are quickly worn down by repeated attacks and possibly flinched to death. Combine this with an arsenal of respectable attacks, good coverage, and Serene Grace and Togekiss can be a dangerous threat to your opponent. Choice Scarf Togekiss can even make for a decent lead, shutting down many common leads right off the bat by flinching them to death with Air Slash. It also has access to Trick, which enables it to cripple common Stealth Rock users such as Swampert and Metagross right off the bat.</p>
+
+<p>Air Slash is chosen for its flinch rate and STAB, while Aura Sphere is chosen for the excellent secondary coverage it provides. Fire Blast is recommended in the third slot to guarantee the 2HKO on standard Bronzong and the OHKO on standard Skarmory. Flamethrower is a viable alternative to Fire Blast for the added accuracy, but the lost OHKOs are a letdown. Trick is recommended in the final slot to cripple popular switch-ins to this Togekiss, namely Blissey, who will otherwise easily wall Togekiss. However, many other moves could be used as well, such as Tri Attack, Shadow Ball, and Hidden Power Ice.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Timid is used to let you outspeed Choice Scarf Heatran and base 130 Speed Pokemon, most notably Jolteon. Modest can be used if you don't plan on using Trick, but failing to outspeed the aforementioned Pokemon can be very detrimental to Togekiss's usefulness. The EV spread is chosen to give Togekiss five switches into Stealth Rock while maximizing its Speed and Special Attack.</p>
+
+<p>As this Togekiss isn't nearly as slow as other sets, it can find its way into offensive teams. The biggest advantages Togekiss carries over other Choice Scarf users is its very respectable special bulk and ability to flinch its opponents, making it able to take down even threats that aren't 2HKOed by its attacks. Rapid Spin support is incredibly important to this Togekiss, as it will be switching in and out a lot. Forretress stands out from the crowd as an excellent Rapid Spinner to complement Togekiss, absorbing many of the physical attacks thrown at it and also providing invaluable entry hazard support.</p>
+
+[SET]
+name: Baton Pass
+move 1: Nasty Plot
+move 2: Baton Pass
+move 3: Air Slash / Encore
+move 4: Roost / Wish
+item: Leftovers
+nature: Calm
+ability: Serene Grace
+evs: 252 HP / 64 SpD / 192 Spe
+
+[SET COMMENTS]
+
+<p>Togekiss is a member of the elite group of Pokemon to not only learn Nasty Plot, but also be able to Baton Pass it. Using this set is very straightforward; set up a Nasty Plot or two, Air Slash and Roost as necessary, and then pass it to the appropriate recipient when someone appears who Togekiss can't beat.</p>
+
+<p>Air Slash is for mandatory STAB and flinch abuse on Togekiss, and when backed by a Nasty Plot can do some serious damage to its opponents. Air Slash also prevents Togekiss from becoming Taunt bait. Encore is an option in the third slot, though, because it can force a switch and give you a free turn of setup. If you can cover for being Taunt bait, then it may prove useful for switching into the likes of Swampert's Earthquake. Roost rounds out the set in the last slot by keeping Togekiss healthy and able to pass at any point during a match. Wish can be used over Roost to support the team and the recipient better, but Togekiss will be worn down fast without the instant recovery in Roost.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs are tailored to let Togekiss outspeed certain major threats while retaining as much of its bulk as possible. 192 Speed EVs allow Togekiss to outrun Jolly non-Choice Scarf Tyranitar, while 252 HP EVs give Togekiss respectable bulk. The remaining EVs are placed in Special Defense to let it set up more freely against special threats, but if you'd like Togekiss to be more threatening with its Air Slash, you can place them in Special Attack. Calm is preferred as a nature to boost its already excellent Special Defense stat.</p>
+
+<p>This Togekiss greatly appreciates it if your team can keep Stealth Rock off the field. Its survivability and ability to pass Nasty Plot successfully take a serious hit if it has to lose 25% of its maximum HP when it switches in. A dual screen Azelf lead can be useful in keeping opposing Stealth Rock away with Taunt while throwing up screens to help Togekiss successfully pass either one or multiple boosts. Dual screens in general help Baton Passes be more reliable, so users of those moves, such as Cresselia or Uxie, can be very helpful. As for recipients of the Nasty Plot boosts, it is recommended to use something that is not destroyed by common priority moves such as Bullet Punch. For this reason, Pokemon such as Jirachi, Lucario, and Zapdos are good to consider. Jirachi and Lucario can run mixed sets with Iron Head and Close Combat respectively to punch through Blissey and other walls, and all three of them resist Bullet Punch. Zapdos deserves a special mention for having the highest Special Attack of these options while also having excellent bulk and a resistance to both Mach Punch and Bullet Punch. Both Lucario and Zapdos can also set up Agility to facilitate their sweep. A specially offensive Electivire may also be worth considering if you can Baton Pass to it on a turn where you might be expecting a slower Electric-type attack, as it'll absorb it to increase its Speed. If you are looking for a special powerhouse to send the boosts to, you might consider Porygon-Z, although its lackluster Speed and vulnerability to popular priority moves hinder its ability to sweep.</p>
+
+[SET]
+name: Support
+move 1: Encore
+move 2: Wish / Roost
+move 3: Air Slash
+move 4: Aura Sphere / Thunder Wave / Body Slam
+item: Leftovers
+ability: Serene Grace
+nature: Timid
+evs: 252 HP / 20 Def / 236 Spe
+
+[SET COMMENTS]
+
+<p>Togekiss's ability to support the team is amplified when it has Encore and Wish in its arsenal. The strategy is to come in on a set-up or support move and Encore it, likely forcing a switch. While Togekiss is out it can also Encore faster Pokemon, which requires lots of prediction but can have huge payoffs. These situations allow Togekiss to assist the team by setting up Wish and then proceeding to pass it to a counter for the current opposing Pokemon while not having to worry about being taken out. If one chooses not to Wish, it's possible to simply abuse the free turn to paralyze an incoming Pokemon with either Body Slam or Thunder Wave. Forcing a switch can also allow one of your sweepers to come in unharmed, set up, and cause havoc for your opponent. Roost is an option over Wish if none of Togekiss's teammates are Rapid Spinners, as Stealth Rock damage can really pile up on it. However, Roost greatly cuts down on Togekiss's ability to support the team, meaning that Wish is preferable for this particular set.</p>
+
+<p>Air Slash and Aura Sphere allow for a neutral hit on every single Pokemon, barring Zapdos and Rotom. Air Slash, a powerful STAB attack, can also help Togekiss to keep some Wish recovery for itself due to the 60% flinch chance on slower Pokemon. Aura Sphere is not a requirement, though, as this Togekiss is not meant to sweep, reducing the need for type coverage. Body Slam or Thunder Wave can take its spot to paralyze incoming Pokemon, as mentioned earlier. The choice depends on whether the team has more of a problem with speedy Ghost-types, such as Gengar, or Pokemon immune to Electric-type moves, such as Jolteon or Flygon.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread on this set is a lot speedier compared to a majority of Togekiss's sets. A quick Togekiss allows for much easier Encoring, which is why so many Speed EVs are required. 236 Speed EVs with a Timid nature allows Togekiss to have 280 Speed, outspeeding an Adamant Lucario. This lets Togekiss come in on the unsuspecting Lucario as it Swords Dances, and Encore it. It will then be forced to switch, or be 2HKOed by either of Togekiss's attacks. 252 HP EVs and 20 Defense EVs allow for its maximum defensive capabilities after reaching 280 Speed. This lets it come in and perform its strategy several times, due to its high survivability.</p>
+
+<p>Entry hazard support is greatly appreciated for this set, as Togekiss will likely be forcing a lot of switches with Encore (and possibly a paralysis move). Swampert has great defensive synergy alongside Togekiss, and can also set up Stealth Rock. Specially Defensive Forretress makes for a great teammate for this set due to its ability to easily set up Spikes on many of the Pokemon this set cripples, such as Swords Dance Lucario and common Stealth Rock users. Forretress can also use Rapid Spin to great effect, which is helpful because of Togekiss's Stealth Rock issues. In the same vein, Life Orb Rapid Spin Starmie is a good teammate, capable of dealing heavy damage to opposing Pokemon with its powerful STAB attacks as well as utilizing Rapid Spin to get rid of the opponent's Stealth Rock.</p>
+
+[Other Options]
+
+<p>Being a Normal-type, Togekiss's movepool is quite vast, and therefore it has many options to utilize. Togekiss can set up dual screens in order to better support its team. While a set like this is largely outclassed by other Pokemon, such as Bronzong and Uxie, Togekiss's Normal / Flying typing can give it a unique niche as a dual screener; its Stealth Rock weakness is disappointing, however. Grass Knot is also a solid choice to wear down Ground- and Water-types, such as Hippowdon and Swampert. Unfortunately, it is often hard to find a place for it on a set. Yawn can be used to force switches, and considering that Togekiss is usually used with entry hazard support, you can find yourself racking up big damage against an opponent. Counter can be used to take out physical attackers, although if you predict incorrectly, the results could be unfavorable. Tri Attack can be used as a secondary source of special STAB, but it gets poor neutral coverage with Air Slash.</p>
+
+<p>For most Togekiss sets, capitalizing on its impressive bulk is a must. That's why it is usually a good idea to maximize Togekiss's HP. However, if you are using a more offensive set, like the Choice Scarf variant, then a simple 4 HP / 252 SpA / 252 Spe spread works just fine as well. 104 Speed EVs can be used to outrun Adamant Tyranitar, but you can just as easily use more Speed in order to beat Jolly non-Choice Scarf variants. Taking advantage of Togekiss's awesome Special Attack is always a good idea, so if you find yourself with spare EVs, dumping them in Special Attack won't hurt.</p>
+
+[Checks and Counters]
+
+<p>Status seriously cripples basically all variants of Togekiss. Blissey and Cresselia come to mind as the best choices to abuse this weakness, taking pittance from Togekiss's attacks and being able to heal off any damage taken while threatening paralysis or poison. Lanturn can also come in on Togekiss with its resistance to Air Slash and threaten it with Thunder Wave.</p>
+
+<p>A few other defensive and offensive Pokemon alike stand out for being able to switch into Togekiss with relative impunity. Zapdos resists both Air Slash and Aura Sphere, and with its greater Speed stat can set up a Substitute before being hit by Thunder Wave. Jolteon or Electivire can come in on a predicted Air Slash or Thunder Wave and immediately threaten Togekiss. Rotom-A can also switch in safely as it is immune to Aura Sphere and resists Air Slash. All of these Pokemon have high-power, super effective attacks and status moves that threaten Togekiss. Bronzong also takes little damage from Air Slash and paralysis causes its Gyro Ball to hit harder.</p>

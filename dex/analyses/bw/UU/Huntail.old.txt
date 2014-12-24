@@ -1,0 +1,51 @@
+[Overview]
+
+<p>Huntail has always lagged behind Gorebyss due to its inferior attacking stat each generation. It also had to rely on rain support, but now Huntail got its own weapon: Shell Smash. With it, Huntail can now boost its low Speed stat to outspeed some of the fastest Pokemon in the tier, such as Azelf and Crobat, while also boosting its already high offensive stats. What sets Huntail apart from Gorebyss is its much higher Attack stat, which make it a prominent physical sweeper with the ability to hit hard with special attacks as well after a Shell Smash boost. Huntail can also pass its boosts to its teammates with Baton Pass, making it one of the best Baton Passers in the tier.</p>
+
+[SET]
+name: SmashPass
+move 1: Shell Smash
+move 2: Baton Pass
+move 3: Substitute
+move 4: Waterfall
+item: White Herb
+ability: Water Veil
+nature: Jolly
+evs: 252 HP / 72 Def / 184 Spe
+
+[SET COMMENTS]
+
+<p>Shell Smash makes Huntail an excellent Baton Passer. Start with either Substitute if you predict a switch or a status move; otherwise, use Shell Smash right away. Then, Baton Pass to a good receiver. Waterfall is a powerful STAB and is used to make sure Huntail can punish Taunt users.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>White Herb is used to restore your defensive stats back to normal after you have used Shell Smash. If you want to, you could use Swift Swim over Water Veil to take advantage of the Speed boost you get if there's rain on the field, but immunity to burn is much more important. The above EVs allow Huntail to outspeed Modest Choice Scarf Rotom-A after a Shell Smash. If you want, you can pump some EVs into Special Defense so that Huntail takes less damage from special attacks.</p>
+
+<p>Although Huntail can usually find opportunities to set up, it does appreciate some support from its teammates. Uxie is an excellent partner, in terms of support, as it has access to Reflect, Light Screen, and Memento. Set up both screens with Uxie and use Memento, lowering your opponent's attacking stats, then send in Huntail to get a free boost while the opponent switches. Good receivers of a Shell Smash boost or two include Pokemon such as Nidoking. Beware of phazers, though, as they can use Roar or Dragon Tail to force Huntail to switch out and lose all its boosts.</p>
+
+[SET]
+name: Shell Smash Sweeper
+move 1: Shell Smash
+move 2: Waterfall
+move 3: Crunch
+move 4: Ice Beam
+item: White Herb / Life Orb
+ability: Water Veil
+nature: Naive / Naughty
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>With good prediction, Huntail can switch in and start setting up. Waterfall is there for a reliable STAB move, and its flinch rate can be helpful later, when you're faster than almost everything else. Crunch inflicts major damage on Slowbro, who would completely wall you otherwise. Ice Beam is used to destroy any Tangrowth eager to switch in.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Huntail doesn't have much else at its disposal. It gets Sucker Punch from 4th Generation move tutor, but it's inferior to Crunch, since priority is pretty redundant when Huntail outspeeds everything it needs to hit with Crunch after one boost. Besides, Slowbro can just PP stall you out, making you unable to do any huge damage to it. Also, take into account that Sucker Punch is illegal with Water Veil. You can also opt to use Aqua Tail over Waterfall for more power, but you lose some accuracy, and Huntail can't afford to miss. Baton Pass can be used here as well, to pass Huntail's boosts to a teammate. Swift Swim can also be used on this set as well, to take advantage of the Speed boost you get in the rain, but the immunity to burn is still much better. The choice of nature is the classic, power versus Speed dilemma. Naive is the best option to outspeed as many Pokemon as possible, but Naughty gives you more power. The choice of item depends on what you want Huntail to do: stay around longer, or hit harder. White Herb restores Huntail's defensive stats, making it easier for Huntail to stay in, while Life Orb makes it hit harder, scoring some extra KOs, but turns Huntail into a glass cannon. In terms of team support, Uxie is, again, Huntail's best friend. With screen support and Memento, Uxie makes it easier for Huntail to set up and proceed to sweep your opponent's team.</p>
+
+[Other Options]
+
+<p>Huntail doesn't have much else to play with. In its physical movepool it has Body Slam, Bounce, Ice Fang, and Super Fang. Body Slam and Bounce can paralyze your opponent. Ice Fang can be used to go all out physical, but Ice Beam hits Tangrowth much harder. Super Fang can help against certain bulky Pokemon, but it's better to just KO them as fast as possible. There is also Clamp, which you could use to trap your opponents. Huntail could utilize a special Shell Smash set for the surprise factor. In addition to Ice Beam, it has access to Surf, Hydro Pump, and Hidden Power, but is outclassed by Gorebyss and its higher Special Attack stat. Huntail's support options include Barrier, Iron Defense, and Aqua Ring, which it can pass to its teammates along with a Shell Smash boost. It also has access to Refresh and Confuse Ray.</p>
+
+[Checks and Counters]
+
+<p>Empoleon is the best counter to Huntail. It resists all of Huntail's moves and can easily KO it with Grass Knot. Poliwrath also resists all of Huntail's moves, and can use Circle Throw to force Huntail out, making Huntail lose its boosts. Max Defense Tangrowth can counter Huntail if it doesn't carry Ice Beam. It resists Waterfall, is only 3HKOed by Crunch, and only 2HKOed by Ice Fang with an Attack boosting nature. Phazers such as Suicune can ruin Huntail's day anytime. Unaware Quagsire ignores Huntail's boosts, and can set up Curse in its face.</p>

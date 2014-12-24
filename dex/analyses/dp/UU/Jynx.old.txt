@@ -1,0 +1,89 @@
+[Overview]
+
+<p>On paper, Jynx may not look like much, as her excellent Speed and fantastic Special Attack stats are overshadowed by mediocre HP and abysmal Defense. However, Jynx's precise offensive movepool, her myriad support options, and her access to a reliable sleep move mean that despite her physical frailty and unfortunate typing, Jynx can be a potent sweeper in the right hands. After shutting down her counters with Lovely Kiss and boosting her Special Attack with Nasty Plot, she can devastate unprepared teams.</p>
+
+[SET]
+name: Nasty Plot
+move 1: Ice Beam
+move 2: Nasty Plot
+move 3: Lovely Kiss
+move 4: Substitute / Psychic / Focus Blast
+item: Leftovers
+ability: Forewarn
+nature: Timid
+evs: 8 HP / 248 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>Jynx is one of the few Pokemon who has access to Nasty Plot, and this set takes full advantage of her unique traits in order to secure a sweep. The idea behind the execution of this set is simple: switch Jynx in on a resisted special attack (or after a KO) and set up a Substitute to circumvent Jynx's terrible defenses. As the opponent switches to a counter, Jynx can put it to sleep with Lovely Kiss. With the opponent's primary answer to Jynx incapacitated, she can safely boost her stats from behind a Substitute. The opponent is forced to bring in a less efficient response, at which point Jynx is free to attack and seriously damage it or KO it and attempt a sweep, depending on your opponent's team and your move options. If you chose to forgo Substitute, just start attacking, unless you are fairly certain that you can successfully sweep the remainder of the opponent's team with a Nasty Plot boost. Either way, you will be able to place incredible pressure on your opponent, and he will likely reveal his Choice Scarfers or priority users in order to force Jynx out as quickly as possible. This will be your chance to eliminate or weaken them with Pursuit users and/or lures, ensuring that Jynx's next attempt at a sweep is decisive.</p>
+
+<p>In practice, however, the execution of this strategy may not be so simple. Your opponent may predict your attempt to put Jynx's counter to sleep and double switch to a less important Pokemon or a sleep absorber, preventing you from incapacitating Jynx's main counter. It's even possible that your opponent may have multiple specially bulky resists or enough priority users to ensure Jynx simply cannot sweep. Any well-built team will not immediately lose to a Pokemon with a sleep move and powerful STAB; it is up to Jynx's user to build a team based around removing and weakening her checks, and to play intelligently to avoid wasting Lovely Kiss or needlessly sacrificing Jynx. Otherwise, she will simply not be successful. Give her the necessary support, however, and you will find that she performs in her niche admirably well.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given EVs allow for maximum sweeping potential, with 8 EVs placed in HP to attain a Leftovers number. Life Orb may be used if a coverage move is deemed preferable to Substitute in the final slot; note, however, that Substitute makes Jynx much harder to kill and shields her from faster threats like Swellow and Mismagius, so you should only opt for a coverage move if your team does better against offensive teams than it does against stall teams. Psychic offers better neutral coverage than Ice Beam, but it is not recommended as the mono-attack on this set, as Dark-types will completely wall Jynx. Given that Pokemon like Spiritomb, Houndoom, and Skuntank frequently carry Pursuit, using Psychic as the only attack will ensure that Jynx accomplishes nearly nothing against any team with those Pokemon.</p>
+
+[SET]
+name: Luna (SubCM)
+move 1: Ice Beam
+move 2: Calm Mind
+move 3: Substitute
+move 4: Lovely Kiss
+item: Leftovers
+ability: Forewarn
+nature: Timid
+evs: 200 HP / 56 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>While the Nasty Plot set emphasizes plowing through the opposing team with powerful boosted attacks, this Jynx takes a much more defensive approach towards sweeping. This set takes advantage of the fact that many of the Nasty Plot set's counters are specially-oriented Water-types, and aims to easily set up on them. The given EVs make Jynx very specially bulky; Pokemon like Milotic and Lanturn cannot break Jynx's Substitutes with their neutral STABs after a Calm Mind boost, and even Pokemon like Weezing cannot break Jynx's Substitutes with Flamethrower after two Calm Minds. Jynx can even survive monstrously powerful special assaults, like Life Orb Moltres's Fire Blast, after a couple of boosts. If, upon realizing this, the opponent switches to a physically-oriented counter, Jynx can simply put it to sleep and continue boosting.</p>
+
+<p>This set is very frustrating for frailer offensive teams and balanced teams to face, as they often don't have more than one Pokemon who can both survive Jynx's assaults and prevent her from setting up, and they can no longer merely use a bulky Water-type or a specially-oriented Choice Scarf user to force this Jynx out. However, bulky offense teams have a significantly easier time with this set, as the entire idea behind bulky offense is to have Pokemon who can both take a hit and hit back hard. Against these teams, it is recommended to preserve Jynx as a late-game sweeper for when the opponent's Ice-type resists are either weakened or gone.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given EVs allow for significant special bulk while still enabling Jynx to Speed tie and often outrun threatening Pokemon such as Arcanine, Drapion, and Houndoom. While the relative lack of Special Attack EVs may make Jynx appear "weak", do not be fooled; even with minor investment, Jynx's Special Attack is nearly as high as maximum Special Attack Timid Rotom, and she will definitely hurt most neutral targets after a boost or two. If more power is desired, a spread of 8 HP / 248 SpA / 252 Spe may be used, but this is not recommended due to the significantly higher amount of damage Jynx will take from special assaults. Moreover, if this Jynx does not meet the user's offensive requirements, the Nasty Plot set should probably be used instead.</p>
+
+[SET]
+name: Attacking Lead
+move 1: Lovely Kiss
+move 2: Ice Beam
+move 3: Grass Knot / Psychic
+move 4: Nasty Plot / Taunt
+item: Focus Sash
+nature: Timid
+evs: 252 SpA /4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>Jynx is the second fastest Pokemon in UU with a reliable sleep-inducing move, and her offensive capabilities and support options allow her to function as an effective anti-lead. Lovely Kiss is the main merit of this set, allowing Jynx to disable bulky leads, like Uxie and Mespirit, both of whom few Pokemon can immediately KO; this prevents them from executing their strategy while giving you time to execute your own.</p>
+
+<p>Ice Beam is the primary option for an attacking move due to its excellent neutral coverage. Grass Knot's main purpose is for OHKOing Cloyster, Kabutops, and Omastar, as well as for doing substantial damage to Milotic and Blastoise. Psychic is useful for getting quick kills on Hariyama and Qwilfish, while also letting you hit Arcanine very hard. The final slot depends on the general function that Jynx needs to fulfill. Nasty Plot allows Jynx to immediately place great pressure on opposing teams, forcing them to reveal more Pokemon and putting Jynx in a position to do major damage to key Pokemon like Milotic and Houndoom. However, note that even at +2 Special Attack, several Pokemon can still wall Jynx depending on the offensive moves you choose to run, which allows them to set up on or KO her. For instance, Registeel can switch in after the opposing lead absorbs sleep and takes next to no damage from Psychic, Ice Beam, or Grass Knot. It can then set up Stealth Rock, start spreading paralysis with Thunder Wave, or start using Curse. However, Taunt allows Jynx to stop such setup from occuring. In addition, Jynx is faster than or ties with every user of Stealth Rock in the tier, barring the rare Dugtrio, making her effective at preventing entry hazards. Taunt is also useful to prevent any switch-ins that she cannot hurt from setting up in her face.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>As mentioned above, Ice Beam is the best option for a primary attack since it has amazing coverage in UU. However, Focus Blast, Shadow Ball, and any other move slashed in as an alternative are all viable options over Ice Beam. Focus Blast allows Jynx to take on Registeel, while Shadow Ball allows Jynx to more efficiently dispose of Uxie and Mesprit. If Ice Beam is replaced with a move option that was slashed in on another slot, Jynx becomes more optimized for leading but less so for the mid game.</p>
+
+<p>Lum Berry can be used in place of Focus Sash to guarantee that an unlucky Lovely Kiss miss does not result in Jynx being paralyzed by the likes of Uxie or Mespirit. It also lets you defeat Jumpluff and other sleep-inducing leads who are employing Choice Scarf. However, the use of Lum Berry requires the user to be much more careful when using Jynx, as most physical attacks will outright KO her without a Focus Sash.</p>
+
+<p>This Jynx can also be used with Choice Scarf as the item. If using Choice Scarf, Trick becomes an invaluable move, and should be used over Nasty Plot/Taunt. In addition, Focus Blast becomes the most viable secondary attacking move despite its poor accuracy, since it OHKOes Ambipom, Cloyster, and Omastar. Choice Scarf allows Jynx to incapacitate even Scarf Uxie before it can use Stealth Rock, making her one of the most reliable anti-leads in the tier; however, the cost is a significant loss in versatility compared to using Focus Sash.</p>
+
+<p>Counter can be used in the final slot, as it enables Jynx to get surprise KOs on Arcanine and any leads who attempt to U-turn to one of her counters. However, note that Spiritomb, one of the most popular counters to Jynx, is immune to Counter. Many of the Pokemon who would be seeking to wall Jynx are also specially inclined. Moreover, without the added power of Nasty Plot or the ability to Taunt the opposition, Jynx does not pose much of an threat to opposing leads once Counter has been revealed.</p>
+
+<p>Fake Out is an option in the final slot as Jynx's only form of priority. It eliminates the Focus Sash of leads such as Qwilfish, Cloyster, and Scyther, while allowing you to block slower users of Fake Out, such as Hariyama. However, Jynx's attack is pathetic, so Fake Out's use is very specific to beating those particular leads. Protect is another option along these lines, allowing you to beat Ambipom and scout moves from possible Choice Scarf leads, but like Fake Out, it has little use otherwise.</p>
+
+<p>When used in the lead slot, Jynx functions best on a team dedicated to abusing the lack of early-game entry hazards. Powerful scouters, such as Scyther, and Stealth Rock-weak sweepers, such as Moltres and Arcanine, will very much appreciate the lack of entry hazards. Pokemon who are walled by Omastar, Uxie, and other bulky leads will have an infinitely easier time attempting a sweep once Jynx cripples those leads. Jynx's ability to scout and weaken the opposing team also helps dangerous but easily-walled endgame sweepers, such as Dragon Dance Feraligatr and Swords Dance Leafeon.</p>
+
+<p>Ideally, Jynx should be paired with Pokemon who are able to take advantage of the leads she typically loses to. Spiritomb, for instance, can easily switch in on Ambipom and Pursuit it, start spreading burns, or set up with Calm Mind. It can also switch in easily on uncommon Hariyama variants who carry both Fake Out and Bullet Punch. Rhyperior and Donphan use Registeel as set up bait, and even sweepers such as Moltres and physical Venusaur can safely come in if Jynx has Taunted Registeel beforehand. Houndoom can easily set up on any Spiritomb lead lacking Hidden Power Fighting, while Toxicroak can set up on any Spiritomb lacking Will-O-Wisp and Psychic.</p>
+
+[Other Options]
+
+<p>Jynx can function somewhat well with a Choice item due to her high Speed and Special Attack. Choice sets should primarily use four of the following moves: Ice Beam, Psychic, Focus Blast, Shadow Ball, Lovely Kiss, and Trick. However, Jynx's relative frailty, Stealth Rock weakness, and vulnerability to the common Pursuit hinder a Choice set's effectiveness.</p>
+
+<p>Grass Knot can be used as an offensive option over Psychic or Focus Blast in order to hit Milotic and Slowking harder. However, both Psychic and Focus Blast will offer much better general utility.</p>
+
+<p>Jynx is the second fastest Pokemon with a reliable sleep move in UU; as such, she can make a useful anti-lead. A lead Jynx should be holding Focus Sash and have Lovely Kiss, with the other moves depending primarily on the kind of leads the player does not mind losing to. Shadow Ball is necessary for a good chance of KOing Mesprit, Uxie, and Alakazam before they wake up, while Grass Knot guarantees KOs on Omastar, Kabutops, and Rhyperior. Protect allows Jynx to beat Ambipom leads and is useful for scouting Trick, while Ice Beam and Psychic are hard-hitting STAB moves. Counter is an interesting option, but better left to Alakazam. Be very careful against leads suspected of carrying a Focus Sash or a Lum Berry, increasingly common items. This Jynx is best used on teams that appreciate the lack of early-game entry hazards and can set up on leads whom Jynx typically loses to (such as Spiritomb).</p>
+
+[Checks and Counters]
+
+<p>The counters who give Jynx the most trouble are Haze Milotic, RestTalk Registeel, and specially defensive Spiritomb. Milotic is only 2HKOed by +6 Jynx, which is a difficult task since it requires Milotic to be asleep for four turns. Note, however, that if Jynx has forgone Substitute for Psychic, Milotic becomes much more manageable and ceases to be a counter. A similar situation applies for Registeel; Registeel can KO Jynx with Iron Head at any time, and only loses if Jynx can lock it down long enough with Lovely Kiss that Registeel cannot recover with Rest before Jynx eliminates it, or if Jynx chooses to run Focus Blast in her final slot. Specially defensive Spiritomb can survive even +4 Ice Beam, while taking Jynx out of the game with Pursuit or Shadow Sneak. Unlike Registeel and Milotic, Spiritomb beats Jynx regardless of her moveset. Chansey also handily stalls out Jynx, but only if Sleep Clause is active; if not, Jynx will merely put Chansey to sleep and use her as setup fodder. Due to Natural Cure, Chansey will cause Sleep Clause to deactivate if she switches out. Some less common counters include Thick Fat Hariyama, Thick Fat Grumpig, Walrein, Lapras, Lanturn, and Slowking. Note again that all of these counters are only counters if Sleep Clause is activated; otherwise, they don't have much chance of beating Jynx one-on-one.</p>

@@ -1,0 +1,13 @@
+ParaFlinch
+########
+name: ParaFlinch
+move 1: Body Slam / Glare
+move 2: Coil
+move 3: Rock Slide / Headbutt
+move 4: Roost
+ability: Serene Grace
+item: Leftovers
+evs: 252 HP / 4 Def / 252 SpD
+nature: Careful
+
+This is a sample set while we are currently working on analyses in the workshop.

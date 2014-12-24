@@ -1,0 +1,54 @@
+[Overview]
+
+<p>Shinx is quite the underestimated Pokemon. At first glance, it seems as if it is badly outclassed by the likes of Elekid and Electrike, but there is one environment where Shinx excels and they do not - Trick Room. Shinx has a mere 45 base Speed, which allows it to outpace many Pokemon when Trick Room is in play. In addition, Shinx has two great abilities in Rivalry and Intimidate, the former possibly boosting the power of Shinx's moves.</p>
+
+<p>However, Shinx does have a few glaring weaknesses. The first one is its weakness to Ground and its poor defenses, making it difficult for Shinx to switch in safely. Also, its strongest physical STAB attacks are Thunder Fang and Spark, both of which have an incredibly low 65 Base Power. In addition, Shinx's movepool is fairly limited and does not include much useful high Base Power physical attacks. All in all, Shinx is a decent Pokemon to use, but finds a hard time getting a team slot in Little Cup.</p>
+
+[SET]
+name: Trick Room Physical Attacker
+move 1: Thunder Fang
+move 2: Ice Fang
+move 3: Fire Fang
+move 4: Crunch / Iron Tail
+item: Life Orb
+ability: Rivalry
+nature: Brave
+evs: 236 Atk / 244 Def / 4 SpD
+ivs: 0 HP / 0 Spe
+
+[SET COMMENTS]
+
+<p>Shinx's best chance at sweeping is under Trick Room. With a hindering nature and 0 Speed EVs, Shinx hits an extremely poor Speed stat of 8. This allows it to "outspeed" most other Pokemon in Trick Room. Although Thunder Fang has only 65 Base Power, it is Shinx's strongest physical STAB outside of Spark. Ice Fang hits most Ground-types for super effective damage, and scores an easy OHKO on most Gligar. Fire Fang hits Grass-, Ice-, Bug-, and Steel-types hard, and Crunch mashes Ghost- and Psychic-types for heavy damage. Iron Tail, on the other hand, strikes Rock- and Ice-types, but Crunch gets better overall coverage.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>A Brave nature raises Shinx's Attack while lowering its Speed simultaneously, which benefits this Shinx variant greatly. Life Orb pumps up Shinx's power, and Rivalry, if Shinx is the same gender as its opponent, stacks additional power on top of Life Orb. While Intimidate is an equally effective ability, most players do not switch the genders of their Pokemon. It should be noted that this is for simulator play only, as it would not apply on Wi-Fi, since on Wi-Fi, genders aren't automatically set to male. Since the default is male, Shinx will be getting a Rivalry boost quite often. In addition, the only exclusively female Pokemon in Little Cup are Nidoran-F, Happiny, and Smoochum - all of which are very uncommon. Also, Shinx does not lose power when facing genderless Pokemon like Bronzor. The EVs max out Shinx's Attack, and the rest boost its defenses. A 0 IV in HP is vital so that Shinx's base HP rounds down to 19, so it will only lose 1 HP from Life Orb recoil.</p>
+
+<p>Shinx absolutely needs Trick Room support in order to attempt a sweep. Trick Room users with Explosion are even better, as such teammates can allow Shinx to switch in for free. Stealth Rock support is also nice, but not necessary. Spark can be used over Thunder Fang due to its perfect accuracy, but Thunder Fang has a lower chance of paralysis and a chance of flinching the opponent. Paralysis is not good because the opponent would outspeed Shinx in Trick Room, and with Shinx's low defenses, the opposing Pokemon will be able to KO Shinx.</p>
+
+[SET]
+name: Thunder Wave
+move 1: Thunder Wave
+move 2: Thunder Fang
+move 3: Ice Fang
+move 4: Crunch / Fire Fang / Quick Attack
+item: Oran Berry
+nature: Jolly
+ability: Intimidate
+evs: 236 Atk / 4 Def / 4 SpD / 236 Spe
+
+[SET COMMENTS]
+
+<p>Shinx's access to Thunder Wave, in conjunction with its Intimidate ability allow it to run a decent Thunder Wave set. Since Intimidate lowers the power of physical attacks, Shinx will be able to take an attack and proceed to paralyze the opponent with Thunder Wave. Thunder Fang pairs well with Thunder Wave, as it has a chance of flinching the opponent. Ice Fang hits most Ground-types for super effective damage; additionally, Ice Fang allows Shinx to potentially KO Gligar on the switch. Crunch does big damage to Ghost- and Psychic-types, while Fire Fang hits most Steel-types. Finally, Quick Attack gives Shinx a priority attack which allows it to pick off a few faster threats. Attack and Speed are maximized, and the remaining EVs give Shinx an extra point in each of its defenses.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Pokemon that enjoy having paralyzed opponents work well with this set. Krabby and Cubone are great partners for this reason, as they will now have an easier time setting up Swords Dance, and since paralyzed opponents remove the need for Speed, these teammates will have an simpler time ripping teams apart. In addition, Pokemon that can beat Hippopotas and Gligar, the two biggest checks to this set, are appreciated. Snover works very well, as it can dispatch both of them with STAB Blizzard. In addition, Snover has access to Swords Dance which complements Shinx's Thunder Wave support. Finally, Pokemon with access to entry hazards, such as Pineco and Tentacool, can set up easier due to the possibility that the opponent will be fully paralyzed.</p>
+
+[Other Options]
+
+<p>There aren't very many viable other options for Shinx, as its movepool is extremely shallow. A mixed Trick Room set could be possible, since Shinx's Special Attack stat is usable and its special movepool consisting of Thunderbolt, Hidden Power, and Signal Beam isn't half-bad. Shinx hits 22 Speed with a boosting nature and maximum Speed EVs with a Choice Scarf, but would lose a lot of power that it desperately needs. Return can be used as Shinx's strongest physical attack, though it has no super effective coverage whatsoever. Howl is Shinx's only reliable boosting move and can work with Quick Attack; however, Shinx would still be too weak to sweep due to its poor Speed and low Base Power attacks. Lastly, Magnet Rise is available to elude Diglett and other Ground-types, but they can still smash Shinx hard with their other attacks.</p>
+
+[Checks and Counters]
+
+<p>Shinx has a lot of counters due to its weak attacks and frail defenses. Bulky Ground-types, like Hippopotas, fare well against Shinx, as they can stave off Ice Fang and KO back with Earthquake while also having an immunity to Electric. Bronzor can take several Fire Fangs and KO back with Earthquake. Chinchou is a great counter, as it takes minimal damage from all of Shinx's attacks, can heal health from any Electric attack, and KO back with Surf. If Trick Room is not up, then the number of Pokemon that can counter Shinx rises exponentially. Pokemon with strong attacks, like Machop, Cubone, and Gastly, can easily KO Shinx with their STAB attacks.</p>

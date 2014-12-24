@@ -1,0 +1,47 @@
+[Overview]
+
+<p>Houndoom is arguably the best Fire-type in the game (though most would probably swear by Charizard). Houndoom is the only Fire-type that can effectively mess up three of the main Water-types (Cloyster, Slowbro, and Starmie), since none of them want to switch into a STAB Crunch from a 318 Special Attack. It's faster than most commonly-used standards in GSC, and Pursuit royally messes up stuff that tries to switch out. While Houndoom's typing doesn't really help or harm it one way or the other in terms of being resistant to certain attacks, Dark and Fire attacks work pretty well together and are super effective on a lot of popular types.</p>
+
+[SET]
+name: Pursuit
+move 1: Crunch
+move 2: Fire Blast
+move 3: Pursuit
+move 4: Counter
+item: Leftovers
+ 
+[SET COMMENTS]
+
+<p>Use Fire Blast or Crunch depending on what you think is going to come in. Houndoom can survive all non-STAB Earthquakes and all STAB Returns, so use Counter when they do that for a quick KO. And if something is on the brink of fainting, but might switch out, use Pursuit to take care of it.</p>
+
+[SET]
+name: RestTalk
+move 1: Fire Blast
+move 2: Crunch
+move 3: Rest
+move 4: Sleep Talk
+item: Leftovers
+ 
+[SET COMMENTS]
+
+<p>RestTalk conserves some Fire Blast PP. Exeggutor isn't going to get by this one unless it Explodes.</p>
+
+[SET]
+name: SunnyBeam
+move 1: Fire Blast
+move 2: Crunch
+move 3: Sunny Day
+move 4: Solar Beam
+item: Leftovers
+
+[SET COMMENTS]
+
+<p>This is an old school set. With Sunny Day Houndoom will take half damage from Water attacks while it Solar Beams them in return. This set is completely ruined by Blissey and Snorlax, but is very dangerous in UU play since there aren't a lot of things that can survive all three attacks.</p>
+
+[Other Options]
+
+<p>If you want to try it out, Endure + Reversal can catch a lot of things off guard. While Houndoom's Reversal isn't very strong, it will mess up Blissey (OHKO), Snorlax (73% damage), Umbreon (70%), Tyranitar (OHKO), and Rhydon (63%). Watch out for Spikes, however. If you're really worried about Rhydon, there's always Hidden Power Grass and Hidden Power Water. Another interesting option to note is Beat Up. If everything on your team is in perfect shape, you've more than likely got a 2HKO on Blissey. However, Blissey is the ONLY thing that Beat Up will deal significant damage to.</p>
+
+[Checks and Counters]
+
+<p>Suicune and Tentacruel resist Fire moves, have a high Special Defense, and can destroy Houndoom with their STAB Surfs. Quagsire and Kingdra work similarly, to a lesser extent. Blissey is a basic special wall to sponge Fire Blasts with, but don't expect it to get past the RestTalk set. Umbreon can't do any damage, but it can Mean Look Houndoom and Baton Pass to a teammate to guarantee Houndoom's defeat. Snorlax, Tyranitar (watch out for the odd Reversal), Muk, and Dragonite take all of Houndoom's attacks quite well and respond by hitting its very weak Defense. Rhydon and Golem resist Fire and OHKO Houndoom, but their low Special Defense won't let them take too many Crunches.</p>

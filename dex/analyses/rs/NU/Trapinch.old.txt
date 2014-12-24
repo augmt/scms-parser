@@ -1,0 +1,49 @@
+[Overview]
+
+<p>Trapinch is actually not really a great Pokemon, but it has its uses, like everything. You could use Skarmory to lure Magneton, trap and kill it with Trapinch (needs prediction to work), then start Spiking away with Skarmory. It has a decent shot at killing Blissey (as long as she doesn't have Counter or Ice Beam) as well, while Dugtrio needs Adamant for this. However, this thing also cannot switch in on anything that attacks, unless the enemy is paralyzed and is using an attack with low Base Power.</p>
+
+[SET]
+name: Choice Band
+move 1: Earthquake
+move 2: Hidden Power Bug
+move 3: Rock Slide
+move 4: Quick Attack
+item: Choice Band
+ability: Arena Trap
+nature: Adamant
+evs: 172 HP / 252 Atk / 40 Def / 44 SpD
+
+[SET COMMENTS]
+
+<p>This set can do some damage in normal play, and has an even easier time in UU. You can kill Hidden Power Fire Magneton with it, and with some Special Defense EVs it can survive an Alakazam Psychic and Earthquake back for the KO. Or with more Defense investment, survive Metagross Meteor Mash and kill it. Further, you can come in on very low HP Pokemon, especially those Flail / Reversal Pokemon, and kill them with Quick Attack. If you use another Quick Attacker for this, you will find they will switch out and come back later to kill something. But against Trapinch, no switching is allowed unless said Pokemon is a Flying type or has Levitate. Hidden Power Bug is for the OHKO on Celebi--if you can switch this in on Recover, Heal Bell or something, you will survive Psychic and kill it.</p>
+
+[SET]
+name: 200 Metagame
+move 1: Earthquake
+move 2: Toxic
+move 3: Protect
+move 4: Quick Attack
+item: Leftovers / Soft Sand / Quick Claw
+ability: Arena Trap
+nature: Adamant
+evs: 172 HP / 252 Atk / 40 Def / 44 SpD
+
+[SET COMMENTS]
+
+<p>The non-Choice Banded, old 200 version of Trapinch. Not as powerful, but the most reliable Slaking killer in the game. Predict when your opponent brings it in, or come in after a KO, then Earthquake on Truant turns, and Protect when Slaking attacks. It still serves the Quick Attacker purpose, can still beat aforementioned Hidden Power Fire Magneton and survive one Alakazam Psychic to KO it.</p>
+
+[Other Options]
+
+<p>This is where you say "Hidden Power random". Hidden Power Flying could kill Breloom or Heracross, but good luck surviving their hits.</p>
+
+[EVs]
+
+<p>If you're playing Trapinch with paralysis support, you'll want to bring it to about 99 Speed, which requires 176 EVs. This will ensure that the only Pokemon faster than Trapinch after they are paralyzed are Ninjask (who will never ever be paralyzed, anyway, if you are playing a decent player) and Electrode (who will, in the unlikely event that it is paralyzed, almost certainly Explode immediately after you manage to paralyze it), so, for all intents and purposes, Trapinch will be faster than any paralyzed opponent. Otherwise, Speed is mostly irrelevant on Trapinch, as it is second only to Shuckle for the rank of slowest Pokemon in the game. The remaining EVs for a Trapinch based around paralysis, therefore, should be something resembling 80 HP, 252 Attack, 176 Speed, Adamant. This is, interestingly enough, the exact point in HP after which Trapinch is best optimized by splitting defenses while pumping HP--at or below 80 HP EVs, you want to only invest in HP to optimize defenses, but after it, you'll want to invest in HP, Defense, and Special Defense.</p>
+
+<p>172 HP, 40 Defense, and 44 Special Defense EVs will optimize Trapinch's defensive stats with the EVs leftover after maxing Attack. This will make you 2HKOed by Tyranitar's Choice Band Hidden Power Bug or Rock Slide, 3HKOed by Heracross Choice Band or Guts activated Rock Slide, 2HKOed by non-Choice Band / Dragon Danced Tyranitar / Salamence Earthquake, and you'll usually survive Calm Mind Jirachi / Celebi Psychic if they don't invest in Special Attack EVs. If you want to make it guaranteed survival from Jirachi and Celebi (assuming they don't invest Special Attack), 152 HP and 104 Special Defense is the spread that guarantees survival and increases physical defensive abilities the most with the 256 EVs remaining after maxing Attack. If you want, you can lower Attack slightly to 232 EVs, and give Trapinch 28 HP and 248 Special Defense EVs, as this will guarantee survival from Modest Magneton Hidden Power Ice (and thus also guarantee survival from Hidden Power Grass or Hidden Power Ice from any Magneton, Raikou, or other non-Zapdos Electric). This will, coincidentally, allow Trapinch to always survive one Modest 252 Special Attack EV Blissey Ice Beam with at least 2 HP remaining.</p>
+
+<p>Always give Trapinch an Adamant nature, it really needs it to help damage stuff, and it's the only one of Trapinch's stats that really benefits from a 10% increase.</p>
+
+[Checks and Counters]
+
+<p>Hit it on the switch. You can't really counter a trapper since counters should be able to switch in, and if you're trapped by this thing you cannot switch (thanks Captain Obvious). Usually, after killing something (especially if it took damage), Trapinch becomes worthless for the rest of the match, and it'll be dead weight on the team it's on.</p>

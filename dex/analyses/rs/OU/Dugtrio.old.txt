@@ -1,0 +1,35 @@
+[Overview]
+
+<p>Arena Trap makes Dugtrio arguably the best revenge killer in the game, because grounded Pokemon are prevented from switching out. This means that if Dugtrio can safely switch in on a grounded Pokemon it's guaranteed to KO, your opponent can kiss that team member goodbye. Excellent Speed and average Attack allow Dugtrio to make great use of Arena Trap, as it will usually outspeed the Pokemon it traps, and KO it without taking any damage. However, Dugtrio usually has trouble switching in on attacks due to its frailty, so it's mostly relegated to the role of revenge killer.</p>
+
+[SET]
+name: Trapper
+move 1: Earthquake
+move 2: Rock Slide
+move 3: Aerial Ace
+move 4: Hidden Power Bug
+item: Choice Band
+ability: Arena Trap
+nature: Jolly / Adamant
+evs: 4 HP / 252 Atk / 252 Spe
+ivs: 30 Atk / 30 Def / 30 SpD
+
+[SET COMMENTS]
+
+<p>This is your bread-and-butter Dugtrio set, in which it makes use of a Choice Band to compensate for its mediocre Attack stat. The drawback of a Choice Band--being locked into one move--usually doesn't hinder Dugtrio, because its main goal is to revenge kill one Pokemon at a time, and then switch out. Dugtrio is frail, meaning it is difficult to switch in, except after a teammate is KOed. Nevertheless, it can switch in on predicted Electric-type attacks from the likes of Raikou and Magneton, or non- attacking moves such as Calm Mind or Thunder Wave. Dugtrio must watch out for Electric-types who use Substitute first to scout, though. If behind a Substitute, Magneton is especially deadly if it's running a Hidden Power that is super effective against Dugtrio; however, Raikou usually fails to KO a full health Dugtrio.</p>
+
+<p>Earthquake is Dugtrio's most powerful attack, and hits Tyranitar, Jirachi, Metagross, Blaziken, and Raikou for super effective damage, among others. Rock Slide provides nice coverage alongside Earthquake, and comes with a nifty flinch rate. However, as Flying-type Pokemon aren't affected by Arena Trap, it isn't as useful. Aerial Ace is nearly exclusively for Heracross and Breloom, who are 4x weak to Flying but take little damage from any of Dugtrio's other moves. Hidden Power Bug rounds off the set, allowing Dugtrio to KO Celebi at around 70% HP, and providing it with a way to hurt Claydol.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The given EVs are simple: Dugtrio's Attack and Speed stats are maximized to make it the best possible revenge killer, and the remaining 4 EVs are put in HP. The given IVs allow Dugtrio to use Hidden Power Bug while still having maximum Speed. A Jolly nature is advised as Dugtrio needs maximum Speed to outspeed and KO +1 Tyranitar with Earthquake. Adamant can be used for extra power, but this is not recommended.</p>
+
+<p>Aerodactyl is a great partner as it can be sacrificed to allow Dugtrio to switch in safely. Skarmory is also welcome for its ability to lure in Magneton attempting to trap it; Dugtrio can in turn trap Magneton and OHKO it, which benefits Skarmory immensely. Users of Baton Pass, such as Celebi and Zapdos, can scout for a switch to a Pokemon that Dugtrio can trap without needing to predict the switch.</p>
+
+[Other Options]
+
+<p>Dugtrio hasn't got many options besides those listed. Hidden Power Ghost can be used to KO a slightly weakened Gengar and to maintain coverage against Claydol, but Hidden Power Bug is more useful as it allows Dugtrio to 2HKO Celebi. Dugtrio can be used in conjunction with Perish Song users such as Celebi, as it can trap the opposing Pokemon and force it to die to Perish Song. If taking this route, Dugtrio should make use of Leftovers, Protect, and Substitute to stall out the turns of Perish Song. The same strategy can also be used with Toxic instead of Perish Song, but opponents that run Rest will foil it. The all-out attacker can make use of Leftovers too, but Dugtrio prefers the extra power to the additional recovery and freedom to switch attacks.</p>
+
+[Checks and Counters]
+
+<p>Dugtrio has no true counters, because its main goal is trapping and revenge killing Pokemon. Nonetheless, this can be avoided both by careful play and by proper teambuilding--don't use too many Pokemon that can be easily revenge killed or picked off by Dugtrio. Physical walls that aren't affected by Ground-type attacks, such as Skarmory and Weezing, easily wall Dugtrio, because they can't be trapped by Arena Trap, are immune to Earthquake, and take little damage from Dugtrio's other attacks. Additionally, Skarmory can freely set up Spikes against Dugtrio, whereas Weezing can burn it with Will-O-Wisp to make it much less of a threat. Bulky Water-types can be problematic for Dugtrio as they can sponge any of its attacks and OHKO back with their STAB attacks, so Dugtrio should only engage bulky Water-types if they are low on health. Porygon2 and Gardevoir can use Trace to copy Arena Trap, which prevents Dugtrio from switching, and OHKO it with Ice Beam and Psychic, respectively.</p>

@@ -1,0 +1,13 @@
+Support
+########
+name: Support
+move 1: Aromatherapy
+move 2: Leech Seed / Synthesis
+move 3: Giga Drain
+move 4: Toxic / Dragon Tail
+ability: Overgrow
+item: Leftovers
+evs: 252 HP / 4 Def / 252 SpD
+nature: Calm
+
+This is a sample set while we are currently working on analyses in the workshop.

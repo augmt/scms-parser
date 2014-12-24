@@ -1,0 +1,53 @@
+[Overview]
+
+<p>Of all the Fighting-type Pokemon found in NU, Sawk secures its spot on many teams thanks to its incredible immediate power; its base 125 Attack makes it the strongest Fighting-type in the tier. Sawk's immense power isn't all that it has up its sleeve, though. It also has two great abilities, Sturdy and Mold Breaker, that help it perform its job. Additionally, thanks to its great coverage moves, it can be very difficult to wall. For these reasons, Sawk is often found on teams wielding a Choice item, meaning it can be rather predictable. Ultimately, despite its great power, its Speed, while above average, does not allow it to beat out other common offensive threats, such as Jynx and Charizard.</p>
+
+[SET]
+name: Choice Band
+move 1: Close Combat
+move 2: Earthquake
+move 3: Ice Punch
+move 4: Stone Edge
+item: Choice Band
+ability: Mold Breaker
+nature: Adamant
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Sawk performs best with a Choice Band, serving as a wallbreaker that can punch holes through entire teams. Its fantastic Attack stat means that not much wants to switch in; even some of the tier's premier physical walls, particularly Alomomola and Tangela, cannot switch into Close Combat without fearing a 2HKO. Close Combat is chosen for this reason; it is Sawk's best STAB, thanks to its high Base Power with limited drawbacks. Earthquake can hit three of the most common switches into Sawk--Garbodor, Misdreavus, and Weezing--thanks to Mold Breaker. Ice Punch is the best way that Sawk has to deal with Golurk and Vileplume, and it also provides great coverage alongside its STAB. Finally, Stone Edge is used in the last slot as a move that can hit Bug- and Flying-types on the switch, though its accuracy is a bit off-putting.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>An Adamant nature is used on this set in order for Sawk to 2HKO Alomomola and Tangela after Stealth Rock. A Jolly nature can be used to tie with opposing Pokemon with base 85 Speed and outspeed all slower ones, though the 2HKO on Alomomola and Tangela is much more important. Mold Breaker is by far the best ability on the set, as it allows Sawk to bypass abilities such as Sturdy and Levitate, which would otherwise give this set problems. In particular, Sawk can OHKO common Stealth Rock leads, such as Probopass and Golem, keeping entry hazards off your side of the field.</p>
+
+<p>When considering partners for this set, the first thing to consider is entry hazards of your own. Metang and Regirock can switch into Psychic- and Flying-type attacks directed at Sawk and set up Stealth Rock. Spikes support is also helpful, making Scolipede a good partner, although you should watch out for shared Psychic- and Flying-type weaknesses. Because this set struggles against Ghost- and Psychic-types, Skuntank makes a good partner due to its ability to trap and kill those Pokemon. Ultimately, anything that appreciates physical walls taken out plays well with Sawk. Late-game cleaners in particular, such as Carracosta and Swellow, both work well with Sawk for this reason.</p>
+
+[SET]
+name: Choice Scarf
+move 1: Close Combat
+move 2: Ice Punch
+move 3: Stone Edge
+move 4: Toxic / Earthquake / Knock Off
+item: Choice Scarf
+ability: Sturdy
+nature: Adamant
+evs: 4 HP / 252 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Though not as strong as the Choice Band set, Sawk can still run an effective Choice Scarf set. Although many common Choice Scarf users in the tier sport a higher base Speed, none of them can hit as hard as Sawk. With a Choice Scarf equipped, Sawk can serve as a revenge killer and a late game cleaner. Once again, Close Combat is chosen as Sawk's STAB of choice because of its high Base Power. Ice Punch is used for its coverage and reliability once more, as it hits Golurk and Vileplume harder than the other moves of this set. Stone Edge hits Flying- and Bug-types that resist Close Combat, while also hitting Ghost-types outside of Golurk for greater damage. The last slot is open to your choice, although Toxic is typically the best option here. While it is not the best move to lock Sawk into, it can cripple switch-ins that would brush off the rest of the set, while also potentially fooling your opponent into thinking Sawk is not Choice-locked. Earthquake can be used instead to hit Poison-types, such as Garbodor, but it's a much more dangerous move to lock into without Mold Breaker since two of the most common switches into Sawk, Weezing and Misdreavus, have Levitate. Finally, Knock Off can bother common switch-ins such as Misdreavus, Tangela, and Alomomola, either through decreasing the bulk of Tangela and Misdreavus by removing Eviolite, or ridding Alomomola of passive recovery from Leftovers.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>This set runs an Adamant nature in lieu of a Jolly nature, as the only Pokemon that are outsped with a Jolly nature are +2 Modest Gorebyss and Choice Scarf users with base 80 Speed or above. Since all of these Pokemon are rare enough in the metagame, the extra power is preferred over the extra Speed in order to help Sawk clean up later in the game. However, a Jolly nature can still be used if you feel as though outspeeding these Pokemon is worth the loss in power. Sturdy is the chosen ability on this set, as it allows Sawk a fail-safe against faster foes.</p>
+
+<p>For this reason, anti-leads such as Misdreavus and Serperior, both of which can beat common Stealth Rock leads with Taunt and either Will-O-Wisp or a strong STAB move, are appreciated to keep entry hazards off the field and keep Sawk's Sturdy intact. Armaldo can use Rapid Spin to remove entry hazards from your side of the field while also carrying STAB X-Scissor to help beat Psychic-types that threaten Sawk. The only problem with Armaldo is that, much like Sawk, it struggles to beat Ghost-types that can block its Rapid Spin. Skuntank can be used to remedy this problem, as it can trap and beat many of the Ghost- and Psychic-types in the tier. Since this set aims to clean up the opponent's team later in the game, it appreciates partners that can wear down the opponent's team and break down the Pokemon that wall it. For the former, Pokemon that can set entry hazards, such as Scolipede and Golem, are appreciated, while Eelektross and Taunt Serperior can beat many common walls in the tier.</p>
+
+[Other Options]
+
+<p>The above sets do the best job of utilizing Sawk's potential, but it does have some other options at its disposal. First off, Reversal can be used in the last slot on the Choice Scarf set; if Sawk is brought down to 1 HP due to Sturdy, it has a 200 Base Power STAB it can use to clean up the opposing team. A dedicated set with Reversal, Endure, and a Salac Berry can also be used, but it is unreliable due to its inability to beat Ghost-types and common priority users. A Fist Plate set with Fling can be used to bluff a Choice set and lure in common checks and counters, but once it uses Fling, it loses out on its item for the rest of the match. Additionally, Sawk can try out a Life Orb set with Pain Split, but it generally prefers to keep attacking rather than trying to recover its HP. Fire Punch and Thunder Punch are options to consider, though they don't add much in terms of coverage that the sets listed don't already provide. Sawk can also try an anti-lead set with Taunt, but Mold Breaker on the Choice Band set usually performs well enough when trying to prevent hazards from being set. Bulk Up is an option, but Sawk usually prefers the immediate power that the Choice Band set provides and Gurdurr usually performs this role better thanks to its priority and greater bulk. Finally, Counter can be used alongside Sturdy, but Sawk hits hard enough as it is.</p>
+
+[Checks and Counters]
+
+<p>Sawk is generally difficult to counter because of its sheer power, but there are a few Pokemon that handle it well enough. Misdreavus can switch into the majority of its sets; a Choice Band-boosted Earthquake is a 3HKO at best, and Misdreavus can retaliate with Will-O-Wisp. Musharna can also take any hit that Sawk has to dish out and recover the damage with Moonlight. As most Sawk are holding Choice items, knowing what move it is going to lock itself into is a great way to defeat it. Protect users are fairly reliable at this, because they are able to see what move Sawk uses and react accordingly. Pokemon with Regenerator, such as Tangela and Alomomola, can also switch into Sawk to scout, then switch into an appropriate check based on whichever move it is using. Scolipede and Garbodor can both switch into a Close Combat and set up Spikes against Sawk, but the former must watch out for Stone Edge while the latter must watch out for Earthquake. Similarly, Weezing only fears Earthquake and can burn Sawk with Will-O-Wisp. Golbat takes little damage from Close Combat and no damage from Earthquake, and it can OHKO Sawk with Brave Bird. Offensively, strong priority moves, such as Fake Out from Kangaskhan or Mach Punch from Gurdurr, can deal a sizable amount of damage to Sawk, but it does have some bulk behind it--a simple Bullet Punch from Metang won't take it out alone. Finally, Swellow and Jynx can both KO Sawk easily, though Swellow cannot outspeed Choice Scarf sets, and neither of them can switch directly into Sawk.</p>

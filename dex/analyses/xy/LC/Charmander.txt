@@ -1,0 +1,51 @@
+Overview
+########
+
+In Pokemon X and Y, Charmander takes the lead as the cutest Fire-type in the metagame. Not only is it cute, it also boasts prodigious Speed and reasonably good offensive abilities. It has access to Solar Power, which boosts its STAB Fire Blast to one of the strongest attacks in the tier. Despite these virtues, Charmander is heavily outclassed by other Fire-types in the tier. It suffers from weakness to Stealth Rock and is vulnerable to most forms of priority. Charmander's high Special Attack stat also goes a bit to waste due to Charmander's limited pool of special attacking moves. But even with these weaknesses, Charmander can still be a dangerous threat if used correctly.
+
+Choice Scarf
+########
+name: Choice Scarf
+move 1: Fire Blast
+move 2: Hidden Power Grass / Overheat
+move 3: Ancient Power / Flamethrower
+move 4: Dragon Pulse / Flamethrower
+ability: Solar Power
+item: Choice Scarf / Life Orb
+evs: 44 HP / 12 Def / 200 SpA / 236 Spe
+nature: Modest / Timid
+
+Moves
+========
+Fire Blast, when boosted by Sunny Day and Solar Power, destroys everything except the bulkiest of resistant Pokemon and Flash Fire users. The vast majority of the time, this is the move Charmander will want to use. Hidden Power Grass can be used to guarantee the KO on defensive Tirtouga and Eviolite Omanyte, as well as smacking Chinchou, Wooper, and Onix, all of which would otherwise entirely wall it. Overheat is used to deal more damage than Flamethrower and Fire Blast, but only by crippling Charmander in the process. Ancient Power hits Flash Fire Houndour and Ponyta, as well as some other Pokemon that resist Fire Blast. Ancient Power also hits Archen, which is a serious threat to Charmander. Dragon Pulse hits Dragon-types such as Axew and Dratini. Flamethrower can be used for accuracy when Fire Blast's greater power is unneeded.
+
+Set Details
+========
+
+The added power of a Modest nature is helpful for powering through bulkier Pokemon. With Modest, Charmander reaches an impressive 24 Speed, enough to outspeed every unboosted Pokemon in Little Cup. With Timid, Charmander reaches 25 Speed, enough to outspeed Tirtouga after a Shell Smash, Adamant Carvanha after one Speed boost, and Speed tie Choice Scarf Mienfoo, Pawniard, and Chinchou, although the latter three will KO Charmander if it loses the Speed tie. However, the power loss is quite noticeable. Life Orb can be used instead of Choice Scarf to bolster Charmander's power. The Special Attack and Speed EVs are used to hit hard and fast, while the rest should be focused on physical Defense in order to take priority better.
+
+Usage Tips
+========
+
+Use Charmander only when the sun is up, as otherwise it won't have the power to OHKO much of anything. Try to bring in Charmander safely with a slow VoltTurn user or after a teammate is KOed; it needs all the health it can get, considering its Stealth Rock weakness and Solar Power recoil.
+
+Team Options
+========
+
+Heat Rock Vulpix is almost mandatory to provide sun to boost Charmander's Fire Blasts. It can also lure guaranteed switch-ins to Fire-types and hit them with Energy Ball, Will-O-Wisp, or Hypnosis. Chlorophyll sweepers synergize well with Charmander, as they benefit from sun themselves and can use Sleep Powder on special walls and remove the Rock-, Ground-, and Water-types that threaten Charmander, while Charmander blasts away Steel- and Grass-types. Charmander appreciates both Stealth Rock setters to guarantee OHKOs and Rapid Spinners or Defog users to remove the opponent's entry hazards that plague Charmander. Secondary sun setters are helpful in case Vulpix goes down. Cottonee is particularly useful, as it can switch in on Ground- and Water-type moves and use a Prankster Sunny Day to set up quickly, has Stun Spore to cripple faster revenge killers, and can use Memento to give Charmander a free switch-in.
+
+Other Options
+########
+
+Charmander has access to a godly physical movepool, including Dragon Dance, Belly Drum, and Swords Dance. As a result, a physical set is not out of the question. Brick Break can be used on a mixed Dragon Dance set to KO Munchlax while still hitting Tirtouga and Tyrunt, but Charmander needs maximum Attack investment and a Life Orb to always OHKO Berry Juice Munchlax after Stealth Rock with a +1 Brick Break, which leaves no room for Special Attack investment. Substitute can be run to block priority moves and faster revenge killers, but the accumulated damage from Life Orb, Solar Power, and Substitute makes Charmander too fragile. Focus Punch can be run alongside Substitute, requiring only 20 EVs and a Life Orb to OHKO Berry Juice Munchlax. Will-O-Wisp can be used to surprise priority users, especially Sucker Punch users like Pawniard, but it can leave holes in coverage. Air Cutter, Hidden Power Fighting, and Hidden Power Ground are other coverage options. However, these moves are weaker when super effective than a resisted Fire Blast in the sun, so they're generally inferior options.
+
+Checks & Counters
+########
+
+**Entry Hazards**: Stealth Rock limits the amount of switch-ins, and thus sweeping time, that Charmander has.
+
+**Tanks**: Munchlax can eat anything except a Focus Punch and OHKO Charmander back with Earthquake. RestTalk Chinchou and other bulky Water / Rock-types such as Shellos, Archen, Omanyte, and Tirtouga can take Fire Blasts and hit back with Scald or Rock Slide, but they all get 2HKOed by a Life Orb Fire Blast (and, without Eviolite, Chinchou and Archen get OHKOed by it). Specially defensive Hippopotas can take two Fire Blasts after the sun is replaced by sandstorm and can OHKO back with Earthquake, but it is almost always 2HKOed by a Life Orb Fire Blast.
+
+**Flash Fire Pokemon**: Ponyta and Houndour can switch in on Fire Blast for free and threaten Charmander with Wild Charge or Sucker Punch, but they are both OHKOed by a Solar Power Life Orb-boosted Ancient Power.
+
+**Strong Priority Users**: Pawniard and Bunnelby can easily revenge kill Charmander, especially after Stealth Rock and Solar Power recoil.

@@ -1,0 +1,59 @@
+[Overview]
+
+<p>In the RU tier, Charizard is usually considered to be outclassed by a plethora of other powerful Fire-types, most notably Moltres by virtue of their shared secondary typing. However, Charizard has a few tricks up its sleeve that can make it worth using over its Fire-type brethren. First of all, it has a rather expansive movepool by RU standards, with a wide selection physical and special attacks as well as several boosting moves, the most notable of which is Swords Dance. This last move, when combined with Acrobatics, allows it to function as a physical setup sweeper, which is a role that none of its competitors can fill efficiently. Second, it has usable stats with which to take advantage of said movepool, including a fairly high Special Attack stat and a 100 base Speed stat, which allows it to Speed tie with Timid Typhlosion and Entei, the fastest Fire-types in RU. Third, its hidden ability, Solar Power, raises its Special Attack to unparalleled heights under the sun, making special sets very difficult to wall. That said, it's clear that Charizard has to capitalize on these singular traits if it doesn't want to be outclassed in RU, but even then, unfortunately, it requires a lot of team support to alleviate its shortcomings. In fact, its easily exploitable weaknesses and the prominence of faster threats make it prone to being revenge killed; moreover, Charizard has a terrible 4x weakness to Stealth Rock, which makes Rapid Spin support absolutely necessary. </p>
+
+[SET]
+name: Swords Dance
+move 1: Swords Dance
+move 2: Acrobatics
+move 3: Earthquake
+move 4: Fire Punch / Flare Blitz / Roost
+item: Flying Gem
+ability: Blaze
+nature: Jolly
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>Despite its low base Attack stat, Charizard can pull off an effective Swords Dance set. Charizard is threatening enough to force switches and this grants it plenty of opportunities to grab a boost; once it is at +2, the Pokemon that would wall special sets, such as Slowking and Druddigon, are easily OHKOed by a Flying Gem-boosted Acrobatics. Earthquake is Charizard's best move alongside Acrobatics, as it hits most of the Pokemon that resist Flying for a hefty amount of damage, leaving just a few threats uncovered. A Fire-type STAB move in the fourth slot rounds out the coverage and hits Steelix, Ferroseed, and Rotom harder; Fire Punch is slashed before Flare Blitz due to the absence of recoil. Roost is a viable alternative if you don't feel the need for the added coverage; in this case, though, its ability, Blaze, goes from being situational to being almost completely useless.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The nature can be changed from Jolly to Naive if you opt for Fire Blast in the fourth slot. Despite this being a physical set, this move is still its safest option to take out Steelix, Ferroseed and Tangrowth, as it can be done even without boosts and without consuming its vital Flying Gem.</p>
+
+<p>Rapid Spin users, the best being Kabutops and Cryogonal, are obvious choices as teammates. Charizard also has decent synergy with them, seeing that it can take on Grass-types for Kabutops and Fighting-types for Cryogonal. Choice Scarf users and priority users must be eliminated beforehand for Charizard to have a chance to actually sweep. On more defensive teams, you may need a partner to deal with Charizard's weaknesses; Ground-types, especially Torterra and Seismitoad, who are also neutral and immune to Water-type attacks, respectively, can cover Rock- and Electric-type attacks, and in particular deter the opponent from spamming fast Volt Switches against Charizard. Defensive variants of Torterra and Cryogonal, when paired together, can counter most of the revenge killers that threaten Charizard, while at the same time offering the invaluable Rapid Spin support.</p>
+
+<p>Rock-types are natural counters to this set, as they can switch into most of its attacks and proceed to threaten it with their STAB moves. As a result, Water-types are also excellent partners; Slowking and Seismitoad are the only two that are not only capable of switching into their attacks and pressuring them, but also continue to offer good offensive and defensive synergy with Charizard. More specifically, Aqua Jet users, such as Feraligatr, Kabutops, and Samurott, are immediately threatening to Rhydon and Regirock (especially Samurott with its mixed set), but they can't switch more than once into powerful Rock-type attacks, making them shakier checks to Aerodactyl and Archeops. In addition, these Pokemon greatly appreciate Charizard's ability to wear down certain physical walls, such as Alomomola and Tangrowth. Lastly, Pokemon that benefit from the elimination of Pokemon that resist Fire-type attacks, such as Entei, are also good partners.</p>
+
+[SET]
+name: Solar Power
+move 1: Sunny Day
+move 2: Fire Blast
+move 3: Solar Beam
+move 4: Roost / Air Slash
+item: Flame Plate / Leftovers
+ability: Solar Power
+nature: Timid
+evs: 4 Def / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>This set revolves around setting up sun and capitalizing on the subsequent Special Attack boost, granted by Solar Power, to turn Charizard into a fearsome wallbreaker. When sun is up, in fact, its Fire Blast OHKOes literally everything bar the bulkiest Pokemon that resist it, with just a bit of entry hazard support. SolarBeam is its best choice for the third slot in order to beat Water-types, as it easily 2HKOes defensive variants of Slowking and Lanturn. Actually, given the insane damage output of a sun-boosted Fire Blast, SolarBeam is the only coverage move you will need in most situations. This is also the reason why Charizard can forgo a damaging move in the fourth slot, thus favoring Roost over Air Slash. Roost gives it the ability to heal off Solar Power damage, especially against Pokemon with a below-average offensive presence, possibly allowing Charizard to set up sun more than once during the match. On the other hand, Air Slash certainly is a good coverage option for those situations in which Charizard can't set up sun (without this move, in neutral weather this basically is a mono-attacking set); however, when the sun is up, Fire Blast is almost always the best choice, as there's nothing significant that Air Slash accomplishes and Fire Blast doesn't.
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread is the classic for special sweepers, and dropping Speed EVs for bulk doesn't accomplish anything worthy of note. A Timid nature is the only one you should choose, in order to make the best use of Charizard's solid Speed. As far as items go, Leftovers enhances Charizard's durability, but Flame Plate gives a little boost to its most important move, which is greatly needed the achieve some crucial OHKOs, especially on Fire-types, such as Entei and Emboar, and against bulky Pokemon like Clefable and Uxie. Life Orb is an option to secure the OHKOs on Lanturn and Slowking (the latter only after Stealth Rock), while generally increasing the damage output of its other moves, but it severely limits Charizard's staying power; equipping Charizard with a Grass Gem, on the other hand, makes it even more efficient in eliminating bulky Water-types, but with the obvious downside of having a one-use item which doesn't boost its most powerful move. An interesting support move for the fourth slot is Tailwind, which can be useful when Charizard just needs a Speed boost to clean a weakened team, and gives Charizard another decent way to support its teammates.</p>
+
+<p>This Charizard set obviously needs Rapid Spin support, which can be provided by Kabutops or Cryogonal, and benefits from having teammates that deal with its weaknesses; Ground-types are a good fit for this role. In addition, Chlorophyll users are valuable partners on more offensively oriented teams, as they resist the Water- and Electric-type moves that trouble Charizard and become fast revenge killers in the sun, using the remaining turns for a late-game sweep; Heat Rock can be the item of choice in this case. Lilligant and Sawsbuck are ideal because of their ability to function even outside of sun, unlike other sun sweepers such as Shiftry and Victreebel.</p>
+
+[Other Options]
+
+<p>Every specially attacking set not employing Solar Power would be completely outclassed by Moltres, which has better bulk and higher Special Attack. The sheer wallbreaking power of a Choice Specs set in the sun may look appealing, but generally Moltres outclasses Charizard when it comes to Choiced sets, as the former is less reliant on team support to function and has access to Hurricane and U-turn. It must be noted, though, that Choice Specs Charizard has an insane amount of power, and can actually 2HKO a fully invested Slowking with a sun- and Solar Power-boosted Fire Blast. Physical boosting sets with Belly Drum or Dragon Dance are either too frail or too weak to perform adequately, and these boosting moves are illegal with Acrobatics, arguably its best physical move.</p>
+
+<p>Notable other moves in Charizard's arsenal are Dragon Pulse and Will-O-Wisp. The former has perfect neutral coverage in RU alongside Fire Blast, but the threats that you need to cover are hit harder by SolarBeam, while the latter sees better use on a Pokemon that actually has the bulk to play a supporting role.</p>
+
+[Checks and Counters]
+
+<p>The best way to check all of Charizard's sets is to keep Stealth Rock on the field, as it saps half of its health every time it switches in. Also, Choice Scarf users and priority users (barring Mach Punch users), will, in most cases, put an end to its sweep. Given that Charizard lacks a reliable way to boost its Speed, basically every Pokemon in RU with more than 100 base Speed, barring Scyther and Cryogonal, can outspeed and OHKO it. Aerodactyl needs special attention, because it can also switch into Charizard in neutral weather.</p>
+
+<p>Druddigon stands out from the crowd as one of the best and most viable answers to the Solar Power set; it can easily come in while Charizard sets up sun, without fear of its unboosted attacks, and force it to switch out with the threat of a powerful Dragon-type STAB move. It must be noted, though, that Druddigon can be easily worn down during the match and that it must be at almost full health to successfully counter Charizard, seeing that a sun-boosted Fire Blast will put a huge dent in it. The specially defensive variant takes hits a little better and can employ a RestTalk strategy to remain sufficiently healthy to stop it, all while threatening to cripple Charizard with Glare or to phaze it away with Dragon Tail. Flareon and Altaria, even though they are NU, can wall this set, especially if it lacks Air Slash. More defensive teams can deal with the Solar Power set by stalling out sun turns, using either smart switching or Protect. Even after a boost, the Swords Dance set is walled by Quagsire, thanks to Unaware, and Regirock, thanks to its massive physical bulk. The latter doesn't have reliable recovery, but can easily tank a hit and retaliate with a super effective Rock-type STAB move. Furthermore, if Charizard is not running Flare Blitz, Steelix cannot be 2HKOed, and Eelektross and defensive versions of Rotom can take a hit and OHKO back.</p>

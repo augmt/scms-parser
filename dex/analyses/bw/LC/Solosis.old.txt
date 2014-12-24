@@ -1,0 +1,31 @@
+[Overview]
+
+<p>Solosis is one odd Pokemon. It's tied with Abra for being the strongest special attacker in the tier, boasting a base 105 Special Attack. Its ability, Magic Guard, prevents residual damage, whether is it from weather, entry hazards, or Life Orb. It has a really low base 20 Speed, which can be used to its advantage with Trick Room. However, the little blob does have some cons: it has abysmal defenses with Life Orb, making it very hard for it to set up Trick Room. It also boasts a terrible defensive typing, being weak to some of the most common attacking types in Ghost, Dark and Bug, and is weak to the most common priority move in the tier: Sucker Punch. Overall, Solosis is a good Pokemon that can prove useful if you provide it the right team support.</p>
+
+[SET]
+name: Trick Room
+move 1: Trick Room
+move 2: Psychic
+move 3: Hidden Power Fighting
+move 4: Thunder / Shadow Ball
+item: Life Orb
+ability: Magic Guard
+nature: Quiet
+evs: 236 HP / 240 SpA
+ivs: 30 Def / 30 SpA / 30 SpD / 2 Spe
+
+[SET COMMENTS]
+
+<p>Solosis boasts a very high Special Attack, and it can make good use of its power with a Trick Room set. Solosis can easily take a hit from Timburr, Staryu, or Croagunk while being able to set up Trick Room; it can then use its powerful Life Orb-boosted attacks to clean the opposing team without taking recoil damage thanks to Magic Guard. Psychic is a reliable STAB, allowing Solosis to hit most Pokemon in the tier for a 2HKO, if not outright OHKOing them. Hidden Power Fighting hits most Steel-types for good damage, 2HKOing most of them, along with hitting Scraggy for decent damage. Thunder is the best option for the fourth moveslot, as despite its terrible accuracy, it allows Solosis to hit a few key threats, namely Murkrow, Frillish, and Vullaby, OHKOing them after Stealth Rock damage. Shadow Ball is a good alternative, hitting Misdreavus harder than any other move, but it's not OHKOing it anytime soon.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EV spread allows Solosis to maximize its bulk and Special Attack; a Quiet nature is used to lower its Speed and increase its Special Attack, allowing it to move before most Pokemon under Trick Room. Solosis needs priority users to be KOed before attempting to sweep; Magnemite is a good partner, eliminating Snover, Murkrow, Shellder, and Tirtouga in a pinch. Magnemite can also trap Steel-types that aren't weak to Hidden Power Fighting, such as Bronzor; it's also really useful because it lures in Pokemon such as Timburr and Croagunk for Solosis to set up against. Porygon is a viable partner too, luring in Fighting-types and paralyzing Murkrow while tanking hits from it. Hazard setters, such as Drilbur and Dwebble, are excellent partners for Solosis, as Stealth Rock helps Solosis get a few important OHKOs, including KOs against Frillish and Vullaby. </p>
+
+[Other Options]
+
+<p>Solosis' movepool is quite shallow, but it has a few other options to use. Psyshock is a viable move on the Trick Room set, allowing it to beat specially defensive Pokemon such as Munchlax that don't take much from any of its moves. It's a weaker alternative than Psychic, though. A gimmicky Calm Mind set with Calm Mind/Acid Armor/Recover/Psychic and maximum investment in HP and Defense can be used as a late-game sweeper, but it's easily beaten by Misdreavus before it gets a chance to set up Calm Mind. The set can also use Flash Cannon or Hidden Power Dragon if you're afraid of Dark-types, but you lose a lot of power. An Endeavor set can possibly work, thanks to Magic Guard, but the sheer number of priority moves and recovery in LC makes it unviable.</p>
+
+[Checks and Counters]
+
+<p>It should be noted before considering any check or counter that Solosis can't be worn down by residual damage, thanks to its ability. Murkrow and Pawniard are the main counters to Solosis, as they wield a powerful priority Sucker Punch to hit Solosis for an OHKO before it even moves. However, they're both OHKOed by Thunder and Hidden Power Fighting, respectively. Ironically enough, Mienfoo can threaten Solosis outside of Trick Room with U-turn and stall Trick Room turns with Fake Out. Priority users are the bane of Solosis, as they bypass Trick Room and hit it through its frail defenses. Basically, anything that can tank a Life Orb-boosted Psychic can KO Solosis at the end of the turn, such as Porygon, Eviolite Offensive Chinchou, and Larvesta. Lileep under sandstorm can easily wall Solosis and slowly whittle it down with Giga Drain. Munchlax gets a special mention for being one of the few things that can outslow Solosis in Trick Room, tank any of its hits easily thanks to its high HP and Special Defense stats, and easily OHKO it with Return. It can be heavily damaged if it gets hit on the switch by Psyshock, though.</p>

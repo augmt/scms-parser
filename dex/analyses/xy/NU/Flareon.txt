@@ -1,0 +1,73 @@
+Overview
+########
+Flareon is a great, well-rounded Pokemon with high Attack and Special Defense and a unique movepool that allow it to function both offensively and defensively. With its massive attack and powerful STAB, Flareon can easily break through defensive teams. With Flash Fire, Flareon can also function as a solid check to the common Fire-types, whether running an offensive or defensive set. However, Flareon is limited as an offensive Pokemon by its poor base 65 Speed. It also lacks coverage options outside of Superpower. As a defensive Pokemon, Flareon is hindered by its poor physical bulk, weakness to Stealth Rock, and susceptibility to every type of hazard. Flareon's biggest weakness is its inability to handle Water-types, which are incredibly common in the tier. It struggles to break through defensive Water-types such as Seismitoad, while offensive Water-types such as Feraligatr can quickly tear Flareon apart.
+
+Offensive
+########
+name: Offensive
+move 1: Flare Blitz
+move 2: Superpower
+move 3: Quick Attack
+move 4: Sleep Talk / Baton Pass
+ability: Flash Fire
+item: Choice Band / Charcoal
+evs: 252 Atk / 4 SpD / 252 Spe
+nature: Adamant
+
+Moves
+========
+Flare Blitz is a powerful STAB move that hits anything that doesn't resist Fire extremely hard. Superpower can break through Rock-types, as well as deal neutral damage to Fire-, Water-, and Dragon-types, all of which resist Flare Blitz. Quick Attack is used to mitigate Flareon's poor Speed, which means it can snipe Pokemon on their last bit of health. Sleep Talk can be used so that Flareon can absorb the sleep status for its team and continue fighting. Alternatively, Baton Pass allows Flareon to switch out of its counters and into its teammates. This makes up for Flareon's tendency to lose momentum and allows you to counter the opponent's switch.
+
+Set Details
+========
+Max Attack and Speed investment allow Flareon to be more offensively threatening. Flash Fire allows Flareon to switch in on Fire-types, such as Magmortar and Typhlosion and gain a boost of power rather than taking damage. Choice Band can be used for the increased damage on every move, but at the cost of being locked into that one move. On the other hand, Charcoal only increases the damage of Flare Blitz and doesn't increase damage output as much as Choice Band, but it doesn't require that Flareon lock itself into a move. In addition, most of the time Flare Blitz is the best move to use anyway, so it's not a problem for it to be the only boosted move.
+
+Usage Tips
+========
+Flare Blitz is most often Flareon's best option, unless the opponent resists it. Quick Attack should be used sparingly, as being Choice-locked into such a weak attack loses momentum and gives the opponent a free turn. Due to the stat drops caused by Superpower, it should only really be used to hit Rock-types. If you're using Sleep Talk, know which Pokemon are going to use sleep moves so that you know when to switch in. For example, Vivillon often carries Sleep Powder, and Jynx usually uses Lovely Kiss.
+
+Team Options
+========
+Seismitoad is useful for absorbing Water-type attacks, thereby negating one of Flareon's key weaknesses. Offensive Flareon is a wallbreaker, an attribute which is appreciated by many Pokemon, such as Rotom or Typhlosion, who have the potential to sweep once some walls are removed or broken. Flareon does a great job switching into Pokemon that love to spam their Fire-type STAB attacks, such as Typhlosion and Magmortar, so Pokemon such as Lilligant and Tangela that fear Fire-type attacks appreciate Flareon as a teammate. In addition, a Rapid Spin or Defog user that can keep entry hazards off of your side of the field makes for a good teammate. Cryogonal, in particular, pairs well with Flareon, as it can use Rapid Spin and appreciates the Flash Fire protection. Xatu is another great partner, as it provides Magic Bounce support to keep Stealth Rock off the field and has Grass Knot to hit the Water- and Rock-types that Flareon might struggle to KO. Sticky Web support from Pokemon such as Kricketune and Ariados allows Flareon to be more of a threat to offensive teams and mitigates its poor Speed.
+
+Specially Defensive
+########
+name: Specially Defensive
+move 1: Wish
+move 2: Protect
+move 3: Roar / Will-O-Wisp
+move 4: Lava Plume / Flare Blitz
+ability: Flash Fire
+item: Leftovers
+evs: 248 HP / 8 Def / 252 SpD
+nature: Calm / Careful
+
+Moves
+========
+Wish allows a Pokemon to be healed the next turn. This gives Flareon the option of healing itself or another Pokemon. Protect is necessary so that Wish can heal Flareon reliably. Roar is advised in the third slot so that setup sweepers can't easily set up on Flareon, but Will-O-Wisp is also useful in order to cripple physical attackers, as Flareon has little investment in Defense and is easily taken down by physical attackers without the burn. Lava Plume is a STAB attack with a 30% chance to burn the opposing Pokemon, so it is helpful if not running Will-O-Wisp. Flare Blitz is a different STAB attack that could be used over Lava Plume, particularly if running Will-O-Wisp. It is much stronger than Lava Plume and allows Flareon to threaten the opposing team without burning things. However, Flare Blitz deals recoil damage, which is bad on a defensive set that requires constant switching. As an alternative, Heal Bell can be used instead of Roar or Will-O-Wisp in the third slot as it removes all status afflictions from any Pokemon on Flareon's team, but you're generally better off using Heal Bell on aother Pokemon because Flareon's four moves are all very important.
+
+Set Details
+========
+Maximum Special Defense allows Flareon to wall many dangerous special attackers in the tier, such as Mesprit and Mismagius. 248 HP EVs pumps up Flareon's bulk as well, but also helps Flareon better switch into entry hazards, as it takes less damage from Stealth Rock. Use a Calm nature with Lava Plume and a Careful nature with Flare Blitz. Flash Fire helps Flareon deal with Fire-type attackers; Typhlosion, for example, has serious trouble getting around Flareon. Leftovers allows Flareon to better deal with having to constantly switch into attacks for other Pokemon.
+
+Usage Tips
+========
+By using Wish + Protect, Flareon can heal itself; by using Wish and then switching out, it can heal a teammate. Avoid powerful physical hits, regardless of whether its user has been burned. Also, avoid burning Pokemon that could potentially be carrying Guts, as Gurdurr and Hariyama with that ability will appreciate the burn. This set fits best on stall teams that appreciate the support that Flareon provides, but it also works well on balanced teams in need of a dedicated Fire-type check.
+
+Team Options
+========
+This set's most notable feature is its ability to switch into Fire-type attacks that almost no other Pokemon can. It goes well with Pokemon that are really weak to dedicated Fire-type attackers such as Ferroseed and Tangela. Physical walls go well with with Flareon to help form a defensive core; for example, Seismitoad can wall many physical attackers and offers resistances to Water- and Rock-type attacks while also taking on many Ground-types. Flareon also appreciates Defog and Rapid Spin support. Sandslash can take on Rock-type attacks and keeps hazards off the field with Rapid Spin, while Pelipper, Togetic, and Vullaby have great physical bulk and access to Defog.
+
+Other Options
+########
+Flareon is capable of functioning as a Toxic Orb Guts sweeper, but it is outclassed in this role by Zangoose. Return is a physical attack that doesn't have negative side-effects like Flare Blitz and Superpower do, but it doesn't offer any exceptional coverage. Bite offers coverage against Ghost-types, but the only ones that don't mind taking a Flare Blitz, Lampent and Frillish, are pretty uncommon and don't warrant an entire moveslot to cover. Toxic can work on the specially defensive set to help it stall out other walls, but all of the moves that it already struggles to fit on there are often more useful. Yawn can be used to force switches, providing Flareon with the opportunity to safely use Wish or get a free attack. Hidden Power Grass can be used to hit Seismitoad and Rhydon as well as some other common Water-types, but it lacks the power to be worth the moveslot.
+
+Checks & Counters
+########
+**Water-types**: Feraligatr and Samurott easily OHKO Flareon with their STAB attacks. Qwilfish easily walls Flareon and is able to outspeed and Taunt the defensive set. Seismitoad and Pelipper are capable of easily taking a Flare Blitz and can deal a good amount of damage in return.
+
+**Physical Attackers**: Sawk, Tauros, Archeops, and Golem all OHKO Flareon with their powerful STAB moves. However, Golem must be wary, as even with max Speed investment, offensive Flareon outspeeds it. Gurdurr and Hariyama can take a Will-O-Wisp and hit harder, thanks to Guts, so that Gurdurr can 2HKO with a Guts Drain Punch + Mach Punch and Hariyama can OHKO with a Guts Close Combat.
+
+**Entry Hazards**: As a Pokemon that either takes a lot of recoil or has to constantly switch in and out to be effective, Flareon especially hates entry hazards. Stealth Rock removes a quarter of its health, and damage from Spikes and Toxic Spikes quickly adds up.
+
+**Lampent**: Lampent gets a special mentions for being immune to every common attack that Flareon carries. Lampent is also immune to Will-O-Wisp, though it can't break through defensive sets without Calm Mind.

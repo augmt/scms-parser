@@ -1,0 +1,57 @@
+[Overview]
+
+<p>Sand Rush is Stoutland's ace in the hole. With sandstorm granting it a Speed stat well above the likes of even Accelgor, its base 100 Attack suddenly changes from 'average' to 'acceptable,' and turns the great terrier into a catch-all check for most offensive playstyles. Its only real downfall is its vulnerability to defensive Rock- and Steel-types, since it lacks any viable way to get past them on its own. Overcoming these obstacles requires sufficient team support and the well-timed use of Pursuit to make sure its intended target does not get off scot-free.</p>
+
+[SET]
+name: Physical Attacker
+move 1: Return
+move 2: Crunch
+move 3: Fire Fang / Wild Charge
+move 4: Pursuit
+item: Choice Band / Life Orb
+ability: Sand Rush
+nature: Adamant
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>Stoutland 101: come in on something with relatively low offense or defenses, hit it with your STAB, or Pursuit it as it attempts to switch out to a resist. Crunch dents most bulky Ghost-types that might want to come in on Return, or stay in and attempt to burn while Pursuit fails to KO, whereas Fire Fang gives it a chance to beat Steel-type targets such as Cobalion, Durant, and Escavalier. Wild Charge is slightly stronger against bulky Water-type Pokemon than Return, and can also hit Steel-types for neutral damage. Its most attractive perk, however, is the ability to take out three dangerous Pokemon that resist Stoutland's STAB: Emploeon, Kabutops, and Omastar. Though the latter two are less common, each of the three are more than capable of destroying teams with one turn of set up and are not to be taken lightly. If one is confident in their team's ability to handle Steel-types, then Wild Charge is well worth consideration.</p>
+
+<p>As far as a main STAB goes, Return is the most reliable option Stoutland has access to, and it sports just enough power to puncture walls such as Milotic. With Stoutland's considerable bulk and lack of residual damage from the sandstorm to threaten it, it can very easily wear down some of the tier's most defensive threats by simply battering away while they fumble to recover or get a hit in.</p>
+
+<p>The key advantage in using this set lies within the immediate power and Speed that allows it to check virtually any offensive Pokemon, including ones that commonly carry a Choice Scarf. Take Flygon, for instance--even with its respectable base 80 / 80 / 80 defenses, Stoutland still has a good chance of KOing it with Return after Stealth Rock damage, and being locked into Outrage means certain death for Flygon. The list of Pokemon that can be revenge killed by Stoutland stretches out into the horizon, making it one of the most effective Pokemon to overtake the role of 'revenge killer' in UU.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Any team in which an offensive Stoutland is present requires Hippopotas, since its Sand Stream summons the field effect necessary for Sand Rush to activate. Also, a way to remove the previously mentioned Steel-types would be prudent, and can be achieved through support from trappers such as Magneton. Toxic Spikes can also be a great strategy for removing Rhyperior or the rare Cradily, but it's a double-edged sword in that it gives Milotic a free Defense boost and ultimately makes it more difficult for Stoutland to do its job. If struggling to find room for a Toxic Spikes user, adding Toxic to its fourth moveslot in place of Pursuit would be sufficient.</p>
+
+[SET]
+name: Howl
+move 1: Howl
+move 2: Return
+move 3: Crunch
+move 4: Fire Fang / Wild Charge
+item: Life Orb / Lum Berry
+ability: Sand Rush
+nature: Adamant
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>Stoutland is a revenge killer first, and sweeper second; however, even with this principle in mind, it is still a better late-game cleanup sweeper than most Pokemon, with Sand Rush sending its Speed stat through the roof. Howl boosts Stoutland's attack by a single stage, which means that after a boost, it obtains the power of a Choice Band with the ability to switch moves--before even factoring in Life Orb.</p>
+
+<p>A boosted Return 2HKOes 252/252+ Suicune after Stealth Rock damage; even bulky Ghost-types such as Cofagrigus and Dusclops also face a 2HKO from a boosted Crunch after Stealth Rock damage, whilst they're forced to rely on the inaccurate Will-O-Wisp in an attempt to cripple it. Even Cobalion fears a boosted Fire Fang, which will do well over half its HP in damage if the opponent is not careful.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Life Orb is the main option here, amplifying its ability to sweep by allowing it to catch a few KOs it would otherwise normally miss, even when holding a Choice Band. Alternatively, Lum Berry could be used, as there are a few Pokemon that can check Stoutland by surviving a hit and crippling it with a status move. Stoutland trades a bit of power for temporary invulnerability to Will-O-Wisp, Thunder Wave, or the extra burn chance from Scald while it sets up or attacks. Of course, this also means a bit more prior damage is required before it can beat some of its more common checks, but it's a small price to pay for the additional flexibility. In this vein, Wild Charge allows Stoutland to catch up on additional KOs against bulky Water- and Flying-types it may miss without Life Orb, and make life hard for any Empoleon.</p>
+
+<p>Defensive Rock-types are still a major obstacle for Stoutland, and a great way to remove them is through the use of Spikes support. Omastar serves as a decent check to Rhyperior, and can set up in the face of Empoleon and other fellow defensive Water-types with the sandstorm boosting its Special Defense. Intimidate Qwilfish switches in handily on Technician variants of Hitmontop, and can set up on them without fear of an ensuing Rapid Spin. Most viable Spikes users can work on a team with Stoutland, and it would be mostly up to the player's preference to dictate which one is best for the team.</p>
+
+[Other Options]
+
+<p>Stoutland doesn't have much in the way of an offensive movepool, so its other options are very limited. Retaliate is the standout amongst them, which doubles to a sky-high 140 Base Power if you use it just as a team member has fainted the previous turn. It's viable, but inconsistent, since you're required to be put in a losing position in order for it to work. Ice Fang deals heavy damage to Gligar and OHKOes Torterra, but that's about the only notable coverage it offers. The only difference between Work Up and Howl are the Special Attack boost the former offers, which is useless when working off of a base stat of 45.</p>
+
+[Checks and Counters]
+
+<p>Rhyperior is the single most threatening counter to Stoutland in the tier, and should be prepared for at all costs. Omastar also cares very little for anything Stoutland does, bar Wild Charge, and can use it to either set up entry hazards or consecutive Shell Smashes. Cradily and other Rock-types with the defenses to weather its attacks fit the bill here as well. Steel-types are also great checks to Stoutland, provided it's locked into a move they resist. Defensive Hitmontop with Intimidate is good for at least one safe switch in, and can OHKO with Close Combat, but Technician variants have a slight chance to be KOed upon entry. Gligar can expect to switch in safely the majority of the time, and only has to fear the rare Ice Fang. Most Ghost-types can garner momentum against a Stoutland locked into Return, regardless of whether or not they choose to switch in.</p>

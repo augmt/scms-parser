@@ -1,0 +1,147 @@
+[Overview]
+
+<p>Victini isn't just cute; its V-create is among the most powerful attacks in the game, with only Darmanitan's Flare Blitz as competition. This makes it an excellent choice on sun teams. Its ability, Victory Star, improves the accuracy of its moves by 10%, allowing it to use its great movepool more reliably. Additionally, with Pokemon such as Technician Breloom, Scizor, Ferrothorn, and Regenerator Amoonguss making a strong showing in the OU metagame, Victini has plenty opportunities to come in and start firing off V-creates.</p>
+
+<p>However, like all Pokemon, Victini suffers from flaws. First and foremost, rain being the most popular weather slightly hurts Victini's potential. Heatran and Tyranitar both consistently sitting in the top 10 of OU usage isn't doing it any favors, as both can easily come in on Choice-locked V-creates and make Victini's life difficult. It also suffers from a vulnerability to all forms of entry hazards, limiting the number of times it can switch in. Victini also faces competition from Darmanitan, although Victini does have many advantages over it, such as better defenses, Bolt Strike, and an arguably better STAB move. Regardless, if you underestimate Victini, it will show you exactly why it is called the Victory Pokemon.</p>
+
+[SET]
+name: Physical Attacker
+move 1: V-create
+move 2: Bolt Strike
+move 3: Brick Break
+move 4: U-turn
+item: Choice Band / Life Orb
+nature: Adamant / Jolly
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>If you look up the word "power" in the dictionary, you will see a picture of Victini. An encounter with this set will show just how hard it is to switch in to V-create; V-create blasts through standard physical walls, such as Skarmory and Forretress, and even OHKOes defensive Gliscor in sun. Not even Hippowdon can switch in safely, as it is 2HKOed by V-create. However, the stat drops of Defense, Special Defense, and Speed that occur after using V-create are very easy to take advantage of, as many Pokemon will outspeed and OHKO it. Bolt Strike is used to hit bulky Water-types, OHKOing even the bulkiest of Politoed and Jellicent after Stealth Rock damage and 2HKOing Rotom-W without a Speed drop. While the unreliable 85% accuracy might make you wary of using it, remember that Victory Star boosts it to a much more reliable 93%. Brick Break is Victini's best option to hit Heatran and Tyranitar. For the last move, U-turn maintains momentum and eases prediction when using Victini.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>To demonstrate the power of V-create, here are some damage calculations against Pokemon who resist it and/or are very bulky (all calculations assume Choice Band and an Adamant Nature):</p>
+
+<ul class="damage_calculation">
+<li>V-create vs. 252/244+ Hippowdon: 62.14% - 73.09%</li>
+<li>V-create vs. 252/0 Gastrodon: 64.78% - 76.29%</li>
+<li>V-create vs. 0/0 Salamence: 73.11% - 86.1%</li>
+<li>V-create vs. 0/0 Garchomp: 58.82% - 69.46%</li>
+<li>V-create vs. 248/216+ Jellicent: 46.65% - 55.08%</li>
+<li>V-create vs. 0/0 Keldeo: 68.11% - 80.18%</li>
+<li>V-create vs. 0/0 Rotom-W: 78.51% - 92.56%</li>
+</ul>
+
+<p>The move tutors from Black 2 and White 2 gave Victini the move Trick, which gives it the ability to cripple many of the Pokemon commonly found on stall. However, Trick doesn't do much for Victini as it's already hard to wall in the first place. The EV spread maximizes Victini's power and Speed, while the last four EVs are placed into Defense so Victini can switch into Stealth Rock four times instead of three. Choice Band is the preferred item due to the lack of recoil and higher damage output compared to Life Orb, though Life Orb allows Victini to switch moves while keeping similarly high power. However, Life Orb recoil means Victini will be weakened far more quickly. Other item options include Fighting Gem and Charcoal. Fighting Gem can bluff a Choice item, as well as making Brick Break hit Heatran and Tyranitar hard. Charcoal can also be used, as it boosts V-create's damage output by 20%, and allows Victini to bluff a Choice item and avoid recoil. Sleep Talk is a decent move option as Victini performs excellently against Breloom and Amoonguss.</p>
+
+<p>The three best switch-ins to Victini are Dragonite, defensive Salamence, and Heatran. Mamoswine and Starmie are therefore excellent partners, as they can take on all three at once. Dugtrio is a fantastic partner for Victini, as it can trap and KO both Heatran and Tyranitar. Ninetales is Victini's best friend, boosting the already powerful V-create to a godlike power level; for example, Victini's Choice Band V-create 2HKOes Kingdra under sun. You could also use Victini with other weather inducers that are not named Politoed, but it works best with Ninetales. Rapid Spin users, such as Forretress and Hitmontop, are good partners to eliminate entry hazards, although Espeon and Xatu are also effective at preventing entry hazards due to Magic Bounce. Grass-types, such as Breloom, Venusaur, and Virizion, and Dragon-types, such as Dragonite, are excellent partners as well, as they help weaken and eliminate Water-types for Victini.</p> 
+
+[SET]
+name: Choice Scarf
+move 1: V-create
+move 2: Bolt Strike
+move 3: U-turn
+move 4: Trick / Brick Break / Flare Blitz
+item: Choice Scarf
+nature: Adamant / Jolly
+evs: 252 Atk / 4 Def / 252 Spe
+
+[SET COMMENTS]
+
+<p>With a Choice Scarf, Victini becomes a great revenge killer and scout. Although it may seem overshadowed by other Choice Scarf users at first glance, its access to U-turn and a powerful STAB move in V-create gives it a niche over them. Even without a boosting item, V-create is still extremely powerful, especially with Drought support. Bolt Strike allows Victini to revenge kill Tornadus-T and Gyarados in the rain, while also picking off weakened Politoed. U-turn helps maintain momentum as well as making Victini's life easier by giving it an easy way of escaping from its counters. In the last slot, Trick is generally the best choice as it cripples most walls, which are particularly troublesome without any sort of power boost. However, Brick Break is Victini's only way of hitting Heatran and Tyranitar hard, although its low damage output makes it discouraging. Flare Blitz can be a useful move to revenge kill a Pokemon and potentially sweep late-game without lowering Victini's Speed.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>An Adamant nature is preferred because it allows Victini to outspeed Choice Scarf Rotom-W while still having respectable power; for example, Adamant Victini's V-create is just as powerful as Jolly Darmanitan's Flare Blitz. Due to the lower damage output compared to other sets, Hippowdon is an excellent counter to this set as it can take V-creates and stall Victini out; therefore, carrying powerful Grass-types such as Breloom and Venusaur is recommended. Heatran is also a problem, as it can switch in with ease, and bulkier variants are not even 2HKOed by Brick Break. Therefore, Fighting-types, such as Terrakion, and Dragon-types, such as Hydreigon and Garchomp, are great partners. With this set, Ninetales support is essentially mandatory as Victini will really need the extra power boost to V-create due to its lack of a power-boosting item. Forretress is a great partner as well, as it can both set up hazards and remove them, both of which are useful assets and increase Victini's effectiveness tremendously. Dugtrio is a fantastic partner because it can eliminate Heatran and Tyranitar, two obstacles to Victini's success.</p>
+
+[SET]
+name: Special Attacker
+move 1: Blue Flare
+move 2: Focus Blast
+move 3: Thunder / Thunderbolt
+move 4: Glaciate
+item: Life Orb / Expert Belt
+nature: Modest / Timid
+evs: 4 Def / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>Victini is often seen punching giant holes in the opposition using its absurdly powerful V-create, but this set takes advantage of Victini's formidable special movepool that fulfills a prominent wallbreaking role as well. The main difference between this set versus Victini's physical wallbreaking counterpart is the fact that physical Victini is used in a more hit-and-run type of fashion due to V-create's stats-reducing drawback. Furthermore, physical variants typically lack the type coverage this set offers. This makes it more prone to being forced out by the opponent, unlike special Victini which is harder to play around with due to its vast type coverage and powerful attacks, two of which have a good chance at causing either burn or paralysis status. It also takes out the Pokemon that commonly switch into physical Victini, such as Garchomp, Hippowdon, and Heatran.</p>
+
+<p>Blue Flare is Victini's unique STAB attack of choice, scorching foes with more power than Fire Blast, and with Victory Star, it reaches a reliable accuracy of 93.5%. Focus Blast provides additional coverage against Tyranitar and Heatran, two extremely common Victini switch-ins, whereas Thunder maims the plethora of Water-types, such as Politoed, Tentacruel, and Jellicent. Again, thanks to Victory Star, both Focus Blast and Thunder's shaky accuracy is marginally accommodated for. However, if you feel the need to run Thunderbolt, which is much weaker but boasts perfect accuracy regardless of weather, it's a decent alternative. The final slot is open to Glaciate, an excellent move that Kyurem generously allowed Victini to play with. Not only does it obliterate the omnipresent Dragon-types, it also provides handy Speed-reducing utility that can be game-changing by easing prediction. For instance, Victini can Glaciate an incoming Terrakion expecting to sponge its Blue Flare, but because Victini will now outspeed the naturally faster Terrakion, it can then take Terrakion out with Focus Blast. Furthermore, in cases where Victini just misses out on scoring an OHKO against a faster target, Glaciate can be used to inflict the needed damage and allow Victini to outpace the threat for the KO, meaning Victini only has to take one hit rather than two.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Using Life Orb and a Modest nature are recommended to produce the most damage output possible, as Victini ends up hitting ridiculously hard with its high-powered attacks. Although, if you despise losing Speed ties against max Speed Salamence and Jirachi as well as being outpaced by max Speed Hydreigon, a Timid nature is perfectly viable to consider. Expert Belt is also worthy of being used if you prefer longevity over power, especially considering the fact that Victini's moveset provides amazing type coverage. Do note, though, that using Expert Belt prevents Victini from securing certain 2HKOs, such as against specially defensive Hippowdon with Blue Flare, 232 HP Rotom-W with Focus Blast, and offensive Latias with Glaciate. In terms of other attacking options, Grass Knot can be used to hit Gastrodon and specially defensive Hippowdon very hard, which can otherwise cause nuisances with their impressive bulk and instant recovery. It's also possible to use Victini's signature and stronger Fire-type attack in V-create over Blue Flare, allowing it to become a decent mixed attacker to obliterate Blissey, which otherwise walls this Victini. If V-create is used, be sure to use a defense-reducing nature of your choice rather than an Attack-reducing nature.</p>
+
+<p>Because Victini is vulnerable to every entry hazard, it's strongly recommended to provide Rapid Spin support to remedy this. Tentacruel and Forretress are both great options to consider, as they are two of the most reliable spinners in OU and offer great support with their own entry hazards. Ferrothorn is another potent entry hazard user that Victini greatly appreciates, as it can secure certain KOs against the likes of Latias, Jellicent, and Hippowdon. It is worth noting that Tentacruel and Ferrothorn form the sturdy Fire / Water / Grass core with Victini, offering great synergy with each other. Due to this set working great as a wallbreaker, Pokemon that can clean up the weakened opposition are encouraged for use. For this reason, Choice Scarf Terrakion, double booster Thundurus-T, Swords Dance Lucario, and Alakazam are excellent candidates to consider as they are some of OU's finest late-game sweepers; they also appreciate Pokemon that this Victini is good at weakening or removing altogether, such as Hippowdon, Jellicent, and Latias. Lastly, Pokemon that can defeat Blissey is encouraged; Choice Band Tyranitar and Scizor are superb answers, as they can potentially get rid of it with Pursuit if you sense it switching out or Superpower should it stay in.</p>
+
+[SET]
+name: Trick Room
+move 1: Trick Room
+move 2: V-create
+move 3: Bolt Strike
+move 4: Brick Break
+item: Flame Plate
+nature: Brave
+evs: 248 HP / 252 Atk / 8 Def
+ivs: 0 Spe
+
+[SET COMMENTS]
+
+<p>At first glance, Victini's stats indicate that it should be taking advantage of its base 100 Speed either with a Choice Scarf or Choice Band. However, Victini lies south of such threats as Thundurus-T and Terrakion on the Speed tiers, both of which are perfectly capable of wearing a Choice Scarf of their own. Luckily, Victini has a deadly tool up its sleeve that makes these Pokemon (as well as many others) cower in fear: Trick Room. With support from Stealth Rock and Ninetales's Drought, Victini OHKOes a huge amount of offensive and defensive threats alike with V-create alone. As a bonus, Victini's Speed is lowered by one stage every time V-create is used, allowing it to "outspeed" even the slowest of Pokemon after multiple V-creates. Putting all of these factors together, it's not hard to see that Victini is the ultimate late-game cleaner. Victini has just enough bulk to bluff a Choice Scarf on a revenge kill late-game, using Trick Room on the free turn while your opponent switches. From there, Victini can start blasting away with V-create on your opponent's Pokemon who have likely taken previous damage throughout the battle.</p>
+
+<p>Unfortunately, V-create cannot hit quite everything, especially Heatran, who gets a free boost from it. Bolt Strike and Brick Break supply adequate back up in the rare cases where V-create just isn't powerful enough. Brick Break almost always 2HKOes all variants of Heatran and Bolt Strike does the same to Politoed in the rain. In the sun and against every other Pokemon besides Flash Fire users, even a resisted V-create is almost twice as powerful as a neutral Bolt Strike and has only slightly less power than a super effective Bolt Strike. Note that Victini needs Trick Room in its set, as like Reuniclus, it is a standalone sweeper. It cannot perform its pillaging duties without a full 4 turns of Trick Room, so switching Victini in is not an option.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Victini's stat spread is standard fare for a Trick Room sweeper. A Brave nature with 252 Attack EVs is used to maximize Victini's Attack stat while minimizing its Speed in conjunction with 0 Speed IVs. The remaining EVs are invested into Victini's already decent bulk. Flame Plate is used to get the most power out of V-create--the move it will be using most frequently--while avoiding recoil damage from Life Orb. Life Orb seems viable in order to give a boost to Victini's other attacks, but the recoil really adds up and hinders its cleaning abilities. Finally, Muscle Band is an option to give a slight boost to all of Victini's moves, but since V-create will be used more often than not, Flame Plate gives Victini a more consistent boost in power.</p>
+
+<p>If the above claims seem like ridiculous hyperbole, take a brief look at the following calculations to see just how well a "not very effective" move can out-muscle and clean up the most important threats:</p>
+
+<ul class="damage_calculation">
+<li>V-create (sun) vs. 4/0 Latios: 96.35 - 113.24%</li>
+<li>V-create (sun) vs. 4/252 Chansey: 109.03 - 128.5%</li>
+<li>V-create (sun) vs. 4/252+ Chansey: 100 - 117.75%</li>
+<li>V-create (sun) vs. 4/0 Rotom-W: 94.62 - 111.57%</li>
+<li>V-create (sun) vs. 0/0 Dragonite (Multiscale broken): 78.01 - 91.95%</li>
+<li>V-create (sun) vs. 0/0 Salamence: 87.91 - 103.32%</li>
+<li>V-create (sun) vs. 248/216+ Jellicent: 55.83 - 66%</li>
+<li>Brick Break vs. 252/0 Tyranitar: 68.31 - 81.18%</li>
+<li>Brick Break vs. 4/0 Tyranitar: 80.7 - 95.9%</li>
+<li>Brick Break vs. 248/0 Heatran: 37.4 - 44.15%</li>
+<li>Brick Break vs. 0/0 Heatran: 44.58 - 52.63%</li>
+<li>Bolt Strike vs. 252/252+ Politoed: 58.85 - 69.27%%</li>
+<li>Bolt Strike vs. 0/0 Politoed: 101.86 - 120.49%</li>
+<li>Bolt Strike vs. 248/216+ Jellicent: 60.04 - 70.96%</li>
+</ul>
+
+<p>Ninetales is the first support Pokemon that comes to mind when considering any variant of Victini, and Trick Room is no different. It boosts V-create to unbelievable levels and also adds protection against weak Water-type attacks. In addition, a reliable hazard setter should be used to set up Stealth Rock, as it turns many of the above calculations into possible or guaranteed OHKOes. Terrakion is a good option to set up Stealth Rock with its base 108 Speed. Dugtrio is a necessity to trap Heatran, who isn't threatened by V-create, as well as Tyranitar, who steals the sun upon entry, hindering Victini's sweeping ability. It can also be used to trap and KO weakened Politoed, whose Drizzle turns V-create from a bulldozer to a wet sock. Ferrothorn can also be used as a backup physical attacker in case Victini faints at some point during its rampage, but Victini will usually be cleaning late in the game so this is hardly an issue. Trick Room Victini does not have many direct counters; the best option is Hippowdon, who can switch in and take 49.52 - 58.57% from V-create, still underspeeding after the Speed drop and OHKOing Victini with Earthquake. If the sun isn't shining, physically defensive Slowbro can take on Victini, stalling its Trick Room turns and wearing it down with repeated Scalds, recovering any damage taken with Slack Off. Heatran is another option, as its defensive variants are at worst 3HKOed, but offensive variants don't stand much of a chance.</p>
+
+[SET]
+name: Final Gambit
+move 1: Final Gambit
+move 2: U-turn
+move 3: V-create
+move 4: Trick
+item: Choice Scarf
+nature: Jolly
+evs: 252 HP / 4 Atk / 252 Spe
+
+[SET COMMENTS]
+
+<p>Victini also has access to Final Gambit, an effective way of guaranteeing a KO early-game. Although it looks similar to the Choice Scarf set, it plays differently, as it attempts to sacrifice itself to eliminate a crucial member of the opponent's team as opposed to revenge killing. Final Gambit is especially useful for eliminating opposing weather inducers, allowing its team to win the weather war. U-turn is useful on this set because it scouts for Ghost-types looking to switch in on Final Gambit. Despite the lowered Attack investment, V-create still does acceptable damage thanks to its high Base Power. For the last moveslot, Trick cripples Ghost-types, Blissey, and Chansey who will likely switch in looking to tank a Final Gambit. Because Victini is weaker, it will not mind losing the Scarf.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>A Jolly nature is used on this set to ensure that Victini uses Final Gambit before the opponent attacks. Bolt Strike can be used to hit the bulky Water-types who are hit super effectively by it, although it is very weak with no Attack investment. If Victini is not being used to lead, entry hazards will severely cripple its effectiveness, as this weakens Final Gambit. Although you should be using this set as a lead, Rapid Spin users or Magic Bounce Pokemon are appreciated if Victini is not being used as a lead. As Ghost-types can switch in to block Final Gambit, Pursuit users, such as Tyranitar and Scizor, are helpful to eliminate them. If Ninetales is used alongside Victini, Chlorophyll sweepers work well with Victini assuming Final Gambit hits any possible opposing weather inducer, as they will be able to sweep without worrying about an opposing weather inducer coming in.</p>
+
+[Other Options]
+
+<p>Victini can run a special set as it has a wide special movepool containing a plethora of moves such as Blue Flare, Psychic, Focus Blast, and Thunder. However, special sets are generally outclassed by Volcarona, Heatran, and Chandelure. Zen Headbutt hits a few Pokemon, such as Toxicroak, Keldeo, Amoonguss, Tentacruel, and Terrakion, without lowering Victini's stats, but it is not good coverage-wise. Although a mixed set could work, physical variants of Victini will hit harder because of the sheer wallbreaking power of a maximally invested V-create. A support set can work, as Victini has access to Will-O-Wisp and Thunder Wave, but this set is discouraged due to Victini's relatively poor defensive typing. However, Will-O-Wisp can make it easier to get past Slowbro. Sleep Talk is another option as Victini can switch in on Breloom and Amoonguss with ease thanks to its typing and bulk. Substitute can be used to help against revenge killers such as Terrakion and Garchomp. Sunny Day makes Victini much more self-sustaining; for example, Sunny Day and Focus Blast can be used to beat Tyranitar. However, these options may cause Victini to lose out on important coverage.</p>
+
+[Checks and Counters]
+
+<p>Due to its versatility and power, there are no foolproof Victini counters. Dragonite and defensive Salamence are the closest you can get to Victini counters, although both are still hit very hard by a Choice Band V-create. Bulky Water-types, especially Politoed, can work as switch-ins to V-create, but all of them except Politoed must be wary of switching in on V-create under sun. Additionally, bulky Water-types must be careful about switching in on Bolt Strike. Out of all of the bulky Water-types, Slowbro and Politoed can switch in the most easily thanks to Regenerator and Drizzle, respectively. Hippowdon can tank hits from Choice Scarf variants, but must look out for Choice Band and Final Gambit variants. Flash Fire users, such as Heatran and Chandelure, can switch in on V-create thanks to their immunity, but Heatran needs to watch out for Brick Break and Chandelure will take a heavy hit from Bolt Strike due to its frailness.</p>
+
+<p>It is much easier to check Victini than it is to counter it. Dugtrio gets a special mention as it can easily revenge kill Victini locked into V-create or Bolt Strike. Additionally, Terrakion, Salamence, Garchomp, and Tyranitar can all check Victini with ease as they can all hit it for super effective damage. After Victini uses V-create, it is easily revenge killed by the likes of Darmanitan and Sawsbuck under sun. Additionally, V-create's side effect of lowering Speed often eliminates the need for a Choice Scarf to revenge kill Victini.</p>

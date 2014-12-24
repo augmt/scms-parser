@@ -1,0 +1,73 @@
+[Overview]
+
+<p>The prince of the seas may appear to just be another pixie. After all, why use a pure Water-type with base 100 stats across the board when you can use one with base 120 stats across the board in Arceus? The answer lies in Manaphy's ability, Hydration, which grants it immunity to all forms of status in the rain. This, along with its boosting moves, Calm Mind and Tail Glow, allows it to utterly annihilate stall teams as long as Kyogre's ubiquitous rain is kept up. Every team needs to have a decent answer to Manaphy unless it plans to lose and lose badly.</p>
+
+[SET]
+name: Calm Mind
+move 1: Calm Mind
+move 2: Rest
+move 3: Scald
+move 4: Ice Beam
+item: Leftovers
+nature: Timid
+evs: 252 HP / 4 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>While Manaphy's other setup move, Tail Glow, seems more appealing with its massive +3 Special Attack boost, Calm Mind is actually Manaphy's most reliable form of stat boosting. A common way of defeating the Tail Glow set involves equipping Kyogre, Palkia, or Dialga with a Choice Scarf and taking it down with Thunder. However, with a Calm Mind boost, the aforementioned Pokemon will not be doing enough damage to stop Manaphy from setting up another Calm Mind, using Rest to recover the damage, and then waking up immediately if rain is active. Manaphy can then alternate between Calm Mind and Rest to slowly set up until it is ready to sweep. The beauty of this set is Manaphy's ability to singlehandedly destroy stall teams without crumbling immediately to offensively based teams. While the Tail Glow set is scary due to its ability to hit extremely hard and quickly, the Calm Mind set instills a whole new type of fear, a fear that is slowly sewn into your opponent's mind as they helplessly watch the prince of the seas take apart their team. Calm Mind and Rest are obviously the crux of the set, allowing Manaphy to set up on what would have been 2HKOs. Scald is the preferred STAB in this case, as a potential burn can cripple the physical attackers attempting to bypass Manaphy's Special Defense boosts. Ice Beam rounds off the set, as it allows the best possible coverage, as well as OHKOing dangerous threats such as Shaymin-S, Rayquaza, and other Dragon-types.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>To demonstrate Manaphy's durability after a Calm Mind, here are a few damage calculations:</p>
+
+<ul class="damage_calculation">
+<li>252 SpA Kyogre, Palkia, or Dialga Thunder vs. +1 Manaphy 48.02% - 56.93%</li>
+<li>252 SpA Kyogre, Palkia, or Dialga Thunder vs. +2 Manaphy 36.14% - 43.07%</li>
+<li>252 SpA+ Kyogre or Dialga Thunder vs. +1 Manaphy 52.97% - 62.38%</li>
+<li>252 SpA+ Kyogre or Dialga Thunder vs. +2 Manaphy 39.60% - 47.03%</li>
+<li>252 SpA Shaymin-S Seed Flare vs. Manaphy 61.39% - 72.77%</li>
+<li>252 SpA Thundurus Thunder vs. Manaphy 62.87% - 74.75%</li>
+</ul>
+
+<p>As shown above, with the exception of Modest Choice Scarf Kyogre or Dialga (which still need two very high damage rolls to 2HKO with Thunder), none of the listed revenge killers of the Tail Glow set can stop Manaphy from setting up Calm Minds, unless they land a critical hit, which admittedly is likely enough for a slowly boosting Pokemon such as Calm Mind Manaphy.</p>
+
+<p>The EV spread makes Manaphy as bulky as possible while retaining the ability to outspeed an unboosted Rayquaza and Speed tie with base 100s, most notably Palkia. A bulkier spread of 252 HP / 252 Def / 4 SpD with a Bold nature can be used, as it allows Manaphy to survive a Jolly Choice Scarf Zekrom's Bolt Strike at full health. This EV spread also makes Manaphy harder to take down with physical attacks in general, but Manaphy really likes the ability to KO Rayquaza before it can do anything. As for moves, Grass Knot is an option to take down Kyogre, but Ice Beam is by far the better move due to its super effective coverage; unless Kyogre is carrying Choice Specs or has both Calm Mind and Thunder, it will lose to Manaphy anyway.</p>
+
+<p>Because Manaphy's main attraction is Hydration in tandem with Rest, support from Kyogre is essential. The biggest problem with this is that Manaphy and Kyogre both share weaknesses to Electric- and Grass-type attacks. Dialga resists both Grass- and Electric-type moves and can use the combination of Bulk Up and Draco Meteor to lure out Groudon and put it out of commission. Defensively, Giratina and Giratina-O also resist both Electric- and Grass-type moves. Choice Scarf Zekrom is especially dangerous because it outspeeds and OHKOes both Manaphy and Kyogre with Bolt Strike. A Dialga holding a Choice Specs also defeats Manaphy, as it resists Scald, it takes a pittance from Ice Beam, and Manaphy cannot set up on it as Thunder 2HKOes Manaphy even at +2. Because Electric-type attacks are extremely common in Ubers, Ground-types that take advantage of Choice-locked Electric-type attacks are extremely useful. Swords Dance Ground Arceus and Garchomp can switch into Choice Electric-type attacks and snag a free Swords Dance. While extremely risky, Substitute + Hone Claws Dugtrio can severely punish a Choice Scarf Zekrom locked into Bolt Strike by trapping it, setting up a Substitute, and using Hone Claws multiple times in order to sweep.</p>
+
+<p>Ferrothorn is, in general, a good check to Manaphy, although if it gets burned by Scald on the switch-in, Manaphy can easily set up on it. Calm Mind Kyogre, Water Arceus, Dragon Arceus, Grass Arceus with Judgment, Electric Arceus, Mewtwo, and Latias can also defeat Calm Mind Manaphy one-on-one. A Kyogre with Roar can force Manaphy out if it's not the last Pokemon. Because of this, a Ferrothorn of your own works very well to defeat the aforementioned Calm Mind users--apart from Grass Arceus--by using Leech Seed and Power Whip to whittle down their HP. A Choice Scarf Zekrom of your own also works very well, as it can revenge kill Kyogre, Water Arceus, Dragon Arceus, Mewtwo, and Latias easily. Dialga can also defeat Grass Arceus, as can Lugia, Chansey, and Blissey. Even though it prefers sun, Ho-Oh can check Grass Arceus, as well as combating sun teams. Steel Arceus, Jirachi, Blissey, and Chansey also help to combat Choice Specs Dialga. Rayquaza can be troublesome if it catches Manaphy using Rest as it switches in, as Air Lock nullifies Kyogre's rain. Choice Scarf Palkia, Salamence, and Garchomp can easily revenge kill Dragon Dance Rayquaza, while fast Steel-types can take down Swords Dance variants.</p>
+
+
+[SET]
+name: Tail Glow
+move 1: Tail Glow
+move 2: Rest
+move 3: Surf
+move 4: Ice Beam / Grass Knot
+item: Leftovers / Life Orb
+nature: Timid
+evs: 4 HP / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>Manaphy's other major attraction is its semi-unique boosting move, Tail Glow. With it, Manaphy can gain a huge +3 Special Attack boost, transforming into an offensive powerhouse in a single turn. Not only that, but against slower, more defensive teams, Manaphy can reach +6 in the space of two turns, and without an appropriate counter, any stall team will be swiftly flattened. Surf is its main STAB attack, and it is powerful enough to 2HKO Ferrothorn in the rain while Manaphy avoids being OHKOed in return. Ice Beam gives Manaphy excellent coverage, OHKOing Rayquaza and hitting Grass- and Dragon-types extremely hard. Grass Knot, however, can be used to severely damage opposing Kyogre on the switch-in or to simply OHKO slower variants if Manaphy has a Tail Glow boost.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>There are actually a number of different ways to play Tail Glow Manaphy. The given EV spread allows Manaphy to be as strong and fast as possible, but because Tail Glow gives Manaphy a huge +3 Special Attack boost, a bulky spread can be used so Manaphy can survive more hits. A spread of 252 HP / 40 SpA / 216 Spe with a Timid nature allows Manaphy to always survive Choice Scarf Kyogre's Thunder after Stealth Rock and one round of Leftovers recovery while OHKOing in return with Grass Knot after Stealth Rock damage. If Speed is not too important, another spread of 252 HP / 4 Def / 252 SpD with a Calm nature takes full advantage of Manaphy's bulk, as it allows Manaphy to survive attacks such as Thundurus's Thunder and Shaymin-S's Seed Flare. If you are using a bulky spread, Manaphy can use Scald to potentially land a burn on its counters. Energy Ball is usable over Grass Knot if you want a quick way to take out opposing Manaphy, but Grass Knot is better in all other scenarios. As for the item choice, Leftovers is the most preferred, as Tail Glow gives Manaphy a huge boost in power while letting it take advantage of its decent bulk. However, if overkill attacking power is your thing, Life Orb can be used, as it does allow Manaphy to OHKO some variants of offensive Dialga with Surf.</p>
+
+<p>Another way of playing Tail Glow Manaphy is to use the main EV spread, but to equip a Wacan Berry onto it and use Tail Glow and three attacks instead of Rest. With a Wacan Berry, Manaphy can bait in common revenge killers, such as Choice Scarf Zekrom and Kyogre, survive an Electric-type attack, and OHKO in return with the appropriate coverage move.</p>
+
+<p>The easiest way to take out Tail Glow Manaphy is to find something that outspeeds it and can hit it with a strong, super effective attack. Unless Manaphy is holding a Wacan Berry, Choice Scarf Zekrom will always OHKO Manaphy with Bolt Strike. Choice Scarf Dialga is the next best check to Manaphy, as it can outspeed and OHKO offensive Tail Glow Manaphy, while defensive Manaphy will fail to OHKO in return with Surf. Choice Scarf Kyogre and Palkia will also defeat Manaphy that lack Grass Knot. Electric Arceus, Thundurus, and Shaymin-S can OHKO Manaphy with their super effective Thunder or Seed Flare, respectively, although Thundurus and Shaymin-S need a Life Orb or Choice Specs to do so. Because of this, Bulk Up mixed Dialga is an excellent teammate for Manaphy, as it resists both Grass- and Electric-type attacks while being able to lure out Groudon and KO it with a Draco Meteor. The Giratina formes and Ferrothorn are also great to take on the aforementioned Pokemon. Ground-type setup sweepers are also good to switch into Choice-locked Electric-type attacks, and these include Swords Dance Garchomp, Ground Arceus, and Substitute + Hone Claws Dugtrio.</p>
+
+[Other Options]
+
+<p>Manaphy can competently run a Toxic stall set due to Hydration's benefits. Either an EV spread of 252 HP / 4 SpA / 252 Spe with a Timid nature or a bulkier spread is optimal with a moveset of Toxic, Scald, Rest, and Ice Beam. Heart Swap is also an interesting option, especially when coupled with Tailwind support from Tornadus. With this combination, you can easily let an opposing Calm Mind Arceus grab six Calm Minds, send in Tornadus for the Tailwind, steal Arceus's boosts with Manaphy, and then proceed to sweep.</p>
+
+<p>Manaphy can also make use of Reflect and Light Screen and take on the role of a supporter, which is useful due to the offensive nature of the Uber tier. Acid Armor can be used on the Calm Mind set to increase Manaphy's Defense, but Manaphy really enjoys the coverage provided by Ice Beam. Manaphy can run an effective Choice Specs set due to its decent movepool and ability to scout with U-turn or recover all of its health with Rest. It is also immune to status moves in rain, which gives it ample opportunity to switch in on Pokemon that carry them. It is, however, outclassed by Kyogre as a Choice Specs user. Likewise, Manaphy can run a Choice Scarf set with Surf, Ice Beam, Grass Knot, and U-turn to revenge kill Rayquaza and other threats, but Palkia generally does a much better job at this, as it has much more power and much better coverage than Manaphy.</p>
+
+[Checks and Counters]
+
+<p>Calm Mind Electric Arceus is probably the most reliable counter to Manaphy that you can find. Against Manaphy's Calm Mind set, Electric Arceus can easily Calm Mind alongside Manaphy, while the Tail Glow set is OHKOed by Thunder. Grass Arceus is also excellent at taking on Manaphy, but it must use Judgment as Grass Knot does next to nothing. Ferrothorn can take an attack and hit Manaphy back very hard, although it is 2HKOed by the Tail Glow set. Also, if Ferrothorn gets burned by Scald, Manaphy can use it as setup fodder. Choice Scarf Zekrom can revenge kill just about every variant of Manaphy with Bolt Strike. Calm Mind or Choice Specs Kyogre with Thunder, Calm Mind Latias, Mewtwo, Dragon Arceus, and Choice Specs Dialga can all defeat Calm Mind Manaphy. Choice Scarf Kyogre and Palkia can take on offensive Tail Glow Manaphy that lack Grass Knot, while Choice Scarf Dialga will win most of the time against any Tail Glow variant. Thundurus and Shaymin-S can outspeed and OHKO Tail Glow Manaphy, although they need to watch out for Ice Beam and rain-boosted Surfs.</p>
+
+<p>Because Manaphy is heavily reliant on rain, taking away Kyogre's Drizzle support is a good idea. While Groudon does not enjoy switching into any of Manaphy's attacks, it can switch in on Tail Glow or Rest and remove the rain, making Manaphy easier to deal with. Tyranitar works in a similar way, as does Hippowdon. Abomasnow, although rare, handily beats most Manaphy variants as it takes away the rain, resists Manaphy's Water-type attacks, resists Grass Knot, and takes neutral damage from Ice Beam. With a specially defensive spread, Abomasnow can easily make Manaphy's life difficult with moves such as Leech Seed and Giga Drain. Finally, although it gets OHKOed by Ice Beam, Rayquaza can switch in on a predicted Rest and set up on Manaphy for a sweep.</p>

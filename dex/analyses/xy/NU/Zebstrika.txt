@@ -1,0 +1,13 @@
+Choice Scarf
+########
+name: Choice Scarf
+move 1: Volt Switch
+move 2: Thunderbolt
+move 3: Overheat
+move 4: Hidden Power Grass
+item: Choice Scarf
+ability: Lightningrod
+evs: 252 SpA / 4 SpD / 252 Spe
+nature: Timid / Modest
+
+This is a sample set while we are currently working on analyses in the workshop.

@@ -1,0 +1,51 @@
+[Overview]
+
+<p>Despite Poliwrath's underwhelming stats, lack of high Base Power moves, lack of reliable recovery moves, and mediocre defenses, Poliwrath has some tricks up its sleeve that make it usable in UU. Poliwrath's Water / Fighting typing is unique in UU and brings with it a unique set of resistances that allows Poliwrath to find a home among many statistically superior Pokemon. Poliwrath finds itself fortunate in that, while not shining in any category, its stats are at least balanced enough to get the job done, and that's what Poliwrath is really about--filling that hole in your team that only it can cover.</p>
+
+[SET]
+name: RestTalk
+move 1: Rest
+move 2: Sleep Talk
+move 3: Circle Throw
+move 4: Waterfall / Toxic
+item: Leftovers
+ability: Water Absorb
+nature: Impish
+evs: 252 HP / 4 Atk / 252 Def
+
+[SET COMMENTS]
+
+<p>By running Rest and Sleep Talk, Poliwrath can overcome its lack of reliable recovery and act as a status absorber at the same time. This set utilizes Poliwrath's impressive bulk and many resistances to switch into battle and begin shuffling its opponent with Circle Throw. Poliwrath's defenses and typing make it effective at switching in repeatedly to phaze the opponent, Resting when it is low on health to continue shuffling. In the fourth slot, Waterfall allows Poliwrath to counter physical threats weak to Water, such as Arcanine and Rhyperior. Toxic, on the other hand, assists Poliwrath in crippling bulky threats like Slowbro and Milotic that would otherwise wall Poliwrath. It can also be used to cripple Ghost-type foes such as Dusclops and Mismagius.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>While this Poliwrath is physically bulky thanks to the EVs, it won't take many strong neutral or super effective special attacks. Therefore, Poliwrath appreciates teammates that can take Grass-, Electric-, and Psychic-typed special attacks, such as and Rotom-H. Since this Poliwrath is excellent at phazing opponents with Circle Throw, it is most effective on a team that lays hazards to fully take advantage of the forced switches. Bulk Up can also be run over Circle Throw or Waterfall to make a set similar to Suicune's Crocune set. When using Bulk Up, an alternate EV spread should be run, utilizing 252 HP / 4 Atk / 252 SpD with a Careful nature in order to maximize Poliwrath's defenses with Bulk Up. However, without Toxic, Poliwrath will not be able to defeat Slowbro or Milotic. Additionally, Storm Drain Gastrodon is immune to Waterfall and Ghost-types are immune to Circle Throw, so any Poliwrath running a Bulk Up RestTalk set will need to have those threats removed before it starts its boosting run.</p>
+
+[SET]
+name: SubPunch
+move 1: Substitute
+move 2: Focus Punch
+move 3: Waterfall
+move 4: Encore / Bulk Up / Toxic
+item: Leftovers
+ability: Water Absorb
+nature: Adamant
+evs: 132 HP / 252 Atk / 124 Spe
+
+[SET COMMENTS]
+
+<p>Poliwrath is one of the few Pokemon with access to the combination of Substitute and Encore in addition to Focus Punch, which make it an excellent user of the latter. With this set, Poliwrath can easily come in on a Water-type attack, Encore it, and then set up a Substitute while its enemy switches out. By doing so, Poliwrath can turn a Pokemon that normally walls it into setup fodder. The EVs for the set allow it to outrun 0 Speed Suicune, and hence pretty much any bulky Water-type in UU, and lock it into Scald.</p>
+
+<p>While Encore is often the preferred option to ensure Poliwrath can get up a Substitute, Bulk Up may be used to increase Poliwrath's Defense while also increasing its Attack. Toxic can also be used over Encore to help deal with Pokemon that wall Poliwrath, such as Slowbro and Spiritomb.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>While Poliwrath hits harder using its STAB moves, Rock Slide can be run over Waterfall to provide superior coverage with Focus Punch. The same can be said of Ice Punch; however, both moves are extremely lacking in power; Poliwrath cannot even 2HKO 0 / 0 Celebi with Ice Punch. Roserade is an excellent teammate, able to absorb Electric- and Grass-type attacks, crush bulky Water-type foes with its powerful STAB Grass-type attacks, and soften enemies resistant to Focus Punch with its Toxic Spikes. Any hazards, in fact, work well with Poliwrath's ability to force switches using Encore. Rotom-H is also an excellent partner for Poliwrath, resisting all of its weaknesses except Psychic and having very good synergy with it in general.</p>
+
+[Other Options]
+
+<p>Although the two sets listed are the most viable options Poliwrath has for UU, it can still run some other sets. Poliwrath has access to Belly Drum, which causes Poliwrath's Attack to quadruple, at the cost of reducing Poliwrath's HP by half of its maximum value. While a +6 Attack Waterfall may be extremely powerful, Poliwrath finds it very difficult to set Belly Drum up and becomes easily revenge killed by a plethora of faster enemies. Belly Drum does become more effective when used with Swift Swim, but priority users and fast Choice Scarf users can still outspeed Poliwrath. Unfortunately, there is no automatic Rain in UU, so manual rain support will have to be provided should you choose to go the Swift Swim/Belly Drum route. Also, even a Belly Drum set will not allow Poliwrath to get past Slowbro. Hypnosis is another option that can be run to incapacitate potential counters, but it has unreliable accuracy.</p>
+
+[Checks and Counters]
+
+<p>Slowbro is by far the best counter to Poliwrath, resisting everything Poliwrath can possibly throw at it and KOing Poliwrath with Psychic or Psyshock. Roserade also resists both of Poliwrath's STABs and can just set up hazards or KO Poliwrath with a Grass-type move. In addition, Roserade is immune to Poliwrath's Toxic and can simply switch out and cure its status should Poliwrath land a Hypnosis on it. Intimidate Qwilfish presents similar problems, and can easily set up Spikes against Poliwrath while using Haze to get rid of any Bulk Up boosts. Ghosts such as Dusclops and Spiritomb, as well as other walls like Weezing, can wall Poliwrath and burn it should it not have a Substitute up. Keep in mind that generally speaking, status is ineffectual against Poliwrath because of RestTalk and Substitute. In general, any Grass- or Electric-type can easily dispatch Poliwrath, especially if said Grass- or Electric-type Pokemon is faster.</p>

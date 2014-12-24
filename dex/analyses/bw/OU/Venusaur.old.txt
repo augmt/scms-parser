@@ -1,0 +1,85 @@
+[Overview]
+
+<p>One of the coveted relics from the RBY era, Venusaur makes a triumphant return to standard play as the premier Chlorophyll user in BW2. Venusaur's repertoire, which includes Growth and Sleep Powder, have also received substantial improvements. Growth essentially becomes a simultaneous Nasty Plot and Swords Dance boost under the sun and new sleep mechanics render practically any sleeping Pokemon impotent for the entirety of the match. This allows Venusaur to set up with ease in tandem with its respectable bulk and key set of resistances to Fighting-, Electric-, and Water-type attacks. The fun doesn't stop there&mdash;thanks to the new BW2 move tutors, Venusaur can now use Giga Drain with Chlorophyll, allowing it to attack and replenish health simultaneously.</p>
+
+<p>However, Venusaur's ability manifests itself as a double-edged sword. Chlorophyll is an excellent ability under the sunlight, but it is rendered void in any other weather condition. This relegates Venusaur to sun teams and inevitably mandates Ninetales as a vital teammate. Without Ninetales, even Growth becomes mediocre as the +2/+2 attacks boosts transition to a minuscule +1/+1. Don't let this discourage you, as Venusaur's assets are not to be overlooked; it only excels on sun teams, but it will often meet or exceed your expectations as a sweeper, supporter, or even a wall.</p> 
+
+[SET]
+name: Chlorophyll Sweeper 
+move 1: Growth
+move 2: Giga Drain
+move 3: Hidden Power Fire
+move 4: Sludge Bomb / Sleep Powder
+item: Life Orb
+nature: Timid
+ability: Chlorophyll
+evs: 72 HP / 4 Def / 252 SpA / 180 Spe
+ivs: 2 Atk / 30 SpA / 30 Spe
+
+[SET COMMENTS]
+
+<p>This set capitalizes on Venusaur's most prominent offensive attributes. Under the sunlight, Venusaur's Speed reaches blistering levels, enough to make the prospect of outrunning it impossible. Growth makes sweeping a possibility; in a single turn, Venusaur's Special Attack soars to a menacing 598. When equipped with a Life Orb, the damage rolls will only continue to surmount. Giga Drain is Venusaur's best STAB move, as along with Stealth Rock damage and a boost, Venusaur can OHKO every bulky Water-type in the tier, and it offsets the Life Orb recoil, extending Venusaur's sweep. Hidden Power Fire melts through all the Steel-types that would otherwise wall Venusaur and is also boosted by sun. In the last slot, Sludge Bomb and Sleep Powder both present interesting possibilities. Sludge Bomb, along with the two aforementioned attacks, provides perfect coverage on everything except for Heatran and Chandelure. Sleep Powder misses out on the wonderful coverage, but can potentially incapacitate a Pokemon and allow for more setup opportunities.</p> 
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs, as peculiar as they are, allow Venusaur to survive an Ice Shard from Adamant Mamoswine even after Stealth Rock, outrun the most relevant Choice Scarf user, Latios, and set up on Blissey/Chansey without Thunder Wave and 2HKO them with +6 Giga Drain. The given IVs minimize confusion damage and damage taken from Foul Play while still retaining the strongest Hidden Power Fire. A possible EV variation is 4 Def / 252 SpA / 252 Spe with a Modest nature. This EV spread gives Venusaur a significant power boost at the cost of being outrun by Choice Scarf users in the base 108+ tier, most importantly Terrakion and Latios.</p>
+
+<p>Given Venusaur's phenomenal boosting abilities and respectable movepool, a mixed attacking set consisting of 88 Atk / 244 SpA / 176 Spe with a Naive / Hasty nature is plausible. The EV spread allows Venusaur to OHKO 252/0 Heatran 100% of the time after Stealth Rock with Earthquake, while simultaneously outrunning Choice Scarf Latios and +2 Cloyster. Hidden Power Ice lets Venusaur maul Dragon-types while giving perfect coverage with Giga Drain and Earthquake. If you are running the alternative EV spread, the Defense and Attack IVs should be changed to 30 Defense and 30 Attack to ensure the most optimal sweep. Unfortunately, despite the great utility potential of this set, it's much easier to check. Skarmory, Ferrothorn, and Forretress, for example, wall Venusaur, while Scizor has little difficulty switching in and setting up Swords Dance. For this reason, this set often becomes a liability.</p>
+
+<p>Ninetales is crucial to have on your team if you want to successfully sweep; otherwise, you will have a mediocre attacker that is of little threat to the opposition. Heatran synergizes well with Venusaur, as the two cover each other's weaknesses; Heatran can dispose of Volcarona and absorb Fire-, Psychic-, Ice-, and Flying-type attacks, while Venusaur can defeat Ground-type attackers such as Dugtrio while also taking Water- and Fighting-type attacks. Heatran can also be a nuisance to Venusaur and its team. For that reason, it is imperative to have Dugtrio to not only to get rid of adversarial Heatran, but to take out Tyranitar, a troublesome Pokemon to sun teams in general. Gothitelle is another Pokemon with a trapping ability. Gothitelle can easily dispatch of Hippowdon, Abomasnow, and Politoed, all three of which are vexatious, as they can change the weather condition and make a Venusaur sweep inconceivable. Finally, Wobbuffet can Encore on Pokemon using Toxic, entry hazards, setup moves, or just weak attacks to give Venusaur opportunities to set up.</p>
+
+[SET]
+name: Sunny Day
+move 1: Sunny Day
+move 2: Giga Drain / Solar Beam
+move 3: Hidden Power Fire
+move 4: Sleep Powder / Sludge Bomb
+item: Black Sludge
+nature: Timid
+ability: Chlorophyll
+evs: 72 HP / 4 Def / 252 SpA / 180 Spe
+ivs: 2 Atk / 30 SpA / 30 Spe
+
+[SET COMMENTS]
+
+<p>Relinquishing Venusaur's sweeping capabilities, this set turns Venusaur into a useful support Pokemon for sun teams. Sunny Day acts a disruption to weather inducers that attempt to switch in, and can act as a last-ditch effort to set up sun if Ninetales perishes prematurely. For consistency's sake, Giga Drain is the preferred Grass-type STAB. Despite Solar Beam's detriments, it is still a viable option due to Venusaur's ability to manipulate the weather condition. Hidden Power Fire is boosted by sun and hits all OU Steel-types but Heatran for super effective damage. Due to the supportive characteristics of this set, Sleep Powder is preferred over Sludge Bomb due its ability to incapacitate another foe. However, Sludge Bomb can be used to acquire almost perfect neutral coverage.</p> 
+
+[ADDITIONAL COMMENTS]
+
+<p>Heat Rock is an interesting option that extends the duration of Sunny Day from five turns to eight, which fits with the supportive theme of this set and alleviates some of the pressure of Sunny Day's five turn timer. In terms of offensive substitutions, Expert Belt or Life Orb are commendable options. As stated previously, this set functions as more of a supportive role, and more often than not, Venusaur's craving for longevity necessitates the use of Black Sludge. Hidden Power Ice can be used to hit Dragonite for super effective damage but lacks any other rationale for its use.</p>
+
+<p>Even with Sunny Day, this set acts as a supporter, so Ninetales is still a required teammate in order to ensure success. Powerful sweepers such as Volcarona and Sawsbuck make good partners due to benefiting from Sunny Day, which increases the likelihood of a sweep. Dugtrio and Substitute Hydreigon are both excellent partners due to their unparalleled ability to dispose of Heatran and Chandelure, which would otherwise wall Venusaur. Other trapper Pokemon such as Gothitelle and Wobbuffet are just as advantageous, but not needed. Bulky Pokemon such as Celebi and Reuniclus can be problematic due to their ability to either threaten with paralysis or a powerful attack. For this reason, good wall breakers such as Darmanitan, Dragonite, and Victini are useful partners.</p> 
+
+[SET]
+name: SubSeed
+move 1: Leech Seed
+move 2: Substitute
+move 3: Sleep Powder 
+move 4: Hidden Power Fire
+item: Black Sludge
+nature: Calm
+ability: Chlorophyll
+evs: 252 HP / 244 SpD / 12 Spe
+ivs: 2 Atk / 30 SpA / 30 Spe
+
+[SET COMMENTS]
+
+<p>With Venusaur's decent 80 / 83 / 100 defensive stats and respectable Grass / Poison typing, giving it resistances to Water-, Grass-, Electric-, and Fighting-type attacks, it is more than capable of employing the well-known SubSeed strategy to act as a pesky quick-staller. 12 Speed EVs allow Venusaur to outrun base 130 Speed Pokemon such as Jolteon without a Choice Scarf in the sun. A specially defensive spread is best in order to exploit Venusaur's resistances. For example, after Stealth Rock, Venusaur has a 75% chance to survive a Choice Specs Hydro Pump from Keldeo in the rain and always survives a +2 Hidden Power Ice from Thundrus-T. Hidden Power Fire deals with Pokemon immune to Leech Seed, such as Celebi and Ferrothorn. Due to the sleep mechanics in BW, Sleep Powder essentially becomes a quick knock-out move, giving Venusaur ample opportunity to set up.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>116 Speed EVs can be taken out from Special Defense so that Venusaur can outrun Scarf Rotom-W and not be crippled by its Trick. The current EV spread can be reversed into a physically defensive one with a Bold nature to combat the plethora of Fighting-types, but this job is generally done better by a fellow sun teammate, Cresselia. Moreover, Venusaur's resistances on the special side of the spectrum are much more useful in combating rain teams. Protect can be used over Substitute, but Substitute is generally more useful, as it allows Venusaur to dodge status and stall more effectively. Synthesis becomes a juicy 67% healing move in the sun; as such, it is a an acceptable option, though it is too dependent on the weather condition to work consistently. Last but not least, Giga Drain can be used over Sleep Powder to discourage Water-types from switching in.</p>
+
+<p>In terms of supporters, Ninetales is still as useful as ever, giving Venusaur's Hidden Power Fire a kick and activating Chlorophyll. Given the stall-like nature of this set, Toxic Spikes support from Forretress, Nidoqueen, and Tentacruel is much appreciated, allowing Venusaur to stall out its opponents faster. Other entry hazard users such as Garchomp and Terrakion can also be helpful by setting up Stealth Rock. Reuniclus is a major issue for this set due to Magic Guard, so Victini or Darmanitan can be helpful teammates, easily switching in and OHKOing with V-Create and Flare Blitz under the sun.</p> 
+
+[Other Options]
+
+<p>Outside of what is already listed, Venusaur doesn't have too many viable options. Roar is a peculiar option on the SubSeed set, used to force out a counter and rack up entry hazard damage. A physical Swords Dance set is possible, but Venusaur lacks the power and movepool to abuse it. Choice sets, in particular Choice Specs, are another option, but Venusaur prefers the liberty of choosing its attacks rather than being restricted to one. Overgrow can be used over Chlorophyll to access egg and event moves such as Power Whip, Leaf Storm, and Weather Ball, but Venusaur is reliant on its boosted speed to sweep, so these options are generally unappealing.</p> 
+
+[Checks and Counters]
+
+<p>Venusaur is a Pokemon that relies on weather in order to accomplish anything substantial. Due to this, the most effective way to stop Venusaur is to change the weather. While counters seem like a good idea, they can easily be disposed of by Venusaur's common teammates, making them obsolete. Altering the weather means that Venusaur loses its blistering Speed and becomes much more susceptible to stronger, more powerful attackers, such as Salamence and Starmie. Also, Venusaur's repertoire takes a major plunge, as Growth becomes a mediocre boosting move, Solar Beam takes two turns to use, and Hidden Power Fire weakens significantly. Having said that, Tornadus is an excellent check, as it can set up Prankster Rain Dance and then force Venusaur out with Hurricane. Though Abomasnow, Hippowdon, Politoed, and Tyranitar cannot switch directly into Venusaur, they are invaluable in their ability to change the weather.</p>
+
+<p>The preeminent counter is Heatran, although Chandelure can also fill that role. Both Chandelure and Heatran resist all of Venusaur's conventional attacks and can OHKO with their Fire-type STABs. However, both have to be cautious of an Earthquake from a mixed set, as it can OHKO them after Stealth Rock. If Blissey or Chansey carry Thunder Wave, both of them are great counters due to their ability to paralyze Venusaur. Defensive Latias is also a great check, as she is not OHKOed by any of Venusaur's attack and can retaliate with Psyshock. If Stealth Rock in not on the field, Kyurem and Kyurem-B also make good checks due to their monstrous defensive stats and ability to go defensive while always being able to OHKO Venusaur with Ice Beam. In the same vein, defensive Dragonite and Volcarona can come in and set up on Venusaur or OHKO with Fire Punch and Fiery Dance respectively.</p>
+
+<p>If all else fails, there are ubiquitous priority users able to severely damage Venusaur. Mamoswine and Weavile get special mentions due to having a super effective STAB priority in Ice Shard, although Venusaur must have a bit of prior damage to be KOed. Choice Band Dragonite's Extreme Speed and Choice Band Scizor's Bullet Punch can also take out a weakened Venusaur. Offensive Latias can tank at least one hit and OHKO back. Specially defensive Jirachi can tank a Hidden Power Fire and paralyze Venusaur. Ditto is one of the few Choice Scarf users that is able to outrun Venusaur in every situation, making it a great check, so long as it has the appropriate Hidden Power. If Venusaur is running a Modest nature, than revenge killing it becomes a lot less cumbersome, as base 108+ Choice Scarf users such as Infernape, Latios, and Terrakion can outrun and KO.</p>

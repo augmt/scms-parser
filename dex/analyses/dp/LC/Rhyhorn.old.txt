@@ -1,0 +1,86 @@
+[Overview]
+
+<p>Rhyhorn is a freight train of a Pokemon with an impressive movepool, excellent physical stats, and suitable answers to many would-be checks and counters. Its biggest weakness is the poor Speed that allows many Pokemon to revenge kill or set up after scaring it out. Luckily, Rock Polish gives it a tool that allows it to sweep in a metagame filled with quick Pokemon. Its greatest advantages over other Ground- and Rock-types is its ability to deal severe damage to what would ordinarily check it based on typing alone, Gligar being a prime example. It also has access to several 100+ Base Power moves, making every attack a functional wrecking ball. Played properly it can run roughshod even over prepared opponents with its sheer power.</p>
+
+[SET]
+name: Rock Polish
+move 1: Rock Polish
+move 2: Stone Edge
+move 3: Earthquake
+move 4: Megahorn / Ice Fang
+item: Life Orb
+ability: Rock Head
+nature: Jolly
+evs: 236 Atk / 36 SpD / 236 Spe
+
+[SET COMMENTS]
+
+<p>In Little Cup the difference between the Speeds of slow Pokemon and fast Pokemon is numerically insubstantial. Even dismally slow Pokemon like Rhyhorn can reach the upper ranks after a single stat-up. Combine this with Rhyhorn's massive innate strength and huge movepool and it is a force to be reckoned with.</p>
+
+<p>Not only do Earthquake and Stone Edge have nearly unresisted coverage in Little Cup, Rhyhorn has STAB on both of them. The two Pokemon who resist the combo are Baltoy and Bronzor. Megahorn easily dispatches Baltoy and hits Bronzor quite hard. However, Ice Fang is particularly effective against the omnipresent Gligar, who can survive a Stone Edge coming in. Megahorn is generally more useful because it hits the Grass-types resistant to Earthquake much harder than Ice Fang, but Gligar is a common encounter.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Jolly is selected here because several threatening positive-natured Choice Scarf users rest on 25 Speed, most notably Mankey and Houndour, who can KO Rhyhorn with Close Combat and Hidden Power Grass, respectively. You also want to avoid speed ties with the numerous Pokemon with 24 Speed, such as Scarf Cranidos and Wailmer. For these reasons, Jolly is suggested, as its 26 Speed at +2 is often invaluable.</p>
+
+<p>Life Orb significantly increases damage, and with nearly unresisted STABs, it provides the power Rhyhorn needs to KO all but the sturdiest Pokemon who come in to face it. Oran Berry isn't really viable here because you need the extra damage. You could, however, use Chople or Shuca Berry as a surprise to survive one Fighting or Ground attack, respectively. It usually isn't worth it to halve damage from Water or Grass attacks, as few of them are physical and will still calculate at 2x damage.</p>
+
+<p>Rock Polish Rhyhorn is particularly weak to Aqua Jet, so Croagunk is an excellent partner to soak up Water attacks. Its further resistances to Vacuum Wave, Mach Punch, and Grass attacks are also welcome. Paras can be used to similar effect, but unfortunately shares a weakness to Ice Shard. In the case of Bronzor, your primary concern is Flash Cannon so Magnet Rise Magnemite can come in quite handy. Watch out for Earthquake, though.</p>
+
+[SET]
+name: Choice Band
+move 1: Earthquake
+move 2: Stone Edge
+move 3: Aqua Tail
+move 4: Megahorn / Fire Fang
+item: Choice Band
+ability: Rock Head
+nature: Adamant
+evs: 156 HP/ 236 Atk / 36 SpD / 76 Spe
+
+[SET COMMENTS]
+
+<p>There is no such thing as a safe switch-in to Choice Band Rhyhorn. Its STAB moves complement each other near perfectly and its other options are essentially limitless. Switching in expecting one STAB and receiving the other is usually a death sentence, especially if you were relying on resistance or immunity to save your hide. Even though Stone Edge has shaky accuracy, the critical hit chance makes it difficult even for resistant Pokemon to come in without suffering tremendous damage. Aqua Tail always KOs standard Gligar variants with Stealth Rock down. Its KO chances without Stealth Rock are about 50% on 0/0 Gligar and 3% on 156/0 Gligar. The power of Choice Band combined with Aqua Tail's higher Base Power make it entirely superior to Ice Fang in this instance, and because it hits Max/Max Bronzor for about 40-45%, Bronzor is put in the difficult position of resting just above where Oran would activate. Assuming Oran is not activated in the meantime, Rhyhorn can KO it with Megahorn or Fire Fang from that HP level if Bronzor tries to switch in again. The final slot is between Megahorn and Fire Fang to address Bronzor. Fire Fang technically does more damage and guarantees a 2HKO on 252/252 Bronzor factoring in Oran Berry, but Megahorn provides a much harder hit to random switch-ins.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>An Adamant nature is what allows Rhyhorn to score so many useful KOs. Jolly misses out on too many potential KO's to be considered. The difference between 28 and 27 Attack is amazing for calculation purposes. If you for some reason want to pass Choice Band Rhyhorn Speed, a Jolly nature and 236 Speed EVs are better for reasons listed in the Rock Polish set, but such a strategy is risky and difficult to pull off.</p>
+
+<p>Because of its low Speed, partners that can paralyze or otherwise incapacitate opponents serve Rhyhorn well. Exeggcute is notable for being able to sleep and paralyze enemies, it can also boost Fire Fang's power with Sunny Day and become a powerful sweeper in its own right. Magnemite can address Water-types and also incapacitate with Thunder Wave. It notably also traps Bronzor. Venonat takes Grass attacks well and can also pass Rhyhorn an Agility for a late-game sweep. It is difficult to stop a rampaging STAB Earthquake when all the Flying-types and Levitate Pokemon have been removed (similarly, though with less consistent results, with Stone Edge).</p>
+
+[SET]
+name: Substitute
+move 1: Substitute
+move 2: Earthquake
+move 3: Rock Blast / Stone Edge
+move 4: Ice Fang / Stealth Rock
+item: Oran Berry
+ability: Rock Head
+nature: Impish
+evs: 196 HP / 236 Atk / 36 SpD / 36 Spe
+
+[SET COMMENTS]
+
+<p>Unmentioned so far are Rhyhorn's impressive HP and Defense stats. Combined with a resistance to Stealth Rock and a boosted Special Defense in sandstorm, Rhyhorn can be a tough nut to crack when played properly. Although it has many common weaknesses, its ability to switch into Normal, Flying, Fire, Electric, and Rock attacks serves it well.</p>
+
+<p>Substitute eases prediction a great deal, and can force opponents that would ordinarily stat-up to attack directly. This set plays much more conservatively than the others. You want to scout your opponent's team and determine the most likely switch-in, then use the attack most effective against them. Rock Blast is generally used over Stone Edge here to deal with Substitute abusing Ghost-types. Stone Edge does deal consistent damage however.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Because Rhyhorn's Special Defense is still lackluster, Hippopotas is an excellent partner to bring on permanent sandstorm. Rhyhorn's defenses factoring the boost in are 27/18/15; not shabby at all. The same rules apply for many partners, Croagunk absorbing Water attacks, Magnemite trapping Bronzor, etc.</p>
+
+<p>Rhyhorn generally has better things to do than Stealth Rock, but it is an option if your other slots are full and you can use Rhyhorn's threat to set it up. Ice Fang is therefore preferred because of the coverage and the ability to ward off Gligar in one attack.</p>
+
+[Other Options]
+
+<p>Rhyhorn's abysmal Speed means it operates extremely well in Trick Room. Every set except Rock Polish can be converted into a functioning Trick Room set by selecting a Brave (or Relaxed for defensive) nature and 0 Speed IV. Place the Speed EVs into HP or Defense, because 236 doesn't split well between Rhyhorn's defensive stats. Rock Blast and Stone Edge each have their advantages and are somewhat interchangeable on each set. Be aware though that Rock Blast's unreliable Base Power can mitigate its Sub-and-Sash-crushing abilities.</p>
+
+<p>Rhyhorn has a massive physical movepool, but generally the options outlined in the sets are superior. Crunch, Payback, Superpower, Reversal, Thunder Fang, Dragon Rush, and Double-Edge (not legal with elemental Fangs or Dragon Rush) are all there for anyone who wants to try something different. Rhyhorn can also run Fire Blast, but its Special Attack is too low and Fire Fang has more synergy with all of its sets.</p>
+
+<p>Rhyhorn does have access to Swords Dance but is generally too slow to use it. In Trick Room, it is on a timer and thus usually impractical. If you could pass it Speed you might be able to pull it off, and good luck stopping Rhyhorn then. Phazing isn't especially valuable in Little Cup, but Rhyhorn can Roar out opponents if need be. Counter is viable given the number of low-powered super effective physical attacks Rhyhorn can be exposed to in Little Cup. However, Rhyhorn is generally powerful enough that attacking directly is superior to using Counter.</p>
+
+[Checks and Counters]
+
+<p>Gligar and Bronzor are the most immediate counters, assuming they do not switch in on an unresisted attack. Duskull can also perform admirably and is able to burn Rhyhorn with Will-O-Wisp or Disable its Rock attack. Cubone and Sandshrew resist Stone Edge and generally have enough Defense to retaliate with an Earthquake of their own. They usually stop Rock Polish in its tracks, but cannot survive multiple Choice Band-boosted Earthquakes. If Magnemite can Magnet Rise before an Earthquake, it effectively walls sets without Fire Fang or Superpower.</p>
+
+<p>Revenge killers to Rhyhorn are numerous, including most Water- and Grass-types and the aforementioned Gligar. Mankey and Machop can also KO it with their powerful Fighting moves. Generally speaking, if your attack is super effective and STAB, you can revenge kill Rhyhorn. Diglett is especially notable here, although without Choice Scarf or an unbroken Focus Sash it has no hope against a Rhyhorn that has already used Rock Polish.</p>

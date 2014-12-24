@@ -1,0 +1,27 @@
+Substitute
+########
+name: Substitute
+move 1: Substitute
+move 2: Return
+move 3: Earthquake
+move 4: Stone Edge / Swords Dance
+ability: Soundproof / Sap Sipper
+item: Leftovers
+evs: 172 HP / 252 Atk / 84 Spe
+nature: Adamant
+
+This is a sample set while we are currently working on analyses in the workshop.
+
+Afro SMASH (Choice Band)
+########
+name: Afro SMASH (Choice Band)
+move 1: Head Charge
+move 2: Earthquake
+move 3: Megahorn
+move 4: Stone Edge
+ability: Sap Sipper
+item: Choice Band
+evs: 172 HP / 252 Atk / 84 Spe
+nature: Adamant
+
+This is a sample set while we are currently working on analyses in the workshop.

@@ -1,0 +1,14 @@
+Trick Room
+########
+name: Trick Room
+move 1: Trick Room
+move 2: Fire Blast
+move 3: Shadow Ball
+move 4: Energy Ball
+ability: Flash Fire
+item: Life Orb
+evs: 252 HP / 4 Def / 252 SpA
+nature: Quiet
+ivs: 0 Spe
+
+This is a sample set while we are currently working on analyses in the workshop.

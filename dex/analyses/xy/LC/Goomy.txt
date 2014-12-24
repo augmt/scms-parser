@@ -1,0 +1,57 @@
+Overview
+########
+
+Goomy isn't a very good Pokemon in LC. It is outclassed by Chinchou as an offensive Eviolite user, Mantyke as a RestTalk user, and Vullaby as a bulky wall. Goomy also has bad stats outside of its Special Defense. It has pitiful 50/55/40 offensive stats, and its poor Defense and HP make it very vulnerable to physical attackers. It also relies on Eviolite to make up for its underwhelming Defense, making it seriously weak to Knock Off.
+However, it isn't all bad for Goomy. First of all, it is one of only two special attacking Dragon-types in the tier, and is blessed with three fantastic abilities. Gooey gives it a slight niche in the metagame, making it the only reason to use it over other Dragon-types in the tier. Overall, while there is little reason to use Goomy, it has managed to carve itself a very small niche in Little Cup.
+
+Eviolite RestTalk
+########
+name: Eviolite RestTalk
+move 1: Dragon Pulse
+move 2: Hidden Power Fighting
+move 3: Rest
+move 4: Sleep Talk
+ability: Gooey
+item: Eviolite
+evs: 156 HP / 156 SpA / 156 SpD / 36 Spe
+nature: Modest
+
+Moves
+========
+
+Dragon Pulse is Goomy's main STAB, letting it do good damage to other Dragon-types. Hidden Power Fighting OHKOes Pawniard after Stealth Rock and takes care of other Steel-types, as well as other Dark-types. Rest is Goomy's best form of recovery and also rids it of status, and Sleep Talk ensures that Goomy isn't a complete sitting duck while asleep.
+
+Set Details
+========
+
+Eviolite improves Goomy's subpar physical bulk, letting it make the most of Gooey. 156 HP and Special Defense EVs give Goomy optimal bulk and allow it to hit an Evolite number, with the remainder being invested in Special Attack and Speed to boost Goomy's offensive capabilities.
+
+Usage Tips
+========
+
+Rest should be used when Goomy's health is low to fully restore its HP and rid it of any status, but remember it puts Goomy to sleep. Goomy can continue attacking while asleep via Sleep Talk, but keep in mind that it can fail and call Rest again instead.
+
+While it is not normally recommended to stay in on physical attackers, Goomy can act as bait for some with its poor physical bulk. Even if they severely damage or KO Goomy with a contact move, these physical attackers will have their Speed dropped, which can often cripple them.
+
+Team Options
+========
+
+Goomy appreciates entry hazard supporters like Ferroseed. Stealth Rock, for example, allows Goomy to OHKO Pawniard with Hidden Power Fighting. Ferroseed and other Steel-types like Pawniard and Magnemite can also switch in and take a Fairy- or Dragon-type attack for Goomy. Spritzee is also a good defensive partner thanks to its Dragon-type immunity; it can further support Goomy with Wish and Aromatherapy, improving Goomy's longevity. Poison-types are also good partners for Goomy as they can sponge Fairy-type attacks and set up Toxic Spikes.
+
+Other Options
+########
+
+Goomy has a few other options it could try to pull off. Replacing Sleep Talk with Rain Dance, Gooey with Hydration, and Hidden Power with Toxic might sound like a good idea, but Goomy's poor Defense and HP hinder the usefulness of such a set. Hidden Power Ground can be used to hit Magnemite, but Hidden Power Fighting is generally more useful, as Electric-types are not common in the tier. Goomy can also use Hidden Power Fire to roast Snover, but it has little other use. Sludge Bomb can be used to hit Spritzee and Cottonee, but that is all it really does. Sap Sipper is an option to absorb Sleep Powder and Spore, but Gooey and Hydration are far better abilities. Finally, Draco Meteor is Goomy's most powerful STAB. However, it lowers Goomy's already underwhelming Special Attack.
+
+Checks & Counters
+########
+
+**Spritzee**: Spritzee is public enemy number one. It can take a Sludge Bomb or any of Goomy's other poor attacks, is immune to Goomy's STAB, and can proceed to either stall Goomy or KO it with Moonblast.
+
+**Snover** Although Snover dislikes Hidden Power Fire and Hidden Power Fighting, it can 2HKO Goomy with Blizzard.
+
+**Special Walls**: Special walls like Tentacool and Chinchou don't really mind Goomy's weak attacks can wear it down with Toxic.
+
+**Setup users**: Pokemon that can set up, such as Shellder and Scraggy, can take advantage of Goomy's underpowered attacks, set up freely, and proceed to KO it.
+
+**Powerful Physical Attackers **: Despite the Speed loss from Gooey, physical attackers like Mienfoo and Pawniard can severely damage or even KO Goomy due to its poor Defense. 

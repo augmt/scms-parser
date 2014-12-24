@@ -1,0 +1,13 @@
+Bulky Attacker
+########
+name: Bulky Attacker
+move 1: Sucker Punch
+move 2: Shadow Sneak
+move 3: Return
+move 4: Recover
+ability: Protean
+item: Leftovers
+evs: 252 HP / 252 Atk / 4 SpD
+nature: Adamant
+
+This is a sample set while we are currently working on analyses in the workshop.

@@ -1,0 +1,113 @@
+[Overview]
+
+<p>Like many Fire-types, Entei is a Pokemon who boasts great all-round stats, but has them distributed rather poorly. The fact that its movepool is horrible doesn't help it either. Even with the release of Movie 10's event moves, Entei still faces tough competition from Arcanine. However, while Entei appears to be shallow, it still can fill niches that no other Pokemon can. It is the only Pokemon in UU outside of Dunsparce and Drifblim who can set up 101 HP Substitutes and use Calm Mind, making it a deadly special sweeper, while its access to Stone Edge differentiates Entei from Arcanine as a physical attacker. Overall, it is still a force to be reckoned with, so one must never write off Entei too hastily.</p>
+
+[SET]
+name: Physical Attacker
+move 1: Flare Blitz
+move 2: Stone Edge
+move 3: Extreme Speed
+move 4: Hidden Power Grass
+item: Life Orb / Choice Band
+nature: Adamant
+evs: 252 Atk / 4 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>This set aims to take advantage of Entei's excellent Attack stat and powerful STAB Flare Blitz. At first glance, Arcanine might seem like a better choice for this role, but Entei has higher Attack and Speed than Adamant Arcanine. Entei also has Stone Edge as a coverage move to nail opposing Fire-types for super effective damage, allowing it to OHKO a large portion of its common switch-ins. Entei's Extreme Speed is very powerful, and makes a great late-game sweeping tool. Hidden Power Grass rounds off Entei's coverage by hitting Rhyperior, Kabutops, and Omastar for heavy damage. Entei also has excellent bulk for a Fire-type, meaning it can switch in quite easily on resisted or neutral hits.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Life Orb is the preferred item, since it grants Entei a boost in power while still allowing it to switch attacks. However, Choice Band can be used for even more power. With a Choice Band attached, Entei can 2HKO max HP / 0 Def Slowking after Stealth Rock damage with Flare Blitz, as well as having a slight chance to 2HKO max HP / 200 Def Milotic after Stealth Rock and Spikes damage. Choice Band also allows Entei to OHKO Alakazam with Extreme Speed after Stealth Rock damage, while with Life Orb, this is not guaranteed. There are a few other moves Entei can use in the last slot. Iron Head can be used to hit Rock-types if one wants Entei's moveset to stay physical, while Howl can be used to boost Entei's Attack, enabling it to attempt a sweep.</p>
+
+<p>Entei is a hard Pokemon to stop later in the game, but in order to reach that point, Entei requires some support from its teammates. Since Milotic and Slowbro are essentially the only safe switch-ins to Entei, it makes sense to use Pokemon such as SubToxic Azumarill, Swords Dance Kabutops, and Swords Dance Blaziken. If the aforementioned bulky Water-types surprise Entei and switch in, having a Grass-type to take the subsequent Surf is definitely a good idea. Venusaur is an excellent candidate since it has high Special Defense and can devastate opposing Pokemon with Leaf Storm, Sludge Bomb, and Sleep Powder. Miltank is also a problem, albeit not a common one. Rhyperior makes a great switch-in for Miltank, as it resists the cow's STAB attacks, doesn't care about paralysis, and can cause major damage to the switch-in. Rhyperior also lures Milotic and deals heavy damage to it with Choice Band or Life Orb-boosted STAB attacks, allowing Entei to finish it off afterwards.</p>
+
+[SET]
+name: SubCM
+move 1: Substitute
+move 2: Calm Mind
+move 3: Flamethrower / Fire Blast
+move 4: Hidden Power Grass / Hidden Power Electric
+item: Leftovers
+nature: Timid
+evs: 136 HP / 156 SpA / 216 Spe
+ivs: 2 Atk / 30 SpA
+
+[SET COMMENTS]
+
+<p>Apart from Dunsparce (who is subpar) and Drifblim (who doesn't need 101 HP Substitutes), Entei remains the only Pokemon available in UU who can both set up 101 HP Substitutes and effectively use Calm Mind. This allows it set up multiple Calm Minds on Chansey, UU's premier special wall. The idea is very simple: come in on a Pokemon whom Entei can force out, create a Substitute as the opponent switches out, and proceed to set up with Calm Mind. With boosted Special Defense, Entei can even set up on bulky Water-types, with the exceptions of Haze Milotic and Azumarill, by continuing to boost its stats using Calm Mind, setting up Substitute, then eventually taking them down. The Hidden Power of choice allows Entei to hit bulky Water-types for super effective damage. Without a good counter, this set can be especially hard for stall teams to face since Entei can use its bulk to continuously accumulate boosts while the opponent watches in vain.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>The EVs presented allow Entei to make 101 HP Substitutes while being able to switch into Stealth Rock an additional time. The Speed EVs let Entei outspeed positive-natured base 95s such as Houndoom and Arcanine, while the rest are put into Special Attack to give Entei some power. Hidden Power Rock is also an option should one want Entei to hit other Fire-types super effectively, but Hidden Power Grass and Electric are preferred so Entei can beat bulky Waters, who otherwise would completely shut this set down.</p>
+
+<p>Haze Milotic and Azumarill are easily the best counters to Entei. Blastoise can also take a boosted Hidden Power and Roar Entei away in a pinch. Rhyperior walls Entei if it is running Hidden Power Electric, while Fire-types give Entei trouble if it's utilizing Hidden Power Grass. Clefable with Encore also shuts down Entei quite easily. Due to all of this, Venusaur and Toxicroak are great partners for Entei. Venusaur can easily switch into bulky Water-types and use Sleep Powder or Leaf Storm to pierce holes in the opponent's team, while Toxicroak can switch into Water-types and threaten to sweep with Swords Dance or Nasty Plot. Tangrowth and Milotic are decent checks to Rhyperior, while Milotic can also take on Fire-types. Dugtrio can also trap and KO many Fire-types who give Entei trouble. Since Entei is weak to Stealth Rock, Rapid Spin support is highly beneficial. Hitmontop is possibly the best Rapid Spinner to run alongside Entei, as it resists Rock-type moves aimed at Entei, and is neutral against to Water-type attacks. Blastoise can switch into bulky Water-types and pull off a Rapid Spin. Both Hitmontop and Blastoise can use Foresight and Rapid Spin to guarantee a Rapid Spin against an opposing spinblocker, unless the opponent uses two Ghost-types. Donphan can also be used as a Rapid Spinner; while it can't switch into Water-types, its sheer power allows it to defeat spinblockers more directly by using Earthquake or Head Smash.</p>
+
+[SET]
+name: Sunny Day
+move 1: Sunny Day
+move 2: Fire Blast / Flamethrower
+move 3: Solar Beam
+move 4: Calm Mind
+item: Life Orb / Heat Rock
+nature: Timid
+evs: 4 Def / 252 SpA / 252 Spe
+
+[SET COMMENTS]
+
+<p>This set combines Entei's access to Calm Mind and the advantages sunny weather brings to Fire-types. The idea is to switch Entei into a Pokemon it can force out, then set up a Calm Mind. If the opponent switches in a bulky Water-type, such as Milotic, Entei should then use Sunny Day to weaken Water-type attacks. In the sun, Milotic's Surf only does 23.18% - 28.03% to +1 Entei, while +1 Solar Beam will easily 2HKO Milotic in return. With the opponent's bulky Water-type destroyed, Entei can then continue to devastate the opponent's team with Calm Mind- and sun-boosted STAB attacks, making Entei extremely hard to wall without the use of Flash Fire Pokemon; in the sun, Entei's +1 Fire Blast is so powerful that it can even 2HKO Chansey after Stealth Rock damage.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>If Fire-types such as Moltres and Houndoom are bothersome to you, Stone Edge can be used instead of Calm Mind. Calm Mind is still preferred due to the additional power it grants Entei, though. Should one use this set on a Sunny Day team, Heat Rock is also an option for Entei to support the team more; be aware, however, that Entei itself will lose a great deal of power without Life Orb.</p>
+
+<p>Flash Fire Pokemon make Entei's life extremely difficult, especially Arcanine. After a Flash Fire boost, Arcanine's Flare Blitz in the sun will maim pretty much any Pokemon, while Entei cannot hurt Arcanine much in return. When using this set, one should scout out the opponent's team for Flash Fire Pokemon before throwing around Fire-type attacks indiscriminately. Dugtrio can trap and remove Houndoom and Ninetales, while Rhyperior is a decent counter to Arcanine.</p>
+
+<p>Since Entei lures in bulky Water-types like moths to a flame, Pokemon who can take advantage of weakened bulky Water-types make great teammates for Entei. Rock Polish Rhyperior, Dragon Dance Feraligatr, and Choice Band Arcanine can easily devastate the opponent's team once their bulky Water-type has been removed. Rapid Spin support also helps Entei immensely, since it loses 25% of its health every time it switches into Stealth Rock, and with Life Orb equipped, Entei will lose health quickly just to residual damage. Pokemon such as Blastoise and Hitmontop are good choices to provide this.</p>
+
+[SET]
+name: Mixed Calm Mind
+move 1: Calm Mind
+move 2: Fire Blast / Flamethrower
+move 3: Hidden Power Grass
+move 4: Stone Edge
+item: Life Orb
+nature: Timid
+evs: 4 HP / 252 SpA / 252 Spe
+ivs: 30 HP / 30 Atk / 30 SpA
+
+[SET COMMENTS]
+
+<p>This set aims to take full advantage of Entei's great Speed stat, usable Special Attack stat, and access to Calm Mind. While one might compare Entei to Ninetales (who can utilize Nasty Plot and Energy Ball), Entei has much better bulk and access to Stone Edge, allowing it to deal with Fire-types. Even with an Attack-reducing nature, Stone Edge is still powerful enough to KO most Fire-types. As for Arcanine, if it has Intimidate, Entei should just Calm Mind up and attack it with boosted Fire-type attacks; if it has Flash Fire, Stone Edge will always score a 2HKO. Hidden Power Grass allows Entei to hurt Water- and Rock-types who resist Entei's STAB attacks and take little damage from Stone Edge.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Like for most offensive UU special attackers, Chansey walls this set. Specially defensive Clefable can also take its hits and use Encore or a status-inducing move to make Entei's life miserable. With Haze, Milotic can erase Special Attack boosts from Calm Mind and defeat Entei relatively easily. Azumarill ignores Entei's Special Defense boosts and deals massive damage with Aqua Jet. Dugtrio pairs quite well with Entei, as it can trap and remove Chansey with Beat Up. Hitmontop and Hitmonlee are also great teammates for Entei, since they can scare away Clefable and Chansey while using Rapid Spin to clear away Stealth Rock. As for Milotic and Azumarill, Venusaur and Toxicroak are excellent switch-ins to them, as Venusaur can cripple opposing Pokemon with its powerful STAB attacks or Sleep Powder, while Toxicroak can easily set up Swords Dance or Nasty Plot and proceed to sweep.</p>
+
+[SET]
+name: Mono-Attacker
+move 1: Lava Plume / Flamethrower
+move 2: Calm Mind
+move 3: Rest
+move 4: Sleep Talk
+item: Leftovers
+nature: Bold
+evs: 252 HP / 252 Def / 4 SpD
+
+[SET COMMENTS]
+
+<p>This set takes full advantage of Entei's excellent bulk and access to Calm Mind to become a sturdy mono-attacker. While this set is not very efficient against offensive teams, it is an excellent "win-condition" sweeper who can sweep opposing stall teams should its counter go down. With Calm Mind, Entei can eventually boost its Special Attack to the point where it is powerful enough to sweep, while RestTalk stops status afflictions, especially Toxic, from taking it down. Lava Plume complements this set perfectly, as it can potentially burn physical attackers who could bypass Entei's Special Defense boosts, crippling them and rendering them next-to-useless. Entei's ability, Pressure, also helps this set greatly, as it allows Entei to PP stall opposing Pokemon should the occasion arise.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>There are multiple ways to EV Entei. One can strive for a faster variant with 252 HP / 60 Def / 196 Spe to outspeed Venusaur, but the lost bulk is quite significant. Another way to EV Entei is to utilize a spread of 252 HP / 200 Def / 56 Spe, which enables Entei to outspeed Adamant Absol. Lava Plume is the preferred attack since it has a better burn rate, but Flamethrower can be used in its place to guarantee a 2HKO on Chansey at +6 (should Entei strike a critical hit).</p>
+
+<p>Like most mono-attackers, Entei can be stopped by a lot of Pokemon. Clefable can shut Entei down with Encore, while Haze Milotic removes Entei's Calm Mind boosts. Azumarill and Feraligatr, should they avoid getting burned by Lava Plume, can use Waterfall to deal massive damage to Entei. Trick, Encore, Perish Song, and Curse from a Ghost-type like Spiritomb can all ruin Entei. Rhyperior can switch in with relative safety (though it must beware of a Lava Plume burn) and destroy Entei with Stone Edge or Earthquake. For this reason, Fighting-types such as Hitmontop and Hitmonlee are great partners, as they can easily scare away Clefable and remove Stealth Rock with Rapid Spin. Choice Band Spiritomb can absorb Trick from most Psychic- and Ghost-types, and remove them from the battle by using Pursuit. Venusaur and Toxicroak are again good switch-ins to Milotic and Azumarill. A Tangrowth or Milotic of your own can also deal with Feraligatr nicely.</p>
+
+[Other Options]
+
+<p>Entei's movepool is small, so it does not have many other options at its disposal. It is one of the select few Pokemon who have access to Eruption, so running a Choice Specs or Choice Scarf set is not a bad idea, although Typhlosion is better at this in nearly every aspect, boasting the same Speed but higher Special Attack and a wider movepool. Will-O-Wisp is an option that can be used to cripple various Pokemon. Roar can be used as a decent pseudo-hazing move, while Reflect is also available to boost Entei's Defense.</p>
+
+[Checks and Counters]
+
+<p>Haze Milotic is easily Entei's number one counter. With Haze, it can remove Calm Mind boosts and threaten Entei with a full-powered STAB Surf. It also has enough bulk to take whatever attack physical Entei tries to throw at it. Azumarill can take on most specially-based sets Entei runs by bypassing Calm Mind, while Slowbro utterly walls any physical set. Blastoise can also switch into most Entei, and specially-based sets can easily be Roared away in a pinch. Clefable shuts down most special Entei with Encore and its good special bulk, while Chansey walls the mixed set and the Sunny Day set to an extent. Pokemon with Flash Fire can defeat any special attacking set that lacks Stone Edge. Depending on the Hidden Power used, Substitute + Calm Mind Entei will run into trouble against either Rhyperior and Lanturn if it is running Hidden Power Electric, or Fire-types if it is using Hidden Power Grass.</p>

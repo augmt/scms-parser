@@ -1,0 +1,55 @@
+[Overview]
+
+<p>This generation has been extremely kind to Mamoswine, and it is now endowed with a reliable Ice-type STAB attack: Icicle Crash. Icicle Crash and Earthquake score 2HKOes on nearly everything in the Uber tier, with the assistance of Stealth Rock. Mamoswine also has access to priority in the form of Ice Shard, which can be extremely useful in Ubers with the plethora of Dragon-types that run rampant. Mamoswine also has an ever-useful immunity to Electric-type attacks, which provides it with many opportunities to switch in. However, Mamoswine is not without its flaws. Its below-average Speed is its biggest downfall, and makes it a bit reliant on prediction. Mamoswine's typing makes it vulnerable to all forms of entry hazards, which will wear it down quickly. It also is a bit frail by Ubers standards, and can't take many hits, if any, on the special side. Do not let these downfalls deter you from using Mamoswine; it can be a terror on the battlefield when used correctly.</p>
+
+[SET]
+name: Physical Attacker
+move 1: Icicle Crash
+move 2: Earthquake
+move 3: Ice Shard
+move 4: Substitute / Stealth Rock
+item: Life Orb
+ability: Snow Cloak
+nature: Adamant
+evs: 252 Atk / 4 Def / 252 Spe
+ivs: 29 HP
+
+[SET COMMENTS]
+
+<p>Mamoswine is quite powerful, and has the ability to 2HKO basically everything in the tier, save for its two hard counters. A reliable physical Ice STAB is what really gives Mamoswine its niche, however, as it allows it to 2HKO common physical walls such as Giratina, Groudon, and Lugia with Stealth Rock support. Its other STAB is not forgotten though. Ground is an amazing STAB that lets Mamoswine send Steel-types that aren't immune to it running. Even Ferrothorn is 2HKOed by it, despite its great defensive prowess.</p>
+
+<p>Icicle Crash is really what gives Mamoswine its niche--not many Pokemon have a powerful physical Ice-type move. Earthquake is raw power, and can tear through most neutral targets that resist Icicle Crash. Ice Shard is a powerful, and extremely useful, priority move. In a tier where Dragon-type Pokemon run rampant, Ice Shard finds itself many uses. Ice Shard OHKOes Rayquaza, Garchomp, and Shaymin-S, and does a truckload to most Dragon-type Pokemon. The last slot is a bit of a filler, but it can be useful. Mamoswine will often cause an obvious switch, and you will need to predict what switches in to safely 2HKO it. Substitute can ease this kind of prediction and make Mamoswine's life easier, but it will make Mamoswine die even faster to hazards and Life Orb recoil. Stealth Rock can go in the final slot if your team is desperate for a Stealth Rock user, but there are far better users of the move.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Here are some calculations to show just how powerful Mamoswine is, and show how much it appreciates Stealth Rock:</p>
+
+<ul class="damage_calculation">
+<li>Icicle Crash vs. 252/252+ Groudon 55.4% - 65.8%</li>
+<li>Icicle Crash vs. 252/252+ Lugia 56.7% - 67.8%</li>
+<li>Ice Shard vs. 252/252+ Lugia 27.4% - 32.2%</li>
+<li>Icicle Crash vs. 248/248+ Giratina 50.5% - 59.6%</li>
+<li>Icicle Crash vs. 0/0 Giratina-O 90.2% - 106.6%</li>
+<li>Icicle Crash vs. 248/0 Ho-Oh 52% - 61.7%</li>
+<li>Earthquake vs. 252/0 Dialga 98.5% - 116.3%</li>
+<li>Earthquake vs. 252/0 +1 Dialga  65.8% - 77.7%</li>
+<li>Earthquake vs. 4/0 Kyogre  74.6% - 88%</li>
+<li>Ice Shard vs. 4/0 Kyogre 14.9% - 17.5%</li>
+<li>Earthquake vs. 252/0 Steel Arceus 89.6% - 105.9%</li>
+<li>Earthquake vs. 252/0 Ferrothorn 52.8% - 62.2%</li>
+<li>Ice Shard vs. 4/0 Rayquaza 115.9% - 137.5%</li>
+<li>Ice Shard vs. 4/0 Garchomp 110.6% - 130.7%</li>
+<li>Ice Shard vs. 4/0 Shaymin-S 138% - 164.9%</li>
+</ul>
+
+<p>As you can see, Stealth Rock is necessary to secure a few important KOs. Mamoswine is not that reliable of a Stealth Rock user, so it is wise to carry one, such as Dialga or Groudon. It may seem odd to use Adamant and max Speed, but both are necessary. The max Speed allows it to outspeed base 90 Speed Pokemon that do not invest heavily. If they do invest heavily, they will likely use a Speed-boosting nature, in which case Jolly would not help anyways. Adamant's power is also necessary to score key 2HKOes against defensive Pokemon such as Ferrothorn. It may be tempting to use Expert Belt to lessen the passive damage Mamoswine takes, but it really needs that extra power, especially against Pokemon like the aforementioned Ferrothorn, where it has to rely on raw power to muscle through. Stone Edge may be a bit tempting to use, but notice the Icicle Crash calculation vs. Ho-Oh--it is most likely dying, making Stone Edge highly unnecessary. Paralysis support is also something to consider when using Mamoswine, as it is on the slow side, so luring in and paralyzing the Pokemon that can cause it trouble can really give it the edge to push through the opposing team. Kyogre, Jirachi, and Ferrothorn all excel in spreading paralysis.</p> 
+
+<p>Zekrom makes a great partner to Mamoswine, as it can decimate Pokemon like Skarmory, Kyogre, and Bronzong that would otherwise give Mamoswine a hard time. Mamoswine can also take down Groudon for Zekrom while it resists a good portion of Mamoswine's weaknesses, giving it something to switch in on. When using Mamoswine, it is good to have Pokemon that can switch into the likes of Kyogre. Palkia fits the bill, and can also, depending on the weather, incinerate and electrify Skarmory and Bronzong. Mamoswine can also use teammates that lure Electric-type attacks for it to switch in on. Kyogre is one of such Pokemon, and it can also drown Skarmory and Bronzong with Surf or Water Spout. If you really hate the oft-repeated Steel-type duo that give Mamoswine trouble, you can use Magnezone to send them packing. Finally, a teammate with Rapid Spin can help Mamoswine, as it is vulnerable to all forms of hazards. Forretress and Tentacruel are examples of Pokemon that can work well in Ubers and provide Rapid Spin support, in addition to other useful support options.</p>
+
+[Other Options]
+
+<p>Mamoswine doesn't really have many useful options that aren't already detailed above. You could use an Endeavor Lead set with Stealth Rock, Ice Shard, and a Focus Sash, but that's iffy at best. A Choice Band set can capitalize on Mamoswine's raw power, but it will rely even more heavily on prediction. Icicle Spear does more damage if it hits four times, and, in addition, it can break Substitutes; however, it is otherwise an unreliable method of causing damage. A set with Curse could be used, but Mamoswine would be demolished by basically every special attacker. Body Slam can let Mamoswine spread its own paralysis, but it's wasting its potential. Finally, Superpower would have its uses if not for the fact that it is illegal with Icicle Crash.</p>
+
+[Checks and Counters]
+
+<p>Mamoswine is hard countered by Skarmory and Bronzong. It can't really run anything to break through them, so it will have to rely on teammates. Defensive Arceus that aren't weak to its STAB moves aren't 2HKOed with some investment, and can burn Mamoswine with Will-O-Wisp, taking away any chance it has of causing havoc. Manaphy can outspeed Mamoswine and OHKO it easily with Surf. It also isn't taken down by Earthquake + Ice Shard unless it invests next to nothing in its defenses and a significant amount of entry hazards are down. Entry hazards in general will wear down Mamoswine quite quickly in conjunction with Life Orb. Reshiram is another Pokemon that sends Mamoswine running, as it isn't weak to Ice Shard and can outspeed Mamoswine and OHKO it, however, it can't switch in directly for fear of Earthquake. A fast Kyogre is in a similar boat; it can easily OHKO Mamoswine with its STAB moves and resists Ice Shard, but it too will have trouble switching in directly. As long as it doesn't switch into Icicle Crash, Lugia can come in and set up Reflect on Mamoswine. It will still take a decent chunk of damage, but it can Roost away the wounds Mamoswine has inflicted upon it. If Giratina manages to switch in safely, it can burn Mamoswine, making it useless. Scizor can Bullet Punch Mamoswine into oblivion, and Mamoswine can't touch a Heatran with an Air Balloon. In general, Mamoswine is easily checked by faster Pokemon who aren't weak to Ice Shard.</p>

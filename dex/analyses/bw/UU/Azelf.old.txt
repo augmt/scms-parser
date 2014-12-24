@@ -1,0 +1,91 @@
+[Overview]
+
+<p>With high offensive stats, great Speed, and an expansive movepool filled with both offensive and supportive options, Azelf has the tools it needs to be a powerful threat in UU. It has a great boosting move in Nasty Plot, as well as outstanding coverage, which allows Azelf to function as a powerful special sweeper. Azelf is also one of the best leads in the UU metagame, as its high Speed and access to useful support moves such as Stealth Rock, Taunt, and Reflect allow it to support its team while still posing a legitimate threat. However, Azelf's low defenses mean that it will often fold to most powerful attacks. Its defensive typing is also very poor, giving it weaknesses to three common attacking types in UU. However, Azelf is still a threat that must not go underestimated.</p>
+
+[SET]
+name: Nasty Plot
+move 1: Nasty Plot
+move 2: Psychic / Psyshock
+move 3: Fire Blast / Flamethrower
+move 4: Thunderbolt / Grass Knot
+item: Life Orb
+nature: Timid
+evs: 252 SpA / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>Of all Azelf sets, this set performs best in the sweeping category. This is because Nasty Plot boosts Azelf's Special Attack, allowing it to break through a lot of threats when backed by its blistering Speed stat. Psychic is the STAB move of choice, as it breaks through anything that doesn't resist it and that doesn't have high special bulk. Fire Blast allows Azelf to get past Steel-type Pokemon such as Registeel and Empoleon, Pokemon that resist Azelf's STAB Psychic and that would otherwise phaze or set up on it. It also helps against Weavile and Bisharp, two of the Dark-type Pokemon that tend to switch in on Psychic. Thunderbolt allows Azelf to muscle past the bulky Water-type Pokemon found in the tier, barring Swampert, and adds decent coverage alongside Psychic and Fire Blast. Thunderbolt is also useful for preventing Azelf from being walled by Houndoom, as it is immune to Psychic and Fire Blast thanks to its typing and ability. If opting for Psyshock over Psychic so that targets such as Snorlax and Porygon2 won't interrupt Azelf's sweep, one should also use Grass Knot over Thunderbolt to ensure that bulky Pokemon such as Rhyperior and Swampert cannot come in, tank Psyshock, and beat Azelf.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Psyshock can be used over Psychic to gain more overall damage on special walls such as Snorlax and Porygon2, but it does less damage in most other situations. In the same sense, Flamethrower can be used over Fire Blast if the low PP and shaky accuracy is unappealing to you. An Expert Belt can be used over Life Orb if the drop in HP is unfavorable, but its lower damage output will be noticeable, as not every move will get a boost every time it is used. Shadow Ball can be used in order to hit very specific targets such as Xatu or Cofagrigus if your team struggles with them, but really reduces Azelf's coverage options, leaving it even more vulnerable to Dark-type Pokemon such as Krookodile or Houndoom.</p> 
+
+<p>Azelf greatly wants entry hazard support from Pokemon such as Empoleon and Qwilfish, as they help Azelf get past Focus Sashes, making for easier sweeps. They also weaken opponents, which turns many of Azelf's 2HKOs into OHKOs, such as boosted Thunderbolt against Suicune. Azelf also appreciates teammates such as Mienshao and Heracross to remove the Dark-type Pokemon found in the Underused tier so Azelf can boost and use its attacks without fear of Pursuit or Sucker Punch.</p>
+
+[SET]
+name: All-Out Attacker
+move 1: Psychic / Psyshock
+move 2: Fire Blast / Flamethrower
+move 3: Shadow Ball
+move 4: Stealth Rock / U-turn / Grass Knot
+item: Life Orb
+nature: Timid
+evs: 252 SpA / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>Thanks to its high Speed and Special Attack stats, Azelf can forgo the need to set up with Nasty Plot and attack head-on. However, unlike the Nasty Plot set, this variant is not nearly as powerful, and is more useful for picking off weakened opponents. Psychic is Azelf's best STAB attack, hitting the array of Fighting- and Poison-type Pokemon found in the Underused tier, such as Roserade, Heracross, or Machamp, for heavy damage. Fire Blast gains super effective coverage on the Steel- and Ice-types found in UU, such as Bronzong or Froslass. Shadow Ball is useful against the array of opposing Psychic- and Ghost-type Pokemon found throughout the tier, such as Xatu, Chandelure, or Cofagrigus. The last slot is based on preference. Stealth Rock is great for team support and damaging opponents as they switch in, U-turn is handy for scouting the opponent and providing your team with momentum, and Grass Knot is handy for punishing heavier Pokemon such as Rhyperior, Swampert, and Golurk, opening holes in the opposing team for Azelf's teammates to take advantage of.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Thunderbolt is also highly useful in the fourth slot, as it prevents Houndoom from completely walling Azelf and does considerable damage to the plethora of bulky Water-type Pokemon found in the tier. Psyshock is a valid option over Psychic in order to do more damage against the likes of Porygon2 and Snorlax, but tends to be weaker in most other situations. Azelf is typically better off letting a teammate such as Heracross or Scrafty remove the special walls before it begins tearing the opposing team up. Flamethrower can be used if Fire Blast's lower accuracy and PP are unappealing to you, but will be significantly weaker. Explosion can be used in the fourth moveslot to remove a troublesome Pokemon that is shutting your team down, clearing the path for another Pokemon to sweep.</p> 
+
+<p>This Azelf variant still suffers greatly against Dark-types, especially Houndoom and Weavile, and appreciates having them removed or heavily damaged by Fighting-type friends, such as Cobalion and Mienshao, before coming in. Azelf also appreciates entry hazard support from bulky Pokemon such as Empoleon, Rhyperior, Bronzong, and Roserade to increase its overall damage output.</p>
+
+[SET]
+name: Dual Screens
+move 1: Reflect
+move 2: Light Screen
+move 3: Taunt / U-turn
+move 4: Stealth Rock / U-turn
+item: Light Clay
+nature: Timid / Jolly
+evs: 252 HP / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>Thanks to its blistering base 115 Speed and great supporting movepool, Azelf works as the second-best dual screener in the game, falling short of only Deoxys-S. This set helps more frail Pokemon such as Sharpedo and Porygon-Z set up and begin their sweeps, as it supplies them with a temporary defensive boost from Light Screen and Reflect. Taunt shuts down opposing Taunt users, walls, and in extreme cases, setup sweepers. This can also help keep hazards off Azelf's side of the field until setup is complete. Stealth Rock is great for general team support, damaging the opponent upon switching in, and breaking any stray Focus Sashes that might delay the sweep of a teammate.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Light Clay is used to lengthen the effects of Light Screen and Reflect from 5 turns to 8, giving your team more than enough time to set up and begin sweeping. Jolly should be used with U-turn, but otherwise Timid is better to reduce Foul Play and confusion damage. U-turn can be used over either Taunt or Stealth Rock if the threat of being Taunted by faster Pokemon is too high. It also allows for a sweeper to be brought in while damaging the opponent. Explosion can be used to heavily damage the opponent and gain a quick transition to an awaiting Pokemon, but is generally not recommended unless you're packing a backup screener such as Xatu or Cresselia, as it prevents Azelf from ever setting up dual screens for the rest of the match.</p> 
+
+<p>Because Crobat outspeeds and shuts this set down, Pokemon such as Raikou and Zapdos make for great teammates, as they don't mind Taunt as much, and can beat Crobat one-on-one.</p>
+
+[SET]
+name: Choice Band
+move 1: Zen Headbutt
+move 2: Fire Punch
+move 3: Ice Punch
+move 4: U-turn / Trick
+item: Choice Band
+nature: Jolly
+evs: 252 Atk / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>Despite having a very usable base 125 Attack, Azelf's only viable attempt at physical offense is with a Choice Band, simply because it lacks a way to boost its Attack. This set works well as a revenge killer, simply because it isn't powerful enough to break walls like other physical attackers, such as Darmanitan or Heracross. Zen Headbutt gains STAB, which will deal decent damage to most of the tier, but being locked into this move can terminate Azelf, as UU has its fair share of Pursuit users, most of which are Dark-types. Fire Punch hits Steel-type Pokemon such as Cobalion for solid damage. Ice Punch hits the handful of Grass- and Flying-type Pokemon such as Shaymin and Gligar for super effective damage, rounding out coverage with Zen Headbutt and Fire Punch. U-turn can be used for scouting purposes, generating momentum, and hitting Dark-type switch-ins that would be expecting a Zen Headbutt. However, Trick can be used over U-turn to cripple setup Pokemon and walls, as well as giving Azelf free reign to switch its moves.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Thunder Punch could be used to hit bulky Water-type Pokemon such as Suicune and Milotic harder, but is generally inferior to the other two elemental punches in terms of providing coverage. Explosion is a more than viable option that can leave a hell of a dent in the opponent's team, as it basically OHKOes anything that doesn't resist it or has a massive Defense stat, leaving your team room to pull off a sweep.</p>
+
+<p>In order for Choice Band Azelf to be of full use, Pursuit users such as Heracross or Houndoom need to be off the field so Azelf can later switch in without fear. Azelf also appreciates the removal of Dark-type Pokemon and entry hazard support from Qwilfish or Bronzong, as Azelf forces switches and doesn't want to fear using its STAB move. Fighting-types such as Heracross and Scrafty excel at removing Dark-types, and are thus great teammates for Azelf.</p>
+
+[Other Options]
+
+<p>A Choice Specs set could be used for a powerful hit-and-run attacker, but Azelf is very frail, and the prospect of being locked into Psychic against Weavile or other Dark-types is very risky and is typically not recommended. Hidden Power Fighting and Shadow Ball are viable options on the Nasty Plot set, but take away coverage. Substitute eases the need for predictions, but is not recommended because of Azelf's paper-thin defenses and the lack of Pokemon it could set a Substitute up on. A Choice Scarf set consisting of Trick, Explosion, Zen Headbutt, and Ice Punch can be used, but it receives stiff competition from other Choice Scarf users, such as Flygon and Raikou.</p>
+
+[Checks and Counters]
+
+<p>Dark-types, especially Weavile and Houndoom, are immune to Azelf's STAB attacks and pack Pursuit and other powerful Dark-type attacks to shut it down. Weavile is naturally faster and can use Pursuit or Night Slash to destroy Azelf, and Houndoom has access to Sucker Punch, provoking mind games with Azelf that require incredible prediction skills to work around. Yanmega and Sharpedo typically have Speed Boost and Protect, and are able to outspeed Azelf after a single boost and threaten it with STAB Bug Buzz and Crunch, respectively. Snorlax fears nothing but boosted Psyshocks, and has Rest, Whirlwind, Body Slam, and Crunch to shut down Azelf. Porygon2 can weather just about anything but boosted Hidden Power Fighting and can paralyze Azelf, set up Trick Room to use Azelf's Speed against it, or KO with Thunderbolt, Ice Beam, or Tri Attack. Victini commonly carries a Choice Scarf, can take anything but Shadow Ball, and can OHKO Azelf with V-create.</p>
