@@ -1,164 +1,81 @@
 Overview
 ########
-- Outstanding bulk with 120 / 120 / 130 defenses make Cresselia a staple to any team.
-- Amazing movepool, giving Cresselia vast options for support and attacking.
-- Blessed with Levitate for immunity against Ground-type moves such as Earthquake.
-- Prone to being setup bait, especially against sweepers carrying Substitute.
-- Knock Off has become commonplace which is a huge threat to Cresselia.
-- Few major threats.
-- Decent offensive power.
-- Arguably one of the best Pokemon in the Doubles metagame.
+
+Cresselia possesses outstanding bulk and an amazing movepool, making it a top-tier threat in Doubles with the ability to take hits well and run many different sets. Cresselia is an effective fit on various types of teams, providing support or offensive presence with moves such as Trick Room, Psyshock, and even Helping Hand. However, it is prone to becoming setup bait, especially for threatening sweepers carrying Substitute. Furthermore, Knock Off is a commonplace move that is very threatening to Cresselia due to the fact that it takes a significant amount of damage from the attack and loses its precious item.
 
 Support
 ########
 name: Support
 move 1: Icy Wind / Thunder Wave
 move 2: Helping Hand
-move 3: Psyshock / Moonblast
-move 4: Rest / Protect
+move 3: Psyshock
+move 4: Light Screen / Protect
 ability: Levitate
-item: Chesto Berry / Leftovers
-evs: 240 HP / 12 Def / 60 SpA / 196 SpD
+item: Sitrus Berry / Safety Goggles
+evs: 252 HP / 100 Def / 44 SpA / 112 SpD
 nature: Calm
 
 Moves
 ========
-- Icy Wind is a great spread move for speed control so that your partner will be able to outspeed. Thunder Wave is also useful for speed control and you can also have that occasional 25% paralysis hax.
-- STAB Psyshock hits Hitmontop and Venusaur hard and is useful against specially defensive walls. Moonblast can also be a viable option as it is 4x super effective against Scrafty and gives Cresselia the ability to deal decent damage to Dark-types.
-- Helping Hand assists in giving your partner Pokemon a 1.5x boost, which can be lethal in most situations.
-- ChestoRest can keep Cresselia alive for a longer period of time for further support. Protect is convenient against incoming super effective attacks such as Shadow Ball and Crunch, and also gives Cresselia a free turn to restore health when using Leftovers.
+
+Icy Wind is a spread move that provides speed control and is 4x super effective against Landorus-T, Shaymin-S, and Salamence. Thunder Wave is also great for permanent speed control and the possibility to immobilize a foe. Helping Hand assists in giving Cresselia's partner a 1.5x power boost, which can be helpful in many situations. Psyshock is a reliable STAB move because more of the Doubles metagame has bulkier Special Defense. Light Screen boosts the team's overall Special Defense significantly or Protect can be used to add more survivability.
 
 Set Details
 ========
-- A Calm nature with 240 HP and 196 SpD EVs allows Cresselia to be a specially defensive wall that's difficult to take down. Can take 4 hits of Heat Wave from Timid Charizard Y in the sun.
-- 60 SpA EVs let Cresselia 2HKO max HP Hitmontop and Venusaur, while guaranteeing 80% damage against Landorus-T and Garchomp. Invest the remaining EVs in defense for a little added bulk.
-- Chesto Berry + Rest lets Cresselia live longer for further support. Leftovers is a solid alternate option together with Protect for a free turn for restoring HP.
+
+A Calm nature with maximum HP investment and 112 Special Defense EVs enable Cresselia to be a specially defensive wall that's difficult to take down. With the assitance of a Sitrus Berry, Cresselia can avoid getting 2HKOed by a Shadow Ball from Modest Mega Gengar. Furthermore, the 100 Defense EVs with the Sitrus Berry ensure that Cresselia will survive a Pin Missile from Adamant Mega Heracross, an extremely strong attack, and also let it avoid being 2HKOed by a Double-Edge from Mega Kangaskhan. Safety Goggles can assure Cresselia is not shut down by Spore or Sleep Powder.
 
 Usage Tips
 ========
-- Main purpose of this set is for support and to provide partner Pokemon with Speed advantage and added offensive firepower.
-- Cresselia is also extremely useful in switching into most incoming attacks thanks to her impressive bulk.
-- Cresselia usually slows the opposing team down with Icy Wind until her partner is able to outspeed. She then proceeds to spam Helping Hand to assist her partner in dealing major damage.
-- Psyshock and Moonblast should only be used if they are super effective against the opposing Pokemon or if it is low enough to KO.
+
+The main purpose of this set to provide Cresselia's partner with speed control and a boost to its attacks. However, Cresselia is also extremely useful in switching into most attacks thanks to its impressive bulk. Cresselia should slow the opposing Pokemon down with Icy Wind until its partner is able to outspeed them, before spamming Helping Hand to assist its partner in dealing major damage. Psyshock should only be used if it is super effective against the opposing Pokemon or if the enemy is within KO range.
 
 Team Options
 ========
-- This set is most effective on offensive teams looking for a little bulk and Speed advantage to be able to outspeed foes and sweep.
-- Sweepers such as Mega Kangaskhan, Mega Mawile, Landorus, Mega Charizard Y, Heatran, Azumarill, and Keldeo enjoy speed control.
-- Cresselia can fit into virtually any team looking for support.
-- Fighting-types such as Hitmontop and Scrafty are good partners, as they can eliminate Bisharp, Tyranitar, and Hydreigon who pose a threat to Cresselia. Fire-types such as Heatran and Talonflame are also useful for taking care of Scizor and Mega Mawile.
-- Earthquake users such as Landorus-T and Garchomp can Earthquake freely thanks to Levitate.
 
-Trick Room
+This set is most effective on offensive teams looking for a Pokemon that can take hits and provide speed control to aid with sweeping. Powerful attackers such as Mega Kangaskhan, Mega Mawile, Landorus, Mega Charizard Y, Heatran, Azumarill, and Keldeo all enjoy speed control for beating faster checks. Speedy Fighting-types such as Terrakion and Keldeo or those with priority moves make good partners, as they can eliminate Bisharp, Tyranitar, and Hydreigon before they inflict damage towards Cresselia with their powerful Dark-type STAB attacks. Fire-types such as Heatran and Talonflame are also helpful for taking care of annoying Steel-types that will support Cresselia such as Scizor. Earthquake users such as Landorus-T and Garchomp are able to spam Earthquake thanks to Levitate, while also taking care of Steel-types, notably Heatran. Garchomp appreciates speed control as well to outspeed and beat Latios.
+
+Offensive Trick Room
 ########
 name: Trick Room
-move 1: Trick Room
-move 2: Psyshock / Moonblast
-move 3: Reflect / Helping Hand
-move 4: Protect / Light Screen
+move 1: Psyshock / Moonblast
+move 2: Ice Beam
+move 3: Hidden Power Ground / Hidden Power Fighting
+move 4: Trick Room
 ability: Levitate
-item: Mental Herb / Light Clay
-evs: 252 HP / 80 Def / 176 SpD
+item: Expert Belt / Sitrus Berry
+evs: 252 HP / 12 Def / 228 SpA / 16 SpD
 ivs: 0 Spe
 nature: Sassy
 
 Moves
 ========
-- Trick Room allows the slower Pokemon to move first, which helps slow sweepers gain an advantage.
-- STAB Psyshock hits Fighting-types pretty hard, but Moonblast enables Cresselia to deal decent damage to Dark-types, notably Scrafty.
-- Helping Hand gives the partner Pokemon, preferably a Trick Room sweeper, a significant Attack boost.
-- Protect is useful for stopping incoming super effective attacks, although Light Screen and Reflect give the team a little added bulk.
-- Reflect and Light Screen are interchangeable; use the screen your team benefits from the most.
+
+Trick Room gives slower allies a chance to sweep. Cresselia's STAB-boosted Psyshock hits Fighting-types hard, but Moonblast enables Cresselia to deal super effective damage to Dark-types such as Scrafty. Ice Beam gives Cresselia extra coverage, dealing 4x super effective damage to common threats such as Landorus-T and Garchomp. Hidden Power Ground lets Cresselia 2HKO Heatran, a threat that would normally wall Cresselia, as it resists Psychic- , Ice-, and Fairy-type attacks. Hidden Power Fighting allows Cresselia to deal 4x super effective damage to Bisharp.
 
 Set Details
 ========
-- A Sassy nature and 0 Speed IVs allow Cresselia to function effectively in Trick Room.
-- Mental Herb guarantees that Trick Room will be set up, as Taunt will be ineffective.
-- 252 HP and 80 Def EVs let Cresselia take three Knock Offs from Adamant max Attack Scrafty and three Brave Birds from Adamant max Attack Life Orb Talonflame.
-- Light Clay is also a great option as it lets Reflect and Light Screen last for 8 turns, which can provide your team with significant bulk.
-- Sitrus Berry is an effective alternative if you want to increase Cresselia's durability.
+
+The main purpose of this set is to set up Trick Room and hit common threats hard. A Sassy nature and 0 Speed IVs allow Cresselia to function as effectively as possible in Trick Room. The EV spread lets Cresselia survive a Life Orb-boosted Knock Off from Bisharp while OHKOing 0 / 4 Landorus-T with Ice Beam. Expert Belt lets Cresselia deal more damage to the Pokemon it hits for super effective damage without compromising its bulk as Life Orb would do. Sitrus Berry increases Cresselia's longevity and lets it set up Trick Room more times and deal extra damage to foes. 
 
 Usage Tips
 ========
-- The best way to use Trick Room Cresselia is in, well, Trick Room. Protect with your partner Pokemon, and set up Trick Room with Cresselia.
-- Attempt to keep Cresselia and a partner sweeper alive for a possible late-game sweep.
-- Use Light Screen or Reflect immediately after Trick Room to provide your team with a lot of bulk.
-- Cresselia is great for switching into due to her ability to take multiple hits thanks to her amazing bulk.
-- Use Cresselia as a support in dealing a little bit of damage along with your partner, or use Helping Hand to give your partner an offensive boost.
+
+Trick Room should be set up as early in the battle as possible, as Cresselia functions best under it and it can aid slower partners. You should also attempt to keep Cresselia and a partner that can sweep under Trick Room alive for a possible late-game sweep when the opponent's checks have been removed. Cresselia is great for switching into attacks because its amazing bulk allows it to take multiple hits. Cresselia should also be used to support its partner by getting surprise KOs on checks such as Bisharp and Landorus-T.
 
 Team Options
 ========
-- Again Cresselia is great for Trick Room teams as it is almost guaranteed you can set up Trick Room with its impressive bulk.
-- Partner Cresselia with slow sweepers such as Mega Mawile, Rhyperior, and Mega Ampharos.
-- Pair Cresselia with a Fake Out user such as Scrafty or Hitmontop to flinch potential threats to increase chances of getting Trick Room up. Fighting-types also handle the common threats Cresselia has to deal with such as Tyranitar and Bisharp.
-- Earthquake users such as Rhyperior are a great match with Cresselia, as she carries Levitate.
-- Amoonguss can also be viable as Rage Powder is able to redirect Taunt and guarantee a Trick Room setup. It can also put a potential threat to sleep with Spore.
-- Lead with Cresselia + either a physical or special sweeper, as leading with two support Pokemon isn't really effective.
 
-Bulky Offensive
-########
-name: Bulky Offensive
-move 1: Psyshock
-move 2: Hidden Power Ground / Moonblast
-move 3: Ice Beam / Icy Wind
-move 4: Protect / Rest
-ability: Levitate
-item: Expert Belt / Chesto Berry
-evs: 252 HP / 252 SpA / 4 SpD
-ivs: 30 SpA / 30 SpD
-nature: Modest
-
-Moves
-========
-- STAB Psyshock deals significant damage to common Fighting-type threats such as Hitmontop and Conkeldurr. Moonblast is a great alternate option, as you can hit threats such as Scrafty and Sableye hard, with Cresselia OHKOing Scrafty with Expert Belt.
-- Hidden Power Ground Cresselia is the best check to Heatran, as it is 4x super effective and Cresselia's bulky defenses allow her to survive numerous hits from Heatran.
-- Ice Beam takes care of huge threats such as Landorus-T and Garchomp, but Icy Wind is also viable if you want to have speed control.
-- Protect stops incoming super effective attacks, such as Knock Off, Crunch, Shadow Ball, and Bug Bite. Rest can also be utilized for increased durability.
-
-Set Details
-========
-- Max HP Cresselia increases her survivablity and her ability to wreak havoc against the opponent.
-- Expert Belt gives Cresselia's attack a nice little boost, but you can use a ChestoRest combo if you want to keep her on the field longer.
-- Modest nature and max Special Attack maximize Cresselia's attacking power. Icy Wind is also a great spread move that can lock down Landorus-T and the Dragons running around.
-- Trick Room can be viable as it can turn Cresselia into a bulky sweeper, as well as assist your partner in gaining the Speed advantage if it is slower than the opposing team.
-
-Usage Tips
-========
-- The best way to use Bulky Offensive Cresselia is on a offensively oriented team looking for a little bulk and damage support.
-- This set can have an unexpected surprise factor, as most Pokemon switch into her with the idea that Cresselia will only set up.
-- Wide movepool allows Cresselia deal significant damage to numerous threats in the metagame.
-- Cresselia can also be switched multiple times thanks to her excellent defensive stats.
-- Hidden Power Ground is specifically for Heatran and other Pokemon that are 4x weak to it. STAB Psyshock is more reliable as it hits with just about the same power and is more useful to spam constantly.
-
-Team Options
-========
-- Life Orb Terrakion is amazing paired alongside Cresselia, as Terrakion can take care of threats to Cresselia such as Bisharp, Tyranitar, and Scrafty.
-- Dark-type killers, such as Scrafty, Mega Gardevoir, Sylveon, and Keldeo, are great for helping keep Cresselia alive.
-- Intimidate users paired with Cresselia's Icy Wind can lower both the Attack and Speed of foes, which can be pretty useful in the long run.
-- Steel-types wall this Bulky Offensive Set so Mega Charizard Y, Heatran, and Landorus-T are great partners.
-- Earthquake users such as Landorus-T and Garchomp are free to attack thanks to Cresselia's Levitate.
+As the moveset suggests, Cresselia is great for Trick Room teams, as you will find many opportunities to set up Trick Room with its impressive bulk and hit foes that are weak to Cresselia's attacks for good damage with Expert Belt. You should partner Cresselia with slow, powerful Pokemon such as Mega Mawile, Rhyperior, and Mega Ampharos to get the most out of the Trick Room turns provided. A Fake Out user such as Scrafty or Hitmontop can flinch potential threats to increase the chances of setting Trick Room. Fighting-types also handle the common threats Cresselia has to deal with such as Tyranitar and Bisharp. Earthquake users such as Rhyperior pair well with Cresselia, as they can freely use their STAB attack without hitting Cresselia. Amoonguss can also be a viable partner, as Rage Powder redirects Taunt and aids in setting up Trick Room. It can also put a potential threat to sleep with Spore and benefits greatly from Trick Room.
 
 Other Options
 ########
 
-- Psychic is viable to hit harder against Pokemon that aren't specially defensive.
-- A max HP and max Defense Cresselia with a Bold Nature + Calm Mind can sweep unaware teams.
-- Access to both Sunny Day and Rain Dance makes Cresselia a great weather supporter.
-- Hidden Power Fire lets Cresselia put up a fight against Scizor and Ferrothorn.
-- Skill Swap is also an amazing option; you can give Heatran Levitate and not have to worry about Earthquake or Earth Power. Not to mention that Cresselia gains a Fire-type immunity in return.
-- Magic Coat bounces back the incoming status conditions Cresselia hates, such as Taunt and Toxic.
-- Safeguard can also be used to prevent annoying status conditions.
-- Gravity can raise the accuracy of moves, but it makes Cresselia and Flying-types vulnerable to Ground-type moves.
-- Cresselia also has access to Swagger, and can be paired with a physical sweeper carrying Lum Berry for a +2 attack boost.
-- Dual screens are useful even outside of Trick Room.
+Psychic is an option over Psyshock to hit physically defensive Pokemon harder. A Calm Mind set with maximum investment in HP and Defense EVs and a Bold Nature can catch teams off-guard and potentially sweep. Cresselia makes a great weather supporter with access to both Sunny Day and Rain Dance. Reflect is a useful support option if you want to increase your team's overall physical defense. Light Clay can be used to lengthen the time screens last. Hidden Power Fire lets Cresselia hit Mega Scizor and Ferrothorn for 4x super effective damage, as they take very little from any of its other attacks. Skill Swap is also a notable choice, as you can pass Levitate to Heatran and not have to worry about opposing Ground-type attacks while Cresselia gains an immunity to Fire-type attacks. You are also able to strip enemies of their useful abilities, such as Huge Power on Azumarill or Parental Bond on Mega Kangaskhan. Moonlight is a solid recovery move that replenishes 50% health and even more in sun. However, it is not recommended on sand or rain teams, as it will only heal 25%. Safeguard can be used to prevent crippling status conditions like Sleep and Paralysis as well as stop physical attackers from being burned by Will-O-Wisp. Gravity can raise the accuracy of moves such as Hydro Pump, but it also makes Cresselia and Flying-types vulnerable to Ground-type moves. Cresselia also has access to Swagger, and can be paired with a physical sweeper carrying Lum Berry for a +2 attack boost while disrupting the opposing team with confusion. Lunar Dance enables a crippled Pokemon to regain all of its HP with no status for a potential late-game sweep, although this is at the cost of Cresselia.
 
 Checks & Counters
 ########
 
-- Cresselia despises Knock Off and Dark-types can counter Cresselia if it is not carrying Moonblast.
-- Bulky Steel-types wall Cresselia if it does not have Hidden Power Ground, but some Steel-types, such as Scizor, Air Balloon Heatran, Aegislash (STAB Shadow Ball), and Escavalier (STAB Megahorn), wall Cresselia even with Hidden Power Ground.
-- Cresselia absolutely hates bulky Ghost-types such as Cofagrigus and Dusclops, which wall Cresselia with Pain Split + Will-O-Wisp.
-- Bisharp can switch into Icy Wind, gain a +2 Attack Boost due to Defiant, and proceed to sweep your team.
-- Pokemon carrying Substitute, such as SubTran, can set up on Trick Room and Support Cresselia.
-- STAB Technician Bug Bite from Scizor is a huge threat to Cresselia, as you can even get your precious Chesto or Sitrus Berry eaten.
-- Without Mental Herb, Taunt absolutely demolishes Cresselia, as Taunt prevents it from performing its role as a supporter or a Trick Room setter.
+**Typing Advantage**: Dark-types such as Bisharp, Scrafty, and Hydreigon can counter Cresselia if it is not carrying Moonblast, as they are immune to its STAB Psychic-type attacks. Bisharp and Scrafty can also run Knock Off, which Cresselia despises. Bisharp can even switch into Icy Wind and gain a +2 Attack boost due to Defiant. Ghost-types such as Chandelure and Mega Gengar can deal a lot of damage with their super effective STAB Shadow Ball. Mega Gengar must be careful though, as it takes a lot of damage from Cresselias STAB Psychic-type attacks. STAB Bug Bite from Scizor with a Technician boost is a huge threat to Cresselia, and it can potentially take Cresselia's Sitrus Berry. Mega Heracross also OHKOes Max HP Cresselia with Pin Missile if it has less than 100 Defense EVs. Genesect can constantly hit Cresselia with STAB U-turns while avoiding a possible Hidden Power Fire. Download can also give Genesect a +1 Attack boost, increasing U-turn's damage. Bulky Steel-types wall Cresselia without Hidden Power Ground, and some Steel-types, such as Scizor, Air Balloon Heatran, Aegislash, and Escavalier, wall Cresselia even with it. Scizor, Aegislash, and Escavalier can also hit back hard with super effective STAB attacks, but need to be wary of a potential Hidden Power Fire. Mega Mawile is an extra scary threat because it can take advantage of the Trick Room turns Cresselia provides and hit very hard.
+
+**Utility Moves**: Pokemon that carry Substitute such as Heatran can set up on Trick Room Cresselia and support Cresselia with ease. Without a Mental Herb, Taunt completely shuts down Cresselia, as it is unable to fulfill its role as a supporter or a Trick Room setter. Spore completely shuts down a Cresselia without Safety Goggles.
