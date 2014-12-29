@@ -248,26 +248,13 @@ def parse_setdex(setdex):
     return stream
 
 if __name__ == '__main__':
-    SETDEX_RBY = parse_scms("dex/analyses/rb")
-    with open("setdex_rby.js", "w") as rbfile:
-        rbfile.write("var SETDEX_RBY={" + parse_setdex(SETDEX_RBY) + "}};")
-
-    SETDEX_GSC = parse_scms("dex/analyses/gs")
-    with open("setdex_gsc.js", "w") as gsfile:
-        gsfile.write("var SETDEX_GSC={" + parse_setdex(SETDEX_GSC) + "}};")
-
-    SETDEX_RSE = parse_scms("dex/analyses/rs")
-    with open("setdex_rse.js", "w") as rsfile:
-        rsfile.write("var SETDEX_ADV={" + parse_setdex(SETDEX_RSE) + "}};")
-
-    SETDEX_DPP = parse_scms("dex/analyses/dp")
-    with open("setdex_dpp.js", "w") as dpfile:
-        dpfile.write("var SETDEX_DPP={" + parse_setdex(SETDEX_DPP) + "}};")
-
-    SETDEX_BW = parse_scms("dex/analyses/bw")
-    with open("setdex_bw.js", "w") as bwfile:
-        bwfile.write("var SETDEX_BW={" + parse_setdex(SETDEX_BW) + "}};")
-
-    SETDEX_XY = parse_scms("dex/analyses/xy")
-    with open("setdex_xy.js", "w") as xyfile:
-        xyfile.write("var SETDEX_XY={" + parse_setdex(SETDEX_XY) + "}};")
+    object_name = [
+        "SETDEX_BW", "SETDEX_DPP", "SETDEX_GSC",
+        "SETDEX_RBY", "SETDEX_ADV", "SETDEX_XY"
+        ]
+    file_name = [name.lower().replace("adv", "rse") for name in object_name]
+    subdirs = sorted(os.walk("dex/analyses").next()[1])
+    for index, gen in enumerate(subdirs):
+        setdex = parse_scms("dex/analyses/" + gen)
+        with open (file_name[index] + ".js", "w") as js_file:
+            js_file.write("var " + object_name[index] + "={" + parse_setdex(setdex) + "}};")
