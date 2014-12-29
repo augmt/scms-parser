@@ -29,19 +29,16 @@ def parse_scms(directory):
                               set_name = line[line.find("["):]
                           else:
                               set_name = tier + " " + line[line.find(" ")+1:]
-                          if set_name.find("Level") > -1 or set_name.find("Lv.") > -1: # skip over FEAR sets
-                              continue
                           set_details = get_set_details(tier, analysis)
-                          if ("nature" not in set_details and gen != "gs" and gen != "rb"):
-                              continue
                           if "Relic Song" in set_details["moves"]:
                               setdex[pokemon+"-P"].append({set_name:set_details})
                           if pokemon == "Aegislash":
                               setdex[pokemon+"-Shield"].append({set_name:set_details})
                               setdex[pokemon+"-Blade"].append({set_name:set_details})
-                              continue
                           if has_megastone(set_details):
                               append_mega_evolution(set_details, pokemon, set_name, setdex)
+                          if do_not_append(set_details, pokemon, set_name, gen):
+                              continue
                           setdex[pokemon].append({set_name:set_details})
     return setdex
 
@@ -140,6 +137,8 @@ def fixline(line):
         return line.replace("s:", ":")
     if line == "ivs: HP 0": # DP LC Riolu
         return "ivs: 0 HP"
+    if line == "item:": # XY Doubles Tornadus
+        return ""
     if line.find(" or ") > -1: # XY LC Froakie
         return line[:line.find(" or ")]
     if line == "4 HP IVs": # XY LC Vulpix
@@ -174,13 +173,11 @@ def get_moveset(line, analysis):
     return moveset
 
 def has_megastone(sdet):
-    """Checks a Pokemon's set's details and returns a bool as to whether the set
-    includes a Mega Stone or not."""
-    if "item" in sdet and ("ite" in sdet["item"] or sdet["item"] == "Blue Orb" or
-            "Dragon Ascent" in sdet["moves"] or sdet["item"] == "Red Orb"):
-        if sdet["item"] != "Eviolite" and sdet["item"] != "White Herb":
-            return True
-    return False
+    """Returns True if the sdet dict contains mention of a Mega Stone, a Red or
+    Blue Orb, or the move 'Dragon Ascent.'"""
+    return ("item" in sdet and ("ite" in sdet["item"] or "Dragon Ascent" in sdet["moves"] or
+            (sdet["item"] == "Blue Orb" or sdet["item"] == "Red Orb")) and
+            (sdet["item"] != "Eviolite" and sdet["item"] != "White Herb"))
 
 def append_mega_evolution(sdet, pokemon, set_name, setdex):
     """Appends a Pokemon's Mega Evolution or Primal Reversion to the setdex."""
@@ -195,6 +192,16 @@ def append_mega_evolution(sdet, pokemon, set_name, setdex):
     if sdet["item"] == "Blue Orb" or sdet["item"] == "Red Orb":
         mega_pokemon = "Primal " + pokemon
     setdex[mega_pokemon].append({set_name:mega_sdet})
+
+def do_not_append(sdet, pokemon, set_name, gen):
+    """Returns True if the set_name belongs to a FEAR set (if the set_name
+    contains the string "Level" or "Lv."), or there is no nature in the sdet
+    dict and the gen is not rb or gs, or the Pokemon is holding a Red or Blue
+    Orb, or the Pokemon is Aegislash."""
+    return ((set_name.find("Level") > -1 or set_name.find("Lv.") > -1) or
+            ("nature" not in sdet and gen != "gs" and gen != "rb") or
+            ("item" in sdet and (sdet["item"] == "Red Orb" or sdet["item"] == "Blue Orb")) or
+            (pokemon == "Aegislash"))
 
 def parse_setdex(setdex):
     """Parses the setdex dict and returns a string which is used to write a .js
