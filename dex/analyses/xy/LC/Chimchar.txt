@@ -1,0 +1,50 @@
+Overview
+########
+
+Chimchar is one of only two Fire-type Pokemon in Little Cup with access to Stealth Rock. It also has access to many other moves that make it a great lead, such as Fake Out, Taunt, Encore, and U-turn. Unfortunately, its average Speed stat prevents it from utilizing these moves effectively, as it is unable to outspeed many prominent leads in LC. Chimchar is also a poor Stealth Rock user, as although it is able to set up the entry hazard, it loses to all common Rapid Spin users and is shut down by most leads that are faster than it. Chimchar does have decent Attack and Special Attack, along with some great boosting moves in Swords Dance, Nasty Plot, and Bulk Up, but a combination of low Speed, a barren attacking movepool, and below-average bulk prevent it from being a viable offensive threat, particularly as it is outclassed as an offensive Fire-type by Ponyta, Larvesta, and Vulpix.
+
+Lead
+########
+name: Lead
+move 1: Stealth Rock
+move 2: Taunt / Encore
+move 3: Fake Out
+move 4: Fire Blast / Overheat
+ability: Blaze
+item: Focus Sash
+evs: 4 HP / 84 Def / 212 SpA / 4 SpD / 188 Spe
+nature: Timid
+
+Moves
+========
+
+Chimchar is a moderately fast Stealth Rock user that can setup the hazard consistently. Both Taunt and Encore prevent Chimchar from becoming set up bait: Taunt can prevent a slower lead from setting up entry hazards or attempting to boost, whereas Encore can lock an opponent into a move, thereby giving a free switch to one of Chimchar's teammates. Fake Out allows Chimchar to negate an opponent's Sturdy or Focus Sash, especially those of common leads such as Dwebble and Onix. Overheat is a strong Fire-type STAB move that guarantees the OHKO on Dwebble after a Fake Out. It can also do heavy damage to foes that don't resist it, especially if Chimchar is brought down to Blaze range. Fire Blast is a weaker alternative to Overheat that doesn't lower Chimchar's Special Attack stat; however, it will likely not KO Dwebble after a Fake Out.
+
+Set Details
+========
+
+188 Speed EVs with a Timid nature allow Chimchar to reach 16 Speed, letting it Speed tie with Dwebble. A Timid nature is chosen over Hasty or Naive, as Fake Out's purpose isn't to deal a lot of damage, but simply to break Sturdy and Focus Sash, meaning an Attack-reducing nature isn't detrimental. 212 Special Attack EVs allow for Chimchar's Fire-type attack to hit harder, while the remaining EVs are invested in bulk; they give an additional point in HP and Special Defense and two in Defense, allowing Chimchar to take a Knock Off and Drain Punch from Mienfoo. A Focus Sash typically guarantees Chimchar either setting up Stealth Rock or firing off an attack, if the opponent doesn't have a multi-hit move such as Rock Blast. It also works well in tandem with Blaze, which upon activation makes Chimchar's STAB moves even stronger.
+
+Usage Tips
+========
+
+Chimchar's job is to set up Stealth Rock and deal damage to an opposing lead with Fake Out, a job it can only do successfully if it is used early-game, particularly as a lead. Avoid leading with Chimchar if your opponent has a lead like Onix or Mienfoo, as they are faster and can prevent Chimchar from setting hazards with Taunt. If the opponent is slower than Chimchar, then Chimchar will be able to use Taunt or Encore effectively, preventing an opponent from setting up entry hazards or boosting. A Fire-type attack from Chimchar can severely dent a frailer opponent, particularly if Chimchar has been brought down to Blaze thanks to Focus Sash.
+
+Team Options
+========
+
+A spinblocker such as Pumpkaboo can prevent Chimchar's Stealth Rock from being removed. Pumpkaboo synergizes quite well with Chimchar, as Chimchar loses to Staryu and Drilbur, the metagame's most common spinners, while Pumpkaboo usually beats both of these threats. Cottonee is also able to beat both of these spinners or Encore them into Rapid Spin, in addition to beating most of the leads that Chimchar struggles with. Pawniard does not prevent the removal of entry hazards, but it does punish Defog users, most of which beat Chimchar, by receiving a Defiant boost from it. Other fast, hard-hitting Pokemon appreciate having Stealth Rock up, as it softens opposing teams, and also breaks Sturdy in Pokemon such as Tirtouga and Magnemite.
+
+Other Options
+########
+
+Chimchar has access to Bulk Up, Swords Dance, and Nasty Plot, but its shortage of moves and its poor Speed prevent it from sweeping. It can use Vacuum Wave with a complementary Hidden Power type, but it doesn't get STAB on Vacuum Wave and is mostly outclassed by Croagunk in this regard. Chimchar can opt for a bulkier set with Eviolite and Slack Off, but there is little reason to use it over Ponyta or Larvesta, as they are bulkier and also have access to recovery. Some of Chimchar's physical options include Gunk Shot, Fire Punch, and Thunder Punch. Gunk Shot has a good chance to 2HKO Spritzee, while both Fire Punch and Thunder Punch receive a boost from Iron Fist. Chimchar can use U-turn to gain momentum after setting up Stealth Rock, but it has little use afterwards. Endeavor can be used as it synergizes well with Focus Sash; however, Venipede uses the move far more consistently as a lead. If Fire Blast's accuracy is too dicey for you, then Flamethrower is an alternative, although it cannot KO Dwebble after Fake Out.
+
+Checks & Counters
+########
+
+**Entry Hazard Removers**: Chimchar fails to beat the two most common spinners in the tier, Drilbur and Staryu. Both outspeed and bring Chimchar down to its Focus Sash with their STAB moves and can finish it off with Rapid Spin, which will also remove the Stealth Rock Chimchar set up. Defog users, particularly Archen and Vullaby, can switch in easily and undo Chimchar's work.
+
+**Taunt Users**: Common Taunt users, particularly leads such as Mienfoo and Onix, can prevent Chimchar from setting up Stealth Rock, rendering it mostly useless.
+
+**Rock-types**: Onix, Tirtouga, and Archen aren't troubled at all by Chimchar. Onix can outspeed and OHKO Chimchar through its Focus Sash with three Rock Blast hits, Tirtouga can 2HKO Chimchar with Waterfall and Aqua Jet, and Archen can use Defog to remove Chimchar's Stealth Rock while 2HKOing it with Earthquake. If Chimchar loses the Speed tie against Dwebble, it will also go down to Rock Blast if it hits three times.

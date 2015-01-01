@@ -1,81 +1,48 @@
 Overview
 ########
-- So cute omg
-- Very annoying, SwagPlay is very potent but largely luck-based
-- Prankster status is awesome
-- The only Prankster mon with U-turn in Little Cup
-- Pitiful bulk, weak to any decently powerful move
+
+Purrloin can find itself a niche on certain teams as a disruptive pivot thanks to its ability Prankster and access to a wide array of status moves. Its movepool includes great supportive moves such as Encore, Taunt, Knock Off, Sunny Day, Rain Dance, and U-turn. Purrloin is also fairly fast, hitting a respectable 17 Speed. However, Purrloin's bulk is mediocre at best, making it hard for it to fully do its job. Purrloin's Attack stat isn't very impressive either, meaning it can't run offensive sets too well.
 
 Disruptive Pivot
 ########
 name: Disruptive Pivot
 move 1: Encore
 move 2: U-turn
-move 3: Swagger / Thunder Wave
-move 4: Foul Play / Knock Off 
+move 3: Knock Off
+move 4: Thunder Wave / Taunt
 ability: Prankster
-item: Eviolite 
-evs: 188 HP / 60 Def / 228 Spe 
-nature: Jolly
+item: Eviolite / Berry Juice
+evs: 188 HP / 180 Def / 60 SpD / 68 Spe
+nature: Careful
 
 Moves
 ========
 
-- Encore disrupts support Pokemon as well as setup sweepers, locking them into an undesirable move
-- U-turn is great for grabbing momentum 
-- Swagger and Foul Play is a rage-inducing combination that is very powerful with a little luck; Purrloin gets STAB on Foul Play as well
-- STAB Knock Off is great also for crippling switch-ins after Encore is used, and also deals considerable damage
-- Thunder Wave is an ideal option for quickly putting setup sweepers out of commission and making them easy to take out by teammates
-- Play Rough is a new attacking option this generation that allows Purrloin to hit Fighting-types for super effective damage on the switch-in
+Encore disrupts support Pokemon as well as setup sweepers, locking them into an undesirable move. U-turn is great for grabbing momentum. Knock Off has great utility in removing Eviolite from foes and crippling switch-ins to Purrloin after Encore is used while also dealing considerable damage, as it gets STAB. Thunder Wave is a good option for quickly putting setup sweepers out of commission, making it easier for teammates to KO them. Taunt can be used because it allows Purrloin to easily stop hazard leads and opposing status users from fulfilling their respective roles.
 
 Set Details
 ========
 
-- Eviolite is the ideal item to use here because Purrloin's pitiful bulk likely won't allow it to take many hits to be able to recover health back from Berry Juice
-- 228 Speed EVs and Jolly nature give Purrloin a respectable Speed stat of 17, which outspeeds an important group of Pokemon, including Pawniard and Meditite
-- The remaining EVs give Purrloin the highest bulk possible with Eviolite, and since LC is largely more physically inclined than special, they are put into physical bulk
+Eviolite is the best option when it comes to Purrloin's item, but Berry Juice is also fairly viable. The given EV spread and a Careful nature greatly improve Purrloin's bulk, giving it 23 / 12 / 12 defenses. The remaining EVs are put into Speed to allow Purrloin to outspeed standard Fletchling. A spread of 188 HP / 60 Def / 228 Spe and a Bold nature can be used to outspeed fast Fletchling.
 
 Usage Tips
 ========
 
-- Encore can lock the opponent into a setup or support move
-- U-turn is great to use after Encoring the foe into something undesirable; if they switch out,  you can U-turn out to a comfortable check, and if they stay in, you can bring in a setup sweeper or supporter of your own and get at least one free turn
-- Swagger and Foul Play are very destructive but the lack factor does present a risk
-- Thunder Wave can be used to make a last-ditch attempt to slow down a problematic enemy before going down
-- Purrloin should always beware of Fighting- and Fairy-types
-- Knock Off smacks Natu hard if it tries to come in to deflect Purrloin's status moves
-- Play Rough is only for predicted switch-ins to Fighting-types and should never be used against them head on when they have a turn to hit back, unless their health is low enough for an outspeed + KO
+Encore is great for locking the foe into a setup or status move. U-turn is nice to use after Encoring the foe into something undesirable, as well as for gaining momentum overall. Purrloin can also use Thunder Wave quite well thanks to Prankster. Due to Purrloin's mediocre bulk, it should be very wary of Fighting-, Fairy-, and Bug-type moves, which it is weak to.
 
 Team Options
 ========
 
-- Slow VoltTurn users like Magnemite and Larvesta make good teammates that can VoltTurn out and bring Purrloin if they used a setup or support move, setting Purrloin up to Encore them, U-turn out on their switch, cripple the foe with a status move, or remove their item with Knock Off
-- Poison-types like Croagunk, Foongus, and Trubbish (especially, due to its Sticky Hold) are ideal partners that can easily take on the Fighting- and Fairy-types that Purrloin has problems with
-- Spritzee is an ideal partner that has little to fear from the Fighting-types that threaten Purrloin and can chase them away for a free turn
-- Any strategy that appreciates paralysis support and momentum would be glad to include Purrloin as long as it's not played carelessly
+Slow VoltTurn users, such as Mienfoo, Pancham, Vullaby, Magnemite, and Larvesta, are greatly appreciated, as they can help get Purrloin safely in. Poison-types such as Croagunk, Foongus, and Trubbish can easily take on Fighting-, Bug-, and Fairy-types, which Purrloin has problems with. Spritzee is another great teammate, taking on Fighting-types while also providing Wish support for Purrloin. Setup sweepers really enjoy having Purrloin on their team, since Purrloin can make it easier for them to set up by using Encore.
 
 Other Options
 ########
 
-- Fake Out for chip damage and for gauging the opponent's Eviolite or lack thereof
-- Copycat works with Prankster to use whatever move was last used, but with priority, this can turn the tide of battle in many scenarios
-- Taunt is a viable option for anything with Prankster and can shut down support Pokemon
-- Play Rough is a new move Purrloin gets and it can hit the Fighting- and Dark-types that resist its STAB for super effective damage
-- Gunk Shot is surprisingly available to Purrloin and can hit Fairy-types for hard super-effective damage
-- Sunny Day and Rain Dance with the corresponding weather rock can make Purrloin into a reliable weather setter that always gets the weather up thanks to Prankster
-- Sucker Punch can be used to take down faster foes if they are at low health and can also be used to surprise attackers that are weak to it, such as Abra and Gastly
-- Pursuit is an option for getting a good chunk of damage on a foe that is switching out to avoid being locked into Encore
-
+Copycat copies the last used move in the battle and has priority thanks to Prankster. Play Rough allows Purrloin to hit Fighting- and Dark-types that resist its Dark-type STAB moves for super effective damage. Gunk Shot can be used to hit Fairies hard. Sunny Day and Rain Dance together with Heat Rock and Damp Rock, respectively, can make Purrloin a reliable weather setter that almost always gets weather up thanks to Prankster. Sucker Punch can be used to take down faster foes that are at low health and can also be used to surprise attackers that are weak to it, such as Gastly. Pursuit is an option for getting a good chunk of damage on a foe that is switching out to avoid the effects of Encore. Trick can be used with a disruptive item such as Choice Band or Choice Specs.
 
 Checks & Counters
 ########
 
-**Fairy-types**: Spritzee resists every attack in the set and is immune to Encore, and can one-shot Purrloin easily with Moonblast, while Cottonee can Taunt Purrloin to block its status moves, and hit it hard with Dazzling Gleam, while also resisting Purrloin's STAB
+**Fighting-types**: Fighting-types such as Mienfoo, Timburr, Croagunk, Pancham, and Scraggy can easily threaten Purrloin by doing massive damage with their Fighting-type STAB attacks. They also resist Purrloin's STAB moves.
 
-**Fighting-types**: Basically every Fighting-type in LC can take down Purrloin in one simple hit; they also wall every attack in the set
-
-**Own Tempo Lickitung**: It can reap the Attack boost from Swagger without suffering confusion status, and Foul Play can only 3HKO Impish Eviolite Lickitung if it has +2 Attack, while it can hit back super hard with +2 STAB Return and no confusion
-
-**Numel**: It is immune to both Swagger's confusion effect (it still gets the Attack boost) and Thunder Wave, making it impossible for Purrloin to status it
-
-**Attackers in General**: Anything with decent attacking power that manages to hit Purrloin even just neutrally will probably 2HKO it, as its bulk is quite pitiful, you'd just have to fight through the paralysis and confusion and other things to be able to hit it
+**Fairy-types**: Fairy-types such as Spritzee and Snubbull can deal heavy damage to Purrloin with their STAB Fairy-type moves. Spritzee is also immune to Encore and Taunt.
