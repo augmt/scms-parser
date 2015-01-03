@@ -8,47 +8,47 @@ import re
 import copy
 
 def parse_scms(directory):
-    """Parses an SCMS directory's txt files and returns a dict, setdex, with
-    data pertaining to every Pokemon (except Ditto) with an analysis."""
+    """Parses the SCMS directory's .txt files and returns a dict named setdex
+    with data pertaining to every Pokemon (except Ditto) with an analysis."""
     setdex = collections.defaultdict(list)
     for subdir, dirs, files in os.walk(directory):
-        for file in files:
-            filepath = os.path.join(subdir, file)
+        for filename in files:
+            filepath = os.path.join(subdir, filename)
             with open(filepath, "r") as analysis:
-              tier = subdir[len(directory)+1:]
-              pokemon = name_pokemon(file)
-              gen = subdir[subdir.rfind("/")-2:subdir.rfind("/")]
-              if tier != "VGC12" and tier != "VGC11" and pokemon != "Ditto":
-                  while True:
-                      line = analysis.readline()
-                      if not line:
-                          break
-                      if line.strip()[0:4] == "name":
-                          line = line.strip()
-                          if tier == "Unreleased":
-                              set_name = line[line.find("["):]
-                          else:
-                              set_name = tier + " " + line[line.find(" ")+1:]
-                          set_details = get_set_details(tier, analysis)
-                          if "Relic Song" in set_details["moves"]:
-                              setdex[pokemon+"-P"].append({set_name:set_details})
-                          if pokemon == "Aegislash":
-                              setdex[pokemon+"-Shield"].append({set_name:set_details})
-                              setdex[pokemon+"-Blade"].append({set_name:set_details})
-                          if has_megastone(set_details):
-                              append_mega_evolution(set_details, pokemon, set_name, setdex)
-                          if do_not_append(set_details, pokemon, set_name, gen):
-                              continue
-                          setdex[pokemon].append({set_name:set_details})
+                tier = subdir[len(directory)+1:]
+                pokemon = name_pokemon(filename)
+                gen = subdir[subdir.rfind("/")-2:subdir.rfind("/")]
+                if tier != "VGC12" and tier != "VGC11" and pokemon != "Ditto":
+                    while True:
+                        line = analysis.readline()
+                        if not line:
+                            break
+                        if line.strip()[0:4] == "name":
+                            line = line.strip()
+                            if tier == "Unreleased":
+                                set_name = line[line.find("["):]
+                            else:
+                                set_name = tier + " " + line[line.find(" ")+1:]
+                            set_details = get_set_details(tier, analysis)
+                            if "Relic Song" in set_details["moves"]:
+                                setdex[pokemon+"-P"].append({set_name:set_details})
+                            if pokemon == "Aegislash":
+                                setdex[pokemon+"-Shield"].append({set_name:set_details})
+                                setdex[pokemon+"-Blade"].append({set_name:set_details})
+                            if has_megastone(set_details):
+                                append_mega_evolution(set_details, pokemon, set_name, setdex)
+                            if do_not_append(set_details, pokemon, set_name, gen):
+                                continue
+                            setdex[pokemon].append({set_name:set_details})
     return collections.OrderedDict(sorted(setdex.items()))
 
-def name_pokemon(file):
-    """Returns a Pokemon's name based upon their analysis' filename and their 
+def name_pokemon(filename):
+    """Returns a Pokemon's name based upon their analysis' filename and their
     current/only forme."""
-    if file.find(".old") > -1:
-        pokemon = file[:file.find(".old")]
+    if filename.find(".old") > -1:
+        pokemon = filename[:filename.find(".old")]
     else:
-        pokemon = file[:file.find(".txt")]
+        pokemon = filename[:filename.find(".txt")]
 
     if "-" not in pokemon and pokemon != "Gourgeist":
         return pokemon
@@ -58,30 +58,30 @@ def name_pokemon(file):
     if base_forme not in uniform_pokemon and pokemon != "Ho-Oh":
         if (base_forme != "Wormadam" and pokemon != "Rotom-Mow" and
                 pokemon != "Rotom-Fan"):
-            return pokemon[:pokemon.find("-")+2]
+            pokemon = pokemon[:pokemon.find("-")+2]
         elif pokemon == "Wormadam-Sandy":
-            return "Wormadam-G"
+            pokemon = "Wormadam-G"
         elif pokemon == "Wormadam-Trash":
-            return "Wormadam-S"
+            pokemon = "Wormadam-S"
         elif pokemon == "Rotom-Mow":
-            return "Rotom-C"
+            pokemon = "Rotom-C"
         else:
-            return "Rotom-S"
+            pokemon = "Rotom-S"
     elif pokemon == "Gourgeist":
-        return pokemon + "-Average"
+        pokemon = pokemon + "-Average"
     return pokemon
 
 def get_set_details(tier, analysis):
     """Traverses through an analysis file object from its current position and
     returns a dict with pertinent details about a Pokemon."""
-    sdet = {}
+    set_details = {}
 
     if tier != "LC" and tier[0:3] != "VGC":
-        sdet["level"] = 100
+        set_details["level"] = 100
     elif tier == "LC":
-        sdet["level"] = 5
+        set_details["level"] = 5
     else:
-        sdet["level"] = 50
+        set_details["level"] = 50
 
     line = analysis.readline().strip()
     while line != "":
@@ -90,12 +90,12 @@ def get_set_details(tier, analysis):
         key = line[:line.find(":")].strip().lower()
 
         if key[0:4] == "move":
-            sdet["moves"] = get_moveset(line, analysis)
+            set_details["moves"] = get_moveset(line, analysis)
         elif key == "item" or key == "nature" or key == "ability":
             if line.find("/") == -1:
-                sdet[key] = line[line.find(" ")+1:]
+                set_details[key] = line[line.find(" ")+1:]
             else:
-                sdet[key] = line[line.find(" ")+1:line.find("/")-1]
+                set_details[key] = line[line.find(" ")+1:line.find("/")-1]
         elif key == "evs" or key == "ivs":
             rename_stat = {
               "hp": "hp",
@@ -117,32 +117,31 @@ def get_set_details(tier, analysis):
                 svp = line.strip()
                 stat = rename_stat[svp[svp.find(" ")+1:].lower()]
                 stats[stat] = svp[:svp.find(" ")]
-                sdet[key] = stats
+                set_details[key] = stats
             else:
                 stat = rename_stat[line[line.rfind(" ")+1:].lower()]
                 value = line[line.find(":")+2:line.rfind(" ")]
-                sdet[key] = {stat:value}
+                set_details[key] = {stat:value}
         line = analysis.readline().strip()
-    return sdet
+    return set_details
 
 def fixline(line):
-    """Replaces specific, erred lines with parser-friendly lines. Does not
-    alter file contents."""
+    """Replaces specific, erred lines with parser-friendly lines."""
     pattern = re.compile("(\w{1,})( \/|\/ )(\w{1,})")
     if pattern.search(line):
-        return pattern.sub("\\1 / \\3", line)
-    if line.find(" :") > -1: # BW Various & XY LC Vullaby
-        return line.replace(" :", ":")
-    if line.find("evss") > -1 or line.find("items") > -1: # XY UU Kyurem & Unreleased Swampert
-        return line.replace("s:", ":")
-    if line == "ivs: HP 0": # DP LC Riolu
-        return "ivs: 0 HP"
-    if line == "item:": # XY Doubles Tornadus
-        return ""
-    if line.find(" or ") > -1: # XY LC Froakie
-        return line[:line.find(" or ")]
-    if line == "4 HP IVs": # XY LC Vulpix
-        return "ivs: 4 HP"
+        line = pattern.sub("\\1 / \\3", line)
+    elif line.find(" :") > -1: # BW Various & XY LC Vullaby
+        line = line.replace(" :", ":")
+    elif line.find("evss") > -1 or line.find("items") > -1: # XY UU Kyurem & Unreleased Swampert
+        line = line.replace("s:", ":")
+    elif line == "ivs: HP 0": # DP LC Riolu
+        line = "ivs: 0 HP"
+    elif line == "item:": # XY Doubles Tornadus
+        line = ""
+    elif line.find(" or ") > -1: # XY LC Froakie
+        line = line[:line.find(" or ")]
+    elif line == "4 HP IVs": # XY LC Vulpix
+        line = "ivs: 4 HP"
     return line
 
 def get_moveset(line, analysis):
@@ -172,48 +171,48 @@ def get_moveset(line, analysis):
 
     return moveset
 
-def has_megastone(sdet):
-    """Returns True if the sdet dict contains mention of a Mega Stone, a Red or
-    Blue Orb, or the move 'Dragon Ascent.'"""
-    return ("item" in sdet and ("ite" in sdet["item"] or "Dragon Ascent" in sdet["moves"] or
-            (sdet["item"] == "Blue Orb" or sdet["item"] == "Red Orb")) and
-            (sdet["item"] != "Eviolite" and sdet["item"] != "White Herb"))
+def has_megastone(set_details):
+    """Returns True if the set_details dict contains mention of a Mega Stone, a
+    Red or Blue Orb, or the move 'Dragon Ascent.'"""
+    return ("item" in set_details and ("ite" in set_details["item"] or "Dragon Ascent" in set_details["moves"] or
+            (set_details["item"] == "Blue Orb" or set_details["item"] == "Red Orb")) and
+            (set_details["item"] != "Eviolite" and set_details["item"] != "White Herb"))
 
-def append_mega_evolution(sdet, pokemon, set_name, setdex):
+def append_mega_evolution(set_details, pokemon, set_name, setdex):
     """Appends a Pokemon's Mega Evolution or Primal Reversion to the setdex."""
     mega_pokemon = "Mega " + pokemon
-    mega_sdet = copy.deepcopy(sdet)
-    if "ability" in mega_sdet:
-        del mega_sdet["ability"]
+    mega_set_details = copy.deepcopy(set_details)
+    if "ability" in mega_set_details:
+        del mega_set_details["ability"]
     if pokemon != "Rayquaza":
-        del mega_sdet["item"]
-    if sdet["item"][-2:] == " X" or sdet["item"][-2:] == " Y":
-        mega_pokemon = "Mega " + pokemon + sdet["item"][-2:]
-    if sdet["item"] == "Blue Orb" or sdet["item"] == "Red Orb":
+        del mega_set_details["item"]
+    if set_details["item"][-2:] == " X" or set_details["item"][-2:] == " Y":
+        mega_pokemon = "Mega " + pokemon + set_details["item"][-2:]
+    if set_details["item"] == "Blue Orb" or set_details["item"] == "Red Orb":
         mega_pokemon = "Primal " + pokemon
-    setdex[mega_pokemon].append({set_name:mega_sdet})
+    setdex[mega_pokemon].append({set_name:mega_set_details})
 
-def do_not_append(sdet, pokemon, set_name, gen):
+def do_not_append(set_details, pokemon, set_name, gen):
     """Returns True if the set_name belongs to a FEAR set (if the set_name
-    contains the string "Level" or "Lv."), or there is no nature in the sdet
-    dict and the gen is not rb or gs, or the Pokemon is holding a Red or Blue
-    Orb, or the Pokemon is Aegislash."""
+    contains the string "Level" or "Lv."), or there is no nature in the
+    set_details dict and the gen is not rb or gs, or the Pokemon is holding a
+    Red or Blue Orb, or the Pokemon is Aegislash."""
     return ((set_name.find("Level") > -1 or set_name.find("Lv.") > -1) or
-            ("nature" not in sdet and gen != "gs" and gen != "rb") or
-            ("item" in sdet and (sdet["item"] == "Red Orb" or sdet["item"] == "Blue Orb")) or
-            (pokemon == "Aegislash"))
+            ("nature" not in set_details and gen != "gs" and gen != "rb") or
+            ("item" in set_details and (set_details["item"] == "Red Orb" or
+            set_details["item"] == "Blue Orb")) or (pokemon == "Aegislash"))
 
 def parse_setdex(setdex):
     """Parses the setdex dict and returns a string which is used to write a .js
     file for use in Honko's calculator."""
     stream = ""
     for (pokemon, sets) in setdex.iteritems():
-        if stream != "": 
+        if stream != "":
             stream += "},"
         stream += "\"" + pokemon.replace("\'", "\\u0027") + "\":{"
 
         for s in sets:
-            if s != sets[0]: 
+            if s != sets[0]:
                 stream += ","
             set_details = s.values()[0]
             stream += "\"" + s.keys()[0].replace("\"", "\\u0022") + "\":{"
@@ -252,9 +251,9 @@ if __name__ == '__main__':
         "SETDEX_BW", "SETDEX_DPP", "SETDEX_GSC",
         "SETDEX_RBY", "SETDEX_ADV", "SETDEX_XY"
         ]
-    file_name = [name.lower().replace("adv", "rse") for name in object_name]
+    filename = [name.lower().replace("adv", "rse") for name in object_name]
     subdirs = sorted(os.walk("dex/analyses").next()[1])
     for index, gen in enumerate(subdirs):
         setdex = parse_scms("dex/analyses/" + gen)
-        with open (file_name[index] + ".js", "w") as js_file:
+        with open (filename[index] + ".js", "w") as js_file:
             js_file.write("var " + object_name[index] + "={" + parse_setdex(setdex) + "}};")
