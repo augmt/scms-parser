@@ -40,7 +40,7 @@ def parse_scms(directory):
                           if do_not_append(set_details, pokemon, set_name, gen):
                               continue
                           setdex[pokemon].append({set_name:set_details})
-    return setdex
+    return collections.OrderedDict(sorted(setdex.items()))
 
 def name_pokemon(file):
     """Returns a Pokemon's name based upon their analysis' filename and their 
