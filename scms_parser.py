@@ -209,44 +209,52 @@ def parse_setdex(setdex):
     for (pokemon, sets) in setdex.iteritems():
         if stream != "":
             stream += "},"
-        stream += "\"" + pokemon.replace("\'", "\\u0027") + "\":{"
 
+        stream += "\"" + pokemon.replace("\'", "\\u0027") + "\":{"
         for s in sets:
             if s != sets[0]:
                 stream += ","
-            set_details = s.values()[0]
-            stream += "\"" + s.keys()[0].replace("\"", "\\u0022") + "\":{"
 
-            stream += "\"level\":" + str(set_details['level'])
-            if "evs" in set_details:
-                stream += ",\"evs\":{"
-                for index, stat in enumerate(set_details['evs']):
-                    stream += "\"" + stat + "\":" + set_details['evs'][stat]
-                    if index != len(set_details['evs']) - 1:
-                        stream += ","
-                stream += "}"
-            if "ivs" in set_details:
-                stream += ",\"ivs\":{"
-                for index, stat in enumerate(set_details['ivs']):
-                    stream += "\"" + stat + "\":" + set_details['ivs'][stat]
-                    if index != len(set_details['ivs']) - 1:
-                        stream += ","
-                stream += "}"
-            if "nature" in set_details:
-                stream += ",\"nature\":\"" + set_details['nature'] + "\""
-            if "ability" in set_details:
-                stream += ",\"ability\":\"" + set_details['ability'] + "\""
-            if "item" in set_details:
-                stream += ",\"item\":\"" + set_details['item'] + "\""
-            stream += ",\"moves\":[\""
-            for index, move in enumerate(set_details['moves']):
-                stream += move + "\""
-                if index != 3:
-                    stream += ",\""
+            # add set_name to stream
+            stream += "\"" + s.keys()[0].replace("\"", "\\u0022") + "\":{"
+            stream += parse_set_details(s.values()[0])
             stream += "]}"
     return stream
 
-if __name__ == '__main__':
+def parse_set_details(set_details):
+    """Parses the set_details dict and returns pertinent details about a
+    Pokemon within a precisely ordered string."""
+    string = "\"level\":" + str(set_details['level'])
+    if "evs" in set_details:
+        string += ",\"evs\":{"
+        for index, stat in enumerate(set_details['evs']):
+            string += "\"" + stat + "\":" + set_details['evs'][stat]
+            if index != len(set_details['evs']) - 1:
+                string += ","
+        string += "}"
+    if "ivs" in set_details:
+        string += ",\"ivs\":{"
+        for index, stat in enumerate(set_details['ivs']):
+            string += "\"" + stat + "\":" + set_details['ivs'][stat]
+            if index != len(set_details['ivs']) - 1:
+                string += ","
+        string += "}"
+    if "nature" in set_details:
+        string += ",\"nature\":\"" + set_details['nature'] + "\""
+    if "ability" in set_details:
+        string += ",\"ability\":\"" + set_details['ability'] + "\""
+    if "item" in set_details:
+        string += ",\"item\":\"" + set_details['item'] + "\""
+    string += ",\"moves\":[\""
+    for index, move in enumerate(set_details['moves']):
+        string += move + "\""
+        if index != 3:
+            string += ",\""
+    return string
+
+def write_js_objects():
+    """Writes an object into as many JavaScript files as there are elements in
+    the object_name list."""
     object_name = [
         "SETDEX_BW", "SETDEX_DPP", "SETDEX_GSC",
         "SETDEX_RBY", "SETDEX_ADV", "SETDEX_XY"
@@ -257,3 +265,6 @@ if __name__ == '__main__':
         setdex = parse_scms("dex/analyses/" + gen)
         with open (filename[index] + ".js", "w") as js_file:
             js_file.write("var " + object_name[index] + "={" + parse_setdex(setdex) + "}};")
+
+if __name__ == '__main__':
+    write_js_objects()
