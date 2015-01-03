@@ -5,7 +5,6 @@ Damage Calculator."""
 import os
 import collections
 import re
-import copy
 
 def parse_scms(directory):
     """Parses the SCMS directory's .txt files and returns a dict named setdex
@@ -26,18 +25,13 @@ def parse_scms(directory):
                         if line.strip()[0:4] == "name":
                             line = line.strip()
                             if tier == "Unreleased":
+                                if pokemon == "Groudon" or pokemon == "Kyogre":
+                                    pokemon = "Primal " + pokemon
                                 set_name = line[line.find("["):]
                             else:
                                 set_name = tier + " " + line[line.find(" ")+1:]
                             set_details = get_set_details(tier, analysis, gen)
-                            if "Relic Song" in set_details["moves"]:
-                                setdex[pokemon+"-P"].append({set_name:set_details})
-                            if pokemon == "Aegislash":
-                                setdex[pokemon+"-Shield"].append({set_name:set_details})
-                                setdex[pokemon+"-Blade"].append({set_name:set_details})
-                            if has_megastone(set_details):
-                                append_mega_evolution(set_details, pokemon, set_name, setdex)
-                            if do_not_append(set_details, pokemon, set_name, gen):
+                            if do_not_append(set_details, set_name, gen):
                                 continue
                             setdex[pokemon].append({set_name:set_details})
     return collections.OrderedDict(sorted(setdex.items()))
@@ -94,6 +88,9 @@ def get_set_details(tier, analysis, gen):
         elif key == "item" or key == "nature" or key == "ability":
             if line.find("/") == -1:
                 set_details[key] = line[line.find(" ")+1:]
+                if (set_details[key] == "Red Orb" or
+                        set_details[key] == "Blue Orb" or set_details[key] == "Primordial Sea"):
+                    del set_details[key]
             else:
                 set_details[key] = line[line.find(" ")+1:line.find("/")-1]
             if gen == "xy" and set_details[key] == "Lightningrod":
@@ -185,36 +182,12 @@ def get_moveset(line, analysis, gen):
 
     return moveset
 
-def has_megastone(set_details):
-    """Returns True if the set_details dict contains mention of a Mega Stone, a
-    Red or Blue Orb, or the move 'Dragon Ascent.'"""
-    return ("item" in set_details and ("ite" in set_details["item"] or "Dragon Ascent" in set_details["moves"] or
-            (set_details["item"] == "Blue Orb" or set_details["item"] == "Red Orb")) and
-            (set_details["item"] != "Eviolite" and set_details["item"] != "White Herb"))
-
-def append_mega_evolution(set_details, pokemon, set_name, setdex):
-    """Appends a Pokemon's Mega Evolution or Primal Reversion to the setdex."""
-    mega_pokemon = "Mega " + pokemon
-    mega_set_details = copy.deepcopy(set_details)
-    if "ability" in mega_set_details:
-        del mega_set_details["ability"]
-    if pokemon != "Rayquaza":
-        del mega_set_details["item"]
-    if set_details["item"][-2:] == " X" or set_details["item"][-2:] == " Y":
-        mega_pokemon = "Mega " + pokemon + set_details["item"][-2:]
-    if set_details["item"] == "Blue Orb" or set_details["item"] == "Red Orb":
-        mega_pokemon = "Primal " + pokemon
-    setdex[mega_pokemon].append({set_name:mega_set_details})
-
-def do_not_append(set_details, pokemon, set_name, gen):
+def do_not_append(set_details, set_name, gen):
     """Returns True if the set_name belongs to a FEAR set (if the set_name
-    contains the string "Level" or "Lv."), or there is no nature in the
-    set_details dict and the gen is not rb or gs, or the Pokemon is holding a
-    Red or Blue Orb, or the Pokemon is Aegislash."""
+    contains the string "Level" or "Lv."), or no nature is specified in the
+    set_details dict."""
     return ((set_name.find("Level") > -1 or set_name.find("Lv.") > -1) or
-            ("nature" not in set_details and gen != "gs" and gen != "rb") or
-            ("item" in set_details and (set_details["item"] == "Red Orb" or
-            set_details["item"] == "Blue Orb")) or (pokemon == "Aegislash"))
+            ("nature" not in set_details and gen != "gs" and gen != "rb"))
 
 def parse_setdex(setdex):
     """Parses the setdex dict and returns a string which is used to write a .js
