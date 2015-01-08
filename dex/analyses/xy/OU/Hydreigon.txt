@@ -1,84 +1,84 @@
 Overview
-########
+#######
 
-- Unique typing allows it to resist the plethora of Dark- and Ghost-type attacks such as Sucker Punch, Pursuit, and Shadow Sneak.
-- Received an intriguing buff with Steel losing its Dark-type resistance
-- Sports an impressive base 125 Special Attack, 105 Attack, and trolly 97 Speed.
-- Has a rather big movepool to accommodate its stats and typing.
-- Quadruple weakness to Fairy and relies on Iron Tail / Flash Cannon to bail out of its Fairy-type problems.
-- 97 Speed is mediocre as far as sweeping goes.
-- Charge Beam and Work Up are its only stat-boosting attacks.
-- Faces stiff competition from other Dragon-types such as Mega Charizard X and other Dark-types such as Bisharp.
+Boasting an excellent Special Attack stat and a diverse movepool, Hydreigon is a solid offensive threat in the OU metagame. By virtue of its Dark / Dragon typing, which gives it numerous resistances, Hydreigon checks common threats such as Rotom-W and Slowbro. With the absence of Aegislash, bulky Psychic-types have become significantly more common, and Hydreigon has an easy time dealing with them. Hydreigon also has a niche over other Dragon-types, particularly Latios and Latias, in that it can easily revenge kill Bisharp due to its resistance to Sucker Punch. In addition, Hydreigon's respectable Attack stat and access to Superpower allow it to target Chansey, an important advantage it has over many special attackers. Besides being run as a wallbreaker, Hydreigon also holds a niche as a potent revenge killer when equipped with a Choice Scarf, as it boasts crucial access to U-turn.
 
-Mixed Attacker
-########
-set name: Mixed Attacker
-move 1: Dark Pulse
-move 2: Draco Meteor
-move 3: Iron Tail / Superpower
-move 4: Fire Blast
-ability: Levitate
+However, Hydreigon's average Speed leaves it susceptible to faster attackers such as Latios, Greninja, Keldeo, Terrakion, Mega Lopunny, Mega Gallade, Mega Gardevoir, and Mega Pinsir. While Hydreigon can alleviate this issue by using a Choice Scarf, it then loses out on the ability to switch its attacks and becomes significantly weaker without a Life Orb. Unfortunately, Hydreigon's STAB moves are resisted by many common Pokemon in OU, leaving it reliant on hitting them with a coverage move or U-turn. Hydreigon also has many weaknesses, particularly Fighting, Dragon, Fairy, and Ice. To make matters worse, Fairy-types such as Azumarill, Sylveon, Clefable, and Mega Diancie threaten Hydreigon with a 4x super effective STAB move while resisting or being immune to Hydreigon's STAB moves.
+
+Life Orb Attacker
+#######
+name: Life Orb Attacker
+move 1: Draco Meteor
+move 2: Dark Pulse
+move 3: Flash Cannon
+move 4: Superpower / Earth Power
 item: Life Orb
-nature: Rash / Mild
-evs: 40 Atk / 236 SpA / 232 Spe
+evs: 4 Atk / 252 SpA / 252 Spe
+nature: Mild / Modest
 
 Moves
-========
+=======
 
-- Dark Pulse is Hydreigon's best STAB thanks to Steel-type losing its resistance.
-- Draco Meteor gives Hydreigon another powerful STAB to utilize against bulkier threats such as Hippowdon and Mega Venusaur/
-- Iron Tail is necessary to 2HKO Clefable and Sylveon while still doing respectable damage to Tyranitar.
-- Superpower is Hydreigon's best attack to attempt to bypass Chansey, Blissey, and Impish Tyranitar. It also hits Heatran.
-- Fire Blast hits Bisharp and other Steel-types.
-- Roost can be used to keep Hydreigon healthy.
-- Charge Beam 2HKOes Azumarill on the switch assuming Charge Beam gives Hydreigon a Special Attack boost.
+Draco Meteor is Hydreigon's strongest STAB move and deals massive damage to any Pokemon that is not a Fairy- or Steel-type or Chansey. Dark Pulse hits most Steel-types for neutral damage and provides important coverage against Psychic- and Ghost-types such as Slowbro, Mew, Jirachi, Celebi, and Mega Metagross. Flash Cannon targets Fairy-types such as Mega Altaria, Mega Diancie, and Clefable, which take little damage from Hydreigon's STAB moves; because Hydreigon is meant to function as a wallbreaker and Clefable is featured as a wall on so many balanced and stall teams, the coverage provided by Flash Cannon is crucial. Alternatively, Fire Blast can be run to OHKO Mega Scizor, Ferrothorn, and Skarmory, as well as hit Klefki, but Dark Pulse already hits all of these Pokemon barring Klefki hard enough, so Fire Blast is typically the inferior option. Superpower provides crucial coverage on Heatran, Tyranitar, and Bisharp while allowing Hydreigon to pick off Chansey if it has been weakened to half HP. Earth Power is an alternative coverage move that 2HKOes standard Choice Band Azumarill after Stealth Rock damage, OHKOes Heatran, and hits Klefki while maintaining coverage on Bisharp.
 
 Set Details
-========
+=======
 
-- 232 Speed EVs outspeed neutral nature Kyurem-B.
-- 40 Attack is necessary to 2HKO Clefable and Sylveon as well as 2HKO Blissey and Chansey with Superpower - the latter needing Stealth Rock to 2HKO reliably.
-- Rest of the EVs are put into Special Attack to maximize Dark Pulse, Draco Meteor, and Fire Blast's power.
-- Rash makes Hydreigon less prone to priority attacks such as Mach Punch and Bullet Punch while Mild allows Hydreigon to take weaker Special Attacks easier.
-
+A Mild nature and maximum Special Attack investment allows Hydreigon to hit as hard as possible while retaining the power of Superpower. A Mild nature is used over Rash to capitalize on Hydreigon's resistances to mostly specially based types, such as Water, Electric, Fire, Ghost, and Grass. If Superpower is not used, Hydreigon should opt for a Modest nature. However, a Hasty or Timid nature has some merit in being able to outspeed Adamant Mega Charizard X before a Dragon Dance. Maximum Speed investment is important to outspeed as many threats as possible, notably Jolly Mega Pinsir before Mega Evolving and neutral-natured Kyurem-B.
 
 Usage Tips
-========
+=======
 
-- Hydreigon is mostly used as a Pokemon that punches holes through bulkier teams instead of attempting to sweep.
-- Iron Tail should be utilized if Fairy-types are a huge concern. Alternatively, Superpower should be used if Chansey and Blissey are more problematic.
-- Be careful about overusing Draco Meteor as the Special Attack drop can leave Hydreigon vulnerable to being set up on.
-- Superpower can also leave Hydreigon more vulnerable to Pursuit as the Defense drop and potential Mild nature makes even resisted Pursuit hurt.
+Hydreigon functions best as a hit-and-run attacker due to Draco Meteor's Special Attack drops and rather low Speed. Due to its typing, Hydreigon can also act as an effective pivot into attacks it resists or is immune to, including those from the likes of Rotom-W, Slowbro, and Mega Venusaur. In addition, Levitate gives Hydreigon a helpful immunity to Ground-type attacks from Pokemon such as Hippowdon, Excadrill, Landorus-T, and Gliscor. However, most of these Pokemon have an alternative STAB or coverage move to hit Hydreigon with, so it must be careful when attempting to switch in. In most scenarios, firing off a Draco Meteor or Dark Pulse is the safest and most optimal play, but when a Clefable or Mega-evolved Diancie is present on the other team, it may be best to predict the switch-in with Flash Cannon if the play is not too risky.
 
 Team Options
-========
+=======
 
-- Stealth Rock support is great for securing 2HKOes on many Pokemon. Heatran does well at checking the majority of Fairy-types while Pokemon such as Skarmory handle Fighting-types a little easier.
-- Pivots such as Rotom-W, Mega Scizor, and Landorus-T also work well with helping Hydreigon have an easier time switching in.
-- Without Superpower you'll need some raw power from Pokemon such as Terrakion or Conkeldurr to bust through Chansey and Blissey.
-- Mega Venusaur also helps check the majority of Fairy-types such as Azumarill and Sylveon thanks to its Poison-typing and access to STAB Sludge Bomb.
-- Sweepers such as Keldeo appreciate the Pokemon that Hydreigon can help eliminate or soften up.
+Steel-types such as Heatran, Magnezone, Mega Scizor, Mega Metagross, and Ferrothorn are great partners for Hydreigon, as they resist Fairy-, Dragon-, and Ice-type attacks; the only problem with some of these Pokemon is that they compound Hydreigon's Fighting weakness, which can be patched up with Fairy-types such as Clefable and Azumarill. A Keldeo check is crucial to include with Hydreigon; Azumarill is a decent choice for the job though it despises Scald burns, so it is advised to combine Azumarill with various revenge killers and Pokemon that match up well against Keldeo; Celebi is also an excellent choice, boasting the ability to switch into Mega Lopunny as well. Talonflame and Mega Metagross appreciate Hydreigon's wallbreaking ability and have decent synergy with Hydreigon because they handle Clefable; Mega Metagross can also check Azumarill decently.
 
+Revenge Killer
+#######
+name: Revenge Killer
+move 1: Draco Meteor
+move 2: Dark Pulse
+move 3: Earth Power
+move 4: U-turn
+item: Choice Scarf
+evs: 4 Atk / 252 SpA / 252 Spe
+nature: Modest / Timid
+
+Moves
+=======
+
+Draco Meteor is Hydreigon's strongest STAB move and OHKOes many offensive Pokemon after some prior damage. Dark Pulse is a strong secondary STAB move to hit Psychic- and Ghost-types such as Jirachi, Mew, Celebi, and Mega Metagross. Earth Power provides important coverage against Steel- and Fairy-types such as Mega Diancie, Klefki, Tyranitar, Bisharp, Heatran, and Empoleon. U-turn keeps up offensive momentum and gets off important chip damage on the switches that Hydreigon often forces due to its offensive typing and power. Fire Blast can be used to hit Scizor and Ferrothorn much harder than Earth Power, but it leaves Hydreigon unable to significantly damage Mega Diancie and Heatran. Focus Blast is able to OHKO Mega Gyarados after Stealth Rock damage but does not have much use outside of that.
+
+Set Details
+=======
+
+Maximum Special Attack and Speed investment allows Hydreigon to outspeed as many offensive Pokemon as possible. A Modest nature is preferred to OHKO Mega Lopunny, Mega Metagross, and Mega Diancie with the appropriate coverage move after Stealth Rock damage. A Timid nature allows Hydreigon to outspeed other Choice Scarf users such as Landorus-T, but the decrease in power is unwelcome.
+
+Usage Tips
+=======
+
+Equipped with a Choice Scarf, Hydreigon can revenge kill many faster offensive Pokemon such as Mega Sceptile, Greninja, and Latios. U-turn is generally the safest attack to go for early on, as it keeps up offensive momentum and gets off important chip damage. Hydreigon should not use Draco Meteor early on, as plenty of Pokemon resist it and bulky setup sweepers can take advantage of the Special Attack drops. Hydreigon should use the appropriate coverage move when revenge killing a foe, such as targeting a Mega Metagross with Dark Pulse or hitting a frailer Pokemon such as Greninja with Draco Meteor.
+
+Team Options
+=======
+
+Volt Switch users such as Rotom-W, Raikou, and Magnezone are great partners to form a VoltTurn core with Hydreigon, which is important for offensive pressure. In addition, Magnezone traps the Steel-types not hit by Hydreigon's Earth Power, such as Ferrothorn, Skarmory, and Scizor. Other bulky Steel-types such as Heatran, Ferrothorn, and Scizor are good teammates to switch into Fairy-, Bug-, Dragon-, and Ice-type attacks. The former two provide Stealth Rock support, which helps Hydreigon achieve some important OHKOs or 2HKOs, but they compound your team's Fighting weakness. Fairy-types such as Azumarill and Clefable are also good partners to sponge hits from opposing Dragon-types. Nasty Plot + Baton Pass Celebi is a great partner that can pass Special Attack boosts to Hydreigon and has good synergy with it, as it can check some Fighting- and Fairy-types such as Azumarill, Terrakion, and Clefable.
 
 Other Options
-########
+#######
 
-- Choice Scarf allows Hydreigon to outspeed some common threats and gain surprise on some of them; however, it is not really that fast after a Choice Scarf and the power drop is noticeable.
-- Choice Specs hits harder than Life Orb, but it is also more predictable and easier to take advantage of sometimes.
-- U-turn is great for scouting and keeps Hydreigon unique.
-- Tailwind can boost Hydreigon and its teammates Speed for four turns.
-- Work Up boosts Hydreigon's Attack and Special Attack.
-- Flash Cannon works for Specs.
-- Substitute can be used as Hydreigon can force switches and sometimes attacking head-on isn't always the best option.
-- Expert Belt over Life Orb but the power drop is severe; especially with Draco Meteor only hitting Dragon-types for super effective damage.
+Hydreigon has a variety of other moves at its disposal. Taunt prevents defensive Pokemon such as Ferrothorn and Heatran from setting up entry hazards or using status moves, but having coverage moves is more important for Hydreigon; a Taunt + Roost set with Dark Pulse and Flash Cannon as coverage can be utilized effectively with partners to cover Fighting-types, though, as it manages to break through Pokemon such as Heatran, Chansey, and Clefable with relative ease and is generally a solid stallbreaker. Tailwind can be used to somewhat alleviate Hydreigon's below average Speed while also supporting the team. Iron Tail 2HKOes Sylveon as opposed to Flash Cannon, which 3HKOes, but the accuracy is very unreliable. Roost is an option for the mixed set, but there are too many answers to Hydreigon without a full set of coverage for it to be an effective move option.
 
 Checks & Counters
-########
+#######
 
-**Fairy-types**: Without Iron Tail Hydreigon is very prone to Fairy-types such as Clefable, Sylveon, and Azumarill. With Hydreigon having a quadruple weakness to Fairy, KOing it is nothing difficult for Fairy-type Pokemon.
+**Faster Attackers**: Greninja, Keldeo, Terrakion, and Mega Gardevoir can outspeed non-Choice Scarf Hydreigon and OHKO it with their respective STAB moves. The former three can switch in on a Dark Pulse but must be careful of a Draco Meteor.
 
-**Special Walls**: Without Superpower Umbreon, Chansey, and Blissey become major headaches for Hydreigon to bypass. Umbreon can wear out Hydreigon with STAB Foul Play while using Wish and Protect to heal itself. Chansey and Blissey take little damage from any attack Hydreigon throws, barring Superpower, and can force Hydreigon out with Seismic Toss.
+**Specially Bulky Pokemon**: With the attack drops from Superpower, Hydreigon can't 2HKO Chansey, which can stall it out. Assault Vest users such as Azumarill and Conkeldurr can stomach Hydreigon's attacks and retaliate with a super effective STAB move.
 
-**Assault Vest Users**: Some Pokemon such as Conkeldurr and Machamp can stomach any attack, barring repeated Draco Meteors, and scare off Hydreigon with STAB Drain Punch and STAB DynamicPunch, respectively. Conkeldurr can also revenge kill weakened Hydreigon with STAB Mach Punch.
+**Priority**: Hydreigon has a weakness to two very strong forms of priority. A common example is Life Orb Breloom's Mach Punch, which can OHKO Hydreigon; Mamoswine's Ice Shard can also deal significant damage. Assault Vest Conkeldurr gets a special mention, because unlike the aforementioned threats it can actually switch in on Hydreigon's attacks.
 
-**Revenge Killers**: Priority attackers such as Conkeldurr, Breloom, and Mega Scizor can finish off a weakened Hydreigon. Hydreigon's mediocre Speed leaves it very vulnerable to revenge killers such as Garchomp, Latias, Latios, and Greninja.
+**Fairy-types**: Hydreigon's best checks are Fairy-types as they are immune to and resist Hydreigon's STAB moves. Azumarill is the most notable one, as it avoids the 2HKO from all of Hydreigon's moves with an Assault Vest and can OHKO in return with Play Rough. Other Fairy-types such as Clefable and Mega Diancie can also switch into Hydreigon's STAB moves, but they must be wary of a Life Orb-boosted Flash Cannon.

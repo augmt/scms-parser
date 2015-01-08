@@ -9,7 +9,7 @@ name: Life Orb Cleaner
 move 1: Crunch
 move 2: Sucker Punch
 move 3: Play Rough
-move 4: Ice Fang
+move 4: Iron Tail / Thunder Fang
 ability: Moxie
 item: Life Orb
 evs: 252 Atk / 4 SpD / 252 Spe
@@ -18,7 +18,7 @@ nature: Adamant
 Moves
 ========
 
-Crunch is Mightyena's main STAB move, hitting most offensive Pokemon that don't resist it hard. Sucker Punch is a powerful priority move that can pick off weakened or faster Pokemon. Play Rough complements Crunch very nicely, hitting Fighting- and Dark-types such as Poliwrath, Throh, and Mukrow super effectively. Ice Fang, while situational, is Mightyena's best option for breaking through Pokemon such as Torterra, Togetic, and physically defensive Roselia. However, it requires high damage rolls in order to beat the last two. Thunder Fang can also be used in the last slot to KO Pelipper while still hitting Togetic for super effective damage.
+Crunch is Mightyena's main STAB move, hitting most offensive Pokemon that don't resist it hard. Sucker Punch is a powerful priority move that can pick off weakened or faster Pokemon. Play Rough complements Crunch very nicely, hitting Fighting- and Dark-types such as Poliwrath, Throh, and Mukrow super effectively. Iron Tail allows Mightyena to break through Avalugg, Golem and Fairy-types, such as Togetic and Carbink. Thunder Fang can also be used in the last slot to KO Pelipper while still hitting Togetic for super effective damage. Ice Fang, while situational, is Mightyena's best option for breaking through Pokemon such as Torterra, Tangela and physically defensive Roselia. However, it requires high damage rolls in order to beat the latter.
 
 Set Details
 ========
@@ -38,16 +38,14 @@ Entry hazard support is an absolute must, as it helps wear down opposing Pokemon
 Other Options
 ########
 
-Fire Fang is an option to hit Grass-types hard, but Ice Fang does this while also hitting Togetic. Iron Tail is a great coverage move to help deal with Fairy-types, but it is illegal with Play Rough, making it not worth it most of the time. Substitute can be used on the switches Mightyena can force, allowing it to take a powerful hit, KO back, and get a free Moxie boost. Taunt and Toxic can help deal with the defensive Pokemon Mightyena hates, but they're hard to fit on the set and are generally inferior to the coverage options already listed. Finally, Howl can be used for an Attack boost, though Moxie is usually more efficient at doing this without wasting a moveslot.
+Fire Fang is an option to hit Grass-types hard, but Ice Fang does this while also hitting Togetic. Substitute can be used on the switches Mightyena can force, allowing it to take a powerful hit, KO back, and get a free Moxie boost. Taunt and Toxic can help deal with the defensive Pokemon Mightyena hates, but they're hard to fit on the set and are generally inferior to the coverage options already listed. Finally, Howl can be used for an Attack boost, though Moxie is usually more efficient at doing this without wasting a moveslot.
 
 Checks & Counters
 ########
 
-**Physical Walls**: Pokemon such as Garbodor, Avalugg, Tangela, and Pelipper can all take hits from Mightyena relatively well. Garbodor can use Drain Punch, Tangela can use Giga Drain, while Avalugg and Pelipper can heal themselves with Recover and Roost, respectively, and KO Mightyena with their STAB moves. However, Pelipper must be careful of the occasional Thunder Fang.
+**Physical Walls**: Pokemon such as Avalugg, Tangela, and Pelipper can all take hits from Mightyena relatively well. Tangela can use Giga Drain, while Avalugg and Pelipper can heal themselves with Recover and Roost, respectively, and KO Mightyena with their STAB moves. However, Pelipper must be careful of the occasional Thunder Fang.
 
 **Tanks**: Offensive Pokemon with good natural bulk such as Golem, Piloswine, and Gogoat can check Mightyena by taking a hit and KOing it back with their STAB attacks. Tangela is another tank that can use Sleep Powder to cripple Mightyena and has Regenerator and Synthesis to heal off any damage it has taken.
-
-**Fairy-types**: Fairy-types such as Togetic, Wigglytuff, and Clefairy can easily survive one of Mightyena's attacks, heal up, and use Seismic Toss or Moonblast to KO it back.
 
 **Fighting-types**: Fighting-types such as Poliwrath and Throh can survive any of Mightyena's attacks at full health and KO it back with Circle Throw. However, depending on their EV spreads and the amount of entry hazards on the field, they can both be 2HKOed by Play Rough on the switch.
 

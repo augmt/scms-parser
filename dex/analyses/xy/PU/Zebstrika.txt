@@ -9,7 +9,7 @@ name: All-Out Attacker
 move 1: Volt Switch
 move 2: Thunderbolt
 move 3: Overheat
-move 4: Hidden Power Water
+move 4: Hidden Power Grass / Hidden Power Ice
 ability: Sap Sipper
 item: Life Orb
 evs: 252 SpA / 4 SpD / 252 Spe
@@ -18,7 +18,7 @@ nature: Timid
 Moves
 ========
 
-Volt Switch is a great way to escape Pokemon that threaten Zebstrika, and is a good way to gain momentum. Thunderbolt doesn't force Zebstrika out and has more power than Volt Switch, so is used as Zebstrika's main STAB move. Overheat hits Grass-types such as Tangela and Gourgeist for super effective damage, but it halves Zebstrika's Special Attack. Hidden Power Water super effectively hits Rock- and Ground-types, such as Golem and Camerupt. Hidden Power Ice can be used to deal more damage to Dragon-types, which otherwise completely wall Zebstrika, such as Altaria and Fraxure.
+Volt Switch is a great way to escape Pokemon that threaten Zebstrika, and is a good way to gain momentum. Thunderbolt doesn't force Zebstrika out and has more power than Volt Switch, so is used as Zebstrika's main STAB move. Overheat hits Grass-types such as Tangela and Gourgeist for super effective damage, but it halves Zebstrika's Special Attack. Hidden Power Grass super effectively hits Rock- and Ground-types, such as Golem and Marowak. Hidden Power Ice can be used to deal more damage to Dragon-types, which otherwise completely wall Zebstrika, such as Fraxure while also hitting Ground-types for super effective damage. It also has the benefit of 2HKOing Torterra without lowering Zebstrika's Special Attack.
 
 
 Set Details

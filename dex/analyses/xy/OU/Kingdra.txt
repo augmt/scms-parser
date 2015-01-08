@@ -11,7 +11,7 @@ move 2: Draco Meteor
 move 3: Outrage / Rain Dance
 move 4: Waterfall / Surf
 item: Life Orb
-evs: 64 Atk / 252 SpA / 192 Spe
+evs: 80 Atk / 252 SpA / 176 Spe
 nature: Rash / Modest
 
 Moves
@@ -22,12 +22,12 @@ This Kingdra set is used to sweep in the rain with its Swift Swim boost and the 
 Set Details
 ========
 
-Kingdra uses full Special Attack investment, as it is its most commonly used offensive stat, and 192 Speed EVs let it outrun Deoxys-S in the rain. All of the remaining EVs should be put into Attack to benefit Outrage and Waterfall. Alternatively, one can run a spread of 32 Atk / 240 SpA / 228 Spe, allowing Kingdra to outpace Choice Scarf Latios in the rain, or 80 Atk / 252 SpA / 176 Spe to outspeed anything up until Choice Scarf Garchomp. Sets using no physical moves should run a Modest nature and use a spread of 252 SpA / 4 SpD / 252 Spe. Life Orb is the preferred item to boost the power of Kingdra without locking it into one move.
+Kingdra uses full Special Attack investment, as it is its most commonly used offensive stat, and 176 Speed EVs let it outrun Scarf Garchomp in the rain. All of the remaining EVs should be put into Attack to benefit Outrage and Waterfall. Alternatively, one can run a spread of 32 Atk / 240 SpA / 228 Spe, allowing Kingdra to outpace Choice Scarf Latios in the rain. Sets using no physical moves should run a Modest nature and use a spread of 252 SpA / 4 SpD / 252 Spe. Life Orb is the preferred item to boost the power of Kingdra without locking it into one move.
 
 Usage Tips
 ========
 
-Rain doesn't last long, whether from a Politoed with a Damp Rock or Kingdra's own Rain Dance. Make sure to take advantage of the amount of time you have; use it as efficiently as possible. If you predict a foe to switch out, use the appropriate move to dent the switch-in rather than doing negligible damage to them. Kingdra sweeps best late-game after foes like Ferrothorn are removed, but if it is a win condition for you earlier in the game, go for it. With Life Orb and Kingdra's susceptibility to all entry hazards, it is wise to bring Kingdra in on a double switch or after a teammate has fainted. However, its handy 4x resistances to Fire- and Water-type moves does allow it the reassurance of being able to safely switch in on these moves.
+Rain doesn't last long, whether from a Politoed with a Damp Rock or Kingdra's own Rain Dance. Make sure to take advantage of the amount of time you have; use it as efficiently as possible. If you predict a foe to switch out, use the appropriate move to dent the switch-in rather than doing negligible damage to them. Kingdra sweeps best late-game after foes like Ferrothorn are removed, but if it is a win condition for you earlier in the game, go for it. With Life Orb and Kingdra's susceptibility to all entry hazards, it is wise to bring Kingdra in on a double switch or after a teammate has fainted. However, its handy 4x resistances to Fire- and Water-type moves do allow it the reassurance of being able to safely switch in on these moves.
 
 Team Options
 ========
@@ -42,7 +42,7 @@ move 2: Draco Meteor
 move 3: Surf / Scald
 move 4: Ice Beam / Dragon Pulse / Sleep Talk
 item: Choice Specs
-evs: 64 HP / 252 SpA / 192 Spe
+evs: 80 HP / 252 SpA / 176 Spe
 nature: Modest
 
 Moves
@@ -53,7 +53,7 @@ This set plays as an excellent wallbreaker, blasting holes in teams with its STA
 Set Details
 ========
 
-With the specified EV spread, Kingdra outruns Deoxys-S in the rain, has full Special Attack investment, and saves the rest of the EVs for bulk. Kingdra is fast enough in the rain for it to not require a Speed-boosting nature, so Modest is perfectly fine.
+With the specified EV spread, Kingdra outruns Scarf Garchomp in the rain, has full Special Attack investment, and saves the rest of the EVs for bulk. Kingdra is fast enough in the rain for it to not require a Speed-boosting nature, so Modest is perfectly fine.
 
 Usage Tips
 ========
@@ -63,7 +63,7 @@ This set should only be used on dedicated Rain teams; it offers very little over
 Team Options
 ========
 
-The team options for this set are very similar to those of the first set, except this set does not use Rain Dance, making it rely much more on rain set by other Pokemon. Politoed is the probably the most essential, as its good bulk and ability to setup rain automatically put it in high demand. Deoxys-S is another great choice, as it can set up rain quickly as well as Stealth Rock, which makes it valuable when using Kingdra on heavily hyper offense-oriented teams. On these teams, other rain sweepers are recommended, with Kabutops being one of the the best, but Ludicolo, Seismitoed, and Tornadus-T are other Pokemon that work quite well. Each offers many different advantages to your rain team: Ludicolo threatens bulky Water-types such as Rotom-W, Seismitoed is immune to Thundurus's priority Thunder Wave, which stops most rain sweepers cold, and Tornadus-T can use its STAB Hurricanes at full accuracy in the rain, while also being a useful pivot with U-turn, Regenerator, and its high base Speed. If you're veering towards alternate rain setters, Tornadus has priority on Rain Dance thanks to its Prankster ability, and can also take advantage of the rain with Hurricane.
+The team options for this set are very similar to those of the first set, except this set does not use Rain Dance, making it rely much more on rain set by other Pokemon. Politoed is the probably the most essential, as its good bulk and ability to setup rain automatically put it in high demand. Azelf is another great choice, as it can set up rain quickly as well as Stealth Rock, which makes it valuable when using Kingdra on heavily hyper offense-oriented teams. On these teams, other rain sweepers are recommended, with Kabutops being one of the the best, but Ludicolo, Seismitoed, and Tornadus-T are other Pokemon that work quite well. Each offers many different advantages to your rain team: Ludicolo threatens bulky Water-types such as Rotom-W, Seismitoed is immune to Thundurus's priority Thunder Wave, which stops most rain sweepers cold, and Tornadus-T can use its STAB Hurricanes at full accuracy in the rain, while also being a useful pivot with U-turn, Regenerator, and its high base Speed. If you're veering towards alternate rain setters, Tornadus has priority on Rain Dance thanks to its Prankster ability, and can also take advantage of the rain with Hurricane.
 
 CritDra
 ########
@@ -85,7 +85,7 @@ With the new critical hit mechanics, using Focus Energy on a Pokemon holding a S
 Set Details
 ========
 
-A spread of 64 HP / 252 SpA / 192 Spe allows Kingdra to outspeed all unboosted Pokemon after an Agility, while giving it a bit of bulk to secure boosts and tank priority. However, an alternate EV spread of 80 HP / 252 SpA / 176 Spe can be used to outspeed Choice Scarf Garchomp if you are using Agility as well as fully investing in Special Attack, while slotting the rest of the EVs in HP to add a bit of bulk for ease in setting up. A Modest nature is the most preferable to increase power as this set uses mono-special coverage, but if one chooses to use Outrage, a Rash nature could be used instead.
+A spread of 80 HP / 252 SpA / 176 Spe Spe allows Kingdra to outspeed Choice Scarf Garchomp if you are using Agility as well as fully investing in Special Attack, while slotting the rest of the EVs in HP to add a bit of bulk for ease in setting up. A Modest nature is the most preferable to increase power as this set uses mono-special coverage, but if one chooses to use Outrage, a Rash nature could be used instead.
 
 Usage Tips
 ========
@@ -95,7 +95,7 @@ Utilize Kingdra's ability to force switches to your advantage; this is to allow 
 Team Options
 ========
 
-Depending on which coverage move you use, this set has trouble with Ferrothorn or Azumarill, so partners that can take care of these threats for Kingdra are immensely appreciated. Heatran, Conkeldurr, and Talonflame can all deal with Ferrothorn, and Azumarill can easily be eliminated by Mega Venusaur, Manaphy, or Celebi. Scolipede is also a prime partner, as Kingdra's main flaw is its slightly sub-par Speed. Scolipede can Baton Pass Speed and Iron Defense boosts, a Substitute to ease Kingdra in setting up, and can even set up Spikes to help with Kingdra's sweep. In addition, it draws in Fire-type moves, which Kingdra can easily absorb thanks to its 4x resistance to them. Another way of remedying Kingdra's poor Speed is a Sticky Web inducer, such as Galvantula or Smeargle.
+Depending on which coverage move you use, this set has trouble with Ferrothorn or Azumarill, so partners that can take care of these threats for Kingdra are immensely appreciated. Heatran, Conkeldurr, and Talonflame can all deal with Ferrothorn, and Azumarill can easily be eliminated by Mega Venusaur, Manaphy, or Celebi. Scolipede is also a prime partner, as Kingdra's main flaw is its slightly sub-par Speed. Scolipede can Baton Pass Speed and Iron Defense boosts, a Substitute to ease Kingdra in setting up, and can even set up Spikes to help with Kingdra's sweep. In addition, it draws in Fire-type moves, which Kingdra can easily absorb thanks to its 4x resistance to them. Another way of remedying Kingdra's poor Speed is a Sticky Web inducer, namely Shuckle.
 
 Other Options
 ########

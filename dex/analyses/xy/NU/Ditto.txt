@@ -1,0 +1,52 @@
+Overview
+########
+
+Ditto is essentially a one trick pony, though it is amazing at what it does. Ditto's ability Imposter allows it to copy the foe's stat boosts, ability, and moveset upon switching in, while also making Ditto a decent scout. When given a Choice Scarf, Ditto becomes a well-rounded revenge killer, albeit one easily played around.
+
+Imposter
+########
+name: Imposter
+move 1: Transform
+ability: Imposter
+item: Choice Scarf
+evs: 248 HP / 252 Def
+ivs: 0 Atk / 30 Def / 1 Spe
+nature: Relaxed
+
+Moves
+========
+
+Transform is the only move Ditto learns, although it's quite useless because Imposter does the exact same thing as Transform without wasting a turn.
+
+Set Details
+========
+
+The EVs are simple: 248 HP EVs are used because HP is the only stat that transfers over after Ditto transforms, and it also hits a Stealth Rock number. 252 EVs are allocated to Defense on the off chance that a Ditto versus Ditto PP stall occurs. A Relaxed nature further improves Ditto's Defense and lowers Speed so that your Ditto will succumb to Struggle recoil later than an opposing Ditto. Setting the Attack IV to 0, Defense IV to 30, and Speed IV to 1 gives Ditto Hidden Power Ice when transforming into a Pokemon with Hidden Power and keeps Ditto's Speed and Attack as low as possible.
+
+Usage Tips
+========
+
+The sheer presence of Ditto on your team should keep your opponent cautious when considering using setup sweepers. Watch out for opposing Choice Scarf users, as Ditto can only Speed tie with them and risks taking a lot of damage from an attack. Don't ever directly switch Ditto into an attack, as it is meant to revenge kill, not tank hits. Try to save Ditto for late-game, and don't sacrifice it unless absolutely necessary, as losing a revenge killer can be the turning point of a game, especially if the opponent still has a setup sweeper present. Ditto doesn't have the best matchup against bulkier setup Pokemon like Gurdurr and Musharna, having difficulty KOing them while receiving a huge chunk of damage in return because of its pitiful HP stat.
+
+Team Options
+========
+
+All Ditto really needs is to switch in safely. Because of this, Ditto fits really well on teams with slow U-turn, Volt Switch, or Baton Pass users such as Probopass, Lanturn, Musharna, or Xatu, that will get Ditto in safely. Since Ditto usually transforms into a sweeper, entry hazards are appreciated.
+
+Other Options
+########
+
+Using any item other than Choice Scarf defeats Ditto's main purpose as a revenge killer, leaving any matchups against opposing setup sweepers to a Speed tie. Running minimum happiness is an option to do more damage with Frustration; however, this greatly lowers the damage output of Return, should Ditto encounter it.
+
+Checks & Counters
+########
+
+**Substitute**: If the foe is behind a Substitute, Ditto won't be able to transform. However, this only works if a Substitute is set up before Ditto comes in.
+
+**Happiness variability**: If Ditto locks itself into Frustration with maximum happiness or Return with minimum happiness, the attack will be pitifully weak and cause it to lose the matchup.
+
+**Trick Room**: Trick Room can turn Ditto's Choice Scarf-augmented Speed against it, causing it to move after the foe it has transformed into.
+
+**Choice Scarf Mind Games**: As Ditto's Choice Scarf locks into one move, it can be played around with Pokemon that have proper resistances and immunities to its moves.
+
+**Revenge Killing**: Pokemon faster than a transformed Ditto as well as Pokemon with priority moves can usually pick off Ditto due to its low HP stat.
