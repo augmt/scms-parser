@@ -29,7 +29,7 @@ def parse_scms(directory):
                                 set_name = line[line.find("["):]
                             else:
                                 set_name = tier + " " + line[line.find(" ")+1:]
-                            set_details = get_set_details(tier, analysis)
+                            set_details = get_set_details(tier, analysis, gen)
                             if "Relic Song" in set_details["moves"]:
                                 setdex[pokemon+"-P"].append({set_name:set_details})
                             if pokemon == "Aegislash":
@@ -71,7 +71,7 @@ def name_pokemon(filename):
         pokemon = pokemon + "-Average"
     return pokemon
 
-def get_set_details(tier, analysis):
+def get_set_details(tier, analysis, gen):
     """Traverses through an analysis file object from its current position and
     returns a dict with pertinent details about a Pokemon."""
     set_details = {}
@@ -90,12 +90,14 @@ def get_set_details(tier, analysis):
         key = line[:line.find(":")].strip().lower()
 
         if key[0:4] == "move":
-            set_details["moves"] = get_moveset(line, analysis)
+            set_details["moves"] = get_moveset(line, analysis, gen)
         elif key == "item" or key == "nature" or key == "ability":
             if line.find("/") == -1:
                 set_details[key] = line[line.find(" ")+1:]
             else:
                 set_details[key] = line[line.find(" ")+1:line.find("/")-1]
+            if gen == "xy" and set_details[key] == "Lightningrod":
+                set_details[key] = "Lightning Rod"
         elif key == "evs" or key == "ivs":
             rename_stat = {
               "hp": "hp",
@@ -144,10 +146,20 @@ def fixline(line):
         line = "ivs: 4 HP"
     return line
 
-def get_moveset(line, analysis):
+def get_moveset(line, analysis, gen):
     """Parses an analysis file object from its current level and returns a
     Pokemon's set of moves."""
     moveset = []
+    rename_move = {
+      "Ancient Power": "AncientPower",
+      "Dynamic Punch": "DynamicPunch",
+      "Extreme Speed": "ExtremeSpeed",
+      "Feint Attack": "Faint Attack",
+      "High Jump Kick": "Hi Jump Kick",
+      "Self-Destruct": "Selfdestruct",
+      "Solar Beam": "SolarBeam",
+      "Thunder Punch": "ThunderPunch"
+    }
 
     for i in range (0, 4):
         if line.lower().find("move") > -1:
@@ -158,6 +170,8 @@ def get_moveset(line, analysis):
                     move = "null"
             else:
                 move = line[line.find(" ")+4:line.find("/")-1]
+            if gen != "xy" and move in rename_move:
+                move = rename_move[move]
         else:
             for _ in range (i, 4):
                 moveset.append("null")
