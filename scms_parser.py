@@ -1,4 +1,4 @@
-"""poke-parser.py parses Smogon's Content Management System's (SCMS) dex
+"""scms_parser.py parses Smogon's Content Management System's (SCMS) dex
 analyses and writes JavaScript objects into .js files for use in Honko's Gen 6
 Damage Calculator."""
 
@@ -88,13 +88,13 @@ def get_set_details(tier, analysis, gen):
         elif key == "item" or key == "nature" or key == "ability":
             if line.find("/") == -1:
                 set_details[key] = line[line.find(" ")+1:]
-                if (set_details[key] == "Red Orb" or
-                        set_details[key] == "Blue Orb" or set_details[key] == "Primordial Sea"):
-                    del set_details[key]
             else:
                 set_details[key] = line[line.find(" ")+1:line.find("/")-1]
             if gen == "xy" and set_details[key] == "Lightningrod":
                 set_details[key] = "Lightning Rod"
+            if (set_details[key] == "Red Orb" or
+                    set_details[key] == "Blue Orb" or set_details[key] == "Primordial Sea"):
+                del set_details[key]
         elif key == "evs" or key == "ivs":
             rename_stat = {
               "hp": "hp",
