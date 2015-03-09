@@ -1,62 +1,52 @@
 Overview
-########
+#######
 
-Vaporeon returns to UU as one of the best clerics of the tier. Thanks to its pure Water typing and excellent mixed defenses, it can be very hard to KO. Water Absorb might seem redundant due to Vaporeon already resisting Water-type attacks, but it allows it to be immune to one of the most common moves in the tier, Scald. Thanks to its good 110 Special Attack and Scald's burn chance, it poses a strong enough offensive presence to deter set up, unlike other clerics such as Blissey. Its Wish also yields fairly large HP recovery, giving it good merit as a utility Pokemon.
+Vaporeon has a great HP stat, allowing it to pass large Wishes to teammates, and it has good Special Defense and decent Defense to complement this. It has access to great supportive moves such as Heal Bell, which allows it to act as a cleric, and Baton Pass, which can retain momentum and work well with Wish. Water Absorb allows Vaporeon to gain some free switches, and Vaporeon pairs well with a lot of pokemon. However, Vaporeon does have its flaws as it can be set up on if it lacks Roar or Haze, and it can be walled completely by Pokemon such as Roserade if it chooses to try to deal with these sweepers.
 
-However, while Vaporeon is quite good, it does have some flaws. Grass-types such as Roserade, Shaymin, and Celebi can all easily switch into it and pack Natural Cure to rid away any burns from Scald. Electric-types are also able to threaten it off the field, although many of them don't resist Scald. It's also quite vulnerable to entry hazards due to it being a defensive Pokemon. Altogether, Vaporeon is definitely worth considering on every balance and stall team due to its walling and support capabilities.
-
-Wish Support
-########
-name: Wish Support
+Wish
+#######
+name: Wish
 move 1: Wish
-move 2: Protect
-move 3: Scald
-move 4: Ice Beam / Heal Bell / Baton Pass / Roar
+move 2: Scald
+move 3: Protect
+move 4: Heal Bell / Roar / Baton Pass
 ability: Water Absorb
 item: Leftovers
-evs: 200 HP / 252 Def / 56 SpD
-nature: Calm
+evs: 204 HP / 248 Def / 56 SpD
+nature: Bold / Calm
 
 Moves
 ========
 
-Wish and Protect allow Vaporeon to have reliable means of recovery. Thanks to its large 130 HP stat, it can easily heal most weakened teammates to full health. Scald is an amazing STAB move for Vaporeon, as it has decent power, good coverage, and a nifty burn chance. Ice Beam allows Vaporeon to deter SubCoil Zygarde from setting up as well as hit opposing Grass- and Dragon-types super effectively. Vaporeon is hindered by Toxic, so Heal Bell helps to remove status ailments from itself as well as its teammates. Baton Pass, in conjunction with Vaporeon's slow Speed stat, allows Vaporeon to take a hit and slow pivot out into a teammate, which can be useful with Wish. Roar is mainly used to stop opposing Suicune from setting up, especially Substitute variants.
+Scald has a high burn chance and does decent damage due to Vaporeon's high Special Attack stat. It is a spammable move, and burning foes can help at whatever point of the game you may be in. Wish provides Vaporeon and its teammates with recovery and can allow it to give free switches to teammates and heal them if they are weakened. Protect allows Vaporeon to scout for moves, recover from Leftovers, get crash damage on Mienshao, and get a Wish off. In addition, it also allows you to scout Choice-locked Pokemon and switch in to the appropriate teammate after seeing their move. Heal Bell gets rid of all status effects that your team might have been inflicted with, while Roar phazes foes and prevents Vaporeon from being setup bait. Baton Pass can gain momentum, and if Vaporeon used Wish the previous turn and moves last the turn it Baton Passes, team members can be healed up at no cost. Ice Beam hits Pokemon such as Chesnaught, Hydreigon, and Haxorus, which resist Vaporeon's STAB moves, with Haxorus being able to set up on it. Toxic can to be used to cripple switch-ins or stall alongside Wish and Protect.
 
 Set Details
 ========
 
-The given EV spread allows Vaporeon to survive two Flare Blitzes from Darmanitan while giving it an extra Special Defense point to help it deal with Mega Blastoise and Nidoqueen, both of which can't even 3HKO Vaporeon. More physically defensive spreads can be used if you're worried about Choice Band Darmanitan, while taking on Psyshock users such as Alakazam with more ease.
+The EV spread maximizes Vaporeon's overall bulk. A Bold nature lets it take on the likes of Darmanitan, Mienshao, Krookodile, and other physical attackers better, while Calm can be used to help stand up to Pokemon such as Nidoqueen, Hydreigon, Nidoking, and Mega Blastoise. Leftovers is used for extra recovery.
 
 Usage Tips
 ========
 
-Vaporeon is able to wall common offensive threats such as Mega Blastoise, Nidoqueen, Darmanitan, and common Jirachi sets. It can then pass Wishes to teammates in need of healing, or use Scald to dissuade switch-ins with its burn chance. Be aware of using Wish in front of phazers, as Roar goes through Protect and disrupts Wish.
+Vaporeon can be sent in on a wall or weak Pokemon so it can recover its health or help teammates heal up. When it is facing an offensive Pokemon at a good amount of health, Scald should be used because of its high burn chance and decent damage output. Heal Bell should be used to help Vaporeon's teammates when they are crippled with status, though if you have a Guts user with a status condition, you may have to make a choice between weakening it or healing teammates.
 
 Team Options
 ========
 
-While Grass-types are a natural enemy to Vaporeon, they also synergize well with it, as they are able to tank opposing Grass- and Electric-type attacks aimed at Vaporeon. Chesnaught, Roserade, Shaymin, Virizion, and Whimsicott all pair well with Vaporeon, with the latter two standing out, as they appreciate Wish support due to their lack of reliable recovery. In return, Vaporeon takes on Fire- and Steel-types, as well as Nidoqueen, all of which are huge threats to Grass-types. Fire-types such as Darmanitan, Entei, Infernape, and Chandelure can complete a nice Fire / Water / Grass core, as they can take on Grass-types while Vaporeon checks opposing Fire- and Water-types and passes Wish to alleviate their Stealth Rock weakness. Ground-types such as Krookodile, Nidoqueen, and Hippowdon are all good Electric-type checks, and can all check Lucario, which otherwise troubles Vaporeon. Steel-types such as Jirachi, Forretress, and Mega Aggron are Stealth Rock setters that put a stop to Roserade and Celebi, which Vaporeon has trouble dealing with. Both of them lack reliable recovery, benefiting enormously from Wish. Assault Vest Escavalier also appreciates Wish and has Overcoat and Pursuit to counter any Roserade not carrying Hidden Power Fire. Crobat helps check Roserade as well as Fighting-types that can wallbreak Vaporeon. Dugtrio can be switched in with Baton Pass to trap and KO Electric-types such as Mega Ampharos and Raikou, as well as Pokemon with frail physical defense such as Roserade and Tentacruel, both of which can easily switch into Vaporeon and set up Toxic Spikes.
-
+Vaporeon works well on balanced teams that appreciate Wish and cleric support. Vaporeon's weaknesses are covered in a Fire / Water / Grass core with Pokemon such as Entei, Infernape, Darmanitan, Chandelure, Roserade, Shaymin, and Whimsicott. Vaporeon can pair well with Stealth Rock setters; for example, Vaporeon works well with Mega Aggron and Forretress, as it covers their Fire weaknesses and provides Wish support, which they appreciate, as they do not have reliable recovery. In addition, they can take Grass-type moves for Vaporeon. Dragalge appreciates Wish support from Vaporeon, as entry hazards can wear it down, and it resists Electric- and Grass-type moves, which are super effective on Vaporeon. Hydreigon and Mega Ampharos are alternative Dragon-types which also have good type synergy with Vaporeon.
 
 Other Options
+#######
+
+A spread of 252 HP / 172 Def / 84 SpD with a Bold nature can be used to give Vaporeon slightly more rounded bulk. A Baton Pass set with moves such as Substitute and Curse can pass boosts to teammates. Haze can be used as another way to deal with bulky boosting Pokemon such as CurseLax and Calm Mind Reuniclus, as Roar's negative priority gives them a chance to attack Vaporeon, but Roar is usually better because it can mess with their switch-ins and deal with other boosting Pokemon as well.
+
+Checks and Counters
 ########
 
-Vaporeon has the movepool to pull off a Choice Specs set and its 110 SpA lets it hit foes hard with Hydro Pump. However, opposing Water-types are extremely common in the tier, making the set ineffective. Yawn in conjunction with Protect lets Vaporeon its enemies to sleep, but is not very effective against Natural Cure users, which commonly switch into Vaporeon. Work Up can be used to boost the power of Scald, but this role is usually better performed by Suicune due to its superior defenses and access to Calm Mind.
+**Bulky Water-types**: Vaporeon is walled by opposing Vaporeon, and Suicune can set up on it and PP stall it with Pressure if it doesn't have Roar.
 
+**Setup sweepers**: Many Pokemon can use non-Roar Vaporeon variants as setup bait and proceed from there to sweep your team. Toxicroak can set up on it easily thanks to its Water immunity, and Calm Mind users take Vaporeon's attacks very well and can deal huge damage back to it after boosts.
 
-Checks & Counters
-########
+**Grass-types**: Roserade can cause major trouble to Vaporeon, as Sleep Powder cripples it, while Giga Drain and Leaf Storm deal massive damage to it, with Giga Drain allowing Roserade to recover possible Life Orb damage. Whimsicott with Encore or Taunt can ruin Vaporeon without Ice Beam, and offensive variants can easily recover from Scald damage with Giga Drain. Mega Abomasnow can set up easily or attack Vaporeon with super effective STAB moves. Shaymin does massive damage with Seed Flare and has great special bulk to take Ice Beam. Chesnaught can use Leech Seed and sap Vaporeon's massive HP or just lay down Spikes, but it is fearful of burns, as they can wear it down.
 
-**Grass-types**: Celebi and Roserade both have Natural Cure, and therefore can deal with Vaporeon with ease. Virizion easily switches into Vaporeon and commonly carries Lum Berry, giving it more insurance against Scald burns. Chesnaught does not enjoy being burned by Scald, but it can set up Spikes to wear down Vaporeon's team. All of them fear Ice Beam, but none of them are OHKOed by it.
-
-**Suicune**: While Water Absorb grants immunity to Suicune's Scald early-game, Suicune can easily PP stall Vaporeon during end-game thanks to Pressure, while SubCM Suicune cleanly sets up on any Vaporeon lacking Roar.
-
-**Toxicroak**: Dry Skin lets Toxicroak set up Swords Dance in the face of Vaporeon, making Vaporeon complete dead weight if it lacks Roar.
-
-**Electric-types**: Raikou easily takes out Vaporeon with a STAB Thunderbolt, and can even use Substitute to protect itself from Scald burns. Rotom-C can easily switch in and KO with either of its STAB moves. Mega Ampharos dislikes Ice Beam, but can easily pivot off of Vaporeon with a super effective Volt Switch. Heliolisk deserves a special mention thanks to Dry Skin, which grants it an immunity against Scald.
-
-**Physical Wallbreakers**: Guts Machamp benefits from burn and easily 2HKOes Vaporeon. Other Choice Band users such as Krookodile and Mienshao can easily 2HKO Vaporeon, although they can't switch in on it.
-
-**Toxic/Toxic Spikes**: Toxic puts Vaporeon on a timer that makes it extremely susceptible to being worn down if it lacks Heal Bell. Toxic Spikes also make it hard for Vaporeon to switch in, especially because common users of the move like Tentacruel and Roserade can easily switch into Vaporeon.
-
-**Taunt**: Taunt shuts down Vaporeon's support options, although many common Taunt users dislike Scald.
+**Electric-types**: Mega Ampharos takes hits from Vaporeon well, even Ice Beam, and does an enormous chunk of damage to it in return. Electric-types can also use Volt Switch, which either takes a chunk out of Vaporeon's health or gains momentum for the opposing team.

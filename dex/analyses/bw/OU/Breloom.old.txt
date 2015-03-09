@@ -19,7 +19,7 @@ evs: 4 HP / 252 Atk / 252 Spe
 
 [SET COMMENTS]
 
-<p>When you talk about terrifying physical attackers in OU, this set is one of the first that leaps to mind. The raw power of an item-boosted Low Sweep is seriously intimidating, doubly so when you consider that Low Sweep rules out a long list of would-be counters by virtue of its Speed-reducing property. Would-be checks such as Latios, Starmie, Tornadus, and others quickly find themselves unable to do their job when crippled by Low Sweep. Mach Punch gives Breloom a burst of immediate power against speedy threats such as Terrakion and Hydreigon, and Bullet Seed gives it the potential of unparalleled power with an attack capable of reaching 187.5 Base Power. Spore caps the set off, as any Pokemon capable of sponging these attacks still has to contend with the threat of sleep, rendering it helpless against Breloom's assaults. On the flip side, if Choice-locked Spore isn't your cup of tea, Stone Edge gives Breloom a way to threaten Dragonite immediately on the switch and also provides excellent neutral coverage alongside its STABs.</p>
+<p>When you talk about terrifying physical attackers in OU, this set is one of the first that leaps to mind. The raw power of an item-boosted Low Sweep is seriously intimidating, doubly so when you consider that Low Sweep rules out a long list of would-be counters by virtue of its Speed-reducing property. Would-be checks such as Latios, Starmie, Tornadus, and others quickly find themselves unable to do their job when crippled by Low Sweep. Mach Punch gives Breloom a burst of immediate power against speedy threats such as Terrakion and Hydreigon, and Bullet Seed gives it the potential of unparalleled power with an attack capable of reaching 187.5 Base Power. Spore caps the set off, as any Pokemon capable of sponging these attacks still has to contend with the threat of sleep, rendering it helpless against Breloom's assaults. On the flip side, if Choice-locked Spore isn't your cup of tea, Stone Edge gives Breloom a way to threaten Dragonite immediately on the switch and also provides excellent neutral coverage alongside its STAB moves.</p>
 
 <p>This set comes in two flavors: Life Orb and Choice Band. While Choice Band has the edge in raw power, Life Orb makes up for it with versatility. Life Orb can 2HKO troublesome Pokemon such as Starmie with Low Sweep into Bullet Seed, but Choice Band can simply 2HKO Pokemon such as Latios as they switch in without a second thought. In general, Choice Band rewards prediction more, while Life Orb is a bit easier to use and is more equipped to handle unforeseen circumstances.</p>
 
@@ -79,6 +79,29 @@ evs: 236 HP / 248 SpD / 24 Spe
 <p>While this set is a good sponge to Water-type attacks, it is not invincible. In a similar vein, while Breloom is a solid anti-rain measure in the sense that it can tank boosted Water-type attacks, it cannot handle all the attackers typically found on rain teams, such as Tornadus. Thus a teammate that can also deal with these Pokemon is recommended. Luckily, there is no shortage of Pokemon in OU that can fulfill these tasks; Rotom-W in particular stands out due to its ability to handle Tornadus and accommodating Breloom's Flying- and Fire-type weaknessess.</p>
 
 <p>Entry hazards pair well with this set, as with Spore and Leech Seed, Breloom will really be harassing the opposition. Skarmory and Forretress function best on the balanced and defensive teams that this Breloom should generally be used on. While it can annoy them on the switch, strong physical attackers such as Terrakion and Scizor are dangerous to face. A solid physical wall pairs well for this reason; the aforementioned Skarmory is always a good choice, while others such as Hippowdon, Landorus-T, and Gliscor are always reliable as well. Pokemon immune to Leech Seed, most notably Celebi, Reuniclus, and Alakazam, also threaten this set, especially since they take little damage from Drain Punch. Jirachi handles them well along with other threats to Breloom, such as Tornadus and Latias.</p> 
+
+[SET]
+name: Bulk Up
+move 1: Bulk Up
+move 2: Spore
+move 3: Drain Punch
+move 4: Seed Bomb
+item: Toxic Orb
+ability: Poison Heal
+nature: Careful
+EVs: 236 HP / 212 SpD / 60 Spe
+
+
+[SET COMMENTS]
+
+<p>Bulk Up Breloom finds itself in the spotlight in an OU metagame where strong Fire- and Flying-type attacks are scarce. Taking advantage of its good typing and great ability in Poison Heal, Breloom can serve as a low-maintenance switch-in to bulky Water- and Ground-types such as Rotom-W, Gliscor, and Hippowdon and give its user a boosting win condition for the late-game. Usual switch-ins to Breloom, such as Landorus-T, Gliscor, and Amoonguss lacking Clear Smog, find themselves being set up on and beaten. Spore helps Breloom set up or temporarily take one of its counters out of play. Finally, Drain Punch offers recovery and has good coverage alongside Seed Bomb, which allows Breloom to threaten bulky Water-types such as Jellicent and Gastrodon, Pokemon it usually switches into.</p>
+
+
+[ADDITIONAL COMMENTS]
+
+<p>The HP EVs allow for a Poison Heal number, while the Speed EVs allow Breloom to outspeed specially defensive Heatran. The rest of the EVs are put into Special Defense, and when combined with a Careful nature, increase Breloom's special bulk, as it already has means to increase its Defense by virtue of Bulk Up. This Breloom appreciates Pursuit support to remove dangerous Psychic-types such as Latios, Latias, Celebi, and Reuniclus and clear the way for its sweep. Tyranitar is a good partner, as it can cancel out opposing weather (Breloom does not mind sand damage since Poison Heal recovers more than sand deals each turn), and Breloom can check bulky Water- and Ground-type Pokemon that Tyranitar has a hard time handling. In a similar vein, powerful Bug- and Dark-types such as Life Orb Hydreigon and Choice Scarf Scizor can put heavy pressure on Psychic-types. In particular, Scizor can confer Breloom momentum through U-Turn, giving it more chances to use Spore to set up. This Breloom also appreciates Stealth Rock, which limits the number of times Fire- and Flying-type Pokemon, such as Victini and Thundurus-T, can switch in. Hippowdon and Garchomp are good partners, as they can also check threats to Breloom such as Toxicroak, and the former can eliminate rain, which can allow offensive Water-types to power their way through Breloom.</p>
+
+<p>As a side note, if your team has adequate means of handling Ghost-types, Protect is an option over Seed Bomb to give Breloom a guaranteed means of Toxic Orb activation, greater longevity, the ability to scout the moves of Choice-locked foes, and also lets it set up against Bounce Gyarados.</p>
 
 [SET]
 name: Choice Scarf

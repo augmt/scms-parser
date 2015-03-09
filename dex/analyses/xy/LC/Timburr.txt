@@ -1,51 +1,52 @@
 Overview
 ########
 
-Timburr is an excellent Pokemon in the current LC metagame, capable of both dishing out damage and taking hits. With access to the newly buffed Knock Off and a resistance to Dark-type attacks, Timburr has only improved since the last generation. However, there are many other Fighting-type Pokemon in Little Cup that give Timburr competition for a spot on a team, but its relatively high bulk and access to priority in Mach Punch differentiates it from its competition.
+Timburr is one of the biggest threats in the Little Cup metagame, both before and after setting up Bulk Up. Using its fantastic bulk and high Attack stat, Timburr can survive plenty of hits and then heal off all the damage it has taken with Drain Punch. Timburr's main goal is forcing out one of the opponent's Pokemon or finding a member of the opponent's team that can't harm it and then setting up a Bulk Up or two. After that, Timburr is set to tear big holes into the opponent's team. Knock Off makes trying to wall Timburr with a Ghost- or Psychic-type futile and takes away Eviolites from Fairy-type switch-ins that Timburr cannot otherwise touch. Mach Punch is what differentiates Timburr from all the other Fighting-types in the tier, giving it a way to pick off weakened targets that would otherwise get a free hit on it before going down. Not even burning Timburr will help, thanks to its Guts ability, which instead gives it a power boost.
 
+As scary as Timburr is, Fairy-types are very solid counters to it. Spritzee, Snubbull, and Cottonee can switch into Timburr while taking practically nothing from even boosted Drain Punches, fearing only Knock Off and the rare Poison Jab. From there, their super effective STAB moves will force Timburr out and make it lose any boosts it has accumulated. Timburr also suffers from not having true reliable recovery, making it prone to being worn down. If Timburr can't find a turn to safely boost, it won't have enough Defense or recovery from Drain Punch to tank hits such as those from Fletchling and Archen. Volt Switch users, like Chinchou and Magnemite, can also wear Timburr down easily while not taking any damage. Timburr can absorb Knock Off in a pinch, but it really wants to keep its Eviolite to shore up its lower Special Defense.
 
 Bulky Attacker
 ########
 name: Bulky Attacker
 move 1: Drain Punch
-move 2: Knock Off
-move 3: Mach Punch
-move 4: Bulk Up / Poison Jab
+move 2: Mach Punch
+move 3: Knock Off
+move 4: Bulk Up
 ability: Guts
 item: Eviolite
-evs: 76 HP / 196 Atk / 76 Def / 156 SpD
-nature: Impish
+evs: 116 Atk / 156 Def / 236 SpD
+nature: Careful
 
 Moves
 ========
 
-This set allows Timburr to switch into many dangerous threats, such as Pawniard, and strike back with Drain Punch to regain some of the HP it lost while switching in. Knock Off is a really nice move for Timburr as it threatens many of the Psychic- and Ghost-types that would otherwise give Timburr trouble switching in. Knock Off is also a highly spammable move because very few LC Pokemon appreciate having their item removed. Mach Punch is useful for picking off faster threats. The last slot is a decision between potentially sweeping an unprepared team and hitting the fairies that commonly switch into Timburr.
+Drain Punch is Timburr's best STAB move, letting it attack and recover health at the same time. Knock Off stops Ghost-, Psychic-, and Fairy-types from switching freely into what they may expect to be a Drain Punch or Mach Punch. It also removes Eviolite and Berry Juice to aid Timburr in its sweep. Mach Punch is vital to Timburr's success, as without it, Timburr could be worn down by very weakened threats that could get in a free hit and don't provide much Drain Punch recovery. Bulk Up is the move that makes Timburr threatening, providing it with a way to boost both its Attack and Defense and then sweep. If you really don't want to run Bulk Up on Timburr, Poison Jab is the next best option. After a Knock Off, Timburr can 2HKO Spritzee with Poison Jab while surviving the Moonblast thanks to its bulk. That said, Bulk Up is superior in almost every case and is highly recommended.
 
 Set Details
 ========
 
-Eviolite is the chosen item on this set, as it gives Timburr good bulk. Berry Juice is not as useful because Timburr can replenish its health with Drain Punch. The EV spread, coupled with an Impish nature, gives Timburr 25/21/18 defenses when factoring in Eviolite, while still allowing Timburr to pack a punch. Guts is the recommended ability for this set, as it allows Timburr to absorb status and beat defensive threats such as Pumpkaboo and Chinchou.
+The EV spread maximizes the boosts Timburr receives from Eviolite and Bulk Up while maxing its Special Defense, which it is unable to boost. With this spread, Timburr can survive very powerful attacks, such as Fletchling's Acrobatics and Focus Sash Abra's Psychic, even after taking Stealth Rock damage. If Timburr is supported by special walls, it can run a spread of 76 HP / 196 Atk / 76 Def / 156 SpD with an Impish nature instead. This gives it more power and a little bit more physical bulk at the cost of its Special Defense. This spread practically guarantees that Timburr will win any Bulk Up wars with opposing Timburr, as well as grabbing a few extra KOs at +1. If Timburr needs to take more hits, it can run a spread of 76 HP / 36 Atk / 156 Def / 236 SpD with a Careful nature. This lets it survive attacks such +2 Omanyte's Hydro Pump, but does mean that Timburr will not hit as hard, especially after boosts.
 
 Usage Tips
 ========
 
-Timburr is one of the best bulky pivots in the current metagame, as it can switch in on most neutral attacks, including any status inducing move that does not cause sleep,and then threaten the opponent with its good coverage. Timburr should use Knock Off liberally in the early-game, because very few Pokemon want to switch into Timburr and lose its item. Timburr is able to take some weaker hits due to its bulk, so it can work as a good lure for Pokemon such as Spritzee (if its eviolite has been knocked off). But if the opponent has a Pawniard or Carvanha, it is important to keep Timburr healthy so it is able to check them late-game. Thanks to Guts, Timburr can also be switched in on obvious status moves in order to power up its attacks.
+Using Bulk Up at the right time is the key to getting the most out of Timburr. Weak attackers, such as Chinchou and Trubbish, and walls forced out by Timburr, such as Lileep and Lickitung, present the perfect setup opportunity. It's also easy to set up on Pokemon that want to spend a turn doing something like setting or removing hazards. Finally, Timburr can also set up in front of other setup Pokemon, such as Tirtouga and Zigzagoon. Even with Memento support, these Pokemon can't get past Timburr after it has used Bulk Up and regained some health with Drain Punch. Once Timburr has attained a Bulk Up boost or two, otherwise solid checks such as Fletchling and some Croagunk sets become incapable of stopping Timburr. If you need it to, Timburr can also absorb Knock Off well thanks to its resistance to the move, natural bulk, and ability to force out the move's most threatening user, Pawniard.
 
 Team Options
 ========
 
-Archen likes to switch into Timburr, and a well-timed Knock Off paves the way for sweepers such as Scraggy and Bunnelby late-game, making them good partners. Timburr can also take on Snover and Amaura thanks to Mach Punch, meaning it is a good option on a sun team or paired with Grass-type Pokemon such as Foongus. Timburr is also one of the best switch-ins to Porygon due to its typing, bulk, and Guts, so Pokemon like Chinchou appreciate Timburr's presence on a team. Setup sweepers like Fletchling appreciate Timburr softening up opposing defensive Pokemon with Knock Off. Pawniard is another good option forming a dual Knock Off core with Timburr, and Pawniard can also take on the Fairy-types that give Timburr trouble. A teammate that can handle Flying-types is also necessary for Timburr, Archen being one good option.
+Timburr absolutely needs a Pokemon that can switch into and remove Fairy-types to function well, and it doesn't hurt to also have a switch-in to Psychic- and Flying-types as well. Skrelp is a great teammate for Timburr, as it can can take on Fairies with ease with its powerful attacks and great bulk. Calm Mind Gothita can be used to trap and set up on Spritzee, the most common Fairy-type. As for Flying- and Psychic-types, Archen and Pawniard can handle those threats well. Pursuit users can help out a lot if your team has no solid way to remove Abra and Gastly, which hit Timburr hard and dissuade it from recovering with Drain Punch. Also, another Fighting-type such as Croagunk or Mienfoo used alongside Timburr can work well, as the two can wear down each other's checks.
 
 Other Options
 ########
 
-Timburr has quite a few options that it can utilize, but they are generally not as effective as the standard set. There are a variety of coverage moves that could be used over Ice Punch, such as Thunder Punch to hit Mantyke or Stone Edge for Larvesta, but Poison Jab is usually the best option if you want more coverage, as it nails Spritzee. Iron Fist can be used over Guts if you want to boost Timburr's power right away, but this causes it to lose a lot of utility in status absorbing. Power-Up Punch can be used to boost its Attack, but it is inferior to Bulk Up and is usually a wasted turn due to its low power and Timburr's low Speed. Taunt can be used to prevent support Pokemon from using their support moves, but Timburr is generally too slow to pull it off.
+Timburr gets Iron Fist as a Hidden Ability that boosts the damage output of Drain Punch and Mach Punch. This is useful, but Guts is generally superior, as being immune to the Attack drop from being burned is one of Timburr's main selling points. Superpower is Timburr's most powerful reliable Fighting-type STAB move, but its stat drops after use and lack of recovery make it inferior to Drain Punch in most cases. Besides Poison Jab, Timburr has some other coverage options in Ice Punch and Stone Edge; Ice Punch lets it hit Flying-types and Foongus super effectively, while Stone Edge takes on Larvesta and Ponyta, as well as getting a more powerful but less accurate hit on Flying-types. What makes Poison Jab superior to these moves is the fact that Timburr cannot get past Fairies at all without it, while with enough boosts, Timburr can get through the aforementioned Pokemon without needing the respective coverage move. Finally, a RestTalk set can work, giving Timburr even more recovery along with a reliable way to trigger Guts, but Timburr must sacrifice one of its important moves in order to fit it in.
 
 Checks & Counters
 ########
 
-**Fairy-types**: Timburr has problems getting around Fairy-types such as Snubbull and Spritzee, as they resist most of Timburr's moves and can OHKO Timburr with their STAB Fairy attacks.
+**Fairy-types:** Spritzee, Snubbull, Cottonee, and other Fairies stop Timburr cold, only fearing Knock Off and the rare Poison Jab.
 
-**Poison-types**: Poison-types such as Tentacool, Koffing, and Skrelp also give Timburr trouble due to their typing and decent bulk. Liquid Ooze on Tentacool also makes Drain Punch backfire on Timburr.
+**Revenge Killers:** Abra, Gastly, Gothita, and Fletchling can revenge kill Timburr if it's not at full health.
 
-**Offensive Flying-types**: Mantyke, Doduo, and Fletchling can all outspeed and OHKO Timburr, but all except Mantyke have trouble switching in. Mantyke can use Timburr as set-up bait to get off a Rain Dance and potentially sweep. 
+**Poison-types:** Skrelp, Croagunk, Foongus, and most other Poison-types resist Fighting and are not weak to Knock Off, so Timburr cannot hit them very hard without boosts. 

@@ -1,0 +1,57 @@
+Overview
+########
+
+Bisharp is used mainly for its ability Defiant, which gives Bisharp an Attack boost when it is facing a Pokemon with Intimidate, a common ability due to the amount of physical attackers such as Mega Kangaskhan, Mega Salamence, Landorus-T, and others. Its STAB moves and its impressive base 125 Attack, cover common Pokemon such as Sylveon, Aegislash, and Cresselia. Unfortunately, it suffers from rather poor stats everywhere else; its base 70 Speed can often lead to uncomfortable positions with Sucker Punch mind games when paired with its rather lackluster defenses. However, the free boosts granted by Defiant and its STAB Sucker Punch will always be a force in the metagame as long as Intimidate stays common.
+
+Standard
+########
+name: Standard
+move 1: Sucker Punch
+move 2: Iron Head
+move 3: Knock Off / Low Kick
+move 4: Protect
+ability: Defiant
+item: Life Orb / Focus Sash
+evs: 4 HP / 252 Atk / 252 Spe
+nature: Adamant / Jolly
+
+Moves
+========
+
+Sucker Punch's priority helps circumvent Bisharp's low defenses and Speed and will be its main method of attacking with Defiant boosts. Knock Off is good not only for the 97 Base Power it has on the first hit against any Pokemon with a non-Mega Stone item, but for scouting out items on the opponent's team as well (keeping in mind the Item Clause in the VGC format). Iron Head threatens Fairy-types and most other Pokemon that resist Bisharp's Dark-type moves, and it is more consistent in terms of damage output. Low Kick can also be used to deal nice damage to the likes of Mega Kangaskhan, Heatran, and other Bisharp. Protect is a staple in the last slot to keep Bisharp alive in spite of its poor defenses and discourages the opponent from attacking.
+
+Set Details
+========
+
+A Jolly nature should only be used when using Low Kick to outspeed other Bisharp and Heatran. Otherwise, Adamant is the better nature, as Jolly Bisharp has a lower damage output and misses out on the chance to OHKO 4 HP Landorus-T after a Defiant Boost with Life Orb and other such benchmarks. Maximum Attack and Speed are used, as Focus Sash and Life Orb would waste any defensive investment anyway. Life Orb is for maximum damage output, while Focus Sash acts as a safety net for Bisharp if it whiffs a Sucker Punch or takes an Earthquake from a Pokemon such as Landorus-T, if Sucker Punch hits a low damage roll, or if Landorus is running a bulkier set.
+
+Usage Tips
+========
+
+Because Bisharp is relatively slow and frail, switching it in directly is risky, especially because it makes it less likely for Bisharp to receive a Defiant boost. Either leading with it or bringing it in after something is KOed is a good idea to get boosts from Pokemon such as Landorus-T and to preserve Bisharp.
+
+Because of the risky nature of Sucker Punch, you should try to use Bisharp's secondary STAB moves when the opportunity presents itself. Iron Head offers the chance to make a single target flinch, which can help out with Bisharp's lack of bulk, and Knock Off removes any non-Mega Stone item and helps scout out items on your opponent's team because of Item Clause. For example, if you Knock Off a Choice Scarf from a Hydreigon, you can rule out Choice Scarf on a Landorus-T you see in Team Preview.
+
+Team Options
+========
+
+Physical attackers such as Mega Salamence, Conkeldurr, and Mega Kangaskhan don't provide much support to Bisharp directly, but they are exceptionally good at baiting Intimidate, which is great for pressuring the opponent before the match even starts. Amoonguss and Togekiss are your go-to Pokemon for redirection and resist Fighting, making them excellent teammates to consider. Togekiss also helps to KO Fighting-types that can give Bisharp trouble, and Clefable deserves a mention, as it can boost Sucker Punches with Helping Hand, take care of Fighting-types, and provide Follow Me support. Pokemon that can OHKO Fighting- or Fire-types such as Sylveon, Talonflame, Suicune, and Rotom-W are good partners to round out Bisharp's fatal weaknesses.
+
+Other Options
+########
+Substitute and Swords Dance are great to take advantage of redirection or predicted Protects, though without redirection they can often prove to be unneeded filler options. Assurance was popular in VGC14 and is still a solid option when paired with multi-target attacks such as Heat Wave and Rock Slide, but Knock Off is less situational and less reliant on partners. Bisharp can use Taunt to prevent burns or Trick Room, and it synergizes nicely with Sucker Punch, but many of Bisharp's enemies might try to attack it directly. Stone Edge is Bisharp's only viable Super Effective move to use against Fire-types such as Mega Charizard Y and Rotom-H, but it is inaccurate and often fails to outdamage Knock Off on Pokemon that aren't Fire-types. Lum Berry prevents burns and can be used with a partner's Swagger, though outside of this, Bisharp finds Focus Sash's defensive qualities or Life Orb's offensive qualities more appealing. Black Glasses don't boost Iron Head or Low Kick's base power, but boosts Sucker Punch and Knock Off without recoil at the cost of doing less damage, which is the main dealbreaker. Choice Band makes Bisharp deal a lot of damage, but it comes with the risk of being locked into an ineffectual Sucker Punch, which is easily stalled out, even in tournament matches that only last 15 minutes. When using Choice Band, a slightly bulkier spread of 100 HP / 252 Atk / 156 Spd can be used to survive attacks such as Garchomp's Earthquake, which is more useful because Pokemon with Choice items can't use Protect.
+
+Checks & Counters
+########
+
+**Faster Pokemon**: Generally speaking, Bisharp is beaten by Pokemon that can easily outspeed and OHKO it. Mega Kangaskhan stands out as a check, as its Power-Up Punch allows it to OHKO Bisharp regardless of Focus Sash and boost its Attack to +2 in the process.
+
+**Ground-types**: Landorus-T and Garchomp can easily threaten Bisharp with STAB Earthquakes, though Landorus-T's ability to combat Bisharp depends largely on whether or not it can maneuver onto the field without giving Bisharp a deadly Defiant boost.
+
+**Fire-types**: Mega Charizard Y, Volcarona, and Talonflame are all capable Fire-types that can outspeed and KO Bisharp, and the former two can stop Sucker Punch with Rage Powder or Quick Guard, respectively.
+
+**Fighting-types**: Conkeldurr and Breloom can use Mach Punch to KO Bisharp (though perhaps not before it uses Sucker Punch on something), preventing it from using Knock Off to remove an important item. Other Fighting-types such as (Mega) Lucario, (Mega) Gallade, and Terrakion are obvious choices when it comes to speedy Fighting-types.
+
+**Trick Room**: Trick Room might be hard to set up against Bisharp with most users being weak to its STAB moves, but once it's up, Pokemon such as Mega Camerupt and Mega Mawile can easily threaten Bisharp with their STAB moves.
+
+**Sableye**: Sableye can reliably burn Bisharp thanks to Prankster, takes neutral damage from Bisharp's STAB moves, and has access to Recover.

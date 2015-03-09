@@ -1,46 +1,84 @@
-
 Overview
 ########
-Possessing one of the most sought-after abilities in Prankster and a movepool that complements it nicely, Klefki stands out in OU as a potent support Pokemon. It is the only Pokemon in the game with the combination of Prankster and dual screens or Spikes, and Prankster makes it very effective atusing these moves, as it doesn't have to worry about the burdens of Speed benchmarks, freeing it to direct its EVs towards bulk instead. Klefki's tremendous defensive typing makes it difficult to wear down during the course of a match. It isn't just limited to dual screens and Spikes, though, as it has an array of other support moves to assist its team with, including the uniquely helpful Fairy Lock. However, Klefki shares a common tendency with many other support Pokemon: it lacks a large offensive presence, which makes it fairly easy to switch into. Mediocre stats prevent Klefki from really making the best out of its fantastic defensive typing, and a lack of Taunt is quite disappointing, as it renders Klefki vulnerable to Taunt itself while also making it much easier for Pokemon to set up entry hazards against it. Overall, Klefki is a rather niche Pokemon, but Prankster definitely enables it to perform its role successfully.
+
+Klefki's wide support movepool, which includes Spikes, Thunder Wave, and dual screens, coupled with Prankster allow it to function as a very effective support Pokemon. Its Steel / Fairy typing gives it numerous resistances and immunities to common attacking types, allowing it to check threats such as Mega Gardevoir, Mega Pinsir, Latios, and Weavile. Notably, Prankster Thunder Wave allows Klefki to act as a catch-all stop to most setup sweepers. Klefki has access to Magnet Rise, which gives it the ability to avoid Ground-type attacks for five turns, which alleviates one of its only two weaknesses. Unfortunately, Klefki has subpar stats overall and lacks significant offensive presence.
+
+Spikes
+########
+name: Spikes
+move 1: Spikes
+move 2: Thunder Wave
+move 3: Magnet Rise / Toxic
+move 4: Play Rough / Foul Play
+ability: Prankster
+item: Leftovers / Sitrus Berry
+evs: 252 HP / 4 Def / 252 SpD
+nature: Careful / Calm
+
+Moves
+========
+
+Spikes quickly rack up damage on grounded Pokemon, and Klefki finds many opportunities to set them up due to its great defensive typing. Thunder Wave cripples offensive Pokemon and halts setup sweepers such as Mega Pinsir and Mega Gyarados. Magnet Rise allows Klefki to avoid Ground-type attacks from Pokemon such as Mamoswine, Excadrill, and the Landorus formes. Toxic is an alternate choice to hit Ground- and Electric-types, which are immune to Thunder Wave, such as Hippowdon, Thundurus, and Raikou. Play Rough ensures that Klefki is not completely shut down by Taunt, and it has good neutral coverage overall. Foul Play hits Steel-types such as Mega Scizor, Jirachi, Excadrill, and non-Mega Gyarados.
+
+Set Details
+========
+
+Full HP investment is used to maximize Klefki's solid bulk, and a Careful nature and the Special Defense investment allows it to better take hits from the likes of Starmie, Keldeo, Thundurus, Gengar, and Mega Gardevoir. A Calm nature should be used with Foul Play, as preserving Klefki's Attack stat is not needed with Foul Play. Alternatively, a physically defensive EV spread of 252 HP / 252 Def / 4 SpD and a Bold nature can be used to handle threats such as Weavile, Dragon Dance Mega Altaria, Mega Lopunny, and Azumarill. Leftovers provide passive recovery, while a Sitrus Berry gives Klefki immediate recovery when it reaches low HP, giving it more opportunities to set up layers of Spikes. Prankster gives priority to all of Klefki's status moves.
+
+Usage Tips
+========
+
+Klefki should pivot into resisted or immune attacks from Pokemon such as Latios, Weavile, Mega Altaria, and Gengar. Klefki should set up layers of Spikes early on when it forces switches into a Ground- or Electric-type trying to absorb a Thunder Wave or against a paralyzed foe. Magnet Rise should be used versus Ground-types such as Mamoswine and Landorus-T to avoid their attacks.
+
+Team Options
+========
+
+Klefki is a great team supporter and fairly self-sufficient Pokemon, although there are many offensive Pokemon that appreciate its support. Pokemon whose checks and counters are grounded Pokemon, and are thus worn down by Klefki's Spikes, such as Mega Sharpedo, Mega Gyarados, and Scizor make for good teammates. Pokemon with Defiant such as Thundurus or Bisharp deter the use of Defog to clear Klefki's Spikes, but are not always necessary due to how Klefki puts immense pressure on the two most common Defog users, Latios and Latias. Water-types such as Keldeo and Gyarados are good teammates to handles the Fire-types that trouble Klefki.
 
 Dual Screens
 ########
 name: Dual Screens
 move 1: Reflect
 move 2: Light Screen
-move 3: Spikes
-move 4: Fairy Lock
+move 3: Fairy Lock
+move 4: Foul Play
 ability: Prankster
 item: Light Clay
-nature: Impish
-evs: 252 HP / 252 Def / 4 SpD
+evs: 252 HP / 4 Def / 252 SpD
+nature: Calm
 
 Moves
 ========
-The goal of this set is to set up Reflect and Light Screen to benefit both Klefkiand its team. Not only do Light Screen and Reflect aid Klefki in setting up Spikes, but they also assist teammates trying to set up with boosting moves. Prankster is the icing on the cake, allowing Klefki to set up the relevant screenagainst the opponent regardless of Speed. Spikes provide even more support, benefiting teammates by potentially turning 2HKOs into OHKOs. Klefki's signature move, Fairy Lock, is an excellent move in the last slot, as it prevents both Pokemon in play from switching out in the turn after it is used, allowing it to be used as Klefki is about to be KOed so that a teammate that threatens the trapped Pokemon can setup behind the dual screens Klefki has set. However, one can use an offensive move in order for Klefki to not be total Taunt bait. Foul Play discourages physical attackers from setting up on Klefki, whereas Play Rough is a STAB attackthat 2HKOes Latios and Conkeldurr and is generally a more powerful option. Toxic can also be used to pressure Defog users such as Mandibuzz and Zapdos, which threaten to remove Klefki's Spikes and dual screens. Thunder Wave, another status move, can also be used, as the usefulness of Prankster Thunder Wave is immense in slowing down faster Pokemon.
+
+Reflect and Light Screen give Klefki's teammates invaluable support by significantly decreasing the damage from opposing Pokemon's attacks. This support is extremely helpful for setup sweepers that rely on taking an attack and boosting. Fairy Lock prevents both Pokemon in play from switching out in the turn that it is used, which is helpful when Klefki is about be KOed so a teammate can use the opposing Pokemon as setup bait or to just fire off an attack. Foul Play prevents Klefki from being Taunt and setup bait from the likes of Thundurus, Talonflame, Mega Scizor, and Mega Charizard X. Spikes are a great entry hazard that quickly rack up damage on grounded Pokemon, but Klefki struggles to fit them on this set.
 
 Set Details
 ========
-Light Clay is the item of choice to increase the duration of Reflect and Light Screen to eight turns. Klefki invests in its Defense as much as possible in order to take attacks such as Earthquake easier. However, Klefki can easily be modified to tank hits better from special attackers by investing in its Special Defense.
+
+Maximum HP investment is important to take hits while setting up screens, and a Calm nature helps agaisnt the likes of Taunt users such as Gengar, Thundurus, and Mega Gardevoir. Light Clay increases the duration of Light Screen and Reflect. Prankster gives priority to all of Klefki's support moves, particularly Light Screen and Reflect. A physically defensive EV spread can be used to lessen the damage taken from physical attacks and Psyshock.
 
 Usage Tips
 ========
-This set does best as a lead for hyper offensive teams, as it gives frailer setupsweepers the bulk they need to set up and destroy teams. This includes teams with Shell Smash users, as most Shell Smash users have poor special bulk. It also helps frail wallbreakers destroy opposing offensive teams that would otherwise have the power to revenge kill them. It is not wise to sacrifice Klefki once it sets up dual screens to provide an advantage in momentum, as it can take advantage of its great typing and decent bulk to attempt to set up dual screens multiple times throughout the game. Fairy Lock should be used right before Klefki is about to be KOed so that a teammate can come in and either set up or KO the trapped Pokemon. An example is trapping Landorus before it uses Earth Power, so that Mamoswine can revenge kill it the next turn with Ice Shard.
+
+This set works best as a lead for offensive teams to quickly set up Light Screen and Reflect for setup sweepers. If the opponent has a more physically oriented team, then it is more useful to set up Reflect, and if they have a more specially oriented team, then Light Screen is better. Fairy Lock should be used when Klefki is about to be KOed so a teammate can either set up on or KO the trapped Pokemon.
 
 Team Options
 ========
-This Klefki set works wonders on hyper offensive teams in need of a dual screens user that's resilient and can offer defensive synergy. Klefki doesn't need much support itself, so its teammates are almost always ones that require its support instead. Virtually all setup sweepers make great use of dual screen support, but examples of Pokemon that especially love it include Belly Drum Azumarill, Tail Glow Manaphy, Shell Smash Gorebyss, and Dragon Dance Mega Gyarados. Thundurus can form an effective double Prankster paralysis core, and it can also prevent Defog users from removing Klefki's dual screens with Taunt. Thundurus can also run a Defiant set to discourage Defog by threatening to come in and receive a +2 Attack boost. Defiant Bisharp can also receive a +2 Attack boost from Defog, making it a good partner as well.
+
+Klefki is fairly self-sufficient, and it usually provides more team support than it needs in return. Setup sweepers such as Scizor, Azumarill, Landorus-T, and Mega Charizard X are excellent teammates that appreciate the screens that Klefki provides. Pokemon with Defiant such as Bisharp and Thundurus deter the use of Defog from the likes of Latios and Latias, which would waste Klefki's efforts by getting rid of the screens.
 
 Other Options
 ########
-Klefki can run a pretty potent utility set with Spikes and Thunder Wave which can setup Spikes on Pokemon that it forces out thanks to its great typing, while also acting as a utility check to dangerous sweepers. A full Toxic stalling set with Torment is a potentially viable option, though it lacks a way to deal with Steel-types. Imprison is also an option, albeit a rather niche one, to stop opposing users of dual screens such as Espeon from setting up alongside Klefki. An offensive Calm Mind set which attempts to sweep with moves such as Draining Kiss, Flash Cannon, and Psyshock is possible, but Klefki's low offensive stats and the low Base Power of its STAB moves make it quite a weak sweeper. Lastly, Switcheroo is a neat disruption tactic when paired with items such as Lagging Tail, Choice Scarf, and Toxic Orb, and it is especially effective given that defensive Pokemon are the most likely choices to switch into Klefki.
+
+Flash Cannon OHKOes Mega Diancie, which bounces back Klefki's Spikes and status moves, takes little from Foul Play and Play Rough, and can use Klefki as setup fodder. Dazzling Gleam targets Mega Sableye, 2HKOing physically defensive variants most of the time. Magic Coat bounces back opposing entry hazards and status moves. Heal Block prevents defensive Pokemon such as Mega Venusaur, Hippowdon, and Chansey from using recovery moves. Switcheroo is an alternate way of disrupting offensive Pokemon by giving them a Choice item, status orb, or crippling their Speed with a Lagging Tail.
 
 Checks & Counters
 ########
-**Defensive Pokemon**: Klefki typically has no way of doing anything to most bulky Pokemon, especially ones that resist Play Rough or don't take much damage from Foul Play. More importantly, as Klefki unfortunately doesn't have access to Taunt, any of these bulkier Pokemon that commonly use Taunt themselves can completely prevent Klefki from doing anything notable, gaining momentum as Klefki si forced to switch out. Heatran and Gliscor are common defensive Pokemon that carry Taunt; Heatran 4x resists Play Rough, while Gliscor can take advantage of Klefki switching out to set up a Substitute and potentially Toxic stall a foe. Other bulkier Pokemon such as Skarmory and Hippowdon can't completely stop Klefki from setting up dual screens, but they don't mind any of Klefki's attacks and can potentially phaze out a Pokemon trying to set up from behind the dual screens Klefki has set.
 
-**Offensive Pressure**: In general, Klefki has very little offensive presence, and lacks a way to recover from attacks reliably, which somewhat nullifies its invested defenses. However, most setup sweepers can't set up on Klefki, as it can paralyze them with Thunder Wave. Therefore, the best way for offensive teams to check Klefki is to constantly use their STAB attacks to wear Klefki down until it faints. Some of the best Pokemon to wear down Klefki with include Electric- and Ground-types such as Thundurus, Mega Manectric, Excadrill, Landorus, Landorus-T, and Garchomp, as they are all immune to Klefki's Thunder Wave by virtue of their typing. The Ground-type Pokemon also have a super effective STAB move to threaten Klefki with, while Thundurus has Prankster Taunt to prevent it from setting up its dual screens.
+**Taunt Users**: Taunt users such as Thundurus, Mega Gardevoir, and Gengar prevent Klefki from using its support moves such as Spikes, Thunder Wave, Light Screen, and Reflect. However, the latter two are severely crippled by Thunder Wave.
 
-**Trick and Encore**: By being Tricked a Choice item from a Pokemon such as Latios, Klefki can only use one move each time it switches in, causing it to kill momentum. Meanwhile, Encore also locks Klefki into a single move, but it is not permanent.
+**Defensive Pokemon**: Defensive Pokemon such as Heatran, Hippowdon, Rotom-W, Gliscor, and Slowbro are major nuisances for Klefki due to its lack of offensive presence. Gliscor gets a notable mention, as it is not affected by either Thunder Wave or Toxic and shrugs off Foul Play and Play Rough thanks to its great Defense.
 
-**Defog**: The move Defog and its users are both detrimental to Klefki, as the move itself will remove the dual screens that Klefki has set, and common users of the move such as Zapdos, Skarmory, and Mandibuzz can also easily switch into Klefki and aren't bothered by anything that it can do, bar the rare Toxic in the case of Zapdos and Mandibuzz.
+**Offensive Pressure**: Offensive Pokemon such as Keldeo, Thundurus, Mega Metagross, Azumarill, and Talonflame can break through Klefki with repeated hits, although most of them are crippled by Thunder Wave.
+
+**Magic Bounce**: Pokemon with Magic Bounce, particularly Mega Sableye and Mega Diancie, bounce back Klefki's Spikes and status moves, can easily take most of Klefki's attacks, and use Klefki as setup fodder. Mega Sableye should be wary of the occasional Dazzling Gleam, while Mega Diancie is OHKOed by the rare Flash Cannon.

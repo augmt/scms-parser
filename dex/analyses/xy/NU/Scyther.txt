@@ -1,13 +1,90 @@
+Overview
+########
+
+Boasting high Attack and Speed stats, Scyther is a premier revenge killer and momentum gainer in the tier with the use of STAB U-turn. A Choice Band set takes advantage of its highest stats and increases its ability to weaken the opposing team while keeping momentum on its side of the field. The power increase comes with a price: due to a lack of recovery, Scyther find itself easily worn down. The option to hold Eviolite also allows Scyther to be used as a bulky setup sweeper, a role that benefits from the high amount of Psychic-, Fighting-, and Grass-type Pokemon in the tier. The bulky variants of Scyther trade the immediate power of a Choice set for reliable recovery and added defenses from an Eviolite. In spite of the offensive pressure that Scyther offers, its typing leaves it very weak to Stealth Rock and lets Steel-type Pokemon wall it easily.
+
+
+Swords Dance
+########
+name: Swords Dance
+move 1: Swords Dance
+move 2: Aerial Ace
+move 3: Knock Off / Bug Bite
+move 4: Roost
+ability: Technician
+item: Eviolite
+evs: 248 HP / 8 Atk / 252 Spe
+nature: Jolly
+
+Moves
+========
+
+Swords Dance is the staple move of this set, boosting Scyther's Attack to a considerable level even with such little investment. Aerial Ace is a reliable attack once Scyther sets up, also hitting Fighting-type Pokemon and bulky Grass-type Pokemon for super effective damage. Knock Off is a good option early-game, getting rid of items from Scyther's common switch-ins and preparing the stage for a Swords Dance sweep later on. As Rhydon is one of the best switch-ins to Scyther besides Steel-types, being able to get rid of its Eviolite will reduce the amount of times it will be able to come in again. Ghost-types that might come in on predicted U-turns will also not appreciate losing their item or simply fainting. If the previously mentioned Pokemon are not a problem for the team, Scyther can afford to use a second STAB move in Bug Bite or U-turn. Bug Bite is Scyther's most powerful attack against opposing bulky Psychic- and Dark-type Pokemon, while U-turn allows Scyther to pivot early-game before finding the opportunity to set up. Roost improves Scyther's longevity and allows it to set up and heal back up on weaker targets. Having reliable recovery in Roost also allows Scyther to switch into Stealth Rock if needed. Baton Pass merits a mention on this set as a way of not wasting Swords Dance boosts in case Scyther gets threatened out shortly after setting up.
+
+Set Details
+========
+
+Full Speed investment and a Jolly nature allow Scyther to outspeed most of the metagame, which aids in gaining momentum early-game and sweeping late-game. Eviolite allows it to find more opportunities to set up on defensive Pokemon. 248 HP EVs further augment Scyther's bulk while also giving it an odd HP number, letting it switch into Stealth Rock three times. A more offensive spread of 252 Atk / 4 Def / 252 Spe is also an option, offering more immediate power early-game and maximizing Scyther's damage output, ensuring an OHKO on Typhlosion after a Swords Dance boost.
+
+Usage Tips
+========
+
+The main goal of Swords Dance Scyther is to set up and sweep; therefore, it is best preserved for late-game, when its counters are either weakened or taken out. Its high Speed allows Scyther to also revenge kill during early stages of the game without getting weakened. The bulk that Eviolite offers allows Scyther to switch in more often on opposing defensive Pokemon, but it still has to be wary of Stealth Rock. While the ability to heal with Roost takes off some stress from the need to clear the entry hazards on your side of the field, getting rid of Stealth Rock will always be favorable for Scyther.
+
+Team Options
+========
+
+Lanturn is a premier partner of Scyther, as it resists four of five types that Scyther is weak to, and Scyther is immune or 4x resistant to Lanturn's weaknesses. Lanturn also offers utility in Heal Bell to get rid of any status conditions that Scyther suffers from, along with a slow Volt Switch to aid Scyther's switches. Because Scyther is used here as a setup sweeper, a surefire way to get rid of opposing Steel-types is preferred. Probopass shines as an option, as it can trap and dispatch of them with Earth Power. It also offers an answer to Rock- and Flying-type attacks, can set up Stealth Rock, and can gain momentum with slow Volt Switches. Scyther can be paired up with entry hazard removers such Cryogonal, Mantine, and Claydol, with which it has decent defensive synergy. Choice Band Sawk can muscle through opposing Steel- and Rock-types that can stop Scyther. Fire-type wallbreakers, such as Typhlosion and Magmortar, are a great way to open up sweeping opportunities for Scyther.
+
 Choice Band
 ########
 name: Choice Band
-move 1: Aerial Ace
-move 2: Bug Bite
-move 3: Brick Break
-move 4: Quick Attack / Pursuit
+move 1: U-turn
+move 2: Aerial Ace
+move 3: Knock Off
+move 4: Quick Attack / Brick Break
 ability: Technician
 item: Choice Band
 evs: 252 Atk / 4 Def / 252 Spe
 nature: Jolly
 
-This is a sample set while we are currently working on analyses in the workshop.
+Moves
+========
+
+With a Choice Band increasing its immediate power, U-turn is the staple move on this set. STAB U-turn will threaten out opposing Psychic- and Dark-types, such as Mesprit and Malamar, while also hitting most switch-ins hard. Aerial Ace offers the most damage output without forcing Scyther to switch out. Knock Off is very spammable, allowing Scyther to get rid of items from its switch-ins and reduce their longevity. As Rhydon is one of the best switch-ins to Scyther, getting rid of its Eviolite can shorten its longevity and make it harder for it to take Choice Band-boosted U-turns later in the game. A Technician-boosted Quick Attack hits decently hard and can pick off weakened Pokemon that can otherwise outspeed and KO Scyther, such as Pyroar, Swellow, and Archeops. Brick Break is an option if Scyther needs to hit opposing Steel-types.
+
+Set Details
+========
+
+Maximizing Speed with 252 EVs and a Jolly nature allows Scyther to outpace most of the metagame. Fully investing in its Attack takes as much advantage of the Choice Band boost as possible. The remaining 4 EVs are either used in Defense or Special Defense, leaving Scyther with an odd HP number, which allows it to switch into Stealth Rock three times. Choice Band is a straightforward option, boosting Scyther's already high Attack; paired with U-turn, it allows Scyther to abuse the power boost without worrying about being locked in a move too early in the game.
+
+Usage Tips
+========
+
+U-turn will be the most-used attack of Choice Band Scyther. It helps weaken opposing Pokemon in early stages of the game and keeps momentum on your side of the field. Even at times when it does not use U-turn, Scyther is best used as a hit-and-run Pokemon, as being locked in any of its moves too early in the game won't give a lot of coverage and will allow the opponent to take advantage of the situation. As Choice Band Scyther has no way of recovering on its own, having Defog or Rapid Spin support on the team is very important. Scyther has to be wary of passive damage, which is one of the best ways of rendering it useless. A combination of Stealth Rock + Rocky Helmet spells doom for Scyther; therefore, getting rid of entry hazards or the items on opposing Pokemon is vital for Scyther's longevity.
+
+
+Team Options
+========
+
+Resisting most of Scyther's weaknesses and providing utility in Heal Bell and slow Volt Switches, Lanturn is a great partner for Scyther. Sandslash and Claydol are great teammates, as they offer an answer to Rock-type attacks and can also use Rapid Spin to clear the field for Scyther while also setting up their own entry hazards. Because Steel-types are the main way of stopping Scyther, powerful Fire-type wallbreakers, such as Typhlosion and Magmortar, can aid in opening sweeping opportunities for Scyther. Garbodor deserves a special mention as an entry hazard stacking-partner, as Scyther can threaten to take out opposing Psychic-types for it.
+
+Other Options
+########
+
+Scyther can make use of a Choice Scarf set similar to the Choice Scarf set to get past faster Pokemon that otherwise threaten it. With rain teams being the most efficient weather archetype of the tier, Choice Scarf Scyther offers the advantage of outspeeding Modest Ludicolo under rain. Pursuit is an option on the Choice Band set, though the two main Ghost-types it can trap, Rotom and Mismagius, threaten Scyther right back with a Choice Scarf Thunderbolt or Will-O-Wisp. Pursuit can also be useful on slower opposing Psychic-types, such as Musharna and Uxie, if you want to dispatch of them faster. Brick Break is an option for the Eviolite Swords Dance set to allow Scyther to get past opposing Steel-types on its own.
+
+Checks & Counters
+########
+
+**Steel-types**: The Bug and Flying STAB combination is walled by Steel-types, which are usually able to hit back hard. Mawile resists both of Scyther's STAB moves, as well as its most-used coverage move, Knock Off. Defensive variants of Mawile can run Intimidate and get free turns in which to set up Stealth Rock, decreasing Scyther's longevity even more.
+
+**Bulky Rock-types**: Pokemon such as Rhydon and Regirock can switch into Scyther without many problems and threaten to KO it with their Rock-type attacks.
+
+**Faster Attackers**: Pokemon such as Archeops, Pyroar, Swellow, and Choice Scarf Rotom can outspeed and threaten Scyther out with their STAB moves.
+
+**Physically Defensive Pokemon**: Pokemon such as Weezing and Rotom-S take minimal damage from Scyther and threaten back with status moves, such as Will-O-Wisp. Rocky Helmet Garbodor is a good answer to the U-turn spam of the Choice Band set.
+
+**Stealth Rock**: Even if Scyther is immune to all other entry hazards, its typing makes it four times weak to Rock, therefore causing it to lose half of its HP if it switches in while Stealth Rock is up.
+
+**Status Conditions**: Paralysis and burn put an easy stop to Scyther, significantly lowering its ability to pressure the opposing team.

@@ -1,62 +1,94 @@
 Overview
 ########
 
-With Gengarite banned, Gothitelle retains its tried and true niche as the most versatile Shadow Tag user in the game. With its ability to trap and potentially dispatch threats to a team, it is a valuable partner on many team archetypes. It differentiates from its cousin Wobbuffet by possessing actual offensive presence, allowing it to be less passive in its job and potentially do more work. This is complemented by its reasonable special movepool, which can be tailored specifically to eliminate certain threats, and it allows Gothitelle to easily dismantle cores of common defensive Pokemon such as Mega Venusaur, Skarmory, and Heatran. These traits are extremely beneficial to it, as they allow Gothitelle to defeat stall teams with ease, often helping teammates immensely which struggle with stall teams. However, Gothitelle often struggles to be effective in XY's primarily offensive metagame, especially with the prevalence of VoltTurn. It suffers from remarkably average stats overall, with nothing immediately standing out aside from an above-average Special Defense. Gothitelle's typing is also rather detrimental in the metagame; it is bad defensively and it isn't a great type to be locked into, especially with the prevalence of Tyranitar and Bisharp, two incredibly common and dangerous Pokemon that can trap Gothitelle with Pursuit.
+Blessed with the coveted ability Shadow Tag, Gothitelle is one of the most reliable trappers since only Ghost-types and opposing Shadow Tag users are immune to it, making it a valuable asset to any teammates that have trouble with some Pokemon and would like them removed. Gothitelle also demolishes stall with its ability to stop switches and cripple bulky Pokemon such as Chansey and Clefable with Trick, and in this sense it is like an opposite Wobbufet, as Gothitelle eliminates stall cores whilst Wobbufet beats offensive ones. In addition, it's quite flexible and can be changed to suit the team's needs. On the other hand, Psychic is not a great defensive typing, being weak to Knock Off, especially when Gothitelle is extremely reliant on its item for Speed, power, or crippling. It is also easily dealt with or taken advantage of after being Choice-locked into a move. Pursuit users such as Tyranitar, Bisharp, and Scizor can come in on a Gothitelle locked into Psychic and pick it off with Pursuit, and Landorus-T can come in on a Gothitelle locked into Thunderbolt and gain momentum using U-turn. An abysmal Speed stat, even in conjunction with a Choice Scarf, means that Gothitelle fails to outspeed key threats such as Mega Lopunny and Mega Gyarados at +1, and a lackluster base 95 Special Attack means Gothitelle is quite often dead weight against offense. Finally, an increase in popularity of VoltTurn cores, Pursuit, and Knock Off makes Gothitelle a liability on many teams.
+
+Literally Satan
+########
+name: Literally Satan
+move 1: Calm Mind / Hidden Power Fire
+move 2: Trick
+move 3: Rest
+move 4: Psychic / Psyshock
+ability: Shadow Tag
+item: Choice Scarf
+evs: 80 HP / 176 SpA / 252 Spe
+nature: Timid
+
+Moves
+========
+
+This set utilizes Gothitelle's ability to trap foes to act as a revenge killer and a crippler to stall teams. Calm Mind lets Gothitelle boost up its Special Attack and Special Defense stats, particularly in the face of weaker defensive foes such as Ferrothorn and Chansey, and allows it to break the Pokemon it can trap, such as Clefable, as well as having a chance to sweep. Trick is used to cripple the aforementioned stall Pokemon as well as Pokemon that may pose a threat to your team and force ridiculously easy setup opportunities. Rest keeps Gothitelle healthy whilst setting up with Calm Mind and also PP stalls Pokemon such as Chansey. Psychic is an option to hit physically defensive Pokemon, notably Ferrothorn, which is 2HKOed by +6 Psychic after Stealth Rock, whilst Psyshock can be used to deal with specially defensive foes such as Chansey and Tentacruel. Hidden Power Fire is an option over Calm Mind to beat bulky Steel-types such as Ferrothorn and Skarmory faster.
+
+Set Details
+========
+
+Shadow Tag lets Gothitelle trap and eliminate a wide array of Pokemon. 80 HP EVs let Gothitelle avoid the 3HKO from Seismic Toss and Night Shade, most notably from Chansey. Maximum Speed investment and a Timid nature are used in tandem with a Choice Scarf to outspeed Pokemon and with base 121 Speed or lower, such as Tornadus-T and Raikou, thus enabling Gothitelle to revenge kill weakened Pokemon such as Mega Lopunny and Keldeo. The rest of the EVs are put into Special Attack to buff up Gothitelle's firepower. Note that if not running Rest, maximum Special Attack and Speed investment is also an option to have more overall power.
+
+Usage Tips
+========
+
+Switch Gothitelle in on a foe that can't do too much back to it, which usually means walls and support Pokemon. Once you have a favorable matchup, immediately use Trick to cripple the foe so that they can only use one move, allowing Gothitelle to set up more easily. Use Rest when Gothitelle is at low health to shield it from status and also PP stall the foe. If possible, Trick the Choice Scarf back from the foe after setting up with Calm Mind, when they are weakened, or when they are in KO range so that Gothitelle can have its Speed back and can repeat the same PP stalling process for another Pokemon. Don't carelessly remove the Pokemon that Gothitelle has Tricked its Choice Scarf onto as Gothitelle may need it for revenge killing later on. This set can also be used as a revenge killer prior to using Trick, capable of taking out Fighting- and Poison-types such as Hawlucha, Breloom, Toxicroak, and Gengar.
+
+Team Options
+========
+
+Gothitelle really dislikes Dark- and Steel-types unfazed by Hidden Power Fire such as Heatran and Empoleon, so Pokemon that can take these foes out are good teammates for Gothitelle. Fairies such as Gardevoir and Clefable can destroy Dark-types with their STAB moves and weaken Steel-types for Gothitelle. It is to be noted that both benefit from Gothitelle's ability to remove bulky steel types. Fighting-types such as Keldeo and Chesnaught also check Tyranitar and Bisharp and can get rid of Steel-types for Gothitelle.
+Because Gothitelle doesn't find many chances to come into battle and directly switching Gothitelle in is quite risky, VoltTurn is a nice strategy to bring Gothitelle in. U-turn or Volt Switch users such as Scizor, Landorus-T, and Rotom-W all make for good teammates, as they can lure in their counters, such as Ferrothorn, and pivot out with U-turn or Volt Switch respectively so that Gothitelle can take them out.
+Unlike Wobbufet, which beats offensive Pokemon, Gothitelle eliminates walls, so any Pokemon that struggle with them will appreciate Gothitelle as their partner.
 
 Choice Specs
 ########
 name: Choice Specs
-move 1: Psyshock / Psychic
-move 2: Thunderbolt
-move 3: Hidden Power Fire / Energy Ball
-move 4: Trick
+move 1: Psychic / Psyshock
+move 2: Trick
+move 3: Thunderbolt / Energy Ball
+move 4: Hidden Power Fire
 ability: Shadow Tag
 item: Choice Specs
-evs: 252 SpA / 4 SpD / 252 Spe
+evs: 164 HP / 252 SpA / 88 Spe
 nature: Modest
 
 Moves
 ========
 
-Gothitelle's chosen Psychic-type STAB attack allows it to deal heavy damage to or OHKO several popular offensive and defensive threats in the metagame, including Mega Venusaur, Assault Vest Conkeldurr, and Keldeo locked into Secret Sword. It is also Gothitelle's most powerful move, making it a decent choice against most threats that don't resist Psychic. Both have their own benefits: Psyshock OHKOes Assault Vest Conkeldurr and does more damage to special walls such as Blissey, Sylveon, and Goodra, while Psychic can KO Mega Venusaur with less prior damage, and is generally more powerful. Thunderbolt's primary targets are Skarmory, Mandibuzz, and Gyarados, but it also a great option for the likes of Togekiss, Azumarill, and Politoed. Hidden Power Fire is used mainly to hit Ferrothorn and (Mega) Scizor, and is guaranteed to OHKO physically defensive variants of both with Stealth Rock damage. Energy Ball is an alternative option to hit Quagsire, Gastrodon, Hippowdon, and Rotom-W, all of which also tend to be important parts of defensive cores. Grass Knot can take Energy Ball's place for a guaranteed OHKO on Hippowdon as well as a harder hit on Tyranitar, but it does pittance to Rotom-W due to its low weight. Trick is the icing on the cake, allowing Gothitelle to instantly and severely cripple defensive tanks and walls, such as Chansey, Clefable, Porygon2, and Snorlax. It should be noted that unlike other Trick users, Gothitelle can be selective in targets it can use Trick on, so it doesn't have to worry about Pokemon with Mega Stones switching in.
-
-Gothitelle isn't necessarily limited to the moves listed above; you can choose other moves and tailor your moveset depending on which threats your team has trouble with. Hidden Power Ice is an option for instantly OHKOing Gliscor, Garchomp, and Landorus-T, though Gothitelle might have trouble switching into these three for various reasons. Hidden Power Ground is used specifically for Heatran, but can also put a decent dent in Tyranitar and Bisharp when needed. Notably, when running a combination of Hidden Power Ground, Psychic, and Trick, Gothitelle can defeat and cripple the common stall core of Mega Venusaur, Heatran, and Chansey.
+Psychic is Gothitelle's best STAB option, as it hits notably harder than Psyshock, especially against physically defensive tanks such as Mega Venusaur. Psyshock breaks Chansey and Substitute + Calm Mind Keldeo but otherwise doesn't do much else. Trick forces Gothitelle's Choice Scarf onto the foe, crippling stallers and walls that rely on status or setting up. Thunderbolt deals with Flying- and Water-types, most notably Skarmory, Gyarados, and Slowbro. Hidden Power Fire takes out bulky Steel-types such as Ferrothorn, Jirachi, and (Mega) Scizor as well as dealing reasonable damage to Mega Metagross. Energy Ball is an option to hit Quagsire, Omastar, and Swampert.
 
 Set Details
 ========
 
-The item of choice for this set, of course, is Choice Specs, which gives Gothitelle the power to break through defensive cores and Pokemon. With Trick, it also operates as a nasty afterthought to item-reliant walls and tanks. While Gothitelle isn't exactly fast enough to outrun a majority of threats, maximized Special Attack and Speed are recommended so it stands a better chance of beating opponents that typically don't invest in their Speed, especially (Mega) Scizor, Rotom-W, Heatran, Mega Venusaur and Landorus-T. Modest nature is also recommended as Gothitelle requires the extra power and doesn't outrun anything particularly relevant with Timid aside from max Speed Adamant Breloom and Bisharp.
-
-Alternatively, Gothitelle can invest in its bulk to better take hits at the cost of a higher chance of beating several faster threats. In this case, an EV spread of 212 HP / 252 SpA / 44 Spe can be used to outspeed minimum Speed Skarmory and Politoed while investing the rest of the EVs in HP for extra bulk.
+Equipped with Choice Specs, Gothitelle hits decently hard and can take down a variety of Pokemon. 88 Speed EVs allow it to Speed creep uninvested Mega Scizor whilst making room for the 30 Speed IVs required for Hidden Power Fire, and maximum Special Attack investment raises Gothitelle's damage output significantly, allowing it to eliminate threats more effectively and efficiently. The rest of the EVs are dumped into HP for more bulk, letting Gothitelle avoid the 3HKO from Seismic Toss and Night Shade. An alternate spread of 212 HP / 252 SpA / 44 Spe can be used to Speed creep uninvested Skarmory, but outspeeding Mega Scizor before it U-turns out is quite important.
 
 Usage Tips
 ========
 
-The main goal of this set is to trap and eliminate Pokemon in defensive cores to allow a sweeper to sweep after they have been removed. Notably, Gothitelle performs exceptionally well against stall teams, as it can cripple and dismantle multiple defensive Pokemon repeatedly without taking too much damage. As long as you can keep Gothitelle from taking too much chip damage, expect it to take down at least a couple of threats on stall teams. Playing with Gothitelle doesn't require much prediction, as the foe can't switch out. However, bear in mind that the opponent may be able to take advantage of the move at you will be locked into. To trap and KO successfully, Gothitelle must be at a reasonable level of health, especially when operating against hard-hitting or faster opponents. A good way to do this is by means of U-turn and Volt Switch, or after one of your Pokemon has fainted. Bringing it in on attacks is not recommended, especially physical or boosted ones, unless resisted.
-
-Gothitelle itself has good, but modest, overall bulk, so it can afford to take hits on both sides occasionally. The sight of Gothitelle in team preview could also lead the opponent to making strange double switches to avoid being trapped. This is easy to take advantage of, but be aware that you can also fall victim to bad switches. Also, trapping anything while the other team has a Pursuit user such as Bisharp or Tyranitar is not recommended, as they will be able to KO Gothitelle back straightaway. The exception to this is if the Pokemon in your way is a huge threat to your team, and after it is gone things will be significantly easier for your win condition, so Gothitelle is not as necessary after it has taken down its important foe.
+Gothitelle should be saved for eliminating troublesome members of the opponent's team, which is what it does best. Don't directly switch Gothitelle in, as the switch is quite predictable at times and you may lose quite a lot of momentum if the opponent predicts this or instead KOes Gothitelle. Use Trick to cripple defensive behemoths when possible, and when they are weakened or in range of an attack, use Trick to get Choice Specs back so that Gothitelle may be able to eliminate more threats later on. Don't Trick away Gothitelle's Choice Specs too hastily, as Gothitelle may need them for mid- or late-game eliminations of some Pokemon. Finally, being locked into a move makes Gothitelle lose quite a lot of momentum, which allows sweepers to set up and attackers to pivot, so packing an answer to these Pokemon is recommended.
 
 Team Options
 ========
 
-Keep in mind that Gothitelle is purely a supporting attacker, so it doesn't actually need much support on its own. However, Gothitelle prefers switching in on its targets cleanly, making Volt Switch and U-turn very helpful, if not required. Examples of teammates that can use these moves include (Mega) Scizor, Rotom-W, Landorus-T, and Thundurus, all of which have counters that can be immediately eliminated by Gothitelle. Rapid Spin and Defog are also helpful in ensuring Gothitelle can switch in cleanly, although keep in mind that when using Defog your own sweepers might require previously-set entry hazards. Latios, Latias, and Excadrill are good choices for this. Sticky Web is also optimal, as it allows Gothitelle to trap and KO a wider range of threats more efficiently without taking too much damage in the process. Shuckle and Smeargle are good choices for this, but perform differently from each other, so the choice is dependent on your team.
-
-Many offensive Pokemon in particular benefit from Gothitelle's trapping abilities. For instance, Thundurus often has trouble with Chansey, Hippowdon, and Quagsire depending on which set it's using; all three are easy pickings for Gothitelle thanks to Trick and its chosen Grass-type move. Gothitelle is also efficient at getting rid of Mega Venusaur, so Tail Glow Manaphy not only appreciates Gothitelle as a teammate, but also gains the freedom to use Energy Ball rather than Psychic. Gothitelle can also dismantle Quagsire, Hippowdon, and Skarmory easily, allowing it to work well with physical setup sweepers. Dragon Dance Mega Charizard X, Dragon Dance Mega Tyranitar, Swords Dance Mega Pinsir, and Swords Dance Bisharp are just a few of many exceptional physical sweepers that perform well after said walls are eliminated. Finally, Gothitelle appreciates teammates that can threaten or set up on Pursuit users after it faints. Terrakion, Keldeo, and Greninja are just a few examples of threats that can match up decently against common Pursuit users.
+Gothitelle capitalizes on the free switches that VoltTurn users such as Scizor, Landorus-T, Rotom-W, and Mega Manectric provide. Scizor and Landorus-T are particularly notable as they lure in Ferrothorn and Skarmory, which Gothitelle can easily take out. Fighting- and Fairy-types, which can get rid of Dark-types as well as Pursuit users, greatly aid Gothitelle too. Keldeo is a good teammate for Gothitelle as it checks Tyranitar, Bisharp, and Mega Sableye as well as bulky Steel-types such as Heatran, which may stop Gothitelle dead in its tracks. Fairies such as Sylveon and Clefable can also weaken the aforementioned Dark- and Steel-types, though Bisharp is harder to take down. Pokemon that benefit from the elimination of certain foes are worthy partners, as Gothitelle can successfully trap and eliminate them, thus paving the way for a possible sweep. Examples are Mega Lopunny, which dislikes Slowbro, Hippowdon, and Skarmory and Mega Gyarados, which dislikes Chesnaught and Keldeo.
 
 Other Options
 ########
 
-Gothitelle's movepool is colorful, and with Shadow Tag, this gives birth to loads of possible sets with different items and playstyles. Dark Pulse and Shadow Ball can be used to hit opposing Psychic- and Ghost-type opponents, such as Gourgeist and Latios, harder than its other moves normally do. However, Gothitelle typically matches up poorly against these threats, as they can overwhelm it with powerful moves of their own, so it's usually not worth it. Thunder Wave, Heal Bell, Reflect, and Light Screen are cool support options that Gothitelle can use to help out its teammates, though it usually can't find a free moveslot for these moves. Using Choice Scarf allows Gothitelle to revenge kill faster, offensive Pokemon, but it isn't very powerful because of Gothitelle's naturally average Special Attack. Gothitelle's lack of power also disallows it from using Calm Mind effectively, especially because it also lacks good two-move coverage and recovery. If using Choice Specs ends up risking momentum for your team, consider using Expert Belt or Life Orb instead to avoid locking Gothitelle into a single move; at the cost of power and the ability to Trick a Choice item onto defensive Pokemon, Gothitelle can trap and threaten multiple threats in a row with multiple coverage moves.
+Trick + Torment is an evil option to watch the foe faint by struggling, but it is incredibly gimmicky. Hidden Power Ground can be used to trap and KO Heatran, but Dugtrio is more adept at that job anyway. Foul Play is an option for the Choice Scarf set and OHKOes +2 Mega Gallade as well as dealing with Latios, Latias, and Mega Metagross. Shadow Ball or Dark Pulse can also be used to allow Gothitelle to get past Mega Metagross, Latios, and Latias, which are not fazed by any of Gothitelle's other moves. Gothitelle has some useful support moves in its arsenal, such as Thunder Wave, Toxic, Taunt, and Magic Coat, which can be used to cripple or wear down trapped defensive Pokemon. Gothitelle can also capitalize on the foe's momentum loss from being crippled in order to use support moves such as Heal Bell, Reflect, Gravity and Light Screen.
 
 Checks & Counters
 ########
 
-Because of its ability Shadow Tag, Gothitelle has no actual counters, as the definition of a counter requires the foe to be able to switch in on the Pokemon. However, the trapping can be avoided with U-turn, Volt Switch, or Baton Pass, the use of the item Shed Shell, by double switching out when Gothitelle is predicted to come in, or simply the fact that Ghost-types can't be trapped. However, Gothitelle definitely has checks, and there exist several opponents and factors that come close to being classified as "counters."
+**Mega Sableye**: Mega Sableye completely stops Gothitelle, as it is immune to Shadow Tag and can cripple Gothitelle with Knock Off or use it as setup fodder.
 
-**Pursuit Users**: (Mega) Scizor, Tyranitar, and Bisharp can easily revenge kill Gothitelle after it has taken down a fellow foe. Scizor and Bisharp, however, risk being KOed by Choice Specs-boosted Hidden Power Fire, so they can only Pursuit trap Gothitelle if it is locked into another move.
+**Pivots**: Pivots such as Landorus-T, Rotom-W, and Mega Manectric can use U-turn or Volt Switch to just switch out of Gothitelle to a Pokemon that can check it.
 
-**Switching Moves**: U-turn, Volt Switch, and Baton Pass users can escape from the clutches of Gothitelle, forcing it to possibly be locked into the wrong move when faced against the switch-in. U-turn in particular hits Gothitelle super effectively. Common users of these moves include Rotom-W, Landorus-T, (Mega) Scizor, and Talonflame.
+**Latios and Latias**: Latios and Latias resist all of Gothitelle's moves bar the occasional Shadow Ball or Foul Play and do not care too much about being Tricked a Choice Scarf or Choice Specs, as they can make use of the item.
 
-**Residual Damage**: Gothitelle likes doing its job at reasonable health, especially if it aims to trap multiple targets in stall teams. Being damaged by status, weather, entry hazards, and Leech Seed will only serve to limit its switch-in and KOing opportunities.
+**Dark-types**: Choice Scarf Tyranitar and Bisharp can successfully Pursuit trap Gothitelle or cripple it with Knock Off, and they are also immune to its STAB moves.
 
-**Faster Attackers**: It is not difficult to KO Gothitelle due to its horrendous Speed, so faster opponents have an opportunity to do great damage to it before getting KOed by it. Assuming it is locked into a bad move, Gengar, Latios, Mega Gardevoir, Mega Pinsir, and many others can come in and even set up after Gothitelle has KOed something. This gives it a poor matchup against offensive teams, which have many of these strong attackers.
+**Pursuit**: Pursuit users such as Bisharp, Tyranitar, and Scizor can come in on a Choice-locked Gothitelle and Pursuit trap it, thus rendering it weakened or useless for the rest of the match as well as preventing it from trapping anything else.
+
+**Ghost-types**: Though Ghost types aren't hard counters to Gothitelle, they are immune to Shadow Tag, and Ghost-types such as Gengar can deal a lot of damage to Gothitelle if not outright OHKO it.
+
+**Fast or Powerful Attackers**: Gothitelle's mediocre Speed, bulk, and typing leave it prone to being KOed by many attackers such as Mega Beedrill, Mega Pinsir, and Garchomp.
+
+**Shed Shell Users**: Skarmory, Ferrothorn, and the occasional Blissey sometimes carry Shed Shell to avoid getting trapped.

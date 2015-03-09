@@ -1,41 +1,38 @@
 Overview
 ########
 
-After the reputation it earned as a dangerous offensive powerhouse in BW OU, Terrakion has a lot to live up to this time around. Its base 129 Attack stat is still impressive, as is the coverage it gets between its Rock- and Fighting-type STABs. Combined with its good base 108 Speed, this makes Terrakion a powerful sweeper and wallbreaker that is nearly impossible to switch into. Its resistance to Stealth Rock also helps it switch in and out more easily, and its decent bulk ensures that it won't roll over and die to just any attack.
-
-Several changes in the metagame have made it harder for Terrakion, however. Newly introduced Fairy- and Ghost-types have made spamming Close Combat even more difficult than last generation. With blazing fast Pokemon such as Greninja and Thundurus running around, Terrakion's base 108 Speed just isn't as impressive as it used to be. The prevalence of powerful priority attacks also leaves it easier to check. Still, Terrakion is a serious offensive threat.
+Terrakion is a solid wallbreaker in the OU metagame. A devastating, powerful STAB combination makes Terrakion extremely difficult to handle defensively. Its resistance to Stealth Rock also helps it switch in and out more easily, and its decent bulk ensures that it won't be KOed by just any attack. Terrakion isn't a one-trick pony, either, serving as a decent Stealth Rock lead with a fast Taunt or even a Choice Scarf revenge killer. However, Terrakion's common bulky Psychic- and Ground-type counters limit its capabilities. Even though Terrakion has a pretty high Speed stat, there are still a decent number of Pokemon that can either outspeed and KO it or use priority to finish it off after a bit of prior damage. The prominence of Clefable and competition from other Fighting-type attackers doesn't help Terrakion out either. Despite these negative factors, Terrakion's raw power and offensive utility make it a solid threat in the OU tier.
 
 Life Orb Attacker
 ########
 name: Life Orb Attacker
 move 1: Close Combat
 move 2: Stone Edge
-move 3: Earthquake
-move 4: Hidden Power Ice / Swords Dance
-ability: Justified
+move 3: Swords Dance
+move 4: Substitute / Quick Attack
 item: Life Orb
-evs: 252 Atk / 4 SpA / 252 Spe
-nature: Naive / Jolly
+evs: 252 Atk / 4 SpD / 252 Spe
+nature: Jolly
 
 Moves
 ========
 
-This Terrakion serves as a fantastic wallbreaker. Close Combat and Stone Edge serve as Terrakion's best and most powerful STAB moves. Earthquake serves as a more reliable move against opponents such as Heatran. Hidden Power Ice is great for luring in and eliminating Landorus-T and Gliscor, two of Terrakion's best counters. If either switches into Stone Edge with Stealth Rock down, they have a good shot at being KOed by Hidden Power Ice the next turn. Hidden Power Ice can also be used to pick off other opponents 4x weak to it such as Garchomp and Dragonite, alleviating worries about Stone Edge's low accuracy or Close Combat's defense drops. Alternatively, Terrakion can use Swords Dance instead of Hidden Power Ice to sweep later in the game once the opposing team has been weakened and faster threats or priority users have been removed.
+Both Stone Edge and Close Combat can hit foes extremely hard, especially with a Life Orb, and they provide excellent neutral coverage. Swords Dance allows Terrakion to sweep late-game once the opposing team has been weakened and faster threats and priority users have been removed. Life Orb and Swords Dance make Terrakion an extremely powerful threat, 2HKOing almost the entire metagame. Substitute is a great move as it can easily provide momentum if used right, such as on a predicted switch or status move. Alternatively, Quick Attack can be used to pick off weakened Pokemon with priority, such as Azumarill after switching in on a +2 Close Combat. It also helps in eliminating, or at least weakening, faster threats such as Thundurus, Latios, and Latias. Furthermore, running Hidden Power Ice with a Naive nature and moving the leftover 4 Special Defense EVs into Special Attack can make Terrakion a lure for Gliscor and Landorus-T, nailing the KO after Stealth Rock and Stone Edge damage. Finally, Terrakion can run Rock Polish over either Swords Dance or Substitute. If Rock Polish is chosen over Swords Dance, then it is important to note that Terrakion becomes more of a dead weight against stall in exchange for becoming a fantastic late-game cleaner. Otherwise, if running both Swords Dance and Rock Polish, do not try to set up both of them, but just one, depending on the situation. For example, Terrakion should set up a Swords Dance against stall, bulky offensive, and balanced teams, and a Rock Polish against hyper offensive and priority-spam teams.
 
 Set Details
 ========
 
-A Speed-boosting nature and maximum Speed investment is needed to allow Terrakion to outrun as many foes as possible. Terrakion's Attack stat is maximized to provide optimal physical power, while the Naive nature and 4 Special Attack EVs maintain the power of Hidden Power Ice. If you are using Swords Dance, a Jolly nature should be used instead with the leftover 4 EVs placed into Special Defense. Protect can be used to scout the moves of incoming Choice item users, such as Choice Band Scizor and Choice Scarf Landorus-T, but doing so will cost Terrakion valuable coverage. Life Orb is the primary item as it provides a significant boost to all of Terrakion's attacks. Expert Belt can also be used to bluff a Choice item and act as an even more effective lure. However, the power loss means that more prior damage is required in order for Terrakion to safely beat Landorus-T and Gliscor.
+252 Speed EVs and a positive nature are needed to allow Terrakion to outrun as many foes as possible. Use a Naive nature if you are using Hidden Power Ice, and a Jolly nature if you are using Substitute or Quick Attack. 252 Attack EVs are used to provide optimal physical power. Life Orb is the primary item choice, as it provides a significant boost to all of Terrakion's attacks. However, Expert Belt can also be used to bluff a Choice item and make Terrakion an even more effective lure, but it misses out on a lot of power against neutral targets.
 
 Usage Tips
 ========
 
-This set is best used as a general wallbreaker early-to-mid-game and a lure for Landorus-T and Gliscor—two of the biggest threats to Terrakion in the game—if you are using Hidden Power Ice. It is very important to not reveal Hidden Power Ice unless absolutely necessary. Doing so too early will alert the opponent that their Landorus-T or Gliscor is not safe to switch in, and thus you'll be unable to successfully lure them in and KO. Swords Dance versions should focus on attacking outright early in the game and saving Swords Dance for later when obstacles to a sweep are removed. If you choose to use Protect, use it sparingly as well. While it's great for scouting Choice-locked opponents, you must make sure that the opponent you're trying to scout is not a setup sweeper. Otherwise, they might set up on Protect and threaten to sweep.
+Life Orb Terrakion serves as a fantastic wallbreaker, but set up Swords Dance or Substitute on a predicted switch, weak attack, entry hazard move, or Taunt. You can also use Substitute on a predicted status move, such as Thunder Wave or Will-O-Wisp. Quick Attack should not be revealed too early, as it packs an element of surprise and helps pick off weakened priority users, such as Azumarill after switching in on a +2 Close Combat. If the opposing Pokemon is faster than Terrakion and can potentially KO it, using Quick Attack as a last-ditch effort can also be useful so that Terrakion's teammates can revenge kill the foe.
 
 Team Options
 ========
 
-Because variants with Hidden Power Ice excel at luring in and removing Landorus-T and Gliscor, sweepers that have trouble with the aforementioned Pokemon—such as Lucario and Dragonite—are great teammates. These offensive Pokemon also appreciate the openings that Terrakion can create with its natural wallbreaking abilities. Terrakion itself needs entry hazard support to turn as many 3HKOs into 2HKOs and 2HKOs into OHKOs as possible, especially if attempting a sweep with Swords Dance. As previously mentioned, Stealth Rock in particular is necessary to KO defensive Gliscor and Landorus-T with Stone Edge followed by Hidden Power Ice.
+Any Pokemon that appreciates Terrakion's natural cleaning, wallbreaking, and even sweeping abilities can be picked as Terrakion's teammate. Terrakion itself needs entry hazard support from Pokemon such as Landorus-T to turn as many 3HKOs into 2HKOs and 2HKOs into OHKOs as possible, especially if attempting a sweep with Swords Dance. Additionally, Terrakion loves sand support from Tyranitar or Hippowdon, as it gives it a considerable Special Defense boost, allowing it to survive attacks such as Choice Scarf Keldeo's Hydro Pump and preventing other attacks from breaking its Substitute, such as Rotom-W's Volt Switch. Other Pokemon that resist Terrakion's common weaknesses to Ground and Fighting, such as Landorus-T and Mega Heracross, are appreciated. Terrakion also appreciates teammates that can deal with bulky Ground- or Water-types, such as Celebi, Azumarill, Mega Venusaur, Rotom-W, Keldeo, and even bulky Starmie. The bulkier the Pokemon, the better, as Terrakion has only decent defenses and wouldn't appreciate a frail teammate.
 
 Stealth Rock
 ########
@@ -43,40 +40,38 @@ name: Stealth Rock
 move 1: Stealth Rock
 move 2: Close Combat
 move 3: Stone Edge
-move 4: Taunt / Earthquake / Swords Dance
-ability: Justified
-item: Focus Sash / Life Orb
+move 4: Taunt
+item: Focus Sash
 evs: 252 Atk / 4 SpD / 252 Spe
 nature: Jolly
 
-Moves
+Moves:
 ========
 
-Terrakion is a great offensive Stealth Rock user capable of using its sheer offensive presence to force switches and set up its entry hazard. Close Combat and Stone Edge are Terrakion's best STAB moves available, and the coverage and power they offer together are splendid. Taunt prevents slower entry hazard setters such as Skarmory and Smeargle from getting up their own entry hazards while Terrakion lays down Stealth Rock. It also helps prevent slower Defog users from removing Stealth Rock. Earthquake hits Heatran hard. Swords Dance, on the other hand, gives Terrakion excellent sweeping potential once it completes its job as a Stealth Rock setter.
+Terrakion can use its great offensive presence to force switches and set up Stealth Rock with ease. Close Combat and Stone Edge are powerful STAB moves that offer excellent neutral coverage alongside each other. Finally, Taunt prevents slower Pokemon, such as Garchomp and Landorus-T, from setting up their own entry hazards or using Defog to remove any entry hazards from the field. However, Swords Dance can be used over Taunt to gain a +2 Attack boost and force out Pokemon that fear a +2 Close Combat or Stone Edge; however, Taunt is ultimately more useful.
 
 Set Details
 ========
 
-Focus Sash is the primary item choice because it almost guarantees that Terrakion will get Stealth Rock up and/or Taunt slower entry hazard users if used in the lead position. Life Orb is also an option because it gives Terrakion significantly more offensive presence. Leftovers also has its merits as it lets Terrakion survive longer to act as a more consistent Stealth Rock setter. Maximum Speed and a Jolly nature let Terrakion outrun as many opposing hazard users as possible, and maximum Attack gives Terrakion a lot of bite as well.
+Focus Sash almost guarantees that Terrakion can set up Stealth Rock and use Taunt on slower entry hazard or Defog users. Maximum Speed investment with a Jolly nature lets Terrakion outspeed Pokemon such as Garchomp, Landorus, Mega Charizard X, and Mega Pinsir, which Terrakion can't outspeed with an Adamant nature. Maximum Attack investment gives Terrakion some solid power, which is really useful with a great STAB combination in Close Combat and Stone Edge.
 
 Usage Tips
 ========
 
-Because Stealth Rock is so vital for offensive teams, it is important to get Terrakion in to set up Stealth Rock as early as you can. If the opponent has a likely dedicated lead such as Smeargle, you definitely want to lead with Terrakion and use Taunt to prevent them from setting up their own entry hazards. Be careful against faster leads that might be carrying Taunt (such as Greninja), as these can prevent Terrakion from performing its most important job—getting up Stealth Rock. If your opponent has a Rapid Spin or Defog user, you should play more conservatively with Terrakion in case it needs to set up Stealth Rock again. If your opponent doesn't have one of these, you don't need Terrakion to check anything, or if a Swords Dance sweep seems unlikely should you be using that, don't be afraid to sacrifice Terrakion to gain momentum.
+Focus Sash Terrakion is a great Stealth Rock user as it pressures slower Defog users with Taunt and uses its own offensive presence to effectively keep Stealth Rock in play. It is best to set up Stealth Rock as early as possible, as it is vital for dealing with threats such as Talonflame. Leading with Terrakion is also useful as it can use Taunt on opposing leads and prevent them from setting up their own entry hazards. If your opponent has a Rapid Spin or Defog user, it is important to play more conservatively with Terrakion in case it needs to set up Stealth Rock again. However, if your opponent doesn't have a way to remove entry hazards or you don't need Terrakion to check anything, don't be afraid to sacrifice it to gain momentum.
 
 Team Options
 ========
 
-Terrakion is best used on fast-paced offensive teams that need a reliable offensive Stealth Rock user. That said, you'll want to pair this Terrakion set with powerful offensive teammates such as Greninja, Talonflame and Lucario, which are capable of both making full use of the extra Stealth Rock damage and using their natural offensive presence to prevent the opponent from easily using Rapid Spin or Defog to remove Stealth Rock. A spinblocker such as Gengar can help stop Rapid Spin while using Stealth Rock's passive damage to complement its own offensive abilities.
+Terrakion is best used on fast-paced offensive teams that need a reliable offensive Stealth Rock user. Therefore, you should pair this Terrakion set with powerful offensive teammates, such as Talonflame and Thundurus, which can make full use of the extra Stealth Rock damage and use their natural offensive presence to prevent foes from easily using Rapid Spin or Defog. Pokemon that can Pursuit trap Latias and Latios, such as Bisharp and Tyranitar, are appreciated, as Terrakion is too slow to Taunt Latios and Latias to prevent them from using Defog. Additionally, Healing Wish Latias is a great teammate for Terrakion, as it can heal Terrakion back to full health after Terrakion has been brought down to its Focus Sash.
 
 Choice Scarf
 ########
 name: Choice Scarf
 move 1: Close Combat
 move 2: Stone Edge
-move 3: Earthquake
-move 4: X-Scissor / Rock Slide
-ability: Justified
+move 3: Rock Slide
+move 4: Iron Head / X-Scissor / Toxic
 item: Choice Scarf
 evs: 252 Atk / 4 SpD / 252 Spe
 nature: Jolly
@@ -84,39 +79,41 @@ nature: Jolly
 Moves
 ========
 
-Choice Scarf Terrakion is a great revenge killer capable of outspeeding nearly everything. Close Combat is Terrakion's most powerful Fighting-type STAB and is a great weapon for checking opposing sweepers and occasionally sweeping late-game. Stone Edge is also a powerful STAB move, and it offers excellent neutral coverage alongside Close Combat while keeping sweepers such as Dragonite, Salamence, and Gyarados in check. Earthquake serves as a great weapon against Heatran. X-Scissor lets Terrakion check Espeon, Alakazam, Latios, Latias, and Starmie, which Terrakion can outrun thanks to the Choice Scarf. As Stone Edge is notorious for its 80% accuracy, Rock Slide can also be used as a slightly more accurate alternative for when you absolutely need to KO an opponent's sweeper and can't afford to miss.
+Stone Edge and Close Combat are STAB moves that share excellent neutral coverage and can hit foes hard. Rock Slide is used as a safer option if opposing Stone Edge targets have been weakened a bit, as Stone Edge's accuracy can be rather unreliable and Rock Slide is still fairly powerful; it also boasts a flinch chance, which can provide a small chance to win in some scenarios. The last slot mostly comes down to preference. Iron Head is the preferred option because it has a decent chance to 2HKO standard Clefable and has a decent chance to flinch if it comes down to that. Alternatively, X-Scissor can be run to hit Latios, Latias, and Starmie for a bit more damage as well as hit Celebi on the switch. Finally, Toxic is an option to catch on the switch and wear down Landorus-T, Hippowdon, and Slowbro, which can otherwise switch into Terrakion for free every time.
 
 Set Details
 ========
 
-With a Jolly nature and maximum Speed investment, Choice Scarf Terrakion gains the ability to outspeed +2 Adamant Dragonite and everything slower. The Choice Scarf is necessary for Terrakion to check as many offensive Pokemon as possible. While it may seem as though Choice Scarf Terrakion is fast enough to not require a Jolly nature, it is still necessary for outspeeding and checking threats such as +1 Mega Charizard X and Choice Scarf Garchomp.
+Maximum Attack investment is used for maximum power, which Terrakion really needs on this set because it is not running an Attack-boosting item. With maximum Speed investment, a Jolly nature, and a Choice Scarf, Terrakion outspeeds many Pokemon it usually doesn't, such as Latios, Latias, Mega Lopunny, Mega Metagross, Gengar, and Thundurus. It also allows Terrakion to outspeed almost every relevant Choice Scarf user in the tier, including Garchomp, Landorus-T, Excadrill, Heatran, and Rotom-W, as well as all relevant Dragon Dance users at +1, such as Dragonite, Gyarados, Mega Charizard X, and Mega Tyranitar. Alternatively, an Adamant nature is viable for the Attack increase; however, it misses out on outrunning +1 Jolly Mega Charizard X and Choice Scarf Garchomp as well as tying with Choice Scarf Keldeo, making it an inferior option in most cases.
 
 Usage Tips
 ========
 
-Choice Scarf Terrakion is primarily a check to offensive threats and should be used as such. You should play conservatively with it as long as your opponent has a sweeper that you might need Terrakion to defeat. However, Terrakion does possess the Speed and power to occasionally sweep late-game even without a boosting item, so it can be used as a secondary win condition. In the event that you try to sweep with Terrakion, you'll want to make sure that you eliminate its checks or weaken them to the point where you can sweep with one move (usually Close Combat).
+Terrakion is best used late-game when everything is weakened enough for it to clean. Choice Scarf Terrakion is really helpful when switching in on a predicted Dragon Dance, as it outspeeds all relevant Dragon Dance users with a Jolly nature and can KO most of them. Make sure that Terrakion can KO all the opposing Pokemon before attempting to clean late game.
 
 Team Options
 ========
 
-Terrakion needs as much prior damage as possible to ensure that it can KO the Pokemon that it is supposed to keep in check. Stealth Rock in particular is needed to guarantee that Rock Slide will KO Dragon Dance Salamence and Dragonite. In addition, as Choice Scarf Terrakion is not all that powerful, it will often be forced out by some of its bulkier checks. Pokemon that can tackle these checks and take advantage of them are great partners. For instance, Dragon Dance Gyarados with either Substitute or Taunt can set up on defensive Gliscor and Landorus-T sets lacking Stone Edge.
-
+Entry hazards are much appreciated, as Terrakion needs as much chip damage as possible to successfully clean. Teams that are weak to one or more Dragon Dance users really appreciate Choice Scarf Terrakion's ability to check most of them. Additionally, teams that lack a cleaner or other Pokemon with immediate Speed would also appreciate Choice Scarf Terrakion as a teammate. Finally, Pokemon that can easily counter bulky Water-and Ground-types, such as Celebi, Azumarill, Mega Venusaur, Rotom-W, Keldeo, and bulky Starmie, are appreciated, as they allow Terrakion to safely switch out from such said threats.
 
 Other Options
 ########
 
-A Choice Band set can be used, but the lock-in is detrimental against Fairy-types, so it isn't recommended. Sacred Sword is a weaker but safer alternative to Close Combat. It also helps against Pokemon that might boost their Defense stats, such as Bulk Up Conkeldurr and Coil Zygarde. Rock Polish boosts Terrakion's Speed to unbelievable levels, and it synergizes especially well with Swords Dance. However, finding setup opportunities can be difficult, and the prevalence of powerful priority attacks makes sweeping even more difficult. Salac Berry can also be used to boost Terrakion's Speed, and Terrakion can use Substitute to activate the Salac Berry while protecting itself from status moves and revenge killers. Poison Jab and Iron Head are Terrakion's best answers to Fairy-types that resist Close Combat, while Zen Headbutt hits Mega Venusaur harder than Terrakion's other moves. Stone Edge generally hits these targets hard enough, though. Work Up can be used as an alternative boosting move because it boosts both of Terrakion's offensive stats and makes it easier to KO Landorus-T and Gliscor with Hidden Power Ice. However, Work Up makes it obvious that Terrakion is running Hidden Power Ice, meaning Landorus-T and Gliscor will be less likely to actually stay in. While it doesn't offer the power boost of Life Orb, Air Balloon can be used on boosting sets to let Terrakion set up against opponents that rely on Ground-type attacks to hit Terrakion, such as Heatran and Hippowdon.
-
+Choice Band can boost Terrakion's already high attack to astounding measures and 2HKO most of the metagame. A Swords Dance + Rock Polish set can be pretty effective, depending on the situation. Rock Tomb can be used to OHKO Talonflame and Mega Charizard Y and lower the Speed of whatever switches in, letting Terrakion outspeed and KO the foe or support another teammate. Earthquake can also be used to OHKO Heatran and KO weakened Excadrill if Terrakion is not using a Life Orb without getting the Defense and Special Defense drops from Close Combat. It also provides nice coverage in conjunction with Stone Edge. Finally, Zen Headbutt can be used to help eliminate some of Terrakion's checks, Mega Venusaur and Amoonguss in particular.
 
 Checks & Counters
 ########
 
-**Bulky Psychic-types**: Cresselia and Slowbro can use their typing and incredible physical bulk to shut Terrakion down. Each of them can takes hits from even the Choice Band set after Stealth Rock damage and hit back with their STAB Psychic-type attacks.
+**Bulky Psychic-types**: Physically defensive Slowbro, Celebi and Cresselia can use their typing and incredible physical bulk to shut Terrakion down. Each of them can take hits from Life Orb Terrakion after Stealth Rock damage and hit back with their STAB Psychic-type attacks, making them hard counters. Starmie can revenge kill all the sets other than Choice Scarf Terrakion and is a good answer for Focus Sash lead Terrakion, as it can Rapid Spin away Stealth Rock.
 
-**Bulky Ground-types**: Bulky Landorus-T, defensive Gliscor, and physically defensive Hippowdon can take two hits from Choice Band Terrakion even after Stealth Rock and threaten back with STAB Earthquake. Bulkier Zygarde sets can take Terrakion's hits and actually set up on them. A few lesser-used Pokemon such as Nidoqueen and Golurk can also beat Terrakion, with Nidoqueen only fearing Earthquake and Golurk shutting Terrakion down completely.
+**Bulky Ground-types**: Bulky Landorus-T, physically defensive Gliscor, and physically defensive Hippowdon can take two hits from Life Orb Terrakion, even after Stealth Rock damage, and threaten back with STAB Earthquake. On the other hand, Quagsire can't counter Life Orb Terrakion, but it is definitely a check, as it can eat up a hit or two, heal up with Recover, and OHKO at -1. It is also a hard counter to Choice Scarf Terrakion.
 
-**Bulky Grass-types**: Physically defensive variants of Mega Venusaur, Gourgeist-XL, and Celebi are examples of bulky Grass-types that can escape a 2HKO from Choice Band Terrakion and hit back with their STAB moves, with only Celebi fearing X-Scissor.
+**Mega Sableye**: While it certainly is not a reliable check to Swords Dance Terrakion, Mega Sableye can actually survive Life Orb Stone Edges. Moreover, it is a perfect counter to Stealth Rock set, preventing it from setting up the hazard and walling it.
 
-**Faster Offensive Pokemon**: There are a lot of common offensive Pokemon that can naturally outspeed Terrakion and KO it with a super effective attack. Examples include Greninja, Thundurus, Alakazam, Latios, and Latias. Likewise, Choice Scarf variants of many slower Pokemon, such as Landorus-T and Rotom-W, can outspeed Terrakion and check it in the same manner.
+**Bulky Fairy-types**: Clefable and Mega Altaria are rather shaky switch-ins to Life Orb Terrakion, but they can deal with non-Life Orb sets well and handle Terrakion effectively in 1v1 scenarios.
 
-**Priority**: The prevalence of powerful priority makes it harder for Terrakion to sweep. Moves such as Brave Bird from Talonflame, Aqua Jet from Azumarill, Mach Punch from Breloom and Conkeldurr, and Bullet Punch from Scizor are capable of inflicting severe damage to Terrakion if not outright defeating it.
+**Physically Defensive Pokemon**: Physically bulky Pokemon that don't even resist Terrakion's STAB moves can still check or even counter Terrakion. For example, physically defensive Tangrowth and Chesnaught are great answers, as they can survive any two hits from Life Orb Terrakion after rocks and 2HKO back with their super effective STAB moves. Suicune is another defensive Pokemon that can solidly check Terrakion. 
+
+**Faster Offensive Pokemon**: There are a lot of common offensive Pokemon that can naturally outspeed Choice Scarf-lacking Terrakion and KO it with a super effective attack, such as Mega Metagross, Thundurus, Mega Lopunny, Latios, Serperior, and Latias. Likewise, Choice Scarf variants of many slower Pokemon, such as Landorus-T and Garchomp, can outspeed Terrakion and check it.
+
+**Priority**: The prevalence of powerful priority attacks makes it harder for Terrakion to sweep. Moves such as Brave Bird from Talonflame, Aqua Jet from Azumarill, Mach Punch from Breloom and Conkeldurr, and Bullet Punch from Scizor are capable of inflicting severe damage to Terrakion, if not outright KOing it. This is especially effective if the opposing priority user is not in KO range of Quick Attack from the Life Orb attacker set at +2.

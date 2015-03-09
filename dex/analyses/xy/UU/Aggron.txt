@@ -1,57 +1,54 @@
 Overview
 ########
 
-Mega Aggron shines in the tier as the bulkiest available Mega Evolution. With sky-high Attack and Defense stats, Mega Aggron can tank UU's strongest physical hits while dealing out serious damage in return. Like all Mega Evolutions, however, Mega Aggron loses out on an item slot, which means it loses out on the passive recovery that Leftovers provides for other defensive Pokemon. This, combined with its relatively low HP and Special Defense, means that Mega Aggron isn't quite as overpowered as it first appears. Still, Mega Aggron's access to support moves like Stealth Rock and Roar and extra bulk due to Filter make it an outstanding and reliable tank.
+Aggron's Mega Evolution boasts a ridiculously high base 230 Defense stat. Furthermore, its ability, Filter, reduces the amount of damage taken from super effective attacks by 25%. Mega Aggron's pure Steel typing gives it ten resistances and one immunity. It has access to great support moves, including Stealth Rock, Roar, Toxic, and Thunder Wave. Mega Aggron has a good base 140 Attack stat, which lets it fire off strong attacks; however, this is fairly average considering that Mega Aggron cannot use a boosting item. Before Mega Evolving, Aggron has a horrible defensive typing, and after Mega Evolving, it misses out on the passive recovery that Leftovers would give it. Mega Aggron also has a fairly average base 80 Special Defense stat and a pitiful base 50 Speed stat.
 
 Tank
 ########
 name: Tank
-move 1: Heavy Slam
-move 2: Earthquake
-move 3: Stealth Rock
-move 4: Roar / Toxic
+move 1: Stealth Rock
+move 2: Roar / Toxic / Thunder Wave
+move 3: Heavy Slam
+move 4: Earthquake
 ability: Sturdy
 item: Aggronite
-evs: 252 HP / 136 Def / 120 SpD
+evs: 252 HP / 16 Def / 240 SpD
 nature: Impish
 
 Moves
 ========
 
-With this set, Mega Aggron becomes a utility-based Pokemon that can also dish out some serious damage. Heavy Slam draws power from Mega Aggron's high weight to provide a strong STAB attack. Earthquake provides great coverage to hit Pokemon who are less susceptible to Heavy Slam and still deals significant damage due to Mega Aggron's high Attack. Because of Mega Aggron's all-around good bulk, it can set Stealth Rock up reliably. Finally, either Roar or Toxic will add extra utility for the last slot. Roar allows Mega Aggron to become an effective phazer, racking up damage from its own hazards as well as thwarting the efforts of set up sweepers like Suicune. Toxic, on the other hand, can be used to cripple Pokemon such as Swampert and Alomomola who are otherwise resistant to Mega Aggron's moves.
+Stealth Rock damages the foe as it switches in. Roar is a reliable phazing tool and allows Mega Aggron to rack up Stealth Rock damage on the opposing team. However, Toxic may be used instead to cripple walls such as Vaporeon, Suicune, Swampert, and Alomomola, as may Thunder Wave, which Mega Aggron generally uses to paralyze foes on the switch. Heavy Slam has massive power coming off of Mega Aggron's base 140 Attack stat and does serious damage thanks to Mega Aggron's gargantuan weight. Earthquake provides good coverage alongside Heavy Slam, hitting Steel-, Fire-, and Electric-type Pokemon for super effective damage.
 
 Set Details
 ========
 
-Although Mega Aggron's main purpose is to tank physical hits, it's important to have a fair amount of investment in its low Special Defense stat. In a pinch, Mega Aggron may have to take some special attacks, and the nature of EVs makes it overall more efficient to invest in lower base stats. An Impish nature makes Mega Aggron more tanky. Sturdy is the only relevant ability for this set for Mega Aggron's base form, but it's the ability it has as Mega Aggron that really helps it out. Filter, which makes Mega Aggron take only 75% of the damage from super effective attacks, further augments its tankiness on both the physical and special sides.
+Maximum HP investment makes Mega Aggron very bulky, allowing it to take hits from both physical and special attacks. 16 Defense EVs and an Impish nature hit a jump point and give Mega Aggron a high chance to survive two Choice Band-boosted Earthquakes from Krookodile. The remaining EVs are placed into Special Defense to help Mega Aggron take special attacks better.
 
 Usage Tips
 ========
 
-While this set does capitalize on Mega Aggron's insane bulk, remember that its base form is more useful in some cases. For instance, if you're facing off against a Victini, it might be a good idea to hold off on Mega Evolving&mdash;Aggron's Rock typing makes Fire-type attacks neutral instead of super effective. Also, be careful against special attackers; Mega Aggron has great overall bulk, but it doesn't enjoy taking special hits that it doesn't have to. If you choose to run Roar, use it to predict switches into offensive counters or spinners in order to keep hazards on the field and continue racking up damage.
+In certain situations, it is better to hold off on Mega Evolving Aggron. For example, if Aggron is up against Entei, not Mega Evolving it lets Aggron take less damage from an incoming Sacred Fire; due to Aggron's Rock typing, it will take neutral damage. When running Roar, predict switches wisely. Use an attack that would badly damage the predicted switch-in, or use Roar when you think that Mega Aggron can't do much damage to the predicted switch-in.
 
 Team Options
 ========
 
-Mega Aggron benefits from Wish passers such as Alomomola, Blissey, Aromatisse, and Florges, who can all make up for its lack of Leftovers and keep it in play for longer. Blissey is a wonderful partner, as it makes up for Mega Aggron's relatively low special bulk and covers threats like Chandelure, Mega Blastoise, Nidoking, and Nidoqueen. Florges and Aromatisse can do this to a lesser extent, but they accept a weakness to Nidoking and Nidoqueen in exchange for better physical bulk. Finally, Alomomola creates a strong defensive core with Aggron by taking the few powerful Fighting-, Fire-, and Ground-type physical moves that Mega Aggron struggles against. Mega Aggron's access to hazards and phazing also makes it a great partner for offensive sweepers like Sharpedo and Mienshao that rely on hazard damage to nab crucial KOs. Mega Aggron's weaknesses are also covered defensively by Pokemon like Qwilfish.
+Due to its lack of recovery, Mega Aggron partners well with Vaporeon, Blissey, Alomomola, Florges, and Aromatisse, as they can all heal it with Wish. Special walls such as Blissey and Florges form a great defensive core with Mega Aggron, as Mega Aggron tanks physical attacks, while the special wall can tank special attacks. Powerful sweepers such as Nidoking, Darmanitan, and Mienshao are good partners for Mega Aggron because they have an easier time sweeping late-game thanks to Stealth Rock. Bulky Water-types make good teammates for Mega Aggron, as they handle the Fire-types that threaten it. Grass-type Pokemon and Choice Band Guts Machamp can handle the bulky Water-types that threaten Mega Aggron and don't mind switching into Scald.
 
 Other Options
 ########
 
-Choice Band Aggron is viable purely because of its surprise factor, but it's mostly outclassed by other bulky Choice Band users such as Rhyperior. Mega Aggron can run sets that incorporate Rest and Sleep Talk&mdash;its one source of recovery, but these aren't optimal. This move combination can either be paired with Curse and Iron Head to provide an alternate win condition for stall teams or with Roar and Heavy Slam to become a tanky dedicated phazer. Rest can be used without Sleep Talk in the main set in place of Roar or Toxic, but this strategy quickly loses momentum for the rest of the team, making alternate solutions like Wish passing more viable solutions for Mega Aggron's lack of recovery. In terms of EVs, putting all of the EVs into either Defense or Special Defense is certainly viable and can be tailored to what your team needs, but a balanced spread is usually the best option.
+Rest and Sleep Talk can be used alongside Heavy Slam and either Curse or Roar. If Mega Aggron is running Roar, having a Pokemon that can provide entry hazard support is recommended. Dragon Tail is a damage-dealing phazing move, and it deals with Magic Bounce and Taunt users. Metal Burst can be utilized to tank hits and retaliate with 1.5x the damage taken. A Choice Band set consisting of Head Smash, Heavy Slam, Earthquake, and Double-Edge is viable but a lot less bulkier compared to Mega Aggron; Aggron's main niche in UU is provided by its Mega Evolution.
 
 Checks & Counters
 ########
 
-**Special Attackers**: Pokemon like Nidoking, Nidoqueen, and Hydreigon that carry dangerous, super effective special attacks pose a serious threat to Mega-Aggron.
+**Bulky Ground-types**: Mega Steelix and Hippowdon can take any one of Mega Aggron's attacks and either set up Stealth Rock or retaliate with an attack of their own.
 
+**Bulky Water-types**: Bulky Water-types such as Mega Blastoise, Vaporeon, Suicune, Swampert, and Alomomola take minimal damage from Mega Aggron's attacks.
 
-**Fire-types**: While physical Fire-types like Victini, Darmanitan, and Entei are certainly threatening, they can't reliably OHKO Mega Aggron and are extremely susceptible to Earthquake. The main threat comes in the form of special attackers like special Infernape and Chandelure, who can easily OHKO Mega Aggron with boosting items or moves. Rotom-H deserves a special mention for its resistance or immunity to both of Mega Aggron's attacks while also threatening it offensively.
+**Rapid Spin Users**: Mega Blastoise, Forretress, and Donphan are able to get rid of Stealth Rock by using Rapid Spin and take very little damage from Mega Aggron's attacks.
 
-**Fighting-types**: Similarly to physical Fire-types, strong physical Fighting-types such as Mienshao can deal hefty damage to Mega Aggron. Special Fighting-type coverage like that of Lucario, Mega Blastoise, and Alakazam is extremely threatening as well.
+**Strong Special Attackers**: Nidoking and Chandelure are both great examples of strong special attackers that can OHKO Mega Aggron. However, they have trouble switching into Earthquake.
 
-**Bulky Water-types**: Bulky Water-types such as Swampert, and Mega Blastoise can laugh off Mega Aggron's offensive moves and force it out. Mega Blastoise deserves a special mention for its ability to remove Mega Aggron's hazards while also threatening it offensively.
-
-**Bulky Ground-types**: Bulky Ground-types such as Hippowdon fear nothing from Mega Aggron's attacks and can spam Earthquake to take advantage of Mega Aggron's lack of recovery.
-
-**Rapid Spinners**: Like Mega Blastoise, some other Rapid Spinners like Forretress or Donphan can remove Mega Aggron's hazards without fearing much from its attacks.
+**Powerful Fire-types**: Fire-types such as Entei, Rotom-H, Darmanitan, and Chandelure all threaten Mega Aggron with their powerful STAB attacks, which can OHKO or 2HKO it.

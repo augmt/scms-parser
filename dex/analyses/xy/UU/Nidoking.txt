@@ -1,56 +1,48 @@
 Overview
 ########
 
-Nidoking is one of the best wallbreakers in the UU metagame thanks to its excellent movepool and ability, Sheer Force. Sheer Force grants Nidoking a free 30% power boost to most of its main attacks and negates the recoil from Life Orb. It also has access to excellent moves such as Sludge Wave, Earth Power, Fire Blast, Ice Beam, Superpower, and even Stealth Rock, making it very difficult to safely switch in to. Unfortunately, it suffers from a mediocre defensive typing, defensive stats, and a middling Speed stat, leaving it somewhat frail and slow.
+Nidoking is one of the foremost special wallbreakers of the UnderUsed tier, able to OHKO many frail threats that don't resist its moves with the help of Stealth Rock and 2HKO a huge portion of the metagame bar special sponges such as Blissey, Umbreon, Vaporeon, Cresselia, Porygon2, and Rotom-H. Unfortunately, Nidoking hits a poor Speed tier, making it easily revenge killed. Nidoking also faces stiff competition from its bulkier counterpart, Nidoqueen, which hits harder with a Modest nature; however, Nidoking is not to be underestimated, as it is not frail enough to be taken down by any resisted move, and it can dish out serious damage in return.
 
-Life Orb
+Wallbreaker
 ########
-name: Life Orb
+name: Wallbreaker
 move 1: Sludge Wave
 move 2: Earth Power
 move 3: Ice Beam
-move 4: Superpower / Stealth Rock / Substitute
+move 4: Superpower / Stealth Rock
 ability: Sheer Force
 item: Life Orb
 evs: 4 Def / 252 SpA / 252 Spe
-nature: Naive / Timid
+nature: Naive / Timid / Modest
 
 Moves
 ========
 
-Sludge Wave is Nidoking's strongest STAB move, allowing it to 2HKO Florges, something not many other special attackers can do. Earth Power is Nidoking's secondary STAB move, which hits Pokemon such as Raikou and Aggron harder than any other move it has. Ice Beam hits nearly everything immune to Earth Power super effectively, easily OHKOing Honchkrow and 2HKOing most other Flying-types, as well as hitting Flygon, Goodra, Hydreigon, and Noivern harder than any of its other moves. Thunderbolt hits Suicune harder, but nothing else relevant, and misses out on a lot of the targets Ice Beam hits. Superpower is used to hit Blissey and Umbreon, as they otherwise wall Nidoking completely. Stealth Rock can be used on predicted switches if your team lacks the space for it, as Nidoking can easily find opportunities to set it up. Substitute can be used to ease prediction and allow Nidoking to stay in a turn longer when it would otherwise be forced out, while also punishing sacrifices by taking out the Pokemon it was supposed to and forcing the next Pokemon that comes in to deal with Nidoking behind a Substitute.
+Sludge Wave is Nidoking's go-to STAB move, 2HKOing Florges and provides the most base damage out of all of Nidoking's moves. Earth Power is Nidoking's secondary STAB move and is useful against Steel-types and Pokemon that resist Poison. Ice Beam is for Flying-types, such as Crobat and Mega Aerodactyl, that either resist or are immune to Nidoking's other moves. Superpower hits Umbreon and Blissey for super effective damage, which is useful as a late-game surprise tactic, while Stealth Rock allows Nidoking to surprise the opponent by opting to apply passive pressure instead of offensive pressure. Stealth Rock also helps Nidoking in cleaning up late-game.
 
 Set Details
 ========
 
-The EVs maximize Nidoking's offensive potential by making it as fast and strong as possible. A Naive nature should be used with Superpower to allow Nidoking to 2HKO Blissey and Umbreon, some of the few Pokemon capable of withstanding Nidoking's other moves. If Nidoking is not using Superpower, a Timid nature should be used to preserve Nidoking's Special Defense. Running a Modest nature is viable, but Nidoking is then outsped by threats such as neutral natured Roserade, Porygon-Z, Toxicroak, Kingdra, and opposing Timid Nidoking.
+252 Special Attack EVs are used to help Nidoking wallbreak as easily as possible. 252 Speed EVs allow Nidoking to Speed tie with many prominent offensive Pokemon, such as Heracross, and outspeed slower Pokemon such as Nidoqueen. A Modest nature can be used to hit harder than Nidoqueen, gaining more guaranteed 2HKOs on bulky Water-type switch-ins such as Suicune. Life Orb works perfectly with Sheer Force and Nidoking's moveset, negating any recoil for a 69% power boost to Nidoking's special moves.
 
 Usage Tips
 ========
 
-As Nidoking is an incredibly powerful wallbreaker, it often forces switches which should be taken advantage of, especially if it is using Stealth Rock or Substitute. As Nidoking occasionally runs a Choice Scarf set, it is possible to play a risky bluff by sending Nidoking out against a Pokemon it would be able to revenge kill and taking advantage of the situation accordingly. Switching Nidoking in without U-turn or Volt Switch support can be difficult, so use its resistances to common moves such as Close Combat and immunity to Toxic and all Electric-type moves, as well as immunity to Toxic and Thunder Wave.
+Nidoking is best used as a special wallbreaker or lure for special walls, as Blissey loves to tackle Nidoking head-on. Prediction will often be the biggest problem when facing balance cores that can work around Nidoking's attacks. As a result, it is often best to rely on teammates to play around the opponent's team; Nidoking should be wallbreaking, not psyching out the opponent.
 
 Team Options
 ========
 
-Volt Switch and U-turn from Pokemon such as Mega Ampharos and Hydreigon are great to give Nidoking an easier switch-in, and both have somewhat decent synergy with it, though both Nidoking and Hydreigon have trouble breaking through Suicune. Honchkrow is immune to both Ground- and Psychic-type moves and can pressure Pokemon such as Blissey and Umbreon. Pursuit support from Pokemon such as Mega Absol and Mega Aerodactyl can be very helpful for beating Alakazam as well. Mega Houndoom is an excellent cleaner that appreciates Nidoking's ability to wallbreak, and also provides an immunity to Psychic-type moves. Sticky Web and Tailwind are both excellent moves to alleviate Nidoking's mediocre Speed, and Pokemon such as Galvantula and Tornadus can easily set them up.
+U-turn and Volt Switch users such as Rotom-H, Forretress, and Gligar can absorb physical hits and get Nidoking in safely against many physical wallbreakers. Entry hazard users work well with Nidoking's special wallbreaking potential. Nidoking is prone to being revenge killed, so bulky team support is a must. Some setup sweepers such as Cresselia appreciate Nidoking's ability to take care of phazers such as Empoleon and attackers or Taunters such as Crobat. However, Nidoking needs to be careful about switching into these Pokemon, which is why Pokemon such as Vaporeon or Umbreon are excellent teammates, Baton Passing to Nidoking to get it safely past bulky Water-types. Lastly, physical wallbreakers such as Mienshao, Heracross, and Entei really appreciate Nidoking's ability to lure special walls.
 
 Other Options
 ########
 
-Choice Scarf can be used to patch up Nidoking's mediocre Speed, but Nidoking is weak without a Life Orb, and it is much better at wallbreaking than revenge killing. A physical Choice Scarf set can be run as opposed to a special one, but it is also weak and has worse coverage. Hone Claws can be run with Thunder or Sucker Punch, Blizzard, and Earth Power, but it relies on a boost and is extremely unreliable. Toxic Spikes can be used over Stealth Rock, but Stealth Rock is just better in general. Sucker Punch can be used on the Life Orb set to beat weakened Pokemon, but Stealth Rock, Substitute, and Superpower are all more useful to Nidoking's main job, which is wallbreaking.
+Thunderbolt, Flamethrower, Fire Blast, Megahorn, and Sucker Punch are all acceptable options for Nidoking, depending on the needs of your team. A Choice Scarf set can be used with a Timid nature and a fourth attacking move, preferably Thunderbolt. Toxic Spikes can also be used in order to apply more defensive pressure, although Nidoqueen does uses the move better.
 
 Checks & Counters
 ########
 
-**Blissey**: Blissey completely counters any set lacking Superpower, and can even outlast those that do by spamming Soft-Boiled until Nidoking has enough Attack drops to the point that it does negligible damage.
+**Dedicated Special Walls**: Special walls such as Vaporeon and Cresselia can switch into Nidoking's moves, though others such as Blissey and Umbreon must be wary of switching into Superpower.
 
-**Umbreon**: Umbreon has the bulk to take any of Nidoking's attacks, but relies on Wish + Protect to beat it.
-
-**Bulky Water-types**: Suicune only truly fears the rare Thunderbolt and can hit back with Scald or Hydro Pump. Gastrodon can be 2HKOed by Sludge Wave, while Vaporeon, Milotic, and Jellicent are 2HKOed by either Earth Power or Sludge Wave, so they have a hard time switching in.
-
-**Revenge Killers**: Victini and Hydreigon can both easily revenge kill Nidoking, but are weak to one of Nidoking's common moves, Earth Power and Ice Beam, respectively, so they have a very hard time switching in, and can only check it once.
-
-**Snorlax**: Snorlax can counter any set without Superpower due to its massive Special Defense, but is easily worn down.
-
-**Hippowdon**: Hippowdon has the bulk to live an Ice Beam and OHKO back with Earthquake, but is 2HKOed by every move Nidoking runs besides Sludge Wave.
+**Fast Attackers**: Entei, Darmanitan, Haxorus, Hydreigon, and +1 setup sweepers such as Salamence can outspeed and OHKO Nidoking.

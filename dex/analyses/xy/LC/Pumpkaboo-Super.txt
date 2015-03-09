@@ -1,0 +1,83 @@
+Overview
+########
+
+Pumpkaboo-XL is the slowest but bulkiest of the Pumpkaboo formes. It is primarily used because of its ability to beat common Rapid Spin users. Pumpkaboo has many useful support options in its movepool, such as Will-O-Wisp, Shadow Sneak, Trick Room, and Synthesis, along with a decent attacking stat to supplement them. Unfortunately, Pumpkaboo's Ghost typing comes with a weakness to the prevalent Knock Off, and Pumpkaboo is almost entirely walled by Fire-types.
+
+Spinblocker
+########
+name: Spinblocker
+move 1: Bullet Seed
+move 2: Synthesis
+move 3: Will-O-Wisp
+move 4: Shadow Sneak / Fire Blast
+ability: Frisk
+item: Eviolite
+evs: 204 HP / 36 Def / 236 SpD / 28 Spe
+nature: Careful / Sassy
+
+Moves
+========
+
+Bullet Seed is Pumpkaboo's primary STAB move, as it's super effective against all common Rapid Spin users. Due to the nature of damage rolls in Little Cup, it can hit very hard even with no investment. Synthesis provides much-needed, consistent recovery. Will-O-Wisp threatens many Pokemon that could otherwise freely switch into Pumpkaboo, such as Pawniard and Fletchling. Shadow Sneak has merit in being able to finish off a weakened target and hitting Gastly but it is very weak. Alternatively, Fire Blast 2HKOes Pawniard and Ferroseed, discouraging setup. Fire Blast also enables Pumpkaboo to check Pokemon weak to Fire, such as Magnemite and Foongus.
+
+Set Details
+========
+
+The EVs are designed to maximize special bulk in order to beat Staryu more easily, but a spread of 204 HP / 196 Def / 76 SpD / 28 Spe with an Impish nature can be used to take on Drilbur better. This alternative EV spread also keeps Pumpkaboo healthier when taking a super effective move to burn a threat. Frisk is the preferred ability over Insomnia and Pickup because Pumpkaboo is already immune to most sleep-inducing moves and should be avoiding Knock Off and Thief anyway. Frisk lets you learn what item the foe is holding, which is particularly useful in cases where it may not be certain, such as facing Chinchou and Tirtouga.
+
+Usage Tips
+========
+
+Pumpkaboo should be switching into potential Rapid Spins to keep entry hazards on the opposing side. The majority of Rapid Spin users are unable to 2HKO Pumpkaboo, even if they predict the switch in. Keep Pumpkaboo alive for as long as the opponent has a Rapid Spinner to ensure that your entry hazards stay on the opposing side of the field. Many checks and counters to Pumpkaboo are crippled by Will-O-Wisp, so using it early-game can be very beneficial, unless the opponent has a Fire-type. A Sassy nature should be used alongside Fire Blast, meaning Pumpkaboo will drop to 9 Speed and be outsped by Pokemon such as Porygon and Timburr.
+
+Team Options
+========
+
+Entry hazard setters such as Dwebble, Ferroseed, and Surskit appreciate Pumpkaboo's ability to prevent opposing Rapid Spins. Pawniard discourages the use of Defog and makes it very difficult for opposing Pokemon to remove entry hazards when used with Pumpkaboo. Because of Pumpkaboo's weakness to Knock Off, Pokemon that can easily switch into the move, such as Trubbish and Mienfoo, are very helpful. Pumpkaboo is also weak to Pursuit, so Diglett is an appreciated teammate to trap the move's common users as well as the Fire-types that Pumpkaboo has difficulty damaging at all. Another Pokemon that makes an excellent teammate because of its ability to beat Fire-types is Ponyta, specifically variants with the move Toxic. Chinchou has great type synergy with Pumpkaboo because of its resistances to Fire, Flying, and Ice, while Pumpkaboo resists Chinchou's only two weaknesses.
+
+Trick Room
+########
+name: Trick Room
+move 1: Trick Room
+move 2: Bullet Seed
+move 3: Will-O-Wisp
+move 4: Destiny Bond / Explosion
+ability: Frisk
+item: Eviolite
+evs: 44 HP / 68 Atk / 196 Def / 156 SpD
+ivs: 0 Spe
+nature: Brave
+
+Moves
+========
+
+Trick Room supports Pumpkaboo's team by allowing slow, powerful threats to sweep. Bullet Seed is used because it is the hardest-hitting attack with good coverage that Pumpkaboo has. Will-O-Wisp is used to cripple many of Pumpkaboo's checks that would want to switch in otherwise. Destiny Bond and Explosion are typically used after Trick Room has been set up and often allow Pumpkaboo to KO an opposing Pokemon or give you momentum in the battle.
+
+Set Details
+========
+
+The EVs and nature are used to maximize Pumpkaboo's defensive stats and Attack. The nature along with the lowered IVs minimize Pumpkaboo's Speed to allow it to be as fast as possible in Trick Room. Frisk is often be the best ability because Pumpkaboo already has an immunity to most sleep-inducing moves and wants to avoid Knock Off and Thief anyway. Frisk also tells you what item the opposing Pokemon is holding, which is especially useful in cases where it may not be certain.
+
+Usage Tips
+========
+
+Often, Pumpkaboo is used as a suicide lead because of the good match-ups it has against common leads and its access to Destiny Bond and Explosion. If not leading with it, switch Pumpkaboo into a Pokemonon it checks, set up Trick Room, and use Destiny Bond or Explosion to get a Trick Room sweeper insafely while KOing or heavily damaging the opponent. Using Will-O-Wisp often in the early-game to cripple counters can be useful but is not as important.
+
+Team Options
+========
+
+Trick Room sweepers such as Cubone, Inkay, and Clamperl appreciate the inversion of movement order. Cubone and Clamperl in particular are good for defeating Fire-types, which Pumpkaboo can't really damage. Pancham and Timburr can be used to deal with Knock Offs aimed at Pumpkaboo. Slowpoke can also set Trick Room and deals with the Fire-types that Pumpkaboo is unable to touch.
+
+Other Options
+########
+
+Rock Slide can be used to hit Fire-, Flying-, and Ice-types that threaten Pumpkaboo, but isn't very strong. Giga Drain and Shadow Ball could be used as alternate special STAB moves, but the damage rolls of Bullet Seed and the priority of Shadow Sneak make these inferior options. Leech Seed can be used for passive damage and additional recovery. Protect works well in conjunction with Leech Seed and Will-O-Wisp. Light Screen is an interesting option, but the Pokemon switching into Pumpkaboo are generally physical attackers. Pain Split could potentially be used over Synthesis because of its additional PP and the fact that it damages the foe, but it lacks the reliability of Synthesis. Toxic has merit in wearing down Pokemon that Pumpkaboo normally wouldn't be able to, such as Fire-types. Trick can be used with a Choice item to hinder many Pokemon that commonly switch into Pumpkaboo, as well as enabling Pumpkaboo to revenge kill foes more easily thanks to its higher Speed with a Choice Scarf or stronger Shadow Sneak with a Choice Band.
+
+Checks & Counters
+########
+
+**Fire-types**: Fire-types, especially Houndour, which can get a Flash Fire boost from Will-O-Wisp, can switch into Pumpkaboo safely due to their immunity to Will-O-Wisp, resistance to Bullet Seed, and ability to beat it easily with a STAB move. Houndour can Pursuit trap Pumpkaboo and resists Shadow Sneak as well.
+
+**Pokemon with Guts**: Will-O-Wisp helps Guts Pokemon boosting their Attack stats, instead of crippling it. Timburr and Taillow are particularly threatening to Pumpkaboo because they can hit it with Knock Off and Brave Bird, respectively.
+
+**Dark- and Flying-types**: Although most Dark- and Flying-types don't want to be burned, they all threaten Pumpkaboo with a super effective move such as Knock Off or Acrobatics. Shed Skin Scraggy as well as the previously mentioned Taillow and Houndour can be particularly troublesome.

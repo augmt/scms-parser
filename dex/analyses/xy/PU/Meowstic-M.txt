@@ -1,0 +1,47 @@
+Overview
+########
+Meowstic-M has a niche over other dual screeners such as Solrock thanks to Prankster, an ability that gives its non-attacking moves +1 priority, which is great for supporting setup sweepers and hyper offense teams. However, while it is not terrible, Meowstic-M's bulk is not the best either, and Taunt stops it from doing its job. Finally, Defoggers can remove the screens that Meowstic-M sets up in the blink of an eye.
+
+Dual Screens
+########
+name: Dual Screens
+move 1: Reflect
+move 2: Light Screen
+move 3: Yawn / Thunder Wave
+move 4: Thunder Wave / Psychic
+ability: Prankster
+item: Light Clay
+evs: 252 HP / 252 Def / 4 SpD
+nature: Bold
+
+Moves
+========
+Reflect and Light Screen support gives Meowstic-M and its teammates an easier time taking attacks, which is ideal for setup sweepers and hyper offense teams. Yawn is used for its ability to force switches, which can provide opportunities for Meowstic-M to set up screens. Thunder Wave cripples offensive foes by inflicting paralysis on them. This is particularly useful for slowing a fast attacker that would otherwise trouble the team. Psychic is Meowstic-M's means of doing some damage, and running it ensures that Meowstic-M is not complete Taunt fodder. Psyshock can be chosen to hit certain targets with lower Defense stats harder, such as Raichu and Ninetales, but Psychic's greater Base Power makes it the preferable choice.
+
+Set Details
+========
+The HP and Defense EVs are maximized for providing Meowstic-M with optimum physical bulk. A Bold nature allows Meowstic-M to take physical hits better. Light Clay extends the duration of Meowstic-M's screens to eight turns, giving the team as much time as possible to utilize them. Prankster is the reason to use Meowstic-M, as it gives priority to Meowstic-M's screens and status-inflicting moves. Meowstic-M can opt for a specially defensive EV spread and a Calm nature in order to do better in the face of specially offensive threats.
+
+Usage Tips
+========
+Meowstic-M should prioritize setting up its screens unless it is up against an attacker that could prove problematic for your team, in which case Meowstic-M should use Thunder Wave or Yawn. Reflect is best used first when Meowstic-M is against a physically offensive foe or you expect one to switch in; likewise, Light Screen is best used first in the case of a special attacker. If you are running Yawn, you can use it to force a switch and set up a screen as the foe switches out. Yawn can also be useful for forcing out a foe to give yourself the free turn needed to switch in a teammate safely, and, should the foe stay in and fall asleep, Meowstic-M's teammate has an opportunity to set up. Because Meowstic-M's teammates should take advantage of dual screens straight away, it should generally be switched out after it has set up screens. This preserves Meowstic-M and grants it the opportunity to set up its screens at a later point in the match.
+
+Team Options
+========
+Hyper offense teams tend to be on the frailer side, so dual screen support is great for them. Frailer setup sweepers will be able to set up with far greater ease when behind screens. Examples of these are Swords Dance Sneasel, Barbaracle, Huntail, and Linoone. Purugly is a great teammate, as it can use its Defiant ability to switch in on and take advantage of any Defogs aimed at Meowstic-M should the foe risk using it.
+
+Other Options
+########
+A weather support set is a possibility, but it faces competition from Volbeat, which is better suited to the role thanks to its access to U-turn and Encore. Heal Bell cures status conditions for your team, but it makes Meowstic-M even more vulnerable to Taunt. Toxic hinders the longevity of walls, but for Meowstic-M, the effects of Yawn or Thunder Wave are generally more useful. Safeguard protects the team from status, but its short duration makes it not worth the moveslot. Finally, using Trick and a detrimental item can be a nice surprise, but Meowstic-M would rather carry an item to assist with its team support.
+
+Checks and Counters
+########
+**Taunt Users**: Taunt users such as Misdreavus and Kricketune force Meowstic-M to rely on its uninvested Special Attack, limiting its utility and rendering it setup bait. However, due the fact that Meowstic-M will be able to act first against any Taunt user in the tier, it will usually still be able to get up at least one screen in the face of a Taunt user.
+
+**Defog Users**: Pokemon such as Swanna and Vullaby can remove dual screens by using Defog. Additionally, Vullaby is immune to Meowstic-M's STAB moves and sometimes runs Knock Off, which removes Meowstic-M's Light Clay, making its screens less effective.
+
+**Dark-types**: Though not many Dark-types exist in PU, they are troublesome for Meowstic-M, as their STAB moves are super effective on it, and it cannot damage them, even if it runs Psychic. Meowstic-M still can, however, cripple them with Thunder Wave or force them out with Yawn.
+
+**Encore Users**: Being locked into a move is never helpful for Meowstic-M. Raichu is an example of an Encore user that can lock Meowstic-M into Thunder Wave and gain Special Attack boosts due to its Lightningrod ability.
+
+**Substitute Users**: Meowstic-M has problems facing Substitute users such as Gogoat and Rotom-F, as Meowstic-M's STAB moves do not deal much damage when Special Attack is not invested in. Attackers behind a Substitute are immune to Meowstic-M's status moves and can stall out screen turns or set up.

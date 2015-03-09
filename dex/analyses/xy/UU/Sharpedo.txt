@@ -1,53 +1,86 @@
 Overview
 ########
 
-It's hard to imagine how a Pokemon with such low defenses could manage to be a threat in the metagame, but Sharpedo manages to pull it off. For starters, Sharpedo has access to one of the best offensive abilities any Pokemon could wish for: Speed Boost, allowing it to reach insane levels of speed after only a couple of turns. This, combined with its fantastic STABs and coverage moves, makes it one of the best late-game cleaners available in UU. However, using Sharpedo can prove to be a high risk, high reward strategy because of its initial Speed, which requires a turn of Protect to patch up, and its frailty that can turn it into a dead weight.
+Mega Sharpedo hits obscenely hard with a Strong Jaw-boosted Crunch and has good coverage. Mega Sharpedo has slightly increased bulk, which lets it take some priority attacks such as Extreme Speed. Unfortunately, it still has to give up a moveslot for Protect to attain a Speed boost before Mega Evolving. Sharpedo and its Mega Evolution are still somewhat reliant on prior damage and entry hazard support in order to secure OHKOs, and, unfortunately, being extremely weak to most priority moves can sometimes prevent a late-game sweep.
 
-
-Cleaner
+Mega Chomp
 ########
-name: Cleaner
+name: Mega Chomp
 move 1: Protect
-move 2: Waterfall
-move 3: Crunch
-move 4: Ice Beam
+move 2: Crunch
+move 3: Hydro Pump / Waterfall
+move 4: Ice Fang
+ability: Speed Boost
+item: Sharpedoite
+evs: 252 Atk / 4 Def / 252 Spe
+nature: Jolly / Adamant
+
+Moves
+========
+
+Protect is used so that Sharpedo can get a Speed boost safely before Mega Evolving, and it also lets Sharpedo scout the foe's moveset. Crunch is Mega Sharpedo's main STAB move and hits for a lot of damage thanks to Strong Jaw. Hydro Pump is used to deal more damage to physical walls, such as Hippowdon and Donphan, than Waterfall does. Waterfall can be used so that Sharpedo has a chance to flinch slower Pokemon, and it lets Sharpedo run a nature that doesn't lower its defenses. Ice Fang is used to hit Dragon-types such as Hydreigon and Salamence, which can both tank Sharpedo's attacks with little trouble.
+
+Set Details
+========
+
+The listed EV spread maximizes Sharpedo's Attack and Speed. A Naughty or Naive nature is used with Hydro Pump so that Sharpedo can attack with both offensive stats while lowering its least useful defensive stat. An Adamant or Jolly nature is used with Waterfall, as Sharpedo's Special Attack is then irrelevent. Jolly and Naive natures deserve special mention, as it is fairly important to outspeed or Speed tie most Choice Scarf users at +1 because Mega Sharpedo is by no means guaranteed to get to +2.
+
+Usage Tips
+========
+
+If facing slower teams, Sharpedo should Mega Evolve immediately so that it can punch holes in the opposing team as soon as possible, as it does not need the Speed boost. Against more offensive teams, it should use Protect if it is trying to clean late-game so it can outspeed slower Choice Scarf users before Mega Evolving. In some cases, Sharpedo might need to force the switch and then Protect, or go for the double Protect before Mega Evolving if the opponent has a faster Choice Scarf user, such as Infernape, on their team. Mega Sharpedo only has one chance to sweep because Mega Evolving removes Speed Boost, so it should not be brought in unless it has a very good chance of sweeping.
+
+Team Options
+========
+
+Entry hazard support helps Sharpedo in wallbreaking and cleaning, so Hippowdon, Swampert, Chesnaught, Froslass, and Roserade all are all good partners. Entry hazards wear down Mega Aggron, Florges, Empoleon, and Forretress, all of which give Sharpedo trouble, and turns some 2HKOs into OHKOs against Pokemon such as Nidoqueen. Toxic Spikes works well with Protect to get Pokemon down to KO range. Because Sharpedo is best used with entry hazards, pairing it with spinblockers such as Chandelure and Froslass or fast Taunt users such as Crobat or Azelf benefit it greatly. Pivots that have access to Volt Switch, U-turn, or Baton Pass, such as Forretress, Heliolisk, and Gligar, all make for good partners, as they can get Sharpedo in safely. In particular, Swords Dance + Baton Pass Gligar sets make Mega Sharpedo an extremely potent offensive threat. If opting to use a Speed-boosting nature, Sharpedo should partner up with good entry hazard stackers, to ensure that it's able to clean up at the end of the game, as the power decrease is noticeable.
+
+Life Orb
+########
+name: Life Orb
+move 1: Protect
+move 2: Crunch
+move 3: Waterfall
+move 4: Ice Beam / Destiny Bond
 ability: Speed Boost
 item: Life Orb
-evs: 252 Atk / 104 SpA / 152 Spe
+evs: 252 Atk / 12 SpA / 244 Spe
 nature: Naughty
 
 Moves
 ========
 
-Protect is used so that Speed Boost can activate while Sharpedo takes no damage. It's fairly predictable though, so the opponent can easily take advantage of this. Crunch is a strong STAB move that OHKOes Cofagrigus and Metagross most of the time after Stealth Rock damage, and OHKOes Chandelure. Waterfall is another STAB move that deals with the plethora of Fire- and Ground-type wallbreakers that infest the tier, such as Victini, Darmanitan, Houndoom, and Nidoking. It's worth noting that Sharpedo's STABs alone deal with a huge portion of the metagame, as they have amazing neutral coverage. Ice Beam is specifically used to deal a minimum of 60% to 0/4 Hydreigon and 252/0 Chesnaught, but you should also use it if the opposing Pokemon is hit harder by it than Sharpedo's STABs, examples include Flygon, Noivern, Shaymin, and Crobat.
+Protect is used to get a Speed boost without taking damage and also scouts the foe's moveset. Crunch offers excellent offensive synergy with Waterfall. Waterfall uses Sharpedo's Speed boosts to try to get a flinch, and also has good coverage, hitting the plethora of Fire- and Ground-types in the tier for super effective damage. Ice Beam is used to hit Pokemon such as Chesnaught, Hydreigon, and Salamence super effectively. Lastly, Destiny Bond can be used as a last-ditch effort to score an extra KO against a threat.
 
 Set Details
 ========
 
-The given EVs maximize the damage output from Sharpedo's attacks and let it outpace max Speed Crobat and Aerodactyl after a boost. The rest are dumped into Special Attack to deal as much damage as possible to Hydreigon and Chesnaught. Life Orb is used to increase the power of Sharpedo's moves, and a Naughty nature is used so you don't lower either attacking stat and take priority attacks slightly better than with Lonely.
+The given EV spread is used to maximize Sharpedo's Attack and outspeed Adamant variants of Choice Scarf Krookodile, with the rest of the EVs dumped into Special Attack so that Sharpedo can hit Chesnaught, Hydreigon, and Toxicroak for as much damage as possible. Life Orb is used to increase its damage output. A Naughty nature is used to increase Sharpedo's Attack stat without lowering its Special Attack and is used over Lonely so Sharpedo can take less damage from priority attacks, although Mach Punch from any notable Pokemon still OHKOes Sharpedo. Lastly, if Ice Beam is not used, opt for an Adamant or Jolly nature.
 
 Usage Tips
 ========
 
-You should weaken the opponent's team enough before releasing the shark to use it effectively. It's best to remove priority users entirely before attempting to sweep, as Sharpedo's defenses are paper thin; it doesn't want to take a hit. Ever. While Sharpedo is commonly saved until late in the game, it's actually advisable to try to get it in earlier in the game to weaken one of its checks so it can sweep more easily late-game.
+Sharpedo should be saved until late-game, when the opposing team's Pokemon have been weakened, as it usually needs a fair amount of prior damage to clean. Sharpedo should not be switched in at any cost, as it takes a lot even from resisted hits due to its terrible defenses. Ultimately, Sharpedo appreciates the removal of priority users so that it can clean late-game uninterrupted.
 
 Team Options
 ========
 
-Pokemon that can set up entry hazards like Forretress can prove to be invaluable when attacking. Pokemon which lure and weaken bulky Pokemon are also appreciated. Spinblockers and fast Taunt users are good teammates as they help keep entry hazards on the field. The latter also prevents recovery to help Sharpedo sweep. Due to the change in Roar and Whirlwind mechanics, phazers can prevent Umbreon, Florges, and Wish users in general from healing by using phazing moves on them as they use Protect. Slow U-turn or Volt Switch users also make for great partners and allow Sharpedo to come in, hit a check on the switch, switch out, and come back later for the kill. Grounded Poison-types that can also set up entry hazards like Nidoqueen and Qwilfish also make for good partners as they absorb Toxic Spikes, which Sharpedo doesn't appreciate. Froslass is another great Pokemon that can lay down Spikes and help with other utility moves, such as Thunder Wave and Destiny Bond.
+Entry hazard support from Pokemon such as Forretress, Froslass, Swampert, Chesnaught, Hippowdon, and Mega Aggron is appreciated, as it wears down Pokemon that try to switch into Sharpedo, making it easier for Sharpedo to clean late-game. Entry hazards wear down Mega Aggron, Florges, Empoleon, and Forretress and turn some 2HKOs into OHKOs against Pokemon such as Nidoqueen. Toxic Spikes works well with Protect to get Pokemon down to KO range. Pivots such as Mega Ampharos, Gligar, and Rotom-H make for good partners, as they can keep up offensive momentum, slowly wear down the opposing team, and bring in Sharpedo safely.
 
 Other Options
 ########
 
-You can opt to use Aqua Jet to out-prioritize other priority users, potentially saving Sharpedo from a possible KO. Destiny Bond is also a viable move Sharpedo can utilize, as with Speed Boost it will most likely outspeed the opponent, making it very likely that Sharpedo will be able to successfully use Destiny Bond. Substitute can also be used so Sharpedo can take an attack or two, while also allowing it to stall out for Speed Boost. Earthquake and Zen Headbutt work as alternate coverage moves that you can tailor to your needs, while you can use Hydro Pump when running a 252 SpA / 104 Atk EV spread.
+Aqua Jet can revenge kill weakened Pokemon while stalling for a Speed Boost. Earthquake takes on the many Steel-types in the tier, including Empoleon, Cobalion, and Mega Aggron, but is generally inferior to other options. Zen Headbutt can be useful against Fighting-types such as Heracross, Machamp, Virizion, and the occasional Dragalge. Poison Fang can be used so that Mega Sharpedo has an easier time getting past Fairy-types such as Florges and Aromatisse. Focus Sash can be used alongside Speed Boost, but the power drop is extremely noticeable. Substitute is a notable option against bulky Water-types such as Suicune, as it protects Mega Sharpedo from Scald burns.
 
 Checks & Counters
 ########
 
-**Pokemon that resist Sharpedo's STABs**: Chesnaught, Hydreigon, Toxicroak, and Shaymin can be a little hard to deal with if they are healthy at late-game, though Hydreigon and Chesnaught get hit hard by Ice Beam.
+**Bulky Steel-types**: Mega Aggron and Forretress can switch into Mega Sharpedo's moves and beat it one-on-one.
 
-**Bulky Water-types**: Sharpedo has a hard time getting around some bulky Water-type Pokemon like Swampert, Suicune, and Alomomola, so they can halt Sharpedo from paving through teams.
+**Revenge Killers**: Mach Punch and Choice Scarf Infernape and Mienshao as well as Vacuum Wave Lucario work around Mega Sharpedo by forcing it to switch or revenge killing it.
 
-**Bulky Pokemon that can take a hit**: Pokemon like Snorlax, Florges, and Aromatisse can take an attack from Sharpedo and then KO back.
+**Fighting-types**: Fighting-type Pokemon such as Cobalion and Machamp can take a Waterfall and OHKO Mega Sharpedo.
 
-**Priority**: Priority users like Lucario, Honchkrow, and Mega Absol with Sucker Punch can easily stop Sharpedo in its tracks.
+**Bulky Pokemon With Recovery**: Umbreon and Florges can both easily take a Crunch and can work around Mega Sharpedo's other attacks.
+
+**Bulky Water-types**: Suicune, Swampert, and some Empoleon variants apply defensive pressure to regular Sharpedo, forcing it to risk a burn or 3HKO from Suicune's Scald or an OHKO from Swampert and Empoleon; however, Swampert and Empoleon will generally lose to Mega Sharpedo.

@@ -1,13 +1,52 @@
-Bulky Attacker
+Overview
 ########
-name: Bulky Attacker
-move 1: Sucker Punch
-move 2: Shadow Sneak
-move 3: Return
-move 4: Recover
+
+With access to the amazing ability Protean and a diverse attacking movepool, Kecleon is a very scary Pokemon in NU. Somewhat reliable recovery in the form of Drain Punch, a very high Special Defense stat that allows it to survive some powerful attacks without any investment, and access to multiple forms of priority, which somewhat makes up for its rather poor Speed stat make Kecleon a formidable threat. However, its lackluster base 90 Attack often leaves it just short of KOing the opponent's Pokemon, and Kecleon is also very slow for an attacking Pokemon, meaning it often has to take a hit before getting to attack, and with its low Defense, it is very vulnerable to getting revenge killed.
+
+kek
+########
+name: kek
+move 1: Knock Off
+move 2: Drain Punch
+move 3: Sucker Punch
+move 4: Shadow Sneak / Fake Out / Stealth Rock
 ability: Protean
-item: Leftovers
-evs: 252 HP / 252 Atk / 4 SpD
+item: Life Orb
+evs: 132 HP / 252 Atk / 124 Spe
 nature: Adamant
 
-This is a sample set while we are currently working on analyses in the workshop.
+Moves
+========
+
+Knock Off is the most powerful move on this set, and also removes items, potentially crippling foes for the rest of the battle. Knock Off is also very useful to remove Leftovers from potential counters, making them easier to wear down throughout the rest of the match. Drain Punch is excellent coverage alongside Knock Off, as it's Kecleon's best bet for hitting Steel-types such as Ferroseed and Probopass while granting Kecleon recovery. Sucker Punch is Kecleon's strongest form of priority, and it hits frail, fast attackers such as Archeops or Typhlosion extremely hard. Shadow Sneak gives Kecleon a second form of priority which it can use to become Ghost-type and thus play around Fighting-type attacks, such as Sawk's Close Combat, and avoid Sucker Punch mind games against Pokemon that often try to dodge Sucker Punch with a status move, such as Mismagius. Fake Out can also be used in the last slot to some decent success, as when combined with Sucker Punch it allows Kecleon to act as a surprisingly good revenge killer. Kecleon is also better at deterring Steel-types from switching in than other Fake Out users in NU, such as Kangaskhan, due to its access to STAB Drain Punch. Stealth Rock is also a fantastic option in the last slot if you don't have another user of the move on your team yet, as Kecleon forces a lot of switches, so it has ample opportunities to set up Stealth Rock, and beats most of the common Rapid Spin and Defog users one-on-one, making it easy to keep entry hazards up for the duration of the battle. Aqua Tail is also an option in the last slot to OHKO Mega Camerupt, as well as having a great chance to OHKO Rhydon after Stealth Rock.
+
+Set Details
+========
+
+The given EV spread allows Kecleon to outspeed uninvested base 55 Pokemon, such as Exeggutor and Golurk. Maximum investment in Attack allows Kecleon to hit as hard as possible, and the remaining EVs are put into Kecleon's HP to augment its natural special bulk. Life Orb is used to boost Kecleon's damage output, as base 90 Attack isn't that strong and the damage increase is very noticeable. Drain Punch helps mitigate the recoil that Life Orb causes. Black Glasses is another option for an item, as it boosts Kecleon's two most commonly used moves and doesn't cause any recoil, which helps lessen Kecleon's reliance on Drain Punch for healing. Protean gives Kecleon an extra 1.5x boost to all of its moves and allows Kecleon to change types at will; in particular, Kecleon can play mindgames with its access to Ghost-, Dark-, and Fighting-type moves.
+
+Usage Tips
+========
+
+Knock Off deals good damage and should generally be the first move you go for, as item removal coupled with respectable damage is a hassle to switch into for both offensive and defensive teams. If the opponent has a possible Mega Pokemon, Drain Punch is a better choice, as it hits harder than Knock Off and has the added bonus of keeping Kecleon healthy. Mind games happen quite often when Sucker Punch is used, so try to learn to use this to your advantage; predicting that an Archeops will use Roost or that a Lilligant will Quiver Dance and picking the appropriate attack can immediately turn the momentum of a battle. If you run Shadow Sneak, it is the much more reliable priority option when compared to Sucker Punch, as it hits foes regardless of whether they switch or predict the move, so use it over Sucker Punch when the foe is in KO range of both moves.
+
+Team Options
+========
+
+Entry hazards are very helpful, as Kecleon forces a lot of switches with the mind games it can cause. Kecleon also appreciates the extra residual damage on the opponent's Pokemon, as it's rather weak and often misses out on OHKOs. Some reliable setters of Stealth Rock include Mesprit, Rhydon, and Crustle, while good Spikes setters include Crustle, Qwilfish, and Roselia. Pairing up Kecleon with other Pokemon that use Fighting-type attacks, such as Sawk, Malamar, or Hariyama, can be very beneficial, as they will wear down one another's checks and counters throughout the match.
+
+Other Options
+########
+
+Power-Up Punch can be used to boost Kecleon's low Attack, as Kecleon can cleanly 2HKO NU's most popular walls after a boost; however, due to Kecleon's low base Speed it's rarely worth it to try to set up. Return is Kecleon's most powerful physical attack, but it doesn't offer any additional coverage and is not worth a moveslot. Substitute and Focus Punch can be used to punish foes that try to switch out fearing a Sucker Punch, though the combination takes up half of Kecleon's valuable moveslots. Access to Ice Punch, Fire Punch, and Thunder Punch allows Kecleon to rough up some usual counters, such as Vileplume, Mantine, and Rotom-F. Kecleon also has a fantastic support movepool including Magic Coat, Recover, Disable, Nasty Plot, Trick, and Foul Play; however, it has no real use for any of them on an attacking set, and non-attacking sets are better left to other NU Pokemon. A purely special attacking set can be used as a lure, as Kecleon gets access to Grass Knot and Fire Blast, which dispose of Quagsire, Seismitoad, and Vileplume easily. Assault Vest is usable on Kecleon but not recommended, as offensive Kecleon really needs the power from Life Orb to be threatening, and Kecleon is a rather mediocre special tank if it cannot use Recover.
+
+Checks & Counters
+########
+
+**Status / Residual Damage**: Kecleon hates being burned, as its damage output drops to a negligible amount. Poison also hurts it, as poison, Life Orb recoil, and entry hazard damage wear it down very quickly. Preventing Kecleon from spamming Drain Punch removes its only source of recovery, so switching in a Pokemon that resists Fighting will prevent Kecleon from recovering much HP.
+
+**Bulky Pokemon that Resist Fighting**: Pokemon such as Garbodor, Weezing, Vileplume, Togetic, Qwilfish, Granbull, and defensive Rotom-S can all switch into Kecleon safely and either proceed to burn it, knock it out, or ensure that it wears itself down with Life Orb recoil.
+
+**Bulky Water-types**: Bulky Water-types such as Seismitoad, Quagsire, and Poliwrath can switch in and simply wall Kecleon while threatening to burn it with Scald.
+
+**Faster Pokemon that Resist Dark**: Pokemon such as Sawk and Sneasel can easily revenge kill Kecleon, as they resist its strongest form of priority and can prey on its weaker Defense stat. However, Sawk in particular has to be careful about the mind games that arise from Kecleon's ability to change its type with Shadow Sneak and Sucker Punch.

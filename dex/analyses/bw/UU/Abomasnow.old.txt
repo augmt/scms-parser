@@ -9,7 +9,7 @@ move 2: Leech Seed
 move 3: Blizzard
 move 4: Wood Hammer / Giga Drain
 item: Leftovers
-ability: Snow Warning
+ability: Soundproof
 nature: Sassy / Calm
 evs: 248 HP / 252 SpD / 8 Spe
 
@@ -30,7 +30,7 @@ move 2: Wood Hammer / Giga Drain
 move 3: Earthquake / Focus Punch
 move 4: Ice Shard
 item: Expert Belt
-ability: Snow Warning
+ability: Soundproof
 nature: Lonely
 evs: 252 Atk / 108 SpA / 148 Spe
 

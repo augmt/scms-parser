@@ -1,54 +1,116 @@
 Overview
 ########
 
-With its solid bulk and good Attack stat, Donphan can work as a great Rapid Spin user on any team. With a useful ability in Sturdy, access to Knock Off, and priority in the form of Ice Shard, Donphan is an exceptional offensively based spinner. It has several flaws that hinder its success, however. With no form of reliable recovery, Donphan struggles to spin away hazards more than once a battle. Along with this, it also faces competition from the likes of Mega Blastoise and Forretress. Lastly, it cannot take special hits very well, due to its poor Special Defense stat.
+Donphan's good Attack and Defense stats make it a nice bulky attacker as well as decent physical tank. It also has access to the coveted Rapid Spin, which makes it the only Rapid Spin user immune to Electric-type attacks. Its typing gives it a nice Electric-type immunity as well as resistances to Poison and Rock but weaknesses to Ice, Water, and Grass, which are common attacking types.
 
-Rapid Spin
+Defensive Spinner
 ########
-name: Rapid Spin
+name: Defensive Spinner
+move 1: Earthquake
+move 2: Rapid Spin
+move 3: Stealth Rock
+move 4: Knock Off / Toxic / Roar
+ability: Sturdy
+item: Leftovers
+evs: 252 HP / 4 Atk / 252 Def
+nature: Impish
+
+Moves
+========
+
+Earthquake is the most reliable STAB attack for any physically offensive Ground-type and provides a whopping 100 Base Power and consistent damage output. Rapid Spin allows Donphan to remove entry hazards on it's side of the field. Stealth Rock allows Donphan to set up its own entry hazards and wear down opposing Pokemon each time they switch in. The last slot can be used for one of three possible moves. The first is Knock Off, as it allows Donphan to cripple the opposing Pokemon by removing its item. The second is Toxic, as it allows Donphan to cripple any defensive switch-in that isn't immune to Poison-type moves. The last is Roar, which allows Donphan to phaze and gives it a way to make sure it isn't setup fodder.
+
+Set Details
+========
+
+Maximum Defense and HP EVs with an Impish nature allow Donphan to have as much physical bulk as it can muster, and Sturdy allows for Donphan to survive any one hit and either retaliate with Earthquake or Knock Off, cripple it with Toxic, set up hazards with Stealth Rock, or remove entry hazards with Rapid Spin. Leftovers is the item of the set as it gives Donphan passive recovery.
+
+Usage Tips
+========
+
+Send Donphan in against Pokemon that it can check to an extent, such as Toxicroak, Mega Aerodactyl, and Mega Beedrill. This set's main purpose is to remove entry hazards while being a nice defensive presence, so use it to remove hazards whenever it is in a fairly decent matchup against the opposing Pokemon. If Donphan's Sturdy is needed to check a threat on the opposing team, try to make sure it is intact for as long as possible until it isn't needed anymore. Donphan, despite its good Defense stat, must be wary when switching into hard-hitting physical attackers such as Heracross and Darmanitan.
+
+Team Options
+========
+
+Donphan lacks a form of solid recovery besides Rest, so it appreciates Wish-passing partners that can act as special walls, such as Blissey and Florges. Bulky Water-types such as Suicune and Vaporeon make for good partners, as they can tank Water- and Ice-type attacks aimed at Donphan; however, they do share a Grass-type weakness, so be sure to pack a Pokemon that resists Grass when pairing Donphan with a bulky Water-type. Crobat has excellent synergy with Donphan, as Donphan can tank Electric- and Rock-type attacks aimed at Crobat and Crobat has a 4x resistance to Grass and can take hard-hitting Fighting-type attacks aimed at Donphan, such as Machamp's Close Combat. Grass-types such as Roserade and Chesnaught make for good teammates for Donphan as well, as they resist Water-type and Grass-type moves aimed at Donphan. Pokemon that have a weakness to Stealth Rock, such as Darmanitan and Beedrill, would also appreciate being on the same team as Donphan, as it can remove entry hazards for them.
+
+Choice Band
+########
+name: Choice Band
+move 1: Earthquake
+move 2: Ice Shard
+move 3: Knock Off / Gunk Shot
+move 4: Gunk Shot / Seed Bomb
+ability: Sturdy
+item: Choice Band
+evs: 52 HP / 252 Atk / 204 Spe
+nature: Adamant
+
+Moves
+========
+
+Earthquake is Donphan's most reliable STAB attack and hits incredibly hard with Choice Band. Ice Shard is Donphan's only form of priority and provides pretty good coverage. Knock Off allows Donphan to cripple switch-ins as well as hit Pokemon such as Bronzong and Cresselia super effectively. Gunk Shot gives Donphan a stronger super effective move against Grass-types, punishing the majority that switch in as well as allowing it to OHKO Florges and Aromatisse. Seed Bomb gets a mention on the last slot, as it allows Donphan to OHKO Swampert and get crucial 2HKOs on bulky Water-types such as Suicune and Alomomola after Stealth Rock.
+
+Set Details
+========
+
+204 Speed EVs allow Donphan to outspeed everything up to uninvested base 75 Speed Pokemon such as Florges. Choice Band gives Donphan the Attack boost necessary for it to support its teammates by breaking through walls it such as Suicune, Alomomola, and Chesnaught. Sturdy is the ability of choice because it lets Donphan survive a hit from full health and because Sand Veil is extremely luck-based and should not be used. An alternative EV spread of 132 HP / 252 Atk / 124 Spe can be used to give Donphan more bulk while still outspeeding base 65 Speed Pokemon such as Vaporeon and Umbreon.
+
+Usage Tips
+========
+
+Send Donphan in on anything it would normally wall to an extent, such as Toxicroak. Look at what the opponent would switch into, and attack accordingly. You can also send Donphan in on walls it can deal with, such as Florges, and take them out of the picture. Try to ensure Sturdy is kept intact as much as possible through Wish support, as Sturdy is needed to let Donphan survive hits from sweepers that have already set up. It also helps Donphan deal with Grass-types such as Roserade and Shaymin, as Donphan can survive a hit and either KO or hit hard enough so that a teammate can revenge kill them.
+
+Team Options
+=========
+
+Sweepers that appreciate the removal or weakening of walls that Donphan can lure in make for good partners, so consider using Lucario, Dragon Dance Haxorus, or Swords Dance Mega Absol. Wish passers and clerics such as Florges and Vaporeon make for good partners as well since they can remove status from Donphan and heal it back with Wish. Volt Switch and U-turn users such as Mega Ampharos and Hydreigon make for good partners as they can safely bring Donphan in. Grass-types such as Roserade and Mega Sceptile can beat bulky Water-types, Donphan's best checks, so they are good teammates. Dark-types such as Krookodile and Mega Sharpedo also are good partners for Donphan as they help beat its hardest counter, Cresselia.
+
+Offensive Spinner
+########
+name: Offensive Spinner
 move 1: Rapid Spin
 move 2: Earthquake
 move 3: Knock Off
-move 4: Stealth Rock / Ice Shard
+move 4: Ice Shard / Stealth Rock
 ability: Sturdy
-item: Leftovers / Assault Vest
+item: Assault Vest / Leftovers
 evs: 172 HP / 252 Atk / 84 Spe
 nature: Adamant
 
 Moves
 ========
 
-Rapid Spin is the main reason to use Donphan, providing a way to remove entry hazards for the team. Earthquake is a reliable, powerful STAB move, granting Donphan the ability to beat Fire-, Steel-, and Electric-type Pokemon with ease. Knock Off is used to nail Ghost-types trying to spinblock. Stealth Rock is to support Donphan's team with its own hazards, helping to wear down opposing threats, while Ice Shard can come in handy sometimes for picking off weakened foes, though it is very weak.
+Rapid Spin allows for entry hazard removal. Earthquake is an obligatory STAB attack that deals consistent damage. Knock Off is a nice move with the ability to remove the foe's item. Ice Shard allows Donphan to have some sort of priority but is very weak, so don't rely on it to KO the opposing Pokemon unless the opposing Pokemon is either very frail or weak to Ice. Stealth Rock lets Donphan set up its own entry hazard but should not be used should you choose to run Assault Vest, as it makes Donphan incapable of using this move.
 
 Set Details
 ========
 
-Maximum Attack investment is used to dish out a lot of damage, and enough Speed investment is used to outspeed standard Jellicent. An Adamant nature is used to bolster Donphan's offensive presence. Leftovers is the item of choice, used for gradual, steady recovery. With an Assault Vest, Donphan forgoes the ability to use Stealth Rock in order to increase its pitiful special bulk, enabling it to survive strong special attacks and brush off weak ones. Sturdy is the only ability to consider, as it can guarantee Donphan gets off a move as long as it's at full health.
+Maximum Attack investment and an Adamant nature allow Donphan to hit as hard as possible. 84 Speed EVs allow Donphan to outspeed neutral-natured base 60 Speed Pokemon and anything slower. The remaining 172 EVs are put into HP to give Donphan as much bulk as possible. Leftovers gives Donphan a form of recovery and allows Donphan to use support moves, whereas Assault Vest gives Donphan more special bulk, allowing it to check some special threats such as Mega Ampharos and Rotom-H variants lacking Will-O-Wisp.
 
 Usage Tips
 ========
 
-There are a few things to watch out for when using Donphan, including Water-, Ice-, and Grass-type coverage moves. Keep Donphan around as long as you can, and do not let it fall if the opponent still has a entry hazard setter. Earthquake and Knock Off have decent coverage and should be used where necessary, but leave attacking duty primarily to teammates and focus on keeping Donphan healthy. With proper use of prediction and calculation, Donphan can deal with Ghost-types with one of Earthquake, Knock Off, or Ice Shard.
+This Donphan set should be sent in on anything that it can check well, especially Choice-locked Electric-types such as Choice Scarf Rotom-H. Try to ensure Donphan is as healthy as possible at all times should you have teammates that require entry hazard removal. Donphan can take out most, if not all, Rapid Spin blockers with Earthquake, Knock Off, Ice Shard, or even a combination of the three, so correct predictions are key to Donphan doing its job successfully.
 
 Team Options
 ========
 
-Cleric support from Pokemon such as Granbull and Umbreon really improves Donphan's longevity. Blissey, Alomomola, and Florges can all help keep Donphan healthy with their Wish support. Additionally, Alomomola and Donphan have good type synergy, as Alomomola can take Water- and Ice-type moves well, while Donphan can block Electric-type moves. Fire-type Pokemon such as Darmanitan, Infernape, Rotom-H, and Chandelure make for good teammates, as they appreciate entry hazards removal and can take on Grass-types for Donphan with ease. Additionally, mixed Infernape, Rotom-H, and to an extent, Chandelure, can handle Water-types for Donphan. Generally, any Stealth Rock-weak Pokemon can benefit from Donphan's presence.
+Donphan appreciates Wish and cleric support, so Florges and Vaporeon make for good partners. In general, Pokemon that appreciate Donphan's ability to remove entry hazards, particularly Stealth Rock, make for good partners, although Fire-types and Flying-types get special mentions. Fire-types such as Rotom-H and Entei don't have access to reliable recovery and can threaten Grass-types, which would otherwise scare Donphan out. Flying-types are also able to deal with a majority of Grass-types and have having good synergy with Donphan; Mega Aerodactyl and Crobat fit this category nicely.
 
 Other Options
 ########
 
-Donphan can utilize a myriad of alternate options effectively. Choice Band can be used for more power, but generally Donphan wants to run Stealth Rock. Head Smash is a high Base Power move for hitting threatening foes such as Crobat; Stone Edge can also be used for this purpose, but the high power of Head Smash is usually worth the recoil. An Endeavor set with Sturdy and Ice Shard can be used, but it is pretty gimmicky. Seed Bomb is a really nice move for Donphan, as it allows it to beat threatening Water-types such as Swampert and Quagsire. Roar can be used to phaze out physical setup sweepers, while Toxic can be used to wear them down. Finally, Play Rough can be used on a more offensively based Donphan, getting coverage against Fighting-, Dark-, and Dragon-type Pokemon.
+Stone Edge and Poison Jab are options but are generally less useful than the listed moves. Stone Edge only really allows for a clean OHKO on Crobat, and Poison Jab, being much weaker than Gunk Shot, misses out on crucial OHKOs and 2HKOs such as the 2HKO on Chesnaught. Sleep Talk is also an option but is generally a waste of a moveslot. Head Smash can be used to get an extremely hard hit off on a foe but its recoil as well as the superior coverage given by the other options outweigh the usefulness of the move. A Rock Polish set can be used, but Donphan is far too slow to utilize it well. Ice Shard is an option on the defensive spinner set but tends to be far too weak to be of much use. Counter is another option on the defensive spinner set but tends to only get one use, which makes it a waste of a moveslot most of the time.
 
 Checks & Counters
 ########
 
-**Water-types**: Water-type Pokemon such as Suicune, Swampert, Vaporeon, and Kingdra can all take a hit and either OHKO Donphan with their STAB attacks or gradually wear it down.
+**Water- and Grass-types**: All Water- and Grass-types counter Donphan's defensive spinner set and check the Choice Band variant.
 
-**Grass-types**: Grass-types such as Roserade, Shaymin, and Celebi can all OHKO Donphan with a super effective STAB move, while Donphan cannot do much back. Roserade needs to be wary of Earthquake, however.
+**Ice-Types**: Ice-types only check Donphan, as they have to be wary of the rare Stone Edge. Also, most Ice-types lack significant bulk, so they can be KOed by a neutral hit.
 
-**Physical Walls**: Hippowdon, Quagsire, Swampert, and Mega Aggron can all take multiple hits from Donphan and proceed to either stall it out or finish it off quickly.
+**Taunt**: Taunt users such as Froslass can prevent defensive Donphan from setting up Stealth Rock and phazing them.
 
-**Status**: Burn and poison really hamper Donphan, as they halve its Attack and whittle it down, respectively.
-
-**Ghost-types**: Sableye, Cofagrigus, Jellicent, and Froslass block Donphan's main move, Rapid Spin, and can either wear it down with burns or KO it with a super effective attack.
+**Bulky Setup Sweepers**: Bulky setup sweepers such as Bulk Up Krookodile, CroCune, Swords Dance Mega Abomasnow and Curse Snorlax can all set up on both defensive and offensive spinner sets as well as set up on Choice Band Donphan, depending on the move Donphan locks itself into.

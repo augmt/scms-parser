@@ -1,14 +1,14 @@
 Overview
 ########
 
-Shaymin cements itself in UU as one of the premier special wallbreakers in the tier. Possessing a 120 Base Power STAB move that has the added bonus of cutting Special Defense in half 40% of the time, Shaymin can easily blast through a lot of would-be checks or counters. Tacked onto this is Shaymin's good coverage and solid base 100 stat distribution across the board, making Shaymin a Pokemon with bulk, Speed, coverage, and power all wrapped into one. However, Shaymin's main STAB move Seed Flare, while having such a fantastic side effect, is plagued by the fact it's only 85% accurate and has 8 PP, meaning it is not as easy to spam as one might have thought. But, with the popularity of bulky Water-types in the tier and good neutral coverage that Grass-type moves have, Shaymin is definitely a threat to watch out for.
+Shaymin is one of the most threatening specially offensive Pokemon in the tier. Its signature STAB attack Seed Flare sports a solid 40% chance to halve Special Defense, allowing it to potentially break through would-be checks and counters. Shaymin also has solid stats across the board, with good bulk and access to an important Speed tier at base 100. Its useful resistances to Ground- and Water-type attacks give it plenty of opportunities to switch in against the numerous bulky Pokemon in the tier. However, Seed Flare's low PP and accuracy can be its downfall, and when it doesn't get lucky with Special Defense drops, Shaymin's average base 100 Special Attack does not do it any favors.
 
 Life Orb
 ########
 name: Life Orb
 move 1: Seed Flare
-move 2: Earth Power / Dazzling Gleam
-move 3: Psychic
+move 2: Dazzling Gleam / Earth Power
+move 3: Psychic / Air Slash
 move 4: Synthesis / Rest
 ability: Natural Cure
 item: Life Orb
@@ -18,22 +18,54 @@ nature: Timid
 Moves
 ========
 
-Seed Flare is going to be the move Shaymin will be using most of the time, as it is Shaymin's main STAB move and quite spammable due to the 40% chance to halve Special Defense. Earth Power allows Shaymin to hit Steel-types such as Jirachi and Metagross while Dazzling Gleam can be used to surprise Hydreigon trying to come in on Seed Flare. Psychic is necessary to hit one of Shaymin's main counters, Crobat, which has a decent chance to be OHKOed after Stealth Rock. Air Slash offers better coverage against Grass-types such as Celebi, and also has the added bonus of being able to OHKO Virizion and Chesnaught, something none of Shaymin's other moves are capable of. Synthesis grants Shaymin immediate, repeatable recovery, while Rest can be used in conjunction with Natural Cure to heal off any damage Shaymin has taken, removing sleep upon switching out. Healing Wish is also an extremely good option for Shaymin as it allows a Pokemon to be brought back up to full HP and cured of any status ailments at the cost of Shaymin being KOed.
+Shaymin's signature attack Seed Flare is a powerful STAB move that can allow Shaymin to break past would-be switch-ins such as Florges and Umbreon with a little luck thanks to its amazing side effect. Earth Power provides useful coverage on many types that resist Seed Flare, especially Fire-types such as Entei. Alternatively, Dazzling Gleam can be used to surprise OHKO Hydreigon and Noivern as well as 2HKO offensive Salamence (it even has a chance to OHKO after Stealth Rock damage), but it leaves Shaymin very susceptible to bulky Steel-types. While Air Slash hits all Grass-types super effectively, it has very low Base Power, which makes Psychic the preferred option most of the times, as it provides coverage on Crobat as well as Roserade and Chesnaught. Synthesis heals Shaymin for 50% of its HP at will, although the low PP can be an issue. Rest may seem like a better option, as it heals Shaymin fully and pairs nicely with Natural Cure, but it relinquishes momentum, forcing Shaymin to hard switch out. Healing Wish can be hard to fit on a set but provides fantastic utility, fully recovering another Pokemon once Shaymin has done its job.
 
 Set Details
 ========
 
-The EVs are pretty self-explanatory. Maximum Speed and Special Attack investment allows Shaymin to be as fast and powerful as possible. Life Orb helps Shaymin wallbreak and isn't too problematic as Shaymin has a form of recovery in either Rest or Synthesis to offset Life Orb recoil. Choice Specs can be used over Life Orb for added power but this exacerbates the dilemma of Seed Flare's already low PP, and the freedom to switch moves with Life Orb is nice to have.
+The listed spread gives Shaymin as much Speed and power as possible. A Timid nature is needed to Speed tie with other base 100 Speed Pokemon and outspeed the likes of Darmanitan and Entei. Life Orb is required to help Shaymin wallbreak, as it is rather weak without a boosting item, and the recoil can be offset thanks to its reliable recovery anyway.
 
 Usage Tips
 ========
 
-Shaymin should be coming in on bulky Water-types such as Suicune and Swampert as much as possible and proceeding to wallbreak with its powerful Life Orb-boosted moves. Seed Flare is the move Shaymin will be clicking the majority of the time, and when paired with its coverage moves, can let it get past a lot of would-be counters such as Jirachi with -2 Special Defense using Earth Power. Try to use Seed Flare sparingly though, as it only has 8 PP.
+The many bulky Water- and Ground-types that populate the tier, such as Suicune and Hippowdon, respectively, give Shaymin plenty of opportunities to switch in and attack. Seed Flare's low PP and chance to miss can make it an easy move to exploit, so try not to spam it recklessly. However, be aware that going for the 40% chance of a Special Defense drop is often the best way to snowball past would-be checks such as Florges.
 
 Team Options
 ========
 
-Pokemon that enjoy bulky Water-types being removed are nice to pair with Shaymin. This includes, but isn't limited to, Victini, Mega Aerodactyl, Krookodile, and Mienshao. Shaymin appreciates Pokemon that can take advantage of or lure in special walls, such as Superpower Hydreigon or Superpower Nidoking. Finally, Shaymin pairs well with Pokemon that enjoy the sight of special walls, such as Substitute + Calm Mind Chandelure, which can set up on a lot of Pokemon, such as Blissey, that would otherwise wall Shaymin.
+Any Pokemon that appreciates the removal of bulky Water- and Ground-types makes for a good offensive partner to Shaymin; in particular, Darmanitan can bring in Shaymin safely with U-turn, and Krookodile can Pursuit trap problematic Pokemon such as Bronzong and to an extent Crobat. Life Orb Shaymin struggles to get past extremely specially bulky Pokemon such as Blissey, so it should be partnered with Pokemon that can either lure and beat them, such as Life Orb mixed Infernape and Hydreigon, or set up on them, such as Cresselia. In addition, Life Orb Shaymin makes really good use of entry hazard support, as it can force a lot of switches with its great coverage and Seed Flare's secondary effect. Stealth Rock in particular hurts most of Shaymin's offensive checks, and Shaymin pairs well with the setters in the tier, most of which appreciate the removal of bulky Water-types in return. Also, as Shaymin dislikes bulky Steel-types, Pokemon such as Entei and Chandelure are useful for removing them.
+
+Choice Specs
+########
+name: Choice Specs
+move 1: Seed Flare
+move 2: Dazzling Gleam / Earth Power
+move 3: Psychic / Air Slash
+move 4: Healing Wish / Energy Ball
+ability: Natural Cure
+item: Choice Specs
+evs: 252 SpA / 4 SpD / 252 Spe
+nature: Timid
+
+Moves
+========
+
+Shaymin's main STAB attack, Seed Flare, becomes very scary with the power of Choice Specs backing it up, and decently bulky Pokemon that resist Grass such as Hydreigon, Rotom-H, and Mega Pidgeot fall into 2HKO range (even Hydreigon gets 2HKOed after Stealth Rock damage). Earth Power hits most Pokemon that resist Grass-type attacks super effectively, but it is a much more risky move when Shaymin is locked into it, as it can give away easy setup opportunities. Dazzling Gleam hits Hydreigon, Kyurem, Salamence, and Noivern super effectively. Air Slash hits Grass-types super effectively, but Psychic OHKOes Crobat with Stealth Rock on the field, as well as hitting both Roserade and Chesnaught hard, making it the superior option. Healing Wish is a fantastic support move that Shaymin actually has room for on a Choiced set, giving it the opportunity to fully heal another Pokemon once it has done its job. While Healing Wish is one of the main selling points of this set, Energy Ball is a safe, reliable STAB move with no PP issue that Shaymin can make good use of as well, should your team not require Healing Wish support.
+
+Set Details
+========
+
+The listed spread gives Shaymin as much Speed and power as possible. Although it might be tempting to run a Modest nature on a Choice Specs set, Shaymin outspeeding Pokemon such as Hydreigon and Darmanitan is usually more important than the increase in damage output that still doesn't allow it to threaten the likes of Blissey. Choice Specs Shaymin packs a hefty punch but is essentially locked out of its great coverage options, exacerbating Seed Flare's PP issue.
+
+Usage Tips
+========
+
+Because of its lack of a recovery move, Choice Specs Shaymin can be worn down very quickly by Scald burns or simply switching into resisted moves. As a result, prediction is key when using this set, especially if entry hazards are on your side of the field, as Shaymin only gets so many chances to come in and wallbreak. Shaymin's coverage moves, while useful, are also rather weak and easy to take advantage of, so they should be used with caution. Don't hesitate to make full use of Healing Wish, as Shaymin's decent bulk will only carry it so far anyway without recovery.
+
+Team Options
+========
+
+Choice Specs Shaymin is best used on very offensive teams, which appreciate its high damage output and can put to good use the utility of Healing Wish and in return usually provide the entry hazards Shaymin requires to OHKO some Pokemon such as Crobat or Entei. Threatening setup sweepers that synergize well with Shaymin such as Haxorus and Calm Mind variants of Suicune can do their own wallbreaking with Healing Wish support. Because Choice items lock the user into a move, having a decent switch-in to common Shaymin answers such as Crobat is required should you predict wrong. Pokemon that can handle bulky Steel-types, such as Entei and Darmanitan, are helpful too.
 
 Leech Seed
 ########
@@ -50,38 +82,37 @@ nature: Timid
 Moves
 ========
 
-Leech Seed is used in order to wear down the special walls that would otherwise do a pretty decent job of walling Shaymin, including Blissey, Togekiss, Jirachi, and Goodra. Seed Flare is still a strong STAB move that can be used easily. Psychic allows Shaymin to hit Roserade and Crobat super effectively. Air Slash can be used to hit the Grass-types which are immune to Leech Seed that Psychic misses out on, such as Celebi and opposing Shaymin. Dazzling Gleam can be used to hit Hydreigon as it is a very common Pokemon, but doesn't have very good coverage outside of that. Substitute lets Shaymin stall out walls such as Blissey endlessly and can be used in conjunction with Protect for maximum HP recovery over the course of two turns.
+Leech Seed allows Shaymin to wear down special walls such as Blissey and Florges while also keeping it healthy. Seed Flare is Shaymin's most powerful STAB move and is very threatening once Shaymin is behind a Substitute, although it should be noted that the drop in power due to Leftovers is very noticeable. The choice between Air Slash and Psychic is complicated by the fact that while Air Slash provides insurance against the Grass-types that are unaffected by Leech Seed, Crobat is an even more important target because it can hit through Substitutes. However, some Grass-types, namely Roserade and Chesnaught, are hit super effectively by Psychic as well. Substitute can be used to ease predictions and protect Shaymin from status while allowing Shaymin to stall out Pokemon with Leech Seed. Protect is a decent alternative that doesn't cut Shaymin's health. It should be noted that Earth Power can also be used as the coverage move of choice, as it is much more suited to deal with the offensive checks to this set, namely Fire-types.
 
 Set Details
 ========
 
-Although this set might seem to be more defensively oriented, an offensive spread is preferred in order to make the most of Shaymin's good Speed tier and let it still function well against offensive teams with its powerful Seed Flare. Leftovers is used in conjunction with Leech Seed to get maximum recovery each turn and allows Shaymin to endlessly create Substitutes against Pokemon with high HP stats. An alternate spread of 252 HP / 4 SpA / 252 Spe can be used for 101 HP Substitutes, but the only common user of Seismic Toss in UU is Blissey, which hates Leech Seed enough anyway. The drop in power is also huge. Shaymin can also use a spread of 252 HP / 120 SpA / 136 Spe with a Timid Nature to retain some offensive power while still outspeeding the likes of Nidoking
-
+Leftovers is used to let Shaymin get enough residual healing alongside Leech Seed to be able to continuously make Substitutes as well as have more longevity in general. The use of an offensive spread is required to keep the benefits of Shaymin's important Speed tier as well as to make up for its average base 100 Special Attack. Going for a more bulky spread is possible but not recommended, as Shaymin then lacks any offensive presence against offensive teams; moreover, 101 HP Substitutes are unneeded when the only common user of Seismic Toss in the tier is Blissey.
 
 Usage Tips
 ========
 
-Use Leech Seed as much as possible in order to get residual damage on the opponent and keep Shaymin at a high amount of health. Once an opponent is seeded, alternate between Substitute, Seed Flare, and Leech Seed in order to wear down the opponent's Pokemon.
+Using Leech Seed as often as possible is key for this set, as keeping Shaymin healthy is a priority and it will wear down the opponent's team . Once it has Leech Seed a Pokemon, Shaymin can repeatedly use Substitute to wear it down without losing any health or wear it down more quickly with Seed Flare. Against more offensive teams, using Substitute while forcing out a Pokemon can make Shaymin extremely hard to deal with as long as it can get a little luck when using Seed Flare.
 
 Team Options
 ========
 
-Shaymin really appreciates the removal of Grass-types that block Leech Seed, so strong Fire-types such as Infernape and Victini make great teammates, and Shaymin deals with bulky Water-types that annoy Infernape and Victini. Pokemon such as Togekiss, Chandelure, and Hydreigon that enjoy special walls being worn down also make for great partners.
+This particular Shaymin set forces a lot of switches and as a result works best with entry hazard support. Many Stealth Rock setters such as Krookodile, Gligar, and Mega Aerodactyl benefit in return from the removal of bulky Water-types. A special mention is given to Toxic Spikes, as they add to the residual damage of Leech Seed. In particular, Nidoqueen has decent synergy with Shaymin and thrives when special walls are worn down.
 
 Other Options
 ########
 
-Shaymin can make use of a Choice Scarf with Healing Wish that basically behaves similarly to Latios/Latias in OU. Hit the opponent with powerful attacks and coverage until Shaymin is no longer required, then Healing Wish back up a weakened teammate. Swords Dance is also another option for Shaymin but due to Shaymin's fairly lackluster physical movepool, it is not recommended to use a physical set.
+A Choice Scarf set with Healing Wish can be used, especially because Shaymin is faster than Hydreigon, but without a boosting item Shaymin isn't very strong and Seed Flare should not be used as a revenge killing tool due to its bad accuracy. A physical set consisting of Swords Dance / Seed Bomb / Return / Synthesis with Life Orb can be used to surprise Shaymin's traditional counters, as Blissey, Goodra, and specially defensive Celebi are all 2HKOed by +2 Return, but it is very matchup-reliant and overall not as reliable as Shaymin's other sets. Shaymin has access to Tailwind, which it could run on a set as an alternative to Healing Wish. Hidden Power Fire can be a useful coverage option should you want a lure for Forretress and Escavalier. A defensive Aromatherapy set is an interesting option to support the team, but lack of other supporting options makes it a lesser choice.
 
 Checks & Counters
 ########
 
-**Special Walls**: Special walls such as Blissey have no problem coming in on Shaymin, but have to be aware of Special Defense drops from Seed Flare.
+**Dedicated Special Walls**: Blissey isn't fazed by any of Shaymin's attacking moves unless Shaymin gets two Special Defense drops, at which point it has a chance to be 2HKOed. However, it has to be wary of the Leech Seed set, which can stall it out, and must be played with caution around the Choice Specs set. Goodra is a special case, as its ability Sap Sipper makes it immune to Seed Flare and Leech Seed and due to its great special bulk it takes a pittance from Shaymin's coverage moves.
 
-**Goodra**: Goodra gets a special mention as it gains an Attack boost via Sap Sipper from Shaymin's main STAB move and takes pitiful damage from all of its coverage moves.
+**Bulky Grass-types**: Specially defensive Roserade and Amoonguss take little damage from any of Shaymin's moves besides Psychic and Air Slash. Also, both Roserade and Amoonguss threaten it directly with STAB Sludge Bomb.
 
-**Fire-types**: Fire-types such as Victini, Choice Scarf Chandelure, Infernape, and Rotom-H all resist Shaymin's main STAB option and can KO with a STAB Fire-type move; however, they have to be careful not to switch into Earth Power.
+**Bulky Steel-types**: Specially defensive Forretress and Bronzong are either only 4HKOed by or immune to Earth Power, Shaymin's only coverage on Steel-types besides the rare Hidden Power Fire, but have no recovery of their own and can only threaten back Synthesis Shaymin with the combination of Gyro Ball and Toxic, or simply by setting up entry hazards.
 
-**Bulky Steel-types**: Jirachi, Registeel, and Assault Vest Metagross can easily take Seed Flare, however, Jirachi and Metagross do not enjoy taking Earth Power at -2 Special Defense.
+**Flying-types**: Faster Flying-types such as Mega Pidgeot, Crobat, and Salamence make for good checks to Shaymin, as they can Roost off damage or force Shaymin out with their powerful STAB moves. However, Crobat and Salamence cannot switch into Psychic and Dazzling Gleam, respectively.
 
-**Flying-types**: Flying-types such as Togekiss and Crobat counter pretty much all of Shaymin's sets and can retaliate with STAB Air Slash and Brave Bird respectively. Crobat has to to wary of switching into Psychic but gets a special mention as it can KO Shaymin even if it is behind a Substitute.
+**Fire-types**: Most Fire-types either faster than Shaymin or unaffected by Earth Power, such as Infernape, Rotom-H, Choice Scarf Chandelure, and Choice Scarf Darmanitan, can switch into Shaymin with caution or simply revenge kill it, but they will be worn down quickly by Stealth Rock.

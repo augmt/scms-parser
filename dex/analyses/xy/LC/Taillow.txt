@@ -1,41 +1,42 @@
 Overview
 ########
 
-With two useful abilities in Guts and Scrappy and an excellent base 85 Speed stat which allows it to hit the coveted 19 Speed tier, Taillow is able to take advantage of its ridiculously high-powered STAB attacks such as Brave Bird and Boomburst to act as a potent offensive threat. U-turn allows Taillow to play around its checks, and the ability to viably run either a physical or special set means that Taillow isn't totally one-dimensional.
+With two useful abilities in Guts and Scrappy and an excellent base 85 Speed stat that allows it to hit the coveted 19 Speed tier, Taillow is able to take advantage of its ridiculously high-powered STAB attacks such as Brave Bird and Boomburst to act as a potent offensive threat. U-turn allows Taillow to play around its checks, and the ability to viably run either a physical or special set means that Taillow isn't totally one-dimensional.
+
 However, despite its strengths, Taillow is actually quite easy to take down. Its bulk is absolutely atrocious; this is further compounded by its weakness to Stealth Rock. Moreover, despite the power of Taillow's STAB moves, its coverage moves are much less impressive, being limited in quantity and generally quite underwhelming. Although Taillow has its niche, its enormous flaws hold it back from being a top-tier threat.
 
 Life Orb
 ########
 name: Life Orb
 move 1: Boomburst
-move 2: Hidden Power Fighting
+move 2: Heat Wave / Hidden Power Fighting
 move 3: U-turn
 move 4: Brave Bird
 ability: Scrappy
 item: Life Orb
-evs: 36 Def / 200 SpA / 240 Spe
+evs: 36 Def / 196 SpA / 236 Spe
 ivs: 19 HP
 nature: Naive
 
 Moves
 ========
 
-Boomburst is the attack that should be utilized the most; when paired with Scrappy and Life Orb, it becomes very difficult to switch into. Because Heat Wave is incompatible with Scrappy, Hidden Power Fighting is used instead, heavily damaging Pawniard in particular. What Taillow can't break, it can U-turn out of, granting its team momentum in the process. Brave Bird is mostly a filler move, but with Life Orb, it is useful for OHKOing Fighting-types, something that Air Slash cannot do.
+Boomburst is the attack that should be utilized the most; when paired with Scrappy and Life Orb, it becomes very difficult to switch into. Heat Wave heavily damages Steel-types, OHKOing Ferroseed and Magnemite after Stealth Rock damage. Hidden Power Fighting can be used instead to deal more damage to Rock-types and OHKO standard Pawniard, but it misses out on the aforementioned KOs. What Taillow can't break, it can U-turn out of, granting its team momentum in the process. Brave Bird is mostly a filler move, but with Life Orb, it is useful for OHKOing Fighting-types, something that Air Slash cannot do.
 
 Set Details
 ========
 
-The given EVs and nature maximize Taillow's Special Attack and Speed and thus its sweeping potential, with the remaining EVs put in Defense so that Taillow can better take priority attacks. The reduced HP IVs allow Taillow to hit 19 HP, meaning Taillow only loses one HP per round of Life Orb recoil instead of two. Life Orb is the preferred item so Taillow can hit hard while maintaining the ability to switch moves.
+The given EVs and nature maximize Taillow's Special Attack and Speed and thus its sweeping potential, with the remaining EVs put in Defense so that Taillow can better take priority attacks. The reduced HP IVs allow Taillow to hit 19 HP, meaning Taillow only loses one HP per round of Life Orb recoil instead of two. Life Orb is the preferred item so that Taillow can hit hard while maintaining the ability to switch moves.
 
 Usage Tips
 =======
 
-This set performs best once the opposing Rock- and Steel types are adequately weakened or removed, allowing Taillow to freely fire off Boomburst. Otherwise, playing with this set is quite straightforward: use Boomburst as much as the situation allows.
+This set performs best once opposing Rock- and Steel-types are adequately weakened or removed, allowing Taillow to freely fire off Boomburst. Otherwise, playing with this set is quite straightforward: use Boomburst as much as the situation allows.
 
 Team Options
 ========
 
-Hazards on the opposing side are as appreciated as they are for any offensive Pokemon, allowing Taillow to get a few OHKOs and 2HKOs that it otherwise could not; Tirtouga and Pawniard are examples of Pokemon that can set up Stealth Rock while checking the Rock-types that trouble Taillow. Diglett is able to set up Stealth Rock, and can trap and KO a variety of Rock- and Steel-types. On the other hand, Rapid Spin support is beneficial to deal with Taillow's Stealth Rock weakness, with Drilbur being a prime candidate for its ability to set up Stealth Rock as well. Taillow also makes an excellent member of a "bird spam" core by being paired with other Flying-types, such as Fletchling, Doduo, and Archen; one Flying-type weakens the opposing team's checks and counters to Flying-types, allowing the others to sweep.
+Entry hazards on the opposing side are as appreciated as they are for any offensive Pokemon, allowing Taillow to get a few OHKOs and 2HKOs that it otherwise could not; Tirtouga and Pawniard are examples of Pokemon that can set up Stealth Rock while checking the Rock-types that trouble Taillow. Diglett is able to set up Stealth Rock and can trap and KO a variety of Rock- and Steel-types. On the other hand, Rapid Spin support is beneficial to deal with Taillow's Stealth Rock weakness, with Drilbur being a prime candidate for its ability to set up Stealth Rock as well. Taillow also makes an excellent member of a "bird spam" core by being paired with other Flying-types, such as Fletchling, Doduo, and Archen; one Flying-type weakens the opposing team's checks and counters to Flying-types, allowing the others to sweep.
 
 Guts Sweeper
 ########
@@ -52,31 +53,31 @@ nature: Jolly
 Moves
 ========
 
-This set aims to take advantage of powerful Guts-boosted attacks. Facade becomes incredibly dangerous once Taillow is inflicted with status, 2HKOing almost anything that doesn't resist it. Brave Bird is an alternative STAB move; although the recoil can be quite detrimental, it hits Fighting- and Grass-types quite hard and deals more damage than Facade before Guts is activated. Quick Attack, although not especially powerful, is useful for picking off weakened threats and is Taillow's only priority attack. U-turn is useful for maintaining momentum and chipping away at Taillow's checks, while Protect allows Taillow to reliably activate Toxic Orb. However, Steel Wing can be viably used in the third or fourth moveslot if Archen is particularly troublesome.
+This set aims to take advantage of powerful Guts-boosted attacks. Facade becomes incredibly dangerous once Taillow is inflicted with status, 2HKOing almost everything that doesn't resist it. Brave Bird is an alternative STAB move; although the recoil can be detrimental, it hits Fighting- and Grass-types quite hard and deals more damage than Facade before Guts is activated. Quick Attack, although not especially powerful, is useful for picking off weakened threats and is Taillow's only priority attack. U-turn is useful for maintaining momentum and chipping away at Taillow's checks, while Protect allows Taillow to reliably activate Toxic Orb. However, Steel Wing can be viably used in the third or fourth moveslot if Archen is particularly troublesome.
 
 Set Details
 ========
 
-The given EVs maximize Taillow's Attack and Speed and thus its sweeping potential, and the leftover EVs are dumped into HP so Taillow can switch into Stealth Rock 4 times instead of 3 if its status orb does not activate. Toxic Orb is preferred over Flame Orb because Taillow's lack of methods to directly break through checks and counters means that it will usually not be staying in for very long.
+The given EVs maximize Taillow's Attack and Speed and thus its sweeping potential, and the leftover EVs are dumped into HP so that Taillow can switch into Stealth Rock 4 times instead of 3 if Toxic Orb does not activate. Toxic Orb is preferred over Flame Orb because Taillow's lack of methods to directly break through checks and counters means that it will usually not be staying in for very long.
 
 Usage Tips
 ========
 
-Because most of Taillow's success depends on Guts, it is essential to activate the status orb as early as possible. The best way of doing so is through a slow U-turn or Volt Switch user to get Taillow into play unharmed. This can also be done by switching Taillow into a Ghost- or Ground-type move or Will-O-Wisp, although this can be quite risky, as the opponent may choose a different attack.
+Because most of Taillow's success depends on Guts, it is essential to activate Toxic Orb as early as possible. The best way of doing so is through a slow U-turn or Volt Switch user to get Taillow into play unharmed. This can also be done by switching Taillow into a Ghost- or Ground-type move or Will-O-Wisp, although this can be quite risky, as the opponent may choose a different attack.
 
 Team Options
 ========
 
-Because Taillow is prone to switching a lot during the match, Rapid Spin or Defog support is essential; as such, Drilbur makes for an excellent partner because not only can it remove the hazards from your side of the field, but it is also capable of setting Stealth Rock and heavily damaging troublesome Rock- and Steel-types with its STAB Earthquake. Arena Trap Diglett is another good teammate to get rid of certain Rock- and Steel-types. Because this set doesn't have Scrappy, a solid Pursuit user such as Stunky or Houndour is also a good partner to remove Ghost-types, which are immune to Facade. As with all of its sets, Taillow can be paired with another powerful Flying-type Pokemon such as Fletchling, Doduo, or Archen to help wear down their shared checks and counters.
+Because Taillow is prone to switching a lot during the match, Rapid Spin or Defog support is essential; as such, Drilbur makes for an excellent partner because not only can it remove hazards from your side of the field, but it is also capable of setting Stealth Rock and heavily damaging troublesome Rock- and Steel-types with its STAB Earthquake. Arena Trap Diglett is another good teammate to get rid of certain Rock- and Steel-types. Because this set doesn't have Scrappy, a solid Pursuit user such as Stunky or Houndour is also a good partner to remove Ghost-types, which are immune to Facade. As with all of its sets, Taillow can be paired with another powerful Flying-type Pokemon such as Fletchling, Doduo, or Archen to help wear down their shared checks and counters.
 
 Other Options
 ########
 
-Taillow's movepool is quite shallow, so there aren't many other viable options other than the ones already listed. The special set can also utilize Choice Specs or Choice Scarf, but the former does not obtain very many notable KOs over Life Orb, and the latter tends to lack the damage necessary to sweep effectively. A physical Choice Scarf set can be used with U-turn / Brave Bird / Return / Pursuit to outspeed the entire metagame, but the damage output is somewhat underwhelming. Roost can be used on either set to prolong Taillow's otherwise limited lifespan, but Taillow tends to be too frail to use it effectively. On the special set, Hidden Power Grass can be used to damage Omanyte and Sturdy-lacking Tirtouga; Hidden Power Ground can similarly be run on the special set to OHKO Sturdy-lacking Magnemite, while Hidden Power Fire 2HKOes Ferroseed. However, Hidden Power Fighting is generally the most useful Hidden Power variant. A Choice Band set can be used because it takes less recoil than the Guts set, but the inability to switch moves usually renders it the lesser option.
+Taillow's movepool is quite shallow, so there aren't many other viable options other than the ones already listed. The mixed set can also utilize Choice Specs or Choice Scarf, but the former does not obtain very many notable KOs over Life Orb, and the latter tends to lack the damage necessary to sweep effectively. A physical Choice Scarf set can be used with U-turn / Brave Bird / Return / Pursuit to outspeed the entire metagame, but its damage output is somewhat underwhelming. Roost can be used on either set to prolong Taillow's otherwise limited lifespan, but Taillow tends to be too frail to use it effectively. On the mixed set, Hidden Power Grass can be used to damage Omanyte and Sturdy-lacking Tirtouga. However, Hidden Power Fighting is generally the most useful Hidden Power variant. A Choice Band set can be used because it takes less recoil than the Guts set, but the inability to switch moves usually renders it the lesser option.
 
 Checks and Counters
 ########
 
-**Defensive Rock- and Steel-types**: Defensive Rock- and Steel-types can reliably counter most variants of physical Taillow as well as special Taillow sets that lack Hidden Power Fighting; Tirtouga, Eviolite Pawniard, and Archen are particularly notable examples.
+**Defensive Rock- and Steel-types**: Defensive Rock- and Steel-types can reliably counter most variants of physical Taillow as well as special Taillow sets that lack Hidden Power Fighting and Heat Wave; Tirtouga, Eviolite Pawniard, and Archen are particularly notable examples.
 
 **Revenge Killers**: Because Taillow is incredibly frail, common users of Choice Scarf can easily outspeed and KO it with a powerful STAB move, such as Pawniard's Knock Off. Taillow's frailty also leaves it vulnerable to powerful priority attacks; this is especially detrimental to the special set because it doesn't have priority of its own.

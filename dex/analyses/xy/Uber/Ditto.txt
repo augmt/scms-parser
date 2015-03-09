@@ -1,54 +1,50 @@
 Overview
 ########
 
-While Ditto faces some competition from Goomy in the squishy purple blob department, its role in Ubers is still unique. With Imposter and a Choice Scarf equipped, it is capable of revenge killing and scouting in a way no other Pokemon can match. However, while it does suffer from poor HP, the inability to revenge kill healthy opponents often, and being fairly ineffectual versus stall, the introduction of Mega Evolving and Sticky Web help secure it a place in the metagame. It is a great deterrent for your opponent to set up.
+Ditto carves a small, yet unique, niche in the Ubers metagame: its ability Imposter allows it to completely copy the foe, including stats with the exception of HP, ability, and any boosts that have been acquired. When equipped with a Choice Scarf, Ditto is able to completely deter setup on the opposing team and revenge kill Pokemon that have already acquired boosts, such as Xerneas, Rock Polish Primal Groudon, and weakened Extreme Killer Arceus. Furthermore, Ditto doesn't necessarily have to revenge kill - it can scout for moves using Imposter to potentially give you the advantage. However, Ditto can easily be played around. Because Ditto copies the opposing Pokemon's moveset, the opponent can potentially predict what Ditto will use and play around it. Furthermore, Ditto is completely useless against stall teams and support Pokemon such as support Arceus formes and Mega Sableye, as it can't make use of their moves well; it is usually only effective against hyper offense, where the opponent does not have checks for everything. Ditto is also ineffective against Substitute users, as it cannot transform into a Pokemon behind a Substitute. To compound this all, Ditto's low HP means that it can easily be worn down.
 
-Imposter
+Revenge Killer
 ########
-name: Choice Scarf
+name: Revenge Killer
 move 1: Transform
 ability: Imposter
 item: Choice Scarf
 evs: 248 HP / 252 Def / 8 SpD
+ivs: 0 Spe
 nature: Relaxed
-ivs: 0 Atk / 0 Spe
 
 Moves
 ========
 
-While Ditto has a wide and fantastic movepool, this is truly its optimal moveset, as no other options exist.
+Transform is the only move Ditto actually learns, and it never finds use due to Imposter doing the exact same thing without Ditto having to actively use it.
 
 Set Details
 ========
 
-A Choice Scarf allows it to outspeed or tie with any opposing threats, allowing it to check sweepers and Mega Pokemon effectively. The EVs and IVs put it in the greatest possible situation should you enter a war against opposing Ditto. The IVs also give you a Hidden Power type of Ice, but these can be adjusted should any type seem more useful.
+Imposter gives Ditto its niche and allows it to completely copy the foe. A Choice Scarf is used so Ditto can always outpace the Pokemon it transformed into and proceed to revenge kill them with ease. 248 HP EVs are used because HP is the only stat that isn't copied over and these maximize Ditto's HP stat so it can take hits marginally better. These also allow Ditto to reach a Stealth Rock number so it can switch into Stealth Rock one more time than it normally would be able to. 252 Defense EVs are used solely used in order to take minimal damage in the rare situation of a Struggle war with an opposing Ditto. A Relaxed nature further boosts Defense while also lowering Speed, so Ditto can outslow opposing Ditto in the case of said Struggle war. 0 Speed IVs lower Speed even more and give the IVs for Hidden Power Ice so Ditto can hit Rayquaza and similar foes super effectively, in the case Ditto transforms into a foe that has Hidden Power. The IVs for Hidden Power Ground, 30 Def / 30 SpA / 1 Spe, are an option if you aim to copy a weakened Xerneas and beat its checks.
 
 Usage Tips
 ========
 
-Ditto is best brought in to revenge kill or by U-turn, Baton Pass, or Volt Switch. It can be used to scout movesets, or to revenge kill an opponent's Pokemon. Be careful in selecting a move, as after you choose it you are locked into it, and immunities are particularly punishable. Versus defensive teams, Ditto's best options are to utilize recovery and hazard setting and removal. Beware, however, that Ditto is vulnerable to all damaging hazards, although it is still effective under the conditions of Sticky Web. It performs very well against Sticky Web teams due to being a fast revenge killer that is unaffected by it.
+Ditto best serves as a revenge killer to threats that have already set up, such as Geomancy Xerneas. Late-game, it can potentially copy an opposing sweeper and continue a sweep. Ditto has pitiful defenses before it transforms, so it should always be brought in safely; a slow U-turn or Volt Switch is your best means, but you can even bring it in after a teammate has fainted. Ditto can also be used for scouting the foe's moves, allowing you to play around them.
 
 Team Options
 ========
 
-Ditto tends to act more as glue than pairing particularly well with any certain Pokemon, but tends to work more effectively on offensive teams, as unlike many defensive Pokemon, it checks a lot of Pokemon in the metagame without halting momentum. Pokemon that can set or remove hazards pair well with it, as well as Pokemon that can weaken opposing Xerneas and Extreme Killer Arceus. Checks to Calm Mind Arceus are important too, as Ditto has significant difficulty revenge killing them.
+Generally, Ditto is a glue for offensive teams that are weak to setup sweepers, and usually it will function on its own. However, Ditto makes good use of entry hazard removal, as it usually finds itself switching in and out often. The best partners for this job are Giratina-O, Latios, and Latias, all of which fit well on offense teams and have access to Defog. Wallbreakers such as Kyogre make for great partners, as they can severely weaken Pokemon that Ditto cannot easily revenge kill, such as Calm Mind Arceus. However, entry hazard support is also an option to somewhat weaken foes.
 
 Other Options
 ########
 
-While it has a wide movepool, no other options for its moveset are particularly striking. Running Limber over Imposter serves no purpose, nor does using a different item. Ditto's only other real option is adjusting its IVs to have a different Hidden Power type when it copies an opponent which uses it.
+In terms of moves, Ditto literally has no other options, as Transform is its only available move. However, you could opt for another item over a Choice Scarf. Leftovers provide Ditto with more longevity, Life Orb adds that extra oomph when attacking, and a Focus Sash guarantees a safe attack if Ditto isn't damaged ahead of time. However, these are all inferior to the Choice Scarf, as Ditto will be relying on a Speed tie to revenge kill the foe. The IVs of Ditto can be adjusted to give a different Hidden Power, as long as they utilize minimal Speed IVs. Generally, it comes down to what a team needs.
 
 Checks & Counters
 ########
 
-**Calm Mind Arceus**: Any Calm Mind Arceus is generally too bulky for Ditto to revenge kill. Bear in mind that Ditto's Judgment is always Normal, unless it holds a Plate, which it cannot afford to do.
+**Substitute**: Ditto cannot Transform into a Pokemon behind a Substitute, thus stopping it from doing anything.
 
-**Substitute**: Ditto's Imposter and Transform are rendered totally useless by an unbroken Substitute.
+**Defensive Teams**: Ditto serves as a revenge killer to offensive teams. Against defensive teams, Ditto isn't able to OHKO the foe and will usually be stalled out effectively.
 
-**Swords Dance Ghost Arceus Lacking Shadow Claw**: Due to the mechanics of Shadow Force, Ditto's Speed advantage means that it loses to Swords Dance Ghost Arceus that lack Shadow Claw and run Shadow Force.
+**Status**: Any status will make it harder for Ditto to revenge kill. A burn halves its Attack, making it bad as physical revenge killer. Paralysis stops Ditto from outspeeding the foe. Poison puts a timer on Ditto, while being put to sleep and being frozen both stop Ditto from moving.
 
-**Status**: Ditto dislikes all form of status. Paralysis in particular slowing it down is an issue for it, while burn means it is unable to effectively imitate physical attackers. Toxic damage puts its life on a timer.
-
-**Stall**: Defensive builds leave Ditto little options in terms of bringing its own utility to the team.
-
-**Trapping**: After Ditto has revenge killed something, a trapper such as Mega Gengar can often remove it from play.
+**Calm Mind Arceus**: Ditto can rarely revenge kill Calm Mind Arceus due to its great bulk and access to Recover, while Calm Mind Arceus easily outlasts Ditto. 

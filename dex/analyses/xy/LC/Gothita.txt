@@ -1,0 +1,87 @@
+Overview
+########
+
+Due to Shadow Tag and a wide movepool, Gothita is one of the best trappers in the metagame and an ideal teammate for a variety of Pokemon that need specific counters removed. Although it has a great typing for KOing common Fighting-types and a wide variety of coverage moves, Gothita has poor stats and often requires Knock Off support combined with pivoting moves. A weakness to Dark-type moves, specifically Pursuit, greatly hinders its ability to trap multiple threats throughout a match. Still, Gothita's qualities are rare and great to have on many teams.
+
+Choice Scarf
+########
+name: Choice Scarf
+move 1: Psychic
+move 2: Thunderbolt / Hidden Power Fire
+move 3: Energy Ball
+move 4: Trick
+ability: Shadow Tag
+item: Choice Scarf
+evs: 36 Def / 236 SpA / 236 Spe
+nature: Modest
+
+Moves
+========
+
+Psychic is Gothita's most powerful STAB move and is used for heavily damaging Fighting- and Poison-types. Although in most cases it will only 2HKO, minimal support from Knock Off users or prior damage can allow Gothita to OHKO them. Thunderbolt is used specifically for Flying-types such as Archen, Fletchling, and Vullaby, but requires previous damage to OHKO them in every case, usually from Stealth Rock. Hidden Power Fire is primarily for Ferroseed, heavily damaging it to pave the way for sweepers. Additionally, Hidden Power KOes weakened Magnemite and the rare Snover. Energy Ball hits many Water-, Ground-, and Rock-types such as Tirtouga, Chinchou, and Drilbur. Lastly, Trick can guarantee that a wall no longer has its Eviolite and prevents it from recovering.
+
+Set Details
+========
+
+The given EVs maximize Gothita's attacking capabilities in order to trap the healthiest targets possible. Using a Timid nature to reach 22 Speed after Choice Scarf doesn't outpace many relevant Pokemon for Gothita, so Modest is used. Choice Scarf is used to outspeed all unboosted Pokemon. 36 Defense EVs increase Gothita's bulk enough to survive Fletchling's Acrobatics after Stealth Rock, but an alternate EV spread of 240 SpA / 240 Spe is required with Hidden Power Fire to account for IV drops.
+
+Usage Tips
+========
+
+Gothita is very flexible in what it is able to KO; use the coverage moves to your advantage. Its poor bulk and defensive typing mean Gothita will very rarely be directly switching into battle and must be wary when doing so. Typically it is best to simply come in with a pivot move such as U-turn or after one of your Pokemon has fainted. Other Shadow Tag users and Ghost-types are immune to the effects of Shadow Tag and cannot be trapped.
+
+Team Options
+========
+
+Volt Switch and U-turn users such as Mienfoo and Magnemite are immensely helpful to provide free switches for Gothita and key chip damage for putting certain Pokemon into KO range. Knock Off support from the likes of Pawniard and Timburr is another way to bring targets into a range where they can be KOed by Gothita. Gothita appreciates entry hazards as well because of the needed chip damage they provide, and in return Gothita can trap hazard removers, although some can avoid the KO from Gothita's coverage moves, such as Vullaby. Toxic Spikes teams particularly enjoy Gothita's presence because it traps grounded Poison-types that clear away the Toxic Spikes. A large multitude of sweepers appreciate the assured removal of their checks. Omanyte, Pawniard, Fletchling, and more become far more devastating win conditions after Pokemon such as Croagunk and Archen are removed.
+
+Stallbreaker
+########
+name: Stallbreaker
+move 1: Psyshock
+move 2: Rest
+move 3: Sleep Talk
+move 4: Calm Mind
+ability: Shadow Tag
+item: Eviolite
+evs: 236 HP / 196 Def / 76 SpD
+nature: Modest
+
+
+Moves
+========
+
+Psyshock is the only attack on the set, receiving a STAB boost and allowing Gothita to win in Calm Mind wars against Pokemon such as Spritzee. Calm Mind boosts Gothita's offensive and defensive capabilities and subsequently makes Gothita a wallbreaker, special wall, and win condition. Rest gives Gothita recovery while Sleep Talk ensures it won't be dead weight while asleep. This combination also makes sure Gothita isn't crippled by status.
+
+Set Details
+========
+
+The given EVs increase Gothita's bulk enough to set up on weak walls. A Modest nature gives Gothita slightly more power and is chosen over other possibilities because defensive natures do not significantly affect Gothita in damage calculations.
+
+Usage Tips
+========
+
+Even with Eviolite, Gothita is not overly bulky and should avoid switching in on Knock Offs from Fighting-types. Gothita should be switched into walls such as Foongus, Spritzee, and Porygon and start to set up Calm Minds against them. It has the potential to be a win condition mid- or late-game, but all Dark-types and certain walls such as Ferroseed need to be removed first. Eliminating any Dark-types prior to switching in Gothita is recommended because they easily revenge kill and can sometimes Pursuit trap Gothita.
+
+Team Options
+========
+
+Pokemon that struggle to break through walls, such as Corphish and Timburr, pair well with Gothita because of its ability to trap them. Mienfoo, Chinchou, and other pivot move users are useful for providing free switches for Gothita. Toxic Spikes functions very well with Gothita because Gothita will be able to break down poisoned walls at a faster pace and can eliminate the Poison-types that clear Toxic Spikes away.
+
+Other Options
+########
+
+Gothita has a very broad movepool, but many of its options are too specific and won't come into play often. Taunt is useful for shutting down problematic defensive Pokemon. Shadow Ball can take down Abra and opposing Gothita, even though opposing Gothita can't be trapped. Different Hidden Power types can be chosen for very specific threats but usually don't OHKO them unless they are 4x weak to it, such as Magnemite to Hidden Power Ground. A four attacks + Eviolite set is moderately viable- but usually finds itself outclassed by the Choice Scarf set. A bulky set with a Colbur Berry can lure out Dark-types, but Gothita loses a lot of utility by running this. Gothita also has utility moves such as Heal Bell and Thunder Wave, but lacks the bulk to effectively use them.
+
+Checks & Counters
+########
+
+**Revenge Killers**: Many Pokemon can easily revenge kill or set up on Gothita after it has trapped and fainted a Pokemon.
+
+**Pursuit**: Pursuit users such as Stunky, Houndour, and Pawniard vastly deter the use of Gothita and prevent it from trapping more than one Pokemon.
+
+**Pivot Move Users**: Certain bulky users of Volt Switch, U-turn, or Baton Pass may take advantage of the Choice-Scarf set to gain some momentum back after losing a teammate to Gothita.
+
+**Dark-types**: Dark-types fully wall the stallbreaker set and revenge kill the Choice Scarf set well.
+
+**Setup sweepers**: Many setup sweepers can take advantage of Gothita's weak attacks or being locked into a move to set up easily. 

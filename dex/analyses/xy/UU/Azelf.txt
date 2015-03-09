@@ -1,7 +1,7 @@
 Overview
 ########
 
-Azelf is regarded as one of the best suicide leads in the tier, due to its massive offensive and supportive options, great offensive stats. Azelf even has a good boosting move in Nasty Plot, letting it function as a powerful special sweeper. However, it is easy for Azelf to do its job, and it provides good results when used right. However, Azelf is not without its faults; its poor defenses and bad defensive typing make it fold to nearly any attack and also leave it vulnerable to the powerful Dark-types in the tier, such as Hydreigon and Mega Houndoom. It also faces competition from Aerodactyl as a suicide lead. Overall, Azelf is a threat that should not be overlooked in the metagame.
+When taking a look at Azelf, its impressive base 125 Attack and Special Attack next to an excellent base 115 Speed are sure to stand out. Taking this into mind when considering its expansive movepool, Azelf has quite a bit of flexibility, having moves such as Stealth Rock, Knock Off, Reflect, Light Screen, and Nasty Plot in its arsenal. Despite Azelf's frailness due to its poor defenses, the tools it has at its disposal allow it to function as a reliable setter of entry hazards or dual screens, or as a sweeper with Nasty Plot, making it a good choice for offensive teams.
 
 Suicide Lead
 ########
@@ -12,69 +12,37 @@ move 3: Flamethrower / Knock Off
 move 4: Explosion
 ability: Levitate
 item: Focus Sash
-evs: 4 HP / 252 Atk / 252 Spe
-nature: Naive / Jolly
+evs: 252 Atk / 4 SpD / 252 Spe
+nature: Jolly / Naive
 
 Moves
 ========
 
-Stealth Rock is the primary purpose of this set, letting Pokemon such as Roserade and Nidoking achieve the OHKOs or 2HKOs needed to clean and provide offensive pressure. Taunt prevents slower leads such as Donphan from setting up Stealth Rock, and deters Smeargle and Galvantula from using Spore or setting up Sticky Web, respectively. Knock Off provides utility early game and can cripple a good portion of the metagame. Flamethrower is used specifically for Forretress, who can otherwise cause problems for this set. Explosion is for after Azelf has done its job and allows a safe switch into an offensive Pokemon to put pressure on the opposing side, as well as stopping spinners or defoggers from removing entry hazards.
+Stealth Rock allows Azelf to support its team by weakening opposing Pokemon for its teammates. Taunt keeps opposing Pokemon from using their own entry hazards, status moves, or setup moves, ensuring that slower leads fail to set up against Azelf. Flamethrower dispatches Steel-types, primarily Forretress, which otherwise gives this set trouble if it lacks Flamethrower due to Forretress's ability to clear Stealth Rock with Rapid Spin or break Azelf's Focus Sash with Volt Switch. On the other hand, Knock Off can let Azelf support its team early-game by removing items while allowing it to hit Ghost-types that may switch in to block Explosion, such as Chandelure. Explosion allows Azelf to prevent opposing Pokemon from using Rapid Spin or Defog once it has used Stealth Rock, giving a teammate a free switch while dealing respectable damage to most Pokemon. Fire Blast can be used over Flamethrower for its extra power, though its imperfect accuracy can occasionally backfire.
 
 Set Details
 ========
 
-The given EVs maximize Azelf's Speed while letting it do as much damage as possible with Knock Off and Explosion. Focus Sash is used to guarantee that Azelf can set up Stealth Rock, and then use Explosion. Azelf can also use Knock Off before it uses Explosion if it's necessary. A Naive nature can be used if running Flamethrower.
+Focus Sash is essential on a lead, as it ensures that Azelf can set Stealth Rock even against faster Pokemon. The given EVs and nature allow Azelf to be as fast as possible, outpacing a decent portion of the tier, while giving Explosion and Knock Off as much power as possible. If Flamethrower is chosen, a Naive nature is preferred in order to not hinder Azelf's Special Attack. If Fire Blast is chosen, a spread of 82 Atk / 168 SpA / 252 Spe with a Naive nature can be used in order to reliably 2HKO Mega Aggron while still allowing Explosion to hit fairly hard.
 
 Usage Tips
 ========
 
-Azelf should almost always used as a lead, unless it is threatened by Fake Out leads or common scarfers, but even then it should still be used early-game. The first move should be to either use Knock Off or set up Stealth Rock, depending on what is on the opponent is leading with. Taunt can be used if other suicide leads like Smeargle or Galvantula are sent out. After Azelf has taken a hit and used either of these moves, Explosion should be used unless a Ghost-type is on the field, in which case you should use Knock Off. This can remove at least one Pokemon, and make it easier for Pokemon like Hydreigon to break through teams. It is important to note that this set should not lead against fast Taunters such as Sableye, or Fake Out users such as Ambipom.
-
-
-Team Options
-========
-
-This set should be used on hyper offense teams with common Choice Scarf users like Hydreigon, who barely miss the OHKO on Pokemon with decent physical or special bulk such as Mega Houndoom without Stealth Rock, and with Pokemon that can provide offensive pressure. Mega Houndoom can KO or revenge kill Ghost-types who try to switch in on Azelf as it uses Explosion. Finally, offensive Fighting-types that have a high Speed stat such as Infernape and Mienshao are good partners due to their great wallbreaking capabilities.
-
-Dual Screens
-#########
-name: Dual Screens
-move 1: Light Screen
-move 2: Reflect
-move 3: Taunt / Stealth Rock / Knock Off
-move 4: Explosion
-ability: Levitate
-item: Light Clay
-evs: 4 HP / 252 Atk / 252 Spe
-nature: Jolly
-
-Moves
-========
-
-Light Screen and Reflect are obvious, as Azelf's blazing Speed lets it set up both screens quickly. The third moveslot has many options: Taunt lets it cripple other set-up Pokemon, Stealth Rock lets it support the team, and Knock Off provides utility. Explosion deals lots of damage while ensuring a safe switch in and avoiding a potential Defog.
-
-Set Details
-========
-
-The EVs are standard, maximizing Attack and Speed in order to get the job done. Light Clay maximizes the amount of turns the screens stay up.
-
-Usage Tips
-========
-
-Depending on which Pokemon you're facing, you should set up the appropriate screen to take less damage from their attacks. As soon as both screens are up, Azelf should use Explosion to deal a good chunk of damage to most Pokemon, and allows a safe switch into a wallbreaker or sweeper. If Ghost-types are on the field, however, Azelf should use Knock Off instead of Explosion, so it can set up screens later if needed.
+Because this set is designated as a lead, it's best to always send Azelf out first to either set up Stealth Rock or use Knock Off on the first turn based on what the opponent leads with. Use Taunt only if the opposing Pokemon is capable of setting its own entry hazards in order to keep them off your side. Once Azelf has done its job of setting up Stealth Rock, go out with a bang by using Explosion to get a teammate in safely afterwards. Be wary of opposing Fake Out and Choice Scarf users, especially if they have access to U-turn, as both can break Azelf's Focus Sash, with the latter going to a faster Pokemon to finish it off quickly. Be wary of faster Pokemon that may carry Taunt, such as Crobat and Mega Aerodactyl, as they can both hinder Azelf by keeping it from using Stealth Rock.
 
 Team Options
 ========
 
-Dual Screens support is best used with Pokemon who enjoy an easier time setting up, such as Mega Houndoom, Porygon-Z, and Mega Absol, since most setup sweepers don't need more than five turns to start preparing for a sweep. Electric types such as Mega Manectric and Raikou are good for taking care of Crobat and Mega Aerodactyl, who both check this set, with the Infiltrator ability and a higher Speed stat, respectively.
+This set is meant to be used only for offensive teams, so pair it with Pokemon such as Nidoking, Alakazam, Beedrill, Hydreigon, Lucario, Darmanitan, and Mienshao, as they are all capable of providing heavy offensive pressure and appreciate Stealth Rock being present on the opposing side. Ghost-types such as Trevenant, Jellicent, and Chandelure can spinblock, keeping Stealth Rock from being removed by Rapid Spin users. Fast Taunt users such as Crobat, Mega Aerodactyl, Tornadus, and Whimsicott can keep opposing Pokemon from using Defog to remove Stealth Rock as well.
+
 
 Nasty Plot
 ########
 name: Nasty Plot
 move 1: Nasty Plot
 move 2: Psyshock
-move 3: Fire Blast / Thunderbolt / Shadow Ball
-move 4: Dazzling Gleam
+move 3: Fire Blast
+move 4: Dazzling Gleam / Taunt
 ability: Levitate
 item: Life Orb
 evs: 252 SpA / 4 SpD / 252 Spe
@@ -83,34 +51,73 @@ nature: Timid
 Moves
 ========
 
-Nasty Plot boosts Azelf's Special Attack to towering levels, making it very dangerous when coupled with its high Speed. Psyshock is the STAB move of choice, having decent coverage and hitting Florges for massive damage. Fire Blast hits Steel-types such as Mega Aggron and Forretress for massive damage. Thunderbolt lets it muscle through bulky Water-types that aren't part Ground-type. Shadow Ball is for Victini, a common switch-in to Azelf. Dazzling Gleam prevents it from getting completely walled by Dark-types like Mega Houndoom and Hydreigon.
+Nasty Plot allows Azelf to boost its Special Attack and attempt to sweep, dealing serious damage to most of the tier after a single boost. Psyshock gets a STAB boost while hitting specially defensive Pokemon such as Blissey and Florges on their weaker Defense stat, allowing Azelf to tear through them uninterrupted after a boost. Fire Blast allows Azelf to take out Steel-types that would otherwise be hard stops to it, such as Mega Aggron and Forretress. Dazzling Gleam allows Azelf to more reliably take out Dark-types such as Hydreigon and Krookodile, and it is Azelf's only means of breaking through Umbreon after a boost, though bear in mind a +2 Fire Blast can dispose of every Dark-type in the tier barring Hydreigon and Umbreon. Taunt can be used if Dark-types aren't as much of a concern, as it allows Azelf to both support its team by preventing entry hazards and status moves, as well as hinder defensive Pokemon such as Alomomola, Hippowdon, Porygon2, and Vaporeon, which may try to inflict status or phaze Azelf after it has set up. Moves such as Energy Ball, Shadow Ball, and Thunderbolt can be used if your team needs more coverage against specific threats that can be more quickly dealt with after a boost, though the moves listed can 2HKO the majority of the tier at +2 at the very least.
 
 Set Details
 ========
 
-The EVs and Timid nature let it outspeed as many threats as it can while doing as much damage as possible. Life Orb maximizes the damage output.
+Maximum Special Attack and Speed investment with a Timid nature maximizes Azelf's sweeping potential, making it as fast and as strong as possible. Life Orb is necessary to give Azelf as much power as it can get in order to sweep and break through defensive Pokemon after setting up with Nasty Plot.
 
 Usage Tips
 ========
 
-Depending on the coverage move in the last slot, Azelf appreciates having bulky Steel-types removed if using Thunderbolt, and Water-types such as Vaporeon and Suicune removed if using Fire Blast. As such, it shouldn't attempt a sweep until these Pokemon are removed. Azelf should also be setting up when common Choice Scarf users are removed.
+Azelf is frail and can be worn down by Stealth Rock and Life Orb recoil, so it will generally have only one opportunity to set up Nasty Plot while it is healthy. Preserve Azelf wisely until the chance to set up is presented. To keep Azelf from being revenge killed easily, ensure that faster Pokemon, Choice Scarf users, and Pokemon that rely on priority moves, namely Sucker Punch, are eliminated before attempting to sweep. Although Dazzling Gleam does allow Azelf to beat Hydreigon one-on-one, it is a common user of Choice Scarf, so make sure it isn't holding the item before trying to use Dazzling Gleam on it, otherwise Azelf will simply be outsped and KOed.
 
 Team Options
 ========
 
-Nasty Plot Azelf enjoys entry hazard support from hazard setters such as Froslass and Forretress, which help get it past Pokemon with Focus Sashes. Fighting-types such as Mienshao and Infernape also make good partners for Azelf as they take care of Dark-types such as Krookodile and Umbreon. Paralysis support is also beneficial for Azelf, letting it outspeed most scarfers trying to revenge kill, so Jirachi and Blissey make for good partners. Azelf also appreciates Pokemon that can break through Umbreon, such as Nidoking with Megahorn. Azelf should also be paired with Pokemon that want special walls out of the way, like Mega Houndoom and Hydreigon.
+Entry hazards are vastly appreciated for helping Azelf to sweep, so pair it with Stealth Rock users such as Mega Aggron, Forretress, Hippowdon, Nidoqueen, or Swampert. Similarly, Spikes users such as Chesnaught, Forretress, Froslass, and Roserade are also beneficial partners. Choice Scarf users of your own, such as Infernape, Mienshao, and Hydreigon, can deal with Pokemon faster than Azelf as well as some opposing Choice Scarf users. Strong attackers such as Darmanitan, Krookodile, Nidoking, and Roserade can soften up defensive Pokemon to give Azelf an easier time sweeping later in the match. If Taunt is chosen over Dazzling Gleam, Pokemon such as Machamp, Life Orb Mienshao, and Calm Mind Florges can be used to deal with Hydreigon and Umbreon more easily.
+
+Dual Screens
+########
+name: Dual Screens
+move 1: Light Screen
+move 2: Reflect
+move 3: Taunt / Stealth Rock / Knock Off
+move 4: Explosion / U-turn
+ability: Levitate
+item: Light Clay
+evs: 252 HP / 4 Atk / 252 Spe
+nature: Jolly
+
+Moves
+========
+
+Dual screens bolster the defenses of Azelf's team for several turns, allowing it to support its teammates by making them harder to take down. Taunt can be used to keep opposing Pokemon from using their own entry hazards, status, or setup moves, while Stealth Rock allows Azelf to take an all-purpose supportive role by also setting entry hazards for its team to take advantage of. Knock Off can be used to offer some early-game utility by removing items as well as hitting Ghost-types that may try to switch in on Explosion, which itself lets Azelf deal a large chunk of damage while blocking Defog or Rapid Spin, giving a teammate a free turn to switch in. However, U-turn can be used as a safer alternative to Explosion, allowing Azelf to bring in a partner while preserving Azelf to set up screens again later in the match.
+
+Set Details
+========
+
+HP is maximized to give Azelf enough bulk to safely set up both screens reliably, while a Jolly nature and maximum Speed investment let Azelf set up as quickly as possible. Light Clay causes Light Screen and Reflect to last for 8 turns instead of 5, giving a sweeper ample time to safely set up and sweep. This set faces a bit of competition from Espeon, which boasts access to the ability Magic Bounce, though it is noteworthy that Azelf has better Speed, slightly better physical bulk, and access to Stealth Rock and Explosion for free momentum while preserving Light Screen and Reflect.
+
+Usage Tips
+========
+
+Set up the appropriate screen depending on which Pokemon Azelf is up against; Reflect when facing a physical attacker, and Light Screen when facing a special attacker. Once both screens are up, use Explosion or U-turn to safely bring in a wallbreaker or a sweeper to put pressure on the opposing Pokemon. While this set is best used as a lead, it can also be used during the early- or mid-game if Azelf's support isn't required immediately. This allows for more conservative play until a sweeper's checks have been weakened enough that it can take full advantage of Azelf's support. Beware of Crobat and Mega Aerodactyl, as they are the only Defog users faster than Azelf, which means they can quickly remove its screens while also having access to Taunt to keep Azelf from setting up. Crobat's Infiltrator ability lets it outright ignore Reflect, while Mega Aerodactyl can threaten Azelf with Pursuit.
+
+Team Options
+========
+
+Nearly every setup sweeper appreciates having dual screens to allow them to set up more easily; Mega Absol, Lucario, Salamence, and Suicune are just a few examples. Offensive Pokemon such as Mega Aerodactyl, Mega Abomasnow, Rotom-H, and Nidoking can apply offensive pressure to Defog users that aim to blow your screens away. Fast Taunt users such as Mega Aerodactyl, Crobat, Tornadus, and Whimsicott can also stop Pokemon from using Defog, allowing you to keep your screens up.
 
 
 Other Options
 ########
 
-Choice sets are an option, although they aren't as viable since Azelf hates being locked into one move. For instance, a Choice Scarf lets it outspeed every other common user of Choice Scarf in the tier and makes a decent late-game cleaner, whereas Choice Specs and Choice Band provide raw power. Substitute can be used on the Nasty Plot set since Azelf forces a lot of switches; however, it is forced to give up a coverage move for this. Grass Knot can be used to KO bulky waters that are part Ground-type, such as Swampert. A mixed set is viable, thanks to Azelf's expansive movepool and equally strong mixed offenses. Expert Belt can be used with this to bluff a Focus Sash, Light Clay, or Choice item.
+Azelf's movepool is nothing short of expansive, boasting many options for it to take advantage of, though the viability of some are questionable. For instance, an offensive set utilizing Stealth Rock and three attacks such as Psyshock, Fire Blast, and Dazzling Gleam / Energy Ball can be used if an offensive Stealth Rock user is required. An all-out attacking set with Life Orb and four attacks can also be used, with the coverage moves being tailored to what Azelf's team needs additional coverage against. A set using Choice Band, Choice Specs, or Choice Scarf can be used in conjunction with Trick to allow Azelf to play as a wallbreaker or revenge killer that can cripple defensive Pokemon by giving them a Choice item. Rain Dance or Sunny Day can be used on the lead set to tailor Azelf to the needs of a weather team, further supporting its partners with the respective weather move. Lastly, a full physical attacking set can be used thanks to Azelf's base 125 Attack stat and access to moves such as Zen Headbutt, Knock Off, U-turn, Explosion, Drain Punch, and the elemental punches.
 
-Checks and Counters
+
+Checks & Counters
 ########
 
-**Dark-types** The biggest stops to Azelf are Dark-types, such as Mega Houndoom, Hydreigon, and Mega Absol, who can put the hit it for super effective damage with their STAB moves.
+**Faster Pokemon**: Faster threats such as Crobat, Noivern, Mega Aerodactyl, Alakazam, and Pokemon holding a Choice Scarf can easily outpace Azelf and KO it with ease due to its frailness, making it difficult both for the Nasty Plot set to sweep and for the lead set to do much more than set up Stealth Rock. This can also apply to base 115 Speed Pokemon such as Mega Absol, Mega Houndoom, and Cinccino, against which Azelf has to risk losing a Speed tie.
 
-**Porygon2** Porygon2 can take most hits with ease; however, it must be wary of getting its Eviolite knocked off.
+**Dark-types**: Dark-type Pokemon such as Hydreigon, Krookodile, Honchkrow, Mega Absol, and Umbreon can switch in on Psyshock and threaten to KO Azelf, especially if it lacks Dazzling Gleam. Krookodile and Honchkrow also have access to Pursuit to ensure Azelf cannot safely escape once they have been brought in. Mega Absol's Magic Bounce ability also means the lead set will ultimately lose one-on-one against it, being forced to either switch out and give Mega Absol a free turn, or immediately use Explosion, forgoing the use of Stealth Rock altogether. While Umbreon is slower than Azelf, it threatens to OHKO Azelf with Foul Play, while Umbreon itself is only 2HKOed by a +2 Dazzling Gleam after Stealth Rock.
 
-**Fast Taunt users** Fast users of Taunt, in particular Sableye and Mega Aerodactyl, stop the suicide and dual screen sets in their tracks as Azelf can't reliably damage them, and both are immune or resistant to Explosion.
+**Priority Users**: Pokemon with access to priority moves, such as Toxicroak, Lucario, Entei, Mega Absol, Honchkrow, and Arcanine, can quickly pick off Azelf after it has been weakened, stopping it before it can act. Mega Absol, Honchkrow, and Toxicroak are especially bothersome, as they all carry Sucker Punch and can quickly OHKO Azelf.
+
+**Steel-types**: Steel-types such as Empoleon, Forretress, and Mega Aggron can all switch in on Psyshock and can give Azelf problems in some way. Empoleon can survive a boosted Fire Blast from the Nasty Plot set while being able to use Defog to get rid of Stealth Rock and dual screens after Azelf has fainted. Forretress can break Azelf's Focus Sash with Volt Switch or even Rapid Spin as Azelf uses Stealth Rock, getting a teammate in safely or ridding its side of entry hazards. Gyro Ball also deals serious damage to Azelf due to the major Speed difference between the two. While Mega Aggron is KOed by a +2 Fire Blast, it can set up its own Stealth Rock, phaze Azelf out, or threaten to KO it with Heavy Slam.
+
+**Taunt Users**: Opposing Taunt users, such as Crobat, Mega Aerodactyl, Whimsicott, and Tornadus, can outpace Azelf and keep the lead and dual screens sets from using their respective setup moves, forcing Azelf to switch out or use a less favorable move.
+
+**Strong Attacks**: Azelf is frail to the point that even most neutral STAB hits will deal serious damage to it, making it hard for it to stand up to abuse from the majority of the offensive Pokemon in the tier, as well as even bulkier or defensive ones, such as Suicune, Florges, and Snorlax.

@@ -1,0 +1,54 @@
+Overview
+########
+
+Kecleon has a great ability in Protean, which changes its type depending on the type of the move it uses. Since the release of ORAS, Kecleon is able to use Drain Punch and Knock Off together with Protean, greatly increasing its viability. Kecleon has good Attack and Special Defense stats, which contribute to its offensive presence and longevity. Kecleon also has a wide movepool with a lot of different usable options. However, although it has a niche in having Protean, Kecleon faces competition from physical attackers such as Pangoro and Escavalier, as they have a better Attack stat. It also has low HP and Defense stats, which let down its good Special Defense, and it is very slow for an offensive Pokemon.
+
+Assault Vest
+########
+name: Assault Vest
+move 1: Knock Off
+move 2: Drain Punch
+move 3: Sucker Punch
+move 4: Rock Slide / Ice Punch
+ability: Protean
+item: Assault Vest
+evs: 172 HP / 252 Atk / 84 Spe
+nature: Adamant
+
+Moves
+========
+
+Knock Off is strong and has the utility of removing the foe's item. Drain Punch is another powerful attack and provides a bit of recovery for Kecleon, which is useful if Kecleon is at low health. Sucker Punch is a priority attack that picks off weakened Pokemon. Rock Slide is a usable option in the last moveslot to OHKO Moltres and also has great overall coverage. Ice Punch can also be used in the fourth moveslot, as it has great coverage; for example, it OHKOes Mega Sceptile and heavily damages Gligar. Power-Up Punch is a final option that can be used to boost Kecleon's Attack, letting it hit harder in the following turns.
+
+Set Details
+========
+
+Protean changes Kecleon's typing to match its move's typing, meaning that every move Kecleon uses is boosted by STAB. Assault Vest boosts Kecleon's Special Defense and allows it to tank even more special hits, but it prevents Kecleon from using status moves. The HP investment boosts Kecleon's overall bulk, while the Attack EVs and Adamant nature ensure Kecleon hits as hard as possible. The Speed EVs ensure Kecleon outruns Pokemon such as Registeel, Doublade, Druddigon, and Dragalge.
+
+Usage Tips
+========
+
+Use Knock Off if you cannot predict what the opponent is going to do; it's generally a safe move, as most Pokemon do not appreciate having their item removed. Sucker Punch should be used to pick off weakened foes, as it will most likely KO them thanks to its adequate 80 Base Power. Kecleon can switch into special attackers, but not repeatedly, as this set has no reliable recovery. Switch out of physical wallbreakers such as Choice Band Pangoro and Choice Band Tyrantrum; Kecleon has a lot of trouble taking their attacks and cannot do much in return.
+
+Team Options
+========
+
+Psychic- and Flying-types such as Cresselia, Gligar, and Moltres make for good partners, as Kecleon can't stand up to Fighting-types. Physical walls such as Rhyperior, the aforementioned Cresselia, and Alomomola are also good teammates, as they can take care of the physical wallbreakers that threaten Kecleon. Special wallbreakers such as Mega Sceptile, Dragalge, and Moltres are good teammates, as they can beat the physical walls that hinder Kecleon. Cleric support from Pokemon such as Aromatisse is useful, as Kecleon hates being burned. Kecleon also appreciates Thunder Wave support from Pokemon such as Registeel and Slowking, as it helps Kecleon move first despite its very low Speed. Wish support from Pokemon such as Aromatisse and Alomomola is appreciated, as this set lacks recovery options. Entry hazard setters such as Stealth Rock Rhyperior, Bronzong, and Registeel and Toxic Spikes Drapion, will help Kecleon more easily KO foes.
+
+Other Options
+########
+
+Life Orb can be used, but Kecleon can't afford the wasted bulk. Recover extends Kecleon's longevity, but Kecleon then misses out on one of its coverage attacks. It also cannot use Recover with Assault Vest. Toxic sets a timer on the longevity of opposing offensive Pokemon, while Thunder Wave slows down foes for teammates to beat afterwards, but both force Kecleon to give up a coverage attack as well as Assault Vest. Kecleon has access to Stealth Rock, but it is better set up by Pokemon such as Rhyperior or Gligar because of their better bulk, and in Gligar's case, Speed, and running Stealth Rock means that Kecleon cannot run Assault Vest. Aqua Tail is another option to hit Rhyperior and Gligar for decent damage, but it lacks real power and Kecleon can't break through those Pokemon anyway. Fire Punch can be used to hit Ferroseed harder, but this is its only notable target, as other targets are hit by Ice Punch anyway. Shadow Sneak is another priority attack and grants Kecleon a temporary immunity to Fighting-type attacks thanks to Protean, but it lacks real power. Return has good Base Power and hits most types for neutral coverage, but it does not have any super effective coverage and therefore isn't worth it. A specially defensive set can be used, but it makes Kecleon setup bait for foes, especially those with Substitute, and unable to run Assault Vest.
+
+Checks & Counters
+########
+
+**Fighting-types**: Faster Fighting-types such as Hitmonlee, Cobalion, and Emboar can outspeed and easily beat Kecleon with a STAB attack, though the former dislikes taking a hit, and they all have to play around Protean.
+
+**Physical attackers**: Physical attackers such as Pangoro and Tyrantrum are capable of beating Kecleon relatively easily with one of their STAB attacks, without risking Protean making their attack resisted.
+
+**Physical walls**: Physically defensive walls such as Alomomola, Weezing, and Rhyperior have no trouble taking Kecleon's hits and can beat or outstall it. Rhyperior cannot take repeated Drain Punches after Knock Off, however. Cofagrigus is also capable of removing Kecleon's ability if Kecleon makes contact, but it has to watch out for Knock Off.
+
+**Burn**: Burning Kecleon will halve its Attack, leaving it weak. Examples of Pokemon that can inflict burns include Cofagrigus and Spiritomb, as well as Scald users such as Quagsire and Alomomola.
+
+**Toxic**: Toxic damage limits Kecleon's longevity, as it has no reliable recovery. Common users of Toxic include Alomomola, Bronzong, and Registeel. Furthermore, Toxic Spikes users such as Drapion, Weezing, and Dragalge can also poison Kecleon and wear it down.

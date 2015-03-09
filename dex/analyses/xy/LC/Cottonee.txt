@@ -1,15 +1,15 @@
 Overview
 ########
 
-Cottonee has a fantastic Grass / Fairy typing which allows it to beat Pokemon such as Timburr and Mienfoo. It has excellent support options in Memento, Encore, Taunt and Leech Seed and can pivot in and out quite effectively. Unfortunately, Cottonee suffers from a Flying weakness, making it an easy target for Fletchling, and its reliance on support moves makes it susceptible to Taunt. It also cannot touch certain Pokemon at all, such as Foongus. However, Cottonee's ability to check the variety of Fighting-types in LC and provide great support for sweeping allies makes it a valuable member of any Little Cup team.
+Cottonee's ability, Prankster, gives all of its status moves priority, making it an excellent supporter and pivot with moves such as Encore, Memento, Stun Spore, and Taunt. Cottonee also sports a useful Grass / Fairy typing, which gives it six resistances and one immunity, meaning it has ample opportunities to switch into a resisted hit and lock the foe into the move with Encore. However, Cottonee's typing also gives it quite a few weaknesses, including a nasty 4x weakness to Poison. Despite Cottonee's secondary Fairy typing, it's a shaky Fighting-type switch-in at best, as Timburr often runs Poison Jab, Pancham usually runs Gunk Shot, and Mienfoo can just U-turn out. It also can't do much to opposing Grass-types, such as Foongus and Ferroseed.
 
 Utility
 ########
 name: Utility
 move 1: Encore
-move 2: Memento / Knock Off
-move 3: Taunt / Knock Off
-move 4: Stun Spore / Memento / Dazzling Gleam / Giga Drain
+move 2: Memento
+move 3: Taunt / Knock Off / Stun Spore
+move 4: Dazzling Gleam / Giga Drain / Stun Spore
 ability: Prankster
 item: Eviolite
 evs: 116 HP / 196 Def / 196 SpD
@@ -18,107 +18,71 @@ nature: Bold
 Moves
 ========
 
-Encore allows Cottonee to force out Pokemon such as Shell Smash Tirtouga or to lock Pokemon such as Mienfoo into Fake Out. This, combined with Memento, can often lead to an ally sweeping the opponent's team. Memento helps Cottonee support its teammates to the fullest extent and can be used as a last resort with Prankster. Knock Off is a great support move, getting rid of an enemy's item. Taunt can be used to stop setup sweepers or leads that attempt to set entry hazards, and Stun Spore can be used to spread paralysis throughout the opponent's team. Dazzling Gleam is a good STAB option that can deal damage to Cottonee's common switch-ins, such as Fletchling. Giga Drain is an option that supplies Cottonee with reliable recovery, hitting opposing Water-type Pokemon that Cottonee usually attempts to check.
+With +1 priority thanks to Prankster, Encore is incredibly useful, locking opposing Pokemon into resisted, support, or setup moves. Memento halves the foe's attacking stats, paving the way for a teammate to come in, set up easily, and sweep. Taunt is useful to prevent opposing Pokemon from setting up entry hazards. Despite Cottonee's low Attack, Knock Off is useful to remove a foe's item and is the only worthwhile option Cottonee has against Foongus, which is a common switch-in. Stun Spore is an option to cripple common switch-ins to Cottonee such as Ponyta and Pawniard. The move is also useful versus opposing setup sweepers; if you switch in and they opt not to boost, you can still cripple them with paralysis. Dazzling Gleam gives Cottonee a reliable STAB move and is helpful to check Fighting-types. Alternatively, Giga Drain lets Cottonee check Water- and Ground-types much better and provides it with some healing as well.
 
 Set Details
 ========
 
-The EV spread hits Eviolite numbers and allows Cottonee to be as bulky as possible. A Bold nature does not inhibit Cottonee's Knock Off, as the move should not be viewed as a way to deal damage, but as a support option. Prankster allows Cottonee to function to its fullest potential as a support Pokemon, granting its non-attacking moves +1 priority.
+The EV spread and nature let Cottonee hit even numbers in defenses, making the best use of the 1.5x boost that Eviolite provides. The rest of the EVs go in HP to improve Cottonee's bulk. Prankster gives all of Cottonee's status moves +1 priority, making great use of its support capabilities.
 
 Usage Tips
 ========
 
-Cottonee should be used as a pivot, switching in on resisted attacks such as Drilbur's Earthquake. When Cottonee is close to fainting, Memento is the best option, as it allows sweepers to set up with ease. Cottonee can lock threatening Pokemon such as Gastly or Pawniard into non-attacking moves like Substitute or Swords Dance, guaranteeing Cottonee a free turn, and more if the opponent doesn't switch.
+Take advantage of Cottonee's many resistances to find a switch-in opportunity, then lock the foe into a resisted hit with Encore. Opposing support Pokemon or setup sweepers can easily be taken advantage of with Encore or Taunt. Be wary of Encoring Spikes, however, as this only leads to more entry hazards being set up on your side of the field. Cripple switch-ins with Knock Off or Stun Spore. Use Memento to cripple the foe when your team's setup sweeper has an opportunity to heavily damage the opposing team, or when Cottonee is running low on health. Be careful if your opponent has Pawniard, however, as Memento will boost its Attack due to Defiant.
 
 Team Options
 ========
 
-Cottonee is most effective when paired with devastating setup sweepers. Pawniard makes an excellent partner, switching into Fletchling and applying strong offensive pressure to the foe. Vullaby is a great addition to Cottonee's team, as Cottonee is walled entirely by Foongus, which has little means of dealing with Vullaby. Pokemon such as Scraggy, Zigzagoon, and Fletchling all work wonders in setting up and wrecking unprepared teams. Cottonee functions the best on hyper offense teams, where it can provide support for Pokemon that can set up versus a variety of playstyles. Pokemon that can switch into Flying-, Fire-, and Poison-type attacks, such as Chinchou and Archen, are most appreciated as partners.
+Powerful setup sweepers, namely Zigzagoon, but also Fletchling, Omanyte, and Scraggy, are Cottonee's best partners because they greatly enjoy Memento support, which lets them set up more easily. Pokemon that can handle Foongus for Cottonee, such as Vullaby and Ferroseed, make for good partners. Fire-types such as Ponyta and Larvesta make for good partners, as they can easily handle Grass- and Steel-types for Cottonee. Pokemon that can cover Cottonee's weaknesses, such as Pawniard, Chinchou, and Archen, also make for great teammates.
 
 Offensive
 ########
 name: Offensive
 move 1: Dazzling Gleam / Giga Drain
-move 2: Encore
-move 3: Hidden Power Fighting / Giga Drain
-move 4: Memento / Taunt
+move 2: Hidden Power Fighting / Giga Drain
+move 3: Encore
+move 4: Memento / Stun Spore / Taunt
 ability: Prankster
 item: Eviolite
-evs: 36 HP / 40 Def / 144 SpA / 40 SpD / 232 Spe
+evs: 224 SpA / 40 SpD / 232 Spe
 nature: Timid
 
 Moves
 ========
 
-Dazzling Gleam is a great STAB option and is Cottonee's main means of hitting Fighting- and Dark-types. Giga Drain is also a good STAB move that can provide Cottonee with some much-needed recovery; it also lets Cottonee be a solid switch-in to Chinchou and Tirtouga. Encore is Cottonee's greatest asset, as the added Speed of this set allows Cottonee to switch into most setup sweepers and lock them into their boosting moves, nullifying any chance they had at sweeping. Hidden Power Fighting only has one real use, that being to hit Pawniard, which otherwise resists both of Cottonee's STAB moves and can hit it super effectively with Iron Head or cripple it with Knock Off. Memento can be used as a last resort to provide an opportunity for a teammate to switch in and either boost or hit something hard. It can also be a handy bluff in tandem with Hidden Power Fighting, luring in Pawniard and hitting it quite hard. Taunt is good for preventing opposing Pokemon from setting entry hazards, crippling Cottonee with status or blocking an incoming Taunt.
+Dazzling Gleam is an excellent STAB move, hitting Fighting- and Dark-types quite hard. Giga Drain allows Cottonee to check Water- and Ground-types, such as Seel and Drilbur, respectively, much better and provides it with some much-needed healing. Hidden Power Fighting prevents Pawniard from getting a free switch-in, OHKOing non-Eviolite Pawniard and OHKOing standard Eviolite Pawniard after a Dazzling Gleam. Encore is a must on any Cottonee set, as it allows Cottonee to lock the foe into a non-damaging move and force a switch. Memento is useful to heavily cripple the foe and provide a teammate with a setup opportunity. Stun Spore lets Cottonee paralyze and cripple common switch-ins. Taunt prevents the foe from setting up entry hazards, using a status move, or setting up.
 
 Set Details
 ========
 
-The EVs allow Cottonee to still retain some bulk, while focusing mostly on Speed in order to outspeed and use Encore on Fletchling as it attempts to set up as well as Speed tie with potent 17 Speed Pokemon, such as Mienfoo and Drilbur. A Timid nature allows Cottonee to hit 17 Speed and still retain an offensive presence. Eviolite is the premier item for bulkier Pokemon.
+The EVs and nature let Cottonee hit 17 Speed, allowing it to outspeed standard Eviolite Pawniard and hit it hard with Hidden Power Fighting. This also allows it to Encore certain priority users, such as Fletchling, without worrying about Acrobatics. The remaining EVs go in Special Attack to increase its damage output and Special Defense so that it hits even numbers for Eviolite. Prankster gives Encore, Memento, Stun Spore, and Taunt priority.
 
 Usage Tips
 ========
 
-Fast Cottonee's main use is switching into a predicted set up move or resisted move and proceeding to Encore, effectively shutting down the opposing Pokemon (e.g. Encoring Fletchling's Swords Dance). Cottonee can also be a potent late-game threat, when its 17 Speed can be utilized efficiently to pick off weakened threats and clean up.
+Prankster Encore allows Cottonee to come in on a setup move or a resisted hit and lock the foe into it. Cottonee's 17 Speed gives it good revenge killing potential. With some prior damage, Cottonee can outspeed and KO several Fighting-types with Dazzling Gleam, Pawniard with Hidden Power Fighting, and Water-types such as Chinchou if Cottonee runs Giga Drain. Despite this set's offensive nature, Cottonee is still an effective team supporter thanks to Prankster and moves such as Memento and Stun Spore.
 
 Team Options
 ========
 
-Due to the lack of bulk on this set compared to others, Cottonee truly appreciates teammates that can take Fire-, Flying-, Poison-, and Ice-type attacks. Cottonee's Encore is useful throughout the match, so having a source of entry hazard removal can be beneficial to ensure Cottonee's longevity.
-
-SubSeed
-########
-name: SubSeed
-move 1: Encore
-move 2: Leech Seed
-move 3: Substitute / Protect
-move 4: Protect / Stun Spore / Taunt / Memento
-ability: Prankster
-item: Eviolite / Leftovers
-evs: 116 HP / 196 Def / 196 SpD
-nature: Bold
-
-Moves
-========
-
-Due to Cottonee's Prankster ability, Encore is a fantastic move choice, as it allows Cottonee to set up a Substitute and begin stalling with Leech Seed. Leech Seed allows it to gain health while also whittling down any opposing non-Grass-type Pokemon. It can also be pseudo-recovery for other teammates that may switch in. Substitute allows Cottonee to be as annoying as possible and functions nicely with two turns of Leech Seed recovery making up for one Substitute. This effectively enables Cottonee to set up Substitute 7-8 times if the enemy is constantly breaking through them. Protect can be used instead, as it doesn't whittle Cottonee's health down; however, using Protect makes Cottonee more vulnerable to continued attacks, and Protect cannot reliably knock down the foe's health every turn due to its chance to fail if used in succession. Stun Spore can be used to spread paralysis throughout the opponent's team, but the nerf to powder moves has resulted in better options for this moveslot. Taunt can be used to stop setup sweepers or leads from setting entry hazards. Memento can be used as a last resort move, dealing a final blow to the opponent's active Pokemon, allowing ample time for a capable sweeper to boost.
-
-Set Details
-========
-
-The EV spread hits Eviolite numbers and allows Cottonee to have excellent bulk. Leftovers is a gimmicky option compared to Eviolite but provides Cottonee with constant recovery, allowing for more Substitutes than normal. Berry Juice can be used instead and functions nicely with Substitute. Prankster allows Cottonee to function superbly as a support Pokemon, granting all of its non-attacking moves +1 priority.
-
-Usage Tips
-========
-
-Cottonee should be used mainly to annoy the opponent and can be viewed as a wallbreaker of sorts. It can gradually wear down an opponent's team with Leech Seed, allowing for an ally to sweep later. Cottonee should Encore a setup or resisted move and proceed to set up a Substitute and Leech Seed. If Fletchling is present on an opponent's team, it is best to eliminate it first before attempting to Leech Seed stall. The same applies to opposing Grass-types and Pokemon with abilities that make them immune to Grass-type attacks (e.g. Sap Sipper).
-
-Team Options
-========
-
-Pokemon that can switch into Fletchling are the most ideal partners; Pokemon such as Archen, Chinchou, and Tirtouga are all prime examples. A Pokemon that can eliminate Grass-types is also quite handy. Fletchling and Vullaby work nicely thanks to their priority Acrobatics and immunity to powder-based moves by way of Overcoat, respectively. Pokemon that can capitalize on gradually weakened teams, such as Moxie Scraggy, are great as well, as the sweeper will not only appreciate the wear-and-tear of the opponent's team, but also enjoy the pseudo-recovery from Leech Seed.
+Cottonee works well with teammates that can cover its weaknesses. Pawniard, for example, covers Cottonee's weaknesses to Flying, Poison, Ice, and Steel, while Cottonee in turn covers Pawniard's weaknesses to Fighting and Ground. Cottonee will likely be doing a good bit of switching in and out throughout the match, so entry hazard removal is beneficial to ensure it doesn't get worn down. Archen provides Defog support and does a particularly good job covering Cottonee's weaknesses, resisting Fire, Flying, and Poison, while Cottonee in turn covers Archen's Electric and Water weaknesses. Fire-types such as Ponyta and Larvesta make for good partners, as they can easily handle Grass- and Steel-types for Cottonee. If running Memento, a setup sweeper such as Zigzagoon makes for a good partner to take advantage of the setup opportunity.
 
 Other Options
 ########
 
-Although Stun Spore is usually the better status option, Toxic allows for some more stall-oriented options. Switcheroo can be used with Choice items or a Flame Orb to dismantle an opponent's team in a pinch. Thanks to its Prankster ability, Cottonee is a reliable setter of Sunny Day, allowing ally Pokemon such as Bellsprout to sweep. It also allows Cottonee to retain some form of offensive presence with options such as Solar Beam and Hidden Power Fire. Tailwind can be used similarly to Memento, allowing teammates to possibly sweep. Cotton Guard is an option so as to further increase Cottonee's Defense stat. Cotton Spore slows down the enemy, but Stun Spore can usually fulfill this duty more effectively. Tickle, Confide, and Fake Tears lower the foe's offensive and defensive stats, which can lead to some shenanigans when utilized in tandem with potent sweepers. Nature Power is essentially a priority Tri Attack thanks to Prankster, which can help to finish up weakened threats, notably Fletchling. An offensive Life Orb set can be fun, but Cottonee is too weak to effectively utilize a purely offensive set. Choice Specs can be used successfully in tandem with a few different moves; it can cripple an opposing wall via Switcheroo or allow Cottonee to fire off potent Nature Powers thanks to the added priority from Prankster.
+Leech Seed is an option to get chip damage and wear down the foe and can be used in tandem with Substitute or Protect to make Cottonee quite difficult to take down. Toxic is an option to wear down bulky foes such as Porygon. Switcheroo can be used alongside a Choice item to cripple an opposing wall permanently. Sunny Day can be used alongside Heat Rock and possibly Solar Beam, but Vulpix is usually a better sun setter. Tailwind is a support option, allowing a slow, powerful teammate a chance to sweep. Grass Whistle is an option to put the target to sleep, but its accuracy is awful. Cotton Guard boosts Cottonee's Defense by three stages, but Cottonee's lack of reliable recovery makes this a subpar option. Tickle, Fake Tears, and Cotton Spore are all options to lower a foe's stats, providing setup opportunities for teammates; however, this is usually done better by Memento to keep momentum on your team's side. Nature Power gets priority thanks to Prankster and can be used on the offensive set to pick off weakened priority users such as Fletchling. Life Orb is an option on the offensive set for additional power, but Eviolite's boost to defenses is usually preferred.
 
 Checks and Counters
 ########
 
-**Grass-types**: Foongus, Ferroseed, and Snover can all come in undisturbed and hit Cottonee with a super effective move. They are immune to Cottonee's Stun Spore and Leech Seed, and all three threaten Cottonee with their respective STAB moves.
+**Grass-types**: Grass-types such as Ferroseed and Foongus resist Cottonee's STAB combination, are immune to Stun Spore and Leech Seed, and can threaten to KO Cottonee with their Steel-type and Poison-type attacks, respectively.
 
-**Poison-types**: Grimer, Trubbish, and Foongus can all OHKO Cottonee with their super effective STAB moves, and usually do not mind anything Cottonee can do to them.
+**Flying-types**: Fletchling can deal heavy damage with Acrobatics, although it doesn't particularly enjoy switching into Stun Spore. Vullaby is immune to Stun Spore and can threaten Cottonee with Brave Bird, but it will take a good chunk of damage if it switches into Dazzling Gleam.
 
-**Steel-types**: Pokemon such as Pawniard and Magnemite can almost always beat Cottonee one-on-one. Magnemite is immune to Stun Spore and hits hard with Flash Cannon; however, it needs to watch out for Knock Off. Pawniard is a huge threat due to its ability, Defiant, which actually boosts its Attack stat when it is hit with Memento, effectively neutralizing any support Cottonee attempts to provide its team when fainting itself.
+**Poison-types**: Poison-types such as Gastly, Trubbish, and Stunky can easily force Cottonee out with their STAB attacks.
 
-**Flying-types**: Fletchling can come in on any move, and usually doesn't mind a Stun Spore, as it outspeeds everything notable with priority Acrobatics. Vullaby is immune to all of Cottonee's powder-related moves thanks to Overcoat and takes very little from an uninvested Dazzling Gleam.
+**Steel-types**: Steel-types such as Pawniard and Magnemite fare quite well against Cottonee and can hit it hard with their Steel-type attacks. Pawniard gains a boost from Cottonee's Memento thanks to Defiant, and Magnemite is immune to Stun Spore thanks to its Electric typing.
 
-**Fire-types**: Fire-types resist both of Cottonee's STAB moves and can heavily damage it in return with their own STAB moves, but they still don't appreciate a Stun Spore.
+**Fire-types**: Fire-types such as Ponyta and Larvesta resist Cottonee's STAB combination and can threaten Cottonee with Flare Blitz, though they don't enjoy switching into Stun Spore. Larvesta can also opt to use U-turn and gain further momentum if Cottonee switches out.
 
-**Utility Counters**: Any Pokemon that can use Taunt or Encore to shut down Cottonee is a big threat and can prevent Cottonee from being able to both support its team and cripple the opponent's team.
-
-**Natu**: Natu can completely nullify most of Cottonee's crucial status moves with Magic Bounce.
-
-**Abra**: Abra is immune to any passive damage and can hit extremely hard with Psychic; however, it still needs to watch out for Knock Off when switching in.
+**Spritzee**: Spritzee is too bulky for Cottonee to KO, doesn't mind Stun Spore thanks to Aromatherapy, and can't be Encored thanks to Aroma Veil.

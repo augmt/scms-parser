@@ -1,25 +1,83 @@
-Specially Defensive
+Overview
 ########
-name: Specially Defensive
-move 1: Seismic Toss
-move 2: Protect
-move 3: Toxic / Thunder Wave
-move 4: Stealth Rock
-item: Leftovers
-evs: 252 HP / 4 Def / 252 SpD
-nature: Calm
 
-This is a sample set while we are currently working on analyses in the workshop.
+Registeel boasts a pure Steel typing, which is incredible in the metagame due to its resistances to Steel-, Rock-, Dragon-, Grass-, Psychic-, Flying-, and Poison-type moves, making it a reliable check to top tier Pokemon such as Escavalier, Tyrantrum, Magneton, Abomasnow, and Cincinno. Registeel can also check some Psychic-types such as Delphox and Meloetta when they are locked into the wrong move. In addition to that, it has 80 HP as well as 150 Defense and Special Defense, which makes it incredibly bulky, but sadly it lacks recovery outside of Rest. Unfortunately, it faces severe competition from Bronzong as a defensive Steel-type, which also has access to Stealth Rock and Levitate, a higher offensive presence, and is neutral to Fighting-type moves. On the other hand, Registeel isn't weak to Knock Off or Pursuit, has much better bulk, and has Thunder Wave to cripple faster Pokemon severely. Registeel also has access to Curse, which makes it a fantastic sweeper to have for balance or semi-stall teams, being able to easily check Pokemon such as Substitute + Calm Mind Cresselia and Choice Specs Meloetta. Finally, unless it carries Curse, it can be setup fodder for Pokemon such as Substitute + Calm Mind Meloetta and Bulk Up Braviary.
 
 Curse
 ########
 name: Curse
 move 1: Curse
-move 2: Iron Head
-move 3: Rest
-move 4: Sleep Talk
+move 2: Rest
+move 3: Sleep Talk / Toxic
+move 4: Iron Head
+ability: Clear Body
 item: Leftovers
 evs: 252 HP / 4 Def / 252 SpD
 nature: Careful
 
-This is a sample set while we are currently working on analyses in the workshop.
+Moves
+========
+
+Curse is used to boost both Defense and Attack at once while lowering Speed, which doesn't really matter since Registeel is naturally slow anyway. Rest is Registeel's primary and only method of recovery, and Sleep Talk is used to not give foes free turns while Registeel is resting. Iron Head is the only viable STAB attacking option Registeel has. Toxic is also usable over Sleep Talk, as it helps with PP stalling and forcing out Pokemon such as Quagsire and Alomomola while making Registeel much less dependent on Toxic Spikes. However, this also makes Registeel much more vulnerable while Resting.
+
+Set Details
+========
+
+Registeel uses Curse to boost Defense, so maximizing HP and Special Defense is better to allow it to check special attacking threats better, most notably Meloetta and Magneton. Leftovers is a staple on all defensive Pokemon, and Registeel is no different.
+
+Usage Tips
+========
+Bring Registeel in on Pokemon that it walls, such as Cincinno, Alomomola, Bronzong, Aromatisse, Golbat running Toxic, or any special attacker or wall with no super effective move or Taunt, and start setting up for a sweep. Curse allows Registeel to act as an exceptional set up sweeper for balanced or stall-oriented teams, especially because it can outlast all Calm Mind Psychic-type boosters that threaten stall teams. For that reason, it should only be brought in when all its checks and counters have at least been eliminated or weakened enough so that it can successfully sweep. It can also be used to check the Pokemon it normally does throughout the match, as it can easily use Rest and regain all its health back whenever it needs to.
+
+Team Options
+========
+
+Because this set lacks Thunder Wave and potentially Toxic, it can possibly give a free switch to anything that resists Iron Head and can hurt Registeel hard, which is pretty much all Fire- and Ground-types. For that reason, Pokemon that can counter them are good teammates for Registeel. Lanturn is a good partner, as it can counter Moltres and has STAB Scald to threaten Fire- and Ground-types despite its shared weakness with Registeel to Ground. Additionally, it has Heal Bell, which can help Registeel to not be forced to use Rest when it's statused, or wake it up if need be. Specially defensive Alomomola can also handle both Ground-types and Moltres rather well while being able to provide Wish support. Same goes for Slowking, and even though it doesn't learn Wish, it has a much stronger offensive presence. Aromatisse can also use Aromatherapy to get rid of Rest if Registeel is sleeping and has switched out, and it can also has great defensive synergy with Registeel, being able to cover a Fighting weakness. Toxic Spikes can be quite helpful to Registeel for putting a timer on opposing Pokemon as Registeel sets up and breaking Pokemon such as Alomomola and Quagsire, allowing for Registeel to have an easier time; Weezing and Drapion can both set up Toxic Spikes, although Drapion's weakness to Ground can be quite troublesome. Finally, both Moltres and Golbat are decent checks to Sawk and Pangoro, which can threaten Registeel quite a bit, and the latter can also support the team with Defog.
+
+Specially Defensive
+########
+name: Specially Defensive
+move 1: Stealth Rock
+move 2: Toxic / Thunder Wave
+move 3: Seismic Toss
+move 4: Protect
+ability: Clear Body
+item: Leftovers
+evs: 252 HP / 4 Def / 252 SpD
+nature: Calm
+
+Moves
+========
+
+Stealth Rock is used because it's an essential entry hazard in the RU tier, and Registeel is an excellent setter. Toxic can cripple walls such as Slowking, Alomomola, and Quagsire, as otherwise Registeel can't hurt them much with Seismic Toss seeing as they all have some sort of reliable recovery. Thunder Wave can be used to disturb some offensive teams by spreading around paralysis, something Bronzong can't do, although having Thunder Wave can be counterproductive if you would rather poison the opposing Pokemon. Seismic Toss is used to make up for Registeel's poor attacking stat by dealing consistent damage. On the last slot Protect is good to scout for moves or Choice-locked Pokemon, and it can also work in tandem with Toxic to stall out opposing Pokemon, as well as draining PP from moves such as Fire Blast and Focus Blast throughout the match. Another benefit is that it can mess up Pokemon that rely on High Jump Kick, such as Hitmonlee and Medicham. Finally, Iron Head could be used alongside Thunder Wave for the paraflinch chance, but because of Registeel's non-existent offensive presence, Seismic Toss's consistent damage is preferred.
+
+Set Details
+========
+
+A specially defensive spread allows Registeel to check a lot of special attackers, including Magneton and Meloetta. A Calm nature is used to minimize Foul Play damage, but if Iron Head is used on the set then Careful is better to not reduce Attack. Leftovers is a staple on most defensive Pokemon, and it's used for passive recovery.
+
+Usage Tips
+========
+
+Use this Registeel to check special attackers such as Eelektross, Magneton, Meloetta, and other Pokemon such as Mega Abomasnow and Mega Glalie, provided the former three don't carry Focus Blast and the latter two don't carry Earthquake, although Registeel can take those hits relatively well if it absolutely has to. Thunder Wave neutralizes faster threats, while Toxic wears down defensive threats such as Alomomola, so the choice between them comes down to your preference. Stealth Rock can be used whenever you need it and get a chance to set them up; be it early-, mid-, or late-game. Finally, use Protect to scout for a move that could potentially be dangerous to Registeel or to scout Choice-locked Pokemon, but be careful because some people can predict a Protect, particularly after it's first been revealed, and take advantage of it either by switching out or setting up.
+
+Team Options
+========
+
+Wish support is nearly mandatory, as otherwise Registeel will go down to repeated attacks from the likes of Mega Glalie and Meloetta. Alomomola and Aromatisse, the latter of which has excellent defensive synergy and access to Heal Bell, are excellent choices. Switch-ins to Fighting-types such as Sawk are appreciated; Pokemon such as Golbat and Slowking can fill this role. Likewise, Pokemon such as Lanturn, Slowking, and specially defensive Alomomola that are switch-ins to Fire-types are solid options to cover Registeel's weaknesses. This set is set-up fodder for bulky sweepers such as Substitute + Calm Mind Meloetta and Substitute + Bulk Up Braviary, so pairing it with a phazer or a counter to those threats is good for Registeel. Rhyperior can phaze both with Roar while hard countering Braviary, although it stacks Fighting- and Ground-type weaknesses. Drapion can also use Whirlwind and set Toxic Spikes to wear down threats, although if Registeel runs Thunder Wave the status effects may not be beneficial.
+
+Other Options
+########
+
+Registeel can use a physically defensive spread with maximum HP and Defense investment with either and a Bold or Impish nature depending on the set, but it's typing is better suited to walling special attackers rather than physical ones, due to its weakness to many physical moves such as Close Combat, High Jump Kick, and Earthquake, which are very common in RU. There are some moves Registeel can run, but they're all sub-optimal at best and niche. Earthquake can be used to annoy Doublade, as it would usually be able to counter Registeel effortlessly. Block can be used to trap some Pokemon and stall them out with Toxic or paraflinch, or allow Registeel to potentially set up with Curse, but it generally has no place for that on any of its sets. Finally, the most viable of all its options is Counter, which can take some Pokemon such as Cobalion by surprise.
+
+Checks & Counters
+########
+
+**Ground-types**: Ground-types are immune to Thunder Wave and usually carry Earthquake. Rhyperior only dislikes the potential Toxic and can 2HKO with Earthquake, and the same goes to Sandslash, Quagsire, and Steelix, except they aren't able to 2HKO Registeel. Barring Steelix, they all dislike Toxic. Additionally, Dugtrio can trap and 2HKO with Earthquake. Lastly, Mega Camerupt is immune to Thunder Wave (but its slow already), has two super effective STAB moves, and can take advantage of Registeel to set up Stealth Rock or spread burns with Will-O-Wisp.
+
+**Fighting-types**: Fighting-types such as Hitmonlee and Sawk can OHKO specially defensive variants but must be wary of Thunder Wave. They also can't OHKO +1 defense Registeel. Cobalion can Taunt any Thunder Wave attempts or to prevent setup with Curse, and it has Close Combat to KO Registeel. Finally, Pangoro can set up Swords Dance or attack with a Choice Band Superpower.
+
+**Fire-types**: While they are unable to OHKO Registeel, all Fire-types except Fletchinder can take on Registeel rather well, only hating Thunder Wave. Mega Camerupt is immune to Thunder Wave, however, and is easily able to 2HKO Registeel. Moltres dislikes Thunder Wave but can also 2HKO; same goes to Houndoom and Emboar.
+
+**Miscellaneous**: Substitute + Bulk Up Braviary and Substitute + Calm Mind Meloetta/Cresselia, as well as Calm Mind Reuniclus can capitalize on the specially defensive set and use it as setup fodder. Registeel fails to break their Substitutes with Seismic Toss, and they can eventually beat it despite it being a slow process. Doublade is immune to Toxic and Seismic Toss, doesn't mind Thunder Wave as much, takes pitiful damage from Iron Head even at +6, and it can set up Swords Dance itself then beat Registeel with either repeated Shadow Claws or Sacred Sword. Stallbreaker Jellicent also easily beats Registeel by wearing it down with repeated hits and preventing recovery with Taunt, although it needs to watch out for Toxic on the switch. Thanks to Registeel's lack of recovery outside of Rest, it can be offensively pressured by the Pokemon it's supposed to check due to switching in too much. Focus Blast from Tangrowth can do a large amount of damage, and Eelektross' Flamethrower can do up to 33%.

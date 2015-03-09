@@ -1,100 +1,86 @@
 Overview
 ########
+Possessing a blistering 180 Attack and Special Attack, combined with a high base 150 Speed and one of the most powerful STAB moves in the game, Deoxys-A is no slouch in the Ubers metagame. Thanks to its expansive movepool, it is able to hit almost every Pokémon in the tier like a truck. Offense isn't the only thing Deoxys-A can do; it has the ability to function as a great lead, which can lead to some very interesting mind games with the opponent during Team Preview, and it's also capable of putting in work against all playstyles.
 
-No other Pokemon epitomizes "kill or be killed" quite like Deoxys-A. Boasting insane offenses, an expansive movepool, and a blazing fast base 150 Speed stat that puts it ahead of most of the metagame, Deoxys-A is nearly unmatched in its ability to tear gaping holes in the enemy team. Deoxys-A can even act as solid offensive support lead by laying down Stealth Rock and Spikes while heavily damaging any Defog or Rapid Spin user attempting to come in. However, while Deoxys-A is extremely efficient at knocking out its foes, it is just as easily knocked out due to its nonexistent defenses, leaving Deoxys-A easily revenge killed by priority attacks and Choice Scarf users. Deoxys-A's terrible bulk also makes getting it into battle difficult without help from its teammates. These faults aside, play Deoxys-A to its strengths and few things will be able to stand in its way.
+However, there are a few things holding Deoxys-A back from outright destroying the metagame. First, one would have to use an electron microscope to be able to see its defenses, meaning almost any move the opponent uses is sure to OHKO it. Second, even though its movepool is expansive, Deoxys-A cannot run everything at once, and it will miss out on something that it could have gained were it to run another move. And, thanks to Mega Evolutions that have Magic Bounce, Deoxys-A's lead role is somewhat diminished.
 
-Life Orb
+All-Out Attacker
 ########
-name: Life Orb
+name: All-Out Attacker
 move 1: Psycho Boost
-move 2: Low Kick / Superpower
+move 2: Superpower / Low Kick
 move 3: Knock Off / Ice Beam
-move 4: Extreme Speed / Hidden Power Fire
-item: Life Orb
-evs: 4 Atk / 252 SpA / 252 Spe
+move 4: Extreme Speed / Knock Off / Hidden Power Fire
+ability: Pressure
+item: Life Orb / Focus Sash
+evs: 68 Atk / 252 SpA / 188 Spe
 nature: Naive / Rash
 
 Moves
 ========
-
-Psycho Boost is the main event, packing such insane power that it enables Deoxys-A to OHKO Palkia and Xerneas without needing any prior damage. It also OHKOes Kyogre after Stealth Rock damage and takes about 70% off Ho-Oh and max HP Arceus. Low Kick complements Psycho Boost nicely by destroying Psychic resistant Pokemon such as Dialga, Heatran, Tyranitar, Ferrothorn, and Darkrai. It also nails Blissey for a 2HKO. Superpower can also be used since it OHKOes Blissey and does more damage to lighter targets such as Jirachi and Klefki. Low Kick is generally superior since it hits for 120 BP against most Ubers and the Attack drop from Superpower weakens Deoxys-A's physical coverage moves; however, feel free to run Superpower if Deoxys-A is running mostly special attacks instead.
-
-The last two moves should be chosen based on what Deoxys-A needs to cover for its teammates. Knock Off KOes Aegislash after switching once into Psycho Boost and destroys Jirachi and Bronzong. Knock Off also does a solid amount of damage to Lugia and Giratina and reduces their survivability later in the match by removing their Leftovers. Ice Beam is also a good option as it annihilates Yveltal switch-ins and provides for more consistent damage against Lugia and Giratina, and it also allows Deoxys-A to OHKO Groudon and Landorus-T without burning out its Special Attack by using Psycho Boost, which can make cleaning easier. For the last moveslot, Extreme Speed allows Deoxys-A to pick off weakened Choice Scarf and priority users, and it can allow Deoxys-A to revenge kill weakened sweepers such as Blaziken and Geomancy Xerneas in an emergency. Extreme Speed will also make Sucker Punch fail due to its higher priority, which can potentially allow Deoxys-A to win against weakened Yveltal with some prediction. Hidden Power Fire nails Mega Scizor for an OHKO, which can force Deoxys-A into a checkmate position with Bullet Punch and/or Pursuit. Deoxys-A can also use Ice Beam in the last moveslot if Extreme Speed or Hidden Power Fire is not necessary.
+Equipped with a Life Orb and four offensive moves, Deoxys-A becomes the epitome of mass destruction. Its main STAB move, Psycho Boost, puts a major dent into every Pokémon that isn't a Dark-, Psychic-, or Steel-type. Superpower handles many of the Pokémon in the tier that Psycho Boost cannot, and deals considerable damage to Klefki, but causes an Attack and Defense drop as well. Low Kick can be used as an alternative to Superpower if the stat drop is worrisome, hitting many of the Pokémon in the tier with 120 Base Power. Knock Off is a great move that hits Psychic-types hard and cripples any Pokémon that heavily relies on an item to succeed; specifically, specially defensive Giratina, Latios and Latias, and Lugia. Ice Beam can be used to handle many of the Flying- and Dragon-types in the tier, most notably Yveltal and Mega Salamence.
+There are a number of options for the last move. Extreme Speed is a great priority move to finish off weakened foes, and, combined with Psycho Boost, is able to achieve some nice KOs on many threatening Pokémon. Knock Off is another option that can be used in the last slot if not already on the moveset. Hidden Power Fire is also helpful for dealing with Mega Scizor, Ferrothorn, and Forretress, although it does sacrifice a little power and lowers Deoxys-A's Speed IV. Dark Pulse works off of its higher Special Attack stat (after factoring in EVs), getting more consistent damage and a chance to make the opponent flinch, but it offers less utility than Knock Off and should not be used in conjunction with it. Fire Punch is good for dealing more overall damage than Hidden Power Fire, but it does not achieve an OHKO on Mega Scizor and Forretress.
 
 Set Details
 ========
+As this is an all-out attacking set, the natural item of choice is the Life Orb, boosting all of Deoxys-A's attacks and making it that much more powerful. However, if survival for more than one turn is necessary, then Focus Sash is a viable alternative. Focus Sash also enables Deoxys-A to carry out a lead role, or potentially bluff a lead set if opting to save it for later. The choice of nature is up to the user: a Naive nature makes Deoxys-A faster and able to outspeed more Choice Scarf users, while Rash can be used instead to give it an edge in power. It is also recommended to use Naive over Hasty and Rash over Mild as to enable Deoxys to survive more than one Rapid Spin, and there aren't any special attacks that don't outright OHKO it anyway.
 
-Deoxys-A should always fully invest in Speed and Special Attack to hit as hard as possible. Investing in bulk is pointless as even relatively weak neutral hits will still KO Deoxys-A. A Naive nature is preferred as it allows Deoxys-A to outspeed neutral base 90 Speed Pokemon using Choice Scarf and Mega Mewtwo Y; however, a Rash nature gives Psycho Boost more punch while still allowing Deoxys-A to outspeed Mewtwo and Mega Gengar. Life Orb is the preferred item, allowing Deoxys-A to hit as hard as possible. Focus Sash can also work if using this set as a lead since it guarantees Deoxys-A will survive one attack.
+In terms of EVs, the recommended spread is 68 Atk / 252 SpA / 188 Spe to make Deoxys-A able to outspeed everything up to and including Choice Scarf Xerneas with a neutral nature, while simultaneously providing Psycho Boost as much of a damage output as it is capable of achieving, and giving an extra edge to Deoxys-A's physical moves. An alternate spread for a Naive nature is maximized Special Attack and Speed, with the last four EVs dumped into Attack; this spread can be used to get a Speed tie with opposing Deoxys-A running maximal Speed investment, but other than that it doesn't have much practical use.
 
 Usage Tips
 ========
-
-Deoxys-A works best on offensive teams in need of a fast, strong wallbreaker. However, switching Deoxys-A into battle is difficult due to its frailty. Try to bring Deoxys-A in on free switches generated by U-turn or Volt Switch, double switching it in, or on non-damaging moves such as Defog. Deoxys-A can also be used as a lead or brought in after one of its teammates has been KOed. Once in, use the appropriate coverage move for what the opponent might switch in to counter Deoxys-A. If the opponent does not have any Dark-types or Blissey, don't be afraid to click Psycho Boost, as even resistances will take heavy damage.
+Deoxys-A is best used as a sweeper or late-game cleaner on offensive teams in need of a strong attacker. Send out teammates to weaken opposing threats, then bring out Deoxys-A to KO the rest with Psycho Boost or the appropriate move. Even though Deoxys-A's field time is short, it is not advisable to send it out into damaging weather, entry hazards, or when an opponent is expected to inflict a status condition, especially if holding a Focus Sash. It is also recommended to take care of its checks and counters before sending it out, or Deoxys-A will not be able to do anything useful in the battle.
 
 Team Options
 ========
+Deoxys-A does not need much team support, as it has enough power by itself, and it can usually accomplish its task before being easily KOed. Variants without Hidden Power Fire will be at a loss when facing Pursuit Scizor, and in such an instance, having Hidden Power Fire Mega Gengar as a teammate is recommended. When running Focus Sash, a Defogger such as Latios, Latias, Giratina, or support Arceus is a good idea, but Deoxys-A is usually played as a lead in this case. Damaging weather, although quite uncommon, and status conditions severely inhibit Deoxys-A's lifespan and offensive ability. For this reason, Primal Groudon is a great teammate, removing weather on the switch and absorbing Will-O-Wisp and Thunder Wave. Pokémon with Magic Bounce, such as Mega Diancie and Mega Sableye, are also helpful in bouncing back status conditions. Deoxys-A also needs to be able to battle without having to worry about its checks and counters. Therefore, Pokémon capable of handling Extreme Killer Arceus and Xerneas, such as Yveltal and Mega Scizor, respectively, are good options to consider.
 
-The best support Deoxys-A can have is U-turn and/or Volt Switch: these moves will help  get it into battle to start abusing its nuclear offenses. Landorus-T, Scizor, Zekrom, Forretress, and Thundurus are excellent users of these moves. Aside from that, having switch-ins to common Choice Scarf users and priority attackers is great as nearly all of them will KO Deoxys-A easily. Fairy-types such as Xerneas can handle Yveltal, a particularly threatening foe since it is immune to Deoxys-A's Psycho Boost. Bulky Arceus formes with Will-O-Wisp can check Swords Dance Arceus, Mega Kangaskhan, Giratina-O, and Rayquaza decently. Fire-type Pokemon and Dialga are great options for handling Scizor and Aegislash. Common Choice Scarf users include Kyogre and Zekrom; Palkia can check the former while Ground-types such as Groudon and Landorus-T can handle the latter. Wobbuffet can also easily trap and KO most Choice Scarf users thanks to Shadow Tag.
-
-Offensively, Deoxys-A pairs well with most sweepers since it excels at breaking walls. Geomancy Xerneas is a particularly good partner since it can potentially set up on Yveltal and appreciates Deoxys-A's tendency to lure in and heavily damage its checks. Blaziken is also a decent partner since it can set up on bulky Steel-types such as Scizor and Aegislash and sweep easily once Ho-Oh, Giratina, or Lugia have been weakened.
-
-Sash Lead
+Suicide Lead
 ########
-name: Sash Lead
+name: Suicide Lead
 move 1: Stealth Rock / Spikes
 move 2: Psycho Boost
 move 3: Knock Off
 move 4: Extreme Speed / Taunt
+ability: Pressure
 item: Focus Sash
 evs: 4 Atk / 252 SpA / 252 Spe
 nature: Naive
 
 Moves
 ========
-
-Deoxys-A's high Speed and ability to force switches with its sheer offensive presence make it a reliable entry hazards lead. Stealth Rock is preferred since it requires only one turn to get up, but Spikes is also a great option if there is already a Stealth Rock user on Deoxys-A's team. Psycho Boost is still a powerful STAB attack that does tons of damage to Defog users such as Arceus if it attempts to anti-lead Deoxys-A. Knock Off followed by Extreme Speed allows Deoxys-A to beat Deoxys-S leads, limiting them to one entry hazard or none if they decide to use Taunt first. Knock Off is also a great disruption move for harassing walls, and it can even remove a Choice Scarf from a faster revenge killer if the opponent attempts to anti-lead Deoxys-A using one. Taunt can also be run over Extreme Speed to shut down Defog attempts at the cost of not being able to counter Deoxys-S leads.
-
-Deoxys-A also has several other coverage moves it can run on this set that all serve specific purposes. Grass Knot severely damages Rock and Water Arceus, two common users of Defog, as well as landing an OHKO on Groudon and hurting Kyogre badly. Hidden Power Fire is useful to destroy Forretress, Defog Scizor, and Skarmory leads. Superpower wrecks Tyranitar and Dialga leads while still doing a large amount of damage to Rock Arceus. Feel free to use one of these moves in the fourth moveslot if it would better suit the team's needs.
+This set aims at exploiting Deoxys-A's high base 150 Speed in order to make an effective lead. The choice of entry hazard is up to the player: Stealth Rock is useful to have on any team, as it is able to damage any and every Pokémon that switches in, while Spikes, although not as universally useful as Stealth Rock, is able to deal more consistent damage to grounded Pokémon, can be set up in multiple layers, and can be used if there is already a Pokémon with Stealth Rock on the team. What sets apart Deoxys-A from most suicide leads is that, after using its high Speed to set up hazards, it can use its even higher offensive stats and STAB Psycho Boost to deal major damage to opponents. Knock Off can be used to cripple opposing Pokémon, and it serves as an anti-lead measure in certain cases. For the final moveslot, Extreme Speed allows Deoxys to get a hit on faster threats before going down, while Taunt can be used to inhibit Pokémon that rely heavily on status moves. Taunt is also useful in stopping early-game Defog attempts and setup opportunities.
 
 Set Details
 ========
-
-Deoxys-A needs to be as fast and powerful as possible so just maximize Speed and Special Attack. Naive is the only recommended nature this time since Deoxys-A needs the extra Speed to lay hazards reliably. Focus Sash guarantees that Deoxys-A can survive one hit; using any other item on this set is not recommended.
+The lead set requires as much Speed as possible, even to the point of creating a Speed tie with opposing Deoxys-A if necessary, so a Naive nature and 252 Speed EVs are optimal. The rest of the EVs are put into Special Attack to increase the damage output from Psycho Boost. As with all suicide leads, a Focus Sash is mandatory to ensure at least one layer of entry hazards is set up.
 
 Usage Tips
 ========
-
-This Deoxys-A set is an excellent lead for hyper offensive teams in need of a reliable entry hazards setter that can also beat Deoxys-S, another very common lead for hyper offense teams. The primary goal is to set up Stealth Rock or Spikes, which Deoxys-A can do easily thanks to its high Speed, so make that the first priority. This set is not terribly hard to use, but if the opponent has a Defog user such as Arceus and sends it in on Deoxys-A, either use Taunt, if Deoxys-A has it, to block Defog or try to hit them with Psycho Boost when they attempt to KO Deoxys-A. This way, when Deoxys-A goes down, you can easily revenge kill their weakened Defog user and preserve your hazards. You can also simply try to set up hazards later with Deoxys-A, but try to do so early in the match to apply as much pressure as possible. It might be worth preserving Deoxys-A in some instances since it is powerful and fast, so it can make a good revenge killer early- or mid-game.
+This set is best used as a lead on offensive and hyper offensive teams. Because Deoxys-A is always going out first, and usually staying out until it gets knocked out, there is really no need to do anything else with it. However, if it is already able to get its entry hazards set up without breaking its Focus Sash, and it could prove useful later, feel free to switch it out. This should only be done sparingly, however, and usually it's best to keep it out until it faints.
 
 Team Options
 ========
-
-Deoxys-A does not require a lot of support since it is the one doing the supporting, so instead pair it with sweepers that make good use of early-game hazards. Geomancy Xerneas is once again a particularly good partner since it punishes attempts to remove hazards later in the match by setting up on most Defog users. Mega Blaziken adores having early-game hazards to break through walls such as Ho-Oh and Lugia, and it can set up on some Defog users such as Scizor and Grass Arceus. Other sweepers such as Swords Dance Arceus and Rock Polish Groudon are also good teammates. Dialga is also a useful teammate since it can heavily pressure most users of Defog with its powerful STAB moves and wide coverage. Dialga can also set up Stealth Rock itself, allowing Deoxys-A to run Spikes.
-
-Although Rapid Spin is rare in the metagame, it is still seen with users such as Excadrill and Cloyster, so having a Ghost-type can be handy to foil it. Mega Gengar, Ghost Arceus, and Giratina-O are solid spinblockers that fit well on hyper offensive teams.
+As this set is a lead that doesn't care about getting knocked out, there isn't any truly obligatory team support. However, it is always useful to have Pokémon that help prevent Deoxys-A's setup from being ruined. There are still plenty of viable Pokémon with access to Rapid Spin, so a Ghost-type such as Mega Gengar or Ghost Arceus is helpful. Primal Groudon is also worth a mention, as its Desolate Land removes opposing weather and its typing grants it an immunity to Will-O-Wisp and Thunder Wave.
 
 Other Options
 ########
-
-Dark Pulse has the same coverage as Knock Off, but deals damage more consistently and has a 20% chance to flinch the enemy, which is somewhat handy given Deoxys-A's high Speed. Thunder Punch hurts Yveltal while doing solid damage to Ho-Oh and Kyogre without resorting to Psycho Boost, but it has little use outside of that. Thunder does the same thing as Thunder Punch with the bonus of hurting Lugia more, but its accuracy outside of rain is unreliable at best. Rock Slide can be used to get a guaranteed OHKO on Ho-Oh. Meteor Mash is available if bulky Fairy-types such as Sylveon and Xerneas are of particular concern. Psyshock is an alternative STAB that reliably 2HKOes Ho-Oh and Blissey, but it lacks the immediate power of Psycho Boost. Zen Headbutt can be used if a physical STAB is desired, but it does not accomplish much that Psycho Boost or Psyshock don't cover. Pursuit is not very strong, but it allows Deoxys-A to trap Mega Gengar which can potentially prevent it from getting a KO on another member of your team. Fire Punch is a physical alternative to Hidden Power Fire that does more damage to Jirachi and Bronzong, but it does not always OHKO bulky Mega Scizor, which is the primary reason to run a Fire-type attack. Ice Punch is a physical alternative to Ice Beam, but does not get any notable KOs Ice Beam fails to accomplish.
+Because Deoxys-A is extremely frail, there is little else it can do besides the aforementioned roles. Magic Coat can provide some utility on the lead set, but Deoxys isn't really afraid of any moves the opponent might throw at it, and it has plenty of attacking options if it ever gets Taunted. Pursuit can also be used to trap Latios and Latias from fleeing safely, although Knock Off has a generally higher Base Power and the added effect of removing an item from the opponent.
 
 Checks & Counters
 ########
+**Psychic-types**: Psychic Arceus, Mewtwo and Mega Mewtwo Y, and Mega Metagross all resist Deoxys-A's STAB and coverage moves with the ability to KO back. They should watch out for Dark Pulse and Knock Off, though, and Metagross can also be knocked out with Hidden Power Fire.
 
-**Psychic Arceus**: Psychic Arceus can handle any attack from Deoxys-A except for Dark Pulse and easily KO it with Judgment. It is the closest thing Deoxys-A has to a true counter.
+**Priority**: Deoxys-A is very susceptible to priority attacks; Extreme Killer Arceus, Steel-type Mega Evolutions, and pretty much any other Pokémon with priority attacks can take it out with relative ease.
 
-**Lugia**: Lugia fears Ice Beam and Knock Off, but it can take any one hit with Multiscale up and KO Deoxys-A with Aeroblast.
+**Prankster**: Klefki can be a big hindrance with Thunder Wave and Toxic. Sableye is a potent anti-lead threat, having access to both Prankster and Magic Bounce simultaneously on the turn it Mega Evolves.
 
-**Yveltal**: Yveltal is immune to Psycho Boost and can bypass Deoxys-A's Speed with Sucker Punch. The only common move Deoxys-A runs that Yveltal fears is Ice Beam, so it is a relatively safe switch-in. Although Sucker Punch can potentially be foiled by Extreme Speed, Yveltal can easily take one and simply KO Deoxys-A with Oblivion Wing if it tries to get cheeky.
+**Residual Damage**: Stealth Rock, status conditions, sandstorm, and hail are all harmful to offensive Deoxys running Focus Sash, slowly chipping away at it while also breaking its Sash.
 
-**Scizor**: Scizor can usually switch in at least once and threat to OHKO Deoxys-A with Bullet Punch or Pursuit it if it tries to flee, putting it in an uncomfortable situation. However, Scizor is OHKOed by Hidden Power Fire and still takes tremendous damage from Psycho Boost, so it needs to be careful.
+**Choice Scarf Users**: Slower threats, when equipped with a Choice Scarf, become much faster and are able to KO Deoxys-A.
 
-**Steel / Psychic type Pokemon**: Jirachi, Bronzong, and Metagross can take anything except a Life Orb boosted Knock Off and KO Deoxys-A easily. Metagross is the best of these since it can use Bullet Punch before Deoxys-A has a chance to use Knock Off.
+**Yveltal**: Bulky Yveltal variants can take any of Deoxys-A's moves bar Ice Beam. Against offensive sets, Yveltal is able to KO with Sucker Punch. Against lead sets, it can use a combo of Toxic or Dark Pulse and Sucker Punch to land a knockout.
 
-**Ghost-types with priority moves**: These make fine revenge killers for Deoxys-A as they are immune to Extreme Speed. Giratina-O, Ghost Arceus, and Aegislash are the best examples.
+**Pursuit**: Although the Pokémon that commonly use Pursuit in Ubers can all be taken out with the appropriate coverage move, Mega Scizor, Tyranitar, Aegislash, and Mega Metagross can all pose a serious threat, being able to knock out Deoxys-A at no cost to them.
 
-**Mega Kangaskhan**: It cannot switch into Deoxys-A directly, but otherwise revenge kills it easily with Fake Out. Parental Bond is particularly annoying as it pierces Focus Sash, allowing Kangaskhan to completely shut down lead Deoxys-A.
-
-**Priority Moves**: Other priority moves in general wreck Deoxys-A. Rayquaza, Genesect, and Arceus are notable examples.
-
-**Choice Scarf**: Anything that is faster than Deoxys-A will easily KO it. Choice Scarf users such as Xerneas, Palkia, and Genesect can easily revenge kill Deoxys-A, but cannot necessarily switch in.
+**Ghost-types**: Not all Ghost-types are able to handle Deoxys-A, but Ghost Arceus, Giratina-O, and Mega Sableye are all unfazed by Knock Off, tank a Psycho Boost (or, in the case of Sableye, have an immunity to it altogether), and KO back.

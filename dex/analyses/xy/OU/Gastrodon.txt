@@ -1,29 +1,29 @@
 Overview
 ########
 
-Gastrodon has a high HP stat and a great defensive typing that leaves it weak to only Grass-type moves. It has reliable recovery in Recover. Its base 92 Special Attack stat is decent for a wall, allowing it to deter opposing Pokemon that try to set up. Its great ability in Storm Drain gives an immunity to Water-type attacks. However, Gastrodon's defenses are only passable. Gastrodon also faces competition from Quagsire, which has Unaware, making it a lot harder for setup sweepers to set up. Gastrodon is also very slow, so it is outsped by most of the tier.
+Gastrodon has a useful niche as a defensive Pokemon in the OU metagame, boasting an excellent defensive typing, decent bulk, a Water immunity due to Storm Drain, and reliable recovery. Due to these traits, it can handle a multitude of common OU threats, including Keldeo, Thundurus, non-Grass Knot Mega Metagross, Mega Manectric, and Rotom-W, and is quite possibly the best answer in existence to powerful Swift Swim users in the rain. Unfortunately, Gastrodon's raw bulk is not exactly outstanding, leaving it unable to tank hits from Pokemon such as Mega Lopunny with even full defensive investment. It also faces some competition with other bulky Ground- and Water-types for a teamslot; though Gastrodon has a unique niche, it can be difficult to justify using it in lieu of other options at times.
 
 Physically Defensive
 ########
 name: Physically Defensive
 move 1: Scald
-move 2: Earth Power / Ice Beam / Earthquake
+move 2: Earthquake / Ice Beam
 move 3: Toxic
 move 4: Recover
 ability: Storm Drain
 item: Leftovers
 evs: 252 HP / 252 Def / 4 SpD
-nature: Bold / Relaxed
+nature: Relaxed / Bold
 
 Moves
 ========
 
-Scald is a Water-type STAB move that has a high chance to burn, which is good for crippling physical threats. Earth Power is a special Ground-type STAB move that hits Pokemon such as Mega Charizard X and Keldeo for good damage. Ice Beam hits Landorus, Dragonite, and Garchomp decently hard. Earthquake serves the same purpose as Earth Power and also derails Calm Mind users. Toxic is ideal for a wall like Gastrodon, as it slowly wears at the opponent's Pokemon. Recover is reliable recovery, and it helps rack up Toxic damage. Counter is an option as Gastrodon takes most physical hits very well, so Counter can nab some surprising KOs.
+Scald is a Water-type STAB move that has a high chance to burn, which is good for crippling physical threats. Earthquake is a Ground-type STAB move that hits Pokemon such as Mega Charizard X and Keldeo for good damage; it is preferred over Earth Power because it doesn't have to worry about being unable to break Keldeo's Calm Mind-enhanced Substitutes. Ice Beam hits Landorus, Dragonite, and Garchomp decently hard. Toxic is ideal for a wall like Gastrodon, as it slowly wears at the opponent's Pokemon. Recover is reliable recovery, and it helps rack up Toxic damage. Counter is an option to prevent Gastrodon from being overwhelmed easily by physical attackers, as it can usually tank at least one hit and proceed to net a surprise kill with Counter.
 
 Set Details
 ========
 
-252 HP EVs max out Gastrodon's HP, adding to its bulk, while 252 Defense EVs with a Bold nature max out its Defense to handle threats such as Keldeo. Storm Drain gives an immunity to Water-type attacks, with a situational boost to Special Attack. Leftovers provides passive recovery. A Relaxed nature should be used if Earthquake is being used.
+252 HP EVs max out Gastrodon's HP, adding to its bulk, while 252 Defense EVs with a Relaxed nature max out its Defense to handle threats such as Keldeo. Storm Drain gives an immunity to Water-type attacks, with a situational boost to Special Attack. Leftovers provides passive recovery. A Bold nature should be run if Earthquake is used.
 
 Usage Tips
 ========

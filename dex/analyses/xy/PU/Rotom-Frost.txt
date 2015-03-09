@@ -1,0 +1,86 @@
+Overview
+########
+
+Rotom-F's high Special Attack and almost perfect STAB coverage make it a very effective special attacker in the PU metagame. Its decent Speed and access to Volt Switch make it one of the best Choice Scarf users in the tier, as it can easily gain momentum. Rotom-F's decent natural bulk and useful ability in Levitate grant it a defensive presence that allows it to utilize its decent support options such as Will-O-Wisp and Pain Split. However, its Speed isn't always enough; it is outsped by common Pokemon such as Sneasel and Tauros, and it's the slowest common Choice Scarf user, meaning it is easy to revenge kill. It also has to rely on Blizzard's poor accuracy, which greatly hinders its ability to revenge kill in general and hit Ground-types trying to block its Electric-type moves on the switch. Its Stealth Rock weakness and lack of reliable recovery reduce its longevity and it can be stalled out by special walls it isn't strong enough to break, such as Lickilicky.
+
+Choice Scarf
+########
+name: Choice Scarf
+move 1: Volt Switch
+move 2: Blizzard
+move 3: Thunderbolt
+move 4: Trick / Hidden Power Ice
+ability: Levitate
+item: Choice Scarf
+evs: 4 Def / 252 SpA / 252 Spe
+nature: Timid
+
+Moves
+========
+
+Volt Switch provides momentum on the switches Rotom-F often forces and hits fairly hard. Blizzard provides almost perfect neutral coverage with Rotom-F's Electric-type STAB moves, hitting Grass- and Ground-types for super effective damage, but Rotom-F has to be cautious, as the move has bad accuracy. Thunderbolt provides a stronger, more reliable STAB move that doesn't force Rotom-F out. Trick cripples specially defensive walls and other switch-ins, notably Piloswine, one of the two Pokemon in the tier that resist Rotom-F's dual STAB, as well as slower setup sweepers. Hidden Power Ice can be used as it provides a more accurate Ice-type move that allows Rotom-F to reliably revenge kill weakened threats weak to Ice.
+
+Set Details
+========
+
+Maximum Speed and Special Attack investment with a Timid nature allow Rotom-F to outspeed as many foes and deal as much damage as possible. Choice Scarf allows Rotom-F to outspeed the entire unboosted metagame, making it an effective revenge killer.
+
+Usage Tips
+========
+
+Rotom-F's primary use is as a revenge killer; its high Special Attack and strong STAB moves allow it to revenge kill Pokemon such as Carracosta, Tauros, and Sneasel. Volt Switch is its main move, as it allows it to gain momentum against a Pokemon switching out. It is generally safe to use, as Blizzard usually deters Ground-types from switching in. Rotom-F should be careful about locking itself into Thunderbolt or Hidden Power Ice, as Pokemon that resist them can then use Rotom-F as setup fodder. Trick should be used on switches to bulky Pokemon that wall Rotom-F, such as Lickilicky, but that may not be the best decision if Rotom-F is still needed as a revenge killer. Although it has decent natural bulk, Rotom-F doesn't have the longevity to switch into hits; it is better switched in from other pivots or after a KO.
+
+Team Options
+========
+
+Entry hazard users such as Whirlipede and Roselia make effective teammates because Rotom-F forces many switches, allowing it to rack up hazard and Volt Switch damage. Misdreavus keeps hazards on the field decently, fits well on offensive teams, and is immune to Fighting. Water-types such as Poliwrath have nice synergy with Rotom-F, as they can beat Rock-types, Fire-types, and Piloswine, while Rotom-F can check Grass- and Electric-types. Pelipper and Prinplup are great too for Defog support, which is very important as Rotom-F is weak to Stealth Rock and switches in a lot. U-turn users such as Purugly also make for great partners as they keep up momentum and create a VoltTurn core with Rotom-F.
+
+SubSplit
+########
+name: SubSplit
+move 1: Substitute
+move 2: Blizzard
+move 3: Thunderbolt
+move 4: Pain Split
+ability: Levitate
+item: Life Orb
+evs: 4 Def / 252 SpA / 252 Spe
+nature: Timid
+
+Moves
+========
+
+Substitute is the main move on the set as Rotom-F forces a lot of switches due to the nature of its STAB moves and its likelihood of carrying a Choice item. Behind a Substitute, Rotom-F is protected from potential revenge killers as well as weak walls such as Togetic, which can't even break the Substitute most of the time. It also pairs wonderfully with Pain Split, which helps it beat Pokemon such as Lickilicky. Blizzard is Rotom-F's strongest attack and hits almost everything that doesn't resist it very hard. Thunderbolt has almost perfect coverage with Blizzard, hitting bulky Water-types that can take a Blizzard easily. Pain Split helps Rotom recover HP thanks to its low HP stat and also pressures walls such as Lickilicky into using Wish. Will-O-Wisp can be used over Pain Split, but it has very few targets and Rotom-F is better off attacking most of the time.
+
+Set Details
+========
+
+Maximum Speed and Special Attack investment increase Rotom-F's offensive potential, letting it outspeed as much of the metagame as possible and hit hard. Life Orb gives Rotom-F just enough of an attack boost to allow it to wallbreak.
+
+Usage Tips
+========
+
+Substitute is the primary move to go for, as Rotom-F forces many switches, and Substitute blocks status and weaker moves. Pain Split should be used when Rotom-F is low on health against bulky walls such as Lickilicky. Be careful when using Substitute while getting low on health against stronger Pokemon, as they can pressure Rotom-F, preventing it from using Pain Split. Try to keep Rotom-F's item unrevealed until it is time to attack as it can easily force out Pokemon with the threat of its Choice Scarf set.
+
+Team Options
+========
+
+Entry hazard support is very useful, as Rotom-F forces a lot of switches. Toxic Spikes is especially great support for this set, as it can help stall out defensive Pokemon; the best Pokemon to set it up are Whirlipede and Roselia, which can also set up Spikes, while Stealth Rock support can be provided by Pokemon such as Golem. Misdreavus acts as a spinblocker and also has decent synergy with Rotom-F, being immune to Fighting-type attacks aimed at it. Late-game sweepers such as Tauros and Carracosta appreciate Rotom-F's wallbreaking potential.
+
+Other Options
+########
+
+Choice Specs could be used, as it allows Rotom-F to break through Lickilicky and other bulky special walls, but it makes Rotom-F easy to revenge kill, and Life Orb provides enough of a power boost anyway. Chesto Berry paired with Rest grants Rotom-F a more reliable form of recovery, but once it has used its Berry, Rotom-F is easy to wear down. Hidden Power Fighting hits Piloswine and Rotom-F, the only Pokemon to resist Rotom-F's dual STAB.
+
+Checks & Counters
+########
+
+**Special Walls**: Lickilicky takes any hit from Rotom-F easily and only fears Trick from Choice Scarf variants. Knock Off variants of Lickilicky can outstall SubSplit Rotom-F in the long run and Body Slam variants have a better match up against it. Specially defensive Flareon can also take hits and recover its health, and it has a type advantage against Rotom-F.
+
+**Specially Bulky Pokemon**: Throh, Ninetales, Regice, and Klang can all take several hits and 2HKO Rotom-F back at worst or use it as setup fodder.
+
+**Passive Damage**: Rotom-F is weak to Stealth Rock and prone to Toxic and burns, meaning that sets without Pain Split get worn down really fast.
+
+**Pokemon Immune to Electric**: Although they dislike Blizzard, Ground-types and Lightning Rod users such as Raichu prevent Rotom-F from spamming Thunderbolt and Volt Switch and get a free turn whenever Rotom-F is locked into one of them. Piloswine also resists Blizzard and can wear Rotom down with Icicle Spear, but without Stone Edge it cannot reliably beat SubSplit sets.
+
+**Revenge Killers**: Tauros, Ninetales, Dodrio, and Sneasel all outspeed non-Choice Scarf variants of Rotom-F and can OHKO it or force it out.

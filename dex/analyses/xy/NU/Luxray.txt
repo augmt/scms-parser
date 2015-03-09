@@ -1,13 +1,84 @@
-Choice
+Overview
 ########
-name: Choice
-move 1: Wild Charge
-move 2: Ice Fang
-move 3: Superpower
-move 4: Crunch / Volt Switch
-ability: Guts / Intimidate
-item: Choice Scarf / Choice Band
-evs: 4 HP / 252 Atk / 252 Spe
-nature: Naughty / Naive
 
-This is a sample set while we are currently working on analyses in the workshop.
+Sporting solid bulk especially coupled with Intimidate and pure Electric typing, Luxray can be surprisingly tough to take down. Combine that with very impressive mixed attacking stats and Luxray is very capable of holding its own in NU. However, it's held back by its low Speed and shallow offensive movepool, making it hard to accomplish much outside of pivoting. It also faces heavy competition from other Electric-types in the tier such as Rotom, Raichu, and Electivire, all of which sport better coverage options and higher Speed.
+
+Offensive Pivot
+########
+name: Offensive Pivot
+move 1: Thunderbolt
+move 2: Superpower
+move 3: Hidden Power Grass / Hidden Power Water
+move 4: Volt Switch
+ability: Intimidate
+item: Life Orb / Leftovers
+evs: 4 Atk / 252 SpA / 252 Spe
+nature: Rash
+
+Moves
+========
+
+Thunderbolt is used for its sheer power, being able to OHKO 252 HP Feraligatr and 2HKO many physical walls on the switch. Volt Switch allows Luxray to keep up offensive momentum when predicting a switch, barring against Ground-types. Superpower gives Luxray nice coverage against Steel-types such as Steelix, Klinklang, Probopass, and Ferroseed. Hidden Power Water is used to hit Mega Camerupt, which avoids the 2HKO from Superpower and is immune to Luxray's STAB moves. Hidden Power Grass can be used instead to hit other Pokemon that are immune to Volt Switch, such as Seismitoad and Quagsire. Signal Beam can be used over Volt Switch as a way to deal super effective damage to Psychic- and Grass-types such as Malamar, Ludicolo, and Mesprit. Volt Switch is preferred, however, as it's generally better to simply Volt Switch on their predicted switch and send out an appropriate check.
+
+Set Details
+========
+
+Maximum Speed is used to tie with all other 252 Speed base 70 Pokemon, including important Water-types such as Ludicolo, Poliwrath, and Samurott. Intimidate is used to lessen the damage taken specifically from Feraligatr on the switch and to encourage the foe to switch out. It's also useful for switching into Flying-type attacks from Swellow, Dodrio, and Archeops. Life Orb is used to ensure the OHKO on all variants of Feraligatr, as without Life Orb Luxray will need a lot of prior damage to do so. It also makes up for Luxray's average Special Attack and adds a significant power increase to every attack Luxray throws out. Leftovers can be used to keep Luxray alive longer, as Life Orb recoil and damage from attacks add up quickly. A Naive nature can be used, as it allows Luxray to outrun neutral-natured maximum Speed base 80 Pokemon, such as Mesprit.
+
+Usage Tips
+========
+
+Luxray should generally come in as much as possible against threats such as Feraligatr, as this set's main draw is its ability to beat Feraligatr with offensive pressure combined with Intimidate. Intimidate is a useful ability; if there's a physical attacker that's threatening to sweep, Luxray can be used as death fodder to get off an Intimidate. Additionally, Volt Switch should often be used during free turns, as Hidden Power deters Ground-types such as Steelix, Seismitoad, Quagsire, and Mega Camerupt from coming in. Volt Switch is particularly useful against slower teams, as it builds momentum and can effectively wear down opposing walls throughout the game.
+
+Team Options
+========
+
+Offensive Pokemon that appreciate Luxray's ability to weaken or remove offensive Water-types are great teammates. Such Pokemon include Typhlosion, Pyroar, and Archeops. Audino is also a decent teammate, as it can heal Luxray with Wishes and switch in on many special attacks aimed at Luxray; in return, Luxray's Intimidate weakens physical attackers. Having Pokemon such as Vileplume or Virizion that can deal with Grass- and Ground-type switch-ins is also a good idea.
+
+Guts
+########
+name: Guts
+move 1: Facade
+move 2: Wild Charge
+move 3: Superpower
+move 4: Crunch / Quick Attack
+ability: Guts
+item: Toxic Orb
+evs: 252 Atk / 4 Def / 252 Spe
+nature: Adamant / Jolly
+
+Moves
+========
+
+Facade is the strongest move on this set and is useful for not having to take recoil damage from Wild Charge. It also hits Grass- and Ground-types harder than Ice Fang. Wild Charge is the STAB move on this set, outdamaging Facade versus Pokemon such as Pelipper, Poliwrath, Archeops, and defensive Xatu. Superpower is one of Luxray's best coverage moves, hitting Normal- and Steel-types such as Audino, Lickilicky, Steelix, and Probopass. Crunch prevents Rotom and Golurk from walling the set, and is also useful for hitting bulky Psychic-types such as Mesprit, Musharna, and Uxie harder than its other moves. Quick Attack can be used as a form of priority, allowing Luxray to revenge kill if necessary and finish faster Pokemon that survive one of its powerful attacks.
+
+Set Details
+========
+
+An Adamant nature is used to hit as hard as possible, as Luxray is meant to break down walls. A Jolly nature can be used, as it allows Luxray to outrun neutral-natured maximum Speed base 80 Pokemon, such as Mesprit; however, the drop in power is very noticeable. Guts gives a significant power boost when Luxray has a status condition, and it works well with a status Orb. Toxic Orb is used over Flame Orb, as it's unlikely that Luxray will be staying in for more than four turns at a time, which is the threshold at which Toxic Orb will have done more overall damage than Flame Orb.
+
+Usage Tips
+========
+
+Try to bring Luxray in on a Pokemon it forces out, such as Feraligatr or Prinplup, giving it a free turn to activate its status Orb. Avoid switching Luxray directly into attacks, as between Wild Charge and Toxic Orb it already takes a lot of residual damage. Slow U-turns, Volt Switches, or Baton Passes from Pokemon such as Mesprit, Probopass, or Musharna are very useful for getting Luxray in safely, as this also activates the Toxic Orb for free.
+
+Team Options
+========
+
+Slow Volt Switch or Baton Pass users such as Probopass and Musharna are very helpful, as they can give Luxray a safe switch in to activate its status Orb. Sticky Web support aids Luxray's sweep by slowing down grounded foes, lessening the damage it needs to take before attacking. Healing Wish Mesprit is also a decent teammate, as it can give Luxray another chance to break down walls when it is weakened. Pairing Luxray with Zangoose is also very effective, as they share similar checks and counters and Zangoose appreciates having them worn down. Entry hazard support wears down the opponent's team even more effectively, as Luxray forces a lot of switches. Roselia and Garbodor are decent options for Spikes setters.
+
+Other Options
+########
+
+A Choice Scarf set with Intimidate and Volt Switch is a decent option but should be left to faster Electric-types such as Rotom. A Choice Band set is a possibility, but Luxray would prefer to just use Guts, as it works well with the powerful Facade and allows Luxray to switch moves. A defensive set with RestTalk could be used, but Luxray is outclassed as a defensive Electric-type by Stunfisk, which has access to Stealth Rock, and outclassed as a defensive Pokemon that resists Flying by Steelix and Regirock.
+
+Checks & Counters
+########
+
+**Ground-types**: Bulky Ground-types such as Quagsire, Seismitoad, and Steelix can switch in relatively safely to any of Luxray's attacks, barring Hidden Power Grass in Quagsire and Seismitoad's cases, and threaten to KO back with their STAB moves. Offensive Ground-types, such as Sandslash, can switch in on a predicted STAB attack and threaten to KO the next turn.
+
+**Bulky Grass-types**: Pokemon such as Vileplume, Gourgeist, Virizion, and Tangela can switch into most attacks and shrug off the hit. They can then threaten Luxray offensively or stall it out to rack up status Orb damage.
+
+**Specially Bulky Pokemon**: Specially bulky Pokemon that aren't weak to Superpower, such as Musharna and Mega Audino, can easily switch into Luxray, take any hit, and recover off the damage.
+
+**Faster Attackers**: Various faster Pokemon can come in after a KO and force Luxray out due to its low Speed. 

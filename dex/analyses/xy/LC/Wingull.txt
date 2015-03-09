@@ -1,0 +1,53 @@
+Overview
+########
+
+Wingull is capable of reaching the coveted 19 Speed tier, meaning it can outspeed almost all of its unboosted foes and hit them hard with one of its powerful STAB moves. Although Wingull must rely on Hurricane's shaky accuracy in order to beat the Grass-type foes that resist Scald, this is remedied by the fact that Wingull functions very well in rain, which provides Hurricane with perfect accuracy and increases Scald's power by 50%. Unfortunately, these are the only two significantly powerful options Wingull has access to, meaning it can be walled by specially bulky foes such as Chinchou and Porygon. Wingull is also very frail, and although it resists some common priority attacks such as Mach Punch and Aqua Jet, any Pokemon that can withstand a hit will usually OHKO it in return, especially with its Stealth Rock weakness and Life Orb recoil taken into account. Despite Wingull's flaws, it can be difficult to stop in the rain without a Choice Scarf user, as its decent Special Attack stat and Life Orb mean very few Pokemon can safely switch into it, especially as Wingull is capable of punishing switch-ins with Knock Off and U-turn.
+
+Life Orb
+########
+name: Life Orb
+move 1: Scald
+move 2: Hurricane / Air Slash
+move 3: Knock Off / Hidden Power Grass
+move 4: U-turn
+ability: Rain Dish
+item: Life Orb
+evs: 36 Def / 236 SpA / 236 Spe
+ivs: 18 HP / 30 SpD
+nature: Timid
+
+Moves
+========
+
+Scald is Wingull's most powerful Water-type move, and it hits extremely hard in the rain after Life Orb and STAB are factored in. Hurricane is Wingull's most powerful Flying-type STAB move, and it has perfect accuracy in the rain. However, if Wingull is not being used on a rain team or if Hurricane's accuracy is undesirable outside of rain, Air Slash can be used as a safe alternative, although the loss in power is noticeable. Knock Off and U-tur punish Wingull's switch-ins by either removing their item or escaping from them while gaining momentum by bringing in a teammate able to take them on. Hidden Power Grass allows Wingull to hit Chinchou, Tirtouga, and Omanyte, but it covers little else.
+
+Set Details
+========
+
+With a Timid nature and 236 Speed EVs, Wingull reaches 19 Speed, allowing it to outspeed most other unboosted foes such as Mienfoo and Archen, both of which it can OHKO with Hurricane and Scald, respectively. A Timid nature is chosen over a Hasty or Naive nature, as this prevents Wingull's bulk from being lowered, and U-turn and Knock Off are used for their utility rather than their power. 18 HP IVs allow Wingull to reach 19 HP, minimizing Life Orb recoil. Although Rain Dish is practically useless, it negates Life Orb recoil in the rain.
+
+Usage Tips
+========
+
+Wingull is too frail to be switched into an attack. It needs to be brought in with a slow U-turn or Volt Switch or as a revenge killer, preferably once specially bulky foes are significantly weakened so that Wingull can sweep. However, it can do severe damage to teams mid-game with the rain up, allowing for a teammate to clean up afterwards. Wingull makes for a good lead, as it can force out common lead Pokemon such as Drilbur and Mienfoo and take advantage of the switch with Knock Off or U-turn.
+
+Team Options
+========
+
+A switch-in to Electric-type moves is imperative. Chinchou is the best example of this thanks to Volt Absorb. It can also provide a free switch for Wingull with Volt Switch, burn Wingull's physical checks with Scald, and capably set up rain for Wingull. Ferroseed and Foongus are also able take on Chinchou and other Water-types that trouble Wingull. Ferroseed is able to set entry hazards while Foongus can set up rain and neutralize foes with Spore. Wingull fits well on rain-based teams, especially as it is able to beat most Grass-types, something other rain sweepers usually cannot do. However, Swift Swim sweepers such as Anorith and Omanyte are still good teammates for their ability to quickly raze teams with their combined offensive pressure.
+
+Other Options
+########
+
+Roost allows Wingull to recover from Life Orb recoil, but Wingull's mediocre defenses prevent it from using this move effectively. Wingull can use Rain Dance itself to increase Hurricane's accuracy and boost the power of Scald, but this is better left to its teammates, as Wingull is generally not bulky enough to use it effectively. Choice Scarf allows Wingull to function as a decent revenge killer and pivot. However, Wingull's damage output will decrease significantly if it uses Choice Scarf and Wingull generally dislikes being locked into one move.
+
+Checks & Counters
+########
+
+**Electric-types**: Chinchou is an excellent counter to Wingull, as it does not take much damage from any of Wingull's moves, aside from Hidden Power Grass, and can either OHKO Wingull with Volt Switch or cripple it with Thunder Wave. Elekid and Choice Scarf Magnemite are able to revenge kill Wingull.
+
+**Water-types**: Bulky Water-types such as Slowpoke and Frillish are able to switch into Scald and deal a massive amount of damage to Wingull with Psychic and Shadow Ball, respectively. However, Frillish and Slowpoke both take heavy damage from Hurricane. Omanyte is also a good check to Wingull, as it resists Hurricane and does not mind being burned by Scald.
+
+**Bulky Eviolite Users**: Porygon and Muchlax are rarely 2HKOed by Hurricane and can deal a massive amount of damage to Wingull with Tri Attack and Body Slam, respectively.
+
+**Priority Users**: Pawniard deals a large amount of damage to Wingull with Sucker Punch. Fletchling also deals massive damage to Wingull with Acrobatics.

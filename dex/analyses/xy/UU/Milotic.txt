@@ -1,14 +1,14 @@
 Overview
 ########
-Milotic's excellent special bulk, Marvel Scale, and much greater offensive presence, as well as Recover, give it a niche over other bulky Water-types in the tier (although Quagsire does get Recover too), and it has greater Speed than most other bulky Water-types. Additionally, its pure Water typing leaves Milotic with few weaknesses and grants it some useful resistances to boot. However, while not terrible, Milotic's physical bulk isn't particularly amazing, and to top it off, it faces plenty of competition for a teamslot from Pokemon such as Swampert, Suicune, Quagsire, and Vaporeon. Despite Milotic's greater offensive presence and access to Marvel Scale and Haze, one of the aforementioned Pokemon is generally a better choice.
+Milotic has good defensive stats, with base 95 HP and a high base 125 Special Defense, and its Water typing is great defensively and helpful for checking many Fire-type attackers in UU. Milotic also has a decent base 81 Speed and some offensive presence, meaning it is not entirely passive. However, Milotic is vulnerable to status, especially Toxic. Although it has great special bulk, it has a mediocre base 79 Defense, which keeps it from switching into strong neutral attacks. Milotic also has problems with users of either Substitute or Taunt, depending on what moves it chooses to run.
 
-Physically Defensive
+Defensive
 ########
-name: Physically Defensive
+name: Defensive
 move 1: Scald
 move 2: Recover
-move 3: Ice Beam
-move 4: Haze / Dragon Tail
+move 3: Haze / Dragon Tail
+move 4: Ice Beam
 ability: Marvel Scale
 item: Leftovers
 evs: 248 HP / 252 Def / 8 SpD
@@ -16,32 +16,36 @@ nature: Bold
 
 Moves
 ========
-Scald is a STAB attack that can shut down physical attackers with its burn chance. Recover lets Milotic stall for burn damage and restore health lost from taking attacks. Ice Beam is a coverage attack that hits Grass-types trying to switch in on Milotic, and nails targets such as Flygon and Noivern. Haze stops Milotic from being setup bait. It has an advantage over Dragon Tail in that it negates the stat boosts of a foe behind a Substitute. Dragon Tail is an alternative option for the fourth moveslot. It lets Milotic check setup sweepers by phazing them, removing any stat boosts and racking up entry hazard damage. While it does have the advantage of not being stopped by Taunt, unlike Haze, opting for Dragon Tail renders Milotic unable to check boosting sweepers behind a Substitute. Toxic is a possibility for the fourth moveslot, as it lets Milotic screw over any walls that might switch into it, and Milotic can stall for poison damage with Recover.
+
+Scald is Milotic's STAB move; it has a 30% chance to burn, hindering physical attackers, and it also hits Fire-types super effectively. The possibility of burning a foe and halving its Attack complements Milotic's high special bulk nicely. Recover gives Milotic longevity and reliable recovery, letting it stay healthy throughout the match. Haze resets the stat changes of even foes behind a Substitute but can be stopped with Taunt. On the other hand, Dragon Tail does some damage and phazes the foe; however, this leaves Milotic helpless against most Substitute sweepers, as Dragon Tail often cannot break their Substitutes. Dragon Tail also has the benefit of racking up entry hazard damage. Ice Beam provides good coverage, hitting Grass- and Dragon-types such as Trevenant, Haxorus, and Flygon super effectively.
 
 Set Details
 ========
-248 HP EVs reduce passive damage taken, and this combined with 252 Defense EVs maximizes Milotic's physical bulk. The remaining EVs are put into Special Defense to slightly even out Milotic's overall bulk. A Bold nature provides a further increase in Milotic's physical bulk. Leftovers is the chosen item for the passive recovery it provides. Marvel Scale bolsters Milotic's Defense to great levels when it finds itself on the receiving end of a move such as Toxic or Will-O-Wisp.
+
+248 HP EVs maximize Milotic's overall bulk and allow it to receive less damage from Stealth Rock than 252 HP EVs would, while 252 Defense EVs and a Bold nature increase physical bulk, as Milotic already has high Special Defense. Leftovers allows Milotic to recover small amounts of HP every turn, increasing its longevity. Marvel Scale is the chosen ability, as it boosts Milotic's Defense when it has a status condition.
 
 Usage Tips
 ========
-Milotic should be brought in to sponge a predicted physical attack (within its capabilities) and restore any significant amount of health lost from doing so with Recover. Dragon Tail and Haze should be used to nullify boosts acquired by opponents trying to set up in Milotic's face. Though the Defense boost from Marvel Scale might be an enticing prospect, status only serves to wear Milotic down and hinder its longevity in the long run, so Milotic should not be used to absorb status. One shouldn't overestimate Milotic's bulk, as its naturally middling Defense means that it is somewhat limited in terms of what it can switch into. For example, Milotic should not be switching into something like a High Jump Kick from Mienshao or a Close Combat from Lucario.
+
+Milotic functions as a tank that can switch in and sponge many physical and special attacks thanks its good bulk and typing. After tanking an attack, Milotic should use Recover to heal off the damage taken. Dragon Tail or Haze should be used to deal with any setup attempts, but be careful of Substitute or Taunt users, respectively. Do not risk using Dragon Tail if the foe can still hurt Milotic, unless you are very sure the foe will switch, as Milotic can be put in jeopardy if it takes repeated attacks. Milotic generally should not switch into very strong neutral hits, such as Honchkrow's Brave Bird and Haxorus's Dragon Claw. Do not use Milotic to absorb Toxic, as the passive damage outweighs the Defense boost in the long run.
 
 Team Options
 ========
-Milotic works best on defensively oriented teams that dislike sweepers and hard hitters. It appreciates support from allies such as Roserade and Darmanitan that can take on the Grass-types that it despises. Milotic is best used alongside a special wall capable of tanking Electric- and Grass-type hits. Examples of these include Snorlax and Umbreon. Cleric support cures Milotic of status, preserving its longevity. An example of a cleric that pairs well with Milotic is Umbreon, whose bulk means that it is generally capable of staying in against attackers with a type advantage over Milotic. Entry hazard support is useful in conjunction with Dragon Tail variants of Milotic, as it gradually wears opponents down when they are dragged into the field.
+
+Milotic appreciates cleric support to remove Toxic and burns, which limit its walling abilities. Bulky Grass-types such as Roserade and Shaymin are good partners, as they can switch into Grass-type moves. Roserade in particular can set up Spikes to wear down the opposing team, helping Milotic rack up entry hazard damage with Dragon Tail. Both Rotom-H and Mega Ampharos make for great partners, as they can sponge Electric-type attacks, and the latter can also cure Milotic's status with Heal Bell. Dragon Tail variants of Milotic are weak Substitute sweepers such as Substitute + Calm Mind Cresselia, so teammates that can take them on, such as Noivern, make for good partners. Fire-types such as Entei and Rotom-H can help beat the bulky Grass-types that Milotic has problems with. Fighting-types such as Machamp and Toxicroak can break through opposing walls such as Blissey and Umbreon, and Toxicroak can also come in on bulky Water-types, which Milotic can't hurt.
 
 Other Options
 ########
-A specially defensive set lets Milotic take hits from special attackers such as Chandelure with greater ease, though choosing to invest in Special Defense detracts from Milotic's physical bulk and therefore restricts its ability to check physically offensive threats such as Darmanitan. Milotic can try an offensively inclined set with Life Orb and Competitive, though there are Water-types better at playing an offensive role, such as Suicune, which boasts access to Calm Mind; and Starmie, which has far greater Speed and coverage. Refresh lets Milotic shrug off status of its own accord, though it's difficult to find the moveslot needed. Dragon Pulse has good neutral coverage with Scald and hits Kingdra for super effective damage, though Ice Beam's coverage is preferable. Milotic can try a RestTalk set that takes advantage of its ability, though Suicune does a better job in such a role due to its access to Calm Mind. Although weak, Hidden Power Grass lets Milotic nail the likes of Quagsire and Gastrodon. Finally, Hypnosis can incapacitate a foe, but its unreliability means that it isn't worth the moveslot.
+
+A RestTalk set can be used to absorb status and benefit from Marvel Scale, but it is generally better to use Recover along with cleric support. Competitive allows Milotic to try to take advantage of Defog and Intimidate; however, Milotic has a hard time taking advantage of Competitive, because of its average Special Attack and inability to hurt Empoleon, a common Defog user. Toxic can be used over Dragon Tail or Haze, but it leaves Milotic without a method of phazing, and burn is the more favorable status to inflict most of the time. Mirror Coat can occasionally surprise foes such as Roserade, but it means giving up another, more reliable move in return. Hidden Power Grass can hurt Water-types such as Cloyster and Swampert more than Scald or Ice Beam can but gives up important coverage, making it undesirable.
 
 Checks & Counters
 ########
-**Grass-types**: Grass-types such as Roserade, Shaymin and Virizion have the Special Defense to tank Ice Beams coming off Milotic's uninvested Special Attack and can smack Milotic hard with their STAB attacks. Roserade and Shaymin do particularly well against Milotic, as Natural Cure means that they can shrug off an untimely burn from Scald.
 
-**Electric-types**: Electric-types such as Raikou and Mega Ampharos inflict great amounts of damage on Milotic with their STAB attacks and can gain momentum with Volt Switch (and in Raikou's case, Calm Mind) as they force Milotic out. Dragon Tail Milotic is total setup bait for Substitute + Calm Mind variants of Raikou.
+**Special Walls**: Special walls such as Blissey, Tentacruel, and Umbreon can tank Milotic's attacks, use Toxic, and then stall it out.
 
-**Stallbreakers**: Pokemon such as Crobat and Sableye can ruin Milotic by crippling it with status and using Taunt to stop it from recovering. However, both of these Pokemon dislike being burned by Scald.
+**Bulky Water-types**: Pokemon such as Empoleon and Tentacruel take little damage from Milotic's attacks and can set up entry hazards on it or phaze it.
 
-**Toxicroak**: An immunity to Scald grants Toxicroak switch-in opportunities against Milotic. While it cannot directly use Milotic as setup bait, Toxicroak can hit Milotic pretty hard and get the opportunity to set up with Swords Dance should Milotic switch out.
+**Substitute Sweepers**: Substitute sweepers such as Cresselia and Suicune can use Milotic as setup fodder if it lacks Haze.
 
-**Snorlax**: Snorlax has the bulk to sponge anything that Milotic can throw at it. Additionally, RestTalk variants aren't deterred by a burn.
+**Bulky Grass-types**: Bulky Grass-types such as Shaymin and Roserade can switch into Ice Beam and easily hurt Milotic with their STAB moves.

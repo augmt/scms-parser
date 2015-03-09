@@ -1,92 +1,93 @@
 Overview
-########
+#######
 
-Roserade was one of the most influential Pokemon in BW UU, and she returns to wreak havoc in the tier. Roserade is pretty versatile and has great Special Attack, good Special Defense, and decent Speed, as well as a good offensive and supportive movepool, allowing her to take an offensive or defensive approach according to the needs of its team. Roserade's typing allows her to take on the myriad of Water-types in UU. She also resists the STAB moves of the newly introduced Fairy-types and can hit them back super effectively as well. Due to the new breeding mechanics, she can also now use Sleep Powder and Spikes on the same set.
+With a high Special Attack stat and two good abilities in Natural Cure and Technician, Roserade can have a strong offensive presence. Moreover, it has quite high Special Defense, which allows it to take on a more passive role. Having access to Sleep Powder, Toxic Spikes, and Spikes, it can also function as a great entry hazard setter. However, poor Defense and mediocre Speed mean that Roserade is KOed fairly easily by quite a few common Pokemon.
 
-However, not everything is roses for Roserade. She has pitiful Defense and HP, which means almost every physical attack threatens her. She is weak to Fire-type attacks, which is arguably one of the most common attacking types in the current metagame. Her Speed, although decent, leaves Roserade vulnerable to a lot of faster threats. The buff to Defog makes it harder to keep entry hazards on the field, thus hurting one of its main selling points. The changed sleep mechanics also hit her hard.
-
-Offensive Spiker
-########
-name: Offensive Spiker
+Offensive Hazards
+#######
+name: Offensive Hazards
 move 1: Spikes / Toxic Spikes
 move 2: Sludge Bomb
-move 3: Giga Drain / Leaf Storm
-move 4: Sleep Powder / Rest / Hidden Power Fire
+move 3: Leaf Storm / Giga Drain
+move 4: Sleep Powder / Extrasensory / Hidden Power Fire
 ability: Natural Cure / Technician
 item: Life Orb
-evs: 4 Def / 252 SpA / 252 Spe
+evs: 252 SpA / 4 SpD / 252 Spe
 ivs: 29 HP
 nature: Timid
 
 Moves
 ========
 
-This set aims at stacking entry hazards to pressure the opponent. The choice between Spikes and Toxic Spikes depends upon your team's needs. Spikes is better on more offensive teams while Toxic Spikes is better on balanced teams. Sludge Bomb is a powerful STAB move and has no drawbacks, hitting opposing Grass-types who switch into Roserade expecting a Grass-type attack. Giga Drain is a reliable secondary STAB move that also provides recovery. It also hits many spinners super effectively. Leaf Storm is a more powerful alternative and gives Roserade huge wallbreaking capabilities. However, it cuts Roserade's Special Attack in half, forcing her to switch out. However, keep in mind that it is stronger than Giga Drain over two turns. Sleep Powder, although nerfed this generation, still makes switching into Roserade a gamble due to how crippling sleep can be. It can be used on potential spinners or Defoggers to prevent them from removing the entry hazards. Rest in conjunction with Natural Cure provides a full recovery after switching out. Hidden Power Fire in conjunction with Technician allows Roserade to hit Steel-type that resist her STAB moves. It also maims Overcoat Forretress who is immune to Sleep Powder.
+Spikes and Toxic Spikes allow Roserade to set up entry hazards for its team. Sludge Bomb is a powerful move with a high chance of poisoning the foe and is the move Roserade uses as its main form of offense. Sleep Powder allows Roserade to cripple opposing Pokemon and can be used to allow Roserade to set up more entry hazards. Leaf Storm does an incredible amount of damage to Pokemon that aren't specially defensive or resistant to it. Giga Drain is a weaker option that can restore health and does not result in a stat drop. Extrasensory can hit Pokemon such as Crobat, Chesnaught, and Toxicroak, all of which can take Roserade's other attacks. Hidden Power Fire can also hit Pokemon such as Chesnaught, and it hits Steel-types such as Forretress, which would otherwise wall Roserade, for massive damage.
 
 Set Details
 ========
 
-The EV spread maximizes Roserade's Special Attack and Speed so she can set up entry hazards as fast as possible, while still hitting switch-ins hard. A Timid nature is used to maximize her Speed. The choice of nature depends on the moves used. Natural Cure provides reliable recovery with Rest and also cures Roserade of burns and paralysis. Technician gives a pseudo-STAB boost to Hidden Power Fire. Life Orb gives a much needed power boost to Roserade's attacks. Black Sludge may be used if you want to make her last longer, but the power boost is crucial. 29 HP IVs are used to minimize Life Orb recoil. Note that the number of HP IVs does not affect the Hidden Power type.
+Natural Cure heals status from Roserade when it switches out. Technician should be used with a Hidden Power to boost the damage output. Life Orb is used to boost the power of Roserade's moves, and 29 HP IVs allow Roserade to take minimal recoil damage from it. A Timid nature with 252 Speed EVs is used to make Roserade as fast as possible, while 252 Special Attack EVs are used to boost its damage output. The remaining EVs are put in Special Defense to boost Roserade's bulk slightly and not interfere with the HP IVs.
+
 
 Usage Tips
 ========
 
-Switch Roserade in on resisted moves and set up the entry hazard of your choice on the switch. Don't sacrifice Roserade early-game, as it may be useful later for punching holes or sweeping. Use Sleep Powder carefully, as most good players will not send in their main Roserade answer immediately due to the fear of being crippled, and using it on the wrong Pokemon wastes most of its potential. If the opponent has a spinner or Defogger, try to play conservatively with Roserade, as she can set up entry hazards multiple times. Try to use Sleep Powder or wear down them with teammates and Roserade's own attacks. Don't mindlessly use Leaf Storm if the opponent has a potential setup sweeper such as Mega Houndoom.
+You should switch Roserade in on slower Pokemon and try to use Sleep Powder. In addition, you can use Sleep Powder on predicted switches to cripple the foe. This will allow Roserade to get at least one layer of entry hazards down. Sludge Bomb should be Roserade's main form of offense, as it is strong, can poison, and has no negative effects. If Roserade has Leaf Storm, it should only be used once as a powerful attack; switching out soon after is recommended. If Roserade has Giga Drain, use it when it is super effective on a foe or when they resist Sludge Bomb. Try to bring Roserade in via Volt Switch, U-turn, or Baton Pass, as it does not appreciate getting hurt, largely due to its poor physical bulk.
+
 
 Team Options
 ========
 
-Roserade appreciates a Ghost-type teammate as they can prevent a Rapid Spin user from removing the entry hazards she sets. Jellicent is a good option as it can take on Starmie, which is the only spinner that wins against Roserade one on one. Roserade needs teammates who can take care of Fire-type Pokemon. Bulky Water-types such as Slowbro and Suicune are good teammates for this reason. Rock-type Pokemon such as Rhyperior and Mega Aerodactyl can also take care of many Defoggers, can set up Stealth Rock, and threaten opposing Fire- and Flying-type Pokemon with their respective STAB attacks. Due to her great wallbreaking capabilities, Roserade can allow a teammate to sweep late-game. Pokemon who appreciate the removal of opposing Water-types and Florges such as Hydreigon, Mega Houndoom, and Darmanitan are great teammates. Offensive Pokemon appreciate the entry hazards set up by Roserade to break down walls more easily.
+Pokemon that appreciate prior damage to their foes work well with Roserade, as if it sets up three layers of Spikes, grounded foes will lose 25% of their health upon switching in. An example of a Pokemon that appreciates entry hazard support is Entei, which deals massive damage on the switch already. Chandelure can work as a spinblocker, preventing Roserade's entry hazards from being removed. Stealth Rock users help damage the opposing team severely when they switch. Swampert is a good Stealth Rock user to pair with Roserade, as Roserade resists its Grass weakness while Swampert can take physical hits well. Mega Ampharos can handle Fire- and Flying-types. In addition, Swampert, Vaporeon, Alomomola and other bulky Water-types can deal with Fire-types that Roserade struggles against. Hydreigon appreciates entry hazard support and the removal of Fairies. The same goes for Mega Ampharos, and both can get Roserade in safely via U-turn and Volt Switch, respectively. Substitute + Calm Mind Chandelure and Substitute + Calm Mind Suicune greatly appreciate Toxic Spikes support, as it aids them in setting up by wearing foes down. Fire-types such as Darmanitan and Infernape can help deal with Steel-types that wall variants of Roserade that lack Hidden Power Fire.
+
 
 Specially Defensive
-########
+#######
 name: Specially Defensive
-move 1: Synthesis / Leech Seed
-move 2: Spikes
-move 3: Toxic Spikes / Sludge Bomb
-move 4: Sludge Bomb / Giga Drain
+move 1: Synthesis
+move 2: Spikes / Toxic Spikes
+move 3: Giga Drain / Sludge Bomb
+move 4: Sleep Powder / Giga Drain
 ability: Natural Cure
 item: Black Sludge
-evs: 252 HP / 240 SpD / 16 Spe
+evs: 240 HP / 252 SpD / 16 Spe
 nature: Calm
 
 Moves
 ========
-Synthesis provides reliable recovery, but Leech Seed may be used if your team struggles against Suicune. Spikes gives Roserade a niche over Amoonguss and provides team support by inflicting residual damage. Toxic Spikes is the better option against defensive teams which lack a Poison-type. Sludge Bomb is her most powerful STAB move and prevents Roserade from becoming Taunt bait. Giga Drain can be used if your team has nothing to hit Water-types and also provides a little recovery which may come in handy in a pinch.
+
+Synthesis is used for instant health recovery, but it is unreliable because of its low PP, which can be annoying against defensive teams. Spikes allows Roserade to wear the opposing team down when they switch in, while Toxic Spikes works well against defensive teams and stall teams, as it cripples them with poison. Giga Drain allows Roserade to restore a little bit of health while attacking, but it is quite weak. Alternatively, Sludge Bomb can be used as a moderately powerful move with a high chance of poisoning its target. Sleep Powder allows Roserade to cripple Pokemon, but it does not work well with Toxic Spikes. Rest can be used to heal Roserade to full health, and Roserade can cure its sleep by switching out but Roserade becomes setup bait when using it, as it is forced to give the opponent a free turn. However, Rest allows Roserade to PP stall some walls, such as Blissey.
 
 Set Details
 ========
 
-The EV spread is straightforward. HP and Special Defense are maximized to make Roserade as specially bulky as possible while outspeeding Modest max Speed Empoleon and everything slower. A Calm nature further boosts its Special Defense. Black Sludge provides passive recovery.
+Natural Cure lets Roserade sponge status and remove it when switching. Black Sludge is used for recovery and damages Trick and Switcheroo users if they trade items with Roserade. 240 HP EVs are used to gain maximum Black Sludge recovery and take less damage from entry hazards. 252 Special Defense EVs are used to make Roserade as specially bulky as possible. 16 Speed EVs allow Roserade to outspeed maximum Speed neutral-natured base 60 Speed Pokemon. A Calm nature is used to boost Roserade's Special Defense. You may use both entry hazards if the team definitely needs it, but that is not generally advised, as missing out on another move hinders Roserade.
 
 Usage Tips
 ========
 
-This set is best used on stall and balanced teams. Bring Roserade in on special hits and proceed to lay entry hazards. It is not necessary to lay both types, so use Team Preview to decide which one you want to focus on. If the opponent does not have a Poison-type and their team is defensive, lay Toxic Spikes. Otherwise, Spikes is the better option. Try to preserve Roserade if the opponent has a spinner or Defog user. Also, Synthesis should be used conservatively, as it has very low PP. Don't stay in on physical attackers, as Roserade has very bad Defense and sometimes even resisted hits will do quite a lot of damage to her.
+Try to bring Roserade in on weak special attackers. It can easily come in on bulky Water-types such as Suicune and Milotic (even Ice Beam variants do not trouble it that much). Setting up entry hazards is a good idea at this point, as bulky Water-types cannot harm Roserade, so they have to switch or still do nothing to it. If you are running Synthesis, you should use it sparingly, as it has limited PP. Giga Drain or Sludge Bomb should be used as Roserade's attacking move and Sleep Powder should be used to cripple foes.
 
 Team Options
 ========
 
-Bulky Water-types such as Slowbro, Swampert, and Suicune can take care of Fire-types who love to switch into Roserade's Grass-type STAB move. They also have very good synergy with Roserade. Rock-type Pokemon such as Rhyperior and Mega Aerodactyl are also good switch-ins for Fire-types as well as Flying-types, and can hit them in return with their respective Rock-type STAB moves. They can also pressurize most of the Defoggers with their attacks. A physical wall like Slowbro makes a good teammate as Roserade has terrible Defense. A Ghost-type is useful to prevent Rapid Spin users from removing the entry hazards set by Roserade. Sableye and Jellicent work well and have good synergy with Roserade. Sableye can also prevent Defog with Prankster Taunt, although it has to be on the field simultaneously with the Defog user. Raikou can take advantage of the entry hazards as well as pressurizing common Defog users with its STAB attacks.
+As Roserade is extremely physically frail, it appreciates Pokemon that can take these hits. Forretress can do this and aid Roserade in wearing down the team with its own entry hazards, but you must beware of the Fire weakness they share. Rotom-H can burn physical attackers, take physical hits for Roserade, and has good type synergy with it, resisting its Fire- and Flying-type weaknesses. Bulky Water-types can deal with Fire-types that trouble Roserade. Mega Ampharos can deal with its Flying weakness, but both it and Roserade need support to deal with Ice-types. Substitute + Calm Mind Chandelure and Substitute + Calm Mind Suicune greatly appreciate Toxic Spikes support from Roserade, as it helps them set up by weakening foes.
+
 
 Other Options
-########
+#######
 
-Weather Ball may be used on a weather-based team for powerful coverage. Choice Scarf turns Roserade into a decent revenge killer, while with Choice Specs, she becomes a fearsome wallbreaker. However, most of Roserade's attacks have some drawbacks such as lowering stats or poor coverage, making it dangerous to be locked into one move. Dazzling Gleam and Extrasensory can be used on the offensive sets, but the other moves hit hard enough most of the time.
+An option for the specially defensive set is Aromatherapy, which allows Roserade to heal teammates from status. Another option is Leech Seed, which allows Roserade to sap its foe's health and recover slowly. On the offensive set, Dazzling Gleam may be used to hit Pokemon such as Hydreigon very hard. Hidden Power Ground is an alternate option to hit Steel-types, while Hidden Power Rock can be used to lure in and KO Chandelure, which resists both of Roserade's STAB moves.
 
-Checks & Counters
-########
+Checks and Counters
+#######
 
-**Fire-types**: Fire-type Pokemon such as Darmanitan, Infernape, and Mega Houndoom can switch into Roserade's Grass-type attacks and threaten it with their respective STAB moves. However, they should be wary of switching into Sludge Bomb or Sleep Powder.
+**Flying-types**: Crobat can take every attack Roserade has apart from Extrasensory, which is quite rare, and Choice Band variants can run Sleep Talk to combat Sleep Powder. Aerodactyl resists Roserade's Poison STAB moves and can easily OHKO it with Aerial Ace.
 
-**Crobat**: Crobat resists both of Roserade's STAB moves and Hidden Power Fire hits it neutrally. It can Taunt Roserade, preventing her from using Sleep Powder, and then use Defog to remove the entry hazards set by Roserade. It can also force her out with its STAB attacks.
+**Fast Physical Attackers**: Roserade's Defense is weak, so any strong attacker with a powerful move should be able to OHKO it. Roserade only has a slightly above average Speed tier, so it isn't that hard to outspeed.
 
-**Defoggers**: Defoggers can remove entry hazards set up by Roserade, and most of them carry a super effective STAB move. Mega Aerodactyl and Crobat are good examples.
+**Fire-types**: Fire-types such as Darmanitan, Chandelure, and Entei can either outspeed Roserade or take its attacks and OHKO it.
 
-**Powerful Physical Attackers**: Powerful physical attackers such as Flygon and Honchkrow can threaten Roserade with their respective STAB attacks.
+**Special Walls**: Dedicated special walls such as Blissey, Umbreon, and Goodra can take all of Roserade's attacks and whittle it down.
 
-**Umbreon**: Umbreon can take any attack that Roserade throws at it and can 3HKO Roserade in return.
+**Steel-types**: If Roserade does not have Hidden Power Fire, Steel-types such as Forretress and Mega Aggron can take all of Roserade's attacks relatively well.
 
-**Steel-types**: Steel-type Pokemon such as Mega Aggron, Cobalion, Escavalier, and Forretress can take on any Roserade not carrying Hidden Power Fire and can either threaten with their attacks, or set up on Roserade. Forretress can even use Rapid Spin to remove entry hazards set up by Roserade. However, they should all be wary of Sleep Powder.
-
-**Choice Scarf Users**: Common Choice Scarf users, such as Darmanitan, Hydreigon, and Mienshao can revenge kill Roserade after a little residual damage.
+**Espeon**: Espeon can deal with the specially defensive set very well because of its ability Magic Bounce, and it can hit Roserade with a super effective STAB move.

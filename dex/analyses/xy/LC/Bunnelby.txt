@@ -1,89 +1,87 @@
 Overview
 ########
 
-This small little rabbit may seem superficially harmless, but beyond its adorable exterior lies one of the strongest Pokemon in Little Cup. With its hidden ability Huge Power, Bunnelby hits a whopping 28 Attack with an Adamant nature and can take out most of the sturdiest walls in the tier in just one or two hits. Normal-type STAB, which grants it fantastic neutral coverage in one move alone, STAB priority, and access to U-turn all separate Bunnelby from other powerful physical attackers. Its Speed is also usable, though it isn't quite enough to outpace many top metagame threats. However, with little to touch most Ghost-types and terrible bulk, Bunnelby can sometimes struggle to keep up against opposing offensive teams, but it is a formidable Pokemon in Little Cup nonetheless.
+Bunnelby has a great Attack stat by virtue of Huge Power and lots of coverage moves, making it an excellent wallbreaker. Bunnelby also has a decent Speed stat, although it typically needs to be assisted by Choice Scarf or Sticky Web. Unfortunately, Bunnelby struggles against many prominent threats such as Fighting-types, Pawniard, and Fletchling. It has very poor bulk and lacks useful resistances, which leaves it vulnerable to many priority attacks. Bunnelby can be a huge offensive threat, but it definitely requires support to do so.
 
 Choice Scarf
 ########
-
 name: Choice Scarf
 move 1: Return
 move 2: U-turn
 move 3: Earthquake
-move 4: Quick Attack / Thief
+move 4: Iron Head
 ability: Huge Power
 item: Choice Scarf
 evs: 228 Atk / 52 Def / 220 Spe
-nature: Adamant / Jolly
-
-Moves
-========
-
-U-turn is the best part of the set, allowing Bunnelby to scout the opposing team and wear down its checks and counters. Return is the next best part because it's super strong and is backed by STAB. Earthquake covers Steel- and Rock-types. Quick Attack lets you pick off faster enemies at low health, including Chlorophyll sweepers in the sun and Speed Boost Carvanha. Thief covers Gastly and Drifloon, and it can allow Bunnelby to steal an opponent's item after taking a weaker Knock Off.
-
-Set Details
-========
-
-The given EVs maximize Bunnelby's sweeping capabilities, with the remainder put in Defense to better take priority attacks. A Choice Scarf is used to outspeed the entire unboosted metagame. An Adamant nature is enough to achieve this, but Jolly can be used to outspeed +1 Jolly Scraggy and +2 Adamant Tirtouga as well.
-
-Usage Tips
-========
-
-Bunnelby can function as a speedy scout, a revenge killer, and a late-game cleaner all in one. You can honestly use it for any or all of the above roles in any given game, so how you play it will depend a lot on the rest of your team and the opponent's team. It makes for a nice lead because of its fast U-turn, but this also causes you to give away your set most of the time.
-
-Team Options
-========
-
-Bunnelby fits on all kinds of teams because of how many roles it can perform. Bunnelby appreciates a check to Fighting-types, like Fletchling. Having more wallbreakers on your team will also help Bunnelby sweep.
-
-Life Orb
-########
-
-name: Life Orb
-move 1: Return
-move 2: Quick Attack
-move 3: U-turn
-move 4: Earthquake / Thief
-ability: Huge Power
-item: Life Orb
-evs: 228 Atk / 52 Def / 220 Spe
-ivs: 23 HP
 nature: Jolly / Adamant
 
 Moves
 ========
 
-Return is Bunnelby's best STAB move, which hits most of the tier for neutral damage. Quick Attack is what makes Bunnelby such a scary Pokemon; when it can't outspeed the opposing Pokemon, it has a priority attack that can still do massive damage or even get a KO. For example, even a Jolly Quick Attack is powerful enough to OHKO standard Carvanha. Thanks to U-turn, Bunnelby can come in against slower Pokemon it can force out and get huge damage off on incoming switches without being hurt in the process. Earthquake provides coverage against Steel-types, including Magnemite, Ferroseed, and Pawniard. It also hits Rock- and Ghost-type Pokemon, though many notable Pokemon of these types, such as Archen and Gastly, are not affected by it. Thief can be used instead in order to hit Gastly, but because it outspeeds Bunnelby, it's difficult to hurt it without being KOed by Sludge Bomb in the process.
+Return is Bunnelby's most powerful STAB move and hits incredibly hard. U-turn allows Bunnelby to wear down its checks and counters and preserve momentum. Earthquake provides excellent coverage with Return, hitting many Steel- and Rock-types. Iron Head hits foes that resist Return + Earthquake coverage, namely Ghost-types such as Gastly, Pumpkaboo, and Drifloon neutrally and Archen super effectively. Quick Attack can also be used over a coverage move to give Bunnelby's team additional priority but leaves Bunnelby easily walled.
 
 Set Details
 ========
 
-The EVs on Bunnelby are standard for offensive Pokemon, with an extra point thrown into Defense. 23 HP IVs bring Bunnelby down to 19 HP so that it only loses one point of HP from Life Orb recoil. Life Orb is used for additional power to help it get specific KOs, such as the OHKO against Carvanha with Quick Attack. A Jolly nature is preferred so that Bunnelby can outspeed Berry Juice Magnemite and Defensive Chinchou. On the other hand, an Adamant nature is still a solid alternative for raw power.
+Choice Scarf allows Bunnelby to outspeed all unboosted Pokemon in the tier. A Jolly nature enables Bunnelby to outspeed other common Choice Scarf users such as Scraggy and Magnemite; however, an Adamant nature ensures Bunnelby hits as hard as possible. The EV spread maximizes Bunnelby's offensive capabilities, with the remaining EVs invested into Defense to better handle priority moves.
 
 Usage Tips
 ========
 
-As Bunnelby is first and foremost a wallbreaker, you want to bring it in as much as you can against defensive teams and start attacking. Basically just bring Bunnelby in on anything that will allow a free switch (slow Volt Switch/U-turn, on the revenge, against Honedge when it's obvious that they won't use Secret Sword, etc) and start smacking around the opponent's team. Early game, you're best off going for U-turn most of the time unless the opponent has no counters.
+Bunnelby's primary use in the early parts of the game is to revenge kill and wear down its own checks. Once priority users and checks, such as Pawniard or Ferroseed, have been removed, Bunnelby is able to sweep. It's especially important to remove priority move users because many of them can KO Bunnelby after minimal damage.
 
 Team Options
 ========
 
-Life Orb Bunnelby goes deliciously well with Sticky Web, as it is super strong but a bit lacking in Speed, so Surskit and Spinarak are ideal partners. Bulky pivots are nice because faster offensive threats are going to come in to revenge kill Bunnelby a lot, meaning that Chinchou and Mienfoo are really nice partners. Other U-turn and Volt Switch users are also nice to keep up offensive momentum and help wear down Bunnelby's checks; Magnemite and the aforementioned Chinchou and Mienfoo are cool for this.
+Pursuit support from Pokemon such as Pawniard and Stunky helps greatly in allowing Bunnelby to clean late-game with Return. Diglett helps remove foes resistant to Return as well because of its ability to trap and KO many Rock- and Steel-types. A check to Fighting-types is very important when using Bunnelby, with Spritzee being an excellent choice. Any Pokemon that can beat common priority move users, especially Pawniard and Fletchling, is very helpful. Ponyta is able to beat both of them, provided Stealth Rock is not on your side of the field. Entry hazards enable Bunnelby to KO Pokemon that rely on Sturdy and provide enough chip damage to obtain important 2HKOs.
+
+Life Orb
+########
+name: Life Orb
+move 1: Return
+move 2: Quick Attack
+move 3: Earthquake
+move 4: Iron Head / Thief
+ability: Huge Power
+item: Life Orb
+evs: 228 Atk / 52 Def / 220 Spe
+ivs: 23 HP
+nature: Adamant / Jolly
+
+Moves
+========
+
+Return is Bunnelby's best STAB option and hits incredibly hard. Quick Attack is vital for revenge killing many frail Pokemon such as Carvanha and Fletchling. Earthquake has great coverage in conjunction with Return, as it heavily damages or KOes Rock- and Steel-types. Iron Head punishes Archen and Dwebble, which are otherwise good checks to Bunnelby, and is a great move for hitting Ghost-types such as Gastly, Drifloon, and Pumpkaboo, all of which could completely wall Bunnelby without it. Thief is specifically for hitting Ghost-types, notably Pumpkaboo-XL and Frillish.
+
+Set Details
+========
+
+The EVs maximize Bunnelby's offensive capabilities and the remainder is put into Defense to better take on priority moves. Reduced HP IVs ensure Bunnelby takes minimal Life Orb recoil, due to the recoil rounding down. Life Orb transforms Bunnelby into a threatening wallbreaker and a tough Pokemon to switch into. An Adamant nature helps Bunnelby hit as hard as possible, though a Jolly nature can be used to outspeed all Magnemite and Speed tie with Pawniard.
+
+Usage Tips
+========
+
+Avoid switching Bunnelby directly into battle due to its low bulk, absence of resistances, and tendency to being worn down by Life Orb. Bring Bunnelby in safely as much as possible with the use of slow pivot move users. If Bunnelby ever gets hit by a Knock Off or another item-removing move, Thief can be used to take an item.
+
+Team Options
+========
+
+Life Orb Bunnelby goes exceptionally well with Sticky Web because it lacks the Speed to handle faster threats. Surskit is considered the most viable option for Sticky Web, but Spinarak may be used to switch into the Fighting-types that threaten Bunnelby. Bulky pivots such as Mienfoo and Chinchou provide Bunnelby with opportunities to come into battle. Depending on Bunnelby's coverage move, a teammate to handle Archen or bulky Ghost-types may be necessary. Pawniard nicely handles Archen, and Pursuit traps Ghost-types.
 
 Other Options
 ########
 
-Wild Charge, Bounce, Brick Break, and Stone Edge are options on either set but generally aren't worth it due to inferior coverage. Bulk Up can be used, but Bunnelby usually prefers to hit hard off the bat. Bunnelby can also run an Agility set, but Quick Attack takes care of its Speed problems. Spikes is an option for having a lasting means of punishing switches that can be used before Bunnelby goes down.
+Wild Charge could be used over Iron Head to hit Archen and Frillish super effectively, but it comes with unwanted recoil and worse coverage and can be abused more easily if locked into. Bounce hits Fighting-types but is extremely obvious and isn't able to KO in most cases. Brick Break hits Steel-types, but Earthquake is almost always better. Bunnelby has many boosting moves such as Bulk Up, Agility, and Power-Up Punch, but boosting sets are all incredibly vulnerable to priority. Bunnelby has access to Spikes, but it lacks the bulk to effectively use them. Stone Edge or Rock Slide may be used to hit Archen as well as the Fire-types that threaten to burn Bunnelby but unfortunately has worse accuracy than Iron Head and inferior coverage. A set with Salac Berry, Flail, and Focus Sash or Endure is incredibly threatening to any teams lacking priority, but it is also hard to pull off.
 
 Checks & Counters
 ########
 
-**Ghost-types**: Choice Scarf Gastly outspeeds and OHKOes Bunnelby with Sludge Bomb, making it a huge threat.
+**Priority Moves**: Bunnelby's poor bulk means that many priority move users such as Fletchling or Pawniard can KO it after very little prior damage.
 
-**Flying-types**: Fletchling with priority Acrobatics can OHKO Bunnelby if it has already have taken some damage. Archen completely walls Bunnelby and can OHKO it with Head Smash or a 110 Base Power Acrobatics if it runs Berry Juice.
+**Fighting-types**: Fighting-types struggle immensely to switch in but are typically able to survive any attack and threaten to easily OHKO Bunnelby. Timburr and Croagunk are especially menacing because of their Fighting-type priority moves.
 
-**Fighting-types**: Timburr can switch in on Bunnelby and hit it with Mach Punch. Croagunk can revenge it with Vacuum Wave.
+**Ghost-types**: Although they may fear some of Bunnelby's coverage moves, many Ghost-types can take advantage of moves Choice Scarf Bunnelby gets locked into. Ghost-types such as Gastly and Drifloon are also faster than the Life Orb set and threaten to greatly hinder, damage, or KO Bunnelby. Other Ghost-types such as Pumpkaboo-XL and Frillish are very bulky and may be able to completely wall Bunnelby.
 
-**Steel-types**: Pawniard fears Earthquake, but it can KO Bunnelby with Sucker Punch after a tiny bit of prior damage. Ferroseed can punish it for spamming U-turn thanks to Iron Barbs.
+**Ferroseed**: Ferroseed's incredible bulk lets it come in on any of Bunnelby's attacks. It also punishes Bunnelby's contact moves, specifically U-turn, due to Iron Barbs. Ferroseed can use Bunnelby to set up entry hazards or choose to cripple it with Thunder Wave.
 
-**Sturdy**: Sturdy Berry Juice users are a big threat if Stealth Rock isn't up or Berry Juice has already activated, and can easily set up on Bunnelby.
+**Status**: Being burnt or paralyzed can completely ruin Bunnelby's offensive presence. It also lacks the bulk to effectively stall through sleep turns and will usually be relegated to death fodder.

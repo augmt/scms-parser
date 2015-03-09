@@ -1,10 +1,10 @@
 Overview
 ########
 
-Yanmega is a Pokemon graced with two great abilities. The first, Tinted Lens, bypasses resistances and turns Yanmega into a powerful wallbreaker when equipped with Choice Specs. The second ability, Speed Boost, allows Yanmega to easily clean up late-game once it has accumulated a boost or two. To complement these abilities, Yanmega also has a nice base 116 Special Attack and a good base 95 Speed, meaning Yanmega can be quite efficient at performing these roles. However, Yanmega does have some notable flaws that prevent it from becoming as threatening as it could be. The first is its Bug / Flying typing, which comes with numerous weaknesses, including a 4x weakness to Stealth Rock. Yanmega also has bad overall bulk, leaving it vulnerable to priority and limiting switch-in opportunities. However, Yanmega's biggest flaw is the amount of competition it faces for a teamslot. Other Choice Specs users such as Chandelure and Porygon-Z give it a ton of competition as a special wallbreaker, while Yanmega faces competition from Sharpedo as a Speed Boost cleaner.
+Yanmega is a Pokemon blessed with two great abilities in Speed Boost and Tinted Lens, which let it fill roles on teams as both a cleaner and a wallbreaker. It also has decent Special Attack and Speed, although its STAB attacks aren't the best. Frail defenses make it hard for Yanmega to tank even neutral hits, and it is also held back by a bad defensive typing that leaves it with a 4x weakness to Stealth Rock, meaning that it loses half its health upon switching in.
 
 Choice Specs
-##########
+########
 name: Choice Specs
 move 1: Bug Buzz
 move 2: Air Slash
@@ -13,35 +13,35 @@ move 4: U-turn / Sleep Talk
 ability: Tinted Lens
 item: Choice Specs
 evs: 252 SpA / 4 SpD / 252 Spe
-nature: Modest / Timid
+nature: Timid / Modest
 
 Moves
 ========
 
-Bug Buzz is Yanmega's most powerful STAB attack, and with Tinted Lens making it basically unresisted, it is extremely hard to switch into. Air Slash is Yanmega's secondary STAB attack, which also hits extremely hard with Tinted Lens taken into account. As Yanmega's STAB moves are nearly unresisted, Giga Drain is chosen in the third slot to allow Yanmega to recover HP against Rock-, Water-, and Ground-types. While U-turn may seem unusual on a Choice Specs set, using it can help keep the momentum during a match. Sleep Talk can be used in the last moveslot to allow Yanmega to function as a sleep absorber if your team lacks one.
+Bug Buzz is a mandatory STAB move that is effectively unresisted because of Tinted Lens. Air Slash is another STAB move that provides coverage against Fighting-types and comes with a 30% flinch chance, although it is weaker than Bug Buzz. Giga Drain nails Swampert and Rhyperior and it also hits other targets weak to it slightly harder than Bug Buzz. In the last slot, U-turn can be used to provide some momentum for your team and to let Yanmega avoid a potentially bad matchup. Sleep Talk is another option that can be used if you want a sleep absorber or if you do not like the possible Stealth Rock damage that comes with switching when using U-turn.
 
 Set Details
 ========
 
-Maximum investment in Special Attack and Speed allows Yanmega to be as fast and powerful as possible. With a Modest nature, Yanmega can net some key 2HKOs, including a 2HKO against specially defensive Mega Aggron and a chance to 2HKO physically defensive Florges after Stealth Rock. However, a Timid nature can be helpful for outspeeding Pokemon such as Nidoking and Roserade. Choice Specs is the item of choice on this set, as it allows Yanmega to hit extremely hard in combination with Tinted Lens, which lets Yanmega bypass resistances from the opposing Pokemon, essentially allowing its moves to be nearly unresisted.
+A Timid nature is preferred to outspeed maximum Speed Nidoking, Roserade, Porygon-Z, and Adamant Haxorus. However, a Modest nature can be used to give some extra power, and could possibly net Yanmega 2HKOs against some walls such as Hippowdon and Porygon 2. Choice Specs makes Yanmega much better at performing its job of wallbreaking by boosting its damage output, while Tinted Lens is the ability chosen to make Yanmega's moves effectively unresisted and very hard to switch into.
 
 Usage Tips
 ========
 
-It's important to try to keep Stealth Rock off the field as much as possible in order to increase Yanmega's longevity. Bug Buzz will be the move it'll be using most of the time, as it's basically unresisted thanks to Tinted Lens. U-turn will be used a decent amount too, especially against more offensively-inclined teams to help gain momentum. Depending on what nature it's running, make sure you know what Yanmega can and can't outspeed. If Yanmega falls asleep while running Sleep Talk, be wary of the amount of possible sleep turns it has left, or else you may use Sleep Talk on the turn it wakes up.
+Yanmega should generally be spamming its STAB moves, as Giga Drain isn't a good move to be Choice-locked into. Be especially wary of hard switching in Yanmega, as even neutral STAB moves can severely dent it. U-turn is a good move to use if you predict switch-ins that Yanmega cannot deal with, such as Florges or Blissey. Keep Stealth Rock off the field, as it will severely hamper Yanmega by taking away half of its health each time it switches in, which is a bigger problem with U-turn switches. Finally, try not to take too many risks by relying on Sleep Talk, as the number of turns that Yanmega will sleep for and what move it will pick are down to luck.
 
 Team Options
 ========
 
-Rapid Spin or Defog support is close to necessary, as Yanmega loses 49% of its health to Stealth Rock. Good users of the move include Starmie, Mega Blastoise, Crobat, Donphan, Flygon, and Empoleon. Rhyperior, Mega Ampharos, and Rotom-H can take Fire-, Flying-, and Electric-type attacks for Yanmega with ease, with the latter also being able to take Ice-type attacks for Yanmega. Pokemon that deal with Blissey and Florges, such as Nidoking, Nidoqueen, and Jirachi are all helpful partners, as Blissey and most variants of Florges have enough Special Defense to reliably wall Yanmega. Pokemon which can set up Spikes, such as Roserade and Froslass, help Yanmega wallbreak much easier. Generally, offensive Pokemon that dislike stall teams appreciate Yanmega's ability to wallbreak.
+Hazard removers such as Crobat, Donphan, and Empoleon are must-have teammates to remove Stealth Rock. Bulky pivots such as Mega Ampharos and Rotom-H are good partners, as Yanmega switches in and out frequently, and Rotom-H in particular has good type synergy with Yanmega. Pokemon that can break through Blissey and Florges, such as Toxicroak and physical Lucario, help Yanmega greatly. Toxicroak and Lucario also have priority to alleviate Yanmega's weakness to faster teams. Faster teammates help Yanmega deal with fast offensive teams; for example, Mega Sceptile and Noivern also appreciate Yanmega dealing with more bulky teams.
 
 Speed Boost
 ########
 name: Speed Boost
-move 1: Bug Buzz
-move 2: Air Slash
-move 3: Giga Drain / Ancient Power
-move 4: Protect
+move 1: Protect
+move 2: Bug Buzz
+move 3: Air Slash
+move 4: Ancient Power / Giga Drain
 ability: Speed Boost
 item: Life Orb
 evs: 252 SpA / 4 SpD / 252 Spe
@@ -50,39 +50,35 @@ nature: Modest
 Moves
 ========
 
-Bug Buzz is Yanmega's main STAB attack, having the highest Base Power of any of its moves. Air Slash provides a secondary STAB move that hits the Fighting-types that resist Bug Buzz. Protect allows Yanmega to get a guaranteed Speed boost, something crucial for starting a sweep. Giga Drain beats bulky Water-, Ground-, and Rock-types such as Swampert, Hippowdon, and Rhyperior while also healing off Life Orb and Stealth Rock damage. Ancient Power is an option, however, to hit the Flying- and Fire-types such as Chandelure and Noivern that resist Yanmega's main STAB move. It's also a great move to catch Fletchinder on the switch, a Pokemon that would otherwise deal with Yanmega quite easily.
+Protect lets Yanmega get a free Speed Boost, and as a result, outspeed much of the boosted tier. Bug Buzz is a reliable STAB move and has high Base Power compared to the rest of Yanmega's moves. Air Slash is another STAB move that provides coverage and comes with a handy 30% flinch chance. Ancient Power hits Fletchinder on the switch and hits other Fire-types such as Rotom-H, which resists both of Yanmega's STAB moves, and Chandelure. Giga Drain gives Yanmega more longevity while also hitting Water- and Ground-types such as Swampert, Rhyperior, and Blastoise.
 
 Set Details
 ========
 
-Maximum Special Attack and Speed investment with a Modest nature makes Yanmega as powerful and as fast as possible, with emphasis on Special Attack due to Speed Boost already raising Yanmega's Speed to great levels. Life Orb gives Yanmega as much power as possible, while Speed Boost allows Yanmega to boost its Speed and clean late-game.
+Maximum Special Attack and Speed EVs give Yanmega power and let it outspeed as many foes as it can. A Modest nature is preferred because Yanmega needs all the power it can get, and Speed Boost already makes Yanmega fast. Life Orb is the item of choice, as it boosts all of Yanmega's moves and allows it to change moves. Speed Boost is essential for pulling off a sweep, as it makes sure Yanmega gets harder to revenge kill without priority.
 
 Usage Tips
 ========
 
-When using Yanmega, make sure it's because of its positives over Sharpedo; slightly better bulk, a Ground-type immunity, and a better way of dealing with Grass-types are a few of the advantages Yanmega has over Sharpedo. Try to use Yanmega late-game, when most of your opponent's team has been heavily weakened. Using Protect the first turn you send out Yanmega is important to give it an immediate Speed boost. Keeping Stealth Rock off the field is important to give Yanmega the highest chance of sweeping.
+Yanmega should usually use Protect the first turn to get a free Speed Boost unless you know for sure that it can outspeed the opposing Pokemon. Keep Stealth Rock off your side of the field because together with Life Orb recoil, it greatly increases the chance of Yanmega being shut down by priority. Try to save Yanmega for late-game because Speed Boost Yanmega has less wallbreaking capabilities than Tinted Lens variants but has an easier job cleaning with weakened checks and counters. Make sure you do not attempt a sweep while your opponent still has powerful priority users such as Honchkrow or Fletchinder, as they can easily take out Yanmega.
 
 Team Options
 ========
 
-Once again, Rapid Spin or Defog support is support essential. Good users include Starmie, Mega Blastoise, Crobat, Donphan, Flygon, and Empoleon. Pokemon that can deal with Blissey and Florges, such as Nidoking, Nidoqueen, and Jirachi are all helpful partners, as Blissey and Florges can easily stop Yanmega from sweeping. Wallbreakers are generally helpful, as Yanmega has trouble getting past a lot of walls without Tinted Lens. Notable wallbreakers include Life Orb Mienshao, Honchcrow, Chandelure, Porygon-Z, Victini, Nidoking, and Mienshao. Toxic Spikes support from Nidoqueen and Tentacruel is helpful, as not only can Yanmega gain a Speed boost from a Protect, but also weaken a Pokemon into KO range. Rotom-H can cover Yanmega's Fire-, Electric-, Flying-, and Ice-type weaknesses, while Pokemon such as Mega Ampharos and Rhyperior can cover Yanmega's Fire-, Electric-, and Flying-type weaknesses. Hippowdon can also take Rock- and Electric-type attacks with ease. Pokemon which can set up Spikes, such as Roserade and Froslass, help Yanmega clean much easier. Essentially, any team looking for a late-game cleaner will appreciate Speed Boost Yanmega.
+Reliable entry hazard removers are a must; Pokemon that can do this include Empoleon, Mega Blastoise, and Donphan. Pokemon such as Nidoking, Lucario, and Mienshao are helpful, as they can reliably deal with Steel-types, which wall this set. Blissey and Florges also wall this set, so Pokemon that can deal with them such as Lucario and Toxicroak make for good partners. Entry hazard setters such as Hippowdon and Roserade are good teammates because the chip damage makes it much easier for Yanmega to clean. Powerful wallbreakers such as Choice Band Krookodile and Choice Specs Porygon-Z that can weaken Yanmega's checks and counters are also much appreciated. Sometimes you can take advantage of attempts to predict Protect to damage a foe and get it into KO range when it normally would have been able to take one hit.
+
 
 Other Options
 ########
 
-A set with Endure + Weakness Policy can actually be very effective, as it makes use of Yanmega's many weaknesses to give it a +2 boost, which in combination with Speed Boost, makes Yanmega both fast and powerful. It's not as consistent as Life Orb, however, making Life Orb the generally superior option. Hidden Power Ground hits Fire-types and Steel-types for super effective damage, though most Steel-types don't take very much damage from Hidden Power Ground due to its low Base Power. Psychic can be used on the Choice Specs set to hit Pokemon such as Nidoqueen, but it's usually better just spamming Bug Buzz. Finally, Shadow Ball can hit Chandelure super effectively, but has very little utility outside of that.
+Weakness Policy and Endure can be better than the typical Speed Boost set in some cases, as using Reversal can also help Yanmega break through Chansey; however, it is somewhat gimmicky and is outright useless if the foe has priority moves or does not use a super effective move. Shadow Ball is an alternate move choice that can hit Chandelure harder than any of Yanmega's other moves, but it is too situational to be used over Giga Drain or Ancient Power, as they provide much more important coverage. Psychic hits Nidoqueen, Crobat, and Tentacruel harder than Air Slash but provides no other coverage, making it another very situational move. Hypnosis is an option to surprise some of Yanmega's usual checks or counters, but the accuracy is a huge letdown and the loss of coverage is no good for Yanmega. Tailwind can be used as a last-ditch team support move, but once again, it is very hard to find a place for it.
 
-Checks & Counters:
+
+Checks & Counters
 ########
 
-**Stealth Rock**: Stealth Rock strips Yanmega of a large amount of its health each time it switches in, making it a very effective tool at wearing Yanmega down. Good users of Stealth Rock include Nidoqueen, Hippowdon, Azelf, and Mega Aggron.
+**Special Walls**: Blissey and Florges can tank anything Yanmega has on either set and heal off the damage.
 
-**Florges and Blissey**: Both Florges and Blissey can use their massive special bulk to wall anything Yanmega throws at it. It's important to note, though, that Modest Choice Specs Tinted Lens Yanmega has a chance to 2HKO physically defensive Florges after Stealth Rock.
+**Priority Users**: Priority users such as Fletchinder, Honchkrow, and Cloyster can generally pick off Yanmega due to its frail defenses, although they don't have an easy time switching in.
 
-**Steel-types**: Steel-types such as specially defensive Mega Aggron and Empoleon wall the Life Orb set with ease. They do not enjoy taking Modest Bug Buzzes from Tinted Lens variants, however.
-
-**Flying-types**: Flying-types such as Mega Aerodactyl and Crobat resist Bug Buzz and can retaliate with a super effective STAB move. The Speed Boost set can use Ancient Power, however, to deal good amounts of damage to them.
-
-**Fire-types**: Fire-types such as Chandelure, Entei, and Infernape resist Bug Buzz and can OHKO with their powerfu STAB attacks. Fletchinder gets a special mention for 4x resisting Bug Buzz and OHKOing back with Acrobatics. They do not like getting hit by Ancient Power, however.
-
-**Faster Attackers** While nothing really enjoys switching in on the Choice Specs set, most fast attackers can easily revenge kill it. Examples include Victini, Darmanitan, Mienshao, and Mega Houndoom.
+**Stealth Rock**: Stealth Rock takes away half of Yanmega's health each time it switches in, and although this can be somewhat remedied by tweaking EVs so that Yanmega can switch in twice without fainting, it still makes Yanmega much easier to KO.

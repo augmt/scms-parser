@@ -1,52 +1,57 @@
 Overview
 ########
 
-With access to the most powerful boosting move in Shell Smash, Cloyster finds a strong place in the UU metagame. Cloyster's ability, Skill Link, effectively gives it a 125 Base Power Ice-type attack in Icicle Spear, which hits very hard and breaks Focus Sash. Cloyster also has Rock Blast, which complements its main attack Icicle Spear by providing very good coverage alongside it. Cloyster also has an incredible base 180 Defense stat, allowing it to set up on many physical attackers lacking a super effective move. Cloyster's Water typing is very potent offensively and defensively, with a decent amount of resistances. However, its secondary Ice typing gives Cloyster a multitude of weaknesses that can be taken advantage of. Cloyster also has a horrendously low Special Defense stat of 45, which is problematic when considering the various powerful special attackers in the tier. Also, Cloyster is fairly weak and slow before a Shell Smash boost. It is generally walled by Water- and Steel-types, which are very common in the tier. Lastly, Cloyster is weak to Stealth Rock and is susceptible all other forms of entry hazards, so it requires a significant amount of team support.
+Cloyster has always been an amazing cleaner, especially with access to Shell Smash, one of the best boosting moves in the game. Cloyster has an amazing 180 Defense stat, though it has a mediocre HP stat and subpar defensive typing. Every other stat is either average or below average on Cloyster. Contrary to Cloyster's typing from a defensive point of view, Cloyster actually has quite the good offensive typing. Lastly, Cloyster has access to Skill Link, which is an ability that complements its movepool.
 
-Shell Smash
+The Janitor
 ########
-name: Shell Smash
+name: The Janitor
 move 1: Shell Smash
 move 2: Icicle Spear
-move 3: Rock Blast
-move 4: Hydro Pump / Ice Shard / Explosion
+move 3: Rock Blast / Explosion
+move 4: Ice Shard / Hydro Pump
 ability: Skill Link
-item: Focus Sash / King's Rock / Life Orb
+item: Focus Sash / Life Orb
 evs: 252 Atk / 4 SpA / 252 Spe
-nature: Naive / Jolly
+nature: Jolly / Naive
 
 Moves
 ========
 
-Shell Smash boosts Cloyster's Attack, Special Attack, and Speed to extremely high levels, often allowing it to sweep or heavily dent the opponents team. Icicle Spear is Cloyster's main STAB move that has 125 Base Power thanks to Skill Link, and it hits very hard after the Shell Smash boost. Rock Blast provides good coverage, hitting Ice- and Fire-types, and will hit five times thanks to Skill Link. Hydro Pump is a good Water-type STAB move that hits Steel-types which resist Cloysters other moves, and also deals more damage to physically defensive Pokemon. Ice Shard can be used for a form of priority, but it leaves Cloyster completely walled by Steel-types. Cloyster is a good lure to Water-types, so Explosion can be used to OHKO or severely damage most of them after a Shell Smash. Cloyster can opt for Surf instead of Hydro Pump, but Cloyster wants to get as much damage off as it can as it is a mid- or late-game sweeper.
+Shell Smash is mandatory on this set, as it allows Cloyster to sweep opposing teams late-game. Icicle Spear is its best STAB attack that hits 125 Base Power after all 5 hits and can also break Focus Sashes and Sturdy. Rock Blast is great coverage for Cloyster and can break through the aforementioned Focus Sashes and Sturdy due to Skill Link. Explosion is a nice option, as it allows Cloyster to remove some of its supposed checks and counters for other Pokemon to clean up the mess. Ice Shard gives Cloyster a form of priority to sweep past other priority users when they are at low health such as Honchkrow and Toxicroak, whereas Hydro Pump is a great STAB option that allows Cloyster to remove checks such as Mega Aggron and Bronzong after prior damage and a boost.
 
 Set Details
 ========
 
-Maximum Attack investment is used for Cloyster to hit as hard as possible, and maximum Speed investment is used to outspeed as many Pokemon as possible after a Shell Smash. A Naive nature is preferred when using Hydro Pump, but a Naughty or Adamant nature can be used for more physical power. However, without a Speed-boosting nature Cloyster is outsped by common Choice Scarf users, such as Hydreigon and Mienshao. Skill Link allows Icicle Spear and Rock Blast to hit five times. Focus Sash is used to almost guarantee that Cloyster can set up a Shell Smash, especially against offensively based teams. A King's Rock can potentially give Cloyster a free turn to attack thanks to the decent flinch chance coupled with Skill Link, but it is generally unreliable. Life Orb is an option for wallbreaking, as Cloyster's Life Orb-boosted attacks can massively dent or OHKO bulky Water-types such as Swampert after a boost with some prior damage.
+252 Attack and Speed EVs allow Cloyster to have maximum sweeping potential. The remaining 4 EVs are put into either Special Attack or Special Defense stats depending on whether Hydro Pump is being used. A Jolly or Naive nature is used to maximize Speed, allowing Cloyster to outspeed every Choice Scarf user in the tier up to Infernape. A Focus Sash is used to allow Cloyster to live any one hit and guarantee that Cloyster can use a Shell Smash whereas a Life Orb allows extra damage output, which is crucial when using Explosion or Hydro Pump.
+
 
 Usage Tips
 ========
 
-Don't set up on special attackers if Cloyster does not have a Focus Sash, as it cannot take even the weakest of special attacks. Additionally, while Cloyster has a great Defense stat, it should not set up on physical attackers with a super effective attack. Cloyster is best used mid- or late-game, especially after its checks and counters have been weakened. It is important to wear down bulky Water- and Steel-types before attempting a sweep, unless Cloyster is carrying Explosion. When using Explosion, it is best to surprise the opponent with it early- or mid-game in order to severely weaken or KO a teammate's check or counter.
+Cloyster should be sent in to clean the remains of the enemy team, especially after all its counters and checks have either been removed or severely weakened. Try to clear out entry hazards from your side of the field so that Cloyster's Focus Sash remains intact or, if using a Life Orb, you can bluff a Focus Sash.
 
 Team Options
 ========
 
-Celebi and Shaymin are great teammates because they can wear down bulky Water-types that trouble Cloyster, and are able to absorb status with Natural Cure. Entry hazard control is extremely important for Cloyster, as it is weak to Stealth Rock and is vulnerable to all other forms of entry hazards. Rapid Spin and Defog users such as Forretress, Crobat, and Empoleon are good Pokemon for this role. Pokemon like Darmanitan that don't appreciate bulky Water-types appreciate Life Orb Cloyster's support, as it can lure in and OHKO most of them after a Shell Smash.
+Entry hazard setters and removers, Volt Switch and U-Turn users, and wallbreakers all work well with Cloyster. Forretress deserves a special mention for being able to fulfill the three former roles. Azelf, Aggron, and Froslass can also fulfill the entry hazard setter role. Heliolisk and Infernape make for good Volt Switch and U-Turn partners. Crobat and Tentacruel can remove entry hazards fairly well. Life Orb Hydreigon and Choice Band Darmanitan can break the walls that hinder Cloyster. Choice Scarf Pokemon such as Darmanitan that can utilize Cloyster's Explosion, which removes most of the bulky Water-types, most notably Suicune and Alomomola.
+
 
 Other Options
 ########
 
-A Lum Berry can stop Pokemon like Sableye from halting Cloyster's sweep and enable Cloyster to set up on Pokemon that would try to status it like Swampert. White Herb can be used to restore Cloyster's defenses after a Shell Smash to make it much less vulnerable to priority attacks. Hidden Power Grass is a nice way to 2HKO Swampert and other bulky Water-types after Stealth Rock damage, but it has little use outside of that. Lastly, Razor Shell can be used as a reliable physical Water-type STAB move.
+A Choice Scarf set can be used to get surprise revenge kills on quick Pokemon such as Infernape and Crobat, although it lacks a lot of Speed and hits weakly without the boosts from Shell Smash. Razor Shell can be used on the last slot of the main set but is outclassed by Hydro Pump. Cloyster has access to Rapid Spin, which could be used in a lead set, but is generally a bad set due to Cloyster's inability to perform the role adequately. A specially offensive or specially biased Shell Smash set can be used but lacks the sweeping potential the physical and mixed sets have. White Herb, King's Rock, and Lum Berry are options for the item on the main set but are either generally outclassed, luck-reliant, or extremely situational in that order.
 
-Checks and Counters
+
+Checks & Counters
 ########
 
-**Bulky Water-types**: Suicune, Alomomola, Vaporeon, and Quagsire are great examples of Pokemon that can wall Cloyster very well, but all of them bar Quagsire must watch out for Explosion variants of Cloyster.
+**Physically Bulky Water-types**: Water-types that have a decently high Defense stat such as Suicune, Alomomola, and Blastoise can take a +2 Rock Blast from Cloyster and retaliate with a potential burn from Scald.
 
-**Bulky Steel-types**: Jirachi can take a +2 Hydro Pump from Cloyster and proceed to paralyze it. Mega Aggron can do the same, but not as easily.
+**Steel-types**: Steel-types can take any hit Cloyster can throw at them at +2 and retaliate, although they might not take it well after being weakened.
 
-**Priority**: Sucker Punch, Extreme Speed, and Mach Punch are all powerful forms of priority that can stop Cloyster in its tracks. However, Sucker Punch users have to watch out for Ice Shard, which may outprioritize them and cause Sucker Punch to fail.
+**Fighting-type Priority Moves**: Fighting-type priority moves such as Vacuum Wave and Mach Punch can easily check Cloyster, as its only form of priority is Ice Shard which won't even 2HKO users of each move.
 
-**Empoleon**: Empoleon is the best answer to Cloyster, as it resists all of Cloyster's moves.
+**Mixed Walls**: Mixed walls such as Cresselia and Porygon2 can take any one hit from Cloyster at +2 and retaliate.
+
+**Empoleon**: Empoleon resists every move Cloyster can throw at it, although the specially defensive variant has a chance to be OHKOed by a Life Orb-boosted Explosion after a Shell Smash.

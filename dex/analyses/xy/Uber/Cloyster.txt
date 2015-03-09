@@ -1,15 +1,16 @@
 Overview
 ########
 
-With access to Rapid Spin, two types of entry hazards, strong multi-hit moves, and Shell Smash, Cloyster carves itself a very specific niche in XY Ubers. It is particularly useful as a lead for offensive teams due to its ability to control entry hazard setup. Cloyster sets itself apart from all of its competitors because of its offensive presence, which helps it defeat many spinblockers and other entry hazard users. Additionally, its colossal base 180 Defense allows it to take neutral physical hits easily, even without investment. However, Cloyster will be brought down to its Focus Sash by almost any special attack, and it is often unable to do its job against bulky opponents. Moreover, Cloyster is largely useless outside of this niche; the abundance of support Arceus formes with Will-O-Wisp and the popularity of Kyogre render it ineffective as a sweeper in comparison to in BW. Regardless, when used correctly, Cloyster is an excellent asset to offensive teams.
+Cloyster is one of the most offensively-oriented entry hazard controllers in the tier and requires prediction and very aggressive play in order to keep the field free of entry hazards. Cloyster also has access to Spikes and the coveted Toxic Spikes to further support the team, and it uses its great offensive typing, powerful STAB move in Icicle Spear, and excellent boosting move in Shell Smash to pressure opposing Defoggers and entry hazard setters alike. Cloyster can beat most opposing entry hazard leads, such as Deoxys-S and Deoxys-A, or can outspeed and wear down bulky entry hazard setters such as Primal Groudon or Dialga for the next Pokemon to take them out. However, Cloyster dislikes bulky Defoggers that can shrug off its STAB, such as Arceus and Scizor, and requires a bit of team support to make the most of its niche. Overall, Cloyster is an excellent utility Pokemon that, although it requires very aggressive play, can control entry hazards in your favor and set up your threatening sweepers to put in lots of work.
 
-Offensive Support
+
+Hazard Control
 ########
-name: Offensive Support
-move 1: Icicle Spear
-move 2: Rapid Spin
-move 3: Shell Smash
-move 4: Spikes / Toxic Spikes / Explosion
+name: Hazard Control
+move 1: Rapid Spin
+move 2: Toxic Spikes / Spikes
+move 3: Icicle Spear
+move 4: Shell Smash / Explosion
 ability: Skill Link
 item: Focus Sash
 evs: 252 Atk / 4 Def / 252 Spe
@@ -18,49 +19,35 @@ nature: Jolly
 Moves
 ========
 
-Icicle Spear will always hit five times thanks to Skill Link, making it a fully accurate 125 Base Power STAB move that will OHKO frail leads such as Deoxys-A straight through their Focus Sash. This forces them to choose between attacking Cloyster and bringing it down to its own Focus Sash, settling for a single layer of entry hazards, or switching out; each of these scenarios will usually allow Cloyster to either remove the opposing entry hazard user with Icicle Spear and/or their entry hazards with Rapid Spin, or simply switch out and come back in later with its Focus Sash still intact. At the cost of physical bulk, Shell Smash allows Cloyster to pose an immediate danger to bulkier leads and most spinblockers with Icicle Spear while maintaining the threat of Rapid Spin and entry hazards. For example, a +2 Icicle Spear will easily OHKO Groudon and Deoxys-S, while bringing support Dialga to its knees.
-
-The choice between Spikes and Toxic Spikes is mainly one of personal preference. In general, Toxic Spikes is preferable on teams that struggle with certain setup sweepers, such as Substitute + Calm Mind Arceus formes lacking Recover. However, as Cloyster will generally only manage to get a single layer down, if any, Toxic Spikes should not be used on status-heavy teams, as normal poison status can potentially protect an opposing Pokemon that needs to be paralyzed, burned, or put to sleep. Alternatively, Explosion is a viable option in the last slot, as at +2 it is able to OHKO all but the physically bulkiest variants of Ho-Oh and Kyogre.
+Cloyster's main niche in Ubers is to provide entry hazard control for your team. Thus, Rapid Spin is a necessity on this set, as well as the entry hazards of your choice, Toxic Spikes or Spikes. Offensively-incorporated Toxic Spikes are a big threat in the current meta, as they put a timer on offensive setup sweepers such as ExtremeKiller Arceus and Geomancy Xerneas while hampering bulky Pokemon such as Primal Groudon. However, Spikes can be used if your team requires the immediate extra damage to better punish switches. For a utility Pokemon, Icicle Spear is a great STAB attack, as Skill Link boosts its Base Power to 125 and it has good coverage in Ubers, dealing super effective damage to Giratina, the most common spinblocker. Shell Smash allows Cloyster to aggressively pressure the opposing team, but Explosion can be used to pseudo-spinblock or to deal damage to Pokemon such as Kyogre.
 
 Set Details
 ========
 
-Maximum Attack investment allows Icicle Spear to hit as hard as possible, while maximum Speed investment with a Jolly nature lets Cloyster outrun the entire unboosted metagame after a Shell Smash. It also allows Cloyster to outspeed several Pokemon with a higher but uninvested base Speed stat, such as Groudon, Dialga, and Deoxys-D. A Focus Sash ensures that Cloyster is able to use Rapid Spin if necessary.
+Maximum Attack and Speed investment allow Cloyster to optimally fulfill its role, by maximizing Icicle Spear's damage output and letting Cloyster outpace bulky entry hazard users, respectively. With a Jolly Nature, Cloyster can outspeed uninvested Lugia and, after using Shell Smash, the entire unboosted metagame. Focus Sash is the item of choice, as it guarantees a spin or a turn of setup against faster, more powerful foes. It also lets Cloyster act as an emergency check to dangerous setup sweepers such as Mega Salamence and Geomancy Xerneas.
 
 Usage Tips
 ========
 
-The purpose of using Cloyster is to guarantee a single removal of entry hazards, specifically Stealth Rock, as well as to KO or severely weaken the opponent's entry hazard setter or spinblocker. Cloyster should generally be led with, but if it is not matched up against its desired target, it should be switched out in order to preserve its Focus Sash. However, it should be brought back in immediately once the entry hazard user shows up later in the game in order to threaten to use Rapid Spin and maintain offensive momentum. It's important to note that Cloyster does not necessarily need to KO the opponent's entry hazard user if it is slow, but simply weaken it to the point where its teammates can deal with it at any given moment before it gets another chance to set up. Thus, Cloyster's number one priority should be ensuring that its side of the field is free of all entry hazards when it faints. Finally, do not expect Cloyster to be able to set up its own entry hazards every game, as that is not its primary objective. However, using Spikes or Toxic Spikes punishes switches effectively, and the ability to stack them will often force the opponent to deal with them quickly. Also, on occasion, having a layer of Spikes or Toxic Spikes up may be more beneficial than using Rapid Spin, though this is entirely matchup based.
+Cloyster is typically used as a lead, unless the opponent carries a Pokemon that could prevent Cloyster from accomplishing its role. Key Pokemon to look out for are sleep leads, such as Darkrai and Smeargle, or entry hazard setters that can beat Cloyster, such as the rare Forretress. Cloyster should be played extremely aggressively and switched directly into potential entry hazard setters such as Primal Groudon and Dialga to try preserving its Focus Sash. Free turns should be used to set up entry hazards, use Shell Smash, or deal damage with Icicle Spear, depending on the situation. Cloyster should try to deal as much damage as possible to bulky entry hazard setters to the point where your next Pokemon can reliably KO them, thus preventing entry hazards from being set up.
 
 Team Options
 ========
 
-Cloyster requires little to no support of its own, but it should be used on offensive teams alongside Pokemon that absolutely require Stealth Rock off of their side of the field. Ho-Oh is the main reason behind Cloyster's use, and it is a nightmare to play against when not plagued by Stealth Rock. Incidentally, Cloyster works well on sun teams because of its ability to threaten many bulky Ground-types that give them trouble, such as Landorus-T. Explosion is highly recommended if Cloyster is used on a sun team, as it can surprise Kyogre by OHKOing it at +2. Good Pokemon to pair with Cloyster also include those that appreciate its capacity to soften up or KO specific spinblockers. Extreme Killer Arceus is a notable example of this, able to plow through many teams that have a weakened or fainted Giratina forme.
+The premier teammate for Cloyster is Ho-Oh, as it appreciates the offensive entry hazard control Cloyster provides for it. Additionally, Toxic Spikes support can wear down Ho-Oh's checks, such as Arceus-Rock, Primal Groudon, and Zekrom. In return, Ho-Oh can use its Fire-type STAB moves or Earthquake to threaten the Steel-types that Cloyster has trouble with, such as Aegislash and Heatran. Choice Banded variants of Ho-Oh can also absorb Dark Void from lead Darkrai, one of the few leads that can beat Cloyster. Primal Groudon is another good teammate for Cloyster, as its STAB moves can hit many entry hazard setters in Ubers super effectively. This makes Groudon a good follow-up Pokemon to take out weakened Dialga, opposing Primal Groudon, Defog Scizor, and more. Groudon also provides Stealth Rock support for your team. In return, Cloyster can use its Ice-type STAB move to beat Groudon's checks, such as Giratina-O, Landorus-T, and Mega Salamence. Finally, ExtremeKiller Arceus is another good teammate for Cloyster, as it appreciates Primal Groudon and Giratina being worn down and the extra entry hazards allow it to secure more KOs.
+
 
 Other Options
 ########
 
-Cloyster does not have many other worthwhile options. Rock Blast hits Ho-Oh, Kyurem-W, and the odd Shuckle lead, but it is less useful overall than Explosion. Ice Shard provides Cloyster with a priority move, but it is too weak to be of much use.
+Because Cloyster has a very defined niche, its moveslots should generally not be changed outside of the options above. However, depending on your team, Cloyster has a few other things it can do to accomplish specific things. Firstly, Hidden Power Fire is an option, as it lets Cloyster beat Defog Scizor and the rare Forretress one-on-one and makes Cloyster a good lure in conjunction with a Pokemon such as Geomancy Xerneas, which appreciates these Steel-types being weakened or removed. Ice Shard is a very niche option that allows Cloyster to revenge kill weakened Mega Salamence or finish off Giratina-O before can use Shadow Sneak, but Cloyster is hard-pressed to find a slot to fit it in. Finally, an Adamant nature can be considered to improve Cloyster's damage output and still let it outspeed most of the Pokemon it has to; for example, Cloyster can still outspeed and has a good chance to OHKO maximum HP-invested Ho-Oh after Stealth Rock damage. However, Jolly is still preferred in most cases because Cloyster's main role is entry hazard control and it has a smaller chance of losing to arbitrary Speed creep.
 
-A full-on sweeping set utilizing a moveset of Shell Smash, Icicle Spear, Rock Blast, and Hydro Pump with a Life Orb or King's Rock equipped is usable, but such a set leaves Cloyster very prone to being burned or walled. More importantly, it will see very few opportunities to set up, though it can be done against Choice-locked Ice-type moves or with Wobbuffet support.
 
 Checks & Counters
 ########
 
-**Physically Bulky Tanks**: Nearly anything that can take an Icicle Spear will beat Cloyster one-on-one, but Cloyster's main jobs are spinning away entry hazards, weakening opposing Stealth Rock users, and optimally getting a layer of Spikes or Toxic Spikes down. Therefore, Pokemon that can stop it from doing these things are ideal, as is not allowing Cloyster to weaken or KO one's Stealth Rock user.
+**Sleep Leads**: Cloyster's premier counters are opposing sleep leads such as Darkrai and Smeargle, which both outspeed Cloyster and can put it to sleep, preventing it from spinning away or setting up entry hazards.
 
-**Priority Users**: Once Cloyster is down to its Focus Sash, it can easily be picked off by priority moves even after using Shell Smash. Using priority may also deprive Cloyster of chances to use Rapid Spin before fainting.
+**Opposing Entry Hazard Removers**: Support Arceus formes can tank Cloyster's Icicle Spear while burning Cloyster with Will-O-Wisp and Defogging Cloyster's entry hazards away. Additionally, Arceus-Ghost can reliably spinblock Cloyster, while Arceus-Poison can absorb Cloyster's Toxic Spikes. In a similar vein, Defog Scizor can easily take any of Cloyster's attacks barring the rare Hidden Power Fire and Defog Cloyster's entry hazards away. Some niche entry hazard users, such as Jirachi or Forretress, can beat Cloyster one-on-one while managing to keep their own entry hazards up. On the other hand, niche Rapid Spin users such as Tentacruel and Excadrill can also beat Cloyster one-on-one while removing its entry hazards. It is important to maintain offensive pressure on the opponent, as other Defog users such as Latios, Latias, and Giratina can come in after Cloyster faints and use Defog to clear away any entry hazards.
 
-**Spinblockers**: Ghost Arceus and Aegislash can take a +2 Icicle Spear and are immune to Explosion, while Sableye can burn Cloyster with Prankster Will-O-Wisp. However, all other viable Ghost-types barring physically defensive Giratina are OHKOed by a boosted Icicle Spear.
-
-**Darkrai**: Darkrai can put Cloyster to sleep and threaten to OHKO it in spite of its Focus Sash thanks to Bad Dreams.
-
-**Heatran**: Heatran takes little from Cloyster's attacks barring a rare Water-type move and can OHKO it if Lava Plume burns. It can then proceed to set up Stealth Rock.
-
-**Jirachi**: With Thunder Wave and Iron Head, Jirachi can ensure its own Stealth Rock stays up against Cloyster. Cloyster also can't hit Jirachi nearly hard enough to OHKO it without a significant amount of prior damage.
-
-**Forretress**: Forretress can set up its own hazards and spin away any that Cloyster uses, then use Volt Switch and bring out a Ghost-type.
-
-**Skarmory**: Skarmory works similarly to Forretress and is able to clear away Cloyster's entry hazards with Defog and set up its own. It can also use Whirlwind to force Cloyster out and remove any Shell Smash boosts.
-
-**Entry Hazard Removal**: In the event that Cloyster manages to get its own entry hazards down, Rapid Spin or Defog users can remove them. However, Defog should not be used if there are entry hazards on the opponent's side of the field, as it will remove them as well.
+**Fast Special Attackers**: While they cannot prevent Cloyster from setting up its entry hazards, any special attacker that can outspeed Cloyster will most likely 2HKO it due to Cloyster's abysmal special bulk, limiting it to one move. 

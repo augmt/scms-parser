@@ -1,13 +1,52 @@
-Swift Swim
+Overview
 ########
-name: Swift Swim
-move 1: Rain Dance / Tailwind
-move 2: U-turn
-move 3: Waterfall
-move 4: Toxic
-ability: Storm Drain / Swift Swim
-item: Damp Rock / Leftovers
-evs: 252 HP / 4 Def / 252 Spe
-nature: Jolly
 
-This is a sample set while we are currently working on analyses in the workshop.
+With Defog, Lumineon is able to carve itself a small niche in NU. Its pure Water typing coupled with respectable bulk allow Lumineon to take a few hits throughout the game when required. Its passable Speed without investment allows it to use U-turn to keep up momentum, which Defog normally kills; this is something many other Defoggers struggle to do. Storm Drain gives it additional opportunities to switch in and use Defog and allows it to take on some offensive Water-types one-on-one. Unfortunately, Lumineon is pitifully weak offensively, even after a Storm Drain boost. It also struggles to provide any other support for its team outside of Defog and U-turn. This, coupled with its lack of reliable recovery, really limits its usefulness on certain teams, as it often only gets one or two switches in per game due to the residual damage that accumulates.
+
+Defog
+########
+name: Defog
+move 1: Defog
+move 2: U-turn
+move 3: Scald
+move 4: Charm / Toxic
+ability: Storm Drain
+item: Leftovers
+evs: 208 HP / 252 Def / 48 Spe
+nature: Bold
+
+Moves
+========
+
+Defog allows Lumineon to support its team via entry hazard removal. Scald is the STAB move of choice, as nothing Lumineon fires off is going to hurt very much anyway, and the 30% chance to burn is always useful. U-turn is a great filler move and one of the main draws of using Lumineon, as it allows you to keep up momentum after going for Defog. Lumineon also can grant a rather slow U-turn against faster attackers, which Pokemon holding a status Orb appreciate. Charm prevents boosting sweepers such as Feraligatr, Bouffalant, Steelix, Carracosta, and Fraxure from using Lumineon as setup fodder. Charm's -2 Attack drop will overpower any pokemon that boost one stage at a time and it has equal PP to Swords Dance, allowing Lumineon to stall setup sweepers out. Charm also allows Lumineon to tank the hits from slower physically offensive Pokemon, such as Steelix, Seismitoad, Hariyama, and Garbodor, and then force them to switch out, which Lumineon can take advantage of with U-turn for free momentum. Toxic can be used, as it also puts setup sweepers on a timer; however, due to key targets such as Steelix, Zangoose, Mawile, and Garbodor being immune to it and many other Swords Dance users carrying Lum Berry, Charm is a more reliable option. Ice Beam could be used to beat Grass-types, but it's so weak that Lumineon should just U-turn out into another Pokemon in most cases.
+
+Set Details
+========
+
+A physically defensive spread is used because it takes advantage of Lumineon's decent natural bulk, typing, and ability. When coupled with Scald burns and Charm, this makes it a much more reliable Defogger than an offensive spread would. The Speed EVs allow Lumineon to outrun Adamant Flareon and uninvested Xatu while sacrificing negligible bulk. A specially defensive spread could also be used in order to take Fire-type attacks with greater ease, but that's better left to Mantine. A fast spread could be used, with investment in Speed instead of Defense, but it's often better to take advantage of Lumineon's bulk and ability to Defog multiple times per game than to get off a quick Defog and faint. Storm Drain gives Lumineon a useful immunity, and its other abilities don't often come into play anyway.
+
+Usage Tips
+========
+
+If the opponent has a Water-type that isn't Ludicolo, Lumineon is a pretty safe switch-in. Because Lumineon is immune to their STAB and takes insignificant damage from most coverage options, it can safely Defog any potential entry hazards. Other Pokemon that Lumineon can switch into include bulky Ground-types such as Claydol and Sandslash and Fire-types such as Flareon. If the opponent sends in a slower physically offensive Pokemon, it's almost always best to have Lumineon use Charm and take a heavy hit, then U-turn out on the next turn. Once entry hazards are gone, it's much more useful to have Lumineon take hits rather than its teammates. With maximum HP investment, Lumineon can act as an emergency check to Typhlosion or other Fire-types, as Typhlosion's Choice Specs boosted Eruption will never OHKO Lumineon, while Scald will do over 50%—enough to weaken Eruption to the point where Lumineon can avoid being 2HKOed. Obviously, it should not be your primary switch-in, though. Be cautious if the opponent has a Defiant user such as Pawniard. While slower Defiant users do have to fear a burn from Scald the following turn, Lumineon should still be careful about giving them a free +2 Attack boost with Defog.
+
+Team Options
+========
+
+Pokemon weak to Stealth Rock such as Typhlosion, Scyther, Archeops, and Jynx appreciate Lumineon's Defog support. Pairing Lumineon with them significantly increases their longevity. Balanced teams appreciate Lumineon, as it can offer Defog support while also serving as a solid answer to opposing offensive Water-types such as Feraligatr and Samurott. Lumineon fits very nicely on VoltTurn teams, as it gets access to both entry hazard control and U-turn. Common partners on VoltTurn teams include Heliolisk, Rotom, Scyther, Liepard, Archeops, Lanturn, Probopass, and Mesprit.
+
+Other Options
+########
+
+This thing literally gets no other moves. It's pathetic.
+
+Checks & Counters
+########
+
+**Electric-types**: Almost every Electric-type can switch into Lumineon without fear, outspeed it, and force it out with the threat of a KO. The only thing Lumineon can deter switch-ins with is a Scald burn, which most Electric-types don't care about anyway, as they're special attackers. A special mention goes to Heliolisk, as it's immune to Scald as well, granting it a free switch.
+
+**Grass-types**: Grass-types such as Lilligant, Lum Berry Virizion, and defensive Vileplume have little to fear from a Lumineon, as a weak U-turn out or a Scald burn are the only outcomes to worry about. Almost any Grass-type can immediately threaten to KO Lumineon with its STAB moves, or in Lilligant's case, set up on it.
+
+**Offensive Pressure**: Effective double switching can cause Lumineon to take entry hazard damage and then immediately be forced out without having a chance to Defog. The additional residual damage accumulated throughout the battle makes it extremely difficult for Lumineon to Defog more than once or twice per game.
+
+**Special Setup Sweepers**: Pokemon such as Lilligant and Calm Mind Xatu can take advantage of the free turns Lumineon provides with Defog and U-turn to get an easy boost.

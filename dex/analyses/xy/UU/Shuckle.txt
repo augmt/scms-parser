@@ -1,52 +1,48 @@
 Overview
-#######
-
-With the transition to XY, Shuckle got access to Sticky Web, propelling it into the upper tiers. Shuckle has carved a niche for itself as the most reliable Sticky Web setter. It also gets access to Stealth Rock, further augmenting its hazard-laying abilities. In addition, Shuckle can't be set up on thanks to its access to Encore.
-
-However, not everything is great for our rocky turtle. While its huge base 230 defenses may seem tempting, they're offset by a terrible base 20 HP stat. Furthermore, it is weak to common attacking types and it has no reliable recovery, limiting its longevity to a few precious turns. Its terrible offensive stats condemn it to a support role, as it has to rely on Toxic or Infestation to do any damage. In addition, it is completely crippled by Taunt and Trick, though the former is somewhat mitigated by Mental Herb. It also receives decent competition from Smeargle and Galvantula as a Sticky Web setter, but it outshines them both as the most bulky and reliable user of the hazard. Nevertheless, Shuckle can provide valuable support to the right team, so underestimate it at your own risk.
-
-Sticky Web
 ########
-Name: Sticky Web
-Move 1: Sticky Web
-Move 2: Stealth Rock
-Move 3: Encore
-Move 4: Toxic / Knock Off
-Ability: Sturdy
-Item: Mental Herb / Leftovers
-EVs: 248 HP / 8 Def / 252 SpD
-Nature: Calm
+
+One would think a Pokemon with monstrous defensive stats and horrible attacking stats would never find a place on hyper offense, but Shuckle makes for an excellent lead thanks to its access to Stealth Rock and Sticky Web. Also, because of Shuckle's access to Sturdy, it can run a Mental Herb to negate Taunt once, guaranteeing that it can set up at least one entry hazard. Because of its high defensive stats, it has the bulk to often set both entry hazards. Shuckle also has a great support movepool including access to Encore, Infestation, and Knock Off. Sadly, Shuckle is held back by its extremely low Speed and lack of offensive presence.
+
+Holy Shuck!
+########
+name: Holy Shuck!
+move 1: Sticky Web
+move 2: Stealth Rock
+move 3: Encore
+move 4: Toxic / Knock Off
+ability: Sturdy
+item: Mental Herb
+evs: 248 HP / 252 Def / 8 SpD
+nature: Bold
 
 Moves
-======
+========
 
-Sticky Web is a phenomenally useful hazard, and Shuckle's number one mission is to set it up. Stealth Rock complements Sticky Web well, as it does a lot of damage to the Flying-types that are immune to Sticky Web. Encore is very important, as without it, Shuckle is huge setup bait for Pokemon such as Houndoom and Vivillon. It also generates useful momentum for Shuckle's team by forcing switches. Toxic is great for racking up damage and crippling threatening Pokemon. Knock Off is a great utility move for Shuckle to use, as it can cripple Pokemon that heavily rely on their items, such as Gligar, but it is quite weak coming from an uninvested base 20 Attack stat and can get in the way of other Knock Off users. Infestation can be used over Toxic to wear down Steel- and Poison-types, but against all other Pokemon, it's generally inferior. However, it does have the advantage of being able to trap the opponent, creating momentum.
+Sticky Web lowers the Speed of a foe switching in by one stage, allowing a slow, strong wallbreaker to become a threatening sweeper. Stealth Rock wears down foes, allowing your Pokemon to score OHKOs and 2HKOs they wouldn't otherwise. Encore locks the foe into the move that they last used, allowing you to easily switch in a Pokemon of your choice, as the foe is either forced to switch out or hit your Pokemon with a weak attack. Toxic is Shuckle's best way of dealing damage and can be used to wear down spinners and Defoggers with the exception of Forretress, Crobat, and Empoleon by spamming Stealth Rock and Sticky Web until Toxic KOes them. Knock Off can be used to remove the foe's item, but it deals very little damage. Finally, Infestation can be used to trap foes and has good synergy with Encore.
 
 Set Details
 ========
 
-248 EVs in HP and full investment in Special Defense with a Calm nature gives Shuckle maximum bulk on the special side while minimizing damage from Foul Play, Stealth Rock, and confusion. A specially defensive spread is generally preferred over a physically defensive one in order to face down Pokemon such as Houndoom, but a physically defensive spread can be used if your team handles special attackers well. A Careful nature is preferred if Knock Off is used in the last slot. The rest of the EVs are thrown into Defense. Mental Herb gives Shuckle a chance against users of Taunt and status and guarantees the setup of at least one of its hazards. However, Leftovers can be used for more longevity in order to set up hazards multiple times a match if needed, but make sure to have an answer to Taunt leads, which are common in the metagame. Sturdy ensures that Shuckle will lay down either Sticky Web or Stealth Rock without getting OHKOed.
+The EVs don't really do much for Shuckle, but extra Defense allows Shuckle to take multi-hit moves better, as they are all physical, and allows Shuckle to set up entry hazards against more threats. The combination of Sturdy and a Mental Herb guarantees that Shuckle is able to set up at least one layer of entry hazards, as Sturdy guarantees Shuckle survives one attack and Mental Herb grants a one-time immunity to Taunt or Encore.
 
 Usage Tips
 ========
 
-As a general rule of thumb, use Stealth Rock before Sticky Web if the opponent has a Pokemon that is 4x weak to it, or if the opponent has two or more Pokemon that are immune to Sticky Web. Otherwise, always use Sticky Web first. Once Shuckle has have laid down both hazards, it can use a combination of Infestation and Encore (if running Infestation) to trap the opponent and switch to an appropriate counter. However, do not hesitate to use Encore if you predict a setup move. Encore should also be used when you predict Rapid Spin or Defog, as one of two things will happen: they will switch out, and Shuckle can get Sticky Web up on the switch, or they will stay in, and you can switch to a setup sweeper and try to sweep from there. Shuckle is best used as a lead, setting up hazards and using Infestation and Encore to mess with your opponent, switching out whenever necessary. If you need to, don't be afraid to use Shuckle as fodder, as its main job is to set up hazards. However, if you spot a potential Rapid Spin or Defog user on the opposing team, you should save Shuckle for later in order to set up hazards again if needed.
+Shuckle is best used as a suicide lead for offensive teams that can take advantage of the lowered Speed of the foes. However, if you can keep Shuckle around for later in the game to switch in and set up switching opportunities using Encore, then that is a good course of action.
 
 Team Options
-==========
+========
 
-Shuckle should only be used on teams that intend to abuse Sticky Web to the fullest. Therefore, Shuckle works well with any Pokemon that has high Attack or Special Attack and middling Speed; examples include, but are not limited to, Chandelure, Hydreigon, Exploud, Darmanitan, Victini, Nidoking, and Entei. Ghost-types are useful for blocking Rapid Spin, Chandelure and Trevenant being good examples. Magic Bounce users such as Xatu and Mega Absol also make great teammates, as they will usually deter the opponent from crippling Shuckle or setting up hazards of their own if they know a Pokemon with Magic Bounce is waiting in the wings.
+Strong wallbreakers such as Krookidile, Chandelure, Exploud, Lucario, Darmanitan, Machamp, and Heracross make for good partners for their ability to take advantage of Sticky Web and smash holes in the opponent's team. Chandelure gets a special mention for being able to spinblock thanks to its Ghost typing. Also, fast Taunt users such as Crobat and Mega Aerodactyl make for good partners for their ability to prevent the opponent from Defogging.
 
 Other Options
-##########
+########
 
-Shuckle has a decent offensive movepool, but horrid offensive stats prevent it from utilizing it effectively. Acupressure can turn Shuckle into a monstrous tank, but it is ultimately a luck-based move, and Shuckle will often not have enough time to set it up properly. Rest is an option for full recovery, but the loss of momentum generated by using it is so great that it's hardly worth it, especially when paired with a cleric. Besides, Shuckle doesn't need to last forever; it just needs to get down a couple of entry hazards for its team. Power Split essentially halves the foe's offensive stats as Shuckle's are almost nonexistent, forcing switches. Shell Smash can be used with Contrary to act as a pseudo-Cosmic Power along with Toxic, Rest, and Power Split. However, this set is incredibly hard to pull off correctly in the current metagame, as it is countered by Taunt users, Poison-types, and Steel-types, and it is hard to find time to set up. As a result, it will often be a waste of a teamslot. Rock Tomb can be used over Stealth Rock if one of Shuckle's teammates already carries Stealth Rock, as it hits common Taunt users such as Crobat, Aerodactyl, and Azelf.
+Though Shuckle should only be seriously used to set up Stealth Rock and Sticky Web, it does have a few other options. It can use Accupressure to set up and potentially sweep the opponent's team, but it is incredibly luck-reliant. Also, Power Split can be used to cripple incoming foes by cutting their attacking stats.
 
 Checks & Counters
-#############
+########
 
-**Magic Bounce**: Pokemon with Magic Bounce, such as Xatu and Mega Absol, can reflect any hazards that Shuckle tries to set up, preventing Shuckle from doing its job. However, Shuckle can deal with these Pokemon to some extent by trapping them with Infestation and switching to an appropriate counter.
+**Magic Bounce Users**: Espeon, Mega Absol, and Xatu bounce back all of Shuckle's supporting moves and Shuckle can't do much at all to them.
 
-**Super Effective Attacks**: Any Pokemon with a strong super effective STAB attack can deal with Shuckle decently, but they will not prevent Shuckle from setting up Sticky Web. Examples include Starmie, Escavalier, Aerodactyl, and Metagross.
-
-**Hazard Removal**: Rapid Spin and Defog users such as Starmie, Tentacruel, and Blastoise are useful for removing Sticky Web, but they must be wary of Encore.
+**Entry Hazard Removers**: Users of Rapid Spin and Defog such as Blastoise, Tentacruel, Aerodactyl, Crobat, Empoleon, and the occasional Flygon can clear away Shuckle's entry hazards with ease.

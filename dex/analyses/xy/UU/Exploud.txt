@@ -1,50 +1,52 @@
 Overview
 ########
 
-Exploud is a pretty average Pokemon; it doesn't have any notable stats or even a unique typing. In fact, there is only one reason to use Exploud at all: STAB Boomburst. While Chatot also has the same niche, Exploud has enough bulk to take some hits while it's smacking the opposition. Unlike other specially attacking Normal-types, such as Porygon-Z, Exploud has access to Scrappy, allowing it to completely bypass Ghost-types, as all relevant Ghost-types are flat-out OHKOed by Boomburst. Exploud does have its faults though. It's laughably weak when hit by Knock Off, extremely slow, and is prone to being revenge killed.
+Exploud has one major thing going for it: Boomburst, a 140 Base Power STAB move that allows Exploud to put a major dent in most of the tier. Also, to augment its Boomburst-spamming power, Exploud has access to Scrappy, allowing it to hit Ghost-types. Additionally, Exploud has excellent coverage options in Fire Blast, Focus Blast, and Surf, as well as other useful moves such as Sleep Talk. Sadly, Exploud's flaws lie in its underwhelming Speed, its average bulk, and its weakness to the common Fighting-types in UU.
 
-Choice Specs
+BOOMBURST
 ########
-name: Choice Specs
+name: BOOMBURST
 move 1: Boomburst
-move 2: Fire Blast / Overheat
+move 2: Fire Blast
 move 3: Surf
-move 4: Focus Blast
+move 4: Focus Blast / Sleep Talk
 ability: Scrappy
 item: Choice Specs
-evs: 4 HP / 252 SpA / 252 Spe
+evs: 252 SpA / 4 SpD / 252 Spe
 nature: Modest
 
 Moves
 ========
 
-Boomburst is the only reason to use Exploud. STAB and Choice Specs allow it to hit like a truck. Fire Blast lets Exploud hit Steel-types coming in to take Boomburst, while Overheat does the same with a little more power. Focus Blast also does the same, except it can also hit Rock-types and Umbreon. Surf is for extra coverage against Pokemon like Rhyperior.
+Boomburst is what Exploud should be using almost all of the time and is its most powerful STAB move. Fire Blast is useful for hitting Steel-types, which resist Boomburst. Surf nails the Rock-types, mainly Mega Aerodactyl, that switch in on Exploud for super effective damage. Sleep Talk is recommended in the fourth slot to allow Exploud to switch in on sleep inducers, but Focus Blast can be used to hit Blissey and Rock- and Steel-types (namely Empoleon) super effectively, though its accuracy is disappointing.
 
 Set Details
 ========
 
-The nature and EVs are standard for a special attacker, meaning that it has maxed out Speed and Special Attack, and Scrappy lets Exploud hit Ghost-types. Choice Specs are used to make Exploud's attacks actually do some damage. A Modest nature is used because Timid doesn't outpace anything notable at the cost of some extra power.
+252 EVs in Special Attack with a Modest nature maximize Exploud's power. 252 Speed EVs allow Exploud to outspeed as many Pokemon as possible, including uninvested base 90 Speed Pokemon such as specially defensive Roserade. A Timid nature can be used over a Modest nature, but it doesn't allow Exploud to outspeed many notable threats.
 
 Usage Tips
 ========
 
-Most of the time, you should just go for Boomburst; the other moves are just for coverage, so only use them when necessary.
+Because Exploud's bulk isn't too great, the best practice is to bring it in off of a fainted teammate, U-turn, or Volt Switch. When using Exploud, most of the time you should just go for Boomburst, as very little likes to switch in on it. Other coverage moves should only be used when necessary, as Boomburst already does enough to most Pokemon.
 
 Team Options
 ========
 
-Pokemon that can take advantage of the heavy damage that Exploud leaves in its wake make the best partners, such as late-game sweepers, namely Sharpedo and Lucario. Exploud also likes Sticky Web on the field to make up for its pitiful Speed, so Pokemon like Galvantula and Shuckle are good partners. Ghost-types like Doublade are welcome because they can take incoming Fighting-type attacks. Pokemon that can take a Knock Off or two, like Mega Evolutions or Cobalion, can be good partners too.
+Fighting-types such as Machamp, Infernape, and Lucario make for good partners for their ability to take on Blissey, one of the few Pokemon Exploud can't reliable take on. U-turn and Volt Switch users such as Mienshao, Infernape, Jirachi, Mega Ampharos, Rotom-H, Rotom-C, and Crobat make for good partners for their ability to bring Exploud into the battle safely. Crobat also gets a special mention for its ability to take on Fighting-types. Fairy-types such as Florges and Aromatisse are helpful for their ability to take on Fighting-types. Sticky Web support from Pokemon such as Shuckle and Galvantula is helpful to allow Exploud to outspeed more Pokemon and damage them with Boomburst. Finally, Tailwind support from Pokemon such as Tornadus and Whimsicott is useful to double Exploud's Speed for a few turns.
 
 Other Options
 ########
 
-A Life Orb set with Sticky Web support can go a long way if used properly, though the Choice Specs set packs way more of a punch, and the ability to switch moves isn't too big of a deal for Exploud. Ice Beam can be used for another coverage option, though it doesn't hit anything notable for more damage than moves on the main set. A Timid nature can be used for more Speed in exchange for power. A Silk Scarf can also be used to mimic a Life Orb without the recoil damage. Work Up can be used as a boosting move for Exploud over Surf, allowing it to hit just as hard as Choice Specs, but with the ability to switch moves.
+Life Orb is an option to allow Exploud to switch moves, but a Choice Specs-boosted Boomburst already hits most Pokemon hard enough and Exploud doesn't appreciate Life Orb's recoil. Choice Scarf can be used to surprise the opponent and get a surprise KO, but doesn't have the sheer power of Choice Specs. Hammer Arm can be used be used in conjunction with Life Orb to help take on Blissey (it even has a chance to 2HKO after Stealth Rock damage), but Exploud doesn't like having its Speed or bulk compromised. Ice Beam can be used to hit Pokemon such as Gligar harder, but its useful coverage is rather limited. Finally, Work Up can be used to let Exploud act as a setup wallbreaker (and has a chance to 2HKO Blissey with Boomburst, which is guaranteed if Focus Blast hits twice), but Exploud prefers to hit hard right off the bat.
 
 Checks & Counters
 ########
 
-**Fighting-types**: Almost every Fighting-type in the tier can threaten Exploud into switching out to avoid a KO.
+**Blissey**: Blissey is the closest thing to a counter for Exploud, as it is never 2HKOed by Focus Blast after Stealth Rock, which is unreliable in the first place, and can heal off any damage with Wish + Protect.
 
-**Blissey**: Blissey completely stops Exploud in its tracks, though the same can't be said about the other special walls, such as Umbreon.
+**Steel-types**: Steel-types such as Empoleon and Bronzong can take a Boomburst, but must be wary of Exploud's coverage moves.
 
-**Offensive Pokemon**: Most  offensive Pokemon with Fighting-type coverage or powerful STAB moves can pose a problem.
+**Fighting-types**: Fighting-types such as Infernape, Lucario, and Toxicroak can OHKO Exploud with their STAB moves, but can't switch in.
+
+**Faster Pokemon**: Faster Pokemon such as Darmanitan, Entei, Roserade, Hydreigon, and Krookodile outspeed Exploud and can KO it with their STAB moves.

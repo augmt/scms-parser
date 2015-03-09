@@ -1,7 +1,39 @@
 Overview
 ########
 
-With the transition to XY, Ampharos got a very helpful new Mega Evolution. When it Mega Evolves, it turns into a great bulky wall and gains a secondary Dragon typing to compliment its Electric STAB. Mega Ampharos is also one of the best counters to Electric-types in the whole tier. It has an amazing base 165 Special Attack stat along with respectable 90 / 105 / 110 bulk. It can run a variety of sets, including offensive or defensive, and can learn Heal Bell, allowing it to support the team as well. However, Ampharos does have some faults. When it Mega-Evolves, it gains three new weaknesses to Ice-, Dragon-, and Fairy-types. Also, it has no reliable recovery outside of Rest, which definitely shortens its lifespan on the field. Lastly, it is extremely slow with base 45 Speed. However, this can be looked over, as it allows Mega Ampharos to utilize very slow Volt Switches, which makes it easier to pivot out into a favorable matchup. Overall, Mega Ampharos is an amazing Pokemon if used correctly, and is a great tank that can fit well into any team.
+Mega Ampharos has an extremely high Special Attack stat, good bulk for an attacker, and access to good offensive STAB attacks that hit almost every type for neutral damage. However, it has a limited movepool, which prevents Ampharos from utilizing many playstyles. Furthermore, Mega Ampharos's ability, Mold Breaker, is not particularly useful. Next, the release of ORAS brought many more checks to Ampharos than before, such as Mega Sceptile and Mega Swampert. It is also extremely slow for an attacker, as it has only a pitiful base 45 Speed stat.
+
+Physically Defensive
+########
+name: Physically Defensive
+move 1: Rest
+move 2: Sleep Talk
+move 3: Volt Switch
+move 4: Dragon Pulse / Heal Bell
+ability: Static
+item: Ampharosite
+evs: 252 HP / 252 Def / 4 SpA
+nature: Bold
+
+Moves
+========
+
+Rest provides recovery for Ampharos, and when used with Sleep Talk, Ampharos is able to use a move while asleep. Volt Switch is a decent STAB attack and keeps up momentum for the team. Dragon Pulse can be used in the fourth slot, as it is a powerful STAB attack and hits Ground-types, which are immune to Volt Switch. Heal Bell is another option, as it heals teammates' status conditions and can also wake Ampharos up from sleep if it is picked by Sleep Talk.
+
+Set Details
+========
+
+Static can paralyze foes if they make contact with Ampharos before it Mega Evolves. After Mega Evolving, Ampharos gets the ability Mold Breaker, which isn't very useful, but it does let Ampharos use Volt Switch against Mega Sceptile without boosting its Special Attack. Ampharosite allows Ampharos to Mega Evolve into Mega Ampharos. The EVs and Bold nature maximize Ampharos's Defense.
+
+Usage Tips
+========
+
+Ampharos can be sent in to wall a handful of Fire-, Steel-, and Electric-type attackers. Ampharos can also absorb sleep-inducing moves, as it has Sleep Talk and can attack while it's asleep. Volt Switch out to another Pokemon when you predict a threatening Pokemon to come in against Ampharos. However, do not recklessly spam it, as Ground-types can easily come in and force Ampharos to switch out after. Make sure to use Rest when Ampharos is getting low on health. Use Sleep Talk when asleep, as it will allow Ampharos to move during sleep. However, keep in mind that Rest puts Ampharos to sleep for two turns, so after Rest has been used, it is recommended that you use Sleep Talk for the next two turns and select another move the turn after. Use Heal Bell once a teammate has been statused and is severally crippled by it. Also, it is important to Mega Evolve as soon as possible, as Ampharos will get a huge boost in power, both offensively and defensively.
+
+Team Options
+========
+
+Suicune is an example of a good teammate because it beats most Pokemon that threaten Ampharos, and Mega Ampharos can stall out Electric- and Grass-types that threaten Suicune. Pokemon that appreciate physical attackers such as Honchkrow being removed, such as Jirachi and Machamp, make for good partners as well. U-turn users such as Flygon and Jirachi can form a VoltTurn core with Mega Ampharos and are therefore good teammates. Lastly, special walls that can take care of special attackers that threaten Mega Ampharos, such as Florges or Snorlax, are good teammates.
 
 All-Out Attacker
 ########
@@ -9,8 +41,8 @@ name: All-Out Attacker
 move 1: Thunderbolt
 move 2: Dragon Pulse
 move 3: Focus Blast
-move 4: Volt Switch / Heal Bell
-ability: Static 
+move 4: Volt Switch
+ability: Static
 item: Ampharosite
 evs: 132 HP / 252 SpA / 124 Spe
 nature: Modest
@@ -18,54 +50,22 @@ nature: Modest
 Moves
 ========
 
-Thunderbolt is Mega Ampharos's main STAB move. Dragon Pulse is Mega Ampharos's secondary STAB move and hits Electric- and Ground-types that resist Thunderbolt. Focus Blast provides necessary coverage against Steel-, Rock-, Normal-, and Dark-types. Because Mega Ampharos is extremely slow, Volt Switch can be used to do damage and pivot out into a favorable matchup. Heal Bell can also be used instead of Volt Switch for the utility of getting rid of status conditions for the team.
+Thunderbolt is a very powerful STAB attack that has good neutral coverage. Dragon Pulse is another powerful STAB attack and provides great neutral coverage against Ground-type Pokemon. Focus Blast has terrifying overall coverage and hits many Pokemon, such as Snorlax, Porygon2, Rhyperior, and Umbreon, for super effective damage, but is inaccurate. Volt Switch allows Ampharos to keep up momentum for the team and switch out of its checks and counters that aren't immune to Volt Switch.
 
 Set Details
 ========
 
-132 EVs in HP give Mega Ampharos some bulk to take most neutral and resisted attacks. 252 Special Attack EVs with a Modest nature maximize Mega Ampharos's Special Attack, making Mega Ampharos hit like a truck. 124 Speed EVs allow Mega Ampharos to outspeed base 60s, which would otherwise be a big problem for Mega Ampharos, especially Swampert. Static is the preferred ability before Mega Evolving, as you can switch Ampharos into a Electric-, Water-, Fire-, Grass-, Steel-, or Flying-type contact attack and have a high chance to paralyze the opponent. After Mega Evolving, Ampharos's ability will always be Mold Breaker.
+Static is Ampharos's ability before Mega Evolving; it can potentially paralyze a foe if the foe makes contact. Mold Breaker is Ampharos's ability after Mega Evolving, though it isn't very useful aside from letting Ampharos hit Mega Sceptile on the switch without boosting its Special Attack, as well as ignoring Mega Aggron's Filter and Rhyperior's Solid Rock. Ampharosite allows Ampharos to Mega Evolve into Mega Ampharos. The EV spread allows Mega Ampharos to outspeed uninvested base 60 Speed Pokemon, but it also lets Ampharos hit as hard as possible and gives it a small boost in bulk. The Modest nature boosts Ampharos's damage output and backs up the investment in Special Attack.
 
 Usage Tips
 ========
 
-It is best to use Volt Switch is when there is a predicted switch on the opposing side, so Ampharos can do some damage and switch out into a Pokemon that counters the opposing one. Because Mega Ampharos is also ridiculously slow, Volt Switch can be used after the opponent attacks to pivot out into a more favorable matchup. Volt Switch is also very useful early-to-mid-game, allowing Mega Ampharos to switch out into a good counter or check against opposing leads. Volt Switch also brings out frail sweepers unscathed, who can then proceed to sweep or break down the opposing team. If Heal Bell is preferred over Volt Switch, it is better used on a predicted switch if your team has status ailments. Mega Ampharos is a great pivot early- or mid-game, but isn't as amazing late-game due to its low Speed. It is best to switch into resisted attacks in order to preserve Mega Ampharos's health as much as possible.
+Use Volt Switch to switch out of Ampharos's checks and counters if they aren't Ground-type and to also keep up momentum. Ampharos can also be used as a slow pivot. Ampharos can switch into Electric- and Fire-types attacks very well, and it can hit the foe with one of its STAB attacks. When predicting a Ground-type to come in, switch out Ampharos, because Ground-types are immune to Volt Switch. Mega Evolve as soon as possible, as Ampharos will get a huge boost in power, both offensively and defensively.
 
 Team Options
 ========
 
-Most Trick Room setters work wonders with this set, as with 0 Speed IVs, Mega Ampharos is slow enough "outspeed" most Pokemon under Trick Room. Slowking is a great Trick Room setter, as it resists Ice and can take special Dragon hits. Tailwind users can work, too. Wish passers such as Umbreon and Florges make great teammates, as Ampharos does not have any reliable recovery. U-turn users such as Mienshao make great teammates, as they form a VoltTurn core. Jirachi and Mega Ampharos make a solid core, as Jirachi can heal Mega Ampharos with Wish while Mega Ampharos relieves status for its teammates.
-
-Defensive
-########
-name: Defensive
-move 1: Rest
-move 2: Sleep Talk
-move 3: Volt Switch
-move 4: Dragon Pulse
-ability: Static 
-item: Ampharosite
-evs: 248 HP / 252 Def / 8 SpA
-nature: Bold
-
-Moves
-========
-
-Rest and Sleep Talk work hand-in-hand, providing Ampharos with somewhat reliable recovery to take on big threats. Mega Ampharos will usually be slower than the opponent, so Volt Switch can be used to pivot out into a favorable matchup. Dragon Pulse covers Electric- and Ground-types and generally hits very hard. Heal Bell can replace Dragon Pulse in the last slot, as it provides the utility of getting status conditions off the team. However, forgoing Dragon Pulse leaves Ampharos open to Electric- and Ground-types.
-
-Set Details
-========
-
-Full investment in HP and Defense with a Bold nature allows Mega Ampharos to tank physical hits well while minimizing entry hazard damage. Static is the preferred ability before Mega Evolving due to the fact that it grants Mega Ampharos a chance to paralyze the foe when switching into any resisted physical attack. This is changed when it Mega Evolves, as the Ability is then changed to Mold Breaker. A specially defensive spread of 248 HP / 252 SpD / 8 SpA is viable to tank special attacks better, but Ampharos already has good Special Defense without investment, and forgoing Defense investment leaves Ampharos prone to physical attackers.
-
-Usage Tips
-========
-
-Volt Switch and Dragon Pulse should be the only two moves used until Mega Ampharos needs to heal up with Rest. Rest should be used when Mega Ampharos's health is low or if it has been inflicted with a status condition. This makes this set a great counter to Electric-types. One good thing about this set is that  Ampharos can pivot into a sleep inducer to absorb the sleep and benefit from it by using Sleep Talk. Lastly, this set counters Fire-types and puts significant pressure on Water-types such as Suicune and Vaporeon.
-
-Team Options
-========
-
-Suicune works great with this set, as it can tank almost any hit that might threaten Mega Ampharos. Pokemon such as specially defensive Slowking, Florges, and Umbreon also fill this role. Mega Ampharos is a complete stop to Honchkrow, so Pokemon that enjoy Honchkrow being removed from play make great partners, including Slowking, Starmie, and Toxicroak.
+Trick Room or Thunder Wave support is very appreciated for Mega Ampharos, as it allows Mega Ampharos to move first in most situations. Examples of good Trick Room setters include Bronzong and Cofagrigus. Wish support is also useful from Pokemon such as Jirachi or Blissey to boost Ampharos's longevity, as it doesn't have reliable recovery on its own. Other Volt Switch users or U-turn users such as Rotom-H and Flygon can form a VoltTurn core with Mega Ampharos. Pokemon that can reliably take care of Ground-types, such as Alomomola, Suicune, and Chesnaught, are good partners too. Finally, physically offensive attackers such as Mienshao, Lucario, and Krookodile make for good partners because they can get rid of special walls.
 
 Agility
 ########
@@ -76,41 +76,40 @@ move 3: Dragon Pulse
 move 4: Focus Blast
 ability: Static
 item: Ampharosite
-evs: 252 SpA / 4 SpD / 252 Spe
-nature: Modest
+evs: 32 HP / 252 SpA / 224 Spe
+nature: Timid
 
 Moves
 ========
 
-Agility doubles Mega Ampharos's Speed in one turn, allowing Mega Ampharos to take down Pokemon it couldn't normally outspeed. Thunderbolt and Dragon Pulse are the main STAB moves, and Focus Blast provides key coverage against a lot of Pokemon.
+Agility allows Mega Ampharos to patch up its low Speed stat, hitting 400 Speed after an Agility. Thunderbolt is a powerful STAB attack that damages any Pokemon that doesn't resist it. Dragon Pulse is another powerful secondary STAB attack, hitting opposing Dragon-types that threaten Mega Ampharos. Focus Blast has great Base Power along with terrifying coverage, but it has slightly low accuracy.
 
 Set Details
 ========
 
-252 Speed EVs maximize Mega Ampharos's Speed in order to start sweeping after a boost. 252 Special Attack EVs along with a Modest nature maximizes Mega Ampharos's Special Attack to bestow upon Ampharos the power necessary in order to sweep. Static is the preferred ability before Mega Evolving as it allows Ampharos to switch into a resisted physical attack and have a good chance to paralyze the opponent. The ability when Mega-Evolved will always be Mold Breaker.
+Static is Ampharos's ability before Mega Evolving and can paralyze foes if they make contact with Ampharos. Mold Breaker doesn't provide a lot of usefulness, yet it has the niche of not raising Mega Sceptile's Special Attack if it switches into Thunderbolt. It also bypasses Rhyperior's Solid Rock and Mega Aggron's Filter. Ampharosite is the standard item, as it allows Ampharos to Mega Evolve into Mega Ampharos. The invested EVs and Timid nature let Ampharos hit as hard as possible and outspeed everything up to neutral-natured base 150 Speed Pokemon after a boost, and the remaining EVs are put into HP to give a small boost to Ampharos's bulk. A Modest nature can instead be chosen to outspeed everything up to Mega Pidgeot after an Agility, and it gives a good boost to Ampharos's Special Attack.
 
 Usage Tips
 ========
 
-This set should be used first and foremost as a late-game sweeper. Thunderbolt should always be used unless it is resisted or another one of the three attacks can hit super effectively. It is best to use Agility on a predicted switch, as this allows Ampharos to begin sweeping without having taken any damage.
+Mega Evolve as soon as possible, as this will give Ampharos greater raw power as well as better bulk. Use Agility as foes switch out so that Mega Ampharos can get a free Speed boost without risking taking a hit. Don't spam Ampharos's STAB attacks when the opponent has a Ground- or Fairy-type available, because they can easily switch it in and force Ampharos out. This Ampharos is best used as a late-game cleaner once special walls have fainted.
 
 Team Options
 ========
 
-Vaporeon makes a great partner, as it can take any special attack like a tank and can take the Ice-type moves that trouble Mega Ampharos. Vaporeon is also a good Wish passer for Mega Ampharos. In return, Mega Ampharos can take Grass- and Electric-type moves for Vaporeon. Florges can fulfill the same role as Vaporeon and has good defensive synergy with Mega Ampharos, as it can take Dragon-type moves for Mega Ampharos, and in return, Mega Ampharos can take Steel-type attacks aimed at Florges. Wallbreakers such as Choice Band Mienshao and Victini are greatly appreciated, as they get rid of pesky walls, giving Mega Ampharos an easier time sweeping. Mixed Victini can also work, as it gets rid of Florges with V-create and Swampert with Grass Knot.
+Alomomola and Florges are good teammates in particular, as they have good type synergy with Mega Ampharos and can provide Wish support to give a boost to Ampharos's longevity. Physically offensive attackers such as Mienshao or Krookodile make for good teammates, as they can beat the special walls that hinder Ampharos's sweep. Physically defensive walls such as Hippowdon and Suicune make for good partners, as they can reliably take on the physical attackers that trouble Ampharos. Lastly, Grass-types such as Chesnaught or Shaymin help Ampharos by beating Ground-types that stop it.
 
 Other Options
 ########
 
-Mega Ampharos can use lesser-looked-at moves such as Signal Beam and Power Gem, but Mega Ampharos has better coverage with the All-Out Attacker set. Cotton Guard can be used on a stall set to boost Defense by 3 stages, but it is not recommended due to Mega Ampharos's tendency to switch often, and it takes up a precious moveslot. Mega Ampharos can also make use of either Thunder Wave or Toxic to spread status ailments.
+Toxic is an option to cripple the specially defensive walls that stop Ampharos, but it takes the place of a coverage attack and isn't worth it. Thunder Wave can be used to cripple physical attackers, while Cotton Guard boosts Ampharos's Defense, but Ampharos cannot afford to miss out on one of its coverage moves. Signal Beam is an option for coverage against Grass-types that resist Thunderbolt, but it lacks good power and doesn't provide good coverage aside from that either. Iron Tail is an attacking option that allows Mega Ampharos to hit Fairy-types, but it is inaccurate and doesn't hit many other Pokemon. A dual screens set is an option, but not really worth it, as non-Mega Ampharos isn't good and Mega Ampharos cannot hold Light Clay, which means it cannot lengthen the duration of the screens. Hidden Power Grass is another option to use for hitting Pokemon such as Rhyperior and Mega Swampert harder, but it lacks power, doesn't provide good coverage, and isn't worth a moveslot. Hidden Power Ice can also be used to hit specially defensive Gligar. A mixed set is an option to break through special walls better, but it usually still lacks power and means that Ampharos has to miss out on an overall stronger Special Attack, which makes the set not worth using.
+
 
 Checks & Counters
 ########
 
-**Status** Mega Ampharos relies heavily on its bulk to stay on the field, so a Toxic or a burn will put a timer on Mega Ampharos's longevity, and it can only get rid of this by risking a moveslot for either Rest or Heal Bell.
+**Ground-types**: Ground-types such as Krookodile, Mega Swampert, and Nidoqueen can outspeed Mega Ampharos before it Mega Evolves and can beat it with one of their STAB attacks, though none of these Pokemon like to switch into a Dragon Pulse.
 
-**Special Walls** Snorlax can wall Mega Ampharos even if it packs Focus Blast due to its high special bulk and HP, and can retaliate with Earthquake. Most special walls that aren't weak to Ampharos's STAB moves or have reliable recovery such as Celebi, Hippowdon, Florges, and Umbreon are a huge pain for Mega Ampharos.
+**Special Walls**: Special walls such as Snorlax, Blissey, and Florges can take any hit and KO Mega Ampharos with one of their attacks or just stall it out.
 
-**Faster Physical Attackers** If Mega Ampharos isn't running a physically defensive set, most physical attackers can greatly hurt or OHKO Mega Ampharos, such as Infernape, Flygon, and Mienshao.
-
-**Super Effective STAB Moves** Pokemon such as Nidoking, Kyurem, Hydreigon, and Krookodile that wield super effective STAB moves can outspeed and OHKO or severely dent Mega Ampharos.
+**Faster Pokemon with Super Effective Coverage Moves**: Faster Pokemon with super effective coverage moves, such as Alakazam, Hydreigon, Mega Glalie, and Mega Sceptile, can outspeed Mega Ampharos and pick it off.

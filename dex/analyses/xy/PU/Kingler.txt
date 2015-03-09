@@ -1,0 +1,53 @@
+Overview
+########
+
+Kingler's high Attack stat and access to two setup moves in Agility and Swords Dance allow it to become a threatening sweeper in the PU metagame. This is backed up by a strong Water-type STAB move in Crabhammer and other powerful moves such as Superpower. Kingler's good Defense stat allows it to set up on weak physical attackers, but its setup options are limited by its low Special Defense and HP. Kingler's mediocre Speed also lets it down, as it is outsped by many Choice Scarf Pokemon after Agility unless it uses a Jolly nature, which cuts its offensive presence. Without a Swords Dance boost, Kingler struggles to get past many physically defensive walls, and even with one, defensive behemoths such as Poliwrath and Tangela still wall it.
+
+Agility
+########
+name: Agility
+move 1: Agility
+move 2: Crabhammer
+move 3: Knock Off
+move 4: Superpower / Swords Dance
+ability: Hyper Cutter
+item: Life Orb
+evs: 4 HP / 252 Atk / 252 Spe
+nature: Adamant
+
+Moves
+========
+
+Agility allows Kingler to outspeed nearly the whole unboosted metagame, though it just falls short of outspeeding Choice Scarf Tauros. Crabhammer is Kingler's strongest STAB move, allowing Kingler to dent most Pokemon that do not resist it due to its high Base Power. Knock Off has good neutral coverage, hitting Ghost-types such as Gourgeist-XL hard, and its side effect discourages Pokemon such as Tangela from switching in. Superpower provides perfect neutral coverage while also hitting Pokemon such as Avalugg for super effective damage and allowing Kingler to hit Poliwrath, which otherwise walls it. Swords Dance can be used to boost Kingler's Attack to very high levels, allowing it to break Pokemon that can otherwise wall it, such as Pelipper, and beat defensively based teams.
+
+Set Details
+========
+
+252 Speed EVs allow Kingler to outspeed most of the metagame after a boost, meaning that it can beat Choice Scarf Dodrio. 252 Attack EVs are used to boost Kingler's damage output; Life Orb and an Adamant nature boost it even more. A Jolly nature could be used to let Kingler outspeed Pokemon such as Choice Scarf Raichu and Stoutland in sand, but noticeably lowers Kingler's Attack. Lum Berry could be used instead of Life Orb to let Kingler more comfortably set up on walls such as Togetic, but the power loss is even greater. Hyper Cutter is Kingler's most relevant ability.
+
+Usage Tips
+========
+
+Setting up Agility is Kingler's main priority; however, attacking straight away is fine if the opponent has something that counters Kingler, such as Poliwrath, or if you are using Kingler to revenge kill a weakened foe. Agility might not be necessary against defensive teams, as Kingler can outspeed most uninvested walls and hit them hard or disrupt them with Knock Off. Kingler's low HP, Special Defense, and vulnerability to status limit its setup opportunities, so it should mainly set up on forced switches or on a wall that cannot do much damage in response. Kingler dislikes taking hits, so it is better brought in after a KO on something it can beat. Try to weaken walls or remove other threats before setting up with Kingler to allow it to sweep more easily, though Kingler can set up more than once throughout the match, so switching it out even if it has set up is fine.
+
+Team Options
+========
+
+Electric-types such as Raichu and Rotom-F make good partners, as they can beat Water-types that wall Kingler and can bring it in safely with Volt Switch, and Kingler can reliably beat Ground-types that threaten them. Mixed Tauros can lure in and KO some of Kingler's most prominent counters, such as Poliwrath and Tangela. Fire- and Ice-types such as Heatmor and Aurorus can beat Grass-types such as Torterra and Roselia, and Kingler can beat Rock- and Fire-types that threaten them. Psychic- and Flying-types such as Beheeyem and Swanna can be used in order to beat Poliwrath, and Ground-types such as Piloswine beat Electric-types. Entry hazards from Pokemon such as Golem and Roselia weaken the opposing team upon switching in and allow Kingler to always OHKO Piloswine.
+
+Other Options
+########
+
+Kingler has a limited movepool, but it can utilize moves such as X-Scissor to hit Tangela and Torterra; Rock Slide, which receives a Sheer Force boost and hits Pelipper; and Return, which provides good neutral coverage. A Swords Dance + three attacks set has devastating effects under Sticky Web, while Substitute in combination with Swords Dance allows Kingler to use Poliwrath as setup fodder. Lastly, a Choice Band set could be used for immediate power but receives competition from Basculin, which is faster and has priority.
+
+Checks & Counters
+########
+**Grass-types**: Gourgeist-XL, Torterra, and Roselia can all survive a hit and OHKO back with their Grass-type STAB moves; however, they are all OHKOed if Kingler gets +2 Attack. Tangela can survive any hit, even if Kingler has two Swords Dances up, and OHKO Kingler with its Grass STAB move; however, Tangela dislikes losing its Eviolite.
+
+**Bulky Water-types**: Poliwrath and Pelipper can both easily survive any hit from Kingler and deal heavy damage back or phaze Kingler out; the former recovers health from Crabhammer and can set up a Substitute against Kingler. Other bulky Water-types, such as Politoed and Prinplup, can easily take a hit but cannot do much in return.
+
+**Status**: Burn takes away Kingler's ability to deal good damage, and although Kingler can OHKO all Will-O-Wisp users apart from Dusclops and Gourgeist-XL, Water-types such as Pelipper can burn Kingler with Scald. Paralysis prevents Kingler from sweeping and makes it easily revenge killed; Thunder Wave users such as Togetic and Meowstic can take a hit or have priority due to Prankster.
+
+**Bulky Pokemon**: Physically defensive Pokemon such as Togetic and Avalugg can survive a hit and deal heavy damage, inflict status, or phaze Kingler out. However, Togetic dislikes losing its item, and Kingler OHKOes both Togetic and Avalugg if it is at +2.
+
+**Choice Scarf Users**: Choice Scarf users such as Rotom-F and Haunter can outspeed Kingler before a Speed boost and deal large amounts of damage with their STAB moves. Faster Choice Scarf users such as Scyther and Raichu can outspeed Kingler even if it has an Agility boost.

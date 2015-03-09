@@ -1,0 +1,84 @@
+Overview
+#######
+
+Numel is a unique Pokemon in the current LC metagame, sporting two great abilities in Oblivious
+and Simple. Oblivious lets Numel reliably set up Stealth Rock throughout the game, while Simple makes Numel a deadly sweeper, allowing it to quickly boost its stats and power, which is complemented by Numel's great offensive coverage. Numel's unique defensive typing makes it a great switch-in for many Poison-, Grass-, Steel-, Electric-, and Fire-types. Numel does suffer from a few flaws, however, such as its low Speed, lack of reliable recovery, and inability to win against entry hazard removers.
+
+Defensive
+#######
+name: Defensive
+move 1: Earth Power
+move 2: Lava Plume / Fire Blast
+move 3: Stealth Rock
+move 4: Ancient Power / Will-O-Wisp
+ability: Oblivious / Simple
+item: Eviolite
+evs: 36 HP / 36 Def / 236 SpA / 156 SpD
+nature: Calm
+
+Moves
+======
+
+Lava Plume and Earth Power function as Numel's STAB moves and allow it to threaten Grass-, Electric-, and Steel-types. Lava Plume has higher PP and a high chance to burn the opposing Pokemon, while Fire Blast can be used for additional power at the cost of accuracy. Numel can chip away at opposing Pokemon's health and potentially break their Focus Sash by setting up Stealth Rock. Ancient Power hits Archen and Mantyke, which resist Numel's STAB attacks, while Will-O-Wisp allows Numel to handle physical attackers more consistently and wear down opposing walls and switch-ins.
+
+Set Details
+=========
+
+This set maximizes Numel's Special Attack to allow it to hit hard while still taking attacks well. The remaining EVs are funneled into Numel's HP and Defense to give it better mixed bulk and allow it to switch into strong special attackers. Oblivious ensures Numel can always set up Stealth Rock, but if Ancient Power is used, Simple is a good option on the off chance Numel receives a boost.
+
+Usage Tips
+=========
+
+Numel is a great switch-in to common Pokemon in the metagame, such as Foongus, Magnemite, and Ferroseed, as they all fear its STAB attacks. Numel also makes for a great counter to Ponyta, as Numel resists its STAB moves. Set up entry hazards or use Will-O-Wisp on switches to burn incoming counters, although Numel must be cautious of burning Guts users such as Timburr.
+
+Team Options
+===========
+
+Spritzee's Wish support is an absolute necessity to Numel, as it provides a form of recovery and allows Numel to beat Poison-, Fire-, and Steel-types that give Spritzee trouble throughout the match. Bulky Grass-types such as Pumpkaboo, Ferroseed, and Chespin are needed to cover up Numel's glaring weakness to Water- and Ground-types. Pumpkaboo has the added benefit of being able to spinblock, keeping Numel's Stealth Rock on the field. Numel's typing allows it to switch into the Fire-types that Grass-types cannot beat, forming a good defensive core. Water-type Pokemon such as Chinchou and Staryu function well with Numel as well, as Chinchou resists and beats opposing Water-types, while Staryu is a good switch-in to common Ground-types such as Drilbur and Archen. Chinchou and Staryu are both weak to Grass-types, making Numel a nice switch-in.
+
+Simple Sweeper
+#############
+name: Simple Sweeper
+move 1: Earth Power
+move 2: Fire Blast
+move 3: Flame Charge
+move 4: Growth
+ability: Simple
+item: Life Orb
+evs: 36 HP / 236 SpA / 236 Spe
+nature: Modest
+
+Moves
+======
+
+Earth Power and Fire Blast are Numel's two STAB attacks, and Flame Charge allows Numel to boost its Speed by two stages. Growth raises Numel's attacking stats by two stages, making it an imposing sweeper to face once it sets up.
+
+Set Details
+========
+
+This set's purpose is to quickly set up multiple boosts and sweep the opponent's weakened team late in the game. 236 EVs allow Numel to hit 13 Speed and outspeed the entirety of the unboosted LC metagame after one Flame Charge, as well as outpace common 17 Speed Choice Scarf users such as Drilbur and Chinchou. A Modest nature, 236 Special Attack EVs, and a Life Orb give Numel maximum damage output. The remaining EVs are placed into Numel's HP for additional bulk.
+
+Usage Tips
+=========
+
+Without Eviolite, Numel is quite frail and consequentially cannot set up on strong attackers. It is best to set up boosts against defensive Pokemon that cannot hurt Numel, such as Ferroseed. Prioritize raising speed, as without the boost Numel is open to being revenge killed.
+
+Team Options
+===========
+
+Numel appreciates sun support from Vulpix, as it provides ample opportunities to set up with sun-boosted Flame Charge and doubles Growth's effect, raising both Numel's Attack and Special Attack by 4 stages. Chlorophyll users can also be paired with Numel and Vulpix to beat the Water- and Grass-types that prevent Numel from sweeping. Stealth Rock setters such as Dwebble and Onix help Numel beat the Flying-types that wall it such as Archen and Mantyke. Chinchou can also beat Archen and Mantyke. Numel also appreciates the pivot support that Volt Switch provides, allowing Numel the opportunity to switch in on Grass-types and set up. Ferroseed partners well with Numel, reliably beating Water- and Ground-types while having the ability to provide the entry hazard support Numel requires. Lileep also makes for a great partner, as it can wall Archen and Mantyke and switch into Water-types thanks to Storm Drain.
+
+Other Options
+###########
+Numel has a variety of usable options, including a Rest + Sleep Talk set, which mends its lack of recovery and lets it hit the foe with Lava Plume and Earth Power while asleep. Hidden Power Electric allows Numel to hit Mantyke and Archen, although it does not have many other uses and generally Earth Power will hit Water-types harder. Unless you really want to hit Mantyke hard, Ancient Power generally is more useful. Yawn can be used to force out Numel's switch ins, as well as provide opportunities for teammates to set up. Stockpile can allow Numel to quickly boost both of its defenses thanks to Simple. Sunny Day can also be used to allow Numel to boost its own Growth and Fire-type attacks.
+
+Checks and Counters
+################
+
+**Water-types**: Due to Numel's unfortunate 4x weakness to Water, it is forced out by any Water-types. Mantyke hard walls Numel, as it resists Numel's primary STAB attack and is immune to its secondary STAB attack. Chinchou and Staryu can both force Numel out but don't appreciate taking an Earth Power.
+
+**Bulky Ground-types**: Bulky Ground-types such as Drilbur can switch into Numel and force it out with the threat of an Earthquake. They can be crippled on the switch with Will-O-Wisp, however.
+
+**Archen**: Archen resists Fire and is immune to Ground, but it fears a burn on the switch in.
+
+**Revenge Killers**: Due to its sub par speed, Numel is vulnerable to fast revenge killers and strong priority users such as Fletchling and Corphish. 

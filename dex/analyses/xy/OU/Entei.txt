@@ -1,7 +1,7 @@
 Overview
 ########
 
-Entei received a massive buff to its movepool with the transition to XY: Sacred Fire. A move commonly used to define Ho-Oh, Entei makes great use of this move due to its ability to burn common switch-ins such as Garchomp and Azumarill, usually crippling them for the rest of the match. Entei's access to Extreme Speed also allows it to be a powerful revenge killer and provides it a way to get past weakened checks such as Greninja and Latios. The buff to Defog and a new resistance to Fairy-type moves also make Entei's life much easier. Despite these positive traits, Entei suffers from being walled by Rotom-W, a very common Pokemon in OU. Entei also has to rely on mediocre coverage options such as Bulldoze, which means that it will often be setup bait for dangerous sweepers such as Mega Pinsir and Manaphy if a Choice Band is used. Entei's weaknesses to common Ground-, Rock-, and Water-type moves also make it vulnerable to threats such as Keldeo and Greninja. Even with the Defog buff, Entei is still weak to entry hazards, meaning that it can be worn down rather quickly. Remember to use Entei to its advantages, so it can be a powerful player on the battlefield.
+Entei received a massive buff to its movepool with the transition to XY: Sacred Fire. A move commonly used to define Ho-Oh, Entei makes great use of this move due to its ability to burn common switch-ins such as Garchomp and Azumarill, usually crippling them for the rest of the match. Entei's access to Extreme Speed also allows it to be a powerful revenge killer and provides it a way to get past weakened checks such as Latios. The buff to Defog and a new resistance to Fairy-type moves also make Entei's life much easier. Despite these positive traits, Entei suffers from being walled by Rotom-W, a very common Pokemon in OU. Entei also has to rely on mediocre coverage options such as Bulldoze, which means that it will often be setup bait for dangerous sweepers such as Mega Pinsir and Manaphy if a Choice Band is used. Entei's weaknesses to common Ground-, Rock-, and Water-type moves also make it vulnerable to threats such as Keldeo. Even with the Defog buff, Entei is still weak to entry hazards, meaning that it can be worn down rather quickly. Remember to use Entei to its advantages, so it can be a powerful player on the battlefield.
 
 All-Out Attacker
 ########
@@ -10,14 +10,14 @@ move 1: Sacred Fire
 move 2: Extreme Speed
 move 3: Stone Edge
 move 4: Bulldoze
-item: Choice Band / Life Orb
+item: Choice Band
 evs: 252 Atk / 4 Def / 252 Spe
 nature: Adamant
 
 Moves
 ========
 
-Sacred Fire is the main attack of the set; it has great power, can force switches, and burn common switch-ins such as Dragonite, Terrakion, Garchomp, and Tyranitar. Extreme Speed is another excellent move to use as it packs priority to combat checks such as Greninja and can outpace other priority moves such as Talonflame's Brave Bird. Finally, Stone Edge lets Entei deal decent damage to Rotom-W on the switch and demolish all the Fire-types which can easily tank a Sacred Fire bar Heatran. While Entei has great coverage with these three moves, it is still walled by Heatran; which is where Bulldoze comes in to OHKO it. However, beware of using Bulldoze, as being locked into it makes Entei setup bait for powerful sweepers such as Dragonite. Entei can use two interesting alternative moves: Hidden Power Grass and Howl. The former allows Entei to 2HKO Quagsire, which takes little damage from its other moves, but it has limited use outside of that. Howl, however, gives Entei sweeping capabilities, but it's inferior to Swords Dance Lucario as a sweeper, as Lucario also has Extreme Speed, but isn't walled as easily due to its better coverage.
+Sacred Fire is the main attack of the set; it has great power, can force switches, and burn common switch-ins such as Dragonite, Terrakion, Garchomp, and Tyranitar. Extreme Speed is another excellent move to use as it packs priority to combat checks and can outpace other priority moves such as Talonflame's Brave Bird. Finally, Stone Edge lets Entei deal decent damage to Rotom-W on the switch and demolish all the Fire-types which can easily tank a Sacred Fire bar Heatran. While Entei has great coverage with these three moves, it is still walled by Heatran; which is where Bulldoze comes in to OHKO it. However, beware of using Bulldoze, as being locked into it makes Entei setup bait for powerful sweepers such as Dragonite. Entei can use two interesting alternative moves: Hidden Power Grass and Howl. The former allows Entei to 2HKO Quagsire, which takes little damage from its other moves, but it has limited use outside of that. Howl, however, gives Entei sweeping capabilities, but it's inferior to Swords Dance Lucario as a sweeper, as Lucario also has Extreme Speed, but isn't walled as easily due to its better coverage.
 
 Set Details
 ========
@@ -36,7 +36,7 @@ Pokemon that can set up multiple entry hazards, such as Skarmory, are amazing pa
 
 Because Entei is weak to entry hazards, a spinner such as Excadrill is highly recommended so Entei can tank hits with its great bulk throughout the match. A Defogger can be used if your team doesn't have a entry hazard setter. A perfect example of this is Latios as it can come in on Water- and Ground-type moves aimed at Entei and proceed to annihilate Rotom-W and Heatran with Draco Meteor and Earthquake respectively, so Entei can spam Sacred Fire with greater ease.
 
-Mega Charizard Y is also one of Entei's best teammates. With sun support on its side, Sacred Fire will 2HKO almost everything in the metagame bar immunities, and sun also softens Water-type moves from Entei's common checks such as Greninja and Azumarill. In addition to that, Entei can clean up the mess that Mega Charizard Y leaves late-game with its powerful Extreme Speed. Pairing Entei with setup sweepers that have similar counters such as Mega Pinsir is highly recommended. In the provided example, Entei lures in Rotom-W and deals out a heavy amount of damage to it so Mega Pinsir can muscle its way past it later with Return.
+Mega Charizard Y is also one of Entei's best teammates. With sun support on its side, Sacred Fire will 2HKO almost everything in the metagame bar immunities, and sun also softens Water-type moves from Entei's common checks such as Azumarill. In addition to that, Entei can clean up the mess that Mega Charizard Y leaves late-game with its powerful Extreme Speed. Pairing Entei with setup sweepers that have similar counters such as Mega Pinsir is highly recommended. In the provided example, Entei lures in Rotom-W and deals out a heavy amount of damage to it so Mega Pinsir can muscle its way past it later with Return.
 
 Other Options
 ########
@@ -50,6 +50,6 @@ Checks and Counters
 
 **Gliscor**: Gliscor can recover any damage taken with Poison Heal and can deal a massive amount damage to Entei with Earthquake. However, it cannot switch in without activating its Toxic Orb first, as Sacred Fire can burn as well as deal huge damage to it.
 
-*Fast Ground- and Water-types**: Garchomp and Greninja can easily force Entei out; however, they cannot switch in directly, especially the former due to the threat of being burned.
+**Fast Ground-types**: Fast Ground-types such as Garchomp can easily force Entei out; however, they cannot switch into Dragonite directly due to the threat of being burned.
 
 **Heatran**: Heatran is immune to Sacred Fire and can threaten Entei back with Earth Power or Toxic. However, it needs to be careful, as Bulldoze can OHKO it, and Heatran fails to beat Life Orb sets. Air Balloon Heatran, however, is very good at handling Entei, as it's immune to Bulldoze and resists all of Entei's other moves apart from Stone Edge.

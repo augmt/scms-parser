@@ -1,0 +1,53 @@
+Overview
+########
+
+Despite its low Speed stat and lack of recovery moves, Prinplup shines as one of the premier Defog users in the NU tier. There are very few Pokemon in NU with access to Defog that don't also have a weakness to Stealth Rock, and on teams where this becomes an issue Prinplup can be especially helpful. Even fewer Pokemon have access to both Stealth Rock and Defog; the only other option is Archeops. These support options paired with surprisingly good bulk and solid defensive typing make Prinplup a solid option for many bulkier and balanced teams.
+
+Defog
+########
+name: Defog
+move 1: Defog
+move 2: Scald
+move 3: Stealth Rock
+move 4: Toxic
+ability: Torrent
+item: Eviolite
+evs: 252 HP / 252 Def / 4 SpD
+nature: Bold
+
+Moves
+========
+
+Defog allows Prinplup to support many Pokemon in the tier that are weak to entry hazards. Scald is a reliable STAB move backed by the chance to burn foes. Scald allows Prinplup to threaten common Stealth Rock setters such as Mega Steelix, Mega Camerupt, and Crustle. It should also be noted that Scald is boosted by Torrent when Prinplup is below 1/3 of its maximum HP. Stealth Rock allows Prinplup to support its teammates by weakening powerful Flying- and Fire-type attackers such as Archeops and Typhlosion upon switching in. Stealth Rock can be set up reliably thanks to Prinplup's impressive bulk. Toxic hits bulky Water-types that switch in on Scald and Defog, such as Mantine, Quagsire, and Seismitoad . Grass Knot can be used to hit Seismitoad and Quagsire for more immediate damage.
+
+Set Details
+========
+
+Maximum HP and Defense investment backed by Eviolite gives Prinplup the Defense to tank almost every physical attack in the tier, while also maintaining solid Special Defense. Prinplup's bulk allows it to use Defog against powerful attackers such as Sawk and Mega Steelix. An alternative EV spread utilizing maximum HP and maximum Special Defense investment with a Calm nature gives Prinplup a better matchup versus powerful special attackers such as Typhlosion and Mesprit.
+
+Usage Tips
+========
+
+Prinplup relies heavily on its Eviolite to take on powerful attackers, so switching Prinplup into Pokemon that commonly carry Knock Off is not recommended. Prinplup also needs to watch out for Pokemon with the abilities Defiant and Competitive, as using Defog will give them free boosts to their Attack or Special Attack stat, respectively. Pawniard poses an especially large threat to Prinplup, thanks to Defiant and STAB Knock Off. Taunt users such as Mismagius and Qwilfish can prevent Prinplup from setting Stealth Rock and removing entry hazards with Defog. Prinplup can use its low Speed stat to take advantage of faster Pokemon, especially those unafraid of Scald, attempting to set up Stealth Rock by first going for Toxic and proceeding to Defog until the foe faints from Toxic damage. Aim to come in on Fire- and Water-type Pokemon to Defog, as they pose the smallest threat to Prinplup. If need be, Prinplup can also survive super effective attacks from the likes of Heliolisk, Rotom, and Virizion. Be sure to remember Prinplup lacks a reliable form of recovery, so allowing it to take unnecessary damage is not recommended.
+
+Team Options
+========
+
+Stealth Rock-weak Pokemon such as Scyther, Typhlosion, and Swellow appreciate Defog support from Prinplup. Fire-type Pokemon such as Magmortar, Ninetales, and Flareon can take some pressure off Prinplup by dealing with powerful Fire-type attackers such as Typhlosion. Prinplup can reciprocate by taking Water-type attacks aimed at Fire-type partners. Grass-types such as Gourgeist and Vileplume appreciate Prinplup taking Fire-type attacks and can also deal with Grass- and Electric-type attacks aimed at Prinplup. Fighting-type Pokemon such as Sawk and Hariyama pair well with Prinplup and provide a way to deal with an opposing Pawniard; Sawk also appreciates Defog support if it chooses to run Sturdy. Pokemon with access to Wish such as Audino, Flareon, and Togetic can allow Prinplup to stick around longer. Audino can also use Heal Bell to remove status effects from Prinplup.
+
+Other Options
+########
+
+Ice Beam can be used to hit Grass- and Flying-types for super effective damage. This is helpful against Xatu and Vileplume especially, as they are immune to Toxic. Icy Wind is an alternative to Ice Beam that also lowers the foe's Speed one stage; this can make Pokemon such as Lilligant easier for teammates to revenge kill. Yawn can be used to force switches and give Prinplup opportunities to Defog or set up Stealth Rock. Whirlpool can be used to trap foes Prinplup has a favorable matchup with and attempt to Toxic stall them.
+
+
+Checks & Counters
+########
+
+**Taunt Users**: Taunt users such as Archeops, Mismagius, and Qwilfish prevent Prinplup from using Defog, Stealth Rock, and Toxic. In addition, Archeops and Qwilfish can set entry hazards, although Archeops has to be wary of Scald.
+
+**Grass-types**: Unless Prinplup carries Ice Beam, most Grass-type Pokemon are a hard stop to Prinplup. Offensive Grass-type Pokemon such as Lilligant, Virizion, and Exeggutor can switch in and threaten Prinplup with their super effective STAB moves. Grass-types that have the ability to remove status or an immunity to Toxic, such as Vileplume, Roselia, and Lum Berry Exeggutor, give Prinplup even more trouble.
+
+**Electric-types**: Prinplup typically struggles against Electric-type Pokemon such as Rotom and Electivire, as it usually has to choose between losing a good chunk of its health to Defog away entry hazards or give up momentum by allowing the opponent to Volt Switch on your switch-in. Heliolisk's Dry Skin gives it an immunity to Water-type attacks, making it extremely difficult for Prinplup to take down.
+
+**Residual Damage**: Prinplup doesn't have access to recovery, so taking repeated hits from Pokemon such as Typhlosion can wear it down rather quickly. Status conditions such as poison and burn also wear it down, as Prinplup typically stays in for more than one turn.

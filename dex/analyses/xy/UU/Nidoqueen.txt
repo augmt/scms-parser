@@ -1,86 +1,85 @@
 Overview
 ########
 
-Nidoqueen is viewed as one of the best wallbreakers in the tier, as it has great coverage and massive power due to Sheer Force and Life Orb. It's also known as one of the best offensive Stealth Rock users in the tier, along with being one of the few specially oriented ones. Nidoqueen is no slouch defensively either, as it has good bulk coupled with a great defensive typing which gives it an immunity to Toxic, Toxic Spikes, and Thunder Wave. However, it has a mediocre Speed, and also misses out on a few key moves that Nidoking gets, such as Megahorn. This doesn't stop Nidoqueen though, as it is very easy to fit on a team and is one of the best Pokemon in the tier.
+With the power provided by combination of Sheer Force and Life Orb as well as fantastic coverage, Nidoqueen can act as an outstanding wallbreaker. In addition, Nidoqueen has good bulk with a typing that grants her a great set of resistances and an immunity to Electric and two common status moves, Toxic and Thunder Wave. To complement her offensive attributes, Nidoqueen has access to useful utility moves, such as Stealth Rock, Toxic Spikes, and Roar. However, Nidoqueen's poor Speed and lack of reliable recovery leave her prone to being easily worn down.
 
-Offensive
+Offensive Entry Hazard Setter
 ########
-name: Offensive
-move 1: Sludge Wave
-move 2: Earth Power
-move 3: Stealth Rock
-move 4: Ice Beam
+name: Offensive Entry Hazard Setter
+move 1: Earth Power
+move 2: Ice Beam
+move 3: Stealth Rock / Toxic Spikes
+move 4: Sludge Wave / Toxic Spikes
 ability: Sheer Force
 item: Life Orb
-evs: 128 HP / 252 SpA / 128 Spe
+evs: 40 HP / 252 SpA / 216 Spe
 nature: Modest
 
 Moves
 ========
 
-Sludge Wave and Earth Power are Nidoqueen's primary STAB moves, which have good coverage in the metagame and let it 2HKO, if not OHKO, a large portion of the tier, including Victini, Mega Manectric, Florges, Shaymin, and Rhyperior. Stealth Rock provides offensive pressure on the opponent, and is easily set up due to the fact that Nidoqueen forces out a lot of Pokemon in the tier. Ice Beam serves as coverage, and lets it nail Pokemon trying to switch in on Earth Power, such as Flygon, Hydreigon, and Gligar.
+Earth Power is Nidoqueen's primary STAB move and is able to OHKO or 2HKO a large portion of the tier. Ice Beam has great coverage in tandem with Earth Power and leaves only a select few Pokemon that resist both moves. These two moves are particularly great for pressuring common Defog and Rapid Spin users, such as Crobat, Gligar, Empoleon, Forretress, and Donphan. Stealth Rock pressures opposing teams by punishing switches, but Toxic Spikes, which aid in wearing down bulky Pokemon such as Hippowdon and Vaporeon, can be used instead if one of Nidoqueen's teammates already carries Stealth Rock. Sludge Wave is Nidoqueen's second STAB attack that works particularly well for damaging Fairy-types such as Florges as well as Rotom-H, which resists Ice Beam and is immune to Earth Power. Nidoqueen has access to many other moves that can be used to hit specific foes. Examples of moves that Nidoqueen can use in the last slot are Thunderbolt to hit bulky Water-types such as Suicune, Alomomola, and Mega Blastoise and Fire Blast to hit Bronzong.
 
 Set Details
-=========
+========
 
-With this set, Nidoqueen becomes an offensive force to be reckoned with while still having enough bulk to be a good check to Fighting- and Bug-type Pokemon in the tier. Thanks to Sheer Force, Life Orb recoil is canceled out, effectively giving Nidoqueen a 1.7x boost to her attacks with no secondary effects. A Modest nature and a Life Orb let Nidoqueen hit as hard as possible. The EVs let Nidoqueen outspeed defensive Roserade, max Speed Empoleon, fast defensive Suicune, and -1 Victini. The rest is invested in bulk and Special Attack. Toxic Spikes and Fire Blast can be used to cripple opponents and hit Bronzong, respectively. This is good for Nidoqueen because it's one of the few Pokemon in the tier that can do this and still be a potent threat.
+252 EVs are used in Special Attack with a Modest nature to enable Nidoqueen to hit as hard as possible. Sheer Force negates Life Orb recoil, giving a 1.69x boost to Nidoqueen's moves at the cost of their secondary effect. The given Speed investment allows Nidoqueen to outspeed Adamant Honchkrow and Pokemon with uninvested base 100 and lower Speed, such as Tentacruel and Defensive Arcanine. The rest of the EVs are placed into HP to add to Nidoqueen's already-impressive bulk. EVs may be moved from Speed to HP in order for Nidoqueen to take hits better; for example, 180 HP / 252 SpA / 76 Spe can be used to outspeed uninvested Suicune and Gligar while taking attacks from Mienshao and Lucario much more easily.
 
 Usage Tips
 ========
 
-This set should be setting up Stealth Rock most of the time if Nidoqueen can safely switch in and force the opposing Pokemon out. It should also be double-switching if you predict the opponent to switch into one of Nidoqueen's counters, like Snorlax or Umbreon. The set is geared towards wallbreaking capabilities and setting up Stealth Rock, while being a good check to a plethora of common types in the metagame, like Fairy, Fighting, and Electric.
+Nidoqueen can easily use her great offensive presence and many resistances to find opportunities to set up entry hazards. When attacking, prediction is key, as many opponents will try to pivot their Pokemon around Nidoqueen's moves. When the opponent does have a Pokemon that can safely take any of Nidoqueen's hits, such as Umbreon or Bronzong, Nidoqueen should take advantage of the obvious switch to set up entry hazards or double switch.
 
 Team Options
 ========
 
-Nidoqueen appreciates Pokemon that can make quick work of special walls, such as Machamp. It also likes Wish support since it usually gets worn down fairly quickly, especially since it doesn't have reliable recovery and lacks Black Sludge. This can come from Wish Passers like Umbreon and Florges. Mega Houndoom is a great partner for Nidoqueen, since it sets up all over common switch-ins to Nidoqueen such as Umbreon. Hydreigon is also a great partner as it has good offensive and defensive synergy with Nidoqueen, and lures in Florges with U-turn for Nidoqueen to KO.
+Nidoqueen appreciates the support of wallbreakers that can remove the special walls that she cannot defeat. Machamp is a particularly great partner that can easily remove Pokemon such as Umbreon, Blissey, and Snorlax. Choice Scarf Hydreigon is another good partner that has good offensive synergy with Nidoqueen, checking certain offensive threats such as Krookodile and Shaymin while a mixed Life Orb set helps to break past special walls. Both of the aforementioned Pokemon appreciate Nidoqueen's ability to remove Fairy-types. On balanced teams, Nidoqueen appreciates Wish support, as she is prone to getting worn down by Pokemon such as Mienshao and Crobat.
 
-Defensive
+
+Defensive Entry Hazard Setter
 ########
-name: Defensive
-move 1: Ice Beam / Sludge Wave
-move 2: Earth Power
-move 3: Stealth Rock / Toxic Spikes
-move 4: Dragon Tail / Roar / Protect
+name: Defensive Entry Hazard Setter
+move 1: Stealth Rock / Toxic Spikes
+move 2: Roar
+move 3: Ice Beam / Flamethrower
+move 4: Earth Power / Flamethrower
 ability: Sheer Force
 item: Black Sludge
-evs: 248 HP / 240 Def / 20 Spe
+evs: 248 HP / 240 Def / 20 SpA
 nature: Bold
 
 Moves
 ========
 
-Ice Beam and Earth Power are the primary moves for Nidoqueen, which provide good coverage and hit pretty hard, even without investment. Sludge Wave can be used over Ice Beam, doing good amounts of damage to opponents. However, Nidoqueen will miss out on hitting common Defoggers and Hydreigon if you run Sludge Wave. Stealth Rock or Toxic Spikes can be set up easily, as Nidoqueen forces a lot of switches. Dragon Tail is the preferred phazing move, as it racks up damage and Fairies usually won't come in on Nidoqueen; however, Roar can be used if you fear Substitute users. Protect can be used to scout Choiced sets, and can get free residual recovery.
+Stealth Rock wears enemies down by cutting into their health upon switching, but if one of Nidoqueen's teammates already carries Stealth Rock, Toxic Spikes can be used instead. Roar allows Nidoqueen to phaze foes and rack up residual damage from the entry hazards she has set. Ice Beam and Earth Power have good coverage together, pressuring many of the tier's hazard removers and hitting hard even without Special Attack investment. Flamethrower can be used over either attack to KO Forretress, which can otherwise spin away Nidoqueen's entry hazards rather easily. Earthquake can be used over Earth Power with a Relaxed nature to OHKO Mega Beedrill.
 
 Set Details
-=========
+========
 
-This set lets Nidoqueen serve as one of the best Fighting-, Bug-, and Electric-type counters in the tier. Black Sludge lets it get residual recovery each turn. Bold nature allows Nidoqueen to tank physical hits with ease. The EVs let Nidoqueen outspeed certain threats, mainly uninvested Blastoise, with the rest invested into bulk. Don't use a Relaxed Nature with Dragon Tail as it won't be doing much anyway, and it's not worth it being outsped by Blastoise. Fire Blast can be used, especially with Toxic Spikes, as it gets rid of Forretress and Bronzong, who are both very annoying for this set.
+The given HP and Defense EVs significantly boost Nidoqueen's physical defense and allow her to take most physical hits with ease. The remaining EVs are placed into Special Attack to allow Nidoqueen to hit opposing offensive Pokemon marginally harder. Black Sludge restores Nidoqueen's health passively and is her only form of recovery.
 
 Usage Tips
 ========
-Nidoqueen should be setting up entry hazards once it is able to force a switch, which can let it rack up hazards or poison damage as it starts to phaze. Nidoqueen can force out a lot of Pokemon that get phazed into it, which can give it the opportunity to either hit them hard if they choose to stay in, or phaze again if they will switch out. It's recommended that grounded Poison-types, like Nidoking and Roserade, are eliminated early in the match so that they don't absorb the Toxic Spikes.
+
+This set works best on balanced and stall teams as a check to Fighting-, Fairy-, and Electric-types. Nidoqueen can use her impressive bulk to set up entry hazards against physical attackers such as Mienshao, Crobat, and Mega Beedrill. After Stealth Rock or Toxic Spikes have been set up, Nidoqueen should use Roar to rack up residual damage on switch-ins and possibly give herself a favorable matchup.
 
 Team Options
 ========
-Nidoqueen appreciates Wish support from Pokemon such as Umbreon, Vaporeon, or Florges, as Nidoqueen gets worn down fairly fast. Nidoqueen also pairs well with defensive Pokemon that have good defensive synergy with her, such as Snorlax and Porygon2, as they can take attacks coming from common special attackers like Chandelure with ease. They also make a good lure for Fighting-types. If you're not using Fire Blast, Fire-types such as Victini, Chandelure, and Darmanitan make good partners as they demolish Bronzong and Forretress. Victini fills this role very well, as it also takes out grounded Poison-types such as opposing Nidoqueen, Nidoking, and Roserade with ease, as well as Forretress.
+
+Teammates such as Mega Ampharos and Kyurem that put pressure on Defog users work well with Nidoqueen. In addition, spinblockers help ensure that Nidoqueen's entry hazards remain on the field. Nidoqueen is prone to getting worn down, so she greatly appreciates Wish support. Blissey can full heal Nidoqueen with her Wishes and help with some of the powerful special attackers that trouble Nidoqueen. Other phazing Pokemon can make full use of the entry hazards Nidoqueen sets. Whirlwind Snorlax is an example that has great defensive synergy with Nidoqueen.
 
 Other Options
 ########
 
-Fire Blast, Thunderbolt, and Focus Blast are all good coverage options for Nidoqueen, as they let it get through Bronzong, Milotic, and physically defensive Umbreon with relative ease. However, it is usually forced to give up Stealth Rock or Ice Beam for this. Super Fang can be used to stallbreak fairly well, but Nidoqueen has trouble finding a moveslot for it. A physical moveset with Poison Jab, Earthquake, and the elemental punches can be used, but Earthquake makes Nidoqueen take Life Orb recoil and the other moves do significantly less, making it not as viable as a special moveset.
+Nidoqueen has access to Focus Blast, which, after being boosted by Sheer Force and Life Orb, can deal severe damage to many of her switch-ins, such as Umbreon, Snorlax, and Porygon2. Nidoqueen can also use Taunt, which prevents defensive Pokemon from recovering and slower Defog users from clearing her entry hazards. Dragon Tail is an alternate form of phazing, but is very weak and relatively inaccurate; it also cannot phaze Protect users with Dragon Tail, so Roar is usually the better option. A physical or mixed set is possible, but Nidoking is usually better for this role due to its higher base Attack.
 
 Checks & Counters
 ########
 
-**Special Walls**: Common special walls, like Porygon2 and Umbreon can all take Nidoqueen's attacks with ease, and can recover back the lost health. Snorlax can also tank hits and can set up on it with relative ease or hit it hard with Earthquake. However, non-Rest variants must watch out for Toxic Spikes.
+**Dedicated Special Walls**: Blissey, Snorlax, Porygon2, Umbreon, specially defensive Cresselia, and specially defensive Vaporeon all give Nidoqueen trouble, as they avoid taking significant damage from any of her moves.
 
-**Rotom-H**: Rotom-H can use Trick or Overheat to cripple Nidoqueen or hit it hard, and specially defensive variants generally have an easy time with it, provided Stealth Rocks are off the field.
+**Calm Mind Users**: Pokemon such as Calm Mind Cresselia and CroCune can use offensive variants of Nidoqueen as setup fodder, although they must be careful not to get phazed.
 
-** Bulky Water-types**:  Nidoqueen has a hard time dealing with bulky Water-types, such as Milotic and Suicune, who can recover off damage dealt with ease and set up on it respectively, and can freely cripple it with Scald.
+**Bronzong**: Unless she runs Fire Blast, Nidoqueen cannot touch Bronzong and will get worn down by Gyro Ball or Earthquake.
 
-**Bronzong**: Nidoqueen gets stopped entirely by Bronzong, who is immune to both STAB moves, Toxic Spikes, and takes minimal damage from Stealth Rock and Ice Beam. It can also damage Nidoqueen with Earthquake, or set up Stealth Rock or screens. Bronzong can't switch in if Nidoqueen is running Fire Blast.
-
-**Ground-types**: Nidoqueen can be revenge killed by Ground-types such as Flygon and Hippowdon, who can outspeed and KO or tank an Ice Beam and KO, respectively.
-
-**Forretress**: Forretress is a pain for the defensive set, as it can clear away Nidoqueen's entry hazards with ease, is immune to Toxic Spikes, and can set up entry hazards of its own. However, it must be wary of a powerful Earth Power.
+**Ground- and Water-types**: Strong Ground- and Water-types such as Krookodile and offensive Suicune can outspeed and KO Nidoqueen.

@@ -1,7 +1,39 @@
 Overview
 ########
 
-Skrelp is a rather overlooked Pokemon, as it is not very impressive in any one role. However, it has many very appealing advantages over other Pokemon. First, it has an amazing stat distribution, with nice bulk of 50 / 60 / 60 and 60 / 60 offenses, very fit for a tank. Skrelp's STAB moves have surprisingly good coverage, only being resisted by Ferroseed, Tentacruel, Skrelp itself, and Frillish. Skrelp also has a nice set of resistances, with resistances to Fighting-, Water-, Fairy-, and Fire-type moves. These resistances allow Skrelp to wall some very powerful Pokemon like Ponyta and Mienfoo. Finally, Skrelp only has three weaknesses, which is very good for a wall. Skrelp receives competition from Chinchou and Staryu as a bulky Water-type. Skrelp's movepool is also not very impressive. Furthermore, Skrelp's Speed stat is very low, meaning it will almost always be hit first. Skrelp's only form of recovery is RestTalk, which is quite unreliable. Skrelp's abilities don't help it much either, particularly since its best ability, Adaptability, is unreleased. Despite all these flaws, Skrelp is still a good wall.
+Skrelp's STAB moves have good coverage and are resisted by few Pokemon, making it a great offensive Pokemon. Its decent bulk and typing, which gives it nine resistances, allow it to survive many hits with ease. Also, its ability Adaptability lets it hit harder. However, Skrelp is weak to common types, such as Ground and Electric; it also has a low Speed stat and a small movepool. Furthermore, its only form of recovery is the unreliable Rest, making it reliant on Wish support.
+
+Special Attacker
+#########
+name: Special Attacker
+move 1: Sludge Wave / Sludge Bomb
+move 2: Hydro Pump
+move 3: Hidden Power Fire / Hidden Power Psychic
+move 4: Scald
+ability: Adaptability
+item: Eviolite
+evs: 36 HP / 116 Def / 200 SpA / 116 SpD / 40 Spe
+nature: Modest
+
+Moves
+========
+
+Sludge Wave is the main STAB move, as it is very powerful and boosted by Adaptability. Sludge Bomb is also a viable alternative to Sludge Wave; however, while Sludge Bomb has a higher chance to inflict poison, it is often not worth using, because it cannot hit Chespin and might poison a Pokemon that would be crippled more by a burn. Hydro Pump, the most powerful STAB move on the set, is also boosted by Adaptability. Hidden Power Fire allows Skrelp to heavily damage Steel-types, which are immune to Poison-type moves; it is primarily used to KO Ferroseed, which resists both of Skrelp's STAB moves. Having Hidden Power Psychic allows Skrelp to OHKO Croagunk, which would otherwise counter Skrelp; it also hits other Skrelp for super effective damage. Scald is another 100% accurate STAB move, can be used when Hydro Pump's accuracy is not reliable, and has a 30% chance to burn the foe.
+
+Set Details
+========
+
+The EV spread maximizes Skrelp's damage output while hitting Eviolite numbers. Adaptability boosts the power of Skrelp's STAB moves, and a Modest nature increases Skrelp's Special Attack. The Speed EVs allow Skrelp to outspeed Pokemon such as Spritzee and Hippopotas.
+
+Usage Tips
+========
+
+Skrelp can easily switch into moves that it resists, thanks to its bulk. Scald should be used early-game to burn and wear down Skrelp's checks. Ferroseed and Croagunk should be hit on the switch, as they are not always OHKOed by any of Skrelp's moves.
+
+Team Options
+========
+
+Sticky Web support lets Skrelp outspeed and KO Pokemon that would usually be faster than it. Hazard support can be useful to allow Skrelp to attain KOes more easily. Skrelp has good synergy with Fighting-types, such as Mienfoo and Timburr, as it can easily KO Fairy- and Poison-types, which are troublesome for them. Skrelp works well with Drilbur too, as Drilbur is immune to Electric-type moves, which Skrelp is weak to, can set Stealth Rock up, and can easily KO Croagunk, Skrelp's main counter. Pokemon that can deal with Abra, such as Stunky and Pawniard, are also good partners to Skrelp. Pokemon that are immune to Ground-type moves, such as Archen and Vullaby, and Pokemon that resist or are immune to Electric-type moves, such as Drilbur and Pumpkaboo, also make for good partners. Support Pokemon such as Spritzee, which has access to Wish and Aromatherapy, are also useful to allow Skrelp to stay healthy.
 
 RestTalk
 ########
@@ -9,80 +41,46 @@ name: RestTalk
 move 1: Rest
 move 2: Sleep Talk
 move 3: Scald
-move 4: Sludge Bomb
-ability: Poison Point
+move 4: Sludge Wave / Sludge Bomb
+ability: Adaptability
 item: Eviolite
-evs: 80 HP / 196 Def / 116 SpA / 116 SpD
-nature: Calm
+evs: 116 HP / 196 Def / 36 SpA / 116 SpD / 36 Spe
+nature: Bold
 
 Moves
 ========
 
-The combination of Rest and Sleep Talk gives Skrelp a reliable form of recovery, which allows it to stay healthy throughout the match and deal damage. Scald hits decently hard and has the nice chance to burn, effectively crippling all physical attackers bar Timburr. Sludge Bomb has surprisingly effective synergy with Scald, and is the more powerful STAB. It also hits the Grass-types that Scald does not hit effectively.
+Rest is Skrelp's only form of recovery; it cures it of status and fully restores its health. Sleep Talk allows Skrelp to attack while asleep. Scald is boosted by Adaptability and has a high chance to burn the foe. Though Sludge Bomb can be used in place of it, Sludge Wave is used, as it has a lower chance of poisoning a foe that would be crippled more by a burn and is able to hit Chespin.
 
 Set Details
 ========
 
-As Adaptability is still unreleased, and as this moveset doesn't have any moves that take advantage of Poison Touch, Poison Point is the ability of choice. The given defensive EVs and nature with Eviolite give Skrelp very respectable bulk that lets it take many hits easily. 116 Special Attack EVs give Skrelp 14 Special Attack, letting it deal decent damage with its STAB moves.
+Adaptability boosts the power of Skrelp's STAB moves. The HP and defensive investment in conjunction with Eviolite allow Skrelp to take many hits with ease. The Speed EVs increase Skrelp's Speed stat by one, allowing it to outspeed Spritzee and Hippopotas, and a Bold nature allows it to take physical moves better.
 
 Usage Tips
 ========
 
-Skrelp is a very good mixed wall, as it can take hits from attackers such as Fletchling, Porygon, non-Earthquake Tirtouga, and other common offensive Pokemon. RestTalk also makes Skrelp a very good status absorber, as it can get rid of it status by using Rest. With the Special Attack EVs, Skrelp also can hit things that aren't dedicated walls or resists pretty hard. Thanks to its Poison typing, it is a very effective wall against Fairy- and Fighting-type Pokemon, which is very useful.
+Skrelp can be used as a status absorber thanks to Rest. It is a good mixed wall and can deal with Fighting- and Fairy-types, common Pokemon in LC, thanks to Adaptability.
 
-
-Team Options
+Team Option
 ========
 
-Vullaby is a good teammate for Skrelp, as it is immune to Psychic- and Ground-type moves, and can Defog away entry hazards, while Skrelp takes Fairy- and Ice-types; Skrelp also can handle special attackers, as well as burning physical attackers. However, you must be wary of Chinchou and other Electric-types. Lickitung is another good partner for Skrelp because it takes most Psychic- and Electric-type moves with its amazing bulk, while Skrelp can take physical Fighting-type attacks for Lickitung. If Skrelp can’t get a Rest off, Lickitung can pass it a Wish, which can be helpful.
-
-Tank
-########
-name: Tank
-move 1: Scald
-move 2: Sludge Bomb
-move 3: Thunderbolt
-move 4: Hidden Power Fire
-ability: Poison Point
-item: Eviolite
-evs: 36 HP / 116 Def / 200 SpA / 116 SpD / 40 Spe
-ivs: 2 Atk / 30 SpA / 30 Spe
-nature: Modest
-
-Moves
-========
-
-Scald is the Water-type STAB move of choice, as Skrelp and its teammates really enjoy the extra chip damage and the chance that opponent will get burned. Sludge Bomb is Skrelp's Poison-type STAB move and is more powerful than Scald. It hits quite hard and has amazing type synergy with Scald. Thunderbolt hits a majority of the Pokemon that resist Skrelp’s STAB moves super effectively, such as Tentacool, Frillish, and other Skrelp. Hidden Power Fire hits Ferroseed, the only Pokemon that resists Skrelp’s other moves, extremely hard.
-
-Set Details
-========
-
-The Special Attack EVs together with a Modest nature and 30 Special Attack IVs give Skrelp 16 Special Attack, letting it hit very hard. The HP, Defense, and Special Defense EVs give Skrelp respectable 22 / 21 / 21 bulk with Eviolite, letting it beat many Pokemon 1v1 with its STAB moves and bulk. The remaining 40 EVs raise Speed by a point, to 10. The given IVs let Skrelp access Hidden Power Fire, while minimizing Attack to limit Foul Play and confusion damage.
-
-
-Usage Tips
-========
-
-This Skrelp is a more offensive Skrelp and should be used as a pivot, coming in on things that it beats, dealing a decent amount of damage, and switching out when in a sticky situation. The best way to use Skrelp is to switch in, relying on its good bulk, and then neuter the opposing team with burns and hard hitting attacks. As Skrelp doesn't have recovery and it needs to take hits, Wish support is very helpful. With its amazing bulk and good Special Attack, Skrelp can often beat many Pokemon singlehandedly.
-
-Team Options
-========
-
-Again, Vullaby is a good partner for Skrelp, Knocking Off Eviolites so that Skrelp can hit harder, while Skrelp can burn things so that Vullaby can better take hits. Wish passers are good partners in general for tank Skrelp, as it loves the recovery. Spritzee can physically tank along with Skrelp, while Lickitung can Knock Off items and wall things on the special side. They also benefit from Skrelp's support, as Skrelp resists both Spritzee’s Steel- and Poison-type weaknesses and Lickitung’s Fighting-type weakness.
+Thanks to its ability to KO Fairy-types with ease, Skrelp is a great partner to Fighting-types, such as Mienfoo and Timburr. Drilbur makes for a good partner thanks to its immunity to Electric-type moves and ability to set up Stealth Rock, as well as its ability to KO Croagunk, Skrelp's main counter. Pokemon that can easily take on Abra, such as Stunky and Pawniard, also make for good partners to Skrelp. Pokemon that are immune to Ground-type moves, such as Archen and Vullaby, are good partners; in particular, Vullaby is immune to two of Skrelp's weaknesses, Psychic and Ground, while Skrelp resists two of Vullaby's weaknesses, Fairy and Ice. Pokemon that resist or are immune to Electric-type moves, such as Drilbur and Pumpkaboo, are also good partners.
 
 Other Options
 ########
 
-A Life Orb set can hit very hard, however, even with good coverage, Life Orb Skrelp will get worn down very easily due to its low Speed. A specially defensive spread could work, but it is outclassed by Tentacool and Chinchou. A physical set could work off Skrelp’s fine Attack stat and take advantage of Poison Touch, but as Skrelp’s only decent physical moves are Waterfall, Play Rough, and Return, it is inferior to its Special set. Hydro Pump hits much harder than Scald, but the burn chance is missed, as without it, Skrelp cannot effectively neuter physical attackers. Skrelp also gets access to other cool moves such as Toxic Spikes and Haze, which have good utility, but Skrelp can only run two other moves along with its STAB attacks, and having to use Rest + Sleep Talk for recovery or Thunderbolt + Hidden Power Fire for coverage mean that there is no space for either of the moves.
+Life Orb can be used on the offensive set for more power, but causes Skrelp to take recoil damage. Choice Specs can also be used on the offensive set for more power without recoil, but at the cost of being Choice-locked into one move. Toxic Spikes can also be used on the RestTalk set, as it is quite unexpected and allows Skrelp to provide support for its teammates. Thunderbolt can also be used to hit opposing Skrelp, Frillish, and Tentacool, which otherwise wall Skrelp, for super effective damage. A physical set with Waterfall, Gunk Shot, and Play Rough can also be considered.
 
-
-Checks & Counters
+Checks and Counters
 ########
 
-**Super Effective Attacks**: The best way to beat Skrelp, like most Pokemon, is to hit it with a super effective attack. Ground-types, such as Drilbur and Diglett, can easily take down Skrelp, but they cannot switch into Scald. Psychic-types such as Abra can easily take down Skrelp as well, but unless they're bulky, they will take a lot of damage from Sludge Bomb.
+**Ground-types**: Ground-types such as Diglett and Drilbur can easily KO Skrelp; Diglett can trap it, but it can be forced out by the threat of a Water-type STAB move.
 
-**Ferroseed**: Ferroseed is one of the best counters to Skrelp, as it is only hit hard by Hidden Power Fire, so it can easily set up hazards against Skrelp lacking this move.
+**Electric-types**: Electric-types such as Chinchou, Magnemite and Elekid threaten Skrelp with their Electric-type STAB moves, though the RestTalk set has enough bulk to survive their hits.
 
-**Bulky Water-types**: Chinchou and Tentacool can take multiple hits from Skrelp. Chinchou beats Skrelp with Thunderbolt, while Tentacool wins with Giga Drain, unless Skrelp runs Thunderbolt.
+**Psychic-types**: Psychic-types such as Abra and Gothita can damage Skrelp with any of their STAB moves, and Gothita can trap it, though Skrelp's powerful STAB moves might prove to be problematic.
 
-**Electric-types**: Electric-types in general easily beat Skrelp, especially Magnemite, who can come out of the scuffle unscathed thanks to Berry Juice. 
+**Special Walls**: Pokemon with a high Special Defense stat, such as Munchlax and Mantyne, can take Skrelp's hits with much ease.
+
+**Pokemon that resist Skrelp's STAB moves**: As long as Skrelp doesn't carry Hidden Power Fire, Ferroseed counters it. Croagunk also counters Skrelp, though Hidden Power Psychic is problematic for it. Skrelp checks itself, as it is resistant to its STAB moves, though it fears Hidden Power Psychic. Bulky Water-types can survive hits from Skrelp with much ease; examples include Frillish, which is immune to Water-type moves thanks to Water Absorb, and Tentacool, which, thanks to its typing, resists both of Skrelp's STAB moves. 

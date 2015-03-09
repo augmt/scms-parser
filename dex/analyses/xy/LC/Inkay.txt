@@ -1,54 +1,91 @@
 Overview
 ########
 
-Inkay has a powerful niche due to the combination of Contrary and Superpower, which creates a snowball effect: after using Superpower, Inkay's Attack and Defense are raised, which allows it to slowly accumulate boosts. However, Inkay's low Speed holds it back greatly, and it needs either Trick Room or Choice Scarf to mitigate this. Its bulk is also severely lacking, and without any boosts, it is not able to take many hits. Although Inkay only has two weaknesses, it also has no resistances, which gives it a lack of opportunities to switch in. Inkay's movepool is also quite small, so it does not have very much to work with. Finally, it lacks recovery, meaning it is worn down quickly. Although Inkay has its fair share of flaws, its unique niche still makes it a fine choice for your team.
+Inkay's ability Contrary in tandem with Superpower allows it to be a unique sweeper; rather than lowering Inkay's Attack and Defense stats, Superpower raises them, essentially being a 120 Base Power Bulk Up. Inkay's STAB moves Knock Off and Psycho Cut have perfect coverage alongside Superpower, meaning Inkay is free to run one of its useful utility options, such as Switcheroo, Trick Room, or Destiny Bond. Inkay's stats, while respectable, are somewhat of a letdown considering that it has no resistances aside from an immunity to the uncommon Psychic-type and is weak to Fairy. Inkay also suffers from a 4x weakness to Bug-type attacks, so common U-turn users will have an easy time forcing Inkay out. This can be an issue, as Inkay's lack of recovery means that constantly being switched out will cause entry hazard damage to quickly accumulate. This can be considered a worthwhile trade-off, however, as Choice Scarf Inkay is a fantastic revenge killer and is able to sweep teams with its perfect coverage and decent Attack stat.
 
 Choice Scarf
 ########
 name: Choice Scarf
-move 1: Superpower
-move 2: Psycho Cut
-move 3: Switcheroo
-move 4: Night Slash
+move 1: Knock Off
+move 2: Superpower
+move 3: Psycho Cut
+move 4: Switcheroo
 ability: Contrary
 item: Choice Scarf
 evs: 12 HP / 244 Atk / 12 Def / 236 Spe
-nature: Jolly
+nature: Jolly / Adamant
 
 Moves
 ========
 
-Inkay has a unique niche in its combination of the ability Contrary and the move Superpower. After one or two Superpowers, Inkay becomes quite powerful and bulky. Psycho Cut is Inkay's other STAB move and gets great coverage alongside Superpower. Switcheroo is used to steal the opponent's items, such as Berry Juice or Eviolite, crippling Pokemon that rely on them while locking them into a move with Choice Scarf. Night Slash gets good neutral coverage and is another STAB option for Inkay.
+Knock Off is a Dark-type STAB move that removes items from opponents, allowing Inkay to cripple its counters, and can therefore be very effective early-game. Superpower's side effect is reversed by Contrary, meaning that it boosts Inkay's Attack and Defense stats instead, enabling Inkay to clean up teams that lack Pokemon that resist Fighting. Psycho Cut is a STAB move that hits Fighting-types for super effective damage while also giving Inkay neutral coverage against Fairy-type foes. Switcheroo allows a severely weakened Inkay to give its Choice Scarf to a foe before it goes down; however, it can be used any time to cripple walls such as Spritzee and Larvesta.
 
 Set Details
 ========
 
-Choice Scarf is essential to bolster Inkay's Speed; with Choice Scarf equipped, Inkay reaches 22 Speed, outspeeding the entire unboosted tier. The given Speed and Attack EVs give Inkay the maximum power and Speed possible, while 12 EVs in Defense and HP give it an extra boost in both of these stats. Adamant nature is a possibility; however, Inkay's damage isn't increased enough to merit its use over Jolly.
+Contrary reverses the side effect of Superpower, turning Inkay into a vicious sweeper once its checks are removed. 236 Speed EVs with a Choice Scarf allow Inkay to outspeed the entire unboosted tier, as well as 14 Speed Choice Scarf users and +1 Corphish if Inkay is using a Jolly nature. An Adamant nature can be used for securing some KOs that Inkay misses with a Jolly nature, such as Archen after Stealth Rock, at the cost of Speed tying with the above foes. 244 EVs in Attack make Inkay strong enough for its attacks to hit hard, and the remaining EVs are invested into HP and Defense to make Inkay marginally bulkier.
 
 Usage Tips
 ========
 
-Inkay is fairly simple to use: spam Superpower to attempt to create a snowball effect to accumulate boosts. However, be careful about being locked into certain moves; being locked into Superpower leaves Inkay vulnerable to Ghost-types, while Psycho Cut leaves Inkay vulnerable to being revenge killed by Dark-types. Although Inkay should mainly focus on setting up with Superpower, try to predict when to set up early- or late-game, and if you can't find a proper time to sweep, use Switcheroo.
+Use caution when using Superpower and Psycho Cut; if your opponent has a Ghost-type such as Gastly or Pumpkaboo, it can come in for free on a Superpower, whereas Psycho Cut will let Pawniard and Vullaby come in for free. Early-game, Knock Off is the best option, as it removes items from Inkay's counters, softening them up for Inkay's teammates or Inkay to sweep more easily late-game. Inkay can wreak havoc at nearly any point in the game. If it gets an opening early- or mid-game, it can repeatedly use Superpower in order to break walls. It's also a fantastic revenge killer, able to take down weakened opponents such as Mienfoo, Pawniard, Timburr, Gothita, and Ferroseed. If Inkay is within KO range of the foe's attack, offloading its Choice Scarf onto an enemy might give a teammate an opportunity to set up.
 
 Team Options
 ========
 
-Steel-types such as Pawniard and Honedge have great synergy with Inkay because they resist Inkay's Fairy-type weakness and Inkay can revenge kill Fighting-types in return. Pawniard, in particular, is a good partner, as it can Pursuit trap Ghost-types and allow Inkay to freely spam Superpower; it also can Knock Off Eviolites to help Inkay do more damage. Hazards are essential to wear down potential switch-ins, making Dwebble a good partner. Rapid Spin or Defog support is helpful because Inkay switches often and can be worn down quickly.
+Inkay's weakness to Fairy-types requires that one of its teammates, such as a Steel-type such as Pawniard or Ferroseed or a Fire-type such as Larvesta or Ponyta, can check them. They are also able to manage most of the tier's users of the most common Bug-type attack: U-turn. Entry hazard support from Pokemon such as Ferroseed and Drilbur softens up opponents for Inkay, making it easier to sweep. Entry hazards also break Sturdy, enabling Inkay to run through Pokemon such as Magnemite and Tirtouga. Ghost-type Pokemon have an easy time switching into Inkay, as the move it most commonly locks itself into is Superpower. Thus, a Pursuit trapper such as Stunky, Pawniard, or Houndour can remove Ghost-types, allowing Inkay to use Superpower without fear of giving foes such as Gastly and Pumpkaboo a free switch.
+
+Trick Room
+########
+name: Trick Room
+move 1: Trick Room
+move 2: Knock Off
+move 3: Superpower
+move 4: Psycho Cut
+ability: Contrary
+item: Eviolite
+evs: 12 HP / 244 Atk / 12 Def / 228 SpD
+ivs: 0 Spe
+nature: Brave
+
+Moves
+========
+
+Trick Room lets Inkay utilize its naturally low Speed to set up and sweep; it's one of the only Trick Room setters that can do so. Knock Off is Inkay's most powerful STAB move and removes foes' items, allowing Inkay to cripple its counters. Superpower allows Inkay to acquire Attack and Defense boosts while crushing foes such as Ferroseed and Pawniard. Psycho Cut hits opponents such as Timburr, Mienfoo, Trubbish, and Spritzee, KOing them after a few boosts.
+
+Set Details
+========
+
+With 0 Speed IVs and a Brave nature, Inkay reaches 8 Speed and is able to outspeed almost every Pokemon in the tier under Trick Room. The aforementioned Brave nature and 244 Attack EVs maximize Inkay's offensive potential, enabling it to sweep after it receives a few boosts from Superpower. The remainder of the EVs are invested in Inkay's bulk, the majority in Special Defense, as Inkay is able to bolster its Defense with Superpower.
+
+Usage Tips
+========
+
+Inkay can set up Trick Room for its teammates on a Trick Room team or for itself to sweep teams late-game, particularly once opposing Fairy-types are beaten. It should generally avoid setting up on anything that might have Taunt or U-turn.
+
+Team Options
+========
+
+Inkay works well on Trick Room teams, but the fact that it can set up and sweep independently means it has use outside of full Trick Room teams. If Inkay is not being used on a full Trick Room team, then Pursuit trappers for beating opposing Ghost-types, entry hazard setters, and Pokemon that resist Fairy-type moves are good teammates. Teammates that can support Inkay on a Trick Room team include Spritzee, Porygon, and Pumpkaboo, as they are bulky enough to take the attacks directed at Inkay. Other slow, hard-hitting Pokemon such as Cubone, Clamperl, and Cranidos can help Inkay demolish teams with Trick Room up.
 
 Other Options
 ########
 
-Rock Slide is an option for coverage, hitting Flying- and Fire-type Pokemon. Topsy-Turvy could potentially be of use; however, it is difficult to pull off and Inkay is too slow to utilize it effectively. Hypnosis can cripple a Pokemon and wreak havoc, but it has shaky accuracy, making it unreliable. Trick Room is an alternative to Choice Scarf to mitigate Inkay's Speed issues, although its other uses are limited. Destiny Bond can catch something off guard as a last resort. Payback can work well with Inkay's poor Speed, although it is a bit unreliable. Substitute has merit, as Inkay can often find room for it, although the loss of HP is a bit of a downfall. Finally, with Sticky Web support, Inkay can run Eviolite instead of Choice Scarf.
+Destiny Bond could help Inkay grab a final KO if it is low on health, especially on the Trick Room set, as it can outspeed almost all Pokemon when Trick Room is active. Topsy-Turvy might be useful for reversing the work of opposing setup sweepers, but it's very niche and Inkay's low Speed makes it difficult to justify giving Topsy-Turvy moveslot. Rock Slide can score a surprise KO on a weakened Larvesta; however, Jolly Inkay can only OHKO it 6.3% of the time. Hypnosis is usable, but its accuracy is too poor for it to be consistently effective. Taunt can be used, but Inkay doesn't have the Speed stat to utilize it effectively, much like most of Inkay's support options. Inkay has decent special attacking options, but its poor Special Attack stat and no way of boosting it make them unviable.
 
 Checks & Counters
 ########
 
-**Bug-types**: Bug-types such as Dwebble and Larvesta resist Superpower, and can effectively remove Inkay with their STAB moves, which Inkay is 4x weak to. Pokemon that carry U-turn can also take down Inkay and keep up momentum.
+**Fairy-types**: Spritzee and Snubbull both resist Knock Off and Superpower and are able to OHKO Choice Scarf Inkay with their STAB moves after Stealth Rock damage.
 
-**Fairy-types**: Fairy-types like Spritzee and Cottonee resist Superpower and have super effective STAB moves to dispose of Inkay.
+**U-turn Users**: Inkay's 4x weakness to Bug-type moves mean that common users of U-turn such as Mienfoo and Larvesta can heavily damage Inkay, even after a Defense boost from Superpower.
 
-**Faster Pokemon**: Pokemon equipped with a Choice Scarf or Pokemon with naturally higher Speed can revenge kill Inkay easily.
+**Residual Damage**: Inkay's lack of recovery means that entry hazards and other forms of passive damage will wear it down very quickly, meaning it can be picked off even by a weak priority move.
 
-**Special Attackers**: Most special attackers can give Inkay a hard time, as Inkay lacks much Special Defense.
+**Physically Bulky Pokemon**: Pokemon such as Hippopotas, Pancham, and Timburr are bulky enough to take any move from Inkay. However, these Pokemon can often become setup bait if they switch into a Superpower.
 
-**Residual Damage**: Residual damage adds up quickly because Inkay switches often. Toxic Spikes in particular wears it down especially quickly.
+**Ghost-types**: The Choice Scarf set is particularly troubled by Ghost-types such as Gastly and Pumpkaboo; if Inkay locks itself into Superpower, they can switch in for free. However, they must remain wary of Inkay's other attacks, particularly Knock Off.
+
+**Trubbish**: Although it must remain wary of Psycho Cut, Trubbish can easily come in on Inkay when it is locked into Knock Off or Superpower.
+
+**Taunt Users**: Common Taunt users, particularly Cottonee as it is not weak to any of Inkay's moves, can prevent Inkay from setting up Trick Room.

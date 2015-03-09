@@ -14,29 +14,6 @@ move 4: Hidden Power Fire / Stealth Rock
 Pretty straightforward all out attacker or offensive Stealth Rock setter. Max SpA is good as most of your moves are special, and you want to hit Steel-types such as Mega Scizor and Mega Metagross as hard as possible on the switch, but max Atk has merits in order to 2HKO Pokemon such as Mega Venusaur, 30% chance to 2HKO 4 HP / 252 Def+ Chansey after Stealth Rock, and 2HKO Stealth Rock Clefable. Naive is preffered to check Talonflame, Mega Altaria, and Mega Charizard X better, but Hasty is ok to tank Surf and Thunderbolt from Latios and Latias easier.
 
 Set
-#################
-name: 2 [ORAS Doubles] Diancie
-item: Diancite
-ability: Clear Body
-evs: 208 Atk / 48 SpA / 252 Spe
-nature: Naive
-move 1: Diamond Storm
-move 2: Moonblast
-move 3: Earth Power
-move 4: Protect
- 
-Diancie is blessed with an amazing offensive typing and the exact right speed tier to use it, allowing it to nail most of the faster threats in the tier with Super Effective STAB. Diancie's primary move is Diamond Storm because of its spread damage and 50% chance per hit to raise Defense (so a 25% for a double raise and 75% for at least one raise assuming two hits!), and Rock is a great coverage type with so much of the metagame weak to it. Diancie's coverage moves decimate a good portion of other switchins.
-
-- 48 SpA Diancie Moonblast vs. 4 HP / 0 SpD Terrakion: 348-410 (107.4 - 126.5%)
-- 48 SpA Diancie Earth Power vs. 180 HP / 0 SpD Heatran: 384-456 (104.3 - 123.9%)
-- 48 SpA Diancie Earth Power vs. 4 HP / 0 SpD Bisharp: 272-320 (100 - 117.6%)
-- 48 SpA Diancie Moonblast vs. 0 HP / 0 SpD Garchomp: 366-432 (102.5 - 121%)
-- 48 SpA Diancie Moonblast vs. 24 HP / 0 SpD Keldeo: 348-410 (105.7 - 124.6%)
-- 48 SpA Diancie Moonblast vs. 4 HP / 0 SpD Latios: 294-348 (97.3 - 115.2%)
-
-Diancie's typing is actually passable defensively, giving it some glaring weaknesses but also providing it with unique resistances to things like Kangaskhan's attacks and Salamence's STAB moves. In short, Diancie terrorizes speedy offensive Pokemon.
-
-Set
 #########
 name: 3 [ORAS Ubers] Diancie
 item: Diancite

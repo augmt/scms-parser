@@ -1,0 +1,57 @@
+Overview
+########
+
+Beartic has a terrible defensive typing, being a pure Ice-type, but it does have solid offensive capabilities. Beartic sets itself apart from other Ice-types in the tier such as Sneasel and Piloswine by being a capable physical rain sweeper that can handle Grass-types for its teammates. However, common Pokemon in PU such as Poliwrath and Carracosta limit Beartic's offensive capabilities. On top of that, being weak to Stealth Rock and hampered by Spikes and Toxic Spikes doesn't bode well for Beartic at all. That, combined with its low base 50 Speed, means Beartic has to rely on rain to effectively sweep.
+
+
+Swift Swim Sweeper
+########
+name: Swift Swim Sweeper
+move 1: Icicle Crash
+move 2: Superpower
+move 3: Aqua Jet
+move 4: Swords Dance
+ability: Swift Swim
+item: Life Orb
+evs: 252 Atk / 4 Def / 252 Spe
+nature: Adamant
+
+Moves
+========
+
+Icicle Crash is Beartic's STAB move for hitting Grass-types such as Roselia and Tangela. Superpower hits Water-types such as Simipour and Carracosta, which resist Icicle Crash. It is also Beartic's best move against Poliwrath and Avalugg. Aqua Jet hits Fire-types such as Flareon and Ninetales while also bypassing Beartic's low Speed to pick off weakened foes. Swords Dance boosts Beartic's Attack to incredible levels, allowing Beartic to deal out even more damage.
+
+Set Details
+========
+
+Maximum Attack EVs, an Adamant Nature, and Life Orb allow Beartic to hit as hard as possible. Maximum Speed EVs allow Beartic to outspeed as many Pokemon as possible while Speed tying with +2 Rock Polish Regice in rain. Swift Swim is the preferred ability to take advantage of the rain and make up for Beartic's pitiful Speed. Lum Berry can be used over Life Orb for a one-time chance to recover from status, making it easier for Beartic to set up Swords Dance.
+
+Usage Tips
+========
+
+Even though Beartic has average bulk, it is best not to switch it into any attacks due to its bad defensive typing. Rain is a must for Beartic to sweep, so having a consistent weather setter is key. Beartic is also better sweeping once its checks and counters are removed or weak enough for Beartic to take out on its own. Use Swords Dance against Grass-types as they switch out of a predicted Icicle Crash or against defensive Pokemon that will switch in predicting an Icicle Crash, such as Avalugg or Pelipper.
+
+Team Options
+========
+
+Rain support from Pokemon such as Volbeat and Electrode allows Beartic to sweep more effectively. Volbeat can also provide Thunder Wave support for Beartic. Other rain setters with access to Swift Swim, such as Golduck, Carracosta, Poliwrath, and Relicanth, are good partners for Beartic, as they can set up rain and handle Fire-types while Beartic handles Grass-types for them. Carracosta and Relicanth also get access to Stealth Rock, Sturdy, and Rain Dance, providing even more support. Grass-types such as Tangela, Torterra, and Simisage are good partners for Beartic, as they handle the Water-types that Beartic has trouble getting past. Psychic-types such as Beheeyem and Mr. Mime are good partners for Beartic, as they can handle Fighting-types for Beartic. Mr. Mime can also provide Healing Wish support to give Beartic a second chance at sweeping. Electric-types such as Raichu and Zebstrika make for good partners, as they aid in getting rid of Water-types with Thunder, which has perfect accuracy in rain. Entry hazard support from Pokemon such as Carracosta and Barbaracle helps Beartic sweep better. For example, after a Swords Dance and Stealth Rock damage, Beartic is able to OHKO Pelipper and Avalugg with Icicle Crash and Superpower, respectively.
+
+Other Options
+########
+
+Toxic can catch Poliwrath on the switch, but Beartic doesn't have the moveslot to fit it in. Stone Edge is an option to hit Flying- and Bug-types such as Pelipper and Scyther, but all of those Pokemon are hit hard by Icicle Crash, especially after a Swords Dance. Beartic can use Rain Dance to support itself, but it doesn't have the moveslot for it. Beartic has access to support moves such as Taunt and Encore, but it doesn't have the space for them. A Choice Band set with Icicle Crash, Superpower, Stone Edge, and Aqua Jet is viable on Beartic outside of rain, as it has immediate power.
+
+Checks & Counters
+########
+
+**Water-types**: Water-types such as Poliwrath and Carracosta resist Icicle Crash, take next to no damage from Aqua Jet, and can survive a Superpower then threaten Beartic with Circle Throw and Stone Edge, respectively.
+
+**Fighting-types**: Fighting-types such as Throh can't directly switch into any of Beartic's attacks but can scare out Beartic with Storm Throw. Throh also has access to Rest to recover any lost health.
+
+**Steel-types**: Steel-types such as Metang and Klang can survive a Superpower and threaten Beartic with Meteor Mash and Gear Grind, respectively. Klang can use Rest to recover lost HP from Superpower and use Sleep Talk to get a possible stat boost from Shift Gear or attack with Gear Grind while it's asleep.
+
+**Residual Damage**: Stealth Rock takes 25% of Beartic's HP every time it switches in, and Spikes and Toxic Spikes cut into its longevity as well. This combined with Life Orb recoil means Beartic can easily be picked off by priority moves such as Kecleon's Fake Out, Mightyena's Sucker Punch, and Basculin's Aqua Jet. If these moves don't KO Beartic, they will surely put it in range to be KOed next turn.
+
+**Faster Pokemon**: Without rain, Beartic is very slow, so any Pokemon that can outspeed Beartic can KO it. Some examples include Raichu, Flareon, and Scyther. Choice Scarf Pokemon such as Tauros and Mr. Mime can outspeed Beartic in rain and dish out heavy damage.
+
+**Status**: Beartic is crippled by burn, worn down by Toxic, and slowed down by paralysis, so Pokemon with access to Will-O-Wisp, Scald, Toxic, or Thunder Wave can cut into Beartic's offensive capabilities. Examples include Pelipper and defensive Misdreavus.

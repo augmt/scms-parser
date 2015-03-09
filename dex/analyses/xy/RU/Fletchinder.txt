@@ -1,51 +1,53 @@
 Overview
 ########
 
-Despite its awful base stats, horrible movepool, inability to use an item in conjunction with its only strong STAB move, and 4x weakness to Stealth Rock, Fletchinder is very much a threat to watch out for in the RU metagame. Thanks to its ability, Gale Wings, Fletchinder works as a good late-game sweeper with lots of early-game utility. It is great at spreading burns early-game and can revenge kill Pokemon that are weak to Flying-type moves throughout the match in addition to being able to sweep weakened teams with ease. Fletchinder also has a great defensive typing, which allows it to check common Pokemon such as Aromatisse and Escavalier.
+Fletchinder has a unique ability in Gale Wings, which gives priority to Flying-type moves, making it a great late-game cleaner. It also has a decent defensive typing in Fire / Flying, which provides several good resistances that allow it to set up on several offensive Pokemon, such as Escavalier. Furthermore, Fletchinder has access to utility moves such as Roost, which lets it recover when needed, and Will-O-Wisp, which allows it to cripple and slowly wear down its own counters. However, Fletchinder has no secondary STAB attacks, which would be great for hitting most Pokemon resistant to Acrobatics. It is also pretty frail, which means that despite its good defensive typing, it won't have many opportunities to switch in. Lastly, Fletchinder has a 4x weakness to Stealth Rock, which takes away half of Fletchinder's health when it is switched in, often forcing it to Roost and requiring it to be used with some form of entry hazard control.
 
 Swords Dance
 ########
 name: Swords Dance
-move 1: Acrobatics
-move 2: Swords Dance
+move 1: Swords Dance
+move 2: Acrobatics
 move 3: Will-O-Wisp
 move 4: Roost
 ability: Gale Wings
-evs: 160 HP / 252 Atk / 4 Def / 92 Spe
+evs: 152 HP / 252 Atk / 104 Spe
 nature: Adamant
 
 Moves
 ========
 
-Acrobatics is Fletchinder's only powerful and reliable physical STAB move. Even though it is fairly weak, it gets priority thanks to Gale Wings, which transforms Fletchinder from a hopelessly outclassed NFE into a threatening and unique sweeper. Swords Dance raises Fletchinder's low Attack stat to high levels and allows it to sweep weakened teams. Will-O-Wisp gives Fletchinder a way to cripple Pokemon such as Rhyperior that would otherwise wall it, which provides it with quite a bit of early-game utility. It also lets Fletchinder have a much easier time setting up on physical attackers. Roost is used to give Fletchinder reliable recovery and to let it set up more easily.
+Swords Dance boosts Fletchinder's underwhelming Attack stat to a level where it can plow through teams with Acrobatics. Acrobatics is Fletchinder's most powerful STAB attack, as it has 110 Base Power without an item and priority thanks to Gale Wings. Will-O-Wisp cripples several physical attackers that try to come in to beat Fletchinder, such as Rhyperior, by burning them. Roost provides reliable recovery for Fletchinder, letting it recover first in most situations by virtue of Gale Wings.
 
 Set Details
 ========
 
-The given EV spread outruns 0 Speed Drapion and avoids the 2HKO from Assault Vest Escavalier's Knock Off. No item is used because using an item would prevent Fletchinder from having access to fully powered Acrobatics, severely hindering its effectiveness.
+Gale Wings is one of the few reasons to use Fletchinder, as it gives priority to all of its Flying-type moves. Not using an item doubles the power of Acrobatics, which turns Fletchinder into a dangerous late-game cleaner. The EV spread gives Fletchinder's mediocre bulk a good boost and lets it avoid the 2HKO from Assault Vest Escavalier's Knock Off, while the Attack EVs and an Adamant nature greatly increase its damage output. The Speed EVs let Fletchinder's Acrobatics go before maximum Speed Emboar's Sucker Punch, making it fail. They also let Fletchinder outspeed Skuntank and Golbat.
 
 Usage Tips
 ========
 
-Don't attempt to sweep until you've worn down or removed Fletchinder's checks. Instead, if you bring out Fletchinder early-game, use Will-O-Wisp to spread burn onto Fletchinder's checks, such as Rhyperior and Alomomola. You should almost never be switching Fletchinder into an attack that is not from a weak defensive Pokemon or 4x resisted, as it is incredibly frail and might need to take a hit later on in order to set up. Once its counters have been removed or sufficiently weakened, Fletchinder can set up on a Pokemon that it forces out, such as Virizion, or one that cannot deal much damage to it, such as Escavalier.
+Use Swords Dance on a predicted switch, as it greatly boosts Fletchinder's Attack, allowing it to plow through opposing teams. It can also be used against Pokemon it forces out, such as Pangoro, or it can be set up on resisted hits. If Fletchinder is used early-game, use Will-O-Wisp to spread burns and weaken foes for other teammates. Fletchinder is very frail, and thus shouldn't be switched into any attack aside from those that it resists, such as Grass-type attacks. It is also very useful to remove Stealth Rock before you switch into Fletchinder, as otherwise it will have half of its HP cut upon switching in which will make set up difficult. Bringing Fletchinder in with a slow U-turn or Volt Switch is recommended, as it doesn't have enough bulk to switch into too many threats.
 
 Team Options
 ========
 
-Defog or Rapid Spin support from Pokemon such as Hitmonlee and Gligar is mandatory because of Fletchinder's 4x weakness to Stealth Rock. Grass-types are good teammates for Fletchinder because they can easily take on Rhyperior and bulky Water-types. Virizion, in particular, has great synergy with Fletchinder, as it resists all of Fletchinder's weaknesses. Magneton can lure in and OHKO Rhyperior with a Choice Specs-boosted Flash Cannon, is a good switch-in to Alomomola, and has great synergy with Fletchinder. 
+Dugtrio is a good teammate for its ability to trap and beat opposing Rock- and Electric-types for Fletchinder, as well as provide Memento support, which gives Fletchinder an easier time setting up a Swords Dance. In return, Fletchinder can take Grass-type attacks aimed at Dugtrio. Whimsicott can use U-turn to bring Fletchinder in and provide Memento support, as well as beat a handful of Water- and Rock-types. Entry hazard removal support from Pokemon such as Shiftry and Hitmonlee is mandatory, as Stealth Rock will cut half of Fletchinder's HP upon switching in. Grass-types such as Virizion and Rotom-C can take on the bulky Water-types that threaten Fletchinder. Physical wallbreakers such as Choice Band Pangoro and Choice Band Tyrantrum can break through or at least weaken physical walls such as Alomomola. Slow Volt Switch users such as Eelektross can bring in Fletchinder safely.
 
 Other Options
 ########
 
-Fletchinder has almost no other options due to its barren movepool and reliance on all of the moves it normally runs. However, there are a few other marginally usable moves it learns. Taunt can be used as a way to stop Pokemon such as Doublade from setting up on it, and U-turn can be used to gain a bit of momentum, though the loss of either Will-O-Wisp or Roost greatly undermines the usefulness of either of these moves.
+Taunt can prevent foes from using status moves, but Fletchinder has no room for it because Will-O-Wisp and Roost provide more useful utility. U-turn allows Fletchinder to do some damage, switch out of its checks and counters, and gain momentum, but Fletchinder has no space for it either. Tailwind doubles the Speed stat of Fletchinder and its teammates. Natural Gift along with a Liechi Berry is a Grass-type coverage option to use against Rhyperior and Quagsire, but only works once, which makes it situational. A bulkier set with Eviolite is a final option, but this way, Acrobatics does far less damage, and Fletchinder lacks enough initial bulk to benefit from the Eviolite boost.
 
 Checks & Counters
 ########
 
-**Rock-types**: Rock-types such as Rhyperior and Kabutops can easily put a stop to Fletchinder's sweep, as they resist Acrobatics and can easily OHKO it with their STAB moves. Kabutops can also out-prioritize Fletchinder with Aqua Jet. However, they can be easily crippled by Will-O-Wisp on the switch, so they are not flawless switch-ins to Fletchinder by any means.
+**Rock-types**: Rock-types such as Aurorus, Omastar, Tyrantrum, Rhyperior, Regirock, and Kabutops do not only resist Acrobatics, but can also OHKO Fletchinder with their super effective STAB attacks. However, physically offensive Rock-types certainly don't like getting burned.
 
-**Bulky Water-types**: Bulky Water-types such as Alomomola and Slowking can usually take hits from Fletchinder at +2 and hit it hard with their strong STAB moves, but they also dislike being burned.
+**Physical Bulky Pokemon**: Bulky Pokemon such as Mega Camerupt, Druddigon, Granbull, and Cresselia can take Fletchinder's hits with ease and beat it with a coverage attack.
 
-**Steel-types**: As they resist Acrobatics and are usually bulky, Steel-types such as Registeel and Bronzong can stop Fletchinder. However, many of them hate being burned and can do little back to Fletchinder besides Toxic it.
+**Electric-types**: Electric-types such as Jolteon and Eelektross can beat Fletchinder with one of their STAB attacks. However, Jolteon is OHKOed by a +2 Acrobatics after Stealth Rock and a small amount of prior damage.
 
-**Electric-types**: Electric-types such as Magneton, Jolteon, and Heliolisk can take a hit from even a boosted Fletchinder and OHKO it with their strong STAB moves. However, the latter two must be relatively healthy in order to survive a boosted Acrobatics.
+**Water-types**: Water-types such as Lanturn, Slowking, and Clawitzer can KO Fletchinder with their STAB attacks. Lanturn stands out as a counter, as it barely takes anything from Fletchinder's Acrobatics.
+
+**Stealth Rock**: Stealth Rock halves Fletchinder's health when it is switched in, either leaving it at low health or forcing it to Roost.

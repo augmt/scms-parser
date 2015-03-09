@@ -1,82 +1,94 @@
+Overview
 ########
 
-Magnemite can function well as a bulky attacker thanks to the combination of Berry Juice and Sturdy. Sadly, the Steel-type lost its resistance to Ghost- and Dark-type moves in XY, making Magnemite a less reliable check to Pokemon such as Gastly and Pawniard. In addition, Magnemite heavily relies on items, so the Knock Off buff greatly hurt hurts it as well. Not all is dark for Magnemite though, as the Steel-type is super effective against the new Fairy-type Pokemon, meaning that it can counter or check Pokemon like Spritzee and Snubbull. It was also given a gift with the unbanning of Berry Juice, allowing it to be a top notch abuser of the infamous Berry Juice and Sturdy combo. Magnemite's Choice Scarf set can also still function as a solid revenge killer, and its typing still allows it to function as a good pivot for offensive teams, with its ability to Volt Switch out of threats, absorb paralysis, and keep pressure on the opponent with its solid coverage.
+Magnemite can fill a variety of roles and hit harder than almost all other special attackers in the Little Cup metagame. Thanks to Magnemite's access to Sturdy and Recycle, it is able to keep itself healthy while dealing great damage. This sets it apart from other special attackers in the tier, such as Abra, which relies on Focus Sash to live a hit. Magnemite also has Analytic to help Choice Scarf sets hit harder when moving second. Magnemite also hits the 14 Speed tier without a Timid nature, allowing it to hold a Choice Scarf and outspeed the whole unboosted metagame. Its Steel / Electric typing gives it a lot of useful resistances, including those to Psychic, Flying, and Fairy. Magnemite's Flying-type resistance along with its ability to recover health makes it one of the best Fletching checks in Little Cup. Magnemite also has access to fantastic STAB moves in Volt Switch, Flash Cannon, and Thunderbolt.
 
+However, Magnemite heavily relies on its Berry Juice or Choice Scarf, and Knock Off can eliminate Magnemite's recovery or boosted Speed, respectively. Magnemite hits only 15 Speed with a positive nature, leaving it outsped by many of the popular Pokemon in Little Cup, such as Pawniard and Drilbur. Magnemite is also weak to Fighting, a very common offensive type in Little Cup.
 
 Sturdy + Berry Juice
 ########
 name: Sturdy + Berry Juice
-move 1: Flash Cannon
-move 2: Volt Switch
-move 3: Hidden Power Ground / Hidden Power Grass
-move 4: Recycle / Thunderbolt
+move 1: Volt Switch
+move 2: Flash Cannon
+move 3: Recycle
+move 4: Endure / Hidden Power Ground / Thunderbolt
 ability: Sturdy
 item: Berry Juice
-evs: 240 SpA / 236 Spe
+evs: 36 Def / 236 SpA / 236 Spe
 nature: Modest / Timid
 
 Moves
 ========
-Flash Cannon is Magnemite's primary STAB move due to its decent Base Power and super effective coverage against Fairy-type Pokemon. Volt Switch allows Magnemite to maintain momentum against several of its checks and counters, including Ponyta, Larvesta, and Ferroseed. Hidden Power Ground hits opposing Magnemite and Chinchou for super effective damage, while Hidden Power Grass can do the same to Chinchou and Ground-types. Thunderbolt is as an alternative Electric-type STAB move that is more powerful than Volt Switch and does not force Magnemite out, while Recycle allows Magnemite to reuse its Berry Juice after it has been consumed.
+
+Volt Switch is Magnemite's primary STAB attack due to its ability to maintain momentum against Magnemite's checks and counters. Flash Cannon does decent damage to the Ground-types that come in expecting an Electric-type attack and hits Fairy-types for super effective damage. Recycle allows Magnemite to reuse its Berry Juice after consuming it, giving Magnemite reliable recovery. Endure allows Magnemite to live an attack after its Sturdy is broken and trigger its Berry Juice, allowing it to regain Sturdy. Hidden Power Ground hits incoming Chinchou that expect an Electric-type attack, and for OHKOing opposing Magnemite without their Sturdy intact. Thunderbolt is a more powerful Electric-type STAB attack that won't force Magnemite out.
 
 Set Details
 ========
-Sturdy is the recommended ability, as it prevents Magnemite from being OHKOed by any attack at full health. Berry Juice allows Magnemite to recover any damage taken from powerful attacks and also restores Sturdy so that it can activate again. Modest is the recommended nature to maximize Magnemite's Special Attack, allowing it to hit as hard as possible. A Timid nature can alternatively be used to outspeed threats such as Shellder, Adamant Scraggy, and Porygon.
+
+The Speed EVs allow Magnemite to reach 14 Speed with a neutral nature and outspeed threats such as Adamant Corphish, while the speed EVs maximize Magnemite's damage output. The extra EVs are put in Defense to increase Magnemite's physical bulk. When Magnemite is using Hidden Power Ground over Endure or Thunderbolt, it needs to run an EV spread of 240 SpA / 236 Spe, as Hidden Power Ground lowers Magnemite's Special Attack IVs, thus requiring 4 more EVs to get the Special Attack point. A Modest nature allows Magnemite to hit harder, while a Timid nature lets it avoid Speed ties with bulkier Chinchou, Jolly Corphish, and opposing Magnemite. Sturdy allows Magnemite to live almost any move from full HP, which can give Magnemite semi-reliable recovery when paired with Berry Juice, Recycle, and Endure.
 
 Usage Tips
 ========
-Magnemite should generally avoid switching into Knock Off users such as Pawniard, as it is crippled by the loss of Berry Juice. Spikes and Stealth Rock should also be removed before switching Magnemite in to preserve Sturdy. If Magnemite is not at full health and is not in a position where the foe's attacks will bring it into Berry Juice's activation range, then it should be used with caution.
 
-Magnemite should be used as both a lure and a pivot. Due to its 4x weakness to Ground-type moves, Magnemite can often lure Ground-types such as Diglett and Hippopotas, survive the impending Ground-type move, and often 2HKO them in return with Flash Cannon. Once all Ground-types are eliminated, Magnemite can maintain momentum with Volt Switch, allowing it to pivot in and out of the match.
+Magnemite should avoid switching in if there are entry hazards on your side of the field, as they will break Sturdy and leave it vulnerable to attacks that can OHKO it. Magnemite should avoid switching into Knock Off users such as Pawniard, because if Berry Juice gets Knocked Off, Recycle won't work anymore, leaving Magnemite without recovery. When you predict that the foe will attack when Magnemite's Sturdy is broken, Magnemite should use Endure to live and regain it's lost HP with Berry Juice. Once Pokemon that resist or are immune to Electric have been removed, Magnemite can spam Volt Switch and give your team momentum more easily. Once it has lost Sturdy, Magnemite can switch into weaker or resisted attacks from foes that don't have Knock Off, such as Spritzee and Shellder.
 
 Team Options
 ========
-Foongus is an exceptional partner for Magnemite, as it counters Chinchou and checks the Fighting-types that generally give Magnemite trouble. Trubbish is also a great partner, as it can consistently switch into Knock Off users thanks to its ability Sticky Hold and resistance to Fighting-type moves. Spritzee also keeps many Fighting-types in check and can provide Wish support to help keep Magnemite's Sturdy ability intact. Rapid Spin support from Pokemon such as Drilbur is recommended to prevent Sturdy from being neutralized by entry hazards. Other Pokemon with U-turn and Volt Switch, including Chinchou and Mienfoo, are great partners to preserve momentum. If Magnemite is not using Hidden Power Ground, then teammates that can deal with Chinchou, such as the previously mentioned Foongus, are good partners.
+
+Pokemon with U-turn or Volt Switch, such as Mienfoo, Chinchou, Larvesta, Fletchling, and Archen, can maintain momentum and form a VoltTurn core with Magnemite. Magnemite makes good teammates with Fighting-types in general due to its ability to switch into and defeat most Fairy-types. Both Foongus and Cottonee can easily switch into Chinchou and Ground-types, Pokemon that Magnemite struggles against. Diglett is also a great teammate, as it deals with Chinchou, trapping and KOing it with a super effective Earthquake. Magnemite loves having Pokemon that can switch into Fighting-types, such as Spritzee and Trubbish, the latter of which can also switch into Knock Off because of Sticky Hold. If Endure is chosen, Toxic Spikes support from Trubbish can slowly wear down your opponents team as you stall foes out by Recycling Berry Juice. Entry hazard support from Pokemon such as Drilbur, Staryu, Vullaby, and Archen is incredibly useful to ensure Magnemite's Sturdy is not broken. Pokemon that struggle against Fletchling, such as Mienfoo, Timburr, Croagunk, Foongus, and Cottonee, enjoy Magnemite's presence, as it has little trouble switching into Fletchling and taking any attack it has bar Overheat, which Magnemite can survive if it uses Endure at the right time.
 
 Choice Scarf
 ########
 name: Choice Scarf
 move 1: Volt Switch
 move 2: Flash Cannon
-move 3: Hidden Power Ground / Hidden Power Grass
-move 4: Thunderbolt
-ability: Sturdy
+move 3: Thunderbolt
+move 4: Hidden Power Ground / Hidden Power Grass
+ability: Sturdy / Analytic
 item: Choice Scarf
 evs: 240 SpA / 236 Spe
-nature: Modest
+nature: Modest / Timid
 
 Moves
 ========
-When equipped with a Choice Scarf, Magnemite reaches 21 Speed, allowing it to outspeed the entire unboosted metagame. Volt Switch is Magnemite's primary STAB attack due to its decent Base Power and allows Magnemite to maintain momentum against several of its checks. Flash Cannon is Magnemite's secondary STAB move, hitting Fairy- and Ground-types for decent damage. Hidden Power Ground hits opposing Magnemite and Chinchou for super effective damage, while Hidden Power Grass can be used instead to hurt Chinchou and Ground-types. Thunderbolt is an alternate Electric-type STAB move, as it is stronger than Volt Switch and does not force Magnemite out, potentially allowing it to sweep the foe's team late-game.
+
+Volt Switch is Magnemite's primary STAB attack due to its ability to maintain momentum against Magnemite's checks and counters. Flash Cannon does decent damage to the Ground-types that come in expecting an Electric-type attack and hits Fairy-types for super effective damage. Thunderbolt is more powerful than Volt Switch and doesn't force Magnemite out, which is great when attempting to sweep your opponent's team late-game. Hidden Power Ground hits Chinchou and opposing Magnemite for super effective damage, while Hidden Power Grass hits Chinchou and Ground-types, and is great for situations where your opponent has both as without Hidden Power Grass you are forced to predict.
 
 Set Details
 ========
-Sturdy is the recommended ability, as it allows Magnemite to survive any attack at full health. A Modest nature is used to maximize Magnemite's power. A Timid nature is not recommended as an alternative here because Choice Scarf Magnemite already outspeeds the entire unboosted metagame, making a Timid nature rather pointless unless you specifically want to outspeed a few boosted threats.
+
+With a Choice Scarf, Magnemite reaches 21 Speed, allowing it to outspeed the entire unboosted metagame. The EVs maximize Magnemite's Special Attack and give it 21 Speed. A Modest nature maximizes Magnemite's damage output. A Timid nature can be used to outspeed Pokemon with more than 21 Speed. Sturdy allows Magnemite to survive almost any attack at full health, but Analytic can be used to hit switch-ins harder.
 
 Usage Tips
 ========
-As with the previous set, Magnemite should generally avoid switching into Knock Off users such as Pawniard, as it can no longer function as a revenge killer if it loses its Choice Scarf. Entry hazards should also be removed to keep Sturdy intact. If Magnemite is at 1 HP, it should be wary of priority moves such as Fletchling's Acrobatics and Croagunk's Vacuum Wave.
+
+Locking Magnemite into an Electric-type move is a bad idea if your opponent has a Ground-type or Chinchou. Magnemite should avoid switching into Knock Off users, such as Pawniard, as losing its Choice Scarf eliminates its revenge killing capability. Use your other teammates to take out opposing Pokemon immune to Electric, thereby allowing Magnemite to gain momentum with Volt Switch more easily.
 
 Team Options
 ========
-Foongus, again, is an exceptional partner for Magnemite, as it can counter Chinchou and can check Fighting-types that generally give Magnemite trouble. Trubbish is also an excellent partner due to its ability to consistently switch into Knock Off users and Fighting-types. Spritzee is able to counter a majority of Fighting-types in the tier and is able to keep Magnemite's Sturdy ability intact with Wish. Rapid Spin support from Pokemon such as Drilbur is recommended to prevent Sturdy from being neutralized by entry hazards. Other Pokemon with U-turn or Volt Switch, such as Mienfoo and Chinchou, are also good partners to preserve momentum. Pokemon that can defeat Sucker Punch users, like Timburr and Scraggy, are also good partners.
+
+Pokemon with U-turn or Volt Switch such as Mienfoo, Chinchou, Larvesta, Fletchling, and Archen, can maintain momentum and form a VoltTurn core with Magnemite. Magnemite makes good teammates with Fighting-types in general due to its ability to switch into and defeat most Fairy-types. Both Foongus and Cottonee can easily switch into Chinchou and Ground-types, Pokemon that Magnemite struggles against. Diglett is also a great teammate, as it deals with Chinchou, trapping and KOing it with a super effective Earthquake. Entry hazard setters such as Drilbur, Ferroseed, and Archen can help secure specific OHKOs and 2HKOs and break foes' Focus Sash or Sturdy, helping Magnemite clean late game. Magnemite also enjoys having a Pokemon that can keep entry hazards off your side of the field, such as Drilbur, Staryu, Vullaby, or Archen. Pokemon that struggle against Fletchling, such as Mienfoo, Timburr, Croagunk, Foongus, and Cottonee, enjoy Magnemite's presence, as it has little trouble switching into Fletchling and taking any attack it has bar Overheat.
 
 Other Options
 ########
-Magnemite's poor movepool leaves it with only a few viable options apart from the ones found in the main sets. Hidden Power Fire is a viable option on a Magnet Pull set dedicated to trapping Steel-types, but it is generally advised to use Pokemon that can simply counter Steel-types, such as Fighting-types. Using the Analytic ability provides more power when facing faster enemies and on the switch, but losing the survivability of Sturdy is costly. Substitute can be used to take advantage of the switches Magnemite forces. Magnet Rise can also be used to temporarily alleviate Magnemite's weakness to Ground-type moves. Finally, Thunder Wave can be used to lower the opponent's Speed. However, a majority of Magnemite's switch-ins are immune to Thunder Wave, limiting its usefulness.
+
+Magnet Pull allows Magnemite to trap specific Pokemon and KO them with a specific Hidden Power, such as Hidden Power Fire for Ferroseed, Hidden Power Fighting for Pawniard, or Hidden Power Ground for opposing Magnemite. Discharge can be run over Thunderbolt if Magnemite can sacrifice power for a higher chance to paralyze the target. Magnemite has access to both Reflect and Light Screen, so it could run a dual screens set to support its team. Magnemite also has access to Rain Dance and Thunder, a set using which could be used on rain teams as a backup rain setter. Toxic can be used to attempt to stall foes while recovering HP with Berry Juice and Recycle. Finally, Choice Specs alongside Analytic makes Magnemite very powerful and hard to switch into.
 
 Checks & Counters
 ########
-**Residual Damage**: Entry hazards, hail, and burns negate Sturdy, making Magnemite prone to being OHKOed by powerful attacks such as Mienfoo's Drain Punch.
 
-**Knock Off**: Knock Off significantly cripples Magnemite by removing its item.
+**Chinchou:** Due to Volt Absorb, Chinchou gains health when switching into Magnemite's Electric-type attacks, and Chinchou is 4x resistant to Steel. However, Hidden Power Grass or Ground can do some significant damage.
 
-**Ground-types**: Ground-types such as Hippopotas and Drilbur are immune to Volt Switch and Thunderbolt. Drilbur in particular is an excellent check as it can OHKO Magnemite through Sturdy thanks to its Mold Breaker ability.
+**Ground-types:** Ground-types can switch into Magnemite's Electric-type STAB moves and hit back with Earthquake. Drilbur bypasses Sturdy with Mold Breaker and can OHKO Magnemite. Diglett's Arena Trap prevents Magnemite from switching out, which can be particularly devastating if Magnemite is running Choice Scarf and it locked into an Electric-type move.
 
-**Grass-types**: Grass-types such as Ferroseed and Foongus don't take much damage from either of Magnemite's STAB moves. Ferroseed can use Magnemite as setup bait for entry hazards, while Foongus can cripple Magnemite with Spore and regain any lost health with Regenerator.
+**Knock Off:** Magnemite greatly relies on its item; as such, removing Magnemite's item leaves it completely neutered.
 
-**Fire-types**: Ponyta and Larvesta are not OHKOed by Thunderbolt, have access to reliable recovery, and can either disrupt Magnemite with Will-O-Wisp or directly OHKO it with Flare Blitz.
+**Fire-types:** Fire-types can switch into a predicted Flash Cannon and threaten Magnemite with a super effective Fire-type move or a burn, which is a huge problem for Berry Juice variants.
 
-**Fighting-types**: Bulky Fighting-types such as Mienfoo, Croagunk, and Timburr are not OHKOed by Thunderbolt and can either OHKO Choice Scarf variations of Magnemite with the combination of Drain Punch and a priority move or cripple Magnemite by removing its item with Knock Off.
+**Fighting-types:** Fighting-types don't have the easiest time switching into Magnemite, but once they're in, they can cripple Magnemite with Knock Off, deal damage and regain health with Drain Punch, or predict a switch and use U-turn or, in Pancham's case, Parting Shot.
 
-**Bulky Pivots**: Chinchou takes little to no damage from Magnemite's STAB moves and can deal a large amount of damage to Magnemite with Scald. It must watch out for Hidden Power, however. Porygon and Munchlax do not take much damage from any of Magnemite's attacks, can recover from any damage taken, and deal solid damage in return with Shadow Ball and Earthquake or Fire Punch, respectively. 
+**Ferroseed:** Ferroseed takes significant damage from only the rare Hidden Power Fire and can set up entry hazards freely against Magnemite.
+
+**Specially Defensive Walls:** Walls such as Porygon, Lickitung, and Munchlax take very little damage from all of Magnemite's attacks and can heal off any damage taken.
+
+**Entry Hazards:** Spikes and Stealth Rock will break Magnemite's Sturdy and leave it vulnerable to attacks that can OHKO it. 

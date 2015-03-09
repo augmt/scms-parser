@@ -1,7 +1,47 @@
 Overview
 ########
 
-Absol's claim to fame lies in its excellent offensive stats; when they are combined with a wide offensive movepool and high Speed after Mega Evolving, Absol can prove itself a force to be reckoned with. In addition, Mega Absol also has access to a great ability in Magic Bounce, which makes it less vulnerable to burn and paralysis, while also giving it a niche in bouncing back entry hazards. With access to STAB Knock Off as well as priority in Sucker Punch, Mega Absol can threaten many Pokemon thanks to its great offensive typing. Its excellent movepool also makes it quite hard to wall. These qualities make Mega Absol a good choice for a wallbreaker, revenge killer, and Pursuit trapper. However, Mega Absol's immense frailty is its greatest downfall. Unless the opponent uses Pokemon such as Chansey, Mega Absol will find it difficult to set up, let alone switch in. This also makes Mega Absol easy to revenge kill, especially by threats such as Conkeldurr, Greninja, and Azumarill. Despite Absol's high offensive stats, the middling Base Power of its moves makes its power somewhat lacking, so it can miss out on some important KOs. Absol's poor Speed prior to Mega Evolving does not help these flaws either, as this further limits Absol's use.
+Absol's claim to fame lies in its excellent offensive stats; when they are combined with a wide offensive movepool and high Speed after Mega Evolving, Absol can prove itself a force to be reckoned with. In addition, Mega Absol also has access to a great ability in Magic Bounce, which makes it less vulnerable to burn and paralysis, while also giving it a niche in bouncing back entry hazards. With access to STAB Knock Off as well as priority in Sucker Punch, Mega Absol can threaten many Pokemon thanks to its great offensive typing. Its excellent movepool also makes it quite hard to wall. These qualities make Mega Absol a good choice for a wallbreaker, revenge killer, and Pursuit trapper. However, Mega Absol's immense frailty is its greatest downfall. Unless the opponent uses Pokemon such as Chansey, Mega Absol will find it difficult to set up, let alone switch in. This also makes Mega Absol easy to revenge kill, especially by threats such as Conkeldurr and Azumarill. Despite Absol's high offensive stats, the middling Base Power of its moves makes its power somewhat lacking, so it can miss out on some important KOs. Absol's poor Speed prior to Mega Evolving does not help these flaws either, as this further limits Absol's use.
+
+Swords Dance
+########
+name: Swords Dance
+move 1: Swords Dance
+move 2: Sucker Punch
+move 3: Knock Off / Baton Pass
+move 4: Play Rough / Baton Pass
+ability: Justified
+item: Absolite
+evs: 252 Atk / 4 SpD / 252 Spe
+nature: Jolly
+
+Moves
+========
+
+By running Swords Dance, Mega Absol can boost its already-respectable base 150 Attack, enabling it to sweep teams. Sucker Punch is a strong priority move that lets Mega Absol hit Pokemon faster than it&mdash;for instance, it KOes Choice Scarf Landorus-T with a boost after two Stealth Rock switch-ins&mdash;and is crucial for Mega Evolving against Pokemon such as Latios. Knock Off deals heavy damage and removes the target's item. Play Rough is preferred, as it gives Mega Absol near-unresisted coverage in conjunction with its STAB moves, as Klefki is the only relevant Pokemon that resists both Dark and Fairy. However, Baton Pass is also an option, as it allows Absol to pass its boosts to a teammate that can handle Pokemon such as Sylveon and Clefable.
+
+Iron Tail allows Mega Absol to get past Mega Diancie and 2HKO physically defensive Clefable, but it has no uses outside of that. Superpower hits Tyranitar, Heatran, and Ferrothorn, but the Attack drop is damaging to Mega Absol's sweeping capabilities, and both Tyranitar and Heatran are already dealt with effectively between Knock Off and Play Rough.
+
+Set Details
+========
+
+The main draws to this set are Sucker Punch and Mega Absol's ability to bounce back Thundurus's Prankster Thunder Wave, which gives it a niche over Mega Houndoom, another Pokemon that beats things like Mega Sableye. The EV spread is very straightforward; just use max Attack and Speed, because nothing else helps Mega Absol much. A Jolly nature allows Absol to outrun Thundurus and Adamant Talonflame.
+
+Usage Tips
+========
+
+Due to Absol's poor Speed prior to Mega Evolution, it may be difficult to Mega Evolve safely. Mega Sableye is a good target to Mega Evolve against, as its options against Mega Absol are relatively lacking outside of Foul Play; just don't switch regular Absol into a Will-O-Wisp. In addition, Pokemon such as Latios, Latias, and Gengar make excellent targets to Mega Evolve on, as they are threatened out by Sucker Punch. Mega Absol can also function as a revenge killer thanks to Sucker Punch; for example, it can pick off a weakened Mega Metagross. Due to Mega Absol's poor bulk, it will not have an easy time switching in. If you need to get it in, switch into a defensive threat that can't do much to it, such as non-Foul Play Mega Sableye, or use a slow U-turn or Volt Switch user to get it in.
+
+Although one of Mega Absol's biggest boons is its being a physical sweeper unfazed by Mega Sableye's Will-O-Wisp, it is imperative to play carefully around Mega Sableye. If Mega Sableye is a Calm Mind set, Mega Absol can go ahead and set up, because Mega Sableye can't do much to it. However, if Mega Sableye has Foul Play, it can OHKO Mega Absol that try to set up. Aside from Calm Mind Mega Sableye, Latios, Latias, and Gengar are also good targets to set up on, as they fear Sucker Punch.
+
+Team Options
+========
+
+Mega Absol just can't get a better offensive partner than Talonflame. It resists every type Mega Absol is weak to, can easily revenge kill Fighting-types such as Keldeo, Conkeldurr, and Breloom, and functions as a switch-in to defensive Fairy-types, such as Clefable, which Absol hates facing. On top of all this, Talonflame makes an excellent recipient of Mega Absol's boosts should Mega Absol be running Baton Pass.
+
+Although Mega Absol outruns Adamant Talonflame, Jolly Talonflame outprioritizes and beats Mega Absol with Brave Bird. For this reason, teammates that can handle Talonflame, such as Heatran, Rhyperior, and Rotom-W, make good partners. Landorus-T is another excellent teammate, as it can utilize a slow U-turn to get Mega Absol in safely.
+
+Because Fairy-types pose a problem for Mega Absol, it is ideal to run Steel-types or other Pokemon that can handle them; examples include Scizor, Gengar, and Heatran. In addition, Fighting-types such as Terrakion and Keldeo benefit from Mega Absol's ability to check Latios and Latias and can also bait in Psychic- and Ghost-types that Mega Absol can force out and set up on. Special sweepers such as Calm Mind Latios, Serperior, Calm Mind Clefable, and Volcarona also make good options, as they can help to break down balanced and defensive cores. Finally, Pokemon that appreciate having Mega Sableye removed appreciate having Mega Absol on their team; Landorus-T, Toxicroak, and Terrakion are only a few examples.
 
 All-Out Attacker
 ########

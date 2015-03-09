@@ -1,84 +1,84 @@
 Overview
 ########
 
-Unlike all of the other early-game rodents before it, Diggersby is quite capable of holding its own in the competitive scene. Contrary to what its base stats and appearance would suggest, Diggersby is one of the most powerful Pokemon in the OU metagame. With Swords Dance, Diggersby makes for a great sweeper that demolishes stall and offensive Pokemon, thanks to its good neutral coverage and powerful STAB Quick Attack. It can also run an effective Choice Scarf set, which allows it to act as a great cleaner against offensive teams. However, Diggersby has its fair share of flaws. Its mediocre Speed and bulk make it difficult to set up against offensive teams, and its reliance on Quick Attack makes it quite susceptible to opposing priority. However, despite these flaws, Diggersby is still an offensive juggernaut that is easily capable of plowing through teams with little support.
+Although Diggersby might not look impressive with its generally low stats, its great ability Huge Power doubles its Attack stat, making it an excellent wallbreaker. Immunities to Ghost- and Electric-type attacks give it opportunities to set up and an immunity to Thunder Wave. Access to great boosting moves in Swords Dance and Agility and surprisingly great STAB coverage backed up by the elemental punches and Knock Off make Diggersby a fearsome Pokemon that all teams should prepare for. However, Diggersby is not without flaws; weaknesses to common Grass-, Ice-, and Fighting-type moves make it somewhat hard for Diggersby to effectively sweep. Lackluster Speed and bad bulk also hold Diggersby back, as it is easily revenge killed by anything that can survive a Quick Attack. Fast Pokemon such as Mega Metagross make this flaw noticeable. Diggersby's weaknesses to common priority moves such as Aqua Jet, Mach Punch, and Ice Shard are also annoying for it.
 
-Swords Dance
+Physical Attacker
 ########
-name: Swords Dance
-move 1: Swords Dance
+name: Physical Attacker
+move 1: Return
 move 2: Earthquake
-move 3: Return
-move 4: Quick Attack
+move 3: Quick Attack
+move 4: Swords Dance / Fire Punch
 ability: Huge Power
-item: Focus Sash / Life Orb
-evs: 4 HP / 252 Atk / 252 Spe
-nature: Adamant
+item: Life Orb / Focus Sash
+evs: 252 Atk / 4 Def / 252 Spe
+nature: Adamant / Jolly
 
 Moves
 ========
 
-Swords Dance boosts Diggersby's Attack to insane levels and gives it the capability to sweep teams. Earthquake and Return are Diggersby's obligatory STAB moves. Quick Attack is incredibly powerful at +2 and lets Diggersby sweep weakened offensive teams and single threats with ease.
+Return is Diggersby's primary STAB move, boasting incredible breaking power and excellent neutral coverage. Earthquake is Diggersby's other STAB move, hitting most Pokemon that resist Return hard, particularly grounded Steel-types. Quick Attack is a rather strong priority attack that makes Diggersby a legitimate threat against offensive teams. Swords Dance boosts Diggersby's Attack stat to insane levels, allowing it to 2HKO Skarmory with Life Orb-boosted Return and making Quick Attack a potent cleaning tool. However, Skarmory often carries Counter, so Fire Punch is a useful option to 2HKO it on the switch; it also OHKOes Ferrothorn and Mega Scizor, which otherwise beat Diggersby 1v1.
 
 Set Details
 ========
 
-Maximum EVs are invested in Attack and Speed so Diggersby can hit as hard and fast as possible. Adamant is the preferred nature to get the 2HKO on Skarmory after Stealth Rock damage and to hit harder in general, but Jolly can be used if you wish to outspeed Jolly Breloom, most Mega Charizard X, Mega Tyranitar, Mega Gyarados, and Adamant Excadrill. Both Life Orb and Focus Sash are viable item choices on this set. While Life Orb gives Diggersby a much easier time breaking through stall, Focus Sash is useful against offensive teams, as finding time to set up against such teams can be difficult.
+Full Attack and Speed investment maximize Diggersby's offensive capabilities. Life Orb is the preferred item to hit even harder while still being able to switch moves, but a Focus Sash can prevent Diggersby from being revenge killed or help it set up against offensive teams. It also makes Diggersby a pretty effective lead that can do a lot of damage right off the bat and potentially get some surprise KOs. An Adamant nature is preferred to do as much damage as possible and thus maximize Diggersby's wallbreaking potential. A Jolly nature can, however, be used to improve Diggersby's matchup against offensive teams by making it capable of outspeeding Breloom, Jolly Bisharp, Adamant Excadrill, most Mew variants, Timid Heatran, Adamant Dragonite, Adamant Gyarados, and Jolly Mega Tyranitar, among others. Note that both Jolly and Focus Sash are generally poor options if not running Swords Dance, as Diggersby needs all the raw power it can get without the potential to boost.
 
 Usage Tips
 ========
 
-The general strategy should be to come in on something Diggersby forces out, such as Heatran or Chansey, and set up a Swords Dance. Diggersby should generally set up either early- to mid-game to open holes for another sweeper or later after the opposing team has been sufficiently weakened to sweep for itself. Even if Diggersby doesn't get a chance to set up, it is still quite useful because Quick Attack is strong enough to revenge kill a variety of weakened threats. If Team Preview shows that the opposing team has a Gengar or other important checks, it is best to withhold from sweeping until said checks are eliminated.
+This set works best early- or mid-game to weaken or just defeat walls for teammates to sweep later. Do not set up on anything offensive except for Choice-locked Electric- or Ghost-types, because with Diggersby's bulk it simply won't work, unless it has a Focus Sash. It is, however, easy to set up on passive Pokemon such as Chansey. A +2 Return 2HKOes Skarmory after Stealth Rock damage, and a +2 Quick Attack can OHKO or come close to OHKOing a lot of offensive Pokemon, including Mega Sceptile, Mega Gallade, Thundurus, and Tornadus-T. Even without a Swords Dance boost, a Life Orb-boosted Quick Attack can revenge kill less bulky Pokemon.
 
 Team Options
 ========
 
-Pursuit users such as Choice Scarf Tyranitar or Bisharp make good teammates as they can trap and remove Gengar. Sweepers that benefit from walls being weakened or removed, such as Mega Pinsir, pair well with Diggersby as they can wear down each other's checks so that one of them can sweep. Healing Wish Latias lets Diggersby have a second chance at sweeping if it has been weakened. It is especially useful as a teammate to Focus Sash variants of Diggersby. Dual screen leads such as Azelf work well with Diggersby because they can give it an easier time setting up.
+Skarmory is Swords Dance Diggersby's best check on defensive teams, so Magnezone is a great teammate to remove it. Mega Pinsir and Diggersby weaken each other's counters and checks, and together with Magnezone they form a great core. If using this core, teammates with Knock Off are necessary because Skarmory always has a Shed Shell to escape from Magnezone. Examples of these would be Azumarill, Bisharp, Mamoswine, and Scizor. Pokemon that can switch into Mach Punch, Aqua Jet, and Ice Shard users such as Breloom, Crawdaunt, and Mamoswine are good teammates. Examples of these are Azumarill, Mega Venusaur, and Keldeo. While not necessary, Pursuit support from Pokemon such as Tyranitar, Bisharp, and Weavile is useful to remove Gengar, which hard counters this set. Healing Wish support is amazing, as it lets Diggersby get a second attempt at sweeping. With it, Diggersby can wallbreak for itself early-game, and then clean up late-game. Latias is easily the best user of Healing Wish.
 
 Choice Scarf
 ########
 name: Choice Scarf
-move 1: Return
-move 2: Earthquake
-move 3: Wild Charge
+move 1: Earthquake
+move 2: Return
+move 3: Knock Off / Wild Charge
 move 4: U-turn
 ability: Huge Power
 item: Choice Scarf
-evs: 4 HP / 252 Atk / 252 Spe
-nature: Adamant
+evs: 252 Atk / 4 Def / 252 Spe
+nature: Jolly / Adamant
 
 Moves
 ========
 
-Return and Earthquake have great neutral coverage together, despite being resisted by several common types in OU. Diggersby's STAB combination is only resisted by two Pokemon in OU: Skarmory and Gengar. Wild Charge is used because it 2HKOes both of these Pokemon. U-turn is useful for wearing down the opposing team and gaining momentum.
+Earthquake is Diggersby's primary STAB move and the move it should be using the most outside of U-turn. Return is a secondary STAB move that hits a lot of Pokemon that are immune or resistant to Earthquake, and it is one of the reasons to use Choice Scarf Diggersby over Choice Scarf Landorus-T, the other reason being access to Wild Charge to hit Skarmory with. Knock Off hits Gengar, which is immune to both of Diggersby's STAB moves, as well as the occasional Bronzong, and is a generally good utility move with which to remove items, most notably Shed Shell from Skarmory. Wild Charge removes the need to Knock Off Skarmory's Shed Shell, as Diggersby has a good chance of 2HKOing Skarmory on the switch with Stealth Rock up. U-turn is mandatory to take advantage of any switches Diggersby causes to gain momentum. It also OHKOes Celebi, which can survive a Return.
 
 Set Details
 ========
 
-The given EV spread lets Diggersby hit as hard and fast as possible. Adamant is the preferred nature because the extra Speed given by a Jolly nature does not let Diggersby outspeed anything important besides opposing Adamant Dragonite and Gyarados. 
+252 Attack EVs maximize Diggersby's damage output. 252 Speed EVs let Diggersby outspeed the majority of the unboosted metagame with a Choice Scarf, with the few relevant exceptions being Mega Alakazam, Mega Aerodactyl, Mega Beedrill, and Mega Sceptile. A Jolly nature is preferred to outspeed Mega Lopunny, Mega Manectric, and some slower Choice Scarf users such as Magnezone and Tyranitar; due to the high viability of Mega Lopunny in this metagame, Adamant isn't really an option. A Choice Scarf is the chosen item for this set, as it makes Diggersby capable of outspeeding and surprising many common offensive threats.
 
 Usage Tips
 ========
 
-Choice Scarf Diggersby makes a great cleaner against offensive teams thanks to its high Speed and power. With this set, it is generally best to wear things down with U-turn early-game and then clean late-game with Diggersby's strong STAB moves. This set also works as a decent revenge killer, though it isn't overly effective in this role because it isn't fast enough to outspeed most boosted threats and easily falls to strong priority from sweepers such as Dragonite and Azumarill.
+Diggersby does not like being locked into either one of its STAB moves, so predict well and use U-turn a lot to prevent it from becoming setup fodder for a foe such as Mega Sableye or Landorus and to wear down Diggersby's checks and counters so it can clean up late-game with its powerful moves. With a Choice Scarf, Diggersby can be a decent revenge killer, but it is not exactly the best choice for this role, because its Speed is still not high enough to revenge kill Speed-boosting sweepers such as Gyarados and Mega Altaria, and it is defeated by strong priority attacks from Pokemon such as Azumarill and Dragonite.
 
 Team Options
 ========
 
-As this set lacks power compared to the Swords Dance set, powerful wallbreakers such as Terrakion and Kyurem-B make good partners to Choice Scarf Diggersby, as they give it an easier time cleaning. Diggersby is too slow to revenge kill sweepers that boost their Speed, so Pokemon that stop setup sweepers, such as Thunder Wave Thundurus and Choice Band Talonflame, are useful teammates.
+If using Wild Charge, this set baits Skarmory pretty well, so Pokemon that appreciate it being weakened or removed, such as Excadrill, Mega Lopunny, and Mega Metagross, are good teammates. Other Volt Switch and U-turn users such as Raikou and Talonflame can form a VoltTurn core with Diggersby and keep the momentum on your side. Entry hazard setters such as Heatran, Mamoswine, and Ferrothorn force foes to take hazard damage every time they switch in, making them easier to wear down for Diggersby to clean up late-game. As Choice Scarf Diggersby fails to revenge kill Speed-boosting sweepers, Pokemon such as Thundurus and Talonflame are good partners to revenge kill them instead. Powerful wallbreakers such as Kyurem-B, Mega Heracross, and Mega Pinsir can help soften up the opposing team for Diggersby to clean up. Magnezone is an obvious teammate that can remove Skarmory, one of Diggersby's best checks, once Skarmory's Shed Shell has been Knocked Off.
 
 Other Options
 ########
 
-Choice Band is a decent item on Diggersby; however, overreliance on locking itself into Quick Attack and a general lack of utility compared to Diggersby's other sets make it a subpar option. Diggersby is a decent user of Spikes thanks to its superb ability to force switches. An Agility set is usable, but Diggersby isn't really powerful enough to sweep through teams without an Attack boost. In addition, a +2 Quick Attack is powerful enough to beat most would-be offensive checks anyway.
+A double dance set with Agility, Swords Dance, Earthquake, and Return could be used, but although Diggersby has good STAB coverage to make it work, it lacks the bulk to effectively pull it off without dual screens support. A Choice Band set could be used with the same moves as the Choice Scarf set, but it's mostly outclassed as a wallbreaker by the Swords Dance set. Diggersby can use an offensive Spikes set that takes advantage of the switches it forces to lay down Spikes and wear the opponent down. Ice Punch can be used to lure in and OHKO offensive variants of Landorus-T, while defensive variants come very close to getting OHKOed. However, variants with no HP or Defense investment already get 2HKOed by Return anyway, which is why Ice Punch is not a preferred option. Substitute is a useful move to protect Diggersby from status and could be used over Swords Dance, Fire Punch, or Knock Off. Jolly Diggersby can easily set up a Substitute on Pokemon such as Mega Sableye, Ferrothorn, and Mew, but the move requires it to hold Leftovers for longevity, limiting Diggersby's offensive capabilities.
 
 Checks & Counters
 ########
 
-**Skarmory**: Despite the fact that it is 2HKOed by +2 Life Orb Return and Choice Scarf Wild Charge after Stealth Rock, Skarmory is the best defensive answer to Diggersby because it can switch into Swords Dance Diggersby, take a boosted hit, and phaze it out.
+**Ghost-types**: As it is immune to Diggersby's STAB moves, Gengar can freely switch in against the Swords Dance set and do whatever it wants. It also puts a lot of pressure on the Choice Scarf set because Gengar gets free switches against Diggersby's STAB moves. Mega Sableye cannot safely switch in against Diggersby, but if it has not yet Mega Evolved, it can burn Diggersby with a priority Will-O-Wisp and proceed to stall it out.
 
-**Gengar**: Gengar is immune to Diggersby's STAB moves, so it is naturally a good check to it. Gengar can also cripple Diggersby with Will-O-Wisp or hit it hard with Focus Blast, but it is 2HKOed by Wild Charge, so it cannot beat all Diggersby variants.
+**Strong Priority Attacks**: Because of Diggersby's lackluster bulk, it struggles to survive strong priority attacks such as Crawdaunt and Azumarill's Aqua Jet, Mamoswine and Weavile's Ice Shard, Breloom and Conkeldurr's Mach Punch, and Talonflame's Gale Wings Brave Bird.
 
-**Faster Attackers**: The OU metagame is filled to the brim with strong and faster Pokemon, several of which can revenge kill even a boosted Diggersby. Choice Band Talonflame, Breloom, and Mega Pinsir are all good checks to Diggersby thanks to their strong priority moves. As far as the Swords Dance set is concerned, there are several threats that can tank or are resistant to a boosted Quick Attack; these include Garchomp, Terrakion, Aerodactyl, Excadrill, and Lucario.
+**Faster Pokemon**: Fast Pokemon that resist Quick Attack, such as Mega Aerodactyl, Choice Scarf Heatran, and Choice Scarf Tyranitar, can take a +2 Quick Attack pretty well and KO Diggersby rather easily in return. It should be noted that Diggersby's Choice Scarf set actually outspeeds the latter two and takes care of them very easily with a STAB Earthquake.
 
-**Gourgeist-S**: While it is almost never seen in OU, Gourgeist-S is a great answer to Diggersby. It resists Diggersby's STAB combination, has good physical bulk, and can burn it with Will-O-Wisp.
+**Defensive Pokemon**: Although Diggersby breaks through a lot of walls, there are some defensive Pokemon Diggersby struggles with. Base 100 Speed Pokemon such as Mew and Celebi can outspeed Diggersby and burn it or use Giga Drain, respectively. Landorus-T can switch into the all-out attacker and Choice Scarf sets and do huge damage back. Landorus-T is, however, not hard to wear down due to its lack of reliable recovery. Skarmory resists both of Diggersby's STAB moves, but it needs Counter to actually defeat it. Skarmory also fails to wall Fire Punch variants and can be trapped by Magnezone if its Shed Shell has been taken away. Physically defensive Mega Slowbro and Alomomola can also come in for free and can threaten Diggersby with Scald, though Alomomola cannot come in safely against Swords Dance Diggersby.

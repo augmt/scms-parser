@@ -1,6 +1,28 @@
 [Overview]
 
-<p>There's so much more to Gengar's malevolent exterior--in fact, Gengar is even more terrifying in practice than its appearance. Gengar still makes a potent offensive threat in the fifth generation thanks to its power, unpredictability, and excellent offensive movepool. Its set of immunities help it switch into common moves with impunity, giving it ample opportunities to come in and wreak havoc. Despite Gengar's positive traits as a sweeper, it does have two notable drawbacks: its paper-thin defensive stats, which make it take massive damage even from neutral attacks, and its weakness to Dark-type moves, which leaves it vulnerable to Pursuit if it isn't hiding behind a Substitute. However, the newly added Team Preview does allow for the scouting of possible Pursuit users, making the latter drawback less threatening. Don't let Gengar's atrocious defensive stats discourage you though; its offensive potency can definitely disrupt unprepared teams.</p> 
+<p>There's so much more to Gengar's malevolent exterior--in fact, Gengar is even more terrifying in practice than its appearance. Gengar still makes a potent offensive threat in the fifth generation thanks to its power, unpredictability, and excellent offensive movepool. Its set of immunities help it switch into common moves with impunity, giving it ample opportunities to come in and wreak havoc. Despite Gengar's positive traits as a sweeper, it does have two notable drawbacks: its paper-thin defensive stats, which make it take massive damage even from neutral attacks, and its weakness to Dark-type moves, which leaves it vulnerable to Pursuit if it isn't hiding behind a Substitute. However, the newly added Team Preview does allow for the scouting of possible Pursuit users, making the latter drawback less threatening. Don't let Gengar's atrocious defensive stats discourage you though; its offensive potency can definitely disrupt unprepared teams.</p>
+
+[SET]
+name: Bulky Will-O-Wisp
+move 1: Will-O-Wisp
+move 2: Shadow Ball
+move 3: Focus Blast
+move 4: Substitute / Protect
+item: Black Sludge / Leftovers
+ability: Levitate
+nature: Timid
+EVs: 248 HP / 8 SpA / 252 Spe
+
+
+[SET COMMENTS]
+
+<p>Although traditionally a Pokemon geared towards offense, Gengar is able to pull off a very effective bulky set in OU. Its horrible defensive stats are somewhat remedied by a solid defensive typing and Will-O-Wisp, which allows Gengar to spread burns around the opposing team and utilize its good set of resistances and immunities to sponge attacks. This variant of Gengar works well in OU because many common switch-ins to Gengar's other sets, such as Tyranitar, Scizor, and Jirachi, hate being burned. The tried-and-true combination of Shadow Ball and Focus Blast gives Gengar all the coverage it needs to carry an offensive presence. Finally, the last move is a choice between Substitute and Protect. Substitute can protect Gengar from status and some weaker attacks, and it is typically the more useful option, as even with bulk investment Gengar is rather frail by OU standards and does not enjoy taking direct hits. Being a Pokemon with such great offensive presence, Gengar naturally forces a lot of foes out, allowing it to easily set up a Substitute. On the other hand, Protect is useful for scouting purposes against foes holding a Choice item, especially those carrying Pursuit, as well as giving Gengar a free turn of Black Sludge recovery and racking up another turn of burn damage on the foe.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Because this Gengar focuses more on longevity than offense, its HP is maximized rather than its Special Attack. This allows Gengar's Substitutes to survive hits such as Choice Band Scizor's U-turn and burned Jirachi's Iron Head, and it also gives Gengar a very good chance to survive +2 Life Orb Lucario's Bullet Punch after Stealth Rock damage. Next, Gengar's Speed EVs are maximized to make use of its good Speed tier, and the rest of the EVs are put into Special Attack to increase Gengar's offensive presence slightly.</p>
+
+<p>This Gengar has decent longevity, so it appreciates entry hazard setters such as Ferrothorn to give it a spinblocking purpose. Ferrothorn can sponge Psychic-, Ghost-, and Dark-type attacks aimed at Gengar, and it can also set up entry hazards on common answers to Gengar, such as Tyranitar, Chansey, and specially defensive Jirachi. Additionally, Ferrothorn enjoys having dangerous opposing setup sweepers such as Scizor, Breloom, and Substitute + Dragon Dance Dragonite burned, as these Pokemon could otherwise easily set up on Ferrothorn. On the offensive side, Pokemon such as Alakazam, Reuniclus, Latios, and Latias, which share similar checks with Gengar, appreciate having these Pokemon burned and can help Gengar wear them down.</p>
 
 [SET]
 name: Substitute + Disable

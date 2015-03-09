@@ -1,0 +1,119 @@
+Overview
+########
+Despite Talonflame's subpar stats, defensive typing, and somewhat shallow movepool, its priority Brave Bird allows it to check problematic Pokemon such as Amoonguss, attack unabated under Trick Room, and revenge kill weakened Pokemon, making it extremely good in the VGC metagame. The fact that it also has access to good support options such as Tailwind makes it one of the best Pokemon in VGC15, with its only pitfalls being its bad defenses and weaknesses to common attacks such as Rock Slide.
+
+Choice Band
+########
+name: Choice Band
+move 1: Brave Bird
+move 2: Flare Blitz
+move 3: U-turn
+move 4: Will-O-Wisp / Sleep Talk
+ability: Gale Wings
+item: Choice Band
+evs: 4 HP / 252 Atk / 252 Spe
+nature: Adamant
+
+Moves
+========
+
+Brave Bird is the Flying-type STAB move of choice, as Talonflame's frailty means that the recoil hardly matters. Flare Blitz hits Steel-types super effectively and is also used for other Pokemon that resist Brave Bird, such as Thundurus. U-turn is mostly filler, though it is useful for getting extra damage off while Talonflame switches and for easing matchups with Shadow Tag users. The last slot is purely filler. Will-O-Wisp is a good move to be locked into against Pokemon such as Bisharp and Mega Mawile when Talonflame is in KO range for Sucker Punch, while Sleep Talk helps slightly against sleep-inducing Pokemon, especially Smeargle.
+
+Set Details
+========
+
+The EV spread is straightforward, giving Talonflame as much Speed and Attack as possible. Any defensive investment on offensive Talonflame is, for the most part, pointless, given Brave Bird's recoil and how weak Talonflame is when its Attack isn't maximized. Using Jolly over Adamant is only useful for outspeeding Mega Metagross and KOing it with Flare Blitz, so it's generally not recommended.
+
+Usage Tips
+========
+
+Lead with or switch Talonflame in very carefully, and keep it away from super effective attacks. Otherwise, spam Brave Bird or use its coverage options occasionally.
+
+Team Options
+========
+
+Kangaskhan and Talonflame make a devastating lead combination against just about any team without multiple Intimidate users, given their ability to simply spam high Base Power attacks, with Kangaskhan being able to stop Rock Slide from being used with Fake Out, a Fighting-type move, or by simply double-targeting a threat. Ludicolo is a good partner for Talonflame as well, as it has access to Fake Out and helps ward off Rotom-W, while Talonflame is good in rain teams in general because it threatens Ferrothorn and Amoonguss, two main threats to rain teams. Amoonguss can redirect Hydro Pump and Thunderbolt with Rage Powder or threaten foes with Spore, keeping Talonflame safe. Earthquake users such as Landorus-T and Excadrill enjoy spamming Earthquake alongside Talonflame; the latter is also able to KO Rotom-H and Rotom-W with Earthquake thanks to Mold Breaker. Talonflame is also useful on Trick Room teams because of its ability to strike first regardless of whether or not Trick Room is active thanks to Gale Wings. Jellicent and Cresselia are two Trick Room users that Talonflame complements, as Talonflame threatens Amoonguss and Aegislash, which are two huge threats to Trick Room teams.
+
+Offensive Utility
+########
+name: Offensive Utility
+move 1: Brave Bird
+move 2: Flare Blitz / Overheat
+move 3: Tailwind / Taunt / Will-O-Wisp
+move 4: Quick Guard / Protect / Will-O-Wisp
+ability: Gale Wings
+item: Life Orb
+evs: 4 HP / 252 Atk / 252 Spe
+nature: Adamant / Naughty
+
+Moves
+========
+
+Brave Bird has priority thanks to Gale Wings and is a STAB move, and Flare Blitz hits most of what Brave Bird doesn't. Overheat eases predictions against Aegislash's King's Shield and isn't affected by Intimidate; the Special Attack debuff is irrelevant unless you need to use Overheat multiple times because of Brave Bird's recoil. The last two slots are utility options, so what works well there depends on the team's needs. Tailwind is a generally good move because of the speed control it offers, and Gale Wings giving it priority eases its setup. Taunt prevents the use of status moves such as Trick Room and Protect, which is quite useful. Will-O-Wisp cripples common physical attackers, such as Mega Kangaskhan. Quick Guard is a good move when leading with Talonflame to prevent the use of Fake Out, as well as other threatening priority moves such as Prankster status moves, Ice Shard, or even other Talonflame's Brave Bird. Protect allows Talonflame to stick around longer in the face of Rock Slide users, though sometimes it's best just to play smart with Talonflame due to its frailty.
+
+Set Details
+========
+
+This set aims to give Talonflame more flexibility in its moves instead of being locked into Brave Bird, allowing it to utilize its good support movepool. Life Orb is used to provide the most power while not giving up flexibility, and while the recoil stacks with Brave Bird recoil, it doesn't make much of a difference because of Talonflame's fragility. If running Overheat, more Special Attack investment could be used to give it more power; if so, a Naive nature is worth considering so Talonflame can still outspeed Terrakion while keeping its Attack maximized, as in some cases, using Naive over Naughty will actually give Talonflame more Attack.
+
+Usage Tips
+========
+
+Although Life Orb Talonflame has the option to use other moves more freely, Brave Bird is still Talonflame's best attack. Leading with this Talonflame to immediately start using its support options is a good idea; one should be very careful when switching Talonflame in, as it could easily be KOed due to a misprediction.
+
+Team Options
+========
+
+Kangaskhan appreciates Tailwind support and a partner that can ward off Fighting-types, and Talonflame fits the bill perfectly. Amoonguss and Ludicolo help with Talonflame's Rotom-W (and Rotom-H in Ludicolo's case) weakness while helping Talonflame avoid dangerous attacks with Rage Powder and Fake Out, respectively. Fake Out coupled with Taunt Talonflame is also a good strategy for beating Trick Room teams. Landorus-T and Excadrill enjoy Tailwind and Talonflame's Ground immunity to spam Earthquake with ease.
+
+Utility
+########
+name: Utility
+move 1: Brave Bird
+move 2: Will-O-Wisp
+move 3: Tailwind
+move 4: Quick Guard / Taunt
+ability: Gale Wings
+item: Charti Berry / Rocky Helmet
+evs: 132 HP / 156 Atk / 84 Def / 4 SpD / 132 Spe
+nature: Jolly
+
+Moves
+========
+
+Brave Bird is Talonflame's STAB move, and has priority thanks to Gale Wings. Will-O-Wisp cripples common physical attackers such as Mega Kangaskhan and helps Talonflame survive unboosted Rock Slides. Tailwind is great speed control, allowing slow Pokemon such as Sylveon to outspeed and effectively negate bad matchups, such as a Sylveon against a Bisharp. Taunt stops other status moves, notably Thunder Wave and Trick Room, which can prevent Talonflame from setting up Tailwind. Quick Guard stops priority such as Bullet Punch and other Talonflame's Brave Birds, as well as Fake Out, which can be useful to pick up surprise turn 1 KOs.
+
+Set Details
+========
+
+The listed EV spread allows Talonflame to survive uninvested Rotom-W's Thunderbolt, non-STAB Thunderbolts from Pokemon such as Gengar, Adamant Tyranitar's Rock Slide (with a Charti Berry or after Tyranitar gets burned), and Jolly Mega Salamence's Return. It also lets Talonflame survive Choice Band Talonflame's Brave Bird and KO the opposing Talonflame in return. The Speed EVs allow Talonflame to outspeed base 110 Speed Pokemon, notably Mega Metagross. Charti Berry is insurance against Rock Slide, while Rocky Helmet punishes physical attackers, notably Fake Out users and Mega Kangaskhan. More Speed investment can be used to outspeed Pokemon such as Mega Lucario or Choice Scarf Tyranitar, in which case points can be taken out of Attack.
+
+Usage Tips
+========
+
+This Talonflame should be used as a glue for a team; as such, it's not recommended to build around it. While the EVs make Talonflame less frail, they don't make it bulky. The point of this set is, essentially, to stick around longer than offensive Talonflame sets to use both Will-O-Wisp and Tailwind, as other sets often have to settle for using one or the other before fainting. This set, with a Rocky Helmet, also works well as a Mega Kangaskhan check for teams that find themselves a little weaker to it than they'd like, though one should bear in mind that this set does not counter Mega Kangaskhan.
+
+Leading with Talonflame is key to getting the most out of it. Use Tailwind or Will-O-Wisp and let Talonflame take a few neutral hits, and use Brave Bird after it has spread burns and/or set up Tailwind. If Talonflame KOes itself with Brave Bird, you effectively give yourself a free switch to frailer threats such as Mega Gardevoir to keep momentum going with Tailwind.
+
+Team Options
+========
+
+Mega Gardevoir, Sylveon, Excadrill, and Breloom all enjoy Tailwind support and appreciate having Mega Kangaskhan checked. Quick Guard also helps Mega Metagross, Choice Scarf users, and other Pokemon that aren't used as often solely because of the threat of opposing Talonflame's Brave Birds, such as Hariyama, Conkeldurr, and Breloom. Taunt is, as always, a key option against Trick Room, Spore, and Dark Void users, and Fake Out from Kangaskhan or Ludicolo helps immensely in preventing such strategies from effectively being used. Fake Out, Follow Me, and Rage Powder help Talonflame fire off its support moves, so keep the aforementioned Ludicolo and Kangaskhan, as well as Scrafty and Clefable, in mind when teambuilding.
+
+Other Options
+########
+
+Sharp Beak doesn't add to Brave Bird's recoil like Life Orb does, though it doesn't boost Talonflame's Fire-type STAB moves and offers a weaker boost than Life Orb. Focus Sash allows Talonflame to have some semblance of bulk akin to a bulkier utility set, though Brave Bird recoil renders Focus Sash useless. Giga Impact and Return are good filler options on a Choice Band set, allowing Talonflame to hit Rotom-H and Rotom-W harder in situations where Talonflame needs to attack Rotom. Me First, Steel Wing, and Aerial Ace are other situational filler options, each with their merits, and Choice Band Talonflame will rarely use its fourth moveslot, so they can be considered. Swords Dance and Roost are good moves, but not on Talonflame simply because of its frailty.
+
+Checks & Counters
+########
+
+**Protect and Defensive Teams**: Because of Gale Wings, it is exceedingly difficult to stop Talonflame from attacking, bar Quick Guard and Fake Out. With this in mind, frailer teams will naturally have a harder time with Talonflame, so adjusting EVs to account for its Brave Bird is incredibly useful to score a KO on it when it least expects it. Similarly, predicting Brave Bird's target, using Protect, and attacking with another Pokemon is much more effective against Talonflame than other Pokemon because of how frail it is.
+
+**Intimidate**: Intimidate is an incredibly easy way to neuter Talonflame, given that most of its power stems from boosting items such as Choice Band, which Intimidate users nullify just by switching in. Gyarados, Mega Manectric, and Landorus-T are some good Intimidate users to consider, and even Scrafty and Hitmontop could work despite being weak to Brave Bird, though they should probably switch out before they take a super effective Brave Bird unless they also pack Quick Guard or Fake Out.
+
+**Rock Slide and Stone Edge**: Another general option to keep your team protected from Talonflame is to give a few bulkier members Rock Slide or Stone Edge. Because of their wide distribution, it's not too difficult to find a team member to use one or the other, and Attack investment usually isn't necessary to KO Talonflame, as it does a good job of whittling down its own HP. The most common and useful Rock Slide users are Terrakion, Landorus-T, Tyranitar, and Garchomp, all of which have other roles they can fill on just about every team.
+
+**Electric-types**: Rotom-H and Rotom-W are by far the most threatening Pokemon to Talonflame because of their resistance to both of its STAB moves and their own STAB Thunderbolt easily taking down Talonflame. Other Electric-types make great switch-ins to Brave Bird, such as Thundurus, Zapdos, Raikou, and Mega Manectric, though they don't resist Flare Blitz.
+
+**Bulky Water-types**: While many Water-types don't resist Brave Bird, they can still throw a Scald or Hydro Pump Talonflame's way and easily KO it. Besides Rotom-W, good Water-types to consider are Gyarados, Politoed, Suicune, and Swampert.

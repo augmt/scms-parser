@@ -65,6 +65,31 @@ evs: 64 Atk / 192 SpA / 252 Spe
 
 <p>So, what should MixMence's teammates be? Well, you'll need Rapid Spin support because of that Stealth Rock weakness, so Starmie and Forretress are great partners. Additionally, sweepers who want walls like Skarmory, Hippowdon, and Jellicent weakened or removed appreciate MixMence's help tremendously. Sweepers that benefit from the weakening or removal of these walls include Agility Metagross, Swords Dance Lucario, Swords Dance Scizor, and Double Dance Terrakion.</p>
 
+[SET]
+name: Special Attacker
+move 1: Draco Meteor
+move 2: Fire Blast
+move 3: Hydro Pump
+move 4: Roost
+item: Life Orb
+ability: Intimidate
+nature: Modest
+evs: 252 SpA / 4 SpD / 252 Spe
+
+[SET COMMENTS]
+
+<p>Although it faces competition from other Dragon-type special attackers in the tier, Salamence has the tools necessary to carve out a niche for itself. While it is outclassed in terms of Speed by Latios and Latias and raw power by Hydreigon, Salamence's mix of physical bulk with Intimidate, amazing coverage, surprise value, and resistances to common moves such as U-turn and Mach Punch allows it to use a specially attacking set to great effect in BW OU.</p>
+
+<p>Draco Meteor is Salamence's main STAB move, having great neutral coverage in the tier and hitting any Pokemon that doesn't resist it for heavy damage. Fire Blast is a great coverage move alongside Draco Meteor, being able to KO Steel-types that try to switch in on Salamence's Draco Meteor, such as Ferrothorn and Scizor, as well as roasting Grass-types like Breloom and Venusaur. Hydro Pump allows Salamence to lure and OHKO physical walls such as Hippowdon and Landorus-T, common switch-ins to Choice Scarf Salamence. It also allows Salamence to hit Tyranitar and Heatran for super effective damage. Finally, Roost increases Salamence's longevity and lets it make the most of its good bulk and typing by healing off damage from Life Orb recoil, resisted hits, and Stealth Rock.</p>
+
+[ADDITIONAL COMMENTS]
+
+<p>Salamence's Speed is maximized to make good use of its Speed tier, allowing it to outspeed threats such as Hydreigon and Kyurem-B. Salamence's Special Attack is also maximized with a Modest nature so it can hit as hard as possible. A Timid nature could be used, but Salamence generally needs all the power it can get to attain OHKOs against Pokemon such as Hippowdon and specially defensive Breloom.</p>
+
+<p>An alternative item, Expert Belt prevents Salamence from being worn down quickly by Life Orb recoil and allows it to bluff a Choice item while still retaining most OHKOs and 2HKOs it would get with Life Orb. However, it significantly decreases the power of Draco Meteor and requires entry hazards to be set up for Salamence to get certain OHKOs, making it a less viable option.</p>
+
+<p>This Salamence set appreciates Tyranitar as a teammate, as it can Pursuit trap Latios and Latias, which can outspeed and OHKO Salamence. Choice Band variants of Tyranitar can also threaten special walls such as Chansey and Blissey. In return, Salamence can check Fighting-types such as Breloom and also threatens Landorus-T, Ferrothorn, Gliscor, and Hippowdon, Pokemon that can usually switch into Tyranitar with ease. Breloom is another good partner, as it can help deal with bulky Water-types such as Jellicent, which can wall Salamence given enough Special Defense investment. It also deals with Chansey and Blissey and can threaten Rock-types, such as Terrakion, with Mach Punch. In return, Salamence can lure and beat physical walls such as Landorus-T and Skarmory and check Pokemon such as Amoonguss and Venusaur, which can hinder Breloom's attempts to sweep. Choice Scarf Jirachi is also a great partner for Salamence, as Jirachi can check fast threats such as Latios, Latias, Choice Scarf Tyranitar, and Terrakion, and it is free to spam Iron Head once Salamence lures and removes the physical walls that stop it.</p> 
+
 [Other Options]
 
 <p>Before considering any other Salamence set, you really need to ask yourself why you want to use it. The first thing that comes to mind is a Choice Specs set, but you really have no reason to use Choice Specs Salamence over Hydreigon or Latios, both of whom sport higher Special Attack. You could also pull off a Mixed Dragon Dance set similar to what it used in DPP Ubers, although the loss of Attack for Outrage is very noticeable; additionally, being walled by Heatran or Skarmory depending on your move choice is not very appealing. Thanks to Intimidate, Salamence seems like it could pull off a Bulky Dragon Dance set. This set is okay, but there's a Pokemon called Dragonite who has an ability called Multiscale that makes it more bulky and overall a better option. You could also run a Substitute set, which can abuse Moxie effectively and ease prediction against Steel-types. However, be aware that using Substitute in conjunction with Life Orb is counterproductive. Salamence can also run a bulky support set, but why would you use that over Dragonite?</p>

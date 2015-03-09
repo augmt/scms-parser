@@ -1,47 +1,79 @@
 Overview
 ########
 
-Landorus is one of the most powerful special attackers in the tier. The combination of Sheer Force and recoil-less Life Orb boosts all of its attacks with a secondary effect to monstrous levels. It is also one of the most difficult Pokemon for stall to handle due to Calm Mind and Knock Off allowing it to bypass some of its normal checks and counters. This is furthered by its ability to form fantastic cores around a Pursuit trapper and additional special attackers such as Mega Charizard Y and Keldeo to simply overwhelm their counters. It also sits at a decent Speed tier, putting it ahead of both Mega Charizard X and Y, as well as Manaphy and even Mega Medicham. However, Landorus is just slow enough to leave it susceptible to being revenge killed by Pokemon such as Latios, Keldeo, Greninja, and others. Landorus's 4x weakness to Ice is also problematic, making it difficult to pair it with Pokemon such as Garchomp and Dragonite. However, these faults are dwarfed compared to the many positives that Landorus boasts.
+Landorus is one of the most fearsome wallbreakers in the tier. The combination of Sheer Force and recoil-less, Life Orb-boosted attacks raises its power to monstrous levels. With multiple effective boosting moves at its disposal, such as Rock Polish and Calm Mind, Landorus can exert immense amounts of pressure versus all playstyles. In addition, Landorus is an excellent offensive Stealth Rock user that can easily fit on offensive and balanced teams, notably being able to break through Mega Sableye — a typical stop on defensive teams to entry hazard setters. Though Landorus is known as an offensive Pokemon, its Ground / Flying typing only provides two weaknesses while giving it immunities to two common attacking types. Landorus also sits at a decent Speed tier, just above that of base 100 Speed Pokemon such as Mega Gardevoir, Victini, and both of Charizard's Mega Evolutions. However, Landorus's Speed leaves it outpaced by common offensive threats such as Keldeo, Latios, Latias, Thundurus, and Mega Lopunny. Despite its excellent coverage movepool, Landorus often struggles with certain Pokemon depending on which move it lacks.
 
-Special Attacker
+Rock Polish
 ########
-name: Special Attacker
-move 1: Earth Power
-move 2: Psychic
-move 3: Focus Blast
-move 4: Knock Off / Stealth Rock
+name: Rock Polish
+move 1: Rock Polish
+move 2: Earth Power
+move 3: Hidden Power Ice
+move 4: Sludge Wave / Knock Off
 ability: Sheer Force
 item: Life Orb
 evs: 4 Def / 252 SpA / 252 Spe
-nature: Naive / Timid
+nature: Modest / Rash
 
 Moves
 ========
 
-Blessed with a fantastic movepool, Landorus has just about everything it needs to succeed. Earth Power is ridiculously strong after Sheer Force, Life Orb, and STAB boosts, and is incredibly difficult for even neutrally hit Pokemon to switch into without fearing a 2HKO. Psychic's main use is as a way to hit Mega Venusaur, Amoonguss, and Conkeldurr for super effective damage, as well as hitting Pokemon such as Rotom-W, Zapdos, and Gyarados. Focus Blast is great for OHKOing Tyranitar, as well as to prevent Landorus from being walled by Skarmory. It is also Landorus's most powerful move with which to hit Chansey. Because Landorus has such a good movepool, the last slot really depends on what the rest of the team needs. Knock Off secures a crucial OHKO on Latios after Stealth Rock damage, has a small chance to OHKO Latias after Stealth Rock damage, gets rid of Chansey's Eviolite so that Landorus can 2HKO it with Focus Blast, and has the general utility of removing items from switch-ins. Landorus can also be an effective user of Stealth Rock if no other setter is available on a team. It can typically find opportunities to set up Stealth Rock with the many switches it forces, and fares decently vs Excadrill and Skarmory, two of the tier's premier hazard removers. Sludge Wave is an option to allow Landorus to beat Calm Mind Clefable 1v1 and hits Azumarill a good bit harder, OHKOing non-Assault Vest variants. It is also a useful move to avoid having to predict against Gyarados that might Mega Evolve to avoid taking damage from Psychic, takes away nearly half of Latios's and Latias's HP, and is stronger than Psychic on neutral hits against Pokemon such as Rotom-W and Thundurus. As it hits similar targets, it can also be used over Psychic. Rock Slide is another decent option, as it can OHKO Talonflame, Mega Charizard Y, and Tornadus-T on the switch. It also deals significant damage to Gyarados. Finally, Hidden Power Ice can be used to successfully lure and KO specially defensive Gliscor, one of the premier defensive counters to Landorus, in addition to OHKOing Landorus-T, opposing Landorus, and Dragonite.
+Rock Polish doubles Landorus's Speed, allowing it to outspeed almost the entire unboosted metagane. Earth Power is Landorus's strongest STAB move when factoring in the Life Orb and Sheer Force boosts and hits most Pokemon that don't resist or are immune to it for incredible amounts of damage. Sludge Wave provides coverage on Grass- and Fairy-types such as Celebi, Chesnaught, Tangrowth, Azumarill, Clefable, Sylveon, and Mega Altaria and is also useful to hit Flying-types and Levitating Pokemon such as Thundurus, Talonflame, Tornadus-T, Latios, Latias, and Rotom-W. Despite not being boosted by Sheer Force, Hidden Power Ice provides crucial coverage on opposing Landorus formes, Gliscor, Garchomp, and Dragonite. Alternatively, Knock Off can be used for the general utility of removing items from opposing Pokemon and also hits Gengar, Latios, and Latias harder than any of this set's other attacks. Knock Off is also helpful to cripple Pokemon that rely on their item to repeatedly take attacks, such as Chansey and Assault Vest Tornadus-T. Psychic and Focus Blast are alternate coverage moves that can be used to hit Pokemon such as Conkeldurr, Mega Venusaur, Amoonguss, Skarmory, Chansey, and Mandibuzz. Note that Focus Blast can be used in place of Hidden Power Ice or Sludge Wave.
 
 Set Details
 ========
 
-An EV spread of 48 HP / 252 SpA / 208 Spe with a Modest nature can be used in order to outspeed positive-natured Mega Gyarados and 216 Speed Kyurem-B while getting an extra boost in power, although usually this is irrelevant since Landorus already hits so hard. A Modest nature should only be used if the rest of the team can cover both of Charizard's Mega Evolutions, as well as other Pokemon with base 100 Speed such as Manaphy and Mega Medicham. If using a physical attack such as Knock Off or Rock Slide, it's important to use a Naive nature instead of Timid.
+The given EV spread maximizes Landorus's offensive presence and Speed. A Modest nature is used because Landorus can afford to lose some Speed for the extra power thanks to Rock Polish. However, a Rash nature should be used when Knock Off is chosen to maintain Landorus's Attack stat. Life Orb is the chosen item to give a 1.69x boost to Landorus's attacks that have secondary effects, bar Knock Off, when combined with Sheer Force.
 
 Usage Tips
 ========
 
-Landorus is one of the best stallbreakers in the tier, being able to take down common stall cores such as the core of Mega Venusaur and Heatran, as well as having access to Knock Off to cripple Chansey. Knock Off is especially useful when used in tandem with other special attackers such as Charizard Y and Thundurus. Because of this, it can be used both early- and late-game. Either use it to break through special walls for another Pokemon to clean up late-game or vice versa. Double switching into Bisharp or other Pursuit trappers on a predicted switch into Latios, Latias, or Chansey is also helpful to eliminate Landorus's counters as early as possible.
+This set is best used as a mid- or late-game sweeper against weakened or unprepared offensive teams. However, early-game, this set should be played like a normal Landorus, firing off powerful attacks and utilizing its coverage moves to hit their respective targets. It is important for Landorus to avoid status conditions and unnecessary damage before setting up to give it as many turns as possible to fire off attacks on the opposing team. Finding the right opportunity to set up is crucial. Some examples of when Landorus can set up include when it is against a Landorus-T locked into Earthquake, a Keldeo locked into Secret Sword, or a -2 Special Attack Latios or Latias.
 
 Team Options
 ========
 
-The best partners to Landorus are other special attackers. Mega Charizard Y, Thundurus, and Keldeo all work well with it, as they can all wear down their similar counters by repeated attacking. Pursuit trappers such as Bisharp and Tyranitar also make good partners, as they can trap Latios and Latias and can even deal enough damage to wear down Chansey with their STAB Pursuit. Because faster Pokemon such as Garchomp, Keldeo, and Greninja can be problematic, Azumarill also makes a great partner, being able to defeat all of them.
+Pursuit support from Pokemon such as Bisharp, Tyranitar, Scizor, and Mega Scizor is very helpful to weaken or eliminate bulky Psychic-types that typically are used to check Landorus, such as Latios, Latias, Starmie, and Celebi. Note that Celebi loses to Sludge Wave variants, so it is a more important Pursuit target if Knock Off is chosen over Sludge Wave. Due to the fact that Landorus lures in and KOes Gliscor with Hidden Power Ice, Pokemon that benefit from Gliscor's removal such as Gengar and Mega Lopunny make for good teammates. If Hidden Power Ice is not chosen, Gengar can also lure in and KO Gliscor with Icy Wind. Note that pairing Mega Lopunny with Landorus allows the former to run a support or boosting move such as Baton Pass or Power-Up Punch over Ice Punch. Healing Wish support from Pokemon such as Celebi, Jirachi, or Latias is extremely helpful to revive Landorus when it is weakened or give it a second chance at sweeping — this also allows Landorus to play even more recklessly. Pokemon that force Choice Scarf Landorus-T into using Earthquake in order to give Landorus a setup opportunity, such as Mega Diancie, Mega Metagross, Mega Charizard X, Garchomp, Heatran, and Mega Lopunny, also make good partners. Despite sharing a nasty 4x weakness to Ice, Garchomp checks certain Pokemon that threaten Landorus, notably Talonflame, Bisharp, Mega Lopunny, and Azumarill. In addition, Mega Diancie greatly appreciates Landorus luring in Celebi and hitting it with Sludge Wave, as well as hitting Choice Scarf Landorus-T with Hidden Power Ice. Stealth Rock support is very important to aid in Landorus's sweeping capabilities, such as in breaking Dragonite's Multiscale and allowing Landorus to KO Thundurus with Sludge Wave after Stealth Rock damage, provided it has a Rock Polish up. Thus, Pokemon such as the aforementioned Garchomp, Azelf, Mamoswine, and Terrakion make for good teammates.
+
+All-Out Attacker
+########
+name: All-Out Attacker
+move 1: Earth Power
+move 2: Sludge Wave / Knock Off
+move 3: Focus Blast / Stealth Rock
+move 4: Hidden Power Ice
+ability: Sheer Force
+item: Life Orb
+evs: 4 Def / 252 SpA / 252 Spe
+nature: Timid / Naive
+
+Moves
+========
+
+Earth Power is a mandatory STAB move that hits most Pokemon which do not resist or are immune to it for heavy damage. Sludge Wave targets Grass- and Fairy-types such as Celebi, Tangrowth, Chesnuaght, Azumarill, Togekiss, Azumarill, Clefable, and Mega Altaria, while also providing coverage on Levitating or Flying-type Pokemon such as Latios, Latias, Rotom-W, and Thundurus. Alternatively, Knock Off can be used to hit Latios and Latias harder than any of Landorus's other moves, as well as crippling Pokemon that rely on their item such as Chansey and Assault Vest Tornadus-T. Focus Blast provides coverage on the likes of Skarmory, Bronzong, Mandibuzz, and Chansey; the latter notably is 2HKOed by Focus Blast after losing its Eviolite, making Knock Off and Focus Blast an excellent combination. However, if coverage on the mentioned Pokemon is provided elsewhere on your team, Stealth Rock is a perfectly viable option if you cannot fit it on another team member. Hidden Power Ice provides important coverage on Pokemon such as Gliscor, Landorus-T, Dragonite, and Garchomp. Rock Slide can be used to hit Pokemon such as Pinsir, Assault Vest Tornadus-T, Volcarona, and Mega Charizard Y.
+
+Set Details
+========
+
+The given EV spread is standard for an offensive Pokemon, maximizing Landorus's Special Attack and Speed. A Timid nature is necessary to outspeed positive-natured base 100 Speed Pokemon such as Mega Charizard Y and Mega Gardevoir, but a Naive nature should be used with Knock Off to preserve Landorus's Defense stat to take priority attacks better. Life Orb is the only item that should be used, as it gives Landorus's attacks with a secondary effect, bar Knock Off, a 1.69x boost.
+
+Usage Tips
+========
+
+Landorus is best played aggressively early on, firing off strong Earth Powers when given the opportunity. Utilize Landorus's chosen coverage moves to hit the appropriate targets. It is important for Landorus to avoid status conditions and take as little damage as possible in order to preserve its wallbreaking capabilities. Versus defensive teams, Knock Off is generally the best move to go for early-game to cripple bulkier Pokemon by removing their Leftovers or Assault Vest.
+
+Team Options
+========
+
+Pursuit support from Pokemon such as Bisharp, Scizor, and Tyranitar is very helpful to weaken or KO bulky Psychic-types such as Latios, Latias, Starmie, and Celebi. This is especially helpful for dealing with Latios and Latias if Knock Off is not chosen, but it is otherwise not as necessary, as Landorus only needs a small amount of prior damage to KO them with Knock Off. Gengar appreciates Landorus luring in specially defensive Gliscor and weakening it with Hidden Power Ice, and they form a solid wallbreaking duo. Mega Diancie is a great teammate to check some of the priority users that threaten Landorus, such as Bisharp and Talonflame, while also outspeeding or Speed tying with Pokemon that are often used to revenge kill Landorus such as Keldeo, Latias, and Latios. Setup sweepers also benefit from Landorus's wallbreaking ability, such as Substitute + Calm Mind Keldeo, Nasty Plot Thundurus, Rock Polish Mega Diancie, and Swords Dance Bisharp. Stealth Rock support from Pokemon such as Garchomp, Cobalion, Terrakion, and Mamoswine is helpful to wear down Landorus's switch-ins, notably securing the 2HKO on Chansey with Focus Blast after its Eviolite has been Knocked Off.
 
 Calm Mind
 ########
 name: Calm Mind
 move 1: Calm Mind
 move 2: Earth Power
-move 3: Psychic
-move 4: Focus Blast
+move 3: Focus Blast
+move 4: Psychic / Hidden Power Ice
 ability: Sheer Force
 item: Life Orb
 evs: 4 Def / 252 SpA / 252 Spe
@@ -50,65 +82,37 @@ nature: Timid
 Moves
 ========
 
-As if Landorus wasn't already powerful enough, Calm Mind can boost its Special Attack even further, making it an absolute terror for both stall and balanced teams to face. Calm Mind not only boosts Landorus's Special Attack, but also its Special Defense, allowing it to survive attacks such as Hidden Power Ice from Thundurus, Mega Manectric, and Raikou. Earth Power is the most powerful neutral option; getting STAB, Sheer Force, Life Orb, and possibly Calm Mind boosts makes it an insanely powerful attack. Psychic is the best option for hitting Mega Venusaur, Amoonguss, and Assault Vest Conkeldurr for super effective damage, as well as hitting opposing Landorus and Gliscor for 2HKOs before a boost and OHKOs at +1. Focus Blast rounds out the set's coverage, 2HKOing Chansey after one Calm Mind, obliterating Skarmory, and OHKOing Tyranitar.
+Calm Mind boosts Landorus's Special Attack and Special Defense to incredible levels, allowing it to break through bulkier Pokemon. Earth Power is Landorus's strongest Sheer Force-boosted STAB move and hits very hard after a boost. Focus Blast provides important coverage on the likes of Skarmory, Mandibuzz, and Chansey. Psychic hits Mega Venusaur and Conkeldurr, as well as Flying-type and Levitating Pokemon such as Thundurus and Rotom-W. Hidden Power Ice can be used to target Gliscor, Landorus-T, and Dragonite. Lastly, Sludge Wave is another choice to provide coverage on Fairy-types such as Sylveon and Clefable, but it should only be used if Landorus's teammates cannot cover these Pokemon.
 
 Set Details
 ========
 
-An EV spread of 48 HP / 252 SpA / 208 Spe with a Modest nature is usable if outspeeding Jolly Excadrill, Charizard, and Manaphy with a Speed boosting nature isn't as important to your team, and it gives Landorus even more of a punch, but usually the Speed is more appreciated. Landorus hits incredibly hard even without a Modest nature.
+The given EV spread is standard for an offensive Pokemon, maximizing Landorus's offensive power and Speed. A Timid nature is used to outspeed positive-natured base 100 Speed Pokemon such as Mega Gardevoir and Mega Charizard Y. Life Orb provides a significant boost to Landorus's attacks with a secondary effect when coupled with Sheer Force.
 
 Usage Tips
 ========
 
-This set should be used to demolish stall and balanced offense. It works best in the late-game as a cleaner, grabbing a boost and then breaking through Pokemon weakened by its teammates. Like Landorus's other sets, Calm Mind appreciates Pursuit trappers to lure in and trap Pokemon such as Latios and Latias, which can be troublesome for Landorus to beat, as they are faster and their Psyshocks hit its unboosted Defense. Landorus actually has surprising bulk, so don't be afraid to stay in on attacks such as Azumarill's Aqua Jet and Hidden Power Ice from the likes of Thundurus after a Calm Mind boost.
+This set excels against balanced and defensive teams and should be played fairly aggressively, especially when paired with Healing Wish support. Early-game, Landorus should just be launching off strong Earth Powers and utilizing its coverage moves on their appropriate targets. Landorus should set up a Calm Mind versus a weak defensive Pokemon such as Hippowdon or Celebi. However, versus offensive teams, Landorus has very few opportunities to set up a Calm Mind; it should just use its strong attacks early-or mid-game in order to break holes for a teammate.
 
 Team Options
 ========
 
-Other special attackers are the best partners for Landorus, being able to overwhelm special walls for Landorus to clean up in late-game. Pokemon such as Mega Charizard Y, Keldeo, and Thundurus fit this role well. As previously stated, Pursuit trappers such as Bisharp and Tyranitar also provide a great way to eliminate Latios and Latias early-game, and can even wear down Chansey.
+Healing Wish support from the likes of Celebi, Latias, and Jirachi is very helpful to give Landorus another chance to sweep. In addition, the former two easily switch into Keldeo, a common offensive check to Landorus. Mega Diancie is another great teammate to check the priority users that threaten Landorus, particularly Talonflame and Bisharp. In addition, Mega Diancie's Rock Polish set pairs very well with this set due to the fact that Calm Mind Landorus has a great matchup against defensive teams, while Rock Polish Diancie can clean up weakened offensive teams. Other special attackers that can either pressure Chansey or lure it in to remove its Eviolite so that Landorus doesn't have to rely on Focus Blast make for good teammates. As such, Keldeo, Gengar, Flare Blitz Mega Charizard Y, Knock Off Mega Alakazam, and Magma Storm Heatran pair well with Landorus. Pursuit support from the likes of Scizor, Mega Scizor, Bisharp, and Tyranitar is excellent to eliminate or weaken bulky Psychic-types such as Celebi, Latios, and Latias. This is crucial for this set, as it has no way of dealing significant damage to Latios and Latias, and to a lesser extent, Celebi. Due to the fact that this set excels versus defensive teams, Pokemon that have a good matchup versus offensive teams in general are great teammates; some that have not already been listed are Talonflame, Mega Lopunny, and Mega Aerodactyl.
 
 Other Options
 ########
 
-Rock Polish is probably the best option outside of the listed sets. It has the ability to murder offensive teams that aren't prepared for it; however, Landorus finds it difficult to set up a boost, and it is nearly a wasted moveslot against defensive and balanced teams. Gravity is an interesting option, but considering the main Levitate Pokemon that trouble Landorus are faster than it anyways, using Gravity as they switch into it isn't very effective and can actually hurt the rest of the team. Choice Scarf is another interesting set, but it is utilized better by Landorus-T, which finds it easier to switch in as a pivot thanks to Intimidate and boasts higher Attack; the extra Speed is not usually needed. Swords Dance sets can also be used with Sand Force and sand support, but this role is usually performed better by Landorus-T, and it does poorly against offensive teams. The same can be said about Double Dance sets.
-
-Rock Polish
-########
-name: Rock Polish
-move 1: Rock Polish
-move 2: Earth Power
-move 3: Psychic / Sludge Wave
-move 4: Knock Off / Focus Blast
-ability: Sheer Force
-item: Life Orb
-evs: 8 Atk / 252 SpA / 248 Spe
-nature: Rash / Modest
-
-Moves
-========
-
-Rock Polish boosts Landorus's Speed to outrun faster offensive threats, such as Latios, Keldeo, and Thundurus, that are often relied upon to revenge kill it, and eliminate them. Earth Power is a powerful STAB move that hits almost every grounded Pokemon in the tier without a resistance to Ground for enormous damage. Psychic provides important coverage on many non-grounded Pokemon, such as Thundurus and opposing Landorus; Fighting-types, such as Conkeldurr, Keldeo, and Breloom; and Amoonguss and Mega Venusaur. Sludge Wave is preferred if Focus Blast is run to deal significant to Latias and Latios. Knock Off OHKOes Latios after Stealth Rock damage and Latias with Stealth Rock and Life Orb damage; otherwise, they would be enormous threats to a Rock Polish Landorus sweep. It also cripples incoming Chansey and Tornadus-T earlier in the game. Focus Blast is also an option, primarily to hit Air Balloon Excadrill, which in the sand can otherwise pose a threat to Landorus, at the least weakening it into the range for a priority attack to KO. It also prevents Landorus from being walled by Skarmory, hits Chansey for almost 40%, 2HKOes Mandibuzz after Stealth Rock damage, and OHKOes Tyranitar.
-
-Set Details
-========
-
-The EV spread lets Landorus outrun neutral-natured maximum Speed base 100s before a boost and everything relevant after a boost whilst granting it an enormous amount of power, especially due to the Modest nature that Landorus can afford to run thanks to the Speed boost from Rock Polish. Timid is an option to retain appreciated Speed pre-boost, but the power-boosting nature is favored for things such as a good chance to OHKO Thundurus after Stealth Rock damage.
-
-Usage Tips
-========
-
-This set is meant to be used as a win condition against weakened or unprepared offensive teams, nabbing a Rock Polish on forced switches against things such as Keldeo locked into Secret Sword and -2 Latios, switch-ins such as Thundurus and Latios attempting to take advantage of Earth Power, and sacs so that Landorus can be revenge killed by a Pokemon such as Keldeo or Greninja. Unlike most other boosting sweepers, it cannot be revenge killed by Prankster Thundurus, making it even more threatening. As Landorus is primarily seen as a wallbreaker and a nuke, Rock Polish serves as a surprise move that can put offensive teams in a tricky position. In the early-game, it can be played as a normal Landorus, punching large holes in the opposing team, though you should be cautious to keep it healthy so that it can't be revenge killed by priority attacks or whatever when it's time to sweep, if it can. It is important to weaken or KO Pokemon such as Gyarados, Mandibuzz, Dragonite, and Thundurus that could prevent a Landorus sweep, as well as eliminate priority users such as Bisharp, Azumarill, and Mamoswine that can bypass its Speed boost and end a sweep early.
-
-Team Options
-========
-
-Mixed Thundurus is an excellent partner, as it can easily deal with threats to Landorus such as Gyarados, Mandibuzz, Gliscor, Chansey, Dragonite, Latios, Latias, and Azumarill. Talonflame beats most of the priority users that can threaten a Landorus sweep. Breloom beats Azumarill, Bisharp, and Adamant Mamoswine; it also forces Latios and Latias in so they can be weakened into Knock Off KO range. Pursuit support from Bisharp or Tyranitar is necessary to eliminate Latios and Latias if Landorus is running Focus Blast. Bisharp's Pursuit can also be useful to weaken Chansey and potentially KO it if Landorus managed to Knock Off its Eviolite. Lastly, Stealth Rock support is crucial to allow Landorus to OHKO Latios and Thundurus, and to break Dragonite's Multiscale. Garchomp and Terrakion make for particularly good partners, as they can put pressure on Landorus's common answers.
+Gravity allows Landorus to hit Flying-type and Levitating Pokemon with Earth Power and also has the added benefit of significantly increasing Focus Blast's accuracy. Substitute takes advantage of the switches Landorus forces and lets Landorus avoid Bisharp's Sucker Punch. A Choice Scarf set is generally better suited for Landorus-T, but Landorus's higher Speed and surprise factor make it somewhat usable.
 
 Checks & Counters
 ########
 
-**Latios and Latias**: Both of these Pokemon are probably the most common offensive checks to Landorus. They can survive any of its attacks and retaliate with a Draco Meteor or Psyshock. They also have access to Roost to recover off any damage taken by switching in. Their only downside is being weak to Pursuit, which can make them easy to eliminate without careful play.
+**Counters**: Specific specially bulky Pokemon such as Cresselia, Mega Latias, and Gyarados completely counter Landorus, as they can sponge up its attacks and cripple it with a status condition or hit it hard with an attack.
 
-**Specially Bulky Pokemon**: Pokemon such as specially defensive Gliscor, Chansey, specially defensive Dragonite, specially defensive Mandibuzz, and Assault Vest Tornadus-T all make for decent switch-ins to Landorus. They can each switch into its moves relatively easily and retaliate by either hitting it with a Toxic or one of their own powerful attacks. They each, except Gliscor, face their own problems with specific Landorus sets. Chansey is crippled by Knock Off, Mandibuzz gets smashed by a +1 Focus Blast, and Tornadus-T can also come in on Knock Off and lose its Assault Vest. Dragonite also needs to be at close to full health to survive and hates losing its Leftovers to Knock Off.
+**General Checks**: Pokemon such as Bronzong, Slowking, Goodra, and specially defensive Mega Sableye (Calm Mind, Knock Off, and Metal Burst variants) are solid checks to Landorus. However, Goodra is only a shaky check to Knock Off variants due to the fact that Knock Off + Earth Power combined with Stealth Rock damage has a high chance of KOing Goodra.
 
-**Faster Pokemon and Priority**: Landorus, while not slow, is not particularly fast either, and it has no form of priority to compensate for this. Pokemon such as Keldeo and Greninja can come in and revenge kill it with their STAB Water-type moves. Thundurus, Mega Manectric, and Raikou can all KO Landorus with Hidden Power Ice after some prior damage. Choice Band Talonflame and Azumarill can pick off weakened Landorus with their powerful priority attacks. Finally, Mamoswine and Weavile both can OHKO Landorus with their STAB Ice Shard.
+**Move-Specific Checks**: Certain Pokemon check Landorus if it lacks the appropriate coverage move. If Landorus lacks Knock Off, Gengar, Mew, and Chansey handle Landorus very well. If Landorus lacks Hidden Power Ice, specially defensive Gliscor has no trouble taking Landorus's attacks and crippling it with Knock Off or using it as setup fodder for Swords Dances. Opposing Landorus formes and Dragonite also fit under this scenario. If Landorus lacks Sludge Wave, Chansey and Mega Charizard Y act as solid checks. If Rock Slide is not chosen, Assault Vest Tornadus-T and Mega Charizard Y have no trouble switching into Landorus's attacks. Lastly, if Landorus lacks Focus Blast, Skarmory and Mandibuzz check Landorus.
+
+**Revenge Killers**: Provided Landorus has not acquired a Rock Polish boost, naturally faster Pokemon such as Latios, Latias, Weavile, Tornadus-T, Thundurus, Keldeo, Mega Manectric, and Choice Scarf users such as Kyurem-B, Heatran, and Hydreigon can revenge kill Landorus, though some require a bit of prior damage. However, it should be noted that the majority of these Pokemon should not be switching into Landorus, as they check it with offensive pressure.
+
+**Priority Users**: Priority users such as Talonflame, Bisharp, Azumarill, Mamoswine, and Weavile are able to revenge kill Landorus after a little prior damage.

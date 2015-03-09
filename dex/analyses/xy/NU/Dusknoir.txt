@@ -1,13 +1,52 @@
-Tank
+Overview
 ########
-name: Tank
-move 1: Will-O-Wisp
-move 2: Pain Split
-move 3: Earthquake
-move 4: Fire Punch / Shadow Sneak
+
+Immunities to Normal- and Fighting-type attacks grant Dusknoir plenty of opportunities to switch in and function as a bulky offensive spinblocker. Dusknoir possesses a decent Attack stat and a usable movepool that includes priority, several coverage options, and Trick, which allows Dusknoir to function against both offensive and defensive playstyles. Dusknoir also learns Pursuit, which it can use to trap foes such as Cryogonal and frail Psychic- and Ghost-type Pokemon. Dusknoir finds a niche over Golurk by virtue of its access to priority, Pursuit, and Trick and not being weak to Cryogonal's STAB moves. However, Dusknoir's incredible defensive stats are undermined by a poor HP stat that makes it prone to being worn down quickly, and its lack of reliable recovery further exacerbates this issue. It also has no powerful STAB moves, and Golurk, Rotom, and Mismagius are generally superior offensive Ghost-types, whereas Gourgeist-XL, Gourgeist-S, and Misdreavus outclass Dusknoir defensively.
+
+Choice Band
+########
+name: Choice Band
+move 1: Shadow Sneak
+move 2: Earthquake
+move 3: Ice Punch / Fire Punch
+move 4: Trick / Pursuit
 ability: Pressure
-item: Leftovers
-evs: 252 HP / 4 Atk / 252 Def
+item: Choice Band
+evs: 252 HP / 252 Atk / 4 Def
 nature: Adamant
 
-This is a sample set while we are currently working on analyses in the workshop.
+Moves
+========
+
+Shadow Sneak's priority serves to somewhat mitigate Dusknoir's poor Speed. Earthquake has great neutral coverage with Shadow Sneak. Ice Punch can 2HKO Sandslash (although it will only 3HKO if Dusknoir's Choice Band is removed via Knock Off), while Fire Punch nails the likes of Cryogonal and Ferroseed. Trick can reduce the utility of an opposing wall by giving it a Choice Band and locking it into a single move. Pursuit can take advantage of switches forced against frail Ghost- and Psychic-types. It can OHKO Cryogonal on the switch out and takes a hefty bite out of a switching Claydol's health.
+
+Set Details
+========
+
+Maximum HP and Attack EVs bolster Dusknoir's overall bulk and offensive presence, and an Adamant nature takes Dusknoir's Attack up a notch. Choice Band provides Dusknoir with a much appreciated power boost, enabling it to net OHKOs and 2HKOs with greater ease. For example, with Choice Band, Dusknoir OHKOes a switching Cryogonal with Pursuit. Pressure deprives the foe of one extra PP when it attacks. This can come in handy against attackers relying on moves with low PP.
+
+Usage Tips
+========
+
+Spinblocking is a big part of Dusknoir's niche; therefore, it should be brought in when predicting Rapid Spin from the foe. From there, Dusknoir should aim to dispose of the spinner with the appropriate move. Given that a Normal-type can switch in on a Choice-locked Shadow Sneak and force Dusknoir out, one should play this set with careful prediction. In a similar vein, Flying-types can use a Choice-locked Earthquake to their advantage. Trick should be used when predicting a wall to come in to sponge Dusknoir's attacks, though make sure it's necessary to use Trick, as without a Choice Band Dusknoir's damage output is somewhat lacking. When running Pursuit in the last moveslot, Dusknoir should use it when predicting a switch against foes such as Cryogonal or a Psychic- or Ghost-type.
+
+Team Options
+========
+
+As Dusknoir is a spinblocker, it wants teammates that can set up entry hazards so that it can prevent the foe from removing them. Examples of entry hazard setters are Crustle, Ferroseed, Qwilfish, and Garbodor. Wish and cleric support are ideal for Dusknoir, as it lacks reliable recovery and is prone to being worn down by status. Audino and Lickilicky are examples of Pokemon that can provide this support; they have good synergy with Dusknoir, as it is immune to their sole weakness. Dark- and Fighting-type Pokemon such as Cacturne, Pawniard, Sawk, and Gurdurr can cover Dusknoir's weaknesses to Ghost and Dark, respectively. Pokemon that appreciate Dusknoir's ability to Pursuit trap Psychic- and Ghost-types make for great teammates. For example, Garbodor appreciates Dusknoir's ability to trap Xatu, though Dusknoir will need a small amount of prior damage to score the OHKO. As Dusknoir can cripple walls with Trick, and lure and dispose of irksome defensive Pokemon such as Ferroseed with its offensive moves, teammates that can take advantage of this such as Feraligatr and Klinklang are solid choices. In a similar vein, Virizion and Sawk appreciate having Dusknoir cripple Pelipper and Gourgeist-XL.
+
+Other Options
+########
+
+A tank set running two attacks, Will-O-Wisp, and Pain Split is a possibility, though it generally fails to accomplish as much as the Choice Band set. Dusknoir has alternative coverage options available, such as Brick Break and Rock Slide. These moves are useful against specific targets, such as Pawniard and Mantine, respectively, though Dusknoir would rather not forgo any of the listed options. Shadow Punch is more powerful than Shadow Sneak, but lacks priority and is weak. Dusknoir can run a SubPunch set, though it is better off being played as an all-out offensive spinblocker, and Pokemon such as Poliwrath run SubPunch sets better. Dusknoir's access to Calm Mind and an array of special attacks make a special set a possibility, though its meager Special Attack and Speed limit the potential of such a set.
+
+Checks and Counters
+#######
+
+**Dark-types**: Dark-type attackers such as Pawniard, Cacturne, and Sneasel can put the hurt on Dusknoir, though they must be wary of the prospect of taking a hit from a super effective coverage move. If a foe such as Sneasel or Liepard happens to be running Pursuit, then it can hit a fleeing Dusknoir for great damage.
+
+**Physically Bulky Pokemon**: Many physically bulky Pokemon, such as Gurdurr, Seismitoad, Poliwrath, Gourgeist-XL, Pelipper, and Tangela, can take hits from Dusknoir. From there, they can cripple it with status, set up, or heal off damage taken from Dusknoir's attacks, though most need to be wary of Trick. Mega Audino gets a special mention for being unaffected by Trick.
+
+**Status**: Poison and burn from users of Toxic, Will-O-Wisp, and Scald, such as Seismitoad and Weezing, wear Dusknoir down and limit its longevity. Burn also weakens Dusknoir's physical potential.
+
+**Ghost-types**: Ghost-types such as Golurk and Mismagius hit Dusknoir hard with their super effective STAB moves and outspeed Dusknoir, assuming that it is not locked into Shadow Sneak.

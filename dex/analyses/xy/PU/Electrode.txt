@@ -1,0 +1,50 @@
+Overview
+########
+
+Electrode has a rather niche use as a rain starter in the PU metagame. It is suited for this with an extremely good Speed tier at base 140 Speed and also has an advantage over most other weather starters because of its access to Taunt. However, it cannot do much outside of this role, due to frail defenses making it hard for it to survive a hit, and it has mediocre offensive presence due to its average Special Attack and bad Attack, along with a bad movepool. Electrode has to be wary of other common leads such as Golem, Torterra, and Probopass, as it can only deal with them by running Hidden Power Water, Hidden Power Ice, and Hidden Power Fighting, respectively.
+
+Rain Lead
+########
+name: Rain Lead
+move 1: Rain Dance
+move 2: Thunder
+move 3: Taunt
+move 4: Explosion / Volt Switch
+ability: Soundproof
+item: Damp Rock
+evs: 252 HP / 64 SpA / 192 Spe
+nature: Timid
+
+Moves
+========
+
+Rain Dance is used to set up rain, allowing Electrode to support its team and perform its job. Thunder has high Base Power and can still hit somewhat hard even with base 80 Special Attack, and it also has perfect accuracy in the rain, giving Electrode something to do after using Rain Dance. Taunt can prevent opposing leads from setting up entry hazards or using Taunt on Electrode first. It also can mess up most manual weather starters. Explosion has the benefit of bringing in a rain abuser for free while still being able to deal a bit of damage to the Ground-types Electrode otherwise can't hurt. Volt Switch is another option that can be used to pivot out and save Electrode for later, but it usually means the switch-in has to take a hit first, making Explosion more preferable. Hidden Power Water can be used in order to hit common leads such as Golem, which would otherwise not mind any attacks from Electrode, although you should be wary of Sturdy Weakness Policy Golem. Hidden Power Water is also very weak against foes it is not 4x super effective on.
+
+Set Details
+========
+
+A Timid nature and 192 Speed EVs ensure that Electrode can outspeed Zebstrika. Maximum HP investment is used for some much needed bulk, and the rest is used in Special Attack. Soundproof allows Electrode to beat Pokemon such as Chatot, which relies on sound-based moves. Damp Rock makes the rain last for eight turns instead of five.
+
+Usage Tips
+========
+
+Electrode should almost always be used in the lead position to set up rain as soon as possible, especially because it also has a hard time switching in. Use Taunt on opposing entry hazard setters, although Electrode's top priority is to get rain up, so against leads that can OHKO Electrode it is better to set up rain first. After setting up rain and using Taunt if necessary, either use Explosion to bring in a rain abuser or use Thunder if Electrode can hurt its target. Be careful of using Taunt on Magic Coat users such as Leavanny, as it will mean Electrode cannot set up Rain Dance if it is bounced back. Be careful against leads such as Piloswine and Golem, as they can OHKO Electrode with Earthquake if Electrode uses Taunt or use Stealth Rock while Electrode uses Rain Dance.
+
+Team Options
+========
+
+Swift Swim abusers such as Poliwrath, Armaldo, Beartic, and Golduck are mandatory partners to benefit from the rain Electrode sets up. Entry hazard setters can help too by using entry hazards to gain chip damage, with examples being Roselia and Golem. Dedicated backup rain setters such as Volbeat and Poliwrath are helpful to get rain up in case Electrode fails to or if the rain stops, while other setters such as Relicanth and Carracosta have access to Stealth Rock to further support the team. Flying-types such as Dodrio and Swanna, which can break through bulky Grass-types, are great partners. Swanna also benefits from the rain by having perfectly accurate Hurricanes and boosted Water-type attacks. Electric-types such as Raichu and Rotom-F appreciate the ability to use Thunder without drawbacks and can take out opposing Water-types, while their Water-type teammates can remove problematic Ground-types.
+
+Other Options
+########
+
+Focus Sash is an option over Damp Rock, but it means that the rain will only last five turns, and making sure Electrode will survive an attack is not too important due to its great Speed tier. Thunder Wave or Toxic can be used in order to cripple the opposing lead, but Electrode has no room on its set for them. Magic Coat can be used to reflect entry hazards and Taunt, but Electrode should generally just be setting up rain. A special attacking set with Life Orb utilizing Foul Play could be used, but it is not recommended due to Electrode's barren movepool and underwhelming power. For similar reasons, Choice Specs Electrode is almost completely outclassed by other offensive Electric-types; it still does not hit very hard but gives a free switch in to Ground-types while Electrode is locked into an Electric-type move.
+
+Checks & Counters
+########
+
+**Ground-type Leads**: Electrode cannot really hurt Golem, Piloswine, or Marowak outside of using Explosion, while they can easily OHKO back with Earthquake. They also lead to 50/50 scenarios with Taunt and Earthquake or Stealth Rock and Rain Dance.
+
+**Other Weather Starters**: Sunny Day users that don't mind Electrode's moves, such as Victreebel, can KO Electrode and then set up Sunny Day, while other setters such as Murkrow and Volbeat can come in later in the game and remove rain. Hippopotas can also remove rain with Sand Stream, and is immune to Thunder.
+
+**Gourgeist Forms**: All the Gourgeist forms don't mind Explosion and Thunder, and they can threaten Electrode even if Taunted. They can also be a nuisance to Electrode's teammates with Leech Seed and Will-O-Wisp. As Electrode cannot immediately threaten them, its teammates waste valuable rain turns threatening them out.

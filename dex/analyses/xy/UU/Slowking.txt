@@ -1,47 +1,76 @@
 Overview
 ########
 
-Even though Slowking has an inferior Defense stat to Suicune, it is still a threat in UU. With the rare Water / Psychic typing shared only by Slowbro and Starmie, Slowking is offered numerous resistances to common Fire-, Fighting-, Water-, Ice-, Psychic-, and Steel-type moves. Backing these resistances are the ability Regenerator and access to the move Slack Off, both of which greatly improve Slowking's longevity, as well as solid 95/80/110 defenses. Slowking is no slouch offensively either, as it bears a respectable base 100 Special Attack and a diverse offensive movepool.
+As the only remaining Water / Psychic Pokemon in UU, Slowking has much to offer to the tier. Slowking fits on nearly every playstyle, as it has the potential to fill many possible roles with different sets. Its unique typing gives it an excellent set of resistances and is complemented by its great natural bulk. The ability Regenerator allows Slowking to stay healthy throughout the course of a battle and perform its role reliably. In addition, Slowking has a stellar movepool with a diverse set of boosting, attacking, and utility moves as well as guaranteed recovery in Slack Off. Its biggest flaws lie in its weaknesses to the common Dark-, Grass-, and Electric-types of the tier.
 
-While Slowking is much more susceptible to physical attacks, especially Knock Off, than Vaporeon is, it is able to carve out its own niche in the metagame with the ability to sponge special attacks much more effectively, standing up to threats such as Nidoking, Nidoqueen, Azelf, and Noivern. This, on top of its superior movepool with exclusive access to Nasty Plot and Dragon Tail, means that Slowking is able to fulfill a utility-based role that Vaporeon can't accomplish.
-
-Assault Vest
+Defensive
 ########
-name: Assault Vest
+name: Defensive
 move 1: Scald
-move 2: Psyshock
+move 2: Slack Off
 move 3: Dragon Tail
-move 4: Ice Beam / Fire Blast
+move 4: Calm Mind / Psyshock / Thunder Wave
 ability: Regenerator
-item: Assault Vest
-evs: 248 HP / 252 SpA / 8 SpD
-nature: Modest / Quiet
+item: Leftovers
+evs: 248 HP / 164 Def / 96 SpD
+nature: Sassy
 
 Moves
 ========
 
-Scald is Slowking's primary STAB move, allowing it to spread burns while inflicting damage. Psyshock is Slowking's other STAB move, hitting specially defensive Pokemon such as Roserade and Florges on their weaker Defense stat. Dragon Tail is one of the big selling points of Slowking, as it can phaze Pokemon, hindering setup sweepers as well as possibly inflicting further damage with entry hazards. Ice Beam and Fire Blast are both able to hit the Grass-types that Slowking tends to attract. Ice Beam is generally more useful, as it is able to hit Hydreigon and other Dragon-types super effectively. Fire Blast, however, deals much more damage to Steel-types, such as Forretress, Cobalion, and Escavalier.
+Scald is Slowking's main STAB move and is respectably strong while having a chance to burn enemies. Slack Off restores half of Slowking's health and, along with Regenerator, lets it easily stay healthy throughout a match. Dragon Tail is useful for racking up entry hazard damage on targets and preventing boosted Pokemon such as Suicune from sweeping. Defensive Slowking's fourth moveslot is variable: Calm Mind lets Slowking act as a win condition and works very well with Dragon Tail, which prevents opposing setup sweepers from boosting alongside it. Psyshock is another option that hits certain Pokemon such as Roserade and Crobat for more damage. Finally, Thunder Wave cripples some common offensive switch-ins, such as Hydreigon.
 
 Set Details
 ========
 
-Assault Vest boosts Slowking's excellent Special Defense to even greater heights, letting Slowking sponge a multitude of special attacks, even most of the ones it's weak to. Regenerator makes Slowking incredibly hard to wear down, restoring 33% of its HP upon switching out. The given EV spread maximizes Slowking's HP while giving it as much of an offensive presence as possible with the leftover EVs placed into Special Defense, as even without investment, Slowking's Special Defense is staggeringly high with Assault Vest equipped. However, if Slowking needs to take special attacks more easily, an alternate spread of 248 HP / 8 SpA / 252 SpD can be used to maximize Special Defense while allowing Slowking to OHKO offensive Roserade with Psyshock. A Quiet nature with 12 Attack EVs can be used so that Dragon Tail is able to reliably break Kingdra's Substitutes. Focus Blast can be used in the fourth moveslot to hit Dark- and Steel-types switching in, but be wary of its shaky accuracy. Grass Knot can also be used if your team requires support against bulky Water-types such as Swampert and Mega Blastoise, though it isn't useful for much else.
+With the given EV spread and nature, Slowking has great mixed bulk and is able to switch into both special attackers such as Life Orb Nidoqueen and physical attackers such as Choice Scarf Darmanitan. A Sassy nature is used over a Calm nature in order to maximize Dragon Tail's damage output. Regenerator restores 1/3 of Slowking's HP whenever it switches out, making it less reliant on using turns to Slack Off. Leftovers adds to Slowking's passive recovery. Alternatively, Slowking can use a more physically defensive spread to better handle the physical Fighting- and Fire-types of the tier.
 
 Usage Tips
 ========
 
-This Slowking set functions as an offensive pivot that doubles as a special tank, so it's best used when switching in on special attackers it's effectively able to check, sponging a hit, and responding with the appropriate coverage move. Pokemon such as Noivern, Nidoking, Nidoqueen, Starmie, and Porygon-Z are effectively checked by this set. Because of its ability Regenerator, switching in and out with Slowking is actually encouraged as it replenishes HP, offsetting damage taken from entry hazards, weaker or resisted attacks, and status. Thanks to Dragon Tail, Slowking is able to check most Calm Mind users in the tier and force them out. This allows it to keep them at bay, repeatedly deterring setup throughout the early- and mid-game phases. Assault Vest Slowking can even survive special attacks it's weak to in a pinch, including STAB moves from Chandelure, Roserade, Hydreigon, Rotom-H, Mega Houndoom, and Raikou, though it's not advised to let Slowking take these attacks unless Slowking is able to take out the attacker immediately afterward. For the most part, it's best to have a backup special wall to handle the aforementioned special attackers, which Slowking prefers not to deal with.
+Defensive Slowking is best used on balanced teams with a defensive partners to fall back upon. Slowking can use its great resistances to wall certain Pokemon such as Mienshao and Darmanitan, but it must be careful of switching into U-turn. Avoid letting Slowking get burned or poisoned, as both cripple it to the point of no longer being able to switch into Pokemon. Use Dragon Tail against obvious switches that can take any of Slowking's other moves, such as Shaymin. If using Calm Mind, do not attempt to sweep until powerful Electric- and Grass-types have been removed. While Slowking can phaze RestTalk Suicune, it cannot deal with Substitute + Calm Mind variants, which set up easily on Defensive Slowking that lack Calm Mind.
 
 Team Options
 ========
 
-Because this set is more of an offensive pivot that doubles as a special tank, backing from a specially defensive Pokemon that can handle special moves it normally doesn't want to take is helpful. Umbreon and Florges are both valuable, as they both cover some of Slowking's weaknesses. Florges is especially notable, as it can sponge Dark- and Bug-type moves for Slowking, while Slowking can check Nidoking, Nidoqueen, and Chandelure for Florges. Physically defensive Pokemon such as Mega Aggron, defensive Mega Ampharos, and Arcanine can form a defensive core with Slowking to cover physical and special attacks, taking the physical moves that Slowking otherwise falls victim to. These Pokemon are also notable for their ability to take Knock Off, a move that Slowking fares poorly against. Slowking has issues breaking through Florges, even with Psyshock, and Florges can't be forced out due to its immunity to Dragon Tail; partners who can take out Florges for Slowking, such as Crobat, Nidoking, Darmanitan, and Cobalion, are much appreciated. Because Slowking is able to phaze the opponent's Pokemon with Dragon Tail, entry hazard setters such as Qwilfish, Roserade, Chesnaught, Forretress, Donphan, and Mega Aggron are suitable partners, as the support they offer helps wear down the opposing team. Other Pokemon with Regenerator, such as Tangrowth, Amoonguss, and Mienshao, can form an annoying Regenerator core that outlasts the opponent's Pokemon through constant switching.
+Slowking is crippled by burns and poison, so cleric support is greatly appreciated. Florges is an example of a cleric that has great defensive synergy with Slowking. Pokemon that can deal with strong Electric- and Grass-type Pokemon are necessary as teammates. Chesnaught makes for an excellent partner, as it can check these types while also absorbing Knock Off and setting up Spikes to take advantage of Slowking's Dragon Tail. Amoonguss forms a Regenerator core with Slowking, has good synergy, and absorbs Toxic Spikes for Slowking.
 
-
-Physically Defensive
+Offensive Trick Room
 ########
-name: Physically Defensive
-move 1: Dragon Tail
+name: Offensive Trick Room
+move 1: Trick Room
+move 2: Scald / Surf
+move 3: Psyshock
+move 4: Fire Blast / Ice Beam / Nasty Plot
+item: Leftovers / Life Orb
+evs: 248 HP / 252 SpA / 8 SpD
+nature: Quiet
+ivs: 0 Spe
+
+Moves
+========
+
+Trick Room lets Slowking and its slower teammates move first in battle against most other Pokemon. Scald can be used as a Water-type STAB move to attempt to cripple switch-ins such as Empoleon early in the game while also deterring physical attackers from staying in on Slowking. Surf can be used instead for more power than Scald. Psyshock is Slowking's secondary STAB move and lets Slowking deal good damage to special walls. Slowking can use a coverage move in the final slot: Fire Blast hits Steel- and Grass-types harder than other moves, while Ice Beam hits the Grass- and Dragon-types that typically give Slowking trouble. Alternatively, Nasty Plot can be used to boost Slowking's Special Attack and complements its decent natural power, letting it defeat Pokemon such as Vaporeon and Calm Mind Suicune. Slowking has access to more coverage moves, including Grass Knot and Focus Blast.
+
+Set Details
+========
+
+Slowking's Special Attack is maximized with 252 EVs and a Quiet nature so that it can hit as hard as possible. 248 HP EVs give Slowking much-needed bulk and a favorable HP number. 0 Speed IVs combined with a Quiet nature allow Slowking to "outspeed" the entire tier under Trick Room. Leftovers increases Slowking's longevity and somewhat mitigates passive damage caused by status; on the other hand, Life Orb greatly increases Slowking's power, giving it an easier time against walls such as Vaporeon. Colbur Berry is an option to allow Slowking to reliably survive most Dark-type attacks and set up Trick Room, but this should only be used on fully offensive teams that revolve around Trick Room being set up.
+
+Usage Tips
+========
+
+This set works well on very offensive teams, especially those that have other members that can make use of Slowking's Trick Room. However, offensive Trick Room Slowking is also a good stand-alone sweeper and win condition that doesn't need to support its teammates, especially if it carries Nasty Plot. Slowking's bulk, typing, and recovery provided by Regenerator allow it to often set up multiple times in a game. It can set up on the plethora of Pokemon that can't do much to Slowking, including Suicune, Forretress, and Arcanine. On Trick Room teams, Slowking should use Trick Room first early-game on a setup opportunity to give itself and its teammates more options the following turn. However, it should use Nasty Plot first, followed by Trick Room, when attempting to sweep or wallbreak so that it has more turns to deal damage under Trick Room.
+
+Team Options
+========
+
+Slower Pokemon that can abuse Trick Room, such as Rhyperior, Mega Ampharos, and Snorlax, make for great partners to Slowking. In particular, Escavalier and Mega Abomasnow have great type synergy with Slowking; Slowking can stand up to the Fire- and Steel-types that give these two Pokemon trouble, while both of the two can handle Grass-types and Mega Abomasnow can check most Electric-types. Amoonguss forms a Regenerator core with Slowking, has fantastic synergy with it, and can make use of Trick Room. Entry hazard support, especially Toxic Spikes, makes it much easier for Slowking and its teammates to break down walls.
+
+Defensive Sweeper
+########
+name: Defensive Sweeper
+move 1: Calm Mind / Nasty Plot
 move 2: Scald
 move 3: Psyshock
 move 4: Slack Off
@@ -53,110 +82,100 @@ nature: Bold
 Moves
 ========
 
-Dragon Tail is listed first among Slowking's moves as the ability to phaze is what makes Slowking a viable option over the other bulky Water-types in the tier. Scald and Psyshock are STAB moves, the former being able to spread burns, and the latter hitting Pokemon such as Florges and Roserade harder. Slack Off gives Slowking a reliable way to regain HP without having to switch out.
+Calm Mind boosts Slowking's Special Attack and Special Defense, while Nasty Plot is an alternate choice that boosts Slowking's Special Attack more quickly but leaves it more vulnerable to special attackers. Scald and Psyshock are Slowking's STAB moves, the former of which threatens physical attackers and the latter of which helps Slowking defeat other Calm Mind users and special walls. Slack Off lets Slowking stay healthy while it boosts.
+
 
 Set Details
 ========
 
-The given EVs maximize Slowking's physical bulk while giving Slowking a high chance to OHKO offensive Roserade with Psyshock. With a Bold nature, Slowking is able to survive most physical hits easily, though not as well as Suicune. In exchange for lesser physical bulk, however, Slowking has an inherently good Special Defense stat that should not be overlooked; this makes it somewhat of a mixed wall to an extent. Regenerator enables Slowking to recover HP as it switches, which is essential as this is a highly defensive set that relies on having as much HP as possible in order to do its job.
+The EVs and nature maximize Slowking's Defense. No Special Defense investment is needed if it will be boosted with Calm Mind, but a mixed spread of 248 HP / 164 Def / 96 SpD with a Calm nature can be used if Nasty Plot is the boosting move of choice. Regenerator restores 33% of Slowking's HP upon switching out, allowing it to be less reliant on Slack Off. Leftovers provides Slowking with additional passive recovery and keeps it healthy in tandem with Regenerator and Slack Off.
 
 Usage Tips
 ========
 
-This set exchanges better physical bulk for the ability to phaze with Dragon Tail. Take advantage of the phazing support it offers by pairing Slowking with entry hazard setters to help rack up damage throughout the opponent's team. You should also use Dragon Tail to oust Pokemon trying to set up on Slowking, such as Reuniclus and Suicune. As this set takes physical hits better than any of Slowking's other sets, it allows Slowking to more effectively check physical attackers such as Darmanitan, Cobalion, Victini, Crobat, Toxicroak, and Mienshao. Despite Slowking's inherently good Special Defense stat, this set's ability to survive special attacks is poor compared to the Assault Vest set, so try not to let Slowking take them unless it is either absolutely necessary to do so, or they are resisted hits. As Slack Off allows Slowking to recover HP without switching out, take use it to wear down opposing Pokemon passively through recoil or status when applicable.
+This set works best on balanced teams that need a win condition against opposing Calm Mind users such as Suicune and Florges. Slowking can check and set up on Fire- and Fighting-types thanks to its typing. However, it should not attempt to sweep while faster powerful attackers with super effective moves, such as Mega Ampharos, Krookodile, and Shaymin, remain healthy on the opponent's side.
 
 Team Options
 ========
 
-Pokemon such as Cobalion, Mega Aggron, Mega Ampharos, and Chesnaught partner well with physically defensive Slowking, as they can easily switch into Knock Off for it. Chesnaught is a noteworthy partner, as a core of Chesnaught and Slowking can stand up to the majority of the physical attackers in the tier. Slowking's ability to stand up to physical attackers allows it to form a defensive core with Pokemon that can take special attacks, such as Umbreon and Florges. Entry hazard setters such as Hippowdon, Mega Aggron, Forretress, Chesnaught, and Roserade can stack entry hazards to make phazing with Dragon Tail more damaging to the opponent's team. These Pokemon also appreciate Slowking's ability to handle Fire-type moves such as V-create and Flare Blitz from Victini and Darmanitan.
+Slowking pairs well with Florges or Aromatisse, as Slowking checks Fire- and Steel-types while the Fairies check other special attackers and provide Slowking with cleric support. Toxic Spikes must be cleared for this set to perform its role; Roserade absorbs them, has good synergy with Slowking, and can also set up Toxic Spikes of its own. Guts Machamp can take advantage of status directed at Slowking and can check threats such as Hydreigon.
 
-Choice Specs
+Assault Vest
 ########
-name: Choice Specs
-move 1: Scald / Surf
-move 2: Psyshock
-move 3: Ice Beam / Fire Blast
-move 4: Trick / Focus Blast
+name: Assault Vest
+move 1: Scald
+move 2: Psychic / Psyshock
+move 3: Dragon Tail
+move 4: Fire Blast / Ice Beam
 ability: Regenerator
-item: Choice Specs
-evs: 248 HP / 252 SpA / 8 SpD
+item: Assault Vest
+evs: 248 HP / 252 SpA / 8 Spe
 nature: Modest
 
 Moves
 ========
 
-Scald is preferred as Slowking's Water-type STAB move, as it's capable of inflicting burns, but Surf can be used for maximum damage output. Psyshock is necessary to hit Pokemon such as Florges and Roserade on their weaker physical Defense stat. Ice Beam and Fire Blast both hit the Grass-types that check Slowking; Ice Beam also nails Hydreigon and other Dragon-types, while Fire Blast immediately dispatches Steel-types such as Forretress, Cobalion and Escavalier. Trick is preferred for the last moveslot, as crippling special walls such as Florges, Umbreon, and Snorlax can prove to be invaluable in helping Slowking or its teammates, though Focus Blast allows Slowking to deal serious damage to Dark-types switching in. Grass Knot can also be used in the fourth moveslot if your team requires more support against bulky Water-type Pokemon; with Choice Specs, it's capable of nabbing a 2HKO on Mega Blastoise, Jellicent, Suicune, and Swampert.
+Scald is Slowking's best Water-type STAB move and is respectably powerful with a chance to burn its targets. Either Psychic or Psyshock can be used as the second STAB move; Psychic hits harder overall, while Psyshock does more damage to special walls such as Vaporeon and Blissey. Dragon Tail is a very useful move that deters foes from setting up and provides chip damage on Slowking's switch-ins. Fire Blast deals considerable damage to Steel- and Grass-types, such as Mega Aggron and Shaymin, respectively. Alternatively, Ice Beam can be used to hit Grass- and Dragon types, including Hydreigon, one of Slowking's most common switch-ins. Other possible coverage moves include Focus Blast, which hits certain special walls such as Umbreon, and Grass Knot, which hits opposing Water-types such as Swampert and Mega Blastoise.
 
 Set Details
 ========
 
-With a Modest nature and Choice Specs, Slowking reaches the full potential of its strength. Regenerator is Slowking's best ability, giving it access to reliable recovery while dealing damage throughout a match. The EVs listed give Slowking as much bulk and power as possible.
+Assault Vest allows Slowking to easily tank most special attacks from the likes of Nidoqueen, Dragalge, and Mega Pidgeot. 252 EVs are placed into Special Attack with a Modest nature to allow Slowking to hit as hard as possible, complementing its respectable base 100 Special Attack. 248 EVs in HP give Slowking great bulk and a favorable HP number. The remaining 8 EVs are placed into Speed to let Slowking outspeed other base 30 Speed Pokemon, such as Snorlax, Amoonguss, and opposing Slowking. Regenerator restores 33% of Slowking's HP when it switches out, enabling it to stay relatively healthy throughout the length of a battle. A Quiet nature with the extra 8 EVs placed into Special Defense can be used in order for Dragon Tail to hit slightly harder.
 
 Usage Tips
 ========
 
-Be advised that this set is significantly less bulky than the Assault Vest set, so Slowking's ability to switch in and out on attacks is reduced. With Regenerator, Slowking differentiates itself from other Choice item users, as they get worn down as they switch in and out repeatedly to change attacks, while Slowking receives 33% of its HP back when it switches out. This greatly eases the punishment associated with predicting incorrectly, though bear in mind that this doesn't grant Slowking absolute freedom to use any move; Slowking, like any other Choice item user, still relies heavily on using the correct move to put pressure on the opponent. On top of this, Slowking is slow, meaning it also depends on either hitting a Pokemon switching in or taking a blow and retaliating. Due to the surprise value of Trick, it's best to use the move after revealing to the opponent that Slowking is holding Choice Specs, as special walls like Umbreon and Florges will be much more likely to switch in on Slowking in the hopes of forcing it out and getting free turns.
+This set works well on bulky offense and functions as a pivot and a special tank while also hitting hard thanks to the investment in Special Attack. Slowking can check a large number of special attackers and can switch into those that don't have a STAB super effective move, such as Nidoqueen, Infernape, and Alakazam. In addition, it can check specially-oriented setup sweepers that lack Substitute thanks to Dragon Tail. If absolutely necessary, Slowking can tank super effective STAB moves from full health such as Choice Scarf Hydreigon's Dark Pulse, Life Orb Shaymin's Seed Flare, and Mega Ampharos's Thunderbolt.
 
 Team Options
 ========
 
-Choice Specs Slowking's hit-and-run nature lends it to being switched in and out numerous times, so partners that can cover its weaknesses allow it to constantly switch in much more easily. Grass-types such as Roserade, Shaymin, and Amoonguss can take the Grass- and Electric-type moves aimed at Slowking. Dark-types such as Hydreigon, Umbreon, and Mega Houndoom can switch in on the Dark- and Ghost-type moves directed at Slowking; the former two also check most Electric-type attackers while all three can check most Grass-types. Pokemon that can take the Bug- and Grass-type moves aimed at Slowking such as Chandelure, Arcanine, and Crobat are appreciated, as are Ground-types like Hippowdon, Nidoking, Nidoqueen, and Swampert, which can absorb the Electric-type moves that Slowking is weak to. In return, Slowking can check most of the bulky Water-type Pokemon that give these Pokemon trouble, especially if it opts to run Grass Knot.
+A burn or poison severely hampers Slowking's ability to check special attackers, so a status absorber or a cleric is useful. Guts Heracross works particularly well as a partner, as it absorbs status and pressures the defensive Pokemon that give Slowking trouble. Florges and Aromatisse have good synergy with Slowking, and the former can check some special attackers that give Slowking trouble, such as Mega Blastoise, Mega Ampharos, and Hydreigon. Chesnaught is a good physically defensive Pokemon to pair with Slowking; it provides Spikes to complement Slowking's Dragon Tail and can check certain Pokemon that give Slowking trouble, such as Roserade.
 
-
-Offensive Trick Room
+Choice Specs
 ########
-name: Offensive Trick Room
-move 1: Trick Room
-move 2: Scald / Surf
-move 3: Focus Blast / Fire Blast
-move 4: Psyshock / Nasty Plot
+name: Choice Specs
+move 1: Surf / Scald
+move 2: Psyshock / Future Sight
+move 3: Fire Blast / Ice Beam
+move 4: Trick
 ability: Regenerator
-item: Leftovers / Life Orb
-evs: 248 HP / 252 SpA / 8 SpD
-nature: Quiet
-ivs: 0 Spe
+item: Choice Specs
+evs: 248 HP / 252 SpA / 8 Spe
+nature: Modest
 
 Moves
 ========
 
-Trick Room allows Slowking to support itself and its teammates by making faster Pokemon move second for five turns. Scald is preferred over Surf for the potential burn chance it offers, but Surf can still be used to give Slowking as much power as possible. Focus Blast is the preferred choice over Fire Blast, as it has better overall coverage, hitting Dark- and most Steel-type Pokemon for super effective damage. However, Focus Blast's shaky accuracy can be off-putting, and Fire Blast allows Slowking to readily take out Grass- and Steel-type Pokemon. Ice Beam can be used in the third moveslot but Slowking gets more use out of Focus Blast and Fire Blast, as they both have better power and coverage, which is essential considering Slowking has a limited number of turns to attack after setting up Trick Room. Psyshock is Slowking's backup STAB option, allowing it to cover even more Pokemon, targeting Florges and Roserade on their weaker defensive stat. If Psyshock's additional coverage is not needed, Nasty Plot can be used to make Slowking much more threatening under Trick Room. Nasty Plot also allows Slowking to become a greater offensive threat against defensive teams that aren't adversely affected by Trick Room.
+Surf is Slowking's most powerful Water-type STAB move; Scald is nearly as powerful and has a chance to burn targets. Psyshock hits special walls such as Blissey on their weaker physical defense; Future Sight is enormously powerful and puts huge pressure on opposing switch-ins. Fire Blast and Ice Beam both hit Grass-types that can otherwise switch in easily to Slowking, but Ice Beam also hits Dragon-types such as Hydreigon and Mega Ampharos for super effective damage. Trick cripples special walls that give Slowking trouble, such as Umbreon and Vaporeon. Alternate moves include Focus Blast, which deals major damage to many of Slowking's switch-ins such as Umbreon, Porygon2, and Empoleon, and Grass Knot which dents opposing Water-types, such as Suicune and Mega Blastoise.
 
 Set Details
 ========
 
-With a Quiet nature and a Speed IV of 0, Slowking is as slow as possible, which allows it to outspeed nearly the entire tier under Trick Room. With maximum HP and Special Attack, Slowking gets the bulk it needs to take hits while being able to hit as hard as possible. Regenerator restores Slowking's HP as it switches out, allowing it to set up Trick Room multiple times in a match if needed. Leftovers increases Slowking's longevity by giving it passive recovery and is the recommended item when running Nasty Plot. Life Orb is still usable, as Regenerator offsets the recoil damage it causes when Slowking attacks. Life Orb also allows Slowking to hit as hard as it possibly can, and it is especially favorable if Nasty Plot is not chosen, as if so, Slowking has no other means of boosting its power. If extra bulk is required, a specially defensive spread of 248 HP / 8 SpA / 252 SpD with a Sassy nature can be used, with Nasty Plot to compensate for Slowking's lesser offensive presence. Slack Off can also be used to keep Slowking healthy without the need to switch, but this means it loses offensive potential by giving up either Nasty Plot or one of its coverage options.
+Special Attack is maximized with 252 EVs and a Modest nature to hit as hard as possible. Choice Specs enables Slowking to function as a surprisingly strong wallbreaker. 248 EVs in HP are used to make Slowking bulkier, as significant Speed investment is not necessary thanks to Slowking's dismal base Speed. The 8 remaining EVs are placed into Speed to outspeed other base 30 Speed Pokemon such as Amoonguss and Snorlax. Regenerator makes it difficult for enemies to wear Slowking down and allows it to use its resistances to switch in multiple times throughout a game.
 
 Usage Tips
 ========
 
-Because setting Trick Room up is the primary goal of this Slowking set, use the move as soon as the opportunity presents itself; from there, Slowking can go on the offensive, turning the Speed stats of faster Pokemon against them. If Slowking is running Nasty Plot, it's preferred to use it on a weaker move or a predicted switch, followed by setting up Trick Room afterward. This allows Slowking to have as many offensive turns as possible after setting up, making it an immediate threat for the opponent. Never set Nasty Plot up after using Trick Room unless it's absolutely necessary, because this will cost Slowking a vital turn it could be using to attack. Sadly, Slowking's selection of coverage choices will always leave it walled by something, so adjust your team according to what Slowking has trouble breaking through. With Fire Blast and Psyshock, Slowking will be unable to beat Umbreon and Hydreigon. The combination of Focus Blast and Psyshock leaves Slowking walled by Celebi and Chesnaught to a lesser extent, as Chesnaught's Defense allows it to survive a Psyshock if Life Orb is not chosen. With only Scald and Fire Blast, Slowking is walled by all bulky Water-types in the tier except Swampert, as well as Dragon-types such as Hydreigon, Noivern, and Mega Ampharos. With only Scald and Focus Blast, Celebi, Roserade, Noivern, and Chesnaught are able to stop Slowking short. Lastly, Jellicent, and Starmie will wall Slowking by virtue of their typing regardless of what moves Slowking chooses to run.
+Choice Specs Slowking works best on bulky offense. It can serve as a check to several attackers due to its bulk and typing and proceed to fire off powerful Choice Specs-boosted attacks. Use an appropriate coverage move on Pokemon that are likely to switch in initially, such as Psyshock on Roserade or Ice Beam on Hydreigon. Use Trick to cripple walls and bulky setup sweepers, such as Umbreon and CurseLax, respectively. Follow up Future Sight by pivoting into another powerful wallbreaker that can defeat Pokemon that are likely to switch in.
 
 Team Options
 ========
 
-Slowking's use of Trick Room offers great support to Pokemon who can abuse it for themselves, such as Choice Band Snorlax, Reuniclus, Escavalier, Mega Ampharos, Exploud, and Druddigon. Druddigon, Mega Ampharos, and Escavalier also have notable synergy with Slowking, each covering some of its weaknesses. Pokemon that also set Trick Room, such as Aromatisse, Cofagrigus, Porygon2, and Bronzong, are able to support Slowking as well as the rest of their team.
+Slowking appreciates partners that are immune to Volt Switch, as it cannot OHKO most Electric-types and is forced out after they switch in. Mega Sceptile works well, as it checks most Electric- and Grass-types and appreciates Slowking's ability to wear down or cripple special walls. Physical wallbreakers such as Lucario and Darmanitan can break through many of Slowking's counters. Heracross has fantastic synergy with Slowking, especially if Slowking carries Future Sight, as Heracross destroys all Pokemon that can take a Choice Specs-boosted Future Sight, such as Umbreon and Empoleon. Choice Band Goodra also has great synergy with Slowking, especially with Sap Sipper, and it can defeat opposing special walls. Trick Room support can turn Choice Specs Slowking into a "fast" wallbreaker, although Slowking doesn't synergize well with most Trick Room setters.
 
 Other Options
 ########
 
-With its king-sized movepool, Slowking has a large stock of options at its disposal. Psychic can be used instead of Psyshock to deal more damage to physically defensive Pokemon, but it does much less to Florges and Roserade. Shadow Ball can be used to hit Ghost- and Psychic-types harder but it has little other utility outside of this. Slowking can use Curse to patch up its weaker defensive stat and boost its Attack, with access to usable physical moves such as Aqua Tail, Earthquake, Drain Punch, and Zen Headbutt. However, it is outclassed as a Curse sweeper by Mega Aggron and Snorlax, and its base 75 Attack stat leaves much to be desired even after a boost. Status moves such as Toxic, Thunder Wave, and Yawn are at Slowking's disposal, though they are difficult to fit into any of its sets. Supportive moves such as Magic Coat, Sunny Day, Rain Dance, Light Screen, and Disable are also available, but once again, are difficult to fit into any of Slowking's movesets. Foul Play can see some use to badly injure some of the physical attackers switching in on Slowking, though most of them are dealt with by the appropriate coverage move. Counter can also be used to surprise a physical attacker, compensating for Slowking's weaker Defense stat, though it is very situational and prediction-reliant. Block can be used to trap defensive Pokemon that can't beat Slowking, such as Vaporeon or Florges, and possibly even stall them out with Toxic and Slack Off, but there are better ways to deal with these Pokemon. Lastly, Belly Drum is in Slowking's movepool and can be fierce in conjunction with Trick Room, but Slowking is still susceptible to Sucker Punch, and it will have difficulty setting up both moves.
-
+Flamethrower is a more accurate alternative to Fire Blast on offensive variants of Slowking. Defensive variants can use Counter and Foul Play, although these moves are very situational. Slowking can also use Toxic on defensive sets to cripple certain switch-ins, such as Vaporeon and Mega Blastoise. A RestTalk set with Dragon Tail and Scald is plausible, as it negates any status inflicted on Slowking. Finally, Slowking has access to Curse and physical attacks such as Aqua Tail, Zen Headbutt, Drain Punch, and Earthquake.
 
 Checks & Counters
 ########
 
-**Physical Attackers**: Physical attackers carrying super effective moves, especially Knock Off, are threats to Slowking. The physically defensive set is an exception to an extent, but Pokemon such as Life Orb Mienshao, lygon, Victini, and Snorlax can all deal serious damage to Slowking with the correct moves. However, most physical attackers can't switch in directly due to the risk of being burned by Scald.
+**Electric- and Grass-types**: Powerful attackers such as Heliolisk and Life Orb Shaymin force Slowking out immediately, though they must watch out for Choice Specs-boosted attacks. All Electric-types and Natural Cure Grass-types do not fear paralysis from Slowking's Defensive set. Whimsicott can switch into almost all of Slowking's moves and threaten it with a Grass move or lock it into a setup move with Encore. Mega Ampharos can take all of Slowking's attacks and keep itself healthy with Rest.
 
-**Special Walls**: Specially defensive Pokemon such as Florges, Umbreon, and Assault Vest Snorlax are capable of checking Slowking and forcing it out, though all three have to be wary of switching in on Trick from the Choice Specs set. The latter two can also be dealt with by Focus Blast, and Snorlax will be severely crippled by a burn from Scald.
+**Dark-types**: Hydreigon is one of Slowking's best answers, as it only has to fear Thunder Wave and Choice Specs Ice Beam or Focus Blast. Powerful Knock Off users such as Mega Absol and Krookodile can cripple or KO Slowking, though they have trouble switching into Scald or Trick Room.
 
-**Dark-types**: Dark-types such as Mega Absol, Krookodile, Hydreigon, and Honchkrow may not always be able to switch in freely on Slowking unless it uses Psyshock, but they are able to revenge kill it, forcing Slowking out with the threat of being punished by their STAB moves. Honchkrow and Krookodile are especially dangerous for Slowking to deal with, as their access to Pursuit and Moxie means that Slowking can be trapped and KOed, giving them a free +1 Attack boost in the process.
+**Status**: All Slowking variants are crippled by Toxic and severely hampered by burns. Defensive Pokemon that carry Toxic, such as Blissey, can switch into Slowking easily and inflict status on it. Toxic Spikes can cripple or put heavy pressure on Slowking.
 
-**Grass-types**: Grass-types such as Celebi, Roserade, and Shaymin can deal serious damage to Slowking, even if it carries Assault Vest. However, they all have to be wary of Fire Blast or Ice Beam, though Celebi and Shaymin have the natural bulk needed to survive a hit and threaten Slowking back afterward.
-
-**Ghost-types**: Ghost-types like Chandelure, Trevenant, and Cofagrigus hit Slowking super effectively with their Ghost-type STAB moves, though Chandelure locked into a Fire-type move allows Slowking to come in freely, Cofagrigus has to beware of being worn down by Scald burns, and Trevenant has to worry about switching in on Fire Blast or Ice Beam. Trevenant, in particular, is a big issue for Slowking once it comes in, as both of its STAB moves in Wood Hammer and Shadow Claw seriously hurt Slowking, and it can be very painful to deal with if it sets up a Substitute as Slowking switches out.
-
-**Electric-types**: Electric-types such as Raikou, Jolteon, Magneton, and Mega Ampharos are capable of destroying Slowking with Thunderbolt, though the Assault Vest set can stomach a blow and retaliate, and they all take a fair amount of damage switching in on any of Slowking's offensive sets. These Pokemon are all able to use Volt Switch as Slowking is forced out, gaining momentum and making the appropriate switch. Raikou is especially dangerous, as SubCM variants are able to set up for free as Slowking switches out.
-
-**Psychic-types**: Psychic-types like Celebi, Cresselia, and bulky Starmie can switch into Slowking easily, as they don't take much from any of its attacks and have access to recovery to offset damage from Scald burns.
-
-**Bulky Water-types**: Bulky Water-types such as Gastrodon, Jellicent, Mega Blastoise, and Empoleon all are able to switch in on Slowking, as they resist Scald, take little from Psyshock, and in the case of the former three, have recovery to offset burn damage, although Grass Knot deals respectable damage to all of them but Empoleon. Each of them is able to inflict Slowking with status, set up or clear entry hazards against it, or in the case of Jellicent and Mega Blastoise, hit it super effectively.
+**Empoleon**: Slowking can damage Empoleon with only the very rare Focus Blast. Empoleon can wear Slowking down with Scald and phaze Slowking with Roar if it tries to set up.

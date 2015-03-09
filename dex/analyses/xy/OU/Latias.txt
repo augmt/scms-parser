@@ -1,17 +1,17 @@
 Overview
 ########
 
-Blessed with excellent Speed, typing, and bulk, Latias is a force to be reckoned with. Due to its unique Dragon / Psychic typing and access to reliable recovery, Latias is able to consistently check various Pokemon in OU, including Mega Charizard Y, Keldeo, Landorus, and Rotom-W. Latias also sports a decent amount of offensive presence which, while not as much as Latios, is still enough to threaten offensive Pokemon such as Landorus. Due to the changed mechanics of Defog, Latias has now gained a new niche in the metagame as an offensive Defog user. Latias faces seemingly enormous competition from Latios for this role due to Latios's increased damage output, but Latias's extra bulk gives it the ability to switch into more threats, and the edge over Latios it needs to be a prime choice for many teams.
+Excellent Speed, typing, and bulk make Latias a solid threat in OU. By virtue of its Dragon / Psychic typing and reliable recovery, Latias checks common threats such as Thundurus, Landorus, Mega Charizard Y, Rotom-W, Celebi, Starmie, and Keldeo. Latias has an excellent support movepool, most notably including Healing Wish to revive setup sweepers and Defog to clear entry hazards. With access to Stored Power and a significantly bulkier Mega Evolution, Latias has regained its role as a Calm Mind user.
 
-Unfortunately, Latias has a few minor flaws preventing it from being a top-tier threat. Due to its mediocre power and coverage, Latias is fairly easy to wall and cannot break through bulkier Pursuit trappers such as Tyranitar. Latias's typing, while blessing it with several key resistances, plagues it with weaknesses to common Fairy-, Dark-, Ice-, Ghost-, and Bug-type moves, leaving it vunerable to a number of commonly used Pokemon.
+However, Latias faces competition from its twin, Latios, due to its greater offensive presence. Latias is also troubled by common Steel- and Fairy-types in OU, such as Heatran, Scizor, Mega Metagross, Bisharp, Ferrothorn, Clefable, and Azumarill, which prevent it from constantly using its STAB moves and threaten to OHKO or severely damage Latias. Despite its useful resistances, Latias is weak to common attacking types such as Dark, Ice, Bug, Fairy, and Dragon.
 
-Bulky Defog
+Offensive Support
 ########
-name: Bulky Defog
+name: Offensive Support
 move 1: Defog
 move 2: Draco Meteor
-move 3: Psyshock / Hidden Power Fire / Thunderbolt
-move 4: Roost / Healing Wish
+move 3: Psyshock / Thunderbolt
+move 4: Healing Wish / Roost
 ability: Levitate
 item: Life Orb
 evs: 72 HP / 184 SpA / 252 Spe
@@ -20,41 +20,37 @@ nature: Timid
 Moves
 ========
 
-Due to having good bulk, a good set of resistances, and above-average offensive presence, Latias is one of the best offensive Defog users in the metagame. While Latios has even more offensive presence than Latias, Latias has higher bulk and thus the ability to come in safely on more threats than Latios, making it a more consistent Defog user. Draco Meteor is Latias's primary STAB attack, and is a great nuke capable of OHKOing many offensive threats, including Landorus, Keldeo, and Thundurus.
-
-Choosing what coverage move to run in the third slot depends on what your team needs. Psyshock serves as a secondary STAB attack, hitting Mega Venusaur and Fighting-types such as Conkeldurr, Terrakion, and Breloom for super effective damage. Hidden Power Fire functions as a way of hitting Steel-types such as Ferrothorn, Scizor, and Bisharp, which often switch into Latias super effectively. Lastly, Thunderbolt is an option if hitting Mandibuzz, Skarmory, and Water-types such as Azumarill, Slowbro and Suicune for super effective damage is important to your team. Choosing what move to run in the last moveslot decides how you want your Latias to function. Roost gives Latias reliable recovery, making it able to switch into threats such as Landorus, Keldeo, and Mega Charizard Y multiple times. However, if your team already has these threats covered and benefits more from Healing Wish's utility, use it over Roost.
+Defog clears all entry hazards from the field to support the team. Draco Meteor is a powerful STAB move that deals heavy damage to many offensive Pokemon such as Landorus, Thundurus, Mega Pinsir, Mega Gallade, and Mega Manectric. Psyshock is a secondary STAB move that targets specially bulky Pokemon such as Chansey, Sylveon, and Azumarill, as well as Fighting- and Poison-types such as Keldeo, Breloom, Conkeldurr, Gengar, Mega Venusaur, and Amoonguss. Alternatively, Thunderbolt hits bulky Water- and Flying-types such as Azumarill, Suicune, Skarmory, and Mandibuzz. Thunderbolt also retains coverage on Keldeo, one of the most important Pokemon Latias is used to check. Healing Wish revives a weakened setup sweeper, giving it a second chance to sweep. Roost can be used if the utility of Healing Wish is not needed for your team, and it allows Latias to check said threats multiple times throughout a battle. Hidden Power Fire hits Steel-types such as Bisharp, Scizor, and Ferrothorn for super effective damage. Hidden Power Fighting scores an OHKO on Bisharp whereas Hidden Power Fire cannot, as well as dealing solid damage to Heatran, Ferrothorn, and Tyranitar. Surf is yet another coverage move that hits both Landorus formes, Gliscor, Hippowdon, Excadrill, and Heatran for solid damage. Alternate combinations of these moves apart from the given choices, such as a set with three attacks and Healing Wish, can be used if Defog support is not necessary; a set with Healing Wish, Roost, and two attacks can also be used.
 
 Set Details
 ========
 
-The EVs are designed to make Latias bulky enough to come in on resisted or neutral hits from various offensive threats, while still maintaining offensive presence. 72 EVs are put in HP, which increases Latias's bulk to the point at which it always avoids the 2HKO from Life Orb Thundurus's Hidden Power Ice, and also makes Latias hit a Life Orb number. 184 EVs in Special Attack with a Life Orb equipped are enough for Latias to always OHKO Landorus with Draco Meteor after damage from Stealth Rock. Latias's fantastic Speed tier lets it outspeed many key threats; as such, running maximum Speed with a Timid nature is required.
-
-A bulkier spread of 152 HP / 104 SpA / 252 Spe can be run to always avoid the 2HKO from Timid Mega Charizard Y's Fire Blast after damage from Stealth Rock, while still having a Life Orb number in HP. To reliably take on Life Orb Thundurus with Stealth Rock on your side, Leftovers can be run over Life Orb. However, when running Leftovers, you are advised to use an EV spread of 160 HP / 96 SpA / 252 Spe to never be 2HKOed by Life Orb Thundurus's Hidden Power Ice.
+A Timid nature and maximum Speed investment is used to outspeed base 108 Speed Pokemon such as Keldeo and Terrakion and tie with opposing base 110 Speed Pokemon such as Mega Gallade, Latios, Latias, and Gengar. The given EV spread lets Latias avoid the 2HKO from Life Orb Thundurus's Hidden Power Ice without Stealth Rock damage and also hits a Life Orb number. Subsequently, the remaining 184 Special Attack EVs guarantee the OHKO on Landorus after Stealth Rock damage. Alternatively, a spread of 104 HP / 152 SpA / 252 Spe lets Latias survive a Life Orb-boosted Knock Off from Landorus after Stealth Rock damage. Lastly, a simple EV spread of 252 SpA / 4 SpD / 252 Spe can be used if hitting hard is more beneficial to your team than the bulk.
 
 Usage Tips
 ========
 
-Thanks to its good bulk and key set of resistances, Latias is able to come in on hard hitters such as Keldeo, Landorus, Breloom, and Rotom-W. The utility Defog provides is great for any team, and bringing Latias in to clear hazards is appreciated at any time of the match. If the opponent has a potential Pursuit trapper, such as Tyranitar and Bisharp, you will have to play carefully with your Latias, because letting the opponent get their Pursuit user in against your Latias means that it is checkmated. Pokemon with the ability Defiant may take advantage of your Defog, so playing carefully around Defiant users such as Bisharp is advised as well. Lastly, the likes of Thundurus and Landorus sometimes run Knock Off to lure in and hit Latias hard on the switch, which is something you should consider when playing against these Pokemon.
+Latias should pivot into Pokemon that it walls or can take a hit from, such as Keldeo, Thundurus, Landorus, Rotom-W, Starmie, Celebi, and Mega Charizard Y. Despite being Latias's strongest attack, Draco Meteor should be used sparingly due to the numerous Pokemon that resist or are immune to it, and the Special Attack drops can give setup opportunities to deadly sweepers such as Mega Gyarados, Mega Scizor, Mega Sableye, Mega Diancie, and Bisharp. However, Draco Meteor's high power is important when revenge killing threats such as the aforementioned Landorus. That being said, Psyshock is often a fairly safe attack to go for, provided the opponent does not have a Dark-type. It is important to scout for coverage moves from the Pokemon that Latias typically walls, such as Icy Wind from Keldeo, Knock Off or Hidden Power Ice from Landorus and Thundurus, and Ice Beam from Starmie. Use Latias's support moves when given the opportunity versus the Pokemon it checks. Keep in mind that it is important to preserve Latias throughout the battle if the opponent has threats such as Mega Charizard Y or Keldeo.
 
 Team Options
 ========
 
-Pokemon which appreciate hazards gone, such as Mega Charizard X, Mega Charizard Y, Mega Pinsir, Dragonite, and Thundurus make good teammates as they can take advantage of Latias's utility. If Latias is running Healing Wish, Focus Sash users such as Mamoswine, Breloom, Terrakion, Bisharp, Diggersby, and Garchomp make great use of Latias's utility as it can reinstate their Focus Sashes by clearing hazards and then fully healing them with Healing Wish.
-
-If Latias is running Roost, Fighting-types such as Keldeo and Breloom are great teammates, as they are capable of switching into and threatening the common Pursuit users that like to trap Latias. Synergy-wise, Ferrothorn and Scizor make good teammates, as they both resist Dragon- and Fairy-type moves. In return, Latias resists the Fire- and Fighting-type attacks which threaten Ferrothorn and Scizor. Lastly, Clefable makes for a great defensive teammate, as it takes on Greninja and Kyurem-B, while also being capable of setting up Stealth Rock to pressure the opposing team.
+Fighting-types such as Keldeo, Conkeldurr, and Mega Lopunny make for excellent teammates, as they check Dark-types, particularly Bisharp. Fairy-types such as Clefable and Azumarill threaten opposing Dragons and check most Dark-types apart from Bisharp. Azumarill also appreciates Latias's ability to switch into Grass- and Electric-type attacks. Setup sweepers such as Mega Charizard X, Calm Mind Keldeo, Swords Dance Mega Scizor, Dragon Dance Gyarados, Belly Drum Azumarill, and Manaphy value the support provided by Healing Wish.
 
 Other Options
 ########
 
-Latias has many other viable options due to its excellent movepool. Surf is a viable option as an attacking move alongside Draco Meteor, as it hits Heatran, Excadrill and Landorus for super effective damage. Hidden Power Fighting can be run so that Latias can act as a lure to Pursuit users such as Bisharp and Tyranitar, and deal a significant amount of damage to them. If Latias is running Leftovers, running Ice Beam is an option to OHKO Landorus, which Latias wants to counter but may not be able to due to the lack of Life Orb. A dual screens set can be used, as Latias's high Speed allows it to set up Light Screen and Reflect fairly quickly and then give a safe switch-in to sweepers such as Dragonite with Healing Wish. However, Defog ruins this strategy and such a set is generally outclassed by Azelf. Calm Mind can be used to turn Latias into a devastating sweeper; however, Calm Mind Latias is generally less effective than it was in past generations due to the introduction of Fairy-types and a new slew of defensive threats.
+A defensive set with moves such as Wish and Reflect Type has some merit, but Latias is generally outclassed as a defensive Psychic-type by Pokemon such as Celebi, Slowbro, and Cresselia. A dual screens set provides support for setup sweepers, but this role is generally better done by Azelf. Ice Beam hits both Landorus formes, Garchomp, Dragonite, and Gliscor for 4x super effective damage.
 
 Checks & Counters
 ########
 
-**Pursuit Trappers**: Tyranitar, Bisharp, and Scizor take little damage from a majority of Latias's moves due to their typing, and can deal a significant amount of damage to, if not OHKO, Latias with Pursuit. Although they are good checks, they have to watch out for Hidden Power Fighting and Fire.
+**Pursuit Trappers**: Pursuit trappers such as Bisharp, Tyranitar, Mega Metagross, and Weavile can pick off or KO a weakened Latias. However, all of them must fear a Hidden Power Fire or Hidden Power Fighting, and Weavile cannot switch into a Draco Meteor.
 
-**Steel-types**: Heatran can come in on any attack Latias has to throw at it, and either hit Latias with status such as Toxic or Will-O-Wisp, or use Taunt, preventing Latias from using Defog, Roost, and Healing Wish. Ferrothorn also comes in on any attack bar Hidden Power Fire, and can threaten to set entry hazards up, use Leech Seed, or directly attack Latias with Gyro Ball or Knock Off.
+**Specially Bulky Pokemon**: Specially bulky Pokemon such as Chansey, Hippowdon, and Celebi can easily take a hit from Latias and cripple it or pivot out into a teammate.
 
-**Fairy-types**: Mega Gardevoir, Sylveon, and Clefable are immune to Draco Meteor and take little damage from Psyshock. Mega Gardevoir and Sylveon can deal a significant amount of damage to Latias with Hyper Voice, whereas Clefable can either set up Calm Mind on Latias or do a lot of damage to it with Moonblast.
+**Steel-types**: Steel-types such as Mega Metagross, Heatran, Ferrothorn, Bisharp, Mega Scizor, and Jirachi resist Latias's STAB moves and threaten it with a strong attack. However, all of them with the exception of Heatran must be wary of Hidden Power Fire.
 
-**Revenge Killers**: Talonflame, Scizor, Bisharp, and Mamoswine can all revenge kill a weakened Latias with their respective priority moves. Mega Aerodactyl, Tornadus-T, and Greninja can all outspeed and KO a weakened Latias. Choice Scarf users such as Garchomp and Kyurem-B can OHKO Latias with their STAB Dragon-type moves.
+**Fairy-types**: Fairy-types such as Azumarill, Clefable, Mega Altaria, and Sylveon are immune to Draco Meteor and are bulky enough to shrug off a Psyshock.
+
+**Revenge Killers**: Faster Pokemon such as Mega Houndoom, Weavile, and Thundurus and Choice Scarf users such as Landorus-T, Diggersby, and Hydreigon can revenge kill a weakened Latias. 

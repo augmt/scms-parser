@@ -1,114 +1,118 @@
 Overview
 ########
 
-Chandelure cements its place in UU as one of the most fearsome special-attacking wallbreakers. Sporting a high base 145 Special Attack and fantastic dual STAB attacks in Shadow Ball and Fire Blast, Chandelure has very few switch-ins in UU. However, the introduction of Hydreigon and Mega Houndoom to the tier really hurt Chandelure's viability, as they both resist its STAB moves and the latter can freely set up on a Choice-locked Fire Blast. Chandelure also has a relatively average base 80 Speed stat, which causes it to be outsped by common threats such as Nidoking, Krookodile, and Hydreigon. Also, while its typing and ability are fantastic in granting it 3 immunities, Chandelure still has the problem of being Pursuit-trapped by Pokemon like Krookodile. However, even with its problems, Chandelure continues to be one of the best wallbreakers in the tier and should always be considered when building a team.
-
-Substitute + Calm Mind
-########
-name: Substitute + Calm Mind
-move 1: Substitute
-move 2: Calm Mind
-move 3: Flamethrower / Fire Blast
-move 4: Shadow Ball
-ability: Flash Fire
-item: Leftovers
-evs: 112 HP / 140 SpA / 4 SpD / 252 Spe
-nature: Timid
-
-Moves
-========
-
-Substitute is used in order to avoid status and also to reliably set up on Pokemon such as Aromatisse, Florges, and Blissey, all of which are unable to break Chandelure's Substitute. Calm Mind boosts Chandelure's Special Attack to insane levels, making it capable of OHKOing the majority of the tier after a couple of boosts. Flamethrower is a reliable STAB move with decent power and, more importantly, higher PP than Fire Blast, an important factor in beating Blissey one-on-one. Fire Blast can be used for greater power but is generally an inferior option. Shadow Ball rounds out Chandelure's near perfect STAB combination and can help in Calm Mind wars due its secondary effect of dropping Special Defense.
-
-Set Details
-========
-
-The given spread allows Chandelure to never have its Substitute broken by 4 Special Attack Florges and Pokemon such as Aromatisse. It also allows Chandelure to survive an unboosted Dark Pulse from Hydreigon after Stealth Rock with a Calm Mind boost and a Life Orb boosted Dark Pulse without Stealth Rock after a Calm Mind boost. A Timid nature lets it outspeed Adamant Lucario and KO it with Flamethrower before it has the chance to hit Chandelure with a Crunch and it can also get the jump on neutral -natured base 90 Speed Pokemon such as Roserade. The rest of the EVs go into Special Attack, which allows Chandelure to 2HKO max HP Mega Blastoise after a Calm Mind boost with Shadow Ball.
-Usage Tips
-========
-
-Try to set up Chandelure on Pokemon that you know cannot touch it; such Pokemon include Blissey, Florges, Aromatisse, and Pokemon Choice-locked into Fire-, Fighting-, and Normal-type moves. Be wary of Toxic from these Pokemon, though, as being badly poisoned completely ruins Calm Mind Chandelure. Continue boosting until you see fit to basically OHKO the entire enemy team. Against offensive teams, use Substitute as a means to force the opponent into an aggressive move such as Dark Pulse with Hydreigon and switch out or attack accordingly.
-
-Team Options
-========
-Chandelure works great on teams as a win condition, so having support built around it is always nice. Toxic Spikes are amazing in conjunction with Substitute + Calm Mind, and Roserade just so happens to deal with bulky Water-types that can be annoying to beat in Calm Mind wars, such as Suicune. Having something to keep hazards off your side of the field is vital to Chandelure's success, so Rapid Spin users such as Mega Blastoise and Donphan and Defog users such as Crobat, Empoleon, and Mega Aerodactyl make great teammates.
-
-Choice Specs
-########
-name: Choice Specs
-move 1: Fire Blast
-move 2: Shadow Ball
-move 3: Hidden Power Fighting / Energy Ball
-move 4: Trick / Overheat
-ability: Flash Fire
-item: Choice Specs
-evs: 252 SpA / 4 SpD / 252 Spe
-nature: Modest / Timid
-
-Moves
-========
-
-Fire Blast and Shadow Ball provide a fantastic STAB combination. Hidden Power Fighting lets Chandelure hit Houndoom, Hydreigon, and Snorlax for super effective damage. Energy Ball lets Chandelure dispose of bulky Water-types such as Swampert, Suicune, and Mega Blastoise while also nailing things like Rhyperior and Hippowdon for super effective damage. Trick is useful for crippling walls such as Blissey, which would otherwise wall the set, and Overheat can be used as an alternative in the last slot over Trick in order to further accentuate Chandelure's incredibly high Special Attack; however, Fire Blast is usually strong enough in most scenarios and doesn't result in -2 Special Attack.
-
-Set Details
-========
-
-The given EV spread lets Chandelure hit as hard as possible and outspeed as much as possible. Timid can be run over Modest in order to outspeed Adamant Lucario and Adamant Krookodile, but more often than not, the extra power is more ideal.
-
-Usage Tips
-========
-
-Use Fire Blast or Shadow Ball and watch the opposing team's Pokemon faint. If they have certain switch-ins such as Hydreigon or Houndoom, try to nail them with Hidden Power Fighting, otherwise you're going to be using the STAB moves 90% of the time. Also, be careful when using Trick, as a Chandelure without any item is less effective so you want to try to keep your item for as long as possible unless it is worth the loss of boosted power.
-
-Team Options
-========
-
-Rapid Spin or Defog support from Pokemon such as Mega Aerodactyl or Starmie is appreciated, as Chandelure is weak to Stealth Rock and susceptible to all forms of entry hazards. This set really appreciates Sticky Web support from Shuckle or Galvantula, as Chandelure's low Speed can hold it back against offensive teams. Likewise, it also appreciates Stealth Rock and Spikes support to pressure its counters and to cause more damage in general, so Rapid Spin may be more ideal than Defog for this reason.
+Chandelure sports a huge base 145 Special Attack, making it an optimal special wallbreaker. Chandelure also sports three immunities to some of the most common attacking types in the tier: Fighting, Fire, and Normal. This allows it to utilize an effective revenge-killing Choice Scarf set and a wallbreaking Choice Specs set. Unfortunately, poor base 60 HP lets its checks and counters easily revenge kill it. Additionally, Chandelure's subpar base 80 Speed means that anything with base 145 Speed or higher, such as Mega Aerodactyl, will outspeed and OHKO Choice Scarf Chandelure, and Chandelure's typing and lack of bulk makes it Pursuit bait.
 
 Choice Scarf
 ########
 name: Choice Scarf
 move 1: Fire Blast
 move 2: Shadow Ball
-move 3: Energy Ball / Trick
+move 3: Energy Ball
 move 4: Trick / Memento
 ability: Flash Fire
 item: Choice Scarf
+evs: 252 SpA / 4 SpD / 252 Spe
+nature: Timid
+
+Moves
+========
+
+Fire Blast is the standard Fire-type STAB move, OHKOing most frail Pokemon. Shadow Ball is the go-to Ghost-type STAB move if the opponent's team can handle Fire-type moves or has an apparent Ghost-type weakness to exploit. Energy Ball is useful for revenge killing weakened bulky Water- and Ground-types and OHKOes Swampert. Trick is a good option against stall teams or bulky Pokemon that attempt to work around Chandelure's wallbreaking ability, as well as against win condition Pokemon such as Curse Snorlax. Alternatively, Memento is a good option to severely cripple the opponent's Pokemon, giving your team a setup sweep opportunity.
+
+Set Details
+========
+
+252 Special Attack EVs allow Chandelure to wallbreak as easily as possible. 252 Speed EVs, Choice Scarf, and a Timid nature allow Chandelure to outspeed and revenge kill anything under base 145 speed. Flash Fire allows Chandelure to absorb Fire-type moves such as Sacred Fire and Flare Blitz and proceed to use Fire Blast at 1.5x power.
+
+Usage Tips
+========
+
+Use Choice Scarf Chandelure as a revenge killer or moderately powerful special wallbreaker. Chandelure can be used as an anti-lead but is much more effective as a late-game cleaner or mid-game revenge killer. Chandelure can be an effective spinblocker against Forretress, but it fears Tentacruel and Donphan for Scald and Earthquake, respectively.
+
+Team Options
+========
+
+Vaporeon can take on most bulky Water- and Ground-types that threaten to OHKO Chandelure due to its horrid bulk. Chandelure also partners well with Protect users, which can scout out Choice-locked Fighting-, Normal-, and Fire-type moves that Chandelure can switch into. Choice Band Machamp and Life Orb Lucario are good partners to get past some of Chandelure's specially defensive checks, such as Umbreon and Blissey. Dark-types such as Hydreigon can relieve some offensive pressure while mitigating Chandelure's Ghost- and Water-type weakness. Chandelure's weakness to Stealth Rock is a huge detriment to its wallbreaking ability. As a result, Rapid Spin and Defog users increase Chandelure's longevity. Setup sweepers such as Swords Dance Mega Abamosnow make strong offensive partners, especially when Chandelure is using Memento.
+
+Choice Specs
+########
+name: Choice Specs
+move 1: Fire Blast / Flamethrower
+move 2: Shadow Ball
+move 3: Energy Ball
+move 4: Trick
+ability: Flash Fire
+item: Choice Specs
 evs: 252 SpA / 4 SpD / 252 Spe
 nature: Timid / Modest
 
 Moves
 ========
 
-Chandelure's STAB attacks get good coverage and let it revenge kill a variety of threats such as Jirachi, Shaymin, Roserade, and Alakazam. Energy Ball hits bulky Water-types harder than any of the moves on the set. Trick is a bit more useful on this set, as Choice Scarf Chandelure can have trouble dealing with dedicated special walls without it and also isn't inconvenienced in the offense department if it loses its item. Memento can be useful for giving setup opportunities to a teammate, especially one that sets up on Chandelure's counters.
+Fire Blast hits even Chandelure's common switch-ins, like Hydreigon, for decent damage while OHKOing all moderately bulky threats that do not resist it, such as Nidoqueen. Flamethrower is an alternative, reliable Fire-type STAB move OHKOing most frail Pokemon thanks to Choice Specs. Shadow Ball is the standard go-to Ghost-type STAB move if the opponents team can handle Fire-type moves or if the opponent has an apparent Ghost-type weakness to exploit. Energy Ball is useful for revenge killing slightly weakened bulky Water- and Ground-types and OHKOes Swampert; however, Chandelure still won't be OHKOing any of its bulky Water- and Ground-type checks and counters without prior damage. Trick is a good option against stall teams or bulky Pokemon that attempt to work around Chandelure's wallbreaking ability.
 
 Set Details
 ========
 
-Maximum Speed investment and a Timid nature are used here, as this set's primary role is that of a revenge killer, but Modest can be used at the cost of being slower than Jolly Mega Aerodactyl. Maximum Special Attack investment lets it hit as hard as possible, scoring OHKOs on prominent threats such as Crobat and Nidoking.
+252 Special Attack allows Chandelure to wallbreak as easily as possible. 252 Speed EVs and a Timid Nature allows Chandelure to outspeed most walls, letting it perform its wallbreaking role effectively. A Modest nature can be used to secure a 2HKO against Florges after Stealth Rock, although Timid is generally the better nature because it allows Chandelure to outspeed neutral base 90s. Flash Fire allows Chandelure to absorb Fire-type spam moves like Sacred Fire and Flare Blitz, and use Flamethrower or Fire Blast at 1.5x power.
 
 Usage Tips
 ========
 
-Choice Scarf Chandelure makes for a good revenge killer thanks to its high power and great STAB combination, which allows it to revenge kill a variety of threats. As such, it should usually not be switching into attacks in order to keep it healthy for when it is needed. In addition to being a good revenge killer, Chandelure can also clean very effectively against weakened offensive teams, especially if it manages to get a Flash Fire boost from Pokemon such as Victini.
+Use Choice Specs Chandelure as a high-powered special wallbreaker with the capability of 2HKOing the majority of the tier that doesn't resist it. Chandelure is very effective as a mid-game wallbreaker or revenge killer against bulkier Pokemon such as a partially injured Mega Blastoise or Hippowdon. Chandelure can easily dismantle balanced teams, OHKOing the common Life Orb Nidoqueen and Choice Band Machamp while 2HKOing many Pokemon common on balance teams, ranging from Mega Ampharos to Vaporeon. Chandelure can be an effective spinblocker against Forretress, but it fears Tentacruel and Donphan for Scald and Earthquake, respectively.
 
 Team Options
 ========
 
-Fighting-types such as Mienshao work well with Chandelure, as the majority of its counters are weak to Fighting. Because it needs to switch in and out often to do its job effectively, Choice Scarf Chandelure really needs hazard removal support in order to function well. Teammates that appreciate Memento support such as Mega Absol, Lucario, and Infernape all make for good partners to Chandelure.
+Vaporeon can take on most bulky Water- and Ground-types that threaten to OHKO Chandelure due to its horrid bulk. Chandelure also partners well with Protect users, which can scout out Choice-locked Fighting-, Normal-, and Fire-type moves that Chandelure can switch into. Choice Band Machamp and Life Orb Lucario are good partners to get past some of Chandelure's specially defensive checks, such as Umbreon and Blissey. Dark-types such as Hydreigon can relieve some offensive pressure while mitigating Chandelure's Ghost- and Water-type weakness. Chandelure's weakness to Stealth Rock is a huge detriment to its wallbreaking ability. As a result, Rapid Spin and Defog users increase Chandelure's longevity.
+
+Substitute + Calm Mind
+########
+name: Substitute + Calm Mind
+move 1: Substitute
+move 2: Calm Mind
+move 3: Flamethrower
+move 4: Shadow Ball
+ability: Flash Fire
+item: Leftovers
+evs: 252 SpA / 4 SpD / 252 Spe
+nature: Timid
+
+Moves
+========
+
+Substitute allows Chandelure to work around switches and common stall playstyles, including teams that utilize Pokemon such as Blissey. Calm Mind increases Chandelure's already huge Special Attack, allowing it to 2HKO a large portion of the tier. Flamethrower is a reliable STAB move that appreciates the Calm Mind boosts. Shadow Ball is Chandelure's secondary STAB move and provides it with reasonable offensive coverage.
+
+Set Details
+========
+
+252 Special Attack EVs ensure that Chandelure can wallbreak as easily as possible, even taking care of Blissey at +6. 252 Speed EVs allow Chandelure to outspeed most slower wallbreakers, such as Machamp, Nidoqueen, and Mega Blastoise, as well as any neutral base 90 Speed Pokemon. The 4 Special Defense EVs are used for the rare-yet-effective Download Porygon-Z, which can interrupt a sweep with Dark Pulse. Hydreigon is still a common switch-in for Chandelure, so an alternative spread with 112 HP EVs taken from Special Attack ensures that Chandelure survives Choice Scarf Hydreigon's Dark Pulse after one Calm Mind, allowing Chandelure to secure a surprise KO if Hydreigon has taken prior damage. 112 HP EVs also prevent uninvested Florges's Moonblast from breaking Chandelure's Substitute.
+
+Usage Tips
+========
+
+It is best to save Substitute + Calm Mind Chandelure as a late-game win condition or as a setup sweeper against stall playstyles. Despite having less special power than the Choice Scarf set, Chandelure can still serve as an effective moderate wallbreaker against weakened balanced threats. Chandelure can be an effective spinblocker against Forretress, but it fears Tentacruel and Donphan for Scald and Earthquake, respectively.
+
+Team Options
+========
+
+Vaporeon can take on most bulky Water- and Ground-types that threaten to OHKO Chandelure due to its horrid bulk. Choice Scarf Hydreigon has almost perfect type synergy with Chandelure. Shaymin loves Blissey being gone and deals easily with bulky Water- and Ground-type Pokemon that threaten Chandelure, and the two together put enormous pressure on Hydreigon. Chandelure also partners well with Protect users, which can scout out Choice-locked Fighting-, Normal-, and Fire-type moves that Chandelure can switch into. Choice Band Machamp and Life Orb Lucario are good partners to get past some of Chandelure's specially defensive checks, such as Umbreon and Blissey. Dark-types such as Umbreon can relieve some defensive pressure while mitigating Chandelure's Ghost- and Water-type weaknesses. Chandelure's weakness to Stealth Rock is a huge detriment to its wallbreaking ability. As a result, Rapid Spin and Defog users increase Chandelure's longevity. Lastly, Florges, similarly to Umbreon, can take pressure off Chandelure when facing Hydreigon.
 
 Other Options
 ########
 
-Chandelure has a variety of options that it can use as opposed to its standard movesets. A Substitute + Will-O-Wisp + Taunt set is a pretty fantastic stallbreaker and can beat a lot of Chandelure's would-be counters such as Hydreigon and Blissey. Infiltrator allows Chandelure to hit Pokemon through Substitute but is generally an inferior ability to Flash Fire. Life Orb with Substitute and Pain Split was also a set used quite a lot last generation, but has fallen out of favor now because it can't even reliably beat Blissey without running out of Fire Blast PP first.
+Expert Belt is an option to bluff a Choice set. A bulkier Substitute + Calm Mind set can be used, decreasing the Speed EVs to hit lower benchmarks such as 242 for Adamant Honchkrow and uninvested base 100s. Hidden Power Fighting hits Pokemon that resist Chandelure's STABs moves, such as Hydreigon and Houndoom. A Substitute + Pain Split set with Life Orb can be effective, particularly against Pokemon with high HP such as Vaporeon and Snorlax, as Pain Split takes advantage of Chandelure's low HP. Taunt stops various Pokemon from setting up and healing. Will-O-Wisp is great against some switch-ins, such as Assault Vest Machamp, Mega Aerodactyl, and Snorlax. Trick Room is another option and works particularly well with Memento.
 
 Checks & Counters
 ########
 
-**Hydreigon**: Hydreigon resists almost all of Chandelure's moves and can hit back with a super effective STAB Dark Pulse. Life Orb sets can also Roost off the damage inflicted by Chandelure.
+**Bulky Water-types**: Suicune, Empoleon, Vaporeon, and Tentacruel all absorb Chandelure's attacks fairly well and can generally beat Chandelure in a one-on-one situation with Scald.
 
-**Flash Fire users**: Flash Fire users such as Houndoom, Arcanine, and opposing Chandelure are all immune to Chandelure's main STAB attack, but the latter two have to be wary of Shadow Ball.
+**Hydreigon**: Hydreigon is the most common and strongest offensive check against Chandelure bar Snorlax. A Dark Pulse or Draco Meteor will OHKO Chandelure, or cripple one of its teammates.
 
-**Special Walls**: Special walls such as Snorlax, Diancie, and Porygon2 can eat any hit from Chandelure and fire back with Earthquake, Diamond Storm, and Shadow Ball, respectively, although none of them enjoy being crippled by Trick.
+**Pursuit**: Pursuit users such as Krookodile and Mega Aerodactyl can easily force Chandelure to switch and revenge kill it.
 
-**Pursuit Trapping**: Faster Pursuit trappers such as Krookodile can revenge kill Chandelure after it has gotten a KO, especially if it locks itself into anything other than Energy Ball.
+**Special Walls**: The Choice Scarf set will have trouble breaking through Umbreon, Blissey, and Florges, as they all wall Chandelure's special attacks, with Trick being Chandelure's only option to effectively work around Blissey and Florges. Fortunately, Substitute + Calm Mind Chandelure can work around both of these threats.
+
+**Assault Vest**: Snorlax and Machamp are amongst the common Assault Vest users that can survive a Choice Specs-boosted Fire Blast and OHKO Chandelure.

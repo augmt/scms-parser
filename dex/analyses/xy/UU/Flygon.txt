@@ -1,9 +1,7 @@
 Overview
 ########
 
-Flygon has many of the tools to be great, but falls just short in many of them. With the new Defog mechanics, it received a niche in checking many Fire-types while clearing the field of entry hazards, which is made easier by its resistance to Stealth Rock and immunity to Spikes, Toxic Spikes, and Sticky Web. It has a defensive typing that lends it immunities to Ground- and Electric-type moves, as well as some resistances to Rock-, Fire-, and Poison-type moves. It even boasts good Speed that lets it use its STAB moves to revenge kill many Pokemon in the tier, including Choice Scarf Hydreigon.
-
-However, Flygon's Speed tier doesn't let it outspeed Choice Scarf Mienshao, which can OHKO with High Jump Kick after Stealth Rock. Its Choice Scarf set is also rather weak, as Flygon only has a base 100 Attack stat, but the rare Choice Band set sits at a Speed where many non-Choice Scarf threats can outspeed and KO it. It also has slightly disappointing stats, all of them sitting at base 80 except for its base 100 Attack and Speed. Finally, its 4x weakness to Ice-type moves really hurts, especially since many bulky Water-types often run Ice Beam. That said, Flygon's positive traits are often enough to find it a place on many teams.
+UU isn't a very kind metagame to Flygon. While it is a very versatile Pokemon with access to great STAB attacks including Outrage and Earthquake, it is easily countered by many different Pokemon. Flygon, however, does have a niche in being a great Defog user, as it is resistant to Stealth Rock and immune to all other entry hazards thanks to its Ground typing and Levitate, respectively. Its typing and ability also allow it to freely switch into Ground- and Electric-type attacks. It sits in a good Speed tier with base 100 Speed and can dish out some good damage thanks to its base 100 Attack. Flygon's main drawbacks, however, are its mediocre bulk and 4x weakness to Ice, making it very susceptible to attacks such as Ice Shard and Ice Beam.
 
 Choice Scarf
 ########
@@ -12,7 +10,6 @@ move 1: Outrage
 move 2: Earthquake
 move 3: U-turn
 move 4: Defog
-ability: Levitate
 item: Choice Scarf
 evs: 252 Atk / 4 SpD / 252 Spe
 nature: Jolly
@@ -20,35 +17,38 @@ nature: Jolly
 Moves
 ========
 
-Outrage is a very powerful STAB move that badly damages many threats in the tier such as Haxorus and Hydreigon. Earthquake is another powerful STAB move that makes revenge killing Fire-, Poison-, Electric-, and Steel-types such as Darmanitan, Chandelure, Nidoking, Nidoqueen, Raikou, Jirachi, and Empoleon much easier. U-turn allows Flygon to gain momentum for the team as often as Flygon forces the foe to switch out, especially if a Dragon-type such as Hydreigon or Haxorus is in play. Finally, Defog is in the final slot to clear away entry hazards in a pinch.
+Outrage is Flygon's main STAB move and hits considerably hard coming off of its base 100 Attack, but it should only be used late-game once all Steel- and Fairy-type Pokemon have been removed. Earthquake is a secondary STAB option that hits most Poison-, Rock-, Steel-, Fire-, and Electric-type Pokemon for super effective damage, providing Flygon with great coverage. U-turn helps Flygon keep momentum during the match. Finally, Defog is used to get rid of entry hazards so that a teammate can get a clean switch.
 
 Set Details
 ========
 
-Maximum Speed and Attack investment allow Flygon to revenge kill to the best of its ability. A Jolly nature allows Flygon to outspeed and revenge kill Choice Scarf Hydreigon, Choice Scarf Darmanitan, and +1 Haxorus.
+252 Speed EVs and a Jolly nature along with a Choice Scarf maximize Flygon's Speed, enabling it to outspeed key threats including Mega Sceptile, Choice Scarf Darmanitan, +1 Haxorus, and Choice Scarf Hydreigon. 252 EVs are put into Attack to let Flygon hit as hard as possible. The leftover EVs are placed into Special Defense, making it easier for Flygon to take special attacks while also giving Download users such as Porygon-Z an unneeded Attack boost rather than a Special Attack boost.
 
 Usage Tips
 ========
 
-Try to bring Flygon in after a teammate is KOed so it can revenge kill the foe. Flygon can also lead at the beginning of a battle, so you can choose to attack outright, U-turn out to scout the opponent's lead, or gain momentum in the event of a switch. Also, before using Outrage, try to remove all opposing Fairy- and Steel-types so Flygon isn't walled and stuck inside the battle.
+Leading with Flygon on the get-go to either attack or U-turn out on a predicted switch can be helpful. Switch Flygon into a predicted Ground- or Electric-type move or right after a teammate has fainted so it can revenge kill the foe. As mentioned earlier, don't use Outrage while there are still Steel- and Fairy-type Pokemon on the field. Instead, use it late-game when they have been removed and the rest of the opponent's team has been weakened.
 
 Team Options
 ========
 
-Hard-hitting Life Orb users such as Darmanitan, Hydreigon, Nidoqueen, Mienshao, as well as Choice Band Krookidile make for good partners, as they make it easier for Flygon to clean up late-game. Additionally, entry hazard setters such as Nidoqueen and Forretress can make it easier for Flygon to clean. Keep in mind, however, that some of them share weaknesses. For example, Hydreigon, Krookidile, and Nidoqueen are all weak to Ice-type moves. Some of these Pokemon can carry U-turn to form a dual U-turn core with Flygon.
+Hard-hitting attackers such as Mega Beedrill, Nidoqueen, Nidoking, Darmanitan, and Mienshao make it easier for Flygon to clean up late-game thanks to their powerful attacks. Pokemon with access to Volt Switch or U-turn such as Mega Beedrill, Raikou, Rotom-H, Darmanitan, and Tornadus can form a VoltTurn core with Flygon. Volt Switch users deserve a special mention, as they can take on the bulky Steel- and Water-types that threaten Flygon. Be aware that most of these Pokemon are weak to Stealth Rock and appreciate Flygon's Defog support. Stealth Rock users such as Nidoqueen, Forretress, Mega Steelix, and Mega Aggron make it easier for Flygon to sweep late-game.
 
 Other Options
 ########
 
-Dragon Claw can be used over Outrage if you fear being locked into a move that results in confusion, but the drop in power is significant. An offensive Hone Claws set can be used as a setup sweeper, but it is outclassed by better sweepers in the tier, especially Haxorus. Stone Edge hits Flying-types hard, but Outrage is almost as powerful in those situations and Stone Edge's imperfect accuracy is a further detriment. Iron Tail can be used to hit Fairy-types super effectively, but it is rather unreliable and doesn't even 2HKO Florges before Stealth Rock damage. A defensive Defog set looks appealing, but many attackers can overwhelm Flygon without much trouble. Finally, Choice Band confers more wallbreaking power, but it is still rather weak and only has a decent Speed tier.
+Dragon Claw can be used instead of Outrage for a more reliable STAB option that doesn't prevent Flygon from switching out, but the power loss is noticeable as it is 33% weaker. Iron Tail is an option to hit Fairy-types for super effective damage, but the accuracy is a bit shaky. Stone Edge can be used to hit Flying-type Pokemon for super effective damage, but Outrage usually does the trick. A mixed attacking set with Draco Meteor, Earthquake, Fire Blast, and Roost or U-turn is viable to catch your opponent off-guard and to hit their physically defensive switch-ins with a powerful Draco Meteor or Fire Blast. A bulky Defog set can be used but is generally inferior to offensive Defog sets. Finally, a Choice Band set can be used for more power, but Flygon needs all the Speed it can get.
 
 Checks & Counters
 ########
 
-**Bulky Water-types**: Bulky Water-types such as Swampert, Vaporeon, and Suicune can take almost anything Flygon can throw at them and hit back hard with Ice Beam.
+**Physically Defensive Walls**: Pokemon such as Hippowdon and Chesnaught can wall Flygon due to their magnificent physical bulk.
 
-**Mega Abomasnow**: Mega Abomasnow can come in easily on anything except for Outrage or the rare Fire Blast or Fire Punch and OHKO Flygon with its STAB Ice Shard.
+**Bulky Steel-types**: Bulky Steel-types including Mega Steelix, Mega Aggron, and Bronzong can wall Flygon and set up Stealth Rock or attack it.
 
-**Fairy-types**: Fairy-types such as Florges, Aromatisse, and the rare Granbull can take anything Flygon has and hit back hard with a super effective STAB move.
+**Bulky Water-types**: Bulky Water-type Pokemon such as Vaporeon, Suicune, and Swampert can sponge any of Flygon's attacks and retaliate with a super effective Ice Beam.
 
-**Steel-types**: Steel-types such as Mega Aggron and Bronzong wall Flygon and can set up Stealth Rock or attack it back.
+**Ice-types**: Ice-type Pokemon such as Mega Glalie and Mega Abomasnow have a good chance to OHKO Flygon with their priority Ice Shard.
+
+**Fairy-types**: Fairy-types such as Florges and Aromatisse can take a hit from Flygon and hit back with a super effective STAB attack.
+

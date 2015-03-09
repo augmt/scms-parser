@@ -1,0 +1,52 @@
+Overview
+########
+
+Volbeat is a staple on weather teams due to its access to Prankster, which gives priority to status moves and allows Volbeat to reliably use weather-related moves, such as Rain Dance and Sunny Day. Furthermore, Volbeat is able to utilize a slow U-turn, which allows it to bring potential sweepers in safely after weather has been set up. Volbeat also is able to use Prankster Encore and Thunder Wave to cripple opposing sweepers and stall Pokemon, and Encore even has good synergy with U-turn, as it can force switches while grabbing momentum. However, Volbeat's frailty combined with a Stealth Rock weakness will usually make it very hard to set up weather without the risk of fainting.
+
+Weather Support
+########
+name: Weather Support
+move 1: Rain Dance / Sunny Day
+move 2: U-turn
+move 3: Encore
+move 4: Thunder Wave
+ability: Prankster
+item: Damp Rock / Heat Rock
+evs: 248 HP / 252 Def / 8 SpD
+nature: Relaxed
+
+Moves
+========
+
+Rain Dance and Sunny Day set rain and sun, respectively, so Chlorophyll and Swift Swim sweepers can begin sweeping. U-turn allows Volbeat to safely bring in its teammates that plan to sweep, although U-turn can also be used to escape Taunt without giving up momentum. Encore is used to cripple setup sweepers, entry hazard leads, and utility Pokemon to ensure that Volbeat is given at least one safe turn to use either Rain Dance or Sunny Day. Thunder Wave is used in the final slot of the set, and it can be used late-game as an emergency check to opposing sweepers. Tailwind is an alternative over Thunder Wave for sun teams that would like to boost the Speed of their Fire-types, but its low turn span and limited utility makes it a limited option. Every move listed bar U-turn is given priority by Prankster.
+
+Set Details
+========
+
+Maximum HP and Defense investment is used to take hits much better. A Relaxed nature is used to further boost Volbeat's Defense stat while lowering Speed to ensure that Volbeat will have a slow U-turn. The item choice is respective to what weather is being used; Damp Rock elongates rain's turns while Heat Rock elongates sun's turns. Prankster is the chosen ability, as it is one of the main reasons Volbeat is viable due to it giving priority to support moves.
+
+Usage Tips
+========
+
+Early-game it's usually best to preserve Volbeat, as it provides great utility, and use another weather setter. After weather has been set up, immediately U-turn into a sweeper so they can get in safely without wasting any other turns. Early-game, if another weather setter isn't in play, Volbeat can cripple leads with Prankster Encore and other Pokemon with Prankster Thunder Wave. Once Encore has locked the opposing Pokemon into a move, using U-turn on the forced switch provides great momentum, as you will end up with a favorable matchup. Alternatively, Encore's forced switch allows Volbeat to set up weather more easily.
+
+Team Options
+========
+
+This Volbeat works solely on weather teams, and as such, Pokemon that make use of weather are good partners. Beartic and Poliwrath are both great abusers of rain thanks to Swift Swim. Victreebel is a deadly sweeper in the sun thanks to Chlorophyll and Weather Ball turning into a 150 Base Power Fire-type attack. Leafeon and Sawsbuck can abuse Chlorophyll as well. Fire-types such as Ninetales can use powerful attacks in the sun. Swanna can spam perfectly accurate Hurricanes in rain, and its Hydration activates, which makes it hard to cripple. Electric-types such as Raichu can abuse a perfectly accurate Thunder. Other weather setters are an option to keep weather set up; Carbink and Golem are great sun setters, as both can use Stealth Rock, while Relicanth and Electrode are good rain setters, as the former can set up Stealth Rock too while the latter can use a perfectly accurate Thunder.
+
+Other Options
+########
+
+Volbeat will usually fail at doing anything else due to its relatively low stats. A set utilizing Tail Glow and Baton Pass is an option that gets priority on these moves and turns special attackers into lethal weapons, but Togetic is a better user of this with Nasty Plot, as it can hold an Eviolite and has a much better typing. Roost is a viable move to let Volbeat stay on the field longer, but other moves are better options. Trick with an Iron Ball or Choice Scarf is an option to cripple foes.
+
+Checks & Counters
+########
+
+**Stealth Rock**: Volbeat is worn down by Stealth Rock, as it switches in quite often and is weak to it. Because of this, Stealth Rock is an effective check to Volbeat.
+
+**Powerful Attacks**: Life Orb and Choice item users such as Tauros have no problem breaking through Volbeat due to its terrible defenses. However, all of them are threatened by priority Thunder Wave.
+
+**Taunt**: If Volbeat is hit with Taunt, which is unlikely due to Prankster, it is unable to use its support options such as weather moves and Encore.
+
+**Weather changes**: Changes to the weather force Volbeat to come back in and reset it, which ruins the offensive momentum for teams. Hippopotas in particular sets sandstorm automatically when it comes in, and it is immune to Thunder Wave.

@@ -1,56 +1,84 @@
 Overview
 ########
 
-Sceptile, once one of the top threats of RU, has fallen from grace with the arrival of XY. Due to the loss of Flying Gem and the arrival of Virizion, Sceptile faces hard competition, and it is mostly outclassed as a physical sweeper. However, Sceptile is still a great special attacker thanks to its solid base 105 Special Attack and great base 120 Speed, which lets it outpace most threats. Furthermore, Sceptile packs a very powerful Grass-type STAB move, Leaf Storm. While Sceptile's movepool may not be the greatest, it still has access to everything it really needs. Sceptile's biggest problem is its underwhelming 70 / 65 / 85 defenses, which make it susceptible to priority and hard to switch in without taking a solid amount of damage.
+Sceptile is the perfect example of an offensive Pokemon. With its new Mega Evolution, Mega Sceptile has amazing Special Attack along with a blistering 145 Speed, which not only lets Mega Sceptile outspeed the entire metagame, but also allows it to function as an amazing late-game cleaner, as well as a natural revenge killer. Furthermore, Mega Sceptile can utilize its respectable Attack stat to bluff a special set and use a very effective Swords Dance set to muscle through its usual checks and counters, which is especially notable in that it is one of the only sweepers that can easily get past Unaware Quagsire. Mega Sceptile's typing also gives it great neutral coverage when combined with Focus Blast, missing out on only Whimsicott, Togetic, and Doublade. Mega Sceptile's ability, Lightning Rod, gives it an immunity to Volt Switch and prevents it from being crippled by Thunder Wave, while subsequently giving it a Special Attack boost if hit by said moves. However, Mega Sceptile's great offensive typing is very mediocre defensively. Grass / Dragon gives it very common weaknesses to priority moves such as Mega Glalie's Ice Shard and Fletchinder's Acrobatics. Combine this with abysmal bulk, and Mega Sceptile will be over-reliant on OHKOing the opponent while not being hit in return. Furthermore, base 145 Special Attack can only hit so hard when the ability to boost it with a Life Orb is not present.
 
-Offensive
+Swords Dance
 ########
-name: Offensive
-move 1: Giga Drain
-move 2: Leaf Storm / Substitute
-move 3: Focus Blast
-move 4: Hidden Power Ice / Hidden Power Rock / Hidden Power Fire
+name: Swords Dance
+move 1: Swords Dance
+move 2: Leaf Blade
+move 3: Outrage
+move 4: Earthquake
 ability: Overgrow
-item: Life Orb
-evs: 252 SpA / 4 SpD / 252 Spe
+item: Sceptilite
+evs: 252 Atk / 4 Def / 252 Spe
+nature: Jolly / Adamant
+
+Moves
+========
+
+Instead of using Mega Sceptile's cleaning abilities and high Special Attack, this set aims to function as a physical sweeper by utilizing Mega Sceptile's decent Attack stat. Swords Dance is used to boost Mega Sceptile's Attack by two stages, allowing it to do major damage. Leaf Blade is the primary physical STAB move, and it also has a decent chance to land a critical hit. Outrage is the secondary STAB move and deals much more damage than Leaf Blade at the cost of being locked in. If being locked in is undesirable, Dragon Claw is an another option. However, the power drop is noticeable. Earthquake hits Steel- and Fire-types for great damage and gives almost perfect neutral coverage. Low Kick is an alternative to Earthquake that gives up being able to hit Doublade for being able to hit Bronzong and Cobalion for greater damage.
+
+Set Details
+========
+
+Maximum Attack and Speed EV investment is used to allow Mega Sceptile to be very fast and hit hard. A Jolly nature further bolsters Speed, but Adamant is a very viable option, as the extra damage will come in handy often. However, Adamant Mega Sceptile will miss out on outspeeding base 80 Speed Choice Scarf users and base 80 Speed sweepers at +1, as well as other things such as Jolteon. Overgrow is the ability prior to Mega Evolving, and Lightning Rod will follow as the ability after Mega Evolving. Sceptilite is necessary to Mega Evolve.
+
+Usage Tips
+========
+
+This set is very simple to utilize. Mega Sceptile should set up late-game when the opponent's Pokemon have been weakened significantly and can be easily picked off. It is imperative that you weaken or take out Mega Sceptile's checks and counters before setting up, as they can stop a sweep and ruin the offensive momentum. Mega Sceptile should strictly set up on switches it forces or against Pokemon weak to its STAB moves, such as Water- and Ground-types. Mega Sceptile should strictly come in on a slow Volt Switch or U-turn due to its frailty. Lastly, do not use Outrage recklessly, as being locked in against Steel- and Fairy-types is very, very detrimental.
+
+Team Options
+========
+
+Escavalier and Houndoom are ideal teammates because they can both Pursuit trap Cresselia, Bronzong, and physically defensive Reuniclus, and the latter also has excellent defensive synergy with Mega Sceptile. Defensive Rhyperior is also an amazing teammate. It sets up Stealth Rock, which helps Mega Sceptile score many KOs, such as the OHKO on Serperior at +2 with Outrage, and also beats Fletchinder and Doublade. Mega Sceptile in return can take some Water- and Grass-type attacks. Alomomola has good synergy with Mega Sceptile and can work well on balance teams with Mega Sceptile as well as pass Wishes to Mega Sceptile. Substitute + Calm Mind Meloetta can set up on Bronzong and Doublade and break through them, while Substitute + Calm Mind Cresselia can beat Golbat and Bronzong by getting to +6 on them and KOing them.
+
+Special Attacker
+########
+name: Special Attacker
+move 1: Substitute / Leaf Storm
+move 2: Giga Drain
+move 3: Dragon Pulse
+move 4: Focus Blast / Hidden Power Fire
+ability: Overgrow
+item: Sceptilite
+evs: 4 Def / 252 SpA / 252 Spe
 nature: Timid
 
 Moves
 ========
 
-Giga Drain is a STAB move that deals a solid amount of damage to most threats and also recovers 50% of the damage dealt. Sceptile also has access to Leaf Storm, which hits incredibly hard, especially with a Life Orb boost. Focus Blast is used for Ice- and Steel-types that would otherwise threaten Sceptile, while it also hits Normal- and Dark-types for super effective damage. Substitute eases prediction of switches and can also be a nice surprise when facing walls that try to afflict Sceptile with status. Hidden Power Ice is used to deal with Flying- and Grass-types, and it can 2HKO Braviary, which is useful because Sceptile outspeeds non-Choice Scarf Braviary and can easily KO it on a predicted switch. You can also use Hidden Power Rock to OHKO Moltres and Fletchinder switch-ins, while also hitting other Flying-types hard. More importantly, Hidden Power Rock lets Sceptile beat Delphox as long as it hits it while Delphox is switching in. Hidden Power Fire is also an option, because it OHKOes Escavalier without Assault Vest after Stealth Rock most of the time and also deals with Grass-types.
+Because Mega Sceptile forces many switches, Substitute is an ideal move to guarantee a safe attack. Substitute also eases prediction against opponents, as it doesn't force Mega Sceptile to attack, meaning that if you are nervous about predicting incorrectly against an opponent, you can safely use Substitute to see what the opponent does. Alternatively, Leaf Storm is an option over Substitute if you would rather have a total nuke at the cost of a Special Attack drop. Giga Drain is a reliable STAB attack that can also mitigate the damage from Substitute. Dragon Pulse is a secondary STAB attack that deals reliable damage at no cost. In the last slot, Focus Blast can be used to provide coverage against most Steel-types as well as providing great neutral coverage. However, Hidden Power Fire is a weaker alternative that still hits Steel-types, but more specifically hits Doublade and Escavalier for good damage, at the cost of lowering Mega Sceptile's Speed by one point, which causes it to miss out on outspeeding +1 base 80 Speed Pokemon.
 
 Set Details
 ========
 
-The given EV spread is used to maximize Sceptile's offensive potential. With a Timid nature, Sceptile reaches 372 Speed, outspeeding most threats in the metagame. Life Orb is used to give Sceptile some extra power, and the HP loss can be regained with Giga Drain.
+The EV spread is standard for most special attackers; maximum Special Attack and Speed investment are used to allow Mega Sceptile to hit hard while being fast. A Timid nature maximizes Speed, although a Modest nature is viable for more power in trade for missing out on outspeeding base 130 Speed Pokemon and base 80 Speed Pokemon at +1. Overgrow is the ability prior to Mega Evolving, as Unburden will never activate due to Sceptilite not being removable. However, after Mega Evolving, the ability becomes Lightning Rod, which grants Mega Sceptile a useful immunity to Electric-type moves. Sceptilite is needed to Mega Evolve.
 
 Usage Tips
 ========
 
-Sceptile is fairly straight-forward to use; hit the opponent hard with either Leaf Storm or a coverage move and switch out. Sceptile isn't a sweeper, so in most cases, Sceptile doesn't want to stay in for long. If Sceptile is having problems KOing an opponent, you can use Substitute repeatedly until Sceptile's health is in Overgrow range, and then send off a boosted Giga Drain or Leaf Storm.
+Thanks to its high Special Attack and Speed, Mega Sceptile is best used as a late-game cleaner to finish off weakened opponents. For this reason, it is imperative you preserve Mega Sceptile and not be reckless with using it. Mega Sceptile can also function as a natural revenge killer, as it outspeeds the entire unboosted metagame and can finish off weakened foes. Because of Lightning Rod, Mega Sceptile can pivot into multiple Electric-type attacks such as Rotom-C's Volt Switch and Registeel's Thunder Wave while receiving a Special Attack boost; be sure to exploit this. Never switch Mega Sceptile into other attacks, as it can't take most strong attacks. Instead, utilize a slow U-turn or Volt Switch from the likes of Gligar or Lanturn, or even bring it in after a teammate faints. Never expect Mega Sceptile to OHKO a Pokemon at full health, as it cannot OHKO most bulky foes, and strictly use it against Pokemon that are weak to its STAB moves or are already weakened.
 
 Team Options
 ========
 
-Hazard setters, especially Stealth Rock users such as Gligar, Cobalion, and Rhyperior, are strongly recommended. The chip damage makes it easier for Sceptile to KO Pokemon that resists Grass-type moves. Sceptile doesn't have a ton of resistances and is also fairly frail, so slow U-turn or Volt Switch users are recommended to make it easier for Sceptile to switch in. Defog or Rapid Spin are also recommended, because Sticky Web removes Sceptile's important Speed advantage, and it therefore becomes an easy KO for Flying- and Fire-types. Gligar and Golbat are good teammates for Sceptile, because they both get Defog and can also help Sceptile in with a slow U-turn.
+ Choice Specs Magneton is a good option as a wallbreaker; it trades firepower for the ability to tank Flying- and Ice-type attacks for Mega Sceptile. Fletchinder is a good teammate offensively, as it enjoys having Rock-types removed, while also beating most Fairy-types. Defensive Rhyperior is an amazing teammate; it sets up Stealth Rock, which makes it significantly easier for Mega Sceptile to clean, and also easily beats Fletchinder, Doublade, and most Escavalier. An alternative for a Stealth Rock setter would be Omastar, which also packs great offensive presence and relatively good defensive synergy, such as still being able to handle Fletchinder. Lanturn is also a good option for a teammate, as it packs a slow Volt Switch to bring Mega Sceptile in safely, takes most Ice- and Flying-type attacks, and beats Fletchinder while being able to potentially cripple both Doublade and Escavalier. Coincidentally, Escavalier is a good partner because it can Pursuit trap Bronzong and Cresselia, making Escavalier an effective teammate. Drapion is a good partner, as Swords Dance Drapion lures in Cobalion for Mega Sceptile, and the two beat each other's counters. Drapion also works well versus stall, which Mega Sceptile struggles against. Bulky Psychic-types are very good teammates, as they can break through Mega Sceptile's coutners. Substitute + Calm Mind Meloetta can set up on Bronzong and Doublade while bonking them with Shadow Ball afterwards. Substitute + Calm Mind Cresselia also sets up on Bronzong and Golbat, and it can easily get to +6 and beat them.
 
 Other Options
 ########
 
-Sceptile can also use a physical set with 252 Attack / 252 Speed with a Jolly nature. Although it's mostly outclassed by Virizion, Sceptile's physical set has a niche because of its ability Unburden, which doubles Speed after its item is either lost or consumed. Due to the lack of gems, there isn't any reliable way to activate Unburden, which makes the set harder to pull off. For a physical set, you want to use Acrobatics / Leaf Blade / Earthquake / Swords Dance and Sitrus Berry as an item. Use Swords Dance on an opponent who can't OHKO Sceptile, recover health from Sitrus Berry, activate Unburden, and then sweep. Giving Sceptile no item is an option, because it's not guaranteed Sceptile will get to use Sitrus Berry, meaning Sceptile will also only have a 55 Base Power Acrobatics. Leaf Storm + White Herb can be used, but in most cases it's a better idea to run Life Orb and switch out after a Leaf Storm. Hidden Power Flying can be used to OHKO Virizion.
+Crunch is a respectable option on Mega Sceptile, as it turns two of its hard counters, Bronzong and Doublade, into targets. However, Doublade is only 2HKOed after a Swords Dance and can finish off Mega Sceptile with both Iron Head and Shadow Sneak, and it is a waste of a moveslot to solely target two Pokemon. The combination of Endure and Endeavor allows Mega Sceptile to potentially bring down all of its checks and counters to 1 HP so a teammate can finish them off. However, the problem with this set is that it sacrifices Mega Sceptile, is unreliable due to the prevalence of priority and entry hazards, and can easily be played around. Counter can check some physical attackers, but most physical attackers will usually be able to OHKO Mega Sceptile. Iron Tail on the Swords Dance set can OHKO every Fairy-type after a Swords Dance and Stealth Rock damage.
 
 Checks & Counters
 ########
 
-**Flying-types**: Swellow and other Flying-types using Choice Scarf, such as Braviary and Moltres, outspeed Sceptile and OHKO it with their STAB moves. Also watch out for Fletchinder, since it OHKOes Sceptile with its 110 Base Power priority Acrobatics.
+**Fairy-types**: Fairy-types are easily the best counters to Mega Sceptile. They are all immune to Mega Sceptile's Dragon STAB moves, and every relevant Fairy-type in the tier can take a hit from Sceptile and easily OHKO or heavily damage Sceptile in return due to its relative frailty. Whimsicott in particular is the most threatening Fairy-type; it resists every single move on both sets bar Hidden Power Fire, and the Life Orb set OHKOes Mega Sceptile with Moonblast. Aromatisse is another example of a Fairy-type that can check Mega Sceptile depending on the set and its EVs; a physically defensive set can check Swords Dance sets and a specially defensive set can check the special attacker set.
 
-**Priority**: Priority moves are a threat to Sceptile, especially if it doesn't recover enough HP with Giga Drain, as Life Orb recoil quickly wears Sceptile down into KO range for most priority moves.
+**Bulky Steel-types**: Despite having access to Focus Blast and Earthquake, Mega Sceptile still can't muscle through bulkier Steel-types. Assault Vest Escavalier in particular is a huge threat to Mega Sceptile, as it resists Giga Drain and Dragon Pulse and can easily stomach a Focus Blast while OHKOing in return with Megahorn. Doublade resists every move on Sceptile's special set, can stomach an Earthquake, and can retaliate with the combination of Iron Head and Shadow Sneak. Bronzong is a good counter to Mega Sceptile, as it is resistant to both Leaf Storm and Dragon Pulse and can easily shrug off Focus Blast, and it even counters the Swords Dance set because it is resistant to every move on it.
 
-**Special Walls**: Special walls, such as Dragalge, can easily survive Sceptile's attacks and can either force Sceptile to switch out or badly weaken it.
+**Special Tanks**: Pokemon that are able to tank multiple special hits are effective checks to Mega Sceptile. Cresselia is one of Mega Sceptile's best answers, as it will shrug off the damage from literally any special attack Mega Sceptile throws at it. Specially defensive Golbat is another example of a Pokemon that doesn't care about Sceptile's special attacks, and it can shrug off any attack due to its resistances and good bulk with Eviolite. However, most special tanks are threatened by the Swords Dance set.
 
-**Faster Pokemon**: Accelgor and Choice Scarf Emboar are huge threats to Sceptile because they both outspeed Sceptile and OHKO it with their STAB moves.
-
-**Status**: Status ailments like Thunder Wave are a huge problem for Sceptile because they make Sceptile terribly slow and susceptible to damage. Toxic is also a problem, as Sceptile already has Life Orb recoil to take care of, and the additional damage can rack up quickly.
-
-**Sticky Web**: Sticky Web is a big problem for Sceptile because it cuts its Speed by 33%. Sceptile can subsequently be outsped by normally slower threats, making it hard for Sceptile to do its job.
+**Priority Users and Revenge Killers**: Priority users and revenge killers can easily keep Mega Sceptile in check. Fletchinder in particular is easily the most threatening of these, as priority Acrobatics easily revenge kills Sceptile. Mega Glalie's and Mega Abomasnow's Ice Shard OHKOes Mega Sceptile as well. Apart from these, neutral priority moves such as Hitmonlee's Mach Punch and Houndoom's Sucker Punch can pick off weakened Mega Sceptile. Choice Scarf Moltres also can OHKO Mega Sceptile with Hurricane and doesn't care much about switching in because it resists most of Sceptile's attacks.

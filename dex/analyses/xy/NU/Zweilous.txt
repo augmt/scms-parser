@@ -1,0 +1,92 @@
+Overview
+########
+
+Zweilous possesses a unique defensive typing that grants it good resistances, most notably to Fire, Grass, and Electric, as well as a Psychic immunity. This allows Zweilous to wall dangerous threats such as Typhlosion, Magmortar, Ninetales, Lilligant, Exeggutor, Mesprit, and Xatu; in fact, Zweilous makes for a decent 'catch-all' check to most special attackers in the tier. Meanwhile, Zweilous's ability Hustle gives it more bite, especially if Zweilous is offensively invested, and Zweilous has good neutral coverage on the tier with its available moves. However, while Zweilous has many useful resistances, it is also weak to several offensive types, especially Fighting, Ice, and Fairy. It being slow and vulnerable to many offensive Pokemon doesn't help its cause either. Hustle's accuracy drop can even trip Zweilous up at the most crucial of times, which can slightly hamper its effectiveness.
+
+Wall
+########
+name: Wall
+move 1: Rest
+move 2: Sleep Talk
+move 3: Crunch / Dragon Tail
+move 4: Roar / Dragon Tail
+ability: Hustle
+item: Eviolite
+evs: 252 HP / 4 Def / 252 SpD
+nature: Careful
+
+Moves
+========
+
+Rest is Zweilous's only method of recovery, but it is crucial in allowing Zweilous to repeatedly wall dangerous threats such as Typhlosion and Exeggutor while also healing off status such as burn. Sleep Talk allows Zweilous to attack while asleep and has the side benefit of countering Sleep Powder from Lilligant and Exeggutor. Crunch is Zweilous's most reliable STAB move, dealing good damage with Hustle to frailer attackers, even without investment. It is important when dealing with bulky Psychic-types such as Uxie, Xatu, and Mesprit. Roar forces out stat boosters such as Uxie and Lilligant as well as preventing physical setup sweepers such as Feraligatr, Scyther, and Klinklang from using Zweilous as setup bait.
+
+Dragon Tail deals decent damage while phazing the foe, and grants Zweilous much better odds of Sleep Talking a phazing move when used alongside Roar. Alternatively, Dragon Tail can be used alongside Crunch to grant Zweilous two STAB moves. However, Hustle reduces Dragon Tail's accuracy to a shaky 72%, which by extension reduces its phazing reliability. If Zweilous is the main answer to Xatu on its team, dropping Roar is a possibility, as Sleep Talking Roar against Xatu would only force Zweilous out whereas Dragon Tail forces out Xatu normally.
+
+Running Dragon Tail opens room for Thunder Wave, allowing Zweilous to permanently cripple sweepers such as Typhlosion, Lilligant, Ludicolo, and Pyroar, as well as deter switch-ins such as Sawk and Scyther. It is less necessary because Zweilous does not need to paralyze the Pokemon it counters, and teammates are still needed to handle Pokemon that threaten Zweilous.
+
+Set Details
+========
+
+Full investment in HP and Special Defense along with a Careful nature maximize Zweilous's ability to handle special attackers. Eviolite is used to enhance Zweilous's bulk even further.
+
+Usage Tips
+========
+
+Zweilous makes for a good fit on bulkier teams, as its typing allows it to resist popular attacking types, such as Fire, Grass, Psychic, and Electric. Some Pokemon Zweilous can tank include Magmortar, Typhlosion, Ninetales, Exeggutor, Lilligant, Mesprit, Xatu, and Rotom. When responding to special attackers, be mindful of Fighting- and Fairy-type coverage moves from the likes of Magmortar, Typhlosion, and Mismagius. Zweilous also should not take Knock Offs despite its resistance, as losing Eviolite heavily diminishes its bulk. Fortunately, many of the Pokemon Zweilous responds to do not carry the move.
+
+Team Options
+========
+
+This Zweilous is somewhat passive, meaning it fits better on balanced or bulkier teams. Poison-types such as Qwilfish, Vileplume, and Garbodor, can handle Fairy- and Fighting-types while Zweilous covers their Psychic weakness, making them amazing partners. Pokemon such as Ferroseed, Steelix, Mega Camerupt, and Probopass can also take on Fairy-types; Probopass also has the benefit of resisting Ice-type moves. Most of them can also set up entry hazards, which augment Zweilous's phazing moves. A cleric such as Audino, Grumpig, Granbull, or Vileplume can wake Zweilous up early; Thick Fat Grumpig also provides an Ice-type resistance, while Musharna, Gourgeist, Pelipper, and Vileplume respond to Fighting-types for Zweilous while shrugging off their Knock Offs.
+
+Due to its lack of passive recovery and reliance on RestTalk, Zweilous is heavily prone to being worn down by entry hazards; Cryogonal and Sandslash make for decent Rapid Spin users to use on bulky team archetypes, while Defoggers such as Pelipper and Mantine can also work if one is not using entry hazard support themselves.
+
+Choice Band
+########
+name: Choice Band
+move 1: Crunch
+move 2: Outrage
+move 3: Superpower
+move 4: Head Smash
+ability: Hustle
+item: Choice Band
+evs: 4 HP / 252 Atk / 252 Spe
+nature: Adamant
+
+Moves
+========
+
+Crunch is Zweilous's most reliable STAB move and is easily spammable against foes. Outrage serves as a nuke, punching massive holes into anything that doesn't have an immunity or resistance to it; its insane power is capable of OHKOing bulky attackers such as Feraligatr, Bouffalant, and Hariyama. Superpower nails Steel-types such as Ferroseed, Steelix, and Klinklang. Head Smash is Zweilous's best move against Fairy-types; it OHKOes Togetic and deals significant damage to Mega Audino, Granbull, and Carbink. Beware of the already shaky accuracy of this move, especially when compounded by Hustle.
+
+Set Details
+========
+
+An Adamant nature enhances Zweilous's already massive Attack stat with Hustle factored in, and Choice Band allows it to hit like an atomic bomb. The straightforward EV spread of maximum Attack and Speed allows Zweilous to hit hard and outrun as many walls as possible. The Speed investment most notably allows Zweilous to outrun neutral-natured Exeggutor and Cacturne, and at the very least Speed tie with Aurorus. One can opt to run just enough Speed to outrun prominent walls, although the extra HP tends to not help Zweilous much anyway. Jolly can be used to outspeed Pokemon such as Adamant Pawniard and Timid Exeggutor, but the loss of Adamant means Zweilous can miss out on guaranteed KOs (as far as Hustle-boosted attacks go), such as the 2HKO on Rhydon with Outrage and 2HKO on Seismitoad with Crunch.
+
+Usage Tips
+========
+
+This set takes advantage of Hustle, and its primary function as a wallbreaker means it is best used early-game. Bring it in on slower Pokemon such as Audino, Seismitoad, Musharna, or Vileplume, then proceed to blast something. While the set boasts very few safe switch-ins, Choice Band Zweilous is a very prediction-heavy Pokemon, so be cautious when using it. If Outrage is used, expect Zweilous to be revenge killed quickly, so only use it if you are prepared to sacrifice Zweilous or just need to punch holes in the opponent's team.
+
+Team Options
+========
+
+Choice Band Zweilous benefits a lot from entry hazard support, so hazard setters such as Ferroseed and Garbodor make for great partners, especially because they can cover Zweilous's Fairy weakness. Sticky Web users, such as Kricketune and Leavanny, slow down the opposition, allowing Zweilous to outspeed a lot more Pokemon than it would previously, such as Sawk, Jynx, and Zangoose. Zweilous, as a slow wallbreaker, struggles with numerous faster Pokemon; fast attackers or setup sweepers, such as Typhlosion, Archeops, Lilligant, and Klinklang, can help to fend off other offensive Pokemon, and they can also make good use of Zweilous's wallbreaking abilities. Alternatively, Zweilous can function on a Trick Room team to obliterate offensive teams, though note that its hit-and-run playstyle can burn precious Trick Room turns.
+
+Other Options
+########
+
+Aqua Tail can be used on the Choice Band set to OHKO Rhydon and more comfortably 2HKO Carbink, while retaining coverage on Probopass and Steelix, but sacrificing coverage for either Ferroseed or other Fairy-types can be a pain. Zweilous could try an Eviolite tank set with HP and Attack investment, but with neither the bulk and recovery to withstand attacks properly nor the power to break through defensive cores, it's getting the worst of both worlds from each set. Work Up lets Zweilous steamroll through bulkier teams, but the likelihood of being forced out or revenge killed is not worth sacrificing coverage.
+
+Checks & Counters
+########
+
+**Fairy-types**: Wall Zweilous is usually helpless against any Fairy-type; the likes of Mega Audino, Granbull, Carbink, and Togetic can easily have their way with it by either setting up, supporting their team with no hindrance, or simply KOing it with their 4x super effective STAB Fairy-type moves. The Choice Band set can sting them harder, but the only move they have to fear is the inaccurate Hustle-boosted Head Smash, while their mere presence deters Zweilous from using Outrage.
+
+**Entry Hazards**: Due to bulky Zweilous's reliance on RestTalk and lack of passive recovery, entry hazards can wear down Zweilous remarkably quickly and more likely subject it to 3HKOs or 2HKOs. Spikes users such as Ferroseed, Garbodor, Crustle, and Qwilfish can easily start setting up Spikes in Zweilous's face, and all of them have their ways of forcing out Zweilous to take more entry hazard damage, through Leech Seed, Drain Punch, Knock Off, and Taunt, respectively. Garbodor and Qwilfish also have access to Toxic Spikes, which can force Zweilous to Rest more often than it would like. Finally, Stealth Rock users can also serve to wear down Zweilous, and many of them, including Steelix, Seismitoad, Piloswine, and Rhydon, can also do it in Zweilous's face while forcing it out.
+
+**Steel-types**: Even though Steel-types do not resist Dark, they still make for decent responses due to their Dragon resistance, which can occasionally even prove more useful than an immunity because Outrage locks Zweilous in against them on the switch. Steelix can hammer Zweilous with powerful STAB attacks, and shrugs off all attacks bar Choice Band Superpower. Ferroseed can also be a supreme annoyance due to Leech Seed and Spikes, both of which can wear down Zweilous significantly.
+
+**Fighting-types**: Fighting-types are able to respond to the bulky set with ease, shrugging off its attacks and retaliating hard. Provided that it doesn't get phazed, Gurdurr can set up on Zweilous, while the likes of Sawk, Hariyama, and Primeape can proceed to hammer it, although the faster ones have to be wary of Thunder Wave or a Dragon Tail on the switch. Fighting-types can also deter Choice Band Zweilous from going for its most reliable attack in Crunch, forcing it to use riskier moves to try to nail them on the switch.
+
+**Offensive Pressure**: Applying offensive pressure tends to be the easiest method of dealing with Choice Band Zweilous. Pokemon with super effective STAB moves, such as Sawk, Jynx, Cryogonal, and Scyther, can easily revenge kill Zweilous while it is locked into Outrage, while other strong attackers such as Archeops, Samurott, and Kangaskhan can also aim to trade KOs. Choice Band Zweilous's low Speed means that even if it can threaten a KO, it usually won't do so without suffering some damage, at which point it won't be able to hit anything anymore without risking being KOed itself.

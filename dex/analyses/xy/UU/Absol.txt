@@ -1,15 +1,16 @@
 Overview
 ########
 
-With its astounding base 150 Attack, good base 115 Speed after Mega Evolving, access to a great boosting move in Swords Dance, powerful STAB moves in Knock Off and Sucker Punch, and the ability to bounce back status and entry hazards with Magic Bounce, Absol is a very dangerous threat if played right. It shuts down suicide leads such as Froslass and Azelf, forcing the latter to use Explosion prematurely should it want to have an effect on the battle. However, Absol has terrible 65 / 60 / 60 defenses, making it very susceptible to priority such as Extreme Speed and Mach Punch. It also has mediocre Speed on the turn it Mega Evolves, usually forcing it to use Sucker Punch if it's facing a faster threat. It also can't run Play Rough in conjunction with Knock Off, forcing it to use Superpower, a move with inferior coverage in comparison to Play Rough and a bad side effect in stat drops. Finally, it is revenge killed very easily by common Choice Scarf users such as Krookodile and Hydreigon. However, Absol's flaws are mitigated by its positive aspects, and it is one of the definitive sweepers in the current metagame.
+Mega Absol has fantastic offensive stats and the wide movepool to back it up. Mega Absol has plenty of options offensively, with moves including Knock Off, Sucker Punch, Ice Beam, Fire Blast, Superpower, and Play Rough. It also has access to Swords Dance, boosting its already high Attack to insane levels. Its ability when Mega Evolved, Magic Bounce, further helps its offensive presence, preventing Thunder Wave, Will-O-Wisp and even Stealth Rock, bouncing them back at the opponent, and it excels at bothering lead Pokemon such as Froslass. However, Mega Absol is immensely frail, struggling to take even neutral hits, making it nearly impossible to switch into attacks. It also has poor Speed before Mega Evolving, meaning it is forced to use Sucker Punch on faster threats.
+
 
 Swords Dance
 ########
 name: Swords Dance
 move 1: Swords Dance
-move 2: Sucker Punch
-move 3: Knock Off
-move 4: Superpower
+move 2: Knock Off
+move 3: Sucker Punch
+move 4: Play Rough / Superpower
 ability: Justified
 item: Absolite
 evs: 252 Atk / 4 SpD / 252 Spe
@@ -18,35 +19,37 @@ nature: Jolly / Adamant
 Moves
 ========
 
-Absol finds many opportunities to use Swords Dance to boost its already massive Attack due to its ability to force out common Pokemon such as Victini, Blissey, and Sableye. Sucker Punch is Absol's main STAB move, as it deals massive damage to faster Pokemon. Knock Off is a more reliable STAB move, crippling Pokemon reliant on their item and having good coverage as well. Superpower is used to hit Dark- and Steel-types, such as Hydreigon and Krookodile lacking Choice Scarf, as well as Lucario, opposing Absol, and Empoleon.
+Swords Dance boosts Mega Absol's Attack to crazy levels and works great in combination with Mega Absol's ability, which bounces back moves such as Will-O-Wisp and Thunder Wave. Knock Off is a powerful STAB attack that also removes its target's item. Sucker Punch is powerful priority against Pokemon that can outspeed Mega Absol, and it usually grants a safe turn to Mega Evolve against faster threats. Play Rough is a great way to hit Dragon-, Dark-, and Fighting-type Pokemon, such as Salamence, Krookodile, and Chesnaught, super effectively, but Superpower can be used for greater power if the stat drops aren't troublesome. Superpower does not hit Fighting- and Dragon-types super effectively, however.
 
 Set Details
 ========
 
-252 Speed EVs allow Absol to outspeed many non-Choice Scarfed threats, while 252 Attack EVs give Absol extra firepower, and 4 Special Defense EVs give Download users an unwelcome Attack boost. Absolite is vital, as regular Absol is not viable in UU. A Jolly nature is used to outspeed otherwise faster Pokemon, such as non-Choice Scarf variants of Mienshao and Froslass, which can switch in and OHKO Absol. You can use an Adamant nature for even more firepower, because Absol is already very fast and can use Sucker Punch to hit anything faster.
+The 4 Special Defense EVs give common Download users an Attack boost instead of a Special Attack boost. 252 Attack EVs maximize Mega Absol's damage output, while maximum Speed is used to Speed tie with other base 115 Speed Pokemon. An Absolite is the only item you want to equip, as non-Mega Absol is unviable in UU. Justified can be used to let Absol switch into weak Dark-type moves before Mega Evolving to get a free Attack boost. An Adamant nature can be used for a slight power increase, but Jolly is the preferred nature to outspeed Pokemon such as Froslass and Infernape after Mega Evolving.
 
 Usage Tips
 ========
 
-While a Swords Dance-boosted Mega Absol is hard to stop, it finds priority quite threatening, so it is recommended that Mega Absol be used as a mid- or late-game sweeper, after its teammates have disposed of any priority users; or as a wallbreaker, taking advantage of its low defenses to cause massive damage, faint, and give a free switch-in to your sweeper or another teammate to finish the threat off.
+Do not be reckless switching Mega Absol into attacks. It is extremely frail and can't take many hits, sometimes even resisted ones, especially if there are entry hazards up. Mega Absol does, however, have plenty of free switch opportunities to defensive Pokemon such as Blissey, because most of them fear Knock Off and Magic Bounce, which gives Absol a free turn of setup. However, Mega Absol is best used for late-game cleaning, once its checks and counters have taken prior damage. Before Mega Evolving, Absol can switch into a predicted weak Dark-type attack, such as Knock Off, as the damage is reduced when the target is holding a Mega Stone, to get a free Attack boost due to Justified. Very few things are safe switch-ins to Mega Absol at +2 or even +1 thanks to its massive Attack stat, so finding opportunities to set up are a must.
 
 Team Options
 ========
 
-Mega Absol appreciates entry hazard support, as the extra damage assists it in picking off weakened walls. Forretress can set up on most walls that cause trouble for Absol, including Florges, Mega Aggron, and Aromatisse. Roserade also works well, as it can force out the aforementioned Fairy-types, cripple most switch-ins with Sleep Powder, and set up hazards with relative ease. Nidoking and Nidoqueen are excellent offensive partners to Absol, beating the Steel- and Fairy- types that check it and resisting Fighting- and Bug-type moves, while Absol destroys Psychic-types such as Cresselia. A bulky Volt Switch or U-Turn user, such as defensive Rotom-H, can take a hit from the opponent and immediately switch safely into Absol.
+Mega Absol appreciates the extra damage entry hazards give foes when it is attempting to sweep, so Pokemon such as Forretress, which also handles Florges, Aromatisse, and Mega Aggron, that can set up Stealth Rock are decent choices. Roserade is a good teammate that can handle Florges, one of Mega Absol's biggest checks, and can cripple other switch-ins with Sleep Powder. Pokemon with Volt Switch or U-turn, such as Rotom-H or Mienshao, can provide good opportunities for Mega Absol to get up a free Swords Dance.
+
 
 Other Options
 ########
 
-Mega Absol can make good use of a mixed set due to its nice base 115 Special Attack and access to Fire Blast, which nails switch-ins such as Forretress. However, such a set is generally inferior due to the lack of a boosting move and the fact that Mega Absol is better off using its massive base 150 Attack as well as the sheer power and utility of Knock Off. Iron Tail can be used against Florges and Aromatisse, but relying on 75% accuracy is a tad risky, and it's only reliable against Aromatisse on the switch. Baton Pass can be used to pass the Swords Dance boosts just before Absol faints, and Magic Bounce ensures that Absol cannot be Roared out. Will-O-Wisp adds a surprise factor to Absol, as it's an uncommon move that can cripple opposing physical attackers, but seeing as Absol has a serious case of four-moveslot syndrome, Will-O-Wisp just isn't worth a coveted moveslot. Play Rough is a good coverage move, but it forces Absol to give up Knock Off, so it's not really worth using.
+Mega Absol works as a decent Pursuit trapper if the foe is afraid of taking a Knock Off. Iron Tail can be used to hit Pokemon such as Florges, although the 75% accuracy is a huge downfall. A combination of Swords Dance and Baton Pass can be used to pass boosts to teammates. Mixed Mega Absol with Fire Blast to hit Forretress or Ice Beam to hit Salamence is an option if the rest of your team has trouble with them. Will-O-Wisp is a nice lure that can burn common switch-ins such as Donphan and Salamence.
+
 
 Checks & Counters
 ########
 
-**Fairy-types**: Fairy-type Pokemon such as Florges, Granbull, and Aromatisse resist both Absol's STAB moves and Superpower. However, they must be wary of being hit by Iron Tail on the switch.
+**Mega Aggron**: Mega Aggron can easily tank any move other than Fire Blast, which doesn't even do much, and has a large chance to OHKO back with Heavy Slam.
 
-**Revenge Killers**: Choice Scarf users that resist to Sucker Punch, such as Hydreigon and Krookodile, can tank even a +2 Sucker Punch and KO Absol with their powerful STAB moves. Focus Sash Alakazam also gets a mention, as it can survive any hit and KO with Dazzling Gleam.
+**Physical Walls**: Dedicated physical walls such as Suicune, Rhyperior, Swampert, and Donphan can take hits relatively well. Suicune can fish for Scald burns, while Donphan OHKOes after a bit of prior damage.
 
-**Physically Defensive Pokemon**: Physically defensive Pokemon, such as Arcanine, Swampert, Mega Aggron, physically defensive Mega Ampharos, and Hippowdon, can all tank Mega Absol's hits and threaten it out with their strong STAB moves. Mega Aggron in particular is one of the best switch-ins to Mega Absol, thanks to its massive Defense.
+**Faster Threats**: Faster threats that have enough bulk to survive a Sucker Punch, such as Crobat and Choice Scarf Mienshao can take advantage of Mega Absol's mediocre bulk.
 
-**Fighting-types** Fighting-types such as Machamp resist Absol's STAB moves and can force it out with their own powerful STAB moves.
+**Fairy-types**: Fairy-types such as Florges resist Mega Absol's STAB moves and take little from any move outside of Iron Tail. Most have a good chance to OHKO with Moonblast.

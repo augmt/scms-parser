@@ -1,0 +1,82 @@
+Overview
+########
+
+Thanks to insane natural bulk, a great support movepool, and solid coverage with only two moves, Suicune acts as a great check to huge metagame threats such as Mega Salamence, Landorus-T, Talonflame, and Terrakion. Suicune doesn't have many downsides, but it is weak to the fairly common Electric-type attacks and its offensive capabilities are far from spectacular.
+
+Support
+########
+name: Support
+move 1: Tailwind / Icy Wind
+move 2: Scald
+move 3: Ice Beam
+move 4: Protect / Snarl
+ability: Pressure
+item: Sitrus Berry / Rocky Helmet
+evs: 252 HP / 156 Def / 76 SpA / 4 SpD / 20 Spe
+nature: Bold
+
+Moves
+========
+
+Tailwind and Icy Wind give Suicune the ability to raise its team's Speed and lower the foe's, respectively; this places a great deal of offensive pressure on the opponent. Scald is Suicune's primary attacking move; it receives STAB and has a 30% chance to burn the foe, which is great in a metagame filled with physical attackers. Ice Beam has good offensive synergy with Scald and allows Suicune to hit top metagame threats such as Mega Salamence and Landorus-T for 4x super effective damage. Protect gives Suicune survivability and allows a turn for a teammate to check anything threatening Suicune; it also works well with Pressure to stall out low-PP moves such as Draco Meteor and Heat Wave. Snarl gives Suicune the ability to lower the Special Attack stat of potent threats such as Sylveon and Doublade while also doing some damage.
+
+Set Details
+========
+
+The given EV spread allows Suicune to outspeed Adamant Choice Scarf Landorus-T during Tailwind and OHKO it with Ice Beam. The remaining EVs are invested in HP and defenses to give Suicune the most opportunities to support its team. Sitrus Berry is the go-to item for defensive Pokemon, giving them reliable instant recovery, but if another team member is already using Sitrus Berry, Rocky Helmet is a viable option.
+
+Usage Tips
+========
+
+Keep Tailwind up as often as possible, as this keeps up offensive pressure and allows your Pokemon to attack first in most cases. Scald can be used in an attempt to burn physical attackers such as Terrakion and Mega Kangaskhan. Snarl helps Suicune and its teammates take special attacks better, so if you opt for that be sure to utilize it when facing common special attackers.
+
+Team Options
+========
+
+Suicune pairs well with Pokemon that appreciate the Speed boost from Tailwind, such as Mega Kangaskhan, Breloom, Sylveon, and Mega Gardevoir. Suicune appreciates Fake Out, Rage Powder, and Follow Me users such as Mega Kangaskhan, Infernape, Volcarona, Amoonguss, and Clefable, as they give it an easier time setting up Tailwind with their respective moves. Fire- and Grass-type Pokemon such as Volcarona, Entei, Heatran, Mega Venusaur, Amoonguss, and Breloom have great defensive synergy with Suicune, by forming a Fire / Water / Grass core.
+
+Bulky Offense
+########
+name: Bulky Offense
+move 1: Scald / Hydro Pump
+move 2: Ice Beam
+move 3: Tailwind / Calm Mind
+move 4: Protect / Rest
+ability: Pressure
+item: Sitrus Berry / Chesto Berry
+evs: 116 HP / 252 SpA / 140 Spe
+nature: Modest
+
+Moves
+========
+
+Scald and Hydro Pump are both solid options for a Water-type attacking move. Scald has the chance to burn the foe, whereas Hydro Pump may be preferred for its higher Base Power. Ice Beam has great offensive synergy with either Water-type attack and gives Suicune the ability to hit most Pokemon for neutral damage. Tailwind gives Suicune the ability to outpace a good chunk of the metagame while supporting its teammates. Calm Mind gives Suicune the ability to take advantage of foes using Protect by boosting its Special Attack and Special Defense. Protect can give a teammate the opportunity to deal with a threat to Suicune or just to shield Suicune from unnecessary damage for a turn. Rest pairs well with Calm Mind and can be used in conjunction with Chesto Berry for semi-reliable instant recovery.
+
+Set Details
+========
+
+The given EV spread allows Suicune to outpace Adamant Bisharp, optimize Special Attack, and maintain solid overall bulk. An alternative EV spread utilizing 236 Speed EVs can be used if you prefer to outspeed Jolly Breloom, but you run the risk of being OHKOed by certain attacks such as Choice Specs Hydreigon's Draco Meteor if you drop Suicune's HP investment. If Sitrus Berry and Chesto Berry are already being used by a member of your team Suicune can opt to run Splash Plate, Rocky Helmet, or Leftovers.
+
+Usage Tips
+========
+
+Use Suicune's bulk to tank powerful attacks such as Draco Meteor, and retaliate back with a powerful Scald, Hydro Pump, or Ice Beam. Tailwind should be used in situations where both Suicune and its teammate appreciate the Speed boost and there is nothing to threaten Suicune. Use Calm Mind when given the opportunity; it's not wise to actively try to boost Suicune's stats, but rather to take advantage of predicted Protects.
+
+Team Options
+========
+
+Suicune pairs well with Pokemon that appreciate the Speed boost from Tailwind, such as Mega Kangaskhan, Breloom, Sylveon, and Mega Gardevoir. Suicune appreciates the setup opportunies that support Pokemon such as Raichu and Amoonguss bring if it chooses to run Calm Mind. Thanks to its powerful Water-type attacks, Suicune can support Pokemon that appreciate Fire-type Pokemon removed such as Scizor and Mega Metagross.
+
+Other Options
+########
+
+Suicune has access to several reliable coverage moves such as Extrasensory, Hidden Power Fire, and Shadow Ball should you find your team desires it. Suicune can forgo Ice Beam in favor of Blizzard on hail teams using Abomasnow. Substitute can be used to dodge status and gain extra setup opportunites, but this added benefit is typically not worth dropping Protect or a coverage move. If you find yourself struggling with Electric-type Pokemon in particular, Suicune can use a Wacan Berry to halve the damage from their super effective STAB moves. Suicune can also do more obscure things such as run Quash or drop all non-damaging moves to use Assault Vest if you wish.
+
+Checks & Counters
+########
+
+**Electric-types**: Electric-type Pokemon such as Thundurus, Rotom-W, Raikou, Zapdos, and Mega Manectric can threaten Suicune with super effective moves and have the ability to Volt Switch on any potential switch-ins.
+
+**Grass-types**: Grass-type Pokemon such as Ludicolo, Mega Venusaur, Breloom, Ferrothorn, and Amoonguss resist Suicune's Water-type attacks and can hit it for super effective damage or put it to sleep with Spore.
+
+**Mega Charizard Y**: Mega Charizard Y poses a special threat to Suicune, as Drought weakens Suicune's Water-type attacks by 50% and also allows Charizard to hit Suicune for super effective damage with Solar Beam.

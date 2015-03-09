@@ -1,15 +1,16 @@
 Overview
 ########
 
-Galvantula is an interesting Pokemon. It has a unique Bug / Electric typing, can abuse a 91% accurate Thunder with its ability Compound Eyes, and is the fastest Sticky Web user in the entire game. It also possesses a decent base 97 Special Attack, as well as two great STAB moves in the form of Bug Buzz and Thunder. It also hits all Defoggers and Magic Bouncers for super effective damage, which makes it very hard to remove Sticky Web. However, it is not without its flaws. It is very frail, with bad 70/60/60 defenses, and faces competition from Shuckle, which also has access to Sticky Web as well as Stealth Rock and Sturdy, meaning it can pretty much guarantee an entry hazard set up. Nevertheless, Galvantula stands out as an offensive Sticky Web setter.
+Galvantula has access to the coveted Sticky Web, which lowers the Speed of grounded foes that switch in by one stage. It also has an above-average base 108 Speed, letting it set up Sticky Web quickly. However, Galvantula has a relatively shallow movepool outside of Sticky Web and is held back by pathetic defenses. Although its base 97 Special Attack gives it some offensive presence, it cannot really hurt most threats not weak to its STAB moves. However, Galvantula does have a niche over Shuckle in that it has a good matchup versus common entry hazard removers such as Empoleon, Blastoise, and Crobat.
 
-Lead
+
+Suicide Lead
 ########
-name: Lead
+name: Suicide Lead
 move 1: Sticky Web
 move 2: Thunder
 move 3: Bug Buzz
-move 4: Thunder Wave / Energy Ball / Volt Switch
+move 4: Thunder Wave / Energy Ball
 ability: Compound Eyes
 item: Focus Sash
 evs: 252 SpA / 4 SpD / 252 Spe
@@ -18,35 +19,38 @@ nature: Timid
 Moves
 ========
 
-Sticky Web provides the amazing utility of slowing down grounded opponents that switch in, and it is the most important move on the set. Thunder is a powerful STAB that has 91% accuracy with Compound Eyes as well as a 30% paralysis chance. Bug Buzz is a secondary STAB move that hits most targets which resist Thunder. Thunder Wave is a good option to use in the fourth slot as it can cripple Pokemon immune to Sticky Web or those which are fast enough to ignore the Speed drop, as well as Pokemon that use Speed-boosting moves, such as Cloyster. Energy Ball is also another option that hits Swampert and Ground-types in general super effectively. Volt Switch can also be used to do some damage and pivot out.
+Sticky Web is the main reason to use Galvantula, as it provides helpful speed control. Thunder is used over Thunderbolt because Compound Eyes boosts its accuracy to 91%, and Galvantula needs all the power it can get. Bug Buzz is a secondary STAB move that hits Grass- and Ground-types; it also nails Espeon and Mega Absol, which have Magic Bounce to reflect Sticky Web. Thunder Wave allows Galvantula to paralyze setup sweepers trying to set up on it and also has the added benefit of slowing down faster opposing leads. Energy Ball can be used to provide additional coverage, as it hits Swampert and most other Ground-types harder than Bug Buzz does.
 
 Set Details
 ========
 
-252 Speed EVs with a Timid nature maximizes Galvantula's Speed, allowing it to almost always outspeed opposing leads. 252 Special Attack EVs are used to allow Galvantula to hit hard with STAB Thunder and Bug Buzz. The 4 Special Defense EVs give Porygon2 and Porygon-Z an Attack boost from Download. A Focus Sash is necessary to guarantee setting up Sticky Web. Compound Eyes is needed to boost Galvantula's Thunder accuracy to 91%.
+Focus Sash is the mandatory item, as it allows Galvantula to survive almost any hit and set up Sticky Web. 252 Speed EVs and a Timid nature maximize Speed, allowing Galvantula to Speed tie with Infernape, while 252 Special Attack EVs give Galvantula more power behind its attacking moves. Compound Eyes is the ability chosen, as it boosts Thunder's accuracy to 91%.
 
 Usage Tips
 ========
 
-Unless Galvantula is facing a Prankster Taunt user, or if it can OHKO the opposing lead, Sticky Web is always the best move to be used first. Thunder, Bug Buzz, and (if applicable) Energy Ball should all be used to cause damage after Sticky Web has been set up. Thunder Wave can be used to cripple opposing threats, while Volt Switch should be used to build momentum and pivot out.
+Galvantula should almost always be used in the lead position, unless the opponent has a faster lead packing Taunt, such as Froslass. Against faster leads without Taunt, first use Thunder Wave, and then take advantage of their lowered Speed by setting up Sticky Web the next turn. Galvantula can deal with Magic Bounce users with Bug Buzz, hitting them super effectively and can also stop setup attempts by using Thunder Wave. After setting up Sticky Web, Galvantula should usually try to cripple the opposing lead with Thunder Wave or simply attack it right away, as it is likely the opponent has set up entry hazards or broken Galvantula's Focus Sash.
 
 Team Options
 ========
 
-Pokemon with relatively average Speed such as Porygon-Z or Kyurem can opt to not run a Choice Scarf and benefit from Sticky Web's Speed drop on the opposing team. The best Pokemon to benefit from this are Nidoking, Choice Band Flygon, Honchkrow, and non-Choice Scarf Hydreigon. Ghost-types are also great teammates as they can block Rapid Spin.
+Galvantula is best used with teammates that have good power, but are crippled by their average Speed. Pokemon such as Chandelure, Honchkrow, Machamp, and Nidoking fit into this category, and all of them enjoy Sticky Web support. This allows them to use power-boosting items over Choice Scarf, such as Choice Specs in Chandelure's case and Life Orb for Honchkrow and Nidoking. Rapid Spin users such as Starmie and Blastoise are good partners, as they can remove entry hazards on your side of the field without getting rid of Sticky Web. Spinblockers such as Chandelure can block Rapid Spin, which removes Sticky Web. A fast safety net such as Choice Scarf Darmanitan or Raikou can also be helpful if Sticky Web is removed or if opposing Flying-types are problematic. Finally, Taunt users such as Krookodile can be useful to limit Defog users such as Crobat.
 
 Other Options
 ########
 
-Galvantula doesn't have an expansive movepool. Choice Specs is an option as it can hit very hard with STAB Thunder and Bug Buzz, and it can still set up Sticky Web and switch out afterwards. Hidden Power Fire or Hidden Power Ice are also viable options for more coverage, but they are relatively weak. Life Orb can be used to switch moves and still have increased power, but Galvantula relies on Focus Sash to set up Sticky Web. Giga Drain can be used instead of Energy Ball, but without STAB it won't do enough damage to OHKO Swampert. Lastly, Sucker Punch can be used for a form of priority.
+Volt Switch can be used to pivot out after setting up Sticky Web; however, most of the time, Galvantula is better off just staying in. Hidden Power Ice can be used to hit select targets such as Flygon, Gligar, and Zygarde, but Thunder Wave is more useful in most situations for crippling opponents.
 
-Checks & Counters
+
+Checks and Counters
 ########
 
-**Taunt** Prankster Taunt users, such as Whimsicott and Sableye, shut down Galvantula's only niche. Azelf also naturally outspeeds with Taunt, but hates taking a Bug Buzz.
+**Priority Users**: Priority users such as Entei can limit Galvantula to using only Sticky Web by bringing it down to its Focus Sash and then finishing it off with a priority attack.
 
-**Entry Hazard Removal** If Galvantula isn't switched in, Defoggers such as Empoleon and Aerodactyl basically make it dead weight on a team, so they are a huge threat to it.
+**Choice Scarf Users**: Some Choice Scarf users, such as Rotom-H and Flygon, can outspeed and limit Galvantula to using only Sticky Web while being unaffected by Thunder Wave and not minding its STAB moves.
 
-**Choice Scarf Users** Choice Scarf Darmanitan or Flygon can 2HKO Galvantula quickly. Most Choice Scarf users can also threaten with a STAB move, as Galvantula is very frail.
+**Electric- and Ground-types**: Pokemon such as Nidoqueen, Mega Ampharos, and Raikou are immune to Thunder Wave and resist or are immune to Thunder.
 
-**Multi-hit moves** Multi-hit moves from Pokemon such as Cloyster can potentially OHKO Galvantula after it sets up Sticky Web, which prevents it from attacking after setting up the entry hazard.
+**Fast Taunt Users**: Fast Taunt users such as Froslass and Aerodactyl can prevent Galvantula from setting up Sticky Web by outspeeding and Taunting it. 
+
+**Entry Hazard Removers**: Some entry hazard removers, such as Gligar, Flygon, and Assault Vest Donphan, can remove Sticky Web and do not fear Galvantula's attacks.

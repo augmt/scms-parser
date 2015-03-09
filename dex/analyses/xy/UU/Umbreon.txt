@@ -1,17 +1,15 @@
 Overview
 ########
 
-Umbreon was widely recognized as being the best pure special wall in BW UU, and while it now faces competition from Florges for that role, it's still arguably the best at what it does. Its nice defensive typing leaves it with only three weaknesses&mdash;all of which are covered by a single type, Poison&mdash;and gives it a Psyshock immunity. Amazing overall bulk and access to STAB Foul Play, Heal Bell, and recovery options in Wish and Moonlight all combine to allow it to wall nearly every single special attacker in UU.
+There is a high dependency on Wish + Baton Pass users in the UnderUsed tier, and Umbreon's incredible 95 / 110 / 130 bulk makes it ideal for not only Wish + Baton Pass support, but cleric support as well. Umbreon's Dark typing is good for taking on many offensive and defensive types. Due to its bulk and access to Wish + Baton Pass, Umbreon pairs well with offensive pivots for effective core building, and thus it can be used on almost any type of team. Although Umbreon can be setup fodder, Foul Play is effective against offensive teams, which adds to Umbreon's viability, as not everyone prepares for Umbreon when teambuilding.
 
-That said, Umbreon is weak to the second most common attacking type in the tier (Fighting), and given its status as a pure wall, it is very vulnerable to Taunt and prone to getting set up on. However, even with those shortcomings Umbreon helps shape the tier merely by existing, a feat few Pokemon can claim.
-
-Special Wall
+Cleric / Wish Pass
 ########
-name: Special Wall
-move 1: Foul Play
-move 2: Wish / Moonlight
-move 3: Protect / Toxic
-move 4: Heal Bell / Toxic
+name: Cleric / Wish Pass
+move 1: Wish
+move 2: Protect / Moonlight
+move 3: Heal Bell / Baton Pass
+move 4: Foul Play
 ability: Synchronize
 item: Leftovers
 evs: 252 HP / 4 Def / 252 SpD
@@ -20,39 +18,38 @@ nature: Calm
 Moves
 ========
 
-STAB Foul Play puts the opponent in a tough spot by forcing them to pick between switching in a physical attacker that gets maimed by it or a special attacker that will most likely get walled. Wish allows Umbreon to heal itself and its teammates, while Moonlight is a less reliable option (due to Sand Stream's presence in the tier) that frees up the Protect moveslot and doesn't take two turns to work. Protect is a move you should only use if you opt for Wish over Moonlight, but it does have the utility of scouting for the ever-present Choice Fighting-types that roam UU. Heal Bell relieves Umbreon and its teammates of status conditions and works fantastically with Synchronize, allowing Umbreon to act as a very effective status deterrent and sponge. Toxic will allow Umbreon to beat, or at least cripple, special attackers it normally couldn't harm, such as Hydreigon, which Umbreon walls, but can't damage, and Mega Houndoom, which uses Umbreon lacking Toxic as setup bait.
+Wish is a reliable recovery move for Umbreon and its teammates. Protect ensures that Wish succeeds while allowing Umbreon to scout for common Choice item users such as Hydreigon and Mienshao and gain more Leftovers recovery. Moonlight eases the prediction of Wish, and provides Umbreon with more reliable recovery. Baton Pass allows Umbreon to easily pass a Wish to a teammate, while Heal Bell provides cleric support, allowing for more aggressive plays. The choice between Baton Pass and Heal Bell is dependent on the nature of your team; teams that already have Pokemon able to provide cleric support will appreciate Umbreon running Baton Pass in order to regain or generate momentum. Foul Play is a reliable move that causes a lot of damage to many of the physical attackers in the tier.
 
 Set Details
 ========
 
-The given EVs and nature maximize Umbreon's Special Defense. It may seem odd to use Calm over Careful with a physical attack on the set, but since Foul Play uses the opposing Pokemon's Attack stat, you might as well minimize confusion and and opposing Foul Play damage on Umbreon. Leftovers is used to allow Umbreon to gradually recover its HP so it doesn't need to waste a turn doing so as often.
+A Calm nature alongside the listed EV spread maximizes Umbreon's special bulk. Synchronize is a useful ability alongside Heal Bell, providing Umbreon with opportunities to cause some chaos against the opponent's team while supporting your own. Leftovers provides passive recovery and increased longevity.
 
 Usage Tips
 ========
 
-In general, you'll want to switch Umbreon in on anything it walls and use its Wish as a pivot move to get your next Pokemon in more easily, with it using Protect to heal itself whenever necessary. Umbreon also learns Baton Pass and can use it as a U-turn of sorts, allowing it to maintain momentum much more easily. It's also worth noting that Wish and Moonlight are not mutually exclusive; they can be used together to allow Umbreon to choose when it wants to heal itself or its teammate on any given turn, without having to resort to Protect.
+Use Umbreon with the knowledge that almost all non-super effective hits are irrelevant thanks to its reliable recovery. Umbreon is best used to sponge a variety of high-powered hits in order to provide excellent team support. Umbreon is better against Choice-locked Pokemon as opposed to setup Pokemon; for example, Choice Specs Raikou is a better matchup for Umbreon then Substitute + Calm Mind. Wish + Baton Pass Umbreon functions similarly to Wish + Baton Pass Vaporeon, sacrificing the extra HP in the Wish for more immediate bulk. Foul Play alongside Wish + Protect allows Umbreon to be self-reliant in certain situations.
+
 
 Team Options
 ========
 
-Generally speaking, Umbreon will fit best on stall and balance teams, as they appreciate the support it brings. Poison-types such as Nidoqueen, Crobat, and Qwilfish work extremely well with Umbreon as they cover all of its weaknesses; as a result, they are also far more likely to receive Wish support. Victini works similarly, resisting two of Umbreon's weaknesses and being neutral to the third.
+Umbreon functions well alongside Pokemon such as Crobat or Gligar, as they can take on some of its Fighting-type counters and provide utility and pivot support with Defog and U-turn, respectively. Umbreon works well alongside Swampert, as most Taunt users, such as Aerodactyl, Krookodile, and Crobat, are frail or fear Swampert's typing. Umbreon appreciates Rapid Spin and Defog support, as this makes its job a little easier. Baton Pass also gives Umbreon the ability to slow pass into powerful wallbreakers such as Choice Band Machamp, Choice Band Krookodile, and Choice Specs Yanmega.
+
 
 Other Options
 ########
 
-Umbreon doesn't have much in the way of other options that hasn't already been covered. Curse can be used on a set with Payback instead of Foul Play and a Careful nature to sweep by itself, and Umbreon can even pass it along using Baton Pass. Taunt is also an option for Umbreon to be more of a nuisance to stall and very defensive balance teams, but its low Speed stat will prevent it from being of much use versus any other team style.
+Toxic is another option instead of Foul Play or Protect in order to apply defensive pressure against bulky teams. A player can choose to play with the Baton Pass set's EV spread to make it more physically defensive; however, always maximize Umbreon's base stats by running a Calm nature. In the case where you opt for a defensive spread, running 252 HP / 156 Def / 100 SpD is most beneficial to Umbreon's utility potential. Lastly, Inner Focus is an interesting ability that keeps Choice Scarf Jirachi and other flinch users at bay, letting Umbreon counter with Foul Play or set up a Wish or Baton Pass.
+
 
 Checks & Counters
 ########
 
-**Fighting-types** Mienshao (especially those with Regenerator), Machamp, Scrafty, Virizion, Toxicroak, and Cobalion are all big threats to Umbreon, as they can switch in with relative ease and threaten to set up on it or straight-up KO it.
+**Fighting-types** Umbreon struggles immensely against Mienshao, Machamp, and Pokemon with Fighting-type moves such as Superpower Absol. Choice Band wallbreakers also prevent Umbreon from successfully setting up Wish + Baton Pass.
 
-**Calm Mind Users** Suicune and Slowking (if Umbreon lacks Toxic) use it as setup bait; this is especially dangerous if your team relies on Umbreon to stop every opposing special attacker. Raikou also wins if Umbreon switches in on it as it uses Calm Mind, as it can boost two more times and then proceed to 2HKO with Thunderbolt.
+**Taunt Users** Taunt shuts Umbreon down, which gives the opponent opportunities to retain momentum.
 
-**Mega Houndoom** Mega Houndoom takes next to nothing from Foul Play and can 2HKO Umbreon at +4.
+**Trick Users** An optimally timed Trick by a Jirachi or Chandelure can cripple Umbreon by preventing it from using its utility-based moves.
 
-**Taunt** Much like every non-Aromatisse wall, Umbreon is extremely vulnerable to Taunt.
-
-**Bug-types** Escavalier, though it takes massive damage from Foul Play, can threaten a KO with Megahorn as well. Venomoth and Vivillon can set up Quiver Dance on Umbreon freely, much like Calm Mind users.
-
-**Fairy-types** Florges is the main one seen in UU, but more niche Pokemon such as Granbull, Aromatisse, and Slurpuff are also big threats. It's worth noting, however, that should Slurpuff choose to Belly Drum on Umbreon, it risks getting OHKOed by Foul Play.
+**Bulky Setup Sweepers** Substitute + Calm Mind Suicune, Calm Mind Florges, and Curselax are amongst the few reliable setup sweepers that can set up on Umbreon.

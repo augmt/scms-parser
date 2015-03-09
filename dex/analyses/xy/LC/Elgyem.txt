@@ -1,73 +1,54 @@
 Overview
 ########
-- Cute alien
-- Can reliably recover health
-- Very weak to Knock Off
-- Low Speed + Analytic lets it hit harder
 
-Physical Wall
+Elgyem has a great ability in Analytic, which gives it a 30% boost to its attacks if it moves last, complementing its high Special Attack and low Speed quite nicely. Elgyem also sports solid 55 / 55 / 55 defenses and access to reliable recovery, which gives it good longevity with Eviolite. Its main flaw lies in its defensive typing; it doesn't have many opportunities to switch in due to it only having two resistances, and it has unfortunate weaknesses to the moves Knock Off, Pursuit, and U-turn.
+
+Bulky Attacker
 ########
-name: Physical Wall
+name: Bulky Attacker
 move 1: Psychic
-move 2: Shadow Ball
-move 3: Recover
-move 4: Hidden Power Fighting / Thunder Wave / Calm Mind
+move 2: Recover
+move 3: Hidden Power Fighting
+move 4: Thunderbolt / Energy Ball / Thunder Wave
 ability: Analytic
-item: Eviolite 
-evs: 236 HP / 240 Def
-nature: Bold
+item: Eviolite
+evs: 160 Def / 160 SpA / 160 SpD
+nature: Modest
 
 Moves
 ========
 
-- Psychic is the obligatory STAB move that deals decent damage
-- Shadow Ball hits the and Psychic-types that have little to fear from Elgyem's STAB
-- Recover is almost mandatory for healing off damage while tanking physical hits
-- Hidden Power Fighting hits Dark-types that might switch in to wall its other attacks, and is especially good for hitting Pawniard on the switch-in
-- Thunder Wave is an ideal option for quickly putting setup sweepers out of commission and making them easy to take out by teammates
-- Calm Mind is a setup option that can capitalize on forced switches for more power
+Psychic is Elgyem's most powerful STAB move, heavily damaging any faster targets that don't resist it and easily OHKOing the many bulky Fighting-types of the metagame. Recover keeps Elgyem healthy, as it will almost certainly be taking hits before it moves. Hidden Power Fighting smacks Dark-types that may try to switch into Psychic such as Pawniard, Scraggy, and Houndour. Thunderbolt hits Flying- and Water-types, such as Archen, Vullaby, and Slowpoke hard. Energy Ball can be used for better coverage versus Ground-types such as Drilbur and Hippopotas, as well as OHKOing Berry Juice Chinchou and Eviolite Tirtouga after Stealth Rock damage. Thunder Wave is another option which cripples opposing setup sweepers and faster Pokemon.
 
 Set Details
 ========
 
-- Eviolite is the ideal item to use here because Elgyem gets Recover to reliably heal and therefore does not need Berry Juice, and it appreciates the added bulk
-- The given EVs maximize Elgyem's physical bulk and gives Elgyem an HP stat of 25, a Stealth Rock number, which is important for minimizing hazard damage
-- 240 Def EVs are used instead of 236 due to Hidden Power Fighting's IV requirements
-- Analytic ability works perfectly with Elgyem's low Speed, allowing it additional power against faster foes as well as switch-ins
+The EV spread and nature let Elgyem hit 14 in each defensive stat with the rest put into Special Attack to increase its damage output while accounting for Hidden Power Fighting's IV drop. Eviolite boosts Elgyem's bulk; it won't need Berry Juice, as it has access to reliable recovery. Analytic pairs nicely with Elgyem's low Speed, giving it added power versus both faster foes and foes that switch into its attacks. An alternate spread of 76 HP / 160 Def / 80 SpA / 160 SpD allows Elgyem to heal more HP with Recover but comes at the cost of some power. Lowering Elgyem's Speed IVs and using a Quiet nature is an option to underspeed more Pokemon to further take advantage of Analytic. However, Elgyem does enjoy being faster than certain Pokemon, such as defensive Tirtouga and Foongus, so that it can hit them with Energy Ball and Psychic, respectively.
 
 Usage Tips
 ========
 
-- Recover needs to be used in advance in many situations while tanking hits because of Elgyem's low Speed; if it waits too late to use it, it may not have the chance to
-- Predicted switches to Steel- or Dark-types (especially Pawniard) can be capitalized on by using HP Fighting, punishing them for attempting to threaten Elygem by switching in
-- Thunder Wave also makes an ideal option for crippling switch-ins and also gives Elgyem a Speed advantage that makes it easier to select moves
-- Calm Mind is ideal for use with Recover to make Elgyem into a self-sustaining sweeper, much like Spritzee, but Pokemon that Elgyem is weak to will need to be removed before this can reliably be done
+Recover should be used well in advance due to Elgyem's low Speed, ensuring it can keep tanking hits and attacking. Otherwise, it risks being revenge killed by a faster Pokemon. While Elgyem packs a useful resistance to Fighting-type moves, keep in mind that it is weak to Knock Off, a common coverage move for most Fighting-types, as well as Mienfoo's U-turn. If your opponent has a Dark-type such as Pawniard or Houndour, Hidden Power Fighting can be used to hit them hard on a predicted switch-in. If using Thunder Wave, keep in mind that while it's useful for crippling certain setup sweepers, this will likely cause Elgyem to lose out on an Analytic boost the next turn due to the foe becoming much slower.
 
 Team Options
 ========
 
-- Fighting-types help Elgyem deal with the Dark-types that threaten it. Spritzee can help against many of these too, but it is less effective against Pawniard
-- Dark-types like Vullaby are good partners for Elgyem, as they handle the Ghost-types that Elgyem fears.
+Bulky Fighting-types such as Mienfoo, Timburr, and Pancham can break through bulky Steel- and Normal-types that Elgyem can't beat, defeat the Dark-types that threaten it, and provide helpful Knock Off support. Dark-types such as Vullaby and Houndour can help deal with Ghost-types such as Gastly for Elgyem. As Elgyem is weak to Dark, a Knock Off absorber such as Trubbish or Mienfoo is useful to tank Knock Offs aimed at Elgyem.
 
 Other Options
 ########
 
-- Psyshock is an alternative and slightly weaker option over Psychic that can hit the physical defense of foes rather than special
-- Signal Beam is an option to hit both the Psychic- and Dark-types that wall Elgyem's STAB, but it does not hit Meditite for super effective damage like Shadow Ball, and Elygem loses out on a OHKO against Pawniard if this is used over HP Fighting
-- Thunderbolt is an additional coverage option for hitting Water- and Flying-types for super effective damage
-- Synchronoise hits Psychic-types incredibly hard, but it unfortunately is not useful at all otherwise
-- Energy Ball is an additional coverage option for hitting Grass-type-weak enemies for super effective damage
-- Toxic stalling can work with Recover for wearing down bulky/support enemies
-- Elgyem is slow enough to make use of Trick Room, but unfortunately it is not a very reliable playstyle in Little Cup, it also ruins the benefit of Analytic; however, a set with Trick Room, Calm Mind, Recover, and Psychic can be deadly once Psychic-type resists and immunities are removed. This is not very practical, though
-- Magic Coat is a nice surprise against hazard setters or status spreaders
+Psyshock is an option over Psychic to hit Pokemon with lower physical bulk, but Psychic is usually the superior choice. Hidden Power Fire can be used to OHKO Ferroseed as it switches in. Calm Mind can be used to boost Elgyem's Special Attack and Special Defense to attempt a sweep, but this is arguably done better by Spritzee due to its higher bulk and better typing. Dark Pulse or Shadow Ball can be used for better coverage versus Pumpkaboo-XL and Honedge, but aren't too useful otherwise. Elgyem is certainly slow enough to act as a Trick Room setter or sweeper, but this is counterproductive with Analytic, and there are bulkier and more powerful Pokemon to make use of the move, such as Porygon, Spritzee, Slowpoke, and Solosis. Toxic can be used to wear down opposing walls. Elgyem can provide dual screens support, giving a teammate an easier time setting up. Elgyem has a few other boosting options up its sleeve, such as Nasty Plot, Barrier, and Cosmic Power. Magic Coat is an option to bounce back entry hazards among other effects. Trick can be utilized alongside Choice Specs to hit incredibly hard and potentially cripple a wall with a Choice item. Synchronize is an option over Analytic to punish opposing status users, but Analytic is a much better ability overall.
 
 Checks & Counters
 ########
 
-**Dark-types**: If these manage to get in, they can cause Elgyem a lot of problems, especially Pawniard if it can enter battle without taking a HP Fighting; Knock Off significantly hampers Elgyem's walling capabilities
+**Dark-types**: Dark-types such as Pawniard, Houndour, and Stunky heavily threaten Elgyem with their STAB moves and can trap it with Pursuit. Stunky is a particularly good answer to Elgyem, as it is only hit neutrally by Hidden Power Fighting, unlike Pawniard and Houndour.
 
-**Ghost-types**: These can severely hurt Elygem with STAB Shadow Ball
+**Ghost-types**: While they won't enjoy switching into an Analytic-boosted Psychic, Ghost-types such as Gastly can KO Elgyem with their STAB moves.
 
-**U-turn Users**: Even slow U-turn users like Larvesta can get a decent chunk of damage with U-turn and then switch out to a partner that can finish Elgyem off after taking the damage; ones that get STAB from it are obviously more worrisome
+**Knock Off Users**: Elgyem is severely crippled by Knock Off because it is weak to Dark and loses its Eviolite if hit by the move, which it needs to best perform its role as a bulky attacker.
 
-**Toxic**: As is the case with most self-sustaining walls, Toxic will wear Elgyem down despite its ability to recover health at will
+**U-turn Users**: U-turn users such as Larvesta, Mienfoo, and Fletchling can hit Elgyem super effectively and switch out to a partner better equipped to handle Elgyem.
+
+**Special Walls**: Special walls such as RestTalk Munchlax and Heal Bell Lickitung can sponge any of Elgyem's attacks and aren't particularly bothered by Thunder Wave. However, they will lose if Elgyem is carrying Calm Mind.

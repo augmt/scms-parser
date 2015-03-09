@@ -1,6 +1,10 @@
 Overview
 ########
-Excadrill's access to Sand Rush allows him to outspeed the entire unboosted metagame when sand is up. This, along with his incredible base 135 Attack stat, makes him a threatening revenge killer and late-game cleaner. On top of all this, Excadrill gets the coveted Rapid Spin, which removes entry hazards on your side of the field while keeping yours up. This, when combined with a Ground / Steel typing that has a 4x resistance to Stealth Rock, makes Excadrill one of the best hazard removers available. However, while he sports a great HP stat, this is offset by his low 60 / 65 defenses, which severely limit the amount of hits he can take. They, when combined with a weakness to common priority moves in Aqua Jet and Mach Punch, mean that Excadrill needs to have his checks gone before attempting a sweep. Common weaknesses in Ground, Fire, Fighting, and Water limit his setup opportunities even more and make checking him outside of sand much easier. Finally, a base 88 Speed stat is pretty average by OU standards, meaning that Excadrill needs either sand support or a Choice Scarf to be truly effective. Moreover, Tyranitar, Excadrill's favorite teammate due to Sand Stream, shares weaknesses with him, such as Ground, Water, and Fighting.
+
+With its devastating offensive capabilities and inability to be revenge killed in sand, Excadrill is the face of sand offense in the OU tier. In sand, it is pretty much impossible to revenge kill Excadrill, causing offensive teams major problems. Balanced teams typically have enormous trouble stomaching Swords Dance-boosted hits, which annihilate the likes of Slowbro and Gliscor. Additionally, Excadrill has access to Rapid Spin, which allows it to act as a great entry hazard remover. Excadrill also has a solid typing that makes up for its rather mediocre bulk, allowing it to go toe-to-toe with Pokemon such as Latios and Raikou.
+
+However, despite how solid of a Pokemon it is, Excadrill is not without its flaws. Its Speed stat is far from stellar outside of sand, leaving it vulnerable to being revenge killed. Its defenses and typing leave it vulnerable to being revenge killed by common priority attacks, especially when it has been weakened a bit. To make matters worse, Excadrill has poor type synergy with Hippowdon and Tyranitar, which are required as partners in order to set up sand. All in all, Excadrill is a devastating offensive threat in the OU tier and a crucial component of sand offense.
+
 
 Sand Rush Sweeper
 ########
@@ -8,7 +12,7 @@ name: Sand Rush Sweeper
 move 1: Earthquake
 move 2: Iron Head
 move 3: Rock Slide
-move 4: Rapid Spin / Swords Dance
+move 4: Swords Dance / Rapid Spin
 ability: Sand Rush
 item: Life Orb / Air Balloon
 evs: 252 Atk / 4 Def / 252 Spe
@@ -17,66 +21,69 @@ nature: Adamant / Jolly
 Moves
 ========
 
-Earthquake is Excadrill's primary STAB move, as it sports great power and coverage. STAB Iron Head allows Excadrill to hit Fairies such as Clefable, Mega Gardevoir, and Sylveon super effectively, while also being his best option against the likes of Landorus-T and Gliscor, common Excadrill checks, as well as other Pokemon immune to Earthquake. Rock Slide forms the EdgeQuake coverage with Earthquake, allowing Excadrill to hit Flying-types such as Talonflame and Mega Pinsir super effectively. The fourth moveslot should be based on what your team needs. If you need entry hazard control, Rapid Spin is the superior choice. However, if you already have a form of hazard control, Swords Dance is an option that can allow Excadrill to sweep teams late-game.
+Earthquake and Iron Head are Excadrill's STAB moves, sporting high power and fantastic coverage. Life Orb-boosted Earthquake is extremely powerful, 2HKOing standard Ferrothorn and generally pummeling pretty much any Pokemon that does not resist it. Iron Head has a useful chance to flinch and hits most non-grounded foes, such as Latios, Landorus-T, and Gengar, for a high amount of damage. Rock Slide is Excadrill's best coverage move, hitting Flying-types such as Thundurus, Talonflame, and Mega Pinsir super effectively. It is also Excadrill's best option against Rotom-W and Skarmory. The last slot is a choice between sweeping capability and team support. Swords Dance turns Excadrill into a fearsome balance breaker; for instance, it gives it a high chance to KO Slowbro and standard Choice Scarf Landorus-T after Stealth Rock damage with Earthquake. However, Rapid Spin is a viable alternative if removing entry hazards, especially Stealth Rock, is important for Excadrill's teammates.
 
 Set Details
 ========
 
-The EVs are straightforward. Maximum Speed investment with an Adamant nature is used to Speed tie opposing Excadrill at worst. If that isn't an issue, however, an alternate spread of 52 HP / 252 Atk / 204 Spe can be used to outspeed Choice Scarf base 110 Speed Pokemon. Regardless, Attack should be maximized to hit as hard as possible. Air Balloon allows Excadrill to switch into predicted Earthquakes, as well as have a safety net against opposing Excadrill. If that isn't needed, a Life Orb can be used to greatly increase Excadrill's power output. Additionally, a Jolly nature is an option to outspeed neutral-natured base 100 Speed Pokemon outside of sand, as well as potentially outspeeding opposing Excadrill.
+Maximum Attack and Speed investment allows Excadrill to hit as hard and fast as possible. An Adamant nature is generally preferable for the power boost, allowing Earthquake to 2HKO Ferrothorn with no boost and Slowbro with a boost. However, A Jolly nature is also a viable option to tie with opposing Excadrill at worst, outrun +2 Jolly Gyarados, and outrun neutral-natured base 100 Speed Pokemon such as Mega Charizard X, Mega Charizard Y, and Mega Gardevoir. Life Orb is the preferred item to increase Excadrill's damage output, but easily wears Excadrill down. An Air Balloon can be used instead to gain free switches into Choice-locked Ground-types and improve Excadrill's matchup against opposing Ground-types in general; it can be used to gain extra opportunities to spin or beat the likes of Hippowdon, Gliscor, and Landorus-T if Excadrill uses Swords Dance on the switch. Teams that struggle with Ground-types will appreciate Air Balloon the most.
 
 Usage Tips
 ========
 
-This set should be used as a mid- or late-game sweeper after his checks and counters have been removed. Excadrill also performs very well as a revenge killer. To do this, though, sand should be up, as otherwise his Speed is lackluster. Bringing Excadrill in on defensive or Electric-type Pokemon such as Clefable, Chansey, non-Air Balloon Magnezone, and Raikou is generally a good idea, as they have no way of hitting Excadrill hard.
+If Excadrill is running Swords Dance, it acts as a great wallbreaker early-game. For example, a +2 Life Orb Earthquake is powerful enough to OHKO standard Ferrothorn after Stealth Rock damage. Excadrill is also capable of cleaning up weakened teams late-game, after its checks and counters have been sufficiently weakened and priority users have been KOed. Additionally, Excadrill is a decent check to any Fairy-type not named Azumarill thanks to its Steel typing. It can also check Flying-types under sand, as it is capable of beating Mega Pinsir, Talonflame, and Thundurus. Try to keep Excadrill as healthy as possible by keeping it away from attacks under most circumstances, as it might otherwise potentially be put in range of opposing priority attacks.
 
 Team Options
 ========
 
-Sand support is a must. Tyranitar makes a great partner due to his more offensive nature than Hippowdon, the other sand setter. Smooth Rock is a good option for Tyranitar to give Excadrill more turns of sand. Additionally, teammates who can take care of Rotom-W, such as Latias, Latios, and bulky Grass-types such as Celebi and Amoonguss, are good options. The latter two can handle Breloom and Azumarill reliably as well. Keldeo also makes a great teammate, as he is able to beat Landorus-T, Gliscor, and Skarmory reliably.
+Excadrill needs sand support to function, so either Smooth Rock Tyranitar or Hippowdon should be used alongside it. Bulky Grass-types give Excadrill trouble, so Pokemon such as Talonflame, Mega Scizor, and Mega Charizard Y make for great teammates. Bulky Water-types also pose a problem, so Pokemon such as Thundurus, Celebi, Tangrowth, and Raikou make for great teammates. Additionally, Pokemon such as Keldeo, Azumarill, Breloom, and Celebi can deal with the bulky Ground-types that Excadrill hates. Latias and Celebi are excellent teammates, as they can check Rotom-W and provide Healing Wish support for Excadrill. Finally, rain teams give Excadrill nightmares, so teammates that are able to take on common rain sweepers are recommended, such as Celebi, Tangrowth, and Ferrothorn.
 
-Choice Scarf
+Bulky Spinner
 ########
-name: Choice Scarf
+name: Bulky Spinner
 move 1: Earthquake
 move 2: Iron Head
-move 3: Rock Slide
-move 4: Rapid Spin
+move 3: Rapid Spin
+move 4: Toxic / Stealth Rock
 ability: Mold Breaker
-item: Choice Scarf
-evs: 252 Atk / 4 Def / 252 Spe
-nature: Jolly
+item: Leftovers
+evs: 252 HP / 4 Atk / 252 SpD
+nature: Careful
 
 Moves
 ========
 
-Earthquake is Excadrill's most powerful move. Thanks to Mold Breaker, Earthquake is more spammable thanks to it bypassing Levitate, though Flying-types are still immune. This allows Excadrill to get past Latios, Latias, and Gengar without resorting to the much weaker Iron Head, which should really only be used against opposing Fairies and Pokemon such as Landorus-T and Gliscor. Rock Slide provides coverage against Flying-types, while Rapid Spin removes entry hazards. Be aware that Excadrill is basically forced to switch out after spinning, as being locked into a 20 Base Power Normal-type move loses a lot of momentum.
+Earthquake and Iron Head are Excadrill's STAB moves, and they provide decent coverage against Electric-, Steel-, and Fairy-types. Rapid Spin is used to remove entry hazards from Excadrill's side of the field to support its teammates. Toxic is a great move, as it allows Excadrill to cripple the bulky Ground-, Grass-, and Water-types that like to switch into it. Thanks to Mold Breaker, it is able to hit Mega Sableye through Magic Bounce. However, Stealth Rock is a viable alternative, as Excadrill ignores Magic Bounce with Mold Breaker and has the longevity to set it up multiple times throughout the match.
 
 Set Details
 ========
 
-The EVs maximize Attack and Speed, while the remainder go into Defense to give an odd HP number. A Jolly nature in tandem with a Choice Scarf allows Excadrill to outspeed key threats such as Thundurus, Mega Charizard Y, +1 Adamant Mega Charizard X, Greninja, Gengar, Latios, and Latias, with Mold Breaker allowing him to bypass Levitate and beat the latter three.
+While full HP and Special Defense investment might look odd on Excadrill, the EVs allow it to tank some special hits it otherwise couldn't, including some super effective ones such as Clefable's Flamethrower and support Heatran's Lava Plume. It is also able to switch into Draco Meteors from Latios quite consistently and can tank a Fire Blast from Mega Altaria if required. Some Speed investment in order to outrun standard Rotom-W, which normally hits 219 Speed, and hit it with Earthquake may be run if desired. Mold Breaker allows Excadrill to ignore Mega Sableye's Magic Bounce and hit Levitate users, such as Rotom-W. Leftovers gives Excadrill passive recovery.
 
 Usage Tips
 ========
 
-Choice Scarf Excadrill can check a variety of dangerous Pokemon such as Mega Pinsir, Talonflame, and Thundurus, as well as sweep, and remove entry hazards from your side of the field. Furthermore, he is one of the best offensive checks to Thundurus due to his immunity to Thunder Wave. Unfortunately, being Choice-locked into Earthquake or Rapid Spin is easily taken advantage of through the use of setup moves, so use with caution. Teammates who remedy this, such as Unaware Clefable and priority users such as Azumarill, are appreciated.
+This set is best used as a bulky Rapid Spinner that pivots into certain special attackers, such as Clefable, Sylveon, Raikou, and Latios. It can then proceed to use Rapid Spin againsy these targets, as they have no way of dealing significant damage to Excadrill. Additionally, this set is capable of luring in and crippling many of Excadrill's normal checks, such as bulky Ground-, Grass-, and Water-types, with Toxic.
 
 Team Options
 ========
 
-Teammates who appreciate entry hazard removal, such as Talonflame and Dragonite, can capitalize on Excadrill's spinning capabilities. Users of Volt Switch and U-turn, such as Mega Scizor or Mega Manectric, allow Excadrill to get in safely. Teammates who are able to take care of Pokemon who can set up on Choice-locked Excadrill, such as Keldeo for Mega Gyarados, are appreciated, so as to not lose too much momentum. Additionally, bulky Grass-types to take on the likes of Azumarill and Breloom, such as Celebi, Mega Venusaur, Ferrothorn, and Amoonguss, make good teammates.
+Pokemon that appreciate entry hazard removal, such as Talonflame, Dragonite, Thundurus, and Kyurem-B, are able to take advantage of Excadrill's spinning capabilities. Pokemon that beat bulky Water- and Ground-types, such as Celebi, Tangrowth, Keldeo, and Raikou, are good partners. Clefable appreciates Excadrill's ability to handle most Steel-types, and in return it takes on the Fighting-types that threaten Excadrill. Additionally, it is able to pass Wishes to Excadrill to keep it healthy.
 
 Other Options
 ########
 
-Excadrill does have a few options not mentioned above. An Assault Vest set with an EV spread of 120 HP / 136 Atk / 252 SpD and an Adamant nature can be used as a bulky spinner. However, this set misses out on the power of the Sand Rush and Scarf sets, and Reflect Type Starmie outclasses Excadrill in this role. Additionally, Substitute can be used on the Sand Rush set to protect Excadrill from priority moves, as well as eat up hits that would otherwise KO Excadrill. If you're really scared of opposing sand teams, Sand Rush can be used on the Choice Scarf set to ensure that you outspeed opposing Excadrill. An Air Balloon set with Mold Breaker and Rapid Spin is an option. This set is usually inferior to the Sand Rush set, but unlike that set, it can get past Rotom-W. Also, a Mold Breaker + Swords Dance set holding Leftovers makes a decent stallbreaker, as Excadrill's immunities to both Toxic and Thunder Wave, as well as a 4x resistance to Stealth Rock, make him quite resilient against stall. Finally, a bulky Stealth Rock + Rapid Spin set with enough HP and Special Defense investment to take on Thundurus and Clefable makes for a decent Stealth Rock setter and Rapid Spinner all in one package.
-
+With a Choice Scarf, Excadrill becomes a fast Rapid Spinner, but setup sweepers can easily take advantage of an Excadrill locked into Rapid Spin. Return is a viable option on the Sand Rush set because it hits Rotom-W harder than any other move and has decent coverage in general. Substitute allows Excadrill to avoid status moves as well as Bisharp's Sucker Punch, which often awards it a free turn. A type-resist berry, such as a Chople or Passho Berry, allows Excadrill to avoid being revenge killed by Mach Punch and Aqua Jet, respectively, which often allows it to score a surprise KO. Finally, an offensive Stealth Rock set equipped with a Focus Sash can be used as a decent lead that sets up Stealth Rock and is capable of spinning away the opponent's entry hazards.
 
 Checks & Counters
 ########
 
-**Physical Walls**: Pokemon such as Skarmory, Mandibuzz when Stealth Rock is not on the field, Chesnaught, physically defensive Hippowdon, Slowbro, and physically defensive Gliscor can wall Excadrill all day long, thanks to their ability to tank repeated hits and recover off damage. Additionally, Tangrowth, physically defensive Celebi, and physically defensive Mega Scizor are able to tank his hits as well. However, these three lose if they come in when Excadrill uses Swords Dance.
+**Bulky Water-types**: Bulky Water-types, such as Rotom-W, Slowbro, and Alomomola, can tank hits from Excadrill and threaten it with a super effective Scald that can potentially burn it. However, these Pokemon struggle to handle Swords Dance Excadrill, which has a high chance to KO Slowbro and Alomomola after Stealth Rock damage with +2 Earthquake. It can also KO Rotom-W with +2 Rock Slide if it has already taken a Rock Slide from Excadrill. Quagsire can stomach hits from non-Life Orb Excadrill fairly effectively. Mega Slowbro is a perfect counter, being able to tank even Swords Dance-boosted Earthquakes while OHKOing in return with Scald after Excadrill has taken Stealth Rock and Life Orb damage.
 
-**Bulky Pivots**: Rotom-W and Landorus-T are able to force out Excadrill repeatedly and gain momentum through the use of Volt Switch and U-turn, respectively.
+**Ground-types**: Landorus-T (particularly defensive variants), physically defensive Gliscor, and Hippowdon are fantastic answers to Excadrill, possessing the raw bulk to tank its attacks and the ability to KO in return with STAB Earthquake. Garchomp can tank a hit from Excadrill and KO it in return with Earthqake, while physically defensive variants can actually switch in as they are not 2HKOed by Earthquake.
 
-**Priority Users**: Pokemon such as Azumarill, Crawdaunt, Conkeldurr, and Breloom are able to hit Excadrill with strong super effective priority attacks. Bisharp also deals a large blow with Sucker Punch.
+**Steel-types**: Skarmory is the best Excadrill counter in the game, able to tank any attacks from it with ease and set up hazards, go for Defog, phaze it out, or hit it back with Counter or Brave Bird. Physically defensive Mega Scizor is a fairly solid answer, only fearing the 2HKO from Adamant Life Orb-boosted Earthquake and being able to heal off the damage or KO Excadrill with Superpower. Ferrothorn, particularly with a more physically defensive spread than normal, can tank hits from Excadrill, though standard variants do not enjoy tanking Life Orb-boosted Earthquakes. Air Balloon Heatran can be used as an offensive check to Excadrill, avoiding Earthquake while being able to KO with Fire Blast. Choice Scarf Magnezone can trap and KO weakened Excadrill with Hidden Power Fire if it gets in after sand expires. Finally, Bronzong is a perfect counter to Excadrill.
+
+**Physically Defensive Pokemon**: While not necessarily fantastic switch-ins with Stealth Rock on the field, Mew, Mega Sableye, Mandibuzz, and physically defensive Celebi can all serve as effective checks to Excadrill.
+
+**Priority Moves**: Breloom, Azumarill, Conkeldurr, Crawdaunt, and Bisharp are capable of KOing Excadrill with their priority moves after a bit of prior damage. If Excadrill is sufficiently weakened, Talonflame, Mega Pinsir, and Choice Band Dragonite are capable of picking Excadrill off as well. However, they all can only revenge kill it, as Excadrill is capable of severely damaging them on the switch.

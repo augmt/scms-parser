@@ -1,58 +1,120 @@
 Overview
 ########
 
-Enter Chesnaught, one of the best bulky Spikers in the metagame. Sporting an impressive base 122 Defense and a vast support movepool that includes Spikes, Leech Seed, and Spiky Shield, Chesnaught is one of the best when it comes to walling physical threats. It also has a unique ability in Bulletproof, which helps it shut down select threats such as Roserade without Hidden Power Fire. However, while Chesnaught's Defense stat is massive, its Special Defense is quite the opposite, and Chesnaught will often find itself hard-pressed to deal with special attackers. Finally, Chesnaught is slow and will constantly find itself being outsped by offensive threats.
+Chesnaught is one of the best defensive Spikers in the tier. It boasts a base 122 Defense stat and has access to support moves such as Leech Seed and Spiky Shield, letting it take on many physical threats very well. Bulletproof makes it immune to moves such as Sludge Bomb that would normally put a big dent into it, allowing it to shut down threats such as Roserade without Hidden Power Fire and Chandelure locked into Shadow Ball. All those aside, Chesnaught is slow and has a poor Special Defense stat, so many decently fast special attackers can threaten it out.
 
-Defensive Spikes
+Physically Defensive
 ########
-name: Defensive Spikes
-move 1: Leech Seed
-move 2: Synthesis / Spiky Shield
-move 3: Spikes
-move 4: Wood Hammer
+name: Physically Defensive
+move 1: Spikes
+move 2: Leech Seed / Synthesis
+move 3: Spiky Shield / Roar
+move 4: Drain Punch / Wood Hammer
 ability: Bulletproof
 item: Leftovers / Rocky Helmet
-evs: 252 HP / 4 Atk / 252 Def
+evs: 252 HP / 252 Def / 4 SpD
 nature: Impish
 
 Moves
 ========
 
-This is Chesnaught's bread-and-butter set, and the one you will most likely be seeing on the UU ladder. Leech Seed is an important move for Chesnaught, as it allows Chesnaught to gain additional recovery while wearing opponents down. For the second moveslot, Synthesis is great for Chesnaught to gain immediate recovery, as it gets worn down quite easily, though Spiky Shield can also be used to stall with Leech Seed and scout the opponent's team. Spikes is essential on this set, as Chesnaught will be laying them down in its free turns and can cause the opponent to rack up some serious damage over time. Finally, Wood Hammer allows Chesnaught to do direct damage and deal with the plethora of common Water-types in the tier. However, Hammer Arm can be used over Wood Hammer to hit the Steel-types in the tier, as well as not take recoil damage.
+Spikes is very important, as it is one of the main reasons to use Chesnaught. It takes advantage of Chesnaught's bulk to set up entry hazards. The second moveslot is a toss-up between two forms of recovery. Leech Seed gives more passive recovery while wearing foes down. Synthesis, on the other hand, gives Chesnaught a method of reliable recovery. Spiky Shield allows you to scout for what the opposing Pokemon is going to do as well as gain more Leftovers and Leech Seed recovery. This also damages foes that try to hit Chesnaught physically. An option over Spiky Shield is Roar, which prevents Chesnaught from being setup fodder for some Pokemon, especially those that typically carry Substitute. The last moveslot depends on which offensive move you prefer. You could run Drain Punch for a reliable Fighting-type STAB move that also gets more recovery, or you could opt for Wood Hammer, a more powerful Grass-type STAB move with the drawback of recoil damage. Finally, Taunt is a viable option that prevents slower Pokemon such as Empoleon and Swampert from getting Stealth Rock up as well as preventing Empoleon from Defogging away your entry hazards. It also stops Trevenant from burning Chesnaught and Blissey from using any of its support moves.
 
 Set Details
 ========
 
-The EVs in this set maximize Chesnaught's physical bulk, allowing it to wall many physical attackers with relative ease. Leftovers is used for passive recovery and allows Chesnaught to heal a significant amount of HP when stacked with Leech Seed recovery. However, a Rocky Helmet can also be used; as Chesnaught will be walling physical attackers most of the time, it can do a lot of recoil damage to them. It also allows Chesnaught to punish Knock Off users with recoil damage. Finally, as previously stated, Bulletproof is a great ability for shutting down select threats like Roserade without Hidden Power Fire and should be used over Overgrow at all times because of this.
+Maximum HP and Defense EVs with an Impish nature maximize Chesnaught's physical bulk, taking advantage of its naturally high Defense stat. Leftovers is run to give more passive recovery, especially in conjunction with Spiky Shield and Leech Seed should you choose to run them. Rocky Helmet is also a good item, as it allows Chesnaught to punish physical attackers that it switches into. Bulletproof should be run 100% of the time, as it allows Chesnaught to take on Pokemon that would normally threaten it, such as Roserade without Hidden Power Fire.
 
 Usage Tips
 ========
 
-When switching in Chesnaught, make sure it switches in on something it can comfortably wall. On the first turn, it is generally safe to use Leech Seed unless something immune to it is switching in because when Leech Seed is set down successfully, Chesnaught can get passive recovery and even pass it on to a teammate if it chooses to switch out. If Chesnaught is low on HP when it switches in, it could also use Synthesis on that first turn to immediately get its HP back up. If something immune to Leech Seed is expected to switch in, Spikes can be used if it's still early- or mid-game.
-
-If unsure of what an opponent is going to do or what set its running, you can use Spiky Shield to scout the opponent and determine your next move accordingly. Also, if Chesnaught walls the opponent, set down Spikes if it's still early- or mid-game and attack afterwards, using Synthesis to heal when necessary.
+Try going for Spikes or a Leech Seed on predicted switches to gradually wear the opponent's Pokemon down. If you choose to run Synthesis, use it whenever Chesnaught is getting low on HP so that it can constantly take on physical attackers and set up more layers of Spikes. Use Spiky Shield at times to scout what the foe is going to do, especially those that run a Choice item. If you are able to predict a switch into a Pokemon that is relatively safe such as a Crobat or a Gligar, use Roar to rack up entry hazard damage on opposing Pokemon while not allowing them to Defog for free. It also can be used against Pokemon such as Suicune that try to use Chesnaught as setup fodder. Do note that although Chesnaught is very physically bulky, it can get worn down easily by strong physical attacks such as Mienshao's High Jump Kick, especially if you are not running Synthesis.
 
 Team Options
 ========
 
-Because Chesnaught's Special Defense is so low, it's a good idea to have a special wall as a teammate to sponge special attacks. Bulky Water-types such as Vaporeon and Suicune are also good teammates as they can cover some of Chesnaught's weaknesses, such as Fire and Ice. As entry hazards wear down Chesnaught significantly, a hazard remover is good to have for removing them. Rhyperior and other Rock-types can help deal with the Flying-type weakness that Chesnaught loathes. Finally, cleric support from Pokemon such as Florges and Umbreon or having a status absorber like Starmie is great for keeping status away from Chesnaught because it hates Toxic, and burns to a lesser extent.
+Empoleon is a good partner, as it can set up Stealth Rock while Chesnaught sets up Spikes. It also takes Psychic-, Flying- and Poison-type moves that are aimed at Chesnaught. Clerics such as Florges, Vaporeon, and Blissey can help get rid of the status ailments that Chesnaught typically has trouble with while at the same time sponging special hits that target Chesnaught's low Special Defense stat. If you choose not to run Synthesis, Chesnaught is easily worn down, so a Rapid Spin user is appreciated to get rid of entry hazards on your side of the field.
+
+Specially Defensive
+########
+name: Specially Defensive
+move 1: Spikes
+move 2: Leech Seed / Synthesis
+move 3: Spiky Shield / Roar
+move 4: Drain Punch / Wood Hammer
+ability: Bulletproof
+item: Leftovers
+evs: 252 HP / 4 Def / 252 SpD
+nature: Careful
+
+Moves
+========
+
+Spikes take advantage of Chesnaught's bulk to set up entry hazards. Leech Seed gives additional passive recovery while wearing opposing Pokemon down. If you would rather opt for a more reliable form of recovery, Synthesis is your best option. Spiky Shield damages foes that try to hit Chesnaught physically and allows you to scout for what the opposing Pokemon is going to do and gain more Leftovers and Leech Seed recovery. Roar can be run over Spiky Shield to prevent Chesnaught from being setup fodder for certain Pokemon, especially those that typically carry Substitute. The last moveslot depends on which offensive move you prefer. Drain Punch is a reliable Fighting-type STAB move that also gets more recovery, while Wood Hammer is a more powerful Grass-type STAB move with the drawback of recoil damage. Finally, Taunt is a viable option that prevents slower Pokemon such as Empoleon and Swampert from setting up Stealth Rock and prevents Empoleon from Defogging away your entry hazards. It also stops Trevenant from burning Chesnaught and Blissey from using any of its support moves.
+
+Set Details
+========
+
+Maximum HP and Special Defense EVs with a Careful nature maximize Chesnaught's special bulk, giving it good mixed defenses, which allows it to more effectively check Hydreigon, Mega Blastoise, Roserade, and Mega Ampharos. Leftovers gives Chesnaught passive recovery, especially in conjunction with Spiky Shield and Leech Seed if you choose to run them. Always run Bulletproof to allow Chesnaught to take on more threats.
+
+Usage Tips
+========
+
+Try to set up Spikes or go for a Leech Seed on predicted switches to wear opposing Pokemon down. Use Synthesis to recover when at low HP to avoid being worn down. Use Spiky Shield at times to scout for what move the opposing Pokemon is going to use, which helps against Choice-locked Pokemon. Use Roar on predicted switches into Defoggers such as Crobat and Gligar to prevent them from Defogging for free. Using it against strong special attackers such as Chandelure as they come in is a good idea as well. Note that even with maximum HP and Special Defense investment, Chesnaught is not going to appreciate taking really powerful special hits, so avoid switching it directly into moves such as a Life Orb Hydreigon's Draco Meteor or a Chandelure, unless it is Choice-locked into anything but a Fire-type move.
+
+Team Options
+========
+
+Bulky Water-types such as Suicune and Vaporeon can take Fire- and Ice-type attacks for Chesnaught. Vaporeon in particular is a good cleric to get rid of Chesnaught's status ailments, but you can also use other clerics such as Florges and Umbreon. Tentacruel has relatively good synergy with Chesnaught, is able to set up Toxic Spikes, and can Rapid Spin away opposing entry hazards. Both have to be careful of strong Psychic-type attacks, though.
+
+Fast Taunt
+########
+name: Fast Taunt
+move 1: Spikes
+move 2: Taunt
+move 3: Leech Seed / Synthesis / Roar
+move 4: Drain Punch / Wood Hammer
+ability: Bulletproof
+item: Leftovers
+evs: 252 HP / 84 Def / 172 Spe
+nature: Impish
+
+Moves
+========
+
+Spikes takes advantage of Chesnaught's bulk to set up multiple layers. Taunt stops opposing Pokemon from using a variety of support moves, including Defog, entry hazard moves of their own, Wish, status moves, and setup. The third moveslot is up to preference. Leech Seed gets more passive recovery while wearing foes down, and Synthesis gives Chesnaught a method of reliable recovery. Roar prevents Chesnaught from being setup fodder for faster Pokemon, especially Substitute users, but limits Chesnaught's recovery to just Leftovers. On the last slot, Drain Punch is a good reliable Fighting-type STAB move that helps Chesnaught regain some HP lost. For more power, Wood Hammer is a fine option as a Grass-type STAB move at the cost of some recoil damage.
+
+Set Details
+========
+
+172 Speed EVs are used to outspeed and Taunt uninvested Cresselia, Suicune, and Gligar, preventing the former two from setting up and the last from using Defog or Stealth Rock. It also stops all three of the aforementioned Pokemon from recovering back any HP lost. HP is then maxed out, and the remaining EVs are invested into Defense to still maintain good physical bulk. An alternative EV spread of 252 HP / 164 Def / 92 Spe can be used to outspeed up to uninvested Florges while still outspeeding standard Jellicent, Vaporeon, Umbreon, and Alomomola. Speed can be further invested in to outspeed specially defensive Roserade and defensive Arcanine, requiring 228 and 252 Speed EVs, respectively. A Jolly nature with 228 Speed EVs can also be utilized to outspeed 24 Speed Celebi and Tentacruel. Leftovers is run to give more passive recovery, which is especially effective if you are running Leech Seed. Bulletproof is chosen to grant immunity to moves such as Shadow Ball and Sludge Bomb that Chesnaught would normally not appreciate getting hit by.
+
+Usage Tips
+========
+
+Try setting up Spikes or go for a Leech Seed on predicted switches to wear opposing Pokemon down. Use Synthesis to recover when Chesnaught does not have a lot of HP to avoid being worn down. If you choose to run Roar, use it on switches to fast Defog and Rapid Spin users such as Crobat and Tentacruel, respectively, to prevent entry hazard removal, as Taunt from Chesnaught cannot deal with these. Also, try to avoid revealing Taunt too early. It is best to use it when the foe is low on HP and needs to recover, or if setting up entry hazards or Defogging is an extremely obvious move.
+
+Team Options
+========
+
+Bulky Water-types such as Suicune and Vaporeon can take Fire- and Ice-type attacks for Chesnaught. Vaporeon in particular is a good cleric to get rid of Chesnaught's status ailments, but other clerics such as Florges and Umbreon also work as partners. Tentacruel has relatively good synergy with Chesnaught, is able to set up Toxic Spikes, and can Rapid Spin away opposing entry hazards. Both have to be careful of strong Psychic-type attacks, though. A teammate that can handle fast Defog users, particularly Crobat, would be handy, as Crobat can easily threaten Chesnaught out. Rhyperior is a good partner for that reason and is also able to set up Stealth Rock alongside Chesnaught's Spikes. Setup sweepers such as Lucario appreciate Chesnaught's Spikes-stacking and prevention of a slow Defog. They also benefit from walls being unable to recover back any HP lost.
 
 Other Options
 ########
 
-Toxic can be used to wear down opponents significantly and wear down other walls. Substitute can also be used in conjunction with Leech Seed for a SubSeed set. Stone Edge can also be used to hit Flying-types on the switch. Chesnaught has a variety of boosting moves that it could use, such as Bulk Up, Curse, and Belly Drum, though Chesnaught's poor Speed and Special Defense leaves it prone to being revenge killed. Roar can be used to phaze things that have accumulated too many boosts or are just troublesome, while Taunt can shut down other walls. Finally, a specially defensive EV spread with an Impish nature can be used to deal with some Water-types such as Suicune and Vaporeon better.
+Toxic can be run to wear down opposing walls and rack up serious residual damage in conjunction with Leech Seed. Stone Edge hits incoming Flying-types such as Crobat that would normally have a safe switch into Chesnaught, as well as hitting Fire-type switch-ins harder. Earthquake also hits all the Fire-types in the tier except for Rotom-H while hitting Steel-types, which is useful if you are not running Drain Punch. Super Fang is handy to wear Pokemon down at a faster rate, especially opposing walls. Chesnaught's Attack stat is reasonably good, so it can also make good use of an offensive Spiker set. When its Attack is maximized and it is holding a Life Orb, Chesnaught is able to severely damage one of its biggest counters in Crobat, OHKOing it after Stealth Rock. An offensive set with Bulk Up is definitely viable as well. Chesnaught also has Belly Drum in its movepool, but does not have the Speed or the priority to utilize it effectively without the proper support.
 
 Checks & Counters
 ########
 
-**Flying-types**: Flying-types are easily the best counters that there are to Chesnaught, as they can attack with a 4x super effective STAB attack and resist both of Chesnaught's STAB attacks. Examples of good Flying-types in the metagame include Crobat and Mega Aerodactyl.
+**Flying-types**: Flying-types resist both of the commonly run offensive moves on Chesnaught and can threaten it out with a 4x super effective move. Crobat in particular can Defog freely when switching into any of Chesnaught's moves except Taunt and Roar.
 
-**Special Attackers**: Special attackers can take advantage of Chesnaught's mediocre Special Defense and are generally good at keeping Chesnaught in check.
+**Fire-types**: Fire-types, such as Darmanitan, Chandelure, and Entei, threaten Chesnaught with their STAB moves. Chandelure in particular is a threat, as it resists one of Chesnaught's STAB types and is immune to the other. Frailer Fire-types such as Darmanitan need to be careful of getting worn down by Leech Seed, Spiky Shield, and Flare Blitz recoil.
 
-**Taunt**: Taunt is bothersome for Chesnaught as it will prevent Chesnaught from using moves from its amazing support movepool and force it to rely on one of its STAB attacks. This makes Chesnaught significantly easier to handle, and it will allow other Pokemon to switch in without fearing Chesnaught healing with Synthesis or using Leech Seed.
+**Grass-types**: Grass-types are immune to Leech Seed, so they can be a pain to deal with. Shaymin can hit Chesnaught hard with Air Slash, Psychic, or Dazzling Gleam, while Trevenant can take both of Chesnaught's STAB moves and burn it with Will-O-Wisp.
 
-**Status**: There are two kinds of status ailments that Chesnaught absolutely hates: poison and burn. Toxic will prevent Chesnaught from staying in and walling other Pokemon, while burns will weaken Chesnaught's STAB attacks significantly and leave it with no offensive presence whatsoever.
+**Status Ailments**: Chesnaught does not mind paralysis, but it loathes burns and poison. Chesnaught also has no way of getting rid of status ailments on its own, so both will gradually wear it down. Toxic poison makes it unable to stay in for too long at a time, while burns reduce its offensive presence.
 
-**Grass-types**: Grass-types can be a nuisance for Chesnaught, as they are immune to Leech Seed, and most either have coverage to take down Chesnaught or can set up in its face. Pokemon that have a Grass / Ghost typing such as Gourgeist do especially well against Chesnaught as they are immune to Fighting while resisting Grass, and Gourgeist can also burn it with Will-O-Wisp.
+**Taunt**: Most of Chesnaught's viable moves are support ones. After it is Taunted, the opponent usually gets a free switch into a Pokemon that resists its common offensive moves, such as Crobat.
 
-**Fire-types**: Fire-types such as Darmanitan and Chandelure usually have no trouble taking down Chesnaught with their super effective STAB attacks. They also resist Wood Hammer. However, as many common Fire-types wield Choice items, they can easily be scouted with Spiky Shield.
+**Strong Special Attackers**: With a physically defensive spread, Chesnaught is frail on the special side, so avoid letting it take special attacks. Even with a specially defensive spread, strong special attacks severely damage it.

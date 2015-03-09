@@ -1,83 +1,114 @@
 Overview
 ########
-Snubbull is one of the few Little Cup Pokemon that changed drastically with the new generation—it underwent a complete type change from Normal-type to Fairy-type, wiping its slate clean and giving it brand new strengths, advantages, and weaknesses. This often overlooked GSC Pokemon is not the punching bag for Fighting-types that it used to be, as it is now has a type advantage against them, as well as against Dark- and Dragon-types. Its STAB Play Rough brings the pain with great neutral coverage, and Earthquake scores a hard super effective hit against the vast majority of Pokemon that resist Fairy-type attacks. Other high-powered move options available to Snubbull include Close Combat and Crunch, and combined with Intimidate and incredible support options such as Heal Bell and Thunder Wave, Snubbull demands respect this time around. With this awesome makeover, Little Cup welcomes back this bulky attacker as a force to be reckoned with.
 
-Snubbull Trouble
+Thanks to its good defensive typing and ability, Snubbull is able to function as an excellent pivot on offensive teams. Although it is inevitably compared to Spritzee as a bulky Fairy-type, its wonderful movepool, both offensively and defensively, combined with its high damage output, allow it to simultaneously support its own team and threaten the opposition. In particular, Snubbull carves itself a niche as one of the tier's premier Fighting-type checks, provided they lack Poison-type coverage moves; it is also able to function as an effective Knock Off absorber for teams that need one. Snubbull's greatest weakness is that it lacks reliable recovery unless it runs Rest and Sleep Talk, which carry their own disadvantages.
+
+Berry Juice Support
 ########
-name: Snubbull Trouble
-move 1: Play Rough
-move 2: Earthquake
-move 3: Close Combat / Crunch
-move 4: Thunder Wave / Bulk Up
+name: Berry Juice
+move 1: Thief
+move 2: Play Rough
+move 3: Earthquake
+move 4: Thunder Wave / Heal Bell
 ability: Intimidate
-item: Eviolite / Berry Juice
-evs: 116 HP / 196 Atk / 36 Def / 116 SpD / 36 Spe
+item: Berry Juice
+evs: 36 HP / 196 Atk / 36 Def / 116 SpD / 116 Spe
 nature: Adamant
 
 Moves
 ========
 
-Play Rough is the obligatory hard-hitting physical STAB attack, smacking most of the tier at least neutrally, and has the additional chance of lowering the target's Attack stat. Earthquake hits the Fire-, Steel-, and Poison-types that resist Fairy-type attacks for super effective damage, and therefore provides perfect coverage, with very few exceptions. Close Combat is a very powerful Fighting-type option that hits many Pokemon for super effective damage, but Crunch can be used to take a huge bite out of Gastly and Bronzor, two Pokemon that wall Fairy + Ground coverage via the Levitate ability. Crunch also lets Snubbull have an easier time against Slowpoke, a notable physical wall. With its sheer power, access to the Intimidate ability to neuter opposing physical attackers, and access to high-powered attacks, Snubbull forces a lot of switches, and thus has opportunities to spread status with Thunder Wave, making its enemies even easier to break down. Alternatively, Snubbull can utilize Bulk Up to become a physical juggernaut while taking advantage of the free turn provided by a fleeing foe.
+Thief allows Snubbull to steal an item once its Berry Juice has been used up or Knocked Off, acting as a pseudo Knock Off. Play Rough is a reliable and powerful STAB move that provides good neutral coverage alongside Earthquake, which most notably hits Magnemite and Pawniard. Close Combat is another possible coverage move that can OHKO Pawniard and hit Ferroseed hard, but it reduces Snubbull's staying power and leaves it walled by Poison-types. Thunder Wave is a good support move that cripples a variety of switch-ins and helps slower teammates attempt a sweep. Heal Bell is another useful support move that allows the rest of the team to more freely absorb status moves while Snubbull is still healthy.
 
 Set Details
 ========
 
-The given EV spread with Intimidate as the ability and Eviolite as the held item allow Snubbull to tank hits from both physical and special attackers, while still maintaining a formidable offensive presence. An Adamant nature is the optimal choice for achieving the highest immediate power possible, and Snubbull doesn't need much Speed, as it can take a lot of hits and is slower than most things even with a Jolly nature or heavy Speed investment. However, because it only takes 36 EVs to raise its Speed by a stat point, Snubbull does invest a little, so that it can outspeed certain slower Pokemon such as Bronzor and Spritzee. Berry Juice is an option over Eviolite, as it is Snubbull's only way to restore lost health, and can help Snubbull maintain momentum if it mistakenly switches into a painful super effective attack. Berry Juice is always the preferred item if Bulk Up is used over Thunder Wave, as Snubbull is otherwise unable to recover health after setting up.
+This set aims to support the team while maintaining a good offensive presence. The given EVs and nature maximize Snubbull's damage output and boost both its defenses so Snubbull can better take both physical and special neutral attacks. Hitting 11 Speed lets Snubbull reliably check Poison Jab Timburr, outspeed and thus 2HKO Skrelp on the switch with Earthquake, and Speed tie with Pancham.
 
 Usage Tips
 ========
 
-Most Fighting-, Dark-, and Dragon-types stand absolutely no chance against Snubbull. Scraggy is particularly vulnerable as it has a 4x weakness to Fairy-type moves. Intimidate turns Snubbull into a huge physical tank that can check other physically inclined Pokemon without even having a type advantage against them. Snubbull must wary of Poison- and Steel-type attacks, especially on the special side, as it cannot take those very well. Defiant Pawniard walks all over Snubbull if Intimidate activates its Defiant ability, as Pawniard easily outspeeds and a +1 Iron Head from it is a clean OHKO on Snubbull, regardless of the item chosen; thankfully, switching into Snubbull is a huge risk for Pawniard and Intimidate doesn't activate in this scenario.
+Switch Snubbull in on a foe it forces out and use the appropriate attack to hit the switch-in. Try to use Thief on a foe that doesn't want to lose its item, such as Eviolite Porygon. Thanks to Intimidate, a low-health Snubbull is a good Pokemon to use as fodder against physical attackers; however, do not attempt this against Defiant Pawniard, because Intimidate will activate Defiant. Heal Bell is best used when Snubbull or one of its teammates is affected by status.
 
 Team Options
 ========
 
-Lickitung with Wish and Toxic is an invaluable partner for Snubbull, as Snubbull can cover Lickitung's sole weakness to Fighting-type attacks and Lickitung can soften up Snubbull's enemies as well as keep both itself and Snubbull alive. Pawniard makes for a good teammate as well, as it can take the Poison- and Steel-type attacks aimed at Snubbull with ease, while Snubbull sponges the Fighting-type attacks aimed at Pawniard, forming not only a formidable offensive core but also one that covers all of the important weak points of the two. Inkay is the only Pokemon whose STABs score super effective damage on all three Pokemon in the tier that wall Fairy + Ground coverage: Bronzor, Gastly, and Koffing. Other Pokemon that can cover Snubbull's weaknesses well are Ghost-types such as Honedge, and Frillish, as well as Ground-types such as Hippoppotas and Drilbur. In addition to the aforementioned Pawniard and Honedge, Magnemite is an ideal Steel-type partner, as it is a bulky Pokemon that can trap and deal with the opposing Steel-types that might give Snubbull problems.
+Snubbull pairs well with Pokemon that appreciate a check to Fighting-types, such as Porygon; offensive Steel-types in general, including Magnemite and Pawniard, have good type synergy with Snubbull. Ponyta is able to reliably check Pawniard, Foongus, and Ferroseed, three Pokemon that Snubbull thoroughly dislikes. Hidden Power Fire Gothita is able to trap and eliminate Foongus and Ferroseed; similarly, Diglett can trap and deal with specific troublesome Poison- and Steel-types.
 
-Offensive Support
+Eviolite Support
 ########
-name: Offensive Support
+name: Eviolite
 move 1: Play Rough
 move 2: Earthquake
-move 3: Heal Bell
-move 4: Thunder Wave
+move 3: Thunder Wave
+move 4: Heal Bell / Bulk Up
 ability: Intimidate
-item: Eviolite / Berry Juice
-evs: 116 HP / 196 Def / 196 SpD
+item: Eviolite
+evs: 36 HP / 196 Atk / 36 Def / 116 SpD / 116 Spe
+nature: Adamant
+
+Moves
+========
+
+Play Rough is Snubbull's STAB move of choice, dealing decent damage to Pokemon that do not resist it. Earthquake synergizes well with Play Rough, covering all three types that resist Fairy. Thunder Wave is a useful support move to cripple key threats and benefit slower Pokemon on Snubbull's team, including Snubbull itself, while Heal Bell can also help support the team. Bulk Up gives Snubbull the boost in damage needed to break through physically bulky Pokemon that could otherwise wall it.
+
+Set Details
+========
+
+The EVs allow Snubbull to heavily damage most switch-ins and outspeed two important threats in Timburr and Skrelp, as well as Speed tie with Pancham. Leftover EVs are put in both defenses so Snubbull can hit Eviolite numbers to better take both physical and special attacks. A more defensive spread of 36 HP / 36 Atk / 196 Def / 196 SpD / 36 Spe is also an option if even more bulk is desired. Eviolite gives this set a good amount of initial bulk, allowing it to take advantage of Wish support and survive many otherwise fatal attacks.
+
+Usage Tips
+========
+
+Switch Snubbull in on a Pokemon it is able to beat and try to hit whatever the opponent switches to. Due to Snubbull's lack of recovery outside of external support, mistakes it makes are slightly more punishable, so except against specific enemies, Thunder Wave is often the safest opening move. If Wish support is not available, a low-health Snubbull can be sacrificed to temporarily weaken physical attackers except for Pawniard, which will take advantage of Intimidate with Defiant. Heal Bell is to be used if Snubbull or a teammate is affected by a status condition. Defensive Pokemon such Spritzee and Porygon are common switch-ins to Snubbull and are good opportunities to set up Bulk Up. Utilizing Thunder Wave early in the match will make it easier to sweep with Bulk Up later.
+
+Team Options
+========
+
+Any Pokemon that dislikes Fighting-types will appreciate Snubbull as a teammate; Lickitung in particular can pass Snubbull large Wishes to keep it healthy. Steel-types such as Pawniard and Ferroseed also appreciate Snubbull's ability to check Fighting-types, while they deal with Poison- and Fairy-types. Ponyta checks Pawniard, Ferroseed, and Foongus, while Gothita can most notably trap Foongus, Croagunk, and, if Gothita is running Hidden Power Fire, Ferroseed.
+
+RestTalk
+########
+name: Rest + Sleep Talk
+move 1: Rest
+move 2: Sleep Talk
+move 3: Play Rough
+move 4: Earthquake
+ability: Intimidate
+item: Eviolite
+evs: 36 HP / 36 Atk / 196 Def / 196 SpD / 36 Spe
 nature: Careful
 
 Moves
 ========
 
-This set has the same basic offensive functions, but has even greater bulk and also serves as a reliable supporter for its team. Play Rough and Earthquake provide near-perfect attacking coverage for Snubbull, and Heal Bell is used to keep both Snubbull and its team free of annoying status afflictions that can limit their potential. Thunder Wave is used to cripple foes and put them at a Speed disadvantage.
+A combination of Rest and Sleep Talk allows Snubbull to reliably and repeatedly recover its health; Rest heals off any damage or status Snubbull has accumulated, while Sleep Talk ensures that Snubbull continues to pose as a threat even when asleep. Play Rough and Earthquake are good offensive moves, being Snubbull's STAB and coverage moves, respectively. Heal Bell can be used over Earthquake to support the team, and can wake Snubbull up a turn earlier if picked by Sleep Talk; however, the coverage will be sorely missed.
 
 Set Details
 ========
 
-When Eviolite is taken into account, a Careful nature and the given EVs give Snubbull an incredibly bulky defensive spread of 24 / 21 / 21. Intimidate further helps Snubbull take hits on the physical side. No Attack investment is required for this set, as support Snubbull prefers additional bulk, and it still hits hard uninvested with its trademark near-perfect coverage. This set also has no Speed investment, but with Thunder Wave as one of its disruptive options, Snubbull will be outspeeding most of its switch-ins regardless.
+The given EVs and nature allow Snubbull to hit Eviolite numbers and 23 / 21 / 21 bulk after Eviolite, letting it avoid the OHKO from all but extremely powerful super effective attacks. The remaining EVs are filler; 23 HP is maintained so that Snubbull only takes 2 damage from Stealth Rock. Eviolite is the item of choice for increased bulk, since Snubbull already has a method of recovery with this set.
 
 Usage Tips
 ========
 
-With the huge array of Fighting- and Dark-type attacks flying around the tier, it is beyond easy to find an opportunity to bring Snubbull in to clear status for its team or spread paralysis on the opponent's team. After the opposing team is weakened, when there is less nead for Heal Bell or Thunder Wave, Snubbull can often find opportunities to take advantage of its excellent attacking coverage, including hitting notable threats such as Mienfoo, Tyrunt, Scraggy, and Vulpix for super effective damage.
+Switch Snubbull in on Pokemon that do not threaten it and hit the switch-in or use Rest if Snubbull's health is getting low. This set plays like a typical wall, coming in on threats that cannot hurt it significantly and whittling them down.
 
 Team Options
 ========
 
-Eviolite Mienfoo with U-turn is an incredible teammate to get Snubbull in safely, and also threatens Pawniard and other Steel-types that give Snubbull a hard time after it knocks out a foe. Ground-types such as Drilbur make for excellent partners since they directly threaten the Steel- and Poison-types that can hurt Snubbull with their STABs. Abra easily gets rid of Koffing if it's an issue. Ferroseed forms an incredible defensive core with Snubbull, with both of them covering each other's weaknesses and both dishing out crippling moves. Anything that appreciates paralysis support is happy to have Snubbull on its team; slower Pokemon such as Timburr as Munchlax really appreciate the Speed advantage.
+Snubbull pairs well with Pokemon that appreciate a check to Fighting-types, such as Porygon, Ferroseed, and defensive Steel-types in general. Lickitung in particular can wake a sleeping Snubbull with Heal Bell support. Ponyta is able to reliably check Pawniard, Foongus and Ferroseed, three Pokemon that Snubbull can't handle well.
 
 Other Options
 ########
 
-Snubbull has the bulk to use RestTalk, but partnering it with a bulky Wish support is generally a better option, as it lets Snubbull carry a wider set of attacks and reliably choose which move it wants to use. Ice Punch is good for coverage, but it is unfortunately incompatible with Play Rough and therefore not worth running. Ice Fang can be used as an alternative to Ice Punch as it is legal with Play Rough, although the power drop is very noticeable. Snubbull actually has an incredible special movepool that includes Hyper Voice, Fire Blast, Thunderbolt, Shadow Ball, Sludge Bomb, Overheat, and Solar Beam, but it doesn't have the Special Attack to make good use of them and thus they are generally not worth using. Power-Up Punch can work as a Fighting-type attack that raises Snubbull's power while forcing switches, but Bulk Up is a better option for boosting and Close Combat is better for immediate attacking. Bulldoze can slow down checks on the switch and can be great late-game, but Earthquake is more reliable because of its much higher power. Counter can be used to surprise physical attackers that go for the kill against Snubbull, but after using Counter, Snubbull likely won't have the health to survive another hit, and if Snubbull uses Counter with Berry Juice, it will only get one chance to pull it off successfully. Rattled can be used to patch up Snubbull's Speed problem if you can switch it in against a Dark-, Bug-, or Ghost-type attack, but the fact that it doesn't hit 14 Speed even with a Jolly nature makes this impractical, as it can't reach a decent Speed tier even if it gets the boost.
+Crunch OHKOes Gastly and deals more damage to Pumpkaboo formes than Snubbull's other attacks do; both Ghost-types are able to easily take on all common offensive moves Snubbull carries. Fire Punch damages Steel-types and is Snubbull's most powerful option against Ferroseed and Foongus, but Earthquake hits a greater variety of targets. Superpower can be used over Close Combat, but it reduces Snubbull's staying power by even more. Bulldoze, despite its useful Speed-lowering effect, is too weak to be effectively used as a coverage move. Snubbull's enormous special movepool is offset by its awful Special Attack stat.
 
-Checks & Counters
+Checks and Counters
 ########
 
-**Steel-types**: Earthquake and Close Combat do help Snubbull a lot with hitting the Steel-types that hurt it, but they can still be problematic in some cases. Pawniard OHKOes any Snubbull set regardless of Eviolite after getting to +1 (Intimidate followed by Defiant), but cannot reliably switch into or OHKO Snubbull from full health without this boost. Bronzor can use Snubbull lacking Crunch as setup bait, as it resists Play Rough, is immune to Earthquake, and can threaten Snubbull with its STAB Flash Cannon. Ferroseed is a decent check that doesn't mind being paralyzed too much, especially since paralysis further increases the power of its super effective STAB Gyro Ball, but must be wary of Close Combat.
+**Pokemon That Resist Fairy**: Various Steel-, Fire-, and Poison-types are able to switch into Play Rough, but may struggle to absorb Snubbull's coverage moves. Foongus is able to almost entirely wall Snubbull and does not mind Thunder Wave, due to its already low Speed; furthermore, Regenerator allows Foongus to effortlessly check Snubbull throughout the match. Koffing does not pack Regenerator, so it can be worn down, but otherwise walls Snubbull completely. Ferroseed will not enjoy taking some of Snubbull's rarer coverage moves, but can generally withstand Snubbull's assaults fairly easily and set up hazards or hit back hard. Gastly dislikes Thunder Wave and Thief, but it is able to OHKO all Snubbull sets with Life Orb Sludge Bomb if it gets into play safely.
 
-**Physical Walls**: Snubbull can break down a good many physical walls, but there are a couple of notable ones that beat it. Spritzee can tank Snubbull's attacks while healing with Wish and hitting Snubbull with Moonblast or setting up with Calm Mind. Physically defensive Slowpoke can take just about anything, bar Crunch, from either set, and threaten Snubbull with Thunder Wave; Scald also ruins the Snubbull Trouble set due to its burn chance.
+**Pawniard**: Although it dislikes switching into Snubbull's powerful attacks, Pawniard is able to take advantage of Snubbull's Intimidate to activate Defiant, allowing Pawniard to OHKO Snubbull and severely threaten the rest of its team with some smart switches.
 
-**Fairy-type-resistant Pokemon with Levitate**: In addition to the previously mentioned Bronzor, there are two other Pokemon in the tier that resist the combination of Fairy- and Ground- type attacks. Koffing resists Play Rough, is immune to Earthquake, resistant to Close Combat, and doesn't take much from Crunch. It can threaten Snubbull with STAB Sludge Bomb and cripple the Snubbull Trouble set with Will-O-Wisp. Gastly resists Play Rough and is immune to Earthquake and Close Combat. It annihilates Snubbull with its STAB Sludge Bomb, but must be wary of switching into Crunch or Thunder Wave.
-
-**Burn Status**: While the offensive support set doesn't mind it too much, anything with Will-O-Wisp, such as Frillish, Ponyta, or Growlithe, can ruin the attacking power of the Snubbull Trouble set. Larvesta is a Will-O-Wisp user that can decently wall both sets, being a Fire-type that takes only neutral damage from Earthquake, and it even gets U-turn to maintain momentum as Snubbull flees to avoid being burned. The countless Water-types that carry Scald are also problematic, and it's usually not a good idea to let Snubbull take repeated hits from Scald, thanks to the 30% burn chance.
+**Walls**: Extremely physically bulky Pokemon such as Spritzee, Porygon, and Hippopotas are able to stall most variants of Snubbull out, although they will lose if Snubbull is a RestTalk variant and they are unable to 3HKO it or if Snubbull is running Bulk Up.

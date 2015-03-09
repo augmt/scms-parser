@@ -1,18 +1,16 @@
 Overview
 ########
 
-With its high Attack stat and decent bulk, Machamp can function as an effective bulky attacker when holding Assault Vest. Its base 130 Attack is nothing to laugh at, especially when paired with powerful moves. No Guard is an excellent ability on Machamp, as it grants perfect accuracy to moves such as Dynamic Punch and Stone Edge. Also, it gets decent coverage moves such as Knock Off.
-
-Sadly, Machamp isn't without its flaws. It has a subpar Speed stat that leaves it outsped by many common threats. Additionally, Assault Vest does nothing to help its underwhelming physical bulk, which leaves it prone to many Flying-type attacks. It also faces major competition from other Fighting-types in UU such as Scrafty and Mienshao. However, Machamp's access to No Guard and ability to function as an effective bulky attacker sets it apart from its UU brethren.
+Machamp sports a great base 130 Attack, which makes it ideal for wallbreaking. No Guard allows for a 100% accurate Dynamic Punch for free confusion, providing Machamp and its teammates more opportunities to set up, wallbreak, or recover lost momentum. Guts boosts Machamp's Attack by 1.5x when statused, letting Machamp hit even harder for optimal wallbreaking. A diverse movepool allows Machamp to take on a number of threats and switch-ins with its Choice Band set, while decent 90 / 80 / 85 bulk allows it to use an Assault Vest set, which lets Machamp take on high-powered threats such as Hydreigon.
 
 Assault Vest
-############
+########
 name: Assault Vest
-move 1: Dynamic Punch
+move 1: Dynamic Punch / Close Combat
 move 2: Knock Off
-move 3: Stone Edge
-move 4: Bullet Punch / Ice Punch
-ability: No Guard
+move 3: Stone Edge / Ice Punch
+move 4: Heavy Slam / Bullet Punch
+ability: No Guard / Guts
 item: Assault Vest
 evs: 172 HP / 252 Atk / 84 Spe
 nature: Adamant
@@ -20,37 +18,74 @@ nature: Adamant
 Moves
 ========
 
-Dynamic Punch is a powerful STAB move that always causes confusion, making it a staple on Machamp. It is also granted perfect accuracy thanks to No Guard. Knock Off gets nearly perfect neutral coverage alongside Dynamic Punch and can remove items such as Leftovers and Eviolite from opponents, potentially crippling them for the rest of the match. Stone Edge is another good coverage move that hits Flying- and Bug-types super effectively and is also perfectly accurate thanks to No Guard. Bullet Punch is good for picking off weakened opponents and hits Fairy-types super effectively, though Stone Edge deals more damage to them. Ice Punch can also be used in the last slot to hit threats such as Gligar, Nidoking, and Nidoqueen super effectively.
+Dynamic Punch is Machamp's primary STAB move when used alongside No Guard, while Close Combat is Machamp's primary STAB move when used alongside Guts. Both of these moves are reliable and will often do decent damage to most non-resisted threats. Knock Off is an ideal move to remove the items of Machamp's switch-ins, such as Crobat and bulky Ground-, Water- and Fairy-types, while checking most Psychic-types. Ice Punch is a useful move to seriously dent most Flying- and Ground-types. Stone Edge can be used as an option to hit Fire-, Flying-, and rare Ice-types in the tier with the No Guard ability. The choice between Heavy Slam and Bullet Punch has to do with your preference for either hitting Florges and Whimsicott hard with Heavy Slam or using Bullet Punch as a late-game cleaning move to KO injured threats, such as Mega Aerodactyl.
+
 
 Set Details
 ========
 
-The Speed EVs allow Machamp to outspeed minimum Speed Umbreon in addition to slow threats such as Chesnaught and Blissey. Attack is maximized with an Adamant nature to deal the most damage possible and the rest of the EVs are placed in HP. Assault Vest allows Machamp to take special attacks very well. 164 Speed EVs can be used to outspeed minimum Speed Florges, but it significantly takes away from Machamp's bulk.
+Assault Vest Machamp can absorb moderate special attacks far better than its Choice Band counterpart. 172 HP EVs grant Machamp some much-needed bulk, allowing it to sponge hits from Pokemon such as Hydreigon when used alongside Assault Vest. 84 Speed EVs are used to outspeed all base 65 Pokemon, including Vaporeon, Umbreon, and Chesnaught. An Adamant nature and 252 Attack EVs allows Machamp to hit as hard as possible as a physical wallbreaker. No Guard allows Machamp to use Dynamic Punch and get the 100% confusion, which creates more set up, wallbreaking, and cleric opportunities, while Guts allows Machamp to absorb status and hit 1.5x harder; however, No Guard is generally the better option as this will also retain Machamp's moderate bulk, as Close Combat lowers Defense and Special Defense by one after use.
+
 
 Usage Tips
 ========
 
-Machamp does its best in the early- to mid-game because of Dynamic Punch's ability to force the opponent to switch. Dynamic Punch should be used most of the time unless the opponent brings in a Pokemon that resists Fighting-type moves. If the opponent has a Pokemon such as Florges or Celebi that Machamp can't deal significant damage to, it is recommended you switch Machamp out for a Pokemon that can handle them. Florges and Celebi are easily handled by Nidoqueen and Hydreigon, respectively.
+Assault Vest Machamp with No Guard should use Dynamic Punch to create setup opportunities for your team while delivering moderate wallbreaking potential. With Guts, Machamp should be used as a status-absorbing wallbreaker. After taking a Will-O-Wisp or Toxic, Guts Machamp wallbreaks as well as its Choice Banded counterpart while having the ability to work around special attacks and switch moves. Machamp should always opt to use its Fighting-type STABs when there are few to no resistances on the opponent's team. It is important to note that this set works well with momentum support, such as Wish + Baton Pass Vaporeon or slow Volt Switch users such as Forretress.
+
 
 Team Options
 ========
 
-Nidoking and Nidoqueen make good partners, as they can defeat problematic walls such as Florges and Chesnaught. Additionally, they can set up Stealth Rock, which makes Machamp's job significantly easier. U-turn and Volt Switch users can bring in Machamp for free, which helps Machamp stick around longer. Hydreigon does this job well and can also check bulky Psychic-types. Honchkrow appreciates the fact that Machamp can break through Hydreigon, Honchkrow's greatest offensive counter, and in turn, Honchkrow can take down walls such as Chesnaught and Florges, which Machamp cannot. Mega Aggron makes a good partner as it can remove Florges as well as set up Stealth Rock. Mega Ampharos can switch into the Flying-type attacks Machamp fears, and Machamp can remove Choice Scarf Hydreigon that try to revenge KO Mega Ampharos. Machamp also enjoys hazard support from Pokemon such as Froslass, which can also spread paralysis.
+Machamp appreciates U-turn and Volt Switch support, making Pokemon such as Forretress, Jirachi, and Crobat ideal partners. Machamp also appreciates Pokemon such as physically defensive Vaporeon or Chandelure that can apply defensive and offensive pressure, respectively, against strong physical wallbreakers, especially from Pokemon such as Mienshao, Darmanitan, and Choice Band Entei. Assault Vest Machamp likes Rapid Spin or Defog support, which allows it to stay in the game longer; however, if Machamp is running Guts, it does not necessarily mind getting poisoned by one layer of Toxic Spikes. Machamp is also a decent stallbreaker, allowing it to partner well with offensive sweepers such as Sharpedo, Yanmega, and Mega Absol.
+
+
+Choice Band
+########
+name: Choice Band
+move 1: Close Combat / Dynamic Punch
+move 2: Knock Off / Ice Punch / Stone Edge
+move 3: Heavy Slam
+move 4: Bullet Punch / Ice Punch
+ability: Guts / No Guard
+item: Choice Band
+evs: 252 Atk / 4 Def / 252 Spe
+nature: Adamant
+
+Moves
+========
+
+Close Combat is a primary STAB option that should be used with Guts, while Dynamic Punch should be used with No Guard. Both of these moves are reliable and can wallbreak effectively, especially alongside Stealth Rock. Machamp's Guts set also reaches new level of power with Choice Band, allowing it to 2HKO the entire unresisted metagame when inflicted with a status. Dynamic Punch is still as reliable as ever with its 100% confusion, creating more set up and wallbreaking opportunities for Machamp and its teammates. Knock Off is an ideal move to remove the items of Machamp's switch-ins, such as Crobat and bulky Ground-, Water-, and Fairy-types, while checking most Psychic-types. Ice Punch is a useful move to seriously dent most Flying- and Ground-types; a one-on-one situation against Gligar is a notable case scenario where Ice Punch is very useful. Stone Edge can be used as an option to hit Fire-, Flying-, and rare Ice-types in the tier with the No Guard ability, and it is particularly effective against Machamp's primary counter, Crobat.
+
+Set Details
+========
+
+An Adamant nature and 252 Attack EVs ensures that Machamp hits as hard as possible. 252 Speed EVs allow Machamp to outspeed all uninvested base 85 Speed Pokemon, including Suicune, Gligar, and almost all bulky Pokemon ranging from Empoleon to Mega Blastoise. Guts allows Machamp to absorb most status moves and dish back 1.5x damage. No Guard lets Machamp use 100% accurate Dynamic Punches, creating more set up and wallbreaking opportunities for your team, as well as making Stone Edge 100% accurate; however, Machamp will also be hit by all incoming attacks.
+
+Usage Tips
+========
+
+Choice Band Machamp is best used as physical wallbreaker and stallbreaker. Machamp should always opt to use its Fighting-type STAB moves when there are few to no resistances on the opponent's team. Unfortunately, Choice Band Machamp cannot sponge many hits from other wallbreakers and will fall to most Choice Band STAB hits and most Flying- and Psychic-type attacks. As such, avoid using Choice Band Machamp as a lead, as you do not want to get caught against an opposing faster wallbreaker such as Darmanitan, Choice Band Entei, or Mienshao.
+
+Team Options
+========
+
+Machamp appreciates U-turn and Volt Switch support, making Pokemon such as Forretress, Jirachi, and Crobat ideal partners. It further appreciates Pokemon such as physically defensive Vaporeon or Chandelure that can apply defensive and offensive pressure, respectively, against strong physical wallbreakers, especially from Pokemon such as Mienshao, Darmanitan, and Choice Band Entei. Machamp, like most Fighting types, appreciates Rapid Spin or Defog support, as it is affected by all three entry hazards. However, if running Guts, Machamp will appreciate being poisoned by one layer of Toxic Spikes. Because Choice Band Machamp is the perfect wallbreaker, it can the pave the way for other physical and special sweepers such as Sharpedo, Yanmega, and Mega Absol. Pokemon that appreciate the removal of Blissey, Snorlax, and other special walls specifically enjoy Machamp's wallbreaking capabilities.
 
 Other Options
 ########
 
-Poison Jab can be used to take out Fairy-types, but Machamp does not like giving up any of its moves, and Fairy-types are handled more easily by other Pokemon. A Choice Band set seems appealing, but it is outclassed by Pokemon such as Mienshao. Earthquake can be used to hit Poison-types, but like Poison Jab, it is not worth giving up a moveslot. Choice Scarf can be used for the surprise factor as it can get the jump on Pokemon such as non-Scarf Mienshao, but it has little use otherwise. The classic SubChamp set can be used as the confusion from Dynamic Punch gives it many turns to set up a Substitute, but it isn't as good as the Assault Vest set. Bulk Up can be used to boost Machamp's Attack, but it can be hard to set up sometimes.
+Machamp's diverse movepool allows it to take on a number of threats. For example, Fire Punch can be used to take down Forretress as early as possible; however, Machmp suffers from four-moveslot syndrome when using other options. A Bulk Up and No Guard set with a spread of 252 HP / 172 SpD / 84 Spe or alternatively, a more offensive spread of 172 HP / 252 Atk / 84 Spe can be used. Machamp has access to Substitute and Focus Punch alongside Leftovers and Dynamic Punch. Machamp can also use Life Orb with Guts, but this takes away from Machamp's longevity. Machamp's Speed EVs can be altered on both sets to take on more specific threats. Earthquake can be used to take on Nidoqueen and Tentacruel. Machamp can also opt to use both Heavy Slam and Bullet Punch alongside Knock Off, although this takes away Machamp's offensive coverage against Flying-types.
+
 
 Checks & Counters
 ########
 
-**Fairy-types**: Fairy-types such as Aromatisse and Florges can take any attack Machamp can throw at them and hit back hard with a super effective STAB move.
+**Flying-types**: Brave Bird from most Pokemon, bar bulky Crobat, will generally OHKO Machamp. Mega Pidgeot will also OHKO the Choice Band set with Hurricane.
 
-**Ghost-types**: Ghost-types such as Sableye and Doublade have little trouble handling Machamp, as they are immune to Dynamic Punch and take little from Machamp's coverage moves.
+**Psychic-types**: Most fast and powerful Psychic-types, such as Alakazam and Life Orb Starmie, can revenge kill Machamp with Psyshock.
 
-**Poison-types**: Poison-types such as Nidoqueen, Crobat, and Toxicroak take little damage from Machamp's attacks and can set up Stealth Rock, hit back hard with Brave Bird, or set up on it.
+**Fairy-types**: Unless Machamp predicts the switch in with Heavy Slam, most Fairy-types such as Florges or Whimsicott will be able to respond with a hard-hitting Moonblast. Whimsicott can also encore Machamp into a poor attacking option, giving the opponent the opportunity to deal with Machamp effectively. Granbull also causes Machamp serious problems, as it sponges all of Machamp's moves, even Heavy Slam.
 
-**Psychic-types**: Psychic-types such as Celebi and Cresselia take a small amount from Dynamic Punch and Stone Edge, but must be wary of Knock Off.
+**Physical Wallbreakers**: Most Choice Band users with access to Close Combat, High Jump Kick, or Flare Blitz will be able to OHKO Machamp's Choice Band set. Threats include Entei, Mienshao, Darmanitan, and Haxorus.
 
-**Physical Walls**: Physical walls such as Gligar, Chesnaught, Suicune, and Hippowdon take little from any of Machamp's attacks, though Gligar needs to be careful if Machamp opts to run Ice Punch.
+**PP Stall**: Machamp only has a limited amount of Close Combats and Dynamic Punches. Pokemon such as Alomomola and Chesnaught work around Machamp perfectly in this fashion.

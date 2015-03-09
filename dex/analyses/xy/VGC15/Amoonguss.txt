@@ -1,0 +1,56 @@
+Overview
+########
+
+Amoonguss is used for redirection and the useful sleep-inducing Spore. Thanks to its useful resistances to Fighting, Fairy, Electric, and Water, it can redirect key attacks, and its low Speed makes it a good check to Trick Room. It suffers from being a Grass-type in a metagame where Mega Salamence, Mega Charizard Y, and Talonflame exist, along with easily accessible checks such as Taunt and Safety Goggles nullifying its key moves, but Amoonguss still manages to perform well in spite of these factors, which goes to show how useful a guaranteed sleep-inducing move and redirection are.
+
+Rage Powder
+########
+name: Rage Powder
+move 1: Rage Powder
+move 2: Spore
+move 3: Giga Drain / Sludge Bomb
+move 4: Protect
+ability: Regenerator
+item: Sitrus Berry / Rocky Helmet
+evs: 252 HP / 252 Def / 4 SpD
+nature: Relaxed
+
+Moves
+========
+
+Spore and Rage Powder are what Amoonguss is known for, as they are superb at creating safe options for its partners by putting a threat to sleep or redirecting a threatening attack. Giga Drain helps restore Amoonguss's HP and helps it check Pokemon such as Rotom-W, while Sludge Bomb is useful for hitting Fairy-, Grass-, and Flying-types such as Sylveon, other Amoonguss, and Thundurus for much better damage. Protect is a staple move in VGC and helps dissuade the opponent from double targeting Amoonguss carelessly.
+
+Set Details
+========
+
+Maximum Defense investment is recommended because of how physically oriented the metagame is, as shown by the top threats being Pokemon such as Mega Kangaskhan and Landorus-T. More specially defensive Amoonguss are usable depending on your team, and it's recommended that you customize your EV spreads according to your team. Negative Speed natures are preferred to underspeed Pokemon under Trick Room, which is useful to check opposing Trick Room teams, even if you're not using it yourself. Neutral Speed natures are also acceptable to outspeed slower Pokemon such as Aegislash and Spore them before they attack. 68 Speed EVs with a Bold nature let Amoonguss outspeed Quiet Aegislash, and more Speed EVs can be used for other threats, but bear in mind Amoonguss isn't going to outspeed much of anything considering its base 30 Speed.
+
+Sitrus Berry is the preferred item to allow Amoonguss to take in more hits with Rage Powder, but it can be replaced with Black Sludge or Leftovers if another Pokemon needs it more (keeping in mind Item Clause). Rocky Helmet is useful for getting damage off on physical attackers, most notably Mega Kangaskhan, which loses a third of its health when it attacks Amoonguss.
+
+Usage Tips
+========
+
+You should focus on using Spore and Rage Powder and Protecting when Amoonguss is immediately threatened. Keep in mind that you can switch out to restore health with Regenerator, which makes conserving Amoonguss after it takes a beating much more advantageous. Attacking with Amoonguss isn't ideal unless it gets Taunted and would rather not or can't switch out, unless you think you can break a Focus Sash or grab a KO against a severely weakened Pokemon. Also keep in mind that allowing Amoonguss to faint for a greater cause, such as getting Mega Kangaskhan to +2 or setting up Trick Room, isn't something to strictly avoid.
+
+Team Options
+========
+
+Amoonguss does well with just about anything that doesn't share too many of its weaknesses. Examples are Mega Kangaskhan, Terrakion, and Heatran, as Amoonguss resists most if not all of their weaknesses. Trick Room Pokemon such as Jellicent also enjoy Amoonguss's company, especially because Amoonguss is often the slowest Pokemon on the field, which means it can outspeed and Spore anything without a Grass typing or Safety Goggles. Amoonguss also works well with or against rain teams, as they remove its Fire weakness and often have Water-types. Intimidate also allows Amoonguss to survive attacks such as Talonflame's Brave Bird, making it more useful to sponge hits. Gyarados is a prime example, but of course just about anything appreciates having Amoonguss around.
+
+Other Options
+########
+
+Foul Play does good damage to physical attackers such as Mega Metagross, but it leaves Amoonguss unable to get clean damage off on Pokemon it walls, such as Rotom-W, and attacking with Amoonguss isn't something to plan for. Occa Berry and Coba Berry alleviate Amoonguss's weaknesses, as does Mental Herb for Taunt, making them good filler items to reach for if Amoonguss's other options are taken by its teammates. Effect Spore is outclassed by Regenerator not only because of the loss in potential healing, but also because it can get in the way of Sporing something important if Effect Spore doesn't put them to sleep itself.
+
+Checks & Counters
+########
+
+**Flying-types**: Talonflame and Mega Salamence can OHKO with Brave Bird and Return or Double-Edge, respectively, and Talonflame can even Taunt Amoonguss to let it waste turns by Giga Draining.
+
+**Fire-types**: Mega Charizard Y can easily OHKO Amoonguss with a sun-boosted Heat Wave to ignore Rage Powder. Heatran is equally threatening, though it often can't outright OHKO Amoonguss without Overheat. Rotom-H can Overheat as well, and it's not too uncommon to see it hold Safety Goggles strictly to counter Amoonguss.
+
+**Strong Attackers**: Mega Metagross, Latios, and Choice Specs Hydreigon are but a few Pokemon that threaten OHKOs on Amoonguss. Helping Hand support or strong multi-target moves such as Blizzard and non-STAB Heat Wave are good tools to consider. It's also worth mentioning that Sky Drop is not only super effective, but allows the user's partner to attack unimpeded by Rage Powder.
+
+**Taunt**: The most generally useful Taunt users are Gengar and Thundurus. Other niche Pokemon with Taunt include Virizion, which ignores powder moves thanks to its Grass typing, as well as Gothitelle and Mega Gengar, which can trap a Taunted Amoonguss and focus on its partner.
+
+**Safety Goggles/Substitute/Overcoat**: Safety Goggles ignores Rage Powder and Spore, making it a good item to slap on a team that is weak to Amoonguss's antics. Overcoat is basically the same thing as Safety Goggles in ability form, though it's relatively rare, with the notable users being Escavalier and Reuniclus. Substitute doesn't ignore Rage Powder, but it blocks Spore and is in general a solid move, with the notable users being Heatran and Aegislash.

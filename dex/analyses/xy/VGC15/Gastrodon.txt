@@ -1,0 +1,50 @@
+Overview
+########
+
+Gastrodon has always been an interesting Pokemon in VGC, as its solid typing and ability can make it a valuable asset to certain teams. What makes Gastrodon unique is its ability Storm Drain, which redirects Water-type moves to Gastrodon and boosts its Special Attack by one stage in the process. Gastrodon's typing also allows it to deal significant damage to a lot of the popular Steel-, Ground-, and Fire-type Pokemon that currently dominate the metagame. While the typing has its perks, it also curses Gastrodon with a crippling 4x weakness to Grass, which leaves it at the mercy of Pokemon such as Amoonguss, Ferrothorn, Virizion, and Mega Venusaur. Gastrodon possesses reasonable bulk, which grants it the ability to survive most of the strongest attacks in the metagame, but its low Speed means that it is going to be moving last the majority of the time.
+
+Bulky Attacker
+########
+name: Bulky Attacker
+move 1: Earth Power
+move 2: Scald / Muddy Water
+move 3: Ice Beam
+move 4: Protect
+ability: Storm Drain
+item: Expert Belt
+evs: 180 HP / 108 Def / 212 SpA / 4 SpD / 4 Spe
+nature: Modest
+
+Moves
+========
+
+Earth Power is Gastrodon's best Ground-type STAB move and is able to do plenty of damage to common Steel-, Fire-, and Rock-type Pokemon. Scald deals good damage and potentially inflicts burns, which can vastly improve Gastrodon's chances against popular physical attackers. Ice Beam rounds out Gastrodon's coverage by allowing it to deal heavy damage to Flying-types that would not be harmed by its other moves. Protect prevents Gastrodon from taking damage that turn. This alleviates any concern of getting double targeted or being taken out by a surprise Grass move. Muddy Water is a decent spread move that allows Gastrodon to potentially lower both targets' accuracy, but the accuracy of the move itself makes it a bit ill-advised. Recover can improve Gastrodon's longevity, but cuts down on its coverage.
+
+Set Details
+========
+
+The given EV spread allows Gastrodon to survive a Double-Edge from Jolly Mega Kangaskhan and Jolly Mega Salamence. The physical bulk is also necessary for taking big hits from heavy hitters such as Terrakion, Mega Salamence, and Mega Metagross so Gastrodon can retaliate with the appropriate moves. The Special Attack investment allows Gastrodon to OHKO 4 HP / 0 SpD Terrakion with Earth Power and gives it a 56.3% chance to OHKO 4 HP Mega Metagross. Expert Belt is recommended because it helps Gastrodon get the needed KOs on the aforementioned Pokemon without hindering Gastrodon's longevity or coverage. The leftover EVs are placed into Special Defense and Speed to allow it to Speed creep on other Gastrodon.
+
+Usage Tips
+========
+
+This Gastrodon is meant to be played more offensively as to net some surprise KOs, unlike the traditional bulky Gastrodon, which can become a burden after a certain point. With its niche being Storm Drain, Gastrodon works best at switching in on a predicted Water move to protect its ally as well as gain a Special Attack boost, making it a threat on the field. This turns Gastrodon into a viable check to rain teams, as it is able to prevent the onslaught of the boosted Water-type moves that every rain team carries. However, slapping Gastrodon on a team just to beat rain is not always recommended, because rain teams often have ways of dealing with it, such as by means of Ludicolo. Gastrodon does well against the omnipresent Thundurus and Landorus, as it can shrug off their attacks reasonably well (barring Choice Specs-boosted Grass Knot) and retaliate with a strong hit. Gastrodon also beats Rotom-W, as it is immune to both of Rotom-W's STAB moves and does not mind Will-O-Wisp that much, but don't be too comfortable, as Gastrodon cannot do much back to Rotom-W.
+
+Team Options
+========
+
+Heatran and Gastrodon make up a solid core, as they can cover each other's weaknesses very well. Gastrodon can maul Ground-types for Heatran and also keep it safe from Water moves, while Heatran can maul the Grass-types that Gastrodon greatly fears. Other bulky Fire-types such as Rotom-H, Arcanine, and Entei have good typing synergy with Gastrodon and can aid it in burning targets with Will-O-Wisp and Sacred Fire. Gastrodon has a bit of a hard time breaking through specially bulky Pokemon such as Sylveon and Cresselia, which makes Bisharp a solid partner. Mega Salamence makes for a good partner, as it is able to take advantage of Gastrodon's ability to weaken Steel- and Rock-type Pokemon, and it can set up Dragon Dances on Grass-types. Gastrodon's low Speed stat makes it a decent option for a Trick Room team, as it would be able to get the damage off before taking heavy hits. Slowbro is a strong Trick Room setting partner for Gastrodon, as it is slower under Trick Room and can use Surf to boost Gastrodon's Special Attack via Storm Drain.
+
+Other Options
+########
+
+A Choice Specs set can be viable, but being unable to switch moves can be detrimental to Gastrodon. Sitrus Berry gives Gastrodon some clutch recovery in tight situations, but without a boosting item, Gastrodon's damage output will naturally dwindle. Stockpile boosts Gastrodon's bulk, but cuts down on its coverage and makes it less of an actual threat. Running Recover alongside Stockpile is recommended to keep Gastrodon healthy through the match. Icy Wind can be used for speed control, but Gastrodon is too slow to take advantage of this. Another issue is that Icy Wind can trigger Defiant and Competitive from Bisharp and Milotic, respectively. Rindo Berry neuters Grass-type moves aimed at Gastrodon, but it only works once, which makes it not worth it most of the time.
+
+Checks & Counters
+########
+
+**Grass-types**: Grass-type Pokemon are the best possible counters for Gastrodon, as they can OHKO Gastrodon with their STAB moves. Mega Venusaur and Ferrothorn can shrug off any attack Gastrodon throws at it and OHKO Gastrodon with Giga Drain and Power Whip, respectively.
+
+**Mega Charizard Y**: Mega Charizard Y gives Gastrodon a miserable time, as it is immune to Earth Power, weakens Scald's damage output with Drought, and OHKOes Gastrodon easily with Solar Beam.
+
+**Special Walls and Tanks**: Unfortunately, Gastrodon does not possess enough offensive power to dent special walls and tanks such as Cresselia, Sylveon, Jellicent, and Clefable.

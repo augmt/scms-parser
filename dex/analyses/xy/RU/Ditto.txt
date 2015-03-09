@@ -1,49 +1,51 @@
 Overview
 ########
 
-Ditto is one of the most versatile Pokemon in RU, being able to hold its own against all kinds of Pokemon. With its signature ability, Imposter, Ditto can transform into any Pokemon. It copies the opposing Pokemon's stats, EVs, typing, ability, and appearance when switching in, making it a deadly copy of the opponent, although Ditto will retain its own HP stat. Ditto's main function is to be an effective stop to setup sweepers. With its ability and Choice Scarf, Ditto can copy boosts from sweepers and outspeed them to take them out. Imposter also serves as a way to help scout the opposing team's Pokemon. This is important when dealing with unpredictable Pokemon such as Meloetta and Whimsicott, which have a variety of movesets. Imposter also allows Ditto to provide utility to its team by either becoming a hazard setter or a Heal Bell user. However, even with Ditto's amazing ability, it still has its flaws. If Ditto switches in after the opposing Pokemon has set up a Substitute, Ditto is completely shut down as Imposter fails to activate. Therefore, Substitute sweepers have no problem taking out Ditto. Ditto also has a hard time dealing with bulky set up sweepers such as Calm Mind Reuniclus and Curse Registeel. Furthermore, Ditto gains no boosts from abilities such as Unburden, and as Ditto uses Choice Scarf, an opposing Pokemon with Unburden activated will outspeed it. That being said, these tiny setbacks aren't enough to stop this imperfect clone from giving the real deal a run for its money.
+Ditto can automatically transform into the opposing Pokemon upon switching in, copying their moves, nature, EVs, and any stat boosts. However, Ditto does not copy their HP, meaning that it has to live with a horrible base 48 HP. Ditto also can't transform into Pokemon behind Substitutes. However, the main draw of using Ditto is that it can transform into an opposing sweeper and take their boosts to turn the situation against the opponent, a strategy that appreciates Choice Scarf, which can make sure that Ditto outspeeds its foe. Ditto still loses to most Calm Mind or Bulk Up sweepers, as they can beat Ditto one on one with their higher HP stat. Ditto is almost completely useless against stall teams besides sometimes using utility moves such as Defog or Heal Bell. Another problem Ditto faces is that the moves it copies only have 5 PP, meaning it can be PP stalled, especially as it almost always holds a Choice Scarf.
 
 Imposter
 ########
 name: Imposter
 move 1: Transform
+move 2:
+move 3:
+move 4:
 ability: Imposter
 item: Choice Scarf
-evs: 248 HP / 252 Def / 8 SpD
+evs: 248 HP / 8 Atk / 252 Def
 nature: Relaxed
 
 Moves
 ========
 
-Transform is the only move Ditto learns, but this move is useless since its ability will automatically transform Ditto into the opposing Pokemon.
+Transform is literally the only move Ditto learns, but it is also useless because Imposter does everything it does except automatically, making it just filler.
 
 Set Details
 ========
 
-It's best to run Ditto with a spread of 248 HP / 252 Def / 8 SDef; this is to ensure that in the unlikely case that Ditto is either against another Ditto or a Substitute, it can sustain itself for a bit. The HP EVs also maximize Ditto's HP while putting it at an odd number, allowing it one extra switch in against entry hazards if Ditto is left unscathed from other damage. Choice Scarf is important for Ditto's success as it allows Ditto to outspeed almost any Pokemon and lets it revenge kill sweepers easily. A Relaxed nature is needed in the event that Ditto cannot transform because of a Substitute or it encounters another untransformed Ditto. The boost in Defense helps improve survivability slightly if Ditto can't transform, and the decrease in Speed will allow it to win a stall war against other Ditto. Ditto can also run various IV spreads to maximize its damage for Hidden Powers. Hidden Power Fire is great for taking out Durant, Escavalier, and even Doublade. Hidden Power Water is great because it has wide coverage against Rhyperior, Dugtrio, and Gligar as well. Additionally, Hidden Power Grass can also be used to take out foes like Gastrodon that only have one weakness. 
+248 HP EVs give Ditto an entry hazard damage number, and investing in HP is important, as HP is the only stat Ditto keeps when it transforms. 252 Defense EVs and a Relaxed nature make sure that Ditto will underspeed other Dittos in a stall war and take less damage from their Struggle. Choice Scarf allows Ditto to outspeed non-Choice Scarf opponents after transforming into them. Ditto's IVs can be tweaked for certain Hidden Powers, such as 30 Defense IVs, 30 Special Defense IVs, and 1 Speed IV for Hidden Power Rock to hit Moltres and Fletchinder, or 30 Defense IVs, 30 Special Attack IVs, and 1 Speed IV for Hidden Power Grass to hit Gastrodon, Quagsire, and Rhyperior.
 
 Usage Tips
 ========
 
-It's best to use Ditto as a revenge killer and to let it take advantage of Pokemon that have set up. It can also become a counter sweeper if it copies a set up sweeper. It's also a given that players need to be careful when switching in Ditto. If Ditto were to switch into a Tyrantrum and get attacked by the opposing Tyrantrum's Dragon-type STAB move, Ditto would faint easily. However, if the Ditto player has a Magmortar against a Jellicent, Ditto can come in, become Jellicent, and take any Water-type move from Jellicent if it runs Water Absorb. Another example is having a Flying-type switch to Ditto against a Stone Edge, and resisting it if the opposing Pokemon is resistant to Rock-type moves, like Cobalion. When transformed, Choice Scarf Ditto is limited to one move with lowered PP; once Ditto uses all these PP, Ditto will be forced to use Struggle and take heavy recoil damage, while the opposing Pokemon will have access to a full moveset. Having said that, switching out is key when low on PP. The most important rule when using Ditto is to never send it out on a Substitute, unless you're using it as death fodder. Ditto can also be useful when it transforms into a Pokemon with a support move, allowing it to act as an entry hazard setter, Heal Bell cleric, spinner, or Defogger, depending on the opposing Pokemon.
+Never send in Ditto against a Pokemon behind a Substitute unless you are using it as fodder because it cannot do anything back. Be cautious of switching Ditto into Pokemon that can potentially hit hard, either because of a super-effective move in the case of transforming into Druddigon or having high offenses versus low defenses in Dugtrio's case. Use Ditto to revenge kill dangerous set up sweepers, although Ditto's presence can act as a deterrent from attempts at setting up. Ditto should not be used to revenge kill bulky sweepers such as Calm Mind Spiritomb or Reuniclus because defensive boosts mean that Ditto will lose, as it only has base 48 HP. Ditto can have some utility against more defensive teams by coming in and setting or removing entry hazards or by acting as a cleric. Remember that Ditto can be used to scout opposing movesets on more versatile Pokemon, although Ditto should not be switching in purely to scout for moves.
 
 Team Options
 ========
 
-Almost any Pokemon can be a teammate to Ditto, especially heavily offensive teammates that can pressure opponents enough that they won't set up Substitutes. Pokemon such as Exploud and Meloetta do not care about Substitutes at all. Moves like Boomburst and Hyper Voice make the opponent want to switch out as even if they use a Substitute, they're still going to get damaged. Bulky Poison-type teammates such as Amoonguss and Skuntank work well as they can get rid of Toxic Spikes and allow Ditto to switch out if it's in danger of getting poisoned. Additional teammates such as Mega Banette or other Prankster users can help stop Substitute, but may stop set ups which benefit Ditto.
+Ditto is best used as a glue and it can work on many teams, but is best used with offensive teammates that also have problems with set up sweepers. Ditto appreciates entry hazard removal to increase its longevity, as it is susceptible to all entry hazards, and it also appreciates the setting of entry hazards to help it if it ever attempts to counter sweep. Partners that can annoy Substitute sweepers, such as Golbat or Exploud, are good partners as Ditto cannot get past Substitute alone. Partners such as Pangoro and Exploud work well with Ditto because they can wallbreak against stall, an archetype Ditto is not very useful against.
+
 
 Other Options
 ########
 
-There are few options that Ditto can effectively utilize. Choice Scarf and Imposter are really the only way to run Ditto well. Changing Ditto's IVs allows you to maximize the the damage for Hidden Powers. Alternatively, if Ditto is to use a Focus Sash, there needs to be heavy emphasis on having anti-hazard Pokemon on your team; this is to ensure that Ditto's health remains intact and to ensure Ditto can switch in and counter sweep. Focus Sash allows Ditto to survive one hit and it frees Ditto to use all of the opponent's moves, rather than being restricted to one move because of Choice Scarf's effect.
+Focus Sash gives Ditto the option of counter sweeping while also being able to switch moves, but it requires entry hazard removal as a result and can stll potentially lose to priority users. Other Hidden Power types can also be used, such as Hidden Power Fire for Escavalier and Abomasnow, Hidden Power Ground, for Magneton and Jolteon, and Hidden Power Flying for Virizion.
 
 Checks & Counters
 ########
 
-**Substitute**: Substitute will stop Ditto in its tracks as it makes sure Ditto can't turn into another Pokemon.
+**Defensive Pokemon**: Pokemon such as Slowking, Amoonguss, and Aromatisse won't mind their own attacks much and can easily stall Ditto out of its 5 PP with their recovery moves.
 
-**Hazards**: Toxic Spikes, Stealth Rock, and Spikes can all chip away at Ditto, which might need to come in and out repeatedly due to its Choice Scarf.
+**Bulky Setup Sweepers**: Bulky setup sweepers such as Calm Mind Meloetta, Virizion, and Curse Registeel can tank Ditto's attacks thanks to their boosted defenses, and then hit Ditto back hard by virtue of its base 48 HP and inability to change moves while holding Choice Scarf.
 
-**Bulky Setup Sweepers**: Pokemon such as Calm Mind Reuniclus and Unburden Slurpuff give Ditto a run for its money. Reuniclus can take lots of hits and fire back with more moves than Ditto can, while Unburden allows Slurpuff to outspeed Ditto once it's activated.
-
-**Trick Room**: In Trick Room, Ditto will have a hard time as its Choice Scarf will cause it to move slower than the opponent, which is troublesome since Ditto usually needs to be faster than its foes to take them out.
+**Substitute**: Ditto cannot transform into Pokemon behind a Substitute, so as long as the opposing Pokemon is behind a Substitute, Ditto is rendered useless.

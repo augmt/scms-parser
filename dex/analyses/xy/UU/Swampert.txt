@@ -1,18 +1,16 @@
 Overview
 ########
 
-Swampert has a very good defensive typing that gives it some key resistances to Fire- and Electric-type moves and only one weakness. It has good bulk and a good support movepool with gems like Stealth Rock and Roar. It also has a good Attack stat and good coverage options to take advantage of it.
+Swampert has reasonable 100 / 90 / 90 bulk which makes it an ideal defensive wall alongside its unique Water / Ground typing, which gives it one weakness, while sporting several resistances and one immunity. Swampert is one of the few Pokemon that stops Fire-type wallbreakers such as Darmanitan and Entei cold. Unfortunately, a 4x weakness to Grass-type moves makes it susceptible to easy OHKOs should one mispredict; however, Swampert's strengths far exceed any potential weaknesses. Access to Stealth Rock and Roar makes Swampert an ideal entry hazard shuffler. Furthermore, Swampert's Mega Evolution has access to Swift Swim and has base 110 / 110 defenses as well as base 150 Attack, making it an ideal rain sweeper. After using Rain Dance, Mega Swampert's Speed is doubled and alongside its huge base 150 Attack allows it to be an effective wallbreaker. However, the downside is that Mega Swampert suffers from a lack of any sort of reliable recovery, making it susceptible to being whittled down.
 
-However, Swampert's lack of reliable recovery means that it can not use its bulk to its full potential and can be worn down with repeated hits. Its 4x weakness to Grass-type attacks means that most Grass-type Pokemon can switch into it easily and force it out. It is also very slow, meaning that it will have to take a hit before it retaliates most of the time.
-
-Physically Defensive
+Defensive
 ########
-name: Physically Defensive
+name: Defensive
 move 1: Stealth Rock
 move 2: Earthquake
 move 3: Scald
-move 4: Roar / Toxic / Ice Beam
-ability: Torrent
+move 4: Roar / Toxic / Protect
+ability: Torrent / Damp
 item: Leftovers
 evs: 240 HP / 16 Atk / 252 Def
 nature: Relaxed
@@ -20,102 +18,100 @@ nature: Relaxed
 Moves
 ========
 
-Swampert can set up Stealth Rock reliably throughout the match with its above average bulk. Earthquake is its strongest STAB attack and prevents Swampert from being setup fodder. Scald is the secondary STAB move and has a 30% chance to burn the target, often making the opponent think twice before switching something into it. Roar removes any boosts your opponent might have acquired while racking up entry hazard damage. On the other hand, Toxic cripples the opposing bulky Water-types that tend to switch into Swampert; it also cripples opposing walls and thus makes it easier for Swampert's teammates to break past them. Ice Beam is an option to OHKO Flygon and heavily damage other Dragon- and Flying-types, as well as hitting Chesnaught and Tangrowth on their weaker Special Defense on the switch. Protect can be used for scouting Choice-locked moves and surprise coverage attacks while getting an extra turn of Leftovers recovery.
+Stealth Rock is used for racking up entry hazard damage, while Earthquake is a powerful STAB option even with little investment. Scald is a secondary STAB option with a 30% chance to burn, increasing Swampert's utility. Roar allows Swampert to phaze, with an added benefit of accumulating Stealth Rock damage. Toxic allows Swampert to spread status around, contributing to wallbreaking and sweeping, and Protect allows Swampert to scout against Choiced Pokemon.
 
 Set Details
 ========
 
-240 HP EVs hit a Leftovers number, allowing for maximum recovery. 252 Defense EVs maximize Swampert's physical bulk. The rest of the EVs are dumped into Attack to give a little boost to Earthquake's damage output. A Relaxed nature further boosts Swampert's Defense without lowering any of its offensive or defensive stats. Leftovers provides passive recovery.
+The EV spread allows Swampert to take on most non-Choice Band attackers and set up Stealth Rock, while also hitting a Leftovers number. Leftovers is used for passive recovery and overall longevity. Torrent should be the primary option, as it lets Swampert score extra 2HKOs with Scald once it activates. Damp can be used to prevent the rare Self-Destruct or Explosion. Swampert can also use a specially defensive set, with an EV spread of 240 HP / 16 Atk / 252 SpD and a Sassy nature.
 
 Usage Tips
 ========
 
-Use Swampert as a tank rather than a wall, as it does not have access to reliable recovery and will get worn out very easily with repeated hits. Bring Swampert in on physical attackers and set up Stealth Rock on the switch. Try to fish for Scald burns as much as you can. Don't hesitate to use Earthquake as it hits very hard for such a defensive Pokemon. Try to keep Swampert healthy if the opposing team has a Pokemon that can be potentially walled by it. Also, be wary of lures like mixed Victini.
-
+Swampert should be used as a defensive wall and entry hazard shuffler. Swampert acts as a decent lead, as it can take on frail Choice Scarf leads such as Darmanitan as well as Nidoking and Mega Absol and can usually dominate most offensive Pokemon when it has the type advantage. Mixed attacking options mean Swampert can take on burn-inflicting Pokemon such as defensive Arcanine and Choice Band Entei.
 
 Team Options
 ========
 
-Swampert appreciates teammates that can take on Grass-types. Victini and Darmanitan are great partners in this regard; they also force a lot of switches, thus making good use of the Stealth Rock set up by Swampert. Pokemon such as Roserade, Celebi, and Toxicroak that can take on opposing bulky Water-types make for good partners, as they can switch into Swampert with impunity. Roserade can also take out opposing Grass-types with Sludge Bomb and lay Spikes, and in return, Swampert can handle the Fire-types that give these Pokemon problems. Swampert appreciates cleric support as it has no recovery and is crippled by status, especially burn and poison. Therefore, Florges and Blissey are good teammates, as they can also take special hits aimed at Swampert.
+Swampert is useful on stall, semi-stall, and balance cores. As such, it partners well with specially defensive Wish users and clerics such as Blissey, Umbreon, and Florges, as they keep Swampert healthy and extend its walling potential. Swampert also partners well with offensive pivots and other U-turn users such as Crobat and Darmanitan which can pivot into Swampert when their matchups are unfavourable. Swampert provides reliable wall support to the plethora of Pokemon, including Florges, Jirachi, Machamp, and Shaymin, to name a few, that need a defensive check against Fire-type wallbreakers. Swampert appreciates both offensive and defensive Ghost-types such as Chandelure and Cofagrigus for spinblocking support and for taking defensive pressure off of it by better absorbing Normal- and Fighting-type moves, which are very common. Chandelure in particular can also absorb Fire-type moves via its Flash Fire ability.
 
-Choice Band
+Rain Sweeper
 ########
-name: Choice Band
-move 1: Earthquake
+name: Rain Sweeper
+move 1: Rain Dance
 move 2: Waterfall
-move 3: Ice Punch
-move 4: Superpower
-ability: Torrent
-item: Choice Band
-evs: 204 HP / 252 Atk / 52 Spe
+move 3: Earthquake
+move 4: Ice Punch / Superpower / Stealth Rock
+ability: Damp
+item: Swampertite
+evs: 252 Atk / 4 SpD / 252 Spe
+nature: Adamant / Jolly
+
+Moves
+========
+
+Rain Dance activates Swift Swim, allowing Mega Swampert to outspeed the entire unboosted tier. Waterfall is a primary STAB option that receives a 1.5x boost due to rain and has a 20% flinch rate, which partners well with Swift Swim's Speed boost and provides more wallbreaking opportunities. Earthquake is an effective STAB option against most Pokemon that either resist or are immune to Water-type attacks. Ice Punch is used to hit Grass- and Flying-types. Superpower is used to hit common Normal- and Dark-types, including Snorlax, Hydreigon, Blissey, and Umbreon. Stealth Rock can be used in order to assist in wallbreaking, as the foe will lose health upon each switch-in.
+
+Set Details
+========
+
+An Adamant nature and 252 Attack EVs allow Mega Swampert to hit as hard as possible and 252 Speed EVs ensure that Mega Swampert outspeeds the entire non-Choice Scarfed tier as well as any Pokemon under base 100 Speed that uses Choice Scarf. Swift Swim doubles Mega Swampert's Speed after a Rain Dance. A Jolly nature can be used in order to outspeed almost all Choice Scarf users in the tier.
+
+Usage Tips
+========
+
+The first thing Mega Swampert should do is set up Rain Dance in order to optimize its wallbreaking potential. Use it as an early-game wallbreaker or late-game sweeper. Avoid using Mega Swampert as a lead; a bad matchup may take away momentum from your team. Lastly, Mega Swampert is very useful alongside balance and bulky offense playstyles but is not very effective against stall, despite its wallbreaking potential.
+
+Team Options
+========
+
+Mega Swampert partners well with Pokemon that appreciate rain support, such as Toxicroak or a variety of Hurricane users. Tornadus can set up Rain Dance effectively, setting up Swampert for late-game sweeps. Mega Swampert's Rain Dance aids Swift Swim sweepers such as Kingdra or Ludicolo. Mega Swampert appreciates Wish and cleric support from Pokemon such as Florges or Umbreon. Due to its lack of recovery, Mega Swampert appreciates Rapid Spin support from Forretress or Kabutops. Alternatively, Defog support from Pokemon such as Crobat or Gligar along with U-turn can also be effective in creating wallbreaking opportunities for Mega Swampert.
+
+Stealth Rock Megapert
+########
+name: Stealth Rock Megapert
+move 1: Stealth Rock
+move 2: Waterfall
+move 3: Earthquake
+move 4: Ice Punch / Superpower
+ability: Damp
+item: Swampertite
+evs: 212 HP / 252 Atk / 44 Spe
 nature: Adamant
 
 Moves
 ========
 
-Earthquake is the strongest STAB attack available to Swampert and deals huge damage to anything that does not resist it or is not a physical wall. Waterfall is the secondary STAB attack and is more reliable if opponent has a Flying-type or a Levitate user. Ice Punch is for Grass-types and Hydreigon, which resist both STAB moves of Swampert. Superpower beats every variant of Scrafty one-on-one.
+Stealth Rock is used for racking up entry hazard damage. Earthquake is a powerful primary STAB option, especially with investment, and is effective against most Pokemon that either resist or are immune to Water-type attacks. Waterfall is a secondary STAB option. Ice Punch is used to hit Grass- and Flying-types. Superpower is used to hit common Normal- and Dark-types, including Snorlax, Hydreigon, Blissey, and Umbreon, as well as Abomasnow.
 
 Set Details
 ========
 
-Choice Band gives this set huge wallbreaking power and surprise value. For example, Roserade, which is a pretty safe switch-in to the defensive set is OHKOed by a Choice Band Earthquake. 252 Attack EVs and an Adamant nature maximize Swampert's Attack. 52 Speed EVs allow Swampert to outspeed minimum Speed Umbreon and everything slower. The remaining EVs are invested in HP to allow Swampert to take hits better. Life Orb can be used instead of Choice Band, but compromising Swampert's excellent bulk is not ideal.
+212 HP EVs alongside Mega Swampert's 110 / 110 defenses increase this set's potential to tank hits. 252 Attack EVs with an Adamant nature allow Mega Swampert to be an effective wallbreaker and 44 Speed EVs allow Mega Swampert to outspeed base 65 speed Pokemon prior to Mega Evolution and Florges after Mega Evolution.
 
 Usage Tips
 ========
 
-This Swampert set is a bulky attacker at its best. It thrives on the surprise value that Choice Band provides, so prediction is key when playing with this set. Bring it in on resisted attacks and hit back hard. Spam Earthquake if your opponent has nothing immune to it; however, try to use Earthquake conservatively if your opponent has a Flying-type or a Pokemon with Levitate. Waterfall is your best bet in such situations. Swampert can take neutral non-STAB moves, but don't expect it to do this multiple times. If you predict a Grass-type switching in, use Ice Punch or bring in your Grass-type answer.
+This set combines the utility of Swampert's good defensive typing and bulk with the prowess of its strong offensive typing and huge Attack. Mega Swampert can be used as a lead, as it can take on frail Choice Scarf leads such as Darmanitan. Swampert can take on frail threats such as Nidoking and Mega Absol in one-on-one situations, and it can usually dominate most offensive and balanced Pokemon when it has the type advantage in said one-on-one situations. Mega Swampert's STAB coverage means it can take on a variety of Pokemon such as Poison-, Ground-, Rock-, and Fire-types.
+
 
 Team Options
 ========
 
-Teammates that can scare off Grass-types are necessary: Fire-types such as Victini, Darmanitan, and Mega Houndoom are good options. Roserade is a particularly useful partner for Swampert; it can scare off bulky Water-types and opposing Grass-types with its STAB attacks and also set up Spikes to ease KOs for Swampert. With one layer of Spikes and Stealth Rock, Swampert has a very high chance of 2HKOing Suicune. Speaking of Stealth Rock, Aerodactyl and Rhyperior can set up Stealth Rock and also threaten Flying-types with their Rock-type STAB, thus allowing Swampert to use Earthquake more freely. Late-game sweepers such as Choice Scarf Mienshao make good teammates as well, as they appreciate Swampert's wallbreaking capabilities. Cleric support, although not absolutely necessary, is appreciated as being burned ruins this set. Florges can use Heal Bell, has good defensive synergy with Swampert, and it can also keep Swampert healthy with Wish.
-
-Curse
-########
-name: Curse
-move 1: Curse
-move 2: Earthquake
-move 3: Ice Punch
-move 4: Rest
-ability: Torrent
-item: Chesto Berry
-evs: 252 HP / 4 Def / 252 SpD
-nature: Careful
-
-Moves
-========
-
-Curse boosts Swampert's Attack and Defense at the cost of its Speed, making it bulkier and more powerful. Earthquake is its most powerful STAB and has very good neutral coverage. Ice Punch hits Flying- and Grass-types that resist its STAB. Avalanche can also be used, as most of the time Swampert will be moving last. Rest is for instant recovery with Chesto Berry, giving Swampert another chance to sweep or tank hits.
-
-Set Details
-========
-
-The EV spread and a Careful nature aims to maximize Swampert's Special Defense, as Swampert can already boost its Defense with Curse. Chesto Berry cures sleep instantly, providing it with full recovery, though only once.
-
-Usage Tips
-========
-
-With this set, Swampert can set up on the extremely common Choice-item using Fire-types in the current UU metagame. Don't boost until its checks and counters have been eliminated. Use Swampert as a specially defensive tank early- to mid-game. If Swampert is on low health, use Rest even if it has not boosted already, as it can still tank a few hits. It can sweep against a defensive team but against a more offensively oriented team, Swampert will have problems, so it is advisable to use it as a tank against them unless the circumstances are favorable enough. Don't set up if the opponent has a Pokemon that may be carrying a phazing move or a powerful Grass-type attack such as Grass Knot or Leaf Storm.
-
-Team Options
-========
-
-Fire-type Pokemon have good synergy with Swampert as they can handle the Grass-types that plague it. Pokemon that can handle Flying-types so that Swampert can spam Earthquake are good teammates. Raikou, Aerodactyl, and Rhyperior are good examples. Pokemon that attract those Pokemon that Swampert can set up on make for good teammates. Grass-types attract Fire-types and can also handle the bulky Water-types that wall this set. Swampert greatly appreciates cleric support as Wish and Heal Bell can prevent it from using Rest prematurely. Florges is a very good option that has good synergy with Swampert.
+This Mega Swampert set partners well with specially defensive Wish users and clerics such as Blissey, Umbreon, and Florges, as they keep Mega Swampert healthy and extend its wallbreaking potential. Swampert also partners well with offensive pivots and other U-turn users such as Crobat and Darmanitan which can pivot into Mega Swampert when their matchups are unfavourable. Mega Swampert provides reliable wall support to the plethora of Pokemon, including Florges, Jirachi, Machamp, and Shaymin, to name a few, that need a defensive check to Fire-type wallbreakers. Mega Swampert appreciates both offensive and defensive Ghost-types such as Chandelure and Cofagrigus for spinblocking support and for taking defensive pressure off of Swampert by better absorbing common Normal- and Fighting-type moves. Chandelure in particular can also absorb Fire-type moves via its Flash Fire ability.
 
 Other Options
 ########
 
-Stone Edge can be used on the offensive set to hit Flying-types harder. However, Ice Punch is enough most of the time. A specially offensive set is plausible with Swampert's wide special movepool. Yawn can be used as a pseudo-phazing move. However, Swampert already has access to Roar. An Assault Vest set with Mirror Coat makes Swampert a great Grass-type lure and Raikou check. Counter is also an interesting option.
+A Choice Band set is a viable option, and some Speed EVs can be used to hit certain Speed tiers. Assault Vest can also be used to some effect. Mega Swampert can utilize a bulky RestTalk set for a reliable means of recovery. A specially bulky mono-attacking Curse + RestTalk set is another option. Curse with three attacks or Curse with two attacks and Rest are also alternatives.
 
 Checks & Counters
 ########
 
-**Grass-types**: Grass-types such as Roserade, Tangrowth, and Celebi resist Swampert's STAB attacks and threaten it with their own STAB move. However, Roserade should be wary of switching into a Choice Band Earthquake.
+**Grass-types**: Shaymin, Roserade, and Chesnaught all pose significant problems to Swampert, as they outspeed the defensive sets and can OHKO or 2HKO with a Grass-type STAB move.
 
-**Bulky Water-types**: Slowking and Suicune can take most of the attacks Swampert throws at them and set up on it with Calm Mind. Also, Scald burns cripple Swampert.
+**Toxic**: Common Toxic users such as Crobat and Umbreon can help the opponent's team whittle down Swampert. Toxic Spikes also poses a problem for this reason.
 
-**Grass-type Coverage Moves**: Most Pokemon with a surprise Grass-type coverage move pressurize Swampert. Chandelure with Energy Ball and Victini with Grass Knot are good examples of those.
+**Wallbreakers**: Choice Band Machamp and Choice Scarf Mienshao 2HKO the defensive set, while Hydreigon and Mega Blastoise cause Swampert serious problems due to their superb wallbreaking capabilities.
 
-**Status**: Poison and burn ruin Swampert's excellent bulk by slowly wearing it down. Sableye can burn it with Will-O-Wisp, and Florges can use cripple it with Toxic.
-
-**Repeated Hits**: Due to its lack of reliable recovery, powerful attackers can overwhelm Swampert with repeated attacks.
+**Bulky Water-types**: No Swampert set will be able to break through CroCune or Alomomola. Rocky Helmet Alomomola will trouble the rain sweeper set by causing damage every time Swampert uses a contact move such as Waterfall or Ice Punch.

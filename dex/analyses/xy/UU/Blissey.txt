@@ -1,17 +1,15 @@
 Overview
 ########
 
-Blissey finds itself as one of UU's premier defensive threats and support Pokemon due to its enormous base 255 HP, which, coupled with an amazing base 135 Special Defense, makes it just as good as impassable with special attacks. Blissey movepool is extremely extensive, allowing it to utilize Soft-Boiled for reliable recovery as well as Thunder Wave to cripple opponents and Wish to support the team. Blissey's amazing ability in Natural Cure also sets it apart from other special walls. Natural Cure enables Blissey to completely ignore any status by switching out, which is usually the bane for most walls. Blissey's typing also grants it an immunity and only one weakness.
+Blissey's astronomical HP and Special Defense make her the premier special wall of UU. In addition, Blissey has access to a plethora of support moves, such as Wish and Heal Bell, allowing her to aid her team by providing cleric support and tanking all special hits. Her Normal typing gives her only one weakness, and Natural Cure allows her to absorb status effects. In combination, these two traits make Blissey difficult to wear down. Access to Seismic Toss and Toxic are all Blissey needs to not be setup bait. However, even with those options of dealing damage, Blissey is still pretty passive. She also struggles against Pokemon that rely on Substitute, as Seismic Toss does not break a Substitute of a Pokemon with 404 HP or more, and status moves, such as Toxic, do not hit through Substitute. As Seismic Toss is Blissey's only direct attacking option, she is very vulnerable to Taunt and will often find herself doing little for the team if affected by it. Though the Normal-type has only one weakness, it's a very common one in UU, with physical Fighting-type attackers such as Mienshao and Infernape running rampant in the tier. Blissey also suffers a bit from four-moveslot syndrome, as she really wishes she had access to all her support moves. Even so, Blissey is still one of the best walls in the UU tier and finds a home on many defensively minded teams.
 
-However, Blissey's typing is a double-edged sword. While only one weakness seems nice, it also provides Blissey with absolutely no resistances. Additionally, while Blissey has enormous HP and Special Defense stats, its Defense stat is pathetically low, sitting at only 10. Blissey's low Attack stat and only mediocre base 75 Special Attack stop Blissey from doing any damage, forcing it to rely on Seismic Toss. Because of this, Blissey is extremely passive, and it can be easily played around with recovery or Substitute. To compound this further, Blissey is literal setup and Taunt bait for any Pokemon. At best, Blissey can use Seismic Toss or attempt to poison, which makes Blissey fare very poorly against opposing offensive teams and most Substitute users.
-
-Special Wall
+De Blob
 ########
-name: Special Wall
-move 1: Toxic / Thunder Wave
-move 2: Soft-Boiled / Wish
-move 3: Heal Bell / Protect / Wish / Stealth Rock
-move 4: Seismic Toss
+name: De Blob
+move 1: Wish / Thunder Wave
+move 2: Protect / Soft-Boiled
+move 3: Seismic Toss
+move 4: Heal Bell / Toxic / Stealth Rock
 ability: Natural Cure
 item: Leftovers
 evs: 252 HP / 252 Def / 4 SpD
@@ -20,37 +18,37 @@ nature: Bold
 Moves
 ========
 
-Toxic is an ideal move for most walls, and Blissey is no exception. Toxic cripples opposing Pokemon, and eventually stacks up enough damage to where they are in range of a KO from Seismic Toss, or are forced to switch out to reset Toxic's timer. However, if your team can just break through opponents just fine with entry hazard control or wallbreakers, Thunder Wave is an alternative if you wish to cripple faster Pokemon. Soft-Boiled is reliable recovery, allowing Blissey to stall and rack up Toxic damage. Wish, however, is an alternative if supporting the team is of concern, as Blissey's wishes are so big that a Pokemon, under normal circumstances, will regain all of its HP back. Heal Bell removes all status conditions for Blissey's team, which provides great support in pressuring opponents to use status moves. Protect pairs well with Wish, allowing for a guaranteed healing if Blissey wishes not to pass the Wish to its teammates. Protect also helps rack up Toxic damage, as well as scout the opponent out. Stealth Rock is certainly an option if Blissey chooses not to support the teams in terms of longevity, but in softening up the opponents so sweepers can go undisturbed. Seismic Toss is a mandatory move on the set, as it allows Blissey to deal damage without being completely susceptible to Taunt.
+Wish recovers Blissey's HP and can be used to heal her teammates as well. Thunder Wave allows Blissey to cripple opposing sweepers with paralysis, making it more difficult for them to sweep. Protect allows Blissey to stall out the foe with Toxic and heal herself safely with Wish. Soft-Boiled gives Blissey reliable recovery, prolonging her presence on the field. Seismic Toss gives Blissey some offensive presence and will break Substitutes if the foe's maximum HP stat is less than 404. Heal Bell lets Blissey act as a cleric, while Toxic can be used to put a timer on opposing sweepers and defensive Pokemon. Alternatively, Stealth Rock can be used to punish opposing switch-ins, allowing Blissey's teammates to sweep more easily. There are several combinations of Blissey's viable moves outside of the slashes seen here. However, every Blissey needs a recovery move and Seismic Toss in order to stay alive longer and not be completely shut down by Taunt, respectively.
 
 Set Details
 ========
 
-Natural Cure is the best ability for Blissey, as it eliminates status without using Heal Bell by simply switching out. Leftovers is the preferred item, as it allows Blissey to gradually recover health, which adds on to its general longevity. Maximum HP allows Blissey to pass enormous wishes, while maximum Defense patches up Blissey's terrible Defense stat to an extent. A Bold nature further maximizes Blissey's Defense stat. A Specially Defensive spread at first seems appealing, but Blissey's special bulk is so high that investing in it is rather redundant.
+Full investment in HP and Defense and a Bold nature maximize Blissey's physical bulk and allow her to pass the largest Wishes possible to her teammates. Natural Cure allows Blissey to cure herself of status simply by switching out, and Leftovers provides Blissey with passive recovery.
 
 Usage Tips
 ========
 
-Blissey does a relatively good job spreading status between Toxic and Thunder Wave, then easily stalling out with Soft-Boiled and wearing down the opponent with Seismic Toss. However, most of the time, Blissey should prioritize valuable team support between Wish and Heal Bell, as Blissey will usually be able to do a good enough job tanking a hit and using a support move of choice. Blissey also does a good job in keeping special attackers and opposing walls in check, as it does not take much damage from their attacks bar Psyshock, which, with enough Defense investment, does not do much either.
+Blissey's main jobs are tanking special attacks and spreading status. Switch out if the opponent sends in a physical attacker; Blissey can take a few physical hits if need be, but she shouldn't be if she doesn't have to. Pokemon holding Lum Berry and Substitute users are major problems for this set, as they can get past Blissey's Toxic and get free turns. Seismic Toss may provide Blissey with some offensive potential, but she remains serious Taunt bait. Be cautious when trying to pass Wishes to teammates with low health, as the opponent can recognize this and KO the intended recipient. Moreover, as Roar and Whirlwind hit through Protect, Blissey can easily be phazed out when attempting to heal herself with Wish.
 
 Team Options
 ========
 
-Physical walls can form amazing balanced cores with Blissey that tend to be very hard to break. Pokemon such as Mega Aggron and Alomomola fulfill this role quite well, and the latter can even form a dual-cleric core, making it extremely hard to wear the team down with status. Dual-cleric cores in general are very good with Blissey taking part in them; the aforementioned Alomomola and Florges can do this well, and Aromatisse is an especially good option, as its Taunt immunity due to Aroma Veil almost guarantees it to successfully use its support moves. Entry hazard removal is a must, as Blissey is easily worn down between Stealth Rock and Spikes; Crobat can do this as well as pivot into Fighting-type attacks, while Empoleon can do the same. Likewise, hazard support in its own right is great, as the opponent will commonly switch around attempting to deal with Blissey, which makes wearing them down significantly easier.
+A dedicated physical wall can deal with the physical attackers that give Blissey trouble. Nidoqueen, for example, makes a good partner, especially since she covers Blissey's Fighting-type weakness. Chesnaught and Arcanine make passable partners as well. Entry hazard removal is necessary, as Taunt users and physical attackers easily force Blissey out, and you will be switching Pokemon around a lot in order to keep passing Wishes, provided Blissey is running Wish. Donphan and Forretress are great Rapid Spinners that double as physical tanks. As Blissey will force a lot of switches herself, an entry hazard setter makes a good partner. Empoleon can both set and remove entry hazards, making it a prime choice. A Taunt user will help against Pokemon with Substitute and phazing moves. Tornadus and his Prankster Taunt make him a good option. You also need teammates that Blissey can support; you can pair her with nearly any setup sweeper in order to keep said sweeper healthy. Good setup Pokemon that she can support include Haxorus, Absol, and Lucario.
 
 Other Options
 ########
 
-Blissey doesn't have any other options that aren't simply outclassed by its main set or by other Pokemon. Blissey's wide special movepool allow it to utilize moves such as Ice Beam and Flamethrower to hit specific targets, in tandem with Serene Grace to take advantage of the side effects, but they are almost always going to be situational by themselves and are hard to fit into virtually any set. Counter can allow Blissey to score some surprising KOs, but once it is revealed, it becomes utterly useless, as it can be played around. A dual status set with Thunder Wave and Toxic is unique in annoying the opponent, but Blissey will want to fit multiple moves on one set and simply having one status move is enough. Calm Mind can be used to play with some of Blissey's damaging attacks, but it rarely will be effective due to Blissey's bad Special Attack.
+Counter can net a surprise KO against physical attackers, but Blissey won't always survive an attack from one, nor does she typically have room for the move. Calm Mind is a decent win condition, but Blissey is better used in a supporting role. Blissey can also use Healing Wish to bring a teammate back to full health, but Blissey already supports her team well enough with Heal Bell and Wish.
 
 Checks & Counters
 ########
 
-**Taunt**: Taunt is Blissey's best counter. Taunt prevents Blissey from using any support move and will force it to use the weak Seismic Toss. Pokemon such as Crobat can use a quick Taunt against Blissey.
+**Fighting-types**: Machamp, Lucario, Infernape, and Mienshao all hit Blissey for super effective damage with their Fighting-type STAB moves, thus forcing her out.
 
-**Physical Attackers**: Infernape, Mienshao, and Lucario not only have a type advantage over Blissey, but they can also easily break through Blissey with any given STAB moves. Pokemon who hits neutrally such as Entei also can do a good job denting Blissey, but they fear status as they cannot always OHKO.
+**Taunt Users**: If Blissey is hit by Taunt, she will be unable to do much, and the foe can subsequently use her as setup bait. Crobat, Azelf, and Tornadus are a few Pokemon that can Taunt Blissey.
 
-**Setup Sweepers**: Blissey is fodder to almost any Pokemon that can set up against it. At best, Blissey can attempt to use Seismic Toss or Toxic to score some damage. However, Blissey carrying Thunder Wave will generally cripple the Pokemon.
+**Substitute Users**: Blissey cannot spread status to Pokemon behind a Substitute, so they can use it to gain a free turn to set up or attack. Furthermore, if the foe has a maximum HP stat of 404 or higher, Seismic Toss will fail to break its Substitute in one hit. Substitute + Calm Mind Suicune and Chandelure easily set up Substitute against Blissey, with Suicune having 404 HP to avoid having its Substitute broken in one shot and Chandelure being immune to the Fighting-type Seismic Toss.
 
-**Substitute**: Blissey is extremely passive when it comes to doing damage, and Substitute forces Blissey to use Seismic Toss to break the Substitute; however, by then, the opponent will usually have done whatever it intended to do behind the Substitute.
+**Pokemon with Lum Berry**: Similar to Substitute, Lum Berry provides Pokemon with protection from Blissey's attempts to inflict status on them. Haxorus, for example, enjoys having Lum Berry to protect itself from a single Toxic or Thunder Wave.
 
-**Espeon**: Espeon's ability, Magic Bounce, bounces back any status moves Blissey attempts to use against Espeon, as well as Stealth Rock.
+**Physical Attackers**: Though Blissey can take a few physical hits with her high HP and some Defense investment, she should only be switching into special attacks.

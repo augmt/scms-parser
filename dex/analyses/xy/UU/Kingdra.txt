@@ -1,116 +1,116 @@
 Overview
 ########
 
-Back in Generation V, Kingdra was, as its name suggested, one of the kings of UU. Though Kingdra is not as strong as it was in B/W, it is still a powerful and versatile threat, as it has few weaknesses and the ability to double its Speed. Kingdra also received a couple of new toys such as the ability to produce a Sniper-boosted critical hit after one turn of setting up. This, when combined with the already existing Dragon Dance and rain sweeper sets makes Kingdra a very diverse Pokemon, and one that is difficult to counter. Unfortunately, Kingdra is far from perfect, as even at +1 Speed it is revenge killed by every other Choice Scarf Dragon-type in the tier, meaning setting up can be difficult. Also, because of the Fairy-type, Kingdra's Dragon STAB is not nearly as spammable as it was, and using Outrage is very risky. Nevertheless, Kingdra is still a powerful threat that can fill many different roles on a team.
+Kingdra's various ways to set up its offenses make it a fearsome sweeper in the UU tier. It possesses the newly-improved combination of Sniper and Focus Energy, allowing it to always land a Sniper-boosted critical hit. Despite its initial lackluster Speed, Kingdra has two reliable ways to boost its Speed, in Swift Swim and Agility. Water and Dragon make an unresisted STAB combination, with the exception of Empoleon. Kingdra possesses equally usable Attack and Special Attack, along with a great defensive typing and decent bulk, making it very well-rounded. However, Kingdra is prone to being revenge killed by Dragon-type Choice Scarf users due to its weakness to Dragon-type moves and its average Speed. Kingdra's average Speed can also make it difficult to set up a Focus Energy, Dragon Dance, or Rain Dance. Most importantly, Fairy-types make Kingdra's Dragon-type attacks much less reliable than they once were. Nonetheless, Kingdra's unpredictability makes it worthy of a spot on many offensive teams.
 
 Critdra
-############
+########
 name: Critdra
 move 1: Focus Energy
 move 2: Draco Meteor
-move 3: Waterfall / Hydro Pump
+move 3: Hydro Pump
 move 4: Agility
 ability: Sniper
 item: Scope Lens
-evs: 4 Atk / 252 SpA / 252 Spe
-nature: Rash
+evs: 4 Def / 252 SpA / 252 Spe
+nature: Modest / Timid
 
 Moves
-=========
+========
 
-Ever since XY changed the critical hit mechanics, this has been Kingdra's new flagship set. While it lacks the Speed and sweeping capabilities of Kingdra's rain and Dragon Dance sets, it more than makes up for this with its wallbreaking ability. The reason for this is Focus Energy, the key move of this set. The reason for this is because after Kingdra sets Focus Energy up, its critical hit percentage combined with Scope Lens produces a guaranteed critical hit on every attack. This boost, in combination with Sniper, makes Draco Meteor an absolutely devastating attack, easily 2HKOing the likes of Umbreon and specially defensive Forretress. Waterfall is the best choice for a secondary STAB, as it can hit Florges on its lower Physical Defense. The last move is Agility, as a Pokemon this powerful has no need for coverage moves. So, if you ever get two turns to set up, a Focus Energy with an Agility can lead to an easy sweep if your opponent lacks a special wall.
-
-Set Details
-=========
-
-With the 1.5x boost it gives to critical hits, Sniper is the obvious choice for an ability here, as without it the set is much less functional and quite unviable. Alongside this boost, 252 EVs are put into Special Attack, to further boost the power of Draco Meteor. The rest are put into Speed, to Speed tie with neutral base 85s, such as opposing Critdra and Nidoking. And while a Naive nature would help with outrunning these threats, Rash is necessary, as that is what gives Draco Meteor and Waterfall that extra push that they need to finish off threats.
-
-Usage Tips
-=========
-
-This Kingdra set places a lot of emphasis on proper prediction, because firing off a Draco Meteor into a Fairy-type and getting forced out is exactly what you don't want, as you just wasted two perfectly good turns. This is also true with Dragon-type resists, albeit less so because Kingdra 2HKOes most of them. Another thing you have to keep in mind when you use Critdra is that, even though you invested 252 EVs and a positive nature into Special Attack, Kingdra still only has a base 95 Special Attack, meaning that Draco Meteors that are not critical hits will do fairly middling damage. Also, before Agility, Kingdra's base Speed of 85 is outsped by many things, including every single Dragon-type in the tier.
-
-Team Options
-==========
-
-Substitute + Calm Mind Jirachi is an excellent partner for Kingdra, as it can come in and get a free Substitute on the Fairy-types that Kingdra lures in. Other Steel-types such as Cobalion or Metagross can come in for free, and attempt to threaten the remainder of the opponent's team. Entry hazards are also a big help for something such as Kingdra, giving it the extra help it needs to take down dedicated special walls such as Umbreon, Slowking, and Florges. Therefore, Forretress and Froslass are good as they not only cover the Fairy-type weakness but also have the ability to lay down Spikes (and Stealth Rock in Forretress's case).
-
-Mixed Rain Sweeper
-############
-name: Mixed Rain Sweeper
-move 1: Rain Dance
-move 2: Hydro Pump
-move 3: Draco Meteor
-move 4: Waterfall
-ability: Swift Swim
-item: Life Orb
-evs: 60 Atk / 252 SpA / 196 Spe
-nature: Mild
-
-Moves
-=========
-
-This is the set that made Kingdra a top tier threat in Generations IV and V. The main move on this set is Rain Dance, which in combination with Swift Swim, doubles Kingdra's Speed. This means that one move turns Kingdra from a slightly slow attacker into an extremely threatening sweeper. In the rain, STAB Hydro Pumps absolutely tear foes apart, dealing immense damage even to dedicated walls. Draco Meteor is a good choice for secondary STAB, hitting Water-type resists with a strong 130 Base Power STAB attack. The last slot goes to Waterfall, which provides a 100% accurate rain-boosted STAB attack that hits special walls on the physical side.
+Focus Energy is Kingdra's setup move, raising its critical hit rate to 50%. Draco Meteor is a very strong STAB attack, and critical hits will ignore the Special Attack drop from using it. Hydro Pump can hit Fairy- and Steel-types such as Florges and Mega Aggron that Draco Meteor cannot do much damage to. Agility is the best option for the fourth slot, as it can make Kingdra difficult to revenge kill, possibly allowing it to set up for a complete sweep of the opposing team.
 
 Set Details
-=========
+========
 
-The EVs are chosen to outpace Scarf Mienshao in rain, along with other base 105 Speed Choice Scarf users. The remainder are poured into Special Attack, with the leftovers put into Attack to boost the power of Waterfall. A Mild Nature is also chosen, because Kingdra has no need for more Speed and the special attacking side is more important than the physical side.
+Maximum Speed and Special Attack investment maximizes Kingdra's offensive presence. Modest is the preferred nature to prevent dedicated special walls such as Umbreon from PP stalling Kingdra, which is important because Draco Meteor and Hydro Pump have a very low PP count of just 8. Alternatively, a Timid nature can be used to Speed tie with Nidoking and opposing Kingdra, but the ability to stallbreak is typically preferred. Sniper raises the damage output of Kingdra's critical hits from 1.5x to 2.25x, while Scope Lens raises Kingdra's critical hit rate one stage. In combination with Focus Energy, Kingdra is guaranteed to land a critical hit on every attack.
 
 Usage Tips
-=========
+========
 
-While setting up rain is usually Kingdra's first priority when running this set, preserving health is often very important, so taking out a weakened slower threat with an attacking move is usually preferable to setting up rain, because taking the hit in return is often worse, especially considering Kingdra has no Leftovers. You always have the choice to predict the opponent's switch and set up rain, but this can be dangerous. Also, when in rain, Hydro Pump is your most damaging attack, but also your least accurate, so Waterfall is recommended if the power is not needed.
+Do not set up a Focus Energy on offensive Pokemon that hit Kingdra at least neutrally. It may have a good defensive typing and decent bulk, but it typically wants to avoid offensive pressure. Before using Focus Energy, Kingdra's damage output will be marginal with its modest base 95 Special Attack, so be sure to boost against a defensive Pokemon as soon as possible. If the opponent packs a faster Pokemon or a Choice Scarf user, particularly a Dragon-type one, either use Agility right away or keep Kingdra off of the battlefield until the faster Pokemon has been taken down.
 
 Team Options
-==========
+========
 
-Grass- and Electric-types are good partners, because this Kingdra's biggest threats are bulky Water-types which are specially defensive enough to take Draco Meteors. Therefore, strong threats that hit those for super effective damage, such as Shaymin, are effective teammates. Specially defensive Florges is lured in by Kingdra as well, giving things like Substitute + Swords Dance Cobalion a chance to come in and start setting up. Substitute + Calm Mind Jirachi works just as well. Also, just like the last set, good team utility from entry hazards is very helpful, but even more so for a dedicated sweeper like this Kingdra. Team utility can also come in the form of rain setters, as this can save the turn of setting up.
+Packing a Steel- or Fire-type such as Mega Aggron or Entei, respectively, will force out the Fairy-types that threaten Kingdra. Likewise, a Fairy-type such as Florges or Aromatisse will scare away the Dragon-types that Kingdra cannot set up on, particularly Hydreigon, Haxorus, and Kyurem.
 
 Dragon Dance
-############
+########
 name: Dragon Dance
 move 1: Dragon Dance
 move 2: Waterfall
 move 3: Outrage
-move 4: Substitute / Iron Head
+move 4: Substitute
 ability: Sniper
-item: Leftovers / Lum Berry
-evs: 24 HP / 252 Atk / 232 Spe
-nature: Adamant
+item: Lum Berry
+evs: 252 Atk / 4 Def / 252 Spe
+nature: Jolly
 
 Moves
-=========
+========
 
-Unlike the last two sets which were focused on hitting on the special side, this one is fully physical. The reason for this is Dragon Dance, a boosting move that not only buffs Kingdra's Speed, but also its physical attack. If a Dragon Dance is set up on the switch, Kingdra has the possibility to tear through the enemy team. STAB Waterfall after a Dragon Dance is a very powerful move, and it also has the added benefit of being able to flinch the opponent. Outrage is also a strong STAB move, with greater power at the cost of locking yourself in. The last move is a toss-up. Substitute is the most common choice, as it provides security and is a great move to use on a predicted switch. However, Iron Head is another very viable choice, as it 2HKOes Florges and also sports good 30% flinch odds.
+Dragon Dance boosts Kingdra's Attack and Speed to high levels. Waterfall is Kingdra's most reliable STAB attack because of its good neutral coverage and its ability to occasionally flinch the foe. Outrage is mainly used for late-game cleaning after the opponent has lost all of their Fairy- and Steel-types. Substitute has many uses on a sweeping set, but is primarily used to allow Kingdra to gain a free Dragon Dance, and to protect it from status moves from Pokemon such as Blissey.
 
 Set Details
-=========
+========
 
-Leftovers are generally the best item for this set, as they not only help recover health lost from Substitutes, but also give much more survivability in general. However, Lum Berry is also a good choice on the Dragon Dance + 3 Attacks set, as it gives Kingdra more setup opportunities and makes Outrage confusion less of a problem. Unless you are using a rain team, Sniper is given the nod over Swift Swim to boost the damage from potential critical hits. The EVs are chosen to maximize Attack, with an Adamant nature used to boost Attack further. Speed is boosted to the point where you can outspeed Base 108s at +1, with the remaining EVs dumped into HP.
+Kingdra needs its Attack and Speed maximized in order to deal damage heavily and quickly. At +1, Kingdra outspeeds Jolly Mega Aerodactyl and Speed ties with Choice Scarf Nidoking. Lum Berry prevents a Scald-induced burn from crippling Kingdra, and it will heal self-inflicted confusion from Outrage once. Sniper is the preferred ability because Kingdra is probably not going to be used on a rain team here, making Swift Swim useless.
 
 Usage Tips
-=========
+========
 
-Substitute, if you have it, is usually the best choice if you are predicting a switch, or if you don’t think the opponent can break it, as it gives a free opportunity to setup without fear of critical hits, status, or super effective hits. Behind a Substitute, choosing whether or not to use Dragon Dance can be difficult. For example, if the opponent has a Choice Scarfed Hydreigon waiting in the wings, using Dragon Dance is pretty futile because you'll still be forced out or KOed. So, in a situation like this, 2 Waterfalls are better than Dragon Dance + Waterfall. Also, KOing something slower while behind a Substitute is preferable to letting your Substitute die for a Dragon Dance, as you can either set up or threaten the following switch-in while behind a Sub.
+When in doubt, scout the foe's moves with Substitute, but it's not always the best idea to boost directly after getting a Substitute up. If the opponent has a faster Choice Scarf user, or your current foe is a slower Pokemon that you can KO, attack instead of using Dragon Dance. This set is a late-game cleaner and not a bulky wallbreaker, so wait until the opposing Fairy- and Steel-types have been weakened before spamming Outrage.
 
 Team Options
-==========
+========
 
-Just like most Kingdra sets, this benefits greatly from entry hazards, as it often lacks the power, even with STAB and a Dragon Dance boost, to break through bulky attackers or walls. Sticky Web is also a big asset, as this slows down grounded Scarfers to the point where they can be outsped at +1, which is a huge help if going for a sweep. Another helpful team option is to have something like Calm Mind Jirachi or Nasty Plot Celebi to set up on and threaten physical walls Dragon Dance Kingdra will certainly bait out, such as Tangrowth. Also, Steel-types are good defensive partners, as they resist Kingdra's Fairy- and Dragon-type weaknesses.
+Sticky Web support from Galvantula or Shuckle will allow Kingdra to beat most Choice Scarf users at +1, such as Darmanitan. A special setup sweeper such as Suicune will deal with the physical walls that Kingdra lures in, such as Forretress. A Steel-type such as Mega Aggron can tank the Dragon- and Fairy- type attacks that Kingdra normally cannot survive. Nidoqueen and Nidoking can make for good offensive partners to weaken opposing Fairy- and Steel-types to aid in Kingdra's sweep.
+
+Rain Sweeper
+########
+name: Rain Sweeper
+move 1: Rain Dance
+move 2: Hydro Pump
+move 3: Draco Meteor
+move 4: Surf / Dragon Pulse / Ice Beam
+ability: Swift Swim
+item: Life Orb
+evs: 40 HP / 252 SpA / 216 Spe
+nature: Modest
+
+Moves
+========
+
+Rain Dance is a pseudo-Agility, doubling Kingdra's Speed with Swift Swim. Hydro Pump is a powerful STAB attack that is extremely powerful in the rain. Draco Meteor is a secondary STAB move that hits the bulky Water-types that can tank a Hydro Pump. Surf is a slightly less powerful but perfectly accurate Water-type STAB attack, while Dragon Pulse OHKOes the Dragon-types of UU, such as Haxorus and Hydreigon. Alternatively, Ice Beam hits Grass-types in addition to Dragon-types, but unlike Dragon Pulse, the move fails to OHKO Dragon-types with the exception of Noivern.
+
+Set Details
+========
+
+The given EV spread and a Modest nature allow Kingdra to outspeed Choice Scarf Infernape while maximizing Kingdra's offensive power in the process. Swift Swim is a must-have in order to make use of rain, as it will double Kingdra's Speed when rain is active. Life Orb is the preferred item to allow Kingdra to dish out as much damage as possible.
+
+Usage Tips
+========
+
+Keeping Kingdra healthy is very important, as it needs a turn to set up Rain Dance before it starts attacking. Avoid setting up Rain Dance on an offensive Pokemon, or simply KO said Pokemon if it is weakened enough and slower. As this set will often be coming in on weakened Pokemon, it creates several 50/50 situations, as you must choose whether to KO the foe right there, or to predict its switch and set up a Rain Dance. Moreover, this set cannot wallbreak, so it is relegated to the role of late-game cleaner.
+
+Team Options
+========
+
+This set is highly vulnerable to bulky Water-types, particularly Suicune. A Grass- or Electric-type such as Shaymin or Mega Ampharos, respectively, can force out the Water-types that Kingdra may lure in. Florges gives this set trouble, so a Pokemon that can set up on her such as Cobalion works as an alternative win condition. This set fits very well on dedicated rain teams, so you can pair Kingdra with rain staples such as Tornadus, Toxicroak, and Mega Swampert.
 
 Other Options
-############
+########
 
-A Choice Specs set can be quite a powerful cleaner, but it requires rain support to be at all effective. Rest with a Chesto Berry can be put on the Dragon Dance set, but this can be risky as you lose the safety provided by a Substitute or the coverage of Iron Head. An offensive Dragon Dance set with 3 Attacks and Life Orb is possible, and can hit much harder than the Substitute + Dragon Dance set at the cost of survivability. A completely special Rain Dance set is possible, but the extra coverage move is not worth being walled by specially bulky Pokemon such as Umbreon. Finally, a support set is possible, with Scald to cripple physical attackers. However, Kingdra's low base HP and defenses are problematic, even with investment.
+Choice Specs makes Kingdra a powerful wallbreaker, but you must have rain on the field in order for it to work effectively. Iron Head hits Florges harder than Waterfall does and prevents her from being a reliable switch-in to an unboosted Kingdra. ChestoRest can provide one-time reliable recovery for the Dragon Dance set, but Kingdra the lacks room for the move and the item. Leftovers is an option for the Swift Swim set in order to keep Kingdra healthy enough to use Rain Dance, but it prefers the power boost from Life Orb. Damp Rock can maximize the duration of Rain Dance, but Kingdra will not ususally be around for long enough to take advantage of it. Waterfall can be used outside of the Dragon Dance set in order to hit Blissey, but it requires significant Attack investment in order to be effective.
 
 Checks & Counters
-#############
+########
 
-**Florges**: Florges is a full stop for many of Kingdra's sets, being able to survive any special hit or unboosted physical hit and OHKO back with Moonblast. The Dragon-type immunity also helps Florges heavily.
+**Empoleon**: Empoleon can absorb any of Kingdra's attacks and force it out.
 
-**Bulky Water-types**: Bulky Water-types such as Suicune can take hits and phaze out Kingdra, but Dragon-type STAB attacks can dent these walls.
+**Florges**: Though Florges cannot always switch into Kingdra, she can tank any attack (even Iron Head), physical or special, from a Kingdra that has not yet set up, and 2HKO it with STAB Moonblast.
 
-**Dedicated Special Walls**: Specially based sets are shut down by Blissey, Umbreon, and Porygon2, as even Rain-boosted Hydro Pump cannot kill these Pokemon easily.
+**Choice Scarf Users**: Without Sticky Web support, most Choice Scarf users will outspeed Kingdra at +1, most notably Hydreigon, Haxorus, and Mienshao. All three aforementioned Choice Scarf users can OHKO Kingdra before it even attempts to set up.
 
-**Scarfed Dragons**: Choice Scarf Flygon and Hydreigon can also act as checks, as they outspeed all Kingdra sets under +2 Speed, so they can easily force out or KO Kingdra.
+**Special Walls**: Most dedicated special walls, such as Blissey and Umbreon, can take even a rain-boosted Hydro Pump. Fortunately, they can't do much back to Kingdra either.

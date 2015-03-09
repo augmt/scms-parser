@@ -1,88 +1,84 @@
 Overview
-#######
+########
 
-Darmanitan, in a nutshell, is an utter powerhouse. Thanks to its extremely high base 140 Attack stat and access to Sheer Force, Darmanitan's attacks hit extremely hard, especially Flare Blitz. A large HP stat complements this very well, as it allows Darmanitan to use Flare Blitz more often. Darmanitan also has a good base 95 Speed, which in conjunction with U-Turn and a possible Choice Scarf allows it to gain momentum for its team extremely easily. It works well as a revenge killer with a Choice Scarf and can even function as an extremely powerful attacker with a Life Orb or Choice Band. These many pros make Darmanitan one of the most feared Fire-types in the tier and a threat everyone must prepare for during teambuilding.
-
-However, Darmanitan does have quite a few noticeable flaws. The first is its absolutely terrible bulk, meaning that Darmanitan can almost never switch directly into an attack, even a resisted one. Darmanitan's Fire typing gives it a weakness to Stealth Rock, which when combined with Flare Blitz recoil and possible Life Orb recoil can make it go down quite early in the game. Darmanitan also faces a huge deal of competition from Victini, which has more potential sets, a non-recoil inducing STAB move, better bulk, higher Speed, and a way to beat Water-types in Energy Ball. However, Darmanitan's powerful and spammable Flare Blitz will always give it an edge as one of the most powerful and feared Pokemon in the tier.
+Darmanitan is almost the definition of a hard-hitting Fire-type, sporting an impressive base 140 Attack alongside a Sheer Force-boosted STAB Flare Blitz. To augment its sheer power, it has a solid base 95 Speed, putting it above many Pokemon in UU. Its ability Sheer Force is also useful, boosting the power of not only Flare Blitz, but also useful coverage moves such as Rock Slide. Darmanitan also has some great options for coverage, including Superpower and Earthquake. Sadly, Darmanitan has subpar bulk and no access to recovery moves. As if that weren't enough, its best STAB move, Flare Blitz, further limits its bulk due to its heavy recoil effect.
 
 Choice Scarf
-#########
+########
 name: Choice Scarf
 move 1: Flare Blitz
-move 2: U-turn
-move 3: Rock Slide
-move 4: Superpower
+move 2: Rock Slide
+move 3: U-turn
+move 4: Earthquake / Superpower
 ability: Sheer Force
 item: Choice Scarf
-evs: 252 Atk / 4 SpD / 252 Spe
-nature: Jolly / Adamant
-
-Moves
-=======
-
-Flare Blitz is Darmanitan's STAB attack, which is extremely powerful when you consider that latter's large Attack stat and Sheer Force. U-turn is used to allow Darmanitan to gain momentum, and it is also great for picking off weakened threats. Rock Slide is Darmanitan's main way to hit opposing Fire-types, something that would otherwise give it trouble. Superpower is used in the last slot to hit Steel-types which take neutral damage from Flare Blitz, such as Empoleon. Earthquake can be used over Superpower if the Attack drop is found to be annoying, though it is weaker, and being Choice-locked into Earthquake is something an opponent can easily take advantage of.
-
-Set Details
-==========
-
-Choice Scarf is the item of choice for this set as it makes Darmanitan extremely fast, allowing it to take out otherwise faster threats. Sheer Force is the best ability for Darmanitan, as it gives a 30% boost to Flare Blitz and Rock Slide. Maximum Attack and Speed are used to make Darmanitan as powerful and fast as possible, while 4 Special Defense EVs makes sure it doesn't give Pokemon with the ability Download a Special Attack boost. A Jolly nature is used to further increase Darmantian's Speed and make it as fast as possible. An Adamant nature can also be used for more power, but Darmanitan then loses to other Choice Scarf users, such as Krookodile, Porygon-Z, and Nidoking.
-
-Usage Tips
-=========
-
-U-turn will be the move Darmanitan usually uses most, even more than Flare Blitz, as it allows Darmanitan to easily gain momentum for its team. As such, if you predict a switch into one of Darmanitan's counters, don't be afraid to go for U-turn. It is best to try and have Stealth Rock and Spikes off the field at all times, as they can easily wear Darmanitan down. Finally, with a Choice Scarf, Darmanitan is a great revenge killer, and as such should be used to revenge kill faster threats.
-
-Team Options
-============
-
-Rapid Spin or Defog support is necessary, as Darmanitan is prone to being worn down by Stealth Rock. Good users of the move include Starmie, Flygon, Mega Blastoise, Crobat, and Mega Aerodactyl. Pokemon with U-turn and Volt Switch such as Mienshao, Raikou, Flygon, and Noivern can help keep up offensive pressure and momentum. Grass-types such as Roserade and Shaymin can deal with the Water- and Rock-type Pokemon which resist Darmanitan's STAB. Roserade can also set up Spikes for Darmanitan, allowing it to more easily net KOs. Electric-types such as Raikou can also threaten Water-types and keep momentum up with Volt Switch. Finally, Chesnaught and Hippowdon are helpful partners which can absorb the Ground- and Rock-type moves Darmanitan hates.
-
-Wallbreaker
-#############
-name: Wallbreaker
-move 1: Flare Blitz
-move 2: U-turn
-move 3: Rock Slide
-move 4: Superpower / Earthquake
-ability: Sheer Force
-item: Life Orb / Choice Band
 evs: 252 Atk / 4 SpD / 252 Spe
 nature: Jolly
 
 Moves
-======
+========
 
-Flare Blitz is Darmanitan's main STAB attack, and it is very powerful with Sheer Force and its high base Attack stat. U-turn is a great move for gaining momentum and can also be used to pick off weakened threats. Rock Slide is Darmanitan's best option against Fire-types, and it is also boosted by Sheer Force. Superpower is used to hit Steel-types who take neutral damage from Flare Blitz, such as Empoleon. Earthquake is another option over Superpower if the Attack drop is found to be annoying, although it's weaker. It's also easy for the opponent to take advantage of Earthquake if you decide to run a Choice Band.
+Flare Blitz is Darmanitan's most powerful STAB move, hitting most Pokemon in the tier for heavy damage, especially when boosted by Sheer Force. Rock Slide is a valuable coverage move that is also boosted by Sheer Force, primarily hitting other Fire-types and Mega Aerodactyl. U-turn is useful for gaining momentum, giving a free switch for whatever Pokemon the opponent sends in. Earthquake is recommended in the last slot for hitting Poison-, Steel-, Fire-, and Electric-types super effectively, but Superpower can be used, as it hits Normal- and Dark-types super effectively while retaining coverage against Rhyperior, but it misses out on coverage against Poison- and Electric-types such as Nidoqueen and Mega Ampharos, respectively.
 
 Set Details
-==========
+========
 
-Life Orb is a great item for Darmanitan, which takes no Life Orb recoil due to Sheer Force, and it makes its attacks even more powerful. A Choice Band set can also be used for extreme power. However, Darmanitan is very prone to being worn down, something that isn't very good for a wallbreaker. Sheer Force is the best ability, as it boosts the power of both Flare Blitz and Rock Slide. Maximum Attack and Speed are used to make Darmanitan as fast and as powerful as possible, while 4 Special Defense EVs ensures that Darmanitan doesn't give Pokemon with the ability Download a Special Attack boost. A Jolly nature makes Darmanitan as fast as possible, something needed when not running a Choice Scarf.
+The given Attack and Speed EVs maximize Darmanitan's cleaning and revenge killing capabilities. The remaining 4 EVs are invested in Special Defense to give Porygon-Z and Porygon2 an Attack boost from Download instead of a Special Attack boost. Sheer Force increases the power of Darmanitan's moves that have secondary effects, including Flare Blitz and Rock Slide. Choice Scarf is used alongside a Jolly nature in order to outspeed threats such as Mega Beedrill, Mega Sceptile, and Mega Aerodactyl.
 
 Usage Tips
-==========
+========
 
-Because Sheer Force negates Life Orb recoil on moves that have secondary effects, Darmanitan can bluff a Choice Scarf as long as it doesn't use U-turn, Earthquake, or Superpower, or switch moves on the Life Orb set. Choice Band can also allow Darmanitan to do this, but your opponent will usually notice it's Choice Banded after it fires off its first Flare Blitz. Stealth Rock and Spikes are great at wearing Darmanitan down, and as such they should be kept off the field as much as possible. U-turn is great for gaining momentum, so don't be afraid to use it if you predict a switch into one of Darmanitan's counters. Life Orb and Choice Band Darmanitan are powerful attackers, so try to dish out as much damage as possible before Darmanitan faints.
+Darmanitan is best used as a revenge killer and late-game cleaner. In the early-game, Darmanitan should be spamming U-turn to wear down its counters and gain momentum to clean more easily in the late-game. You should try to avoid locking Darmanitan into Flare Blitz if the opponent has a Choice Scarf Hydreigon, as it will be able to come in and retaliate with a powerful STAB Draco Meteor. Also, try to avoid using Flare Blitz too much, as the recoil will quickly wear Darmanitan down.
 
 Team Options
-============
+========
 
-Rapid Spin or Defog support is necessary in order to keep Darmanitan alive for extended periods of time. Good users of the move include Starmie, Flygon, Mega Blastoise, Crobat, and Mega Aerodactyl. Pokemon with U-turn and Volt Switch, such as Mienshao, Raikou, Flygon, and Noivern, are also helpful partners, as they can keep up offensive pressure and momentum. Grass-types such as Roserade and Shaymin make great partners, as they can deal with Water- and Rock-type Pokemon for Darmanitan. Roserade can also set up Spikes, allowing Darmanitan to wallbreak more easily. Electric-types such as Raikou can threaten Water-types while also gaining momentum with Volt Switch. Sticky Web support from the likes of Smeargle and Galvantula can be very helpful against faster teams. Finally, Pokemon such as Chesnaught and Hippowdon can also help absorb Rock- and Ground-type moves for Darmanitan.
+A spinner or Defogger makes for a good partner for Darmanitan, as it is weak to Stealth Rock, which will quickly wear it down in conjunction with Flare Blitz recoil. Tentacruel and Mega Blastoise make for good partners, as Darmanitan can beat Grass-types for them and Mega Blastoise and Tentacruel can take on Fire-types; Blastoise can also beat Ground-types, which makes Darmanitan's job easier. Pokemon such as Nidoqueen and Forretress can provide Stealth Rock support to help Darmanitan clean in the late-game more easily. Pokemon that can take on Rhyperior and bulky Water-types make for good teammates, as they otherwise wall Darmanitan. Grass-types such as Shaymin and Roserade make for good teammates in this right, and they can absorb status thanks to Natural Cure. Roserade can provide entry hazard support in the form of Toxic Spikes and Spikes. Finally, Pokemon that can handle faster Choice Scarf users such as Hydreigon and Mienshao are appreciated. Fairy-types such as Aromatisse and Florges can handle them well.
+
+Wallbreaker
+########
+name: Wallbreaker
+move 1: Flare Blitz
+move 2: Rock Slide
+move 3: Earthquake / Superpower
+move 4: U-turn / Superpower
+ability: Sheer Force
+item: Choice Band / Life Orb
+evs: 252 Atk / 4 SpD / 252 Spe
+nature: Jolly
+
+Moves
+========
+
+Flare Blitz is Darmanitan's most powerful STAB move that is further boosted by Sheer Force. Rock Slide gets excellent coverage alongside Flare Blitz, notably hitting other Fire-types super effectively, and it receives the boost from Sheer Force. U-turn is used to give a free switch to a teammate if the foe switches out, therefore gaining momentum, or to switch out of a foe Darmanitan can't beat. Earthquake is useful to hit Rhyperior and Steel-, Fire-, Poison-, and Electric-types, especially Mega Ampharos, super effectively. Superpower, however, can be used, as it also hits Rhyperior and Steel-types, as well as Normal- and Dark-types such as Snorlax and Umbreon, respectively. Though it has higher Base Power, remember that Superpower also lowers Darmanitan's Attack and Defense.
+
+Set Details
+========
+
+252 Attack and Speed EVs alongside a Jolly nature maximize Darmanitan's wallbreaking power and Speed. The remaining 4 EVs are placed in Special Defense to force an Attack boost on Porygon-Z and Porygon2 instead of a more threatening Special Attack boost. Sheer Force increases the power of moves with secondary effects by 30%, boosting Flare Blitz and Rock Slide. A Jolly nature is chosen over an Adamant nature to outspeed Pokemon such as Roserade, Krookodile, and Entei. The item choice is up to personal preference: Life Orb allows Darmanitan to switch moves at the cost of a little power and recoil from moves not boosted by Sheer Force (U-turn, Earthquake, and Superpower), but Choice Band grants more power and no recoil at the cost of not being able to switch moves.
+
+Usage Tips
+========
+
+Darmanitan can try to bluff the Choice Scarf set to lure in a Pokemon and KO it with a boosted move, but you must be careful to reveal the item at the right time. Try to bring Darmanitan in off of a U-turn, Volt Switch, or fainted teammate, as Darmanitan is used as a revenge killer and likes to save its HP for when it's using Flare Blitz. Be wary of the amount of recoil Darmanitan takes when using Flare Blitz, as the damage will quickly wear it down, especially if you failed to keep Stealth Rock and other entry hazards off of the field.
+
+Team Options
+========
+
+A spinner or Defogger is helpful to clear the field of entry hazards so Darmanitan won't be worn down as easily, especially because its most powerful STAB move has recoil. Tentacruel and Blastoise are good in this role, as they can clear entry hazards and break down Ground-, Rock-, and Fire-types, which are a nuisance to Darmanitan. Crobat also makes for a good partner in that it can clear entry hazards with Defog and form a U-turn core with Darmanitan. Grass-types such as Roserade and Shaymin make for good partners for their ability to take on bulky Water-types and Rhyperior. Pokemon such as Hydreigon appreciate the wallbreaking power Darmanitan brings, especially against Fairy-types such as Florges and Aromatisse. That said, Florges and Aromatisse make for good partners due to their ability to take on Hydreigon, one of Darmanitan's best offensive checks.
 
 Other Options
-###########
+########
 
-Darmanitan has a few other options that aren't mentioned. Fire Punch is another STAB move that is boosted by Sheer Force and has no recoil, but it's so much weaker to the point where it usually isn't worth it. Will-O-Wisp can be used to cripple physical attackers, but Darmanitan has trouble taking hits from even burned attackers, and it usually has better things to be doing. Belly Drum can be used, and if Darmanitan is set up, it has the ability to sweep teams. However, Darmanitan's terrible bulk and reliance on Flare Blitz make this hard to pull off. Finally, while Zen Mode may seem appealing, it's very hard to get Darmanitan to 50% health, and even if you do, its Zen Mode form is usually outclassed by Victini.
+Fire Punch is an option over Flare Blitz to avoid taking recoil damage, but it is much weaker than Flare Blitz and takes away much of Darmanitan's wallbreaking power. Zen Headbutt is an option to hit Fighting- and Poison-types hard without taking recoil damage, but it actually deals less damage than a STAB Flare Blitz and has redundant coverage. It is, however, boosted by Sheer Force. A Belly Drum set with Substitute and Salac Berry can be used to try to sweep, but it requires far too much support to be used effectively.
 
 Checks & Counters
-###############
+########
 
-**Bulky Water-types**: Bulky Water-types easily give Darmanitan the most trouble, as they resist Darmanitan's STAB, and Darmanitan has no way to hit them super effectively. Good examples include Suicune, Swampert, Vaporeon, and Gastrodon.
+**Defensive Walls**: Some defensively oriented Pokemon such as Suicune, Rhyperior, and Swampert avoid 2HKOs from any of Darmanitan's moves and can KO it. Hippowdon and Vaporeon can also tank a Flare Blitz and KO back, although they do not want to switch into a Choice Band Flare Blitz.
 
-**Bulky Rock-types**: Bulky Rock-type Pokemon, such as Rhyperior, can take most of Darmanitan's moves quite easily. They must be careful of Superpower or Earthquake, however.
+**Arcanine**: Physically defensive Arcanine can capably switch into any of Darmanitan's moves and heal off the damage with Morning Sun, although it must be wary of switching into a Rock Slide or Earthquake, especially when Stealth Rock has been set up.
 
-**Fast Attackers**: Fast attackers such as Mega Aerodactyl, Flygon, Mienshao, and Starmie have no problem OHKOing Darmanitan with their STAB attacks. Non-Choice Scarf variants must be wary of Choice Scarf Darmanitan, however.
+**Entry Hazards**: Stealth Rock will wear down Darmanitan significantly, as it takes around 25% every time it switches into them. Spikes also wear Darmanitan down quickly, as it is grounded.
 
-**Stealth Rock**: Stealth Rock slowly wears down Darmanitan's health throughout the match. Good users of the move include Mega Aggron, Swampert, Rhyperior, Donphan, and Forretress.
-
-**Priority**: Priority attacks from the likes of Honchkrow and Entei have no trouble picking off a weakened Darmanitan.
+**Revenge Killers**: Faster attackers, as well as strong priority move users, can limit Darmanitan's wallbreaking and sweeping capabilities. Those include Hydreigon, Mega Aerodactyl, Mienshao, and Entei. 

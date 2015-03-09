@@ -1,86 +1,65 @@
 Overview
 ########
 
-As far as physical Fire-types go, Entei has languished in obscurity, oft overlooked in favor of powerhouses like Darmanitan and Victini. Generation VI has changed all of that, bringing Entei roaring back as it received one of the best physical attacks in the game: Sacred Fire. This sets Entei apart from its competitors and works fantastically with Extreme Speed, a great priority move, and Entei's main selling point over its rivals. However, Entei still faces competition from other physical Fire-types, particularly Darmanitan and Victini, which boast greater power and superior coverage. Entei's barren movepool and the fact that Extreme Speed and Flare Blitz force the use of an Adamant nature reduce its versatility. Despite its faults, Entei is a great wallbreaker that may not set the world on fire, but can easily leave the opponent's team in ashes.
+Entei received a massive buff when it received Sacred Fire, one of the most beneficial attacks in the game. Thanks to Sacred Fire's STAB boost, and amazing 50% chance to burn, even supposed checks will have a hard time switching into Entei, factoring in possible entry hazards and burn damage. Entei's access to Extreme Speed makes it a fantastic late-game cleaner, and its solid bulk and a decent base 100 Speed allows it to outspeed common walls such as Chesnaught and Cresselia. However, Entei is plagued with a vulnerability to every form of entry hazard, including the very common Stealth Rock, and no reliable recovery, making it unable to switch in multiple times. Because Flash Fire is unreleased, Entei must run Pressure, which is a rather mediocre ability unless Entei is using a bulkier set. Its Speed stat, while decent, is also nothing spectacular, especially considering that Entei is forced to run an Adamant nature to use Extreme Speed and Flare Blitz.
 
-Offensive
+
+Choice Band
 ########
-name: Offensive
+name: Choice Band
 move 1: Sacred Fire
-move 2: Extreme Speed
-move 3: Stone Edge
-move 4: Flare Blitz
-ability: Pressure
-item: Choice Band / Life Orb
+move 2: Flare Blitz
+move 3: Extreme Speed
+move 4: Stone Edge
+item: Choice Band
 evs: 252 Atk / 4 Def / 252 Spe
 nature: Adamant
 
 Moves
 ========
 
-Sacred Fire is an extremely good move and is the main reason why Entei is viable. Its 50% burn rate makes it very easy to spam and enhances Entei's ability to break through tough walls. Extreme Speed is similarly necessary. At +2 priority, it allows Entei to move before other priority users such as Honchkrow, and it deals significant damage to many offensive threats thanks to its high Base Power. Stone Edge provides nice coverage in tandem with Sacred Fire, targeting opposing Fire-types such as Houndoom and Arcanine. In the final slot, Entei's best option is Flare Blitz, which can come into play if Sacred Fire's PP begins to run low and on rare occasions that extra power or perfect accuracy is required. Iron Head hits Florges hard without worrying about recoil, but has little use outside of this. Finally, Bulldoze is an option as the Speed drop can come in handy, but it offers negligible coverage.
+Sacred Fire packs high power with the STAB boost and a good chance to burn, while Flare Blitz has more PP and gives the extra power that Sacred Fire does not have; be aware, however, that Entei takes recoil damage if it chooses to use Flare Blitz. Extreme Speed is a priority move and can pick off weakened and faster foes such as Mega Beedrill and Crobat after they have taken Stealth Rock damage. Stone Edge targets Flash Fire users and opposing Fire-type Pokemon such as Arcanine and Chandelure as well as Mega Aerodactyl on the switch.
+
 
 Set Details
 ========
 
-Choice Band and Life Orb are both good item choices. Choice Band provides more immediate power, while Life Orb allows Entei to switch moves; for example, Entei can finish off a Pokemon with a combination of Sacred Fire and Extreme Speed. Using a Life Orb does reduce longevity, though. An Adamant nature is required as Flare Blitz and Extreme Speed come from a specific event. The EV spread is quite standard to maximize Speed and Attack.
+An Adamant nature is required, as Extreme Speed and Flare Blitz are event-only moves. Choice Band is the preferred item, maximizing Entei's attack, although Life Orb can be used for the ability to switch moves but gives Entei slightly less power. Maximum Attack EVs are for maximum damage output, while the Speed EVs let Entei outspeed everything up to positive-natured base 86 Speed Pokemon.
+
 
 Usage Tips
 ========
 
-This set is quite straightforward in how it should be played. Basically, spam Sacred Fire even if the opponent has Pokemon that resist it, such as Slowking, as a burn will often cause more damage in the long run than a coverage move. Similarly, only use coverage moves if a burn is not valuable, Entei is facing another Fire-type, or they significantly out-damage Sacred Fire. It is important to note that Sacred Fire, Extreme Speed, and Stone Edge have only 8 PP. Against stall teams or Pressure users such as Suicune, be careful that you don't run out of PP. Entei's decent natural bulk and Fire typing provides it several opportunities to switch in and wreak havoc. Florges is a great target as Entei only fears the rare Toxic.
+Unless the opponent has a Flash Fire user, Entei's best bet is to spam Sacred Fire. Even checks and counters to Entei don't appreciate the residual damage from a burn combined with possible damage from entry hazards. Sacred Fire's 95% accuracy can cause issues, and it also has limited PP, so Pokemon such as Suicune, which has Pressure, can easily PP stall Entei's Sacred Fire. Because of this, you should also be wary of Flash Fire users such as Chandelure. Don't switch Entei in and out often while Stealth Rock is present on your side of the field, as the combination of Life Orb recoil, if it is being used, and entry hazards wear Entei down extremely fast.
+
 
 Team Options
 ========
 
-Entei struggles against bulky Water-types such as Suicune and Swampert. Raikou and Mega Manectric can threaten these Pokemon as well as gain momentum with Volt Switch. Toxicroak is a decent offensive answer to Water-types, though it shares a Ground-type weakness with Entei. Defog or Rapid Spin support is always a good idea when using Entei. Flygon has great type synergy, while Starmie and Mega Blastoise can threaten bulky Rock- and Ground-types such as Rhyperior and Hippowdon. Grass-types such as Celebi are excellent partners, as they can deal with the Water-, Rock-, and Ground-type Pokemon that resist Sacred Fire.
+Powerful Electric and Grass-type Pokemon such as Mega Ampharos and Shaymin are handy for dealing with the bulky Water-types that give Entei trouble, as most of them can stall out Entei's Sacred Fire. Mega Blastoise and Empoleon can force out Rock-types and clear entry hazards with Rapid Spin and Defog, respectively. Entry hazard setters such as Rhyperior make Entei's job easier, as entry hazard damage and burn damage quickly wear down Entei's switch ins.
 
-Assault Vest
-########
-name: Assault Vest
-move 1: Sacred Fire
-move 2: Extreme Speed
-move 3: Stone Edge
-move 4: Flare Blitz
-ability: Pressure
-item: Assault Vest
-evs: 252 Atk / 240 SpD / 16 Spe
-nature: Adamant
-
-Moves
-========
-
-Sacred Fire provides an excellent combination of power and utility, hitting quite hard while also spreading burns due to its very high 50% burn rate. Extreme Speed is a strong priority move that can pick off faster weakened threats and Choice Scarf users before they can move. The +2 priority is also very handy, allowing Entei to move before most other priority attacks such as Sucker Punch from Absol or Honchkrow. Opposing Fire-types are hit hardest by Stone Edge. It also hits Flying-types such as Noivern harder than Sacred Fire does. In the final slot, Flare Blitz provides a noticeable boost in power and greater PP if that is required. Iron Head and Bulldoze are decent utility options to target Fairies and lower the Speed of opposing Pokemon, respectively.
-
-Set Details
-========
-
-With an Assault Vest equipped, Entei is surprisingly bulky on the special side. For example, it can comfortably survive Life Orb Nidoking's Earth Power and Starmie's Hydro Pump before Stealth Rock damage. As such, the given EVs promote Special Defense while maintaining the ability to hit hard. 16 EVs in Speed allow Entei to outrun Adamant Metagross before it sets up an Agility. Flare Blitz and Extreme Speed are event moves; therefore, an Adamant nature is necessary.
-
-Usage Tips
-========
-
-This set is more of a tank, taking special attacks and dealing heavy damage in return. Entei finds many chances to switch in against the likes of Florges. Sacred Fire and Extreme Speed are the two moves that should be used the most; Sacred Fire in particular is usable even if the opponent has a Pokemon that resists it. This is because a burn can often be more damaging in the long run than a coverage move. Despite Entei's high special bulk with an Assault Vest, avoid switching into or staying in on strong super effective attacks unless it's absolutely necessary, as Entei will be worn down quite quickly otherwise. Keep in mind that Sacred Fire, Extreme Speed, and Stone Edge have only 8 PP, so play carefully against Pressure users or in longer matches so Entei doesn't run out of PP.
-
-Team Options
-========
-
-Defog or Rapid Spin support is almost essential to prevent this set from being worn down and becoming unable to tank hits effectively. Mega Blastoise and Starmie are reliable spinners that threaten Ground- and Rock-types. Flygon has great type synergy with Entei. Entei's lack of recovery makes Wish support useful. Florges works nicely, as Entei can deal with most Steel-types that commonly switch into Florges. Vaporeon also synergizes well with Entei. Grass-types in general have great synergy with Entei, as they threaten all types that resist Sacred Fire. Roserade fulfill this role as well as set up Spikes to wear down opposing Pokemon.
 
 Other Options
 ########
 
-Entei has very few other options in terms of moves. Special coverage in the form of Fire Blast or Flamethrower could take physical walls by surprise, but is generally ineffectual. A bulkier set with Lava Plume or Will-O-Wisp is potentially viable, but again struggles to be consistently effective. Choice Scarf could work on occasion, but is considerably outclassed by Darmanitan. A Sunny Day + Solar Beam set can defeat usual counters such as Swampert and Quagsire, as can Hidden Power Grass. Flame Charge boosts Speed to possibly allow a sweep, but Entei rarely finds opportunities to use it.
+Entei has a somewhat shallow movepool, so it does not have many other decent options. Assault Vest is viable to raise Entei's passable special bulk, a specially attacking Calm Mind set can be used to surprise physical walls, and a Sunny Day + Solar Beam set can be used to hit many of Entei's checks and counters.
+
 
 Checks & Counters
 ########
 
-**Bulky Water-types**: Suicune and Vaporeon take very little from any attack and can heal burns from Sacred Fire with Rest and Heal Bell, respectively. CroCune also uses Entei as setup fodder. Vaporeon and Quagsire don't mind burns due to their access to reliable recovery. Swampert and Mega Blastoise can easily switch into any move and retaliate with a super effective STAB attack, though they do not enjoy being burned.
+**Mega Ampharos**: RestTalk Mega Ampharos can easily eat up any hit from Entei and doesn't fear Sacred Fire burns. It can pivot out or force Entei out with its STAB moves.
 
-**Bulky Ground- and Rock-types**: Hippowdon and Rhyperior completely stop Entei, though they hate being burned. Flygon can take any attack Entei can throw at it, though it is prone to being picked off by Extreme Speed if it is sufficiently weakened.
+**Bulky Water-types**: Bulky Water-types such as Vaporeon, Alomomola, and Suicune take Scared Fire very well and can PP stall Entei.
 
-**Revenge Killers**: Naturally faster Pokemon that can reliably revenge kill Entei make for good checks. Mega Aerodactyl and Flygon are good examples. Choice Scarf users such as Chandelure and Krookodile are similarly effective. Focus Sash Dugtrio can trap and remove Entei but cannot switch in due to Sacred Fire's burn chance.
+**Entry Hazards**: Stealth Rock and Spikes wear down Entei very quickly, and it without team support, Entei can't recover any entry hazard damage it takes.
 
-**Flash Fire**: Pokemon with Flash Fire such as Houndoom and Chandelure make spamming Sacred Fire a bit unwise.
+**Bulky Ground-types**: Bulky Ground-types such as Krookodile and Rhyperior take little to no damage from Sacred Fire, fearing only its chance to burn, and can even set up Stealth Rock to wear Entei down.
 
-**Stealth Rock**: Because it takes 25% of Entei's health with every switch in, Stealth Rock is a nice way to wear Entei down over the course of a match.
+**Flash Fire Users**: Pokemon with Flash Fire, such as Chandelure can switch in to Choice-locked Entei and get a boost in the process
+
+**Curse Snorlax**: Curse Snorlax can freely switch into Entei and easily set up.
+
+**Defensive Arcanine**: Thanks to Intimidate, defensive Arcanine, and can switch into Entei with little problem, barely fearing even Stone Edge.
+
+**Revenge Killers**: Pokemon such as Mega Aerodactyl and Jolly Krookodile can easily revenge kill Entei. However, both fear Sacred Fire burns, so they cannot freely switch in.

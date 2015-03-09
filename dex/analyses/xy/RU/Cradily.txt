@@ -1,49 +1,50 @@
 Overview
 ########
-With its impressive defenses and unique Rock / Grass typing, Cradily can hold its own against various Pokemon, including Choice Specs Exploud and Slowking. Cradily also boasts a large movepool including moves such as Giga Drain, Earthquake, Stone Edge, and Sludge Bomb. To top it all off, Storm Drain makes Cradily immune to Water-type attacks while also raising its Special Attack. However, despite Cradily’s huge arsenal of moves, it relies heavily on Toxic to deal significant damage to opposing Pokemon. While Cradily has a very easy time switching into Slowking, one of the top defensive threats in RU, it can have a hard time wearing Slowking down due to Regenerator. Cradily is also weak to some of the stronger offensive Pokemon in the tier, such as Doublade and Cobalion. Finally, Cradily’s low Speed causes it to move slower than most enemies and leaves it susceptible to Taunt and status such as burn and poison.
+
+Cradily has access to Stealth Rock, good special bulk, and reliable recovery, allowing it to switch in and set up the entry hazard throughout the course of the match and act as a proficient special wall. Cradily can find opportunities to switch in on Water-types, as its ability Storm Drain lets it switch in for free. Furthermore, its unique typing lets it check many dangerous special attackers such as Exploud, Heliolisk, Slowking, and non-Nasty Plot Houndoom. However, Cradily also has some common weaknesses in Steel, Fighting, and Ice and little resistances to boot. It has little offensive presence, making it very passive. This is made even worse by its bad Speed, meaning it usually has to take a hit before it can even move.
 
 Specially Defensive
 ########
 name: Specially Defensive
 move 1: Stealth Rock
-move 2: Giga Drain / Toxic
-move 3: Rock Slide
-move 4: Recover
+move 2: Rock Slide
+move 3: Recover
+move 4: Toxic / Giga Drain
 ability: Storm Drain
 item: Leftovers
-evs: 252 HP / 4 SpA / 252 SpD
-nature: Sassy / Careful
+evs: 252 HP / 4 Atk / 252 SpD
+nature: Careful / Sassy
 
 Moves
 ========
-Stealth Rock is a great move, as Cradily often pressures opponents into switching back and forth, racking up residual damage. Giga Drain allows Cradily to not only regain its health, but also punish Pokemon such as Rhyperior and Kabutops which are both 4x weak to Grass-type moves. Instead of Giga Drain, Toxic can be used to allow Cradily to slowly whittle away at the opponent. This works especially well in conjunction with Stealth Rock, as the opposing Pokemon is likely to switch out if it is badly poisoned. Rock Slide is a great STAB move that can check deadly threats such as Moltres and Delphox. Lastly, Recover is used to allow Cradily to stall out opposing Pokemon and keep itself healthy throughout the match.
+
+Stealth Rock wears down opposing Pokemon, and Cradily can usually get many opportunities to set it up. Rock Slide hits dangerous targets such as Moltres and Fletchinder for significant damage. Recover is mandatory to keep Cradily healthy throughout the match, and it sets Cradily apart from its competition. Toxic can hit some Pokemon Cradily has trouble hurting through Rock Slide, such as Alomomola, Gastrodon, and Tangrowth. It also provides helpful residual damage to force switches and weaken foes. On the other hand, Giga Drain can hit select targets such as Kabutops, Gastrodon, and Rhyperior while also giving Cradily another healing option. However, it is weak uninvested and cannot really hurt Steel-types, which like to switch in against Cradily. If Cradily gains a Storm Drain boost, though, it can become more dangerous.
 
 Set Details
 ========
-Maximum HP and Special Defense investment with a Sassy nature allows Cradily to stall out special attackers as best as it can. Leftovers provides Cradily with continuous recovery, while Rocky Helmet is an option to punish physical attackers. If Toxic is being used instead of Giga Drain, a Careful nature can be used to boost Special Defense while not lowering Cradily's Speed.
+
+Max Special Defensive investment is used so that Cradily can more comfortably wall the Pokemon it's supposed to, such as Exploud. Leftovers provides helpful passive recovery, which Cradily appreciates. A Sassy nature should be used if running Giga Drain, as it does not lower Special Attack, but if you are using Toxic a Careful nature is better in order to not decrease Cradily's Speed.
 
 Usage Tips
 ========
-Setting up Stealth Rock as fast as possible is crucial in order to rack up residual damage from the opposing team switching in and out. While this occurs, Toxic can be thrown out repeatedly to force the opposing team to switch even more, causing even more Stealth Rock damage. Try to switch Cradily out against Steel-types such as Doublade to prevent severe damage. Send Cradily out against Pokemon that use Hydro Pump, Scald, and other Water-type moves to gain a free boost to its Special Attack. Cradily can also check Cinccino because it resists Tail Slap.
+
+Try to bring Cradily in on predicted Water-type moves from the likes of Slowking and Gastrodon and then set up Stealth Rock or use Toxic. Cradily also can come in on Pokemon it can check by virtue of its typing, such as Cinccino, Exploud, and Heliolisk. Cradily is vulnerable to status, especially Toxic, so do not recklessly switch it in on Pokemon that commonly carry it such as Alomomola. Switch out immediately if the opponent sends in a Steel- or Fighting-type, as Cradily is weak to their STAB moves and cannot hurt them with Rock Slide. Do not overestimate Cradily's defensive capabilities, as it has problems with strong special attackers such as Choice Specs Tangrowth and Clawitzer. Hitting switch-ins with Toxic on the switch can be very helpful for the rest of your team, so if you can predict a switch, it is generally a good move to use.
 
 Team Options
 ========
-Pokemon such as Delphox, Rhyperior, and Dugtrio can take out dangerous Steel-types such as Escavalier, Durant, and Cobalion while Cradily can switch into the Water-type attacks they hate. Aromatisse can provide cleric support while dealing with Fighting-types fairly well. Weezing can set up Toxic Spikes to further wear down the opposing team and can check Fighting-types such as Hitmonlee. Slowking is a great partner because it can spread burns via Scald, weakening dangerous physical attackers. Alomomola also makes for a great defensive teammate due to its high HP and resistance to Steel- and Ice-type attacks while Cradily resists Grass- and Electric-type attacks for Alomomola. Sandslash baits Water-type attacks for Cradily to absorb as well as being able to Rapid Spin away troubling entry hazards such as Toxic Spikes. Spiritomb is also a great spinblocker that fares better against Hitmonlee than Doublade. Lastly, Doublade is a great counter to Cobalion, Virizion, and most other Fighting-types due to its Steel / Ghost typing, which also allows it to spinblock.
+
+Fire-types such as Moltres, Emboar, and Delphox are good partners, as they can force out Steel-types and some Fighting-types, while Cradily can switch into Water-type moves and provide Stealth Rock support to help wear down their checks. Doublade and Spiritomb are good spinblockers and good checks to physical attackers, especially Fighting-types, if Spiritomb is using a defensive set. Aromatisse can deal with Fighting-type attacks while also getting rid of any status conditions inflicted on Cradily. Be mindful of their shared weakness to Steel, though. Qwilfish can remove Toxic Spikes, which can neuter Cradily, and has good synergy with Cradily while also being able to set up Spikes to wear down the opposing team along with Cradily's Stealth Rock. Cleric support from partners such as Lanturn is important, as Cradily hates Toxic.
 
 Other Options
 ########
-Cradily can utilize Stockpile and Suction Cups in conjunction with Toxic to stall the opposing team while being immune to phazing moves. Cradily can also utilize Leech Seed to not only regain health but also quickly wear down opposing Pokemon in conjunction with Toxic. Curse is useful to turn Cradily into a physical tank as well as boost its Attack stat. Cradily can become an all-out physical attacker with Rock Slide, Earthquake, Seed Bomb, and Double-Edge with a Brave nature. Alternatively, Swords Dance can be used with Rock Slide, Bullet Seed, and Earthquake or Double-Edge as an offensive setup sweeper. Lastly, Cradily can utilize Ingrain to recover HP, although this can be detrimental if the opponent switches into a Pokemon with a super effective attack, as Cradily cannot switch out.
 
+A Rocky Helmet can be used to annoy physical attackers such as Cinccino, but Cradily appreciates Leftovers more and generally should not be staying in on most physical attackers anyway. Pain Split is effective against foes with high HP such as Cresselia and Alomomola, but it is extremely unreliable compared to Recover. Mirror Coat is an option to surprise some attackers trying to wear Cradily down, but it takes up an important moveslot that should be left to something else. A RestTalk Curse set could be used, but Cradily still has problems with strong attackers while setting up, and this role is better left to Pokemon such as Mega Steelix.
 
 Checks & Counters
-
 ########
-**Utility and Status Moves**: Due to its low Speed, Taunt, Defog, and Rapid Spin can be used against Cradily with little cost. Toxic is also detrimental as it prevents Cradily from stalling out opposing Pokemon.
 
-**Steel-types**: Steel-type Pokemon such as Cobalion, Escavalier, Durant, Doublade, and Registeel can easily hit Cradily with a STAB Iron Head or Flash Cannon. Escavalier and Durant, being Bug / Steel types, can also utilize Megahorn and X-Scissor, respectively, giving them two different ways to deal with Cradily, and to make matters worst Rock Slide and Giga Drain do minimal damage to Bug / Steel types that resist them with ease.
+**Steel- and Fighting-types**: Steel-types have an easy time coming in on Cradily, as they don't particularly mind any of its moves. Most of them, such as Escavalier, Durant, and Doublade, can hit back with a strong STAB Iron Head. Fighting-types such as Hitmonlee and Medicham are in the same boat, although they need to be more wary of Giga Drain and Toxic.
 
-**Fighting-types**: Cradily cannot deal with Fighting-types such as Cobalion, Hitmonlee, and Emboar. Cobalion can 2HKO Cradily with Close Combat, while Reckless Hitmonlee can OHKO Cradily with High Jump Kick.
+**Setup Sweepers**: Cradily has problems with certain setup sweepers such as Curse Registeel, Calm Mind Cresselia, Spiritomb, and Reuniclus, as it cannot force them out with Toxic and is too weak to hurt them.
 
-**Poison-types**: Drapion and Weezing can freely use Cradily as setup fodder, as they're immune to Toxic and take little damage from Rock Slide and Giga Drain.
-
-**Substitute Users**: Pokemon such as Meloetta and Gallade do not care about Toxic or Leech Seed because of Substitute and can set up on Cradily with Calm Mind or Bulk Up, respectively.
+**Strong Special Attackers**: Strong special attackers such as Choice Specs Reuniclus and Tangrowth can generally break through Cradily due to the sheer power behind their attacks.

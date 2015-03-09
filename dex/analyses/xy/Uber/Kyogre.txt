@@ -1,194 +1,130 @@
 Overview
 ########
 
-Formerly crowned the "King of Ubers," Kyogre struggles to hold onto its title as the generation shift nerfed its metagame-defining ability, Drizzle. Five turns of rain is still more than enough for the leviathan to drown most of the metagame, and it can occasionally be enough to support Kyogre's teammates, but it no longer allows rain-dependent Pokemon to be consistently effective.
+Although Kyogre remains a strong threat in ORAS, the former king of Ubers has fallen very far from its throne. Previously extremely difficult to halt due to its immensely powerful, Drizzle-fueled Water-type attacks, Kyogre's longtime rival Groudon gained a new Primal Reversion that sports heavy sunlight irreversible by Drizzle and immunity to Water- and Electric-type attacks, heavily neutering Kyogre's offense and making it far easier to check. The reintroduction of Soul Dew and the transition to a more physical-attack based metagame in ORAS leave Kyogre a little high and dry in the tier. Although it gained a Primal Reversion of its own, Primal Kyogre still struggles to tango with its ubiquitous counterpart Primal Groudon and its immensely powerful Precipice Blades, as the whale does not have a way to fight back as easily without the weather on its side.
 
-However, with its superb base 150 Special Attack, STAB moves that are boosted by rain, access to the incredibly powerful Water Spout, and excellent special bulk, Kyogre can perform a variety of offensive and defensive roles, ranging from a devastating wallbreaker to a powerful revenge killer to a sturdy wall that effortlessly shrugs off status.
+That being said, one would be foolish to underestimate Kyogre. Its Primal Reversion is still extremely formidable, boasting STAB Water-type attacks backed by Primordial Sea and a titanic base 180 Special Attack. Further supplemented by Calm Mind and solid 100 / 160 special bulk, Primal Kyogre is a formidable wallbreaker and check to key special attackers, both roles that give it a clear niche in the metagame. Though the whale is easier to check in ORAS, it is still an enormous threat, one that Primal Groudon alone may not be enough to stop.
 
-Although versatile and effective in its roles, Kyogre is not without its shortcomings. Its base 90 Speed is low for an offensive threat, and its mediocre physical bulk leaves it vulnerable to powerful physical attackers. Furthermore, as Kyogre takes damage, its most powerful attack, Water Spout, weakens considerably. Nevertheless, Kyogre remains a major threat for teams to prepare for.
-
-Choice Scarf
+Calm Mind + 3 Attacks
 ########
-name: Choice Scarf
-move 1: Water Spout
-move 2: Surf / Scald
-move 3: Thunder
-move 4: Ice Beam
-item: Choice Scarf
-evs: 4 HP / 252 SpA / 252 Spe
-nature: Modest / Timid
-
-Moves
-========
-
-Equipped with a Choice Scarf, Kyogre gains the Speed it needs to be a powerful revenge killer and late-game cleaner. Water Spout is immensely powerful at full health, outdamaging even super effective Thunders and Ice Beams. It is Kyogre's main move, and allows it to OHKO many Pokemon that lack a resistance to Water. Surf provides Kyogre with a consistent STAB move unaffected by Kyogre's remaining HP (Water Spout is weaker than Surf when Kyogre is below 60%). As an alternative to Surf, Kyogre can use Scald, which is weaker but occasionally punishes opposing Pokemon with a burn, or Hydro Pump, which has greater power, but an unreliable 80% accuracy.
-
-Thunder gives Kyogre coverage against Flying-types and its fellow Water-types. It has perfect accuracy in the rain and a 30% paralysis rate, which can cripple switch-ins. Ice Beam rounds out Kyogre's coverage, hitting Grass- and Dragon-types super effectively.
-
-Set Details
-========
-
-In order for Kyogre to revenge kill and clean effectively, Speed and Special Attack are maximized. A Modest nature is preferred, as it gives Kyogre additional power while still allowing it to outspeed most of the unboosted metagame, up to and including Mega Mewtwo Y. However, for teams that lack priority users to check Deoxys-A, Kyogre can use a Timid nature to outspeed it as well. A Timid nature also allows it to outspeed Adamant Mega Blaziken after a single Speed boost.
-
-Usage Tips
-========
-
-Choice Scarf Kyogre can be very powerful, but it relies on Water Spout for a lot of its might. Since Water Spout weakens significantly as Kyogre loses HP, Kyogre should be switched in conservatively, and if possible, into non-attacking moves or after a Pokemon has fainted. A teammate's U-turn or Volt Switch can help get it in safely. Surf should be used instead of Water Spout against powerful priority users, as their attacks can weaken Kyogre enough for Surf to outdamage Water Spout. Ice Beam must be used carefully, as it is quite weak and often fails to OHKO even targets that take super effective damage, such as Zekrom, without it being somewhat weakened.
-
-Team Options
-========
-
-Mega Gengar excels at trapping and eliminating many of Kyogre's checks, such as Grass Arceus and Chansey, allowing Kyogre to devastate teams lacking multiple Pokemon that resist Water-type moves. Bulky Fairy-types such as Xerneas and Fairy Arceus can check Palkia, the primary check to Kyogre.
-
-Bulky Ground-types such as Groudon, Hippowdon, Landorus-T, and Gliscor can help check the Electric-types and physical attackers that threaten Kyogre. Bulky Grass-types such as Grass Arceus and Ferrothorn resist both of Kyogre's weaknesses and appreciate Drizzle mitigating their weakness to Fire-type moves. Grass Arceus can also check Palkia in rain. Ho-Oh can check Grass-types and forms a powerful offensive duo with Kyogre.
-
-Anti-hazard support such as Defog helps conserve Kyogre's HP and allows it to dish out powerful Water Spouts for as long as possible. Wish support from teammates such as Chansey, Blissey, or Sylveon is also highly beneficial to Kyogre for the same reason. Volt Switch and U-turn users such as Zekrom, Thundurus, and Scizor can help Kyogre switch in safely.
-
-Choice Specs
-########
-name: Choice Specs
-move 1: Water Spout
-move 2: Surf / Hydro Pump
-move 3: Thunder
-move 4: Ice Beam
-item: Choice Specs
-evs: 4 HP / 252 SpA / 252 Spe
-nature: Timid / Modest
-
-Moves
-========
-
-Donning a pair of Choice Specs, Kyogre forgoes Speed in order to become one of the most terrifying wallbreakers in the game. Its monstrous power pinnacles in Water Spout, which is so destructive that many Pokemon that resist it, and even Chansey - the sturdiest special wall in the game - cannot avoid a 2HKO. Surf is considerably weaker, but is still powerful and allows Kyogre to remain a potent force at low health. Hydro Pump can be used for more power, allowing Kyogre to retain the 2HKO on Chansey when weakened, but has unreliable accuracy.
-
-Thunder gives Kyogre coverage against Water- and Flying-types, while boasting perfect accuracy in rain and a 30% paralysis rate. Ice Beam serves as coverage against Grass- and Dragon-types.
-
-Set Details
-========
-
-The EVs maximize Kyogre's offensive potential. A Timid nature is preferred, as Kyogre's rain-boosted STAB moves are so powerful that the drop is often insignificant. However, the additional power from a Modest nature can be helpful, especially for Kyogre's coverage moves. An alternative spread of 252 HP / 252 SpA / 4 Spe with a Modest nature can also be used, allowing Kyogre to survive more attacks from Pokemon that it cannot hope to outspeed.
-
-Usage Tips
-========
-
-Choice Specs Kyogre has overwhelming power but is quite slow, and is therefore generally most effective when used in a hit-and-run fashion. Kyogre often forces switches when it is brought in on Pokemon that it outspeeds and can OHKO, or on Pokemon that it threatens far more than they threaten it. These free turns should be used to deal as much damage as possible before retreating. Once Kyogre's checks have been sufficiently worn down or eliminated, it can usually proceed to use Water Spout or Surf mindlessly. Water Spout should only be used when an opposing Pokemon cannot threaten Kyogre significantly, can be outsped and OHKOed, or is highly likely to switch out, as Kyogre can become a liability when locked into Water Spout at low health.
-
-Team Options
-========
-
-Bulky Ground-types such as Groudon, Hippowdon, Landorus-T, and Gliscor can check Electric-types and physical attackers, which are some of the main threats to Kyogre. Bulky Grass-types such as Grass Arceus and Ferrothorn resist the Electric- and Grass-type attacks that threaten Kyogre, while the rain it summons protects them from Fire-type attacks. In rain, Grass Arceus can also check Palkia effectively. Ho-Oh also resists Grass-type attacks and is a powerful physical wallbreaking counterpart to Kyogre. Bulky Fairy-types can also help Kyogre by checking Palkia, its main check.
-
-Anti-hazard support, such as Defog, helps preserve Kyogre from hazard damage, which weakens its Water Spout. Kyogre also appreciates Wish support in order to maintain Water Spout's high power, as well as mitigate its inability to heal otherwise. Volt Switch and U-turn users can be used to bring Kyogre in safely and give it the momentum to devastate teams with Water Spout.
-
-Paralysis or Tailwind support is very helpful, as Kyogre's middling Speed is one of its greatest weaknesses.
-
-RestTalk
-########
-name: RestTalk
-move 1: Scald
-move 2: Roar
-move 3: Rest
-move 4: Sleep Talk
-item: Leftovers
-evs: 248 HP / 8 Def / 252 SpD
-nature: Calm
-
-Moves
-========
-
-With maximum investment in HP and Special Defense, Kyogre becomes a durable special wall, capable of checking powerful threats such as Geomancy Xerneas. Scald allows Kyogre to wear down offensive Pokemon and spread burns, potentially crippling physical attackers that could overpower it. Kyogre can utilize Roar to prevent setup sweepers from taking advantage of it, and in tandem with entry hazard support, it can wear down its own checks. Rest allows Kyogre to restore health and remove status, giving it the longevity it needs to function as an effective wall, and Sleep Talk prevents opponents taking advantage of its turns spent asleep.
-
-Set Details
-========
-
-A Calm nature and the given EVs maximize Kyogre's special bulk in order to allow it to absorb powerful special attacks. A spread of 248 HP / 252 Def / 8 SpD can be used to improve its physical defense while retaining great special bulk, allowing it to better check physical attackers, support Groudon, and both Mega Mewtwo formes.
-
-Usage Tips
-========
-
-This set should be used not for offensive presence, but rather for longevity and durability. With enormous special bulk, a chance to burn opponents, Roar, and the ability to heal off damage and status, Kyogre is very difficult to overpower or wear down. However, it must be wary of physical and mixed attackers, as most powerful physical attacks will 2HKO it. Ideally, Rest should be used against Pokemon that can do little damage to Kyogre, as Kyogre is easier to take advantage of while asleep and must survive for two turns before it can use Rest again. Roar can be used on predicted switches to wear down Kyogre's checks with entry hazard damage.
-
-Team Options
-========
-
-This Kyogre set is considerably weaker than the others and lacks coverage, as it focuses on walling threats. Entry hazards and Toxic users can considerably help wear down the opponents that take little damage from Scald. Some notable hazard setters are Landorus-T, Dialga, Groudon, and Ferrothorn. Good Toxic users include Landorus-T, Groudon, Ho-Oh, and defensive Yveltal.
-
-Bulky Ground-types such as Groudon, Hippowdon, Landorus-T, and Gliscor have excellent synergy with Kyogre; it can absorb powerful special attacks, while they can absorb powerful physical attacks. Kyogre also resists the Ice- and Water-type moves they are weak to, while they are immune to the Electric-type moves that threaten Kyogre. Bulky Grass-types such as Grass Arceus and Ferrothorn also have excellent synergy with it, resisting both Grass- and Electric-type moves, while Kyogre resists Fire- and Ice-type moves. Ho-Oh also resists the Grass-type attacks that threaten Kyogre.
-
-Thunder Wave
-########
-name: Thunder Wave
-move 1: Thunder Wave
-move 2: Surf
-move 3: Thunder
-move 4: Ice Beam
-item: Leftovers
-evs: 248 HP / 8 Def / 252 SpA
+name: Calm Mind + 3 Attacks
+move 1: Calm Mind
+move 2: Origin Pulse
+move 3: Blizzard / Ice Beam
+move 4: Thunder / Hidden Power Ground
+ability: Drizzle
+item: Blue Orb
+evs: 172 HP / 252 SpA / 84 Spe
 nature: Modest
 
 Moves
 ========
 
-Kyogre can effectively utilize Thunder Wave, as its good special bulk and ability to force switches allow it to easily spread paralysis. Surf is a powerful STAB move that heavily damages most Pokemon that do not resist it. Scald can also be used for its chance to burn opposing Pokemon, although this can occasionally interfere with Kyogre's attempts to paralyze opponents . Thunder hits Water- and Flying-types hard and has an additional 30% chance to paralyze, while Ice Beam breaks through Grass- and Dragon-types.
+Calm Mind boosts Primal Kyogre's already impressive Special Attack and Special Defense stats, making it a terrifying and difficult-to-KO wallbreaker. Origin Pulse is the primary STAB attack due to its sheer power. To illustrate, Primal Kyogre is able to 2HKO Blissey and bulky Pokemon resisting Water such as specially defensive Dialga and Ferrothorn with just one Calm Mind boost, thanks to Primordial Sea. Blizzard is rather inaccurate, but it allows Primal Kyogre to OHKO Latios, Latias, and Grass Arceus after a Calm Mind boost and Stealth Rock damage. Ice Beam is a weaker but more accurate alternative that is still able to take down the Eon twins if they've been weakened somewhat. Both Blizzard and Ice Beam also deal decent damage to Primal Groudon, which usually lacks recovery and is worn down quickly. Thunder is primarily used to take down opposing Primal Kyogre, though it also has utility in spreading paralysis against faster walls such as Lugia, Latias, and Arceus. Thunder also 2HKOes Palkia after a Calm Mind boost, although Ice Beam can do this as well. If hitting opposing Kyogre is not of much concern, boosted Hidden Power Ground can do massive damage to Primal Groudon, 2HKOing even the most specially defensive variants.
 
 Set Details
 ========
 
-The EVs and the Modest nature maximize Kyogre's power and bulk, as it will outspeed any paralyzed opponents. Hydro Pump can be used for additional power, although Surf is more consistent and this set is more focused on spreading paralysis than dealing damage. A Lum Berry can be used to allow Kyogre to function as a check to Darkrai or avoid status once, but the Leftovers recovery helps Kyogre spread paralysis for longer.
+84 Speed EVs allow Primal Kyogre to outspeed anything slower than minimum Speed base 100 Pokemon, such as Jirachi, defensive Xerneas and Yveltal, and most Primal Groudon. Special Attack is maximized to deal as much damage as possible, and the rest of the EVs goes to HP to bolster Primal Kyogre's solid bulk. Fully investing in Speed is also an option, but doing so won't confer many benefits outside of outspeeding faster Primal Groudon variants.
 
 Usage Tips
 ========
 
-As this set is uncommon, it has a surprise value that can help Kyogre cripple key threats with Thunder Wave. Because using Thunder Wave reveals the set, the first use of the move should be chosen carefully. Taking damage should be avoided early on if possible, as this allows Kyogre to bluff a Choice set. Thunder Wave must be used carefully if the opponent has Electric-type Pokemon, as they can use their paralysis immunity to switch in and force Kyogre out.
+Primal Kyogre excels at breaking down slower stall and balanced teams that can't do much to stop it from boosting. Try to set up on defensive Pokemon and weaker special attackers that can't hurt Primal Kyogre too much, such as Lugia, the Giratina formes, Scizor, defensive Dialga, defensive Yveltal, Skarmory, and support Arceus formes. Using your Ice-type move or Hidden Power Ground when you first send out Kyogre is usually a good idea if the opponent has a Primal Groudon, a usual first response to Primal Kyogre that nullifies its Primordial Sea and STAB Water-type attacks. Bear in mind that this variant of Primal Kyogre lacks recovery and can be easily worn down by residual damage&mdash; - make every turn it gets count.
 
 Team Options
 ========
 
-Wish support from the likes of Chansey, Blissey, and Sylveon helps Kyogre spread paralysis for as long as possible, as even with bulk investment and Leftovers, Kyogre lacks much longevity.
+It cannot be understated that Primal Groudon is a huge jerk to Primal Kyogre. Desolate Land grants Primal Groudon immunity to Water-type attacks, and it has enough bulk to take an Ice Beam or two. In return, Precipice Blades destroys Primal Kyogre, so good Primal Groudon checks are necessary. Ground Arceus is one of the best Primal Groudon checks, capable of switching in on any attack and healing off the damage taken or simply KOing Primal Groudon with Judgment. Ground Arceus is also a fine check to Zekrom, which otherwise greatly threatens Primal Kyogre with STAB Bolt Strike. Pokemon that are immune to Ground-type attacks, such as Giratina-O, Latias, Latios, Landorus-T, Mega Salamence, and physically defensive Yveltal, all check Primal Groudon decently as well. It is also recommended to pack a Pursuit user to easily take out Latios and Latias, which can still defeat Primal Kyogre with Calm Mind and Psyshock. Mega Scizor and Aegislash are excellent options to deal with the Eon twins; as a bonus, they also tend to lure in Primal Groudon for an easy Toxic to help whittle it down, a massive boon for Primal Kyogre. In return, Primal Kyogre easily switches into Fire-type attacks thanks to Primordial Sea. Primal Kyogre also appreciates entry hazard support to help whittle down Primal Groudon and other walls. A Primal Groudon of your own is a fine Stealth Rock user, though Dialga, Tyranitar (which can also provide Pursuit support), and Landorus-T are also fine options. Spikes are readily provided by Klefki, Scolipede, Ferrothorn, or Deoxys formes. Since Primal Kyogre usually takes a lot of damage while breaking walls, pairing it with a Healing Wish user such as Latias or Jirachi to give Primal Kyogre a second chance to sweep once its checks are gone isn't a bad idea.
 
-As this set sacrifices significant offensive utility for the ability to spread paralysis, powerful wallbreakers such as Ho-Oh, Kyurem-W, and Zekrom pair well with it, as their main shortcoming, a lack of Speed, is mitigated by paralyzed opponents.
+Since Primal Kyogre does help weaken walls such as Primal Groudon and Blissey, Pokemon that appreciate them weakened or KOed are fine teammates. Xerneas is an excellent choice, as Primal Groudon's lack of recovery means it usually cannot handle both Xerneas and Primal Kyogre at the same time. Primal Kyogre can also easily take advantage of bulky Steel-types that bother Xerneas. Zekrom also appreciates a weakened Primal Groudon greatly, and it can use Volt Switch to help get Primal Kyogre into battle.
+
+Defensive
+########
+name: Defensive
+move 1: Rest
+move 2: Sleep Talk
+move 3: Scald
+move 4: Ice Beam / Roar
+ability: Drizzle
+item: Blue Orb
+evs: 248 HP / 248 Def / 12 Spe
+nature: Bold
+
+Moves
+========
+
+Primal Kyogre has superb mixed bulk with Defense investment, making it a solid check to a wide range of Pokemon. Rest is Primal Kyogre's only form of recovery, but does allow it to shrug off status. Sleep Talk allows Primal Kyogre to fight back while asleep, and makes it a good Pokemon to absorb Dark Void from Darkrai. Scald is Primal Kyogre's STAB attack of choice due to its reliability and solid 30% chance to burn. Even with no investment in Special Attack, Scald still packs enough power to 2HKO 4 HP Arceus formes thanks to Primordial Sea. Ice Beam allows Primal Kyogre to damage Primal Groudon switch-ins and take down Mega Salamence and Rayquaza. Roar is also a fine option to phaze sweepers such as Swords Dance Normal Arceus and rack up passive damage with entry hazards, though it leaves Primal Kyogre without a way to directly fight back against Mega Salamence and incoming Primal Groudon switch-ins.
+
+Set Details
+========
+
+12 Speed EVs allow Primal Kyogre to outspeed Diancie on the turn it Mega Evolves, KOing it with Scald before it can retaliate with Diamond Storm. The leftover EVs go into HP and Defense to maximize Primal Kyogre's physical bulk, though it is still quite specially bulky. Attacks it is capable of surviving at full health include a Dragon Dance-boosted Double-Edge from Jolly Mega Salamence, a Nasty Plot-boosted Dark Pulse from Life Orb Darkrai, and a Swords Dance Life Orb-boosted Extreme Speed from Normal Arceus.
+
+One can also invest in Primal Kyogre's Special Defense rather than Defense. At the expense of becoming vulnerable to physical attackers, this makes Primal Kyogre an excellent check to key special attackers such as Darkrai, Calm Mind Arceus formes, and Geomancy Xerneas assuming you have Roar to phaze it.
+
+Usage Tips
+========
+
+Defensive Primal Kyogre works well as a status absorber and check to threats such as Rock Polish Primal Groudon, Darkrai, Mega Diancie, and Calm Mind Arceus. It can also serve as an emergency check to Mega Salamence, though Primal Kyogre must have nearly full health to survive a boosted Double-Edge. As such, take care not to let Primal Kyogre get weakened too much. Do not try to stay in on Latios, Latias, or incoming Primal Groudon, as this set does not have sufficient power to break them by itself. If running Roar, use it liberally&mdash;it can really help weaken checks such as Primal Groudon with entry hazard support.
+
+Team Options
+========
+
+Primal Groudon checks should always be considered first when making a team with Primal Kyogre. Although this set does well if Primordial Sea is up, Primal Kyogre cannot deal effectively deal with Primal Groudon if Desolate Land is active, so a backup check such as Giratina-O, Latias, or Ground Arceus is recommended. Giratina-O and Latias also provide Defog support, which is crucial as this Primal Kyogre set does not like having to deal with entry hazards. Cleric support from Pokemon such as Clefable, Xerneas, or Blissey is also very useful to help keep Primal Kyogre healthy by curing sleep and thus allowing more uses of Rest. Blissey is particularly useful for checking Palkia, which is a thorn in the side of this set. Latias and Latios checks are still required, as this set cannot effectively damage them; Mega Scizor, Aegislash, and Tyranitar are the best options, as they can KO the Eon twins with Pursuit. If running Roar, entry hazard support from Pokemon such as Primal Groudon, Dialga, Klefki, and/or Ferrothorn is a must to help rack up passive damage on Primal Kyogre's checks. It is also recommended to run a backup check to Mega Salamence, as Primal Kyogre is not reliable enough at doing so to serve as a team's primary answer to it. Rock Arceus, Shuca Berry Dialga, Lugia, and Klefki are all fine options to deal with Mega Salamence.
+
+Choice Scarf
+########
+name: Choice Scarf
+move 1: Water Spout
+move 2: Origin Pulse / Surf
+move 3: Ice Beam
+move 4: Thunder
+ability: Drizzle
+item: Choice Scarf
+evs: 4 Def / 252 SpA / 252 Spe
+nature: Modest
+
+Moves
+========
+
+Though it has lost a lot of its luster, Choice Scarf Kyogre is still a very threatening revenge killer and late-game cleaner with its legendary Water Spout. Boosted by Drizzle and backed by Kyogre's impressive Special Attack stat, Water Spout heavily damages anything that is not immune or 4x resistant to Water-type attacks. Origin Pulse is a strong alternative when Kyogre's HP runs low, although its accuracy is imperfect. Surf is much less powerful, but it has perfect accuracy, which makes it a better revenge killing tool. Ice Beam destroys Rayquaza and Mega Salamence and does solid damage to Latias, Latios, and Grass-types. Thunder deals with other Kyogre and is Kyogre's strongest attack against Palkia.
+
+Set Details
+========
+
+The EVs are straightforward, maximizing Kyogre's Speed and damage output. A Modest nature is always preferred to maximize damage output. A Timid nature can be used to outspeed Choice Scarf-holding base 90 Speed Pokemon that opt for non-Speed boosting natures, but the loss in power is usually is not worth it.
+
+Usage Tips
+========
+
+Choice Scarf Kyogre is an effective revenge killer against Pokemon such as Ground Arceus, Darkrai, and Mewtwo. However, it won't be revenge killing much of anything until Primal Groudon is out of the way, so make sure you take it out first before trying to sweep with Kyogre. Unless you really need to revenge kill something, try to save Kyogre until late-game and conserve its HP to maximize Water Spout's strength. If you do need to bring out Kyogre early-game, try to chip away at Primal Groudon and Latias switch-ins with Ice Beam. It cannot be stressed enough that blindly throwing out Water Spout only to give the opponent's Primal Groudon a free turn is a terrible idea, so be careful!
+
+Team Options
+========
+
+Solid Primal Groudon checks are absolutely necessary, as the best Choice Scarf Kyogre can muster against most sets is a 4HKO with Ice Beam. Ground Arceus is one of the best options, as it can handle most Primal Groudon variants by itself. Bulky variants of Mega Salamence also work well. Giratina-O and Latias are also notable Primal Groudon checks, as they can provide Defog support to help keep Kyogre's HP high for Water Spout usage later in the match. Pursuit support is also highly recommended to make dealing with Latias and Latios easier. Mega Scizor and Aegislash are particularly good teammate choices, as Kyogre's Drizzle can offer some protection from a surprise Hidden Power Fire. Palkia is also an annoying obstacle due to its 4x resistance to Water-type attacks. Specially defensive Dialga, Latias, and Fairy Arceus all check Palkia nicely. Once again, Stealth Rock from Primal Groudon or Dialga and Spikes from Klefki or Ferrothorn are invaluable for helping Kyogre clean up late-game.
 
 Other Options
 ########
 
-Calm Mind allows Kyogre to become immensely powerful and specially bulky, and can be used on offensive sets with three attacks or more defensive sets alongside Rest and Sleep Talk. However, Kyogre's low Speed and exploitable Defense give it poor staying power, making the more immediate power of Choice Specs more appealing. The short duration of rain also hampers the utility of such sets, as they rely on staying on the field, sometimes for longer than the rain will last.
-
-Substitute can be used to avoid status and ease prediction, but the loss of Water Spout hurts Kyogre's offensive capabilities. Furthermore, with only Leftovers recovery, Kyogre struggles to use Substitute repeatedly.
-
-Blizzard can be used instead of Ice Beam for significantly greater power, but it is very unreliable due to its 70% accuracy.
-
-Toxic can be used in a similar manner as Thunder Wave, but Kyogre is generally outclassed as a Toxic user and is more suitable to performing other roles.
-
-Kyogre can hold a Damp Rock in order to extend the duration of rain to eight turns, but as Kyogre is rarely able to stay on the field for more than five turns and the item has far less utility than many others, a team must benefit from rain substantially for it to be worthwhile.
+Thunder Wave cripples many of Kyogre's switch-ins, particularly the Eon twins. However, it is useless against Primal Groudon, which greatly lessens its attractiveness. Toxic is rather useful at weakening all of Kyogre's checks without much need for prediction, but Kyogre usually does not have the moveslot to spare for it. Kyogre can make 101 HP Substitutes that might be useful in conjunction with Calm Mind, but it will still have difficulty breaking through Primal Groudon, which makes the loss of health not worth it. Primal Kyogre does have base 150 Attack and a decent smattering of physical moves such as Waterfall, Earthquake, and Avalanche to work with, but special sets are generally capable of producing equivalent or higher damage outputs against most Pokemon. A Choice Specs set might seem tempting due to the sheer power of a boosted Water Spout, but its inability to switch moves or break Primal Groudon leaves it far inferior to simply taking advantage of Kyogre's own Primal Reversion.
 
 Checks & Counters
 ########
 
-Choice Scarf and Choice Specs Kyogre are so powerful that teams almost invariably need solid checks to them, or at least a bulky Pokemon that resists Water and has ways to pressure Kyogre.
+**Primal Groudon**: This is by far the biggest threat to Kyogre. Thanks to Desolate Land and its typing, Primal Groudon is immune to Water- and Electric-type attacks, respectively, and takes only neutral damage from Ice Beam. In return, it can easily KO Primal Kyogre with Precipice Blades. Although Primal Kyogre can beat Primal Groudon if Primordial Sea is up, it is required to switch under the threat of Precipice Blades, which is a daunting task. Without Primordial Sea, Primal Kyogre is incapable of doing much to Primal Groudon other than chip away at it with Ice Beam.
 
-**Palkia**: Palkia can safely switch in on Kyogre, fearing only a boosted Thunder, and can threaten Kyogre with a powerful Thunder of its own. However, if Palkia lacks Rest, it will struggle against RestTalk Kyogre.
+**Latias and Latios**: Latias shrugs off most of Kyogre's hits thanks to Soul Dew and easily KOes it with Psyshock. However, a Calm Mind-boosted Blizzard or Ice Beam will do significant damage to Latias. Latios is not as bulky as his sister, but his Psyshock deals much more damage to Primal Kyogre, making Latios more threatening to defensive sets.
 
-**Grass Arceus**: Grass Arceus shrugs off most of Kyogre's attacks with ease, threatens it with Grass Knot or Judgment, and has reliable recovery. However, Grass Arceus must beware of Mega Gengar, which can trap and eliminate it.
+**Palkia**: Palkia boasts a 4x resistance to Water-type attacks and neutrality to Ice Beam and Thunder, and its own Thunder does solid damage back to Kyogre. However, Palkia will lose to a Primal Kyogre that has a Calm Mind boost under its belt.
 
-**Gastrodon**: Gastrodon hard counters any Kyogre set lacking Calm Mind and Ice Beam due to its bulk and immunity to both Water- and Electric-type moves, and it can wear Kyogre down with Toxic or retaliate with Mirror Coat. However, Gastrodon is highly situational and can be easily taken advantage of by other Pokemon.
+**Ferrothorn**: Ferrothorn can take most of Kyogre's attacks and greatly annoy it with Leech Seed and Power Whip. However, a boosted Origin Pulse from Primal Kyogre is capable of 2HKOing Ferrothorn. Ferrothorn also hates getting burned by Scald.
 
-*Ferrothorn**: Ferrothorn can switch into any move barring a Choice Specs Water Spout or Hydro Pump, and can wear Kyogre down with Leech Seed or threaten it with Power Whip, although Scald burns will hamper it.
+**Zekrom**: Zekrom has trouble switching into Origin Pulse and Ice Beam comfortably, but its Bolt Strike will deliver a swift OHKO to Primal Kyogre once it does manage to come in.
 
-**Amoonguss**: Amoonguss can effortlessly absorb any attack from Kyogre except a boosted Ice Beam, threaten it with Grass Knot, and heal itself with Regenerator. Major threats such as Ho-Oh and Yveltal can freely switch into it, though.
+**Grass Arceus**: Grass Arceus has the bulk to handle most of Kyogre's attacks and it can retaliate with Grass Knot for massive damage on Kyogre. Ice Beam stings, though, and a Calm Mind-boosted Ice Beam from Primal Kyogre can potentially KO Grass Arceus.
 
-**Chansey/Blissey**: Chansey and Blissey avoid a 2HKO from any move outside of a Choice Specs-boosted Water Spout or Hydro Pump, and can wear Kyogre down with Toxic or Seismic Toss. However, they are vulnerable to being trapped and removed by Mega Gengar.
+**Dialga**: Specially defensive variants of Dialga can handle Choice Scarf Kyogre and slow down the Calm Mind set. However, Dialga cannot defeat Calm Mind or defensive Primal Kyogre by itself.
 
-**Abomasnow**: Although Scald burns hamper it, (Mega) Abomasnow can switch in easily if Stealth Rock is absent, and wear down Kyogre with Leech Seed or threaten it with Wood Hammer or Grass Knot.
-
-**Bulky Water-types**: Water Arceus and RestTalk Kyogre can safely switch into any move other than Thunder, but both struggle to hurt Kyogre in return. Since the five turn counter for rain is not replenished if a different Drizzle user is switched in, opposing Kyogre often only have limited turns to take advantage of the rain too.
-
-**Giratina**: Specially defensive Giratina can absorb any attack but a boosted Ice Beam, but it struggles to do much to Kyogre in return.
-
-**Dialga**: Support Dialga can survive any attack from Kyogre and hit hard with Thunder, but it will most often be unable to switch in safely.
-
-**Zekrom**: Without prior damage, Zekrom can survive any attack but a Choice Specs-boosted Water Spout or Ice Beam and OHKO Kyogre with Bolt Strike.
-
-**Groudon**: Even with significant investment in Special Defense, Groudon is heavily damaged by most of Kyogre's moves, but it can come in after Kyogre has KOed a Pokemon or act as an emergency check, destroying Kyogre's momentum thanks to Drought.
-
-**Revenge Killers**: As Kyogre is fairly slow, many offensive Pokemon can revenge kill it once it has been sufficiently weakened. Choice Scarf Kyogre is outsped by many opposing Choice Scarf users such as Xerneas and Genesect. Powerful priority users such as Arceus, Yveltal, and Mega Kangaskhan can pick off Kyogre or severely weaken its Water Spout.
-
-**Entry Hazards**: Entry hazards can help to weaken Kyogre's Water Spout, mitigating the threat it presents.
+**Physically Attacking Revenge Killers**: Primal Kyogre's Defense, while not bad, isn't exactly the best, leaving it prone to being picked off by strong physical attackers such as Rayquaza, Mega Salamence, Mega Kangaskhan, and Mega Mewtwo Y. However, these threats could be in for a nasty surprise if they attempt to revenge kill physically defensive Primal Kyogre variants. 

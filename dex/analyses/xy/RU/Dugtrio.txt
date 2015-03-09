@@ -1,50 +1,52 @@
 Overview
 ########
 
-Despite its paltry stats other than Speed, Dugtrio has a niche in the RU metagame thanks to its Arena Trap ability, which lets it remove troublesome walls for offensive Pokemon. However, Dugtrio is really frail and not that strong, meaning that it can trap and kill opposing Pokemon only if they are weak to Ground or have a lackluster Defense stat. Furthermore, Arena Trap is negated by Pokemon that have Ghost or Flying typing or a different form of Ground immunity such as Levitate, giving the opponent time to switch to a Pokemon that can take advantage of Dugtrio.
+Dugtrio might seem like a very mediocre Pokemon at first sight, seeing as how all of its base stats bar Speed are extremely underwhelming. The reason it's viable, though, is its ability Arena Trap, as well as its sufficient movepool consisting of EdgeQuake coverage, priority in Sucker Punch, and supporting options such as Memento. As mentioned, Dugtrio's Speed is high for the RU metagame, being outsped only by Jolteon and Accelgor. Sadly, the same can't be said about its pitiful defenses, and its Attack is very mediocre, not allowing it to do much damage even to Pokemon it's supposed to trap; for example, Dugtrio can never OHKO Cobalion with Earthquake. Despite all of that, Arena Trap is still a good enough ability for Dugtrio to be a viable option in the RU metagame as a trapper aimed at getting rid of certain threats such as Registeel or Drapion in order to support its teammates.
 
-Trapper
+Trapper 
 ########
 name: Trapper
 move 1: Earthquake
 move 2: Stone Edge
 move 3: Sucker Punch
-move 4: Memento / Stealth Rock
+move 4: Memento
 ability: Arena Trap
 item: Life Orb / Choice Band
-evs: 252 Atk / 4 SpD / 252 Spe
+evs: 252 Atk / 4 Def / 252 Spe
 nature: Jolly
 
 Moves
 ========
 
-Earthquake is a decently powerful STAB move, capable of at least 2HKOing most offensive Pokemon. It also does major damage to one of Dugtrio's main targets, Registeel. Stone Edge has good coverage alongside Earthquake and hits the Flying-types that avoid Arena Trap. Sucker Punch is a dangerous move to be locked into, but it is relatively reliable on Dugtrio, as the opponent can't switch out against it. Memento can give a free setup opportunity to a sweeper like Virizion or Cobalion and is particularly effective with Arena Trap. Stealth Rock is another good option for the last slot if your team doesn't have another user of the move, and Dugtrio can use it quite well with its high Speed. Substitute lets Dugtrio dodge Sucker Punch from Pokemon such as Skuntank and Druddigon and is useful when Dugtrio is trapping a Choice-locked Electric-type such as Jolteon. Toxic is Dugtrio's best move to hit Alomomola, but it does not have many other uses and pairs poorly with Choice Band. Aerial Ace is a decent option if your team has trouble with Virizion, but it should be used only with Life Orb, as it is easily taken advantage of.
+Earthquake is Dugtrio's strongest STAB attack, while Stone Edge rounds up its coverage, hitting the Flying-types immune to Earthquake. Sucker Punch is a good priority move, while Memento ensures Dugtrio's teammates have an easier time setting up. Substitute protects Dugtrio from Sucker Punch users such as Skuntank or Houndoom. It also has a use in forcing Support Cobalion to use Close Combat, as it is the only move besides Iron Head (which the set normally doesn't have) that can break Dugtrio's Substitute, lowering Cobalion's defenses and therefore guaranteeing that Dugtrio KOes it.
 
 Set Details
 ========
 
-Life Orb is the best so that Dugtrio isn't easily taken advantage of after having trapped a threat. Choice Band is also viable as it lets Dugtrio trap Registeel more reliably, and it works well because Dugtrio doesn't have to predict switches; on the other hand, They both boost Dugtrio's Attack to decent levels, allowing it to 2HKO Registeel, specially defensive Aromatisse, and offensive Pokemon such as Meloetta. Attack and Speed are maximized to increase Dugtrio's offensive potential, as it can't take hits regardless of its defensive investment. A Jolly nature is used to let Dugtrio outspeed targets such as Cobalion, Virizion, and Cinccino, but an Adamant nature is usable with Sticky Web support.
+The set runs a standard offensive spread with a Jolly nature, seeing as Dugtrio's Speed tier is important and it doesn't want to be outsped by anything because it could be KOed by any hit. Life Orb boosts Dugtrio's overall damage output while still allowing it to switch between moves, unlike Choice Band, which has a bit more damage output (for example, it lets Dugtrio 2HKO Rhyperior while Life Orb can't) and no recoil but locks Dugtrio into one move, meaning it can't use Memento after trapping and eliminating a Pokemon. Additionally, it can be easily exploited by Pokemon such as Fletchinder, which is immune to Earthquake and can set up on a Choice-locked Sucker Punch, as well as other Pokemon such as Cresselia and Abomasnow.
 
 Usage Tips
 ========
 
-No prediction is required when using Dugtrio, so just use the strongest move against your target. Dugtrio should only be brought in with a slow U-turn or with a double switch, as it can't directly take hits. The only exception is Registeel, on which you can come in on Thunder Wave or Seismic Toss quite easily and 2HKO it. In any case, remember that bulky targets such as Rhyperior and Registeel should be weakened before Dugtrio attempts to trap them.
+Dugtrio can be used throughout the game to trap opposing Pokemon. Even though it has low Attack, it can sweep late-game thanks to its naturally high Speed. The purpose of trapping Pokemon (and therefore, the purpose of Dugtrio) is so that another Pokemon on your team can have an easier time; for example, trapping Registeel and KOing it so that Meloetta can easily sweep or wallbreak. Dugtrio should only be brought in through slow U-turns or Volt Switches, after an ally has been KOed, or with double switches, which can be risky, as Dugtrio's pitiful bulk doesn't allow it to survive anything at all. Finally, use Memento as a last resort move to allow a teammate such as Slurpuff or Feraligatr to set up and sweep.
 
 Team Options
 ========
 
-Pokemon that are walled by Registeel, such as Meloetta and Exploud, are good partners. Durant also appreciates Dugtrio's ability to remove Registeel, as it does not have to use Superpower. Vivillon can put its strongest checks, Rhyperior and Registeel, to sleep so that Dugtrio can freely switch in on them and weaken them to Hurricane's KO range. Dugtrio can also heavily damage Escavalier for Vivillon. Slow U-turn and Volt Switch users like Eelektross and Gligar can bring in Dugtrio for free and weaken the opponent so that it can be trapped easily. Life Orb Moltres is a fantastic partner, as it can hit Slowking with U-turn on the switch, bringing it to Earthquake's KO range. Dugtrio can also severely weaken Rhyperior to the point where it can't take STAB moves from strong Flying-types such as Braviary, Swellow, and Moltres. Fletchinder appreciates Dugtrio weakening Rock-, Steel-, and Electric-types so that it can more easily clean with Acrobatics late-game, while it can give Dugtrio more freedom to switch in, thanks to Will-O-Wisp. Sharpedo struggles with Virizion and Cobalion, and Dugtrio can weaken or outright kill them. Other notable Dugtrio targets are Delphox and Drapion, so, Pokemon walled by them, such as Sigilyph, are good partners.
+Slurpuff and Fletchinder both really love Memento support to easily set up, and so do other Pokemon that set up such as Feraligatr and Drapion. Additionally, all of these Pokemon appreciate Dugtrio's support in removing or weakening certain checks and counters, such as Escavalier for Slurpuff and Rhyperior for Fletchinder and Drapion. Tyrantrum works in the same way, as Dugtrio can weaken or KO Steel-types that resist its STAB attacks and support it with Memento should Tyrantrum want to set up. Meloetta and Exploud like the fact that Dugtrio can trap Registeel. Volt Switch and U-turn users are able to bring in Dugtrio safely, so Meloetta, Rotom-C, Eelektross, and Lanturn, among other Pokemon, are good teammates. Meloetta and Dugtrio work especially well together because Meloetta can U-turn on a switch to Registeel and let Dugtrio trap it. Additionally, any Pokemon that likes certain grounded Pokemon either weakened or removed appreciates Dugtrio's support. Finally, Psychic-types that set up with Calm Mind such as Cresselia, Reuniclus, or Meloetta like Dugtrio's ability to weaken or KO Steel-types such as Registeel and Mega Steelix, as well as Drapion, Houndoom, and Skuntank, but Dugtrio can deal with the latter two only when running Substitute, as their Sucker Punch can KO Dugtrio.
 
 Other Options
 ########
 
-Dugtrio can also opt to use a Focus Sash set with moves such as Endure and Reversal, but those sets are pitifully weak and Dugtrio misses the 2HKO on Registeel without a boosting item. Hone Claws is Dugtrio's only boosting move and can be useful if Dugtrio is up against a Choice-locked Electric-type. Other moves such as Night Slash, Rock Slide, and Final Gambit can be useful in certain situations but are outclassed most of the time, and Dugtrio struggles to find a moveslot for them anyway.
+Toxic cripples the walls that Dugtrio can trap but not hurt, such as Alomomola or Cresselia, the latter of which is not trapped by Arena Trap and could use Dugtrio to set up. A Stealth Rock set could be used, but it's not advised because there are far better Stealth Rock users, and Dugtrio is better used as a trapper. Reversal is an option, but it needs Focus Sash to function well, which isn't a good item to use on Dugtrio seeing as that it's so weak that it absolutely needs the power boost from Life Orb or Choice Band (for example, it isn't guaranteed to 2HKO Registeel without Life Orb). Substitute is also an option, as it allows Dugtrio to avoid Houndoom and Skuntank's Sucker Punch and KO them with Earthquake the next turn. Finally, Aerial Ace is a usable option, but it should only be used if Dugtrio's team is especially weak to Virizion. Otherwise, STAB Earthquake is still stronger than a 2x super effective Aerial Ace.
 
 Checks & Counters
 ########
 
-**Pokemon immune to Arena Trap**: While they can't switch in if Dugtrio is up against a grounded Pokemon, Flying- and Ghost-types and Levitate users are the best Pokémon to be brought out after Dugtrio has trapped something, as they are immune to Arena Trap and can freely switch out. Cofagrigus, Weezing, and Bronzong can set up entry hazards on it while taking next to no damage from its moves, and Cresselia can also start setting up with Calm Mind.
+**Priority**: Dugtrio's pitiful bulk doesn't allow it to survive most priority attacks. Therefore, priority move users such as Glalie, Hitmonlee, Fletchinder, and Shiftry can KO it quickly. Priority users should still be wary of Dugtrio's own priority move.
 
-**Bulky Pokemon**: Bulky Pokemon that are not weak to Earthquake don't take too much damage from anything Dugtrio can throw at them and can kill it or set up. Examples include Alomomola, Amoonguss, and Reuniclus.
+**Faster Pokemon**: Choice Scarf users such as Emboar, Meloetta, Hitmonlee, Rotom-C and anything that's faster than Dugtrio can usually KO it.
 
-**Priority Moves**: Moderately strong priority moves from the likes of Skuntank, Spiritomb, Fletchinder, and Hitmonlee are enough to revenge kill Dugtrio if it doesn't have Focus Sash or a Substitute up.
+**Physical Walls**: Physical walls such as Slowking, Amoonguss, Alomomola, Gastrodon, and Cresselia don't take much damage from Dugtrio's attacks and can recover their health easily and beat Dugtrio.
+
+**Untrappable Pokemon**: Flying- and Ghost-types, as well as Pokemon with Levitate, can't be trapped by Dugtrio. This means that Cresselia, among other Pokemon, can easily set up on it, while Eelektross, Weezing, Bronzong, and Rotom-C all can't be trapped and are able to take a hit or two from Dugtrio and KO it, or in Weezing's case, burn it or set up Toxic Spikes.

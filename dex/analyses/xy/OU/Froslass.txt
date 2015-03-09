@@ -1,7 +1,7 @@
 Overview
 ########
 
-Although it might be overshadowed by Pokemon such as Terrakion and Garchomp as an entry hazard setter, Froslass is by no means unviable. A base 110 Speed makes it very fast, and in conjunction with its STAB Ice Beam, Froslass can beat many other hazard setters and Defoggers. As a Ghost-type, it can also spinblock for itself, so opponents can't KO it with Rapid Spin after knocking it down to its Focus Sash, wiping away its efforts. Unlike other suicide leads, Froslass makes use of Destiny Bond to ensure that you won't always be playing with a Pokemon down in exchange for hazards either, though this is reliant on good prediction, lest you waste a turn. Froslass also has a nice abidlity in Cursed Body that sometimes allows it to get an extra layer of hazards. However, some aspects of the metagame make it difficult for Froslass to be effective. Common priority users can limit it to one layer of Spikes, and the prevalence of Defog makes the Spikes that Froslass does set easier to remove. Finally, it should be emphasized once again that Froslass faces great competition from Pokemon such as Terrakion and Garchomp as a suicide lead for hyper offensive teams. If you use it, it's important to utilize its advantages over them, or you will end up with an inferior Pokemon.
+Although it might be overshadowed by Pokemon such as Terrakion and Garchomp as an entry hazard setter, Froslass is by no means unviable. A base 110 Speed makes it very fast, and in conjunction with its STAB Ice Beam, Froslass can beat many other hazard setters and Defoggers. As a Ghost-type, it can also spinblock for itself, so opponents can't KO it with Rapid Spin after knocking it down to its Focus Sash, wiping away its efforts. Unlike other suicide leads, Froslass makes use of Destiny Bond to ensure that you won't always be playing with a Pokemon down in exchange for hazards either, though this is reliant on good prediction, lest you waste a turn. Froslass also has a nice abidlity in Cursed Body that sometimes allows it to get an extra layer of hazards. However, some aspects of the metagame make it difficult for Froslass to be effective. Common priority users can limit it to one layer of Spikes, and the prevalence of Defog makes the Spikes that Froslass does set easier to remove. Mega Sableye and Mega Diancie are two prominent threats that prevent Froslass from getting any hazards up due to Magic Bounce. Finally, it should be emphasized once again that Froslass faces great competition from Pokemon such as Terrakion and Garchomp as a suicide lead for hyper offensive teams. If you use it, it's important to utilize its advantages over them, or you will end up with an inferior Pokemon.
 
 Suicide Spiker
 ########
@@ -12,7 +12,7 @@ move 3: Destiny Bond
 move 4: Ice Beam
 ability: Cursed Body
 item: Focus Sash
-evs: 4 HP / 252 SpA / 252 Spe
+evs: 4 Def / 252 SpA / 252 Spe
 nature: Timid
 
 Moves
@@ -43,7 +43,9 @@ A bulkier set with Pain Split can be used to set up entry hazards throughout the
 Checks & Counters
 ########
 
-**Faster Attackers**: Although Froslass is quite fast, common Pokemon that outspeed it such as Greninja and Thundurus will limit it to one layer of entry hazards. Many Choice Scarf users such as Excadrill will also do the job.
+**Magic Bounce**: Mega Sableye and Mega Diancie tank Ice Beam with ease and can bounce back any potential Spikes with their ability, Magic Bounce.
+
+**Faster Attackers**: Although Froslass is quite fast, common Pokemon that outspeed it such as Thundurus will limit it to one layer of entry hazards. Many Choice Scarf users such as Excadrill will also do the job.
 
 **Tyranitar**: Tyranitar can knock Froslass down to its Focus Sash and finish it off with sandstorm damage.
 

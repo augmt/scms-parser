@@ -1,66 +1,56 @@
 Overview
 ########
 
-Gligar has many great qualities and can offer a lot to teams in need of a Stealth Rock setter or Defog user. It has a great defensive typing, being immune to Electric- and Ground-type moves as well as having many resistances that allow it to check important Pokemon in the tier, such as Mienshao. In addition, Gligar has a nice ability in Immunity, which prevents it from being poisoned, and great support moves such as Taunt, Knock Off, and Defog. Gligar also has a reliable recovery move in Roost to allow itself to stay healthy throughout the match. However, Gligar is not without its flaws. It has subpar offensive stats as well as a mediocre Special Defense stat. Gligar also has a quadruple weakness to Ice-type attacks and is weak to common Water-type attacks in the tier. Its reliance on Eviolite for added bulk really hurts it, as the move Knock Off has increased in popularity, greatly decreasing its effectiveness. Gligar also faces competition from other Defog users in the metagame, such as Crobat and Empoleon. Altogether, Gligar has a niche in the tier as a good physical wall and supporter and can be great if played to its strengths.
+Gligar is a great Pokemon in the UU metagame, boasting awesome 65 / 105 / 65 defenses coupled with a typing that gives Gligar immunities to Ground and Electric and resistances to common types in UU, such as Bug and Fighting. Thanks to its typing, it is also the only Flying-type in UU that isn't weak to Stealth Rock, making it a reliable Defogger, as it isn't worn down as easily as other common Defoggers in UU. It also sports an impressive support movepool with moves such as Taunt, Knock Off, U-turn, Stealth Rock, Defog, and Roost.
 
+While it has an amazing movepool, typing, and stats, Gligar has its share of flaws. Gligar's reliance on Eviolite for its bulk means it must watch out for Knock Off, which runs rampant throughout UU. Knock Off is also a common coverage move on a lot of Fighting-types that Gligar would otherwise have no trouble switching into. Another problem Gligar has is that while it is one of the most reliable Defoggers, its preferred ability, Immunity, is illegal in conjuction with Defog. Gligar's 4x weakness to Ice can be problematic when trying to fit it onto teams. Another flaw is its poor offensive potential, meaning U-turn is almost a necessity to maintain momentum.
 
-Defensive
+Standard
 ########
-
-name: Defensive
-move 1: Stealth Rock / Defog
-move 2: Roost
-move 3: Earthquake
-move 4: Toxic / Knock Off / U-turn
-ability: Immunity / Hyper Cutter
+name: Standard
+move 1: Roost
+move 2: Earthquake
+move 3: Defog / Stealth Rock
+move 4: U-turn / Stealth Rock
+ability: Hyper Cutter / Immunity
 item: Eviolite
-evs: 252 HP / 252 Def / 4 SpD
+evs: 248 HP / 252 Def / 8 SpD
 nature: Impish
 
 Moves
 ========
 
-Gligar can easily set up Stealth Rock because it forces many switches, and it should be used with the ability Immunity as it prevents Gligar from being poisoned. Defog is a nice alternative though, as it allows Gligar to support its team and remove entry hazards, but it is incompatible with Immunity. Roost provides Gligar with a reliable recovery move, healing half of its maximum HP every time it is used. Earthquake is the STAB move of choice, allowing Gligar to finish off weakened foes, while also stopping Gligar from being total setup bait. Since Gligar has almost no offensive pressure whatsoever, Toxic allows it to inflict passive damage and put a timer on deadly sweepers or walls that may be problematic. Knock Off can be also used because it lets Gligar remove items such as Eviolite or Leftovers and helps greatly against stall-based teams. Lastly, U-turn allows Gligar to provide momentum for the team.
+Roost is used for reliable recovery and to weaken the blow of an incoming Ice-type move if needed. Earthquake hits for a nice amount of damage against threats that Gligar tends to wall, such as Lucario, Darmanitan, and Entei. Gligar can reliably use Defog multiple times throughout the match thanks to Roost and U-turn. Stealth Rock can be used over Defog if the support isn't needed. U-turn allows Gligar to switch out and into an appropriate check or counter after Defogging, maintaining momentum. Stealth Rock can be used instead if you want the entry hazard support alongside Defog.
 
 Set Details
 ========
 
-The given EVs maximize Gligar's ability to take most neutral physical attacks. Eviolite is the only item that should be considered because it boosts Gligar's already usable defenses to modest levels. An Impish nature lets Gligar to take physical hits better. Since Defog is illegal with Immunity, use Hyper Cutter when using Defog sets.
+This set aims to take advantage of Gligar's amazing bulk, thanks to Eviolite, and typing to reliably get rid of entry hazards multiple times throughout the match. Eviolite boosts Gligar's defensive stats by 50%, allowing it to tank many non-STAB Ice-type moves. The EV spread allows Gligar to make use of its impressive base 105 Defense stat and nice resistances to Bug and Fighting. Hyper Cutter must be used in conjunction with Defog; if Defog is not being used, then Gligar should Immunity, which is the better ability. 248 HP / 16 Def / 244 SpD is an alternate spread that is geared toward patching up Gligar's average base 65 Special Defense stat, allowing it to tank hits from the likes of Life Orb Hydreigon. An Impish nature must be used with this particular spread to allow Gligar to hit a jump point in Defense while increasing its overall bulk. This spread takes on Mega Ampharos better as well, as Dragon Pulse can only 3HKO while Gligar can 2HKO standard Mega Ampharos with Earthquake after Stealth Rock damage.
 
 Usage Tips
 ========
 
-Be careful when switching into Fighting-type Pokemon such as Mienshao. The majority of the time they will carry Knock Off, and if Eviolite is removed from Gligar, it hinders its defensive capabilities greatly, though it is still highly capable of walling the likes of Toxicroak and Mienshao. However, if they are Choice locked and you have over seventy percent HP, predicting a switch and using U-turn is a good idea, as it provides valuable momentum to the team. Try using Roost wisely, as against stall-based teams, it is a very valuable move. In addition, use Defog when needed. Since Gligar forces quite a lot of switches, use the time to remove the entry hazards on your field or set up your own Stealth Rock.
+This set should be brought in on a Fighting-type Pokemon such as Heracross or Mienshao, as both cannot stand to beat Gligar if locked into one of their STAB moves. Gligar must, however, watch out for Knock Off, which can cripple Gligar for the rest of the match. This set can also come in on a stray Thunder Wave or other Electric-type move and proceed to gain momentum via U-turn or Defog entry hazards away.
 
 Team Options
 ========
 
-Gligar fits well on balanced or stall-based teams because it is a fantastic physical wall and has access to Stealth Rock and Defog. Status support is really appreciated, as it allows Gligar to stall out the majority of the tier. Great partners for Gligar are Water-types. They can switch into the Water- and Ice-type moves aimed at Gligar, while Gligar can switch into the Electric-type moves aimed at them. Empoleon, especially, has great type synergy with Gligar. Cleric support is also very appreciated, as Gligar has no way of removing the burn status; Umbreon and Florges make fantastic partners because they both have access to Wish and can remove status with either Heal Bell or Aromatherapy, respectively.
+Water-types are great partners for Gligar, as they can switch into the Water- and Ice-type moves, while Gligar covers Electric- and Grass-types for them. Vaporeon is a particularly good partner, as it can provide Wish support and is also immune to Water-type moves thanks to its Water Absorb ability. Special walls, such as Blissey and Umbreon, complement Gligar's natural physical bulk with their natural special bulk. Both also provide Heal Bell and Wish support, increasing Gligar's longevity. This set tends to shine on balanced teams that can afford having to cover weaknesses to Water- and Ice-type moves and need a solid Defogger that isn't weak to Electric or Rock.
 
 Other Options
 ########
 
-Aerial Ace allows Gligar to deal massive damage to Chesnaught although it isn't very offensively inclined and Aerial Ace isn't that strong, but it is a decent STAB attack. A Baton Pass set with Agility or Swords Dance can be used. Taunt is another nice option, as it shuts down slower Pokemon and walls. Counter is also an interesting option that can be run on Gligar for surprising physical attackers. RestTalk can also be used to get rid of status, although it's not very reliable.
+Swords Dance + Baton Pass is a viable strategy for Gligar, as Gligar's typing, coupled with Eviolite, allows it to take hits fairly easily, set up, pass +2 attack to a teammate. Although Gligar is bulky enough to take repeated hits, Baton Pass in itself is a niche strategy. Taunt can be used with a faster EV spread, as Gligar outspeeds a lot of walls and can easily force them out after it used Taunt. Toxic + Immunity can be used to outstall a lot of Pokemon, as with Immunity, a burn is the only status effect that can wear Gligar down, and Toxic puts the foe on a turn-by-turn timer. Knock Off cripples other walls that may switch into Gligar. Acrobatics can be used in place of Earthquake to check Swords Dance Heracross better, as it tends use Knock Off or Swords Dance when facing Gligar.
 
 Checks & Counters
 ########
 
-**Bulky Water-types**: Bulky Water-type Pokemon such as Suicune, Milotic, and Vaporeon take pitiful damage from Gligar's moves and retaliate with a super effective Scald or Ice Beam.
+**Knock Off**: Knock Off is extremely common in the UU metagame, and as such, Gligar must be wary of losing its Eviolite, which highly compromises its bulk.
 
-**Special attackers**: Special attackers can direct their strong special attacks at Gligar and KO it. Pokemon such as Mismagius, Kyurem, and Starmie fall into this category.
+**Bulky Water-types**: Water-types such as Vaporeon are great switch-ins to Gligar, as they can not switch into any of Gligar's attacks, but also use their effective STAB moves with which to hit Gligar for great damage.
 
-**Taunt users**: Fast Taunt users can stop Gligar in its tracks and render it setup bait.
+**Setup Sweepers**: Most setup sweepers, such as Calm Mind Reuniclus, Calm Mind Cresselia, Hone Claws Mega Aerodactyl, and Dragon Dance Salamence, can easily set up on Gligar, especially if it lacks U-turn, as Gligar has poor offensive potential. Substitute setup sweepers in particular, such as Substitute + Calm Mind Suicune, give Gligar trouble, as its U-turn cannot break their Substitutes.
 
-**Crobat**: Crobat is immune to Toxic and Earthquake, while also having access to Taunt to shut down Gligar.
+**Status**: While it is immune to Thunder Wave, burns still cripple Gligar, putting it on a timer while weakening the power of its moves. Toxic can also hit non-Immunity variants of Gligar, pressuring it even more.
 
-**Shaymin**: Shaymin can get rid of the Toxic status thanks to Natural Cure and can threaten Gligar with a powerful Seed Flare or Hidden Power Ice.
-
-**Roserade**: Having a higher Special Attack than Shaymin, Roserade can hit Gligar hard with its Grass-type STAB. It takes decent damage from Earthquake and is also immune to Toxic.
-
-**Ice-type Pokemon and Moves**: Ice-type Pokemon or moves can easily force Gligar out because it has a quadruple weakness to it. Kyurem in particular can outspeed Gligar and OHKO with Ice Beam.
-
-**Xatu**: Xatu has the ability Magic Bounce, which allows it to deflect Stealth Rock, Toxic, and Taunt for its own use.
-
-**Porygon2**: Porygon2 takes any hit Gligar throws at it but has to be wary of Knock Off. It can also use its ability Trace to copy Immunity or KO with Ice Beam.
-
-**Knock Off users**: Knock Off removes Gligar's Eviolite and thus permanently hinders its ability to take hits.
+**Taunt**: Gligar is severly hampered by Taunt, and there are many faster Taunt users in UU, such as Krookodile, Crobat, and Mega Aerodactyl.

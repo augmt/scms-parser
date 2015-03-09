@@ -1,44 +1,34 @@
 Overview
 ########
+Hydreigon's high base Special Attack and good overall stats are part of what makes it an important threat in the UnderUsed metagame. Hydreigon's typing gives it almost perfect neutral coverage with its STAB moves; the only type that resists both is Fairy. Defensively, Hydreigon's typing has some great resistances and, taking Levitate into consideration, two immunities. Hydreigon's movepool is simply fantastic, which makes it a really versatile threat. However, Hydreigon's weakness to Fighting- and Bug-type attacks, both of which are common in UnderUsed, and the fact its base 98 Speed isn't that great, make it hard for Hydreigon to deal with offensive teams.
 
-Hydreigon can utilize its amazing offensive stats and STAB moves to wreak havoc, while its giant movepool takes care of its few would-be counters. The buff to the Dark-type also helped immensely because there are now fewer Pokemon that resist Hydreigon's STAB Dark-type moves.
-
-However, Fairy-types, which Hydreigon is 4x weak to, limit its capabilities, so it has even more weaknesses besides the common attacking types, Fighting and Bug. Its Speed can sometimes also be underwhelming, being outsped by the many Pokemon that have base 100 Speed and higher; many of the Pokemon in that Speed tier, such as Infernape and Mienshao, are able to KO it. However, if you play Hydreigon to its strengths, it can be one of the deadliest Pokemon in the tier.
-
-
-Life Orb
+Wallbreaker
 ########
-name: Life Orb
+name: Wallbreaker
 move 1: Draco Meteor
 move 2: Dark Pulse
-move 3: Iron Tail / Roost
-move 4: Superpower / Roost
+move 3: Superpower / Fire Blast
+move 4: Roost / Iron Tail
 ability: Levitate
 item: Life Orb
-evs: 56 Atk / 200 SpA / 252 Spe
-nature: Naive / Hasty
+evs: 4 Atk / 252 SpA / 252 Spe
+nature: Hasty / Timid
 
 Moves
 ========
-
-Slap a Life Orb on Hydreigon, and Draco Meteor becomes a nuke that will decimate everything that's not a Fairy-type, a Steel-type, or Blissey. Dark Pulse hits Jirachi if it switches into Draco Meteor and it does a good chunk to Mega Aggron as well. Iron Tail and Superpower are coverage moves to hit Fairy-types and Blissey, respectively. Roost is an alternative if you want Hydreigon to have recovery and don't need the coverage move as much because you have the threats covered.
-
+Draco Meteor hits most Pokemon incredibly hard and not many foes resist it, making it a great opening move for this set. Dark Pulse allows Hydreigon to hit Steel-type Pokemon that resist Draco Meteor, especially Bronzong, for good damage and also has decent super effective coverage. Superpower allows Hydreigon to threaten Blissey, Empoleon, Snorlax, and Umbreon with a potential KO after hitting them with Draco Meteor. Fire Blast hits Steel-type Pokemon for super effective damage, making it useful on sets without Dark Pulse, and also allows Hydreigon to hit bulky Grass-type Pokemon for massive damage without relying on Draco Meteor. Roost gives Hydreigon more longevity and helps it deal with Life Orb recoil. Iron Tail allows Hydreigon to 2HKO Florges and other less common Fairy-type Pokemon, which would easily wall this set. Flash Cannon can be used because it has 100% accuracy and hits Fairy-types not called Florges harder than Iron Tail; however, it won't 2HKO Florges without some prior damage.
 
 Set Details
 ========
-
-The Attack EVs should only be used if Hydreigon is running Superpower so it can 2HKO Blissey after Stealth Rock damage, but if it's not using Superpower, feel free to shove the EVs into Special Attack. Maximum Speed investment with a Naive nature allows Hydreigon to outspeed Haxorus before a boost, and the rest of the EVs are pumped in Special Attack to hit as hard as possible with its STAB moves. A Hasty nature can be used to allow Hydreigon to take special hits slightly better, but a Naive nature is preferred for taking priority moves.
+The listed EVs maximize Hydreigon's Special Attack and Speed. A Hasty nature is needed to outspeed Pokemon such as Haxorus, Lucario, and Roserade and to not Speed tie with base 85 Speed Pokemon running a positive nature. 4 Attack EVs make Superpower and Iron Tail slightly stronger. If no physical move is being used, Timid is the preferred nature, and the 4 remaining EVs should be put in Special Defense to prevent Download users from getting a Special Attack boost. Life Orb is the only item this set should run; otherwise it struggles to 2HKO some walls.
 
 Usage Tips
 ========
-
-This Hydreigon set excels at punching holes in the opposing team. It appreciates a U-turn or Volt Switch user that can safely bring it in to launch a big hit, and a pivot such as Jirachi that it can fall back to when it is forced out. This set is usually best used on more offensive teams, because it provides a lot of important resistances to Psychic, Dark, Fire, Electric, and Water as an offensive Pokemon. Most of the time it will be spamming Draco Meteor, but if the opponent has a solid counter to the Choice Scarf set, which most people expect, such as Blissey or Florges, try not to reveal the item and lure them out so Hydreigon can hit them hard with Superpower or Iron Tail respectively.
+More often than not, starting with Draco Meteor is the best option. Exceptions are if there's a Fairy-type Pokemon or a bulky Steel-type Pokemon in the opponent's team; in those cases, prediction could be used to 2HKO them if they switch in. This set should be used early- or mid-game to weaken the opposing team and allow a different Pokemon to do the sweeping. Hydreigon isn't frail, but it isn't particularly bulky either. Don't play Hydreigon recklessly, and try to avoid taking any unnecessary hits, as otherwise it can be worn down fairly quickly.
 
 Team Options
 ========
-
-Jirachi is a good partner, as it can bring in Hydreigon safely with a U-turn and it can beat the Fairies it struggles against. Darmanitan can beat Hydreigon's enemies and pivot with U-turn as well, but has a harder time coming in. Florges switches into Bug-, Fighting-, and Dragon-type moves and can pass Wishes and heal status to keep Hydreigon healthy.
-
+Entry hazard support is extremely important, as it helps Hydreigon get some important 2HKOs against some walls, such as Blissey and Umbreon, and helps it wear down the opponent's team. Pokemon such as Mega Aggron, Empoleon, and Roserade can set up entry hazards, and they can deal with Fairy-type Pokemon that might give Hydreigon problems. Pokemon that can deal with fast revenge killers or priority users, such as Crobat and Mega Aggron, help Hydreigon stay alive longer. Sweepers that can take advatange of Hydreigon's wallbreaking capabilities, such as Mega Pidgeot and Kingdra, are good partners.
 
 Choice Scarf
 ########
@@ -50,41 +40,68 @@ move 4: U-turn
 ability: Levitate
 item: Choice Scarf
 evs: 252 SpA / 4 SpD / 252 Spe
-nature: Timid / Modest
+nature: Timid
 
 Moves
 ========
-
-Choice Scarf Hydreigon has a powerful STAB Draco Meteor coming from a base 125 Special Attack, which allows it to revenge kill a variety of threats. Dark Pulse is a secondary STAB move that is more reliable and hits Psychic-types. Fire Blast is the preferred option in the third slot to hit Lucario and other Steel-types, but Dragon Pulse is a more reliable secondary Dragon-type STAB move. U-turn is a very important move, as it allows Hydreigon to gain momentum when special walls and Fairies switch in.
+Draco Meteor is strong enough to OHKO most offensive threats that don't resist it, especially if Stealth Rock is on the opponent's side of the field, making it great for revenge killing. Dark Pulse is a secondary STAB attack, that allows Hydreigon to revenge kill or clean up late-game without Special Attack drops. Fire Blast hits Steel- and Grass-type Pokemon for good damage and is Hydreigon's best option against Pokemon such as Lucario and Whimsicott. Dragon Pulse can be used as another consistent STAB attack; however, it doesn't give Hydreigon any useful coverage. U-turn is a good way of gaining momentum and does chip damage to potential switch-ins.
 
 Set Details
 ========
-
-The spread is standard for a special Choice Scarf user; maximum Speed and Special Attack investment. Timid is the preferred nature because you want to outspeed as many Pokemon as possible and Speed tie with opposing Choice Scarf Hydreigon. Modest gives Hydreigon a nice power boost and allows it to KO Nidoking after Stealth Rock damage.
-
+The given EVs maximize Hydreigon's Special Attack and Speed. 4 EVs in Special Defense prevent it from giving a Special Attack boost to Download users. A Timid nature with a Choice Scarf is needed to be able to outspeed every unboosted Pokemon in the tier, as well as Choice Scarf users such as Darmanitan and Krookodile.
 
 Usage Tips
 ========
+This set only really works as a revenge killer and late-game cleaner, as it lacks the power to fulfill any other role. Hydreigon's U-turn might be weak, but it is still a great spammable move because it steals momentum from the opponent if they decide to switch out.
 
-Choice Scarf Hydreigon can be used on any type of team as a revenge killer because of its great typing, both offensively and defensively. There is honestly no drawback to using it on your team. Early-game, it should be used to scout and wear down the opposing team with U-turn and dropping a Draco Meteor or two, but during late-game, Hydreigon shines, being able to clean a weakened team with its powerful STAB moves.
+Team Options
+========
+Hydreigon appreciates entry hazard support, especially Stealth Rock, because it needs it to be able to OHKO Pokemon such as Mega Aerodactyl and Mega Pidgeot. This set is really vulnerable to Fairy-types, making Pokemon such as Mega Aggron and Empoleon great partners, thanks to their ability to effortlessly switch into Fairy-type Pokemon and set up Stealth Rock. Strong physical attackers, such as Heracross and Infernape, can be used to take advantage of special walls trying to beat Hydreigon.
+
+Stallbreaker
+########
+name: Stallbreaker
+move 1: Taunt
+move 2: Roost
+move 3: Dark Pulse
+move 4: Dragon Pulse / Fire Blast
+ability: Levitate
+item: Life Orb / Leftovers
+evs: 252 SpA / 4 SpD / 252 Spe
+nature: Timid
+
+Moves
+========
+Taunt allows Hydreigon to shut down most specially defensive Pokemon that try to counter it, such as Umbreon, Blissey, Vaporeon, and specially defensive Hippowdon. It also allows Hydreigon to act as a stallbreaker and stop some entry hazard setters, such as Tentacruel and Swampert. Roost helps Hydreigon stay healthy, which means the aforementioned walls are not able to wear it down after being Taunted. Dark Pulse is Hydreigon's main attack move because it has great neutral coverage and a 20% flinch chance, which makes it extremely spammable. Dragon Pulse is slightly stronger than Dark Pulse, which is helpful for wearing down most Pokemon. Fire Blast OHKOes Whimsicott, which is otherwise a big problem for this set, and also allows Hydreigon to OHKO Chesnaught and Forretress. Draco Meteor can be used to do huge immediate damage, because Dark Pulse already provides a consistent STAB attack without drawbacks.
+
+Set Details
+========
+The given EV spread maximizes Hydreigon's Special Attack and Speed, while 4 EVs in Special Defense prevent Download users from getting a Special Attack boost. A Timid nature is needed to be able to outspeed Pokemon such as Haxorus, Krookodile, and Roserade. Life Orb helps Hydreigon wear down walls significantly faster, as well as making it a much bigger offensive threat in general. However, Leftovers is an option because it makes Hydreigon much harder to wear down, which helps it deal with Scald users, such as Suicune and Vaporeon.
+
+Usage Tips
+========
+This set is pretty straightforward. Attack the opponent's team until you need to use Taunt to shut down a wall. Counting Taunt turns is a must, because if Hydreigon is at low health the turn its effect ends, the foe might be able to cripple Hydreigon or heal if you decide to Roost, and if you don't, Hydreigon might faint.
 
 Team Options
 ========
 
-Hydreigon is the easiest Pokemon to make a U-turn core with, so Crobat, Jirachi, and Darmanitan all work. They also help Hydreigon take out Fairies, which completely wall it. Although Fairies are Hydreigon's biggest enemy, they are also great partners. They resist Dragon-, Bug-, and Fighting-type moves, which Hydreigon is weak to, so it doesn't have to worry about opposing Hydreigon, faster U-turn users, and Choice Scarf Mienshao. Froslass, Roserade, and Nidoqueen are useful for setting up hazards that weaken the opposing team enough so Hydreigon can get the KOs much more easily.
-
+Entry hazard support is extremely important for this set, because it forces a huge amount of switches and helps Hydreigon wear down the opponent's team. Toxic Spikes deserve a special mention because they make Hydreigon's job significantly easier. Pokemon such as Mega Aggron and Roserade are great partners, because they can deal with Fairy-type Pokemon and set up entry hazards. Special sweepers, such as Kingdra and Mega Pidgeot, appreciate Hydreigon's ability to wear down walls that give them trouble.
 
 Other Options
 ########
 
-Hydreigon can utilize Choice Specs to make the most of its great Special Attack stat, but being locked into Dragon- and Dark-type moves isn't the greatest thing in a metagame where Fairies run rampant. With the combination of Scope Lens and Focus Energy, Hydreigon can use a similar set to the infamous Critdra. It can opt for some interesting support moves such as Toxic, Taunt, Tailwind, and Thunder Wave, but it's usually better off using strong attacks. Choice Band Hydreigon can catch its usual counters off-guard by hitting much harder on the physical side.
-
+Hydreigon can run Choice Specs to hit significantly harder; however, it can't fully take advantage of its coverage without Life Orb. A Choice Band set, with moves such as Outrage, Superpower, Iron Tail, and U-turn, can be used to lure in and beat special walls, but it is too reliant on surprise factor and prediction. Substitute and Roost can be used on the same set to utilize Hydreigon's bulk and typing to set up, but it struggles to break through dedicated special walls. Hydreigon has some less effective coverage moves it can use instead of the ones suggested in the sets, such as Surf, Focus Blast, and Earth Power. It can boost its Attack and Special Attack with Work Up, but that usually is not worth the effort, because the boost isn't significant and Hydreigon isn't particularly hard to revenge kill.
 
 Checks & Counters
 ########
 
-**Fairy-types**: Florges, Granbull, and Aromatisse can all switch into Hydreigon's STAB moves with their excellent bulk. Granbull completely walls Hydreigon, as it can use Intimidate to weaken Iron Tail from the mixed set.
+**Porygon2**: No combination of Hydreigon's moves 2HKOes specially defensive Porygon2, and Ice Beam and Tri Attack allow Porygon2 to beat Taunt sets.
 
-**Fighting-types**: Choice Scarf Mienshao can revenge kill any kind of Hydreigon. Assault Vest Machamp can switch into Choice Scarf Hydreigon and hit it with Dynamic Punch or Close Combat, while Lucario can switch once into a scarfed Draco Meteor or Dark Pulse once and set up or use Close Combat.
+**Fairy-types**: Fairy-type Pokemon resist both of Hydreigon's STAB moves, and Florges and Aromatisse are bulky enough to not be threatened by Fire Blast. Only the wallbreaker set is able to threaten them if running Steel-type coverage. Iron Tail hits Florges significantly harder than Flash Cannon, but Flash Cannon is better against Aromatisse and Granbull, and the latter doesn't handle Life Orb-boosted Dark Pulse or Fire Blast very well.
 
-**Special Walls**: Blissey and Umbreon easily wall the Choice Scarf set because of their high Special Defense and HP stat. They have to be careful around the mixed set, however, as one well-timed Superpower could spell doom for them.
+**Specially Bulky Water-type Pokemon**: Vaporeon, Milotic, and Suicune can deal with wallbreaker and Choice Scarf sets. However, without Ice Beam, they all lose to Taunt Hydreigon. Empoleon is similar to the other bulky Water-types, but Superpower from the wallbreaker set can KO after using any other move to wear Empoleon down.
+
+**Specially Defensive Hippowdon**: Hippowdon can stall out the wallbreaker set with Slack Off as long as it doesn't switch into Dark Pulse, because that move followed by a Draco Meteor can KO with good damage rolls. The Choice Scarf set is completely walled by Hippowdon, whereas the Taunt set shuts Hippowdon down, but with Ice Fang it does enough damage to force Hydreigon to heal constantly.
+
+**Faster Pokemon**: Faster Pokemon that can OHKO Hydreigon, such as Infernape and Salamence, can easily revenge kill it. However, the Choice Scarf set is faster than everything but other Choice Scarf users.
+

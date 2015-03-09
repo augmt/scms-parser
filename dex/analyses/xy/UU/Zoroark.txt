@@ -1,15 +1,111 @@
 Overview
 ########
 
-Not even a drop to RU can deter Zoroark from doing what it does best, causing mischief and tricking its opponents with its signature ability, Illusion. Illusion allows Zoroark to masquerade as teammates available in the party until it's directly damaged, which causes Zoroark to be revealed. This gives Zoroark a great niche for psyching opponents out and hit-and-run attacks. In addition to its ability, Zoroark comes with amazing Attack, Special Attack, and Speed. Zoroark's access to Swords Dance and Nasty Plot, as well as a fairly large variety of moves, give it another layer of unpredictability as opponents will be questioning whether it is a physical, special, or even mixed attacker. However, even with the access to several boosting moves, Zoroark is overshadowed by Mega Absol, which’s a physical attacker, and Mega Houndoom, which’s a special attacker. Zoroark also suffers from its low defenses which cause it to be hard to preserve in battle. Although Illusion can disguise Zoroark as its teammate, it can still be easily identified if entry hazards are set. The residual damage causes opponents to notice the difference in HP between Zoroark and the Pokemon it copies. This also makes it harder for Zoroark to remain effective mid- and late-game as its disguises can be figured out. Poor planning will result in Zoroark getting KOed as well. Zoroark also struggles against three common weaknesses; Bug-, Fighting-, and Fairy-types should all be avoided.
+Zoroark has a decent signature ability in Illusion, which allows it to play mind games with opponents, though Zoroark's frailty limits its usability. Zoroark also has great mixed offenses and a decent movepool with moves such as Swords Dance and Nasty Plot. Furthermore, Zoroark has a good Speed tier which allows it to outspeed and beat Pokemon such as Chandelure. However, Zoroark is quite frail, meaning it can easily be revenge killed, and it is also more or less walled and beaten by common Fighting- and Fairy-types. Furthermore, Zoroark faces competition from Hydreigon and Mega Houndoom as a mixed attacker, as they have better movepools and superior offenses, though Zoroark has higher Speed and access to Illusion. As a physical attacker, Zoroark faces competition from Mega Absol, which has better coverage and power; however, Zoroark's niche lies in Illusion and the fact that it does not take up a Mega slot.
+
+Choice Specs
+########
+name: Choice Specs
+move 1: Dark Pulse / Night Daze
+move 2: Focus Blast
+move 3: Trick
+move 4: Flamethrower / Grass Knot
+ability: Illusion
+item: Choice Specs
+evs: 252 SpA / 4 SpD / 252 Spe
+nature: Timid
+
+Moves
+========
+
+Dark Pulse is Zoroark's preferred STAB move because of its 100% accuracy and chance to make its target flinch, and unlike Night Daze, it doesn't reveal Zoroark's identity. However, Night Daze has more power and a good chance to drop its target's accuracy, though it ruins Zoroark's disguise. Focus Blast has great power and excellent coverage, allowing Zoroark to hit opposing Dark-types, which resist its STAB moves. Trick cripples defensive Pokemon, leaving them locked into a single move. Grass Knot hits heavy Pokemon quite hard, most notably Mega Swampert, Suicune, and Milotic. Flamethrower has decent power and coverage and hits Chesnaught, Forretress, and Roserade harder than Zoroark's other moves.
+
+Set Details
+========
+
+Illusion allows Zoroark to disguise itself as a teammate and trick opponents. Choice Specs gives an additional boost to Zoroark's Special Attack but locks it into a single move. Maximum Special Attack investment lets Zoroark hit as hard as possible. Maximum Speed investment and a Timid nature allow Zoroark to outspeed base 100s such as Shaymin and Speed tie with base 105s such as Mienshao.
+
+Usage Tips
+========
+
+When selecting the team order, try to select a Pokemon that has good type synergy with Zoroark in the last slot; this way, the opponent can be tricked into hitting Zoroark with a not very effective attack, giving Zoroark a free turn to attack the foe. This Zoroark can be used as a lead to cripple entry hazard setters with Trick. Trick can also be used to cripple a defensive Pokemon by locking it into a single move; for example, if the foe goes for Toxic, it will be locked into the move and forced to switch. Bringing Zoroark in with a slow U-turn or Volt Switch is good, as it is too frail to switch in on its own and does not want its Illusion to be broken immediately.
+
+Team Options
+========
+
+Pokemon that beat the Fighting-types that threaten Zoroark, such as Florges and Crobat, make for good partners. Pokemon that can beat Fairy-types for Zoroark, such as Nidoqueen, Crobat, and Mega Aggron, are also good choices. Pokemon that share good typing synergy and moves with Zoroark, such as Infernape, are useful to take advantage of Illusion. Entry hazard support from Pokemon such as Empoleon and Nidoqueen is appreciated in order to KO foes with more ease. Pokemon that can bring in Zoroark with a slow Volt Switch or U-turn, such as Forretress, are good teammates as well.
+
+Swords Dance
+########
+name: Swords Dance
+move 1: Swords Dance
+move 2: Sucker Punch
+move 3: Knock Off
+move 4: Low Kick / Return
+ability: Illusion
+item: Focus Sash / Life Orb
+evs: 252 Atk / 4 SpD / 252 Spe
+nature: Adamant / Jolly
+
+Moves
+========
+
+Swords Dance is Zoroark's boosting move, allowing it to boost its Attack to an insane level. Sucker Punch is a STAB attack with priority, letting Zoroark hit foes that would normally outspeed it. Knock Off is usually more powerful than Sucker Punch and also has the utility of removing the foe's item. Low Kick has great coverage and allows Zoroark to hit Mega Aggron, Empoleon, and Snorlax for super effective damage. Return has decent Base Power and lets Zoroark hit Fairy-types neutrally, which it can't do without it.
+
+Set Details
+========
+
+Illusion allows Zoroark to disguise itself as the last teammate in your party and trick opponents. Focus Sash ensures Zoroark can get a Swords Dance when at full health and allows it to play riskier by being able to hit with at least two attacks. Life Orb is a secondary option for an item for more raw power. Maximized Attack EVs are backed by an Adamant nature to ensure that Zoroark can KO Shaymin after Stealth Rock at +2 and have a chance to OHKO Krookodile at +1 . A Jolly nature can be used instead to outspeed maximum Speed Krookodile and Hydreigon.
+
+Usage Tips
+========
+
+Use Sucker Punch to pick off weakened Pokemon. Use Swords Dance on a forced switch or when you predict that the foe will use a not very effective attack because of Illusion. If you're unsure what to do, use Knock Off; it does good damage and most Pokemon do not appreciate having their item removed. Bringing Zoroark in with a slow Volt Switch or Baton Pass is a good idea; this way, Illusion and Focus Sash will stay intact.
+
+Team Options
+========
+
+Pokemon that can reliably take care of Fairy-types that wall this set, such as Nidoqueen, Mega Aggron, and Tentacruel, make for good partners. Physical wallbreakers such as Darmanitan, Krookodile, and Haxorus are good choices because of their ability to break through physical walls. Zoroark itself is a good wallbreaker for these teammates. Pokemon that can beat Fighting-types, such as Florges and Crobat, are good partners; the former can also provide Wish support to keep Zoroark healthy. Pokemon that have good type synergy with Zoroark, such as Weezing, are excellent partners too because they let Zoroark trick opponents with Illusion better. Entry hazard support from Pokemon such as Nidoqueen, Forretress, and Roserade is appreciated to give Zoroark an easier time KOing foes. Entry hazard removal from Pokemon such as Crobat and Mega Blastoise is good for Zoroark too, as hazards will break its Focus Sash. Slow momentum gainers such as Forretress and Umbreon are great teammates, as Zoroark will not like to switch in on its own.
+
+Nasty Plot
+########
+name: Nasty Plot
+move 1: Nasty Plot
+move 2: Dark Pulse
+move 3: Focus Blast
+move 4: Flamethrower / Grass Knot
+ability: Illusion
+item: Life Orb
+evs: 252 SpA / 4 SpD / 252 Spe
+nature: Timid
+
+Moves
+========
+
+Nasty Plot boosts Zoroark's Special Attack to massive levels. Dark Pulse is a STAB attack and is preferred over Night Daze for its accuracy, as the power difference doesn't matter here. Focus Blast has great Base Power and excellent coverage alongside Dark Pulse. Flamethrower can be used in the last slot to hit Chesnaught and other Grass-types harder, as well as several other Pokemon. Grass Knot can hit heavy targets such as Mega Swampert and Rhyperior quite hard and thus is an option too.
+
+Set Details
+========
+
+Illusion allows Zoroark to trick opponents by disguising itself as a teammate. Life Orb gives a power boost to each of Zoroark's damaging attacks, making them even more powerful. Maximized Special Attack increases Zoroark's damage output, and the Speed EVs along with a Timid nature allow Zoroark to outspeed maximum Speed base 100s such as Entei and Flygon.
+
+Usage Tips
+========
+
+Select Pokemon that have good synergy with Zoroark, such as Weezing or Lucario, in the last slot to let Zoroark benefit the most from its Illusion ability. This Zoroark can be used as a lead to set up on entry hazard setters. Nasty Plot should be used on a forced switch, as it will allow Zoroark to sweep. Zoroark should be brought in with a slow momentum-gaining move such as U-turn or Volt Switch, as it doesn't like taking an attack while switching in.
+
+Team Options
+========
+
+Pokemon that have good synergy with Zoroark allow for optimal use of Illusion, so they're good teammates. Weezing stands out, as it has perfect typing synergy with Zoroark. Zoroark is walled by Fairy-types, so Pokemon that beat them, such as Toxicroak and Mega Aggron, are excellent choices as well. Fighting-types such as Mienshao threaten Zoroark, so checks or counters to them, such as Florges and Alakazam, are nice teammates. Special attackers that can't set up on their own, such as Raikou and Shaymin, can take advantage of Zoroark breaking through special walls, so they are generally good partners. Entry hazard support from Pokemon such as Nidoqueen and Forretress is excellent to give Zoroark an easier time KOing foes. Entry hazards on your side limit Zoroark's longevity every time it switches in, so a teammate that can remove them, such as Flygon, is good. Slow momentum gainers such as Forretress are good, as they can provide a safe switch in for Zoroark.
 
 Mixed Attacker
 ########
 name: Mixed Attacker
-move 1: Knock Off
-move 2: Flamethrower
-move 3: Grass Knot
-move 4: Sucker Punch
+move 1: Sucker Punch
+move 2: Knock Off
+move 3: Low Kick
+move 4: Flamethrower / Grass Knot
 ability: Illusion
 item: Life Orb
 evs: 196 Atk / 96 SpA / 216 Spe
@@ -18,68 +114,35 @@ nature: Naive
 Moves
 ========
 
-With investment in both Attack and Special Attack, Zoroark can utilize Knock Off for great damage against opponents as well as getting rid of Choice items, Berries, and Assault Vests. Flamethrower gives Zoroark coverage against Bug- and Steel-types such as Forretress and Aggron. Grass Knot can OHKO Mega Blastoise, Swampert, and 2HKO Suicune. Lastly, Sucker Punch is Zoroark's priority move which allows it to take out weaker Pokemon and also outspeed faster opponents.
+Sucker Punch is a priority move that packs good power and is boosted by STAB. Knock Off is a powerful attack that has the utility of removing foes' items. Low Kick heavily damages Pokemon such as Blissey, Snorlax, and Hydreigon, which would otherwise wall this set. Flamethrower hits several Pokemon for super effective damage. Grass Knot hits heavy Pokemon very hard and has decent coverage, but it can be very weak against lightweight foes.
 
 Set Details
 ========
 
-With a spread of 196 Atk / 96 SpA / 216 Spe, it is easy for Zoroark to KO specially defensive Swampert or Rhyperior with a simple Grass Knot. A Hasty nature maximizes Zoroark's Speed. Furthermore, Life Orb allows Zoroark to dish out more damage against foes but at the cost of some recoil.
+Illusion can help Zoroark trick opposing players by disguising it as one of its teammates. Life Orb gives a boost to all of Zoroark's damaging attacks. The given spread boosts Zoroark's offenses and allows it to OHKO Mega Swampert and Rhyperior with Grass Knot. The Speed EVs are furthered by a Naive nature, allowing Zoroark to outrun maximum Speed base 100s such as Shaymin and Entei.
 
 Usage Tips
 ========
 
-Zoroark works best as a hit-and-run mixed attacker. It can work well as a revenge killer or can come in on a weakened Pokemon and finish it off with a Sucker Punch. It's best to have Zoroark disguised as teammates that can use Flamethrower and Knock Off, as this ensures that Zoroark can trick its opponents with Illusion. It's recommended that you plan ahead and organize teammates during the team preview according to what you want to masquerade Zoroark as. Determining what Pokemon goes first and what Pokemon goes last makes a difference in the battle to trick opponents.
+This Zoroark can be used as a revenge killer because of its good offensive stats and Speed. It's useful to disguise Zoroark as a teammate with the same move choices and preferably good typing to optimize Illusion's use. Use Knock Off if unsure what the foe's going to do, because most Pokemon do not appreciate having their item removed. Zoroark can also come in to pick off a weakened Pokemon with Sucker Punch after a teammate has fainted.
 
 Team Options
 ========
 
-Synergy is needed for Zoroark to be disguised well. Use moves that other teammates would use, such as disguising as a Fire-type such as Infernape that could use Fire Blast. Its also good to have Fighting-type teammates such as Mienshao and Infernape to be disguised as, because if the opponent attempts to attack them with Psychic-type moves, Zoroark can easily switch in for free. Having bulky teammates to take hits such as Florges are great to help Zoroark's longevity. Spinners are also necessary partners for Zoroark to prevent entry hazard damage. Mega Blastoise is a great partner for spinning away hazards, as are Forretress and Donphan.
-
-Choice Specs
-########
-name: Choice Specs
-move 1: Dark Pulse / Night Daze
-move 2: Focus Blast
-move 3: Flamethrower
-move 4: Trick
-item: Choice Specs
-evs: 252 SpA / 4 SpD / 252 Spe
-nature: Timid
-
-Moves
-========
-
-Dark Pulse gives Zoroark great neutral coverage and a 20% chance to flinch opponents, making it useful to prevent opponents from getting possible hits. It's also a great move to use while disguised as a Pokemon such as Lucario or Mega Blastoise. Alternatively, Night Daze can be used over Dark Pulse, sacrificing 5% accuracy for more power and a 40% chance to lower the opponent's accuracy. Bear in mind that while Night Daze is stronger, it is Zoroark's signature move, which might cause opponents to see through Illusion. Flamethrower gives Zoroark coverage against Bug- and Steel-types, taking Aggron and Forretress out quickly. Focus Blast is for coverage against Dark- and Steel-types such as Aggron and Houndoom. Additionally, Trick can be used to cripple walls such as Blissey and free Zoroark of its Choice Specs
-
-Set Details
-========
-
-Zoroark's Speed and Special Attack are boosted to allow it to revenge kill weaker opponents. A Timid nature boosts Zoroark's Speed to edge out any Choice Scarf users or fast Pokemon. Choice Specs allows Zoroark to demolish its competition with strong special attacks. U-turn can be considered in case Zoroark is dealing with bulky opponents such as Blissey or Florges that completely wall it. In addition to U-turn, Grass Knot can also be used to OHKO Rhyperior, Swampert, and deal significant damage to Mega Blastoise and Suicune.
-
-Usage Tips
-========
-
-Zoroark can lead well, but might be harder to use later if it's damaged, giving away Illusion. Later, you can Trick the Choice Specs off to mess opponents up if you want Zoroark to utilize all its moves. It's best to not have Zoroark switch in on an attack as this will most likely KO it or damage it, severely ruining its deception. In regards to Trick, it is usually best used on an entry hazard setter or a sweeper as it leaves them stuck with one move. Tricking a Pokemon that is setting up will usually mess the opponent up. Make sure to plan ahead of time and lay out the team for Zoroark to determine which team members it becomes.
-
-Team Options
-========
-
-Special walls such as Florges can tank hits and protect Zoroark from Fairy- and Fighting-types. Spinners such as Donphan and Forretress are also necessary to remove any entry hazards to prevent Zoroark from being exposed. Blastoise is a great team member for Zoroark because of its spinning capabilities and strong defenses. It's also best to have different Pokemon to masquerade as, having a variety of teammates allows Zoroark to blend in well. Zoroark can pretend to be an Infernape, as both of them can use Focus Blast. If the opponent switches, you can predict what they will use to counter the Illusion with another move. Chandelure is also a great partner to have; both Zoroark and it can use Flamethrower. Chandelure's typing means opponents will not likely use Fighting-type attacks against a Zoroark disguised as it.
+Pokemon with the same movepool options or good typing synergy are good partners for Zoroark. Pokemon that beat the Fighting-types that can easily beat Zoroark, such as Noivern and Florges, are nice teammates. Fairy-types threaten this set, so Poison- or Steel-types such as Mega Aggron, Toxicroak, and Escavalier are good choices. Entry hazard removal is useful for keeping Zoroark healthy, as it cannot recover the damage taken. Slow momentum gainers such as Forretress and Vaporeon can grant Zoroark a safe switch in, which is good.
 
 Other Options
 ########
 
-Zoroark can work as an anti-lead as well because of its access to Memento, Counter, and a Focus Sash. Zoroark can take a hit with Counter, and hang on with its Focus Sash. After this, Zoroark can either use Sucker Punch or go straight for Memento, which leaves the opponents Pokemon as set up bait. Zoroark can also Taunt entry hazard setters or Taunt users themselves, allowing Zoroark's team to set up. Zoroark can also use Choice Band for a physical set. Choice Band lets Zoroark hit like a truck, allowing it to break walls. In addition, Zoroark can also run a Choice Scarf to outspeed faster opponents such as Mienshao, Infernape, and Cobalion. Alternatively, it can also run Swords Dance as a physical sweeper with Knock Off, Return, Low Kick, and Sucker Punch. This Zoroark can take out special walls such as Blissey and can also take out other Pokemon with frail defenses as well however this set is outclassed by Mega Absol, so its worth taking into account. Zoroark can also run Nasty Plot, with Flamethrower, Focus Blast, and Dark Pulse as a special set up sweeper as well. However as with the Swords Dance set, it is also overshadowed by Mega Houndoom which is faster and has stronger stats with a Nasty Plot boost.
+U-turn can be used to let Zoroark gain momentum and switch out of its checks and counters, but it forces Zoroark to miss out on a coverage move. Taunt can cripple defensive Pokemon but is better used by bulkier Pokemon such as Crobat. An anti-lead set with Focus Sash and moves such as Counter can be used, but it is waste of Zoroark's excellent offensive stats. Pursuit can be used to trap opposing Ghost- and Psychic-types, but Zoroark lacks room for it and it isn't really powerful. Extrasensory is an option to hit Fighting-types for super effective damage, but it lacks power and good coverage. Lastly, Memento can be an option to give setup sweepers an easier time setting up, but this wastes Zoroark's offensive potential.
 
 Checks & Counters
 ########
 
-**Fairy-types**: Florges and Aromatisse are deadly against Zoroark. Florges can essentially wall Zoroark, and Zoroark can't harm Florges because of Florges's resistance to Dark-type moves and its great bulk. Aromatisse can wall Zoroark to a lesser extent.
+**Fairy-types**: Fairy-types such as Florges, Aromatisse, and Whimsicott can take Zoroark's hits and beat it with a STAB attack. Whimsicott has to be wary of Flamethrower, however.
 
-**Priority Moves**: Priority is Zoroark's worst nightmare, as getting hit causes Illusion to fail. Mach Punch, Bullet Punch, and Sucker Punch should all be avoided; Mach Punch is even more dangerous and should be avoided at all costs. Hitmonlee and Infernape can 2HKO a physically defensive Zoroark with Mach Punch.
+**Fighting-types**: Fighting-types such as Mienshao, Infernape, and Machamp can easily take out Zoroark with a powerful STAB attack. 
 
-**Bulky Pokemon**: Blastoise can take Zoroark on, thanks to its bulk. Blissey is also a huge problem because of its resilient Special Defense. Because Zoroark is a faster paced Pokemon, it has a hard time dealing with slower, bulkier opponents that can Toxic stall.
+**Faster Offensive Pokemon**: Faster offensive Pokemon such as Crobat and Speed Boost Yanmega can outspeed Zoroark and beat it.
 
-**Fighting-types**: Cobalion and Choice Scarf Mienshao have no problem taking out Zoroark as they outspeed it. Infernape can also take Zoroark out with relative ease. Machamp can tank a hit from Zoroark and OHKO with Dynamic Punch.
-
-**Entry Hazards **: Entry hazards such as Stealth Rock will cause opponents to catch onto Illusion, as a Zoroark disguised as a Flying-type won't take double damage like it's supposed to. Forretress is a great entry hazard user, and Donphan can work as well. Toxic Spikes can give away a Zoroark completely; Illusion can't always trick people the way it's supposed to, so paying attention to the battle can give away Zoroark.
+**Priority Attacks**: Because of Zoroark's pitiful bulk, any powerful priority attack, such as Lucario's Extreme Speed, can beat Zoroark.

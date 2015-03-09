@@ -1,0 +1,59 @@
+Overview
+########
+Lanturn's coveted resistances to common offensive types such as Fire, Flying, Ice, and Water, as well as an immunity to Electric, grant it the unique ability to wall powerful threats such as Moltres, Magneton, Fletchinder, and Emboar. Its slow Volt Switch allows frailer teammates to switch in without fear of attack, and on top of this, Lanturn packs STAB Scald to ward off Ground-types that may want to block Volt Switch or even just physical attackers that may want to set up on it. Lanturn can further support its team with Heal Bell, and unlike other clerics such as Aromatisse, it does not necessarily sacrifice momentum to do so.
+
+That said, Lanturn is held back by middling Special Attack and Defense stats. It is very easily worn down due to its lack of recovery and vulnerability to all forms of entry hazards, as it is generally needed to switch into dangerous threats constantly. It is a bit of a liability against Grass-type threats, such as Virizion and Shiftry, and is particularly susceptible to Dugtrio. This can be an issue because one of the threats Lanturn is supposed to wall, Moltres, can use U-turn to get Dugtrio in safely.
+
+Pivot
+########
+name: Pivot
+move 1: Volt Switch
+move 2: Scald
+move 3: Protect
+move 4: Heal Bell / Toxic
+ability: Volt Absorb
+item: Leftovers
+evs: 104 HP / 192 Def / 212 SpD
+nature: Calm
+
+Moves
+========
+
+Volt Switch is the main draw of using Lanturn. Lanturn forces many switches and can gain momentum with Volt Switch, and because of its low Speed, it is often able to allow a teammate to come in unscathed even if the opponent does not switch. Its second move, Scald, is highly threatening to Fire-types, such as Moltres. Very few Pokemon are willing to switch into Scald due to its burn chance, and it also deters Ground-types that may want to block Volt Switch. Protect allows Lanturn to secure Leftovers recovery, which is important because Lanturn often must take many attacks over the course of a battle and has no other recovery of its own. It also incurs possible burn or poison damage inflicted on Lanturn's foes and scouts for attacks, which is especially useful against enemies holding Choice items. Heal Bell removes any status conditions Lanturn's teammates have incurred, but if the team does not require a cleric or already carries another one, Lanturn can use Toxic to wear down bulky foes that are not immediately threatened by Lanturn's attacks, such as Slowking. Thunder Wave is another option, crippling fast offensive Pokemon and supporting Lanturn's slower teammates, but be advised that Lanturn personally cannot take advantage of paralysis, as it prefers having a slow Volt Switch and relies somewhat on residual burn or poison damage.
+
+Set Details
+========
+
+Volt Absorb is preferred over Water Absorb because Lanturn already packs a resistance to Water, while it is otherwise neutrally hit by Electric; furthermore, Volt Absorb allows Lanturn to block enemy Volt Switches. Leftovers regenerates Lanturn's health passively, which is crucial, as Lanturn possesses no recovery of its own. Lanturn's EV spread is flexible and can be adjusted to suit your team's needs; you can opt for a more physically defensive spread or a more specially defensive spread. The suggested EV spread aims to maximize Lanturn's overall defenses while minimizing residual damage, with a bias towards Special Defense, as Lanturn primarily takes special attacks. A slightly more physically defensive spread of 104 HP / 224 Def / 180 SpD with a Calm nature can be used so that Lanturn can take certain attacks better, such as Psyshock, U-turn, Houndoom's Crunch, Emboar's Flare Blitz, or Fletchinder's Acrobatics, though this comes at the cost of some Special Defense. Such a spread also ensures that Lanturn always survives Life Orb Dugtrio's Earthquake when at full health. Dropping Lanturn's Speed IV to 26 allows minimum Speed Alomomola to outspeed Lanturn so that Lanturn's Volt Switch brings in a teammate unscathed.
+
+Usage Tips
+========
+
+Lanturn is a great switch-in to special attackers whose moves it resists, such as Moltres, Magneton, Clawitzer, and offensive Jolteon. It is not incredibly physically bulky, however, so while you shouldn't hesitate to switch it into Fletchinder, whose attacks Lanturn generally resists, be careful when switching Lanturn into powerful wallbreakers such as Emboar. Take advantage of Lanturn's ability to wall and force out many Pokemon by using Volt Switch to set up an advantageous matchup, but don't use Volt Switch blindly against teams with Pokemon immune to Electric. You may want to anticipate Ground-types such as Dugtrio and Scald them, for instance. Lastly, if Lanturn is slower than a certain Pokemon that does not threaten it at all (such as Alomomola, which might hit your other team members with a Scald burn or Toxic) you may want to switch in Lanturn so you can then Volt Switch out to another Pokemon safely.
+
+Team Options
+========
+
+As Lanturn is mostly a support Pokemon itself, it generally does not require too much support. It should be coupled with Pokemon that appreciate the free switches Lanturn's slow Volt Switch provides, Pokemon that despise status, such as Cresselia, or Pokemon that rely on Rest for recovery, such as Curse Registeel. Lanturn personally hates Toxic Spikes and Spikes-stacking in general, so some entry hazard control is advised, especially paired with grounded Poison-types. Furthermore, it can create VoltTurn chains with teammates that possess U-turn or Volt Switch of their own, including Moltres, Meloetta, or Rotom-C. As Lanturn is easily worn down, it appreciates Wish support on more defensive teams, although be wary of using Alomomola due to redundancy in its role and typing. In addition to Wish, Aromatisse can use Heal Bell, taking pressure off of Lanturn and freeing up a moveslot for it to use Toxic. One particularly good teammate for Lanturn is Golbat, which can handle Grass-types, Defog away entry hazards, and if necessary, continue a U-turn chain. It is also immune to Ground-type attacks, which Lanturn is weak to, but it should not switch directly into Rhyperior.
+
+Other Options
+########
+
+Thunderbolt and Discharge have some merit as STAB Electric-type attacks that do not force Lanturn to switch out. Substitute and Charge Beam can take advantage of slower teams and boost Lanturn's Special Attack, but this set would be less than useful against offensive teams. Rest and Sleep Talk alleviate some of Lanturn's issues with recovery and status, but such a set is inherently unreliable. Ice Beam is one of Lanturn's more threatening options against Grass-types such as Rotom-C and Tangrowth, though it's generally weak against targets that are hit neutrally. Choice Specs gives Lanturn some extra power behind its attacks. Confuse Ray in conjunction with paralysis can force damaging switches when coupled with Spikes-stacking. An Agility set can sweep extremely frail teams late-game.
+
+Checks & Counters
+########
+
+**Gastrodon and Seismitoad**: Though they don't appreciate Toxic, Gastrodon and Seismitoad can block Volt Switch and are immune to Scald. They can use these free turns to Recover, spread status, set up Stealth Rock, or remove items from Lanturn and its teammates.
+
+**Grass-types**: Though they are usually susceptible to Scald burns, Grass-types such as Shiftry, Rotom-C, and Tangrowth resist both of Lanturn's STABs and can hit hard back. Virizion can even threaten to set up on Lanturn.
+
+**Druddigon**: Druddigon is one of the most threatening Pokemon that Lanturn does not significantly threaten. While Lanturn can potentially burn it with Scald, Druddigon does not otherwise mind switching into anything Lanturn uses and can use the turns to fire off powerful attacks or set up Stealth Rock.
+
+**Dugtrio**: If Dugtrio is given a free switchin, such as through Moltres's U-turn, it can trap and dispatch of Lanturn, though of course it does not want to switch into Lanturn's Scald. Dugtrio generally requires some prior damage in order to OHKO Lanturn.
+
+**Bulky Setup Sweepers**: As Lanturn lacks much offensive pressure, it risks giving free turns to Pokemon such as Curse Registeel or Calm Mind Reuniclus, Meloetta, and Cresselia. Slurpuff, while it is not as bulky and generally dislikes burns, can set up a game-ending Belly Drum if given just one free turn against Lanturn.
+
+**Bulky Support Pokemon**: Lanturn's poor offensive pressure also allows bulkier support Pokemon to take advantage of free turns. Aromatisse, for instance, is not threatened by Lanturn and can pass Wishes or cure its allies of status.
+
+**Strong Physical Attacks**: Lanturn relies on its typing and has middling physical defense, so it is generally vulnerable to strong attackers such as Pangoro, Tyrantrum or Life Orb Hitmonlee. It threatens most physical attackers with a Scald burn, however.

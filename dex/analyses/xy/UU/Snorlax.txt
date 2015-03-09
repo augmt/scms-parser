@@ -1,114 +1,120 @@
 Overview
 ########
 
-Snorlax's fantastic base 160 HP, great base 110 Special Defense, and strong base 110 Attack are what make it really shine. While its base 65 Defense isn't too great, Snorlax's enormous HP makes up for it. Moreover, Snorlax has a good defensive typing and a great ability in Thick Fat, which gives it resistances to Ice- and Fire-type moves. Snorlax also has a great movepool that includes moves such as Earthquake, Curse, the elemental punches, Whirlwind, Crunch, and Pursuit. Unfortunately, Snorlax is extremely slow, with only base 30 Speed. Snorlax is also crushed by common physical threats, particularly powerful Fighting-types such as Mienshao and Infernape.
+Snorlax is an underestimated Pokemon in the UnderUsed tier, and it can use this to its advantage as a fantastic win condition and slow wallbreaker. Base 160 HP and 110 Special Defense allow Snorlax to act as a sponge to many threats including Choice Specs Hydreigon. Access to Curse and Rest allows it to become one of the best win conditions in the game after Fighting-types have been dealt with. A great base 110 Attack is ideal for for a Choice Band set, while Assault Vest can be used a to maximize Snorlax's immediate bulk. A fantastic ability in Thick Fat allows it to take on Fire-type and Ice-type attacks with relative ease. Unfortunately, a subpar base 65 Defense stat means Snorlax sometimes needs to shift some EVs towards bulking it up against Pokemon such as Honchkrow or Crobat, and horrid base 30 Speed means you have to rely on sponge-and-attack tactics.
 
-CurseLax
+Curselax
 ########
-name: CurseLax
+name: Curselax
 move 1: Curse
-move 2: Body Slam
+move 2: Body Slam / Return
 move 3: Rest
-move 4: Crunch / Sleep Talk / Earthquake
+move 4: Sleep Talk / Earthquake / Crunch
 ability: Thick Fat
-evs: 144 HP / 188 Def / 176 SpD
 item: Leftovers
+evs: 144 HP / 188 Def / 176 SpD
 nature: Careful
 
 Moves
 ========
 
-Curse boosts Snorlax's Attack and Defense, turning it into a boosting tank. Snorlax can also perform a sweep after a few boosts late-game. Body Slam is preferred over Return on this set, as the chance for paralysis can aid in additional setup. Rest gives Snorlax the chance to heal status, recover HP, and continue setting up or coming in throughout the match. Crunch allows Snorlax to hit Cofagrigus and Sableye, both of which are a pain for it to deal with. Sleep Talk lets Snorlax spread paralysis even while asleep, making it less likely to become setup fodder for opposing Pokemon. Earthquake is an option to hit Steel- and Rock-types hard, as both resist Body Slam. Whirlwind can be used to let Snorlax phaze and cause entry hazard damage to accumulate on the other team.
+Curse sets up Snorlax for a sweep, increasing its Attack and Defense by a stage while lowering its Speed by a stage. Body Slam is Snorlax's primary STAB move with an added 30% chance to paralyze its target. Return is a slightly more powerful option that nabs more 2HKOs against slightly bulkier threats, such as Mega Blastoise, after one Curse boost. Rest provides Snorlax with reliable recovery, and allows it to remain as a win condition. Sleep Talk allows Snorlax to remove some disadvantage of the two-turn sleep by setting up more Curses or using Body Slams. Earthquake is ideal for Steel-types and can hit Ghost-types for neutral damage as well as Chandelure for super effective damage. Crunch targets Ghost-types, as they are immune to Snorlax's STAB moves.
 
 Set Details
 ========
 
-This is the classic CurseLax set that has been used since GSC. Thick Fat is the preferred ability due to the benefits of having two extra resistances; Immunity is useless, as Rest already cures Snorlax of all status. The EVs let Snorlax survive two Choice Band V-Creates from Jolly Victini after Stealth Rock. They also bolster Snorlax's Special Defense, letting it comfortably survive strong special attacks such as Hydreigon's Draco Meteor. Leftovers is the item of choice to provide Snorlax with additional recovery.
+Curselax's 144 HP / 188 Def EV investment is meant to turn it into a sponge against physical hits after a Curse, as well as let it survive a High Jump Kick from Choice Scarf Mienshao at +2. The remaining 176 Special Defense EVs and a Careful nature allow Curselax to also survive a 2HKO from Mega Blastoise's Aura Sphere. The mixed defensive spread is designed to take on countless other threats as well, including Raikou, Nidoqueen, and Nidoking. Leftovers is used for passive recovery and longevity. Chesto Berry is another option to work alongside Rest. Thick Fat is used to weaken Fire- and Ice-type attacks by 50%, giving Snorlax two added resistances.
 
 Usage Tips
 ========
 
-Use this set to wall most special attackers. At the beginning of the match, identify what stops Snorlax from setting up; this includes Pokemon with powerful Fighting-type moves, such as Infernape and Mienshao, and Pokemon with phazing moves. Figure out how to get rid of these Pokemon without weakening Snorlax. Also identify a Pokemon or two that Snorlax can set up on; anything that relies on Toxic or weak Special Attacks is included here. Try to keep Snorlax's HP topped off with Rest so that you can switch it in later in the match. Snorlax can also be used at multiple points throughout the game. For example, it might not sweep the first time it starts setting up Curse, instead luring out a Roar user and nailing it with a powerful attack. This would make way for Snorlax to come in later in the game and repeat the process.
+It's best to use Snorlax as a mid- and late-game win condition after its threats have been eliminated. Once the opponent sees Leftovers, they'll probably assume a Curse set. Snorlax cannot take on Fighting-types, such as Machamp and Mienshao, at +1 Defense, so it is very important to work around and KO these Fighting-types such that Snorlax has the opportunity to set up. For these reasons, it is generally unwise to use Snorlax as a lead. Snorlax beats almost all other boosting win conditions in the game due to its marvelous Special Defense. For example, CroCune and Substitute + Calm Mind Raikou cannot hope to beat Snorlax one-on-one.
 
 Team Options
 ========
 
-This variant of Snorlax needs something to deal with powerful Fighting-types, which will be able to KO it regardless of boosts. Florges is therefore a good teammate. Bulky Ghost-types also have good synergy with Snorlax, so something like Cofagrigus can work by burning threatening Fighting-types, allowing Snorlax to set up on them. CurseLax also works extremely well in conjunction with Toxic Spikes, which Poison-types such as Roserade can set up. Nidoqueen is also a great teammate, because she takes physical Fighting-type moves with ease and can set up both Toxic Spikes and Stealth Rock. Walls are the most likely to carry a phazing move, so weakening them with powerful wallbreakers such as Hydreigon and Mienshao is greatly appreciated. Be aware that Hydreigon compounds Snorlax's Fighting-type weakness.
+Snorlax partners well with Crobat, as it can sponge all Fighting-type attacks with complete ease. Alomomola also partners well with Snorlax and Crobat by relieving some pressure of predicting. Snorlax appreciates Pokemon, such as Choice Scarf Jirachi, which can dismantle common Taunt users such as Azelf, Hydreigon, or opposing Crobat. Because Snorlax might be put in the position where it has to use Rest prematurely, it appreciates cleric support from Florges, as Florges resists U-turn, resists Fighting-type moves, has Protect for scouting, and has Moonblast to check almost all Fighting-type threats in the UnderUsed metagame.
+
+Choice Band
+########
+name: Choice Band
+move 1: Return / Body Slam / Double-Edge
+move 2: Pursuit / Crunch
+move 3: Earthquake
+move 4: Fire Punch
+ability: Thick Fat
+item: Choice Band
+evs: 252 Atk / 88 Def / 168 SpD
+nature: Adamant
+
+Moves
+========
+
+Return is a powerful STAB option, OHKOing all unresisted frail threats and 2HKOing all moderately bulky threats such as Mega Blastoise. Body Slam is a reliable yet less powerful STAB option with a 30% chance to paralyze. Double-Edge is Snorlax's strongest reliable STAB move, hitting almost 50% harder than Body Slam; however, the recoil damage is problematic. Pursuit is great against Psychic-types as well as Chandelure and other Ghost-types. Crunch is useful in one-on-one situations where the opponent wants to commit with the Ghost- or Psychic-type. Earthquake is a great coverage move, hitting the common UnderUsed Fire-, Electric-, Steel-, and Poison-types for super effective damage. Fire Punch is useful against Forretress and other Bug- and Grass-types, though Return will hit slightly harder than a 2x super effective Fire Punch.
+
+Set Details
+========
+
+This set maximizes Attack in order to wallbreak as hard as possible. 88 Defense EVs allow Snorlax to survive a 2HKO from Brave Bird Crobat. The remaining EVs are placed into Special Defense to increase Snorlax's walling potential. Thick Fat is a wonderful ability that weakens Fire- and Ice-type attacks by 50%, giving Snorlax two added resistances. Choice Band further increases Snorlax's Attack by 50%.
+
+Usage Tips
+========
+
+Snorlax is a decent wallbreaker that can survive any non-super effective hit. It is particularly useful at dismantling stall with its slow and hard-hitting Returns; however, Snorlax still requires some prediction to use its STAB move when Snorlax's checks and counters are still alive.
+
+Team Options
+========
+
+Snorlax really appreciates Crobat as a teammate, as it can sponge all Fighting-type attacks with complete ease. Nidoqueen is another option to check Fighting-types for a more balanced wallbreaking core. Snorlax appreciates Rapid Spin support from Forretress, which can then slow Volt Switch into Snorlax. Snorlax also partners well with Wish + cleric users such as Vaporeon or Florges.
 
 Assault Vest
 ########
 name: Assault Vest
 move 1: Return / Body Slam
-move 2: Earthquake
-move 3: Crunch / Fire Punch
-move 4: Pursuit
+move 2: Pursuit / Crunch
+move 3: Earthquake
+move 4: Fire Punch / Crunch
 ability: Thick Fat
-evs: 252 Atk / 252 Def / 4 SpD
 item: Assault Vest
+evs: 252 Atk / 252 Def / 4 SpD
 nature: Adamant
 
 Moves
 ========
 
-Return is used for maximum damage output. Body Slam can be used for its 30% chance of paralysis, at the expense of power. Earthquake is used for coverage against Rock- and Steel-types. Crunch covers Ghost- and Psychic-types, although many of them carry Will-O-Wisp. Fire Punch is another option to hit Steel-types, and it hits Grass-types harder than Body Slam. Pursuit is a staple of the set, allowing Snorlax to trap dangerous Ghost-types such as Chandelure. If you are afraid of status effects, Facade can be used over a coverage or STAB move. Facade ignores a burn's Attack drop and allows for an extremely powerful 140 BP STAB move with the drawback of being extremely weak before status. Gunk Shot is another option, allowing Snorlax to decimate Florges and make it very difficult for it to Wish + Protect stall.
+Return is a powerful STAB option, 2HKOing all frailer attackers and doing decent damage to moderately bulky threats such as Mega Blastoise and Crobat. Body Slam is a reliable but less powerful STAB option with a 30% chance to paralyze. Pursuit is great against Psychic-types as well as Chandelure and other Ghost-types. Earthquake is a great coverage move, hitting the common UnderUsed Fire-, Electric-, Steel-, and Poison-types for super effective damage. Fire Punch is useful against Forretress and other Bug- and Grass-types. Crunch is useful in one-on-one situations where the opponent wants to commit with a Ghost- or Psychic-type.
 
 Set Details
 ========
 
-Thick Fat grants Snorlax two extra resistances, allowing it to comfortably tank hits. The EV spread allows for good physical bulk while giving Snorlax an offensive presence. As Snorlax's HP stat is so large already, investing in HP results in diminishing returns. 252 Defense EVs allow Snorlax to always survive Adamant Honchkrow's Superpower before Stealth Rock and Jolly Honchkrow's Superpower after Stealth Rock. An Assault Vest makes Snorlax extremely bulky on the Special side, bolstering its already good Special Defense. An Adamant nature is used for maximum power.
+Assault Vest allows Snorlax to become the perfect special sponge, as the strongest special Fighting move, Focus Blast, is an unreliable move to hit Snorlax with. This set maximizes Attack with an Adamant nature in order to hit as hard as possible. This set also maximizes Snorlax's defensive capabilities, helping it tank physical attacks such as Superpower from Life Orb Hydreigon or Honchkrow. Snorlax's huge base 160 HP and 110 Special Defense allow it to avoid investing in more special bulk or HP, instead investing the EVs into its Defense. Thick Fat is a wonderful ability that weakens Fire- and Ice-type attacks by 50%, giving Snorlax two added resistances, further increasing Snorlax's dependability against Fire-type spam strategies.
 
 Usage Tips
 ========
 
-Assault Vest Snorlax is a set that can be used early-game in order to check special attackers, but without Wish support it will rarely make it into late-game, so don't rely on Snorlax taking repeated special hits throughout the entirety of a battle. It should also be used as more of a pivot than an all-out attacker. This Snorlax excels at coming in on special attackers and forcing them out with its good offensive presence. Therefore, double switching can be a powerful tool in order to gain favorable matchups for your teammates. Also, even though Snorlax does have 252 Defense EVs, it should by no means be coming in on strong physical hits, as that will more than likely spell the end for Snorlax. Knock Off should also be avoided at all costs as an item-less Snorlax is almost useless, especially when it lacks a recovery move.
+Snorlax is a decent wallbreaker that can survive any non-super effective hit. It is best used as a sponge-and-hit tactician. Fundamentally, Snorlax relieves prediction due to Assault Vest, allowing it to use its optimal attacking options.
 
 Team Options
 ========
 
-Wish support is greatly appreciated for this set, as Snorlax has no recovery whatsoever. Florges fits the bill, dealing with Fighting-types, providing Wish support, and healing potential burns from Will-O-Wisp and Scald. Entry hazards will help to punish your opponent, as Snorlax can force many Pokemon out. Roserade and Nidoqueen are all good examples of Pokemon that can set up entry hazards and help cover Snorlax's weakness to Fighting-type moves. Because Snorlax is very bulky on the special side, Pokemon that are threatened by strong special attackers appreciate its help.
-
-Offensive
-########
-name: Offensive
-move 1: Return / Body Slam
-move 2: Earthquake
-move 3: Pursuit
-move 4: Crunch / Fire Punch
-ability: Thick Fat
-item: Choice Band / Leftovers
-evs: 252 Atk / 56 Def / 200 SpD
-nature: Adamant
-
-Moves
-========
-
-Return is the most powerful move on the set, although Body Slam can be used if its 30% chance of paralysis is appealing. Earthquake allows Snorlax to nail potential Aggron switch-ins and hit Steel- and Rock-types that resist its STAB move. Pursuit is used to trap annoying Ghost-types, particularly Chandelure and Mismagius. Crunch allows for a huge chunk of health to be taken out of Cofagrigus and Celebi, while Fire Punch allows Snorlax to destroy Escavalier, Abomasnow, and the aforementioned Celebi. With a Choice Band equipped, Self-Destruct is another viable option. Facade is an option that can be used over a coverage or STAB move. The nice thing about Facade is that it ignores a burn's Attack drop and gives Snorlax an extremely powerful STAB move at 140 Base Power, at the cost of being very weak before status, with only 70 Base Power. Gunk Shot is another option, as with a Choice Band equipped, it allows Snorlax to OHKO defensive Florges after Stealth Rock.
-
-Set Details
-========
-
-Thick Fat provides useful resistances to Ice- and Fire-type moves, allowing Snorlax to be an effective check to Pokemon such as Chandelure. An investment of 200 Special Defense EVs is used as it significantly buffs Snorlax's Special Defense. Similarly, the 56 Defense EVs add notable defensive bulk. A Choice Band allows for massive power, giving Snorlax a chance to 2HKO Donphan with only a single layer of Spikes on the field. Leftovers can be used for passive recovery, allowing Snorlax to be a more reliable switch-in later into the match. An EV spread of 252 Atk / 88 Def / 172 SpD can be used with Leftovers to avoid the 2HKO from Crobat's Brave Bird after Stealth Rock. An Assault Vest can be used to further bolster Snorlax's great Special Defense and bluff a Choice Band set, but it causes Snorlax to lose out significantly on power.
-
-Usage Tips
-========
-
-Return is the move to be used most often, as it hits like a truck, especially with a Choice Band boost. Snorlax is a great switch-in to Chandelure because it can safely use Pursuit against it. Utilize Pursuit to trap specially based Pokemon that are threats to the rest of your team.
-
-Team Options
-========
-
-Anything that benefits from the removal of troublesome Ghost-types will appreciate having Snorlax on the team; Fighting-types such as Mienshao deserve a special mention. Setup sweepers, such as Calm Mind Slowking and Swords Dance Lucario, really appreciate Snorlax's ability to cripple opposing walls, allowing them to sweep. Bulky Pokemon that can take on Fighting-types are appreciated by Snorlax, including Nidoqueen, Cofagrigus, and Florges.
+Snorlax partners well with Crobat, as it can sponge all Fighting-type attacks with complete ease. Alomomola also partners well with Snorlax and Crobat by relieving some pressure of predicting. Snorlax appreciates cleric support from Florges, as Florges resists U-turn, resists Fighting-type moves, has Protect for scouting, and has Moonblast to check almost all Fighting-type threats in the UnderUsed metagame.
 
 Other Options
 ########
 
-Snorlax has a wide special movepool consisting of moves such as Hyper Voice, Flamethrower, Thunderbolt, Ice Beam, Focus Blast, and Surf, but it unfortunately lacks the the Special Attack to use such a set. Counter can be used to abuse Physical attackers who would try to wear Snorlax down, but it is suboptimal due to Snorlax's already good offensive presence. Toxic and Yawn can be used to force switches and spread status throughout the opposition. Belly Drum can be used to boost Snorlax's Attack stat to extreme levels, but it leaves Snorlax vulnerable to revenge killing, as its Speed stat is atrocious. Block can be used to trap Pokemon that cannot hurt Snorlax so that Snorlax can easily set up. However, this usually requires too many moveslots and is generally not viable. Seed Bomb can be used to nuke Rhyperior and Swampert. Double-Edge is a STAB option for additional power on offensive sets, but the recoil it causes can be a problem. Brick Break, Superpower, and Focus Punch all provide Fighting-type coverage which can be useful to deal with Rock- and Steel-types.
+Immunity can be used as an ability to prevent Toxic users from gaining the upper hand, but this is generally outclassed by Thick Fat. A mono-attacking RestTalk + Whirlwind set can be used. Lum Berry or Leftovers can be used instead of Assault Vest, but the Defense EVs should be moved to HP. Self-Destruct can also be used in place of Fire Punch. Wild Charge and Heavy Slam are both interesting attacking options, but they are generally outclassed by Snorlax's main attacking options. Seed Bomb is an option to hit Ground- and Water-types.
 
 Checks & Counters
 ########
 
-**Fighting-types**: Physically based Fighting-type Pokemon like Infernape and Mienshao are huge threats to Snorlax. Not only do their strong STAB moves do super effective damage, but Snorlax's lack of physical bulk leaves it even more susceptible to these attacks.
+**Fighting-Types**: Mienshao, Machamp, and Toxicroak nullify Snorlax with their strong STAB moves.
 
-**Ghost-types**: Ghost-types in general are a huge problem for Snorlax if it doesn't have Crunch. Sableye counters all of Snorlax's sets thanks to Taunt and Will-O-Wisp, and it is hit for neutral damage by Crunch.
+**Physical Wallbreakers**: Krookodile, Swords Dance Celebi, and other Choice Band wallbreakers all severely impact Snorlax's longevity.
 
-**Steel- and Rock-types**: Steel- and Rock-types are a huge pain for Snorlax if Earthquake is not used. Not only are most Steel- and Rock-types physical attackers, they also resist Snorlax's STAB moves. Mega Aggron is a huge problem even if Snorlax does have Earthquake.
+**Phazers**: Roar and Whirlwind users such as Swampert and Hippowdon prevent Curselax from setting up, while also potentially racking up entry hazard damage.
+
+**Taunt**: Taunt users such as Krookodile and Crobat prevent Curselax from setting up.
+
+**Burn**: Will-O-Wisp users such as Arcanine and Rotom-H cripple the Choice Band and Assault Vest sets.
+
+**Trick**: Trick users such as Jirachi and Chandelure cripple Curselax while severely hindering the other Snorlax sets.

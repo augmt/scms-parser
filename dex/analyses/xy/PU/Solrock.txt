@@ -1,0 +1,90 @@
+Overview
+########
+
+Solrock's high Defense and almost unique typing allow it to check threatening Pokemon such as Tauros and Flareon, making it a decent wall in the PU metagame. Unfortunately, it is weak to four common types, and only one of those, Dark, is primarily physical. Solrock also has an excellent ability in Levitate, allowing it to check Ground-types, such as Golem, and Pokemon that rely on Earthquake to hit Rock-types. Its great support movepool, which includes Will-O-Wisp, Stealth Rock, and Morning Sun, helps its walling capabilities, and access to Light Screen, Reflect, and a fast Explosion allow it to successfully pull off a dual screens set.
+
+Wall
+########
+name: Wall
+move 1: Stealth Rock
+move 2: Morning Sun
+move 3: Will-O-Wisp
+move 4: Rock Slide
+ability: Levitate
+item: Leftovers
+evs: 252 HP / 200 Def / 56 Spe
+nature: Impish
+
+Moves
+========
+
+Stealth Rock is an important move as it wears down the opposing team, which is helpful as Solrock forces many switches. Morning Sun provides Solrock with reliable recovery. Will-O-Wisp cripples physical attackers, letting Solrock check them more easily, and annoys switch-ins such as Tangela. An attacking move is important to prevent Solrock from being setup fodder. Rock Slide is preferred, as it helps Solrock beat Fire- and Flying-types, while Zen Headbutt can be used to hit Pokemon such as Throh and Poliwrath.
+
+Set Details
+========
+
+Maximum HP, 200 Defense EVs, and an Impish nature allow Solrock to switch into physical attackers more easily. 56 Speed EVs let Solrock outspeed and burn Marowak, which is a huge threat to defensively based teams, and Leftovers provides passive recovery.
+
+Usage Tips
+========
+
+Solrock's high Defense allows it to be switched into strong physical attackers such as Flareon. Stealth Rock is Solrock's main priority, as it is more effective when set up early-game. Will-O-Wisp is Solrock's most spammable move, as it cripples physical attackers and annoys switch-ins such as Tangela and Prinplup. Solrock should be aware of Morning Sun's low PP, which can easily be stalled out.
+
+Team Options
+========
+
+Solrock fits best on defensively based teams, as it can check stallbreakers such as Dodrio and Flareon. Poliwrath is a good teammate, as it resists Grass, Bug, Dark, and Steel and is immune to Water, while Solrock resists Psychic- and Flying-type moves. Roselia can set up Spikes and Toxic Spikes, which complement Stealth Rock, and can beat Grass- and Water-types, whereas Solrock checks Flying-, Psychic-, and Fire-types. Togetic checks Grass-, Bug-, and Dark-types and can provide Heal Bell support. Special walls such as Lickilicky are good partners, as Solrock can take physical hits for them. Lickilicky also provides Heal Bell support. Spinblockers such as Gourgeist-XL and Misdreavus are helpful to keep entry hazards on the field, but Solrock shares two weaknesses with them; however, Gourgeist resists Grass and Water. Bulky Calm Mind users, such as Clefairy, appreciate the removal and burning of physical attackers that can revenge kill them, and Solrock also resists Poison-type moves, which Clefairy is weak to.
+
+Sun Screen
+########
+name: Sun Screen
+move 1: Light Screen
+move 2: Reflect
+move 3: Stealth Rock
+move 4: Explosion
+ability: Levitate
+item: Light Clay
+evs: 252 HP / 4 Def / 252 Spe
+nature: Jolly
+
+Moves
+========
+
+Light Screen and Reflect provide support for teammates, particularly setup sweepers which cannot take many hits. Stealth Rock also supports Solrock's team by wearing down the opponent's Pokemon. Explosion breaks Substitutes, prevents Pokemon from setting up on Solrock, and most importantly, blocks a slower Defog while providing a free switch in for a teammate. Magic Coat can be used to bounce back entry hazards and Taunt.
+
+Set Details
+========
+
+Maximum Speed EVs and a Jolly nature let Solrock outspeed Barbaracle and Kricketune, guaranteeing that it will set up a screen or Stealth Rock. Maximum HP investment increases Solrock's mixed bulk and its ability to set up on stronger Pokemon. Light Clay increases the number of dual screens turns, providing more time for Solrock's teammates to set up.
+
+Usage Tips
+========
+
+Solrock can be used as a lead to get up Stealth Rock early or can also be played later if the opponent counter-leads with a Pokemon that can outspeed and 2HKO it. The presence of Stealth Rock means that the opponent's team will be worn down more, which is beneficial for setup sweepers. Solrock should set up the screen that corresponds with the Pokemon it is facing first to maximize its chances of setting up the other screen. It should use Explosion on slower Defog users if screens are present and entry hazards up to block the Defog, or if it wants to safely get a team ate in, but if Solrock is at high enough health, it can be saved for later. Solrock prefers to set up on defensive Pokemon, such as Probopass, as well as physical attackers that it beats, such as Flareon.
+
+Team Options
+========
+
+Frail setup sweepers such as Linoone, Huntail, and Fraxure greatly appreciate dual screen support to set up more easily, and entry hazard damage is also important in wearing the foe down. Other frail offensive Pokemon such as Heatmor and Sneasel also appreciate dual screen support, and Substitute attackers such as Marowak and Poliwrath enjoy dual screens, as it makes their Substitutes harder to break. Pawniard and Purugly can deter Defog, as they have Defiant, and both enjoy dual screen support as the former can set up with Swords Dance and the latter has poor bulk. Spinblockers such as Misdreavus and Haunter are good teammates, as they help keep hazards on field. Solrock should only be used on hyper offensive teams that can make use of the limited screen turns and offensively pressure the opponent's Defog users.
+
+Other Options
+########
+
+A Baton Pass set with Rock Polish and or Cosmic Power can help teammates which have no boosting moves; however, Baton Pass is illegal with Morning Sun. Earthquake can be used to hit Rock- and Steel-types such as Golem and Pawniard, but most already dislike Will-O-Wisp. Fire Blast does a decent amount of damage to Tangela and Avalugg, but requires a negative Speed nature to be useful. A Sunny Day lead set could be used, as unlike Carbink, it outspeeds common Taunt leads such as Barbaracle and Kricketune; however, Carbink overcomes this problem with Magic Coat and will always live a hit with Sturdy.
+
+Checks & Counters
+########
+
+**Grass-types**: Grass-types, such as Tangela and Quilladin, can take a hit, deal heavy damage with their Grass-type STAB moves, or set up entry hazards on Solrock, but  Quilladin fears Will-O-Wisp. Simisage can freely use Nasty Plot, while Substitute Leafeon and Gogoat can set up Swords Dance and Bulk Up, respectively.
+
+**Water-types**: Water-type Pokemon such as Prinplup and Floatzel can switch in, live a hit, set up Stealth Rock or Bulk Up, then retaliate back with their Water-type STAB moves. The former can also Defog Solrock's Stealth Rock and screens away. Simipour can set up Nasty Plots while Huntail can freely Shell Smash on Solrock.
+
+**Pokemon with a Type Advantage**: Dark-types, such as Mightyena and Sneasel, can deal heavy damage with their Dark-type STAB moves, but they really dislike Will-O-Wisp, and the latter cannot take a Rock Slide. Klang can use Solrock to set up with Shift Gear, Rest off a burn, and then KO Solrock with Gear Grind, while Haunter can revenge kill a weakened Solrock.
+
+**Misdreavus**: Misdreavus has enough bulk to stomach any hit from Solrock. It can Taunt or burn Solrock, set up a Nasty Plot, and deal heavy damage with Shadow Ball.
+
+**Special Attackers**: Solrock's poor Special Defense means that it is easily beaten by special attackers such as Raichu and Ninetales, which don't mind being burned. They can also outspeed Solrock and deal enough damage to KO it after the second hit if Light Screen is up.
+
+**Defog**: Defog from Pokemon such as Pelipper and Prinplup will remove Solrock's screens and Stealth Rock. Swanna is faster than Solrock, so can get a Defog off before Solrock explodes.
+
+**Setup Sweepers**: Bulky setup sweepers, such as Clefairy and Duosion, do not care about Will-O-Wisp and take little damage from Solrock's attacks, and can set up Calm Minds. Physical setup sweepers, such as Leafeon, can outspeed Solrock and use Substitute to block status, while Vigoroth can Taunt to avoid Will-O-Wisp.
