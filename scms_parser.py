@@ -26,7 +26,7 @@ def parse_scms(directory):
                             line = line.strip()
                             if tier == "Unreleased":
                                 if pokemon == "Groudon" or pokemon == "Kyogre":
-                                    pokemon = "Primal " + pokemon
+                                    pokemon = pokemon + "-Primal"
                                 set_name = line[line.find("["):]
                             else:
                                 set_name = tier + " " + line[line.find(" ")+1:]
@@ -43,13 +43,17 @@ def name_pokemon(filename):
         pokemon = filename[:filename.find(".old")]
     else:
         pokemon = filename[:filename.find(".txt")]
+        if pokemon == "Pumpkaboo" or pokemon == "Gourgeist":
+            pokemon = pokemon + "-Average"
+        elif pokemon == "Meowstic-M":
+            pokemon = "Meowstic"
 
-    if "-" not in pokemon and pokemon != "Gourgeist":
+    if "-" not in pokemon:
         return pokemon
 
     base_forme = pokemon[:pokemon.find("-")] if pokemon.find("-") > -1 else pokemon
-    uniform_pokemon = ["Arceus", "Porygon", "Gourgeist", "Nidoran", "Meowstic"]
-    if base_forme not in uniform_pokemon and pokemon != "Ho-Oh":
+    excepted_base_formes = ["Arceus", "Porygon", "Gourgeist", "Nidoran", "Meowstic", "Pumpkaboo"]
+    if base_forme not in excepted_base_formes and pokemon != "Ho-Oh":
         if (base_forme != "Wormadam" and pokemon != "Rotom-Mow" and
                 pokemon != "Rotom-Fan"):
             pokemon = pokemon[:pokemon.find("-")+2]
@@ -61,8 +65,6 @@ def name_pokemon(filename):
             pokemon = "Rotom-C"
         else:
             pokemon = "Rotom-S"
-    elif pokemon == "Gourgeist":
-        pokemon = pokemon + "-Average"
     return pokemon
 
 def get_set_details(tier, analysis, gen):
