@@ -105,6 +105,7 @@ def get_set_details(tier, analysis, gen):
               "spa": "sa",
               "spd": "sd",
               "spe": "sp",
+              "spatk": "sa",
               "spdef": "sd",
               "speed": "sp"
             }
@@ -133,7 +134,7 @@ def fixline(line):
         line = pattern.sub("\\1 / \\3", line)
     elif line.find(" :") > -1: # BW Various & XY LC Vullaby
         line = line.replace(" :", ":")
-    elif line.find("evss") > -1 or line.find("items") > -1: # XY UU Kyurem & Unreleased Swampert
+    elif line.find("evss") > -1 or line.find("items") > -1: # XY UU Kyurem
         line = line.replace("s:", ":")
     elif line == "ivs: HP 0": # DP LC Riolu
         line = "ivs: 0 HP"
