@@ -11,7 +11,7 @@ move 3: Hidden Power Grass
 move 4: Will-O-Wisp / Flamethrower
 ability: Unnerve
 item: Life Orb / Choice Specs
-evs: 4 Def / 252 SpA / 252 Spd
+evs: 4 Def / 252 SpA / 252 Spe
 nature: Timid
 
 Moves
@@ -43,7 +43,7 @@ move 3: Hyper Voice
 move 4: Hidden Power Grass / Endeavor
 ability: Unnerve
 item: Choice Scarf
-evs: 4 Def / 252 SpA / 252 Spd
+evs: 4 Def / 252 SpA / 252 Spe
 nature: Timid
 
 Moves

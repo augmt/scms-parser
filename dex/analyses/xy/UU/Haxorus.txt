@@ -1,106 +1,39 @@
 Overview
 ########
 
-Haxorus is a solid Pokemon, as its mono Dragon typing and decent bulk is enough to allow it to set up on a lot of Pokemon in UU such as Victini, Suicune, and Vaporeon. Its stellar base 147 Attack allows it to hit hard initially, as well as after a boost. Haxorus also has a great ability in Mold Breaker, which gives it nearly perfect coverage with Earthquake and a STAB move. It also has a wide movepool to hit certain threats super effectively.
-
-While Haxorus has almost everything going for it, it has its fair share of flaws. Its base 97 Speed causes it to be outsped by the most common Dragon in UU, Hydreigon, which means Haxorus has to set up before it can power through Hydreigon. Although Haxorus has enough bulk to take most resisted hits, it cannot take strong neutral hits from powerful Pokemon such as Mienshao or Alakazam.
+Haxorus has fallen from grace since the beginning of ORAS, especially now that Salamence and Tyrantrum provide more competition to Haxorus as a Dragon-type. Haxorus has access to two amazing boosting moves, however, in Dragon Dance and Swords Dance, as well as an amazing Attack stat; unfortunately, its Speed and bulk are lacking.
 
 Double Dance
 ########
 name: Double Dance
 move 1: Swords Dance
 move 2: Dragon Dance
-move 3: Outrage / Dragon Claw
+move 3: Dragon Claw / Outrage
 move 4: Earthquake
 ability: Mold Breaker
-item: Lum Berry / Life Orb
-evs: 4 HP / 252 Atk / 252 Spe
-nature: Jolly
+item: Lum Berry
+evs: 252 Atk / 4 SpD / 252 Spe
+nature: Jolly / Adamant
 
 Moves
 ========
 
-Swords Dance gives Haxorus the power to wallbreak, while Dragon Dance allows Haxorus to outspeed all non-Choice Scarf Pokemon after +1. Outrage is the hardest hitting STAB move Haxorus has; however, Dragon Claw is a viable option to avoid being locked into Outrage. Earthquake gives Haxorus near perfect coverage, hitting Steel-types such as Jirachi and Metagross super effectively, while Mold Breaker bypasses the abilities of Rhyperior, Bronzong, and Mega Aggron to hit them hard. Poison Jab is another option, to hit Fairies super effectively; however, if it uses Poison Jab, Haxorus cannot do anything to Steel-types.
+Swords Dance allows Haxorus break through more defensively oriented teams by boosting its Attack stat by two stages. Dragon Dance, on the other hand, boosts Haxorus's Speed and Attack stats at the same time, allowing Haxorus to beat more offensive teams. Dragon Claw is a reliable STAB move, although its damage output can be underwhelming at times. Outrage, on the other, hand hits hard but has the drawback of locking Haxorus into it. Earthquake has great coverage in conjunction with Dragon-type moves, hittingthe Steel-types that resist Dragon-type moves for super effective damage.
 
 Set Details
 ========
 
-Max Attack and Speed EVs are used to maximize Haxorus's potential as a sweeper. Lum Berry allows Haxorus to set up without having to worry about status. Life Orb, however, allows Haxorus to hit harder, especially with a boost. A Jolly nature is mandatory for Haxorus to Speed tie other Haxorus and outspeed any positive natured Pokemon below base 97 Speed.
+Maximum Attack and Speed EVs allow Haxorus to sweep as efficiently as possible. Mold Breaker is the chosen ability, as it has the most use out of all three choices, nullifying defensive abilities such as Mega Aggron's Filter and Rotom-H's Levitate. A Lum Berry gives Haxorus a means of setting up more easily. A Jolly nature allows Haxorus to outspeed many threats ranging from Nidoking to Lucario. An Adamant nature can also be used, should the extra power be appealing to you.
 
 Usage Tips
 ========
 
-Haxorus's bulk is used to its advantage with this set, taking resisted hits easily so it can set up a Swords Dance or Dragon Dance. Lum Berry mitigates any stray status, garnering more set up opportunities for Haxorus. This set is able to be used throughout the whole match, using Swords Dance early to mid-game to break down walls. Dragon Dance is used mid to late-game to finish off the opponent's team. This set must watch for priority users like Lucario, as a weakened Haxorus is easily revenge killed.
+Haxorus should be sent in during the mid- and late-game against more offensive teams to have a good chance of cleaning up. Against more defensive teams, however, it should be sent in from the get-go or during the mid-game to wear down the opposing team for another Pokemon to clean after it.
 
 Team Options
 ========
 
-Forretress is an ideal partner for Haxorus as it provides entry hazard support and can easily set up on Fairy-types, such as Florges and Aromatisse. It can also spin away hazards for Haxorus while luring in Fire-type moves that Haxorus can set up on. This set appreciates dedicated wallbreakers or cleaners such as Choice Band Victini or Choice Scarf Hydreigon. Although Florges is a decent counter to Haxorus, it also makes a great partner. Florges provides Wish and Aromatherapy support, allowing Haxorus to stay healthy throughout the whole match and to continue its job. Florges also walls Hydreigon, which tends to beat Haxorus one-on-one.
-
-Swords Dance
-########
-name: Swords Dance
-move 1: Swords Dance
-move 2: Outrage / Dragon Claw
-move 3: Earthquake
-move 4: Poison Jab
-ability: Mold Breaker
-item: Lum Berry / Life Orb
-evs: 4 HP / 252 Atk / 252 Spe
-nature: Jolly
-
-Moves
-========
-
-Swords Dance is the obvious setup move of choice, boosting Haxorus's already high Attack to ridiculous levels. Outrage is the hardest hitting STAB move Haxorus has; however, Dragon Claw is a viable option as it allows Haxorus to not be locked into Outrage. Earthquake hits Steel-types, which resist Haxorus's STAB move, super effectively and works well with Mold Breaker, bypassing abilities such as Solid Rock, Filter, and Levitate. Poison Jab is the next best coverage move, hitting Fairies, which resist Haxorus's STAB move, super effectively.
-
-Set Details
-========
-
-The Attack and Speed EVs are standard. However, an alternate spread of 96 HP / 252 Atk / 160 Spe allows Haxorus to outspeed positive natured base 85 Speed Pokemon, and gives it some bulk. Lum Berry is used to avoid a potentially crippling status ailment. However, Life Orb can be used to hit harder and break down walls a lot easier. Jolly should be used to outspeed other Haxorus and anything below base 97 Speed. Adamant can be used to hit harder, but Haxorus's Speed tier is too important to give up Jolly for Adamant.
-
-Usage Tips
-========
-
-This set is best used early to mid-game to break down walls. Its somewhat decent bulk and useful typing allows it to take Scalds and Fire-type moves. Lum Berry gives Haxorus more set up opportunities so that it can overpower the opponent. This set must watch out for faster threats like Hydreigon and Mienshao, as they can both outspeed and easily revenge kill Haxorus.
-
-Team Options
-========
-
-Haxorus appreciates entry hazards to secure OHKOs before it sets up and to wear down the foe. Forretress is an amazing partner as it sets up both Stealth Rock and Spikes and can spin away the opponent's hazards. It can also easily set up on Fairies, as it resists Fairy-type moves. Florges is an ideal partner for Haxorus, as it provides Wish and Aromatherapy support and can tank most hits aimed at Haxorus. This set truly appreciates cleaners and revenge killers to finish off the opponent's team after Haxorus has done its job.
-
-Dragon Dance
-########
-name: Dragon Dance
-move 1: Dragon Dance
-move 2: Dual Chop / Outrage
-move 3: Earthquake
-move 4: Poison Jab
-ability: Mold Breaker
-item: Lum Berry / Life Orb
-evs: 4 HP / 252 Atk / 252 Spe
-nature: Jolly
-
-Moves
-========
-
-Dragon Dance is used to boost Haxorus's Attack and Speed in preparation for a sweep. Dual Chop is the best option to make sure Focus Sash Alakazam cannot take a hit and OHKO Haxorus in return after a Dragon Dance. Outrage is a viable alternative as it is Haxorus's most poweful STAB move. Earthquake hits the Steel-types that resist its STAB move and complements Mold Breaker. Poison Jab grabs the last slot, as it allows Haxorus to hit Fairies, which are immune to its STAB move, super effectively.
-
-Set Details
-========
-
-Max Attack and Speed EVs are used. Lum Berry allows a one-time recovery from status, which provides Haxorus with many set up opportunities. Life Orb can be used for more power at the cost of less set up opportunities. Jolly is used to Speed tie other Haxorus while outspeeding positive natured Pokemon below base 97 Speed. An Adamant nature can be used to hit harder.
-
-Usage Tips
-========
-
-This set should be used mid to late-game to clean up and finish off the opponent's team. Haxorus's natural bulk helps it take resisted hits, allowing Haxorus to set up and sweep. After setting up, Haxorus must watch for priority users, as it tends to be weakened after setting up and can be easily revenge killed.
-
-Team Options
-========
-
-Hazard support is very beneficial to Haxorus, allowing it to secure OHKOs after a Dragon Dance. Froslass is a decent partner, as it adds offensive pressure and the ability to spinblock its own hazards. Forretress is viable, too, as it can easily set up on Fairies, which Haxorus tends to stay away from. Forretress also spins away hazards, as Haxorus is hit by all of them. Forretress also has Volt Switch, allowing it to bring Haxorus in safely after it has spun away or set up hazards. Wallbreakers, such as Choice Band Victini, make great team members as they break down walls so that Haxorus can sweep.
-
+Haxorus appreciates entry hazard support, making Forretress and Roserade good teammates. Haxorus can wear down opposing teams fairly well, making cleaners such as Yanmega and Mega Sharpedo excellent partners to it. Lastly, wallbreakers such as Choice Band Darmanitan and Life Orb Hydreigon can wear down foes for Haxorus to clean up.
 
 Choice Band
 ########
@@ -111,41 +44,108 @@ move 3: Poison Jab
 move 4: Dragon Claw / Sleep Talk
 ability: Mold Breaker
 item: Choice Band
-evs: 4 HP / 252 Atk / 252 Spe
+evs: 252 Atk / 4 SpD / 252 Spe
+nature: Adamant / Jolly
+
+Moves
+========
+
+Outrage warrants the first moveslot, as it hits extremely hard in conjunction with a Choice Band. Earthquake gives perfect neutral coverage with Outrage and hits the Steel-types that tend to switch into Haxorus. Poison Jab hits Fairy-types for super effective damage, which is important, as they're the best switch-ins for Haxorus. Dragon Claw is a viable option if you don't want to lock Haxorus into Outrage. Sleep Talk is an alternative, should you want Haxorus to serve as a sleep absorber on your team.
+
+Set Details
+========
+
+Haxorus's Speed and Attack EVs are maximized to augment its offensive capabilities. Choice Band is the item for the set, as it allows Haxorus to be an amazing wallbreaker, nailing 2HKOs and OHKOs on a majority of the tier's premier walls such as Suicune and Florges. An Adamant nature is used to increase Haxorus's damage output as much as possible. A Jolly nature can also be used should outspeeding positive-natured base 85s and above seem more important. Mold Breaker is the chosen ability as it provides the most use out of all three choices, nullifying defensive abilities such as Levitate.
+
+Usage Tips
+========
+
+This particular Haxorus set is most effective during the mid-game, when it can start to break down opposing walls or significantly dent the opposing team. Haxorus shouldn't be locked into Outrage if opposing Fairy- or Steel-types are still active on the opposing team.
+
+Team Options
+========
+
+Shaymin is an amazing teammate, as it not only forms a good wallbreaking core with Haxorus but also has access to Healing Wish, which allows Haxorus to have another chance at wallbreaking should it be weakened at some point during the game. Sharpedo, Mega Beedrill, and Swords Dance Lucario are examples of cleaners, which highly appreciate the wallbreaking capabilities that Haxorus possesses. Vaporeon and Florges are clerics, making them good partners, as they can heal off any status Haxorus incurs. Haxorus appreciates entry hazard support, making Pokemon such as Nidoqueen and Chesnaught good partners. An excellent partner for Choice Band Haxorus is Choice Scarf Heracross, as Haxorus lures in most of its defensive checks, making it easier for Heracross to clean. Speed control support, such as Stun Spore and Tailwind, really helps this Haxorus set fare well against more offensive teams; therefore, Tornadus and Whimsicott are amazing teammates.
+
+Dragon Dance
+########
+name: Dragon Dance
+move 1: Dragon Dance
+move 2: Outrage / Dragon Claw
+move 3: Earthquake
+move 4: Taunt / Poison Jab
+ability: Mold Breaker
+item: Life Orb / Lum Berry
+evs: 252 Atk / 4 SpD / 252 Spe
 nature: Jolly / Adamant
 
 Moves
 ========
 
-Outrage is Haxorus's hardest hitting STAB move and promotes this set's role in breaking down walls. Earthquake goes in the second slot, hitting Steel-types super effectively. Poison Jab is next, hitting Fairies super effectively. Dragon Claw is a reliable, more spammable STAB move that Haxorus can use early-game, while Sleep Talk allows Haxorus to act as a sleep absorber for its team.
+Dragon Dance raises Haxorus's Speed and Attack stats by one stage, making it a deadly sweeper. Outrage hits relatively hard but confuses Haxorus after two to three turns and locks Haxorus into it during that period. Dragon Claw doesn't have the flaws Outrage does but is lacking in the damage department. Earthquake is the most important coverage move for Haxorus, being able to hit anything that resists Haxorus's STAB type for at least neutral damage. Taunt allows Haxorus to set up on walls relying on support moves to prevent Haxorus from sweeping, such as Will-O-Wisp Rotom-H and Roar Swampert; however, it should only be used with a Life Orb, as Lum Berry usually makes Taunt less useful. Poison Jab can be used over Taunt as an alternate coverage move to hit Fairy-types such as Aromatisse and Granbull super effectively.
 
 Set Details
 ========
 
-The standard EV spread of max Attack and max Speed is used. Haxorus can wallbreak very well with its base 147 Attack and the initial +1 boost from Choice Band. Jolly is the preferred nature, as Haxorus's base 97 Speed is important; however, Adamant can be used for more power.
+Life Orb gives Haxorus a nice damage boost at the cost of 10% HP each time it uses an attacking move. Lum Berry gets rid of status only once per match; it is also a good option when using Outrage, removing the that the move causes. Maximum Attack and Speed EVs are being used to maximize Haxorus's sweeping potential. A Jolly nature allows Haxorus to outspeed positive-natured base 85s, whereas an Adamant nature gives Haxorus a 10% damage increase.
 
 Usage Tips
 ========
 
-With Choice Band, Haxorus becomes a great wallbreaker, but it must watch out for faster threats such as Hydreigon, Mienshao, and Victini. This set is best used early-game to break down walls and the opponent's team in general, allowing cleaners or revenge killers to finish off the opponent.
+This Haxorus set should be sent in during mid- or late-game to sweep or weaken the opposing team. Haxorus should set up on Pokemon that can't OHKO it, don't have phazing moves, or are forced out by it. Haxorus should only set up when the opposing team doesn't have a Choice Scarf user or any priority users left.
+
+Team Options
+========
+This Haxorus set aims to sweep or clean mid- to late-game; therefore, wallbreakers make for excellent partners, such as Life Orb Hydreigon and Choice Band Darmanitan. Physically defensive Steel-types usually stop Haxorus from sweeping unless they're weakened, which makes Ground-, Fighting-, and Fire-types good partners. Examples of them are Nidoking, Heracross, and Entei, respectively. Shaymin is an amazing partner to this Haxorus set, as it can wallbreak as well as use Healing Wish to allow Haxorus more than one chance to sweep the opposing team.
+
+Swords Dance
+########
+name: Swords Dance
+move 1: Swords Dance
+move 2: Outrage
+move 3: Earthquake
+move 4: Poison Jab
+ability: Mold Breaker
+item: Lum Berry / Life Orb
+evs: 252 Atk / 4 SpD / 252 Spe
+nature: Jolly / Adamant
+
+Moves
+========
+
+Swords Dance allows Haxorus to break through more defensively orientated teams by boosting its Attack stat by two stages. Outrage pairs well with Swords Dance due to its amazing damage output coupled with a STAB boost. Given that Outrage users such as Haxorus commonly lure in Steel- and Fairy-type Pokemon, super effective coverage against them is most appreciated in the last two slots, thus making Earthquake and Poison Jab perfect fits.
+
+Set Details
+========
+
+Due to Haxorus not having any significant bulk, the EVs are put into Attack and Speed instead. A Lum Berry gives Haxorus a one-time immunity to status. A Life Orb, on the other hand, gives Haxorus a 1.3x damage boost, but at the cost of 1/10 of its HP with each hit. A Jolly nature is crucial for outspeeding positive-natured base 85s. Meanwhile, an Adamant nature can be used for more power.
+
+Usage Tips
+========
+
+This particular set is most effective against defensively oriented teams and is best set up when no faster threats are left. This set should also be sent in mid-game.
 
 Team Options
 ========
 
-Haxorus loves entry hazard support. Forretress makes a great partner, as it can set up hazards to help wear down the opponent even more. Forretress also has a slow Volt Switch that can bring Haxorus in safely. Forretress can set up on Fairies as well. Lastly, Forretress can spin away hazards, as Haxorus is susceptible to all of them. Other good teammates are Pokemon that appreciate Haxorus's ability to wallbreak. Lucario is a good fit, as Haxorus breaks down walls so Lucario can set up and sweep.
+A set such as this is always paired best with cleaners, as they can usually sweep after Haxorus does its job; as such, Mega Sharpedo, Yanmega, and Choice Scarf Mienshao make the best of partners. Lunar Dance and Healing Wish are both moves that can remove status and heal the recipient to full, giving Haxorus another chance to wear down walls. Therefore, Lunar Dance and Healing Wish users, such as Cresselia and Shaymin, respectively, make for excellent teammates.
 
 Other Options
 ########
 
-Dual Chop is very viable as it has the same Base Power as Dragon Claw and allows Haxorus to beat Substitute users and Focus Sash Alakazam. However, it comes with 90% accuracy. Choice Scarf allows Haxorus to be a revenge killer with more power than any other Choice Scarf user in the tier. However, its base 97 Speed is not fast enough to compete with other common Choice Scarf Pokemon such as Hydreigon, Flygon, and Mienshao. These Choice Scarf users not only have secondary typings, in Hydreigon and Flygon's case, but they also have access to U-turn, allowing them to gain momentum, which Haxorus cannot boast. Substitute can be a way for Haxorus to avoid status and free up its item; however, it must give up a boosting or coverage move which isn't ideal for Haxorus. Iron Tail can be used over Poison Jab to still hit Fairies and has more power at the cost of accuracy. Taunt is another move Haxorus can use to stop walls from continuously trying to status it and Pokemon trying to set up alongside it. Low Kick can be used to score an OHKO on Snorlax after a Dragon Dance, but it does not provide the coverage Haxorus's other moves can. Superpower falls in the same vein as Low Kick, but has the horrible consequence of lowering Attack and Defense every time it is used. Dragon Dance + Endure + Salac Berry can allow Haxorus to set up on and outspeed Hydreigon and not worry about being beaten. However, this isn't that necessary as Haxorus can set up before Hydreigon comes in and can OHKO it as long as Hydreigon is not equipped with a Choice Scarf.
+Haxorus can run a Choice Scarf set, but it's usually beaten by a majority of the other Choice Scarf users in the tier. A Hone Claws set might seem viable but is outclassed by the Swords Dance set. Despite learning a variety of support moves such as Roar and Taunt, Haxorus doesn't have the typing nor the bulk to run a good defensive set. Dual Chop is an option over Dragon Claw on any Haxorus set, as it breaks through Focus Sashes, Sturdy, and Substitutes; however, it has a chance to miss, which can be crucial.
 
-Checks and Counters
+Checks & Counters
 ########
 
-**Revenge Killers**: Haxorus's Speed tier is awkward, allowing faster Pokemon such as Mienshao and Hydreigon to OHKO it with their STAB moves. They threaten it before and after Haxorus sets up, as both of them can carry Choice Scarf and have a higher base Speed stat than Haxorus. Focus Sash Alakazam is another check as its Psychic can do a decent chunk to Haxorus, crippling it to the point of being revenge killed. Priority is also a pain for Haxorus, as Mega Absol's Sucker Punch and Lucario's Extreme Speed can do a ton of damage if they set up alongside Haxorus or have already set up.
+**Granbull**: Granbull checks all Haxorus variants, being able to take a Poison Jab and OHKO with Play Rough in return.
 
-**Fairy-types**: This is the ideal counter to most Dragons, and Haxorus is no exception. Haxorus has to set up to KO Florges with Poison Jab while Florges needs no investment and OHKOes Haxorus with Moonblast. Aromatisse does not boast the ability to OHKO Haxorus with its Moonblast, but it has better HP and Defense, allowing it to take more hits.
+**Faster Choice Scarf Users**: Choice Scarf users that outspeed Haxorus at +1 Speed such as Hydreigon and Mienshao check Haxorus fairly well.
 
-**Bulky Water-types**: Bulky Water-types, particularly those carrying Ice Beam, such as Vaporeon and Suicune, can also prove laboring, as Haxorus cannot set up in fear of being 2HKOed. Haxorus, even after setting up, cannot OHKO them back in return.
+**Fairy-types**: Bulky Fairy-types such as Aromatisse and Florges check Haxorus fairly well but have to be wary of Poison Jab, while Whimsicott, a faster Fairy-type, can switch into a setup move and Encore Haxorus into said move.
 
-**Status**: Haxorus is exposed to all statuses, and if it is not carrying a Lum Berry, it must watch out for these as all of them can cripple Haxorus, rendering it useless for the rest of the match.
+**Faster Dragon-types**: Faster Dragon-types such as Hydreigon and Salamence easily outspeed Haxorus and OHKO with a STAB Dragon-type move.
+
+**Bulky Water-types with Ice Beam**: Bulky Water-types that run Ice-type coverage, such as Ice Beam Suicune and Ice Beam Vaporeon, check Haxorus fairly well.
+
+**Ice Shard Users**: Pokemon with STAB Ice Shard such as Cloyster and Abomasnow can easily revenge kill Haxorus by hitting it super effectively before it can do anything.

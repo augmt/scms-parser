@@ -1,15 +1,15 @@
 Overview
 ########
 
-Thanks to its amazing Speed and Sheer Force, Tauros has a niche over other Normal-type attackers such as Kangaskhan and Zangoose. It boasts a high Attack stat, and has access to a free Life Orb boost thanks to Sheer Force, which grants Tauros more staying power than Pokemon that suffer from Toxic Orb such as Zangoose and Ursaring. It also has access to a decent movepool, which makes it capable of taking out Fighting-types, its only weakness. However, the main downside to using Tauros is that the Sheer Force set has an unreliable main attack due shaky accuracy, and the Choice Scarf set has limited cleaning potential as its main attacks have no super effective coverage.
+Tauros sports an impressive base 110 Speed stat, which allows it to outspeed some of the fastest offensive threats in NU, such as Pyroar, Liepard, Typhlosion, and Scyther. With its unique combination of high Speed and great coverage backed by Sheer Force, Tauros sets itself apart from other offensive Normal-types. Tauros provides great offensive pressure because of its pure Normal-typing; there are very few types that are immune to or resist Normal-type moves. Despite Tauros's susceptibility to all entry hazards and lack of resistances, it sports some fairly impressive bulk uninvested and can typically switch into a neutral attack if needed.
 
 Life Orb Attacker
 ########
 name: Life Orb Attacker
 move 1: Rock Climb
 move 2: Earthquake
-move 3: Zen Headbutt / Rock Slide
-move 4: Fire Blast
+move 3: Fire Blast
+move 4: Rock Slide / Zen Headbutt
 ability: Sheer Force
 item: Life Orb
 evs: 252 Atk / 4 SpA / 252 Spe
@@ -18,65 +18,35 @@ nature: Naive
 Moves
 ========
 
-Rock Climb is a very solid and powerful STAB attack, boosted by Sheer Force. Earthquake gives coverage for taking out Rock- and Steel-types, which resist Tauros's STAB attack. Zen Headbutt offers a great amount of damage on Fighting-types in NU, and hits Pokemon such as Haunter and Weezing hard. Rock Slide grants coverage alongside Earthquake and hits a wider variety of opponents, which improves Tauros's revenge killing power. Despite its poor Special Attack stat, Fire Blast is useful to hit physically defensive Pokemon like Ferroseed, Steelix, and Avalugg, as it can't beat them with other moves. Thanks to its Speed, Tauros is capable of cleaning up.
+Rock Climb is used over Return and Double-Edge because of the Sheer Force boost, which brings it to about the same base power as Double-Edge, but without the recoil although having a 15% chance to miss. Earthquake hits Rock- and Steel-types, such as Regirock and Klinklang, which resist Rock Climb. Fire Blast lets Tauros get past physically defensive Mawile and bulky Grass-types such as Tangela, Gourgeist-XL, and Ferroseed. Rock Slide grants Tauros neutral coverage against Ghost-types with Levitate, reliably 2HKOes Pelipper and physically defensive Rotom-S, and OHKOes Archeops and Scyther. Zen Headbutt provides slightly stronger neutral coverage against Ghost-types while giving Tauros the ability to 2HKO Vileplume and even Weezing after Stealth Rock damage. Zen Headbutt is also useful for hitting Fighting-types harder than Rock Climb.
 
 Set Details
 ========
 
-Maximized Speed investment makes Tauros capable of launching powerful hits as quickly as possible, and maximized Attack ensures that it will hit its hardest. The Naive nature boosts Tauros's Speed while making sure that its Fire Blast is not weakened. A Life Orb is the best item for this set because it provides a valuable power boost for Tauros's moves, and Sheer Force negates Life Orb recoil on all Tauros's attacks but Earthquake.
-
-
-Usage Tips
-========
-
-Bring in Tauros to revenge kill a foe, or into a slow Pokemon to force a switch. Refrain from using Rock Climb if another more accurate move can get the KO.
-
-
-Team Options
-========
-
-Tauros is severely crippled by burns. Teammates with Magic Bounce or cleric support will be able to fend off the status that Tauros loathes. Bulky Pokemon that resist Fighting-type moves and can quickly get rid of Fighting-type foes, such as Granbull, are great teammates for Tauros as well.
-
-Choice Scarf
-########
-name: Choice Scarf
-move 1: Retaliate
-move 2: Double-Edge
-move 3: Earthquake
-move 4: Stone Edge
-ability: Intimidate
-item: Choice Scarf
-evs: 252 Atk / 4 SpD / 252 Spe
-nature: Jolly
-
-Moves
-========
-
-Retaliate is a great STAB move for a designated revenge killing set such as this, thanks to to the power boost it receives when an ally has fainted. Double-Edge is a very powerful STAB attack option that is capable of inflicting a ton of damage on a lot of opponents. Earthquake is a necessity for hitting Steel- and Rock-types, which resist the rest of its moveset. Stone Edge offers coverage against Flying- and Ice-types. 
-
-Set Details
-========
-
-Full investment in Speed and Attack makes Tauros capable of launching powerful hits quickly. Furthermore, a Jolly nature boosts Tauros's Speed, allowing it to outspeed targets that cannot be outsped with an Adamant nature, such as Choice Scarf Typhlosion. The Choice Scarf in combination with Tauros's amazing Speed allows it to outspeed any unboosted opponent.
+Tauros hits a very important Speed tier, so running any less than maximum Speed investment will cause it to drop behind Archeops, other Tauros, and even Jumpluff. To perform well, Tauros needs as much Attack as it can get. Life Orb complements this set because Sheer Force negates Life Orb recoil for any attacks that have a secondary effect, so Tauros can have high powered attacks with no recoil.
 
 Usage Tips
 ========
 
-Use Tauros as a powerful lead, or as a revenge killer when one of its allies has just been taken down. Also, be cautious when your opponent has a Ghost-type around; Ghost-types can come in on a Choice-locked STAB attack and force Tauros out.
+Tauros is at its strongest near the end of the game when all of its switch-ins are weakened. Typically, Tauros is responsible for finishing off the game, so removing anything that's faster and weakening anything that can take a hit is encouraged. Due to a combination of its high Speed and powerful attacks, Tauros is a very effective revenge killer mid-game for slower offensive threats and weakened bulky threats. Despite having a notably large damage output, Tauros is not a wallbreaker. When using Tauros, you will find it often misses out on a lot of OHKOs against bulkier Pokemon, even with the right super effective coverage. During the mid-game, Tauros is very adept at pressuring your opponent with its impressive power and coverage. While Tauros probably won't be picking up a lot of KOs, it will be weakening its switch-ins for the late-game.
 
 Team Options
 ========
 
-Slow Pokemon with U-turn or Volt Switch, such as Probopass, Uxie, and Scyther work well as teammates; they grant Tauros a safe switch-in so that Tauros can start attacking at full health, although Tauros has enough bulk to take a hit that is not super effective. A special Pokemon that resists Fighting-type moves, and has an advantage over Fighting-types, such as Mesprit or Exeggutor, is an excellent partner for Tauros as well.
+Offensive Normal-types, such as Kangaskhan, Swellow, and Zangoose, are great partners for Tauros, because your opponent repeatedly bringing in their defensive Rock- or Ghost-types will wear them down to the point where Tauros or one of its teammates can spam powerful attacks with no safe switch-ins. Also, these teammates can bring special coverage moves to wear these switch-ins down; Aqua Tail Kangaskhan and Hidden Power Grass Choice Specs Swellow hit Tauros's common switch-ins very hard. Bulky Psychic-types such as Claydol and Mesprit can switch into bulky Fighting-types, such as Gurdurr and Hariyama, which Tauros cannot knock out at full health. Claydol is also notable because of its ability to support Tauros by removing entry hazards with Rapid Spin. Offensive Dark-types, such as Liepard and Sneasel, make great teammates for Tauros because they are able to easily KO or Pursuit trap Ghost-types that prevent Tauros from spamming its Normal-type STAB moves.
 
 Other Options
 ########
 
-Pursuit can be used to trap Ghost-types. Iron Tail is unreliable and rather niche, but hits Rock-types harder than Earthquake and OHKOes Slurpuff after Stealth Rock. Iron Head is also an option because it has more accuracy than Iron Tail, but has less Base Power. Wild Charge can be used for its coverage against Flying- and Water-types, but its recoil is unfavorable and other coverage options are preferable.
+Pursuit damages and KOes frail Ghost- and Psychic-types, such as Rotom, Haunter, Jynx, and Mesprit, upon switching out. Water Pulse hits offensive and physically defensive Rhydon for more damage compared to Earthquake. With a Choice Scarf, Tauros can outspeed every other relevant Choice Scarf user in the NU tier. However, Tauros is substantially weaker without a Life Orb. A Substitute and Endeavor set can be used to lure in any hard counters to Tauros, such as Quagsire, Rhydon, and Regirock, and bring them down as low as one HP.
 
 Checks & Counters
 ########
 
-**Physically Defensive Pokemon**: Gourgeist, Spiritomb, and Weezing can easily switch in on Taruos's physical attacks and burn it.
+**Bulky Rock-types**: Rhydon, Regirock, and defensive Carracosta can switch into Tauros comfortably, only taking around a third of their health from Earthquake at the worst. However, all these Pokemon can be whittled down because of their lack of recovery.
 
-**Status**: Tauros also absolutely hates Will-O-Wisp and Thunder Wave; Tauros is effectively neutered by having either its Attack or Speed cut.
+**Physically Defensive Pokemon**: Most physically defensive Pokemon that aren't weak to Tauros's coverage moves can usually take it on and threaten it in a variety of ways. Pokemon such as Mega Audino, Musharna, and Quagsire are especially threatening to Tauros because they have reliable recovery and can't be weakened as effectively.
+
+**Status**: Paralyzing, burning, and poisoning Tauros makes its job more difficult. Tauros heavily relies on its Speed, Attack, and even HP to properly finish games.
+
+**Priority and Faster Pokemon**: Tauros depends a lot on its Speed to do its job effectively. That being said, if another Pokemon can move before Tauros, it has the potential to weaken, cripple, or potentially even KO Tauros. Choice Scarf users such as Rotom and Mesprit, priority attackers such as Kangaskhan and Hariyama, and the rare Pokemon with a higher base Speed stat such as Sneasel, Swellow, and Zebstrika all have the ability to hit Tauros first.

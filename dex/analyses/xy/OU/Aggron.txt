@@ -1,15 +1,15 @@
 Overview
 ########
 
-Say hello to possibly the single greatest physical tank in the game. After Mega Evolving, Aggron gains a colossal boost to its physical defense, mono-Steel typing, and access to the ability Filter, a combination that lets it tank virtually any unboosted physical attack in the game. It has the tools to check a wide range of Pokemon and can support the team with Stealth Rock and Thunder Wave. Indeed, you can depend on it to check nearly every physical attacker, and even a few special attackers, as long as it's healthy. Unfortunately, there are a few drawbacks to using Mega Aggron. It has no access to recovery moves (with the exception of Rest) or Leftovers, so it can quickly get worn down. Worse still, Aggron has to take a turn to Mega Evolve before it can become useful. All in all, when used correctly, Mega Aggron is a top-notch physically defensive tank with the means to take on some of the most powerful Pokemon in the tier.
+Mega Aggron is one of the greatest physical tanks ever, capable of checking and countering many top-tier threats. Its Steel typing combined with Filter allows it to check many prominent threats in the metagame, such as Mega Metagross and Mega Altaria lacking Fire Blast. Aggron also has access to great support moves such as Stealth Rock and Thunder Wave. Unfortunately, Aggron lacks reliable recovery outside of Rest, has a poor defensive typing prior to Mega Evolving, and has a large opportunity cost — by using Mega Aggron, you cannot use other, arguably better, Mega Pokemon.
 
 Tank
 ########
 name: Tank
 move 1: Stealth Rock
-move 2: Iron Head / Heavy Slam
-move 3: Ice Punch / Thunder Wave
-move 4: Earthquake / Rock Slide
+move 2: Heavy Slam
+move 3: Avalanche / Thunder Wave
+move 4: Fire Punch / Earthquake / Rock Slide
 ability: Sturdy
 item: Aggronite
 evs: 252 HP / 16 Def / 240 SpD
@@ -18,78 +18,34 @@ nature: Impish
 Moves
 ========
 
-Mega Aggron's bulk, ability, and typing give it plenty of opportunities to set up Stealth Rock. The choice of the STAB move comes down to power versus consistency; Iron Head deals consistent damage, whereas Heavy Slam dishes out greater damage to lighter targets. Garchomp, for instance, will be hit by a 100 Base Power Heavy Slam. Unfortunately, Heavy Slam misses out on crucial 2HKOs against Terrakion, Mamoswine, Kyurem-B, and Tyranitar. Ice Punch deals significant damage to 4x Ice-weak Pokemon, such as Gliscor, Landorus, Garchomp, and Dragonite, and prevents them from taking advantage of Mega Aggron. It also makes Mega Aggron one of the best checks to Dragon-types in the tier. Thunder Wave, on the other hand, is one of Mega Aggron's most useful supporting tools. As Mega Aggron's immense bulk and Filter ability make it difficult to OHKO, it can easily paralyze offensive Pokemon that are matched up against it. 
-
-The last slot is dedicated to secondary coverage; Earthquake takes care of prominent Pokemon who are weak to Ground, such as Excadrill and Heatran (as well as Tyranitar and Terrakion if Heavy Slam is used). Rock Slide lets it beat down Talonflame and Volcarona, but it has limited coverage outside of these Pokemon. Superpower targets Air Balloon Excadrill and most Pokemon that are weak to Earthquake. It also alleviates Heavy Slam's primary drawback of being unable to do significant damage to the likes of Tyranitar, Mamoswine, Kyurem-B, and Terrakion. Fire Punch can be used to crush Ferrothorn and Mega Scizor, preventing them from setting up on Mega Aggron too. Aqua Tail is worth considering when paired with rain support, as it allows Mega Aggron to cover a wide variety of Pokemon.
-
-Set Details
-========
-An Impish nature is chosen to take advantage of Mega Aggron's incredible Defense, while the EV spread patches up its unimpressive Special Defense stat while hitting a jump point in Defense. Alternatively, maximizing its investment in Defense can make it even stronger on the physical side, but it's not very noticeable due to an already high base Defense stat. You can invest in Attack to make Mega Aggron noticeably more threatening (notably, it can OHKO Garchomp with Ice Punch).
-
-Usage Tips
-========
-
-You should look for the earliest opportunity to Mega Evolve Aggron, as it has trouble switching into battle. Bringing it in via U-turn, Volt Switch, or after a KO is your best bet at giving it a chance to Mega Evolve. After you have successfully gotten it to Mega Evolve, you can use it to check virtually any physical attacker and spread paralysis when the opportunity presents itself. Note that Mega Aggron lacks any form of healing outside of Wish support, so careless switching should be avoided. If hazards are up, it's probably not a good idea to switch Mega Aggron into a potential U-turn, unless you have no choice. That being said, don't make the mistake of using Mega Aggron conservatively. This variant of Mega Aggron isn't built to last past the midgame, so you should switch into the Pokemon that it can handle and spread paralysis whenever possible.
-
-The coverage move chosen has a significant effect on how Mega Aggron is played. By choosing Earthquake, you prevent the likes of Excadrill and Heatran from freely switching into Mega Aggron and setting up all over it, so you don't have to worry about these Pokemon as much. On the other hand, Rock Slide provides Mega Aggron with a means of actually hurting Talonflame, which is useful as Bulk Up variants can actually set up on Mega Aggron. Running Rock Slide also prevents bulky variants of Volcarona from freely switching in and setting up.
-
-Team Options
-========
-
-Sylveon is a great partner, as it has it has solid offensive and defensive synergy with Mega Aggron. Mega Aggron can check some of the Steel-types Pokemon that counter Sylveon, and in return, Sylveon can ward off stronger special attackers and heal Aggron with Wish. Togekiss functions similarly as a partner to Mega Aggron, with the added benefit of being immune to Ground-type attacks and being able to spread paralysis. Dragon-types in general make for decent offensive partners, mainly because they love Mega Aggron's ability to deal with Fairies and opposing Dragons. In return, they can somewhat check Mega Aggron's counters.
-
-Mega Aggron also appreciates Rapid Spin support. As it completely lacks recovery, teams that employ entry hazards can wear it down simply by switching, so a Rapid Spin or Defog user both work for this, but Rapid Spin is preferred due to its ability to keep Mega Aggron's team's own entry hazards on the field. Excadrill and Starmie are both reliable Rapid Spinners, but Starmie is an overall better choice due to its ability to better check Mega Aggron's counters.
-
-Mega Aggron is capable of luring out and either defeating or crippling the likes of Gliscor and Landorus-T, so Pokemon who are checked by the aforementioned Pokemon appreciate its presence. Some of these Pokemon include Terrakion, Lucario, Dragonite, and Garchomp. Mega Aggron is at an inherent disadvantage against teams that employ a fast user of Stealth Rock or Taunt, such as Terrakion, so a teammate that can check these threats is recommended. Sableye is good for this as its priority Taunt can stop these Pokemon in their tracks, and Mega Aggron can fall back on Sableye's Fighting immunity.
-
-RestTalk
-########
-name: RestTalk
-move 1: Rest
-move 2: Sleep Talk
-move 3: Iron Head / Heavy Slam
-move 4: Earthquake / Ice Punch
-ability: Sturdy
-item: Aggronite
-evs: 252 HP / 16 Def / 240 SpD
-nature: Impish
-
-Moves
-========
-
-Rest heals off any damage that Mega Aggron incurs throughout the match, while Sleep Talk still lets it keep up the offensive pressure with its attacking moves. Iron Head is a standard STAB move, it deals decent damage when backed by Mega Aggron's stellar Attack stat. As always, Heavy Slam is an option over Iron Head for more power against lighter Pokemon at the cost of consistency. The last slot is dedicated to coverage; Earthquake takes care of Heatran, whereas Ice Punch lets it deal significant damage to both Landorus formes, Gliscor, Garchomp, and Dragonite.
-
-Coverage moves that aren't listed in the main set, such as Fire Punch, Rock Slide, or Superpower, can be used depending on what Pokemon your team has more trouble with. Alternatively, Curse can be used as a means of boosting Mega Aggron's already high Defense to even more incomprehensibly high levels. That said, Curse turns into Mega Aggron into a mono-attacker, so support from teammates to deal with Pokemon that resist Steel-type attacks is more than welcome. Dragon Tail or Roar can be used to shuffle opposing Pokemon; both moves have their advantages (dealing damage versus forcing out Substitute users) but they both come at the cost of an important moveslot.
+Mega Aggron's bulk makes it a great user of Stealth Rock. Heavy Slam is Aggron's STAB move and packs quite a punch even without any Attack investment, thanks to how heavy Aggron is. Avalanche deals lots of damage to Pokemon that would otherwise wall this set, such as Landorus-T and Gliscor, and is used over Ice Punch because Aggron is slower than its targets anyways. Thunder Wave is one of Aggron's best support options; it slows down faster Pokemon, making them easier to check. Fire Punch allows Mega Aggron to counter Mega Scizor while also hitting Ferrothorn, but Earthquake can be used instead to hit Heatran and Excadrill. Rock Slide can be used to hit Flying-types such as Talonflame and Mega Pinsir. Dragon Tail is another option to phaze Pokemon that try to set up on Aggron, while also racking up residual damage if entry hazards are in play.
 
 Set Details
 ========
 
-The nature and EV spread address Mega Aggron's low Special Defense, while still giving Mega Aggron a sizable boost to its physical Defense.
+252 HP EVs and an Impish nature take advantage of Aggron's stellar Defense, while 240 Special Defense EVs are used to patch up its weaker Special Defense. The rest of the EVs are placed into Defense to reach a jump point. Investing more into Defense is also an option to better check physical attackers, but Aggron is already incredibly physically bulky. Investing some EVs into Attack can be done to hit harder, but Aggron's main purpose is to serve as a tank.
 
 Usage Tips
 ========
 
-This set focuses on long-term walling with the Rest and Sleep Talk combination. By fixing Mega Aggron's greatest downside, a lack of recovery, it makes Mega Aggron extremely difficult to take down. Unfortunately, Mega Aggron has fewer moves to work with, so it won't be able to take on as many Pokemon on its own. Use it to counter or check physical attackers, and rely on teammates to deal with the Pokemon it can't beat. This variant of Mega Aggron is better suited on defensive teams, so forming defensive cores with it is recommended. While RestTalk provides Mega Aggron with a means of sticking around, it must forgo its best supporting moves.
+Mega Evolving Aggron as soon as possible is crucial, as it is quite useless before that. This can be accomplished through a slow U-turn or Volt Switch, or by sending Aggron in after a teammate faints. Aggron is a great defensive tank, so use it to check dangerous physical attackers such as Mega Pinsir, Mega Metagross, and Mega Altaria. Aggron lacks reliable recovery, so try not to let it get worn down too much. Removing Mega Sableye is also helpful, as it is a huge problem for this set.
 
 Team Options
 ========
 
-Rotom-W can deal with virtually all of Mega Aggron's counters, and can provide it with a means of switching into battle via Volt Switch. Sylveon also works well here because it has solid synergy with Mega Aggron; Mega Aggron can check some of the Pokemon that counter Sylveon, and in return, Sylveon can ward off strong special attackers, heal Aggron with Wish, and cure Mega Aggron of sleep with Heal Bell. Chansey and Blissey also work as alternative users of Wish or Heal Bell, and their enormous Special Defense let them counter nearly any special attacker. Mono-attacking Mega Aggron is completely defenseless against Fire-types and other Pokemon that resist Steel-type moves in general, so it appreciates support from the aforementioned Rotom-W.
+Sylveon can take on Mega Sableye, pass Wishes, and check special attackers that Mgea Aggron has trouble with. In return, Mega Aggron can check Poison- and Steel-type physical attackers that trouble Sylveon. Dragon-types such as Dragonite and Garchomp make for good partners, as they appreciate Mega Aggron's ability to handle most Fairy- and Dragon-types. Mega Aggron is effective at luring out and dealing with Gliscor and Landorus-T; Pokemon that appreciate these foes gone such as Terrakion are also good teammates. In general, Pokemon that can take on strong special attackers make for solid partners. Chansey is an excellent partner, being able to pass Wishes to keep Aggron healthy, ward off powerful special attackers, and cure status, which neuters Aggron.
 
 Other Options
 ########
 
-Aggron doesn't have much in the way of other options. Mega Aggron can opt to use a more offensively inclined Rock Polish sweeping set. Unfortunately, its utter lack of wallbreaking ability makes it a subpar sweeper. If you prefer Aggron's base form, then the classic Choice Band Head Smash is an option, though Aggron's low Speed and awful typing makes it a liability. Metal Burst can be used to take down opposing Pokemon who don't come close to OHKOing Mega Aggron. Unfortunately, it's unreliable and it comes at the cost of a move slot.
+Metal Burst can deal back lots of damage to Pokemon that can't OHKO Aggron; however, it uses up a valuable moveslot and is quite unreliable. A Rock Polish sweeping set is also an option, although Aggron lacks wallbreaking power, making it a subpar setup sweeper at best.
 
 Checks & Counters
 ########
 
-**Physical Walls**: Defensive Pokemon that don't particularly care about Mega Aggron's attacks are good counters. Hippowdon can effortlessly switch into Mega Aggron, wall it, and beat it with repeated uses of Earthquake. Skarmory and Ferrothorn can shrug off all of Mega Aggron's moves (though the latter must watch out for Fire Punch) and freely set up entry hazards on it.
+**Physical Walls**: Defensive Pokemon that don't particularly care about Mega Aggron's attacks are good counters. Hippowdon can effortlessly switch into Mega Aggron, wall it, and beat it with repeated uses of Earthquake. Skarmory and Ferrothorn can shrug off all of Mega Aggron's moves and freely set up entry hazards on it; however, Ferrothorn must watch out for Fire Punch.
 
-**Bulky Water-types**: Bulky Water-types can sponge just about anything Mega Aggron throws at them, and wear it down with their Water-type moves or even potentially burn it with Scald. Pokemon in this category include Rotom-W, Slowbro, Gastrodon, and Politoed.
+**Bulky Water-types**: Bulky Water-types such as Rotom-W, Mega Slowbro, and Manaphy can sponge just about anything Aggron throws at them and fish for a Scald burn or just slowly wear it down.
 
-**Physical Attackers With Super Effective Moves**: Countering Mega Aggron with offensively inclined Pokemon can prove a bit challenging due to its incredible defenses and access to Earthquake and Ice Punch. Garchomp, Excadrill, Landorus-T, and physical Lucario can take it out, but only if it has been weakened to the point where their STAB moves can OHKO it (40%-60% HP range). Otherwise, it can threaten each of them with either Earthquake or Ice Punch.
-
-**Special Attackers**: Generally speaking, special attackers that hit hard or have a super effective coverage move will come out on top against Mega Aggron. Gengar, Thundurus, and Alakazam can use Focus Blast to deal significant damage to Mega Aggron. Keldeo can effortlessly set up on Mega Aggron and threaten it and its teammates with their powered-up special attacks.
-
-**Fire- and Ground-type Special Attackers**: These are among the only Pokemon in the game that can take out Mega Aggron in one strike. Landorus can switch into the majority of Mega Aggron's attacks and completely decimate it with Earth Power. Heatran is a premier counter, but it must take care not to switch into Earthquake or Thunder Wave. Volcarona can flat-out OHKO Mega Aggron with Fire Blast, but it should be wary of the rare Rock Slide.
+**Special Attackers**: Pokemon that carry super effective moves, such as Mega Charizard Y with Fire Blast and Thundurus with Focus Blast, can easily take out Mega Aggron. Keldeo can boost with Calm Mind, and eventually break through it.
+​

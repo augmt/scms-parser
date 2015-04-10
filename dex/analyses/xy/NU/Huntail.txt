@@ -1,52 +1,84 @@
 Overview
 ########
 
-Huntail's intimidating looks shouldn't fool you; it is very underwhelming. At first glance, Huntail's access to both Shell Smash and Baton Pass allows it to provide a huge support role, while its mixed attacking stats allow it to hit hard. All of these traits may seem great until you realize that Huntail has enormous competition: Gorebyss. Gorebyss is simply better than Huntail in every way possible. While Huntail seems on par with Gorebyss, Gorebyss has a much higher Special Attack stat than Huntail, allowing it to pull off its own sweep and defend itself better. Huntail also lacks any other options that are not either very situational or just plain bad, meaning that it is outclassed in its best role. Huntail's only advantage over Gorebyss is its ability to hit Cryogonal harder after a Shell Smash, which in itself is situational.
+With access to both Coil and Shell Smash, along with Baton Pass to pass boosts to a teammate, Huntail is a versatile sweeper and support Pokemon. Gorebyss has access to the same moves, but Huntail sets itself apart with Sucker Punch, which allows it to bypass its low Speed even after a boost to clean offensive teams. Huntail also has Water Veil, which makes it immune to burns and easier to set up against bulky Pokemon such as Weezing. Still, as a boost passer, Huntail competes with Bulk Up Floatzel, which has inferior bulk but much greater Speed and access to Taunt. Huntail's low Speed also makes it reliant on Sucker Punch to sweep and gives it difficulty in passing its boosts.
 
-SmashPass
+Shell Smash
 ########
-name: SmashPass
+name: Shell Smash
 move 1: Shell Smash
 move 2: Baton Pass
 move 3: Waterfall
-move 4: Substitute / Ice Beam
+move 4: Sucker Punch
 ability: Water Veil
-item: White Herb
-evs: 252 HP / 4 Def / 252 Spe
-nature: Jolly / Naive
+item: White Herb / Life Orb
+evs: 252 Atk / 4 Def / 252 Spe
+nature: Adamant
 
 Moves
 ========
 
-Shell Smash boosts all of Huntail's attacking stats by two stages. Baton Pass is then used to pass these boosts to a teammate. Waterfall can deal some good damage after a Shell Smash, but it is mainly used to stop Huntail from being Taunt bait. Substitute allows Huntail to be safe when setting up Shell Smash, and it is also passable to a teammate with Baton Pass. Ice Beam, however, can hit Grass-types hard after a Shell Smash, and is used over Ice Fang due to the fact that the latter is rather weak and most Grass-types in the tier are physically defensive.
+Shell Smash is by far the best boosting move in the game, as it boosts Attack, Special Attack, and Speed by two stages in one turn at the cost of dropping both defensive stats by one stage. Baton Pass allows Huntail to pass Shell Smash boosts to a teammate and can be used to pivot early-game. Waterfall is Huntail's most reliable physical STAB move, while Sucker Punch compensates for Huntail's Speed, which is low even after a boost.
 
 Set Details
 ========
 
-Water Veil is the preferred ability to prevent burns from crippling Huntail. A White Herb negates the defensive drops from Shell Smash, preventing the Baton Pass receiver from being too vulnerable to attacks. 252 HP EVs add onto Huntail's overall bulk. 252 Speed EVs with either nature maximize Speed. Use a Jolly nature with Substitute and a Naive nature with Ice Beam.
+White Herb is used to make setting up easier for Huntail, and it lets a Baton Pass recipient come in more safely. Life Orb can be used instead if you prefer the extra power to help Huntail clean. Maximum Speed EVs allow Huntail to outrun everything up to Adamant Choice Scarf Sawk, including Swellow and Choice Scarf Mesprit.
 
 Usage Tips
 ========
 
-Free switches are the best way to get Huntail in. Liepard can use Prankster Encore on an opponent to force a switch, while Uxie's Memento can weaken the opponent to force them to either switch or hit Huntail with weak attacks. Huntail should pass its boosts to Pokemon that check the opponent's Pokemon in order to ensure that they can come in safely. Lastly, Huntail should pass boosts mid- or late-game, as the recipient will be very susceptible to priority and being worn down if it attempts to sweep early-game.
+By virtue of being a Water-type, Huntail gets a decent amount of setup opportunities. Against defensive teams, avoid bulky Grass-types and try to set up only when Huntail or a teammate that can get in safely can clean the opposing team. Against more offensive teams, you'll have a more difficult time finding the opportunity to set up. Your best bet is usually setting up on Choice-locked Pokemon that can't do much to Huntail. Always make sure your recipient can come in safely, especially if Huntail is running Life Orb, as the defensive drops can make it difficult to survive a hit as the recipient comes in and then survive possible priority attacks.
 
 Team Options
 ========
 
-Uxie makes a great partner for Huntail. It can provide dual screens support in order to make passing Shell Smash boosts a lot easier, and Uxie can then force switches using Memento. Xatu is also an amazing partner for Huntail. Xatu's high Special Attack stat allows it to be very threatening thanks to its access to Stored Power, which is extremely strong with all of the boosts accumulated by Shell Smash. Xatu's access to Magic Bounce also prevents phazing from Roar and Whirlwind, ensuring that it can stay in longer. Grass- and Electric-type resists make good Shell Smash recipients, as Huntail will usually be targeted with those attacks. Lastly, powerful recipients such as Kangakhan, Feraligatr, Magmortar, and Samurott are all extremely potent after a Shell Smash boost.
+Pretty much every offensive Pokemon is bound to appreciate a Shell Smash boost. In particular, Magmortar and Lilligant are good partners because of their ability to absorb hits targeted at Huntail. Lilligant resists Electric and can take on any bulky Water-types trying to wall Huntail, while Magmortar resists Grass and especially appreciates the Speed boost. Xatu is another good potential recipient, as it deflects Roar and Whirlwind with Magic Bounce, preventing it from losing boosts and forcing the opposing Pokemon out instead. It also has Stored Power to make extra use of the boosts. Toxic Spikes are a nuisance for both Huntail and most potential recipients. Vileplume can absorb Toxic Spikes and take on bulky Water-types that bother Huntail, while Garbodor can also absorb Toxic Spikes and set up entry hazards of its own to wear down Huntail's checks. Most offensive Fire-types are good partners to Huntail for their ability to take on bulky Grass-types, which wall Huntail and can prevent setup.
+
+CoilPass
+########
+name: CoilPass
+move 1: Coil
+move 2: Baton Pass
+move 3: Substitute
+move 4: Waterfall
+ability: Water Veil
+item: Leftovers
+evs: 252 HP / 252 Def / 4 SpD
+nature: Impish
+
+Moves
+========
+
+Coil is a fantastic boosting move, and even though Huntail cannot make the best use of the move, it can pass boosts along to a teammate that will appreciate them thanks to Baton Pass. Substitute allows Huntail to make the most of any switches it forces against offensive Fire-types and bulky Pokemon that cannot do much to it, and it can also allow a recipient to come in unharmed. Waterfall is Huntail's most reliable STAB move and givesHuntail a way to take advantage of its own boosts.
+
+Set Details
+========
+
+Although it might seem more logical to invest in Special Defense because Coil boosts Defense, most special attackers, including some defensive walls, can still break Huntail's Substitutes even with the investment. For this reason, it is better to invest in Defense, enhancing Huntail's already good physical bulk and giving it more setup opportunities. For example, Seismitoad's Earthquake has about a 50% chance of not breaking unboosted Huntail's Substitute, while Garbodor can never break +1 Huntail's Substitute with Gunk Shot. You can choose to run more Speed in order to outrun various defensive Pokemon, but the extra bulk goes a long way in keeping Huntail's Substitutes intact.
+
+Usage Tips
+========
+
+Thanks to its defensive investment, Huntail can set up on a lot of Pokemon, particularly bulky Water-types and most defensive Pokemon that use physical attacks. Just because you can set up doesn't mean that you should. Make sure to try to figure out how you can sweep with a boosted teammate by identifying your opponent's weak points. Sometimes you will never be able to set up Huntail because of the nature of your opponent's team. When this is the case, you're better off using Huntail as a defensive pivot, bringing it in on the Pokemon that it can wall and then using Baton Pass to bring out a teammate that can threaten the opposition.
+
+Team Options
+========
+
+Toxic Spikes can single-handedly prevent Huntail from setting up or a teammate from cleaning. Vileplume can absorb Toxic Spikes and take on bulky Grass-types that bother Huntail, while Garbodor can also absorb Toxic Spikes and set up entry hazards of its own to wear down the opposing team. In particular, your own Toxic Spikes can wear down the opposing team dramatically while Huntail sets up, allowing it to take out some Pokemon without ever attacking. A Rapid Spin or Defog user can also work to handle Toxic Spikes, but few of them share good defensive synergy with Huntail. If you choose to go this route, Cryogonal is your best bet. Having good recipients is important for Huntail to succeed. Bouffalant and Hariyama are both powerful Pokemon that appreciate the added boost to their Attack as well as the additional bulk that Coil provides. Lilligant is another interesting partner. With the ability to boost its own Special Defense with Quiver Dance, Lilligant can have a much easier time boosting with a few Coil boosts backing it up. It also takes on Electric- and Grass-type attacks aimed at Huntail. However, because it doesn't become much more immediately threatening with the boosts, Lilligant should not be your only recipient. Calm Mind Xatu also appreciates the Defense boosts and cannot be phazed by Roar or Whirlwind thanks to Magic Bounce. Much like Lilligant, Xatu should not be your only recipient, as it is a special attacker.
 
 Other Options
 ########
 
-Huntail lacks any other usable options. Super Fang seems appealing for crippling opponents, but Huntail has no space for it. Crunch can hit Mesprit for good damage, but it has no use outside of that. Sucker Punch can be used for a priority attack, but Huntail outspeeds most opponents after a Shell Smash anyways, and it is illegal with Water Veil and Shell Smash. Lastly, a Swift Swim set is usable, but once again, Gorebyss outclasses Huntail in this.
+An offensive Coil set is about as good as Huntail is going to get outside of the existing sets. Such a set has easier time setting up than a Shell Smash set does thanks to the Defense boosts that Coil provides, but the immediate power and extra Speed that Shell Smash offers is usually just strictly better. A dedicated SmashPass set can also work, but Gorebyss is slightly better in this role because it can burn foes with a more powerful Scald to help it set up. Huntail can also pass Barrier and Aqua Ring, but they don't typically do enough to warrant using. A mixed offensive Shell Smash set can also work, with Sucker Punch to hit faster Pokemon and Hydro Pump and Ice Beam for coverage, but such a set still struggles with bulky Water-types and forgoes the use of Baton Pass. Super Fang is a good move as well, but it doesn't fit with the setup playstyle of Huntail.
 
 Checks & Counters
 ########
 
-**Taunt**: Faster Taunt users can stop Huntail from setting up Shell Smash, reducing Huntail's offensive potential.
+**Grass- and Electric-types**: Although Huntail can escape them with Baton Pass after boosting, Grass- and Electric-types can prevent Huntail from setting up to begin with. Rotom-S and Vileplume are examples of Pokemon that deter Huntail.
 
-**Revenge Killers**: Choice Scarf users such as Rotom can hit Huntail hard with a STAB attack, while Choice Scarf Jynx can hit it with Lovely Kiss.
+**Taunt and Encore**: All of Huntail's sets rely on support moves to do anything noteworthy. Liepard often runs one of these moves and can prevent even Shell Smash Huntail from doing anything thanks to Prankster.
 
-**Phazing**: Haze and Roar force Huntail out, causing it to lose its boosts from Shell Smash, allowing Pokemon like Vileplume to easily switch in.
+**Roar and Whirlwind**: Much like Taunt users, Roar and Whirlwind users can make all of Huntail's boosting meaningless. However, most common users of the moves are weak to Water, making it a bit more risky of a countermeasure to Huntail than Taunt. Granbull is the notable exception.
 
-**Liepard**: Liepard's Prankster Encore can render Huntail useless.
+**Bulky Water-types**: Although they are mostly setup fodder for the Coil set, bulky Water-types completely wall the Shell Smash set. Defensive Ludicolo easily beats both sets.

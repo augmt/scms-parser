@@ -1,16 +1,15 @@
 Overview
 ########
 
-Tentacruel is blessed with a great typing, having many resistances in addition to great Special Defense and Speed. It also has access to great support moves, such as Rapid Spin and Toxic Spikes. However, Tentacruel is not without its faults; it faces stiff competition from other bulky Water-type Pokemon with Rapid Spin such as Blastoise. It has a subpar Defense, little to no offensive presence, and no reliable recovery options. It also has common weaknesses to Psychic-, Ground-, and Electric-type moves. Nonetheless, Tentacruel can be a great Pokemon to use in a team.
+With a great defensive typing and excellent natural bulk, Tentacruel has carved a niche for itself as one of the best utility Pokemon in the tier. Tentacruel is one of the few Pokemon in UU that has access to both Rapid Spin and Toxic Spikes, which helps it fill a spot in almost every team archetype. Tentacruel also has a great Speed tier for a utility pokemon, along with good offensive stats that give it a solid offensive presence. Unfortunately, Tentacruel's lack of recovery leaves it very prone to being worn down.
 
-
-Support
+Utility
 ########
-name: Support
-move 1: Scald
-move 2: Toxic Spikes / Toxic
-move 3: Knock Off
-move 4: Rapid Spin
+name: Utility
+move 1: Rapid Spin
+move 2: Toxic Spikes
+move 3: Scald
+move 4: Knock Off / Toxic / Sludge Bomb
 ability: Liquid Ooze
 item: Black Sludge
 evs: 240 HP / 244 Def / 24 Spe
@@ -19,47 +18,37 @@ nature: Bold
 Moves
 ========
 
-Scald's burn chance can help patch up Tentacruel's poor Defense while also providing it with a reliable STAB attack. Toxic Spikes is useful for the passive damage it inflicts on grounded Pokemon. It's also the main reason why you would use Tentacruel over other Rapid Spin users. Toxic is a nice alternative, as it can inflict poison on Flying-type or Pokemon with Levitate, which are not affected by Toxic Spikes. Knock Off removes items from opposing Pokemon, which helps greatly when facing stall-based teams. Rapid Spin is obviously the most important move, and allows Tentacruel to support its team by removing entry hazards.
+Rapid Spin gets rid of entry hazards and supports its teammates. Toxic Spikes wears down the opponent's grounded Pokemon, and especially helps against bulky ones, such as Vaporeon, Chesnaught, and Swampert. Scald is a good STAB move that gives Tentacruel offensive presence and cripples physical attackers, thus complementing Tentacruel's physical bulk. Knock Off is great when paired with Toxic Spikes, as it helps by further wearing down the opponent's team and removing foe's items. Toxic helps wear down non-grounded Pokemon, which are immune to Toxic Spikes. Sludge Bomb is a secondary STAB move that helps Tentacruel beat Fairy- and Grass-types more effectively.
 
 Set Details
 ========
 
-The EV spread aims to patch up Tentacruel's lackluster Defense and increase its overall bulk, allowing it to check the majority of physical attackers in the tier such as Mienshao and Infernape. A Bold nature further increases Tentacruel's Defense and allows Tentacruel to survive many physical hits. The Speed EVs allow Tentacruel to outspeed Pokemon such as Honchkrow and attempt to burn them with Scald. Black Sludge gives Tentacruel a way to recover lost HP from switching into entry hazards or from burn damage. Liquid Ooze lets Tentacruel fare better against Leech Seed users or other Pokemon that carry draining moves because they will lose HP instead.
+The given EVs with a Bold nature maximize Tentacruel's physical bulk, allowing it to take on a plethora of Fire- and Fighting-types in the tier, as well as outspeeding Adamant Honchkrow. Black Sludge, Tentacruel's only method of recovery, is used over Leftovers to scare away Trick users. Liquid Ooze is the preferred ability, as it punishes Leech Seed, Giga Drain, and Drain Punch users. Liquid Ooze also allows Tentacruel to reliably beat Chesnaught, a common Spikes setter.
 
 Usage Tips
 ========
 
-Tentacruel has trouble switching into many physical moves, so be wary when switching into most physical attackers. Try not to get Tentacruel burned because it has no way of curing it without cleric support. As Tentacruel forces quite a bit of switches, using the time to set up Toxic Spikes is a good idea. If you're not running Toxic Spikes, using Scald to attempt to burn the next switch-in is a smart move, because it might cripple the Pokemon. In addition, use Rapid Spin to support your team when needed.
+Tentacruel should be brought in on weak or resisted hits to aid its team with Rapid Spin or Toxic Spikes. Even with HP and Defense investment, Tentacruel struggles with strong physical and special attacks, and as it lacks reliable recovery, it's important to keep it as healthy as possible. However, it should be brought in often if entry hazards are stacking up, as neither Tentacruel nor its teammates appreciate having to take the extra damage. In the event that Tentacruel is able to force a switch, try to set up Toxic Spikes or use Scald for a possible burn.
 
 Team Options
 ========
 
-Celebi makes an excellent partner. It has great type synergy with Tentacruel as well as access to Heal Bell to cure status that would otherwise trouble Tentacruel. Many Fire-type Pokemon appreciate Tentacruel's Rapid Spin support such as Darmanitan, Chandelure, and Entei. However, they share a Ground-type weakness with Tentacruel. Tentacruel fits well on stall-based or balanced teams because it can absorb Toxic Spikes as well as set up its own. It also provides valuable Rapid Spin support. Although Tentacruel is a great team supporter, it appreciates support as well. Due to the fact that it has no reliable recovery or any way to remove status, Florges and Umbreon make excellent partners, as they have access to Aromatherapy and Heal Bell, respectively. Jirachi also makes a good teammate because it can set up Stealth Rock as well as pass Wishes, although it shares a Ground-type weakness with Tentacruel.
+Tentacruel appreciates Wish support; therefore, Pokemon such as Umbreon, Florges, and Aromatisse work well with it. Umbreon gets a special mention, as it has excellent synergy with Tentacruel; Tentacruel takes Fighting- and Bug-type attacks for Umbreon, while it takes Psychic-type attacks aimed at Tentacruel. Bulky Grass-types such as Shaymin work well, as they take on the Ground- and Electric-type Pokemon that give Tentacruel trouble. Pursuit trappers make for good partners, as they can trap the Psychic-types that give Tentacruel trouble. Krookodile gets a special mention here, as it can also hit the Steel- and Poison-types which are immune to Toxic&mdash;and the latter of which removes Tentacruel's Toxic Spikes. Hydreigon is a great partner for Tentacruel, as they have perfect defensive synergy together; Tentacruel resists all four of Hydreigon's weaknesses, and Hydreigon is immune to both Ground and Psychic and resists Electric. Pokemon that take advantage of Toxic Spikes are great partners for Tentacruel. Other hard-hitting Pokemon that appreciate Tentacruel's help in wearing down their grounded switch-ins, such as Mega Aerodactyl or Entei, are good partners for Tentacruel.
 
 Other Options
 ########
 
-The ability Rain Dish can be used on Rain Dance teams, but because the weather only lasts five to eight turns, it's not really good. Acid Spray and Sludge Bomb can be used to provide Poison-type STAB, though they have little use outside of that. An offensive Rapid Spin set can be used, though Starmie and Blastoise outclass Tentacruel in that regard. Mirror Coat is an interesting option that can be run to surprise many special attackers. An Assault Vest set with the EV spread of 120 HP / 252 SpA / 120 SpD / 16 Spe can be used to further increase Tentacruel's bulk and maximize it's Special Attack, however it loses useful support moves such as Toxic and Toxic Spikes, while also lacking the passive recovery from Black Sludge. A specially defensive EV spread can also be used to allow Tentacruel to better check special attackers such as Roserade and Houndoom. Protect can be used to allow Tentacruel Toxic stall a variety of Pokemon as well as allowing it to heal itself with Black Sludge, but it's hard to find a moveslot for it. A Choice Scarf or Choice Specs set can also be used, however as stated previously, Tentacruel loses its passive recovery from Black Sludge and its ability to utilize its great support options.
+Clear Body lets Tentacruel use Rapid Spin against Sticky Web teams without a Speed drop; however, Liquid Ooze is generally the superior option. Haze is an option to deal with setup sweepers that try to set up for free on Tentacruel. Finally, Ice Beam and Icy Wind are options to hit Dragon-types on the switch. Ice Beam hits harder, while Icy Wind offers significant utility to Tentacruel's teammates in speed control.
 
 Checks & Counters
 ########
 
-**Jellicent**: Jellicent is immune to Rapid Spin, can switch into Scald and heal itself courtesy of Water Absorb, and wear down Tentacruel with Shadow Ball. It can also Taunt Tentacruel to prevent it from setting up Toxic Spikes or stalling with Toxic.
+**Psychic-types**: Psychic-types such as Alakazam and Espeon take minimal damage from Scald and can threaten Tentacruel with a powerful STAB move.
 
-**Toxicroak**: Toxicroak absorbs Toxic Spikes, is immune to Toxic, and recovers HP when hit by Scald thanks to Dry Skin. In addition, it can Taunt Tentacruel or use it as setup fodder.
+**Dragon-types**: Every Dragon-type in the tier threatens Tentacruel with a strong STAB move or a boosting move, and doesn't care about Scald damage. Physical ones such as Salamence or Haxorus need a Lum Berry to avoid getting burned, though.
 
-**Celebi**: Celebi can use Psychic and hit Tentacruel for super effective damage and set up Nasty Plot or Calm Mind. It also doesn't care too much about Scald's burn chance thanks to Natural Cure.
+**Ground-types**: Most Ground-types can threaten out Tentacruel with an Earthquake. Krookodile, Nidoking, and Flygon are more dangerous as they can also outspeed Tentacruel. Swampert threatens Tentacruel and shrugs off damage from Scald.
 
-**Shaymin**: Similar to Celebi, Shaymin can wear out Tentacruel with Seed Flare or Psychic and does not care about Scald's burn rate thanks to Natural Cure.
+**Electric-types**: Mega Ampharos, Heliolisk, and offensive Rotom-H threaten Tentacruel with STAB Thunderbolt and&mdash;with the exception of Rotom-H&mdash;don't care about Scald.
 
-**Gastrodon**: Gastrodon can absorb Scald with Storm Drain and force out Tentacruel with a +1 Earth Power.
-
-**Nidoqueen and Nidoking**: Nidoking and Nidoqueen can both check Tentacruel with Earth Power, but they take a lot of damage from Scald.
-
-**Ground-type Pokemon**: Most Ground-type Pokemon such as Flygon can KO Tentacruel, but have to watch out for a super effective Scald.
-
-**Kyurem**: Kyurem takes pitiful damage from Scald, and can then proceed to use Substitute and Roost or KO Tentacruel with Earth Power.
-
-**Hydreigon**: Hydreigon, similar to Kyurem, can wear down Tentacruel with its attacks, but if it's physically based, it has to watch out for Scald's burn chance.
-
-**Cacturne**: Cacturne is immune to Scald thanks to Water Absorb and can use Tentacruel as setup fodder to set up with Swords Dance.
+**Residual Damage**: Tentacruel lacks reliable recovery, so it has issues with being worn down by burn damage and other residual damage.

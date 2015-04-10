@@ -1,9 +1,71 @@
 Overview
 ########
 
-Kyurem's Dragon / Ice typing is decent defensively, resisting Grass-, Water-, and Electric-type attacks. It also has great offensive coverage, only being resisted by Steel-types, which are taken care of by Earth Power. Its typing along with its 125 / 90 / 90 bulk means that it can take hits, while its 130 / 130 offenses means it isn't a sitting duck. This allows its Pressure ability to shine, as it means it can effectively stall the PP out of super effective attacks such as Stone Edge and Close Combat. Kyurem has reliable recovery which improves its ability to Pressure stall. It is also the only Pokemon in UU with the ability to use Pressure stall effectively and still have an offensive presence.
+Kyurem is one of the most versatile Pokemon in the entire UU metagame. With an excellent base 130 Special Attack and decent base 95 Speed, it is very effective as a wallbreaker or a revenge killer, giving both bulky teams and hyper offense teams headaches. Additionally, Kyurem's 120 / 90 / 90 bulk, surprisingly decent defensive typing, and Pressure allow it to be a formidable PP staller, all while maintaining a strong offensive presence. Kyurem can even get past opposing Steel- and Fairy-types that can switch into its STAB attacks with Earth Power and Flash Cannon, respectively. On the downside, while base 95 Speed is enough for Kyurem to revenge kill with a Choice Scarf, it's fairly lackluster on its own, leaving Kyurem outsped by threats such as Mega Aerodactyl, Mega Pidgeot, and Cobalion. While Kyurem's typing gives it useful resistances to Grass-, Water-, and Electric-type attacks, it also gives Kyurem weaknesses to Dragon- and Fighting-type moves. This makes Kyurem easily revenge killed, as most Dragon- and Fighting-types such as Salamence and Mienshao outspeed it. Kyurem also possesses a nasty weakness to Stealth Rock, meaning it will have trouble switching in, which it must do often if it is running a Choice item. Nonetheless, Kyurem's versatility in UU means it should always be considered for a team of any archetype.
 
-However, Kyurem does have flaws stopping it from being a top tier threat. It has a hard time getting around special walls such as Blissey, Umbreon, Florges, and Snorlax. Even with Focus Blast, it still cannot get past Blissey or Florges, two Pokemon that hard-wall Kyurem. It is stuck at the 95 Speed tier, which means that there are many threats that can put a stop to Kyurem, such as Hydreigon, Infernape, and Mienshao, which all carry a STAB move that can outright OHKO Kyurem.
+Choice Specs
+########
+name: Choice Specs
+move 1: Draco Meteor
+move 2: Ice Beam
+move 3: Earth Power
+move 4: Focus Blast / Dragon Pulse / Flash Cannon
+ability: Pressure
+item: Choice Specs
+evs: 252 SpA / 4 SpD / 252 Spe
+nature: Timid / Modest
+
+Moves
+========
+
+Draco Meteor is extremely powerful due to the STAB boost and Choice Specs, and it isn't even that weak if Kyurem needs to use it consecutively. Ice Beam is a more reliable STAB attack that does not lower Kyurem's Special Attack and still hits hard with Choice Specs. Earth Power smashes the Fire-types that resist Ice Beam and the Steel-types that resist both Ice Beam and Draco Meteor. Focus Blast allows Kyurem to break Umbreon, Snorlax, and Blissey. Dragon Pulse is an alternate STAB move with good neutral coverage, hitting Kingdra and opposing Kyurem super effectively, while Flash Cannon is another option for Kyurem to beat Florges.
+
+Set Details
+========
+
+Choice Specs boosts Kyurem's Special Attack, making it a fearsome wallbreaker. Speed and Special Attack are maximized to make the most of Kyurem's wallbreaking potential. A Timid nature is preferred to get the jump on positive-natured Roserade, Krookodile, and Heracross, though a Modest nature can be used to 2HKO Florges or Blissey with Flash Cannon and Focus Blast, respectively. Alternatively, a bulky spread of 252 HP / 252 SpA / 4 SpD prolongs Kyurem's presence on the battlefield.
+
+Usage Tips
+========
+
+This set has the role of a wallbreaker, so use Kyurem in the early-game or mid-game in order to wear down the opposing team. Though Draco Meteor hits extremely hard, don't spam it, as its side effect of lowering Kyurem's Special Attack allows Kyurem to be walled after enough uses of the move. Moreover, as Kyurem will be switching out often, use this set as a way to pivot around, and be sure to clear the field of entry hazards so Kyurem can come back in safely.
+
+Team Options
+========
+
+If running a Timid nature, entry hazard support is required for Kyurem to 2HKO Blissey and Florges with Focus Blast and Flash Cannon, respectively. Swampert, Azelf, Empoleon, and Gligar can all set up Stealth Rock to aid Kyurem's wallbreaking. Setup sweepers such as Lucario and Haxorus appreciate Kyurem wearing down walls, thus aiding their sweeps. Entry hazard removal is necessary so Kyurem can switch out in order to change moves. Blastoise is a great spinner that forms a dual-wallbreaking core with Kyurem.
+
+Choice Scarf
+########
+name: Choice Scarf
+move 1: Draco Meteor
+move 2: Ice Beam
+move 3: Earth Power
+move 4: Dragon Pulse
+ability: Pressure
+item: Choice Scarf
+evs: 4 Def / 252 SpA / 252 Spe
+nature: Timid
+
+Moves
+========
+
+Draco Meteor is very powerful coming off of a base 130 Special Attack stat. Ice Beam is a more reliable STAB attack that does not lower Kyurem's Special Attack. Earth Power hits the Steel-types that wall Kyurem's STAB combination, such as Mega Aggron, as well as Fire-types such as Entei, which resist Ice Beam. Dragon Pulse is an alternative STAB attack that gives Kyurem a better shot at beating bulky Water-types such as Suicune.
+
+Set Details
+========
+
+Choice Scarf boosts Kyurem's lackluster base 95 Speed to outspeed the entire unboosted metagame and make it a solid revenge killer. Special Attack and Speed are maximized to increase Kyurem's offensive capability. A Timid nature allows Kyurem to Speed tie with other Choice Scarf Pokemon with base 95 Speed, such as Darmanitan.
+
+Usage Tips
+========
+
+As Kyurem has no way of boosting its offense, this set is relegated to the role of a late-game cleaner. If the opposing team hasn't been weakened enough, you may need to switch Kyurem out frequently in order to change moves, so keep Stealth Rock off the field at all times. Use this set to land a surprise KO on Kyurem's checks such as Infernape and Mega Aerodactyl, which would outspeed and OHKO Kyurem otherwise.
+
+Team Options
+========
+
+As Choice Scarf Kyurem sometimes finds itself lacking in power, a physical wallbreaker such as Darmanitan can wear down the special walls that Kyurem can't break. Heal Bell support from Florges can heal Kyurem's paralysis, as Kyurem loses its ability to revenge kill if it is paralyzed. Entry hazard control is important to allow Kyurem to have an easier time landing KOs and to switch in more easily. Forretress and Donphan can both set entry hazards and remove them.
 
 SubRoost
 ########
@@ -11,35 +73,35 @@ name: SubRoost
 move 1: Substitute
 move 2: Roost
 move 3: Ice Beam
-move 4: Earth Power / Dragon Tail
+move 4: Earth Power / Toxic
 ability: Pressure
-item: Life Orb / Leftovers
-evs: 56 HP / 236 SpA / 216 Spe
+item: Leftovers / Life Orb
+evs: 56 HP / 220 SpA / 232 Spe
 nature: Timid
 
 Moves
 ========
 
-Substitute allows Kyurem to avoid status and helps it effectively Pressure stall, as it tends to be faster than most, if not all, walls. Roost is for reliable recovery and allows Kyurem to Pressure stall even longer. Ice Beam is a reliable STAB move and hits hard with a Life Orb boost and Special Attack investment. Earth Power has great synergy with Ice Beam, hitting Fire- and Steel-types super effectively while hitting Water-types harder than Ice Beam. Dragon Tail is an option if your team stacks entry hazards, as it phazes and helps rack up chip damage.
+Substitute allows Kyurem to absorb status and PP stall the foe with Pressure as they try to break the Substitute. Roost heals off the HP lost by using Substitute and makes Kyurem harder to take down in general. Ice Beam is Kyurem's STAB move and gives it solid offensive presence, despite being a wall. Earth Power has great synergy with Ice Beam, hitting the Steel- and Fire-types that resist Kyurem's Ice-type STAB move, in addition to hitting bulky Water-types harder. Alternatively, Toxic can be used to put a timer on opposing sweepers and defensive Pokemon. With Toxic in combination with Substitute and Roost, Kyurem can do a great job at stalling its foes.
 
 Set Details
 ========
 
-The 56 HP EVs give Kyurem 405 HP in total, allowing Kyurem to have 101 HP Substitutes, which is ideal to avoid the Substitute being broken by Seismic Toss and to survive four switches into Stealth Rock. Timid is the ideal nature when combined with 216 Speed EVs, as they allow Kyurem to outspeed positive nature base 90 Speed Pokemon. While Dragon Tail is an option, it isn't going to be a powerful attack, as it is only used for phazing. Life Orb is used to ensure Kyurem hits harder, which works well as Kyurem has reliable recovery in Roost, mitigating the HP loss from making Substitutes and Life Orb recoil. Leftovers is also an option, which allows Kyurem to have more survivability at the cost of power.
+The given HP EVs allow Kyurem to make 101 HP Substitutes, preventing Blissey from breaking its Substitutes with a single Seismic Toss. 232 Speed EVs and a Timid nature are necessary to outspeed Jolly Krookodile. The remaining EVs are dumped into Special Attack to make Kyurem as powerful as possible. Leftovers promotes Kyurem's longevity and makes it very difficult to take down in combination with Substitute and Roost. Alternatively, Life Orb raises the power of Kyurem's attacks, and Roost can heal off the recoil from Life Orb. Pressure makes foes lose 2 PP whenever they use a move. Couple that with Kyurem's bulk, and it becomes adept at PP stalling.
 
 Usage Tips
 ========
 
-This set can be used throughout the game to Pressure stall low PP moves, like Draco Meteor, Stone Edge, and Close Combat. Its move coverage coupled with its decent Special Attack means it can wear the opponent down while stalling out hits that could spell doom. This set must be very wary of Infiltrator users such as Crobat, as Infiltrator can now hit through Substitutes.
+This set is for stalling out low PP moves such as Draco Meteor, Close Combat, and Stone Edge. Kyurem can be brought in at any point in the game to stall, but make sure to bring it into battle against Pokemon that can't break its Substitute with one hit, such as Blissey. Infiltrator users such as Crobat and Noivern can hit through Kyurem's Substitute and give it trouble, so be cautious if the opponent packs one. Kyurem's offensive capability turns it into a tank instead of a wall, so take advantage of it to weaken foes as they try to break Kyurem down. This set struggles mightily with dedicated walls, so be sure to scout with Substitute and Toxic in order to win stall wars.
 
 Team Options
 ========
 
-Kyurem really loves entry hazards removed, as it is susceptible to all of them, especially Stealth Rock. Mega Blastoise makes a great partner, as it can wallbreak with its Mega Launcher boosted attacks, and its bulk allows it to spin multiple times throughout the match. Florges is an amazing partner, as it takes all the Dragon- and Fighting-type attacks aimed at Kyurem. Although they are both weak to Steel, it isn't that common of an attacking type. Kyurem also loves its own hazard support, as it forces switches with the Pressure stalling. More specifically, Kyurem likes Spikes support, as most common switch-ins are Fighting-types such as Infernape or Mienshao.
+A physical wallbreaker such as Mienshao can deal with the Pokemon that wall Kyurem, making it easier for Kyurem to outstall the opponent's team. An entry hazard remover such as Mega Blastoise can allow Kyurem to enter the battlefield unscathed. Mega Blastoise also doubles as a wallbreaker that can help Kyurem win stall wars should it lack Toxic. Florges can take the Dragon- and Fighting-type attacks that hit Kyurem for massive damage. As many of Kyurem's checks are Fighting-types, Spikes is preferred over Stealth Rock to help it wear down its checks. Forretress provides Spikes and removes entry hazards on Kyurem's side of the field. Offensive Pokemon such as Salamence appreciate Kyurem's ability to stallbreak, allowing them to set up and sweep.
 
-Life Orb
+Life Orb Attacker
 ########
-name: Life Orb
+name: Life Orb Attacker
 move 1: Draco Meteor
 move 2: Ice Beam
 move 3: Earth Power
@@ -52,99 +114,35 @@ nature: Hasty / Timid
 Moves
 ========
 
-Draco Meteor is a STAB nuke, but comes with a detrimental Special Attack drop that prevents it from being spammed. Ice Beam is a weaker STAB move, but it allows Kyurem to stay in and keep wearing the opponent down. Earth Power hits the Steel-types that resist Kyurem's STAB combination. Outrage is to get around special walls such as Blissey, while Iron Head is specifically for Florges, a common switch-in to Kyurem. Roost, however, provides reliable recovery and helps mitigate Life Orb recoil.
+Draco Meteor hits Kyurem's foes very hard with the boosts from STAB and Life Orb. Ice Beam is a second STAB attack that does not lower Kyurem's Special Attack, making it far more spammable than Draco Meteor. Earth Power hits the Steel-, Fire-, and Water-types that resist Kyurem's other attacks. Outrage is great for cleaning up in the late-game and taking on most special walls, while Iron Head 2HKOes Florges. If your team already handles special walls well enough, Roost can be used in the fourth slot to recover Life Orb damage. Kyurem is bulky enough to make use of recovery even on an offensive set such as this one.
 
 Set Details
 ========
 
-The EVs are tailored for hitting as hard as possible on the special side while using Kyurem's base 130 Attack to its advantage. It should be noted that 104 Atk EVs guarantee the 2HKO on Umbreon with Outrage, but that is the only reason to invest more than 4 EVs into Attack as Outrage 2HKOes Blissey. A Hasty nature is used to increase damage so that Outrage or Iron Head can hit harder, but a Timid nature is preferred if Roost is selected for the fourth moveslot.
+Life Orb makes Kyurem function as a sweeper by boosting the power of its attacks and giving it the freedom to change moves at will. Special Attack and Speed are maximized to give Kyurem as much offensive presence as possible. A Hasty nature is necessary to outspeed base 90 Speed Pokemon and tie with other base 95 Speed Pokemon, and to not lower Kyurem's Attack should it be running Outrage or Iron Head. However, if running Roost, use a Timid nature instead.
 
 Usage Tips
 ========
 
-This set takes advantage of Kyurem's 130 / 130 attacking stats along with the power Life Orb provides help Kyurem to hit hard both physically and specially. The coverage Kyurem has is a godsend, as it weakens the team to let late-game cleaners to come in and finish off the opponent. It can also weaken walls so that setup sweepers can set up and power through the opponent.
+Due to Life Orb boosting Kyurem's damage output, this set has the role of a wallbreaker. The ability to switch moves means that Kyurem can stay in and sweep on its own, so this set does not rely heavily on entry hazard removal. Kyurem has few switch-ins because it hits both physically and specially, and it threatens Florges with the presence of Iron Head.
 
 Team Options
 ========
 
-Florges is still an excellent partner for this set, especially if Kyurem doesn't opt for Roost, as it appreciates the Wish / Aromatherapy support. This set really appreciates cleaners and setup sweepers as partners, such as Choice Scarf Krookodile or Swords Dance Lucario. This set also appreciates entry hazard support to secure OHKOs. Forretress is a great partner as most of Kyurem's checks are weakened by Spikes. Sticky Web also helps Kyurem outspeed faster threats. Galvantula or Shuckle can work, with the former providing offensive pressure and the latter able to consistently set Sticky Web up, should it be Defogged or spun away.
-
-Choice Scarf
-########
-name: Choice Scarf
-move 1: Draco Meteor
-move 2: Ice Beam
-move 3: Earth Power
-move 4: Outrage
-ability: Pressure
-item: Choice Scarf
-evs: 4 Atk / 252 SpA / 252 Spe
-nature: Hasty / Mild
-
-Moves
-========
-
-Draco Meteor is the hardest hitting STAB move with a nasty secondary effect that often forces Kyurem out. Ice Beam, on the other hand, is a more spammable STAB move. Earth Power rounds out Kyurem's coverage, hitting Steel- and Fire-types that plague Kyurem. Outrage allows Kyurem to hit fast, frail threats on the physical side or break though special walls, such as Blissey or Goodra.
-
-Set Details
-========
-
-A Hasty nature is used so that Kyurem can outspeed Jolly Choice Scarf base 95 Speed Pokemon. A Mild nature can be used to boost Special Attack if Choice Scarf Pokemon in that speed tier aren't a problem to the team. The EVs simply capitalize on Kyurem's Special Attack and Speed with the four leftover EVs put in Attack to boost Outrage's power.
-
-Usage Tips
-========
-
-This set gets the jump on some of Kyurem's checks, as most expect the SubRoost set. Choice Scarf allows Kyurem to outpace threats that tend to threaten Kyurem, such as Infernape, Mega Aerodactyl, and non-Choice Scarf Mienshao. This set also has no means of recovery, so it should be used late-game after the opponent is worn down by Kyurem's teammates to clean up or act as a revenge killer.
-
-Team Options
-========
-
-Although Choice Scarf Kyurem can surprise some of its checks, it doesn't have the power that Choice Specs or Life Orb has and thus needs a wallbreaker. Choice Band Victini does this well, resisting Fighting- and Steel-type moves aimed at Kyurem. Florges is still a great partner to this set, especially as Kyurem is more prone to paralysis and has no recovery, so Wish / Aromatherapy support alleviates that. Entry hazard support and removal is almost necessary with this set as it doesn't have the power to OHKO or 2HKO Pokemon by itself like Life Orb Kyurem does, and it is easily worn down by entry hazards. Forretress is an excellent partner as it sets up Spikes, Stealth Rock, and can spin away any entry hazards. Sticky Web isn't as needed on this set, but it helps Kyurem by allowing it to outspeed other Choice Scarf Pokemon with 95 or more base Speed.
-
-Choice Specs
-########
-name: Choice Specs
-move 1: Draco Meteor
-move 2: Ice Beam
-move 3: Earth Power
-move 4: Dragon Pulse / Flash Cannon / Focus Blast
-ability: Pressure
-items: Choice Specs
-evs: 252 SpA / 4 SpD / 252 Spe
-nature: Timid / Modest
-
-Moves
-========
-
-Draco Meteor and Ice Beam are great STAB moves that hit hard thanks to Choice Specs. Earth Power puts the Fire- and Steel-types in their place. Dragon Pulse provides a more reliable Dragon-type STAB move, allowing Kyurem to stay in and not lose momentum. Flash Cannon hits Florges and Focus Blast allows Kyurem to power through the other special walls, such as Snorlax and Umbreon.
-
-Set Details
-========
-
-These EVs are standard for a special sweeper, with max Special Attack, max Speed, and a Timid nature. This, combined with Choice Specs, makes Kyurem extremely lethal. However, a Modest nature can be used as most of Kyurem's checks are faster. It should be noted that with a Modest nature, Kyurem can 2HKO Florges after Stealth Rock damage with Flash Cannon. Sticky Web from the likes of Galvantula or Shuckle really helps this set to outspeed faster threats and kill them.
-
-Usage Tips
-========
-
-This set is meant to wallbreak and use Kyurem's nice offensive typing to its advantage. This set plays as more of a pivot thanks to its main STAB attack, Draco Meteor, lowering its Special Attack by two stages every time it is used. However, depending on its last move, it can also stay in and just spam a move until it is KOed.
-
-Team Options
-========
-
-Kyurem appreciates entry hazard removal as it is susceptible to all of them and this set plays like more of a pivot. Mega Blastoise is a decent partner as its natural bulk allows it to spin multiple times throughout the match, and it complements Kyurem's wallbreaking capabilities. This set appreciates setup sweepers such as Swords Dance Lucario and Mienshao as partners, due to Kyurem crippling walls, allowing for easier setup opportunities. This set still appreciates entry hazard support to secure OHKOs.
+Late-game cleaners such as Mega Beedrill appreciate Kyurem's wallbreaking ability, making it easier for them to finish off the weakened opposing team. Wish support from Florges can help Kyurem stay healthy enough to sweep. Entry hazard support from a setter such as Forretress or Donphan is important to allow Kyurem to have an easier time landing KOs. Sticky Web support from Galvantula or Shuckle allows Kyurem to outspeed some of its checks, such as Infernape.
 
 Other Options
 ########
 
-A physically biased mixed set is an option, using moves such as Outrage, Iron Head, Ice Beam, and Roost with a Life Orb. This is usually not as viable because Kyurem doesn't have a decent physical Ice-type STAB attack and being locked into Outrage isn't ideal, consdering how common Florges is. Kyurem can also use dual screens, as it has reliable recovery in Roost, but this is usually a waste as it leaves Kyurem with one attack, meaning it can't set up on the threats that already plague it. A Substitute + Toxic set is also very plausible, using Substitute / Roost / Toxic / Ice Beam or Dragon Pulse. An utility counter set, with Ice Beam / Earth Power / Dragon Tail / Roost is also plausible, but it has a hard time without Substitute, as status is a huge problem and Kyurem is crippled by all of them. Blissey also is able to almost always safely switch in, as Dragon Tail doesn't do enough damage and Ice Beam and Earth Power deal little damage to Blissey.
+Hone Claws can be used to boost Kyurem's Attack, but Kyurem has no physical Ice-type STAB moves to take advantage of, so it is outclassed by Kyurem's other offensive options. Dual screens can provide Kyurem's teammates with some extra bulk, but Kyurem is better off attacking or stalling. Dragon Tail allows Kyurem to phaze stat boosters that attempt to use its SubRoost set as setup bait.
 
 Checks & Counters
 ########
 
-**Special Walls**: Florges, Snorlax, and Umbreon all wall Kyurem with ease and Kyurem has no way to get around them without coverage, which it cannot run on its SubRoost set, the most common Kyurem set. Kyurem usually doesn't run both coverage moves as it needs Iron Head to get around Florges, Focus Blast to get around Umbreon and non-Assault Vest Snorlax, and Outrage to get around Blissey.
+**Fighting-types**: Fast Fighting-types such as Mienshao and Infernape outspeed most variants of Kyurem and threaten it with their STAB moves.
 
-**Fast Fighting-types**: Infernape and Mienshao both threaten Kyurem with their STAB moves. Any of these Fighting-types can outspeed Kyurem and OHKO it. A special mention goes to Mienshao, as its most common set is its Choice Scarf set, meaning most of the time Kyurem will not be able to outspeed and OHKO it.
+**Fast Dragon-types**: Both Hydreigon and Haxorus outspeed Kyurem and OHKO it with their Dragon-type STAB attacks.
 
-**Steel-Types**: Although hit hard by Earth Power, specially defensive Steel-types can take Kyurem's coverage moves and resists its STAB combination. Specially defensive Jirachi, Assault Vest Metagross, and Bronzong are just a few. Bronzong gets a special mention as it takes both of Kyurem's STAB moves with ease and is immune to Earth Power, thanks to Levitate.
+**Special Walls**: Even with Outrage, Iron Head, and Focus Blast, Kyurem still struggles against Blissey, Snorlax, Umbreon, and Florges.
 
-**Hydreigon**: With its base 98 Speed, Hydreigon is able outspeed Kyurem and take on any of its sets. It does, however, have to watch out for Choice Scarf Kyurem and SubRoost if it has a Substitute up as Kyurem's STAB moves threaten Hydreigon.
+**Specially Defensive Steel-types**: Bulky Steel-types such as Bronzong and Escavalier hard counter Kyurem because they wall all of its common special attacking moves and resist Outrage.

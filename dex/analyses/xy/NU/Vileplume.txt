@@ -1,86 +1,88 @@
 Overview
-#######
+########
 
-With its great Grass / Poison typing and solid defensive and offensive stats, Vileplume is one of the best offensive tanks in the tier. It has a very powerful STAB combination that hits most of the tier for neutral damage, as well as great utility moves in Aromatherapy and Sleep Powder, which help it to utilize both its offensive and defensive capabilities. Effect Spore is a unique ability that has the chance to cripple attackers that rely on contact moves. Vileplume's great Special Attack stat prevents it from being setup fodder while also allowing it to perform an effective offensive role. Unfortunately, Vileplume's low Speed stat means that it will have to take multiple hits before healing or attacking. Vileplume is also weak to common wallbreakers such as Typhlosion and Mesprit, and the Pokemon that it usually checks often carry coverage moves for Vileplume, such as Ice Punch on Feraligatr or Hidden Power Ice on Lilligant.
+Thanks to its great typing and solid defenses, Vileplume shines as one of the finest defensive and offensive pivots in the tier. Its typing gives it invaluable resistances to Electric-, Grass-, Water-, and, most importantly, Fighting-type moves, while providing it with an immunity to powder moves, Leech Seed, and Toxic. This typing is a bit of a double-edged sword, however, as it gives Vileplume a weakness to the very common Psychic- and Fire-types in the tier. Access to recovery options in both Giga Drain and Moonlight further enhances its durability and ability to handle many offensive Pokemon. Effect Spore is a great ability, potentially leaving you with an advantage and sometimes winning you the game. Unlike some other defensively-inclined Pokemon, Vileplume also has a great Special Attack stat that allows it to hit hard even without investment, and even viably run an offensive set. Unfortunately, only above-average defenses mean very strong attackers can break through it, and its low Speed means it will rarely be moving first. Depending on its last moveslot, it can also provide opportunities for Poison- and Steel-types such as Garbodor and Ferroseed to switch in and set up entry hazards all over it. Vileplume's strengths largely outweigh its flaws, however, making it one of the most popular choices for balanced and bulky offensive teams while fitting in almost any playstyle.
 
 Defensive
 ########
 name: Defensive
 move 1: Giga Drain
-move 2: Sludge Bomb
-move 3: Synthesis
-move 4: Hidden Power Fire / Aromatherapy / Sleep Powder
+move 2: Moonlight
+move 3: Sludge Bomb
+move 4: Sleep Powder / Aromatherapy
 ability: Effect Spore
 item: Black Sludge
-evs: 252 HP / 252 Def / 4 SpA
+evs: 248 HP / 252 Def / 8 SpD
 nature: Bold
 
 Moves
-======
+========
 
-Giga Drain is a decently powerful STAB move that hits Pokemon such as Feraligatr and Sandslash while also providing useful recovery. Sludge Bomb is Vileplume's secondary STAB move; it has a 30% chance to poison the opponent and hits opposing Grass- and Flying-types such as Tangela and Xatu, respectively. Synthesis is a semi-reliable form of recovery that keeps Vileplume healthy throughout the match. Hidden Power Fire is used as coverage to hit Steel-types such as Klinklang, Ferroseed, and Pawniard. Aromatherapy can be used instead to heal off status conditions from Vileplume's teammates. Sleep Powder can be used to cripple an attacker, but the poison chance from Sludge Bomb and Effect Spore already do a good job of spreading status. The latter two moves should only be chosen if you have a teammate that can handle the mentioned Steel-types and prevent them from setting up on Vileplume.
+Giga Drain is a decently strong STAB move that lets Vileplume restore some HP. Moonlight provides Vileplume with reliable recovery, allowing it to heal itself when damaged and come in more easily throughout the match. Sludge Bomb is Vileplume's strongest STAB move and has a nifty 30% chance to poison the foe, which when paired with Effect Spore gives Vileplume a high chance to cripple the foe. Vileplume has several options for its fourth moveslot that cripple some of its checks and counters. Sleep Powder puts common switch-ins such as Garbodor and Mega Camerupt to sleep, letting Vileplume fearlessly switch out to a teammate and generate free turns. Aromatherapy works best on defensively-oriented teams, giving them a cleric and also healing any of Vileplume's own status afflictions. Moonblast is an option that threatens Malamar trying to set up on Vileplume, 3HKOing it with some Special Attack investment while also hitting the Fighting- and Dark-types Vileplume checks harder. Hidden Power Fire can be used to hit Steel-types that resist or are immune to Vileplume's STAB moves, 2HKOing Pawniard, Mawile, and Ferroseed while also 3HKOing Klinklang, all of which would otherwise be able set up on Vileplume or lay entry hazards.
 
 Set Details
-=========
+========
 
-The given EV spread and a Bold nature boost Vileplume's already respectable Defense stat to better take hits from the physical attackers Vileplume is used for, such as Ground- and Fighting-types. Black Sludge provides passive recovery throughout the battle while crippling Trick users such as Rotom. Lastly, Effect Spore is used to punish physical attackers that rely on contact moves.
+The given EVs and a Bold nature maximize physical bulk. Black Sludge gives Vileplume passive recovery, making it even harder to wear down. Effect Spore lets Vileplume potentially status the foe, usually giving you a better matchup. 96 Special Defense EVs with a Calm nature can be used to let Vileplume survive +2 Life Orb-boosted Hidden Power Fire or Ice from Lilligant, which would otherwise be able to boost twice and KO Vileplume as it comes in and uses Sludge Bomb, even proceeding to sweep your team. Similarly, Vileplume can run a fully specially defensive spread to better wall Water-, Grass-, and Electric-types; however, this greatly detracts from its physical bulk, meaning you will need a better check for Fighting-types. If you run Moonblast, even minimal Special Attack investment gives Vileplume a higher chance to 3HKO Malamar, with 88 EVs specifically being needed to always do so.
 
 Usage Tips
-=========
+========
 
-Vileplume is generally a safe switch-in to Water-, Ground-, and Fighting-types such as Feraligatr, Gurdurr, Rhydon, Seismitoad, and Hariyama. However, it is important to scout for coverage moves such as Ice Punch. Be sure to use Synthesis when Vileplume's HP gets below 65% to help Vileplume take repeated hits. Sludge Bomb is generally the safest attack to go for, as the recovery granted by Giga Drain is not often necessary thanks to the passive recovery of Black Sludge. Also, most Pokemon that resist Sludge Bomb are hit hard by Hidden Power Fire, which can also hit Steel-types such as Ferroseed on the switch, or Giga Drain. If Aromatherapy is used, utilize the free turns that Vileplume often gets to heal its teammates from status conditions.
+Vileplume should come in on the numerous important hits it resists or on relatively weak attacks while being careful around super effective coverage moves, such as Sawk's Ice Punch or Zen Headbutt and offensive Lanturn's Ice Beam, and variants of Pokemon it checks, such as special Cacturne. Thanks to its typing, Vileplume can also freely switch into status moves such as Sleep Powder and Toxic, while not minding burn or paralysis too much, especially if it's running Aromatherapy, which makes it a great pivot into defensive and support Pokemon. Take advantage of switches to heal back HP with Moonlight if Vileplume has taken significant damage, as a weakened Vileplume does a poor job of checking what it's supposed to; however, do so conservatively, as Moonlight has low PP. Both of Vileplume's STAB moves are very spammable, with Sludge Bomb in particular having good power and a high chance to poison the foe. Vileplume can also use Sleep Powder on switch-ins looking to take advantage of it, set up, or lay entry hazards, such as Mega Camerupt and Garbodor. While rare, be wary of Sap Sipper Pokemon such as Bouffalant by not spamming Giga Drain or Sleep Powder, as you don't want to give them the Attack boost. If running Hidden Power Fire, try catching Steel-types on the switch to prevent them from doing too much against your team.
 
 Team Options
-===========
+========
 
-Vileplume pairs well with bulky Water-types such as Feraligatr or Seismitoad, which absorb the Fire- and Ice-type attacks that threaten it. Dark-types such as Liepard and Pawniard are good teammates to absorb Psychic-type attacks, while in return Vileplume handles Fairy- and Fighting-type attacks. Probopass is also a good partner to switch in on Flying- and Psychic-type attacks, while Vileplume handles Water- and Fighting-types, which are problematic for Probopass. Assault Vest Hariyama is a great teammate that can also handle Fire- and Ice-types with Thick Fat, but it adds another Flying-type weakness.
+Pokemon that resist Fire and Ice partner excellently with Vileplume, namely Water-types such Seismitoad, Mantine, Samurott, specially defensive Quagsire, and Lanturn, although Ice-types with access to Freeze-Dry such as Cryogonal and Articuno give this core trouble. Hariyama has especially fantastic synergy with Vileplume, resisting the aforementioned types while also checking most special attackers in general. Flash Fire Pokemon such Typhosion, Ninetales, Lampent, and Flareon also have great defensive synergy with Vileplume, stopping Fire- and Ice-types in their tracks as Vileplume checks or counters the Water- and Rock-types that give them trouble. Pokemon that resist Psychic and Flying are equally important, with Steel-types such as Klinklang and Ferroseed having solid synergy with Vileplume. In return, Vileplume beating Water- and Ground-types and even weakening Steel-types with Hidden Power Fire can pave the way for a Klinklang sweep. Dark-types such Pawniard, Sneasel, and Vullaby check most Psychic-types and appreciate Vileplume checking Fighting- and Fairy-types. Eviolite Zweilous gets a special mention for its additional ability to check or counter Fire-types. Spinners and Defoggers such as Prinplup, Mantine, and Cryogonal are important partners because entry hazards can turn a lot of 3HKOs into 2HKOs and 2HKOs into OHKOs. For example, Life Orb Lilligant's Hidden Power Fire 2HKOs Vileplume after Stealth Rock and Ludicolo's Ice Beam has a chance to OHKO Vileplume after Stealth Rock and a layer of Spikes. Xatu also works as a method of hazard control, providing a secondary check to Fighting-types and Lilligant while preventing Pokemon such as Garbodor and Ferroseed from taking advantage of Vileplume by bouncing back their entry hazards.
+
 
 Offensive
 ########
 name: Offensive
 move 1: Giga Drain
 move 2: Sludge Bomb
-move 3: Hidden Power Fire / Hidden Power Ground
-move 4: Synthesis
+move 3: Hidden Power Fire / Sleep Powder
+move 4: Moonlight
 ability: Effect Spore
-item: Life Orb / Black Sludge
-evs: 112 HP / 252 SpA / 144 Spe
+item: Black Sludge / Life Orb
+evs: 116 HP / 252 SpA / 144 Spe
 nature: Modest
 
 Moves
-======
+========
 
-Giga Drain is Vileplume's most reliable Grass-type move, hitting fairly hard and providing helpful recovery. Sludge Bomb provides good coverage, hitting opposing Grass-types such as Tangela and Lilligant, as well as Flying- and Fire-types such as Xatu and Pyroar, respectively. Hidden Power Fire is used to smack Steel-types such as Ferroseed, Pawniard, and Klinklang, which resist or are immune to Vileplume's STAB moves. Alternatively, Hidden Power Ground is an option to hit opposing Poison-types such as Muk and Garbodor while still retaining coverage on some Steel-types. Synthesis provides a semi-reliable form of recovery to keep Vileplume healthy throughout the match.
+Giga Drain is a reliable STAB move that heals back some HP, adding to Vileplume's durability and canceling out Life Orb recoil. Sludge Bomb is Vileplume's strongest STAB move, hitting hard while potentially poisoning the foe. Hidden Power Fire gives it nearly perfect coverage, only resisted by Lampent, and hits Steel-types such as Ferroseed, Mawile, Pawniard and Klinklang, OHKOing the first three if Vileplume is holding a Life Orb. Sleep Powder puts switch-ins such as Garbodor and Mega Camerupt to sleep and gives Vileplume free turns, which can even be used to set up with another Pokemon. Moonlight provides reliable recovery and is one of the main reasons why this set can trouble defensively-oriented teams, as it makes Vileplume much harder to wear down and lets it check things even with little defensive investment. Moonblast can be used to 3HKO Malamar trying to set up on Vileplume, 2HKOing after Stealth Rock or if Vileplume is holding Life Orb. However, Life Orb already lets Vileplume 3HKO Malamar with Sludge Bomb, while also giving it Vileplume a high chance to do so with Giga Drain, so Moonblast is not as important. Mooblast does, however, hit the Fighting- and Dark-types Vileplume checks harder than its other moves do.
 
 Set Details
-=========
+========
 
-144 Speed EVs are used to outspeed minimum Speed Lanturn when factoring in the imperfect Speed IV Vileplume has with Hidden Power Fire. Maximum Special Attack investment and a Modest nature are used to hit as hard as possible, with the remaining EVs put into HP to utilize Vileplume's good bulk. If Hidden Power Ground is chosen, an EV spread of 116 HP / 252 SpA / 140 Spe should be used, as it does not lower Vileplume's Speed IV. If outspeeding Lanturn is not a concern, a simple EV spread of 248 HP / 252 SpA / 8 SpD with a Modest nature is optimal. Effect Spore is a helpful ability that has a chance to inflict physical attackers with a status condition. Life Orb is used for a boost in power, while Black Sludge is an option for more longevity.
+252 Special Attack EVs and a Modest nature make Vileplume extremely powerful, 2HKOing a lot of the metagame. The Speed EVs allow Vileplume to make up for Hidden Power Fire's imperfect Speed IV and outspeed uninvested Lanturn. The remaining EVs are put into HP to make Vileplume as bulky as possible. You can invest more into HP if Lanturn isn't a concern. Alternatively, Vileplume can run even more Speed to outrun the likes of Claydol, Malamar, and Seismitoad. Effect Spore is Vileplume's best ability, having a fairly high chance to status the foe on contact. Black Sludge gives Vileplume more longevity, while Life Orb increases its power significantly at the cost of recoil damage.
 
 Usage Tips
-=========
+========
 
-When equipped with a Life Orb, Vileplume threatens Pokemon that it has a type advantage against, such as Gurdurr and Feraligatr. Sludge Bomb is the best attack to go for in most situations, as the Ground- and Steel-types that resist or are immune to it are hit hard by Giga Drain or the Hidden Power of choice. Hidden Power Fire or Hidden Power Ground should be used to hit Steel- and Poison-types on the switch, but they can also be used to prevent Pokemon such as Pawniard from setting up. Even without Defense investment, Vileplume is generally a safe switch into most Fighting-types such as Hariyama and Gurdurr; however, it must be wary of Ice Punch. It should also be noted that offensive Vileplume is not a good switch into Feraligatr, as it can KO Vileplume with Ice Punch after a Swords Dance. Be sure to use Synthesis when Vileplume's HP is below 65%, as offensive Vileplume is less capable of taking hits than the defensive set.
+This set works best as a pivot for offensive teams, switching in on resisted hits and weak walls, such as Ferroseed and Mega Audino without Fire Blast or Psychic, while being immune to Toxic, powder moves, and Leech Seed. Switch into Fighting- and Grass-types such as Hariyama and Leafeon, but avoid very strong attackers such as Choice Band Sawk, as they can 2HKO Vileplume even with resisted hits due to its lack of defensive investment. Generally, Vileplume's best option is to spam Sludge Bomb against most switch-ins to capitalize on its power and poison chance, which go a long way towards weakening the opposing team. Use Hidden Power Fire if you're predicting the opponent to go out to a Steel-type such Mawile or Pawniard, as they will usually outspeed Vileplume and severely dent it with their STAB moves. If running Sleep Powder, use it as the opponent goes out to their Vileplume answer, which gives you at least one free turn to do whatever you want. Stay relatively high on HP by healing with Moonlight if there's anything on the opposing team you need Vileplume to check.
 
 Team Options
-===========
+========
 
-Vileplume pairs well with bulky Water-types such as Feraligatr and Seismitoad, which can absorb Fire- and Ice-type attacks aimed at Vileplume. If Vileplume is lacking Hidden Power Ground, Psychic-types such as Mesprit help put pressure on bulky Poison-types such as Garbodor. Dark-types such as Liepard and Pawniard take on Psychic-types for Vileplume, while Vileplume handles most Fairy- and Fighting-type Pokemon. Probopass is a good teammate to provide momentum with Volt Switch and is a good switch-in to most Psychic- and Flying-type Pokemon, while Vileplume can dispose of Ground- and Fighting-types that are problematic for Probopass.
+Hariyama is a great partner for this set, resisting Vileplume's Ice and Fire weaknesses, appreciating its ability to switch into Fairy- and Fighting-types, and continuing to apply offensive pressure. Dark-types such as Sneasel, Liepard, Cacturne, and Pawniard are immune to Vileplume's Psychic weakness and can even Pursuit trap them in the former two's cases while benefiting from Vileplume checking Fairy- and Fighting-types. Pawniard also checks some Flying-types such as Swellow and Archeops. Pokemon that resist Flying such as Lanturn, Rotom, Rotom-S, and Rhydon are useful, and the first three also double as secondary checks to the Water-types Vileplume can struggle to handle, such as special Samurott. Ninetales loves Vileplume's ability to take a hit from and beat Aqua Jet users such as Carracosta and Samurott, which otherwise stop its sweep, and to lure Pokemon such as Cryogonal to use as setup fodder. Flash Fire makes Ninetales an excellent switch-in to Fire-type attacks aimed at Vileplume, and Ninetales also checks a lot of Ice-types. Water-types such as Seismitoad and Samurott resist Ice- and Fire-type attacks and also benefit from Vileplume checking Grass-types and opposing Water-types. Swords Dance Samurott specifically enjoys Vileplume beating Grass-, Water-, and Electric-types and breaking down physical walls in general to open up a sweep. Spinners and Defoggers such as Cryogonal, Swanna, and Prinplup are important, as entry hazards can significantly lower both Vileplume's durability and ability to check threats.
+
 
 Other Options
 ########
 
-Vileplume does not have many other options. A Choice Specs set can be used for significantly more power than the Life Orb set, but not being able to switch moves or use Synthesis is not optimal. A Sunny Day set with Chlorophyll can fit on a dedicated sun team, but Vileplume's low Speed stat hinders its effectiveness.
+A Chlorophyll set could potentially be used on a sun team, but it's outclassed by Victreebel because of the latter's higher Speed, access to Weather Ball, and ability to go mixed, with Vileplume's only real niche being its greater bulk. Energy Ball can be used over Giga Drain on the offensive set for extra power at the cost of some durability. Hidden Power Ground on the offensive set prevents Vileplume from being setup fodder for Garbodor and hits some Steel-types super effectively. Hidden Power Water allows Vileplume to function as a lure for Mega Camerupt.
 
 Checks & Counters
 ########
 
-**Boosting Sweepers**: While Vileplume is generally a safe switch into Feraligatr, it is 2HKOed by a boosted Ice Punch even with maximum Defense investment, and the offensive set is OHKOed after a boost. Other setup sweepers such as Substitute + Calm Mind Uxie and Calm Mind Xatu can set up on the defensive set.
+**Fire-, Flying-, Psychic-, and Ice-types**: Fire- and Flying-type Pokemon can switch into a resisted hit and threaten Vileplume with their super effective STAB moves. Psychic- and Ice-type Pokemon can utilize their typically good Special Defense stats to switch into most of Vileplume's attacks and threaten it with their super effective STAB moves. Mega Camerupt specifically can switch into almost any of Vileplume's moves, especially if it's a defensive variant, and can even run Sleep Talk for Sleep Powder.
 
-**Fire-types**: Fire-types such as Typhlosion and Pyroar threaten Vileplume with their STAB moves and resist Giga Drain. However, they must be wary of switching into Sludge Bomb.
+**Super Effective Coverage**: Pokemon such as Lanturn and Sawk can threaten Vileplume as it switches in with super effective coverage moves. Setup sweepers such as Lilligant can boost as Vileplume comes in and heavily dent it with Hidden Power Fire.
 
-**Psychic-types**: Psychic-types such as Mesprit and Musharna can set up on Vileplume or threaten to deal a lot of damage with their STAB moves. However, they won't appreciate switching into a Sludge Bomb from the offensive set.
+**Entry Hazards**: Entry hazard setters such as Garbodor and Ferroseed, while not immediately threatening to Vileplume, either resist or are immune to both of its STAB moves and can switch in and set up entry hazards, though they have to watch out for Sleep Powder or potential super effective Hidden Powers. This is compounded by Vileplume's dislike of entry hazards, as they turn many 3HKOs into 2HKOs.
 
-**Poison-types**: Poison-types such as Garbodor and Qwilfish can use Vileplume to set up Spikes and Toxic Spikes, as they resist both of its STAB moves, however, they must be wary of Hidden Power Ground from the offensive set.
+**Bulky Setup Sweepers**: Bulky setup sweepers such as Uxie, Klinklang, and Malamar can use Vileplume as setup fodder because of their bulk and Vileplume's sometimes lacking power; Malamar has to be careful around Moonblast and Life Orb-boosted attacks, however, and Klinklang also has to watch out for Hidden Power Fire.
 
-**Ice-types**: Ice-types such as Cryogonal and Jynx threaten to 2HKO or OHKO Vileplume with their STAB moves and do not take much damage from Vileplume's attacks due to their high Special Defense stats. 
+**Hard Hitting Attackers**: Extremely strong attacks such as Zangoose's Facade and Silk Scarf Kangaskhan's Double-Edge can heavily dent Vileplume, if not outright KO with some prior damage in the former's case, making Vileplume a very poor answer to them.

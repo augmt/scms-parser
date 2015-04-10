@@ -23,7 +23,7 @@ Bulk Up boosts Floatzel's Attack and Defense, allowing it to set up on physicall
 Set Details
 ========
 
-Maximum Speed EVs and a Jolly nature are required to outspeed Pokemon such as Jumpluff and Speed tie with Sneasel. Maximum HP investment increases Floatzel's mixed bulk, allowing it to set up more easily. Leftovers provides some recovery, which Floatzel otherwise lacks, and Water Veil prevents Pokemon such as Misdreavus from burning Floatzel and allows Floatzel to more comfortably take Scalds.
+Maximum Speed EVs and a Jolly nature are required to outspeed Pokemon such as Jumpluff and Swoobat. Maximum HP investment increases Floatzel's mixed bulk, allowing it to set up more easily. Leftovers provides some recovery, which Floatzel otherwise lacks, and Water Veil prevents Pokemon such as Misdreavus from burning Floatzel and allows Floatzel to more comfortably take Scalds.
 
 Usage Tips
 ========
@@ -33,7 +33,39 @@ Floatzel has poor bulk and thus should not be switched in to take a hit; it pref
 Team Options
 ========
 
-Floatzel appreciates multiple Baton Pass recipients so that it can pass to an appropriate Pokemon depending on what the opponent has out. Recipients such as Dodrio, Leafeon, and Flareon can take advantage of Grass-types that switch into Floatzel. Other good recipients include those with good Attack and decent Speed or priority so they can sweep, and ones that don't have the bulk or ability to set up by themselves. These include Sneasel, Dodrio, Rapidash, and Basculin. Slower, bulky Pokemon such as Poliwrath, Carracosta, Piloswine, Torterra, and Throh also appreciate the boosts.
+Floatzel appreciates multiple Baton Pass recipients so that it can pass to an appropriate Pokemon depending on what the opponent has out. Recipients such as Dodrio, Leafeon, and Flareon can take advantage of Grass-types that switch into Floatzel. Other good recipients include those with good Attack and decent Speed or priority so they can sweep, and ones that don't have the bulk or ability to set up by themselves. These include Dodrio, Rapidash, and Basculin. Slower, bulky Pokemon such as Poliwrath, Carracosta, Piloswine, Torterra, and Marowak also appreciate the boosts.
+
+Choice Specs
+########
+name: Choice Specs
+move 1: Hydro Pump
+move 2: Ice Beam
+move 3: Hidden Power Electric
+move 4: Baton Pass / Surf
+ability: Water Veil
+item: Choice Specs
+evs: 4 Def / 252 SpA / 252 Spe
+nature: Timid
+
+Moves
+========
+
+Hydro Pump is Floatzel's strongest STAB move, dealing heavy damage to any foe that does not resist it. Ice Beam hits Grass-types that resist such as Roselia, super effectively, and provides good neutral coverage. Hidden Power Electric hits Water-types, specifically Pelipper, granting perfect neutral coverage. Baton Pass provides momentum on predicted switches and allows teammates to deal with specific threats. Surf is a more reliable STAB move due to its better accuracy. Switcheroo can be used to cripple Lickilicky while stopping bulky sweepers such as Clefairy, and Focus Blast 2HKOes Lickilicky and Regice while hitting other Normal- and Steel-types hard, but it has shaky accuracy.
+
+Set Details
+========
+
+Maximum Speed investment and a Timid nature allow Floatzel to Speed tie with Sneasel, and 252 Special Attack EVs let Floatzel hit as hard as possible. Choice Specs boosts Floatzel's power even more, making it difficult to switch into. Water Veil allows Floatzel to take Scalds and not get worn down by possible burns, but Swift Swim can be used on a rain team or to check opposing Rain Dance Poliwrath.
+
+Usage Tips
+========
+
+Floatzel should be used as an early- or mid-game wallbreaker, but it can sweep late-game when Choice Scarf users are removed and foes are weakened, and Floatzel can be used as a revenge killer due to its high Speed. Try not to reveal Floatzel's item too early, as it can successfully bait Pokemon such as Tangela and Pelipper in if the opponent does not know Floatzel is a special attacker. Be careful when locking Floatzel into Hidden Power Electric, as it is weak and easy to take advantage of. Baton Pass should be used on predicted switches into counters, such as Lickilicky, to gain momentum.
+
+Team Options
+========
+
+Floatzel works best on offensively based teams, as it can weaken checks and counters of other offensive Pokemon. Entry hazards from Pokemon such as Golem and Whirlipede weaken foes, and Stealth Rock allows Floatzel to OHKO Raichu. Physical attackers, such as Carracosta, Torterra, and Leafeon, enjoy the baiting of Tangela and other physical walls and can set up on Lickilicky, which Floatzel lures in and can use Baton Pass against. Alternatively, special attackers, such as Mr. Mime and Simipour, appreciate the crippling of Lickilicky and weakening of other special walls. On rain teams, Swift Swim Floatzel enjoys multiple rain-setting teammates, including Volbeat and Electrode, as well as teammates that can use the rain, such as Armaldo, Golduck, and Raichu.
 
 Other Options
 ########

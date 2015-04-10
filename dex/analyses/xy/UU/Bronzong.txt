@@ -1,46 +1,9 @@
 Overview
 ########
 
-Bronzong is an incredible support Pokemon, having access to dual screens, Stealth Rock, and Trick Room, which sets it apart from many other Psychic-type Pokemon in the tier. It also has a fantastic defensive typing and great stats to go along with it. However, Bronzong is not without its faults; it has no reliable recovery, new weaknesses to Dark- and Ghost-types, and it is extremely slow. It also faces stiff competition from Jirachi and many other Psychic-type Pokemon in the tier such as Azelf and Cresselia. Nonetheless, Bronzong can be a great asset to your team. 
+Bronzong is an excellent support Pokemon, having access to Stealth Rock, dual screens, and Trick Room, which makes it a valuable addition to many teams. It has great overall bulk which is backed up by a decent defensive typing and a great ability, making it an excellent counter to many of the tier's top threats such as Mega Aerodactyl, Kyurem, Shaymin, Nidoqueen, Dragon Dance Salamence, and Mega Abomasnow. Its main selling point over its Steel-type brethren, such as Mega Aggron and Forretress, is Levitate, which makes it immune to entry hazards bar Stealth Rock and rules out using Ground-type coverage commonly seen on sweepers such as the aforementioned Mega Aerodactyl, Kyurem, Mega Abomasnow, and Nidoqueen as a means of getting past it. It also does not take up a Mega slot, which is another advantage it holds over Mega Aggron.
 
-
-Trick Room Lead
-########
-name: Trick Room Lead
-move 1: Trick Room
-move 2: Stealth Rock
-move 3: Explosion
-move 4: Earthquake
-ability: Heatproof
-item: Mental Herb
-evs: 252 HP / 104 Atk / 152 Def
-ivs: 0 Spe
-nature: Relaxed
-
-
-Moves
-========
-
-Trick Room is the most important move, reversing the Speed order so that Pokemon that are normally slower move first. Stealth Rock is used because Bronzong can easily set it up with its bulk. Explosion lets a slow sweeper come in safely, dealing a massive amount of damage to anything that does not resist it. Finally, Earthquake lets Bronzong hit the Steel- and Fire-types that try to switch in for super effective damage.
-
-
-Set Details
-========
-
-Maximum HP EVs allow Bronzong to survive hits better. The Defense EVs let Bronzong always survive an Adamant Choice Band V-create from Victini. Heatproof is used over Levitate so Bronzong is never OHKOed by any unboosted Fire-type attack. Mental Herb is used in order to prevent Bronzong from being setup bait and let it set up Trick Room or Stealth Rock without fearing Taunt. A Relaxed nature further increases Bronzong's ability to take physical hits and lets it move first in Trick Room.
-
-
-Usage Tips
-========
-
-Always lead with Bronzong and use Trick Room. Bronzong will force a lot of switches due to Trick Room, so try and predict accordingly. Use Explosion when you predict your opponent will set up and give one of Bronzong's teammates a free switch-in. However, if your opponent has a Ghost-type, play safely and switch Bronzong out. It's always better to have more Trick Room turns, as Bronzong won't be doing much to Ghost-types anyway.
-
-
-Team Options
-========
-
-Bronzong won't need much support, as it will be using Explosion after it has fulfilled its role; rather, it will be supporting its offensive teammates. Pokemon that appreciate Trick Room support, such as Ampharos, Escavalier, and Snorlax, make excellent partners, as they can use the few Trick Room turns to deal damage to or KO many Pokemon in the tier. Wish passers, especially Aromatisse because it cannot be Taunted, pair well with Bronzong if it doesn't use Explosion because they can allow Bronzong to set up Trick Room multiple times before it uses Explosion. Pokemon that cover Bronzong's weaknesses, such as Krookodile, Umbreon, and Hydreigon, make good partners because they have great type synergy with it, taking on the Dark- and Ghost-type moves that trouble Bronzong. Bulky Mega Evolutions such as Mega Blastoise make good partners, as they are able to switch into Knock Offs aimed at Bronzong.
-
+However, the big metallic bell is not without its faults; its mediocre offensive stats and terrible Speed mean that it is setup bait for several Pokemon, and its lack of reliable recovery makes it prone to being worn down and it will not like to switch in repeatedly to take even resisted hits. Its typing makes it weak to Dark-type moves, and with the prevalence of Knock Off and trapping ability of Pursuit, this is quite crippling.
 
 Tank
 ########
@@ -48,87 +11,78 @@ name: Tank
 move 1: Stealth Rock
 move 2: Gyro Ball
 move 3: Toxic
-move 4: Protect / Earthquake
-ability: Levitate / Heatproof
+move 4: Earthquake / Protect
+ability: Levitate
 item: Leftovers
-evs: 252 HP / 252 Def / 4 SpD
-nature: Relaxed
-
+evs: 252 HP / 252 SpD / 4 Def
+ivs: 0 Spe
+nature: Sassy
 
 Moves
 ========
 
-Bronzong is an amazing tank thanks to its numerous resistances and great bulk, and it can thus set up Stealth Rock very easily. Gyro Ball is Bronzong's STAB attack of choice, hitting anything that does not resist it very hard. Toxic allows Bronzong to put a timer on many deadly sweepers and walls. The last move is a toss-up between Protect and Earthquake. Protect can be used to scout the opponent's next move and rack up Toxic damage. Earthquake allows Bronzong to check Nidoqueen and Nidoking and hits the Fire- and Steel-types that try to switch into Gyro Ball.
-
+Bronzong is one of the most reliable Stealth Rock users in the tier, being able to use its excellent defenses and multiple resistances to come in and set it up with ease. Gyro Ball is powered up greatly by Bronzong's terrible Speed, taking a good chunk out of most Pokemon that don't resist it. Iron Head can be used as an alternative option to conserve PP, especially against SubRoost Kyurem, and hit slow Pokemon such as Aromatisse and Mega Abomasnow harder; however, it is far weaker than Gyro Ball against faster Pokemon. Toxic helps to cripple many sweepers and walls and goes well with Bronzong's defensive nature, while Earthquake hits Steel- and Fire-types that resist its STAB moves, such as Empoleon and Entei. Protect can be used instead of Earthquake to garner a much-appreciated free turn of Leftovers recovery and let poison damage build. However, this leaves Bronzong completely helpless against Steel-types.
 
 Set Details
 ========
 
-The given EV spread maximizes Bronzong's ability to take physical hits. A Relaxed nature is used to increase Bronzong's Defense and Gyro Ball's power. Leftovers gives Bronzong a form of passive healing, recovering the HP lost from Stealth Rock or a potential burn. Levitate is the ability of choice, making Bronzong immune to Ground-type moves. Heatproof can be used to make Bronzong neutral to Fire-type attacks and halve burn damage; however, it leaves Bronzong unable to check many Pokemon such as Flygon and vulnerable to Spikes. Bronzong can use a specially defensive spread of 252 HP / 4 Def / 252 SpD, allowing it to check many special attackers such as Nidoqueen, Nidoking, Shaymin, and Calm Mind Jirachi more easily, although you must note that it then cannot take on the prominent physical attackers in the tier as easily.
-
+Maximum HP and Special Defense make Bronzong an immensely sturdy special sponge, equipping it to take on some of the most threatening special attackers in the tier such as Kyurem, Nidoqueen, and Shaymin. A Sassy nature combined with 0 Speed IVs powers up Gyro Ball as much as possible. A Careful nature should be run if Iron Head is used. Leftovers is a must for longevity, as Bronzong lacks a reliable recovery move. Bronzong can use a physically defensive set instead with a spread of 252 HP / 252 Def / 4 SpD and a Relaxed nature to better counter physical attackers such as Mega Aerodactyl and Dragon Dance Salamence. Whichever one you use depends on your team's requirements, though Bronzong can usually take on the aforementioned Pokemon well enough even without investment.
 
 Usage Tips
 ========
 
-Bronzong should set up Stealth Rock as soon as you can. In addition, try not to get Bronzong burned, because it has no way of curing it and will be worn down easily unless it uses Heatproof. Predict well, because Bronzong will almost always go last because of its horrible Speed stat.
-
+Bronzong is one of the most reliable Stealth Rock users in the tier, so take advantage of its excellent defenses and multiple resistances to switch it in and set it up with ease. Thanks to Levitate and its Stealth Rock resistance, it can switch in multiple times throughout the match, making it an excellent defensive pivot for balanced teams. With its great bulk, it makes for an excellent counter to many of the tier's top threats such as Mega Aerodactyl, Kyurem, Shaymin, Nidoqueen, Dragon Dance Salamence, and Mega Abomasnow. Be careful of switching it in recklessly though, as with no reliable recovery Bronzong is not going to like repeatedly taking even resisted hits too often.
 
 Team Options
 ========
 
-Though Bronzong is a fantastic support Pokemon, it appreciates some support as well. Umbreon and Florges make excellent partners; both can pass Wish, and they can also heal status with Heal Bell and Aromatherapy, respectively. Fire-type Pokemon such as Chandelure and Houndoom are excellent partners, absorbing the Fire-type moves aimed at Bronzong courtesy of their Flash Fire ability. However, note that Chandelure shares many of the same weaknesses as Bronzong. Lastly, Water-type Pokemon such as Suicune and Vaporeon pair well with Bronzong, taking the Fire-type moves aimed at it; in return, Bronzong can take the Grass-type attacks directed at them.
+Common sweepers that benefit from Stealth Rock support, such as Salamence and Mega Aerodactyl, are great partners. Bronzong has no reliable recovery, so Wish users make for excellent teammates. Physically defensive Aromatisse and Vaporeon in particular have excellent defensive synergy with Bronzong and can pass it massive Wishes thanks to their huge HP stats. Knock Off absorbers such as Mega Blastoise and Chesnaught are also appreciated by Bronzong, which is severely crippled by the move. A particularly good teammate for Bronzong is Tentacruel; it and Bronzong complement each other perfectly, resisting each other's weaknesses and being able to set up Stealth Rock, spin, and set up Toxic Spikes between them.
 
-
-Dual Screens
+Trick Room Support
 ########
-name: Dual Screens
-move 1: Light Screen
-move 2: Reflect
-move 3: Stealth Rock
+name: Trick Room Support
+move 1: Gyro Ball
+move 2: Trick Room
+move 3: Earthquake / Stealth Rock
 move 4: Explosion
 ability: Levitate
-item: Light Clay
-evs: 252 HP / 252 Def / 4 SpD
-nature: Impish
-
+item: Macho Brace / Mental Herb
+evs: 252 HP / 252 Atk / 4 SpD
+ivs: 0 Spe
+nature: Brave
 
 Moves
 ========
 
-Bronzong is often regarded as inferior to Azelf and Cresselia as a dual screens user, but it does have some advantages over them. It is bulkier and has a better defensive typing, which gives it more chances to set up Light Screen and Reflect. Light Screen and Reflect are obviously the most important moves, halving damage from special and physical attacks, respectively. This allows Bronzong to be a great team supporter. Bronzong also finds it very easy to set up Stealth Rock thanks to dual screens and its bulk. Explosion is used to let a teammate come in safely.
-
+Gyro Ball is ridiculously powerful when backed up by the Attack investment, Brave nature, and Macho Brace. With Macho Brace and 0 Speed IVs, Bronzong hits 31 Speed, which means that anything with a Speed stat of 185 or over is smashed with a 150 Base Power STAB move. Trick Room allows Bronzong to outspeed the vast majority of the metagame and wreak havoc on offensive teams in particular, making it an excellent late-game cleaner. Earthquake does huge damage to the Fire-types and Steel-types that resist Gyro Ball, while Stealth Rock can be used to provide team support if required. Explosion is used to go out with a bang once Bronzong's job is done, hopefully taking something down with it in the process.
 
 Set Details
 ========
 
-The given EVs maximize Bronzong's ability to take physical hits. Light Clay is used because it increases the duration of Light Screen and Reflect. An Impish nature is used to further increase Bronzong's Defense stat.
-
+Maximum HP provides Bronzong with decent overall bulk, while maximum Attack is needed to hit as hard as possible. The Brave nature, 0 Speed IVs, and Macho Brace power up Gyro Ball to ridiculous levels. Mental Herb can be used to prevent Taunt users from ruining Bronzong's day, while Leftovers is an option for increased longevity.
 
 Usage Tips
 ========
 
-Bronzong should try and set up dual screens as soon as it can, and depending on which Pokemon it is facing, use the appropriate screen. After it has set up both screens, it can set up Stealth Rock or deal massive damage with Explosion and bring in a sweeper safely. However, be wary of using Explosion if your opponent has a Ghost-type Pokemon. If you predict a Ghost-type switching in, Bronzong can set up Stealth Rock or double switch into a Pokemon that can deal with the Ghost-type better.
-
+Trick Room Bronzong can be played as a suicide lead of sorts to set up Stealth Rock and Trick Room quickly and then explode in order to bring your slow sweepers in safely. It finds plenty of opportunities to come in and provide support with its excellent bulk and resistances. Bronzong can also be used as a sweeping tool late-game against weakened teams with Gyro Ball's immense power. Even though this set is offensively oriented, Bronzong still has excellent bulk with the HP investment and can therefore be used to check threats that could potentially be dangerous to your team without Bronzong, such as Mega Aerodactyl, Dragon Dance Salamence, Nidoqueen, and Kyurem.
 
 Team Options
 ========
 
-Bronzong doesn't need any team support because it will be using Explosion most of the time when it finishes setting up dual screens. Setup sweepers that appreciate dual screen support, such as Houndoom and Scrafty, make excellent partners because they both have great type synergy with Bronzong and can set up and sweep more easily under dual screens.
-
+This Bronzong doesn't need much support itself; instead, it can provide excellent support for dedicated Trick Room teams. Hence, slow sweepers that benefit from Trick Room support, such as Mega Abomasnow, Mega Camerupt, Escavalier, and Mega Ampharos, make for great teammates. Bronzong has no reliable recovery, so Wish users such as Aromatisse and Vaporeon can be used to continuously replenish Bronzong's health so that it can switch in to set up Trick Room multiple times in the match. Bronzong appreciates Knock Off absorbers such as Mega Blastoise and Chesnaught, as it is severely crippled by the move.
 
 Other Options
 ########
 
-Hidden Power Ice can be used to hit many Pokemon, most notably Flygon and Gligar, harder than any other move, but since Bronzong is not invested in Special Attack, it will do very little damage. Gravity can also be used, removing Ground-type immunities and making some shaky moves more accurate, but it's hard to find a moveslot for it. A Calm Mind set can also be used, but Bronzong is highly outclassed by Jirachi in this regard. Finally, Iron Head can be used to hit Kyurem that can otherwise easily PP Stall Gyro Ball, but outside of this it has little use.
-
+Bronzong can run an effective dual screens set with its bulk and defensive typing. Its access to Explosion also lets it set up screens and then explode to let a teammate come in safely. Hypnosis can be used to temporarily incapacitate threatening switch-ins or to let a teammate set up. Bronzong can also utilize Trick with Choice Band or Iron Ball as its held item in order to cripple some of its common switch-ins including Suicune, Rotom-H, and Gligar. Grass Knot 2HKOes Swampert and hits bulky Ground-types such as Hippowdon harder than Bronzong's other moves, while Hidden Power Ice can be used to deal significant damage to Salamence and Gligar. However, without any Special Attack investment these moves are not going to be doing much damage unless they are 4x super effective, and are hence quite situational.
 
 Checks & Counters
 ########
 
-**Taunt**: Taunt stops Bronzong right in its tracks, preventing it from setting up. Pokemon such as Crobat and Azelf usually run Taunt, but they have to be wary of Gyro Ball and Explosion, which deal heavy damage.
+**Dark-types and Ghosts Dark- and Ghost-types**: Dark- and Ghost-type Pokemon can easily KO Bronzong with their STAB attacks. Krookodile is especially threatening, as it can permanently remove Bronzong from the game with Pursuit.
 
-**Bulky Water-types**: Bulky Water-type Pokemon such as Suicune and Jellicent take little damage from Bronzong's moves; the former can set up, whereas the latter can burn or wear Bronzong down with Shadow Ball.
+**Bulky Sweepers**: Certain bulky sweepers such as Suicune, Feraligatr, Snorlax, and Cresselia can use Bronzong as setup bait, but they dislike Toxic.
 
-**Fire-types**: Fire-type Pokemon such as Entei, Chandelure, and Houndoom can force Bronzong out with their respective Fire-type STAB moves, but they have to be wary of Earthquake. Rotom-H resists Gyro Ball and is immune to Earthquake courtesy of Levitate; it can burn Bronzong, keep momentum with Volt Switch, or KO with Overheat.
+**Reuniclus**: Bronzong is utterly helpless against Reuniclus. Toxic has no effect on it thanks to Magic Guard, while Gyro Ball does pitiful damage due to Reuniclus's terrible Speed stat.
 
-**Dark-types**: Dark-type Pokemon such as Scrafty, Hydreigon, and Krookodile stop Bronzong right in its tracks and can use it as setup fodder or KO Bronzong with their STAB moves.
+**Fire-types**: Powerful Fire-types such as Entei, Chandelure, and Darmanitan can KO Bronzong with their STAB attacks, although they need to watch out for Earthquake.

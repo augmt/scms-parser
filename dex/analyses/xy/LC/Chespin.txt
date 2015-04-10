@@ -1,11 +1,43 @@
 Overview
 ########
 
-Chespin boasts a unique ability in Bulletproof, which gives it an immunity to all 'ball' and 'bomb' moves, including Sludge Bomb and Shadow Ball. This allows Chespin to wall Pokemon that rely on such moves, such as Foongus and Gastly. Chespin's typing gives it useful resistances to common Water-, Ground-, and Electric-type attacks. Its access to Spikes, backed by its respectable bulk with Eviolite, enables it to be a reliable entry hazard setter. Chespin has reliable recovery in Synthesis, which increases its longevity. The icing on the cake is Chespin's access to reliable and somewhat strong STAB options, which not all Pokemon have the luxury of. However, Chespin's typing also leaves it with many common weaknesses to Flying-, Fire-, and Ice-type attacks. Fletchling is very common as well, and Chespin can't stand up to it. Chespin is also very easy to set up on should it lack Roar or Taunt because of how passive it is. It has a massive case of four-moveslot syndrome, which severely limits it, and its Speed lets it down a lot, as it will usually be taking a hit before it can do anything in return. Chespin also receives competition from other Grass-types in the tier such as Cottonee and Foongus.
+Chespin has solid stats all around and an awesome ability in Bulletproof, which grants it immunities to many moves, including Sludge Bomb and Shadow Ball. It also comes with a fairly unique typing in LC that resists Ground and isn't weak to Rock, making it a great check to Drilbur bar the rare Poison Jab variants. Unfortunately, this typing comes with weaknesses to fairly common attacking types in Flying, Fire, and Bug. Chespin faces a lot of competition, as other Spikes setters, specifically Ferroseed, are typically better in a support role and Pumpkaboo-XL is a better Drilbur check. Despite this, Chespin's typing and coverage options give it a niche, though sometimes these coverage options aren't enough and many Pokemon are able to use Chespin as setup bait.
 
 Defensive
 ########
 name: Defensive
+move 1: Seed Bomb
+move 2: Synthesis
+move 3: Spikes / Drain Punch
+move 4: Rock Slide / Drain Punch
+ability: Bulletproof
+item: Eviolite
+evs: 68 HP / 28 Atk / 156 Def / 236 SpD
+nature: Impish
+
+Moves
+========
+
+Synthesis keeps Chespin healthy throughout the match, but it only has 8 PP, meaning Chespin is fairly limited in its recovery. Seed Bomb is Chespin's best STAB choice and hits many common Rapid Spin users super effectively. Spikes allows Chespin to support the team by breaking Focus Sash and Sturdy and supplying important chip damage. Rock Slide punishes Flying- and Fire-types that would otherwise love to switch in on Chespin, particularly Fletchling and Larvesta. Drain Punch hits Steel-types such as Ferroseed and Pawniard while providing a small bit of recovery, but it fails to OHKO either and Chespin is able to beat Ferroseed without it. If Drain Punch is used over Rock Slide, many Pokemon that Chespin would otherwise counter, such as Foongus and certain variants of Gastly, are able to stall it out of Synthesis PP and force it out.
+
+Set Details
+========
+
+The EVs and Eviolite maximize Chespin's bulk while slightly boosting Chespin's offensive presence. Bulletproof transforms Chespin into a great counter to Gastly, Foongus, and Bellsprout because of its immunity to Shadow Ball, Sludge Bomb, and Weather Ball.
+
+Usage Tips
+========
+
+Try to abuse Chespin's Bulletproof immunities whenever possible. Chespin has the capability to completely wall some Pokemon and should use the free turns it gets to set up Spikes or to predict a switch-in. You should also use Synthesis as efficiently as possible to conserve PP.
+
+Team Options
+========
+
+Chinchou has excellent typing synergy with Chespin, covering its weaknesses to Flying, Ice, and Fire while Chespin deals with some of Chinchou's best checks, such as Foongus, Drilbur, and opposing Chinchou. Pawniard provides a way to punish Defog users that will want to clear away Chespin's Spikes. Although Chespin has a good matchup against common Rapid Spin users, a Ghost-type partner such as Frillish is still beneficial to block the move entirely; Frillish in particular nicely resists four of Chespin's weaknesses. Essentially any Rock-type will cover many of Chespin's weaknesses and appreciate Chespin's resistances to Ground, Water, and Grass.
+
+Bulk Up
+########
+name: Bulk Up
 move 1: Bulk Up
 move 2: Synthesis
 move 3: Seed Bomb
@@ -18,67 +50,37 @@ nature: Impish
 Moves
 ========
 
-Bulk Up allows Chespin to differentiate itself from other defensive Pokemon by letting it set up on many Pokemon and slowly wear them down. Bulk Up enables Chespin to survive an Acrobatics from Fletchling and OHKO it in return with Rock Slide at +1. Synthesis in tandem with Bulk Up enables Chespin to keep itself healthy while setting up throughout the match. Rock Slide is a very nice move on Chespin, which naturally lures in Bug- and Fire-type Pokemon such as Larvesta and Ponyta. Seed Bomb is a very reliable STAB move that allows Chespin to beat Chinchou and gets nice all-around coverage in conjunction with Rock Slide. Although Bulk Up is highly advised, running Spikes is not a bad idea instead because of the raw support it provides. Spikes also wears down switch-ins, helping Chespin's teammates.
+Bulk Up transforms Chespin into a great win condition, while Synthesis keeps Chespin healthy and allows it to set up multiple times throughout a match. Seed Bomb is Chespin's best available STAB move, and Rock Slide has good coverage alongside it, hitting Fire-, Flying-, and Bug-types super effectively. Unfortunately, this set is walled by Steel-types, but Chespin can't afford to replace any of its moves.
 
 Set Details
 ========
 
-Eviolite is the item of choice over Berry Juice because it offers more longevity and overall higher bulk; Synthesis keeps Chespin healthy as well. Chespin should invest into Special Defense to further boost it. Although an Impish nature seems a bit odd when running a specially defensive EV spread set, it provides an overall larger boost to bulk by increasing Chespin's Defense stat to an even Eviolite number. 28 Attack EVs give Chespin one extra point in Attack. Overgrow should never be considered when running Chespin, as Bulletproof always outclasses it by allowing Chespin to wall Gastly and Foongus, amongst other Pokemon. Thus, the benefits of Bulletproof far outweigh the niches of Overgrow.
+The EVs focus primarily on increasing Chespin's special bulk because it will be boosting its Defense through Bulk Up. Bulletproof grants Chespin many immunities to specific moves and allows Chespin to wall Pokemon that could otherwise counter it.
 
 Usage Tips
 ========
 
-Chespin is phenomenal at countering Drilbur, which is what this set does best. Drilbur cannot break through Chespin without running Poison Jab, while Chespin severely dents it with Seed Bomb. Chespin also completely counters Pokemon that rely on 'ball' or 'bomb' moves, such as Foongus and Gastly. Therefore, try to prevent Chespin from being worn down too much to the point where it is unable to check such Pokemon. Bulk Up should not be used recklessly, as Timburr can set up on Chespin in return and eventually beat Chespin one-on-one. If running Spikes, try using it when Chespin forces a switch to slowly rack up entry hazard damage.
+Take advantage of Bulletproof's immunities. Using Bulk Up as a Pokemon that checks Chespin, such as Archen or Fletchling, comes in may allow Chespin to beat said check. Synthesis needs to be used conservatively because of its low PP. Although this set is walled by Steel-types, many of them can't prevent Chespin from setting up and brute forcing its way through them.
 
 Team Options
 ========
 
-Pokemon that have great difficulty with Drilbur are prime partners; this includes Pokemon such as defensive Chinchou and Magnemite. Chinchou in particular has nice synergy with Chespin and can keep it healthy with Heal Bell. Chespin doesn't appreciate opposing Fire- and Flying-types, which Chinchou keeps in check. When running Spikes, Pokemon that enjoy foes being worn down before they sweep, such as Titrouga and Larvesta, make good partners.
-
-Spikes Support
-########
-name: Spikes Support
-move 1: Spikes
-move 2: Seed Bomb
-move 3: Synthesis
-move 4: Low Sweep / Roar / Rock Tomb
-ability: Bulletproof
-item: Eviolite
-evs: 68 HP / 28 Atk / 156 Def / 236 SpD
-nature: Impish
-
-Moves
-========
-
-Chespin differentiates itself from Ferroseed as a Spikes setter because of its access to reliable recovery in Synthesis and its lack of a Fighting-type weakness. Seed Bomb allows Chespin to beat Drilbur, the tier's main Rapid Spinner, a trait that both Ferroseed and Trubbish lack. Synthesis keeps Chespin healthy throughout the match and allows it to repeatedly set Spikes and pivot much more easily. Low Sweep OHKOes Pawniard on the switch and is a great move in general to hit and slow Steel-types and other switch-ins. Roar, on the other hand, phazes out Steel-types and forces the opponent's team to take repeated entry hazard damage. Rock Tomb is weaker than Low Sweep but has the benefit of being able to smack Fletchling on the switch and slow it down for a teammate to better take it on. These three moves all provide certain benefits, and all are viable to use on Chespin.
-
-Set Details
-========
-
-The allocated defensive EVs allow Chespin to hit Eviolite numbers, achieving maximum bulk all-around. This investment, alongside an Impish nature, allows Chespin to make full use of its Defense stat and allows it to be a very viable physical wall and pivot. 28 Attack EVs are a minor investment but provide a tiny boost in Attack, which could potentially be helpful. Eviolite is always preferred over Berry Juice, which serves little purpose on Chespin because of its access to Synthesis. Bulletproof is an extremely useful ability because it allows Chespin to wall Gastly and Foongus with ease, making it the preferred option over Overgrow.
-
-Usage Tips
-========
-
-Chespin finds a key niche in its ability to take on and beat Drilbur with ease. Ferroseed and Trubbish, other Spikes setters, both fail to do this, so be sure to capitalize on Chespin's ability to do so. Chespin has no Fighting-type weakness, allowing it to differentiate itself from Ferroseed; it also has much better bulk than Trubbish and access to reliable recovery. Chespin should use its high physical bulk to pivot into physical threats such as Drilbur and Mienfoo and either set Spikes or use Synthesis as it forces them out. Chespin should not try to set Spikes all at once, but rather set them gradually throughout the match. Chespin recieves competition from Foongus, which has access to Spore and is another bulky Grass-type pivot; however, Chespin has a nifty Ground-type resistance that allows it to differentiate itself from Foongus. Always be sure to highlight on Chespin's perks and benefits over its competition when using it.
-
-Team Options
-========
-
-Pokemon that appreciate Chespin's ability to wall Drilbur and Mienfoo, such as Chinchou and Magnemite, make for good partners; these two Pokemon in particular stand out for their synergy and ability to form a pivot core together with Chespin. Chinchou stands out for its access to Heal Bell, keeping Chespin healthy by ridding it of status. Magnemite is able to pivot into Chespin with Volt Switch and really appreciates Chespin's ability to take on Drilbur. Pawniard also likes Chespin's ability to wall Drilbur and Mienfoo and is able to punish Defoggers trying to remove Spikes thanks to Defiant. Tirtouga has nice synergy with Chespin and enjoys Chespin's ability to take on both Drilbur and Mienfoo; Tirtouga also appreciates Spikes support to wear down foes for late-game sweeping.
+Chinchou resists some of Chespin's most common weaknesses in Flying, Fire, and Ice while providing extremely beneficial Heal Bell support; meanwhile, Chespin resists both of Chinchou's weaknesses. Almost all Rock-types cover many of Chespin's weaknesses and appreciate its resistances to Water, Grass, and Ground. Stealth Rock support greatly assists Chespin in breaking through the Fire- and Flying-types that bother it. Bulk Up Chespin faces a lot of competition from Bulk Up Timburr and should only be used on teams that prefer the switch-in to the many Pokemon that Chespin checks over Timburr's access to priority, Knock Off, and ability benefiting from status.
 
 Other Options
 ########
 
-Curse sets can be pulled off thanks to Chespin's high Attack stat; however, its defensive capabilities far eclipse its offensive ones. Chespin also has access to Swords Dance to become an immediate threat, but it's often too slow to pull off a sweep. Stone Edge is interesting to hit potential Fire- and Flying-type switch-ins, but it has little use aside from this, and Rock Slide or Rock Tomb usually do the job better. Payback is interesting, as it allows Chespin to OHKO Gastly. Brick Break hits Pawniard hard, deterring it from setting up. Poison Jab hits Spritzee for super effective damage but has subpar coverage otherwise. Aerial Ace gets nice coverage and is also a way to hit Foongus. Finally, Toxic is viable to hurt a ton of defensive Pokemon while also putting most other Pokemon on timers.
+Wood Hammer is a stronger STAB move, but that comes with unwanted recoil. Stone Edge can also be used as a stronger alternative to Rock Slide, but the additional power is almost never worth the lower accuracy for Chespin. Aerial Ace and Poison Jab could be used to hit Grass-types super effectively, but they lack significant coverage or power. Zen Headbutt hits Poison-types such as Croagunk and Foongus super effectively, but Chespin's other coverage moves are usually superior. Bulldoze can also be used to hit Poison-types along with Steel-types, but its Base Power is quite low and it will activate Pawniard's Defiant. Payback can be used to hit Ghost-types harder, but Chespin is usually able to deal with them without it. Superpower is an alternative to Drain Punch, but using it lowers Chespin's defenses, which is counterproductive with Chespin's primary role. Chespin also has access to setup moves such as Belly Drum and Swords Dance, but it lacks the Speed necessary to effectively use them. Lastly, Chespin can use Roar to rack up entry hazard damage and prevent Pokemon from setting up on it.
 
 Checks & Counters
 ########
 
-**Fletchling**: Fletchling resists Chespin's STAB moves and can easily set up a Swords Dance on it. Fletchling also has a powerful STAB attack of its own to dispose of Chespin with. Chespin can catch it off guard with Rock Tomb, however, so Fletchling has to be sure Chespin is not carrying this move. Fletchling also doesn't enjoy switching into the rare Leech Seed, but this is not as much of a problem as Rock Tomb is. Low Sweep also lowers Fletchling's Speed, which can be detrimental to it. Finally, Chespin can even Roar away Fletchling as it switches in, thus racking up Stealth Rock damage, but Fletchling is still usually going to prevail against Chespin.
+**Fire-types**: Only fearing Rock Slide, Fire-types can heavily damage or KO Chespin. Some, such as Ponyta, can heal off anything Chespin does and burn it. Specially offensive Fire-types, such as Vulpix and Houndour, can ignore Bulk Up boosts and OHKO Chespin.
 
-**Steel-types**: Steel-types such as Pawniard and Ferroseed wall Chespin and render it setup fodder. However, if Chespin is running Low Sweep, such Pokemon have to worry about Chespin, and no Steel-types, bar Ferroseed, particularly like to take the rare Leech Seed. Honedge walls Chespin regardless, but it too does not like to take residual Leech Seed damage.
+**Flying-types**: Although Flying-types don't want to switch in on Rock Slide, many of them threaten to OHKO Chespin. Some of them, such as Vullaby, even carry Defog to clear away Chespin's Spikes.
 
-**Super Effective Attacks**: Flying-type moves from Fletchling, Fire-type moves from Ponyta, and Ice-type moves from Snover all put a dent in Chespin, even though it is bulky. Chespin can dent all of these Pokemon with Rock Slide or Rock Tomb, but it really should not be staying in on any of them. It is worthwhile to note that it is immune to Sludge Bomb thanks to Bulletproof, technically removing Chespin's Poison-type weakness, but some Poison-types run Sludge Wave solely to deal with Chespin.
+**Setup Sweepers**: Due to Chespin's lack of immediate offensive power, many Pokemon, particularly Bulk Up Timburr or a boosting Croagunk, find it easy to set up against Chespin.
 
-**Grass-types**: Grass-types such as Foongus, Cottonee, Ferroseed, and opposing Chespin are immune to Leech Seed and resist Seed Bomb and Rock Slide. However, these Grass-types fail to do much to Chespin in return, creating a stalemate. 
+**Poison-types**: Chespin does wall some Poison-types such as Gastly and Bellsprout, but others that don't rely on Sludge Bomb can switch in on any attack and force Chespin out without a problem. Croagunk is one of Chespin's best counters because of its resistance to all of Chespin's common attacks, but Chespin does have problems breaking through others, such as Trubbish and Koffing.
+
+**Steel-types**: Chespin lacking Drain Punch is unable to significantly damage most Steel-types. The only one it can consistently beat without Drain Punch is Ferroseed, while the others easily wall it and, if necessary, stall it out of Synthesis PP.

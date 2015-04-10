@@ -1,84 +1,86 @@
 Overview
 ########
 
-Although Abomasnow is less useful in UU with the removal of perma-weather, it gained an awesome new Mega Evolution this generation. With great STAB moves and high attacking stats, Mega Abomasnow can hit really hard. It is the only automatic setter of hail, and thanks to Snow Warning, it is able to spam a perfectly accurate high Base Power move in Blizzard. It works very well in Trick Room due to its very low Speed, while Ice Shard is a strong priority move that can mitigate its low Speed. Mega Abomasnow is not without faults, however. Its terrible defensive typing leaves it with a total of seven weaknesses, and without Trick Room, it is very slow, rendering it vulnerable to super effective attacks.
+Abomasnow has a great offensive typing, being able to threaten Water-types and top-tier threats such as Salamence, Mega Aerodactyl, and Crobat alike. While all these threats are faster than Abomasnow, it has a great priority move in Ice Shard, meaning it can pick off all of them fairly easily. Its typing gives it some nice resistances to Water, Ground, and Electric. It also can boost its Attack with Swords Dance quite easily, as it can force a lot of switches. Mega Abomasnow also gains a great Speed tier for Trick Room teams, as its abysmal base 30 Speed is one of the "fastest" Speed stats under Trick Room.
 
-All-Out Attacker
+Unfortunately Abomasnow has one of the worst defensive typings, which gives it common weaknesses to Fire, Fighting, and Flying, and this also undermines the nice 90 / 105 / 105 bulk Mega Abomasnow has. Mega Abomasnow loses Speed, which can be great for Trick Room teams, but it isn't that great otherwise, as a lot of common UU walls, such as Umbreon, Vaporeon, Florges, and Tentacruel, outspeed and can proceed to get a free Wish off against Mega Abomasnow or threaten it with a Scald or STAB Sludge Bomb in Tentacruel's case.
+
+Barack Aboma
 ########
-name: All-Out Attacker
-move 1: Blizzard
-move 2: Wood Hammer / Giga Drain
-move 3: Earthquake
-move 4: Ice Shard
-ability: Soundproof
-item: Abomasite
-evs: 8 HP / 84 Atk / 252 SpA / 164 Spe
-nature: Mild
-
-Moves
-=========
-
-Blizzard works well with Snow Warning, as it is an extremely strong and reliable STAB move that has perfect accuracy in hail. Wood Hammer is a powerful physical STAB move, though it has the downfall of having high recoil. Giga Drain is a special Grass-type STAB move that doesn't have recoil and regains HP, but it isn't as strong as Wood Hammer. Earthquake gets rid of Steel-types that would be a problem and hits Fire-types on the switch. Lastly, Ice Shard is used for priority to pick off weakened opponents.
-
-Set Details
-========
-
-As this set is completely offensive, it has a balanced offensive spread. 8 HP EVs are to allow minimum Stealth Rock damage. 252 EVs are placed into Special Attack to boost the power of Mega Abomasnow's best and most reliable move, Blizzard. 164 EVs are placed into Speed to allow Mega Abomasnow to outspeed common base 50 Speed Pokemon such as Donphan, while the remaining EVs are dumped into Attack. 0 Speed IVs should be used if Mega Abomasnow is being used on a Trick Room team, to maximize its Speed in Trick Room. Mild is preferred over other natures as most common physical attacks destroy Mega Abomasnow anyway, and it should capitalize on its resistances to Electric, Water, and Ground. Although minor, Soundproof is the preferred ability before Mega Evolution as it allows Mega Abomasnow to switch into Exploud's Boomburst as well as any other sound moves, and hail isn't exactly beneficial for the team unless Mega Abomasnow is taking advantage of it.
-
-Usage Tips
-========
-
-There are a few things to keep in mind when using Mega Abomasnow. It should be brought in on predicted double switches into defensively based Pokemon, such as Swampert, Alomomola, and Hippowdon. If brought in safely against something it can check, Mega Abomasnow doesn't have a lot of switch-ins against offensive teams, but it can still bust through Pokemon with its hard hitting Blizzard. It cannot do much late-game other than fire off an Ice Shard due to its bad Speed and poor defensive typing. Lastly, Abomasnow should have entry hazards removed before coming onto the field, as it doesn't appreciate residual damage whatsoever.
-
-Team Options
-========
-
-Good Trick Room setters such as Reuniclus, Cresselia, and Bronzong are bulky enough to set up Trick Room, which makes them great teammates for Mega Abomasnow. Faster Pokemon such as Infernape and Mienshao should come in to take out Steel-type threats such as Registeel and Mega Aggron. Swampert makes for an excellent teammate, as it walls Fire-types very well for Mega Abomasnow. U-turn from teammates such as Jirachi, Hydreigon, and Mienshao help get Mega Abomasnow in and gain momentum. Finally, Rapid Spin users such as Forretress, Tentacruel, and Donphan immensely improve Mega Abomasnow's longevity and the number of times it can switch in.
-
-Swords Dance
-########
-name: Swords Dance
+name: Barack Aboma
 move 1: Swords Dance
-move 2: Wood Hammer
+move 2: Wood Hammer / Seed Bomb
 move 3: Ice Shard
 move 4: Earthquake
 ability: Soundproof
 item: Abomasite
-evs: 248 HP / 252 Atk / 8 SpD
+evs: 76 HP / 252 Atk / 180 Spe
 nature: Adamant
 
 Moves
 ========
 
-Swords Dance is the main move of the set, as it bolsters Mega Abomasnow's great Attack stat to monstrous levels. Wood Hammer is a very powerful physical STAB move, although it has huge recoil. Ice Shard is a STAB priority move that is good at finishing off faster threats such as Noivern and Hydreigon, while Earthquake hits Fire-types on the switch and OHKOes them most of the time.
+Swords Dance is the boosting move of choice, skyrocketing Abomasnow's Attack to a scary level. Wood Hammer is used to hit bulky Water-types hard, albeit with nasty recoil damage. Seed Bomb can be used instead if you don't like the recoil Wood Hammer brings, but you lose a lot of power. Ice Shard gives Abomasnow a powerful STAB move after Swords Dance and a form of priority. Earthquake hits the Steel-types that commonly switch into Mega Abomasnow.
 
 Set Details
 ========
 
-248 HP EVs add bulk to Mega Abomasnow and allow it to switch in to Stealth Rock more times, while 252 Attack EVs with a Adamant nature max out Abomasnow's Attack. 8 Special Defense EVs are used for a little bulk and to give Porygon-Z the wrong Download boost, and, although minor, Soundproof is the preferred ability before Mega Evolution, as it allows Mega Abomasnow to switch into sound-based moves such as Bug Buzz. Hail also isn't beneficial for the team unless Mega Abomasnow is taking advantage of it.
+Maximum Attack EVs are used to take advantage of Mega Abomasnow's amazing power while 180 Speed EVs allow Mega Abomasnow to outspeed Relaxed Swampert. Abomasite is obligatory so that Abomasnow can Mega Evolve. An Adamant nature allows Mega Abomasnow to hit as hard as possible, especially after a Swords Dance boost. Soundproof isn't useful on this set, but it can come in handy for setup opportunities, as it blocks sound moves such as Bug Buzz, Hyper Voice, and Boomburst.
 
 Usage Tips
 ========
 
-Mega Abomasnow only needs to worry about attacking, which is its only duty. However, it is advised to predict when a Fire-type will switch in to take the opportunity to hit them hard with Earthquake. This set should be used as a late-game sweeper, as Mega Abomasnow can pick off weakened opponents with hard-hitting moves.
+This set can work as both a wallbreaker and a win condition, as it hits hard initially and can proceed to overpower the opponent's team thanks to its access to Swords Dance. This set needs a ton of support to be truly effective, as its slow Speed stat and its bulk can only take it so far.
 
 Team Options
 ========
 
-Mega Abomasnow appreciates team support from a myriad of different Pokemon. Infernape is an excellent partner to get rid of Steel-types such as Metagross and Jirachi with a STAB move, as Mega Abomasnow will either be crippled or KOed before it can 2HKO the troublesome Steel-types with Earthquake. Rotom-H can take any hit that Fire-types can offer and cripple Fighting-types with Will-O-Wisp. Forretress, Empoleon, Crobat, and Tentacruel provide Rapid Spin or Defog support against Stealth Rock and Spikes, which are a huge problem for Mega Abomasnow. Dugtrio makes for a good partner, as it can trap and KO troublesome Fire-types for Mega Abomasnow. Fire-types make excellent teammates, as they pressure your opponent to send in their bulky Water-types, which Mega Abomasnow beats and can set up on. Chandelure and Arcanine fill this role well, as they absorb Fire- and Fighting-type attacks well and can also beat troublesome Steel-types for Mega Abomasnow.
+This set appreciates wallbreakers, such as Choice Band Entei or Life Orb Darmanitan, to wear down Steel-types while also hitting a lot of foes for a massive amount of damage. This set really appreciates Spikes support from Pokemon such as Chesnaught or Roserade to wear down the Steel-types that commonly switch in, as Mega Abomasnow can force a lot of switches thanks to its STAB coverage. This set also appreciates entry hazard removal from Tentacruel or Crobat, as Mega Abomasnow has no reliable recovery and is susceptible to all entry hazards.
+
+President Snow
+########
+name: President Snow
+move 1: Blizzard
+move 2: Wood Hammer / Giga Drain
+move 3: Ice Shard
+move 4: Earthquake / Focus Blast
+ability: Soundproof
+item: Abomasite
+evs: 8 HP / 68 Atk / 252 SpA / 180 Spe
+nature: Mild
+
+Moves
+========
+
+Blizzard is Abomasnow's most reliable STAB move in hail and is its most powerful STAB move. Wood Hammer is used to nail special walls trying to switch into Blizzard. Giga Drain is an option, however, to have a way of recovering and still hits targets that are weak to it such as Swampert and Vaporeon pretty hard. Ice Shard gives Abomasnow a priority move that can nail a lot of faster threats that may threaten it. Earthquake is used to get around Steel-types not named Mega Aggron and Fire-types that try to switch into Abomasnow's STAB moves. Focus Blast can be used instead to hit Mega Aggron a bit harder, but it loses out on coverage against Fire-types.
+
+Set Details
+========
+
+Maximum Special Attack EVs are used to let Abomasnow hit as hard as it can with its most powerful STAB move, Blizzard. 180 Speed EVs allow Abomasnow to outspeed Relaxed Swampert. 8 HP EVs hit a Stealth Rock number, and the rest is dumped into Attack to let Abomasnow's other moves hit as hard as possible. Abomasite is given item, as otherwise Abomasnow cannot proceed to Mega Evolve. A Mild nature is used to boost Abomasnow's Special Attack while lowering its less important Defense, as Abomasnow's resistances are usually more specially based. Soundproof is used before Mega Evolution to avoid sound moves such as Yanmega's Bug Buzz or Exploud's Boomburst. It also allows for more hail turns for Mega Abomasnow to spam Blizzard.
+
+Usage Tips
+========
+
+This set should be used on a bulky offensive team looking for a decent wallbreaker with priority. Abomasnow must be wary of any Pokemon faster than it that resists its priority or that it cannot afford to take a hit from, such as Entei or Darmanitan. Plan to bring this set out early- or mid-game to punch holes while softening up bulky foes.
+
+Team Options
+========
+
+Trick Room is a great option, as Mega Abomasnow's base 30 Speed allows it to outspeed almost everything in UU under Trick Room. Slowking is a particularly good partner as it has excellent defensive synergy with Mega Abomasnow, resisting Fire, Fighting, and Steel while Mega Abomasnow resists Grass and Electric; it can also set up Trick Room multiple times thanks to its ability Regenerator and its access to Slack Off. Entei is a good partner to form a wallbreaking core and it has great offensive and defensive synergy with Abomasnow. Abomasnow appreciates entry hazard removal from the likes of Tentacruel or Crobat, as both can get rid of all entry hazards fairly easily without compounding Abomasnow's weaknesses.
 
 Other Options
 ########
 
-Abomasnow is limited to very few other options. Mega Abomasnow can run a SubSeed set which was very good in BW UU, but it faces too many threats such as Darmanitan and Entei now to use it effectively. A Choice Scarf set can be used to outspeed Hydreigon, but outside of its Mega forme, Abomasnow isn't very strong. Finally, Focus Blast can be used as coverage over Earthquake, but Mega Abomasnow already fulfills its coverage needs well.
+Substitute and Leech Seed can provide Mega Abomasnow with a way to avoid status and give it a form of recovery; it also has an Ice-type STAB move to threaten the Grass-types that are immune to Leech Seed. However, Abomasnow has one of the worst defensive typings in the game and can therefore be worn down easily. A specially defensive set can be used to take advantage of Abomasnow's nice resistances to Water, Electric, and Grass; however, while Mega Abomasnow has some useful resistances, it has too many weaknesses to truly take advantage of its solid 90 / 105 / 105 bulk. Hidden Power Fire is an option on the second set specifically to hit Forretress harder than any other move Mega Abomasnow has to offer, but every other Steel-type is hit harder by Focus Blast, and Earthquake hits both Steel- and Fire-types super effectively. Grass Knot is an option to hit heavy Pokemon, such as Hippowdon, harder than Giga Drain or Wood Hammer would, but most Pokemon are hit harder by Wood Hammer, and Mega Abomasnow likes the recovery Giga Drain can provide.
 
 Checks & Counters
 ########
 
-**Fire-types**: Darmanitan, Rotom-H, Entei, Infernape, and Arcanine all can outspeed Mega Abomasnow and OHKO it with a Fire-type STAB move. They must be wary of Earthquake, however.
+**Stealth Rock**: Stealth Rock limits the number of times Mega Abomasnow can switch in, meaning it cannot set up or punch holes in the opposing team effectively.
 
-**Steel-types**: Steel-types can cripple or KO Mega Abomasnow that lack Fighting-type teammates before it can effectively use Earthquake or any other attacks. Mega Aggron, Lucario, and Magneton can easily KO Abomasnow with a STAB move.
+**Steel-types**: Mega Aggron can tank a +2 Earthquake and proceed to cripple Mega Abomasnow with Thunder Wave, though if Mega Aggron lacks Thunder Wave, Swords Dance Mega Abomasnow can overpower it. Bronzong can also wall Abomasnow, as it is immune to Earthquake thanks to its ability, Levitate, but it has the potential to be 2HKOed by Abomasnow's +2 Wood Hammer after Stealth Rock and hail damage. Assault Vest Escavalier is another threat, as it can tank any hit from Abomasnow and has a reliable, super effective STAB move to hit Abomasnow with; however, it cannot switch into a +2 Earthquake more than once, meaning it has to stay healthy to check Mega Abomasnow. Forretress is also worn down by a +2 Earthquake, as its only form of super effective damage is Gyro Ball, which is only a 4HKO thanks to Mega Abomasnow's abysmal base 30 Speed.
 
-**Entry Hazards**: Entry hazards such as Spikes and especially Stealth Rock hurt Mega Abomasnow, as it does not appreciate the residual damage due to being inclined to switch frequently.
+**Fire-types**: Any Fire-types in UU, such as Entei and Darmanitan, resist Ice Shard and can proceed to OHKO Abomasnow with their STAB moves, but they do not like switching into Earthquake.
 
-**Super effective STAB moves**: Mega Abomasnow's bad defensive typing leaves it susceptible to STAB Fighting-, Bug-, Flying-, Poison-, and Rock-type moves from a variety of Pokemon. Hard hits that can KO Mega Abomasnow include Machamp's Dynamic Punch, Nidoking's Sludge Wave, Crobat's Brave Bird, Mega Aerodactyl's Stone Edge and Aerial Ace, and Galvantula's Bug Buzz.
+**Fighting-types**: Mienshao, Infernape, Heracross, and Machamp all outspeed and OHKO Mega Abomasnow. Infernape also resists both its STAB moves, but it hates Earthquake.

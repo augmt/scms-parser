@@ -1,7 +1,39 @@
 Overview
 ########
 
-With a lot of power under its wings, good all-around bulk, but a relatively low Speed stat, Braviary is quite the unusual bird. Thanks to its base 123 Attack and access to high-powered moves such as Brave Bird and Superpower, Braviary is a terrifying wallbreaker that 2HKOes nearly everything that doesn't resist Flying-type moves. Braviary's decent defenses also allow it to run a threatening Substitute + Bulk Up set that allows it to overcome usual checks to it such as Gligar, Alomomola, and Registeel and is very hard to take down for heavily defensive teams. Defiant is another fantastic tool for Braviary, punishing Defoggers with a +2 Attack boost and making it a natural fit in Spikes-stacking teams. However, Braviary struggles with top-tier threats such as Rhyperior and Doublade, which can switch in repeatedly and handle the Bulk Up set too if it hasn't acquired too many boosts. Moreover, Braviary is a bit slow with only base 80 Speed, leaving it outsped by most offensive Pokemon, which can heavily damage it before it has a chance to attack.
+With its good Attack and solid coverage against the RU metagame, Braviary is one of the strongest physical Flying-types in RU. Its wide movepool, consisting of moves such as Brave Bird, Superpower, Roost, and Bulk Up, along with its decent bulk allows it to run several sets effectively, such as All-out Attacker sets and Substitute + Bulk UP. Defiant also allows it to take advantage of Defog and Intimidate, making it a good choice for Sticky Web and other entry hazard-reliant teams. However, Braviary has lackluster Speed, causing it to get outsped by most offensive Pokemon. It also has trouble handling prominent Rock- and Steel-types such as Rhyperior, Steelix, and Doublade.
+
+Physical Attacker
+########
+name: Physical Attacker
+move 1: Brave Bird
+move 2: Return
+move 3: Superpower
+move 4: U-turn / Roost
+ability: Defiant
+item: Choice Band / Life Orb
+evs: 252 Atk / 4 Def / 252 Spe
+nature: Adamant
+
+Moves
+========
+
+Brave Bird is Braviary's most reliable STAB move, having good coverage on the RU metagame. Return is a solid secondary STAB move that covers Electric-types and can be used when you can't afford to take recoil from Brave Bird. Superpower is a decent coverage move for Rock- and Steel-types. It doesn't do much damage to most Rock- and Steel-types outside of Kabutops and Aurorus, but it still helps wear them down. U-turn is great for grabbing momentum as well as bringing in frail sweepers safely. It also helps Braviary wear down and switch out of checks such as Steelix and Rhyperior. Roost is a decent option if you opt for Life Orb, as it heals off damage taken from Brave Bird, Life Orb, Stealth Rock, and weaker attacks. However, Braviary won't get many opportunities to heal up in a heated match. Shadow Claw hits Bronzong and Doublade harder than any other move on this set; however, it's usually better to U-turn out and let Braviary's teammates deal with Doublade.
+
+Set Details
+========
+
+Maximum investment in Attack and Speed allows Braviary to hit as hard and fast as possible. An Adamant nature gives it the power needed to break down walls. Choice Band has no recoil and almost guarantees a 2HKO on Alomomola after Stealth Rock damage. However, Life Orb allows Braviary to switch moves while still getting KOs on less defensive Pokemon; it is also the better option if you are using Braviary on a Sticky Web team.
+
+Usage Tips
+========
+
+This set is used to break down walls and balanced teams. It is best to remove Stealth Rock from the field before sending in Braviary. U-turn should be used to wear down Braviary's checks and gain momentum. Superpower should only be used on predicted switches and weakened Rock- and Steel-types. Once all Pokemon that resist Flying on the opposing team are gone, feel free to spam Brave Bird.
+
+Team Options
+========
+
+Dugtrio makes for an excellent partner, as Braviary can U-turn into Dugtrio on the switch and trap Braviary's checks, such as Registeel and Cobalion. Sticky Web support from Kricketune is very useful, mitigating Braviary's lackluster Speed and opening up sweeping possibilities against more offensive teams. In return, Braviary can deter Defoggers with Defiant. Entry hazard users such as Mesprit, Qwilfish, Omastar, and Crustle also partner well with Braviary. Stealth Rock and Spikes, along with U-turn, can really rack up damage on Braviary's counters. Spinners and Defoggers can remove Stealth Rock for Braviary. Hitmonlee and Hitmontop are good examples, as they can take care of most of Braviary's counters. Togetic can also remove entry hazards while providing cleric support. Other Flying-types such as Fletchinder and Swellow can weaken counters for Braviary to sweep, or vice versa. Grass-types such as offensive Tangrowth and defensive Rotom-C handle Rhyperior and Steelix well. Torterra is a more niche option, but it works well against Doublade. Meloetta and Exploud can lure in checks such as Rhyperior and Registeel and weaken or KO them with their respective coverage moves. Pokemon such as Meloetta, Heliolisk, Jolteon, Cobalion, and Rotom-C can bring Braviary in safely with U-turn or Volt Switch; they also make a great VoltTurn core with Braviary. Finally, Seismitoad can switch into most of Braviary's checks thanks to its great bulk and proceed to burn or KO them.
 
 Substitute + Bulk Up
 ########
@@ -18,54 +50,22 @@ nature: Careful
 Moves
 ========
 
-Substitute shields Braviary from status afflictions such as Toxic and is pretty easy to set up on walls such as Alomomola and Amoonguss. It also helps to stall out low PP moves such as Stone Edge. Bulk Up makes Braviary's Substitute harder to break and gives it sweeping potential. Roost is a reliable recovery move used to stall out low PP moves and to heal Braviary from Substitute damage and Brave Bird recoil. Brave Bird is Braviary's best STAB move and has good coverage in the RU metagame, only resisted by Rock-, Steel-, and Electric-types and having no immunities.
+Substitute protects Braviary from status and eases prediction. Bulk Up boosts Attack and Defense, making Braviary harder to break while preparing it for a sweep. Roost is reliable, mandatory recovery, healing off damage taken from Substitute, Brave Bird, and opposing attacks. Brave Bird is a strong, reliable STAB move with good coverage in the metagame; also, no Pokemon is immune to it, unlike Return.
 
 Set Details
 ========
 
-Maximum HP investment lets Braviary's Substitute take a Seismic Toss from Registeel, making it complete setup fodder for Braviary. 44 Speed EVs outspeed uninvested Gligar and Cresselia, allowing Braviary to safely set up a Substitute on them before they can use a status move. With 84 Speed EVs, Braviary can get the jump on uninvested Golbat, but this is useless most of the time, as it ignores the Substitute thanks to Infiltrator and usually carries Toxic. Leftovers is the best item for a bulky setup sweeper like Braviary, thanks to the passive recovery it provides. The remaining EVs are put in Special Defense so that Braviary can set up against weaker special attackers such as Amoonguss, Aromatisse, and Seismitoad.
+Leftovers lets Braviary recover a bit of health every turn and makes up for the HP lost from making Substitutes. Maximum HP investment is used so that Registeel can't break Braviary's Substitute with Seismic Toss. 44 Speed EVs let Braviary outspeed and set up on Cresselia. The remaining EVs go in Special Defense alongside a Careful nature, allowing Braviary to set up on weaker special attackers such as Amoonguss, Aromatisse, and Seismitoad. Special Defense is invested in instead of Defense because Bulk Up already patches up Braviary's Defense. Running 160 Speed EVs is an option if you want to get the jump on Exploud.
 
 Usage Tips
 ========
 
-Don't directly switch Braviary into Gligar, Registeel, or Cresselia, as they might carry a status move that can cripple Braviary before it uses Substitute. Beware of phazers such as Rhyperior, as they can take any hit from Braviary and force it out, so don't set up too early. Rock- and Electric-types should be gone or severely weakened before you start setting up.
+Watch out for phazers such as Rhyperior and Steelix. Try to keep Braviary away from sound moves from Pokemon such as Exploud, Meloetta, and Aurorus. It's a good idea to remove Stealth Rock before attempting a sweep. Try not to directly switch into defensive Pokemon carrying status moves, such as Cresselia and Registeel. Rock-, Electric-, and Ice-types, as well as phazers, should be gone or severely weakened before attempting a sweep.
 
 Team Options
 ========
 
-A cleric such as Aromatisse can cure Braviary of any status affliction it might have taken, giving it a second chance to set up and sweep. Toxic Spikes support is great, as it lets Braviary outstall bulkier Pokemon using Substitute and Roost. Rapid Spin support mitigates Braviary's Stealth Rock weakness, leaving it less reliant on Roost. Rhyperior checks Electric- and Rock-types, scares out most defensive Steel-types with the threat of STAB Earthquake, and can set up Stealth Rock.
-
-Physical Attacker
-########
-name: Physical Attacker
-move 1: Brave Bird
-move 2: Return / Shadow Claw
-move 3: Superpower
-move 4: U-turn / Roost
-ability: Defiant
-item: Choice Band / Life Orb
-evs: 252 Atk / 4 Def / 252 Spe
-nature: Adamant
-
-Moves
-========
-
-Brave Bird is Braviary's strongest STAB move and has good coverage, only being resisted by Steel-, Rock-, and Electric-types and having no immunities. Return is a reliable secondary STAB move that hits Electric-types such as Eelektross hard and doesn't have recoil; however, Shadow Claw is perfectly fine to hit Bronzong and Doublade harder than any other move on Braviary's set. Superpower is the perfect coverage move for Braviary, 2HKOing Rock- and Steel-types such as Registeel and Rhyperior after some residual damage. However, the Defense drop can make Braviary more prone to being revenge killed. U-turn gives momentum on predicted switches and therefore is the preferred move for Choice Band sets. However, Roost is the better option if Braviary is using a Life Orb.
-
-Set Details
-========
-
-Adamant is usually the best nature for Braviary, as its job is to wallbreak, and all Pokemon in the 80 to 90 Speed range commonly use a positive Speed nature anyway. Choice Band doesn't have recoil and almost guarantees the 2HKO on Gligar and Alomomola after Stealth Rock damage, but Life Orb can be used as well because it gets the same KOs against offensive Pokemon; also, it still lets Braviary break walls with entry hazard support and is the better option overall if you are using a Sticky Web team.
-
-Usage Tips
-========
-
-Use U-turn early-game to wear down strong checks to Braviary such as Rhyperior and Doublade, as they don't have recovery. This is especially helpful if you are using Dugtrio to get rid of the former. After the Pokemon that resist Flying-type moves are gone, you can usually spam Brave Bird and watch the opponent's team crumble. Only use Superpower on predicted switches unless the target is significantly weakened, as all Braviary's checks have impressive physical bulk and can take at least one from full health.
-
-Team Options
-========
-
-Sticky Web support is extremely useful, as it lets Braviary outspeed a lot of offensive Pokemon; Braviary is a natural fit on Sticky Web teams thanks to its ability, Defiant, which punishes Defog users trying to remove entry hazards. The best Pokemon for this role is Kricketune, which can also weaken common checks to Braviary such as Rhyperior and Registeel with Knock Off and Endeavor. Braviary also appreciates Stealth Rock and Spikes support from entry hazard setters such as Omastar, Accelgor, and Qwilfish, as those entry hazards can quickly wear down its checks, which often don't have recovery. In return, Braviary can punish Defog users with Defiant. Dugtrio can come in on a weakened Rhyperior or Registeel after U-turn and proceed to trap and KO it. Bulky Water-types can switch into Rhyperior and Doublade and force them out with the threat of a burn from Scald. Rapid Spin support gives Braviary more opportunities to switch in and wreak havoc; as such, it is heavily advised when using Braviary. Hitmonlee has nice offensive synergy and can remove entry hazards quite reliably; it can also lure and KO Doublade with the combination of Knock Off and Sucker Punch. Sandslash is another good Rapid Spin user, as it handles Braviary's checks pretty well and can beat the most common spinblocker, Doublade. Other Flying-types like Fletchinder appreciate Braviary weakening Rock- and Steel-types and can break or wear them down themselves. Finally, Meloetta and Exploud are other interesting partners, as they can lure the Pokemon that resist Normal-type moves that also wall Braviary's Flying-type STAB move, such as Registeel and Rhyperior, and smack them hard with Focus Blast, Fire Blast, or Psychic. They are also fantastic Pokemon to U-turn into against Doublade.
+Clerics such as Audino and Aromatisse make for great partners, as they can give Braviary a second chance to sweep if it gets statused. Toxic Spikes support from Pokemon such as Qwilfish and Omastar is great, as it helps weaken Pokemon in preparation for a sweep and allows Braviary to stall out the opponent's team with the combination of Substitute and Roost. Rapid Spin and Defog support from Pokemon such as Hitmonlee, Hitmontop, and Togetic is great to have, as Braviary doesn't appreciate Stealth Rock. Rhyperior checks most Rock- and Electric-types, scares away most defensive Steel-types with STAB Earthquake, and can set up Stealth Rock for the team. Meloetta and Exploud can weaken or KO most Rock- and Steel-types with their coverage moves. Seismitoad makes for a great partner thanks to its ability to burn or KO most of Braviary's checks. Finally, Grass-types such as Rotom-C and offensive Tangrowth can take care of Rhyperior and Steelix.
 
 Choice Scarf
 ########
@@ -82,37 +82,37 @@ nature: Jolly
 Moves
 ========
 
-Brave Bird is Braviary's strongest STAB move and has good coverage in the RU metagame. It lets Braviary revenge kill a lot of threatening sweepers, such as Swords Dance Virizion and Calm Mind Delphox. Return is a reliable secondary STAB move that hits Electric-types such as Jolteon and Eelektross quite hard and has no recoil. Superpower hits weakened Rock- and Steel-types that resist Braviary's STAB moves; it is also Braviary's strongest option against Cobalion. U-turn is used in the last slot, as it gives momentum on predicted switches.
+Brave Bird is Braviary's strongest STAB move and has good coverage on the metagame. Return is a reliable secondary STAB move that covers Electric-types and doesn't make Braviary take recoil damage, unlike Brave Bird. Superpower helps weaken Rock- and Steel-types. U-turn wears down checks and helps gain momentum.
 
 Set Details
 ========
 
-Choice Scarf gives Braviary a much needed Speed boost and the ability to outspeed any unboosted Pokemon in the tier, which makes it a decent revenge killer for balanced teams. A Jolly nature is necessary to outspeed Jolteon, which would otherwise check Braviary, and either deal heavy damage to it with Return or U-turn to a check.
+The EVs are self-explanatory. Choice Scarf turns Braviary into a good revenge killer and gives it a much-needed Speed boost. A Jolly nature allows it to outspeed and revenge kill Jolteon.
 
 Usage Tips
 ========
 
-This set is not that strong, but it can revenge kill weakened Pokemon and check Fighting-types such as Hitmonlee and Gallade a lot better than the other sets. Use U-turn to wear down checks such as Rhyperior and Doublade, as Braviary can't do much to them. Braviary should not attempt to revenge kill healthy Pokemon if they are not weak to its STAB moves, as it is not that strong without a boosting item.
+This set is used to revenge kill weakened Pokemon as well as frailer offensive Pokemon. This set can also sweep the opponent's team late-game. Try to keep Stealth Rock off the field during the match, as it can hinder Braviary greatly. Use U-turn to gain momentum and wear down Braviary's checks. Don't attempt to revenge kill healthy Pokemon, as Braviary isn't very strong without a boost and thus won't be able to KO sometimes. Try not to switch into Scald if possible; however, you can play recklessly with Braviary if you have a cleric.
 
 Team Options
 ========
 
-Bulky Water- and Ground-types can take on the Rock- and Steel-types that trouble Braviary. Good examples of these are Sandslash and Alomomola, which can wall them and provide Rapid Spin and Wish support, respectively. Wallbreakers work pretty well with this set, as they can get a free switch in via U-turn and proceed to wreak havoc. Mixed Emboar can lure in and break Rhyperior and Doublade with Grass Knot and its STAB moves, respectively; Exploud has similar checks to Braviary and can weaken them, so that Braviary can spam Brave Bird later in the game.
+Entry hazard support from Pokemon such as Mesprit, Qwilfish, Omastar, and Crustle is especially important for this set, as it helps get crucial residual damage that can mean the difference between an OHKO and a 2HKO. Bulky Fighting-, Water-, and Ground-types can take on most of Braviary's checks. Examples include Hitmontop and Alomomola, the latter of which can also provide Wish support, and Seismitoad, which is also a great check to most Rock- and Steel-types, switching in with little to fear and threatening to burn or KO. Grass-type Pokemon such as defensive Rotom-C and offensive Tangrowth can take care of Rhyperior and Steelix. Wallbreakers such as Meloetta, Emboar, and Exploud can weaken Braviary's checks to pave the way for a late-game sweep. Rapid Spin or Defog support is appreciated to remove Stealth Rock from the field. Examples of Pokemon that can provide this support include Hitmonlee, Hitmontop, and Togetic.
 
 Other Options
 ########
 
-Defog is a great support option, but Braviary struggles to fit it onto its sets. An offensive Substitute + Roost set is usable to stall out some low PP moves such as Stone Edge, but the Substitute + Bulk Up set usually accomplishes the same thing better. Toxic is another decent option, as it can wear down Rhyperior and walls such as Alomomola, but a lot of Braviary's switch-ins are immune to poison anyway. Finally, Heat Wave with Sheer Force, a Life Orb, and a neutral Special Attack nature has a chance to 2HKO Doublade, but it is very gimmicky as Braviary can't really ditch Defiant, and it is only used to hit one Pokemon, which isn't enough to be useful in the long run.
+Defog is a great support option, but Braviary just can't find a place for it on one of its sets. An offensive SubRoost set is somewhat viable, allowing it to PP stall and heal itself while maintaining offensive pressure. Toxic allows Braviary to cripple and wear down defensive Pokemon such as Rhyperior and Alomomola. Finally, a mixed set with Sheer Force and Heat Wave has a chance of 2HKOing Doublade, but otherwise, it is outclassed by Braviary's other sets.
 
-Checks &amp; Counters
+Checks & Counters
 ########
 
-**Doublade**: Doublade can take any two hits from Braviary and hit it hard with Iron Head.
+**Doublade**: Braviary can't do anything to Doublade outside of using Shadow Claw, which still does little damage. In return, Doublade can threaten with set up and easily defeat Braviary, especially if it's using Sacred Sword. 
 
-**Rock- and Steel-type Pokemon**: Rhyperior, Registeel, and Bronzong can take any move Braviary commonly uses, bar Choice Band Superpower or Shadow Claw, in Bronzong's case, and set up Stealth Rock, status it, or hit it hard. However, the latter two are setup fodder for the Substitute + Bulk Up set.
+**Rock- and Steel-types**: Rock- and Steel-types such as Rhyperior, Tyrantrum, Steelix, Registeel, and Bronzong can take most hits from Braviary and either set up Stealth Rock, status it, or hit it hard. However, the latter two are setup bait for the Substitute + Bulk Up set, and all of them should be wary of U-turn.
 
-**Electric-types**: Jolteon and Rotom-C can OHKO Braviary with their STAB moves, and they outspeed it if it is not holding a Choice Scarf.
+**Electric-types**: Jolteon and Rotom-C can outspeed and OHKO non-Choice Scarf Braviary with their respective STAB moves. Choice Scarf Rotom-C can still outspeed Choice Scarf Braviary.
 
-**Infiltrator**: Infiltrator users such as Golbat and Spiritomb can poison or burn Braviary through its Substitute and take unboosted Brave Bird pretty well, but they must be switched in before Braviary gathers too many boosts.
+**Unaware Quagsire**: Quagsire can take hits from most of Braviary's sets and retaliate with Scald or set up with Curse. However, the Choice Band set can break through it, and Quagsire only manages to PP stall the Substitute + Bulk Up set if it doesn't carry Curse.
 
-**Hazing and Phazing**: Haze users such as Cofagrigus and phazers such as Rhyperior can easily stop Substitute + Bulk Up Braviary, removing its boosts even through its Substitute while comfortably taking its attacks.
+**Infiltrator Users**: Pokemon with Infiltrator such as Golbat and Spiritomb bypass Braviary's Substitute, can inflict status on it, and don't take much damage from Brave Bird. However, they must be switched in before Braviary attains too many boosts.

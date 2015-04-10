@@ -1,63 +1,60 @@
 Overview
 ########
 
-Gourgeist-XL is one of the most physically bulky Pokemon in the NU tier, with a rather impressive base 122 Defense and a solid base 85 HP. This extra bulk makes it worth using over its smaller counterparts. Gourgeist-XL is not exactly a sitting duck either, as it has a solid base 100 Attack and a decently powerful STAB move to back it up. Its typing is very unique, giving it resistances to common attacking types such as Water and Ground and immunities to Fighting and Normal. However, this typing does give it weaknesses to common types such as Dark, Fire, and Flying. Another big issue with Gourgeist-XL is its lack of reliable recovery, which makes it prone to being worn down. Its abilities are also useless, with the exception of the somewhat situational Frisk. Gourgeist-XL also faces competition for a team slot with its smaller formes, Vileplume, and Ferroseed, which have a bit more utility.
+With sky-high physical bulk and reliable means of recovery, Gourgeist-XL is the definition of a great physical wall. Thanks to its dual typing, Gourgeist-XL can work as a spinblocker that beats common spinners in the tier, and it can also stop some metagame-defining threats such as Sawk, Hariyama, and Rhydon with its access to Will-O-Wisp and Foul Play offering it an advantage over opposing physical attackers. However, in order to be able to handle most physical attackers in the tier, Gourgeist-XL is often forced to run a predictable set, which makes it very passive when put up against opposing defensive Pokemon or powerful special attackers.
 
 
-Physical Wall
+Physically Defensive
 ########
-name: Physical Wall
-move 1: Seed Bomb
-move 2: Will-O-Wisp
-move 3: Leech Seed
-move 4: Pain Split / Protect
+name: Physically Defensive
+move 1: Will-O-Wisp
+move 2: Leech Seed
+move 3: Synthesis
+move 4: Foul Play
 ability: Frisk
 item: Leftovers
-evs: 252 HP / 252 Def / 4 SpD
-nature: Impish
+evs: 248 HP / 200 Def / 60 SpD
+nature: Bold / Impish
 
 Moves
 ========
 
-Seed Bomb is Gourgeist-XL's strongest reliable STAB move that beats the Water- and Ground-types Gourgeist-XL generally walls. A Ghost-type STAB move can be run instead of Seed Bomb; however, Shadow Sneak is too weak and Phantom Force gives the opponent a free turn. Will-O-Wisp is used to cripple Pokemon that normally get walled by Gourgeist-XL, such as Kangaskhan. Leech Seed and Pain Split are some of Gourgeist-XL's only forms of recovery; alternatively, Protect can be used over Pain Split to stack up burn and Leech Seed damage and to scout moves on Choice-locked Pokemon. Rock Slide can be used to hit Ice-, Fire-, and Flying-types on the switch.
+Will-O-Wisp is used to spread burns, rack up passive damage on the opposing team, weaken physical attackers, and take away any chance of them breaking through Gourgeist-XL. Leech Seed offers recovery and deals passive damage to switch-ins, such as Fire-types coming in on a predicted Will-O-Wisp. Synthesis is Gourgeist-XL's reliable means of recovery, allowing it to stay healthy throughout the match and be able to repeatedly switch into physically offensive threats. Foul Play is preferred as the offensive move due to its ability to punish sweepers that may have means of getting past Will-O-Wisp burns, such as Swords Dance Sandslash holding a Lum Berry. Seed Bomb is an option as a Grass-type STAB move that allows Gourgeist-XL to hit Water- and Ground-types. Protect can be used to stall for more turns of Leftovers, burn damage, and Leech Seed recovery.
+
 
 Set Details
 ========
 
-The EV spread maximizes Gourgeist-XL's physical bulk. Leftovers is useful for passive recovery, and Frisk is the most useful of Gourgeist-XL's abilities, allowing Gourgeist-XL to scout which item the foe is carrying.
+Investing 248 HP EVs augments Gourgeist-XL's bulk and makes it take less damage from entry hazards. 200 Defense EVs paired with a Bold or Impish nature hit a jump point, while the remaining 60 EVs invested into Special Defense will aid Gourgeist in surviving two Fire Blasts from Tauros or two Shadow Balls from offensive Claydol. Leftovers is the preferred option for an item, as it offers passive recovery. Frisk is usually the most useful ability, allowing you to scout for Choice items or a Lum Berry,which would render Will-O-Wisp useless.
 
 Usage Tips
 ========
 
-Gourgeist-XL is severely crippled by Knock Off, so it's best to not try walling something that likely has it. It is best sent out on something it can wall, such as Feraligatr without Ice Punch and the majority of Stealth Rock leads. However, some of these Pokemon can carry coverage moves that beat Gourgeist-XL, such as Fire Blast Tauros. Also, don't use Will-O-Wisp or Leech Seed if you predict that a Pokemon immune to it is going to switch in.
+Due to its Ghost / Grass typing, Gourgeist-XL makes for a great spinblocker, as its physical bulk allows it to survive non-STAB Knock Offs, while it can also take out common spinners such as Sandslash and Claydol by itself. Using incoming Normal- or Fighting-type moves to obtain free switches gives Gourgeist-XL opportunities to heal itself back up or spread status through the opposing team. Gourgeist-XL's bulk should not be overestimated, and it should take advantage of any chance to heal and keep itself healthy for the most part. Fire-types are common counters to Gourgeist-XL and will try to come in on a Will-O-Wisp or Synthesis; therefore, Leech Seed may be a better option for passive damage in the early stages of the game when opposing Fire-types are still around.
 
 Team Options
 ========
 
-Gourgeist-XL is better on bulkier teams, as it loses momentum on offensive ones. A Pokemon that resists Fire-type moves is needed, as Fire-type Pokemon are immune to Will-O-Wisp. Specifically, Thick Fat Hariyama is a great partner for Gourgeist-XL, as it can sponge Fire-, Ice-, and Dark-type attacks. Rock-types such as Rhydon are good teammates, as they beat Fire- and Flying-types and can do decently against Ice-types. Gourgeist-XL also appreciates cleric and Wish support from Pokemon such as Audino and Lickilicky, allowing Gourgeist-XL to wall for as long as possible. A Rapid Spinner or Defogger is also appreciated, as Gourgeist-XL gets worn down by entry hazards.
+Gourgeist-XL can fulfill a spinblocker role on a hazard-stacking team, which is why leads such as Crustle alongside Defiant users are great teammates. Being weak to the common Fire-types, Gourgeist-XL should be paired up with a Fire check, such as Hariyama or Mantine. Lanturn deserves a mention as a partner due to resisting Flying-, Fire- and Ice-type attacks, while Gourgeist-XL patches up its weaknesses. Having a bulky Steel- or Rock-type, such as Klinklang or Rhydon, to easily dispatch of Archeops, Scyther, and Swellow will make Gourgeist-XL's job easier, as they are some of the few physical attackers that directly threaten it.
+
 
 Other Options
 ########
 
-Gourgeist-XL can use a SubSeed set, though that is better suited to Gourgeist-S as it has a higher base Speed. A Choice Band set with Shadow Sneak, Rock Slide, Seed Bomb, and Explosion can be used, though this set faces competition from other offensive Grass- and Ghost-types. Gourgeist-XL has a colorful special movepool which includes Giga Drain, Focus Blast, and Fire Blast, though its pitiful base 58 Special Attack makes these moves bad options. Gourgeist-XL can also be a surprisingly decent Trick Room setter, as it can use Explosion to safely bring in a Trick Room sweeper once Trick Room is up. However, this set is generally inferior to the physical wall set outside of dedicated Trick Room teams.
+Rock Slide can be used on Gourgeist-XL to hit common switch-ins that are not affected by its usual moves, such as Swellow, Pyroar, and Xatu. Magic Coat is an option to take advantage of opposing Ferroseed, which do not take much damage from any of Gourgeist-XL's moves besides Will-O-Wisp. Gourgeist-XL can also be used as a bulky Trick Room setter, pairing up really well with Mega Camerupt, one of the most powerful Trick Room sweepers. A specially defensive EV spread can make Gourgeist-XL a mixed wall, but it comes at the cost of losing the ability to reliably check powerful physical attackers over the course of the game.
+
 
 Checks & Counters
 ########
 
-**Fire-types**: Gourgeist-XL has trouble with Fire-types due to their immunity to Will-O-Wisp and the fact that most are specially offensive. Fire-types can also take its STAB moves relatively well, but will likely hate taking a Rock Slide.
+**Fire-types**: Offensive Fire-types, such as Typhlosion, Magmortar, and Mega Camerupt, can switch in on Gourgeist-XL and immediately threaten it out with their STAB moves, as it gives them free turns while using Will-O-Wisp or Synthesis. Most of those won't appreciate being hit with a Foul Play on the switch, especially mixed variants of Magmortar, but they still pose a huge threat to Gourgeist-XL even when weakened. Using Leech Seed early-game can slowly whittle them down and make it easier for Gourgeist-XL's teammates to switch in.
 
-**Offensive Pressure**: Due to Gourgeist-XL's lack of recovery outside of Leech Seed and Pain Split, it's very easy to wear down, though Leech Seed + Protect can mitigate this.
+**Grass-types**: Grass-types are immune to Leech Seed, and most of them, such as Vileplume and Lilligant, can take Gourgeist-XL's attacks and either set up on it or undo its work if they are running moves such as Heal Bell or Aromatherapy. The best retaliation that Gourgeist-XL can achieve is pressuring them with Will-O-Wisp burns.
 
-**Dark-types**: Dark types carry Knock Off, which severely cripples Gourgeist-XL. However, they generally don't like getting burned.
+**Special Attacks**: Strong special attacks, such as Shadow Ball from Rotom or Mismagius, Ice Beam from Samurott, and even neutral STAB moves from Pokemon such as Mesprit, take advantage of Gourgeist-XL's low special bulk and will most of the time 2HKO it. Specially offensive Pokemon, such as Rotom-S and Samurott, won't appreciate coming in on Leech Seed or Will-O-Wisp, but once they switch in, Gourgeist-XL is quickly forced out.
 
-**Taunt**: Taunt prevents Gourgeist-XL from spreading burns and using Leech Seed. However, depending on the user, Taunt users can be crippled by a burn on the switch, and most won't like taking a Seed Bomb.
+**Taunt / Encore**: As most of Gourgeist-XL's moveset consists of status moves, being unable to use them when under the effects of Taunt or Encore from Pokemon such as Archeops, Electivire, Liepard, Mawile, and Samurott will harshly lower Gourgeist-XL's usefulness and longevity. Physically offensive Pokemon with access to Encore or Taunt, such as Archeops, Electivire, and Liepard, can take advantage of Gourgeist-XL's attempt to wall them and render it useless for the next few turns.
 
-**Grass-types**: Grass-types are immune to Leech Seed and don't take much damage from Seed Bomb. Moreover, several of them have super effective coverage moves against Gourgeist-XL, such as Ludicolo, or can set up in Gourgeist-XL's face, such as Ferroseed and Lilligant. However, some Grass-types such as Cacturne are crippled by burn.
+**Xatu**: As the only notable Magic Bounce user, Xatu can usually get free turns against Gourgeist-XL. A physically defensive EV spread on Xatu allows it to take less damage from Foul Play than it can recover with Roost, which gives it an easy time setting up on Gourgeist-XL.
 
-**Xatu**: Xatu bounces back Gourgeist-XL's Leech Seed and Will-O-Wisp while dealing a hefty amount of damage with Heat Wave. It can also set up Tailwind and dual screens while Gourgeist-XL is in play, due to Gourgeist-XL's Grass-type moves not doing much. However, Xatu can't really take Rock Slide or a Ghost-type STAB move unless it's a defensive variant.
-
-**Other Ghost-types**: Other Ghost-types such as Mismagius and Haunter can cripple Gourgeist-XL and do not mind being burned. They also can do a hefty amount of damage to it, but can be Leech Seed fodder with proper prediction. However, physical Ghost-type attackers such as Golurk or Dusknoir can't beat Gourgeist-XL under most circumstances.
-
-**Ice-types**: Gourgeist-XL is one of the only spinblockers that loses to Cryogonal. Jynx also beats Gourgeist-XL and can be used as setup fodder for Substitute + Nasty Plot sets.
-
-**Flying-types**: While most of the Flying-types used in NU are physically based, they can still beat Gourgeist-XL under certain circumstances. For example, Archeops can run Heat Wave on mixed sets. Swellow also won't get affected much by a burn due to its ability, Guts. Specially offensive Flying-types such as the previously mentioned Xatu and Chatot can beat Gourgeist-XL relatively easily.
+**Swellow**: As it resists both of Gourgeist-XL's STAB moves and has Guts to take advantage of Will-O-Wisp burns, Swellow is a decent answer to Gourgeist-XL on offensive teams, although, due to its frailty, Swellow has to be wary of switching into Foul Play or Rock Slide, which will harshly reduce its longevity.

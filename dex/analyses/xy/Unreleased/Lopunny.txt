@@ -2,7 +2,7 @@
 Set
 ############
 name: 1 [ORAS] Mega Lopunny
-item: Lopunnyite
+item: Lopunnite
 evs: 252 Atk / 4 Def / 252 Spe
 nature: Jolly
 move 1: High Jump Kick
@@ -15,7 +15,7 @@ Lopunny is back and ready to dish out the pain with its new Mega Evolution. Its 
 Set
 ################
 name: 2 [ORAS Doubles] Mega Lopunny
-item: Lopunnyite
+item: Lopunnite
 ability: Limber
 evs: 252 Atk / 4 Def / 252 Spe
 nature: Jolly

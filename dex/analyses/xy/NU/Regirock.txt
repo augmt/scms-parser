@@ -1,13 +1,90 @@
-Stealth Rock
+Overview
 ########
-name: Stealth Rock
+
+Regirock boasts solid defenses alongside a good support movepool, including moves such as Stealth Rock, Thunder Wave, and Sunny Day, making it a good option for teams looking for a Rock-type or a weather setter on sun teams. It also serves as a good Fire-type check, as unlike Rhydon it doesn't have a 4x weakness to Grass-type moves, which most Fire-types use as coverage. Regirock's pure Rock typing also gives it useful resistances to primarily physical attacking types, including Normal and Flying, but with no reliable recovery except RestTalk and weaknesses to some of the more of common special attacking types in NU, it gets worn down easily. Regirock also competes with Rhydon for a spot on teams, but Thunder Wave and Sunny Day are some of the moves it has over Rhydon.
+
+Tank
+########
+name: Tank
 move 1: Stealth Rock
-move 2: Seismic Toss / Drain Punch
-move 3: Rock Slide
-move 4: Explosion / Protect / Thunder Wave
+move 2: Stone Edge / Rock Slide
+move 3: Thunder Wave / Toxic
+move 4: Drain Punch / Earthquake
 ability: Clear Body
 item: Leftovers
-evs: 252 HP / 252 Atk / 4 SpD
+evs: 252 HP / 44 Atk / 16 Def / 196 SpD
 nature: Impish
 
-This is a sample set while we are currently working on analyses in the workshop.
+Moves
+========
+
+Stealth Rock is a great entry hazard, and thanks to its good bulk, Regirock can very reliably set it up. Stone Edge is the main STAB move of choice, dealing decent damage to most Pokemon that don't resist it. If the chance to miss is off-putting, Rock Slide is a more reliable STAB move. Thunder Wave provides important speed control for bulkier teams, while Toxic can help Regirock wear down more defensive teams. With Drain Punch, Regirock has some form of recovery while also gaining decent coverage combined with its STAB moves. Earthquake hits harder than Drain Punch and gives Regirock EdgeQuake coverage, but it is often less useful than the previously mentioned moves.
+
+Set Details
+========
+
+The EV spread of 252 HP / 16 Def / 196 SpD and an Impish nature allow Regirock to survive Adamant Choice Band Sawk's Close Combat and avoid the 2HKO from Choice Specs Typhlosion's Hidden Power Grass. The rest of the EVs are put into Attack for a better damage output. Leftovers gives Regirock passive recovery to negate entry hazard damage. An alternative EV spread that can be used is 252 HP / 184 Atk / 16 Def / 52 SpD, but it sacrifices a lot of Regirock's ability to tank special hits.
+
+Usage Tips
+========
+
+Very few of the Flying-types in NU can do much to Regirock, not even Archeops, so take advantage of this by setting up Stealth Rock, spreading status, or attacking. Most Normal-types such as Kangaskhan and Zangoose have super effective coverage that hits Regirock hard, but none of them can easily OHKO it, so with Drain Punch it's possible to take advantage of them instead. Regirock loses to some of the most common dedicated leads in the tier, so it's worth trying to predict your opponent and send out a Pokemon that can handle the opposing lead instead.
+
+Team Options
+========
+
+Grass-types such as Vileplume and Exeggutor can take Grass-, Water-, Fighting-, and Ground-type moves aimed at Regirock, while it takes on troublesome Flying-types for them in return. Psychic-types such as Mesprit like the support Regirock provides with Stealth Rock and Thunder Wave, while also being able to deal with the Fighting-types that give Regirock trouble. Regirock appreciates Rapid Spin or Defog support from the likes of Claydol or Prinplup, respectively, as keeping entry hazards away increases Regirock's longevity. Slower strong attackers such as Samurott can take advantage of paralyzed foes if Regirock is carrying Thunder Wave. A Wish passer such as Audino can pass Wishes to restore Regirock's health.
+
+Sunny Day
+########
+name: Sunny Day
+move 1: Sunny Day
+move 2: Stealth Rock
+move 3: Rock Slide / Stone Edge
+move 4: Explosion
+ability: Clear Body
+item: Heat Rock
+evs: 252 HP / 184 Atk / 16 Def / 52 SpD
+nature: Impish
+
+Moves
+========
+
+Sunny Day is used to set up sun for the team. Stealth Rock gives a bit of extra passive damage and breaks Sturdy and Focus Sash. Rock Slide is a reliable STAB move, but Stone Edge is a more powerful option at the cost of lower accuracy. Explosion grants sun sweepers free switches after Regirock has set up Sunny Day and deals decent damage.
+
+Set Details
+========
+
+The HP, Defense, and Special Defense EVs let Regirock survive Close Combat from Adamant Choice Band Sawk and two Eruptions from Choice Specs Typhlosion. The remaining EVs are put into Attack to make Regirock hit harder. Heat Rock boosts the duration of sun from five turns to eight, increasing the time Regirock's team members can use the sun as much as possible.
+
+Usage Tips
+========
+
+Leading with Regirock generally allows it to get both Stealth Rock and sun up. Set up Stealth Rock and then sun, in that order. If Regirock's HP is low or the opposing Pokemon is a threat to the rest of the team, use Explosion. Otherwise, if Regirock has enough HP to set up sun another time in the battle, it's better to switch out. Explosion can give your frail sun sweepers a free switch so that they don't have to take a hit.
+
+Team Options
+========
+
+Chlorophyll sweepers such as Victreebel and Exeggutor can take advantage of the sun Regirock brings. Other good partners are Fire-types such as Typhlosion and Magmortar, which can spam sun-boosted Fire-type moves. Lastly, Regirock appreciates another reliable sun setter such as Uxie, which has decent Speed, bulk, and access to dual screens and Memento, or a Prankster user such as Liepard or Volbeat, as they help support the team with their own sun.
+
+Other Options
+########
+
+A fully offensive set using Choice Band or Rock Polish can be used, but it misses out on some of Regirock's best traits. A bulky boosting set with Curse can work, but it needs more team support to be useful. Fire Punch can be used as a situational move to hit Ferroseed and other Grass-types harder than any of Regirock's other moves else. Another option is Protect on sets with Leftovers to scout and get a little extra recovery, but there isn't much room for it. A set using Drain Punch + Assault Vest can be used with maximum Attack investment to tank a few hits better, but it takes away all of Regirock's support moves.
+
+Checks & Counters
+########
+
+**Special Attackers**: Hitting Regirock on its less bulky Special Defense, attackers such as Mesprit, Samurott, and Mega Camerupt can all 2HKO Regirock, but excluding Mega Camerupt, they all risk getting hit by Thunder Wave, which none of them appreciate.
+
+**Ground-types**: Sandslash, Seismitoad, Rhydon, and Torterra are all immune to Thunder Wave, and they are all bulky enough to take very little damage from any of Regirock's attacks. However, none of them appreciate getting hit by Toxic, as they get worn down quickly.
+
+**Water-types**: Samurott, Gorebyss, and Ludicolo all threaten to easily KO Regirock with their respective STAB moves, but they fear switching in because of Thunder Wave, while Pokemon such as Seismitoad, Lanturn, and Quagsire can burn Regirock and deal decent damage with Scald.
+
+**Physically Defensive Pokemon**: Physically bulky Pokemon such as Vileplume, Gourgeist-XL, and Seismitoad take very little from any of Regirock's attacks. Even if Regirock can't break through them, it can still Thunder Wave or Toxic them, which none of them appreciate.
+
+**Fighting-types**: Fighting-types resist Regirock's STAB moves and some, such as Gurdurr, even benefit from the status Regirock spreads. Other Fighting-types such as Sawk and Hariyama easily 2HKO Regirock with their respective STAB moves, but they dislike getting hit by the status moves Regirock commonly runs.
+
+**Grass-types**: Grass-types such as Leafeon and Vileplume can deal good damage to Regirock with their STAB moves, but they dislike getting paralyzed or poisoned. Lilligant can even use Regirock to set up and sweep, but also has to be wary of Regirock's status moves.
+
+**Passive Damage**: Poison and burn slowly wear down Regirock and negates the passive recovery Leftovers gives. Similarly, entry hazards can easily wear down Regirock to the point where it can't switch in any more.

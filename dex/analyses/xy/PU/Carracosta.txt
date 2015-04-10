@@ -1,0 +1,85 @@
+Overview
+########
+
+Carracosta's high Attack stat, access to Shell Smash, and STAB type combination that hits almost the entire metagame for at least neutral damage make it a threatening sweeper. Its low Speed, even after boosts, is made up for by its access to Aqua Jet, which OHKOes many offensive Pokemon, such as Haunter, after a Shell Smash. Unfortunately, it loses to common Pokemon such as Poliwrath and Tangela, but it can run moves such as Zen Headbutt and Ice Beam to get past them. Its decent bulk combined with Solid Rock and resistances to four common types provide many opportunities for it to set up. This also allows Carracosta to become an effective wall, checking threatening Pokemon such as Stoutland and Dodrio, and it also has a decent support movepool including Stealth Rock, Scald, and Knock Off. Carracosta's good bulk and access to Aqua Jet give it a niche over Barbaracle, and Solid Rock and its Water typing justify use over defensive Golem or Piloswine. Unfortunately, Carracosta is also bait for Grass-type Pokemon, as Pokemon such as Quilladin and Torterra can easily switch in and set up entry hazards or start boosting.
+
+Shell Smash
+########
+name: Shell Smash
+move 1: Shell Smash
+move 2: Aqua Jet
+move 3: Stone Edge
+move 4: Waterfall
+ability: Solid Rock
+item: Life Orb
+evs: 252 Atk / 4 Def / 252 Spe
+nature: Adamant / Jolly
+
+Moves
+========
+
+Shell Smash boosts Carracosta's power and Speed, letting it outspeed the majority of the tier and sweep, but it is still slower than fast Pokemon and every Choice Scarf user. Stone Edge is its main STAB move but has poor accuracy. Aqua Jet provides priority, which lets Carracosta KO many faster threats, such as Zebstrika, when boosted. Waterfall provides a more reliable secondary STAB move, KOing Pokemon such as Piloswine when boosted, which Stone Edge cannot do. Zen Headbutt can be used to KO Poliwrath, which otherwise walls Carracosta, and Machoke, while Ice Beam allows it to get past Grass-types such as Torterra, Tangela, and Gourgeist.
+
+Set Details
+========
+
+Carracosta has standard EVs for a physical sweeper, as maximum Speed investment is required to outspeed Basculin and Speed tie with Gourgeist-S. Solid Rock allows Carracosta to take weaker super effective moves, such as Rapidash's Wild Charge. An Adamant nature boosts its power, allowing it to OHKO Raichu with Life Orb, while Jolly allows it to outspeed Purugly and everything slower, most importantly Jumpluff and Simipour. Life Orb boosts Carracosta's power even more and allows it to score KOs on Pokemon such as Leafeon, but it severely wears Carracosta down, while Mystic Water provides a weaker boost but does not chip away at Carracosta's health, and Lum Berry allows Carracosta to set up on Pokemon such as Togetic, which rely on status to cripple Carracosta.
+
+Usage Tips
+========
+
+Carracosta should be used late-game, when the opponent's team is weakened and specific threats, such as Tangela, are removed. It should try to and set up on Pokemon that it forces out, such as Pelipper and Piloswine, but it can also easily set up on Pokemon such as Mightyena due to its decent bulk and typing. Despite this, Carracosta should not take too much damage, as it is easily worn down between that and Life Orb recoil. It should be careful if the opponent is trying to Life Orb stall, but otherwise, it does not need to predict when setting up.
+
+Team Options
+========
+
+Entry hazards, from Pokemon such as Piloswine and Roselia, wear the opponent's team down, put faster Pokemon such as Zebstrika into +2 Aqua Jet KO range, and allow Carracosta to always OHKO Quilladin with a +2 Ice Beam. Fire- and Ice-type Pokemon, such as Ninetales and Aurorus, beat Grass-type Pokemon, which check Carracosta. In return, Carracosta can beat Rock-type Pokemon, which threaten both, and Ground-type Pokemon, which threaten Fire-types. Grass-type Pokemon, such as Leafeon and Tangela, check Poliwrath and other bulky Water-types and bait in Flying- and Fire-types, which Carracosta sets up on and beats. Other priority users, such as Dusknoir and Mightyena, weaken faster Pokemon and Choice Scarf users, which can outspeed Carracosta and possibly take an Aqua Jet.
+
+Wall
+########
+name: Wall
+move 1: Stealth Rock
+move 2: Scald
+move 3: Low Kick / Toxic / Knock Off
+move 4: Protect / Knock Off
+ability: Solid Rock
+item: Leftovers
+evs: 252 HP / 4 Atk / 252 Def
+nature: Relaxed
+
+Moves
+========
+
+Stealth Rock is an important move in the PU metagame, as it cripples any Pokemon switching in. Scald is Carracosta's primary STAB move and provides good utility by threatening anything it hits with a burn. Toxic cripples Pokemon that try to switch in, such as Torterra and Poliwrath. Knock Off provides good utility by removing the foe's item, which is especially effective on Tangela and Quilladin switch-ins. Low Kick hits Pokemon such as Stoutland and Pawniard hard. Protect racks up Toxic damage, scouts for moves, and, more importantly, lets Carracosta gain more Leftovers recovery. Rock Slide is a stronger STAB move, hitting Pokemon such as Articuno and Dodrio hard.
+
+Set Details
+========
+
+Maximum Defense and HP EVs along with a Relaxed nature allow Carracosta to check physically offensive Pokemon such as Flareon and Stoutland. Leftovers provides some recovery, allowing it to switch into attacks with more ease. Solid Rock allows it to check Pokemon such as Stoutland and Flareon more comfortably.
+
+Usage Tips
+========
+
+Carracosta should switch into physical attackers such as Dodrio, but it should be aware of Pokemon such as Rapidash when weakened, as they carry a super effective attack. Setting up Stealth Rock is Carracosta's main job, but it should sometimes attack or switch out if in a less favorable matchup. Scald and Knock Off are fairly safe moves to spam, as they can cripple anything they hit. Toxic is also fairly spamable, but it may land on a Pokemon Carracosta would instead like to burn. Protect should be used to stall for Toxic damage and gain more recovery, but Carracosta should be careful when using it, as opposing Pokemon can set up on it or freely switch out.
+
+Team Options
+========
+
+Carracosta fits in well on both offensive and defensive teams due to its ability to check Pokemon that threaten both builds. Fire- and Flying-type Pokemon, such as Flareon and Dodrio, check Grass-type Pokemon that beat Carracosta, while Carracosta checks Rock- and Ground-types that threaten the former and Ice- and Rock-types that beat the latter. Flying-types also check Fighting-types, but they share a weakness to Electric. Roselia is a very good partner, as it can set up Spikes and Toxic Spikes, which work well with Stealth Rock; it also can take special hits and check Electric- and Grass-type Pokemon, while Carracosta checks Fire-, Flying-, and Ice-type Pokemon. Other Grass-type Pokemon, such as Torterra and Quilladin, check Electric-, Grass-, and Ground-type Pokemon and appreciate the removal of Flying- and Ice-type Pokemon. Psychic-type Pokemon, such as Beheeyem and Grumpig, check Fighting-types, while Carracosta beats Mightyena and Pawniard for them. Wish and Heal Bell support from Pokemon such as Lickilicky is appreciated to increase Carracosta's longevity.
+
+Other Options
+########
+
+Weakness Policy, combined with Carracosta's ability, Sturdy, allows Carracosta to get to +4 in both offensive stats after using Shell Smash, but it requires Carracosta to be at full health. The defensive set can use Rest and Chesto Berry for recovery, but Carracosta lacks the space in its moveset, and Carracosta often switches into Knock Off. Hidden Power Flying can be used on the Shell Smash set, but it lacks enough power to OHKO Poliwrath or Tangela. A specially attacking Shell Smash set could be run, but it is forced to run a Timid nature due to its lack of priority, so is weaker, while a tank set provides Carracosta with more of an offensive presence and ability to revenge kill with Aqua Jet, but it loses its ability to switch into as many physical attacks.
+
+Checks & Counters
+########
+**Grass-types**: Grass-type Pokemon, such as Torterra and Quilladin, can take any boosted hit from Carracosta other than Ice Beam and retaliate back with their Grass-type STAB move or set up entry hazards. Tangela is a particularly good switch-in, as it can recover back lost health when it switches out. Both Leafeon and Simisage can force Carracosta out and set up Swords Dance and Nasty Plot, respectively.
+
+**Fighting-types**: Poliwrath resists Carracosta's STAB moves, can get rid of Toxic with Rest, and then either force Carracosta out with Circle Throw, set up a Substitute, or KO with Focus Blast. Machoke can survive a +2 Waterfall from full health or get an Attack boost from a Scald burn or Toxic and then retaliate back with STAB Close Combat.
+
+**Electric-types**: Although most fall to a +2 Life Orb-boosted hit, Electric-type Pokemon such as Raichu and Zebstrika can outspeed and OHKO Carracosta with Thunderbolt. Rotom-F can survive a +2 Aqua Jet after entry hazard damage and outspeed with Choice Scarf and OHKO with Thunderbolt.
+
+**Faster Pokemon**: Even if Carracosta has a Shell Smash boost, fast Pokemon and Choice Scarf users, such as Rotom-F and Sawsbuck, can outspeed it, survive an Aqua Jet, and KO a weakened Carracosta. Jolly Carracosta will outspeed Pokemon with base 113 Speed and below, but without the power boost from an Adamant nature, Aqua Jet fails to KO Pokemon such as Zebstrika.
+
+**Special Attackers**: Carracosta has poor Special Defense, so strong special attackers such as Aurorus and Beheeyem can pressure Carracosta into not being able to set up. Defensive sets can survive hits from these Pokemon but get severely crippled, and special attackers with super effective moves, such as Ninetales and Heatmor, can OHKO Carracosta.

@@ -1,51 +1,56 @@
 Overview
 ########
 
-Fletchinder is pretty limited in what it can do, but what it can do is very useful for the UU tier. With priority Acrobatics and access to Swords Dance, Fletchinder makes for an excellent revenge killer and decent late-game cleaner. That being said, Fletchinder is extremely frail and 4x weak to Stealth Rock, which makes it a bit tricky to use.
+Fletchinder is pretty limited in what it can do, but it is very unique with what it does in the UU tier. With priority Acrobatics, the strongest priority in the tier, and access to Swords Dance, Fletchinder makes for an excellent revenge killer and late-game cleaner. That being said, Fletchinder is extremely frail and 4x weak to Stealth Rock, which makes it a bit tricky to use.
 
-Utility
+Linda
 ########
-name: Utility
+name: Linda
 move 1: Acrobatics
-move 2: Will-O-Wisp
-move 3: Swords Dance
-move 4: Roost
+move 2: Swords Dance
+move 3: Roost
+move 4: Will-O-Wisp
 ability: Gale Wings
+item:
 evs: 104 HP / 252 Atk / 152 Spe
 nature: Adamant
 
 Moves
 ========
 
-Fletchinder has a very shallow movepool and really has to rely on Acrobatics for damage. Thankfully, it has access to Swords Dance which helps to improve its damage output, as well as having support moves like Roost and Will-O-Wisp which allow Fletchinder to stay around longer despite its poor defenses and 4x weakness to Stealth Rock. Will-O-Wisp also helps in terms of getting chip damage on some of Fletchinder's checks.
+Fletchinder has a very shallow and predictable movepool and has to rely on Acrobatics for damage. Thankfully, it has access to Swords Dance, which helps to improve its damage output, as well as having support moves such as Roost and Will-O-Wisp, which allow Fletchinder to stay around longer despite its poor defenses and 4x weakness to Stealth Rock. Will-O-Wisp also helps get chip damage on some of Fletchinder's checks.
 
 Set Details
 ========
 
-This is the most viable set for Fletchinder, and it needs all the attacking power it can get, so running 252 EVs in Attack and an Adamant nature is the best choice. With priority Flying-type moves due to Gale Wings, Fletchinder doesn't need to run too much Speed, but 152 Speed allows it to outspeed and burn opponents like Adamant Honchkrow. Whatever EVs are left over should go into HP just to give Fletchinder a bit of bulk. With its only solid STAB move being Acrobatics, Fletchinder is better off running no item so Acrobatics gets 110 Base Power.
+In order to do as much damage as possible, Fletchinder needs an Adamant nature with 252 EVs. With priority Flying-type moves due to Gale Wings, Fletchinder doesn't need to run too much Speed, but 152 Speed EVs allow it to outspeed and burn foes such as Adamant Honchkrow. The remaining EVs go into HP to provide some more bulk. Because its only attacking move is Acrobatics, Fletchinder runs no item in order to maximize the damage output of Acrobatics. An EV spread tweak can be made to make Fletchinder take resisted hits better by giving it 248 HP EVs and dropping the Speed EVs.
 
 Usage Tips
 ========
 
-Fletchinder isn't something that can sweep on its own. To use this Pokemon effectively you should be eliminating its counters throughout the game and keeping it healthy for the late-game. Despite being frail, it will usually have an opportunity to set up a Swords Dance which will allow it to deal heavy damage to anything that isn't a check. Outside of being a late-game cleaner, Fletchinder can be useful throughout a match by revenge killing fast, weakened Pokemon with a priority Acrobatics.
+Fletchinder isn't a Pokemon that can sweep on its own. To use this Pokemon effectively, you should be eliminating its counters throughout the game and keeping it healthy for the late-game. Despite being frail, it will usually have an opportunity to set up a Swords Dance, which will allow it to deal heavy damage to anything that isn't a check. Outside of being a late-game cleaner, Fletchinder can be useful throughout a match by revenge killing fast, weakened Pokemon with a priority Acrobatics.
 
 Team Options
 ========
 
-Only having Will-O-Wisp and Acrobatics to inflict damage, Fletchinder needs quite a bit of help to sweep. Anything that can take out bulky Water-types is greatly appreciated. Such Pokemon include Magneton, Virizion, Celebi, Shaymin, and Cacturne. With a 4x weakness to Stealth Rock, Fletchinder likes entry hazard control from Pokemon like Forretress, Empoleon, Crobat, and Mega Blastoise. Any Pokemon that benefits from having Fighting-types eliminated, such as Hydreigon and Scrafty, are great teammates for Fletchinder.
+With average initial Attack and only Acrobatics and Will-O-Wisp to inflict damage, Fletchinder needs some team support. Powerful Choice Band users such as Heracross and Krookodile can significantly weaken dedicated physical walls such as Hippowdon and Swampert, which normally switch into Fletchinder. Pokemon that can take out bulky Water-types, such as Shaymin, Whimsicott, Heliolisk, and Toxicroak, really aid Fletchinder in sweeping. With a 4x weakness to Stealth Rock, Fletchinder likes entry hazard control from Pokemon such as Forretress, Empoleon, Tentacruel, and Mega Blastoise. Also, any Pokemon that benefits from having Fighting-types eliminated, such as Hydreigon or Snorlax, is a great teammate for Fletchinder.
 
 Other Options
 ########
 
-The most effective moveset for Fletchinder will always be the one in the main set, but there are other options available if so desired. Fletchinder can run a Fire-type attack in either Overheat, to hit Mega Aggron and Forretress, or Flame Charge as a second physical attack. U-turn can also be used to keep some momentum from the switches Fletchinder will force against Fighting-types. As a last-ditch effort, Fletchinder can use Tailwind to ensure the rest of its team will have a Speed boost for a few turns. Finally, an EV spread tweak can be made to make Fletchinder take resisted hits better by giving it 248 HP EVs and dropping the Speed EVs.
+Fletchinder can run Overheat to hit Mega Aggron and Forretress for super effective damage. U-turn can also be used to keep some momentum from the switches Fletchinder will force against Fighting-types. As a last-ditch effort, Fletchinder can use Tailwind to ensure the rest of its team will have a Speed boost for a few turns. Finally, Taunt can also be utilized to stallbreak better.
 
 Checks & Counters
 ########
 
-**Bulky Water-types**: Vaporeon, Empoleon, and pretty much any bulky Water-type can take a boosted hit from Fletchinder and proceed to take Fletchinder out.
+**Bulky Water-types**: Bulky Water-types such as Swampert and Suicune take minimal damage from Acrobatics and can retaliate with a super effective Scald.
 
-**Electric-types**: Resisting Fletchinder's only move, viable electric types Electric-types, like Raikou and Jolteon, can easily take it out.
+**Electric-types**: Electric-types such as Mega Ampharos and Rotom-H resist Acrobatics and can OHKO Fletchinder back with Electric-type STAB moves.
 
-**Steel-types**: Mega Aggron and Magneton can easily deal with Fletchinder if it isn't running Overheat.
+**Stealth Rock**: Fletchinder's 4x weakness to Stealth Rock really discourages it from switching in when the entry hazard is on the field.
 
-**Rock-types**: While they don't appreciate switching into a burn, Mega Aerodactyl and Rhyperior can easily take a hit and OHKO back, even while burned.
+**Rock-types**: While they don't appreciate being burned, Rock-types such as Mega Aerodactyl and Rhyperior resist Acrobatics and can retaliate with a 4x super effective Rock-type move.
+
+**Dedicated Physical Walls**: Dedicated physical walls such as Porygon2 and Hippowdon can eat up a hit and use Toxic or attack Fletchinder.
+
+**Faster Priority Users**: Faster priority users such as Entei and Lucario can revenge kill Fletchinder after a bit of prior damage.

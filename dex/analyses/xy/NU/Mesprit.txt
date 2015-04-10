@@ -7,8 +7,8 @@ Life Orb
 ########
 name: Life Orb
 move 1: Psychic / Psyshock
-move 2: Signal Beam / Energy Ball
-move 3: Hidden Power Fire
+move 2: Signal Beam 
+move 3: Hidden Power Fire / Energy Ball
 move 4: Healing Wish / Calm Mind
 ability: Levitate
 item: Life Orb
@@ -18,7 +18,7 @@ nature: Modest / Timid
 Moves
 ========
 
-Psychic is a strong STAB move that hits anything that does not resist it for significant damage. However, Psyshock is useful to hit specially bulky Pokemon, such as Hariyama and Cryogonal, and is useful in Calm Mind wars. Signal Beam provides very useful coverage against Dark- and Psychic-types such as Malamar, Liepard, Cacturne, Sneasel, Uxie, and Musharna. Signal Beam is also useful in Calm Mind wars, as it hits most Calm Mind users for super effective damage and is quite powerful after a boost. Alternately, Energy Ball targets bulky Ground- and Water-types such as Rhydon and Seismitoad. Hidden Power Fire hits Steel-types such as Ferroseed, Pawniard, and Mega Steelix for solid damage. Healing Wish restores a weakened teammate and is particularly useful to give setup sweepers another chance to sweep. Alternatively, Calm Mind boosts Mesprit's Special Attack and Special Defense to high levels, giving it an easier time breaking through bulky Pokemon. Ice Beam and Thunderbolt can be used to hit Flying-types such as Scyther and Xatu, as well as Torterra in the former's case and Mantine in the latter's case. Their better neutral coverage compared to Energy Ball make them solid alternatives when running Calm Mind.
+Psychic is a strong STAB move that hits anything that does not resist it for significant damage. However, Psyshock is useful to hit specially bulky Pokemon, such as Hariyama and Cryogonal, and is useful in Calm Mind wars. Signal Beam provides very useful coverage against Dark- and Psychic-types such as Malamar, Liepard, Cacturne, Sneasel, Uxie, and Musharna. Signal Beam is also useful in Calm Mind wars, as it hits most Calm Mind users for super effective damage and is quite powerful after a boost. Hidden Power Fire hits Steel-types such as Ferroseed, Pawniard, and Klinklang for solid damage. Alternately, Energy Ball targets bulky Ground- and Water-types such as Rhydon and Seismitoad. Healing Wish restores a weakened teammate and is particularly useful to give setup sweepers another chance to sweep. Alternatively, Calm Mind boosts Mesprit's Special Attack and Special Defense to high levels, giving it an easier time breaking through bulky Pokemon. Ice Beam and Thunderbolt can be used to hit Flying-types such as Scyther and Xatu, as well as Torterra in the former's case and Mantine in the latter's case. Their better neutral coverage compared to Energy Ball make them solid alternatives when running Calm Mind.
 
 Set Details
 ========
@@ -28,12 +28,12 @@ The given EV spread maximizes Mesprit's Speed and offensive presence. A Modest n
 Usage Tips
 ========
 
-Mesprit is best used as an early-game wallbreaker thanks to its amazing coverage and high Special Attack. Correct prediction when utilizing Mesprit's coverage moves is key to wallbreaking when in situtations such as hitting Malamar with Signal Beam or Steelix with Hidden Power Fire on the switch. Try to set up entry hazards as soon as possible, especially if using Calm Mind, to help wear down defensive Pokemon for a sweep. Mesprit should avoid unnecessary damage and status conditions, as it already gets worn down fairly quickly between Stealth Rock damage and Life Orb recoil. The best use of Healing Wish can often vary from matchup to matchup. Most often, it should be used to heal a setup sweeper mid- or late-game, giving it a second chance to sweep. Alternatively, it can be helpful to heal a Choice Scarf user to clean up versus offensively-based teams or to save a teammate that would otherwise faint from entry hazard damage.
+Mesprit is best used as an early-game wallbreaker thanks to its amazing coverage and high Special Attack. Correct prediction when utilizing Mesprit's coverage moves is key to wallbreaking when in situtations such as hitting Malamar with Signal Beam or Ferroseed with Hidden Power Fire on the switch. Try to set up entry hazards as soon as possible, especially if using Calm Mind, to help wear down defensive Pokemon for a sweep. Mesprit should avoid unnecessary damage and status conditions, as it already gets worn down fairly quickly between Stealth Rock damage and Life Orb recoil. The best use of Healing Wish can often vary from matchup to matchup. Most often, it should be used to heal a setup sweeper mid- or late-game, giving it a second chance to sweep. Alternatively, it can be helpful to heal a Choice Scarf user to clean up versus offensively-based teams or to save a teammate that would otherwise faint from entry hazard damage.
 
 Team Options
 ========
 
-Fighting-types such as Gurdurr and Hariyama are great teammates for Mesprit because they put immense pressure on Dark-types, which are problematic for Mesprit especially if it is not running Signal Beam. Setup sweepers such as Virizion, Feraligatr, Mismagius, Sneasel, and Ninetales greatly appreciate Healing Wish support from Mesprit to give them a second chance to break holes in the opposing team. Fast special attackers such as Heliolisk and Lilligant pair well with Calm Mind sets, as they appreciate Mesprit's wallbreaking ability.
+Fighting-types such as Gurdurr and Hariyama are great teammates for Mesprit because they put immense pressure on Dark-types, which are problematic for Mesprit especially if it is not running Signal Beam. Setup sweepers such as Lilligant, Samurott, Mismagius, Sneasel, and Ninetales greatly appreciate Healing Wish support from Mesprit to give them a second chance to break holes in the opposing team. Fast special attackers such as Pyroar and Lilligant pair well with Calm Mind sets, as they appreciate Mesprit's wallbreaking ability.
 
 Stealth Rock
 ########
@@ -65,7 +65,7 @@ Mesprit's main goal is to get up Stealth Rock whenever it can. Considering Mespr
 Team Options
 ========
 
-Garbodor and Qwilfish are great partners for Mesprit to form an entry hazard-stacking core, as their Spikes and Toxic Spikes work alongside Mesprit's Stealth Rock to wear away at opposing teams. In addition, both Garbodor and Qwilfish resist Bug-type attacks for Mesprit and tend to lure in Psychic- and Ground-types that Mesprit can set up on or attack. Zangoose and Swellow are also great teammates, as they appreciate entry hazard support from Mesprit as well as the slow U-turn to get their status Orbs activated. Choice Specs Swellow can lure in and defeat or severely weaken Steel-types such as Steelix with a powerful Heat Wave, which is very helpful for Mesprit. As with most Psychic-types, bulky Fighting-types such as Hariyama and Gurdurr are solid teammates to handle Dark-types such as Sneasel, Pawniard, and Liepard.
+Garbodor and Crustle are great partners for Mesprit to form an entry hazard-stacking core, as their Spikes and Toxic Spikes work alongside Mesprit's Stealth Rock to wear away at opposing teams. In addition, Garbodor resists Bug-type attacks for Mesprit and tends to lure in Psychic- and Ground-types that Mesprit can set up on or attack. Zangoose and Swellow are also great teammates, as they appreciate entry hazard support from Mesprit as well as the slow U-turn to get their status Orbs activated. Choice Specs Swellow can lure in and defeat or severely weaken Steel-types such as Klinklang with a powerful Heat Wave, which is very helpful for Mesprit. As with most Psychic-types, bulky Fighting-types such as Hariyama and Gurdurr are solid teammates to handle Dark-types such as Sneasel, Pawniard, and Liepard.
 
 Choice Scarf
 ########
@@ -97,7 +97,7 @@ Mesprit should be brought in against weakened opponents to revenge kill them. It
 Team Options
 ========
 
-Bulky Fighting-types such as Hariyama and Gurdurr as well as Fairy-types such as Granbull make for good teammates, as they resist Dark-type moves which Mesprit is weak to. Entry hazard setters such as Crustle, Qwilfish, and Garbodor can lure in other Psychic-types, allowing Mesprit a free switch so it can force them out with a powerful Knock Off or U-turn. Priority users such as Pawniard, Kangaskhan, Gurdurr, and Feraligatr can be used to check Pokemon that outspeed Mesprit after a boost, such as Shell Smash users, Quiver Dance users, and Rock Polish users. Seismitoad, Poliwrath, Gourgeist-Super, and Encore Liepard are recommended, as Shell Smash users such as Barbaracle and Gorebyss still outspeed Choice Scarf Mesprit after a boost.
+Bulky Fighting-types such as Hariyama and Gurdurr as well as Fairy-types such as Granbull make for good teammates, as they resist Dark-type moves which Mesprit is weak to. Entry hazard setters such as Crustle, Cacturne, and Garbodor tend to bait in in other Psychic-types, allowing Mesprit a free switch so it can force them out with a powerful Knock Off or U-turn. Priority users such as Pawniard, Kangaskhan, Gurdurr, and Samurott can be used to check Pokemon that outspeed Mesprit after a boost, such as Shell Smash users, Quiver Dance users, and Rock Polish users. Seismitoad, Poliwrath, Gourgeist-Super, and Encore Liepard are recommended, as Shell Smash users such as Barbaracle and Gorebyss still outspeed Choice Scarf Mesprit after a boost.
 
 Other Options
 ########

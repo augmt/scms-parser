@@ -1,13 +1,116 @@
-Physically Defensive
+Overview
 ########
-name: Physically Defensive
+
+Rotom-S has a great combination of bulk and offensive presence and also hits a decent Speed tier. Additionally, it has a good typing both offensively and defensively; Electric / Flying has decent neutral coverage within the tier, handy resistances to types such as Fighting and Flying, an immunity to Ground, and only two weaknesses. Furthermore, Rotom-S is able to lure in Ground-types and surprise them with super effective coverage, and access to Volt Switch lets it gain and keep up offensive momentum. Unfortunately, it is weak to Stealth Rock, which is not ideal for a Pokemon that switches in and out of play so frequently, and its only Flying-type STAB move has somewhat lacking Base Power.
+
+Expert Belt
+########
+name: Expert Belt
+move 1: Volt Switch
+move 2: Air Slash
+move 3: Hidden Power Water
+move 4: Will-O-Wisp / Thunderbolt
+ability: Levitate
+item: Expert Belt
+evs: 4 Def / 252 SpA / 252 Spe
+nature: Timid
+
+Moves
+========
+
+Volt Switch gives the team momentum and gets STAB. Air Slash is a secondary STAB move that deals good damage to Grass-types as well as Fighting-types, and can make the target flinch. Hidden Power Water hits Ground-types that try to block Rotom-S's Volt Switch hard, knocking Golem down to Sturdy and dealing a good chunk of damage to the likes of Mega Camerupt and Rhydon. Will-O-Wisp plagues troublesome Pokemon such as Ferroseed and Probopass with passive damage and lets Rotom-S cripple physical attackers. Thunderbolt is a stronger STAB choice that Rotom-S can use when a greater damage output is required. Hidden Power Grass is an alternative to Hidden Power Water if hitting Seismitoad and Quagsire is a priority, though running it leaves Rotom-S unable to do much against Mega Camerupt.
+
+Set Details
+========
+
+252 Special Attack and 252 Speed EVs with a Timid nature provide Rotom-S with optimum power and Speed, notably allowing it to outspeed foes such as Sawk. With an Expert Belt, Rotom-S is able to bluff a Choice set and use Hidden Power Water to inflict great damage on the Ground-types that try to come in and block Volt Switch.
+
+Usage Tips
+========
+
+Thanks to its typing, Rotom-S has a solid number of opportunities to switch in. Volt Switch grabs momentum and is the attack that Rotom-S should generally be using the most, though you should obviously be wary of using it when the opponent has a Ground-type. As this set acts as a lure for Ground-types coming in to block Volt Switch, Hidden Power Water should be used when predicting a Ground-type to switch in so it can Volt Switch freely.
+
+Team Options
+========
+
+Rotom-S appreciates Steel-type teammates, as they share solid type synergy and offensive Steel-types such as Pawniard and Klinklang can capitalize on Rotom-S's ability to weaken bulky Ground-types. Probopass's access to Volt Switch also allows it to form a VoltTurn core with Rotom-S. Given that it is weak to Stealth Rock and switches in and out of play frequently, Rotom-S appreciates Defog or Rapid Spin support from Pokemon such as Pelipper and Sandslash, respectively. A teammate with U-turn, such as Mesprit, can form a VoltTurn core with Rotom-S to continuously keep up offensive momentum. Special walls such as Audino and Lickilicky are problematic for Rotom-S, so physical wallbreakers that are capable of dealing with them, such as Sawk, are good teammates.
+
+Defensive
+########
+name: Defensive
 move 1: Will-O-Wisp
-move 2: Thunderbolt
-move 3: Air Slash
-move 4: Pain Split / Volt Switch
+move 2: Pain Split
+move 3: Volt Switch
+move 4: Air Slash
 ability: Levitate
 item: Leftovers
-evs: 248 HP / 252 Def / 8 SpA
+evs: 208 HP / 252 Def / 48 Spe
 nature: Bold
 
-This is a sample set while we are currently working on analyses in the workshop.
+Moves
+========
+
+Will-O-Wisp works wonderfully with Rotom-S's ability to come in on physically offensive Fighting- and Ground-types, crippling them heavily. Pain Split is Rotom-S's most reliable recovery option and allows it to restore health when necessary. Volt Switch lets Rotom-S gain momentum and pivot out to a teammate, and Air Slash is a STAB attack that has decent neutral coverage with Volt Switch and is particularly useful for dispatching the Fighting- and Ground-types that Rotom-S checks. Alternatively, Discharge can be used over Volt Switch, as it is a STAB attack whose paralysis chance can mess with faster foes and makes for an irritating paraflinch combination with Air Slash, though it might clash with an intent to burn with Will-O-Wisp and Discharge is unable to gain momentum like Volt Switch.
+
+Set Details
+========
+
+208 HP EVs give Rotom-S an odd number of HP, meaning that it will only lose 24% of its health from Stealth Rock damage. 252 Defense EVs and a Bold nature provide a hefty boost to Rotom-S's Defense and allow it Rotom-S to serve as a check to Fighting-types such as Sawk and Hariyama. 48 Speed EVs ensure that Rotom-S gets the jump on foes such as Pawniard, Adamant Golurk, Adamant Cacturne, and Adamant Torterra. Leftovers provides Rotom-S with useful passive recovery.
+
+Usage Tips
+========
+
+Because offensive variants of Rotom-S are far more common, use the element of surprise to your advantage in order to swiftly cripple a physical attacker with Will-O-Wisp (though Leftovers recovery might give away the set. Rotom-S can be brought in on a Pokemon whose STAB moves it resists, such as Sawk; from there, you can proceed to cripple it with use Will-O-Wisp to cripple it, or use Volt Switch to gain momentum on a predicted switch. Try to use Pain Split when Rotom-S's health is low and its foe's health is high in order to maximize recovery.
+
+Team Options
+========
+
+Audino and Lickilicky are excellent team choices, as Rotom-S can take the Fighting-type attacks that they despise. In return, they can top up Rotom-S's HP with Wish, remove any status conditions with Heal Bell, and sponge bothersome special attacks such as Ice Beam. Steel-types such as Probopass have good defensive synergy with Rotom-S, so they are worthy of consideration for teammates. Stealth Rock is a nuisance for Rotom-S, so stripping away a chunk of its health as it enters the field. For this reason, teammates that can remove Stealth Rock or outright prevent it from being set up are much appreciated. For example, Pelipper can use Defog to clear the field of hazards, and Xatu can switch in to bounce Stealth Rock back at the opposing team.
+
+Choice Scarf
+########
+name: Choice Scarf
+move 1: Air Slash
+move 2: Volt Switch
+move 3: Trick
+move 4: Thunderbolt
+ability: Levitate
+item: Choice Scarf
+evs: 4 Def / 252 SpA / 252 Spe
+nature: Timid
+
+Moves
+========
+
+Air Slash receives STAB and provides good neutral coverage with Rotom-S's Electric-type STAB moves, notably OHKOing Leafeon and Chlorophyll Exeggutor. Volt Switch allows Rotom-S to gain and keep up or gain momentum for the team. Trick is an answer to special walls that may try to switch in on Rotom-S, such as Lickilicky, as they lose a lot of utility when holding with a Choice Scarf due to being forced into a single move. Thunderbolt is a more powerful STAB move than Rotom-S's other options and that won't force Rotom-S to switch out, and it is the best option for when Rotom-S needs to dish dishing out some heavier damage.
+
+Set Details
+========
+
+252 Special Attack EVs maximize Rotom-S's offensive potential, while 252 Speed EVs and a Timid nature give it the best possible chance of going first. Choice Scarf lets Rotom-S outspeed notable foes such as Leafeon, non-Choice Scarf Jynx, and Pyroar, which it cannot could not normally do.
+
+Usage Tips
+========
+
+Send Rotom-S in to revenge kill a foe. Trick can be used to cripple specially defensive foes, as they will be made a lot less threatening when Choice-locked, but don't just use it recklessly; make sure crippling the foe is more useful than losing Rotom-S's Choice Scarf, as it may be needed later in the match to revenge kill something. In addition, be wary of using Trick with Audino, as if it is carrying its Mega Stone, Rotom-S will end up locked into Trick and have to sacrifice momentum by switching out. Volt Switch should be used on a predicted switch in order to keep up offensive momentum. However, if you predict that the opponent will send in a Ground-type, you should select Air Slash if said Ground-type does not resist Flying, or you can simply hard switch to the appropriate teammate for dealing with the switch-in.
+
+Team Options
+========
+
+Rotom-S is going to be switching in and out of play a lot, so a Defogger such as Pelipper or a Rapid Spinner such as Sandslash is recommended. A Taunt user that can stop Stealth Rock from being set up, such as Samurott, is also a possibility. Rotom-S appreciates partners that can lure in and defeat Ground-types such as Golem and Rhydon, which resist its STAB moves. For example, Pyroar can hit Ground-types on the switch with Hidden Power Grass or cripple them with Will-O-Wisp. Electric-types are problematic for Rotom-S, so teammates capable of beating them can prove useful. Some examples are Mega Camerupt, which walls Rotom and can set up Stealth Rock, and Vileplume, which can beat defensive variants of Lanturn.
+
+Other Options
+########
+
+Rotom-S can function as a wallbreaker with a Choice Specs set. Hidden Power Ground can be used to hit Mega Camerupt, Probopass, and Electric-types for super effective damage, and Thunder Wave lets Rotom-S cripple a fast foe. A SubSplit set with Life Orb is a possibility, though Rotom-S will sorely miss its coverage options and ability to lure in Ground-types. Signal Beam can provide coverage against Dark- and Psychic-types, most notably Malamar. Rotom-S has access to the dual screens combination, though Pokemon such as Uxie do this job better due to their greater bulk.
+
+Checks & Counters
+########
+
+**Special Walls**: Special walls such as (Mega) Audino and Lickilicky take little damage from Rotom-S and can recover with Wish, shrug off burns with Heal Bell, and attack Rotom-S with their STAB moves. RestTalk variants of Mega Audino can use Rotom-S as an opportunity to set up Calm Mind.
+
+**Electric-types**: Electric-types resist both of Rotom-S's STAB moves and can retaliate with their own STAB moves or a coverage move. For example, Electivire and Lanturn can absorb an Electric-type move and hit back with Ice Punch and Scald, respectively. Defensive variants of Lanturn won't be troubled by passive damage from a Will-O-Wisp either, as they can simply heal off the burn with Heal Bell. Additionally, most offensive Electric-types don't mind being Tricked a Choice Scarf.
+
+**Ground-types**: Ground-types such as Seismitoad and Mega Camerupt stop Rotom-S from Volt Switching, effectively killing momentum. In particular, Golem and Stunfisk are immune to Volt Switch and resist Air Slash. However, all of these Pokemon bar Seismitoad should watch out for Hidden Power Water from Expert Belt Rotom-S, and aside from Mega Camerupt, they don't enjoy taking a Will-O-Wisp.
+
+**Faster Attackers**: Pokemon such as Jynx, Sneasel, and Pyroar are able to outspeed and KO Rotom-S with few problems. This is less of an issue for the Choice Scarf set, though foes such as Jynx and Typhlosion will outspeed it if they too are holding Choice Scarf.

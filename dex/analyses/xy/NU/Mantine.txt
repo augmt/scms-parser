@@ -1,28 +1,52 @@
-Defog
 ########
-name: Defog
+
+Mantine's great typing grants it a number of useful resistances in comparison to its low amount of weaknesses. When this is combined with Mantine's monstrous special bulk, you have a very potent mixed wall that can switch in on many of the tier's strongest threats, such as Typhlosion, Ludicolo, Lilligant, and even strong Fighting-types such as Hariyama and Sawk. Mantine also has access to Haze to counter SmashPass if need be. With its many opportunities to safely switch in, Mantine is one of the few reliable defoggers in the NU tier. However, Mantine is often held back by its lack of reliable recovery and weakness to Stealth Rock. With Rest being its only means of recovery, Mantine is easily whittled down by status and Stealth Rock damage. Mantine also has to compete with Pelipper who has higher physical defense and Roost. Electric-types and Pokemon carrying Freeze-Dry are Mantine's worst enemies, as they can deal a devastating 4x super effective hit if Mantine is left in against them.
+
+Defensive Defog
+########
+name: Defensive Defog
 move 1: Defog
 move 2: Scald
-move 3: Protect / Air Slash
+move 3: Air Slash
 move 4: Toxic
 ability: Water Absorb
 item: Leftovers
-evs: 252 HP / 4 SpA / 252 SpD
+evs: 248 HP / 228 Def / 16 SpD / 16 Spe
 nature: Calm
 
-This is a sample set while we are currently working on analyses in the workshop.
+Moves
+========
 
-Swift Swim
+Defog clears the entry hazards that Mantine's team won't appreciate. Scald is the main move that Mantine will use to hit the Pokemon it will commonly be switching into, such as Claydol, Mega Camerupt, and various Fighting- and Fire-types. Air Slash is a secondary STAB move that provides coverage against Pokemon that resist or are immune to Scald, such as Vileplume, Tangela, Seismitoad, and Poliwrath, or have already been inflicted with a status condition. Toxic is Mantine's main way of pressuring other bulky Water-types to prevent them from beating Mantine and is overall a great utility move to have. Haze single-handedly crushes SmashPass, as both Gorebyss and Huntail cannot touch Mantine. Haze also functions as a great tool against Swords Dance Samurott and Calm Mind users, such as Mega Audino, SubCM Uxie, and Musharna, as it lets Mantine stop set up sweepers while taking little damage from any coverage options. Protect can be used for scouting purposes, such as gathering extra Leftovers recovery (which Mantine so desperately depends on), and racking up more Toxic damage.
+
+Set Details
+========
+
+248 HP EVs give Mantine an odd HP number, allowing it to switch into Stealth Rock one more time than it could with an even number. 16 Special Defense EVs are used to hit a jump point in Special Defense amd 16 Speed EVs are used to outspeed Adamant Rhydon. The rest of the EVs are placed into Defense in order to take hits better from the likes of Sawk and Hariyama, while also giving excellent all-around bulk. Water Absorb is preferred on any defensive set for its added immunity and pseudo-recovery. A spread of 248 HP / 172 Def / 88 SpD with a Calm nature can be used if you need a dedicated answer to Fire-types.
+
+Usage Tips
+========
+
+Be cautious when switching in Mantine, because it has no immediate recovery options. Taking a Toxic, burn, or even a strong neutral hit shortens Mantine's lifespan, and could mean that it doesn't get to remove hazards at critical points in the game. Keep Knock Off users in mind, as Mantine's recovery is entirely dependent on Leftovers. Be mindful of certain coverage moves on Pokemon that could beat Mantine or knock 50% or more off of Mantine's HP, such as Wild Charge on Klinklang and Rock Slide on Camerupt. If you're using Mantine as a switch-in for Fire-type spam, keep pressure on your opponent's Stealth Rock user so you don't have to Defog as much.
+
+Team Options
+========
+
+Most Grass-types are great partners for Mantine, as they appreciate Mantine's ability to cover threatening Fire-types. Lilligant is a great offensive option, as it often struggles to pressure Fire-types once Sleep Clause has been activated, and Tangela can be a great defensive option, as it is slower than most Fire-types in the tier and will almost always be KOed in a 1v1 matchup. Ground-types such as Seismitoad and Rhydon are great options to deal with Electric-types spamming Volt Switch or Thunderbolt. Similarly, these Ground-types are great in helping against fast, offensive Rock-types such as Archeops, Rhydon, and Barbaracle. Any Pokemon that appreciates entry hazards being removed from the field, such as Focus Sash users, Fire-types, and Flying-types, generally partner up well with Mantine. Audino can make a great teammate, supporting Mantine with Wish and Heal Bell, helping to mitigate Mantine's lack of recovery. Seeing as many of Mantine's best partners are passive, defensive Pokemon, Mantine finds its place on stall or balance teams, fitting neatly into defensive cores in need of a reliable switch-in to Fire-types.
+
+Other Options
 ########
-name: Swift Swim
-move 1: Rain Dance
-move 2: Hydro Pump
-move 3: Air Slash
-move 4: Defog
-ability: Swift Swim
-item: Life Orb
-evs: 64 HP / 252 SpA / 192 Spe
-nature: Modest
 
-This is a sample set while we are currently working on analyses in the workshop.
+Choice Specs can be used for immediate wall breaking power, as Mantine's impressive natural bulk and great neutral coverage make it difficult for defensively based teams to switch into or KO Mantine. A Rain Dance set with Swift Swim can be used to turn Mantine into a mid- or late-game sweeper. While it faces competition from Ludicolo and Seismitoad, Mantine is definitely worth considering due to its Flying typing.
+
+Checks & Counters
+########
+
+**Electric-types**: Lanturn is a great switch-in to Mantine, as it resists Mantine's STAB options and has Heal Bell to alleviate statuses. Most other Electric-types can typically brave most of Mantine's moves and threaten it with immediate KO potential. Pokemon with Electric-type coverage options, such as Magmortar, Klinklang, and Mesprit, will heavily pressure Mantine.
+
+**Residual Damage**: Mantine's lack of recovery makes it incredibly susceptible to most forms of passive damage. Stealth Rock severely cuts into its longevity and ability to remove hazards. Toxic users such as Seismitoad and Prinplup threaten it, and even burns from Pokemon such as Weezing and other Pokemon can annoy Mantine in the long run.
+
+**Powerful Physical Attackers**: Powerful offensive Rock-types such as Archeops, Carracosta, and Rhydon can heavily dent, if not outright KO Mantine with their Rock-type STAB options. Physical attackers that are unaffected by Scald burns, such as Zangoose, Ursaring, and Swellow, are also great options.
+
+**Freeze-Dry**: Freeze-Dry hits Mantine 4x super effectively, so Pokemon that carry it, such as Cryogonal, Articuno, and Aurorus, will heavily pressure Mantine.
 

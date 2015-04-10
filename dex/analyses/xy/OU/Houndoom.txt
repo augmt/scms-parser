@@ -1,52 +1,56 @@
 Overview
 ########
 
-Mega Houndoom is an often overlooked specially offensive threat. It takes up a team's Mega Evolution slot, doesn't hit as hard as its competition due being unable to hold other items, and has its ability mostly wasted by how poor sun is in respect to other playstyles. However, the helldog is not something to simply brush aside. It has a fantastic Speed stat, very impressive Special Attack, respectable defenses, great offensive STABs, and a number of useful utility moves. When used correctly, Mega Houndoom will reduce the opponent to ashes.
+Though it is often forgotten, Mega Houndoom brings a huge amount of utility to the table, checking dangerous threats such as Bisharp, Mega Sableye, and Latios. It also has favorable matchups against common Pokemon; against offensive teams, common switch-ins to it such as Tyranitar and Azumarill are crippled by Will-O-Wisp, while stall teams are troubled by Taunt. Mega Houndoom's access to Nasty Plot and its high Speed allows it to sweep teams with ease. However, its weakness to Stealth Rock can be troublesome: it also is forced out by threats such as Keldeo, Heatran, Rotom-W, Tornadus-T, Mega Lopunny and Mega Altaria. Nonetheless, Mega Houndoom's utility and ability to sweep balanced teams easily makes it a solid choice to build around.
 
-Nasty Plot
+Utility Attacker
 ########
-name: Nasty Plot
+name: Utility Attacker
 move 1: Nasty Plot
 move 2: Fire Blast
 move 3: Dark Pulse
-move 4: Taunt / Destiny Bond
+move 4: Will-O-Wisp / Taunt
 ability: Flash Fire
 item: Houndoominite
 nature: Timid
-evs: 4 Def / 252 SpA / 252 Spe
+evs: 40 HP / 8 Def / 208 SpA / 252 Spe
 
 Moves
 ========
 
-Nasty Plot raises Houndoom's Special Attack to quite impressive levels, letting it act as a proficient wallbreaker and even as a sweeper against slower teams. Fire Blast is Houndoom's primary STAB; its high Base Power with negligible drawbacks makes Mega Houndoom a very fierce attacker compared to Pokemon that rely on less powerful moves as their main attack. Dark Pulse is secondary STAB that offers reliable accuracy, a handy flinch chance, and reasonably good neutral coverage with Fire Blast. Taunt is a useful move that aids in setting up against phazers that can't damage Houndoom otherwise, such as Mandibuzz. It also allows Houndoom to set up in the face of status users that rely on status such as Porygon 2, Chansey, or Heatran lacking Earth Power. On top of this, Taunt prevents walls such as Chansey from recovering, letting Houndoom wear down defensive teams more easily. Destiny Bond is more suited for fighting offensive teams as Houndoom has trouble muscling past some offensive staples such as Keldeo, Tyranitar, and Terrakion. Destiny Bond can make short work of these Pokemon early-game. Hidden Power Fighting is a very good option as it can deal considerable damage to Tyranitar, which otherwise easily counters Houndoom. Hidden Power Grass is a second viable Hidden Power which has the ability to hit a number of good checks to Houndoom such as Keldeo, Azumarill, and Terrakion very hard. Flame Charge is an option for a pseudo double dance set, letting Houndoom boost its Speed to clean up late-game.
+Nasty Plot allows Mega Houndoom to sweep teams with ease once its checks and counters have been removed, and thanks to its great typing, it can force out and set up on Pokemon such as Ferrothorn, Skarmory, Mew, Mega Sableye, and Slowbro. Fire Blast and Dark Pulse are great STAB moves that have good neutral coverage. Will-O-Wisp is useful against offensive teams and can cripple common switch-ins to Mega Houndoom such as Azumarill, Tyranitar, Terrakion, and Garchomp. It also allows Mega Houndoom to check Bisharp. Taunt can be used fto stallbreak, but if it used, Mega Houndoom loses out on the utility of Will-O-Wisp. Hidden Power Grass and Sludge Bomb can be used in the last moveslot to hit Pokemon that otherwise wall Mega Houndoom, such as Azumarill, Keldeo, Terrakion, Tyranitar, Togekiss, and Mega Altaria, though Will-O-Wisp usually cripples most of these, and its utility will be missed. Sunny Day can be used to utilize Solar Power, heightening Mega Houndoom's damage output, but it can be worn down easily; Solar Beam is also easy for an opponent to take advantage of.
 
 Set Details
 ========
 
-Maximum Speed and Special Attack EVs optimize Mega Houndoom's sweeping and wallbreaking abilities. A Timid nature is mandatory, as without a Speed-positive nature a large number of important Speed tiers are missed. The remaining four EVs go into Defense as opposed to HP as it lets Houndoom take less entry hazard damage. Flash Fire is the ideal ability as the boost persists when Houndoom is Mega-Evolved and gives it a free switch-in if played correctly.
+The given EVs allow Mega Houndoom to survive 3 Seismic tTosses from Chansey and Choice Band Talonflame's Brave Bird. Flash Fire allows Mega Houndoom to switch-into Fire-type moves such as Volcarona's Fire Blast and Mega Charizard Y's Fire Blast, as well as Heatran's Lava Plume. Against Mega Charizard Y's case, a boost can be very important because it gives Mega Houndoom a Solar Power boost meaning it can do a huge amount of damage, while Tyranitar, a common teammate of Mega Charizard Y, is neutered by Will-O-Wisp.
 
 Usage Tips
 ========
 
-Specially defensive Heatran with Earth Power is a counter to Mega Houndoom, but it is nearly powerless if it lacks Earth Power and the latter has Taunt. Scouting for Heatran's moveset before deploying Houndoom may let it set up for free on Heatran. The easiest way to accomplish this is to switch Houndoom into Heatran as it uses Lava Plume, then switch out. Houndoom's typing is convenient for beating Ghost-types that like to throw around burns, such as mono-attack Gengar and standard Sableye; these are perhaps the best switch-in opportunities for it. Mandibuzz is complete setup bait for Mega Houndoom should the latter have Taunt, so exploit this. Chansey should be Taunted to prevent recovery and status, making it easy to wear down and switch into. Mega Venusaur is also a pretty good Taunt target for preventing Leech Seeds and Synthesis, again making it easy to wear down and switch into, or outright beat. Mega Houndoom functions quite well as a wallbreaker; setting it up mid-game to break down bulky Pokemon for the rest of your team is where it is most effective. Destiny Bond's primary targets are Keldeo, Terrakion, Tyranitar, and basically anything slower than Houndoom that it can't beat and will probably respond with an OHKO. It can also be used to take down Chansey if it is dumb enough to KO Houndoom with Seismic Toss.
+Offensive teams have trouble dealing with Mega Houndoom, so using Will-O-Wisp to target predicted switch-ins is vital to its success. Mega Houndoom can take advantage of stall teams' weakness to Taunt by double switching many times to wear Chansey down with Stealth Rock and then, when Chansey is weakened, Taunting it so that it cannot heal and setting up on it with Nasty Plot.
 
 Team Options
 ========
 
-Stealth Rock is a serious issue for Houndoom, and Defog or Rapid Spin support is crucial. Scizor performs in this role relatively well as it lures Will-O-Wisp and offensive Fire-type moves for Houndoom's Flash Fire; it is also a reasonable switch into Tyranitar, one of Houndoom's best counters. Latios as a Defogger can deal with Keldeo and Breloom pretty effectively. Drought Ninetales, especially with a Heat Rock, gives Mega Houndoom a huge amount of power without any need for setup. +2 Houndoom is so strong in the sun, it can OHKO Blissey. Landorus-T is excellent at absorbing strong Ground- and Fighting-type moves aimed at Houndoom, while also taking some Rock-type moves comfortably. Landorus-T also can counter Talonflame, a good offensive check to Houndoom. Dugtrio is an incredibly valuable trapping partner as it is capable of trapping and KOing two of Houndoom's biggest adversaries: Tyranitar and Heatran. Azumarill is quite capable of switching into and beating prominent offensive checks to Houndoom such as Keldeo. Rotom-W is a solid teammate for Houndoom as it can take on a number of Houndoom's greatest checks such as Keldeo, Talonflame, and Azumarill and generate momentum with Volt Switch for Houndoom to come in safely. Tangrowth and Ferrothorn are good Azumarill switch-ins, and as such are useful alongside Houndoom.
+Gengar and Latios make for great teammates to pair with Mega Houndoom. They appreciate Tyranitar being burned so they cannot be reliably Pursuit trapped, allowing them to wreak havoc with Shadow Ball and Draco Meteor, respectively; Earthquake Latios gets a special mention for the ability to eliminate Heatran, a check to Mega Houndoom. Gyarados has excellent synergy with Mega Houndoom and is able to set up on a bunch of switch-ins to Mega Houndoom. Mega Houndoom is also able to deal with Ferrothorn, a Pokemon that walls Gyarados. Starmie, Excadrill, Latias, and Latios can remove hazards and share nice synergy with Mega Houndoom. Toxicroak is an underrated teammate that has plenty of opportunities to spam Gunk Shot against Mega Houndoom's checks and counters such as Tyranitar, Chansey, Keldeo, Unaware Clefable, Terrakion, and Mega Altaria, if expecting a double switch.
 
 Other Options
 ########
 
-Sucker Punch is Houndoom's only option for priority and can mitigate issues against opposing priority and Choice Scarf users. However, it is quite weak without Attack investment. Will-O-Wisp screws with some switch-ins, most prominently Tyranitar, Hippowdon, Azumarill, and Terrakion, but it is contrary to Houndoom's fast and hard-hitting nature. Sludge Bomb is a mildly useful move that can break through Azumarill and does the most damage to Fairy-types. An offensive sun set is feasible, but independent Sunny Day use is easy to shut down for opposing weather starters, the recoil incurred is not worth the effort and a fully dedicated sun team struggles far too much against common threats to be worth the trouble.
+Sucker Punch is Mega Houndoom's only option for priority and can mitigate issues against opposing priority and Choice Scarf users. However, it is quite weak without Attack investment. Destiny Bond is a viable alternative in the last slot, but the utility provided by Taunt or Will-O-Wisp or the coverage given by Hidden Power Grass is usually superior. Finally, Sludge Bomb is an option used to hit Mega Altaria and Assault Vest Azumarill harder, but Mega Houndoom needs Taunt or Will-O-Wisp to be effective.
 
 Checks & Counters
 ########
 
-**Revenge Killers**: Choice Scarf Garchomp, Excadrill, and Terrakion make easy offensive checks or counters, depending on the field condition. Strong priority users such as Breloom, Talonflame, and Azumarill are also good checks or counters. Pokemon that naturally outspeed Mega Houndoom and can hit it super effectively make good checks as well.
+**Revenge Killers**: Revenge killers such as Choice Scarf Garchomp, Choice Scarf Keldeo, Mega Aerodactyl, Excadrill, and Terrakion make for great offensive checks or counters to Mega Houndoom, depending on the field condition. Strong priority users such as Breloom, Talonflame, and Conkeldurr are also good checks or counters to Mega Houndoom. Thundurus can paralyze Houndoom, crippling it. Also, Pokemon that naturally outspeed Mega Houndoom and can hit it super effectively, such as Mega Lopunny and Tornadus-T, make for good checks to Mega Houndoom.
 
-**Tyranitar**: Tyranitar replaces sun with sand, resists Houndoom's dual STAB, and has the bulk to take anything else while retaliating with Stone Edge; it really only fears Destiny Bond. Tyranitar is thus Houndoom's best counter.
+**Mega Diancie**: Mega Diancie can switch into Mega Houndoom with ease, as it walls Mega Houndoom's STAB moves and can bounce Will-O-Wisp back. It can then easily OHKO Mega Houndoom with Diamond Storm back.
 
-**Chansey**: This blob sponges anything from Houndoom if it's healthy and cripples it with status. Chansey can only be dealt with if Houndoom packs a combination of Taunt and Destiny Bond, although this is rather rare.
+**Tyranitar**: Tyranitar replaces sun with sand, resists Mega Houndoom's STAB moves, and has the bulk to take anything before retaliating with Stone Edge. Tyranitar is thus Mega Houndoom's best counter. Tyranitar can still be eliminated by a combination of Sunny Day and Solar Beam on the switch; Will-O-Wisp can also be problematic for it.
 
-**General Specially Defensive Tanks**: Specially defensive Hippowdon can take a +2 Fire Blast and KO with Earthquake in response, while bulky Assault Vest users like Conkeldurr can take a +2 attack and KO back. In general, dedicated specially defensive Pokemon that Houndoom can't hit super effectively will be able to respond to it pretty effectively.
+**Chansey** Chansey switches into Mega Houndoom if its not using Taunt, but if it does, the opposing team can wear it down rather easily; however, Mega Houndoom with Taunt can prevent a weakened Chansey from healing. Also, be aware that Chansey is 2HKOed by Fire Blast in sun with prior damage.
+
+**Conkeldurr**: Conkeldurr can take hits from Mega Houndoom easily while benefitting from Will-O-Wisp, thanks to Guts. It can easily OHKO Mega Houndoom back with Drain Punch and restore any lost HP.
+
+**Azumarill**: Azumarill walls Mega Houndoom's STAB moves, and it can setup on Mega Houndoom with Belly Drum. Assault Vest Azumarill takes even less damage from Mega Houndoom's attacks; however, Azumarill still has to be wary of Will-O-Wisp, which will prevent it from doing its job.

@@ -1,90 +1,82 @@
 Overview
 ########
 
-With two excellent abilities to allow Scrafty to set up more easily, it is a dangerous sweeper. Scrafty has Knock Off utility that it can use to weaken its own checks. However, Scrafty is weak to common Pokemon, such as Mienshao. Without a boost, it can have trouble breaking through tougher walls such as Milotic or Suicune. Also, Scrafty has a low Speed stat, which means it is outsped by Pokemon with base 115 Speed even at +1, and any relevant Choice Scarf user still outspeeds it even at +2.
-
-Dragon Dance
-########
-name: Dragon Dance Sweeper
-move 1: Dragon Dance
-move 2: Knock Off
-move 3: Drain Punch / High Jump Kick
-move 4: Zen Headbutt / Iron Head
-ability: Shed Skin / Moxie
-item: Leftovers / Life Orb
-evs: 252 Atk / 4 Def / 252 Spe
-nature: Jolly
-
-Moves
-========
-
-Knock Off is the Dark-type STAB move of choice, and it can help with wearing down Scrafty and its teammates' own checks and counters by removing Leftovers and Assault Vests. Drain Punch is the preferred STAB attack, and helps to preserve Scrafty's longevity. Drain Punch is best used when using Scrafty as a mid- and late-game sweeper. High Jump Kick can be used in order to provide more immediate power, as well as to severely dent any switch-ins. It should be used when Scrafty is functioning as a wallbreaker on a team. Zen Headbutt is Scrafty's best option against Toxicroak, and it also prevents Pokemon such as Nidoqueen, Roserade, and Amoonguss from scaring Scrafty out. It also gets super effective damage on Mienshao, Hitmontop, and Chesnaught, although it cannot KO any of them except Mienshao. Iron Head allows Scrafty to do excellent damage on weakened Florges and Gardevoir, although it does not always OHKO even specially defensive Florges at +1.
-
-Set Details
-========
-
-Max Attack and Speed make Scrafty a strong sweeper. 252 Speed EVs with a Jolly nature allow Scrafty to outspeed Mienshao after a boost. Leftovers is preferred when using Drain Punch and Shed Skin in order to allow Scrafty to stay alive over the duration of the match. Life Orb is preferred when using High Jump Kick and/or Moxie, as this allows Scrafty to sweep extremely well late-game. Lum Berry is an option when using Moxie, although if you are that worried about status, you could just use Shed Skin. Shed Skin is the preferred ability, as this allows Scrafty to act as a psuedo-status absorber and not have to worry about a burn or a paralysis ruining Scrafy's sweep. However, Moxie can be used to steamroll through unprepared teams, racking up boost after boost.
-
-Usage Tips
-========
-
-Scrafty should set up on Pokemon that don't deal a lot of damage to it; these are usually special attackers. It can function greatly against stall-based teams. With Shed Skin, it usually does not mind burns, so setting up on Pokemon such as Crocune or Vaporeon can quickly turn a match around. Shed Skin also allows Scrafty to be the only Fighting-type to not be shut down by Sableye, granting it a niche of its own. Late-game, Scrafty should abuse its unique typing and try to force switches to set up a Dragon Dance.
-
-Team Options
-========
-
-Pokemon that can set entry hazards up can really help with wearing down Scrafty's checks and counters. With Moxie this puts immense pressure on a team. Gligar is an excellent teammate, as it can beat Crobat, Choice Scarf Honchkrow, and Mienshao, which all beat Scrafty. Gligar can also set up Stealth Rock to wear down the opponent's team. Pokemon such as Choice Band Machamp that can bait in Florges make excellent partners, as Florges is quickly overwhelmed by such strong attacks. Scrafty appreciates Thunder Wave support, making Pokemon such as Slowbro, Mew, Celebi, and Jirachi decent partners. Amoonguss can perform a similar role in spreading sleep and paralysis, although this compounds a Honchkrow weakness. Ghost-type Pokemon such as Froslass or Cofagrigus can switch in on Fighting-type attacks. Froslass can easily set up a layer or two of Spikes and eliminate a key threat with Destiny Bond, while Cofagrigus can switch in easily on Pokemon such as Crobat or Mienshao.
+Scrafty is the most unviable Pokemon currently in the UU tier. This is mostly due to the fact that it is outclassed by every other Fighting-type in performing its roles. Nevertheless, it still has good Defense and Special Defense, albeit along with second-rate further stats, as well as a good offensive movepool with access to coverage moves ranging from Poison Jab to Ice Punch and STAB moves such as Knock Off and Drain Punch. Scrafty also has access to three good abilities, but it is unable to make optimal use of them. In addition, its typing doesn't complement its defenses whatsoever, as Dark / Fighting only has three resistances and one immunity and also has weaknesses to three common types.
 
 Bulk Up
 ########
 name: Bulk Up
 move 1: Bulk Up
-move 2: Knock Off
-move 3: Drain Punch
+move 2: Drain Punch
+move 3: Knock Off
 move 4: Rest
 ability: Shed Skin
 item: Leftovers
-evs: 252 HP / 252 SpD/ 4 Atk
+evs: 248 HP / 240 SpD / 20 Spe
 nature: Careful
 
 Moves
 ========
 
-Bulk Up is the main move, often slowly building a sweep against bulky offense teams. Knock Off is excellent utility, and helps cut down on opposing recovery. Knock Off also messes with more stall-based teams. Drain Punch gives Scrafty psuedo-recovery, and can really hit hard with a boost. This is Scrafty's most reliable way to heal. Rest is a keystone to the Bulk Up set, as Rest allows Scrafty to fully heal up and proceed to rack up Bulk Up boosts again. However, Shed Skin does not always activate, often sealing Scrafty's fate. Iron Head can be used to deal with Florges, although it fails to OHKO Florges even at +1, and so should only be used either on the switch or late-game. Zen Headbutt can be used to catch Toxicroak off-guard, although Rest is usually preferred in the last slot.
+Scrafty's highest stats are its defenses, making Bulk Up a good option for a setup move, as it allows Scrafty to continuously take physical hits while still increasing its Attack. Drain Punch gives Scrafty a way to damage foes and recover health at the same time. Knock Off removes the items of opposing Pokemon and has good coverage in conjunction with Drain Punch. Rest allows Scrafty to heal itself and remove any status inflicted upon it.
 
 Set Details
 ========
 
-252 HP and Special Defense EVs assure maximum special bulk, and easily let Scrafty set up on Pokemon like Crocune. Shed Skin allows Scrafty to potentially get a one-turn sleep, and can stop other status effects. Shed Skin also allows Scrafty to not be shut down by Sableye, setting Scrafty apart from other Fighting-types.
+Leftovers allows Scrafty to gain a bit of its health each turn, increasing its longevity. Shed Skin has a chance to remove status effects inflicted upon Scrafty, which is especially useful as it can cure the sleep resulting from Rest. The EVs maximize Scrafty's special bulk while allowing it to outspeed uninvested base 60s.
 
 Usage Tips
 ========
 
-Scrafty should be used against Pokemon that commonly run a RestTalk set, as Scrafty will then be able to set up easily. If Scrafty can take a hit from something or force it out, then Scrafty is usually fine to set up. Do not set up if a Pokemon such as Florges or Mienshao is on the opposing team. It is best to get entry hazards up before setting up, in order to limit the amount of switches on the opposing team.
+Scrafty is best sent in on specially offensive Pokemon that can't break through it, such as non-Dazzling Gleam Roserade and Choice Scarf Hydreigon, so that it can set up on them. Fairy-, Flying-, and Fighting-types are immediate stops to this set, so it is essential to remove them before attempting a sweep.
 
 Team Options
 ========
 
-Pokemon such as Qwilfish or Hitmontop can help support Scrafty. Both can do work against Fighting-types, and Qwilfish can set up Spikes and Toxic Spikes. Hitmontop can help weaken Pokemon such as Florges by hitting them with Toxic. Pokemon that lure in Crocune or Vaporeon can help set up a Scrafty sweep. A switch-in to Crobat is nice, making Raikou or Rhyperior great partners. Raikou can set up on a lot of Pokemon that Scrafty lures in, while Rhyperior can set up Stealth Rock. Bronzong is a good partner, as Bronzong easily beats Florges while also setting up Stealth Rock. In a similar vein, most Pokemon that can beat Florges can make a great partner to Scrafty. Paralysis support is extremely beneficial, even more so than to the Dragon Dance set, as Scrafty has extremely low Speed. Slowbro, Mew, and Celebi are usually all bulky and can spread status. They all can also take Fighting-type attacks aimed at Scrafty. Florges can be a decent partner, as Florges can beat most Mienshao sets and lures in Nidoking and Nidoqueen for Scrafty to set up on.
+Scrafty's biggest problems are Fairy-types. Due to this, Steel-, Poison-, and Fire-types, such as Lucario, Crobat, and Entei, make excellent partners. Flying-types are common stops to any Scrafty sweep, so removing them is mandatory. The best Pokemon to do as such are Rock-, Ice-, and Electric-types such as Mega Aerodactyl, Kyurem, and Heliolisk. Opposing Fighting-types stop Scrafty from effectively carrying out a sweep, making Flying- and Psychic-types such as Mega Pidgeot and Reuniclus astounding partners. Cloyster and Speed Boost Yanmega are fine examples of cleaners that appreciate Scrafty's ability to weaken the opposing team.
+
+Dragon Dance
+########
+name: Dragon Dance
+move 1: Dragon Dance
+move 2: High Jump Kick / Drain Punch
+move 3: Knock Off
+move 4: Poison Jab
+ability: Shed Skin / Moxie / Intimidate
+item: Leftovers / Life Orb / Lum Berry
+evs: 252 Atk / 4 SpD / 252 Spe
+nature: Jolly / Adamant
+
+Moves
+========
+
+Dragon Dance boosts Scrafty's Attack and Speed by one stage, but even at +1 Speed and Attack, Scrafty still fails to outspeed or OHKO a majority of the tier. High Jump Kick has a great 130 Base Power and is boosted by STAB, although Scrafty's mediocre Attack stat doesn't allow it to hit as hard as expected. Alternatively, Drain Punch gives Scrafty the ability to recover some health while attempting a sweep, but it doesn't hit hard by any stretch of the imagination. Knock Off is a marvelous secondary STAB move that removes the item of opposing Pokemon. Poison Jab provides necessary coverage, as it hits Fairy-types super effectively.
+
+Set Details
+========
+
+The EVs are maxed out in both Attack and Speed to maximize Scrafty's extremely low sweeping potential. The 4 leftover EVs are put into Special Defense to ensure Download Porygon-Z and Porygon2 don't get a boost to their Special Attack should they switch into Scrafty. A Jolly nature is used to outspeed Timid Tornadus after a boost as well as Modest Exploud before a boost. On the other hand, an Adamant nature boosts Scrafty's damage output, but only lets it outspeed up to uninvested base 86s before a boost and Jolly Haxorus after a boost. Scrafty should choose its ability and item depending on the moveset. Leftovers gives Scrafty passive recovery and is thus best used with either Shed Skin or Intimidate. Life Orb gives Scrafty a 30% damage boost but has recoil, so it is best used with Drain Punch, although High Jump Kick variants also appreciate the damage boost. Lum Berry grants Scrafty a one-time immunity to status, which is useful as long as Shed Skin isn't the ability of choice. Shed Skin removes status inflicted upon Scrafty, making it easier to sweep past teams that rely on status to stop setup sweepers. Moxie nabs an Attack boost with each KO Scrafty gets, making it easier for Scrafty to progressively sweep. Lastly, Intimidate allows Scrafty to lower the opposing Pokemon's Attack by one stage upon switching in, making it easier for Scrafty to set up.
+
+Usage Tips
+========
+
+Scrafty should set up whenever possible depending on the item, ability, and moveset chosen. A prime example of this is setting up on Cofagrigus when using either Lum Berry or Shed Skin variants. Only attempt to sweep after removing Scrafty's various checks and counters.
+
+Team Options
+========
+
+Wallbreakers such as Choice Band Entei and Choice Specs Kyurem help remove walls that deter Scrafty from sweeping. Shaymin is an amazing partner, as it not only can wallbreak but also has access to Healing Wish, which allows Scrafty more than one chance to attempt a sweep. Fairy-types are the main stop to Scrafty's limited effectiveness, making Fire-, Steel-, and Poison-types such as Darmanitan, Aggron, and Nidoqueen, respectively, good partners. Mega Aerodactyl removes Flying-types as well as Fighting-types, making it a great partner. Other Pokemon that remove Fairy-, Fighting-, or Flying-types, such as Doublade, also make for great Scrafty teammates.
 
 Other Options
 ########
 
-Head Smash can be used as a powerful attack. Poison Jab can be used over Iron Head as it has the ability to poison Florges. However, it has the drawback of possibly poisoning Guts Machamp; furthermore, Steel-types are immune to Poison Jab. Thunder Punch can be used to hit bulky Water-types, although Knock Off is usually superior. A RestTalk set can be used with Shed Skin on more stall-based teams, although Sleep Talk usually a waste of a move with Shed Skin. A Choice Band can be used to deal heavy damage to some Pokemon. An Assault Vest set can be used, though it is inferior to Snorlax in that regard. Scrafty does offer Knock Off support however, as well as a reliable way to heal in Drain Punch.
+Ice Punch allows Scrafty to hit Gligar and Salamence, among others, for super effective damage, making it an option on the Dragon Dance set. However, Poison Jab's coverage is usually superior. Iron Head can be used over Poison Jab on the Dragon Dance set for the flinch chance, but it misses out on the all-important 2HKO on Whimsicott. Zen Headbutt is another option on the Dragon Dance set for super effective coverage on a plethora of Pokemon, ranging from Crobat to Heracross. A Choice Band set can be used for an immediate damage boost, but Scrafty can't utilize the item well.
 
 Checks & Counters
 ########
 
-**Fairy-types**: Florges and Aromatisse can always beat Scrafty, resisting both of its STAB moves and hitting with a 4x super effective Moonblast.
+**Bulky Fairy-types**: Bulky Fairy-types can OHKO Scrafty with their STAB moves and can't be OHKOed by Poison Jab even after a boost.
 
-**Hitmontop**: The bulky pivot set of Hitmontop can take any attack by Scrafty and KO back with Close Combat, though it will take heavy damage from High Jump Kick.
+**Fighting-types**: Fighting-types such as Heracross and Mienshao check Scrafty, as they can OHKO it with their STAB moves while Scrafty needs Zen Headbutt to be able to OHKO them.
 
-**Chesnaught**: Chesnaught can easily tank a +1 Ice Punch or Zen Headbutt and can hit Scrafty hard with a super effective Hammer Arm.
-
-**Hippowdon**: Hippowdon can take any hit from a +1 Scrafty and either Whirlwind Scrafty out or hit hard with an Earthquake. In tight situations, it can stall with Slack Off, though it often loses to Drain Punch Scrafty this way.
-
-**Crobat**: Crobat can generally switch in on Dragon Dance or a Fighting-type move, however other than those moves it cannot switch in. Crobat can do a minimum of 70% to an uninvested Scrafty, making it an effective revenge killer.
-
-**Revenge Killers**: Due to Scrafty's pitiful base 58 Speed, any viable Choice Scarf user can outspeed Scrafty after a boost. This leaves Life Orb Scrafty at a disadvantage, as it is easily revenge killed by powerful attacks such as Flygon's Outrage or Mienshao's High Jump Kick
-
-**Wallbreakers**: Common Pokemon that are delegated to break through walls can usually beat the Bulk Up set. Pokemon such as Choice Band Machamp and Life Orb Honchkrow still threaten Scrafty, even at +1.
+**Fast Flying-types**: Flying-types with high Speed stats can easily outspeed Scrafty after a boost and OHKO it with their STAB moves. Examples of such Pokemon are Mega Aerodactyl and Crobat.

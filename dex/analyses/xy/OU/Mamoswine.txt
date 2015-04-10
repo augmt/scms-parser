@@ -1,86 +1,91 @@
 Overview
 ########
 
-While XY brought Mamoswine few boons, it retains its role as an excellent check to some of the most threatening Pokemon in OU. Mamoswine's high base 130 Attack, coupled with outstanding Ice- and Ground-type offensive coverage and priority in the form of Ice Shard, allows it to KO dangerous sweepers such as Landorus, Garchomp, and Dragonite, as well as deliver crippling blows to opposing walls. Access to Stealth Rock, the useful Endeavor, and Icicle Spear to defeat other Focus Sash leads also enables Mamoswine to run a unique offensive lead set that can provide enormous early-game momentum while still maintaining its revenge killing capabilities.
+Mamoswine stands in the OU metagame as a powerful offensive threat thanks to its great Attack stat and STAB coverage of Ice and Ground, which is only resisted by Rotom-W, Rotom-H and Bronzong. Its Ground typing also grants it an immunity to Electric, thereby allowing it to check threats such as Thundurus and Raikou. Mamoswine has two great abilities that allow it to either remove its Fire weakness and add an Ice resistance or prevent the effects of Taunt to give it utility as a Focus Sash Lead that is able to reliably set up Stealth Rock. In addition, its access to priority Ice Shard gives it a way to bypass its mediocre base 80 Speed stat, as well as revenge kill Dragon-types such as Mega Sceptile, Latios, Latias, and Altaria and Flying-types such as Thundurus and Mega Aerodactyl.
 
-However, Mamoswine's poor defenses and weaknesses to common attacking types make it difficult to switch into offensive Pokemon, and its relatively low base Speed means that it will often lose to offensive Pokemon that it cannot defeat with Ice Shard. This is compounded by a significant weakness to many priority attacks, notably Bullet Punch, Mach Punch, and Aqua Jet. Mamoswine's offensive lead set faces strong competition from other dedicated leads such as Terrakion and Garchomp, and the new Defog mechanics make the guaranteed Stealth Rock from this set less effective.
+Unfortunately, bulky Water-types including Slowbro and Alomomola often get free switches into Mamoswine and proceed to wall it even though this is somewhat remedied by Freeze-Dry. Mamoswine also lacks strong defensive stats and many resistances, making it difficult for it to survive more than one powerful attack. Its mild slowness is its downfall when facing fast threats that are able to tank Ice Shard such as Mega Metagross and Diancie. Other physically defensive walls such as Ferrothorn and Skarmory also check Mamoswine easily. However, Mamowsine has a strong niche thanks to its unique STAB combination, strong Attack stat, and access to Stealth Rock.
 
-Physical Attacker
+Life Orb
 ########
-name: Physical Attacker
-move 1: Earthquake
-move 2: Ice Shard
-move 3: Icicle Spear / Icicle Crash
+name: Life Orb
+move 1: Ice Shard
+move 2: Earthquake
+move 3: Icicle Crash / Icicle Spear
 move 4: Freeze-Dry
 ability: Thick Fat
 item: Life Orb
-evs: 240 Atk / 16 SpA / 252 Spe
+evs: 244 Atk / 12 SpA / 252 Spe
 ivs: 29 HP
 nature: Naive
 
 Moves
 ========
 
-Mamoswine's movepool is far from expansive, but it has access to everything it needs to be both a strong revenge killer and an excellent wallbreaker. Earthquake is a very powerful STAB move with nice coverage, and Ice Shard provides priority to revenge kill a large number of threats, particularly Dragon-types. Icicle Spear is a crucial secondary STAB option with the ability to break through Focus Sashes and Dragonite's Multiscale. Alternatively, Icicle Crash can be run as a strong, reliable secondary STAB move, boasting a handy 30% flinch chance. Freeze-Dry may seem like an odd choice on a physical attacker, but it provides excellent coverage against bulky Water-types. Physically defensive Rotom-W is 2HKOed after Stealth Rock damage, and Gyarados takes massive damage. It also cleanly OHKOes Quagsire, which can be very handy in breaking stall teams, and does heavy damage to Slowbro. Superpower is also viable to smash Ferrothorn and Air Balloon users such as Heatran and Excadrill harder than Mamoswine's STAB moves and cn be used in the last slot.
+Ice Shard is mandatory on Mamoswine to allow it to revenge kill Dragon- and Flying-types such as Mega Altaria,Landorus, and Thundurus. Earthquake is a powerful STAB move. Icicle Crash is a secondary STAB move that has near-perfect coverage with Earthquake and a nice flinch chance, but it is inaccurate. Icicle Spear can be used in place of Icicle Crash for the same coverage and the ability to anti-lead Breloom and hit through Dragonite's Multiscale. Freeze-Dry is important despite Mamoswine's low Special Attack because it hits bulky Water-types such as Rotom-W and Alomomola. Other moves that can be used include Knock Off, which removes Skarmory's Shed Shell; Superpower, which 2HKOes Ferrothorm; and Stealth Rock in case you lack another Stealth Rock user.
 
 Set Details
 ========
 
-A Jolly nature is preferred to outspeed offensive Heatran, Adamant Gyarados, and Breloom. Outspeeding Breloom is important, as this ensures Mamoswine's Ice Shard will strike before Jolly Breloom's Mach Punch. The choice of nature is dependent on the moveset. If Freeze-Dry is used, Naive is ideal, though Naughty is also viable for a bit of a boost in power. Jolly or Adamant should always be chosen on sets without Freeze-Dry. The given EV spread emphasizes Speed and Attack, and the 16 EVs in Special Attack guarantee that physically defensive Rotom-W is 2HKOed by FreezeDry after Stealth Rock damage. Mamoswine without Freeze-Dry should maximize Attack and have the remaining 4 EVs in Defense. As it gives a neutrality to Fire-type attacks and a resistance to Ice-type attacks, Thick Fat is the ability of choice, allowing Mamoswine to survive strong Fire-type attacks such as Choice Band Talonflame's Flare Blitz and Choice Scarf Heatran's Overheat. A Life Orb is ideal to maximize attacking power while retaining the versatility of switching moves, and subsequently the 29 IVs in HP minimize Life Orb recoil as well as Stealth Rock damage.
+Life Orb gives Mamoswine great amount of both physical and special power and allows it to OHKO offensive Garchomp with Ice Shard. 244 Attack EVs take advantage of its base 130 Attack stat. The Special Attack investment allows Mamoswine to 2HKO bulky Water-types such as Rotom-W and Slowbro with Freeze-Dry. Maximum Speed and a Naive nature lets Mamoswine Speed tie with Gallade before it Mega Evolves and outspeed Breloom and Dragonite. 29 HP IVs reduce Life Orb recoil by 1 point. Thick Fat is helpful to tank occasional Fire- or Ice-type moves thrown at Mamoswine.
 
 Usage Tips
 ========
 
-There are very few complexities involved with this Mamoswine set. It should be used to revenge kill opposing sweepers with Ice Shard, as it is difficult to switch in because of its poor defensive typing. For this reason, it is always wise to preserve Mamoswine as much as is prudent during the match. Generally speaking, whenever Mamoswine is not required to use Ice Shard, one should simply use its fantastic coverage to punch holes in the opponents team, as only extremely bulky Pokemon can stomach repeated Life Orb-boosted hits. Keep in mind that Rotom-W should be only targeted with Freeze-Dry on the switch unless it is significantly weakened, while Gyarados must be scouted in order to determine its set before you stay in on it to use Freeze-Dry.
+Mamowsine can revenge kill threats such as Mega Sceptile, Garchomp, and Altaria (if weakened), so it's nice to keep around for late-game. Mamoswine's Ice-type STAB moves pressure Stealth Rock setters and entry hazard removers such as Landorus and Latios, respectively. This can be abused to prevent entry hazards from being set up or to keep them on the foe's side. Bulky Water-types are common checks to Mamoswine, so it's easy to predict them by using Freeze-Dry as they switch into heavily dent or 2HKO them. Only switch Mamoswine into Electric-type attacks, which Mamoswine is immune to, because other hits will dent Mamoswine severely. Life Orb will wear Mamoswine down, so make each hit count by predicting correctly. Avoid staying in on foes it can't beat 1v1 such as Scizor and Slowbro, as the former can set up on Mamoswine.
 
 Team Options
 ========
 
-Mamoswine's vulnerability to strong Water- and Fighting-type attacks makes Mega Venusaur and Latias good partners. In return, Mamoswine can threaten Tyranitar and Heatran. Similarly, Heatran makes a nice teammate, as it can repeatedly switch into Scizor, as well as defeat Skarmory. Mamoswine is generally more suited to offensive teams, as dedicated sweepers appreciate its wallbreaking and revenge killing abilities.
+Magnezone and Magneton are great partners, as they can trap Ferrothorn and Skarmory, which are often used to check Mamoswine. Healing Wish users such as Latias and Lopunny help restore Mamoswine's health if it has been worn down by Life Orb or crippled by status. Ferrothorn is a nice defensive partner because it can switch into Azumarill, Scizor, and Gyarados, all of which force Mamoswine out. Azumarill has good defensive synergy with Mamoswine because it resists a lot of Mamoswine's weaknesses and also weakens Ferrothorn. Physical Fighting-types such as Lucario and Terrakion enjoy having Slowbro and Alomomola weakened by Freeze-Dry, giving them good offensive synergy with Mamoswine. Amoonguss and Venusaur are helpful against Azumarill. Celebi can switch into the Water-types that find themselves in Mamoswine's way, such as Slowbro and Alomomola, while also being able to pass Mamoswine Swords Dance boosts. Shuckle and Smeargle can set up Sticky Web to remedy Mamoswine's low Speed. Mamoswine fares well against entry hazard removers such as Latios, Latias, and Tentacruel, which helps keep Sticky Web on the opponent's side of the field.
 
-
-Focus Sash
+Sash Lead
 ########
-name: Focus Sash
+name: Sash Lead
 move 1: Stealth Rock
-move 2: Icicle Spear / Endeavor
-move 3: Ice Shard
-move 4: Earthquake
-ability: Thick Fat
+move 2: Ice Shard
+move 3: Earthquake
+move 4: Endeavor / Icicle Spear / Knock Off
+ability: Oblivious / Thick Fat
 item: Focus Sash
 evs: 252 Atk / 4 Def / 252 Spe
-nature: Jolly / Adamant
+nature: Jolly
 
 Moves
 ========
 
-As this set focuses on reliably setting up Stealth Rock, it is the primary move, and with a Focus Sash, Mamoswine is almost certain to set it up. Endeavor makes further use of Focus Sash and effectively turns Mamoswine's poor defensive capabilities into an effective means of crippling an opposing Pokemon. Ice Shard is useful for picking off Pokemon brought down to 1 HP by Endeavor, as well as revenge killing throughout the match. In the last slot, Earthquake is a strong STAB attack that still hits hard despite the lack of a boosting item.
+Stealth Rock deters threats such as Talonflame, Pinsir, and Kyurem-B from switching in. Ice Shard is mandatory for revenge killing and getting off chip damage on faster foes. Earthquake is a powerful STAB move that dents anything that doesn't resist it. In the last slot, Endeavor is nice to bring foes down to 1 HP after Mamoswine has used its Focus Sash, which is useful for crippling walls. Icicle Spear is viable as well to deal with anti-lead Breloom and hurt Defog and Stealth Rock users such as Mandibuzz and Landorus-T, respectively. Knock Off is nice for removing Shed Shell from Skarmory, allowing it to be trapped by Magnet Pull. Superpower can be used to 2HKO Ferrothorn.
 
 Set Details
 ========
 
-A Jolly nature is used to set up Stealth Rock as quickly as possible, and, importantly, outspeed common leads such as Breloom and Smeargle, as this set is designed as a lead itself. However, Adamant is viable to provide more power to Earthquake and Ice Shard, particularly if using the latter to revenge kill opposing sweepers later in the game. Focus Sash is vital for this set, as it allows for almost guaranteed Stealth Rock and maximizes Endeavor's potential. Icicle Spear helps against breaking Focus Sashes, breaking through Substitutes and for KOing Dragonite after breaking its Multiscale. Thick Fat is the ability of choice to tank powerful Fire- and Ice-type attacks, particularly if its sash is broken.
+A Jolly nature and 252 Speed EVs allow Mamoswine to outspeed Breloom, Bisharp, Gallade before it Mega Evolves, and bulky Jirachi and set up Stealth Rock before it gets hit. Focus Sash guarantees that Mamoswine can set up Stealth Rock by allowing Mamoswine to take any one hit. Maximum Attack investment takes advantage of Mamoswine's base 130 Attack stat and gives Ice Shard the power it needs to revenge kill. Oblivious prevents Taunt used by Azelf and Prankster Thundurus from disabling Stealth Rock. If Taunt protection is deemed unnecessary, Thick Fat may be used to tank Fire- and Ice-type moves without burning Mamoswine's Focus Sash.
 
 Usage Tips
 ========
 
-You should nearly always be using this set as a lead, as setting Stealth Rock is generally its primary focus. Pokemon that bring Mamoswine to low health or to its Focus Sash can be eliminated by using Endeavor followed by Ice Shard. However, it might not always be ideal to set up Stealth Rock on the very first turn. Against some faster leads, Endeavor can be used immediately on an expected attacking move. The opponent will likely realize that Ice Shard is coming and switch. With good play, this can be your opportunity to set up Stealth Rock. Because of situations like this, it is important to avoid mindlessly laying down Stealth Rock on the first turn, especially if you see the likes of Rotom-W and Terrakion as an opposing lead. Also, be wary about sacrificing Mamoswine early in the game, as Ice Shard remains very useful as a revenge killing tool after its Focus Sash has been broken.
+Mamoswine is useful to lead with in order to set up Stealth Rock as soon as possible. The Focus Sash is nice to save for emergency use late-game provided that entry hazards are kept off your side of the field. Don't stay in on unfavorable matchups if Stealth Rock is already up or unnecessary on the opponent's side in order to prevent Mamoswine's Focus Sash from being lost. Ice Shard is good reason to save Mamoswine for late-game because with it, Mamoswine can revenge weakened threats such as Garchomp, Thundurus, and Altaria. Use Endeavor against walls or bulky foes Mamoswine can KO in combination with Ice Shard. Icicle Spear is useful when facing an opposing lead, as it can hit through Focus Sash (3 hits and Ice Shard KO Azelf, while 3 hits KO Breloom). Switch out against bad lead matchups such as against Skarmory and Rotom-W because you can set up Stealth Rock later, especially if Mamoswine's Focus Sash is intact. If Mamoswine has Knock Off, use it on Skarmory if the opportunity presents itself to remove its Shed Shell.
 
 Team Options
 ========
 
-This set is most suited to offensive teams that benefit from reliable Stealth Rock on the opponent's side. Wallbreakers such as Dragonite and sweepers such as Thundurus appreciate both Stealth Rock support and Mamoswine's ability to cripple an opposing Pokemon via Endeavor. Healing Wish and Defog support from Latias is heavily appreciated, ensuring Mamoswine's Focus Sash is kept intact should it not be used as a lead or not consume its Focus Sash right off the bat.
+Fairy-types such as Sylveon and Gardevoir are necessary to check Mega Sableye, which will burn Mamoswine and reflect Stealth Rock. Fast offensive teammates such as Dragonite, Talonflame, and Lopunny enjoy having Stealth Rock to guarantee OHKOs. Magnezone and Magenton are great to trap Skarmory and prevent it from using Defog. Healing Wish users such as Jirachi, Lopunny,and Latias are nice to restore Mamoswine's Focus Sash if it does not have it anymore. Lopunny also enjoys having its common revenge killer, Talonflame, weakened by Stealth Rock. Azumarill, Talonflame, and Gallade love having Slowbro and other bulky Water-types crippled by Endeavor. Celebi beats the bulky Water-types that hinder Mamoswine with Nasty Plot or Perish Song.
 
 Other Options
 ########
 
-As far as alternate moves go, Mamoswine's movepool is quite sparse. Stone Edge has good coverage with Earthquake, but is generally inferior to Mamoswine's Ice-type STAB moves and Superpower. Mamoswine can also make use of a Choice Band for more immediate power than Life Orb, but being locked into Earthquake is undesirable and easy for the opponent to exploit. Likewise, a Choice Scarf allows Mamoswine to act as a dedicated revenge killer; however, it is outclassed by other Choice Scarf users such as Landorus-T and Keldeo, which sport better typing and lock-in options.
+Toxic is an option to beat bulky Water-types, though Freeze-Dry is superior on the offensive teams Mamoswine finds itself on. Choice Band can boost Mamoswine's power without Life Orb recoil, but it prevents Mamoswine from abusing its great coverage. Rock Slide and Stone Edge have great coverage with Earthquake, but they are inferior to Mamoswine's Ice-type STAB moves. Choice Scarf is usable for revenge killing purposes. However, Ice Shard is usually enough for this role.
 
 Checks & Counters
 ########
 
-**Physical Walls**: Skarmory can switch into any attack relatively easily and set up hazards of its own or remove Stealth Rock with Defog. Defensive Rotom-W can switch into Icicle Crash and Earthquake easily and threaten to spread burns or just KO with Hydro Pump. Similarly, defensive Gyarados can stomach any single physical hit thanks to Intimidate and deal heavy damage with STAB Waterfall. Both of these Pokemon must be wary of Freeze-Dry, though.
+**Super Effective Priority Moves** Scizor and Azumarill both resist Ice Shard and can revenge kill Mamoswine with their supereffective STAB priority moves. Conkeldurr can easily tank an Ice Shard and threaten Mamoswine with a super effective Mach Punch.
 
-**Common Priority**: Scizor and Azumarill resist Ice Shard and can strike back with a super effective Bullet Punch and Aqua Jet, respectively. Similarly, Talonflame can pick off a slightly weakened Mamoswine with its faster priority in Brave Bird.
+**Mega Sableye**: Physically defensive Mega Sableye can usually tank any hit from Mamoswine and, more importantly, reflect back Stealth Rock. It also has Prankster prior to Mega Evolving, which allows it to burn Mamoswine and cripple it.
 
-**Faster Pokemon Resistant to Ice-type Attacks**: Generally, any naturally faster Pokemon that can take an Ice Shard and KO in return serve as good checks. Keldeo is a good example here.
+**Physical Walls**: Physically defensive Water-types such as Alomomola and Slowbro can usually switch in on Mamoswine, as they resist Ice and shrug off Earthquake damage. Rotom-W is an especially good [check/counter/whatever, I'll leave it to you], as it is also immune to Earthquake and can burn with Will-O-Wisp or KO with Hydro Pump. They still must watch out for Freeze-Dry, however. Skarmory is immune to Earthquake and takes any other hit while also removing Stealth Rock with Defog. Ferrothorn can usually take any hit other than Superpower and retaliate with its STAB moves or annoy Mamoswine with Leech Seed. However, Life Orb-boosted attacks will still dent Ferrothorn. Bronzong resists Ice and is immune to Earthquake thanks to Levitate, allowing it to hard wall most Mamoswine sets. The only move it must watch out for is Knock Off, which dents Bronzong when boosted by Life Orb.
+
+**Fake Out**: Lopunny and Mega Medicham can anti-lead Mamosine by using Fake Out to break its Focus Sash, then outspeed and knock it out the next turn, preventing it from setting up Stealth Rock.
+
+**Status**: Mamowsine hates status, especially burns, which cut Mamoswine's power in half and whittle it down turn by turn. Poison also hurts Mamoswine by shorting its already-low staying power due to Life Orb recoil.
+
+**Fast Attackers that Tank Ice Shard**: Metagross and Keldeo, among others, can outspeed Mamoswine, tank at least one Ice Shard, and then proceed to OHKO it. Other Pokemon that will take a hefty amount from Ice Shard, such as Gardevoir, can still revenge kill Mamowsine as long as they are healthy. 

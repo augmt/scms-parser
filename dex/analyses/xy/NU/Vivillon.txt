@@ -12,19 +12,19 @@ move 3: Hurricane
 move 4: Substitute / Hidden Power Ground
 ability: Compound Eyes
 item: Leftovers / Sharp Beak
-evs: 12 Def / 244 SpA / 252 Spe
+evs: 4 Def / 252 SpA / 252 Spe
 nature: Timid
 
 Moves
 ========
 
-This set is designed to take advantage of Vivillon's access to Quiver Dance. 97.5% accurate Sleep Powder is a great move for a setup sweeper like Vivillon allowing it to get easy setup opportunities on any slower Pokemon that aren't immune to the move. Hurricane is a strong STAB move with not many resists that is made 91% accurate by Compound Eyes. Substitute is the main option for the last slot because it makes Vivillon's setup much safer, as two boosts are often required to avoid being revenge killed by Choice Scarf users. Howerver, the downside to using Substitute is that it leaves Vivillon walled by most Rock-, Steel-, and Electric-types. Hidden Power Ground is a good coverage move to use instead, as it hits almost every Pokemon that resists Hurricane for super effective damage. Another decent option is Energy Ball in combination with Life Orb, which allows Vivillon to easily defeat Rhydon, one of its best and most common checks, while also beating other dangerous Pokemon such as Kabutops and Barbaracle.
+This set is designed to take advantage of Vivillon's access to Quiver Dance. 97.5% accurate Sleep Powder is a great move for a setup sweeper like Vivillon allowing it to get easy setup opportunities on any slower Pokemon that aren't immune to the move. Hurricane is a strong STAB move with not many resists that is made 91% accurate by Compound Eyes. Substitute is the main option for the last slot because it makes Vivillon's setup much safer, as two boosts are often required to avoid being revenge killed by Choice Scarf users. Howerver, the downside to using Substitute is that it leaves Vivillon walled by most Rock-, Steel-, and Electric-types. Hidden Power Ground is a good coverage move to use instead, as it hits almost every Pokemon that resists Hurricane for super effective damage. Another decent option is Energy Ball in combination with Life Orb, which allows Vivillon to easily defeat Rhydon, one of its best and most common checks, while also beating other dangerous Pokemon such as Seismitoad and Barbaracle.
 
 
 Set Details
 ========
 
-12 Defense EVs are used specifically to allow Vivillon to survive Adamant Mystic Water Feraligatr's Aqua Jet after Stealth Rock 100% of the time. The rest of the EVs are used to maximize Vivillon's Speed and power. Timid is the preferred nature to let Vivillon outspeed the numerous Pokemon in the base 78-86 Speed range, such as Sawk and Rotom-S, the Choice Scarf variants of which are also outsped after a boost. Leftovers is the primary item, as it gives Vivillon longevity and allows it to make more Substitutes. Sharp Beak is the best boosting item to use because it powers up Hurricane and doesn't make Vivillon lose HP like Life Orb does.
+Timid is the preferred nature to let Vivillon outspeed the numerous Pokemon in the base 78-86 Speed range, such as Sawk and Rotom-S, the Choice Scarf variants of which are also outsped after a boost. Maximum Special Attack investment is used to hit as hard as possible. Leftovers is the primary item, as it gives Vivillon longevity and allows it to make more Substitutes. Sharp Beak is the best boosting item to use because it powers up Hurricane and doesn't make Vivillon lose HP like Life Orb does.
 
 
 Usage Tips
@@ -36,14 +36,45 @@ Vivillon is a pretty straightforward Pokemon to use. Put something to sleep and 
 Team Options
 ========
 
-Due to Vivillon's Stealth Rock weakness, having a way to remove entry hazards on your side is very important. Sandslash and Kabutops are both good spinners that have decent defensive synergy with Vivillon and are reliable at doing their job. Togetic is also an option to pair with Vivillon, as it has access to Defog and a slow Baton Pass to get Vivillon in safely. Slow pivots in general are good teammates for Vivillon, for example, Probopass can double as a Steel-type trapper and Lanturn has good defensive synergy and invites in Pokemon that Vivillon can set up on. Offensive momentum grabbers such as Liepard and Rotom are similar in this regard, as they force switches and get Vivillon on the battlefield. Like most sweepers, Vivillon greatly appreciates having entry hazard support. Stealth Rock can be set by Probopass, Seismitoad, or Rhydon, and Spikes are best taken care of by Qwilfish. Crustle makes for a great partner, as it is able to set up both Stealth Rock and Spikes.
+Due to Vivillon's Stealth Rock weakness, having a way to remove entry hazards on your side is very important. Sandslash and Claydol are both good spinners that have decent defensive synergy with Vivillon and are reliable at doing their job. Togetic is also an option to pair with Vivillon, as it has access to Defog and a slow Baton Pass to get Vivillon in safely. Slow pivots in general are good teammates for Vivillon, for example, Probopass can double as a Steel-type trapper and Lanturn has good defensive synergy and invites in Pokemon that Vivillon can set up on. Offensive momentum grabbers such as Liepard and Rotom are similar in this regard, as they force switches and get Vivillon on the battlefield. Like most sweepers, Vivillon greatly appreciates having entry hazard support. Stealth Rock can be set by Probopass, Seismitoad, or Rhydon, and Spikes are best taken care of by Garbodor. Crustle makes for a great partner, as it is able to set up both Stealth Rock and Spikes.
 
+Endeavor
+########
+name: Endeavor
+move 1: Sleep Powder
+move 2: Hurricane
+move 3: Endeavor
+move 4: Energy Ball / Quiver Dance
+ability: Compound Eyes
+item: Focus Sash
+evs: 252 SpA / 4 SpD / 252 Spe
+nature: Timid
+
+Moves
+========
+
+A 97.5% accurate Sleep Powder allows Vivillon to cripple anything slower than it. Hurricane is a very strong STAB move that's boosted to above 90% accuracy with Compound Eyes, and thanks to NU's lack of Pokemon that resist Flying coupled with Hurricane's high Base Power and 30% confusion chance, it's a hassle to switch into. Endeavor allows Vivillon to cripple Pokemon once brought down to its Focus Sash; if Vivillon can cripple a wall early-game, it can open up a hole and put its team in a very favorable position. Energy Ball beats Rhydon, which would otherwise OHKO Vivillon with Rock Blast, and is useful to surprise lead Seismitoad. Quiver Dance allows Vivillon to sweep if the opportunity arises, and it prevents Vivillon from being a sitting duck waiting to be brought down to its Focus Sash, while allowing it to get off an Endeavor against faster Pokemon. Stun Spore can be used to cripple faster Pokemon such as Jynx, Typhlosion, and Archeops; the paralysis can also be followed up with a Hurricane in an attempt at parafusion. Bug Buzz can be used if your team struggles with Malamar, as it will always OHKO; it also allows Vivillon to hit Rock-types such as Regirock and Rhydon harder than it would with Hurricane.
+
+Set Details
+========
+
+Focus Sash allows Vivillon to survive almost any attack with 1 HP, allowing it to make full use of Endeavor. Maximum investment in Speed lets Vivillon outspeed as many foes as possible, allowing it to get off Sleep Powder, while maximum Special Attack is used to make Hurricane as threatening as possible. Compound Eyes is used to boost the accuracy of Vivillon's two most important moves, Sleep Powder and Hurricane.
+
+Usage Tips
+========
+
+Against most teams you lead with Vivillon and click Sleep Powder. Then, proceed to fire off Hurricanes until Vivillon is brought down to its Focus Sash. Follow that up with an Endeavor, and then enjoy your lead in the battle. If the opponent has a team structure that probably contains lead Archeops, it's best to avoid leading with Vivillon, as Archeops can simply Taunt Vivillon, preventing it from doing much of anything to Archeops. Lead Archeops is commonly seen on hyper offensive teams, and effective counter-leads include Volt Switch users such as Rotom. You can preserve Vivillon's Focus Sash against offensive teams if you find it would be more useful, as it can act as an emergency check later on in the game if it still has its Focus Sash intact. Likewise, against slower teams, you can preserve Vivillon once it gets down to 1 HP if you're certain you can keep Stealth Rock off the field; being able to get off multiple 1 HP Endeavors can be devastating to a slower, bulkier team. As this set is generally used as a lead, Sleep Powder is Vivillon's primary way of preventing entry hazards from being set up. Against potential Fake Out users such as Kangaskhan, Hariyama, and Kecleon, it's wise to switch Vivillon out to preserve its Focus Sash for later in the battle. Ferroseed is a useful teammate to punish weak Fake Outs with Iron Barbs damage; however, it must be wary of Fighting-type STAB moves from Hariyama and Kecleon.
+
+Team Options
+========
+
+Pokemon such as Archeops and Scyther appreciate foes that resist Flying, which Vivillon is capable of luring in and weakening with Endeavor, being worn down. Offensive Pokemon such as Mesprit, Kangaskhan, Rotom, Scyther, Samurott, and Lilligant appreciate the disruption Vivillon causes early on, as it grants the team instant momentum which they can take advantage of. Powerful Pokemon such as Typhlosion, Sawk, and Zangoose can really wreak havoc on an opponent's team if its dedicated stop is surprised by a crippling Endeavor from Vivillon early on. Having Steel-types, specifically Ferroseed, to cover Vivillon's hatred of Fake Out users such as Kangaskhan is appreciated. Pokemon that keep entry hazards off your side of the field, such as Xatu and Mantine, are useful to maintain Vivillon's Focus Sash if the opponent gets up entry hazards.
 
 
 Other Options
 ########
 
-Focus Sash is an option on the Quiver Dance set, giving Vivillon guaranteed setup except against multi-hit moves, but it loses its usefulness if you fail to keep Stealth Rock off the field, unlike the other items. Bug Buzz might sound like a good move to have on Vivillon, but it still leaves Vivillon walled by Steel-types and is therefore usually not worth it over Substitute or a better coverage move. Choice Specs gives Vivillon immediate power, but also increases its reliance on entry hazard removal, and even with the boost, Vivillon doesn't hit all that hard. Vivillon can also act as a serviceable anti-lead, being able to put opposing leads to sleep and getting momentum via U-turn.
+Choice Specs gives Vivillon immediate power, but also increases its reliance on entry hazard removal, and even with the boost, Vivillon doesn't hit all that hard. Vivillon can also act as a serviceable anti-lead, being able to put opposing leads to sleep and getting momentum via U-turn.
 
 
 Checks & Counters

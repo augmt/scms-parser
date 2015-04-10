@@ -1,100 +1,79 @@
 Overview
 ########
 
-Blaziken takes the title of being the first, and currently sole, starter to be banished to Ubers thanks to its  Speed Boost ability. With Speed Boost, Blaziken can outspeed and KO many threats as well as pass boosts to teammates  thanks to Baton Pass. Blaziken makes its second debut in Ubers with a new boon: a Mega Evolution. It thus continues to be a formidable threat in the Ubers metagame; with base 100 Speed when Mega-Evolved, it can come in and outspeed the common base 90 Speed Pokemon in the Ubers metagame. Blaziken can use a physical attacking set to sweep opposing teams, or, if you want a different Mega Evolution for your team, a Life Orb can be used; however, Blaziken isn't held to only utilizing an offensive set as it can also run an effective Baton Pass set. The nerf to weather this generation is a mixed bag for Blaziken. On one hand, it doesn't have ever-present sun support anymore to boost its power; on the other hand, the rain that used to cripple Blaziken doesn't last forever either, so Drought is no longer needed to counter Kyogre's rain.
+Returning to another round of Ubers as the first , and currently only, starter Pokemon to be Uber, Blaziken has become notorious for its immediate strength and fearsome ability to force switches and wallbreak with Swords Dance. However, the shift towards bulky offense is a far cry from the hyper offensive teams that Blaziken fit into in XY, and it just isn't much of a place for a glass cannon like Blaziken to thrive. Newcomers Primal Groudon and Mega Salamence check Blaziken well, and dominance of the heavy weather abilities have stolen away its best wallbreaking tool: five-turn sun. Being prone to all forms of entry hazards and over-reliant on Flare Blitz puts Blaziken on a timer, and its subpar 80 / 80 / 80 bulk as Mega Blaziken means it is not going to last long. Blaziken's best set also takes up a Mega slot, and it suffers quite a bit of opportunity cost in comparison to other Mega Evolutions such as Mega Salamence or Mega Gengar. Despite all of this, Blaziken remains one of the few nightmares of balance and stall, and still packs enough juice to remain a serious threat despite how bulky the metagame has gotten.
 
-However, everything is not as perfect as it may seem for the speedy chicken. It has rather poor bulk even with the improvements of the Mega Evolution, leaving it open to being revenge killed by priority, making it rather tough to switch it in and difficult to set up. It also depends on Flare Blitz as its STAB move, which has recoil that further burdens its poor bulk. Its Mega Evolution set, which is arguably its best set, has an opportunity cost compared to other available Megas such as Mewtwo and Gengar, albeit a very small one. Nevertheless, with proper switching in and setting up, Blaziken is a formidable threat to look out for.
 
 Offensive
 ########
-name: Blaze is Back
-move 1: Low Kick
+name: Long Live Blaze
+move 1: Protect / Swords Dance
 move 2: Flare Blitz
-move 3: Swords Dance / Protect
-move 4: Protect / Knock Off
+move 3: Low Kick
+move 4: Stone Edge / Knock Off
 ability: Speed Boost
 item: Blazikenite / Life Orb
-evs: 4 HP / 252 Atk / 252 Spe
-nature: Adamant / Jolly
+evs: 252 Atk / 4 Def / 252 Spe
+nature: Adamant
+
 
 Moves
 ========
 
-Low Kick is Blaziken's Fighting-type STAB dealing maximum damage against the many heavy Pokemon in the Ubers metagame; it is also not as risky as High Jump Kick. Flare Blitz is Blaziken's Fire-type STAB; when used in conjunction with Low Kick, Blaziken hits most Pokemon in Ubers for super effective or neutral damage. Swords Dance allows you to get a quick +2 Attack boost to massively increase damage output. Protect not only provides guaranteed Speed boosts, but also lets Blaziken scout your opponent's move. Knock Off is another great utility move as it allows Blaziken to deal massive damage to Pokemon that resist its STAB moves. such as the Giratina formes; it also allows you to catch your opponent on a switch. potentially taking off an otherwise useful item from their switch-in. Baton Pass can be used on this set to provide Speed boosts to other team members if Blaziken's HP is low; always make sure to use Protect with Baton Pass since it will guarantee Speed boosts. High Jump Kick can be an alternative to Low Kick, offering 10 more Base Power at the cost Blaziken dealing massive damage to itself if it misses; however, Low Kick is preferred, as High Jump Kick only deals more damage to the rare Quagsire. Stone Edge can be used instead of Knock Off if your team needs to damage Ho-Oh; it also has the added benefit of denting Lugia and physically defensive Yveltal.
+Protect is a fantastic move on Blaziken. It not only allows Blaziken to safely Mega Evolve, but it also lets Blaziken rack up Speed boosts and scout the opponent's plays. Swords Dance turns Blaziken into a disgustingly powerful wallbreaker with only a single turn of setup. However, keep note that opportunities to set up are quite limited because of how lackluster Blaziken's bulk is; so for overall consistency, Protect is much-preferred. Flare Blitz is ridiculously strong and is Blaziken's most consistent physical STAB attack. Low Kick is also very powerful and hits most of the metagame as a 120 Base Power move due to how heavy the tier is, and in tandem with Flare Blitz lets Blaziken hit almost the entire tier for at least neutral damage. High Jump Kick is an option over Low Kick in order to OHKO Mega Diancie and to beat the extremely rare Unaware Quagsire. With a Swords Dance boost, Blaziken can even OHKO 56+ Defense Primal Groudon after Stealth Rock and one layer of Spikes with High Jump Kick. Stone Edge is the best coverage move for Blaziken because it provides a way for Blaziken to hit Mega Salamence hard and has other select targets such as Ho-Oh, Lugia, and physically defensive Yveltal. Another superb coverage option is Knock Off, as it OHKOes Latias after Stealth Rock and Latios regardless of prior damage and is Blaziken's only way to hit Giratina for considerable damage. In the last slot, Baton Pass can be put to good use. For instance, if Blaziken has grabbed a Swords Dance boost but is face-to-face with a Pokemon it does not have a good type matchup against, such as Primal Groudon, Blaziken can pass its boosts to a more appropriate sweeper for the situation, such as Rayquaza.
+
 
 Set Details
 ========
 
-Maximum investment in both Attack and Speed allows Mega Blaziken to come in and immediately get to work, capitalizing on Blaziken's offensive stats and allowing it to become the fearsome wallbreaker it is. The slashes represent three possible sets that you can run: Protect and three attacks, Swords Dance and three attacks, or Swords Dance and Protect with two attacks. An Adamant nature is used to OHKO Pokemon such as Kyogre that are not normally OHKOed if using Jolly. Jolly can be used over Adamant in order to allow Blaziken to outspeed Choice Scarf Pokemon such as Zekrom after one or two boosts, depending on whether it is in Mega forme or using the Life Orb set. However, by using Jolly, Blaziken loses offensive prowess it would otherwise enjoy. Life Orb Blaziken allows you to use a different Mega Evolution on your team.
+Maximum Attack and Speed investment give Blaziken the immediate strength that it is most well-known for, immediately putting it to work upon entering the battlefield. An Adamant nature should always be used, as it secures some key OHKOs such as those on Latios and Latias with Knock Off and offensive Kyogre with Low Kick. The slashes represent two possible sets; Protect + 3 attacks or Swords Dance + 3 attacks. A set of Swords Dance + Protect + 2 attacks can be used, but Blaziken will miss the coverage against Mega Salamence or the Giratina formes. If the opportunity cost of using Mega Blaziken is too much for one to even consider using it, do realize that Life Orb is a fine replacement over the Blazikenite. The two main concerns of using Life Orb is the added 10% recoil after every landed attack and the more fragile 80 / 70 / 70 bulk, meaning Blaziken will be worn down even faster to Flare Blitz recoil and be even further susceptible to priority attacks. However, normal Blaziken with a Life Orb is, in fact, slightly stronger than Mega Blaziken, and the open Mega slot can vastly expand teambuilding possibilities.
+
 
 Usage Tips
 ========
 
-Be wary about directly switching Blaziken in as its relatively low bulk leaves its vulnerable to taking heavy damage. In addition, watch out for priority moves that can revenge kill it, such as Extreme Speed from Arceus or Rayquaza. Protect allows Blaziken to gain +1 from Speed Boost, helping you easily build momentum; it also offers added utility in seeing what move your opponent was going for, giving you an advantage. Don't just spam Flare Blitz blindly, as recoil racks up quickly, leaving Blaziken vulnerable to revenge killers. If you opt for Knock Off, it allows Blaziken to catch Pokemon on the switch and cripple them; it even allows more damage against Giratina, a common check to Blaziken.
+Blaziken has very poor bulk, so it shouldn't be switched into any neutral or powerful resisted attacks. To get it into battle, it is important to double switch or bring it in on something that he has a severe type advantage over, such as Steel-types. If Protect is used, feel free to use it liberally, as it allows Blaziken to gain +1 Speed every turn it is used, effortlessly giving Blaziken offensive momentum and pressuring the opposition. It also has the utility of revealing what the opponent would have done the turn it is used, allowing you to utilize that information to either make your own predictions or to cause your opponent to overthink. However, do note that your opponent can predict a Protect to set up their own Pokemon. Do not mindlessly spam Flare Blitz, as the recoil racks up quickly, especially if Life Orb is used. Your opponent can easily take advantage of this and pile up the recoil damage from Flare Blitz and perhaps Life Orb by luring Flare Blitz with Pokemon that resist Fighting and switching into Fire-type resistances, ultimately causing Blaziken to faint from recoil. To avoid this, it is important to make predictions and capitalize on the switches Blaziken forces. Also, be aware of potential priority users such as Arceus, Rayquaza, and Deoxys-A, as they can make short work of Blaziken before it even gets the chance to do some work.
+
 
 Team Options
 ========
 
-Stealth Rock support helps Blaziken deal with Lugia, Ho-Oh, and Yveltal, so Pokemon like Groudon or Landorus-T make great teammates. Groudon also helps Mega Blaziken by setting up sun and dispelling rain; it also checks Extreme Killer Arceus with its great physical bulk and can retaliate with an attack or cripple with Thunder Wave. Groudon can also run Lava Plume in order to catch opposing Landorus-T off guard and score a burn, leaving Landorus-T crippled for the rest of the match. Landorus-T as a teammate itself provides Intimidate support and checks Ho-Oh, a counter to Blaziken. Landorus-T also carries U-turn which gets Blaziken in safely. Yveltal breaks many of the Pokemon that can wall Blaziken, such as the Giratina formes. Xerneas can be used as another offensive sweeper that is also able to deal with both Giratina formes. Wobbuffet is an interesting team member as it is able to trap and take out any checks or counters to Blaziken; it can be used with Xerneas carrying Hidden Power Fire to create a powerful core that benefits Blaziken greatly. Palkia is a great team member as it can sponge water moves thrown at Blaziken and also deal with Rayquaza, which can otherwise revenge kill Blaziken. U-turn/Volt Switch users such as Genesect and Zekrom can get Blaziken in safely. Extreme Killer Arceus can be a good team member as well; Blaziken can weaken the opponent's team by KOing or debilitating Arceus's checks, allowing Arceus to come in and sweep.
+Wobbuffet is an outstanding partner to the Swords Dance variant. It can easily trap support Pokemon and provide both Encore support for easy setup opportunities and has access to Safeguard to halt any status users, namely ones with access to Prankster Thunder Wave. Yveltal and other Dark-types work wonders for Blaziken. They can easily check and even dispose of both Lugia and Giratina, two of Blaziken's premier checks. Extreme Killer Arceus is the best offensive partner for Blaziken, mainly because of how much their checks overlap. In this core, Blaziken will heavily dent the opposition and even eliminate some of Arceus's checks, such as Mega Scizor, Skarmory, and Ferrothorn. With such Pokemon weakened or disposed of, Arceus can more successfully pull off a sweep. A good check to Primal Groudon is mandatory, as Blaziken will need it either removed from battle or weakened significantly; levitating Pokemon such as Latios, Latias, and Landorus-T make for excellent partners, and the latter can even provide Stealth Rock support. Because Blaziken is vulnerable to all forms of entry hazards, Rapid Spin support is highly appreciated. A fantastic user of the move is Forretress, which can provide Spikes and Toxic Spikes support while also being able to get Blaziken into battle unscathed with its slow Volt Switch. Defog support from the likes of Latios and Latias can be appreciated, but keep in mind that Blaziken needs entry hazards on the opponent's side of the field to have an easier time sweeping. Sun support is invaluable to Blaziken, but it is quite difficult to fit on teams because how dominant Primal Groudon is over normal Groudon.
 
-Baton Pass
-########
-name: Baton Pass
-move 1: Baton Pass
-move 2: Protect
-move 3: Substitute / Roar
-move 4: Flare Blitz
-ability: Speed Boost
-item: Leftovers
-evs: 4 HP / 252 Atk / 252 Spe
-nature: Jolly
-
-Moves
-========
-
-Baton Pass is used to pass on Speed boosts to another team member. Protect allows Blaziken to gain guaranteed Speed boosts and is absolutely necessary for this set. Substitute used in conjunction with Protect allows you the best option in getting Speed boosts as alternating between them lets Blaziken get boosts without taking much damage. On the other hand, Roar is an interesting option that allows you to prevent Blaziken from being phazed out and losing its Speed boosts; it also prevents opponents from setting up on it. Flare Blitz provides a reliable and powerful physical Fire-type STAB to deal with opposing Pokemon with Taunt.
-
-Set Details
-========
-
-Maximum Attack and Speed let Blaziken switch in, use a Protect, and begin to outspeed the opponent while having respectable Attack in case Flare Blitz needs to be used. By investing in Attack, Blaziken is not a sitting duck in front of setup sweepers and can actually deal significant damage while gaining boosts. A Jolly nature is used here to ensure a Substitute after your first Protect. After one boost, Blaziken can outspeed many of the non-Choice Scarf Ubers Pokemon. This prevents Blaziken from taking severe damage or being completely knocked out. Its survival is necessary to pass on Speed boosts to the rest of the team. Leftovers is used to increase Blaziken's longevity; it works great in conjunction with Protect as Blaziken gets a Speed boost and +6.25% recovery.
-
-Usage Tips
-========
-
-Watch out for potential Taunt users like Deoxys-S as they can cripple this entire set. Protect is a cornerstone of this set, allowing Blaziken to stay in and get Speed boosts. It also provides utility as you can scout what move your opponent is going for, allowing you to plan accordingly. A good strategy is to come and and use Protect to get a Speed boost. Then, alternate with Substitute and continue to do so to maximize your Speed boosts for another Pokemon. Also, a predicted switch allows you to use Substitute and then Protect on the next turn, allowing Blaziken to gain a Speed boost and pass on a Substitute to another Pokemon on your team. Roar is used mainly to prevent Blaziken from being phazed out. It is faster than most phazers after one Speed boost, so its Roar will go first and prevent it from being switched out. Watch out for priority moves such as Extreme Speed or Shadow Sneak that can mortally damage Blaziken. By passing your Speed boosts to another Pokemon that is powerful but slow, you are able to turn the tide against your opponent and potentially sweep their team with your Speed-boosted switch-in.
-
-Team Options
-========
-
-Groudon can be used to help boost Blaziken's Flare Blitz by setting up the sun and dispelling any rain; sun support also lowers any damage from Water-type moves. You can Baton Pass Speed boosts to terrifying offensive Pokemon plagued by their sub-par Speed, allowing them to pull off sweeps that would otherwise be difficult. These include Life Orb or Choice Band Zekrom, Mega Kangaskhan, Life Orb or tank Ho-Oh, Lustrous Orb or Life Orb Palkia, Choice Specs Kyogre, or Choice Band Groudon. By passing to these Pokemon, you are able to use Baton Pass Blaziken to its fullest.
 
 Other Options
 ########
 
-Brave Bird can be utilized as it provides neutral damage against most Pokemon, but the only common threats it hits for super effective damage are Mega Mewtwo-X and Fighting Arceus, which take massive damage from Flare Blitz as is. Otherwise, Brave Bird is another recoil move that shouldn't really be used over any other moves on any set. Rock Slide can be used, but its main target is Ho-Oh. Stone Edge is a better option in order to deal more damage to Yveltal and Lugia. Shadow Claw can be used instead of Knock Off to deal more damage to Mega Gengar and Giratina-O since their items can't be knocked off. However, it doesn't have as much utility against opposing tanks and switch-ins by knocking off Leftovers or Choice items. Boosting moves such as Swords Dance and Bulk Up can be used on the Baton Passing set, but they have a marginal or non-existent bonus for special attackers and require more turns to set up,  limiting Blaziken's longevity. Overheat can be used on the Baton Pass set to cut down on recoil damage, but it isn't consistent damage-wise. By lowering Special Attack, it limits your Baton Passing to physical attackers since special attackers won't appreciate lowerd Special Attack. Choice Band can be used to grant Blaziken an immediate power boost, but is constrictive and counterproductive with Speed Boost. Blaziken won't be able to switch attacks, making it easily blocked by opposing tanks such as Water Arceus and Fairy Arceus, forcing it to switch out and lose its Speed boosts.
+A dedicated Baton Pass set consisting of Baton Pass, Protect, Substitute or Roar, and Flare Blitz with Leftovers and an EV spread of 12 HP / 244 Atk / 252 Spe and a Jolly nature can be used, but it is better done by Scolipede, whose main niche lies in being a Spikes-setting lead. Hidden Power Ice and some Special Attack investment can be used to OHKO Gliscor, Landorus-T, Mega Salamence, and Rayquaza, but has just about no utility outside of that. Shadow Claw can be used on the offensive set to hit Giratina-O a little bit harder than Blaziken would with Knock Off, but the secondary effect of Knock Off and the added Base Power when hitting a Pokemon holding an item will be missed. Earthquake may also be used to OHKO Mega Diancie and Relaxed Groudon after Stealth Rock damage with a Swords Dance boost, but it causes Blaziken to have very redundant type coverage for what it needs to be able to hit in the tier. Hone Claws alongside High Jump Kick is usable in order to guarantee that High Jump Kick always lands, but the immediate power of a Swords Dance boost is much-preferred.
+
 
 Checks & Counters
 ########
 
-**Giratina**: Both Giratina formes can take anything Blaziken throws at them except for a boosted Knock Off and are able to eventually KO it or phaze it out.
+**Giratina**: Giratina is a nightmare for Blaziken. Both formes are immune to Blaziken's Fighting-type STAB moves and resist Flare Blitz, allowing them to comfortably sponge any of Blaziken's attacks bar a boosted Knock Off. They can also hit Blaziken hard with Dragon Tail, phazing it and any boosts that it has acquired. Giratina-O especially poses a threat to Blaziken with its powerful Draco Meteor, Dragon Claw, and Earthquake, even picking off weakened Blaziken with Shadow Sneak.
 
-**Gyarados**: Gyarados resists both of Blaziken's STABs, letting it easily come in and get an Attack drop from Intimidate. It can also threaten to KO Blaziken with Waterfall.
+**Lugia**: If Multiscale is intact, Lugia will wall even a Swords Dance-boosted Blaziken to hell and back. It won't enjoy losing its Leftovers to Knock Off, but it can hit back hard with Aeroblast, phaze out Blaziken with Whirlwind, or Toxic stall while recovering any damage taken with Roost. However, if Lugia switches into Stealth Rock, a boosted Blaziken will plow through it with Stone Edge or Knock Off.
 
-**Landorus-Therian**: Landorus-T can switch in and take a hit with Defense investment and Intimidate, although it doesn't appreciate a boosted Flare Blitz. It is able to KO Blaziken with Earthquake as well.
+**Primal Groudon**: Defensive Primal Groudon will struggle with the Swords Dance variant, but it can comfortably tank any unboosted hit that Blaziken can throw at it. In return, Primal Groudon can easily dispose of Blaziken with a Ground-type STAB move. But Primal Groudon is easily worn down by entry hazards, and it will fall to a salvo of Low Kicks if it has switched into Stealth Rock too many times.
 
-**Fairy Arceus and Water Arceus**: Physically defensive variants can tank a few hits. They each resist one of Blaziken's STAB, but don't appreciate the other STAB that it can go for.
+**Diancie**: Diancie's light weight and Rock typing allow it to take pitiful damage from Low Kick and Flare Blitz, respectively. Disappointingly, Mega Diancie is 2HKOed by Flare Blitz regardless of whether or not it has a Defense-lowering nature, but it can hit Blaziken back with a powerful Earth Power before fainting to repetitive Flare Blitzes. Both Mega and non-Mega Diancie have huge trouble with the rare High Jump Kick, however.
 
-**Ghost Arceus**: Ghost Arceus is immune to Blaziken's Fighting-type STAB and can retaliate back with a Judgment. However, it must be wary of Flare Blitz.
+**Mega Salamence**: Mega Salamence will give Blaziken a run for its money, as it can utilize Intimidate before it Mega Evolves to comfortably tank any of Blaziken's STAB attacks. However, it'll succumb to a +1 Stone Edge if it lacks significant bulk investment and has taken Stealth Rock damage.
 
-**Quagsire**: Unaware ignores Blaziken's stat boosts and Quagsire can attack back with its Water- and Ground-type STABs; it doesn't fare well against High Jump Kick though.
+**Rayquaza**: Rayquaza's severe type advantage over Blaziken allows it to be a decent check, especially because it has Extreme Speed. Even so, if Rayquaza has taken Stealth Rock damage, it will faint to a +2 Flare Blitz or Knock Off, and even to an unboosted Stone Edge.
 
-**Kyogre**: Kyogre can come in and set up rain, which severely limits Blaziken's coverage and helps out Pokemon that resist or are immune to Blaziken's Fighting-type STAB such as Fairy Arceus and Ghost Arceus. Kyogre also threatens to KO Blaziken with its Water-type STAB attacks.
+**Landorus-T**: Landorus-T can keep Blaziken in check with its respectable physical bulk after the Intimidate drop and super effective Earthquake, but it is easily worn down by Stealth Rock and has no reliable recovery to withstand Blaziken's assaults.
 
-**Phazers**: Phazers are able to Whirlwind/Roar/Dragon Tail the Baton Pass set. They can also force the offensive set out, canceling its Speed boosts.
+**Gyarados**: Non-Mega Gyarados resists both of Blaziken's STAB moves and has Intimidate to back up its physical bulk. It can also play mind games with Blaziken on the turn it Mega Evolves, forcing Blaziken to choose between landing a Low Kick in attempt to predict the Mega Evolution or to go for a Stone Edge in attempt to predict that Gyarados stay unevolved; even switching out entirely can result in a set-up Gyarados. It also threatens Blaziken with its STAB Waterfall or powerful Earthquake, both with the strength to put Blaziken out of the match.
 
-**Prankster Users**: Thundurus and Klefki can use priority Thunder Wave to cripple the offensive set, and Thundurus can also Taunt to shut down the Baton Pass set.
+**Ho-Oh**: Stone Edge mauls Ho-Oh, but with a physically defensive set, Ho-Oh can wall even a boosted Blaziken on the condition that it lacks Stone Edge and Stealth Rock is clear of the field.
 
-**Poison**: Poison limits Blaziken's longevity as it increases in damage each turn and is especially harmful for the Baton Pass set, lowering the time Blaziken can stay in and thus the amount of boosts it can pass on.
+**Arceus-Ghost**: An immunity to Low Kick helps Arceus-Ghost, but it will take a big chunk of damage from Flare Blitz if it lacks significant Defense investment. However, after the recoil received from Flare Blitz, Blaziken will be in KO range of Arceus-Ghost's powerful Judgement.
 
-**Revenge Killers**: Pokemon such as Normal Arceus or Rayquaza with Extreme Speed are able to revenge kill Blaziken due to its paltry bulk and recoil damage.
+**Fairy, Psychic, and Poison Arceus**: Fairy, Psychic, and Poison Arceus resist Low Kick, but they'll take a huge number from Flare Blitz unless they have significant Defense and HP investment. However, after Flare Blitz recoil, Blaziken is put into OHKO range of Fairy Arceus and Poison Arceus's powerful Judgement, wheras Psychic Arceus OHKOes Blaziken with Psyshock or Judgement regardless of prior damage. Poison Arceus also experiences great opportunity cost from being completely helpless against Primal Groudon unless it carries Calm Mind and Earth Power; but by that measure, Poison Arceus would no longer be capable of checking Blaziken because it then eschews power for bulk.
+
+**Water Arceus**: Water Arceus's resistance to Flare Blitz is a great benefit for it, but it will easily fall to a volley of Low Kicks, especially after entry hazard damage. Although it fares poorly against Primal Groudon, Water Arceus threatens Blaziken with an OHKO from its Water-type Judgment.
+
+**Entry Hazards**: Blaziken is prone to all forms of entry hazards and is forced out by quite a few things depending on what coverage it runs, forcing Blaziken to be further worn down by entry hazards each time it switches in.
+
+**Strong Priority Attacks**: Strong priority users such as Extreme Killer Arceus, Deoxys-A, and Rayquaza effectively provide damage control to Blaziken's parade, picking it off after some prior damage or hitting it first to force a faint from Flare Blitz recoil.

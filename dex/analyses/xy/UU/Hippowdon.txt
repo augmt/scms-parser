@@ -1,88 +1,84 @@
 Overview
 ########
 
-Hippowdon has established itself as one of UU's best walls for a number of reasons. The first is its great 108 / 118 / 72 bulk, which allows Hippowdon to run effective physical and mixed defensive sets. Its Ground typing further aids Hippowdon, as it allows it to stomach Rock- and Electric-type attacks with ease. Hippowdon also has access to great support moves, most notably Stealth Rock and Whirlwind, which allow it to effectively wear down at the opponent in conjunction with Sand Stream. It also has access to reliable recovery in the form of Slack Off, making it very hard to KO. Unfortunately, Hippowdon does have some flaws, particularly its low Speed, which means it will always have to take an attack before being able to do anything. Its Ground typing is also a mixed blessing; while it provides some helpful resistances, it also has some nasty weaknesses to common attacking types such as Water, Grass, and Ice. Finally, while Hippowdon's bulk is good, it can still have trouble switching into powerful wallbreakers such as Choice Band Victini.
+Hippowdon is one of UU's best physical walls. It acts as a great check to a multitude of offensive threats, such as Darmanitan and Mega Beedrill. Thanks to its great bulk, it's also a good user of Stealth Rock. Hippowdon also resists Stealth Rock, so it's not worn down too easily by entry hazards, and it has reliable recovery in Slack Off. However, its low Speed can be a problem, as it is easily outpaced by many Pokemon.
 
-Physically Defensive
-###############
-name: Physically Defensive
+Physical Wall
+########
+name: Physical Wall
 move 1: Stealth Rock
 move 2: Slack Off
 move 3: Earthquake
-move 4: Rock Slide / Toxic / Whirlwind
-ability: Sand Stream / Sand Force
-item: Leftovers / Smooth Rock
+move 4: Ice Fang / Whirlwind / Toxic
+ability: Sand Stream
+item: Leftovers
 evs: 252 HP / 252 Def / 4 SpD
 nature: Impish
 
 Moves
 ========
 
-Stealth Rock is the first move of this set, as with Hippowdon's great natural bulk, it is one of the most durable and reliable Stealth Rock setters in the tier. Slack Off is a necessity in order to keep Hippowdon healthy throughout the course of the match. Earthquake is a reliable STAB option that actually can do a surprising amount of damage coming off Hippowdon's good Attack stat. Rock Slide is the preferred option in the last slot, as it allows Hippowdon to hit Pokemon that are immune to Earthquake such as Mega Aerodactyl for super effective damage. Toxic can be effective, however, as it can rack up a lot of residual damage when combined with Stealth Rock and sandstorm damage. Whirlwind is another option that can be used to phaze setup sweepers while racking up entry hazard damage.
+Hippowdon's great bulk makes it a great user of Stealth Rock, as it can come in many times in a match to set it up. Slack Off is a must on Hippowdon, keeping it healthy so that it can consistently switch in on Pokemon that it walls. Earthquake is a reliable STAB move that can hit surprisingly hard coming off Hippowdon's decent Attack stat even without investment. Ice Fang hits Flying-type Pokemon and Levitate users, which are immune to Earthquake, such as Mega Aerodactyl, Salamence, and Hydreigon, while also catching Grass-types on the switch. Whirlwind phazes sweepers that try to use Hippowdon as setup bait. Toxic is another option to rack up residual damage in tandem with sandstorm damage. You can also opt to run Rock Slide to hit Rotom-H, but it is generally not worth it, as Rotom-H can easily cripple Hippowdon with either Trick or Will-O-Wisp.
 
 Set Details
-===========
+========
 
-Max HP and max Defense investment with an Impish nature are used to help boost Hippowdon's best defensive stat, making it a great physical wall. Leftovers is used for passive recovery, which is great on a defensive Pokemon such as Hippowdon. Smooth Rock can be helpful, however, as it extends the duration of sand, allowing Pokemon such as Stoutland to their job more effectively. Sand Stream is the preferred ability, as it can wear down on the opponent while also crippling the opponent's recovery moves, such as Synthesis and Moonlight. However, if sandstorm hurts your team members' ability to recover HP, Sand Force can be used instead.
+252 HP EVs and 252 Defense EVs along with an Impish nature maximize Hippowdon's good physical bulk. Sand Stream allows Hippowdon to wear down the opponent's Pokemon while also weakening recovery moves that rely on the weather, such as Morning Sun. Sandstorm damage can also be combined with Toxic damage and entry hazards to whittle down at the foe's HP. Sand Force can be used instead if the effects of Sand Stream are not beneficial to the rest of your team. Leftovers gives Hippowdon passive recovery, allowing it to avoid possible 2HKOs.
 
 Usage Tips
-==========
+========
 
-When using Hippowdon, the game plan is simple: Tank hits, set up Stealth Rock, and focus on wearing the opponent down through entry hazard, sand, and potential Toxic damage. Slack Off should be used often to keep Hippowdon healthy throughout the match and help it wall the opponent more effectively. It's important to know Hippowdon's limits; while it's a great physical tank, it still can't switch into powerful special attackers and physical wallbreakers such as Chandelure and Choice Band Victini.
+Try to set up Stealth Rock early in the game to wear down the opponent's Pokemon. Use Hippowdon to wear down opposing Pokemon through the combination of Toxic and sandstorm damage. Slack Off should be used whenever Hippowdon is low on health to keep it healthy enough to check physical attackers multiple times throughout the game. Even though Hippowdon is a very sturdy physical wall, it does not enjoy taking repeated strong neutral hits such as Mienshao's High Jump Kick, so know its limits.
 
 Team Options
-============
+========
 
-Grass-types such as Roserade and Celebi can easily take Water- and Grass-type attacks for Hippowdon, making them some of the best partners. Roserade can also help set up Spikes and Toxic Spikes, allowing it to wear down the opponent more easily. Water-types such as Vaporeon and Suicune can take Ice- and Water-type attacks with ease. Jellicent can spinblock, while Mega Blastoise, Starmie, Empoleon, and Tentacruel can remove entry hazards. Tentacruel can also lay down Toxic Spikes to help further wear down the opposing team. Specially defensive Pokemon such as Umbreon, Florges, and Snorlax can take on the powerful special attackers Hippowdon dislikes. Flying-types also make good partners, as Hippowdon can take on the Rock- and Electric-type moves they hate. Crobat provides helpful Defog support, while Mega Aerodactyl receives a Special Defense boost in the sand. Sand Rush Stoutland can use Hippowdon's Sand Stream ability to achieve a large boost to its Speed, which turns it into a fast and powerful revenge killer and late-game cleaner.
+Hippowdon likes teammates that can take care of strong special attackers. It also enjoys cleric support, as it has no way of getting rid of crippling status effects such as poison and burn. This makes Blissey a very good partner. Hippowdon also appreciates teammates that can switch into Water-, Ice-, and Grass-type attacks repeatedly, such as Tentacruel, which can also spin away entry hazards. Flying-type Pokemon such as Crobat are also good teammates, as Hippowdon can easily tank the Rock- and Electric-type moves that they are weak to. However, they share an Ice-type weakness, so watch out for Pokemon that carry Ice-type coverage moves. Chesnaught and Roserade are also great partners for Hippowdon. Chesnaught can set up Spikes, while Roserade can set up Toxic Spikes, forming a great entry hazard stacking core with Hippowdon. Both of them can also repeatedly take Grass- and Water-type attacks for Hippowdon, but they all must be wary of Ice-type moves.
 
-Specially Defensive
-###############
-name: Specially Defensive
+Special Wall
+########
+name: Special Wall
 move 1: Stealth Rock
 move 2: Slack Off
 move 3: Earthquake
-move 4: Rock Slide / Toxic / Whirlwind
-ability: Sand Stream / Sand Force
-item: Leftovers / Smooth Rock
+move 4: Ice Fang / Whirlwind / Toxic
+ability: Sand Stream
+item: Leftovers
 evs: 252 HP / 4 Def / 252 SpD
 nature: Careful
 
 Moves
 ========
 
-Hippowdon is a great Stealth Rock setter thanks to its durability and access to reliable recovery. Slack Off is used in the second slot for reliable recovery, keeping Hippowdon healthy throughout the match. Earthquake is used in the third slot as it provides a good STAB attack that can actually do decent damage to the opponent. Rock Slide is the preferred move in the last spot as it can hit Flying-type Pokemon such as Mega Aerodactyl. Toxic can be used, however, to cripple both set up sweepers and walls, as well as rack up a lot of residual damage along with sand and Stealth Rock. Whirlwind is another option to phaze setup sweepers and can rack up entry hazard damage.
+Hippowdon is a great Stealth Rock setter due to its reliable recovery in Slack Off and its good natural bulk. Slack Off keeps Hippowdon healthy throughout the match. Earthquake is a strong STAB move that can do decent damage even without Attack investment, while Ice Fang hits Flying-type Pokemon such as Crobat, as well as Hydreigon and Roserade. Whirlwind racks up residual damage if entry hazards are up and phazes setup sweepers. Toxic can be used with Sand Stream to wear down bulky walls such as Porygon2. Rock Slide is another option to hit Flying-types such as Mega Aerodactyl; however, Ice Fang does the same thing while also hitting Grass-types on the switch.
 
 Set Details
-==========
+========
 
-Max HP and max Special Defense investment with a Careful nature turns Hippowdon into a great mixed defensive tank, allowing it to take both physical and special hits. Leftovers is used to help Hippowdon heal off residual damage. Smooth Rock is an option, however, to extend the duration of Sand Stream, helping Pokemon such as Stoutland effectively do their job. Sand Stream is the favored ability, as it's great for wearing down the opponent in combination with entry hazard and potential Toxic damage. It also hinders the opponent's recovery moves, such as Moonlight and Synthesis. However, if Sand Stream harms your teammates' ability to recover, then Sand Force can be used instead.
+252 HP and 252 Special Defense EVs with a Careful nature maximize Hippowdon's special bulk. Leftovers is the best item, as it gives Hippowdon passive recovery, stopping it from being worn down too easily. Sand Stream is the preferred ability to wear down opposing Pokemon, as well as weakening recovery moves that rely on the weather, such as Moonlight. Sand Force can be used instead if the effects of sandstorm are detrimental to your team.
 
 Usage Tips
-==========
+========
 
-In general, Hippowdon should be tanking hits, setting up Stealth Rock, healing, and wearing the opponent down through residual damage. It's important to keep Hippowdon's HP as high as possible at all times, or else Hippowdon itself will get worn down. Even if Hippowdon is using a specially defensive spread, this doesn't mean it's able to take on extremely powerful special attackers. Instead, it should be used as a mixed tank that is capable of tanking moderately powerful special and physical attacks. Most notably, this set functions much better against Electric-types, as it's able to stomach their Hidden Power Ice or Grass much easier.
+Use Hippowdon's good bulk to set up Stealth Rock throughout the match. Try to keep Hippowdon healthy at all times by using Slack Off whenever it's health gets low, or else it will be prone to being worn down. Hippowdon is great at tanking hits, so use it to wear down the opposing team through residual damage. Specially defensive Hippowdon can check many powerful special attackers, such as Hydreigon, Alakazam, Mega Ampharos, mixed Infernape, and Mega Pidgeot — Pokemon that physically defensive Hippowdon cannot even hope to switch into. Hippowdon has excellent physical bulk even when uninvested, so with the Special Defense EVs, Hippowdon becomes a great mixed wall. However, it loses the ability to counter particularly powerful physical attackers, such as Life Orb Mienshao, due to its lack of Defense investment. Keep in mind that even if Hippowdon is running a specially defensive spread, it still has trouble switching in on very powerful special wallbreakers such as Choice Specs Chandelure.
 
 Team Options
-=============
+========
 
-Grass-types such as Roserade and Celebi make excellent partners, as they can easily sponge the Water- and Grass-type moves Hippowdon hates. Roserade can also set up Spikes and Toxic Spikes, which in combination with Stealth Rock and Hippowdon's Sand Stream, can easily wear down the opponent. Water-types such as Vaporeon and Suicune make for great partners, as they can help tank Water- and Ice-type attacks for Hippowdon. Mega Blastoise, Starmie, Empoleon, and Tentacruel can remove entry hazards, with the latter also being able to set Toxic Spikes up. Jellicent can block Rapid Spin, making it especially helpful. Hippowdon can easily take on Rock- and Electric-type attacks, making Flying-types good partners. Crobat can remove entry hazards via Defog, while Mega Aerodactyl appreciates the Special Defense boost it receives from the sand. Choice Band Stoutland with Sand Rush loves Hippowdon's sand support, as it turns it into a powerful and fast attacker.
+Bulky Water-types such as Suicune can take Water- and Ice-type attacks for Hippowdon. Stoutland appreciates sand support, which turns it into a powerful and fast physical attacker. Chesnaught forms an entry hazard stacking core with Hippowdon, as well as being able to tank Water- and Grass-type attacks. Roserade can set up Toxic Spikes, while also taking Water- and Grass-type attacks aimed at Hippodown. However, both Chesnaught and Roserade share an Ice weakness with Hippowdon, so you must be wary of Ice-type attacks.
 
 Other Options
-############
+########
 
-Hippowdon actually has quite a few notable options that aren't on the set. The first is Yawn, which can both put the opponent to sleep as well as act as a pseudo-phazing move. Ice Fang is an option for hitting Ground-types such as Gligar for super effective damage. Rocky Helmet can be used to wear the opponent down even more, and with Hippowdon's access to reliable recovery, it doesn't necessarily need Leftovers. Curse and Stockpile are two boosting moves Hippowdon can use, with the former making it both bulky and powerful, while the latter makes it extremely hard to take down. However, Hippowdon tends to be outclassed by other defensive boosting sweepers such as Suicune and Slowking. A Choice Band or bulky attacking set is also plausible, as Hippowdon has a pretty good Attack stat. However, Pokemon such as Flygon and Rhyperior tend to do this better, as they both have a secondary STAB and either higher Speed or Attack.
+Smooth Rock can be used over Leftovers, giving Stoutland more time under the sand to attack. Stone Edge does more damage to Flying-type Pokemon, and it will not miss against Mega Pidgeot due to No Guard. Curse allows Hippowdon to work as a decent win condition.
 
 Checks & Counters
-##############
+########
 
-**Grass-types**: Grass-types such as Celebi, Shaymin, Roserade, Trevenant, and Chesnaught resist Earthquake and can hit Hippowdon with a super effective Grass-type attack. They must be careful of Toxic, however, especially Trevenant and Chesnaught, as it can cut into their longevity.
+**Water-types**: Most Water-types, such as Mega Blastoise and Suicune, can easily force out Hippowdon with their respective STAB moves, while Hippowdon cannot do anything back in return. However, Mega Blastoise must be wary of being crippled by Toxic.
 
-**Water-types**: Water-types such as Mega Blastoise, Starmie, Vaporeon, Suicune, and Kingdra can all hit Hippowdon with a super effective Water-type attack. If they carry Scald, they can also burn Hippowdon. They must be wary of Toxic, though, as it puts them on a timer.
+**Grass-types**: Common Grass-types such as Shaymin can easily switch in on Hippowdon and retaliate with their STAB moves. Shaymin doesn't care about Toxic, due to Natural Cure, and can OHKO back with Seed Flare.
 
-**Ice-types**: Ice-types such as Kyurem and Mega Abomasnow can hit Hippowdon with super effective Ice-type attacks. However, they must be careful of both Rock Slide and Toxic, as the former hits them super effectively, while the latter slowly wears them down. They are also weak to Stealth Rock, which Hippowdon can set up.
+**Status**: Hippowdon can be worn down by Toxic to the point that a powerful physical attacker can muscle past it.
 
-**Wallbreakers**: Wallbreakers such as Choice Specs Porygon-Z, Choice Band Mienshao, and Hydreigon are able to take out Hippowdon relatively easily. It's also worth noting that it can't switch in on most Fire-type wallbreakers like Choice Specs Chandelure, Choice Band Victini, and Choice Band Darmanitan.
-
-**Status**: Toxic wears Hippowdon down easily, while burn causes residual damage and also weakens its attacks.
-
-**Flying-types / Levitate**: If they're not running Rock Slide, Pokemon such as Crobat, Honchkrow, Noivern, and Rotom-H wall it. However, Toxic can wear them down and Whirlwind can force them out to rack up residual damage.
+**Flying-types and Levitate Users**: Hippowdon usually relies on Earthquake to beat its targets, and this can sometimes give Pokemon such as Mega Pidgeot, Hydreigon, and Tornadus free switches. Most of them do not fear a non-STAB Rock Slide or Ice Fang and can easily threaten Hippowdon back with their respective STAB moves.

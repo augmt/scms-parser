@@ -1,43 +1,52 @@
 Overview
 ########
-Combusken is gifted with the amazing ability Speed Boost, which is something every offensive Pokemon dreams of. In addition to that, Combusken also can use it in tandem with Baton Pass, something that Combusken couldn't do in past generations. Combusken also has access to boosting moves such as Bulk Up and Swords Dance, which it can pass to teammates thanks to Baton Pass. It can utilize Eviolite, which boosts its defenses to respectable levels. Thanks to its bulk, it can Baton Pass boosts multiple times in a single match without much effort. Access to Flare Blitz means Combusken can also sweep when boosted. Sadly, Combusken is weak to the common Water- and Ground-type attacks, and is susceptible to phazing especially now that Whirlwind and Roar go through Protect.
+
+Combusken has access to the highly coveted Speed Boost, as well as Bulk Up, Swords Dance, and Substitute, which can be given to a partner through Baton Pass. Combusken also happens to be an NFE Pokemon, so it can utilize Eviolite to boost its bulk to respectable levels. Thanks to Combusken's solid bulk, it can Baton Pass multiple times in a single match. Combusken can also sweep teams when boosted, although this is better left to a teammate. However, Combusken is stopped by common Pokemon such as Fletchinder and Slowking, weak to common Water-, Ground-, and Flying-type moves, and lacks reliable recovery, so it is easily worn down. Combusken's typing also doesn't help, sharing weaknesses with common Baton Pass recipients such as Drapion and Emboar.
 
 Baton Pass
 ########
 name: Baton Pass
-move 1: Protect
-move 2: Baton Pass
-move 3: Bulk Up / Swords Dance
+move 1: Baton Pass
+move 2: Protect
+move 3: Substitute / Swords Dance
 move 4: Flare Blitz / Substitute
 ability: Speed Boost
 item: Eviolite
-evs: 252 HP / 64 Def / 192 Spe
-nature: Jolly
+evs: 248 HP / 4 Def / 108 SpD / 148 Spe
+nature: Careful
 
 Moves
 ========
-Protect is important as it always guarantees Combusken gets one more turn of Speed Boost. Baton Pass is the only reason to use Combusken as it allows Combusken to pass its boosts to other teammates. Bulk Up increases both Attack and Defense, while Swords Dance only boosts Attack by two stages. Flare Blitz is a good STAB move that can allow Combusken to sweep when needed. Substitute is an option as it allows Combusken to Baton Pass Substitutes along with its boosts, which can help another Pokemon to come in safely.
+
+Baton Pass is the main reason to use Combusken, as it can pass boosts to a teammate, giving them a chance to sweep. Protect guarantees that Combusken can get one extra turn of Speed Boost. Substitute lets Combusken dodge status and can be passed along with stat boosts. Baton Passing Substitutes is also much more reliable than baton passing Bulk Up boosts, as it gives the recipient a nice buffer against incoming attacks. Swords Dance boosts Combusken's Attack by two stages and, if given the chance, can help Combusken sweep. In cases where Combusken cannot sweep, the boosts should be passed to a partner that is capable of sweeping. Flare Blitz is Combusken's strongest STAB move and can be used to sweep. Flare Blitz can also weaken phazers such as Drapion and Steelix, cutting down on the number of times they are able to switch in. Bulk Up can be used if not running Swords Dance, as it boosts Combusken's Attack and Defense by one stage. This acts as a nice priority buffer, making setting up with Pokemon such as Xatu easier.
 
 Set Details
 ========
-This EV spread aims to maximize HP with 64 Defense to survive Fletchinder's Acrobatics. 192 Speed along with a Jolly nature allows Combusken to outspeed Choice Scarf base 80 Speed Pokemon such as Braviary. Eviolite is used to boost Combusken's bulk to respectable levels. Speed Boost gives Combusken its niche and boosts Speed each turn by 1 stage, allowing Combusken to outspeed the majority of the tier at +2, and the entire metagame at +3.
+
+248 HP EVs, 108 Special Defense EVs, and a Careful nature allow Combusken's Substitute to survive Alomomola's Scald and +1 Cresselia's Moonblast. The HP and Defense investment allows Combusken to survive Fletchinder's Acrobatics at full health, while the Speed investment allows Combusken to outpace neutral-natured Hitmonlee after one Speed boost. Eviolite is the only item considered, as it boosts Combusken's defenses. Speed Boost is Combusken's niche and the only reason to use it. At +2, Combusken outspeeds the majority of the tier, and at +3, it outspeeds the entire metagame.
 
 Usage Tips
 ========
-Bring Combusken on Pokemon it can set up on, such as Rotom-C locked into Leaf Storm, Registeel, or Abomasnow, and then start boosting with either Bulk Up or Swords Dance. Make sure the opponent lacks a Roar, Whirlwind, or Dragon Tail user on their team, or otherwise Combusken can't do its job. Use Substitute on predicted switches or status moves such as Thunder Wave or Toxic from Registeel. Most importantly, make sure that the Pokemon Combusken is passing to can come in safely without being threatened by the opposing Pokemon.
+
+Bring Combusken in on Pokemon that it can force out or set up on, such as Abomasnow and Registeel, and then set up a Substitute on the switch or boost with Swords Dance or Bulk Up. Try to remove all phazers such as Roar Rhyperior before attempting to set up with Combusken, as they can easily phaze out Combusken or the recipient. Combusken dislikes being paralyzed, so set up a Substitute when you think the foe will try to inflict status on it. Make sure that the recipient can safely switch in on the opposing Pokemon; this can be accomplished by setting up a Substitute before Baton Passing.
 
 Team Options
 ========
-In general, any Pokemon that likes Combusken's boosts is a good teammate. Virizion appreciates the Speed, power, and bulk provided by Speed Boost and Bulk Up, and can switch into Water- and Ground-type attacks aimed at Combusken. Drapion also appreciates Combusken's support to help it sweep teams with its good coverage. Druddigon and Gallade also like the Speed, bulk, and power Combusken provides. Calm Mind Xatu is a good Baton Pass recipient because with Magic Bounce, it can prevent Whirlwind and Roar. Defense boosts from Bulk Up also help Xatu set up easier, and it has access to Stored Power to make use of all the boosts.
+
+Any Pokemon that appreciates Attack and Speed boosts is a good partner. Virizion can switch on on Water- and Ground-type attacks, but note that it shares a Flying-type weakness with Combusken. Virizion also appreciates the Speed, power, and bulk provided by Speed Boost and Bulk Up. Drapion, Feraligatr, Glalie, Pinsir, Tyrantrum, and Druddigon all appreciate the Attack and Speed boosts, as they can easily sweep teams thanks to their good coverage. Calm Mind Xatu is an excellent recipient, as Magic Bounce bounces back Roar and Whirlwind, making it impossible to phaze without Dragon Tail. Defense boosts from Bulk Up make setting up with Xatu easier, and it also has access to Stored Power so that it can make full use of the boosts accumulated.
 
 Other Options
 ########
-There aren't many other options that Combusken can utilize, as they are all done better by other Pokemon. A sweeping set with Protect, Flare Blitz, Sky Uppercut, and Thunder Punch can be used, but it is weak without any boosts and doesn't have any place for Swords Dance. Combusken can also utilize some coverage moves such as Rock Slide, Shadow Claw, and Poison Jab, but Combusken won't do much damage with them. Additionally, it can utilize other boosting moves such as Hone Claws and Work Up.
+
+Combusken doesn't really have that many other options. It can run a set with Thunder Punch, Swords Dance, Flare Blitz, and Low Kick to try to sweep, but Combusken is rather weak even after a boost. Combusken can also utilize other boosting moves such as Work Up and Hone Claws.
 
 Checks & Counters
 ########
-**Phazing**: Phazing is absolutely the best way to shut down Combusken; Rhyperior carries Roar, and Drapion has Whirlwind. Slowking can also phaze with Dragon Tail. Haze can remove all of Combusken's boosts, and is usually used by Pokemon such as Cofagrigus, Dragalge, and Weezing. Finally, using Perish Song also falls under this especially as it is carried over with Baton Pass; Meloetta does an excellent job of this.
 
-**Offensive Pressure**: Offensive pressure from the special side will easily overwhelm Combusken. Clawitzer, Slowking, Rhyperior, Moltres, and Delphox can all keep Combusken in check with their strong super effective STAB attacks, while Exploud can threaten it with STAB Boomburst.
+**Fletchinder**: Fletchinder's priority Acrobatics ignores Combusken's Speed boosts and has the potential to stop a Baton Pass if Combusken has taken some prior damage.
 
-**Fletchinder**: Fletchlinder has Priority Acrobatics to potentially stop a pass.
+**Phazing**: Phazing shuts down Combusken completely. Drapion and Slowking can easily phaze out Combusken with Whirlwind and Dragon Tail, respectively, while Combusken cannot do much back to them. Slowking also puts lots of pressure on Combusken, as it has super effective STAB moves to hit Combusken with. Haze from Cofragrigus erases all of Combusken's boosts, and Perish Song from Meloetta forces Combusken to switch out. However, if Combusken is running Flare Blitz, it can chip away at these phazers, limiting the number of times they can get away with it.
+
+**Super Effective Attacks**: Strong special attackers with super effective moves, such as Delphox and Clawitzer, can easily force Combusken out, as Combusken lacks a way of boosting its Special Defense.
+
+**General Offensive Presence**: A general offensive presence takes away most of Combusken's legroom, usually resulting in a scenario where the recipient has to take a hit. Pokemon with Infiltrator, Boomburst, or Hyper Voice can also bypass Substitutes, making it harder for Combusken to use Baton Pass.

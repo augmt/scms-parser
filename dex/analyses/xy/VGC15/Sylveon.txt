@@ -1,0 +1,92 @@
+Overview
+########
+
+Sylveon is an easy-to-use, yet incredibly effective, Pokemon. Its Pixilate-boosted Hyper Voice doesn't hurt partner Pokemon like Surf and Earthquake do, is 100% accurate unlike Heat Wave and Muddy Water, and can be boosted further with items such as Choice Specs and even Pixie Plate. The only pitfall Sylveon encounters is its low Defense, and without speed control, its low Speed is an issue as well. However, its Pixilate-boosted Hyper Voice is still incredibly potent for weakening threats from the get-go or making a clean late-game sweep if left unchecked.
+
+Choice Specs
+########
+name: Choice Specs
+move 1: Hyper Voice
+move 2: Psyshock
+move 3: Shadow Ball / Hidden Power Ground
+move 4: Moonblast / Hyper Beam
+ability: Pixilate
+item: Choice Specs
+evs: 188 HP / 68 Def / 252 SpA
+nature: Modest / Quiet
+
+Moves
+========
+
+Hyper Voice is Sylveon's bread and butter and the move it'll be spamming most often. The remaining slots are basically filler. Psyshock helps against Poison-types such as Amoonguss and Mega Venusaur, which can otherwise tank Hyper Voices. Shadow Ball is for Mega Metagross and Aegislash, while Hidden Power Ground is for Heatran; all of them could otherwise simply set up Substitutes and sit in front of Sylveon or outright KO it. Moonblast is a option that isn't affected by Wide Guard. Hyper Beam is a high-risk, high-reward move on par with Choice Specs Hydreigon's Draco Meteor in terms of power (even exceeding it in some cases) and leaves Sylveon vulnerable for a turn afterwards, so it is best suited for when Sylveon is low on health or when trading the KO is advantageous.
+
+Set Details
+========
+
+The EV spread lets Sylveon survive Jolly Mega Kangaskhan's Return. To survive more powerful attacks such as Jolly Mega Salamence or Mega Kangaskhan's Double-Edge, Sylveon needs a much more defensive spread of 156 HP / 188 Def / 164 SpA. If running Hidden Power Ground, use 188 HP / 68 Def / 248 SpA / 4 Spe due to the 30 Special Attack IV. When Sylveon is paired with speed control, use at least 84 Speed EVs to let Sylveon outspeed Mega Lucario and Adamant Mega Salamence under Tailwind. Use at least 12 Speed EVs to outspeed Adamant Bisharp after one Icy Wind, which is important because of the Defiant boost Bisharp receives as a result. For Trick Room, be sure to use a Quiet nature with 0 Speed IVs, or 1 Speed IV for Hidden Power Ground.
+
+Hidden Power Fire could also be used over Hidden Power Ground if Ferrothorn or Scizor is a bigger problem to the team than Heatran is. Be sure to adjust EVs accordingly.
+
+Usage Tips
+========
+
+Use Hyper Voice. Sylveon's coverage moves aren't that great to begin with, so only use them if you're forced to. Hyper Beam can be used to sacrifice Sylveon to KO Pokemon such as Mega Kangaskhan and is a great move to use if you're comfortable with an aggressive playstyle. It can easily be punished, however.
+
+Team Options
+========
+
+In general, it's best to support Sylveon using redirection and Fake Out to minimize the damage it takes in order to let it fire off more Hyper Voices. Amoonguss is the go-to redirection user typing-wise, while Fake Out can be supplied by many more Pokemon such as Mega Kangaskhan, Infernape, and Ludicolo. Intimidate is also nice to provide a buffer for Sylveon's weaker Defense and can be supplied by Pokemon such as Landorus-T, Gyarados, and Scrafty, the latter of which can also use Fake Out. Speed control is always nice to get Hyper Voices off before the opponent's Pokemon even move. Cresselia and Jellicent are the go-to Pokemon for Trick Room, while Zapdos and Suicune are both top-notch Tailwind users that also resist Steel, making them good switch-ins against Pokemon such as Metagross. Icy Wind is also viable, though with Sylveon's low Speed, it doesn't help as much.
+
+Special Attacker
+########
+name: Special Attacker
+move 1: Hyper Voice
+move 2: Psyshock
+move 3: Hidden Power Ground / Shadow Ball
+move 4: Protect
+ability: Pixilate
+item: Pixie Plate / Life Orb
+evs: 188 HP / 68 Def / 252 SpA
+nature: Modest / Quiet
+
+Moves
+========
+
+Hyper Voice is Sylveon's main attack. Psyshock helps slightly against Poison-types such as Amoonguss and Mega Venusaur, which can otherwise tank Hyper Voices. Shadow Ball is for Mega Metagross and Aegislash. Hidden Power Ground is for Heatran, which can simply set up Substitutes (although Hyper Voice will hit Heatran and not the Substitute) and sit in front of Sylveon or outright KO it with Flash Cannon. Protect discourages opponents from double-targeting Sylveon and in general helps Sylveon survive longer against certain threats while a partner neutralizes them.
+
+Set Details
+========
+
+Pixie Plate is used to boost Hyper Voice further without detracting from Sylveon's bulk. Life Orb boosts Sylveon's power more than Pixie Plate does at the cost of bulk, so when using Life Orb, you might want to adjust the EV spread to a more speedy and offensive variant and pair Sylveon up with Icy Wind or Tailwind users.
+
+The EV spread lets Sylveon survive Jolly Mega Kangaskhan's Return. To survive more powerful attacks such as Jolly Mega Salamence or Mega Kangaskhan's Double-Edge, Sylveon needs a much more defensive spread of 156 HP / 188 Def / 164 SpA. If using Hidden Power Ground, use 188 HP / 68 Def / 248 SpA / 4 Spe due to the 30 Special Attack and Special Defense IVs. When Sylveon is paired with speed control, use at least 84 Speed EVs for Sylveon to outspeed Jolly Mega Lucario and Adamant Mega Salamence under Tailwind. When using Life Orb, you can afford to use much more Speed investment. 116 Speed EVs let Sylveon outspeed Jolly Mega Salamence with Tailwind support. The highest benchmark Sylveon can reach with a Modest nature is 224 Speed, which outspeeds Adamant Choice Scarf Landorus-T but unfortunately barely misses out on outspeeding Choice Scarf Hydreigon.
+
+Use at least 12 Speed EVs to outspeed Adamant Bisharp after one Icy Wind, which is important because of the Defiant boost Bisharp receives as a result. For Trick Room, be sure to use a Quiet nature with 0 Speed IVs, or 1 Speed IV for Hidden Power Ground.
+
+Detect could be used over Protect if Imprison is a concern, but Imprison is so rare that the extra PP that Protect provides is more worthwhile.
+
+Usage Tips
+========
+
+The biggest draw to using this set is quite simply the ability to use Protect. It allows Sylveon to play around hard checks such as Heatran more easily and helps it stall out a turn for a partner to set up speed-controlling moves. Of course, when Sylveon is not Protecting, it'll be using Hyper Voice; the other two slots are filler. They're nice when Sylveon is forced to attack a threatening Pokemon, but you should try to avoid such situations in the first place.
+
+Team Options
+========
+
+Sylveon likes partners that can use redirection and Fake Out. Amoonguss is the go-to Rage Powder user typing-wise, and Lucario can take care of Mega Kangaskhan while providing Follow Me support. Fake Out can be supplied by many more Pokemon such as Mega Kangaskhan, Infernape, and Ludicolo, each of which provides different types of offensive pressure. Intimidate is also nice to provide a buffer for Sylveon's weaker Defense and can be supplied by Pokemon such as Landorus-T and Gyarados, the latter of which can also use Thunder Wave or Icy Wind for speed control. Landorus-T works especially well with this set, given its ability to use Protect. Speed control is always nice to let Sylveon get Hyper Voices off before the opponent's Pokemon even move. Cresselia and Jellicent are the go-to Pokemon for Trick Room, while Zapdos and Suicune are both top-notch Tailwind users that also resist Steel, making them good switch-ins against Pokemon such as Metagross. Icy Wind is also viable, though with Sylveon's low Speed, it doesn't help as much.
+
+Other Options
+########
+
+Quick Attack is boosted by both Pixie Plate and Pixilate, making it a decently powerful priority move despite Sylveon's base 65 Attack. Calm Mind is good for long-term sweeping, but Sylveon lacks the physical bulk and Speed to pull a boosting set off effectively and is usually better off firing off Hyper Voice. Wish combined with Protect can heal Sylveon or a teammate in a pinch. Baby-Doll Eyes is a good way to neuter physical attackers such as Mega Metagross and Mega Kangaskhan, and Helping Hand can help a partner pick up surprise KOs, but in both cases, Sylveon is much more suited to an attacking role and is better when it receives support as opposed to giving it. Choice Scarf Sylveon isn't overly useful because Sylveon is forced to use a Timid nature and give up a boosting item, which severely cuts into its damage output. Additionally, it doesn't have many Pokemon besides Latios and Terrakion that it can outspeed and OHKO with Hyper Voice. Babiri Berry helps against Steel-types, particularly Bisharp, but in any other situation it is useless.
+
+Checks & Counters
+########
+
+**Steel-types**: Steel-types, particularly physical Steel-types, give Sylveon the most issues. Mega Metagross and Bisharp outspeed and OHKO Sylveon with Iron Head, Mega Mawile can take a resisted Hyper Voice or underspeed it in Trick Room, and Heatran can ignore Sylveon because of its 4x resistance to Fairy and set up Substitutes, whittle it down with Heat Wave, or 2HKO it with Flash Cannon. Aegislash functions similarly to Heatran with Substitute, though it lacks a 4x resistance.
+
+**Poison-types**: Gengar and Mega Venusaur commonly use Sludge Bomb as a STAB option, which takes off huge chunks of Sylveon's HP. While Gengar might not want to take more than one Hyper Voice, Mega Venusaur can switch in with impunity unless it gets caught by a Psyshock. Similarly to Mega Venusaur, Amoonguss can also switch in relatively safely and Spore Sylveon.
+
+**Bulky Fire-types**: Arcanine and Entei resist Hyper Voice and can capitalize on Sylveon's poor Defense with Flare Blitz or Sacred Fire, and they can even lower Sylveon's Special Attack with Snarl. Quiver Dance Volcarona can easily set up on Sylveon because of its Special Defense boosts and resistances, but it can't OHKO Sylveon outright.
+
+**Wide Guard**: Sylveon is rendered helpless or nearly helpless when Wide Guard users are around. Swampert, Aegislash, and Aerodactyl are the most common users, though there are many more and each works just as well in respect to shutting down Sylveon.

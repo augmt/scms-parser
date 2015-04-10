@@ -1,11 +1,43 @@
 Overview
 ########
 
-Swellow is an amazing late-game sweeper with its Guts-boosted attacks and amazing Speed. Its immunities and resistances, coupled with pivoting moves and double switches, make it easy for Swellow to switch in relatively safely and activate its Toxic Orb. However, Swellow is extremely frail, and its weakness to Stealth Rock makes it hard to switch in too often. A surprise Choice Specs set can catch many of Swellow's normal checks and counters off-guard and doesn't require any setup, though it is still walled by the common Rock- and Steel-types in the metagame. Because of this, Swellow should generally be saved for the later stages of the game when these Pokemon have been removed.
+Having the highest Speed stat in the tier and the ability to use both physically and specially offensive sets makes Swellow a force to be reckoned with. Its role as a physical attacker is greatly enhanced by the combination of its Flying typing and Guts ability, which allows Swellow to reliably beat common Grass-type defensive Pokemon, such as Vileplume and Gourgeist, without having to worry about status. The offensive power that it holds does come with a drawback: it quickly whittles itself down with self-inflicted status conditions and recoil damage from Brave Bird. Swellow can manage to run a Choice Specs set thanks to its access to STAB Boomburst and Scrappy. Because its physically offensive set is the more common one, Choice Specs Swellow can be an effective lure for Pokemon that may wall its other variants, such as Mawile and Klinklang, and also clean up late-game with Boomburst. The main flaw of Swellow lies in its low overall bulk, which often forces it out and limits its sweeping potential.
 
-Guts
+Choice Specs
 ########
-name: Guts
+name: Choice Specs
+move 1: Boomburst
+move 2: Heat Wave
+move 3: U-turn
+move 4: Tailwind / Sleep Talk
+ability: Scrappy
+item: Choice Specs
+evs: 4 Def / 252 SpA / 252 Spe
+nature: Timid
+
+Moves
+========
+
+Boomburst reaches an outstanding 210 Base Power due to STAB, managing to hit incredibly hard even coming from a Pokemon with a low base Special Attack stat. As Steel-types such as Mawile, Klinklang, and Ferroseed are very often inclined to switch into Swellow, Heat Wave is a great means of weakening them or even scoring a 2HKO. U-turn maintains momentum on your side of the field during the early-game, when Swellow's checks are not weakened enough. Tailwind can take advantage of Swellow's high Speed stat and create a sweeping opportunity for a teammate when Swellow's job is done. Sleep Talk makes Swellow a decent sleep absorber, coming in on Pokemon such as Vileplume and Liligant while also being able to dish out huge damage and burn sleep turns. Hidden Power Grass can be used to hit Rock-types, such as Rhydon and Carracosta, that take little damage from Swellow's other moves.
+
+Set Details
+========
+
+Choice Specs and 252 Special Attack EVs increase Swellow's damage output to considerable levels. Fully invested Speed and a Timid nature allow Swellow to outspeed a huge part of the metagame. The remaining 4 EVs are used in either Defense or Special Defense in order to leave Swellow's HP as an odd number, allowing five switches into Stealth Rock. Scrappy allows Swellow to hit Ghost-types without being forced to run an extra coverage move.
+
+Usage Tips
+========
+
+Swellow's lack of bulk means that in order to deal damage, it has to get a free switch into the battle, which is why getting switch opportunities with U-turn, Volt Switch, and Baton Pass is very important for its longevity. Swellow fails to OHKO a lot of bulkier Pokemon, such as Mantine and Seismitoad, so taking them on when they are at full health is not suggested, because Swellow can be heavily damaged even by defensive Pokemon. Given that Swellow is usually expected to be physically offensive, Choice Specs Swellow should be preserved for mid- or late-game when bulky Pokemon have been weakened, providing a surprise factor and being able to clean up or severely damage the opposing team. Keeping entry hazards up on the opposite side of the field, especially Stealth Rock, is very appreciated to help Swellow 2HKO bulky Pokemon such as Musharna and physically defensive Mantine.
+
+Team Options
+========
+
+Water- and Grass-type Pokemon, such as Samurott, Ludicolo, and Lilligant, are great offensive partners for Choice Specs Swellow because they can break through bulky Rock-types, while Swellow lures in and defeats their checks, such as Ferroseed. Powerful Normal-types, such as Kangaskhan, Tauros, and Zangoose, are also great offensive teammates for Swellow, as they constantly pressure the same defensive Pokemon, such as Rock- or Steel-types trying to wall them. Claydol and Sandslash are two entry hazard removers that pair up well with Swellow, resisting Rock- and Electric-type attacks, which are often targeted at it. Lanturn resists Ice-type attacks, is immune to Electric-type moves, and provides switch initiative with Volt Switch. Bulky Ground-types that can set up Stealth Rock, such as Piloswine and Rhydon, can easily come in on the Rock-types that threaten Swellow.
+
+Guts Attacker
+########
+name: Guts Attacker
 move 1: Facade
 move 2: Brave Bird
 move 3: U-turn
@@ -18,69 +50,37 @@ nature: Jolly
 Moves
 ========
 
-Facade is Swellow's best STAB move after Guts is activated. Brave Bird is a good secondary STAB move that allows Swellow to hit Ghost-types hard, but it must be used sparingly due to Swellow's low HP. U-turn allows Swellow to switch out against its checks and counters while still dealing damage, though you should avoid switching Swellow in too often due to its Stealth Rock weakness. Quick Attack allows Swellow to defeat Sucker Punch users and damage opposing priority and Choice Scarf users. Protect is also an option that makes it easy to activate Swellow's Toxic Orb, though it becomes significantly less useful afterwards.
+Facade is the most spammable move on this set, getting boosted to 140 Base Power and having no recoil. Brave Bird lets Swellow hit Ghost-types while also allowing it to defeat bulky defensive Pokemon such, as Vileplume and Gourgeist, and Normal-resistant Pokemon, such as Crustle, Cradily, and Ferroseed. U-turn keeps momentum on your side of the field and slowly whittles down common switch-ins such as Rhydon. Quick Attack is a STAB priority move that picks off weakened faster Pokemon, especially Choice Scarf users such as Jynx, Mesprit, and Sawk. Protect allows Swellow to safely activate Guts.
 
 Set Details
 ========
 
-A status Orb is required in order to activate Guts, as Toxic poison or burn together with Guts allow Swellow to hit extremely hard. A Toxic Orb is preferred, but a Flame Orb may be used to deal less damage to Swellow over the course of four turns, though Swellow should not be staying in for more than three turns unless it is in a position to sweep. To maximize Swellow's sweeping capabilities, Attack and Speed are fully invested in. The remaining 4 EVs are placed in Defense to slightly improve Swellow's ability to withstand priority moves, and more importantly allow Swellow to maintain an odd HP stat in order to switch into Stealth Rock four times. A Jolly nature is used so that Swellow can outspeed as many threats as possible.
+A Jolly nature and 252 Speed EVs maximize Swellow's Speed, allowing it to outpace most of the metagame. Guts increases Swellow's Attack to considerable levels. 252 Attack EVs further augment Swellow's offensive presence. The 4 extra EVs are placed in either Defense or Special Defense, leaving Swellow's HP as an odd number and thus allowing it to take less damage from entry hazards. Toxic Orb is the most reliable way of activating Guts, inflicting a status condition that whittles it down the least over a longer period of time.
 
 Usage Tips
 ========
 
-If Swellow is not using Protect, it will have to rely on pivot moves and double switches to activate Toxic Orb. Timing and prediction are key in this regard and in using Swellow in general. One should try to activate Swellow's Toxic Orb as soon as possible so that Swellow has more utility throughout the battle. Early- or mid-game, Swellow should mainly be using U-turn in order to wear down its checks and counters. Just don't bring Swellow into battle too often, as its weakness to Stealth Rock will quickly deplete Swellow's valuable HP. Always try to predict when your opponent is switching in a Pokemon that resists one of Swellow's moves; Swellow cannot afford to waste turns because it loses HP so quickly due to Stealth Rock and Toxic damage.
+Activating Guts early in the game offers Swellow as much offensive pressure as it can achieve. Unless it can ensure an OHKO or heavily damage the foe, staying in with Swellow over an extended period of time is detrimental to its longevity, as it will gradually lose HP. Brave Bird further weakens Swellow with recoil damage, and therefore it should only be used when it will be able to pick off a Pokemon that Facade wouldn't, such as Vileplume or Gourgeist. In the early stages of the game, Swellow can be used as a momentum gainer through the use of U-turn, while also being able to heavily weaken the opposing team with Guts-boosted Facade during the mid- or late-game. Entry hazard control on your side of the field will help Swellow a lot, as Stealth Rock damage, possible recoil from Rocky Helmet users, and poison damage can lead to an early demise.
 
 Team Options
 ========
 
-Slow Volt Switch, U-turn, and Baton Pass users such as Probopass, Lanturn, and Musharna are highly recommended in order to safely activate Swellow's Toxic Orb. Swellow already loses HP from Toxic damage and does not appreciate more residual damage from Stealth Rock, so spinners or Defoggers such as Sandslash, Cryogonal, or Pelipper are very useful teammates. As most of Swellow's counters are grounded, Spikes users such as Garbodor and Accelgor are excellent teammates that can wear them down via usage of said Spikes. Fighting- and Ground-types such as Gurdurr, Choice Band Sawk, and Golurk are great teammates that beat the Rock- and Steel-types that wall Swellow. Teammates that use Rock- and Steel-types as setup opportunities, such as Gorebyss, Leafeon, and Feraligatr, are great teammates that make use of the momentum Swellow gains with U-turn.
-
-Choice Specs
-########
-name: Choice Specs
-move 1: Boomburst
-move 2: U-turn
-move 3: Endeavor
-move 4: Hidden Power Fighting
-ability: Scrappy
-item: Choice Specs
-evs: 4 Def / 252 SpA / 252 Spe
-nature: Timid
-
-Moves
-========
-
-Boomburst is a STAB move that is able to hit Ghost-types due to Scrappy, bypass Substitute, and make up for Swellow's lackluster Special Attack stat with its high Base Power. U-turn allows Swellow to maintain momentum when your opponent brings in their main check or counter. Endeavor makes use of Swellow's Stealth Rock weakness and frailty to cripple most Pokemon, most notably Steel- or Rock-types. Hidden Power Fighting is used solely to hurt Steel- and Rock-types, most notably Air Balloon Probopass and Pawniard, when they are weakened or when Swellow is at high enough health for Endeavor to be useless. Hidden Power Water can be used instead of Hidden Power Fighting for more damage against Golem and Rhydon, but it lacks power against Steel-types. Sleep Talk is also an option for the last slot, as it makes Swellow an effective sleep absorber. However, it should only be used with Boomburst and U-turn in order to avoid Sleep Talk selecting Endeavor or Hidden Power.
-
-Set Details
-========
-
-Choice Specs is the only option for an item, as Swellow lacks power otherwise due to its poor Special Attack stat. Maximum investment in Special Attack and Speed raises Swellow's damage output. The remaining 4 EVs are placed in Defense to slightly improve Swellow's ability to withstand priority moves, but more importantly to allow Swellow to maintain an odd HP stat in order to switch into Stealth Rock four times. A Timid nature allows Swellow to outspeed as many threats as possible. A Modest nature can be used instead to increase Swellow's damage output, but it would no longer outspeed positive-natured base 110 Speed Pokemon such as Archeops. Scrappy is the best ability for this set, as it allows Boomburst to hit Ghost-types.
-
-Usage Tips
-========
-
-This set works best as a lure for most physically defensive Pokemon, such as Weezing, Qwilfish, and Granbull, wearing them down for Swellow's physically offensive teammates. During the early stages of the game, make use of U-turn to scout your opponent's initial check or counter to Swellow. In order to accomplish this, Swellow should only switch in after one of your Pokemon faints in order to maintain the facade of the Guts set as long as possible. If your opponent's main check or counter to a physical Swellow set is a physically defensive Pokemon, striking them with Boomburst is also an effective strategy to allow Swellow's teammates to take advantage of their weakened defensive Pokemon. Swellow is best used as a revenge killer, though it does very well as a late-game sweeper. If Swellow is at low health while its counters are still healthy, it is best to simply cripple them with Endeavor and allow Swellow's teammates to take advantage of the situation. Hidden Power should only be used when it inflicts super effective damage and Boomburst is resisted, as otherwise you are better off using Boomburst.
-
-Team Options
-========
-
-This set allows Swellow to cripple many of its usual checks and counters, so Pokemon that share counters with the Guts set, such as Sawk, Gurdurr, Zangoose, and Barbaracle, make good teammates. In addition, Pokemon such as Golurk, Sawk, and Magmortar that can beat Rock- and Steel-types are good teammates. Rock- and Steel-types are also great setup opportunities for Pokemon such as Gorebyss, Leafeon, and Feraligatr, which can make great use of the momentum Swellow gains from U-turn. Spinners and Defoggers such as Sandslash, Cryogonal, and Pelipper are useful teammates that help to keep Stealth Rock from whittling away at Swellow's HP.
+Offensive Fire-type Pokemon, such as Magmortar, Pyroar, and Typhlosion, threaten any Steel-type Pokemon that attempts to wall Swellow. Offensive Water- and Grass-type Pokemon, such as Samurott and Ludicolo, can easily dispatch of bulky Rock-types that threaten Swellow, such as Rhydon and Regirock. Offensive Normal-types, such as Kangaskhan, Tauros, and Zangoose, have the same switch-ins as Swellow and can whittle down one another's checks and counters, such as Rhydon and Ferroseed. Claydol and Sandslash have decent defensive synergy with Swellow and are able to clear the field of entry hazards, allowing Swellow to repeatedly switch in. Bulky Ground-types such as Rhydon and Piloswine can take Rock- and Electric-type attacks aimed at Swellow while also pressuring opposing Rock- and Steel-types with their STAB Earthquake. Lanturn resists Ice- and Electric-type attacks, even regaining HP from the latter, and helps create switch-in opportunities for Swellow with a slow Volt Switch.
 
 Other Options
 ########
 
-Roost can be used alongside a Flame Orb on the Guts set to keep Swellow healthy, but Swellow prefers to be a hit-and-run attacker early-game, and it does not require longevity when it sweeps late-game. Defog can be used on either set, but being locked into it allows your opponent to set up, and Guts Swellow prefers to attack. An Agility + Baton Pass set can be used, but Ninjask is simply better at passing Speed boosts. Air Slash can be used as a secondary STAB move for the Choice Specs set, but the flinch chance does not make up for the fact that Boomburst hits almost everything harder than Air Slash does. A Choice Band + Scrappy set can be used, but it does not beat anything that the Guts set does not. Pursuit can be used on the Guts set, as Swellow forces many switches, but Swellow generally does not have room for it. Heat Wave is a good move for the Choice Specs set, but it is incompatible with Boomburst, which is the main draw of the set.
+Pursuit can be an option for Guts Swellow, as its immunity to Ghost-type attacks may often force switches, allowing it to take out Pokemon such as Rotom or Mismagius. As Swellow forces many switches, Roost offers it a means of recovery to further prolong its longevity. Endeavor can weaken bulky Rock- and Steel-types that wall Swellow if it has already lost a signifiant portion of its HP.
 
 Checks & Counters
 ########
 
-**Rock- and Steel-types**: Pokemon such as Probopass, Regirock, and specially defensive Steelix completely wall Swellow that lack Endeavor. However, Probopass must be wary of Hidden Power Fighting.
+**Rock-types**: Rock-type Pokemon, such as Regirock and Rhydon, take little damage from Swellow's moves and directly threaten it with their Rock-type STAB moves. Only Choice Specs Swellow has a chance to break through some Rock-types, but only those whose dual typing gives them a 4x weakness to Grass, such as Rhydon and Carracosta.
 
-**Priority Moves**: Most priority moves can cripple Swellow, while Sucker Punch forces Swellow to play around it.
+**Steel-types**: Steel-type Pokemon, such as Klinklang and Pawniard, resist both of Swellow's STAB moves and can obtain free setup opportunities against it. However, they have to look out for the Choice Specs set, as Heat Wave will 2HKO most of them.
 
-**Faster Pokemon**: Due to its frailty, Swellow can easily be revenge killed by most faster Pokemon, as long as they can hit it at least neutrally. Of course, as Swellow is naturally very fast, most Pokemon that outspeed it carry Choice Scarf.
+**Choice Scarf Users**: Due to Swellow's poor bulk, most Choice Scarf users such as Jynx, Mesprit, Rotom, and Sawk can threaten to OHKO it, though they cannot freely switch into its attacks.
 
-**Specially Defensive Pokemon**: Pokemon with decent special bulk such as Audino and Assault Vest Muk tank most attacks from Choice Specs Swellow, although they lose to physical variants.
+**Priority**: Swellow's poor bulk makes it take huge amounts of damage from neutral priority moves, such as Sucker Punch and Fake Out. Being weak to Ice-type moves leaves Swellow susceptible to being easily revenge killed by the likes of Piloswine and Sneasel. Guts Swellow has a small advantage over opposing priority users due to its high Speed stat, which allows it to outprioritize them and gives it the chance to render useless incoming Sucker Punches from Pokemon such as Cacturne and Pawniard.
 
-**Physically Defensive Pokemon**: Granbull, Avalugg, Piloswine, and Uxie are some examples of physically defensive Pokemon that can withstand at least one attack from Guts Swellow and retaliate, though many of these Pokemon lose to the Choice Specs set.
+**Residual Damage**: Even if it is immune to other types of entry hazards, Swellow loses a quarter of its HP when switching into Stealth Rock. Multiple switches into Stealth Rock, self-inflicted status conditions, and possibly attacking a Pokemon with Rocky Helmet or Iron Barbs, such as Garbodor or Ferroseed, respectively, will harshly reduce Swellow's longevity.

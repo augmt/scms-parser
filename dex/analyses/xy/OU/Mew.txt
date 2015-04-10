@@ -1,9 +1,7 @@
 Overview
 ########
 
-With access to every single TM, HM, and tutor move in the game, Mew is a top contender for the title of the most versatile Pokemon. The Defog buff gave it the niche of being one of the few users of the move that isn't weak to Stealth Rock. Mew is also the only relevant Defog user with access to Will-O-Wisp, which allows it to negate the Attack boost provided to several Defiant users by Defog.
-
-However, none of Mew's stats are particularly good by OU standards; its offensive stats are only above average without a boost and its Speed leaves it outsped by many threats. Its average defensive typing leaves it weak to common attacking types, such as Bug, Dark, and Ghost, with little neutralities to boast for itself. Because of these problems, and despite Mew's monumental menu of moves, it can only run a couple of viable sets without being outclassed. When Mew does its few jobs, however, it does them exceptionally well, and opponents would be foolish to let their guard down against it.
+Mew is an extremely versatile Pokemon because it can learn every TM and HM in the game. Furthermore, Mew is the only Defogger in the metagame with access to Will-O-Wisp and no Stealth Rock weakness, which lets it cripple Defiant users such as Bisharp by halving their Attack. Overall, Mew has good offensive and defensive stats but is not really that outstanding when compared to bulkier Psychic-types such as Mega Slowbro, regular Slowbro, and Cresselia. Mew has a pretty good Speed stat as well, which lets it outspeed slower Pokemon and attack them. Mew also has access to a form of reliable recovery in Soft-Boiled, which contributes to Mew's longevity on the field. Synchronize is a useful ability for Mew, because it can can punish status users if they inflict status on Mew. It can also provide utility against Scald burns. However, Mew's typing is subpar, which leaves it very vulnerable to common Bug-, Ghost-, and Dark-types, such as Scizor, Gengar, and Mega Gyarados. Mew also has four-moveslot syndrome because it cannot benefit from all move options it learns. Despite Mew's incredibly huge movepool, it only has a few viable sets that aren't outclassed by other Pokemon in the tier.
 
 Stallbreaker
 ########
@@ -11,70 +9,82 @@ name: Stallbreaker
 move 1: Taunt
 move 2: Soft-Boiled
 move 3: Will-O-Wisp
-move 4: Knock Off
+move 4: Knock Off / Psychic
 ability: Synchronize
 item: Leftovers
-evs: 252 HP / 104 Def / 152 Spe
-nature: Impish
+evs: 252 HP / 224 SpD / 32 Spe
+nature: Careful / Calm
 
 Moves
 ========
-This set makes Mew one of the best stallbreakers in the game. Taunt and Will-O-Wisp allow Mew to dismantle many stall cores, especially those involving Mega Venusaur, Skarmory, Blissey, and Chansey. Soft-Boiled provides Mew with reliable recovery. Knock Off is another great stallbreaking tool and rids opposing walls of their precious Leftovers or Eviolite. Night Shade is an okay option that allows Mew to deal consistent damage to any Pokemon that isn't Normal-type. Other coverage moves can be considered to hit Mew's typical checks and counters. For example, Ice Beam can be used if your team has problems with Landorus, as Mew can take a hit and OHKO 87.5% of the time; it also hits Gliscor, Landorus-T, Dragonite, and Thundurus hard. Earth Power and Aura Sphere also allow Mew to better handle Steel- and Fire-types, such as Heatran, though without investment, the aforementioned moves aren't particularly powerful. 
+
+Taunt forces the foe to use damaging attacks and prevents them from boosting, setting up entry hazards, and recovering. Soft-Boiled provides reliable recovery for Mew, healing 50% of its health. Will-O-Wisp is another utility move which burns physical attackers and cripples them by halving their Attack. Knock Off prevents Mew from Struggling if it has been Taunted and additionally removes the foe's item. Psychic can be used in the fourth slot for a more powerful attack than Knock Off, as it is boosted by STAB and hits Pokemon such as Keldeo and Mega Lopunny for super effective damage, as well as Pokemon such as Clefable and Mega Venusaur, which is important, as they're two Pokemon Mew is supposed to beat. But, Ice Beam can also be used in the fourth slot to beat specially defensive Gliscor along with Landorus.
 
 Set Details
 ========
-The Speed EVs allow Mew to outspeed Jolly Mega Heracross and everything slower. The rest of the EVs are invested in HP and Defense to maximize Mew's bulk and allow it to counter Mega Medicham. The nature further boosts Mew's Defense. A specially defensive spread can be run to handle Pokemon such as Landorus better, but countering Mega Medicham is so important for a bulky Psychic-type that it usually isn't recommended. Leftovers provides passive recovery.
+
+Synchronize statuses the opposing Pokemon if it statuses Mew, except if the foe is immune to that status. Leftovers provides passive recovery for Mew, boosting its longevity. The Speed investment lets Mew outspeed everything up to maximum Speed investment base 70s such as Jolly Bisharp and burn them before they can KO it. The HP EVs boost Mew's overall bulk while the Special Defense EVs raise Mew's Special Defense stat, which is boosted even further by a Careful or Calm nature. Use a Careful nature if running Knock Off, but use a Calm nature if running Psychic to reduce damage taken from Foul Play. A secondary spread of 252 HP / 224 Def / 32 Spe can be used, as it lets Mew take on physical attackers better and avoid the 2HKO from Mega Lopunny's Return after Stealth Rock damage. A third spread of 252 HP / 148 SpD / 108 Spe is another option to outspeed Jolly Bisharp and Adamant Dragonite, but, with this spread, Mew has far less bulk.
 
 Usage Tips
 ========
-This set single-handedly dismantles many stall cores, such as the famous SkarmBliss. Use it if your team needs a utility Pokemon that can also threaten stall. Don't use it as a wall, as its bulk is nothing to write home about, even after investment. Always try to keep Mew as healthy as possible, as it may have to frequently switch in and out. Never try to keep Mew on a Pokemon that might potentially carry a status move unless you have a cleric in your team. Be wary of using Will-O-Wisp if your opponent has a Fire-type, as it may give them a free switch-in. If your opponent sends in a cleric, Taunt it as soon as possible. If you are using Knock Off, spam it as often as you can. Against offensive teams, Mew can spread burns easily and can give one of your sweepers easy setup opportunities.
+
+Mew is best used on teams that struggle against stall, as it can come in on defensive Pokemon and use Taunt. Mew can spread burns against offensive physically oriented teams early-game and provide setup opportunities for teammates. Mew can be used as a tank, as it has good overall bulk. Try to avoid letting Mew get statused, unless your team has cleric support. The activation of Synchronize isn't worth acquiring a status affliction. Make sure to keep Mew as healthy as possible, as a defensive Pokemon may hit it on the switch and knock Mew out if it is at low HP. If you're unsure what to do, go for Knock Off, as most Pokemon will not appreciate having their item removed. When facing a foe with Pursuit, the best thing to do is go for Will-O-Wisp, as all common Pursuit users are physical attackers. Watch out for Mega Sableye, as the best thing Mew can do against it is burn it with Synchronize, as it bounces all other status attacks back. However, Mew must be burned itself if it wants to burn Mega Sableye.
 
 Team Options
 ========
-Mew can wear down common stall Pokemon so that your sweepers can break past them. It can spread burns quite well, thus crippling many physical attackers. A burned Pokemon also makes for good setup fodder for your own sweepers. Mew hates status, so a cleric or a status absorber makes for a very good teammate. Clefable, specially defensive Gliscor, and Chansey can absorb status; Clefable and Chansey can even heal status from Mew. RestTalk Gyarados is a good status absorber and also checks both formes of Mega Charizard, which can switch into Mew quite easily. Something that can switch into Heatran, such as Rotom-W or Conkeldurr, is also appreciated.
 
-Entry Hazard Control
+Special attackers such as Mega Diancie and Raikou appreciate Mew beating specially defensive Pokemon such as Chansey and Ferrothorn one-on-one, and thus, they make for good partners. Setup sweepers such as Mega Charizard X, Mega Scizor, and Azumarill take advantage of Mew weakening physical attackers with burns, as they can use this to set up. Cleric support from Pokemon such as Chansey, Sylveon, and Clefable is appreciated to cure Mew from status. However, the former should only be used on defensive teams. Fighting-types such as Keldeo and Mega Lopunny are great partners for their ability to beat all Pursuit users themselves, and they have good synergy with Mew, as they resist Bug and Dark while Mew can switch into Psychic-type attacks for them. Other status absorbers such as Conkeldurr and Heatran are also good choices. The former can also beat common Pursuit users for Mew and has relatively good synergy with it.
+
+Defog
 ########
-name: Entry Hazard Control
+name: Defog
 move 1: Defog
 move 2: Soft-Boiled
-move 3: Will-O-Wisp
-move 4: Knock Off
+move 3: Will-O-Wisp / Taunt
+move 4: Psychic / Knock Off
 ability: Synchronize
 item: Leftovers
-evs: 252 HP / 104 Def / 152 Spe
-nature: Impish
+evs: 252 HP / 224 SpD / 32 Spe
+nature: Calm / Careful
 
 Moves
 ========
-Defog is the main move on this set, removing entry hazards on both sides of the field. Soft-Boiled provides recovery, allowing Mew to clear entry hazards throughout the game. Will-O-Wisp can burn the opposing Pokemon, slowly wearing them out and and crippling most physical attackers. Will-O-Wisp nullifies the Attack boost that Defiant users like Bisharp might get from switching into Defog. Knock Off is crucial in the last to reduce Mew's passivity and remove items from Pokemon such as Heatran and Landorus. Taunt is also an option to prevent setup and slower Stealth Rock users from continuing to set up the hazard. It is also very useful against opposing support Pokemon, as Mew is generally faster than most of them. However, the combination of Will-O-Wisp and Knock Off is usually enough to deter the things Taunt prevents, and losing either is severely detrimental. Stealth Rock can be used if your team lacks a setter. Mew can use Stealth Rock after Defog, ensuring that Stealth Rock is only up on the opponent's side of the field.
+
+Defog removes entry hazards on both sides of the field, which can be useful for teammates that are weak to Stealth Rock or lack recovery. Soft-Boiled heals 50% of Mew's HP and helps Mew stay healthy. Will-O-Wisp hampers physical attackers by burning them and also wears them down slowly by inflicting some damage at the end of each turn. Taunt can be used in the third slot because it cripples defensive Pokemon by forcing them to attack, and it also prevents foes from setting up. Psychic prevents Mew from being Taunt bait and has good power with decent coverage against Pokemon such as Mega Venusaur. On this set, Psychic is a superior option to Knock Off, as this set does not include the combination of Taunt and Will-O-Wisp and therefore values the extra power more. Knock Off is another option in the fourth slot for its ability to remove items from foes. Landorus and specially defensive Gliscor are punished by Ice Beam, which has decent power and good coverage and thus is a usable option. Stealth Rock is another option to use in a slot, as it damages foes each time they switch in, but is somewhat counterproductive with Defog, which removes it.
 
 Set Details
 ========
-The Speed EVs allow Mew to outspeed max Speed Jolly Mega Heracross so Mew can burn it before it attacks Mew. The rest is invested in HP and Defense so that Mew can counter Mega Medicham. A slower spread of 252 HP / 224 SpD / 32 Spe with a Careful nature, utilizing enough Speed investment to outspeed and burn Bisharp and max Speed Jolly Tyranitar before they can attack, and Special Defense investment that lets it tackle Stealth Rock Landorus. Leftovers is the item of choice and provides passive recovery.
+
+Synchronize spreads status to foes that inflict status on Mew, as long as they are not immune to that status. Leftovers provides some passive recovery for Mew. The HP and Special Defense investment gives a boost to Mew's bulk and lets it avoid the 2HKO from Latios's Draco Meteor and Modest Landorus's Earth Power after Stealth Rock, and a Careful nature gives another boost to Mew's Special Defense. The Speed EVs let Mew outspeed and burn Pokemon such as maximum Speed Tyranitar and Adamant Bisharp. A Calm nature should be used alongside Psychic, while a Careful nature should only be used if Mew is running Knock Off. A spread of 252 HP / 148 SpD / 108 Spe can be used to outspeed maximum Speed Jolly Bisharp as well as maximum Speed Jolly Breloom, but running it causes Mew to lose out on some bulk.
 
 Usage Tips
 ========
-This set works best on bulky offense and balanced teams. Mew can switch in on many defensive Pokemon, such as Ferrothorn, Skarmory, Hippowdon, and Chansey, Taunt them, and then use Defog. If the opponent has a Defiant user, it is generally better to not use Defog immediately. Will-O-Wisp is the better option in this case. Try to keep Mew at high health if the opponent's entry hazard setters have not been KOed yet. Don't use Mew as a wall; just use it as an utility Pokemon who can use Defog and stallbreak for your team. Don't bring it in on strong unresisted STAB moves, as its bulk is not spectacular and it will get worn down fast.
+
+This set fits best on balanced or bulky offense teams but doesn't fit on teams using entry hazards at all, as it functions as an entry hazard remover. Mew can switch into defensive Pokemon that set up entry hazards, Taunt them, and continue with Defogging the entry hazards away. Will-O-Wisp is Mew's primary option against physical attackers unless one of its teammates desperately needs its Defog support. Be careful with Defog if there is a Bisharp with Defiant on the opposing team - it can easily come in, get an Attack boost, and Pursuit trap Mew after. Mew can be used to tank opposing attacks from foes, as it has good overall bulk and can recover back any damage taken.
 
 Team Options
 ========
-Pokemon which appreciate the removal of entry hazards from their side of field, such as Charizard, Talonflame, Dragonite, Pinsir, and Kyurem-B, are good teammates. Mew appreciates teammates that can deal with strong Pursuit users such as Tyranitar and Bisharp. Hippowdon and Scizor can easily handle the aforementioned Pursuit trappers. Unaware Quagsire is a good teammate as it counters Defiant users. A Pokemon to take on Mega Charizard is needed as Mew can't do anything against either forme. Heatran is a good option as is RestTalk Gyarados. Mew appreciates cleric support as poison and burn ruin its bulk and force it to frequently waste turns by using Soft-Boiled. If you can't pack a cleric, a status absorber can work too. Again, RestTalk Gyarados is a good candidate.
+
+Pokemon weak to Stealth Rock that appreciate Mew's Defog support, such as Mega Charizard Y, Mega Pinsir, and Talonflame, make for good partners. Setup sweepers such as Mega Charizard X, Scizor, and Dragonite can use burned foes as a setup opportunity for themselves. Pokemon such as Raikou that struggle against defensive Pokemon are good choices because Mew can stallbreak for them. Cleric support from Clefable or Celebi is very nice because status will eventually wear Mew down. Fighting-types, such as Keldeo, Infernape, and Conkeldurr, are excellent partners for their ability to beat common Pursuit users. This set struggles against Fire-types, so teammates that can beat them one-on-one, such as Tyranitar and Gyarados, are good partners. This set is completely beaten by faster Taunt users, so Pokemon that can take the most common users such as Sableye on make for good partners. If running Stealth Rock, offensive Pokemon that take advantage of Stealth Rock to KO foes with more ease are good teammates.
 
 Other Options
 ########
 
-Due to its huge movepool, Mew has no lack of options. It can use both Swords Dance and Nasty Plot to good effect; however, it is let down by its mediocre Speed and four moveslot syndrome. Mew can also use a Choice set to grab surprise revenge kills, but its main selling point is its versatility, and it isn't an exceptionally good user as it lacks powerful and spammable STAB. Mew is one of the only Pokemon that can use Transform somewhat reliably due to its above-average bulk. A lead set with Taunt, Stealth Rock, Tailwind, and Explosion can also work quite well, but is generally not worth it over Azelf or an offensive setter such as Terrakion, Landorus, or Mamoswine that simply brings more to the table. Mew can also run a Baton Pass set with either Nasty Plot or Swords Dance and Rock Polish, which can be devastating to unprepared teams. Baton Pass can be used on any set to bypass Pursuit, provided that Mew is faster, although Pursuit is typically not a problem because of Will-O-Wisp.
+A set with Baton Pass and either Swords Dance, Nasty Plot, or Rock Polish can be used to allow teammates to sweep, but Scolipede does the former better and Celebi does the second better because of its superior defensive typing. An offensive set can be used to take advantage of Mew's huge coverage movepool, but Mew has low offensive stats compared to other Psychic-types such as Latios, which makes it unfit for this role. A lead set along the lines of Taunt, Stealth Rock, Tailwind, and Explosion is an option but is better done by Azelf because of its better Speed and offenses. A Choice set with Trick can be used to prevent setup while delivering some offensive presence, but most targets from Trick are crippled by Taunt and Mew's offensive presence is somewhat lacking compared to other Psychic-types such as Latios. Earth Power can KO Heatran, which Mew lures in, but has no other specific targets and thus isn't worth a main slash. Seismic Toss and Night Shade can be used, as they hit foes for consistent damage and hit Mega Pokemon harder, but Knock Off generally provides more utility. Thunder Wave is a utility move that cripples a lot of offensive Pokemon, as it lowers their Speed greatly, but Mew lacks the moveslot for it. Colbur Berry lets Mew take less damage from Knock Off and Pursuit, among other Dark-type moves, but the extra recovery of Leftovers is usually preferred. Transform is a final option that lets Mew transform into the opposing Pokemon and take an attack better by changing its typing, but this doesn't always work and takes up an important turn.
 
 Checks & Counters
 ########
 
-**Heatran**: Heatran sponges anything that the support sets can throw at it, although if Mew is running an offensive set with super effective coverage moves, the latter can win in an one-on-one situation.
+**Pursuit Trappers**: Pursuit trappers, such as Tyranitar, Bisharp, and Weavile, can trap Mew and OHKO it with Pursuit. The latter outspeeds it, but they all hate to get burned. Additionally, Bisharp can switch into a Defog to boost its Attack by two stages because of Defiant.
 
-**Prankster and Faster Taunt Users**: Prankster Taunt users such as Sableye and Thundurus can shut down the support sets easily.
+**Faster Taunt Users**: Faster Taunt users such as Azelf and Prankster Taunt users such as Sableye and Whimsicott limit Mew to only a single move.
 
-**Charizard**: Mega Charizard X can Dragon Dance on Mew and proceed to sweep its team, while Mega Charizard Y switches into Mew easily and can fire off sun-boosted Fire Blasts.
+**Fire-types**: Fire-types such as Heatran, Mega Charizard X, Mega Charizard Y, and Talonflame are immune to burns and can beat Mew with their STAB attacks. Heatran's Fire-type attacks get a boost if it switches into Will-O-Wisp thanks to Flash Fire.
 
-**Status**: Burn and poison ruin Mew's bulk by whittling down its HP and slowly wearing it out. Gliscor, especially if it is EV'd to outrun Mew, is a particular issue.
+**Status**: Toxic wears down Mew turn after turn and burn steadily takes off damage as well. However, the users must be wary of Synchronize because they may cripple themselves by inflicting the status.
 
-**Strong Special Attackers**: Strong special attackers, such as Mega Charizard Y and Choice Specs Keldeo, can easily 2HKO Mew and don't fear Will-O-Wisp.
+**Bug-types**: Bug-types such as Mega Scizor and Mega Beedrill can OHKO Mew with one of their STAB attacks after Stealth Rock damage. Both are crippled by burns, however.
+
+**Dark-types**: Dark-types such as Bisharp, Tyranitar, and Mega Sableye can all take Mew's hits. Bisharp and Tyranitar hate Will-O-Wisp, however, though Mega Sableye cannot be Taunted or burned and can set up on Mew while taking next to nothing from Knock Off.
+
+**Powerful Special Attackers**: Powerful special attackers such as Keldeo, Serperior, Dragalge, and Mega Charizard Y don't really get hampered by burns and can easily KO Mew with their STAB attacks. Substitute + Calm Mind Keldeo can set up as long as Mew does not run Psyschic while Charizard is immune to burns.

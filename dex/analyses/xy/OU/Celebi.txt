@@ -1,146 +1,120 @@
 Overview
 ########
-- 100 base stats across the board mean it can fill multiple roles.
-- Grass typing and Natural Cure allows Celebi to counter common Pokemon, such as Rotom-W.
-- Good offensive coverage with Leaf Storm, Earth Power, Psychic, and Hidden Power.
-- Good defensive movepool with Recover, Baton Pass, Thunder Wave, Heal Bell, and Stealth Rock.
-- Unfortunate typing, which leaves it with a ton of weaknesses, including a 4x weakness to Bug-type moves.
-- Faces competition for a Grass-type from Mega Venusaur.
 
-
-Offensive
-########
-Name: Offensive
-Move 1: Leaf Storm / Giga Drain
-Move 2: Earth Power / Psychic
-Move 3: Ancient Power / Hidden Power Fire
-Move 4: Recover
-Ability: Natural Cure
-Item: Life Orb
-Nature: Timid / Modest
-EVs: 252 SpA / 4 SpD / 252 Spe
-
-Moves
-======
-- Leaf Storm is Celebi's main STAB, which allows her to do massive damage to many Pokemon.
-- The combination of Earth Power and Ancient Power offers Celebi very effective coverage, while also being a great lure for Talonflame and Mega Charizard Y. It does, however, get walled by Pokemon such as Scizor, Ferrothorn, and Skarmory.
-- The combination of Psychic and Hidden Power Fire also gets great coverage, and it can actually hit Pokemon such as Szicor, Ferrothorn, and Skarmory. It's unable to hit the extremely common Heatran, however, and it can't lure out Charizard Y and Talonflame.
-- Giga Drain can be used as an option over Lead Storm, as it doesn't lower Celebi's Special Attack and it can recover HP. It's a lot weaker, however.
-
-Set Details
-=========
-- Life Orb allows Celebi to hit as hard as possible.
-- A Timid nature allows Celebi to Speed tie with Pokemon such as Charizard-Y, Manaphy, Staraptor, and Salamence.
-- If using the spread of Leaf Storm/Psychic/Hidden Power Fire, however, you aren't able to win these speed ties due to Hidden Power's lowered Speed IV. This then makes Modest the best nature, as it can hit hard while still outspeeding most under 100 Speed threats.
-- 252 SpA EVs allows Celebi to hit hard, while 252 Spe EVs allow Celebi to be as fast as possible.
-
-Usage Tips
-=========
-- Make sure to only use the combination of Grass move/Earth Power/Hidden Power Rock or Grass move/Psychic/Hidden Power Fire, as they offer the best coverage.
-- Use Celebi as a way to deal with Pokemon such as Rotom-W, as it's one of its best counters.
-- If you see a Heatran on the opposing team, try to keep Earth Power hidden, as it's usually unexpected and has a good chance to OHKO after Stealth Rocks.
-- Try to use Leaf Storm only when needed, as the Special Attack drop forces Celebi to switch out a lot of them time.
-- Natural Cure makes Celebi a good switch-in to status Pokemon, such as Thundurus.
-
-Team Options
-===========
-- Pokemon who don't like Rotom-W, such as Mega Pinsir, Talonflame, and (Mega) Scizor all appreciate Celebi's support.
-- Pokemon who can absorb U-turn, such as Landorus-T and Heatran work well with Celebi.
-- Rock-type Pokemon cover a lot of Celebi's weaknesses, making (Mega) Tyranitar a good partner.
-- Pokemon such as Manaphy and Azumaril can wear down Celebi's counters. They also appreciate Celebi's ability to absorb Electric- and Grass-type attacks.
-- Fire-types, such as Heatran, Charizard, and Talonflame can take Fire- and Bug-type attacks for Celebi, while appreciating Celebi's ability to absorb Water-type attacks.
-
-Defensive
-########
-Name: Defensive
-Move 1: Recover
-Move 2: Giga Drain / Psychic
-Move 3: Baton Pass / U-turn
-Move 4: Perish Song / Thunder Wave / Heal Bell
-Ability: Natural Cure
-Item: Leftovers
-Nature: Calm
-EVs: 248 HP / 252 SpD / 8 Spe
-
-Moves
-======
-- Recover keep Celebi healthy throughout the match, and allows her to continue walling without getting worn down.
-- Giga Drain can hit the Pokemon Celebi is walling, and makes sure it isn't complete Taunt bait.
-- Baton Pass allows Celebi to escape Pursuit users, such as Tyranitar and Bisharp.
-- Perish Song stops set-up sweepers from sweeping, and can also be a guaranteed win condition for when your opponent only has one Pokemon left.
-- Psychic is an option to hit Flying-, Poison-, Grass-, Dragon-, and Fighting-types harder, but it doesn't do as much to Water-, Ground-, Dark, and Psychic-type Pokemon, and doesn't recover HP.
-- U-turn can help gain momentum, but it means Celebi can still be Pursuit trapped.
-- Thunder Wave can also cripple set-up sweepers as well as fast attackers, but isn't a guaranteed win condition.
-- Heal Bell can be used to remove status from your teammates, though it doesn't help against offensive threats.
-
-Set Details
-=========
-- EVs allow Celebi to best tank special hits from the likes of Thundurus, Keldeo, Rotom-W, and more.
-- Calm nature further assists Celebi's special bulk.
-- Leftovers helps keep Celebi healthy throughout the match.
-
-Usage Tips
-========
-- Celebi is a great switch into special attackers like non-Nasty Plot Thundurus, Keldeo, Rotom-W, the Lati twins, Zapdos, and Politoad.
-- Make sure to use Recover often, you don't want Celebi to be weak when switching in.
-- If running U-turn, make sure to use it on predicted Pursuit-user switch-ins to avoid getting Pursuit trapped.
-- If running Perish Song, it can be a good idea to keep Celebi alive the entire match in order to guarantee a win.
-
-Team Options
-===========
-- Pokemon that dislike special Electric-, Water-, and Grass-type Pokemon, such as Skarmory, Landorus-T, Gliscor, and most Water-types pair well with Celebi.
-- Heatran forms the famous "CeleTran" combination.
-- Landorus-T, Gliscor, and Heatran can absorb U-turn for Celebi.
-- Pokemon who can absorb Dark- and Ghost-type moves, such as Tyranitar and Mandibuzz, also pair well with Celebi.
+Well-rounded stats and rather unique typing allow Celebi to check prominent threats such as Keldeo, Azumarill, Mega Diancie, Mega Lopunny, Rotom-W, and Mega Slowbro. Celebi has a solid movepool with various means of team support, including moves such as Nasty Plot, Swords Dance, Baton Pass, Stealth Rock, and Healing Wish. Celebi's ability, Natural Cure, is yet another means of team support, as it lets Celebi absorb status conditions for teammates. Unfortunately, Celebi is weak to common attacking types such as Bug, Fire, Flying, Ice, and Dark from Pokemon such as Scizor, Heatran, Tornadus-T, Kyurem-B, and Bisharp.
 
 Baton Pass
 ########
-Name: Baton Pass
-Move 1: Baton Pass
-Move 2: Nasty Plot / Swords Dance
-Move 3: Giga Drain / Seed Bomb
-Move 4: Recover
-Ability: Natural Cure
-Item: Leftovers
-Nature: Timid / Jolly
-EVs: 248 HP / 8 SpD / 252 Spe
- 
+name: Baton Pass
+move 1: Recover
+move 2: Baton Pass
+move 3: Giga Drain / Seed Bomb
+move 4: Nasty Plot / Substitute / Swords Dance
+ability: Natural Cure
+item: Leftovers
+evs: 252 HP / 148 Def / 108 Spe
+nature: Bold / Impish
+
 Moves
-======
-- Baton Pass is the crux of this set, allowing Celebi to send her boost to another one of Celebi's teammates.
-- Both Nasty Plot and Swords Dance can be passed by Celebi, which can help power up one of Celebi's teammates.
-- Giga Drain and Seed Bomb are Celebi's main STABs, and should be chosen depending on which boosting move you chose.
-- Recover allows Celebi to regain her health, which is vital for Baton Pass chains.
+========
+
+Recover provides a reliable method of replenishing Celebi's HP, which goes well in tandem with Celebi's solid defensive typing. Baton Pass lets Celebi maintain momentum, avoid Pursuit, and pass stat boosts and Substitute to a teammate. Giga Drain is a reliable STAB move that hits decently hard on neutral targets and is important to hit the Ground- and Water-type Pokemon that Celebi checks, such as Hippowdon and Rotom-W. Alternatively, Seed Bomb has slightly higher Base Power at the cost of the recovery provided by Giga Drain, and it should be used with Swords Dance. Nasty Plot boosts Celebi's Special Attack to high levels, allowing it to weaken a foe or pass the boosts to a teammate with Baton Pass. Furthermore, Nasty Plot allows Celebi to break through bulky setup sweepers, most notably Calm Mind Mega Slowbro. Substitute is another solid choice in the last slot to get a frail Pokemon such as Mega Beedrill or Mega Houndoom in safely, and it is also helpful to stall out weak defensive Pokemon's moves, such as Ferrothorn's Gyro Ball. Swords Dance boosts Celebi's Attack to great levels and also tends to be a bit more unexpected compared to Nasty Plot. Calm Mind is another option to provide a slower and bulkier approach to sweeping, and it gives Celebi more breathing room when passing boosts to a teammate.
 
 Set Details
-=========
-- Leftovers allow Celebi to stay healthy through out the match.
-- A Timid or Jolly nature allows Celebi to send its Baton Pass boost as fast as possible, and should be chosen based on what boosting move Celebi is using.
-- Max Speed further helps Celebi's Speed, while 248 HP EV's keep Celebi as bulky as possible.
+========
+
+The given EV spread with a Bold nature maximize Celebi's physical bulk to let it take hits from the likes of Azumarill and Mega Lopunny while outspeeding Jolly Bisharp in order to Baton Pass before it uses Pursuit. A specially defensive EV spread of 252 HP / 148 SpD / 108 Spe can be used to take hits better from the likes of Kingdra, Raikou, Latios, Latias, and Celebi. If Substitute is chosen, a more specific EV spread of 252 HP / 104 Def / 44 SpD / 108 Spe with a Calm nature can be used to prevent Choice Specs Keldeo's Scald from breaking the Substitute. Note that an Impish nature should be used with Seed Bomb. Leftovers provides essential passive recovery throughout the match. Natural Cure lets Celebi act as a status absorber for the team.
 
 Usage Tips
-=========
-- Make sure to keep Celebi as healthy as possible, as its death can ruin a Baton Pass chain.
-- Don't think Baton Pass Celebi is only usable on Baton Pass teams; it can work well on offensive teams, too.
+========
+
+Celebi should pivot into the Pokemon it checks, such as Slowbro, Keldeo, Manaphy, Mega Lopunny, Azumarill, and Rotom-W. Baton Pass is generally a safe move to go for early-game to maintain offensive momentum on predicted switches. Set up a Nasty Plot or a Swords Dance against a foe that Celebi forces out with its STAB move or on a passive defensive Pokemon such as Hippowdon, Azumarill, Mega Diancie, Gliscor, Ferrothron, or Chansey. After the boost has been accumulated, be sure to find the appropriate time to pass off the boosts to the appropriate teammate. Utilize Substitute's ability to stall out low PP moves of defensive Pokemon such as Ferrothorn, or set it up on a predicted switch to pass it off to a teammate. Always use Recover when low on health. When switching into the Pokemon Celebi typically walls, scout for coverage moves such as Icy Wind or Hidden Power Bug from Keldeo, Fire Blast from Slowbro, and Ice Beam from Manaphy. It is important to preserve Celebi throughout the battle if your opponent has a threatening Pokemon that Celebi can handle, such as Keldeo, Mega Diancie, or Mega Lopunny.
 
 Team Options
-===========
-- Common Pokemon in Baton Pass chains, such as Scolipede, Smeargle, Scizor, and the Eeveelutions all make good partners, as they can help accumulate boosts.
-- Mr. Mime and Espeon can help prevent phazing.
-- Pokemon who appreciate Nasty Plot boosts, such as Charizard Y, Heatran, the Lati twins, Gengar, and Keldeo all work well with Celebi.
-- Likewise, Pokemon who appreciate Swords Dance boosts, such as Azumarill, Conkeldurr, Mamoswine, and Mega Medicham all appreciate Celebi's boosts.
+========
+
+Fire-type Pokemon such as Mega Charizard X, Talonflame, and Heatran are good teammates, as they appreciate the pressure that Celebi puts on Rock-, Ground-, and Water-types. Heatran is one of the most notable teammates, as it has almost perfect type synergy with Celebi, covering Celebi's glaring weakness to Flying-types while only being neutral to Dark- and Ghost-type attacks. Water-types such as Azumarill, Keldeo, Mega Gyarados, and Crawdaunt also check the Fire-types that Celebi struggles with, and the last three cover Celebi's Dark-type weakness in one way or another. Special attackers that appreciate being passed a Nasty Plot boost, such as Keldeo, Mega Diancie, Mega Manectric, and Thundurus, make for solid partners. Physical attackers that appreciate a Swords Dance boost, such as Mega Aerodactyl, Mega Sharpedo, Mega Lopunny, and Diggersby, also make for excellent teammates. Volt Switch and U-turn users such as Rotom-W, Raikou, Diggersby, and Landorus-T make for good teammates to form a momentum core with Celebi's Baton Pass.
+
+Support
+########
+name: Support
+move 1: Giga Drain
+move 2: Recover
+move 3: Baton Pass / Thunder Wave
+move 4: Stealth Rock / Healing Wish / Perish Song
+ability: Natural Cure
+item: Leftovers
+evs: 252 HP / 156 Def / 84 SpD / 16 Spe
+nature: Bold
+
+Moves
+========
+
+Giga Drain is a mandatory STAB move to hit the Rock-, Ground-, and Water-types that Celebi checks such as Mega Diancie, Hippowdon, Rotom-W, and Keldeo. Recover replenishes Celebi's health and is essential for its survival throughout the battle when Giga Drain's recovery is not enough. Baton Pass lets Celebi escape Pursuit from the likes of Bisharp and provides helpful momentum on predicted switches. Alternatively, Thunder Wave is a solid choice to cripple common switch-ins such as Mega Metagross, Tornadus-T, Mega Gardevoir, Latios, and both of Charizard's Mega Evolutions. In addition, Thunder Wave prevents Celebi from being setup fodder for some of the aforementioned Pokemon as well as offensive Dragon Dance Mega Altaria. Celebi is an excellent Stealth Rock setter due to its solid matchup versus many opposing Stealth Rock and Rapid Spin users, such as Hippowdon, Terrakion, Excadrill, and Starmie. Alternatively, Healing Wish can be used to revive weakened teammates, particularly setup sweepers. Lastly, Perish Song is an option to put a timer on bulky setup sweepers such as Calm Mind Clefable and Calm Mind Mega Slowbro, but it should not be used alongside Baton Pass, which passes the effects of Perish Song onto a teammate. Note that Giga Drain and Recover are the only two mandatory moves on this set, and any combination of the other support moves in the last two slots can work perfectly fine depending on your team's needs.
+
+Set Details
+========
+
+The given EV spread and a Bold nature maximize Celebi's overall bulk, notably avoiding the 2HKO from Adamant Mega Lopunny's Return after Stealth Rock damage while outspeeding Adamant Bisharp to escape its Pursuit with Baton Pass or cripple it with Thunder Wave. A faster EV spread of 252 HP / 148 Def / 108 Spe can be used if Jolly Bisharp is an issue for your team. Using an EV spread of 252 HP / 144 Def / 96 SpD / 16 Spe gives Thundurus a significantly smaller chance to 2HKO Celebi with Life Orb-boosted Hidden Power Ice after Stealth Rock. Lastly, Leftovers are necessary for passive recovery throughout the match.
+
+Usage Tips
+========
+
+This set best functions as a glue and pivot for balanced and offensive teams. As such, Celebi should pivot into the Pokemon it checks, such as Mega Lopunny, Mega Diancie, Manaphy, Thundurus, and Keldeo. Use Recover to replenish Celebi's health when necessary and to stall out more Life Orb recoil on foes such as Thundurus. Baton Pass is a great move to use early-game to preserve momentum on forced switches and to escape Pursuit. Use Thunder Wave to cripple Celebi's switch-ins for a teammate to finish them off later on. Thunder Wave can occasionally pack a bit of a surprise factor, so try not to reveal it too early on. Be sure to scout for coverage moves from Pokemon that Celebi can typically switch into, such as Hidden Power Bug or Icy Wind from Keldeo as well as Fire Blast from Slowbro.
+
+Team Options
+========
+
+Fire-types such as Heatran, Talonflame, and Charizard partner well with Celebi, as they appreciate Celebi checking bulky Water-, Rock-, and Ground-types. Heatran sets itself apart from other Fire-types in that it also checks Flying-types such as Talonflame and Tornadus-T. Despite sharing a Flying weakness, Fighting-types such as Keldeo, Conkeldurr, and Mega Lopunny check Dark-types such as Bisharp that are a major thorn in Celebi's side. Setup sweepers in general make for excellent teammates, as they greatly appreciate either Stealth Rock support to wear down their checks and counters or Healing Wish to give them another chance at sweeping. Good examples include Mega Houndoom, Volcarona, Landorus, Azumarill, (Mega) Gyarados, and Dragonite.
+
+Nasty Plot + 2 Attacks
+########
+name: Nasty Plot + 2 Attacks
+move 1: Nasty Plot
+move 2: Giga Drain
+move 3: Recover
+move 4: Earth Power / Hidden Power Fire
+ability: Natural Cure
+item: Leftovers
+evs: 252 HP / 148 Def / 108 Spe
+nature: Bold
+
+Moves
+========
+
+Nasty Plot transforms Celebi into a decent threat capable of hitting hard while staying resilient thanks to Giga Drain's STAB and side effect. Recover only adds to Celebi's self-sustainability, giving it a consistent chunk of recovery in situations where Giga Drain's HP drain recovery isn't enough or reliable. Earth Power is preferred in the last slot for better Base Power and neutral two-move coverage; it is extremely effective against Heatran in particular, as well as other Steel- and Fire-type checks such as Bisharp, Mega Metagross, and Mega Charizard X. Hidden Power Fire, while much weaker, allows Celebi to eliminate Scizor, Ferrothorn, and Skarmory more efficiently while still maintaining coverage on other Steel-types except Heatran. Alternatively, Psychic can be used as a secondary STAB move, allowing Celebi to hit neutral targets even harder while gaining coverage against Mega Venusaur, Amoonguss, and Talonflame (on the switch). However, it leaves Celebi vulnerable to many Steel-types as well as Dark-types.
+
+Set Details
+========
+
+The given EV spread, along with a Bold nature, allows Celebi to outrun Jolly base 70 Speed Pokemon, Bisharp in particular, while giving it as much physical bulk as is allowed. With 252 HP / 148 Def, Celebi can reliably switch into and avoid being felled by common attacks; for example, it avoids the 2HKO from Azumarill's Knock Off and Play Rough, Jolly Mega Lopunny's Return, and Life Orb Excadrill's Iron Head, and it avoids the OHKO from Life Orb Jolly Bisharp's Knock Off and Landorus-T's U-turn. If Celebi runs Hidden Power Fire, then an alternate spread of of 252 HP / 144 Def / 112 Spe should be used. Given this set's pivotal nature, Leftovers is essential for passive recovery. Alternative EV spreads with a more offensive nature can be used for an offensive-focused playstyle rather than a defensive one. For instance, a spread of 84 HP / 252 SpA / 172 Spe with a Modest nature lets Celebi outspeed Timid Heatran and provides maximum damage output. More Speed investment with any nature is optional but lessens Celebi's bulk and consequently the number of Pokemon it can reliably check.
+
+Usage Tips
+========
+
+While Nasty Plot may make this set seem fitted for sweeping, this set actually functions as a more aggressive and less passive method of utilizing Celebi's supportive traits. With two attacks in tow, Celebi gains better overall coverage, giving it leverage against its usual counters, such as Skarmory, Bisharp, Heatran, and (Mega) Scizor. Note that Celebi tends to lure these threats in, so with the appropriate coverage attack, it can easily eliminate or severely weaken them. Nasty Plot is used simply to augment Celebi's power, allowing it to be both a great defensive and offensive threat at once whenever required in the battle. As noted in the Set Details, Celebi is able to avoid KOs from a number of attacks, so it has plenty of opportunities to switch into such attacks, Recover the damage off, and set up. Keep in mind, however, that without investment, Celebi requires quite a few Nasty Plot boosts to be remotely threatening to several threats. For instance, Celebi can never OHKO bulkier variants of the aforementioned Steel-types without being at +2, while neutral targets such as Mega Gardevoir, Mega Gallade, Chansey, and Mew require a few more boosts for Celebi to safely 2HKO them or stall with Giga Drain. Additionally, if hard checks or counters such as Weavile, Charizard, or Talonflame are present, it is not recommended to set up Nasty Plot too early lest you instantly lose a good lure and pivot. It is also wise to scout for dangerous moves beforehand, including Hidden Power Bug from Keldeo, Life Orb-boosted Ice Beam from Starmie, Sludge Wave from Landorus, and Encore from Mega Lopunny.
+
+Team Options
+========
+
+Generally speaking, this Celebi set is for teams that appreciate its supportive and pivoting capabilities with an offensive twist. This set tends to perform best on balanced teams; unlike more offensive teams, they tend to not mind Celebi's slower Speed and lack of good coverage, and they usually employ defensive Pokemon that synergize well with Celebi. Heatran is one such Pokemon that is capable of switching into common Bug-, Ice-, and Fire-type attacks while compensating for Celebi's coverage issues with Fire- and Ground-type attacks of its own. Water-types such as Politoed and Rotom-W handle Fire- and Ice-type attacks as well; the former is notable for removing Celebi's Fire-type weakness and supporting other Water-type sweepers (such as Kingdra and Keldeo) with Drizzle, while the latter can provide general utility with Will-O-Wisp and Volt Switch. Celebi's typing and offensive presence also allow it to function well on sandstorm teams, as it can easily switch into Fighting-, Water-, and Grass-type attacks typically aimed at typical sandstorm-based Pokemon and then retaliate with an attack or use Recover to restore health and pivot out. In turn, Tyranitar, Excadrill, and Hippowdon can cover Celebi's usual counters and weak points, especially its tendency to become dead weight or setup bait for the likes of Talonflame, Mega Charizard X and Y, Mega Altaria, and Latias. Moreover, if Celebi opts to run Hidden Power Fire, it can lure in and significantly weaken Skarmory and Ferrothorn, giving Excadrill much more breathing room to sweep without interruption. The luring aspect also benefits non-sandstorm-based attackers, such as Kingdra, Mega Gardevoir, Mega Altaria, Mega Gyarados, Clefable, and Mega Diancie, all of which require certain Steel-types to be weakened or eliminated before sweeping.
 
 Other Options
-##########
-- Thunder Wave or U-turn on the offensive set.
-- Stealth Rock on the defensive set.
-- Calm Mind on the Baton Pass set.
-- Choice Scarf.
+########
+
+An offensive set with moves such as Leaf Storm, Hidden Power Fire, Psychic, and Earth Power and either a Life Orb or Expert Belt can be used, but Celebi is much better suited to a defensive role. In a similar vein, a Choice Scarf set can be used to revenge kill boosted sweepers and fast offensive Pokemon such as Mega Gyarados and Mega Lopunny and provides a fast Healing Wish as well as a bit of a surprise factor. Rest can be used to fully heal Celebi and works in tandem with Natural Cure, but this comes at the cost of vital momentum. U-turn deals damage while still gaining momentum, but unlike Baton Pass it is usually the inferior choice due to the fact that it can be Pursuit trapped. Heal Bell can be helpful to remove status conditions from teammates, but Celebi already functions as a status absorber. Leech Seed can be used if you want more recovery than just Leftovers and can be great for whittling down offensive Pokemon that resist Celebi's STAB combination, such as Mega Metagross.
 
 Checks & Counters
-#############
-- Bug-types/U-turn users threaten Celebi out.
-- Fire-types, such as Mega Charizard Y, Talonflame, and Air Balloon Heatran avoid Earth Power, resist Grass-type moves, and scare Celebi out.
-- Flying-types, such as Mega Pinsir, Mandibuzz, Staraptor, and Tornadus all hit Celebi for good damage.
-- Bisharp and Gengar hit Celebi super-effectively, but must watch out for Earth Power and Psychic, respectively.
-- Bulky Dragons, such as the Lati twins and Goodra also deal with Celebi well. Defensive Celebi, can, however, stall out the Lati twins.
+########
+
+**Bug-types**: If Celebi forgoes Hidden Power Fire or doesn't have multiple boosts up, it will have a tough time defeating Mega Scizor. It has high bulk, reliable recovery, and multiple moves that hit Celebi super effectively, including U-turn, which will always OHKO. Heracross and Mega Heracross resist Giga Drain and can easily OHKO Celebi but dislike being paralyzed from Thunder Wave.
+
+**Flying-types**: Talonflame has priority on all of its Flying-type moves and usually carries three attacks that all hit Celebi for super effective damage. If you can predict a Roost and use Earth Power or predict it to switch in and hit it with Psychic, then you have a chance of beating it. Other than that, it's just a miserable matchup. Skarmory can set up entry hazards, phaze Celebi, Taunt it, or simply attack it if packing Brave Bird without the slightest concern if Celebi isn't carrying Hidden Power Fire. Skarmory takes next to no damage from any of its other moves and can simply Roost off any entry hazard or passive damage that it had racked up earlier on in the match. Tornadus-T can switch in freely on a Giga Drain and threatens Celebi with a powerful Hurricane, but it hates being hit with a Thunder Wave. Mega Pinsir 4x resists Giga Drain and deals massive damage with Aerilate-boosted Return. Hawlucha can use Celebi as setup fodder for Swords Dances, and it can avoid a potential Thunder Wave with Substitute.
+
+**Taunt**: Taunt users such as Gengar, Thundurus, and Tornadus-T prevent Celebi from using its support moves. In addition, all three of these Pokemon resist Giga Drain, but Gengar must be wary of the occasional Psychic, and Tornadus-T is severely crippled by Thunder Wave.
+
+**Fire-types**: If Celebi doesn't run Earth Power, it is brutally beaten by Heatran, as Lava Plume hits Celebi hard. Heatran completely counters Celebi if it is running Air Balloon and can even Roar away any stat boosts. Victini, Mega Charizard X, and Mega Charizard Y resist Giga Drain and can use Celebi as setup fodder if it is lacking Thunder Wave or Perish Song.
+
+**Dark-types**: Bisharp, Tyranitar, and Weavile take minimal damage from Giga Drain and can either Pursuit trap a slower Celebi or deal heavy damage with Knock Off or Crunch.
+
+**Poison-types**: Gengar, Mega Venusaur, and Dragalge resist Giga Drain and can severely dent Celebi with their STAB moves. Unlike the others, Tentacruel takes neutral damage from Giga Drain but damages Celebi on its use with Liquid Ooze. Landorus also tends to run Sludge Wave for Grass-types such as Celebi, and the move hits extremely hard backed by a Life Orb and Sheer Force. 

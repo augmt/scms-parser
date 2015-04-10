@@ -10,7 +10,7 @@ name : Physical Attacker
 move 1: Fake Out
 move 2: Double-Edge / Return
 move 3: Sucker Punch
-move 4: Earthquake / Drain Punch
+move 4: Earthquake / Aqua Tail
 ability: Scrappy
 item: Silk Scarf / Leftovers
 evs: 4 HP / 252 Atk / 252 Spe
@@ -19,7 +19,7 @@ nature: Adamant / Jolly
 Moves
 ========
 
-Fake Out gives Kangaskhan a good priority attack that flinches the opposing Pokemon on the first turn, letting Kangaskhan easily finish off weakened opponents. Double-Edge is a powerful STAB move that puts big dents into teams. Return is a slightly weaker STAB move to be used in the place of Double-Edge should you wish not to take recoil damage. Sucker Punch gives Kangaskhan nice dual priority in combination with Fake Out. Earthquake gives Kangaskhan good coverage, hitting Steel- and Rock-type Pokemon hard. Drain Punch also gives Kangaskhan good coverage on these Pokemon, while regaining HP at the same time; however, Drain Punch is rather weak compared to Earthquake.
+Fake Out gives Kangaskhan a good priority attack that flinches the opposing Pokemon on the first turn, letting Kangaskhan easily finish off weakened opponents. Double-Edge is a powerful STAB move that puts big dents into teams. Return is a slightly weaker STAB move to be used in the place of Double-Edge should you wish not to take recoil damage. Sucker Punch gives Kangaskhan nice dual priority in combination with Fake Out. Earthquake gives Kangaskhan good coverage, hitting Steel- and Rock-type Pokemon hard. Aqua Tail provides excellent coverage on Rhydon, a typical answer to Kangaskhan. 
 
 Set Details
 ========
@@ -29,7 +29,7 @@ Silk Scarf boosts Normal-type moves while not sacrificing HP, while Leftovers ca
 Usage Tips
 ========
 
-Kangaskhan is a fantastic revenge killer, so you should bring it in on a weakened enemy and use its priority moves to finish the opponent off. Some opponents will predict the obvious Fake Out and switch out right away: try to predict the switch and go for Double-Edge instead to get more damage on the switch-in and possibly 2HKO it. Watch out for Ghost-types with Will-O-Wisp, as they will use it when predicting Sucker Punch. Instead, either switch out, or go for Double-Edge. Kangaskhan can be used as a mid-game cleaner against slower teams, coming in and KOing weakened and slower Pokemon. It is best to soften up its checks and counters early in the game before attempting to clean. Against faster teams Kangaskhan should try denting opposing Pokemon mid-game with Double-Edge.
+Kangaskhan is a fantastic revenge killer, so you should bring it in on a weakened enemy and use its priority moves to finish the opponent off. Some opponents will predict the obvious Fake Out and switch out right away: try to predict the switch and go for Double-Edge instead to get more damage on the switch-in and possibly 2HKO it. Watch out for Ghost-types with Will-O-Wisp, as they will use it when predicting Sucker Punch. Instead, either switch out, or go for Double-Edge. Kangaskhan can be used as a mid-game cleaner against slower teams, coming in and KOing weakened and slower Pokemon. It is best to soften up its checks and counters early in the game before attempting to clean. Against faster teams Kangaskhan should try denting opposing Pokemon mid-game with Double-Edge. If the opponent has a Garbodor or Rhydon, it is very beneficial to hit them on the switch with the appropriate coverage move, Earthquake or Aqua Tail respectively.
 
 Team Options
 ========
@@ -71,7 +71,7 @@ Kangaskhan appreciates entry hazard support, which helps to wear down its checks
 Other Options
 ########
 
-Aqua Tail is a great alternative coverage move on Kangaskhan, as it can be used to lure in Rhydon, a common check, and 2HKO it. Fire Punch can be used to specifically hit Ferroseed; however, the coverage it provides is not too great, and there are other ways of dealing with Ferroseed. Hammer Arm can be used over Drain Punch as a more powerful Fighting-type move; however, it drops Kangaskhan's Speed and does not offer any recovery. Wish can be used on offensive Kangaskhan as a way to regain HP, though this requires your team to be able to deal with Rock- and Steel-type Pokemon that could hard wall Kangaskhan otherwise. Circle Throw can be used on a bulkier Kangaskhan set in conjunction with entry hazards as a way to quickly wear down opposing teams. A Substitute and Focus Punch set can be used to hit opposing Pokemon really hard. Facade can be used as Kangaskhan's STAB move if you are worried about getting statused.
+Drain Punch can be used as an alternative to hit Rock- and Steel-types, but is fairly weak. Fire Punch can be used to specifically hit Ferroseed; however, the coverage it provides is not too great, and there are other ways of dealing with Ferroseed. Hammer Arm can be used over Drain Punch as a more powerful Fighting-type move; however, it drops Kangaskhan's Speed and does not offer any recovery. Wish can be used on offensive Kangaskhan as a way to regain HP, though this requires your team to be able to deal with Rock- and Steel-type Pokemon that could hard wall Kangaskhan otherwise. Circle Throw can be used on a bulkier Kangaskhan set in conjunction with entry hazards as a way to quickly wear down opposing teams. A Substitute and Focus Punch set can be used to hit opposing Pokemon really hard. Facade can be used as Kangaskhan's STAB move if you are worried about getting statused.
 
 Checks & Counters
 ########
@@ -82,7 +82,7 @@ Checks & Counters
 
 **Physical Walls**: Physical walls such as Gourgeist-S and Weezing can take multiple hits from Kangaskhan and proceed to hit it with a status move such as Will-O-Wisp, recover off damage, or use utility moves such as Toxic Spikes and Leech Seed.
 
-**Bulky Steel- and Rock-types**: Bulky Steel-type Pokemon such as Steelix and Metang and bulky Rock-types such as Regirock and Rhydon take minimal damage from Kangaskhan's STAB moves and can survive multiple hits from either Earthquake or Drain Punch. Regirock also can cripple Kangaskhan with Thunder Wave.
+**Bulky Steel- and Rock-types**: Bulky Steel-type Pokemon such as Klinklang and bulky Rock-types such as Regirock and Rhydon take minimal damage from Kangaskhan's STAB moves and can survive multiple hits from either Earthquake or Drain Punch. Regirock also can cripple Kangaskhan with Thunder Wave. Rhydon must be wary of an Aqua Tail, which deals heavy damage.
 
 **Ferroseed**: Ferroseed gets a special mention as Iron Barbs and Leech Seed cause a lot of residual damage to Kangaskhan, and Earthquake and Drain Punch deal pitiful damage to Ferroseed. Ferroseed can also set up Spikes, while wearing Kangaskhan down and staying at good health by racking up extra Leech Seed recovery with Protect.
 

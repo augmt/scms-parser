@@ -1,7 +1,7 @@
 Overview
 ########
 
-Volcarona is an interesting Pokemon that has access to one of the best boosting moves in the game, Quiver Dance, making it a truly formidable sweeper. With good STABs, reliable recovery, and a fantastic setup move, one might think Volcarona would be a common OU Pokemon. Sadly, Volcarona has some crippling flaws that hold it back, such as a glaring 4x weakness to Stealth Rock, a case of four-moveslot syndrome, and low physical bulk. In addition, Volcarona matches up poorly against some of the most prominent OU playstyles in the current metagame, such as Flying-type and sand offense, both of which can severely limit its effectiveness. However, with proper team support, Volcarona can easily break teams in two, and can also be used as a reliable win condition.
+Volcarona has a strong offensive presence that defines its role in the OU tier. Capable of destroying teams after a boost, it needs only the slightest invitation to start setting up and ending the game there and then. Its huge threat comes from its potent Fire and Bug STAB attacks and access to coverage moves to beat foes that could otherwise take it on, making it difficult to reliably handle. Access to one of the best boosting moves in the game in Quiver Dance only makes it more threatening to be up against, boosting its huge base 135 Special Attack while giving it the Speed to beat offensive threats and making it harder to take down with special attacks. Its solid albeit unspectacular bulk gives it many setup opportunities, notably on Grass-types such as Celebi and Ferrothorn. However, while Volcarona has great offensive presence, it does have some notable flaws. Its huge weakness to Stealth Rock mandates some form of entry hazard removal alongside it, and while most teams would run this anyway, it means that teams utilizing Volcarona are committed to removing entry hazards at every opportunity, giving free turns to the opponent and losing a lot of momentum in the process. Also, depending on what coverage moves it runs, Volcarona will struggle to get past some common Pokemon in the tier, usually Fire- or Dragon-types, necessitating their removal before Volcarona can attempt to sweep. It also struggles to do anything against stall while the ever common Chansey is still alive, meaning that it can be difficult to utilize in this matchup.
 
 Offensive Quiver Dance
 ########
@@ -9,86 +9,50 @@ name: Offensive Quiver Dance
 move 1: Quiver Dance
 move 2: Fire Blast
 move 3: Giga Drain
-move 4: Hidden Power Ground / Bug Buzz
+move 4: Bug Buzz / Hidden Power Ground
 ability: Flame Body
-item: Passho Berry / Life Orb / Lum Berry
-evs: 96 HP / 252 SpA / 160 Spe
-nature: Modest
-
+item: Passho Berry / Lum Berry
+evs: 72 HP / 252 SpA / 184 Spe
+nature: Timid
 
 Moves
 ========
 
-Volcarona was blessed with Quiver Dance, a move that boosts the user's Special Attack, Special Defense, and Speed stats by one stage, making it an extremely potent sweeper, as well as making it trickier to revenge kill with a special move. Fire Blast is ridiculously powerful backed up by a Life Orb boost. It rips and tears at +1, breaking down and delivering a 2HKO to specially bulky Pokemon such as Sylveon. Giga Drain is almost necessary, providing a way for Volcarona to defeat bulky Water-types, and has the added bonus of being able to mitigate Life Orb damage. In addition, it can KO Keldeo, Terrakion, Gyarados, and Manaphy after Stealth Rock, which would otherwise be massive threats. Hidden Power Ground is used to KO Heatran and Mega Charizard X, two common Pokemon that resist Fire/Grass coverage. However, Bug Buzz is a viable option to KO Tyranitar, Latios, and Latias at +1, which could otherwise wall Volcarona.
+Even just one use of Quiver Dance puts Volcarona at a great Speed tier, outspeeding Choice Scarf Landorus-T while also giving it the power to sweep through teams. Fire Blast is Volcarona's most powerful STAB move without a negative secondary effect and hits very hard at +1. Giga Drain allows Volcarona to hit Water-type Pokemon that resist its powerful Fire Blast such as Keldeo, Manaphy, and Azumarill. Bug Buzz has good neutral coverage and hits foes which otherwise would be able to stop Volcarona's sweep due to their ability to take even a +1 Fire Blast or Giga Drain, and retaliate with either status or heavy damage, such as Latias, Latios, and Tyranitar. Alternatively, Hidden Power Ground allows Volcarona to hit bulky Fire-types such as Heatran and Mega Charizard X, which would otherwise take any hit from Volcarona and either phaze it or just KO it.
 
 Set Details
-=======
+========
 
-160 Speed EVs let Volcarona outspeed Mega Manectric and Choice Scarf Heatran after a boost as well as Adamant Excadrill outside of sand before. 252 Special Attack EVs with a Modest nature maximize Special Attack, while 96 HP EVs give Volcarona an odd HP stat, giving it three switch-ins to Stealth Rock. Passho Berry allows Volcarona to set up in a pinch or avoid a revenge kill from the likes of Keldeo and Azumarill. Alternatively, Life Orb delivers a large boost to power, while Lum Berry is a good alternative to prevent status.
-
+Special Attack is maximised because Volcarona needs as much firepower as possible. The Speed EVs with a Timid nature allow Volcarona to outspeed Choice Scarf Landorus-T at +1, and anything under base 92 Speed. The rest of the EVs are put into HP to increase Volcarona's bulk in order to take hits better while setting up. Alternatively, maximum Speed allows Volcarona to at least tie with other base 100 Speed Pokemon such as Mega Gardevoir and Mega Charizard X before a boost. Passho Berry allows Volcarona to survive a strong Water-type move once, which allows Volcarona to set up on some common Water-types, such as Manaphy, or prevent powerful Water-type priority, such as Choice Band Azumarill's Aqua Jet, from ending its sweep prematurely. Lum Berry allows Volcarona to shake off status once, allowing it to either set up easier against Toxic users or continue its sweep against the likes of Prankster Thunder Wave from Thundurus. Finally, Flame Body allows Volcarona to potentially cripple physical attackers that hit its weaker Defense stat in order to beat it. Getting revenge killed by the likes of Azumarill or Mega Pinsir, for example, will make them vulnerable to Volcarona's Flame Body, and getting lucky enough to get a burn on them will cripple them heavily and help Volcarona's teammates.
 
 Usage Tips
 ========
 
-When attempting to finish and clean the opposing team, Volcarona is ideally used late-game, when any checks or counters to it have been defeated or severely weakened, allowing it to set up and mercilessly rampage through the opposing team with no interruption. To make this easier, keeping Stealth Rock off the field is imperative, as otherwise Volcarona will be much easier to check and often won't get as many opportunities to set up. Additionally, Volcarona is countered and checked by commonly used Pokemon such as Heatran, meaning that Volcarona can be used to lure them in and KO them with a super effective Hidden Power. If such a Pokemon is on the opposing team, Volcarona can be sent out earlier to start setting up, which can lure the opponent into sending out their Volcarona check, only to be defeated by a surprise Hidden Power.
+Due to Volcarona's huge Stealth Rock weakness, it is absolutely recommended that any entry hazards are removed before Volcarona comes in, as after the damage it takes upon switching in, it will be very difficult to find the chance to set up. Volcarona fares best in the mid- or late-game when its checks have been worn down to a sufficient degree that it might be able to initiate a sweep. It also tends to find more setup opportunities at these points in the game, as it can set up on Pokemon such as -2 Latios and threaten to overwhelm teams. Early-game, Volcarona is best brought in on Pokemon that can't threaten it, such as Celebi and Ferrothorn, and firing off attacks in an attempt to wear down its checks. Volcarona is usually such a threat that opponents will not hesitate to send in their checks to prevent it from doing too much early on, meaning you can utilize this to wear them down. Setting up early with Volcarona is not advised; due to the lack of recovery on this set, it normally only gets one chance to sweep, so judging when is best to start using Quiver Dance is vital to fulfill its potential.
 
 Team Options
 ========
 
-Entry hazard removal is the first thing needed when using Volcarona, as being 4x weak to Stealth Rock almost always requires a hazard remover. Pokemon such as bulky Starmie, Excadrill, and Latias are good at this role and remove hazards very efficiently. Physical wallbreakers such as Choice Band Terrakion can regain momentum and force out Volcarona's checks and counters, while being able to demolish anything that stands in their way. Pokemon that can lure in and beat Volcarona's counters such as Knock Off Landorus are fantastic partners, weakening them and allowing Volcarona a much easier time sweeping without interruption. Another solid partner is Keldeo, which can defeat Chansey and Blissey with Secret Sword, while Volcarona can beat bulky Grass-types that stop Keldeo from spamming its Water STAB moves. The two carry decent defensive synergy as well, with Keldeo resisting Rock and Water, and Volcarona resisting Grass. A very common and reliable check to Volcarona is Talonflame, so Pokemon that can force out or KO it such as Rotom-W and Tyranitar make good partners. Tyranitar can also Pursuit trap Latios and Latias, which can check any Volcarona set lacking Bug Buzz.
+The first thing you should consider when choosing potential teammates for Volcarona is how you're going to remove entry hazards. Rapid Spin users are fantastic choices, as they allow you to preserve the entry hazards Volcarona appreciates on the opposing side of the field while clearing your side of any hazards. Starmie in particular synergizes well with Volcarona, and it appreciates Volcarona's ability to scare away Ferrothorn and Celebi. If Rapid Spin users can't fit onto your team, both Defog and Magic Bounce users can prevent entry hazards on your side. Latios and Latias are two of the most consistent Defog users in the tier, and can switch into Keldeo and other Water-types if you don't want to use Volcarona's Passho Berry at that point in the game. Mega Sableye can switch into many entry hazard setters in the tier and stop them in their tracks, while Volcarona can aid it in being able to take on many Fairy-types in the tier.
 
-Bulky Quiver Dance
-########
-name: Bulky Quiver Dance
-move 1: Quiver Dance
-move 2: Fire Blast / Fiery Dance
-move 3: Giga Drain
-move 4: Roost
-ability: Flame Body
-item: Leftovers / Lum Berry
-evs: 248 HP / 136 Def / 124 Spe
-nature: Bold
-
-
-Moves
-========
-
-Quiver Dance is your first and best choice for a setup move, boosting Volcarona's Special Attack, Special Defense, and Speed stats by one stage each. This makes Volcarona a terrifying sweeper, while the addition of the move Roost makes it much more difficult to wear down. This gives Volcarona much-needed longevity, which in turn allows it to acquire many more boosts over the course of the match, eventually overwhelming the opponent. Fire Blast is Volcarona's strongest STAB move, pummeling things with its sheer power. However, Volcarona's signature move—Fiery Dance—can be put to good use here, as every time it inflicts damage, there is a 50% chance of raising Volcarona's Special Attack by one stage, making it become more powerful as it starts sweeping, at the cost of quite a bit of power. Giga Drain is absolutely mandatory, as otherwise, Volcarona loses to any Rock- or Water-types that it comes across; it also allows Volcarona to restore its health to some degree.
-
-Set Details
-=======
-
-248 HP EVs are used in order to take hits better and allow three switch-ins with Stealth Rock on the field. 124 Speed EVs are used to outspeed neutral-natured Mega Alakazam and Mega Aerodactyl at +1, with the rest of the EVs put into Defense. To further increase Volcarona's physical bulk, a Bold nature is used. Leftovers is used for slight recovery, whereas Lum Berry offers Volcarona a one-time cure for status.
-
-
-Usage Tips
-========
-
-This set Volcarona set plays much differently from the more offensive sets, as it lacks immediate power even after a boost; as such, it must have its checks and counters defeated or weakened to the point where it can handle them. This is because the set plays the roles of both a boosting sweeper and your win condition in most games, so it should be left in reserve until the opponent has nothing that can threaten it and it can use Quiver Dance until it obtains enough boosts to sweep. Using Roost to mitigate Stealth Rock damage is also an option and is often needed when an opportunity to set up presents itself.
-
-Team Options
-========
-
-As with all Volcarona sets, the first order of business is to have Pokemon that can keep Stealth Rock off the field. Defoggers such as Latios and Latias are great partners due to resisting Water and being able to use Defog quickly thanks to their high Speed stats. Keldeo and Landorus are amazing partners, due to their ability to defeat Chansey and put pressure on most special walls. Tyranitar and Rotom-W are also amazing teammates, being able to handle most Talonflame sets. Tyranitar can also set up Stealth Rock, which can wear down the opposing team, whereas Rotom-W can use Will-O-Wisp to cripple physical attackers, helping Volcarona take neutral or resisted hits much better as it sets up.
-
-
+Offensive teammates generally vary depending on the coverage choices made; sets without Hidden Power Ground require a teammate that can remove Heatran, such as Keldeo and Starmie. Dugtrio can even trap it and remove it without needing to predict; however, bringing it in against Heatran can be tricky. Sets without Bug Buzz will generally struggle to break down bulky Psychic-types, so pairing Volcarona with a Pursuit trapper such as Tyranitar or Bisharp can alleviate this issue, and Volcarona can support these Pokemon by taking on the likes of Scizor and Breloom. Whatever coverage options are chosen, Talonflame and Mega Charizard Y will always threaten Volcarona, so team options to deal with these Pokemon are necessary. Both hate Stealth Rock, so setting this up is a great start to beating them. Tyranitar is a very smart option, being able to set up the entry hazard consistently and also check Talonflame, though it must be wary of Mega Charizard Y's Focus Blast. Mega Manectric can threaten both with its powerful Thunderbolt and great Speed, as well as potentially giving Volcarona free switches with Volt Switch. Finally, sun support turns Volcarona into a real nuke, but the only viable setter of it is Mega Charizard Y, which cannot hold a Heat Rock and shares a 4x weakness to Stealth Rock, meaning entry hazard removal will be incredibly vital to any team wishing to run this pair.
 
 Other Options
-#########
+########
 
-Volcarona has a few other options, such as Hidden Power Ice, which it can use to dispatch of Dragonite after Stealth Rock damage and Garchomp, two Pokemon that would otherwise be able to tank Volcarona's Fire STAB moves, with Garchomp also standing a decent chance to survive Bug Buzz from the offensive set. Roost and Fiery Dance are both options for the offensive set, as Fiery Dance can allow Volcarona to become progressively stronger as it sweeps while still doing damage, whereas Roost mitigates Life Orb recoil and can provide Volcarona with more longevity. A more gimmicky set with Rest+Chesto Berry could work, getting boosts in and then using Rest to cure any status and damage done. Finally, Hidden Power Rock is a great move to KO Mega Charizard X and specially defensive Mega Charizard Y, as well as hitting Talonflame on the switch.
-
-
+Sitrus Berry is an alternative item over Passho or Lum Berry, helping Volcarona if its teammates could not remove Stealth Rock before it came in, allowing it to be at a reasonable amount of health to attempt setting up. However, it only works once and generally doesn't help Volcarona as much in sweeping as the other Berries used. Expert Belt or Charcoal can be used instead of the Berries mentioned; Charcoal powers up the already very spammable Fire Blast, while Expert Belt makes use of Volcarona's great coverage. Life Orb grants Volcarona incredible power and allows it to wallbreak with more success, but it makes Volcarona much more limited to the late-game as a sweeper due to Life Orb recoil racking up if it tries to fire off too many attacks early-game. A bulky set with Quiver Dance and Roost could be used instead of the offensive Quiver Dance set, but it's generally lackluster, as it deprives Volcarona of necessary coverage and does not give Volcarona enough Speed to outspeed fast threats such as Choice Scarf Landorus-T at +1. As for extra coverage, Hidden Power Ice can be an interesting option, allowing Volcarona to break through the likes of Dragonite, which would otherwise be a strong answer to it. Fiery Dance offers a 100% accurate STAB move with a 50% chance to raise Volcarona's Special Attack, but the power difference between it and Fire Blast is very notable, especially when Volcarona is unboosted.
 
 Checks & Counters
-#########
+########
 
-**Fire-types**: Specially defensive Fire-types, such as Heatran, Mega Charizard X, Mega Charizard Y, and Talonflame, can handle offensive Volcarona to a good degree, only fearing a stray Hidden Power Ground or Hidden Power Rock. Talonflame is the best check, as Gale Wings allows Brave Bird to ignore Volcarona's Speed Boosts; it only fears Hidden Power Rock on the switch. Specially defensive Fire-types also easily beat the bulky set, which would have to sacrifice a better move to be able to lure and beat them.
+**Chansey**: Thanks to its incredible special bulk, Chansey walls even boosted Volcarona effectively and can either wear it down with Seismic Toss or Toxic or choose to paralyze it and take away its chance at sweeping.
 
-**Bulky Special Walls**: Chansey and Blissey are great counters to Volcarona, being able to come in on boosted hits, and use Thunder Wave or Toxic in order to cripple it and prevent a sweep. They can also use Soft-Boiled to heal off any damage taken.
+**Stealth Rock**: Taking 50% damage as it comes in really hinders Volcarona's ability to set up and makes it that much more susceptible to having its sweep ended by priority.
 
-**Rock-types**: While slightly more shaky than Fire-types, faster Rock-types like Mega Aerodactyl and Scarf Terrakion can check both Volcarona sets, with the former being able to survive a +1 Life Orb-boosted Giga Drain after Stealth Rock. Tyranitar beats any set lacking Bug Buzz, making it an ideal check as well.
+**Bulky Dragon-types**: Mega Altaria and Dragonite in particular can stop Volcarona in its tracks, not fearing any of its common sets. Bulky Mega Charizard X can do the same to an extent but dislikes boosted Hidden Power Ground, especially if it's taking Stealth Rock damage as it comes in.
 
-**Stealth Rock**: Stealth Rock chips away half of Volcarona's health each time it switches in, making it a priority to set it up when Volcarona is on the opposing team.
+**Bulky Fire-types**: Pokemon such as Talonflame, Mega Charizard Y, Heatran, and Assault Vest Entei all serve as solid checks to Volcarona, as most of them can take a hit at +1 and OHKO back. However, if Volcarona's running Hidden Power Ground, Entei can only handle it at +1 or less, while it will destroy Heatran.
 
-**Water-types**: Despite it carrying Giga Drain, certain Water-types can check Volcarona, such as Assault Vest Azumarill and defensive Gyarados, both of which can stomach a Giga Drain and KO Volcarona with Waterfall. On the other hand, Choice Scarf Keldeo and Choice Band Azumarill can both revenge kill a boosted Volcarona with Hydro Pump and Aqua Jet respectively. However, the majority of these checks lose to offensive Volcarona sets that run Passho Berry.
+**Bulky Water-types**: Pokemon such as Assault Vest Azumarill and Gyarados can check Volcarona but are relatively shaky checks and can struggle to do so effectively if entry hazards are up.
+
+**Faster Choice Scarf Users**: The likes of Choice Scarf Garchomp and Keldeo will do huge damage to Volcarona, outspeeding it at +1. 

@@ -1,0 +1,87 @@
+Overview
+########
+
+At first glance, Munna appears to offer very little compared to other Psychic-types. Although it has decent 76 / 45 / 55 bulk, its weakness to Knock Off generally negates this. Munna's Speed and offenses are not high enough for it to fill an offensive role either, certainly not to the point where it could be considered over Abra or Gothita. However, Munna does perform two niche roles quite well. It is very useful on Baton Pass teams thanks to its access to Calm Mind and Stored Power, allowing it to sweep teams after a few boosts. Munna is also able to utilize its bulk and low Speed stat to support itself and its teammates through Trick Room. Although it might seem outclassed at this role due to Solosis's superior Special Attack stat and excellent abilities, Munna is the slowest Pokemon in Little Cup with access to both Trick Room and Healing Wish, which can create an opportunity for one of Munna's crippled teammates to sweep.
+
+Baton Pass
+########
+name: Baton Pass
+move 1: Baton Pass
+move 2: Calm Mind / Substitute
+move 3: Stored Power
+move 4: Dazzling Gleam / Moonlight
+ability: Synchronize
+item: Eviolite
+evs: 68 HP / 156 Def / 156 SpD / 84 Spe
+nature: Bold
+
+Moves
+========
+
+Baton Pass is essential for Munna to pass its stat boosts and Substitutes to its teammates in a Baton Pass chain. Munna is bulky enough to set up Substitute or Calm Mind and either pass them to a teammate or utilize them itself in order to sweep. Stored Power is more powerful than Psychic after two Calm Minds, and if Munna receives some boosts from its teammates, it can become ridiculously powerful. If Munna is being used to finish off an opposing team, then Dazzling Gleam can be used to take down opposing Dark-types such as Vullaby and Carvanha. However, if Dark-type foes are not an issue for Munna's teammates, or if it is not the team's primary sweeper, Moonlight can be used instead to provide a reliable form of recovery.
+
+Set Details
+========
+
+The chosen EVs and nature allow Munna to reach 25 / 21 / 21 bulk with Eviolite. Although Munna will typically receive Speed boosts in a Baton Pass chain, 84 Speed EVs allow Munna to Speed tie with Timburr while also outspeeding the entire uninvested tier at +2 aside from Diglett, Elekid, and Voltorb. Synchronize is a situational ability and is particularly unhelpful when Munna uses Substitute, but it can punish foes that use status-inflicting moves.
+
+Usage Tips
+========
+
+Munna is bulky enough to set up on a variety of foes, particularly if it has received boosts to its Defense and Special Defense stats. It can finish off teams with Stored Power if it's a late-game recipient of a Baton Pass, or lure in Dark-type foes and pass its boosts to a Fighting-type teammate, particularly Mienfoo, in order for them to sweep or continue boosting.
+
+Team Options
+========
+
+Any Pokemon that can boost its stats and use Baton Pass is typically a good teammate to have on a Baton Pass team. Examples of good Baton Passers include Mienfoo, Shelmet, Torchic, Drifloon, Mime Jr., and Togepi. Mienfoo and Torchic are particularly notable, as they can beat Pawniard and other Steel-types for Munna.
+
+Trick Room
+########
+name: Trick Room
+move 1: Trick Room
+move 2: Psychic
+move 3: Dazzling Gleam
+move 4: Healing Wish
+ability: Synchronize
+item: Eviolite
+evs: 68 HP / 236 Def / 60 SpA / 76 SpD
+nature: Sassy
+ivs: 0 Spe
+
+Moves
+========
+
+Munna is able to use its bulk to set up Trick Room to take advantage of its low Speed stat and support its teammates. Psychic is Munna's most powerful STAB move, doing super effective damage to foes such as Croagunk, Foongus, and Mienfoo. Dazzling Gleam hits Dark-types that are immune to Psychic. Healing Wish is Munna's niche over other Trick Room setters because it allows for Munna's stronger teammates to be used much more liberally, as Munna will almost always be able to use Healing Wish thanks to its Speed in Trick Room to safely bring them in with full health.
+
+Set Details
+========
+
+The defensive EVs and Eviolite give Munna impressive 25 / 21 / 21 bulk, enabling it to take a Knock Off from Pawniard and almost always set up Trick Room. The remaining EVs are invested in Special Attack, allowing Munna's attacks to hit harder. Synchronize is a situational ability, but it can allow Munna to punish foes that attempt to cripple Munna's teammates.
+
+Usage Tips
+========
+
+Munna can set up Trick Room safely on nearly any Pokemon that does not have Taunt or a super effective move. The optimal time to set up Trick Room is late-game, after Munna's teammates have been weakened. Munna can use Healing Wish in order to heal a teammate fully and create an opportunity for them to punch holes or clean up the opposing team.
+
+Team Options
+========
+
+Munna benefits from being used on Trick Room teams. Slow Fighting-types such as Croagunk and Pancham can be used in order to take on Dark-types, particularly Pawniard. Slow Pokemon with huge offensive stats are the best teammates for Munna, as Healing Wish means they can be used aggressively early-game and healed up fully late-game, allowing them to finish off the opposing team that they already punched holes in. Pokemon such as Cubone, Clamperl, Cranidos, Azurill, and Pawniard are a few viable examples.
+
+Other Options
+########
+
+Hidden Power Fighting allows Munna to take on Pawniard, OHKOing it after a Calm Mind boost, while Shadow Ball hits foes such as Pumpkaboo and Gothita super effectively. Energy Ball gives Munna super effective coverage over Drilbur, Chinchou, and Tirtouga. Munna can utilize Trick with Choice Specs to either fire off powerful attacks or offload its item on a foe. Lucky Chant prevents Munna or any teammates in its Baton Pass chain from suffering a critical hit for five turns.
+
+Checks & Counters
+########
+
+**Taunt Users**: Common Taunt users such as Mienfoo and Onix can shut down both of Munna's sets by preventing it from passing its boosts or setting up Trick Room. However, Munna can hit both of these foes hard with Psychic.
+
+**Phazers**: Hippopotas and Lickitung are Pokemon that can break a Baton Pass chain with Whirlwind and Dragon Tail, respectively.
+
+**Residual Damage**: Munna, particularly Baton Pass variants not running Substitute, are susceptible to being worn down by Toxic and Leech Seed damage.
+
+**Steel-types**: Most Steel-types, particularly Ferroseed, Pawniard, and Magnemite, have an easy time switching into Munna, as Munna's coverage is unable to dent them.
+
+**Dark-types**: Any Munna set not carrying Dazzling Gleam is hard-walled by Pokemon such as Pawniard, Stunky, and Houndour, which are able to hit Munna super effectively with their STAB moves.

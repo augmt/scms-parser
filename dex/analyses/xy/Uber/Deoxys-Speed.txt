@@ -1,15 +1,15 @@
 Overview
 ########
 
-Sporting the highest base Speed in the game, Deoxys-S excels in one particular role within the Ubers environment: setting up entry hazards. Stealth Rock, Spikes, Taunt, and Magic Coat give Deoxys-S all the tools it needs to get up multiple layers of entry hazards as well as deter opposing entry hazards, Taunt, and Defog. Deoxys-S's largest advantage over Deoxys-A as a dedicated lead on offensive teams is its significantly greater bulk, which allows it to set up Stealth Rock in many scenarios where Deoxys-A could not. For example, Mega Kangaskhan's Fake Out easily OHKOes Deoxys-A, but it does not even come close to OHKOing Deoxys-S. Sadly, Deoxys-S lacks much of an offensive presence and is generally very predictable; its stats are decidedly mediocre with the exception of Speed, severely limiting its options. Moreover, as Deoxys-S usually sets up entry hazards and then faints, it often forces the user to play with one less team member, though this is more than worth it if the entry hazards that it sets are maintained and taken advantage of throughout the match. As long as Deoxys-S is used for what it does best, it is an invaluable addition to offensive teams.
+A blistering base 180 Speed and access to both Spikes and Stealth Rock make Deoxys-S one of the best entry hazard setters in the Ubers metagame. Unlike its extremely frail counterpart Deoxys-A, Deoxys-S has the bulk to set up multiple layers of Spikes, whereas Deoxys-A is normally limited to a single layer. Deoxys-S's biggest advantage over Klefki is its access to Taunt, allowing it to prevent users of Defog from removing the entry hazards it has set up. Alternatively, Deoxys-S's bulk makes it a good user of dual screens as well. Unfortunately, Deoxys-S has a poor offensive presence, so it can do little if it is hit by Taunt. Moreover, Deoxys-S usually just sets up its screens or entry hazards and then faints, which means its efforts can go to waste if the opponent is able to get a Defog off. The arrival of two new Magic Bounce users in Mega Diancie and Mega Sableye also bother Deoxys-S by bouncing back its entry hazards. Luckily, Deoxys-S has access to Skill Swap in order to get past both of them. Stacking entry hazards is a bit more difficult in Ubers than it once was, but Deoxys-S has all the tools it need to do the job correctly.
 
-Lead
+Entry Hazard Lead
 ########
-name: Lead
+name: Entry Hazard Lead
 move 1: Stealth Rock
 move 2: Taunt
 move 3: Spikes
-move 4: Knock Off / Magic Coat
+move 4: Knock Off / Skill Swap
 ability: Pressure
 item: Focus Sash
 evs: 252 Atk / 4 Def / 252 Spe
@@ -18,43 +18,71 @@ nature: Jolly / Timid
 Moves
 ========
 
-With the fastest Stealth Rock available, Deoxys-S can support its team from the get-go. Taunt allows Deoxys-S to stop Defog, status moves, and slower Taunts, as well as overzealous setup sweepers. It also allows Deoxys-S to stop opposing entry hazard users, which can be key as Deoxys-S will usually be without Defog or Rapid Spin support of its own. Aside from its Speed, Spikes sets Deoxys-S apart from other Stealth Rock users. Due to the ability to set up multiple layers, the move often pressures the opponent into dealing with Deoxys-S as quickly as possible. Knock Off hits moderately hard and cripples the opponents that it hits for the remainder of the match. However, Magic Coat is a fine option over Knock Off and is particularly useful against Taunt users with Prankster, such as Thundurus and Sableye. It also reflects any status moves or entry hazards back at the user.
+Stealth Rock discourages your opponent from switching their Pokemon often, and Deoxys-S's high Speed means it is all but guaranteed to set it up. Taunt lets Deoxys-S shut down opposing entry hazard leads, in addition to Defog users and setup sweepers. Setting up multiple layers of Spikes is also easy due to its high Speed. Spikes in combination with Stealth Rock will give your foes a difficult time switching in. Knock Off is an option to prevent Deoxys-S from becoming complete Taunt bait and to cripple foes that rely on their items. Alternatively, Skill Swap will steal Magic Bounce from the likes of Mega Diancie and Mega Sableye, preventing them from reflecting your entry hazards back.
 
 Set Details
 ========
 
-252 Attack EVs allow Knock Off to hit as hard as possible, but the EVs should be moved into HP and Deoxys-S's nature should be changed to Timid if Knock Off is not used. Maximum Speed investment makes Deoxys-S ridiculously fast; it allows Deoxys-S to outspeed most Choice Scarf users while also making it easier to set up entry hazards. A Focus Sash ensures that Deoxys-S can get at least one layer of entry hazards up.
+Focus Sash helps Deoxys-S set up an extra layer of entry hazards, as its bulk is subpar. The given EVs maximize Deoxys-S's Speed in order to ensure it can set up entry hazards quickly. If you are running Knock Off, then maximize its Attack investment and use a Jolly nature. Otherwise, use a Timid nature and a bulky EV spread of 252 HP / 4 Def / 252 Spe.
 
 Usage Tips
 ========
 
-Deoxys-S should be led with most of the time, but if your opponent has a Pokemon that will prevent it from setting up multiple layers of entry hazards, such as Tyranitar, it's often beneficial to bring Deoxys-S in later. Make sure that Taunt is used against potential Defog users only after a layer of entry hazards has been set in case the opponent decides to attack immediately. Additionally, it should be stressed that correct prediction with Taunt and Magic Coat is essential in certain situations, such as against Prankster Taunt users, opposing Deoxys-S, and setup sweepers with priority. If you choose not to use Knock Off, then you should avoid lead matchups with opposing Deoxys-S. Lastly, it might be more important to remove a certain opposing Pokemon's item with Knock Off, such as a Choice Scarf, than to get up an extra layer of entry hazards.
+This set will almost always be leading and is fairly predictable because of that. If you see a Pokemon that has a good type matchup against Deoxys-S in Team Preview, the opponent will likely use it as an anti-lead. Magic Bounce users are also likely to anti-lead, so make sure to use Skill Swap if you have it. Otherwise, lead with a teammate that can damage them. If the opponent has a Defog user, set up entry hazards before using Taunt on them.
 
 Team Options
 ========
 
-Type synergy is not very important when selecting teammates for Deoxys-S, as it will be led with, set up entry hazards, and then faint in most matches. However, several Pokemon are particularly good to use alongside Deoxys-S in addition to those that can simply make use of the entry hazards that it sets. Taunt users that can outspeed Arceus such as Darkrai, Mewtwo, and Thundurus are excellent at stopping Defog. Mega Gengar is particularly adept at this, as it can trap opponents, use Taunt, and KO many Defog users, as well as spinblock. Other spinblockers such as Ghost Arceus also pair well with Deoxys-S. It's worth noting that minimizing entry hazard weaknesses within a team is important when using Deoxys-S, as it should be used on offensive teams&mdash;such teams usually lack Defog or Rapid Spin support.
+Common sweepers such as Primal Groudon and Xerneas will threaten most Defog users with pure offensive pressure. Alternatively, Darkrai directly threatens common Defoggers such as Latios, Latias, and Giratina-O with its STAB Dark Pulse. A spinblocker, such as Ghost Arceus, will prevent foes with Rapid Spin from removing your entry hazards. A spinner provides entry hazard removal and, unlike Defog, Rapid Spin does not remove the entry hazards that Deoxys-S has already set up. A great spinner is Excadrill, which synergizes well on the offensive teams that commonly use Deoxys-S.
+
+Dual Screens
+########
+name: Dual Screens
+move 1: Reflect
+move 2: Light Screen
+move 3: Taunt
+move 4: Stealth Rock
+ability: Pressure
+item: Light Clay
+evs: 252 HP / 4 Def / 252 Spe
+nature: Timid
+
+Moves
+========
+
+Reflect and Light Screen will double the defenses of your team for 8 turns, giving Deoxys-S's teammates better opportunities to set up. Taunt prevents Defoggers from removing the dual screens, opposing leads from setting entry hazards, sweepers from setting up, and slower Taunt users from Taunting Deoxys-S. Stealth Rock further allows Deoxys-S to support its team and can be easily set up because of Deoxys-S's high Speed.
+
+Set Details
+========
+
+The given EVs and a Timid nature maximize Deoxys-S's bulk and Speed in order to ensure it can set up screens quickly and often. Light Clay is to prolong the duration of Reflect and Light Screen.
+
+Usage Tips
+========
+
+With no attacking options, Deoxys-S is complete Taunt bait. If you see a Prankster Taunt user on your opponent's side in Team Preview, it may be used as an anti-lead for Deoxys-S, so hold off on sending it out. This set is often used as a lead, but is not limited to a leading role, as Deoxys-S's decent bulk gives it multiple opportunities to set up dual screens throughout the match. If the opponent brings in a potential Defogger, Taunt it and use the free turns that Taunt provides in order to bring in a setup sweeper.
+
+Team Options
+========
+
+Deoxys-S itself does not need a lot of support; instead, you need teammates that can take advantage of dual screens. It finds a home on hyper offense teams, as setup sweepers enjoy the added bulk from dual screens, which makes it easier for them to set up and sweep. Setup Pokemon that enjoy support from Deoxys-S include Nasty Plot Darkrai, Extreme Killer Arceus, and Dragon Dance Mega Salamence. Mega Gengar can switch in and trap a foe on a predicted Defog or a weakened attack.
 
 Other Options
 ########
 
-Deoxys-S has many other options. A dual screens set is usable and can be highly effective thanks to Deoxys-S's extremely fast Taunt. Psycho Boost is a great attacking option that OHKOes Pokemon that it hits super effectively, such as Gengar. Ice Beam and Extreme Speed can be used for Rayquaza and Deoxys-A, respectively. Superpower usually OHKOes Tyranitar, while Fire Punch deals with Scizor, Genesect, Forretress, and Ferrothorn. Thunder Wave and Toxic are useful for crippling almost any Pokemon, but Deoxys-S has better things to do. Finally, a bulky Rocky Helmet set is an option to surprise anti-leads that rely on contact moves to take out Deoxys-S.
+Magic Coat is another way to punish opposing entry hazard leads as well as Prankster Taunt from Thundurus and Sableye, but Deoxys-S typically lacks room for the move, as it is better off using Skill Swap in this metagame. Deoxys-S has various offensive options, but often lacks room for them and is not powerful enough to make use of them most of the time. Mental Herb can be used to protect Deoxys-S from Prankster Taunt users, but it finds Focus Sash and Light Clay more useful.
 
 Checks & Counters
 ########
 
-**Prankster Taunt**: Thundurus, Sableye, and Whimsicott completely shut down Deoxys-S that lack Magic Coat, while forcing those that do have it into a 50/50.
+**Defog**: Once Deoxys-S has fainted, a Defogger can easily wipe out your screens and entry hazards. The most threatening users are Latias, Latios, and Giratina-O, as Levitate grants them immunity to Spikes.
 
-**Defog**: Giratina-O and Scizor immediately threaten Deoxys-S with priority and/or super effective moves and can clear all hazards with Defog once it has fainted. Support Arceus formes with an advantageous type matchup can do so as well.
+**Magic Bounce**: Mega Diancie and Mega Sableye can bounce back Deoxys-S's entry hazards.
 
-**Rapid Spin**: Rapid Spin users such as Excadrill and Forretress can remove Deoxys-S's entry hazards once the spinblocker on its team has been eliminated.
+**Priority**: Deoxys-S is vulnerable to priority attacks that can 2HKO it after it sets up only one layer of hazards, such as Giratina-O's Shadow Sneak and Arceus's Extreme Speed. A strong U-turn user such as Scizor can also cut down Deoxys-S's health and possibly bring it down to its Focus Sash while providing the user with a free switch into a priority attacker to pick off Deoxys-S.
 
-**Priority**: Aside from Giratina-O and Scizor, priority users such as Extreme Killer Arceus can limit Deoxys-S to a single layer of entry hazards.
+**Prankster Taunt**: Prankster Taunt cripples any Deoxys-S without Magic Coat. Also, even if it is carrying Magic Coat, the presence of Taunt often forces you to make a prediction.
 
-**Multi-Hit Moves**: Cloyster and Scolipede can limit Deoxys-S to one layer of entry hazards with Shell Smash + Icicle Spear and Pin Missile, respectively. Mega Kangaskhan can do the same with Return.
+**Multi-Hit Moves**: Mega Kangaskhan, Cloyster, and Scolipede all carry multi-hit moves to break Deoxys-S's Focus Sash.
 
-**Tyranitar**: Thanks to Sand Stream, Tyranitar is capable of limiting Deoxys-S to one layer of entry hazards.
-
-**Icy Wind Gengar**: Once again, Gengar with Icy Wind can limit Deoxys-S to a single layer of entry hazards.
-
-**Magic Coat and Magic Bounce**: Without an attacking move, Deoxys-S is completely stopped by Magic Coat and Magic Bounce users. Many are hit super effectively by Knock Off, however.
+**Passive Damage**: Sandstorm, poison, and burn are all ways to break Deoxys-S's Focus Sash.

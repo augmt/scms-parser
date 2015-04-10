@@ -1,82 +1,84 @@
 Overview
 ########
 
-Feraligatr possesses a decent base 105 Attack stat as well as two amazing stat boosting moves in Dragon Dance and Swords Dance, making it a very underrated setup sweeper. It also has a solid defensive typing that leaves it weak to only Grass- and Electric-type attacks. Combine this with satisfactory 85 / 100 / 83 bulk, and Feraligatr can easily take a hit and set up a boost. It also has very good coverage moves, such as Ice Punch and Crunch, meaning it can be hard to wall once it has set up. However, Feraligatr does have some notable flaws. Firstly, it has a base 78 Speed, meaning it fails to outspeed Pokemon such as Roserade before a Dragon Dance. Another glaring flaw for Feraligatr is the fact that his hidden ability, Sheer Force, is unreleased, forcing him to use Torrent. Feraligatr also faces competition as a set-up sweeper from Toxicroak, who is faster and has a better ability, as well as a wider movepool. Nonetheless, even with some flaws, Feraligatr can certainly be a huge threat if it sets up.
-
-Swords Dance
-########
-name: Swords Dance
-move 1: Swords Dance
-move 2: Waterfall
-move 3: Aqua Jet
-move 4: Crunch / Return / Ice Punch
-ability: Torrent
-item: Life Orb / Mystic Water
-evs: 56 HP / 252 Atk / 200 Spe
-nature: Adamant
-
-Moves
-========
-
-Swords Dance boosts Feraligatr's Attack by two stages, allowing it to do massive damage to the opponent. Waterfall is Feraligatr's main STAB attack that does a ton of damage after a boost from Swords Dance. Aqua Jet is a great priority move that is boosted by STAB, and it allows Feraligatr to KO faster Pokemon. The last slot can be customized depending on what your team needs dealt with. Crunch allows Feraligatr to break through Psychic-types,  and gets good overall coverage. Return, in combination with Waterfall and Aqua Jet, provides perfect neutral coverage throughout the tier. Ice Punch hits Honchkrow and Hydreigon for super effective damage, making it a good coverage option as well. However, Earthquake can also be used to hit Raikou and other Electric-types, while Low Kick can be used to hit Hydreigon, but more importantly, Registeel.
-
-Set Details
-========
-
-252 Attack EVs with an Adamant nature maximizes Feraligatr's Attack, letting it hit very hard after a Swords Dance boost. 200 Speed EVs allow Feraligatr to outspeed Adamant Honchkrow and out-prioritize it with Aqua Jet. The remaining 56 HP EVs add to Feraligatr's overall bulk, helping it set up. Life Orb lets Feraligatr hit harder at the cost of some health. However, Mystic Water can also be used, to power up Waterfall and Aqua Jet and to keep Feraligatr healthy. This set is not as susceptible to priority due to the HP investment, which is a good thing going for it.
-
-Usage Tips
-========
-
-Once all of Feraligatr's counters have been removed or severely weakened, Swords Dance is safe to use. After Swords Dance is used once, Feraligatr turns into a powerful attacker, being able to hit extremely hard. Note that when Honchkrow switches in, Aqua Jet goes before Honchkrow's Sucker Punch and negates it. Lastly, this set is to be used as a late game sweeper more than anything else.
-
-Team Options
-========
-
-To make setting up Swords Dance much easier, Feraligatr can benefit from Dual Screens support, making Cresselia and Uxie good teammates. Rotom-H is a good partner, as Trick cripples walls such as Suicune and Vaporeon, and it can also absorb Will-O-Wisp for Feraligatr. Spike setters are also very helpful as they weaken Pokemon such as Choice Scarf Mienshao to the point where Feraligatr to finish them off with a boosted Aqua Jet. This makes Pokemon such as Froslass and Roserade good partners, as they can set up Spikes with relative ease. Lastly, Sticky Web support is very helpful, as it allows Feraligatr to outspeed threats such as Toxicroak and Shaymin  which are heavily damaged by a boosted Return or Ice Punch.
+With a naturally high base Attack and the gift of its newly released hidden ability, Feraligatr has emerged as a premier offensive threat in UU. Feraligatr's access to a variety of great boosting moves as well as a priority move allow it to perform the role of a powerful wallbreaker or a sweeper, and its good typing and bulk provide it with plenty of opportunities to set up. However, Feraligatr's low Speed can make it fall flat against offensive teams, as it is outsped even at +1 by common Pokemon. In addition, it doesn't have many coverage options to speak of, and its attacks are relatively low-powered.
 
 Dragon Dance
 ########
 name: Dragon Dance
 move 1: Dragon Dance
 move 2: Waterfall
-move 3: Ice Punch
-move 4: Earthquake
-ability: Torrent
+move 3: Crunch
+move 4: Substitute / Ice Punch / Swords Dance
+ability: Sheer Force
 item: Life Orb
-evs: 28 HP / 252 Atk / 228 Spe
+evs: 220 Atk / 36 SpD / 252 Spe
+nature: Adamant
+
+Moves
+========
+
+Dragon Dance turns Feraligatr into a sweeper by boosting its Attack and Speed by one stage each. Boosted by STAB, Sheer Force, and Life Orb, Waterfall is Feraligatr's most powerful move. Crunch is a useful coverage move that hits Psychic-types such as Cresselia, Reuniclus, and Slowking super effectively and provides Feraligatr with neutral coverage on opposing Water-types. Substitute is used mainly to set up on defensive Water-types that rely on Scald, as none of them can break Feraligatr's Substitute in one hit. Ice Punch is a coverage move that hits the Grass- and Dragon-types that resist Waterfall. Swords Dance can also be used in the final moveslot to give Feraligatr another option to boost against bulkier teams.
+
+Set Details
+========
+
+252 Speed EVs allow Feraligatr to outspeed Mega Pidgeot after one Dragon Dance and Choice Scarf Mienshao after two Dragon Dances. An Adamant nature is preferred for more power, but a Jolly nature is usable to outspeed Adamant Heracross, Adamant Lucario, and, after a Dragon Dance, Crobat. 36 Special Defense EVs ensure that defensive Suicune's +1 Scald will never break Feraligatr's Substitute, but if another move is chosen over Substitute, then these EVs should be moved to Attack. The remaining EVs are placed into Attack to increase Feraligatr's power. The combination of Sheer Force and Life Orb negates Life Orb recoil and grants a 1.69x boost to Waterfall, Crunch, and Ice Punch at the cost of their secondary effects.
+
+Usage Tips
+========
+
+Dragon Dance Feraligatr works best on bulky and hyper offense teams as a late-game cleaner. Pokemon that outspeed Feraligatr after a boost include positive-natured Mega Sceptile, Mega Beedrill, and Mega Aerodactyl; all relevant Choice Scarf users; and Crobat and Noivern if Feraligatr runs an Adamant nature. Physical walls that can take Feraligatr's attacks when healthy, such as Mega Aggron and Chesnaught, should be weakened before attempting to set up. However, with Substitute, Feraligatr can set up on some physical walls, such as Suicune lacking Roar.
+
+Team Options
+========
+
+Feraligatr appreciates the support of physical wallbreakers, such as Choice Band or Swords Dance Heracross, Choice Band Tyrantrum, and Swords Dance Haxorus. Spikes setters can help Feraligatr break through more Pokemon; Chesnaught and Roserade can set Spikes while also taking advantage of the Grass-, Electric-, and defensive Water-types that trouble Feraligatr. Dragalge also checks Pokemon of the aforementioned types and can provide Toxic Spikes support. Shaymin and Whimsicott can check opposing Water-types and support Feraligatr with Healing Wish and Memento, respectively. Mega Sceptile can use its ability and typing to switch into the Electric- and Grass-type moves that threaten Feraligatr.
+
+Swords Dance
+########
+name: Swords Dance
+move 1: Swords Dance
+move 2: Waterfall
+move 3: Crunch
+move 4: Substitute / Ice Punch / Aqua Jet
+ability: Sheer Force
+item: Life Orb
+evs: 220 Atk / 36 SpD / 252 Spe
 nature: Jolly
 
 Moves
 ========
 
-Dragon Dance allows Feraligatr to boost its Attack and Speed by one stage, allowing it to sweep. Waterfall is Feraligatr's strongest STAB move, and is very threatening to Pokemon which don't resist it, especially after a boost from Dragon Dance. Ice Punch is a good coverage move that OHKOes both Honchkrow and Hydreigon after a Dragon Dance boost. Earthquake is a very powerful move that can KO threatening Electric-types such as Raikou, and can also take out Jirachi. Lastly, Aerial Ace has a relevant niche, as it 2HKOes Chesnaught and has a good chance to OHKO Toxicroak after a Dragon Dance.
+Swords Dance boosts Feraligatr's already-high Attack stat, turning it into a powerful wallbreaker. Waterfall is Feraligatr's strongest STAB move and is benefited by Sheer Force and Life Orb. Crunch is Feraligatr's most powerful option to hit common Water-types and has super effective coverage on Psychic-types, such as Cresselia and Reuniclus. Substitute blocks attempts to status Feraligatr, particularly allowing it to set up easily on defensive Water-types without fearing a Scald burn, and provides some protection from revenge killing. Ice Punch can be used in the fourth moveslot as coverage against Grass-types, such as Amoonguss and Chesnaught, and Dragon-types, such as Mega Ampharos and Salamence. Aqua Jet gives Feraligatr useful and reliable priority, allowing it to KO frail or weakened offensive threats such as Mienshao and Mega Beedrill.
 
 Set Details
 ========
 
-252 Attack EVs max out Feraligatr's Attack stat, allowing it to hit as hard as possible. 228 Speed EVs with a Jolly nature allow Feraligatr to outspeed neutral nature base 120s after a Dragon Dance. 28 HP EVs are put into Feraligatr's HP to give it a little bit of extra bulk. Life Orb gives a significant boost to Feraligatr's damage output, making it the preferred item for this set. Feraligatr can also run a bulky variation of this set with an EV spread of 224 HP / 252 Atk / 34 Spe and a Jolly nature, allowing it to outspeed base 100s after a Dragon Dance while also improving its overall bulk.
+252 EVs are placed into Speed with a Jolly nature to allow Feraligatr to outspeed all relevant walls as well as certain offensive Pokemon, such as Adamant Heracross and Adamant Lucario. 36 EVs are placed into Special Defense to ensure that uninvested Suicune's +1 Scald will never break Feraligatr's Substitute; however, if a third attack is used over Substitute, these EVs should be placed into Attack instead. The rest of the EVs are placed into Attack to maximize Feraligatr's damage output. The combination of Sheer Force and Life Orb gives Waterfall, Ice Punch, and Crunch a 1.69x boost and negates Life Orb recoil.
+
+Leftovers can be used to grant Feraligatr more longevity and to allow it to set up more Substitutes in the face of weak defensive Pokemon at the cost of considerable power. An alternate spread of 24 HP / 252 Atk / 32 SpD / 200 Spe with an Adamant nature can be used for more power and slightly more bulk while still outspeeding Adamant Honchkrow. Feraligatr can use Torrent over Sheer Force if it aims to sweep with Aqua Jet. In this case, Splash Plate is a good item choice to power up Feraligatr's Water-type moves without wearing it down, but Life Orb can help it get into Torrent range more quickly.
 
 Usage Tips
 ========
 
-Setting up Dragon Dance safely isn't very difficult for Feraligatr, though it is much more prone to being revenge killed or statused, as it can not outspeed threats who can revenge kill easily as well as status setters. Feraligatr needs threats such as Will-O-Wisp Sableye and Roserade weakened to the point where it can KO them, which is why setting up is not advised until these Pokemon have been removed. However, once all its counters have been removed, Feraligatr only needs to worry about attacking.
+Swords Dance Feraligatr works best on bulky offense and balanced teams as a mid-game wallbreaker. It should be used to muscle through defensive Pokemon, making room for a teammate to clean up. Feraligatr can find plenty of opportunities to set up against Pokemon such as Suicune, Gligar, and Florges.
 
 Team Options
 ========
 
-Feraligatr can make good use of Dual Screen support from the likes of Cresselia or Uxie, as it allows Feraligatr  to set up much easier. Feraligatr is very threatened by Pokemon such as Vaporeon and Suicune, making Chesnaught and Tangrowth very helpful partners to deal with them. Lastly, since Feraligatr is threatened by Will-O-Wisp, Rotom-H is a good partner to absorb Will-O-Wisp and neuter Pokemon such as Suicune with Trick.
+Feraligatr's teammates should take advantage of its ability to soften up physical walls. Choice Band Entei, Choice Scarf Infernape, and Mega Sharpedo all appreciate Feraligatr beating defensive Water-types and other physical walls. Fast Grass- and Electric-types such as Mega Sceptile and Heliolisk force Feraligatr out, so it needs teammates that can check them. Chesnaught and Roserade can check these Pokemon and also lay Spikes to support Feraligatr.
 
 Other Options
 ########
 
-Feraligatr can run a RestTalk set due to its decent bulk, but it is outclassed by other bulky Water-types such as Suicune in this role. Feraligatr also can use Superpower, but it lowers Feraligatr's Attack and Defense, and isn't worth using over Earthquake to hit Steel-types. Lastly, Feraligatr has a good special movepool, containing moves such as Hydro Pump, Ice Beam, and Focus Blast. However, its poor Special Attack stat prevents it from making good use of it.
+Feraligatr can use Agility to clean up faster teams after some prior damage. It can also use a special attacking set with moves such as Scald, Ice Beam, and Focus Blast to surprise physical walls, which it often lures in, but Swords Dance variants do huge damage to these Pokemon at +2 Attack anyway. Finally, Feraligatr can use Earthquake and Low Kick to do more damage to certain foes, such as Mega Aggron and Empoleon, but these moves are generally not worth a moveslot and neither is boosted by Sheer Force.
 
 Checks & Counters
 ########
 
-**Revenge Killers**: Feraligatr is threatened by revenge killers such as Mienshao, Hydreigon, and Raikou, which outspeed and severely damage Feraligatr, even at +1. Pokemon that naturally outspeed Feraligatr such as Choice Specs Noivern can hit Feraligatr hard as well.
+**Physical Walls**: Bulky Water-types check the Dragon Dance set and threaten to burn it with Scald; however, they will be severely weakened or KOed if Feraligatr carries Substitute. Mega Aggron and Empoleon can take most of Feraligatr's attacks and phaze it.
 
-**Status**: Feraligatr is threatened by burn and paralysis, as they both stop Feraligatr from sweeping effectively. Sableye is a good example of this.
+**Grass-types**: Faster Grass-types such as Shaymin can directly force out Swords Dance Feraligatr. Whimsicott can lock Feraligatr into a setup move with Encore or threaten it with Giga Drain. Mega Sceptile outspeeds +1 Feraligatr, resists Aqua Jet, and can KO with Giga Drain. Chesnaught can take any attack and wear Feraligatr down with Leech Seed or KO it with Wood Hammer.
 
-**Physical Walls**: Pokemon such as Chesnaught, Tangrowth, and Vaporeon can switch in and tank a hit with relative ease. Vaporeon can burn Feraligatr with Scald while Tangrowth can Power Whip or status Feraligatr.
+**Electric-types**: Offensive Rotom formes outspeed Feraligatr, though Rotom-H must be wary of boosted Aqua Jet. Heliolisk is immune to Aqua Jet and its Hyper Voice goes through Feraligatr's potential Substitute, though it can't switch into Ice Punch or Crunch. Defensive Mega Ampharos can take anything - save for a +2 Adamant Ice Punch - and KO Feraligatr with Volt Switch after Stealth Rock damage; offensive variants of Mega Ampharos can take any unboosted attack.

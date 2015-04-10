@@ -44,18 +44,18 @@ move 3: Recover
 move 4: Haze / Toxic
 ability: Levitate
 item: Leftovers
-evs: 240 HP / 172 Def / 56 SpD / 40 Spe
+evs: 240 HP / 212 Def / 56 SpD
 nature: Calm
 
 Moves
 ========
 
-Rapid Spin clears all entry hazards from your side of the field to support the team. Freeze-Dry provides great coverage by hitting bulky Water-types such as Seismitoad; its utility is valued over Ice Beam's greater power for this set. Recover is necessary to heal any damage Cryogonal may have taken. Haze is extremely useful to remove the boosts from setup sweepers such as Xatu, Mesprit, Slurpuff, and Uxie. Alternatively, Toxic can be used to cripple switch-ins such as Uxie, Hariyama, and Audino, and helps Cryogonal stall out the foe effectively with Recover. Reflect is an option in the last moveslot to compensate for Cryogonal's low Defense and soften physical attacks for its teammates.
+Rapid Spin clears all entry hazards from your side of the field to support the team. Freeze-Dry provides great coverage by hitting bulky Water-types such as Seismitoad; its utility is valued over Ice Beam's greater power for this set. Recover is necessary to heal any damage Cryogonal may have taken. Haze is extremely useful to remove the boosts from setup sweepers such as Xatu, Mesprit, Mega Audino, and Uxie. Alternatively, Toxic can be used to cripple switch-ins such as Uxie, Hariyama, and Audino, and helps Cryogonal stall out the foe effectively with Recover. Reflect is an option in the last moveslot to compensate for Cryogonal's low Defense and soften physical attacks for its teammates.
 
 Set Details
 ========
 
-Leftovers is essential to recover HP every turn. 40 Speed EVs allow Cryogonal to outspeed Adamant Feraligatr, letting it check it with Freeze-Dry if necessary. 240 HP EVs capitalize on Cryogonal's high Special Defense and hit a Leftovers number. 56 Special Defense EVs and a Calm nature further enhance Cryogonal's Special Defense, hitting a jump point and letting Cryogonal avoid the 2HKO from Modest Samurott's Hydro Pump. The rest of the EVs patch up Cryogonal's mediocre Defense, allowing it to take some priority hits if needed.
+Leftovers is essential to recover HP every turn. 240 HP EVs capitalize on Cryogonal's high Special Defense and hit a Leftovers number. 56 Special Defense EVs and a Calm nature further enhance Cryogonal's Special Defense, hitting a jump point and letting Cryogonal avoid the 2HKO from Modest Samurott's Hydro Pump. The rest of the EVs patch up Cryogonal's mediocre Defense, allowing it to take some priority hits if needed.
 
 Usage Tips
 ========
@@ -75,12 +75,12 @@ Magic Coat bounces back entry hazards and status moves but isnt very useful outs
 Checks & Counters
 ########
 
-**Physical Attackers**: Many physical attackers, such as Kangaskhan, Gurdurr, Sawk, and Feraligatr, can take advantage of Cryogonal's pitiful Defense and threaten to OHKO or 2HKO it. However, most of these Pokemon take a lot of damage from a Never-Melt Ice-boosted Ice Beam or Freeze-Dry.
+**Physical Attackers**: Many physical attackers, such as Kangaskhan, Gurdurr, and Sawk, can take advantage of Cryogonal's pitiful Defense and threaten to OHKO or 2HKO it. However, most of these Pokemon take a lot of damage from a Never-Melt Ice-boosted Ice Beam or Freeze-Dry.
 
-**Priority**: Kangaskhan, Gurdurr, and Feraligatr, as well as other priority users, can take advantage of Cryogonal's poor Defense and deal heavy damage with Fake Out, Mach Punch, and Aqua Jet, respectively. Kangaskhan and Gurdurr also have the bulk to take repeated hits from Cyogonal, but Feraligatr cannot switch into a Freeze-Dry.
+**Priority**: Kangaskhan, Gurdurr, and Samurott, as well as other priority users, can take advantage of Cryogonal's poor Defense and deal heavy damage with Fake Out, Mach Punch, and Aqua Jet, respectively. Kangaskhan and Gurdurr also have the bulk to take repeated hits from Cyogonal, but Samurott cannot switch into a Freeze-Dry.
 
 **Psyshock Users**: Psyshock users, such as Mesprit, Xatu, Uxie, Jynx, and Musharna, are troublesome for Cryogonal, as Psyshock hits its weaker Defense.
 
-**Steel-types**: Steel-types, such as Klinklang, Steelix, Probopass, Pawniard, and Ferroseed, resist Cryogonal's STAB moves and only fear the weak Hidden Power Ground or Fire. Klinklang and Pawniard can render Cryogonal setup fodder if it lacks a super effective Hidden Power, and Pawniard threatens Cryogonal with a priority Sucker Punch.
+**Steel-types**: Steel-types, such as Klinklang, Probopass, Pawniard, and Ferroseed, resist Cryogonal's STAB moves and only fear the weak Hidden Power Ground or Fire. Klinklang and Pawniard can render Cryogonal setup fodder if it lacks a super effective Hidden Power, and Pawniard threatens Cryogonal with a priority Sucker Punch.
 
 **Non-Water-type Pokemon that resist Ice**: Pokemon such as Thick Fat Hariyama, Thick Fat Grumpig, Flareon, and Torkoal take little damage from Cryogonal's STAB and coverage moves, and most threaten to deal heavy damage back with a super effective STAB move.

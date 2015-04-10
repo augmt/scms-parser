@@ -1,15 +1,16 @@
 Overview
-########
+#######
 
-Froslass might seem limited to a couple of sets, but that doesn't mean she's limited in potential. She is one of the only Pokemon that can spinblock and set up Spikes at the same time, making her a great dedicated lead, and also has the necessary Speed to get her moves off before falling. Unfortunately, Froslass doesn't have everything going for her. Her typing is a double-edged sword, leaving her weak to both of Mega Houndoom's STAB moves, Pursuit, and Stealth Rock, which prevents her from coming in multiple times throughout the match. Disadvantages aside, Froslass is a powerful Pokemon in the metagame and should be considered while teambuilding
+Froslass is a fantastic Spiker for offensive teams, as it can block Rapid Spin and its high base 110 Speed allows it to set up at least 1 layer of Spikes in most situations. It also gets access to a plethora of support moves, such as Thunder Wave and Taunt. For these reasons, it is also a great lead. However, Froslass is an extremely frail Pokemon, as it has poor defensive stats and cannot take any decently strong attack if its Focus Sash is broken.
 
-Leadlass
-########
-name: Leadlass
-move 1: Spikes
-move 2: Taunt
-move 3: Destiny Bond
-move 4: Thunder Wave / Icy Wind
+
+Spikes Lead
+#######
+name: Spikes Lead
+move 1: Taunt
+move 2: Destiny Bond
+move 3: Spikes
+move 4: Icy Wind / Thunder Wave
 ability: Cursed Body
 item: Focus Sash
 evs: 252 HP / 4 SpD / 252 Spe
@@ -18,39 +19,31 @@ nature: Timid
 Moves
 ========
 
-Being able to use Spikes is Froslass's greatest niche in the metagame and can help wear down the opposing team over time. In order to do this efficiently, Froslass needs to use Taunt to prevent opposing Pokemon from using Defog or Taunt, setting up their own entry hazards, or setting up. Destiny Bond is also effective in tandem with Froslass's base 110 Speed and allows her to take down other Pokemon, especially Rapid Spin users, with her after Focus Sash is used up. Thunder Wave is preferred for the last move of the set because it allows her to shut down fast Pokemon trying to set up, such as Mega Houndoom, and paves the way for her own Taunt and Destiny Bond. Icy Wind is a STAB option that works similar to Thunder Wave and keeps Froslass from becoming complete Taunt bait. She can catch Taunt users coming in on a switch and then Taunt them to keep herself from being Taunted.
+Spikes is pretty much the only reason why you would want to use Froslass. Destiny Bond allows Froslass to take down other Pokemon, especially Rapid Spin users, along with it after Focus Sash is used up. Taunt allows it to prevent slower leads from setting up their entry hazards and blocks slower Taunts. The last moveslot is a toss up between Thunder Wave and Icy Wind. Icy Wind works on a similar principle as Thunder Wave and prevents Froslass from becoming Taunt bait. Thunder Wave allows Froslass to shut down fast Pokemon as they try to set up and works well with Taunt and Destiny Bond.
 
 Set Details
 ========
-
-The EVs are standard for a suicide lead with no attacking moves. If STAB Icy Wind or Shadow Ball is opted for over Thunder Wave, then the HP EVs can be moved over to Special Attack accordingly. Focus Sash guarantees that Froslass can survive to lay down at least one layer of Spikes. Timid is to maximize Speed for using Taunt and Destiny Bond. Cursed Body allows Froslass to set up an additional layer of Spikes against Choice-locked Pokemon roughly a third of the time.
+The preferred item for Froslass is Focus Sash, which allows it to set up at least one layer of Spikes. Timid is used so that it can maximize its Speed for using Taunt and Destiny Bond. Cursed Body allows Froslass to set up an additional layer of Spikes against Choice-locked Pokemon 30% of the time. The 252 HP EVs are used to maximize Froslass' bulk, although if Icy Wind, Ice Beam, or Shadow Ball is used over Thunder Wave, the EVs may be moved into Special Attack.
 
 Usage Tips
 ========
 
-Froslass should be sent out towards, if not at, the beginning of the match to make the most out of Spikes. Don't bother with other moves unless absolutely necessary, especially when running STAB attacks. Use Destiny Bond to your advantage by playing mind tricks on your opponent and earning yourself an easy KO. You can even bluff Destiny Bond and use Spikes instead, racking up damage on the incoming switch. She's fairly useless late game, especially because Stealth Rock breaks Focus Sash, so try to send her out early. Keep in mind that Froslass, even at one HP, can still spinblock if necessary.
+Froslass sets up Spikes then KOes a foe with Destiny Bond or prevents Defog with Taunt and blocks Rapid Spin with its Ghost typing. Froslass should be sent out at the beginning of the match or at least close to the beginning to make the most out of Spikes. The main goal of this set is to set up as many layers of Spikes as possible, so avoid using any other moves unless absolutely required. Froslass is decently useful mid game, as it is able to revenge kill Dragons, and with its great Speed and adequate Special Attack it could pose a threat to offensive teams.
 
 Team Options
 ========
-
-Sweepers that can take advantage of Spikes, Taunt, and Thunder Wave make for the best partners, such as Choice Scarf Darmanitan or Sharpedo. Froslass fits easily onto hyper offensive teams in need of a suicide lead, especially ones with no space for a spinblocker.
-
+Pokemon that can stop Rapid Spin and Defog users after Froslass is gone are appreciated, so Pokemon such as Chandelure and Spiritomb make for nice partners because of this. Fast Taunters such as Mega Aerodactyl and Crobat are also appreciated. Anything that takes advantage of the Spikes that Froslass sets also appreciates its support, such as Sharpedo or Lucario. Stealth Rock users such as Aerodactyl or Swampert also make for good partners.
 
 Other Options
 ########
 
-Pain Split is one viable option that lets Froslass inflict massive damage after using up Focus Sash. It also lets Froslass stick around longer if you don't want to use it as a lead. She can also run a Trick + Choice Scarf to completely shut down the likes of Crocune and other entry hazard setters. She can also set up Spikes during these turns, but this is not a viable strategy. Ice Beam or Shadow Ball can be used for reliable STABs. but the utility of Thunder Wave and Icy Wind is usually more beneficial.
+Shadow Ball and Ice Beam are alternatives for strong STAB moves over Icy Wind, although they provide less utility than Icy Wind. Pain Split can be used to give Froslass some longevity so that Froslass can gain a bit of health back. Froslass can use Pain Split on switch-ins, which gives it a tiny bit of longevity. A more offensive Spiker moveset with Spikes / Ice Shard / Ice Beam / Shadow Ball or Thunderbolt can be used for Froslass as well, allowing it to threaten more Pokemon with its increased coverage. Mental Herb is another item option for Froslass that allows it to not get affected by Taunt from Suicide Lead Aerodactyl and Azelf, and Taunt them back which prevents them from Taunting Froslass and it prevents them from setting their entry hazards up, allowing Froslass to set up Spikes relatively freely.
 
-
-Checks & Counters
+Checks and Counters
 ########
 
-**Blastoise**: Blastoise is a major pain for Froslass as it can use Dark Pulse to take her down, and then proceed to spin away Spikes.
+**Faster Taunt Users**: If Froslass has Thunder Wave, then a faster Taunt from Pokemon such as Azelf and Aerodactyl completely shuts it down.
 
-**Fast Defog Users**: Pokemon that can outspeed and use Defog before Froslass can fire off a Taunt makes all of her efforts in vain.
+**Magic Bounce**: Magic Bouncers such as Mega Absol can also beat Froslass if it doesn't run an attacking move.
 
-**Pursuit**: Like most Ghost-types, Froslass can do very little when trapped by a Pursuit user.
-
-**Fast Taunters**: Much like fast Defog users, Froslass has to watch out for the likes of Sableye, Azelf, and Mega Aerodactyl who can shut her down with Taunt.
-
-**Multi-hit Users**: Pokemon, like Cloyster and Cinccino, can use a move that hits multiple times to break Froslass's sash and restrict her to only one layer of Spikes
+**Multi-Hit Moves**: Pokemon such as Cloyster, Cinccino, and Rhyperior can easily KO Froslass with their multi-hit moves, as these attacks break its Focus Sash and KO it in one turn.

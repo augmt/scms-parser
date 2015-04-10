@@ -1,58 +1,49 @@
 Overview
 ########
 
-The first things one might notice about Sableye are its diminutive stature and mediocre stats. Despite this, the little imp possesses several unique and useful redeeming qualities that serve to establish it among the titans that populate Ubers. To begin with, Ghost / Dark typing gives Sableye three immunities to Normal, Fighting, and Psychic and only one weakness to Fairy. Sableye also gets the rare Prankster ability and the necessary support movepool to complement it. The aforementioned typing and ability makes Sableye a stellar check to several of the tier's most dangerous physical attackers in Extreme Killer Arceus, Mega Kangaskhan, and Mega Mewtwo X. Prankster Taunt allows it to match up well against common Pokemon on defensive teams and lets it check stall as a playstyle. Sableye can also anti-lead common offensive leads such as Deoxys-S, Scolipede, and Cloyster to decent effect. On the other hand, hopeless special bulk leaves Sableye at the mercy of many potent special attackers in Ubers; Kyogre, Palkia, Yveltal, and Calm Mind Arceus formes are all very threatening Pokemon Sableye is hapless against. Furthermore, its physical bulk even when fully invested is nothing to write home about, and it has next to no offensive presence. Additionally, Fire-type physical attackers, namely Ho-Oh and Blaziken, are immune to Will-O-Wisp and are impossible for Sableye to handle. In summary, it should be reiterated that Sableye is a Pokemon with crippling weaknesses but significant enough merits to let it retain a niche in the tier.
+Sableye has a great ability before Mega Evolution as well as after it; Magic Bounce is extremely useful and Sableye is the only non-offensive user of it, which sets it apart from other Pokemon with the ability. Furthermore, it has a good typing, which leaves it with only a weakness to Fairy-type attacks. It also has a good supportive movepool that provides reliable recovery among other things. Mega Sableye has great defenses that allow it to completely stop several threatening attackers, such as Mega Kangaskhan. However, Sableye is extremely slow once it has Mega Evolved, and its mediocre HP stat undermines its good defenses. Additionally, Sableye has quite low offensive stats, and despite its good bulk, Sableye is still unable to check several physical attackers, such as offensive Groudon and Mega Salamence.
 
-Prankster
+
+Utility
 ########
-name: Prankster
-move 1: Taunt
+name: Utility
+move 1: Foul Play / Knock Off
 move 2: Will-O-Wisp
 move 3: Recover
-move 4: Knock Off / Foul Play
+move 4: Taunt
 ability: Prankster
-item: Leftovers
-evs: 252 HP / 252 Def / 4 SpD
-nature: Impish / Bold
+item: Sablenite / Leftovers
+evs: 248 HP / 124 Def / 136 SpD
+nature: Impish
 
 Moves
 ========
 
-Prankster Taunt provides valuable utility; it prevents opponents from setting up entry hazards, crippling Sableye with status, phazing it, or healing themselves, without the need for Speed investment. This allows Sableye to single-handedly shut down Pokemon such as Lugia, Blissey, and Ferrothorn that are staples on stall-oriented teams. The move also plays a big part in letting Sableye check Extreme Killer Arceus by preventing it from accruing further boosts after it has been burned. Will-O-Wisp lets Sableye wear down the aforementioned Pokemon in conjunction with Taunt and Recover. It is also a means of shutting down other physical attackers such as Mega Kangaskhan, Mega Mewtwo X, and to a lesser extent Swords Dance Ground Arceus in a jiffy. Recover is necessary for Sableye to remain healthy while it checks what it needs to, especially since it is not particularly bulky even with fully invested physical bulk. Knock Off is Sableye's most useful attacking move. It handicaps common defensive Pokemon by permanently removing their Leftovers and is a good move to throw out against predicted switch-ins of Pokemon such as Ho-Oh or Yveltal. Foul Play deals hefty damage to Ho-Oh switching in and is useful for bringing down Pokemon such as Refresh Extreme Killer Arceus. In this moveslot, Snarl can also be used for letting Sableye annoy specially based switch-ins and beat non-Fairy support Arceus one-on-one if it hits them on the switch-in. Toxic is another option here to more effectively cripple certain switch-ins to Sableye such as Lugia, Ho-Oh, and support Arceus formes.
+Foul Play hits physically offensive attackers such as Deoxys-A and Mega Salamence very hard. Knock Off can be used over Foul Play, as it cripples Pokemon that are item-reliant, as well as doing quite a lot of damage to those weak to it and being a generally safe move to use if you're unsure what the opponent is about do. Will-O-Wisp cripples all physical attackers bar those immune to it, leaving their attacks half as powerful. Recover allows Sableye to recover from damage done by foes. Taunt is a good support move that prevents the target from setting up. Protect is another option that helps Sableye Mega Evolve safely without needing to take a hit, but it does not deal damage, unlike Fake Out. Fake Out is an alternative to Protect and can be used instead, as it helps Sableye Mega Evolve without taking a hit and deals damage too, but it doesn't affect Ghost-types and deals minimal damage.
 
 Set Details
 ========
 
-Maximum HP and Defense EVs with an Impish or Bold nature maximize Sableye's physical bulk, which with Will-O-Wisp defines its role as a check to physical threats. Leftovers provides Sableye with passive healing and is a mandatory item for it, as it lacks bulk and cannot afford to be using Recover every other turn.
+The investment in HP gives a boost to Sableye's bulk, and the Special Defense investment ensures that Sableye is only 3HKOed by Fire Blast from Mega Mewtwo-Y, which it can proceed to beat with a STAB attack. The rest of the EVs go into Defense to help Sableye beat physical attackers. Leftovers can be used over Sablenite to give Sableye passive recovery and let it continue to utilize Prankster, unlike its Mega Evolution.
 
 Usage Tips
 ========
 
-Taunt defensive Pokemon and spread burns while Sableye is on the field. Note that Sableye is very frail; even with fully invested physical bulk, it does not want to take most neutral physical hits (such as Landorus-T's Earthquake) unless the opponent is burned. Also, status cripples it, and its special bulk is hopeless. Try to bring Sableye in via double switching on predicted switches into the Pokemon it checks. Alternatively, attempt to switch it into moves of one of the three types it is immune to, especially when said moves are used by Pokemon such as Mega Mewtwo X and Mega Kangaskhan that cannot do much to it whatever the move used. Try as much as possible to keep Sableye at or near full health, especially if the opponent packs boosting physical attackers such as Extreme Killer Arceus, Landorus-T, or Swords Dance Ground Arceus. If it has taken significant prior damage, Sableye might be unable to subdue what it checks when it needs to. Do not be too predictable in using Taunt. Opponents will likely catch on soon enough when you are attempting to Taunt their wall/tank and switch to a Pokemon that poses an immediate offensive threat to Sableye. In these cases, throwing out a Knock Off/Will-O-Wisp or double switching to an appropriate teammate is the wiser move.
+Sableye is a good switch-in to a handful of physical attackers, such as Mega Mewtwo X, anti-lead Deoxys formes, and Arceus, as it can burn them after and eventually Recover if needed. However, be careful with directly switching it in; because of its unreliable bulk when not Mega-Evolved, it is recommended that you switch Sableye in after a teammate has been beaten by a physical attacker. Make sure to use Knock Off whenever you're not sure what the opponent is going to do, as it is a safe move in general. Using Knock Off against Pokemon that rely on their item, such as Latios and Latias, is also good. Once Sableye has Mega Evolved, it's handy to switch it into a predicted status move, as it will bounce it back. Also, don't always Mega Evolve Sableye immediately; if there are several physical attackers on the opposing team that can be crippled with a burn, make sure to keep Sableye from Mega Evolving, as it will be able to pull off a priority Will-O-Wisp against all of them. Use Taunt when a defensive Pokemon is on the field, as it'll prevent it from using any status attack.
 
 Team Options
 ========
 
-Although Sableye is a very solid check to specific Pokemon such as Extreme Killer Arceus, Mega Kangaskhan, and Mega Mewtwo X, as well as a general annoyance to stall teams, it fares poorly against pretty much everything else. As such, it is advisable to support it with a solid defensive core that holds up well against other prominent metagame threats. A Kyogre check is necessary, making Palkia a good teammate. Having two decent answers to Kyogre is also an option&mdash;for example, using Water Arceus and Ferrothorn. Secondly, Sableye is bird bait: have answers to Blaziken and Ho-Oh. Landorus-T is a good teammate that can also set Stealth Rock, which checks Ho-Oh in itself. Water Arceus fares well against Blaziken and checks Ho-Oh in the interim. Physically defensive Xerneas can also check Blaziken, and it forms a good defensive core with Water Arceus that also provides the team with cleric support. Tyranitar and Rock Arceus do well against Ho-Oh, but note that they compound the Blaziken (and Kyogre) weakness. Thirdly, checks to Yveltal and Palkia are required. The aforementioned physically defensive Xerneas can check Yveltal and non-Lustrous Orb Palkia under neutral weather, even without Special Defense investment. Alternatively, a specially defensive spread can be run. Specially defensive Kyogre is another good choice that handles most prominent special attackers without compounding any weaknesses. Finally, Fairy-types are problematic. Have a way to handle Geomancy Xerneas. Poison Arceus is a good teammate; Sableye also helps it against Mewtwo. Sand Rush Excadrill coupled with Tyranitar is an interesting means of keeping Geomancy Xerneas under control, but note that it can only function as a revenge killer and additionally cannot switch in on other Fairy-types such as Fairy Arceus. Understand that many typical checks to Xerneas such as Scizor and Klefki compound your team's ornithophobia, and this should be taken into consideration when teambuilding. Fairy Arceus is another notable Fairy-type that can potentially be very threatening as it can set up Calm Mind on Sableye (Taunting it is too risky). Ferrothorn and Heatran are good checks to Fairy-types in general. In the same vein, make sure your team can handle common Calm Mind Arceus formes, as Sableye cannot risk staying in against these due to its poor special bulk.
+Pokemon such as Mega Gengar, Primal Groudon, and specially defensive Dialga are good teammates, as they can beat Fairy-types. Physical tanks that beat the physical attackers that trouble Sableye, such as Giratina, also make excellent partners. Partners that appreciate Mega Sableye bouncing back hazards, such as Lugia and Ho-Oh, make good teammates too. Also, relatively slow Volt Switch or U-turn users, such as Scizor, make good partners, as they grant Sableye a safe switch into physical attackers. Last but not least, specially defensive Pokemon such as Blissey can take on the offensive Pokemon that threaten Sableye.
 
 Other Options
 ########
 
-Sableye's other options are woefully scant. Trick can be used with an item such as Iron Ball or Flame Orb to cripple a switch-in, but this strategy is incredibly situational and can backfire if an Arceus forme or Mega-Evolved Pokemon switches in, as Trick fails to work against these Pokemon. Beyond this, Sableye can abuse Prankster by using moves like Confuse Ray to incapacitate foes, but it is hard-pressed to spare the moveslots for these moves, which are gimmicky at best anyway.
+Toxic is a good support move that hits walls, wearing them down, as well as hitting Pokemon immune to burns, but Taunt is generally better to assist with wearing these sorts of Pokemon down. Counter is an option to beat physically offensive Pokemon with greater ease, but it has no use against special attackers and doesn't do a lot of damage anyway because of Sableye's low HP stat. Trick along with a Choice item can be used to stop defensive Pokemon, but is only useful against one Pokemon throughout the match and is generally done better by other users of the move, such as Gothitelle.
 
 Checks & Counters
 ########
 
-**Fairy-types**: Any Fairy-type attack will usually KO Sableye outright, making Xerneas, Fairy Arceus, Sylveon, and Clefable all very threatening to Sableye.
+**Fairy-types**: Fairy-types such as Sylveon, Xerneas, and Mega Mawile can beat Sableye easily with one of their STAB moves, but Mega Mawile has to be wary of Will-O-Wisp.
 
-**Special Attackers**: Kyogre, Palkia, Yveltal, Kyurem-W, Dialga, and Reshiram all OHKO Sableye with their respective STAB moves. Darkrai can severely cripple Sableye with a STAB Dark Pulse while Sableye can do little in return. Thundurus boasts a faster Prankster Taunt and STAB Electric-type moves to incapacitate Sableye with.
-
-**Poultry**: Ho-Oh and Blaziken are immune to Will-O-Wisp and quickly subdue Sableye with their powerful STAB moves.
-
-**Calm Mind Arceus Formes**: Judgment does a large chunk to Sableye even when unboosted. Because Sableye cannot afford to stay in on them, they can take advantage of its switching out to set up a Calm Mind. In the same vein, many support Arceus formes threaten Sableye although Snarl, if used, can mitigate this problem somewhat.
-
-**Heatran**: Due to Flash Fire negating Will-O-Wisp, Heatran can switch freely into any of Sableye's moves (although it dislikes Knock Off) and threaten it with a STAB Lava Plume.
-
-**Lum Berry**: The status-curing Berry is especially potent when paired with Ground-type setup sweepers such as Groudon or Landorus-T, which with the help of the Berry can overwhelm Sableye with STAB Earthquake.
-
-**Magic Bounce**: Reflecting back Sableye's Taunt or Will-O-Wisp handicaps it, although two of the three recipients of the ability, Espeon and Xatu, do not like switching into Knock Off. Mega Absol is rarely used in Ubers, but it can set up on Sableye with the aid of Magic Bounce.
+**Fire-types**: Fire-types such as Primal Groudon, Ho-Oh, and Blaziken are immune to Will-O-Wisp and can proceed to beat Sableye with their STAB attacks.

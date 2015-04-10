@@ -8,26 +8,27 @@ Follow Me Support
 name: Follow Me Support
 move 1: Follow Me
 move 2: Ice Beam / Icy Wind / Moonblast
-move 3: Helping Hand / Heal Pulse / Thunder Wave
+move 3: Helping Hand / Thunder Wave
 move 4: Protect
 ability: Unaware / Magic Guard
 item: Sitrus Berry / Rocky Helmet
-evs: 252 HP / 252 Def / 4 SpD
+evs: 252 HP / 108 Def / 28 SpA / 116 SpD / 4 Spe
 nature: Bold
 
 Moves
 ========
 
-Follow Me provides your Clefable's team with redirection support. Ice Beam and Moonblast are both good in their own right and the choice between the two depends on what coverage the team needs. Heal Pulse allows Clefable to heal up bulkier Pokemon such as Aegislash and Mega Venusaur or keep its ally out of KO range. Helping Hand allows Clefable to boost the power of its ally's attack. Clefable has access to two forms of speed control: Icy Wind and Thunder Wave. Icy Wind can be used over Ice Beam or Moonblast, and Thunder Wave can replace Helping Hand or Heal Pulse. Finally, Protect shields Clefable from being double targeted and can give its team a free turn.
+Follow Me provides Clefable's team with redirection support. Ice Beam and Moonblast are both good in their own right and the choice between the two depends on what coverage the team needs. Heal Pulse allows Clefable to heal up bulkier Pokemon such as Aegislash and Mega Venusaur or keep its ally out of KO range. Helping Hand allows Clefable to boost the power of its ally's attack. Clefable has access to two forms of speed control: Icy Wind and Thunder Wave. Icy Wind can be used over Ice Beam or Moonblast, and Thunder Wave can replace Helping Hand or Heal Pulse. Finally, Protect shields Clefable from being double targeted and can give its team a free turn.
 
 Set Details
 ========
 
-The HP and Defense EVs allow Clefable to live an Iron Head from Life Orb Adamant Bisharp. Clefable can survive most special attacks in the metagame, bar Mega Charizard Y's Overheat, so it is alright to run minimal Special Defense investment. With Unaware, Clefable can more easily handle a boosted Pokemon's hits, such as Defiant-boosted Bisharp and Power-Up Punch Mega Kangaskhan; but if you have more than one Intimidate or Snarl user, switching to Magic Guard is probably your best bet (note: Unaware does not ignore Icy Wind Speed debuffs). Alternate EVs include dropping some Defense for some Special Attack investment (36 Special Attack EVs allow Clefable to OHKO Scarf Landorus-T with Ice Beam) or more Speed (12 Speed EVs allow Clefable to outrun Bisharp after an Icy Wind). Depending on the team, more Special Defense can be used. On a Trick Room team, Clefable can run a Relaxed nature with 0 Speed IVs.
+The listed EVs allow Clefable to survive Adamant Mega Kangaskhan's Double Edge and makes fully invested Modest Aegislash's Flash Cannon a 3HKO. The rest is invested into Special Attack with a point in speed leftover. With Unaware, Clefable can more easily handle a boosted Pokemon's hits, such as Defiant-boosted Bisharp and Power-Up Punch Mega Kangaskhan; but if you have more than one Intimidate or Snarl user, switching to Magic Guard is probably your best bet (note: Unaware does not ignore Icy Wind Speed debuffs). Alternate EVs include dropping some Defense for some Special Attack investment (36 Special Attack EVs allow Clefable to OHKO Scarf Landorus-T with Ice Beam) or more Speed (12 Speed EVs allow Clefable to outrun Bisharp after an Icy Wind). Depending on the team, more Special Defense can be used. On a Trick Room team, Clefable can run a Relaxed nature with 0 Speed IVs.
+
 Usage Tips
 ========
 
-Most often, Clefable should use Follow Me the most for redirecting attacks such as Close Combat and Draco Meteor. Clefable should also use Icy Wind, Helping Hand, and Thunder Wave often so that it can create safe plays for its partners.
+Most often, Clefable should use Follow Me for redirecting attacks such as Close Combat and Draco Meteor. Clefable should also use Icy Wind, Helping Hand, and Thunder Wave often so that it can create safe plays for its partners.
 
 Team Options
 ========
@@ -37,7 +38,7 @@ Boosting Pokemon and those that share a weakness with Togekiss work really well 
 Other Options
 ########
 
-Wish and Moonlight are both viable recovery options for Clefable. Aromatherapy allows Clefable to heal itself and its teammates of status. Fake Tears allows Clefable to lower a foe's Special Defense by two stages. Dual Screens in conjunction with Gravity are other options that Clefable has at its disposal. Finally, Clefable also has a pretty large offensive movepool that includes Fire Blast, Dazzling Gleam, Thunderbolt, Psychic, and Shadow Ball.
+Wish and Moonlight are both viable recovery options for Clefable. Aromatherapy allows Clefable to heal itself and its teammates of status. Heal Pulse lets you keep a teammate in tact for longer. Fake Tears allows Clefable to lower a foe's Special Defense by two stages. Dual Screens in conjunction with Gravity are other options that Clefable has at its disposal. Finally, Clefable also has a pretty large offensive movepool that includes Fire Blast, Dazzling Gleam, Thunderbolt, Psychic, and Shadow Ball.
 
 Checks & Counters
 ########

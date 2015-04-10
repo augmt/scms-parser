@@ -10,7 +10,7 @@ move 1: Protect / Swords Dance
 move 2: Facade
 move 3: Close Combat
 move 4: Crunch
-item: Toxic Orb / Flame Orb
+item: Toxic Orb
 ability: Quick Feet
 nature: Jolly
 evs: 4 HP / 252 Atk / 252 Spe
@@ -21,7 +21,7 @@ evs: 4 HP / 252 Atk / 252 Spe
 
 [ADDITIONAL COMMENTS]
 
-<p>Because this set aims to be faster than Zangoose, a Jolly nature is preferred, as it allows Ursaring to do so. However, even after having a Jolly nature, Quick Feet, and maximum Speed investment, Ursaring still isn't that fast, which is something that should be kept in mind while battling. The choice of Orb is up to you. However, Toxic Orb deals less damage for the first three turns Ursaring is on the field, making it a more useful hit-and-run item. As for teammates, Ghost- and Psychic-types are great teammates to have, as they can both cover Ursaring's Fighting weakness. This allows Ursaring to clean through teams much more easily late-game. Examples of some good Pokemon to use include Spiritomb and Uxie.  Physically based Water-types such as Kabutops and Samurott are also good teammates as they pressure most Rock- and Steel-types and can wear down bulky Water-types. Finally, more offensive approaches toward taking down Ursaring, such as Sucker Punch Absol and Spiritomb, as well as Escavalier, can be taken down with Durant and certain variants of Moltres, respectively.</p>
+<p>Because this set aims to be faster than Zangoose, a Jolly nature is preferred, as it allows Ursaring to do so. However, even after having a Jolly nature, Quick Feet, and maximum Speed investment, Ursaring still isn't that fast, which is something that should be kept in mind while battling. Toxic Orb activates Ursaring's Quick Feet, and Flame Orb shouldn't even be considered, as it halves Ursaring's Attack stat. As for teammates, Ghost- and Psychic-types are great teammates to have, as they can both cover Ursaring's Fighting weakness. This allows Ursaring to clean through teams much more easily late-game. Examples of some good Pokemon to use include Spiritomb and Uxie. Physically based Water-types such as Kabutops and Samurott are also good teammates as they pressure most Rock- and Steel-types and can wear down bulky Water-types. Finally, more offensive approaches toward taking down Ursaring, such as Sucker Punch Absol and Spiritomb, as well as Escavalier, can be taken down with Durant and certain variants of Moltres, respectively.</p>
 
 [SET]
 name: Village Crusher (Guts)
