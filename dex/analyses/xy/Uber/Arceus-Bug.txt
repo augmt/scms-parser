@@ -1,15 +1,15 @@
 Overview
 ########
 
-In the treacherous tier of Ubers, the importance of having a quality Arceus forme that can synergize with your team cannot be understated. For this reason, picking the horrendous Bug Arceus is strongly discouraged. Not only does this Arceus lack offensive presence, it also has a glaring weakness to Stealth Rock and a terrible defensive typing that leaves it with common weaknesses. Due to its Stealth Rock weakness and bad typing, it cannot effectively run a support set. Likewise, a Calm Mind set is walled by too many Pokemon in this metagame, including Ho-Oh and Lugia, leaving a Swords Dance set as its only viable option. Not all is lost for Bug Arceus, as it can beat Darkrai after it has put something to sleep and serve as a decent Ho-Oh lure. While this hardly makes up for its negatives, Bug Arceus is at least satisfying to win with.
+Bug Arceus's typing offers no useful resistances, as any users of Fighting-, Grass-, and Ground-type moves have either secondary STAB or coverage moves that will destroy Bug Arceus. The Stealth Rock weakness further weakens Bug Arceus's longevity, removing 25% of its HP on every switch in. Bug isn't the worst offensive typing in Ubers, as there are many Psychic- and Dark-types in the tier. Unfortunately, Bug Arceus is easily checked by many things in Ubers, as anything that is somewhat bulky can withstand its attacks.
 
-Swords Dance "Sweeper"
+Swords Dance
 ########
-name: Swords Dance "Sweeper"
+name: Swords Dance
 move 1: Swords Dance
 move 2: X-Scissor
 move 3: Earthquake
-move 4: Stone Edge / Iron Head
+move 4: Stone Edge
 item: Insect Plate
 evs: 252 Atk / 4 Def / 252 Spe
 nature: Jolly
@@ -17,65 +17,39 @@ nature: Jolly
 Moves
 ========
 
-Swords Dance allows Bug Arceus to reach an impressive 678 Attack stat after just one turn of setup, and its excellent 120 / 120 / 120 defenses give it opportunities to set up a Swords Dance throughout the match. X-Scissor is not a very powerful move by Ubers standards but is Bug Arceus's best STAB option. Be warned that Bug hits very few viable Ubers for super effective damage and is a poor attacking type. Earthquake hits the Fire-and Steel-types that resist X-Scissor very hard and can hit Fairy-types fairly hard as well.
-
-Stone Edge is usually the best option for the last slot, as it OHKOes Ho-Oh and hits Yveltal and Lugia hard after a Swords Dance boost. However, Iron Head can be used to hit Xerneas and Fairy Arceus. The former can set up a Geomancy against any Bug Arceus lacking Iron Head, so it is not a terrible option despite the lack of coverage it offers otherwise. If your team has an answer to Xerneas, such as Aegislash, then Stone Edge is the better option. Bug Arceus has other moves that it can run, but they are usually poor options. Recover extends Bug Arceus's longevity but significantly reduces its coverage, making it far easier to wall. Extreme Speed makes Bug Arceus harder to revenge kill and can theoretically be used to sweep late-game. However, Extreme Speed is very weak, even after a Swords Dance boost. Like Recover, Extreme Speed also strips Bug Arceus of valuable coverage.
+Swords Dance is the preferred set over Calm Mind, as the existence of Ho-Oh leaves Calm Mind an unviable alternative. X-Scissor is the most powerful physical STAB move Bug Arceus can use and is effective against the numerous Psychic- and Dark-types in the tier, as it is able to OHKO Mewtwo, Latios, Latias, Darkrai, and the offensive Deoxys formes. Earthquake is used as coverage, allowing Bug Arceus to hit Primal Groudon, Mega Diancie, and most Steel-types. It should be noted that Earthquake is very weak without a boost from Swords Dance, and even then, Pokemon such as Primal Groudon can live a +2 Earthquake. Stone Edge is used to hit Flying-types such as Mega Salamence, Rayquaza, and Ho-Oh. Iron Head can be used over Earthquake if you wish to hit Fairy-types such as Xerneas and Fairy Arceus, which can otherwise check Bug Arceus easily.
 
 Set Details
 ========
 
-Bug Arceus runs a standard Swords Dance set, albeit one far less threatening than that of most other Arceus formes. Simply max out its Attack and Speed stats and use a Jolly nature to Speed tie other Arceus formes. One can opt for a spread with 212 Speed and an Adamant nature to outrun base 100s such as Palkia and Mega Kangaskhan. The increase in power is generally not worth giving up Speed ties with support Arceus formes though, as they can cripple variants using this spread with Will-O-Wisp far more reliably.
+Maximize Attack EVs to give Bug Arceus as much power as possible. Maximum Speed EVs and a Jolly nature allow Bug Arceus to outspeed anything under base 120 Speed and Speed tie with other Arceus formes and Mega Salamence.
 
 Usage Tips
 ========
 
-Though this set is technically classified as a sweeper, the reality is that it is more likely to lure in and kill a troublesome threat than it is to actually clean. It simply does not have the power nor the typing to consistently sweep opposing teams. However, you do have a decent chance to catch unsuspecting Ho-Oh and Heatran off-guard with Stone Edge and Earthquake, respectively. If your opponent attempts to check Bug Arceus like any other Swords Dance Arceus — with Skarmory or physically defensive Yveltal for example — Bug Arceus is going to have a hard time because it does not have a way of powering through physical walls. Naturally, one should remove or severely weaken anything that can wall Bug Arceus before bringing it in to set up a Swords Dance.
-
-The number of Pokemon Bug Arceus can freely set up on is very limited. It can set up on standard Calm Mind Grass Arceus, as well as Groudon lacking a phazing move, Thunder Wave, Stone Edge, and Fire Punch. Most Groudon carry at least one of these moves, however, though if Groudon is badly weakened Bug Arceus can eat a Stone Edge, set up, and take it out if need be. Other than that, Bug Arceus has an awful time finding free turns to set up on. Also, be careful of switching Bug Arceus directly into an offensive Pokemon, as most powerful attacks and all status cripple it. In an emergency, it can come in on a predicted Earthquake, but that's about it.
+Bug Arceus is best used as a late-game cleaner, once Primal Groudon and other checks are sufficiently weakened. Bug Arceus can also be used earlier in the match to revenge kill Calm Mind Latios or Latias if necessary. Bug Arceus's resistance to Ground- and Fighting-type moves can give it a way to switch in, but be very careful; most users of such moves typically have other coverage moves that can deal heavy damage to Bug Arceus. Bug Arceus can check Mega Lucario easily. However, Mega Lucario is rather rare.
 
 Team Options
 ========
 
-The first thing to consider when using Bug Arceus is a Defog user to remove Stealth Rock. Bug Arceus has a much better chance of actually accomplishing something if it does not have 25% of its health stripped from simply switching in. Skarmory has mediocre synergy with Bug Arceus as they share a weakness to Fire attacks (and both dislike Kyogre), so Giratina-O and Lugia are the best options. Bug Arceus also appreciates status absorbers to help deal with Will-O-Wisps. If Bug Arceus is burned, it is rendered completely useless for the rest of the match assuming you do not have a cleric. Gliscor and Heatran can easily switch in on status moves aimed at Bug Arceus.
-
-Consider using a Pokemon that can break down the Giratina formes, as Bug Arceus cannot touch them. Darkrai, Kyurem-W, and Xerneas can all deal heavy damage to them. Darkrai and Kyurem-W also help with opposing Lugia. Another Pokemon that has relatively good synergy with Bug Arceus is Dialga, as the latter resists Rock and Flying moves while the former resists Fighting moves. Stealth Rock support is very important when using Bug Arceus, as it needs the chip damage due to its only average power.
+Bug Arceus requires a huge amount of support to be even slightly effective. Defog users such as Latios, Latias, Mega Scizor, and Giratina-O can clear all entry hazards, all of which are very detrimental to Bug Arceus's longevity. Giratina-O also doubles as a check to Primal Groudon, a Pokemon that can counter Bug Arceus with ease, making it an effective partner. Other checks to Primal Groudon include Latios, Latias, Shuca Berry Dialga, and defensive Mega Salamence. Checks to Mega Salamence such as Dialga, Klefki, Tyranitar, and Mega Aerodactyl are appreciated, as Bug Arceus cannot beat it one-on-one without a Swords Dance boost. It should be noted that Bug Arceus has a hard time revenge killing Mewtwo and Nasty Plot Darkrai, so checks to them might be a good idea. Checks to Mewtwo include Latios, Latias, Yveltal, and Giratina-O, while checks to Darkrai include Primal Kyogre, Ho-Oh, and Tyranitar.
 
 Other Options
 ########
 
-Outrage is an option on the Swords Dance set to nail the Giratina formes. Unfortunately, Outrage gives Xerneas and Fairy Arceus free setup opportunities and has mediocre synergy with Bug Arceus's STAB move, so it isn't recommended. Substitute blocks status and Dragon Tail but takes away a crucial coverage move. Bug Arceus can technically run a Calm Mind set, but it is easily walled by a variety of Ubers such as Lugia, Ho-Oh, and Dialga. This is because Bug Arceus can only afford to run one coverage move along with Judgment, Recover, and Calm Mind, and Bug-type Judgment itself has terrible coverage in Ubers. Likewise, a support set with Defog is outclassed by almost every other Arceus forme due to Bug Arceus's bad defensive typing and glaring Stealth Rock weakness.
+Bug Arceus's options are very limited. A Calm Mind set is a possibility, but Ho-Oh poses such a great threat to such a set that it is generally not worthwhile. Extreme Speed is a possible coverage move that allows Bug Arceus to get past faster threats and beat a boosted Darkrai if weakened. Non-STAB Extreme Speed is extremely weak, however, even with a Swords Dance boost.
 
 Checks & Counters
 ########
 
-Bug Arceus is one of the easier Swords Dance Arceus formes to check, but it can still get around some of its checks with the right move. Defensive counters include the following:
+**Primal Groudon**: Primal Groudon is able to switch into Bug Arceus easily and threaten to set up boosting moves, set up Stealth Rock, and OHKO Bug Arceus. Not even a +2 Earthquake can OHKO Primal Groudon, and therefore the matchup should be completely avoided until Primal Groudon is sufficiently worn down.
 
-**Lugia**: Lugia is a pain for Bug Arceus to deal with, as it lives a +2 Stone Edge even after Stealth Rock and can phaze Arceus away. If Multiscale is intact, Lugia can even Toxic Arceus before phazing it out.
+**Mega Salamence**: Salamence can switch into Bug Arceus and get a free turn to Mega Evolve thanks to Intimidate, then threaten to OHKO with its STAB move. If Salamence has already Mega Evolved when it switches in, Stone Edge can 2HKO non-bulky sets, but even with this, the best possible scenario is that Mega Salamence Speed ties with Bug Arceus and can potentially OHKO with Return or Double-Edge. The risk can be high for both sides, but mostly favors the Mega Salamence user.
 
-**Skarmory**: Skarmory hard counters Bug Arceus, as it fears absolutely nothing Bug Arceus uses and can easily phaze it out.
+**Ghost Arceus**: Ghost Arceus resists Bug and takes pitiful damage from Bug Arceus's coverage moves, making it a good switch-in. Ghost Arceus can then threaten to countersweep with Calm Mind or Swords Dance, or it can burn Bug Arceus with Will-O-Wisp if using a defensive set.
 
-**Giratina Formes**: Giratina and Giratina-O are almost as reliable as Skarmory, but fear a +2 Outrage. Fortunately, Bug Arceus rarely runs Outrage, and Giratina can easily burn it or phaze it out.
+**Giratina-O**: Giratina-O resists X-Scissor and is immune to Earthquake, leaving Stone Edge as Bug Arceus's only way to hurt it. Unfortunately, Giratina-O is bulky enough to avoid a 2HKO from even a +2 Stone Edge and can phaze with Dragon Tail.
 
-**Physically Defensive Mega Scizor**: Mega Scizor avoids the 2HKO from a +2 Earthquake and can stall Bug Arceus out with Roost after crippling it with Toxic.
+**Steel-types**: Steel-types that are neutral to Earthquake such as Ferrothorn, Forretress, and Mega Scizor are excellent checks to Bug Arceus.
 
-**Heatran**: Heatran walls all variants lacking Earthquake and strikes back with Lava Plume.
-
-**Support Arceus Formes**: Support Arceus formes, such as Rock and Fire, will in general beat Bug Arceus unless they are weak to Bug-type moves as Bug Arceus cannot hit them hard enough to outdamage Recover once it has been burned.
-
-**Ground / Flying Types**: Both Gliscor and Landorus-T avoid the 2HKO from a +2 Stone Edge and easily wear down Bug Arceus with Toxic.
-
-**Bulky Fairies**: Fairy Arceus, Xerneas, and to a lesser extent Sylveon can all easily combat Bug Arceus unless it carries Iron Head.
-
-**Physically Defensive Yveltal**: Yveltal survives a +2 Stone Edge after Stealth Rock and OHKOes Bug Arceus back with Foul Play.
-
-**Niche Checks**: Physically Defensive Sableye, Quagsire, and non-Mega Gyarados are example of niche options that give Bug Arceus a very hard time.
-
-Even if your team lacks one of the many defensive checks to Bug Arceus, it can be beaten through offensive measures.
-
-**Shaymin-S**: Shaymin-S 2HKOes Bug Arceus with Air Slash but fears Stone Edge.
-
-**Choice Scarf Users**: Because Bug Arceus seldom runs Extreme Speed, powerful Choice Scarf users such as Kyogre and Terrakion can revenge kill it.
-
-**Blaziken**: Blaziken destroys Bug Arceus with Flare Blitz and it can switch in safely on any move other than Earthquake.
-
-**Mega Gengar**: Mega Gengar outruns and traps Bug Arceus, but it fears Earthquake. Only use this against weakened Arceus, however.
+**Revenge Killers**: Bug Arceus is actually very weak in comparison to other threats. Many Pokemon in Ubers can handle its attacks and check it as a result.

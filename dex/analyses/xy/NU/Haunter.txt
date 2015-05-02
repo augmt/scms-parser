@@ -1,12 +1,115 @@
-Special Attacker
+Overview
 ########
-name: Special Attacker
+
+Haunter is one of the few Ghost-types in NU, and it sits at a base 95 Speed, which lets it outspeed a lot of common threats such as Zangoose, Mesprit, and Lilligant. It also has great neutral coverage which, when coupled with Haunter's great base 115 Special Attack, means that it hits hard and very fast. It also has a fantastic ability in Levitate, giving it three immunities to take advantage of while also allowing it to avoid Spikes. While Haunter seems to have everything going for it, it faces a lot of competition from other common Ghost-types in NU. Rotom is arguably a better Choice Scarf user thanks to its access to STAB Volt Switch, which eases overall prediction. The stallbreaker set faces competition from Mismagius, which has access to Taunt and Nasty Plot, letting it boost its Special Attack to sky-high levels; however, Haunter has a secondary Poison typing and STAB Sludge Bomb to better take on Mega Audino and face stall better. It also has pitiful bulk, relying on resisted hits and its three immunities in Normal, Fighting, and Ground to tank hits even with Eviolite.
+
+Choice Scarf
+########
+name: Choice Scarf
 move 1: Shadow Ball
 move 2: Sludge Bomb
-move 3: Dazzling Gleam
-move 4: Destiny Bond / Substitute
-item: Life Orb
+move 3: Destiny Bond
+move 4: Trick
+ability: Levitate
+item: Choice Scarf
 evs: 252 SpA / 4 SpD / 252 Spe
 nature: Timid
 
-This is a sample set while we are currently working on analyses in the workshop.
+Moves
+========
+
+Shadow Ball is Haunter's safest attack due to its neutral coverage, and it deals major damage to the multitude of bulky Psychic-types in the tier such as Musharna and Uxie. Sludge Bomb is a great secondary STAB move and is used to hit Pokemon that resist Ghost hard, particularly Mega Audino. Destiny Bond works with Haunter's frailty, as it will move first and most STAB moves from an opponent's Pokemon can KO Haunter. Trick allows Haunter to cripple walls such as Seismitoad and Rhydon and switch its moves.
+
+Set Details
+========
+
+Maximum Special Attack and Speed EVs are used to allow Haunter to hit as hard and as fast as possible. A Choice Scarf is the obvious item, as the goal of this set is to be a fast and reliable revenge killer. A Timid nature is needed for Haunter to keep up with some opposing Choice Scarf users, such as Rotom, and to Speed tie with other Choice Scarf users, such as Primeape and Jynx.
+
+Usage Tips
+========
+
+This set serves as an emergency check to setup sweepers thanks to its access to a fast Destiny Bond, giving it more utility than many Choice Scarf users in NU. This set should also be brought in safely, as Haunter is very frail and cannot afford to take a hit. Ways to do this are switching Haunter in when the foe uses a non-attacking move, through a Volt Switch or U-turn, or by switching it in on a move it is immune to. This set brings a bit more utility than other Choice Scarf users, as it has a way to bring down slower setup sweepers and to cripple walls with Trick. It can be used more for its utility rather than its coverage options, as it is nearly guaranteed to take down a Pokemon with it thanks to its access to a fast Destiny Bond. Destiny Bond can also help create some 50/50s or unfavorable scenarios for the opponent with Sucker Punch users such as Kangaskhan, Cacturne, and Liepard.
+
+Team Options
+========
+
+Kangaskhan is an amazing partner because it's immune to Haunter's Ghost weakness while Haunter can tank Fighting-type hits for Kangaskhan. Kangaskhan also can hit everything at least neutrally thanks to its Scrappy ability, which means it can dispose of opposing Ghost-types easily. This set also appreciates entry hazard support because it forces many switches. Seismitoad and Crustle are good reliable entry hazard setters; Seismitoad can come in multiple times throughout the match and proceed to set up Stealth Rock, and Crustle can set up a layer of Spikes and Stealth Rock thanks to its access to Sturdy. Haunter can also provide spinblocking support thanks to its Ghost typing. Wallbreakers, such as Choice Band Sawk, Zangoose, and Choice Specs Typhlosion, complement Haunter's ability to clean up with its nice neutral coverage. Setup Pokemon such as Malamar can also take advantage of bulkier teams that Haunter has a hard time breaking through.
+
+Stallbreaker
+########
+name: Stallbreaker
+move 1: Shadow Ball
+move 2: Sludge Bomb
+move 3: Taunt / Will-O-Wisp
+move 4: Destiny Bond / Will-O-Wisp
+ability: Levitate
+item: Life Orb / Eviolite
+evs: 252 SpA / 4 SpD / 252 Spe
+nature: Timid
+
+Moves
+========
+
+Shadow Ball is a great STAB move. Sludge Bomb hits Normal- and Dark-types, such as Mega Audino, Bouffalant, Zangoose, and Cacturne, which are immune to or resist its Ghost-type STAB move. Taunt is great to use on opposing Pokemon that try to status or set up on Haunter. It also can prevent entry hazards from being set up by Pokemon such as Seismitoad or Garbodor and stop opposing Pokemon such as Musharna and Vileplume from healing. Destiny Bond is a great answer to Pokemon that try to start a sweep, as Haunter is pretty fast on its own. Will-O-Wisp can be used to spread status and whittle down the opponent's team. This also cripples physical attackers carrying Sucker Punch, most notably Kecleon, Kangaskhan, Cacturne, and Pawniard.
+
+Set Details
+========
+
+Maximum Special Attack and Speed EVs allow Haunter to hit as hard and as fast as possible. Life Orb is used to boost Haunter's already great Special Attack stat. However, Eviolite can be used in conjunction with Will-O-Wisp to better take physical resisted hits and provide Haunter with a bit of bulk. A Timid nature is used so it can be as fast as possible, as a Modest nature causes it to lose out on outspeeding base 90 Speed Pokemon such as Kangaskhan and Lilligant.
+
+Usage Tips
+========
+
+Haunter's secondary Poison typing allows it to not be worn down by Toxic, and it is a pretty powerful wallbreaker thanks to its access to a good STAB combination and a good support movepool with moves such as Taunt, Destiny Bond, and Will-O-Wisp to cripple slower Pokemon or Sucker Punch users. This set is more of a wallbreaker than the Choice Scarf set, as Haunter can hit a lot harder thanks to Life Orb. This set works better early- and mid-game to weaken opposing walls, allowing your team's sweeper to set up late-game. This set can also be a great emergency check to slower physical threats thanks to its access to Will-O-Wisp. Destiny Bond also helps create 50/50s or unfavorable scenarios with common Sucker Punch users such as Cacturne and Liepard.
+
+Team Options
+========
+
+This set appreciates entry hazard support, as it can force a lot of switches. Ferroseed and Crustle provide Stealth Rock and Spikes support, allowing Haunter to pressure the opponent's team more effectively. Mawile has particularly good synergy with Haunter, providing Intimidate support along with being able to set up Stealth Rock. Mawile also takes care of the Dark-types that threaten it while Haunter also can spinblock fairly well for all these Pokemon thanks to its Ghost typing. Pokemon such as Scyther, Sneasel, Tauros, and Choice Scarf Rotom-S can finish off weakened opposing Pokemon thanks to their access to great STAB moves and decent attacking power. This set complements setup sweepers as well. Pokemon such as Shift Gear Klinklang and Swords Dance Samurott love walls being weakened or crippled thanks to Haunter, as this allows them to set up with ease.
+
+SubDisable
+########
+name: SubDisable
+move 1: Substitute
+move 2: Disable
+move 3: Shadow Ball
+move 4: Sludge Bomb
+ability: Levitate
+item: Black Sludge
+evs: 252 SpA / 4 SpD / 252 Spe
+nature: Timid
+
+Moves
+========
+
+Substitute allows Haunter to avoid crippling status and provides Haunter with a way to bypass Sucker Punch. Disable allows Haunter to prevent the opposing Pokemon from using a super effective move or the move they used to break Haunter's Substitute. Shadow Ball is a great STAB move, hitting all but Normal- and Dark-types neutrally. Sludge Bomb hits Grass- and Fairy-types such as Cacturne and Togetic, respectively, hard while also hitting Normal- and Dark-types, such as Kecleon and Sneasel, respectively.
+
+Set Details
+========
+
+Maximum Special Attack and Speed EVs are used to let Haunter hit as hard and as fast as possible. Black Sludge is used to give Haunter a form of recovery, allowing it to use Substitute more often. A Timid nature allows Haunter to Speed tie with other base 95 Speed Pokemon such as Jynx and Leafeon.
+
+Usage Tips
+========
+The Substitute and Disable set is particularly unique to Haunter. Haunter's three great immunities allow it to make use of Disable well, as it can disable a foe's only super effective attack on Haunter and proceed to punish the foe with powerful STAB moves. Haunter has ample opportunities to set up a Substitute, great coverage options, and three immunities which can force out Pokemon Choice-locked into Fighting-, Normal-, and Ground-type moves. Additionally, if Haunter's Substitute is broken, it can use Disable to prevent the foe from using the move again and easily set up another Substitute.
+
+Team Options
+========
+
+This set really appreciates entry hazard support, as it forces a lot of switches thanks to it rendering coverage or super effective moves useless. Pokemon such as Custap Berry Crustle and Ferroseed can provide Stealth Rock and Spikes support, pressuring the opponent's team. Haunter can also keep entry hazards up by acting as a spinblocker. This set likes the support of late-game cleaners such as Tauros, Sneasel, Scyther, and Pyroar, as they have enough coverage and great STAB moves to finish off weakened opposing Pokemon. This set can help out a lot of setup sweepers, such as Shift Gear Klinklang and Swords Dance Samurott, as it can weaken the opposing team, allowing for better setup opportunities.
+
+Other Options
+########
+
+Substitute + Pain Split can be an option, as it allows Haunter to wear itself down via Life Orb and Substitute and regain a decent amount of health back thanks to its low HP stat. Choice Specs allows Haunter to hit very hard, although Haunter will then lose the utility of a fast Destiny Bond and the ability to outspeed some of its checks, such as Liepard and Sneasel. Haunter also has access to a ton of coverage moves such as Thunderbolt, which can OHKO Mantine after Stealth Rock; Giga Drain, which can OHKO Seismitoad and cripple Rhydon; Dazzling Gleam, which provides super effective coverage on Dark- and Fighting-types; and Hidden Power Fighting to hit Pawniard, which can take both of Haunter's STAB moves; however, Haunter already has really good neutral coverage along with a decent support movepool, allowing it to do what it does best: forcing switches.
+
+Checks & Counters
+########
+
+**Special Walls**: Special walls such as Cryogonal and Mantine can tank any hit Haunter dishes out and proceed to hit it with their own STAB moves.
+
+**Faster Pokemon**: Fast Pokemon, such as Ninetales, Swellow, Scyther, Archeops, Tauros, Liepard, and Pyroar, can pick off non-Choice Scarf Haunter. Sneasel is a particularly huge threat to Haunter, as Pursuit picks it off easily.
+
+**Bulky Attackers**: Pokemon such as Malamar, Rotom-S, Rhydon, and Ferroseed can all tank a hit from Haunter and proceed to OHKO or cripple it. Haunter even has to be wary of the ocassional super bulky Psychic-type, such as Musharna or Uxie, as failing to KO them can result in Haunter's demise.
+
+**Priority**: While Haunter is immune to Mach Punch and Quick Attack, it is hit hard by every other form of priority. Pawniard resists Haunter's STAB moves and threatens with STAB Sucker Punch. It can also use Pursuit, meaning Haunter must play mind games so as to not be OHKOed by Pawniard's STAB moves. It also fears other Sucker Punch users such as Mawile, Cacturne, Kangaskhan, and Kecleon, although Cacturne fears getting hit by Haunter's STAB Sludge Bomb. The latter two have Scrappy Fake Out and Shadow Sneak to fall back on, respectively. Aqua Jet Carracosta and Bullet Punch Hariyama can also take a chunk of Haunter's HP thanks to its weak defenses.

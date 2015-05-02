@@ -1,83 +1,47 @@
 Overview
 ########
+Rotom-W is a premier pivot in the OU metagame that is able to switch into a number of common Pokemon, such as Azumarill, Talonflame, and Landorus-T. Due to its access to Will-O-Wisp and sufficient defenses enabling it to pivot into a number of offensive threats, it is very easy to fit into a balanced or a slower-paced offensive team. However, Rotom-W has a low HP stat, and its lack of reliable recovery makes it easy for the foe to wear it down. In addition, there are a slew of Pokemon in OU that are capable of getting past Rotom-W through sheer power, specific coverage, or through other aspects.
 
-Rotom-W is one the best bulky pivots in the tier, thanks to its typing, decent stats, and movepool. Its Electric / Water typing is very useful for taking on powerful and common threats in the tier such as Mega Pinsir, Talonflame, and Azumarill. Levitate in conjunction with its Water typing allows it to check common Ground-types as well, such as Landorus-T, Hippowdon, and even non-Substitute Garchomp. Furthermore, it has the perfect support moves to fit its role, with STAB Volt Switch providing valuable momentum, Pain Split healing it while damaging the opponent, Trick to cripple walls; (most notably Chansey, a common switch-in to Rotom-W, and Will-O-Wisp to threaten physical attackers.
-
-Unfortunately, it is Rotom-W's strengths that have made the metagame adapt around it. While Rotom-W has an amazing typing, its low HP means its bulk isn't as naturally high as it might like. Teams that use Rotom-W to check the previously mentioned Pokemon will often find that it's hard-pressed to cover them all, considering its only recovery move is Pain Split or the unreliable Rest. However, with even the slightest amount of support, Rotom-W can truly shine in this metagame.
-
-Defensive
+Physically Defensive Pivot
 ########
-name: Defensive
+name: Physically Defensive Pivot
 move 1: Volt Switch
 move 2: Hydro Pump
 move 3: Will-O-Wisp
 move 4: Pain Split / Rest
 ability: Levitate
 item: Leftovers / Chesto Berry
-evs: 248 HP / 216 Def / 44 Spe
+evs: 248 HP / 252 Def / 8 SpD
 nature: Bold
 
 Moves
 ========
-
-Rotom-W has access to STAB Volt Switch, which allows it to assume the role of a defensive pivot against Pokemon like Mega Pinsir, Talonflame, and Azumarill. This means that even if the opponent has a Latias, Mega Venusaur, or another counter in the wings, Rotom-W can simply Volt Switch into another Pokemon that has a better match-up against said counter. Hydro Pump is useful for hitting the Ground-types that Rotom-W can usually switch into with ease, namely Hippowdon and Landorus-T. Neither of these Pokemon can take a Hydro Pump well, nor will they appreciate a burn courtesy of Will-O-Wisp. The threat of Will-O-Wisp can also force certain physical attackers to switch. This includes Bisharp, Garchomp, Azumarill, and many others. The last move is dedicated to healing Rotom-W as best as it can. Pain Split is useful because it allows Rotom-W to also run Leftovers, gradually recovering its HP throughout the match. It also damages the opponent if they switch in something like Chansey or Mega Venusaur and Rotom-W is at mid or low health. However, Rest has its merits as well. If Rotom-W gets hit with a status move, Rest is useful for healing it. Rest also completely heals Rotom-W, while Pain Split is dependent on the opponent's health. However, Rest is unreliable, as it can only be used once with a Chesto Berry without putting Rotom-W to sleep. Thunder Wave can be used over Will-O-Wisp, but it is usually an inferior option, as common switch-ins to Rotom-W, such as Latias, Quagsire, Chansey, and Mega Venusaur, dislike burns more than paralysis.
+Volt Switch is Rotom-W's Electric STAB move that allows it to regain momentum after pivoting into a threat. Hydro Pump is Rotom-W's secondary STAB that allows it to beat some of the Pokemon it checks, most notably Ground-types such as Landorus-T and Mamoswine, which are immune to Volt Switch. Will-O-Wisp allows Rotom-W to inflict burns on the foe and deter physical attackers. Pain Split can be used when Rotom-W's HP is low to regain some HP, but it tends to be very inconsistent overall due to being dependent on the foe's HP. Rest in tandem with Chesto Berry can be used instead, but Chesto Berry only works once, whereas Pain Split can be used multiple times; it is best used if Rotom-W's team is weak to status.
 
 Set Details
 ========
-
-The 44 Speed EVs allow Rotom-W to outspeed Jolly max Speed Belly Drum Azumarill. A physically defensive set is best suited to the metagame, and makes it easier for Rotom-W to counter powerful Flying-types such as Mega Pinsir and Talonflame. 4 EVs are taken out of HP to reach a jump point in Defense with 216 EVs and minimize Stealth Rock damage; especially because Rotom-W's Leftovers are often removed by Knock Off, this outweighs the Leftovers number granted by running full HP investment.
+248 HP EVs and 252 Defense EVs give Rotom-W close to maximum HP while allowing it to take less passive damage from Stealth Rock, status, etc. Leftovers is appreciated for its passive recovery, as Rotom-W gets worn down rather easily. However, if Rotom-W is running Rest, then Chesto Berry should be used instead. If outrunning particular threats is important, then 44 Speed EVs can be taken from Defense and put into Speed to outrun Jolly Azumarill so Rotom-W will be able to burn it after a Belly Drum, but Jolly Azumarill is not particularly common. Alternatively, 88 Speed EVs can be used to outspeed Jolly Crawdaunt, or 128 Speed EVs to outrun Adamant Bisharp, both at the cost of some bulk. A Bold Nature allows Rotom-W to take physical attacks from Pokemon such as Azumarill and Mega Pinsir better. If some more special bulk is desired, Rotom-W can run a mixed defensive spread of 248 HP / 152 Def / 108 SpD to enable it to take hits from Mega Manectric, Landorus, Latios, and Latias much more easily.
 
 Usage Tips
 ========
-
-This set is the perfect combination of defensive and offensive presence, making it a perfect Pokemon for bulky offense and balanced teams. Rotom-W has a great typing and ability that gives it many useful resistances. Because of this, it is one of the best defensive pivots in the game. However, there tends to be a lot of defensive pressure on Rotom-W, as many people expect it to check Talonflame, Mega Pinsir, Azumarill, Garchomp, Mamoswine, and other Pokemon all at once. For this reason, it's important to realize that it is simply not possible to do all these things, so the rest of the team should try and help it do its job. Rotom-W forces a lot of switches, so the option to either Volt Switch or Will-O-Wisp can be tricky. Don't be afraid to use Will-O-Wisp instead of Volt Switch, as only Pokemon like Mega Charizard X can safely switch into a Rotom-W that might Volt Switch or Will-O-Wisp. Sometimes people will even switch in their Ground-type in on a predicted Volt Switch, but none of these appreciate being burned.
+Rotom-W should be used to pivot into common Pokemon that it can check, such as Talonflame, Azumarill, Landorus-T, and Sand Rush Excadrill. However, do not let Rotom-W get worn down too much, as it needs to be healthy to handle many of the Pokemon whose attacks it does not resist. Use Volt Switch for scouting and gaining momentum, especially against threats that do not want to stay in on Rotom-W, such as Azumarill, Landorus-T, and Talonflame. Be careful when using Will-O-Wisp if a Conkeldurr or Guts Heracross is on the opponent's team. Otherwise, feel free to use it to cripple opposing Pokemon.
 
 Team Options
 ========
-
-Rotom-W is one of the best users of Volt Switch in the tier, so common users of U-turn also tend to work well with it. Scizor and Landorus-T are among the best partners for Rotom-W. Scizor in particular covers Rotom-W's weaknesses well, and Mega Scizor loves to set up on common switch-ins to Rotom-W, such as Latios, Latias, and Mega Venusaur (beware of Hidden Power Fire and Sleep Powder). Pokemon weak to Mamoswine, such as Dragonite and Garchomp, really appreciate having Rotom-W, as it is nearly a perfect counter to Mamoswine, unless it carries Freeze Dry. Also, Pokemon that don't appreciate Mega Pinsir love having Rotom-W as a partner. Offensive Pokemon such as Keldeo and defensive Pokemon such as Mega Venusaur are both good options. Ferrothorn can somewhat handle Pokemon like Manaphy and Latios, and can set up entry hazards for VoltTurn teams.
+Landorus-T forms a solid VoltTurn core with Rotom-W that is able to check most physical attackers in OU in tandem with each other. Scizor also can form a VoltTurn core and has good defensive synergy with Rotom-W as well. Rotom-W appreciates teammates that can beat Grass-types that would want to take advantage of Rotom-W. Celebi can beat Breloom and Chesnaught, set up on Ferrothorn, and can check Mega Sceptile, thus making a good teammate. On the same token, Rotom-W is a team supporter, so Pokemon that are troubled by threats that Rotom-W checks, such as Mega Gallade and Mega Lopunny, are good teammates. Setup sweepers appreciate Rotom-W's ability to spread burns and bring them in safely with Volt Switch to make securing setup opportunities easier. Examples include Swords Dance Talonflame and Swords Dance Diggersby.
 
 Other Options
 ########
+Thunderbolt is stronger than Volt Switch if Rotom-W wants more power, but Rotom-W does not have the space for it. However, the advantage of not forcing a switch allows Rotom-W to stay in against Water-types. Thunder Wave can help Rotom-W spread paralysis, but Will-O-Wisp is better overall, as Will-O-Wisp allows Rotom-W to cripple many of the Pokemon it switches into. A Choice Scarf set with Trick has a surprise factor, but wastes Rotom-W's defensive capabilities, one of its key selling points behind its use. Alternatively, Rotom-W can run a specially defensive set that allows it to switch into Landorus, but it forgoes the physical bulk that it needs to stomach attacks from many of the Pokemon it is supposed to pivot into. At the cost of some bulk, Rotom-W can run a more offensive set with 220 HP / 128 SpA / 160 Spe EVs and Hidden Power Fire or Signal Beam that allows it to provide some offensive pressure and lure in Ferrothorn or Celebi, respectively. In a similar vein, a Choice Specs set can be used instead, which gives Rotom-W a chance to provide more pressure against balanced teams.
 
-A Choice Scarf set can be used as an offensive pivot in a VoltTurn core and is able to cripple an opposing defensive Pokemon with Trick. Its main problem is frailty without defensive investment, which makes it difficult for it to check numerous threats it could otherwise. A Choice Specs set can be used for extra power, but usually Rotom-W has better things to be doing and this role conflicts with Manaphy and Keldeo. On a similar note, a Life Orb or Expert Belt set that relies on Pain Split for recovery can be used similar to Gengar, but it runs into the same issue that Choice Specs set does; it's simply outshined as a special attacker. Dual Screens can work, as Rotom-W can also provide valuable momentum, but both Deoxys formes and Latios tend to be more universally useful aside from their crippling Psychic typing. Rotom-W can run Hidden Power Grass to hit Quagsire, but Quagsire is mostly used on stall teams, and those will usually have a better switch-in to Rotom-W than Quagsire.
-
-Specially Defensive
+Checks and Counters
 ########
-name: Specially Defensive
-move 1: Volt Switch
-move 2: Hydro Pump
-move 3: Will-O-Wisp
-move 4: Pain Split / Rest
-ability: Levitate
-item: Leftovers / Chesto Berry
-evs: 248 HP / 216 SpD / 44 Spe
-nature: Calm
+**Grass-types**: Grass-types can switch into Rotom-W without taking much from its attack, though some of them, such as Breloom and Mega Venusaur, dislike Will-O-Wisp. Celebi counters Rotom-W, not fearing Will-O-Wisp due to Natural Cure, and is able to set up on it or force it out. Serperior can use Rotom-W as setup fodder, whereas Mega Sceptile gets a free Special Attack boost from Volt Switch due to Lightning Rod.
 
-Moves
-========
-Rotom-W's STAB move combination is truly excellent. Volt Switch makes up the first half of that combination, allowing Rotom-W to pivot in and out of battle with ease, as well as dealing handy chip damage, to wear down would-be counters such as Mega Venusaur. Hydro Pump works extremely well in tandem with Volt Switch, nailing Ground-types such as Excadrill and Landorus that Rotom-W is often called upon to check. This variant of Rotom-W is somewhat more susceptible to physical attacks, which makes Will-O-Wisp even more useful. Crippling physical attackers and generally wearing down the opposing team is great in terms of utility, as common switch-ins including Latias, Ferrothorn, and Mega Venusaur dislike being burned. Unfortunately, Rotom-W's lack of reliable recovery means that its last move is restricted to a choice between Pain Split and Rest. Pain Split is preferred as it allows Rotom-W to carry Leftovers, and it can have the convenient effect of damaging the opponent if they are healthier than Rotom-W. However, Rest is also a viable choice that clears bothersome status and is more reliable when the opposing Pokemon is considerably weakened. Finally, Thunder Wave can be used over Will-O-Wisp to cripple Fire-types, especially Mega Charizard X, but is usually a lesser choice as most of Rotom-W's checks are more hindered by a burn than by paralysis.
+**Fairy-types**: A number of Fairy-types, such as Magic Guard Clefable, Mega Gardevoir, and mixed or specially offensive Mega Altaria can prove to be troublesome for Rotom-W, as Rotom-W struggles to break through most of these Pokemon, whereas they possess the potential to break Rotom-W back.
 
-Set Details
-========
+**Dragon-types**: Rotom-W lacks the ability to pressure Latios and Latias outside of Will-O-Wisp, whereas they can wall it back. Mega Altaria can heal off Will-O-Wisp with Heal Bell or Refresh and proceed to set up on Rotom-W.
 
-The given EV spread and a Calm nature emphasize Special Defense for Rotom-W to take on the likes of Landorus and Thundurus. 44 Speed EVs are very important in order to outrun Jolly Belly Drum Azumarill and burn it, or KO it with Volt Switch. Leftovers is the item of choice if Pain Split is used, and Chesto Berry for sets using Rest.
+**Guts Users**: Guts users, such as Heracross and Conkeldurr, can gain an Attack boost from Rotom-W's Will-O-Wisp. However, Heracross will get worn down very easily by Rotom-W's attacks. Conkeldurr, on the other hand, has the bulk to be able to stomach these attacks and hit hard back.
 
-Usage Tips
-========
-Generally speaking, this set is designed to check many of the strong special attackers in the tier, such as Landorus. It is wise to use Rotom-W as a pivot rather than a wall, exploiting its excellent typing and ability while spreading burns and switching out when necessary by using Volt Switch. Will-O-Wisp and Volt Switch are the key moves on the set, and they should be used to take advantage of the many switches that Rotom-W tends to force; be wary of Lum Berry or Substitute users in the case of Will-O-Wisp, though. Bear in mind that without physical investment, Rotom-W is less reliable when it comes to countering the likes of Mega Pinsir and Talonflame, so play with slightly more caution against these threats. It is also important to avoid falling into the trap of using Rotom-W too excessively, as it can be worn down fairly easily, especially Pain Split variants.
-
-Team Options
-========
-Pokemon that form a VoltTurn core with Rotom-W are excellent partners. Landorus-T stands out as it has great type synergy and can check strong physical threats such as Mega Charizard X. Scizor works similarly well; Mega Scizor can also easily set up on Pokemon that threaten Rotom-W, such as Latias and Ferrothorn. Hit-and-run attackers such as Choice Specs Keldeo and Mega Medicham make for fantastic teammates, as Rotom-W can often pivot in once they have landed a blow and been subsequently forced out. This set is a particularly effective answer to all variants of Mamoswine, including Freeze Dry sets, and thus works well alongside Garchomp and Dragonite. Ferrothorn and Skarmory can handle most Grass-type Pokemon and lay down entry hazards to enhance the effectiveness of Rotom-W's pivoting.
-
-Checks & Counters
-########
-
-**Bulky Grass-types**: Mega Venusaur, Amoonguss, and Ferrothorn are all decent choices to counter Rotom-W. They take very little from either Rotom-W's STAB moves or its rare coverage moves. However, with the exception of Celebi, they don't appreciate being burned by Will-O-Wisp. Ferrothorn can also wear down Rotom-W with Leech Seed and Power Whip. Leech Seed will even mitigate burn damage. Poison Heal Breloom is immune to status, so it also makes for a great switch-in to Rotom-W, and can even use it as setup fodder.
-
-**Bulky Dragon-types**: Neither Latios nor Latias care about being hit by Hydro Pump, and usually don't care much about burns either. They can also 2HKO defensive Rotom-W with a Life Orb-boosted Draco Meteor. Bulky Charizard X doesn't mind taking Hydro Pump, Thunderbolt, or Volt Switch, and also cannot be burned or Tricked, making it an excellent switch-in to Rotom-W. Kyurem-B can switch in on any move besides Will-O-Wisp and hit Rotom-W through Levitate with Earth Power thanks to Teravolt.
-
-**Chansey**: Chansey has huge special bulk to tank Volt Switches and Hydro Pumps and Natural Cure to heal itself of burn if it switches into a Will-O-Wisp. It can also Toxic Rotom-W to wear it down and negate its Leftovers recovery. However, Chansey is probably Rotom-W's biggest target for Trick, so Chansey must be somewhat cautious around it.
-
-**Assault Vest Conkeldurr**: Conkeldurr takes relatively little damage from Hydro Pump and Volt Switch and actually enjoys being burned thanks to Guts. Conkeldurr can also Knock Off Rotom-W's item, which it heavily depends on for recovery and utility. With a Guts boost, Drain Punch can score a 2HKO on even physically defensive Rotom-W while recovering Conkeldurr's own health. It does have to watch out for Trick from Choice Scarf Rotom-W, however.
+**Specially Defensive Walls**: Specially bulky Pokemon like Chansey and Cresselia can wall Rotom-W and proceed it to cripple it with Toxic.

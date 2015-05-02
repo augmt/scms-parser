@@ -5,6 +5,38 @@ Base 100 HP and base 105 Special Defense stats make Jellicent capable of survivi
 
 While Jellicent's Water / Ghost typing may seem bad at first glance, it is nothing to laugh at; although it gives Jellicent four weaknesses, it also grants six resistances as well as immunities to Normal- and Fighting-type attacks such as Mega Kangaskhan's Double-Edge and Terrakion's Close Combat. In addition, Water Absorb makes Jellicent immune to Water-type attacks, resulting in the possession of three immunities. Unfortunately, Jellicent's mediocre base 70 Defense stat makes it incapable of taking common physical attacks such as Mega Salamence's Double-Edge, Bisharp's Knock Off, and Talonflame's Choice Band-boosted Brave Bird.
 
+Bulky Support
+########
+name: Bulky Support
+move 1: Scald
+move 2: Will-O-Wisp
+move 3: Recover
+move 4: Hex / Shadow Ball / Protect
+ability: Cursed Body
+item: Leftovers
+evs: 252 HP / 156 Def / 100 SpD
+nature: Calm
+
+Moves
+========
+
+Scald is Jellicent's main attack, doing solid damage with a chance to burn its target. Will-O-Wisp lets Jellicent cripple physical attackers. Recover keeps Jellicent operating longer. Protect allows Jellicent to scout as well as dodge double targets. Protect is normally mandatory in doubles, but Jellicent is bulky enough that Hex or Shadow Ball can be considered. Ice Beam can be used in the final slot if you want to deal with Landorus-T and Dragon-types faster.
+
+Set Details
+========
+
+The given EV spread allows Jellicent to survive Hydreigon's Choice Specs-boosted Dark Pulse, Mega Salamence's Double-Edge, and two Earthquakes from Landorus-T. Cursed Body is used over Water Absorb, as the possibility of crippling your opponent's Pokemon is far more useful for this set than a Water immunity. Jellicent makes a solid Leftovers user thanks to its bulk.
+
+Usage Tips
+========
+
+Use Jellicent's useful array of resistances to come in and start spreading burns. Use Recover when Jellicent's taken a beating. If the opponent is likely to switch Pokemon, it's best to go for a Will-O-Wisp or Recover as they switch, as a Pokemon that is resistant to Jellicent's attacks is likely coming out.
+
+Team Options
+========
+
+Jellicent enjoys the company of Pokemon that can buy it some time to burn the foe. In this sense, Mega Kangaskhan and Amoonguss make for good partners. Grass- and Fire-types, such as Amoonguss, Ferrothorn, and Heatran, synergize well with Jellicent. Fighting-types such as Conkeldurr and Fairy-types such as Sylveon help deal with Jellicent's vulnerability to Dark-types such as Hydreigon.
+
 Trick Room
 ########
 name: Trick Room

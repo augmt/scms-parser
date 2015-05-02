@@ -11,8 +11,8 @@ move 2: Dark Pulse
 move 3: Fire Blast / Tailwind
 move 4: Protect
 item: Life Orb
-evs: 16 HP / 252 SpA / 8 SpD / 232 Spe
-nature: Timid
+evs: 4 HP / 252 SpA / 252 Spe
+nature: Modest
 
 Moves
 ========
@@ -22,7 +22,7 @@ Draco Meteor is the best choice when Hydreigon needs to hit something hard. It h
 Set Details
 ========
 
-232 Speed EVs and a Timid nature are used to outspeed max Speed Kyurem-B. Special Attack is maxed out to allow Hydreigon to hit as hard as possible. 16 HP EVs are used to minimize Life Orb recoil, and the final few EVs are dropped into Special Defense. Life Orb is the preferred item to increase Hydreigon's damage output.
+Hydreigon maximizes its Special Attack to hit as hard as possible. The only reason to run Timid is to win the Hydreigon mirror, so Modest is usually preferred. However, it's still recommended to run 252 Speed, because Hydreigon mirrors are common enough to run Speed for instead of minimal investment in bulk. Life Orb is the preferred item to increase Hydreigon's damage output.
 
 Usage Tips
 ========

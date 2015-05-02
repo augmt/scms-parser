@@ -1,0 +1,86 @@
+Overview
+########
+
+Articuno is somewhat of a unique Pokemon in PU. While it is very bulky and quite strong, it is incredibly difficult to fit on a team due to its 4x weakness to Stealth Rock and mediocre at best synergy with PU's entry hazard removers. It also faces competition from the plethora of other Ice-types in PU. However, Articuno has a great offensive typing that lets it hit most of the tier hard, and an in ability Pressure that lets it run a unique SubRoost set that utilizes its bulk and power well. Its Agility set has niches over Rock Polish Regice and Aurorus in its access to STAB Hurricane and ability to outspeed Choice Scarf Raichu at +2.
+
+SubRoost
+########
+name: SubRoost
+move 1: Substitute
+move 2: Roost
+move 3: Hurricane
+move 4: Ice Beam / Freeze-Dry
+ability: Pressure
+item: Leftovers
+evs: 252 SpA / 4 SpD / 252 Spe
+nature: Timid
+
+Moves
+========
+
+Substitute and Roost allow Articuno to take advantage of its good bulk and ability to cause switches and recover off damage. This combination works especially well with Pressure, as it lets Articuno stall out the PP of moves such as Hydro Pump and Stone Edge. Hurricane is a very powerful STAB move that gets good neutral coverage. Ice Beam is used to give Articuno a strong, reliable secondary STAB move, but Freeze-Dry can be used instead for a weaker alternative that gets super effective coverage on Water-types such as Carracosta, Pelipper, and Prinplup. Toxic also works decently well with Substitute and Roost alongside a bulkier spread.
+
+Set Details
+========
+
+Maximum Special Attack and Speed investment with a Timid nature are used to take advantage of Articuno's decent Speed tier and allow it to hit decently hard. Leftovers gives Articuno much-needed passive recovery; without it, this set is hard-pressed to function effectively.
+
+Usage Tips
+========
+
+Switch in on Pokemon that Articuno has type advantage against, such as Tangela, Roselia (pivot around Sleep Powder from these two if needed), or Gourgeist-XL, and either set up a Substitute or attack. Which of these actions you take depending on what you predict the opponent to switch in to Articuno. Against users of Hydro Pump and Stone Edge, you can repeatedly use Substitute to stall out the effective four uses these moves have against Articuno. After they are either out of PP or have missed, you can either Roost to recover lost health or just attack them. It is usually best to scout Golem before attempting to stall it out of Stone Edges, as it occasionally carries Rock Blast. Do not be afraid to switch out of an extremely disadvantageous matchup, such as against Calm Mind Carbink, even if Articuno has a Substitute up.
+
+Team Options
+========
+
+Articuno's 4x weakness to Stealth Rock coupled with the fact that it shares at least one weakness with every relevant entry hazard remover in PU means that Articuno is quite hard to effectively fit onto a team. Despite synergy issues, an entry hazard remover such as Swanna, Armaldo, Torkoal, Pelipper, Prinplup, or Togetic is mandatory when using Articuno. Because of the passiveness of all of these hazard removers bar the former three, Articuno usually works best on balance teams with the likes of Misdreavus, Roselia, and Lickilicky. Pokemon that deal with Rock-types, such as Gourgeist-XL, Tangela, and Simipour, all make solid teammates; Gourgeist-XL and Tangela in particular also handle Electric-types decently well. Likewise, Ground-types such as Marowak and Torterra appreciate Articuno's ability to beat Grass-types, while beating Electric- and Ground-types for it in return.
+
+Agility
+########
+name: Agility
+move 1: Agility
+move 2: Ice Beam / Freeze-Dry
+move 3: Hurricane
+move 4: Hidden Power Fighting
+ability: Pressure
+item: Life Orb
+evs: 36 HP / 252 SpA / 220 Spe
+nature: Modest
+
+Moves
+========
+
+Agility lets Articuno sweep against weakened teams, and Hurricane is a strong STAB move that sets Articuno apart from other Ice-types. Ice Beam is usually preferred over Freeze-Dry because Freeze-Dry is a rather weak move for a sweeper to rely on, but it is still of decent use against certain Pokemon, mainly Carracosta and Barbaracle. Hidden Power Fighting is used to hit Probopass and Pawniard, which would otherwise wall Articuno.
+
+Set Details
+========
+
+Modest is the preferred nature, as Articuno outspeeds Jolly Choice Scarf Raichu and everything slower at +2 without needing a Timid nature. The given Speed EVs let Articuno outspeed Adamant Stoutland. Life Orb gives Articuno much-needed power, as Articuno has a lot of trouble sweeping without it.
+
+Usage Tips
+========
+
+Set up on Grass-types or other Pokemon Articuno forces out, such as Poliwrath, once you've worn down the opposing team sufficiently. Try not to let Articuno get worn down too much early-game, as this will often leave Articuno in KO range for priority users such as Pawniard.
+
+Team Options
+========
+
+Entry hazard removal is recommended, but not outright, needed as this set should primarily be used on offensive teams and Articuno will usually only come in once in a game. However, Swanna, Armaldo, Shell Smash Torkoal, and to a much lesser extent Avalugg and Pelipper can still be used to remove entry hazards. Pokemon that can weaken special walls such as Lickilicky, such as Heatmor or Chatot, are good partners for this set. Likewise, Pokemon that can beat Steel- and Electric-types, such as Ninetales, Torterra, and Marowak, are also recommended.
+
+Other Options
+########
+
+Articuno can use a Life Orb set with U-turn, but Articuno's difficulty of fitting on teams makes this a mediocre option for it. Similarly, it can run a 3 attacks + Roost offensive set, though SubRoost is usually better. Finally, Articuno has a few niche defensive options, such as Haze and Heal Bell.
+
+Checks & Counters
+########
+
+**Special Walls**: Articuno isn't overly powerful, so most special walls beat it quite handily. Lickilicky and Grumpig can use Articuno as an opportunity to use Heal Bell. Additionally, the former can also hit it decently hard with Body Slam and pass Wishes to its teammates as it forces Articuno out, and the latter can paralyze it or phaze it out even when Articuno is behind a Substitute.
+
+**Steel-types**: Probopass, Pawniard, Klang, and the rare Metang wall the SubRoost set with ease. All of them can also hit Articuno hard back; Pawniard can OHKO it with Iron Head, Klang can hit it through a Substitute with Gear Grind, and all of them can at least 2HKO it. Probopass can also set up Stealth Rock to deter Articuno from switching in again. However, Pawniard and Probopass are OHKOed and 2HKOed respectively by Hidden Power Fighting from the Agility set.
+
+**Ice-types**: While there is nothing intrinsic about Ice-types that lets them beat Articuno, many of them can for one reason or another. Aurorus and Rotom-F resist Articuno's STAB moves and can hit back hard, the former even being able to hit it through Substitute with Hyper Voice. Additionally, Aurorus can set up Stealth Rock on Articuno quite easily, and Rock Polish variants can set up on it. Regice is not 2HKOed by even a Life Orb Hurricane and can 2HKO Articuno with Thunderbolt, though repeated switch-ins wear it down. Finally, Piloswine can pick off a weakened Articuno with its STAB Ice Shard. However, most of these Pokemon must be cautious of a potential Hidden Power Fighting.
+
+**Rock / Water types**: Carracosta, Barbaracle, and the rare Relicanth all resist Articuno's STAB moves. The former two can also set up on Articuno with Shell Smash. However, they must be wary of Freeze-Dry, as they are weak to it.
+
+**Status**: Status cripples Articuno, and wears it down very quickly, rendering it unable to Pressure stall or slows it down considerably. Common users of burn-, poison-, and paralysis-inducing moves include Misdreavus and Gourgeist, Pelipper and Poliwrath, and Stunfisk and Grumpig, respectively.

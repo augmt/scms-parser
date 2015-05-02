@@ -1,9 +1,7 @@
 Overview
 ########
 
-Giratina-O's immense base 150 HP and decent base 100 defenses, coupled with its six resistances and three immunities, grant it ample opportunity to switch in and wreak havoc with its deceptively powerful Griseous Orb-boosted STAB moves. Due to its neutrality to Stealth Rock and immunity to all other entry hazards courtesy of Levitate, Giratina-O has no trouble assuming the role of a reliable Defog user for its team. Moreover, it boasts the ability to defeat nearly every common Taunt user in Ubers one-on-one, and it cannot be trapped by the ubiquitous Mega Gengar. Finally, its ability to check many of the dangerous physically based boosting sweepers within the Ubers metagame, as well as its access to invaluable utility moves including Shadow Sneak, Dragon Tail, and Will-O-Wisp, should not be understated.
-
-While Giratina-O's Ghost-type STAB is now much more potent offensively as Steel-types no longer resist it, the introduction of the Fairy typing and the buff to Dark-type moves make Giratina-O more vulnerable to super effective hits than ever. Additionally, Giratina-O's average Speed allows opposing Pokemon with a super effective STAB move to easily force it out, and its lack of reliable recovery outside of Rest requires it to compete with support Arceus formes for a team slot as a Defog user. Lastly, its formerly coveted ability to spinblock is considerably less important than in previous generations, and its mandatory item limits its versatility. Despite these shortcomings, Giratina-O remains a phenomenal and unique Pokemon that is sure to leave an impact on the XY metagame. If a dependable Defog user, a bulky attacker that can switch in easily, an overall utility Pokemon, or any combination of the three is needed, one need look no further than Giratina-O.
+Giratina-O is an effective Defogger that can check a lot of the physically oriented Pokemon in the Ubers metagame. It has solid 150 / 100 / 100 bulk and a good typing that offers six resistances and three immunities counting its ability, Levitate. This allows Giratina-O to check Primal Groudon, Extreme Killer Arceus, Mega Kangaskhan, some Mewtwo variants, Mega Blaziken, and other Fighting-types. Being a Ghost-type, Giratina-O is able to escape Shadow Tag and other means of trapping, and because it has Levitate, it is immune to Spikes, Toxic Spikes, and Sticky Web, and it is neutral to Stealth Rock. This makes Giratina-O a very reliable Defog user in the Ubers metagame. Additionally, Ghost is a potent offensive typing that has good neutral coverage and also gives it a niche in stopping Rapid Spin. However, a lack of reliable recovery plagues Giratina-O, as it is worn down by repeated attacks and residual damage from status and Stealth Rock. Giratina-O is forced to run Griseous Orb as well, and, while this provides a nice offensive boost to Giratina-O's STAB moves, it limits versatility and does not allow for the passive healing of Leftovers. It also faces new competition for a Defog slot from Latias and Latios, which boast similar advantages in bulk and Levitate, but they have access to reliable recovery in the form of Roost and Recover.
 
 Physical Defog
 ########
@@ -11,102 +9,48 @@ name: Physical Defog
 move 1: Defog
 move 2: Shadow Sneak
 move 3: Dragon Tail
-move 4: Will-O-Wisp / Earthquake / Stone Edge
+move 4: Shadow Force / Earthquake
 ability: Levitate
 item: Griseous Orb
-evs: 252 Atk / 248 Def / 8 SpD
+evs: 248 Atk / 248 Def / 12 Spe
 nature: Adamant
 
 Moves
 ========
 
-Defog removes all entry hazards from both the user's and the opponent's side of the field, as well as the odd Light Screen or Reflect from the opponent's side. Giratina-O is one of the best users of the move by virtue of its ability to switch in easily, defeat common Taunt users, and bypass Shadow Tag. Shadow Sneak is a solid priority STAB move that is able to nail the numerous Psychic- and Ghost-types that litter the metagame for super effective damage and is made even stronger by Griseous Orb. Dragon Tail completes Giratina-O's combo of utility STAB moves, dealing a fair amount of damage and allowing it to phaze any Pokemon that is not a Fairy-type or behind a Substitute. Will-O-Wisp is the optimal choice in the final slot, allowing Giratina-O to incapacitate physical attackers and add a source of consistent residual damage to its opponents. However, Earthquake can be used to hit Heatran and Klefki, while Stone Edge can be used to hit Ho-Oh. None of these Pokemon have trouble with this set otherwise.
-
-The last slot is very flexible. Thunder Wave and Toxic are alternative status options that can cripple fast and bulky switch-ins, respectively. Shadow Force is a much stronger STAB move that is notable for its ability to hit through King's Shield, though its charge turn makes it easy to play around. Lastly, Magic Coat can be used to send Taunt, Toxic, and other status moves back at their users.
+Defog is used to clear entry hazards and free up an Arceus slot. Shadow Sneak allows Giratina-O to anti-lead Deoxys-A and Deoxys-S; priority has a lot of utility in general. Dragon Tail allows Giratina-O to phaze setup sweepers that would be difficult to stop otherwise, such as Rock Polish Primal Groudon and Extreme Killer Arceus. Shadow Force is a very strong physical attack in general coming from a decent base 120 Attack stat further boosted by Griseous Orb. It also stops Geomancy Xerneas from setting up, as it hopefully puts Xerneas in range of Shadow Sneak after a bit of prior damage. Earthquake can hit Primal Groudon, Klefki, and Diancie super effectively. Will-O-Wisp gives Giratina-O a second way to deal with physical attackers besides Dragon Tail, and it should be used if a team absolutely needs a burn on setup sweepers such as Ground and Extreme Killer Arceus. It also gets passive damage on Pokemon such as Ferrothorn, Yveltal, and Clefable. Lastly, Stone Edge is a viable move used to deal with Ho-Oh, which Giratina-O often lures in, and hit Yveltal on the switch. It should be noted that if the role of entry hazard removal is already fulfilled by one of Giratina-O's teammates, another move can replace Defog on this set, making Giratina-O more of a specific check for physical attackers than an entry hazard-controlling support Pokemon.
 
 Set Details
 ========
 
-Maximum Attack investment is used to ensure that Giratina-O's STAB moves hit as hard as possible, boosting the power of its priority attack and phazing move. It also guarantees the 2HKO on Mewtwo with Shadow Sneak. 248 Defense EVs are recommended as they guarantee Giratina-O will survive a +2 Life Orb Shadow Claw from 252+ Normal Arceus, even after Stealth Rock. These EVs also allow it to check other dangerous physical threats more effectively, including Blaziken, Swords Dance Ground Arceus, and offensive Groudon.
+Griseous Orb is the mandatory item for Giratina-O. 248 Defense EVs allow Giratina-O to evade the KO from a +2 Adamant Extreme Killer Arceus's Shadow Claw after Stealth Rock damage. 12 Speed EVs let Giratina-O outpace maximum Speed Diancie before it Mega Evolves. The remaining EVs are placed into Attack and give Giratina-O the ability to hit harder in general; for example, with the EVs, Giratina-O has a stronger Shadow Sneak for picking off weakened foes, deals more chip damage with Dragon Tail, and hits Xerneas harder with Shadow Force. However, an alternative spread of 148 HP / 100 Atk / 248 Def / 12 Spe, which invests enough Attack to 2HKO Mewtwo with Shadow Sneak, can be used with Earthquake; otherwise, if running Shadow Force, maximum Attack investment is important to hit Xerneas harder.
 
 Usage Tips
 ========
 
-Generally, Giratina-O should be switched in on a Pokemon it can wall and/or predicted attacks it resists or is immune to, and use Defog if needed. Otherwise, it should fire off its STAB moves, using Shadow Sneak to pick off weakened Pokemon and against those that it hits super effectively. Dragon Tail should be used sparingly if your opponent has a Fairy-type waiting in the wings, but it is otherwise your go-to attacking option. As Dragon Tail greatly benefits from having your own entry hazards up, it's often wise to avoid using Defog immediately, if at all. The move chosen for the fourth slot should be used as needed.
-
-Because it lacks reliable recovery, keeping Giratina-O healthy rather than continuously switching into Stealth Rock and using Defog is crucial if it is your only check to a specific Pokemon on your opponent's team. Similarly, if you require Giratina-O's Shadow Sneak to deal with threats such as Deoxys-A, make sure it is not mindlessly switched in and worn down.
+It is important to try to utilize immunities and resistances to get Giratina-O in safely. The need to use Defog should often be weighed, as having Stealth Rock up on your opponent's side can greatly increase the effectiveness of spamming Dragon Tail. However, be wary when the opponent has a Fairy-type Pokemon in the back when spamming Dragon Tail. Finally, try to minimize the residual damage that Giratina-O takes, as the lack of recovery makes Giratina-O susceptible to being worn down. If Giratina-O is needed to check a specific threat, it is important to preserve Giratina-O's HP.
 
 Team Options
 ========
 
-Naturally, Pokemon that appreciate Defog support are obvious choices for potential teammates. Ho-Oh in particular stands out as an excellent teammate for Defog Giratina-O, having great defensive synergy with it; Ho-Oh can take the special Dark-, Ghost-, Dragon-, Ice-, and Fairy-type attacks and Will-O-Wisps aimed at Giratina-O, which in turn can sponge Water-, Electric-, and most Rock-type attacks. As previously mentioned, Stealth Rock support complements Dragon Tail nicely, making dedicated Stealth Rock users such as Dialga and Groudon great teammates. Groudon can also wall many of the physically inclined Dragon-types that force Giratina-O out, such as Zekrom. Pokemon that handle Fairy-types well also make good teammates. Steel Arceus, Scizor, Aegislash, Bronzong, and Jirachi stand out, all of which also have a useful Dragon-type resistance and four of which can set up Stealth Rock. Poison Arceus works similarly against Fairies, especially if it has Roar for Geomancy Xerneas. Klefki can annoy Dark- and Fairy-types and provide Spikes support, while Tyranitar defeats Dark-types that lack a Fighting-type move, can set up Stealth Rock, and is able to Pursuit trap dangerous wallbreakers such as Choice-locked Kyurem-W. Heatran walls Ho-Oh without Earthquake, can beat most Steel-types, gets a Flash Fire Boost from Will-O-Wisp, is immune to Toxic, and can deal with Fairy-types that lack the appropriate coverage move.
-
-Calm Mind and Swords Dance Arceus formes warrant a special mention. Thanks to the Defog support Giratina-O provides, they can switch in and boost without being plagued by entry hazards. More importantly, however, using Defog Giratina-O eliminates the need to run a support Arceus forme with Defog. Calm Mind Fairy and Electric Arceus stand out in particular, as they are able to deal with many of Giratina-O's checks.
-
-Mixed Attacker
-########
-name: Mixed Attacker
-move 1: Draco Meteor
-move 2: Shadow Sneak
-move 3: Dragon Tail / Shadow Ball
-move 4: Toxic / Defog
-ability: Levitate
-item: Griseous Orb
-evs: 180 Atk / 252 SpA / 76 Spe
-nature: Rash
-
-Moves
-========
-
-Draco Meteor hits very hard with maximum Special Attack investment and the boost from Griseous Orb and is able to severely dent or OHKO many prevalent switch-ins to Giratina-O. To give an idea of Draco Meteor's power, Darkrai is OHKOed while defensive Yveltal is 2HKOed after Stealth Rock. Draco Meteor also strips off a huge chunk of health from common switch-ins expecting a physical set. For example, Gliscor is usually OHKOed by Draco Meteor unless it is running significant Special Defense investment. Shadow Sneak is unarguably the best move Giratina-O has access to on any set and is able to 2HKO most Pokemon weak to it, most notably Mega Mewtwo Y. Dragon Tail can be used to phaze boosting sweepers and rack up entry hazard damage in the process, while also dealing a solid amount of damage itself. However, Shadow Ball can be used in its place as a consistent and reliable STAB move that does not lower Giratina-O's Special Attack nor leave it helpless against Fairy-types. It's also useful against Steel-types, which would otherwise wall this set.
-
-Like the previous set, the last slot is extremely flexible. Toxic can put a timer on Ho-Oh and Fairy-type switch-ins, while Defog can be used to clear hazards and dual screens. Will-O-Wisp and Thunder Wave are different status options that can be used to neuter physically based and fast switch-ins, respectively. They're also useful against Pokemon that might stay in and attempt to boost against Giratina-O. Several damaging moves are usable as well. Earthquake is an option against Heatran and other Steel-types if Giratina-O is not running Shadow Ball. Stone Edge can be used to OHKO Ho-Oh. Finally, Thunder can be used if Giratina-O's team struggles versus Kyogre.
-
-Set Details
-========
-
-The purpose of running maximum Special Attack investment is fairly straightforward, as doing so allows Draco Meteor and Shadow Ball to hit as hard as possible and guarantees the damage outputs mentioned above. 76 Speed EVs are used for Giratina-O to outrun defensive Yveltal, while also making it faster than uninvested Gliscor and Landorus-T. A minimum of 108 Attack EVs are required in order to guarantee the 2HKO on Mega Mewtwo Y with Shadow Sneak, and the remaining EVs are also placed in Attack to increase the power of Shadow Sneak and Dragon Tail.
-
-Usage Tips
-========
-
-Appropriate usage of Draco Meteor is what makes or breaks this set. If you predict that your opponent will switch in a Fairy-type, do not mindlessly throw it out; doing so will render Giratina-O complete setup bait and/or force it to switch out. It is key to lure in other common switch-ins, however, and smack them with a Draco Meteor. The combination of Draco Meteor and Shadow Sneak is capable of dealing with even more threats than those already mentioned, including Mega Mewtwo X and offensive Dialga. By itself, Shadow Sneak is still incredibly handy and should be used to pick off weakened foes and check Pokemon that it hits super effectively. Dragon Tail in conjunction with hazard support is extremely useful for weakening the opponent's team as well as checking boosting sweepers; once again, if you need a healthy Giratina-O to check a Pokemon your opponent has, do not let it get worn down by constantly switching it in on resisted hits. If Shadow Ball is used instead, it is usually a much safer move to start with than Draco Meteor, since the only Normal-type in Ubers that has any business switching in on Giratina-O is Blissey. It should also be used in situations where Draco Meteor's Special Attack drop could otherwise be taken advantage of, namely against Substitute users. As with the previous set, use the move chosen for the fourth slot when necessary.
-
-Team Options
-========
-
-Stealth Rock support is practically mandatory when using this set, as it guarantees specific OHKOs and 2HKOs with Draco Meteor and Shadow Sneak. These include OHKOs on Gliscor and offensive Yveltal and 2HKOs on Landorus-T and Ho-Oh. Stealth Rock support also aids Dragon Tail shuffling quite a bit. Thus, dedicated Stealth Rock users such as Groudon and Dialga make good teammates, with Groudon's physical walling capabilities again coming in handy against physically based Dragon-types. Giratina-O can also remove the aforementioned Landorus-T and Gliscor and even opposing Giratina-O, allowing offensive Groudon to sweep.
-
-Ultimately, most of the teammates suggested for the previous set also pair well with this one. Steel-types such as Scizor, Klefki, Aegislash, Steel Arceus, Bronzong, and Jirachi can keep opposing Fairy-types in check; the last four of these are also able to set up Stealth Rock, while Klefki can set up Spikes. Additionally, the listed Steel-types that are weak to Dark-type moves greatly benefit from the removal of Darkrai and Yveltal. Heatran is a particularly helpful Steel-type teammate, being immune to both Will-O-Wisp and Toxic and having access to Stealth Rock. It can also deal with opposing Steel-types and Ho-Oh, provided Ho-Oh is not running Earthquake. Tyranitar easily defeats Dark-types that lack a Fighting-type move, while also being able to set up Stealth Rock and Pursuit trap wallbreakers that threaten Giratina-O. If Defog is used in the last slot, Pokemon that appreciate the support the move provides such as Ho-Oh make good teammates.
+Entry hazard support is greatly appreciated to make Dragon Tail more effective. Bulky Stealth Rock setters make for the best partners; two examples are Dialga and Primal Groudon. Stealth Rock setters that can set up consistently over the course of a match are greatly preferred over suicide entry hazard leads. Giratina-O also appreciates teammates that check Fairy-types, such as Klefki, Scizor, Metagross, Aegislash, Jirachi, Ho-Oh, and Primal Groudon. It should be noted that the Fairy checks with a secondary Ghost or Psychic typing can compound weaknesses to Dark-types, which is not ideal. Giratina-O also appreciates Fairy-types such as Xerneas, Clefable, and Klefki as partners, because they check Dark-types for Giratina-O. Wish and cleric support from the likes of Blissey, Clefable, and Diancie on bulkier teams can keep Giratina-O healthy and prevent it from being overwhelmed. Offensive Arceus formes such as Swords Dance Ground Arceus and Calm Mind Dark Arceus appreciate the Defog role filled by Giratina-O, because this means that a support Arceus forme does not need to be used.
 
 Other Options
 ########
 
-There are several worthwhile options not mentioned that Giratina-O can opt for. Roar can be used over Dragon Tail or in the last slot on either set for its ability to hit Geomancy Xerneas, an extremely common switch-in, and ideally make it waste its Power Herb. Roar is also useful for its perfect accuracy and ability to hit through Substitute. Iron Tail can be used to hit Fairy-types hard, but its accuracy is detrimental. Likewise, Iron Head can be used but is rather weak. Rest is Giratina-O's only form of reliable recovery and is usable with cleric support or Sleep Talk. Aura Sphere hits Tyranitar, but it is not useful for much else, and Tyranitar dislikes status anyway. A purely special set involving some combination of Draco Meteor, Dragon Pulse, Shadow Ball, Calm Mind, Aura Sphere, Thunder, Earth Power, and Hidden Power Fire is an option, but Giratina-O will sorely miss having Shadow Sneak. Lastly, Destiny Bond is an option for Giratina-O to make the most of its last turn and allows it to check Swords Dance Normal Arceus packing Shadow Force.
+Giratina-O has a number of viable alternatives, but it is hard-pressed to make space in its four moveslots. A mixed attacking set with Draco Meteor and Shadow Ball can be used, which allows Giratina-O to bypass physically defensive walls. Magic Coat is a cool move that anti-leads very effectively by bouncing back entry hazards, Taunt, and status moves such as Will-O-Wisp and Toxic. Substitute eases prediction and blocks status while making Shadow Force easier to use; however, it tends to run through Giratina-O's limited HP quickly. Rest is Giratina-O's only viable recovery move and means of removing status, so it can be used to increase longevity. Giratina-O tends to draw Fairy-types to itself, so Iron Tail is a viable move to hit them. If accuracy and Fairy-types are problematic, Roar is another phazing option which Giratina-O has. Toxic puts timers on opposing Pokemon, including both Primal Groudon and Ho-Oh, which cannot be burned, and support Arceus formes. Thunder Wave cripples faster Pokemon and can deter setup from the likes of Geomancy Xerneas and non-Refresh Salamence. Lastly, Hex can be a very powerful attack if an opposing Pokemon has any status, such as a burn, and allows Giratina-O to bypass Gliscor.
 
 Checks & Counters
 ########
 
-**Xerneas**: Xerneas can switch in on any Dragon-type attack and proceed to set up with Geomancy, remove its team's status conditions with Aromatherapy, or KO Giratina-O with Moonblast. It needs to watch out for Shadow Force or the odd Steel-type attack though.
+**Dark-types**: Dark-types make for the best checks to Giratina-O, as they resist Ghost and threaten with super effective Dark-type moves. Yveltal easily switches in and OHKOes Giratina-O with Dark Pulse, though it can be hit with Stone Edge as it switches in. Darkrai threatens Giratina-O with a powerful Dark Pulse, and it can put a teammate to sleep with Dark Void. Dark Arceus switches in and can threaten Giratina-O with Dark-type Judgment or set up Calm Mind. Tyranitar can switch in relatively easily, but it dislikes being burned and does not do too much damage in return.
 
-**Fairy Arceus**: Fairy Arceus doesn't mind anything Giratina-O has other than status or the rare Steel-type move, can Recover off any damage, and can KO with Judgment or set up Calm Mind.
+**Fairy-types**: Bulky Fairy-types threaten Giratina-O, though they do not resist Ghost-type attacks. Defensive Xerneas does not take too much from Giratina-O's attacks and deals heavy damage with Moonblast. Fairy Arceus fears little from Giratina-O, threatens with Judgment, and can use Defog, Will-O-Wisp, Toxic, or Calm Mind. Clefable can use Giratina-O to pass Wishes and clear status with Heal Bell; it also threatens to use Moonblast, albeit a weaker one. Shadow Force does a lot of damage to Clefable, however.
 
-**Sylveon**: Sylveon can switch in on Dragon-type moves, heal itself if needed with Wish, and KO Giratina-O with a Pixilate-boosted Hyper Voice. It doesn't mind status as it always runs Heal Bell, but it needs to be careful of Shadow Force or the rare Steel-type move.
+**Ho-Oh**: Assuming that Stealth Rock is not set up on Ho-Oh's side and Giratina-O is not running the uncommon Stone Edge, Ho-Oh freely switches in on Giratina-O and deals a lot of damage, as Dragon Tail damage is negated by Regenerator.
 
-**Yveltal**: Yveltal can come in on Ghost-type moves, Taunt Giratina-O, and KO it with a Dark-type attack while being able to Roost off any damage. However, it needs to be wary of status moves. Additionally, Draco Meteor followed by Shadow Sneak from the mixed set will KO offensive Yveltal after Stealth Rock, while defensive variants will fall to two Draco Meteors.
+**Gliscor**: Gliscor walls Giratina-O relatively well by using Roost to keep itself healthy and being immune to Will-O-Wisp because of its Toxic Orb. It can also use Toxic itself, which puts Giratina-O on a timer. A Draco Meteor from a mixed set will do significant damage to Gliscor, however.
 
-**Darkrai**: Darkrai can come in on Ghost-type moves and use Dark Void or Dark Pulse but is OHKOed by a Draco Meteor from the mixed set.
+**Fast Dragon-types**: Dragon-types that outspeed Giratina-O can threaten it out with a powerful Dragon-type move. Zekrom can outspeed and hit Giratina-O with a powerful Outrage, Dragon Claw, or Draco Meteor, while Palkia outspeeds and hits Giratina-O with Spacial Rend. However, neither enjoys switching into a Dragon Tail.
 
-**Dark Arceus**: Dark Arceus can stomach any attack from Giratina-O and heal itself with Recover, set up Calm Mind, and KO Giratina-O with a super effective Judgment, though it needs to watch out for Toxic if it is not carrying Refresh.
-
-**Tyranitar**: Tyranitar can switch in on anything from Giratina-O other than status moves and Earthquake and then trap it with Pursuit. It really dislikes Will-O-Wisp and Toxic though.
-
-**Ho-Oh**: Provided Stealth Rock isn't up, Ho-Oh can repeatedly switch in on Dragon Tail or Draco Meteor thanks to Regenerator and Recover/Roost and can retaliate with Brave Bird. It needs to watch out for Thunder Wave, Toxic, and Stone Edge though.
-
-**Gliscor**: Gliscor can Toxic stall Giratina-O and is not threatened as long as it doesn't switch in on Will-O-Wisp before its Toxic Orb activates or against a special move.
-
-**RestTalk Kyogre**: This variant of Kyogre can take any attack from Giratina-O well bar Thunder or strong physical moves. It can then Rest off the damage and fish for Scald burns or Roar Giratina-O out. It doesn't care about status moves either.
-
-**Faster Dragon-types**: These include Palkia, Kyurem-W, Rayquaza, and Zekrom. While they cannot switch in directly, they force Giratina-O to switch out under the threat of a super effective STAB move.
-
-**Toxic**: As Giratina-O does not have access to a reliable recovery move other than Rest, it can be Toxic stalled quite easily. Also, a surprise Toxic from an offensive Pokemon such as Terrakion is practically a death sentence for Giratina-O.
+**Toxic**: Due to Giratina-O's lack of reliable recovery or way to rid itself of status, Toxic wears it down very rapidly and makes it susceptible to being overwhelmed by repeated hits.

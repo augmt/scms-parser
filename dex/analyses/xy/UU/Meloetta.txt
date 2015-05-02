@@ -1,122 +1,184 @@
 Overview
 ########
 
-With its large assortment of support moves as well as its signature move Relic Song, Meloetta is able to set itself apart from the rest of the typical Psychic-types in the tier. When used, Relic Song will change the typing and stats of Meloetta completely, turning it into Meloetta-P, a Normal / Fighting type with high Attack and Speed stats. Meloetta-P naturally outspeeds most of the tier and is blessed by the buff to Knock Off, which serves as a good way to hurt Ghost-types that might try to wall it.
+Meloetta has great 100 / 128 special bulk, allowing it to tank a lot of special hits and even some super effective ones. Meloetta also has access to a very diverse movepool with good attacking options such as Hyper Voice, Psyshock, and Dazzling Gleam; various setup options such as Relic Song and Calm Mind; and great utility moves such as Trick, U-turn, and Thunder Wave. Meloetta, in its Pirouette forme, also outspeeds a ton of common checks to its Aria forme, such as Krookodile and Hydreigon, allowing it to hit them with a super effective STAB Close Combat and surprise other Pokemon that outspeed it in its Aria forme.
 
-However, Meloetta and Meloetta-P have some defining flaws. Meloetta has a below-average Defense stat for a bulky Pokemon and no reliable recovery, which means it can't take powerful attacks. To make matters worse, Meloetta doesn't have a very good Speed stat and is under the constant threat of being outsped. It also takes a turn to transform into Meloetta-P, leaving it open to attacks on that turn, which can cost you the game. Nonetheless, Meloetta is a very versatile Pokemon and, if played right, can be a great addition to any team.
+Despite Meloetta's superb special bulk, it has an underwhelming 100 / 77 physical bulk, making it more weak to Knock Off and U-turn than it already is. Its typing doesn't help matters either, providing only a resistance to Psychic and an immunity to Ghost while also making it weak to Bug- and Dark-type moves. It also has an average base 90 Speed stat in its Aria forme, meaning it is outsped by a ton of common Pokemon such as Mienshao, Darmanitan, and Sharpedo. Serene Grace isn't very useful either, although it helps grab some clutch Special Defense drops from Psychic or sleep turns from Relic Song.
 
 SubCM
 ########
 name: SubCM
-move 1: Calm Mind
-move 2: Substitute
+move 1: Substitute
+move 2: Calm Mind
 move 3: Psyshock
-move 4: Thunderbolt / Focus Blast
+move 4: Hyper Voice / Focus Blast
 ability: Serene Grace
 item: Leftovers
+evs: 4 Def / 252 SpA / 252 Spe
 nature: Timid
-evs: 136 HP / 252 SpA / 120 Spe
 
 Moves
 ========
 
-Meloetta already has amazing Special Attack and Special Defense stats, and Calm Mind boosts these stats to even greater levels, putting offensive pressure on the opponent as well as preparing it for a sweep. Substitute is Meloetta's best way of avoiding status and can give it more setup opportunities, putting further offensive pressure on the opponent. After a Calm Mind boost, Psyshock hits very hard, dealing heavy damage in particular to special walls, Assault Vest users, and opposing Calm Mind users. Thunderbolt hits common Calm Mind users and bulky Water-types for super effective damage and enables Meloetta to easily win Calm Mind wars. If Dark-types are problematic, then Meloetta can use Focus Blast to secure KOs on these threatening Pokemon. Dazzling Gleam can be used as a more accurate way to hit Dark-types and prevent Sableye from walling Meloetta, but it lacks the coverage and the power that Focus Blast has. Hyper Voice and Shadow Ball give perfect neutral coverage, but they don't give many super effective hits.
+Substitute provides Meloetta with a way to avoid status, especially from Scald, and more setup opportunities. Calm Mind boosts Meloetta's already decent Special Attack and Special Defense stats. Psyshock allows Meloetta to win Calm Mind wars against other Pokemon such as Suicune, as it hits them on their non-boosted Defense stat. Hyper Voice is a great secondary STAB move, hitting through other Substitutes; however, you can opt for Focus Blast instead if you want a more reliable way to beat Steel-, Dark-, and Normal-types such as Mega Aggron, Krookodile, Hydreigon, and Snorlax super effectively.
 
 Set Details
 ========
 
-A Timid nature and 120 Speed EVs allow Meloetta to outspeed Adamant Toxicroak while also outpacing every relevant wall in the tier. With maximum Special Attack, not many Pokemon can take a hit from +1 Meloetta-A. The remaining HP EVs give Meloetta a little more bulk and can potentially keep its Substitute up for another turn. Leftovers is the best Meloetta has for reliable recovery and can help the latter take another hit if it needs to.
+Maximum Special Attack and Speed EVs let Meloetta hit as hard and as fast as possible; however, a spread of 252 HP / 40 Def / 216 Spe with a Timid nature may be used instead to still outspeed Jolly Toxicroak and Heracross while providing a bit more bulk. This spread can also set up more easily on Blissey, as Meloetta can produce 101 HP Substitutes. Leftovers is the preferred item to give Meloetta more Substitutes and a bit of recovery as well. A Timid nature means Meloetta isn't threatened by Pokemon that would otherwise outspeed it, such as Toxicroak and Heracross.
 
 Usage Tips
 ========
 
-Meloetta can beat opposing Calm Mind users like Suicune, so set up Calm Mind boosts on them or try to deal with them quickly with Thunderbolt. Don't stay in on strong Pokemon like Hydreigon or Houndoom unless Meloetta is behind a Substitute; in that case, try to take them out quickly with Focus Blast.
+This Meloetta set is a great win condition against stall and semi-stall teams thanks to its ability to win Calm Mind wars with Psyshock and threaten foes that are resistant or immune to Psychic, such as Reuniclus and Krookodile, with Hyper Voice. Meloetta should be brought in mid- or late-game and is best setting up on attacks that cannot break its Substitute, such as an unboosted Scald from Suicune. Another way to set up is on Pokemon that can only inflict damage with Toxic or weak moves, such as Alomomola and Florges.
 
 Team Options
 ========
 
-Meloetta is vulnerable to all forms of entry hazards, so Rapid Spinners such as Forretress and Tentacruel and Defog users such as Crobat and Empoleon can help by removing entry hazards. Pokemon like Sableye and Jirachi can burn or paralyze opposing Pokemon, respectively, to potentially give Meloetta another setup opportunity. Physical walls such as Suicune can stop the strong physical attackers that would otherwise tear Meloetta apart and are thus great teammates for it. Aromatisse and Alomomola are excellent physical walls that can also provide status support.
+This set appreciates wallbreakers to wear down Steel-types that force Meloetta out. Entei is a particularly good partner, as it can hit Steel-types with a super effective STAB move and spread burns, wearing down the opponent's team. Entry hazard support is necessary as well. Forretress is a particularly good partner, as it can sponge physical hits early-game and also clear entry hazards thanks to its access to Rapid Spin.
 
-Assault Vest
+Choice Specs
 ########
-name: Assault Vest
-move 1: Psyshock
-move 2: Hyper Voice
+name: Choice Specs
+move 1: Hyper Voice
+move 2: Psyshock / Psychic
 move 3: Focus Blast
-move 4: Shadow Ball / Thunderbolt
+move 4: Trick / Shadow Ball
 ability: Serene Grace
-item: Assault Vest
-nature: Modest
-evs: 248 HP / 252 SpA / 8 SpD
+item: Choice Specs
+evs: 4 Def / 252 SpA / 252 Spe
+nature: Timid
 
 Moves
 ========
 
-Psyshock is Meloetta's primary STAB move and hits opposing Assault Vest users and specially defensive walls for heavy damage. Hyper Voice is a secondary STAB move that is great at getting strong neutral damage. Focus Blast prevents Steel-type Pokemon from walling Meloetta and is an excellent way of destroying Dark-type switch-ins. Shadow Ball inflicts a lot of damage to Pokemon like Celebi and Metagross and is excellent at breaking specially defensive sets thanks to Serene Grace, which gives it a 40% chance to lower Special Defense. Thunderbolt is an excellent way of getting past bulky Water-types such as Suicune and Vaporeon and can OHKO most Flying-types. If Sableye is troublesome, then Meloetta can opt for Dazzling Gleam over Focus Blast, but it gives Meloetta less power and coverage.
+Hyper Voice is an obligatory STAB move that hits very hard and can bypass Substitutes. Psyshock is nice to get around special walls such as Blissey and Florges; however, Psychic hits Mega Aerodactyl harder, along with Rhyperior and Cobalion. Focus Blast is a good coverage move, hitting bulky Steel-types such as Mega Aggron along with Dark-types such as Krookodile. Trick is a good utility move that cripples walls that may switch in, such as Alomomola. Shadow Ball, however, allows Meloetta to hit Ghost-types, such as Doublade and Chandelure, hard.
 
 Set Details
 ========
 
-248 HP EVs give Meloetta an extra Stealth Rock switch-in while also maximizing its bulk. With maximum Special Attack and a Modest nature, Meloetta can deal lots of damage while also retaining excellent special bulk thanks to Assault Vest; for instance, Choice Specs Hydreigon barely manages a 2HKO on Meloetta. Serene Grace gives Meloetta the ability to wallbreak opposing Pokemon with Special Defense drops from Focus Blast and Shadow Ball while also giving Thunderbolt a higher chance to paralyze opposing Pokemon.
+Maximum Special Attack and Speed EVs allow Meloetta to hit as hard and as fast as it can. Choice Specs boosts Meloetta's already amazing base 128 Special Attack stat. A Timid nature makes sure that Meloetta Speed ties with other positive-natured base 90 Speed Pokemon such as Moltres while also outspeeding otherwise major threats such as Heracross.
 
 Usage Tips
 ========
 
-Don't use Meloetta recklessly, as even though it can take special attacks extremely well, it has no reliable recovery. Ideally, it should switch into a neutral special attack and deal out as much damage as possible while trying to avoid physical hits and strong special attacks.
+Bring Meloetta in early-game to break down walls and wear them down to allow teammates opportunities to set up or continue to apply the pressure. Meloetta can also be useful even after Tricking away its item, as it has decent special bulk and can still hit pretty hard. Meloetta can also come in on common walls, as it has a way around both special and physical walls thanks to its access to Psyshock and good special coverage moves.
 
 Team Options
 ========
 
-Pokemon that can take the physical hits that Meloetta can't make great teammates. Cleric support in the form of Wish and Heal Bell or Aromatherapy can help increase Meloetta's longevity drastically. Meloetta doesn't want to take excessive damage because it has no reliable recovery, so it appreciates the support that Pokemon like Blastoise and Aerodactyl can provide by getting rid of entry hazards using Rapid Spin or Defog respectively. Aromatisse is an excellent partner for Meloetta due to its nifty resistances to Dark- and Bug-type moves, its ability to take physical hits rather well, and its access to Wish and Aromatherapy.
+Setup sweepers such as Nasty Plot Infernape and Swords Dance Toxicroak love having walls weakened. They also provide offensive synergy, as both can easily break Steel-types that tend to switch into Meloetta, which has to rely on Focus Blast to deal with them. Entry hazard support is very much appreciated, as this Meloetta set can force a lot of switches. Forretress can provide a wide range of entry hazards while being able to bring in Meloetta safely thanks to a slow Volt Switch, while Tentacruel can provide Toxic Spikes and Scald burns, both of which apply a ton of pressure on the opponent.
 
-Physical Sweeper
+Choice Scarf
 ########
-name: Physical Sweeper
+name: Choice Scarf
+move 1: U-turn
+move 2: Hyper Voice
+move 3: Psychic / Psyshock
+move 4: Trick / Focus Blast
+ability: Serene Grace
+item: Choice Scarf
+evs: 4 Def / 252 SpA / 252 Spe
+nature: Timid
+
+Moves
+========
+
+U-turn allows Meloetta to gain easy momentum against common switch-ins, such as Blissey and Florges. Hyper Voice is a great STAB move that allows Meloetta to hit Pokemon behind Substitutes. Psychic is a nice STAB move as well that hits harder than Psyshock, although Psyshock still hits special walls harder. Trick can cripple slow walls, such as Snorlax or Forretress; however, Focus Blast provides Meloetta with a way to beat Steel- and Dark-types, such as Mega Aggron and Krookodile.
+
+Set Details
+========
+
+Maximum Special Attack and Speed EVs allow Meloetta to hit as hard and as fast as possible. A Timid nature means Meloetta is not outsped by positive-natured maximum Speed Mega Aerodactyl or other Mega Evolutions such as Beedrill. A Choice Scarf is the obvious item, as it patches up Meloetta's average base 90 Speed stat, letting it outspeed the whole unboosted metagame.
+
+Usage Tips
+========
+
+Slapping a Choice Scarf on Meloetta means it can be a decent revenge killer. This set should be brought in after a teammate has fainted to make sure Meloetta doesn't take unnecessary damage. Watch out for other Choice Scarf users, as most common ones, such as Mienshao and Salamence, still outspeed Meloetta.
+
+Team Options
+========
+
+This set appreciates wallbreakers, as it is more of a late-game cleaner than the other sets. Pokemon such as Entei and Darmanitan are good examples, as their Fire-type STAB moves allow them to roast Steel-types, which tend to wall Meloetta. This set also appreciates entry hazards removed, as it has no sort of recovery. Forretress and Tentacruel make for good partners, as the former is immune to Toxic Spikes and neutral to Stealth Rock while the latter absorbs Toxic Spikes and has Scald to spread burns. This set appreciates entry hazard support as well due to Meloetta being able to force switches easily. Pokemon such as Mega Swampert and Nidoqueen can provide power while setting up Stealth Rock easily.
+
+Cleric Support
+########
+name: Cleric Support
+move 1: Perish Song
+move 2: Hyper Voice / U-turn
+move 3: Heal Bell / U-turn / Knock Off
+move 4: Thunder Wave / Toxic
+ability: Serene Grace
+item: Leftovers
+evs: 252 HP / 4 Def / 252 SpD
+nature: Calm / Careful
+
+Moves
+========
+
+Perish Song allows Meloetta to provide stall with a way to beat setup Pokemon such as Reuniclus and Alakazam, which are not crippled by status thanks to their Magic Guard ability. Hyper Voice allows Meloetta to hit Pokemon behind Substitutes; however, Ghost-types are immune to Hyper Voice and can switch into it at any time. U-turn can be used to gain easy momentum. Heal Bell gives Meloetta a way to get rid of the team's status, and it can do so multiple times thanks to the switches Perish Song warrants. If you already have a cleric and opted for Hyper Voice in the second slot, U-turn can be used here, as it is useful for gaining momentum off of forced switches due to Perish Song. Knock Off gets rid of Leftovers and other useful items such as Nidoqueen's Life Orb. Toxic puts the opponent's Pokemon on a timer, while Thunder Wave allows Meloetta to cripple offensive Pokemon such as Mega Aerodactyl and Crobat.
+
+Set Details
+========
+
+Maximum HP and Special Defense EVs allow Meloetta to make use of its great 100 / 128 special bulk. A Calm nature is used to boost Meloetta's already excellent special bulk even further; however, a Careful nature can be used if you decide to opt for U-turn + Knock Off. Leftovers provides Meloetta with a form of passive recovery.
+
+Usage Tips
+========
+
+This set should be used exclusively to check setup sweepers such as Calm Mind Reuniclus, Substitute + Calm Mind Cresselia, and other Pokemon that are otherwise major threats to stall teams. Try not to bring it in on any physical attacks, as even strong neutral hits will tend to cause some major damage to Meloetta.
+
+Team Options
+========
+
+This set really appreciates Wish support so that it can continue tanking special hits, as it has no form of reliable recovery. Pokemon such as Alomomola, Aromatisse, and Vaporeon have decent physical Defense to complement Meloetta's special bulk, and each provides their own unique support. This set also appreciates entry hazard support, as it can force a lot of switches thanks to Perish Song. Pokemon such as Forretress and Chesnaught provide Spikes support to wear down the opponent's team quickly; Forretress can also remove entry hazards with Rapid Spin and set up two other entry hazards, Stealth Rock and Toxic Spikes.
+
+En Pointe
+########
+name: En Pointe
 move 1: Relic Song
 move 2: Close Combat
 move 3: Return
 move 4: Knock Off
 ability: Serene Grace
 item: Life Orb
-nature: Jolly / Adamant
-evs: 252 Atk / 4 SpD / 252 Spe
+evs: 252 Atk / 40 SpA / 216 Spe
+nature: Naive
 
 Moves
 ========
 
-Relic Song is the most important move in this set as it allows Meloetta to transform into Meloetta-P, and thankfully, it has a 20% chance to make the opposing Pokemon fall asleep as well, so it isn't an entirely useless move. Close Combat is Meloetta-P's main STAB move and can effectively punch holes in teams. Return gives Meloetta-P a strong STAB move that hits much of the metagame neutrally. Knock Off is Meloetta-P's best way of dealing with Ghost-types that would otherwise wall it, also hitting the Psychic-types that threaten it for heavy damage.
+Relic Song is needed to allow Meloetta to change from its Aria forme to its Pirouette forme. It also happens to have a 20% chance to put the foe to sleep thanks to Serene Grace. Close Combat is a great STAB move that allows Meloetta-P to get around special walls such as Blissey while hitting Steel-types, which normally wall Meloetta-A, hard. Return is the obligatory Normal-type STAB move; it gets perfect neutral coverage alongside Close Combat bar Ghost-types. Knock Off provides Meloetta-P with a way to hit Ghost-types and remove items from foes, crippling them for the rest of the match.
 
 Set Details
 ========
 
-With maximum Speed investment and a Jolly nature, Meloetta-P outspeeds most of the tier after transforming. Maximum Attack gives Meloetta-P the power to pound through the opposition with relative ease. A Jolly nature is preferred to enable Meloetta-P to outspeed as much as possible, but an Adamant nature can be run to give it even more power. Life Orb helps Meloetta-P dish out as much damage as it can. Relic Song gets a 20% chance to make the opposing Pokemon fall asleep thanks to Serene Grace.
+Maximum Attack EVs are used to allow Meloetta's Pirouette forme to hit as hard as it can. 216 Speed EVs allow Meloetta to outspeed Jolly Heracross and Toxicroak before Mega Evolving and Noivern after Mega Evolving. The rest is dumped into Special Attack to allow Relic Song to hit a bit harder. Life Orb boosts the power of all of Meloetta's attacks and allows it to switch between moves. A Naive nature is preferred to not lower either of Meloetta's offenses while also allowing it to take common priority attacks in UU.
 
 Usage Tips
 ========
 
-Meloetta-P is an excellent mid- to late-game cleaner and can play mind games with the opponent as to whether Meloetta is going to transform or not. Try to avoid using Meloetta-P early in the match because it takes a turn to transform every time it switches in. Try to use Meloetta-P after Choice Scarf users and Pokemon that naturally outspeed it are taken out.
+This set can surprise some of Meloetta's common checks and counters, such as Blissey and Snorlax, as it now has a super effective STAB move with which to get around these special walls. It also gains a boost to its Speed, outspeeding old threats such as Krookodile, Hydreigon, and Mienshao.
 
 Team Options
 ========
 
-Entry hazards like Stealth Rock, Spikes, and Sticky Web can help Meloetta-P in its sweep immensely by securing OHKOs for it and slowing down potentially Choice Scarf users. Shuckle can provide Stealth Rock and Sticky Web support, and while Forretress can provide Stealth Rock and Spikes support. Meloetta-P hates status, so Pokemon that can absorb status like Guts Machamp can be great teammates. Meloetta-P can't outspeed Choice Scarf users, so a Pokemon that can wall them, such as Quagsire or Florges, are appreciated.
+This set appreciates entry hazard support, as Meloetta-P can force switches a lot easier thanks to its boost in Speed and different STAB combination. Pokemon such as Forretress and Tentacruel can set up and remove entry hazards to allow more switches for Meloetta. This set also likes the support of wallbreakers such as Entei and Life Orb Hydreigon, as they can easily wear down common walls that switch into Meloetta. Entei is great in particular, as it can spread burns thanks to its access to Sacred Fire.
 
 Other Options
 ########
 
-A mixed attacking set with Relic Song, Work Up, Psychic, and Close Combat could work well, but switching between formes with Relic Song can be difficult. Meloetta-P can go for a bulky Assault Vest set with Relic Song, Drain Punch, Knock Off, and a filler move, but once again, Relic Song makes it difficult to use this set effectively. Meloetta has a huge support movepool that can be utilized well with its incredible special bulk, but with threats like Mega Houndoom and Hydreigon roaming the tier, it's difficult to use well. A Choice Scarf set can make good use of Meloetta's incredible Special Attack stat while somewhat mitigating its measly base 90 Speed. A Choice Specs set would make Meloetta an incredibly strong wallbreaker, but it's usually outclassed in that role by Exploud. Choice sets can use Trick to cripple opponents. U-turn is a great scouting move, but Meloetta's Attack stat is pretty low, and it is usually better off firing a powerful special attack.
+Assault Vest is a decent item that allows Meloetta to tank all kinds of special hits while also being able to use the plethora of attacking moves it has. However, Meloetta isn't very powerful on its own and thus really likes the boosts it gets from Life Orb or Choice Specs; running an Assault Vest also prohibits it from boosting its Special Attack and Special Defense with Calm Mind. Meloetta has access to Thunderbolt, which could allow it to beat Suicune; however, Psyshock does this already and Meloetta doesn't need Thunderbolt otherwise. Dazzling Gleam can be used as a more reliable way to hit Dark-types; however, common Dark-types are faster, and Focus Blast hits them harder while allowing Meloetta to keep coverage on Mega Aggron and Snorlax. Grass Knot or Energy Ball can be good for the Choice Specs set to hit bulky Ground-types such as Hippowdon and Swampert, although Meloetta already has a hard time picking coverage moves and can usually cripple these Pokemon via Trick.
 
-Checks and Counters
+Checks & Counters
 ########
 
-**Dark-types**: Fast, hard-hitting Dark-types like Mega Absol and Krookodile can easily wipe out Meloetta, but they have difficulty getting around Meloetta-P.
+**Faster Pokemon**: Choice Scarf Pokemon, such as Mienshao and Hydreigon, can outspeed all of Meloetta's sets and U-turn out, wearing Meloetta down while gaining momentum.
 
-**Physical Attackers**: Powerful physical attackers such as Darmanitan and Flygon can outspeed and deal heavy damage to Meloetta, if not KO it off the bat.
+**Physical Attackers**: Pokemon such as Mega Beedrill, Choice Scarf Heracross, and Choice Scarf Mienshao all threaten Meloetta with their STAB or coverage moves and can outspeed every Meloetta set.
 
-**Choice Scarfed Pokemon**: Common Choice Scarf users such as Victini and Mienshao can threaten to outspeed and KO both Meloetta formes.
+**Pursuit**: Pokemon such as Krookodile and Mega Aerodactyl not only outspeed Meloetta but also can carry Pursuit, which is a huge thorn in Meloetta's side.
 
-**Mega Aerodactyl**: Mega Aerodactyl gets a special mention for being able to naturally outspeed Meloetta-P and OHKO with Aerial Ace.
+**Special Walls**: Pokemon such as Florges and Blissey can handle Meloetta's Choice sets; however, they must watch out for Psyshock from the Choice Specs set, which can 2HKO both of them after Stealth Rock damage. Curse Snorlax is especially a nuisance, as it can boost its Defense and render Psyshock useless.
 
-**Ghost-types**: Ghost-types such as Chandelure wall Meloetta-P; thanks to their immunity to Relic Song, Meloetta can't transform, and Knock Off will deal poor damage coming off its abysmal base 77 Attack stat.
-
-**Sableye**: Sableye completely walls any set lacking Dazzling Gleam and can simply stall out both formes with Will-O-Wisp, Taunt, and Recover.
+**Bulky Steel-types**: Pokemon such as Mega Aggron and Empoleon only have to watch out for Focus Blast, as Meloetta's other moves do not hit hard enough to overpower them. Assault Vest Escavalier resists Psyshock and can take any move Meloetta has, including Focus Blast.

@@ -1,82 +1,116 @@
 Overview
 ########
 
-Aegislash's unique Steel / Ghost typing allows it to check many common threats in Doubles, such as Fairy-types, Dragon-types, Mega Kangaskhan, Cresselia, Hitmontop, and Terrakion. In addition, thanks to Stance Change, it can switch between dual 150 offensive stats and great 60 / 150 / 150 defensive stats with King's Shield. This allows Aegislash to act as an offensive pivot that uses its great bulk and typing to switch into many common Doubles attackers while threatening them with its ability to attack both physically and specially with strong, reliable STAB attacks. Aegislash's movepool is also very effective, allowing it to pull off a dynamic offensive set or support its teammates with Wide Guard. Aegislash's low Speed is a blessing, allowing it to always tank a hit in its Shield forme and then attack in its Blade forme; it also lets Aegislash reliably check Trick Room teams, threatening most setters with super effective coverage. However, Aegislash's biggest problems in Doubles are the prevalence of Fire- and Ground-type attackers in the metagame and the lack of recovery moves in its movepool, which limits its longevity.
+Aegislash is one of the best utility Pokemon in DOU. Its great defensive typing and stats make it a good switch-in to many of the most powerful attackers in the metagame, including Kangaskhan, Metagross, Diancie, and Kyurem-B, four extremely potent offensive threats that are otherwise hard to check and definitely impossible to check with a single slot. Its powerful, nearly unresisted STAB moves are capable of 2HKOing basically anything that doesn't have investment in bulk. It can effectively run multiple different sets: most commonly a Wide Guard support set, but also an offensive bruiser with Life Orb and Shadow Sneak, or a late-game cleaning wall with Substitute.
+
+However, Aegislash's low Speed and lack of recovery make it vulnerable to being worn down over the course of the match, as it often has to take multiple hits before it attacks: one when it switches in on a hit and another on the turn it attacks. Its weaknesses to the common types of Dark, Fire, and especially Ground don't help its case either; it can take all but the strongest of hits from full health, but once chip damage removes half of its health, its utility is drastically limited. The fact that it is forced to run a unique Protect, King's Shield, doesn't help either. While it can sometimes bluff your opponent into not attacking for fear of a -2 Attack stat drop, or actually get a crucial -2, it's far more likely to let Aegislash get burned, put to sleep, or Encored.
 
 Wide Guard Tank
 ########
 name: Wide Guard Tank
-move 1: Wide Guard
-move 2: Shadow Ball
-move 3: Flash Cannon
-move 4: King's Shield
-item: Sitrus Berry / Lum Berry
-evs: 252 HP / 252 SpA / 4 SpD
-ivs: 0 Spe
-nature: Quiet
-
-Moves
-========
-
-Wide Guard is an excellent support move in Doubles because spread attacks are extremely common. Aegislash is weak to some common spread attacks itself, such as Heat Wave and Earthquake, so both Aegislash and its partner can easily take advantage of its utility. In addition, Aegislash's STAB attacks have great coverage together. Shadow Ball and Flash Cannon both have decent Base Power and reliable accuracy, threatening almost the entire metagame with consistent damage. It's also notable that almost every Trick Room setter is weak to one of Aegislash's STAB attacks, making it a great lead against Trick Room teams. Lastly, King's Shield protects it from enemy attacks and reverts Blade forme Aegislash back into Shield forme allowing it to utilize both formes' offensive and defensive capabilities; the potential Attack drop with King's Shield is an added bonus that allows Aegislash to check most physical attackers. The only downside of using King's Shield instead of Protect is the vulnerability to status attacks.
-
-Set Details
-========
-
-Aegislash's Speed is minimized with a Quiet nature and 0 Speed IVs to ensure that it tanks both of its opponent's attacks in Shield forme before switching to Blade forme. It also allows Aegislash to reliably check Trick Room teams. Sitrus Berry grants it decent longevity because it utilizes Aegislash's great bulk to turn many 2HKOs into 3HKOs. However, a Lum Berry also works well, patching up King's Shield's vulnerability to status attacks.
-
-Usage Tips
-========
-
-This set is used best as a pivot, utilizing Aegislash's great typing and bulk in Shield forme to switch into many common threats in Doubles. It is common for Aegislash to lead against Trick Room teams due to its specific offensive coverage against the Ghost- and Fairy-types that commonly set it up. If Trick Room does get set up, Aegislash has a field day outspeeding and denting many Pokemon in the metagame. Wide Guard should be used when the opponent has an obvious Earthquake, Heat Wave, etc. to protect both itself and its partner from attacks, allowing Aegislash's partner to attack an enemy Pokemon or set up with little to fear. If Wide Guard support isn't necessary, then Aegislash should focus on firing off strong STAB attacks to deal key damage to its opponents. Aegislash should typically rotate between an attack and King's Shield so it never has to take an attack in its frail Blade forme. King's Shield also acts as makeshift Attack control, checking any physical sweeper with attacks that make contact. However, it is common for threats to set up boosting moves or Substitute on predicted King's Shields, so overusage can undermine Aegislash's defensive capabilities.
-
-Team Options
-========
-
-First and foremost, anything that appreciates Wide Guard support makes a great partner for this set. This includes Mega Pinsir (which is weak to Heat Wave), Heatran (which is weak to Earthquake), Mega Charizard Y (which is weak to Rock Slide), and much more. Synergy wise, Terrakion beats the Dark- and Fire-types that threaten Aegislash, while it covers Terrakion's Fairy-, Fighting-, and Steel-type weaknesses in return. While Aegislash does block Heat Wave and Earthquake, it has no way to beat their users offensively. So, partners that beat users of these moves, such as Water-types, pair well with it. Because Aegislash functions well in Trick Room, partners such as Aromatisse, Chandelure, and Jellicent can help set it up.
-
-Offensive Pivot
-########
-name: Offensive Pivot
 move 1: Shadow Ball
 move 2: Flash Cannon
-move 3: Substitute / Shadow Sneak / Sacred Sword
+move 3: Wide Guard
 move 4: King's Shield
-item: Leftovers / Weakness Policy
-evs: 252 HP / 4 Atk / 252 SpA
-ivs: 0 Spe
+item: Weakness Policy
+evs: 252 HP / 252 SpA / 4 SpD
+ivs: 0 Atk / 0 Spe
 nature: Quiet
 
 Moves
 ========
 
-Shadow Ball and Flash Cannon are Aegislash's primary attacks because they have good neutral coverage against almost the entire metagame, decent Base Power, and reliable accuracy. Substitute can be used in the third slot to take advantage of the switches Aegislash causes, allowing it to spam its great and powerful coverage moves with little to fear. In addition, Substitute compensates for King's Shield's inability to block status moves. Shadow Sneak allows Aegislash to pick off threats with low HP without having to take an attack beforehand. After a Weakness Policy boost, Shadow Sneak can pick off an even larger set of weakened threats, keeping offensive momentum on Aegislash's side. However, Sacred Sword is a good option instead of Shadow Sneak because it hits Bisharp, which hard-counters this set otherwise, for great damage. It also hits threats such as Mega Kangaskhan and Assault Vest Scrafty harder. Lastly, King's Shield is a must for this set because it reverts Aegislash back to its Shield forme, which allows Aegislash to take super effective hits safely, activating Weakness Policy. It also protects Aegislash from offensive strategies, stalls field conditions, and scouts for super effective coverage.
+Shadow Ball and Flash Cannon are Aegislash's STAB attacks and complement each other well, only really missing out on Bisharp. Unfortunately, they have very little super effective coverage; Aegislash will pick up many 2HKOs, but very few OHKOs. Wide Guard is a spectacular support move to protect Aegislash's partners from Rock Slide, Diamond Storm, and, less frequently, Earthquake, Hyper Voice, and Heat Wave. It also has the nifty property of making Landorus-T unable to come in on Aegislash, especially if it lacks Stone Edge. Beware of the rarer Knock Off Landorus-T, but it does activate Weakness Policy. Substitute is an option over Wide Guard to take advantage of Aegislash's ability to force switches and to prevent Amoonguss from putting it to sleep, but Wide Guard is typically more useful. Besides, Aegislash doesn't want to dent its own HP because it wants to stay out of the KO range of super effective moves. All Aegislash should have King's Shield because Protect is already great and Blade forme cannot take hits.
 
 Set Details
 ========
 
-Offensive Aegislash has two items that it can utilize well in Doubles: Leftovers and Weakness Policy. The first useable combination for Aegislash is Leftovers with Substitute, which drastically increases its longevity, allowing it to fire off many more decently powered attacks. However, Weakness Policy takes advantage of Shield forme Aegislash's outstanding bulk; it can tank a super effective hit it lures and deal massive damage back with a +2 attack. Weakness Policy works best with Shadow Sneak or Sacred Sword in the third moveslot, so Aegislash is able to cover many threats while attacking. The Weakness Policy set also really appreciates Trick Room, so Aegislash can outspeed and demolish many threats; Quiet Nature and 0 Speed IVs is used for this reason.
+Aegislash doesn't need much more complicated investment than maximum HP and Special Attack. With less Special Attack, Aegislash loses the chance to OHKO Kangaskhan at +2, which is pretty important. Because Aegislash mirrors are fairly common, everyone does their own thing with Speed. Some minimize it fully to get the second hit on other Aegislash (to hit while the opposing Aegislash is in Blade forme), others use 4 Speed Modest to get the first hit (even Shield forme Aegislash can take up to 80%), and others use 80 Speed on a Tailwind team to get the jump on Mega Diancie. In general, less Speed is good so that Aegislash can take more hits in Shield forme, but you should make your own decision based on your team's needs. Safety Goggles is another item option, allowing Aegislash to counter Breloom, Venusaur, and Amoonguss, but it is useless in all other matchups.
 
 Usage Tips
 ========
 
-If Aegislash is using Weakness Policy, it should focus on finding the right super effective attack to take in its Shield forme. Aegislash can survive almost any super effective attack in Doubles, but optimally, it should try to take a non-STAB super effective attack, such as a stray Knock Off or Earthquake used as coverage, so it still has enough bulk to maintain a long sweep. After a boost, Aegislash should spam its STAB attacks, KOing many threats with its neutral coverage. It is still wise to rotate between attacking and King's Shield so it can take more attacks. If a partner has set up Trick Room, Aegislash can have a field day outspeeding and smacking anything it wants. Shadow Sneak allows it to function very well even outside of Trick Room, taking out Pokemon that might have survived one of its STAB attacks. If Aegislash is using Leftovers, then it should focus on switching in on the many attackers it walls, setting up Substitute if advantageous, and spamming its STAB attacks. Rotating between Substitute and King's Shield goes a long way towards improving Aegislash's longevity, allowing it to stall out many field conditions and racking up Leftovers recovery.
+This set is mostly used as a pivot, switching in on threats, forcing them out, and taking a chunk out of something with one of its STAB attacks. Weakness Policy is used to discourage the opponent from attacking Aegislash with a super effective move that won't KO, which greatly extends Aegislash's lifespan by forcing the opponent to use non-super effective attacks to whittle Aegislash down first before taking it out. As such, it's recommended to keep Aegislash at high enough HP to keep the threat effective. Some important benchmarks are 55% for Mega Diancie's or Kyurem-B's Earth Power, 65% for Heatran's Heat Wave, and 75% for Mega Kangaskhan's Sucker Punch. If your opponent does activate Weakness Policy, something is probably going to faint every time Aegislash attacks, so you should focus on making its rampage last as long as possible. Typically this set is used early- and mid-game to keep momentum in your favor and won't survive to the end of the match, though you of course should keep it around if you're relying on it to check a specific threat such as Mega Metagross.
 
 Team Options
 ========
 
-Offensive Aegislash requires more specific team support than the Wide Guard set. Trick Room support is highly encouraged, especially if it is using Weakness Policy; good partners to set it up are Aromatisse, Chandelure, and Slowking, which check Aegislash's Dark-, Fire-, and Ground-type weaknesses, respectively. Landorus-T, Suicune, Politoed, and Gyarados are all good partners to threaten the common Earthquake and Heat Wave users that run over Aegislash. Dark-types such as Assault Vest Scrafty and Tyranitar pair well with it and cover its Ghost- and Dark-type weaknesses. If Aegislash isn't using Sacred Sword, Mach Punch partners such as Conkeldurr and Breloom are recommended to handle Bisharp reliably. Helping Hand support allows Aegislash to deal significant damage, which can be crucial if Aegislash doesn't have a boost or needs to snipe a healthier threat with Shadow Sneak. Lastly, Follow Me / Rage Powder support lets Aegislash safely fire off attacks or set up Substitute with greater ease.
+More than anything, this Aegislash is spectacular with Pokemon that need help with Diancie, such as Mega Charizard Y and Kyurem-B. Honestly, though, it fits on most teams because of its all-around utility. It is awkward on Tailwind teams though, as it will be exposed in Blade forme much more often. This set is great on balanced teams which emphasize defensive synergy, especially if they include fast sleep, redirection, or Fake Out, which are all useful for extending its +2 rampages. More offensive teams would probably prefer Life Orb Aegislash.
+
+Life Orb
+########
+name: Life Orb
+move 1: Shadow Ball
+move 2: Flash Cannon
+move 3: Shadow Sneak
+move 4: King's Shield
+item: Life Orb
+evs: 252 HP / 4 Atk / 252 SpA
+ivs: 0 spe
+nature: Quiet
+
+Moves
+========
+
+Shadow Ball and Flash Cannon are powerful dual STAB attacks for Aegislash, as Bisharp is the only relevant Pokemon which resists both. Unfortunately, their super effective coverage is quite poor; while Aegislash 2HKOes almost everything, it OHKOes very little. Shadow Sneak is weak but useful: when a threat is at very low HP, Aegislash can simply pick it off as opposed to using King's Shield then Shadow Ball, having to take a hit and leave its partner vulnerable for two turns. All Aegislash should run King's Shield because Protect is awesome and Blade forme cannot take hits.
+
+Set Details
+========
+
+Because Aegislash mirrors are fairly common, everyone does their own thing with Speed. In general, Aegislash wants to move second whenever possible, to take hits in Shield forme. However, because this set has a good chance to OHKO other Aegislash, it wants to move first in the mirror matchup. How much creep you run is up to you. A Mild set with 80 Speed EVs is also viable to beat base 110 Speed Pokemon in Tailwind. With Life Orb, Aegislash deals absolutely ridiculous damage, 2HKOing all but the absolute bulkiest of Pokemon with the appropriate move. Even 252 HP Mega Charizard Y is not safe, and it's one of the most specially bulky Pokemon that isn't a dedicated sponge. Spooky Plate can also be run with relatively few drawbacks, as Aegislash is usually using Shadow Ball, and it even allows you to bluff Weakness Policy.
+
+Usage Tips
+========
+
+This Aegislash should simply be used as a hammer, just hitting things and wreaking havoc early-game in order to open holes for faster Pokemon to clean up.
+
+Team Options
+========
+
+This Aegislash goes best on hyper offense teams. It is a great Trick Room check for those kinds of teams because it OHKOes every common setter except Cresselia, which still takes huge damage, and because it has priority and the bulk to take hits well and stall out Trick Room, unlike the rest of the team. It also checks Shaymin-S, a Pokemon which hyper offense often has trouble with.
+
+Substitute Leftovers
+########
+name: Substitute Leftovers
+move 1: Shadow Ball
+move 2: Flash Cannon
+move 3: Substitute
+move 4: King's Shield
+item: Leftovers
+evs: 252 HP / 252 SpA / 4 SpD
+ivs: 0 Atk / 0 Spe
+nature: Quiet
+
+Moves
+========
+
+Shadow Ball and Flash Cannon provide Aegislash with two-move coverage that hits every relevant Pokemon except Bisharp neutrally. Substitute and King's Shield is a classic cleaning wall combination; alternating between the moves with attacks thrown in allows Aegislash to live forever if the Pokemon which can beat it one-on-one are eliminated. Substitute also helps to patch up King's Shield's inability to block status moves, though Aegislash is still vulnerable to Encore and Taunt. In addition, Aegislash can use Substitute along with its ability to force switches earlier in the game to play around its usual switch-ins.
+
+Set Details
+========
+
+Leftovers is vital for healing so that Aegislash can fulfill its role as a win condition via Substitute + King's Shield stalling. No more complex investment than maximum Special Attack and HP is necessary; even this comparatively bulky Aegislash is useful for hitting hard. Because Aegislash mirrors are fairly common, everyone does their own thing with Speed. In general, less Speed is good so that Aegislash can take more hits in Shield forme, but this set wants to win the mirror matchup because it has the ability to use Substitute on the opposing Aegislash and bait it into Blade forme or fish for King's Shields. How much creep you run is up to you.
+
+Usage Tips
+========
+
+This set's main role is to serve as a win condition, cleaning the opponent's team after its counters are removed, simply by being unkillable. Early game, it can be used to blast the opponent's team with powerful Ghost-type moves and check some threats, but be sure to keep it healthy if it's likely to be your win condition.
+
+Team Options
+========
+
+More defensive teams, which enjoy Aegislash's defensive traits but typically suffer from a lack of clear win conditions, will get the most mileage out of this set. Of course, this set needs support, and it only works on teams which are adept at clearing out its checks, which is to say Fire-, Ground-, Dark-, and strong Water-type move users. As basically all of these types are fairly popular in the metagame, this set is quite difficult to use; most teams will be better off with the tank set instead. However, it is still viable if the team is able to support it.
 
 Other Options
 ########
 
-Aegislash can use a Spooky Plate or a Life Orb to boost its attacks, which will provide a more consistent but less effective performance. It could also potentially run a fully physical set using Swords Dance, Gyro Ball, Shadow Claw, and/or Shadow Sneak, but the abundance of Will-O-Wisp and Intimidate makes it an underwhelming option. Reflect is an option to support the team with Defense boost. Autotomize is an option to boost Aegislash's Speed to great levels, but it is difficult to set up in Doubles. Safety Goggles can work well, as thye help Aegislash more easily counter Grass-types that run sleeping moves. Under Trick Room, Aegislash can use Rock Slide to check Mega Charizard Y, a major threat to it. An Air Balloon or Shuca Berry can be held to switch into or lure Ground-types, respectively. Hidden Power Ice hits threats such as Landorus-T, Salamence, and Shaymin-S for massive damage. Lastly, Aegislash can use ChestoRest for the most reliable form of recovery.
+The tank set can run Sitrus Berry to extend its longevity while bluffing Weakness Policy, but generally the threat is less effective than the real thing. It could also use Shadow Sneak for the generic usefulness of priority, but the attack seriously does almost nothing, so Wide Guard is usually more useful. The Life Orb set could use Sacred Sword over Flash Cannon to hit Bisharp, but as Bisharp is faster and almost OHKOes Aegislash, it's usually better to keep Flash Cannon, which has much better neutral coverage. For example, if the opponent could switch in either Hydreigon or Landorus-T, Flash Cannon will cover both, while Sacred Sword and Shadow Ball cover one each. A Berry lure set is a possibility, with Shuca Berry + Hidden Power Ice for Landorus-T or Colbur Berry + Sacred Sword for Bisharp, if either of these Pokemon poses a serious problem for your team.
 
 Checks & Counters
 ########
 
-**Offensive Typing Advantage**: Ground-types such as Landorus-T, Garchomp, and Excadrill threaten Aegislash with STAB Earthquake, forcing it to repeatedly use Wide Guard or switch out. Fire-types such as Mega Charizard Y and Heatran do the same; Aegislash must repeatedly block Heat Wave, and if its partner can't touch those threats, Aegislash will lose the match-up. Ghost- and Dark-types such as Mega Gengar and Scrafty can threaten Aegislash super effectively with their STAB attacks as well, but they must tread carefully around its coverage. Dark-types stand the best chance due to their resistance to Shadow Ball. Bisharp resists both STAB moves and isn't affected by King's Shield's Attack drop, only worrying about Sacred Sword, making it a reliable check. Remember, if any of these threats misses out on the KO, there is the possibility that Aegislash will just hit back with a Weakness Policy-boosted Attack.
+**Typing Advantage**: Dark-type Pokemon are basically the only Pokemon that can shrug off a Shadow Ball, and all are capable of dealing heavy damage back to Aegislash. As such, they are the best Aegislash switch-ins. Bisharp is especially good for resisting both of Aegislash's STAB attacks. Pokemon with strong Super Effective STAB attacks such as Mega Charizard Y and Life Orb Landorus are capable of OHKOing Aegislash and make it much easier for the opposing team to keep it at bay.
 
-**Status**: Due to King's Shield's inability to block status attacks, it is easy to target this vulnerability. Breloom and Amoonguss can reliably put Aegislash to sleep with Spore while it is blocking the sleeper's partner's attack. Thunder Wave users such as Thundurus, Togekiss, and Klefki can also cripple it, hindering Aegislash's ability to support or sweep the team.
+**Utility Moves**: Sleep allows a foe to safely hit Aegislash without having to take major damage back, and burn puts it on a short timer so that it is no longer entirely free to alternate between attacking and using King's Shield. In addition, Amoonguss can sponge Aegislash's attacks fairly well with Rage Powder. Unfortunately, all of the common sleep users go from checks to countered if Aegislash packs Safety Goggles, and sleep- and burn-inducing moves do not work on an Aegislash behind a Substitute, although burning a Substitute Aegislash is a great way to beat it. As a last resort, Taunt forces Aegislash to stay in Blade forme so it can be hit. Unfortunately, Aegislash can simply switch out, not to mention the foe will still have to eat at least one Shadow Ball. Encore is effective on every single one of Aegislash's moves, trapping it either into Blade forme or a useless Protect. It's basically a strictly superior version of Taunt versus Aegislash, but the only remotely common users are Politoed and Togekiss. All of these utility moves are especially safe, because King's Shield does not stop them.
 
-**Utility**: Taunt is a great method for checking Aegislash, because it prevents Aegislash from reverting back to its Shield forme, exposing the Blade forme's pitiful bulk. Taunt also stops Aegislash from using Wide Guard or Substitute; good users of it include Thundurus and Sableye. Encore works as well, hindering Aegislash by locking it into one of these moves; Whimsicott, Togekiss, and Politoed are common users of this move. Another way to check Aegislash is using the item Assault Vest. Pokemon such as Scrafty, Goodra, and Ludicolo can check it easily with their increased bulk.
+**Miscellaneous**: The foe can force Aegislash to switch in on resisted hits and take chip damage until it's within KO range of super effective coverage moves. This is how Aegislash is actually handled in the vast majority of cases. The hits it takes will get to it eventually, and it is much less effective when it can't attack with impunity.

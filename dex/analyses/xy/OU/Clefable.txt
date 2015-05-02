@@ -1,134 +1,194 @@
 Overview
 ########
 
-Generation after generation, Clefable has languished in the shadows of its many contemporaries, but no more is this the case, as Clefable's astronomical rise to OU super-stardom is attributed to its brand-spanking new Fairy typing. Two phenomenal abilities in Magic Guard and Unaware allow Clefable to take on a multitude of roles including a Magic Guard + Calm Mind user, an Unaware physical wall, an effective Stealth Rock setter, and an offensive tank. With Unaware, Clefable is able to effortlessly halt a significant quantity of boosting sweepers, whereas Magic Guard works fantastically in negating every form of residual damage, making Clefable an incredibly dangerous Pokemon for stall-based teams and nearly impossible to wear down. Furthermore, Clefable's amazing movepool—both supportive and offensive—along with its outstanding abilities allows it to perform all of its given roles incredibly well, and showcases its potential to adapt in a constantly changing metagame, all the while making it the perfect glue to many teams, easily stitching the holes in teams that struggle with top-tier threats such as Azumarill, Thundurus, and the various Fighting- and Dragon-types inhabiting the OU tier. In stark contrast to how vast Clefable's movepool is, its stats pale in comparison. With not a single base stat over 100, it is quite apparent that Clefable must often specialize in only two stats in order to achieve the most success for any of its sets. While Clefable's typing is unquestionably good, its mediocre defenses can only take it so far. This flaw is all the more evident when Clefable is compared to sturdier supporters such as Chansey, which, unlike Clefable, has the raw bulk to take on the likes of Mega Charizard Y. However, it is Clefable's sheer versatility that always puts its user one step ahead of the opponent, and ultimately makes it the wild card of the match.
+Clefable rose to stardom in XY, and it has since been a dominant force in the balanced playstyle. Boasting a good defensive typing in Fairy, which leaves it weak only to Steel- and Poison-types, coupled with two stellar abilities in Magic Guard and Unaware, Clefable is extremely versatile and capable of fulfilling many different roles on a team. In addition, Clefable's decent bulk lets it take on many threatening Pokemon such as Mega Sableye, Mega Altaria, Mega Manectric, Kyurem-B, Breloom, and Mega Lopunny. Its diverse movepool, consisting of plenty of utility and support moves, includes Calm Mind, Knock Off, Heal Bell, Encore, Thunder Wave, and Stealth Rock. Last but not least, Clefable is one of the best Stealth Rock users in the tier, as it can get past nearly all Rapid Spin users and Defoggers such as Starmie, Skarmory, and Mandibuzz.
 
-Magic Guard + Calm Mind
+However, ORAS brought Mega Metagross and Mega Beedrill, as well as surges in usage for Mega Scizor, Talonflame, Reuniclus, and stallbreaker Gliscor, making Clefable's life harder. Moreover, Clefable is shut down easily by Taunt, and without any Calm Mind boosts, it is relatively weak. Clefable's bulk is also quite underwhelming in practice, making it unable to check Pokemon such as Mega Charizard X and Mega Gallade repeatedly.
+
+Calm Mind + Magic Guard
 ########
-name: Magic Guard + Calm Mind
+name: Calm Mind + Magic Guard
 move 1: Calm Mind
 move 2: Moonblast
 move 3: Soft-Boiled
-move 4: Flamethrower
+move 4: Flamethrower / Thunder Wave
 ability: Magic Guard
-item: Leftovers / Life Orb
-evs: 252 HP / 160 Def / 96 SpD
+item: Leftovers
+evs: 252 HP / 172 Def / 84 SpD
 nature: Calm
 
 Moves
 ========
 
-Calm Mind bolsters Clefable's special stats, allowing it to both withstand special attacks with greater ease as well as dish out moderately strong attacks of its own after a few boosts. Moonblast is a must with any Clefable, as it is its most reliable STAB move. Some key benchmarks to keep note of is that Clefable must have two boosts to OHKO Latias, Assault Vest Conkeldurr, and Mandibuzz. Soft-Boiled is essential for reliably replenishing Clefable's health. Flamethrower does well in damaging most Steel-types; for instance, after a single boost, it OHKOes Mega Scizor, Ferrothorn, and Skarmory. It also threatens switch-ins of Pokemon such as Excadrill, Bisharp, and Magnezone. If desired, Stored Power can be run in the last slot to slaughter Chansey, Mega Venusaur, and Heatran at +6. However, it is generally not recommended, as Chansey can be beaten with a Flamethrower burn or at worst stalled out if it is not carrying a status move, Mega Venusaur is already beaten thanks to the given EV spread, and the only type of Heatran that is threatening to Clefable&mdash;defensive&mdash;typically runs Taunt. Plus, the lack of Flamethrower's coverage is heavily debilitating.
+Calm Mind boosts Clefable’s Special Attack and Special Defense stat, making it both powerful and bulky. Moonblast is Clefable's obligatory STAB move and hits extremely hard after just a few Calm Mind boosts. Soft-Boiled gives Clefable much-needed longevity on the field, enabling it to check threats with much more ease. Lastly, Flamethrower deals with the Steel-types that resist Moonblast, such as Scizor and Excadrill. However, Thunder Wave is a great utility move in general that can cripple many of Clefable's checks, including Talonflame, Scizor, and Mega Metagross.
+Focus Blast can also be considered for its ability to hit Heatran and Chansey, two of the biggest checks to Clefable. Ice Beam is an alternate option to OHKO specially defensive Gliscor after a boost, which would otherwise check Clefable; however, Clefable misses out on Steel-types such as Scizor as a result.
 
 Set Details
 ========
 
-The given EV spread allows Clefable to avoid being 2HKOed by Life Orb Thundurus's Thunderbolt, Life Orb Latios's Psyshock, and Life Orb Kyurem-B's Ice Beam without having to boost, enabling Clefable to serve as an effective check to these Pokemon. It also prevents Mega Venusaur from 2HKOing with Sludge Bomb if Clefable uses Calm Mind on the switch-in, then a second Calm Mind as Mega Venusaur attacks with Sludge Bomb. While not to be relied on, the special bulk also allows Clefable to survive two Life Orb-boosted Earth Powers from Landorus approximately 90% of the time if it uses Calm Mind after the first Earth Power, as well as two Psychics from Modest Mega Alakazam 94.1% of the time.
+Leftovers increases Clefable's longevity and allows it to check many Pokemon much better. The given Special Defense and HP investment along with a Calm nature allow Clefable to, most of the time, avoid the 2HKO from Mild Life Orb Kyurem-B's Ice Beam, Thundurus's Thunderbolt, Mega Diancie's Moonblast, and Mega Manectric's Thunderbolt. The given Defense and HP investment allow Clefable to avoid the 2HKO from Jolly Mega Lopunny's Return, Latios's Psyshock, and Jolly Mega Gyarados's Waterfall, as well as the OHKO from Choice Band Scizor's Bullet Punch.
 
-If Life Orb is chosen for the item, it is impossible for Clefable to reach similar Special Defense benchmarks to the given spread without significant cost to physical bulk. With Life Orb, a spread of 252 HP / 176 Def / 80 SpA and a Bold nature is recommended, allowing Clefable to 2HKO Chansey 100% of the time with +6 Moonblast and thus make it a more effective stallbreaker. If Chansey attempts to stall out its Moonblast PP, Clefable can fish for a burn with Flamethrower if needed. A fully defensive spread is also an opion with Leftovers, allowing Clefable to serve as a somewhat reliable answer to Mega Heracross, though it can be broken through with a lucky crit on one of the Rock Blast hits, which is actually not all that unlikely, as it has a 27.6% chance to crit at least once.
-
-The key to this set's success is Magic Guard. With this ability, Clefable is completely uninhibited by status moves, allowing it to boost in the face of weak walls such as Chansey and Quagsire. In light of other possibilities, Clefable is able to use Magic Guard in tandem with Soft-Boiled, thus lessening the need for more convoluted healing methods, such as Wish + Protect. Moreover, Magic Guard's utility opens the floodgate of options by allowing Clefable to utilize items such as Life Orb without being subjugated to nasty recoil.
-
-Leftovers is generally preferred as the item option, preventing Clefable from being worn down quite as easily and allowing it to reach the Special Defense benchmarks provided with the given EV spread. However, though it might seem like a strange choice, Life Orb is also an option due to the fact that Clefable is impervious to passive damage via Magic Guard along with its access to reliable recovery in Soft-Boiled lessens the need for Leftovers. When its attacks are boosted by a Life Orb, Clefable is able to achieve KOs it wouldn't have otherwise, such as on Latias and Conkeldurr at +1 with Moonblast. With a Life Orb, Clefable also has a better chance to come out on top versus Chansey, making it a very effective stallbreaker.
+Magic Guard prevents Clefable from being worn down by statuses and continual switches with entry hazards on the field. As a result, Clefable is incredibly hard to wear down. Running Speed investment is perfectly fine, allowing Clefable to outspeed opposing Clefable, Azumarill, Skarmory, Tyranitar, and Sylveon, but it will lose out on the defensive benchmarks above.
+If using a Life Orb, it is also impossible for Clefable to reach similar defensive benchmarks to those of this set, so an EV spread of 252 HP / 176 Def / 80 SpA with a Bold nature can be used to 2HKO Chansey with Moonblast most of the time at +6, allowing Clefable to stallbreak much more effectively.
 
 Usage Tips
 ========
 
-This set is fairly straightforward and easy to use: have Clefable come in on a weak wall such as Rotom-W, Mandibuzz, or Chansey, and from there, it can set up Calm Mind against these threats with no concern. It's good, however, to dispose of Whirlwind and/or Roar users and remove Heatran before attempting to do this, as all these threats keep Clefable in line so long as they're healthy. As far as teams to use this Clefable on, it best fits on almost any team in need of a stallbreaker or a generally good sweeper. Do keep in mind that one of this Clefable's primary purposes is to take out stall, so it's best not to force it to assume the role of a wall itself; be cautious if you attempt to switch it into more powerful physical attackers such as Garchomp and Terrakion.
-
-Forcing a switch on the likes of Dragonite or doing the above is usually the best way to get off a Calm Mind boost or two. Keep this in mind: don't get too greedy with boosts. Having Clefable accumulate too many boosts increases the odds of a critical hit occurring, which ends up only wasting turns and time, and ultimately puts you in a bad position if Clefable is taken out this way. Teams often carry multiple checks to Clefable, most of them being Fire-weak Steel-types. To take advantage of that, it's good to go for Flamethrower once Clefable forces a switch as opposed to Calm Mind; this way, it can take out at least one of its checks, thus making it easier to pull off a sweep later on in the match.
+Clefable can be pivoted into relatively weak attacks, such as Mega Manectric's Thunderbolt and Rotom-W's Hydro Pump, but keep in mind that it cannot switch into incredibly powerful moves such as Choice Band Azumarill's Play Rough. Due to Magic Guard, Clefable can also be pivoted into status moves from passive Pokemon, such as Alomomola and Rotom-W, which Clefable can easily pivot into and set up on. Clefable fits best on balanced teams that need a good sweeper, as it glues the team together with its ability to check a wide range of foes. Use Calm Mind on foes that aren't particularly threatening to Clefable, such as Thundurus, Rotom-W, and Slowbro, or on predicted switches against the likes of Mega Lopunny and Mega Altaria. However, keep this in mind, don't get too greedy with Calm Mind boosts, or else Clefable might get struck by a critical hit and it is game over. If a switch into a Fire-weak Steel-types such as Scizor or Mega Metagross is obvious, it is better to use Flamethrower as opposed to Calm Mind to weaken the check. Use Soft-Boiled to keep Clefable healthy and in a good position, which lets it set up more easily.
 
 Team Options
 ========
 
-Magic Guard Clefable is very self-sufficient and fits on almost any team, but it appreciates Pokemon that deal with Heatran, and to a lesser extent, Bisharp. Keldeo and Quagsire are perfect partners, given their ability to easily plow through or wall both of these Pokemon respectively and work as solid switch-ins. As Heatran and Bisharp are unlikely to stay in on Keldeo and Quagsire, Clefable would benefit even more when paired with a Pokemon that lures out both of these threats and nails them on the switch. One such notable example is Earthquake Latios, which does a colossal amount of damage to the two Steel-types should they be foolish enough to directly come in.
+Because Fire-types such as Heatran, Talonflame, and Mega Charizard Y are amongst the greatest checks to Clefable, Pokemon that can easily deal with them are great partners for Clefable. Relatively bulky Water-, Ground-, and Rock-types such as Keldeo, Suicune, Excadrill, and Tyranitar are great teammates to weaken or eliminate Fire-types for Clefable. In addition, Magnezone helps eliminate Steel-types that trouble Clefable, such as Scizor, with ease. A Choice Scarf set is preferred so that Magnezone can soften up faster Steel-types such as Excadrill, Heatran, and Mega Metagross. Heatran, similarly, is a great teammate for Clefable; it resists the Poison-, Fire-, and Steel-type attacks that Clefable has trouble with while also providing much-valued Stealth Rock support. Heatran also checks Talonflame and Mega Charizard X lacking Earthquake. Lures for various Clefable checks such as specially defensive Gliscor and Heatran are valued. Pokemon such as Icy Wind Gengar and Apicot Berry Jirachi are good choices for these roles, but remember not to reveal them too early.
 
-Physically Defensive
+Stealth Rock Setter
 ########
-name: Physically Defensive
-move 1: Moonblast
-move 2: Wish
-move 3: Protect
-move 4: Heal Bell / Thunder Wave
-ability: Unaware
-item: Leftovers
-evs: 252 HP / 252 Def / 4 SpD
-nature: Bold
-
-Moves
-=======
-
-Moonblast is Clefable's compulsory STAB move, as its great neutral coverage and solid Base Power does well in wearing down bulky targets such as Rotom-W. With Wish + Protect, Clefable works as a solid Wish passer for balanced and stall-based teams. Protect also does well in gathering Leftovers recovery, allowing a worn-out Clefable to avoid a potential 2HKO. Heal Bell allows Clefable to act as a reliable cleric; therefore, it permits Clefable's offensive teammates to play a bit more aggressively, as the threat of status is watered down to a significant degree. On the other hand, Thunder Wave is fantastic on Clefable for crippling setup sweepers it has difficulty KOing such as Mega Tyranitar and Mega Gyarados, and immobilizing common switch-ins such as Mega Charizard Y and Gengar, thus creating an advantageous situation for its teammates.
-
-Should your team lack a dedicated Stealth Rock user, then Clefable can perform this role exceptionally well, given its ability to force switches and discourage several common Defog users such as Latios and Mandibuzz from coming in and removing the entry hazard. Toxic may be used in the last slot to cripple Hippowdon, Zapdos, Volcarona, Talonflame, and bulky Mega Charizard X. Just be wary that many of Clefable's common switch-ins are completely unfazed by Toxic, as they are either Poison- or Steel-types. Moonlight is an option over Wish + Protect so that Clefable acquires an extra moveslot to support its teammates, although the low PP and dilution under sandstorm makes this move a rather high opportunity cost, especially when taking into account that this Clefable needs all the PP it can get when it's up against opposing stall teams. Lastly, Calm Mind is also viable as it gives Clefable the capability to overpower bulky setup sweepers such as Manaphy and opposing Calm Mind Clefable.
-
-Set Details
-========
-
-The set is geared more towards physical defense, as it allows Clefable to better deal with the likes of Garchomp and Terrakion. Should your team have a proper way of dealing with boosting sweepers, Clefable may forgo Unaware in exchange for Magic Guard. Due to its immunity to all forms of passive damage, Magic Guard Clefable makes for a much more efficient Wish passer. Magic Guard also gives Clefable more flexibility in its moveslots, as it can now run Soft-Boiled for recovery, giving it an extra moveslot to support its teammates with or utilize a coverage move such as Flamethrower. Do note, however, that the entire allure towards using defensive Clefable is to remove the threat of setup sweepers; you'll find that by forgoing Unaware, not only does Clefable lose the ability to counter Pokemon it's supposed to, but its sheer passiveness allows a multitude of bulky threats to set up on it.
-
-A specially defensive spread is a viable alternative, as it allows Clefable to hard counter all variants of Nasty Plot Thundurus and Tail Glow Manaphy while still having enough bulk to comfortably wall the likes of Conkeldurr and better deal with Keldeo and Sludge Wave-less Landorus. The only issue with such a spread is that Clefable struggles to tank physical attacks, thus reducing the overall pool of Pokemon it normally beats. In particular, Garchomp's Earthquake and Latios's Psyshock will do a sizable chunk, so much so that Clefable should only switch in with the utmost prudence.
-
-Usage Tips
-========
-
-Defensive Clefable best fits on balanced or stall teams in need of cleric and/or Wish support. Clefable's ability to check or counter the likes of Garchomp, Manaphy, Thundurus, Swords Dance Talonflame, Mega Tyranitar, Azumarill, Kyurem-B, Dragonite, Latios, Conkeldurr, Terrakion, Suicune, and Breloom, as well as soft check many other setup sweepers courtesy of its defensive typing and Unaware, makes it invaluable on these sorts of teams. Clefable is best brought out to check the above threats, and may be done so at nearly any moment of the match.
-
-When up against offensive teams, Clefable is able to force many switches; as such, this is the best time to fire off a Thunder Wave to cripple the opposing switch-in or lay Stealth Rock on the field. Keep in mind that if Clefable's health is around 50% upon switching into a certain threat, then it's better to simply recover at that moment so that Clefable can continue to check the Pokemon in question. Also, due to its low PP, Heal Bell is to be used sparingly, especially when up against opposing stall teams where the cleric's role is invaluable in winning the status war. It's good to keep in mind, however, that unlike Heal Bell, it's advisable for Clefable to use Protect to scout for certain coverage options such as Iron Head from Kyurem-B, or accumulate Leftovers recovery in order to avoid a possible 2HKO from Terrakion's Life Orb-boosted Stone Edge, among other attacks.
-
-Team Options
-========
-
-In terms of defensive partners, Clefable works quite well with the following: Mega Venusaur, Quagsire, Hippowdon, and Landorus-T. Clefable provides Heal Bell support to all four, which is much appreciated given that the above Pokemon detest burns; in return, Quagsire, Landorus-T, and Hippodown help check Steel-types such as Heatran, Excadrill, Mega Scizor, and Bisharp, whereas Mega Venusaur easily deals with Keldeo and some of the previously mentioned Steel-types.
-
-More offensively inclined partners include Mega Medicham, Mega Gyarados, and Conkeldurr. Due to Clefable's vulnerability to Steel-types, and to a lesser extent, Poison-types, the above Pokemon are useful in more ways than one. Mega Medicham easily destroys any Steel-type with its STAB-boosted High Jump Kick and slaughters Mega Venusaur with Zen Headbutt. Just like Mega Medicham, Conkeldurr also helps deal with Steel-types, but it also takes down Gengar thanks to its meaty defenses and Guts ability, which allow it to easily tank a Shadow Ball and take advantage of Will-O-Wisp. Lastly, Mega Gyarados forces out many of Clefable's checks and proceeds to set up afterwards. It goes without saying that Clefable can also aid the Pokemon in question; for instance, Clefable provides cleric support for the former two and Wish support to all three, all the while keeping Latios in line for Conkeldurr and Mega Medicham as well as Thundurus for Mega Gyarados.
-
-Stealth Rock
-########
-name: Stealth Rock
+name: Stealth Rock Setter
 move 1: Stealth Rock
 move 2: Moonblast
-move 3: Fire Blast
+move 3: Thunder Wave / Fire Blast
 move 4: Soft-Boiled
 ability: Magic Guard
 item: Leftovers
-evs: 252 HP / 160 Def / 96 SpD
+evs: 252 HP / 172 Def / 84 SpD
 nature: Calm
 
 Moves
 ========
 
-Stealth Rock is a great move on Clefable, as it can get rid of most Defoggers and Rapid Spin users with the combination of Moonblast and Fire Blast; Clefable also has naturally good bulk and a great defensive typing, allowing it to switch into most entry hazard removers, force them out, and set up Stealth Rock again. Moonblast is a STAB move that deals decent amounts of damage. Fire Blast provides necessary coverage for Clefable, as it can OHKO Mega Scizor after Stealth Rock; it also 2HKOes Ferrothorn. Skarmory is also 2HKOed by Fire Blast and is thus prevented from being able to Defog against Clefable, which is very important, and can nail Excadrill switch-ins attempting to spin away Stealth Rock. Flamethrower is an option over Fire Blast due to its higher accuracy and PP, but the loss in power is very noticeable, and it won't be able to achieve the KOs noted above. Soft-Boiled provides reliable recovery, which is great for Clefable as it can't be worn down by status and can tank most hits. Thunder Wave is also an option over Fire Blast to cripple faster threats such as Choice Scarf users, but it is not usually worth the slot, as Fire Blast is simply too important.
+Clefable is one of the best Stealth Rock users, as it can get past most Rapid Spin and Defog users bar Tentacruel and Excadrill. Stealth Rock is a great support move, punishing switches and deterring Fire-type Pokemon such as Talonflame from switching in and checking Clefable. Moonblast is the main STAB move and deals with the plethora of Dark-, Dragon-, and Fighting-types in the tier. Thunder Wave is an excellent utility move, crippling switch-ins such as Gengar, Mega Metagross, and Mega Charizard X and Y by slowing them down. Fire Blast is an option over Thunder Wave; it allows Clefable to muscle past Steel-types and a few Defoggers and spinners such as Skarmory and Excadrill. It is chosen over Flamethrower for the increased damage output as well as its ability to OHKO non-Mega Scizor 100% of the time. Lastly, Soft-Boiled is compulsory, keeping Clefable healthy to be able to set up Stealth Rock when needed throughout the match.
+Knock Off is a viable option as well, removing items from switch-ins such as Tentacruel and Heatran, leaving them crippled for the rest of the game. Healing Wish is another viable move, that basically gives one of Clefable's teammates a second life at the cost of Clefable sacrificing itself.
 
 Set Details
 ========
 
-With a Calm nature and the given EVs, Clefable can avoid the 2HKO Thundurus's Life Orb-boosted Thunderbolt and Latios's Psyshock (most of the time). The Defense EVs also help Clefable avoid the 2HKO from Mega Gyarados's Waterfall after Leftovers recovery. This is why Leftovers is important, as with it, Clefable can survive attacks that would otherwise 2HKO it and heal with Soft-Boiled after being hit twice.
-
-Magic Guard is the chosen ability for two main reasons. Firstly, it allows Clefable to switch in many times and avoid taking damage from entry hazards. Secondly, it prevents Clefable from being worn down by status, which forces opponents to rely on using direct attacks to damage Clefable; a difficult task due to Clefable's high defenses.
+Leftovers increases Clefable's longevity and allows it to check many Pokemon much better by reaching defensive benchmarks that, without Leftovers, are unachievable. Maximum HP investment gives Clefable as much as bulk as possible, and the given Special Defense investment in tandem with a Calm nature allows Clefable to avoid the 2HKO from Mild Life Orb Kyurem-B's Ice Beam, Thundurus's Thunderbolt, Mega Diancie's Moonblast, and Mega Manectric's Thunderbolt. 172 Defense EVs allow Clefable to avoid the 2HKO from Jolly Mega Lopunny's Return, Latios's Psyshock, and Jolly Mega Gyarados's Waterfall as well as the OHKO from Choice Band Scizor's Bullet Punch. Magic Guard prevents Clefable from being worn down by status and continual switches with entry hazards on the field.
 
 Usage Tips
 ========
 
-Clefable doesn't necessarily have to be used as a lead. Clefable has the bulk, ability, and defensive typing to pivot in whenever possible and set up Stealth Rock, granted that it isn't on a super effective hit. As Clefable also beats every entry hazard remover other than Excadrill one-on-one, it can force them to switch out, giving itself a turn to set up Stealth Rock. Clefable doesn't only force switches against hazard removers, however. Clefable can force switches against Pokemon such as Conkeldurr and Choice-locked Dragon-types as well, and then set up Stealth Rock on the switch. If Stealth Rock is already up, Clefable can still take advantage of a predicted switch and heal up with Soft-Boiled. Because of Magic Guard, Clefable can also switch into Toxic, Will-O-Wisp, Lava Plume, and Scald, as it will not take poison or burn damage and would rather not be paralyzed or put to sleep.
+Due to Clefable's decent bulk, it can pivot into non-threatening Pokemon such as Mega Lopunny and Rotom-W and proceed to set up Stealth Rock, but be careful not to overestimate Clefable's bulk. Try to set up Stealth Rock as early as possible because any chip damage on the foe is appreciated; however, keep in mind that Clefable does not need to be a lead, as it can set up Stealth Rock during the middle of the game as well. Nevertheless, it does have a decent matchup against select leads and anti-leads such as Garchomp and Mega Sableye. Clefable can also force switches against Pokemon such as Conkeldurr and Keldeo and proceed to set up Stealth Rock by virtue of its typing and bulk. Use various coverage moves to ward away Rapid Spinners and Defoggers such as Excadrill and Mandibuzz from getting rid of the Stealth Rock on the field. Use Soft-Boiled to ensure Clefable stays healthy throughout the match and also to make sure that Clefable continually set Stealth Rocks if needed be.
 
 Team Options
 ========
 
-Clefable fits well on most teams due to its good defensive typing and good bulk. However, most teams weak to Fighting- and Dragon-type Pokemon that don't already have a Stealth Rock setter especially appreciate Clefable as a team member. Slower Dragon-types such as Dragonite and Kyurem-B appreciate Clefable as a teammate as it can pivot into Dragon-type moves. Skarmory is a great partner as it beats Excadrill, the only entry hazard remover Clefable can't beat, as well as Pinsir and Azumarill, which would otherwise take Clefable down offensively. Rotom-W gets rid of Talonflame, which 2HKOes Clefable with Brave Bird. Tyranitar, Choice Scarf Terrakion, Choice Scarf Garchomp, Quagsire, and Slowbro are all great partners as they get rid of Mega Charizard X, which uses Clefable as setup fodder. Specially defensive Gliscor can come in on Heatran, which walls Clefable, and OHKO it with Earthquake. Lastly, Mega Gyarados is also a good partner, as Clefable can lure out Ferrothorn and smack it with a Fire Blast.
+Heatran has great defensive synergy with Clefable, dealing with the Poison-types, such as Mega Venusaur and Amoonguss, that Clefable struggles with as well as select Steel-types such as Scizor and Ferrothorn. It also provides Taunt support to stop the opponent from getting rid of Clefable's Stealth Rock. Pokemon that enjoy having Stealth Rock on the opponent's side of the field are good partners for Clefable; an example is Mega Alakazam, which needs Stealth Rock up to secure certain KOs such as with Shadow Ball on Latios. In addition, Rotom-W and Tyranitar are good partners that can deal with most Fire-types such as Talonflame and Heatran, which all check Clefable. Latios beats Tentacruel, one of the the only spinners that Clefable fails to beat, as well as luring in and KOing Steel-types such as Heatran and Excadrill with Earthquake. Latios also appreciates Clefable's ability to deal with most Dragon-, Dark-, and Ice-types such as Dragonite, Tyranitar, and Weavile, which it would otherwise struggle against.
+
+Unaware Wall
+########
+name: Unaware Wall
+move 1: Moonblast
+move 2: Heal Bell / Flamethrower
+move 3: Wish
+move 4: Protect
+ability: Unaware
+item: Leftovers
+evs: 248 HP / 252 Def / 8 SpD
+nature: Bold
+
+Moves
+========
+
+Moonblast is the main STAB move that Clefable uses to deal damage and to not be completely shut down by Taunt. Heal Bell lets Clefable utilize its good defenses to become a supportive cleric, as well as clearing itself of any status because without Magic Guard, it is quite susceptible to poison and burn. Wish provides reliable recovery for Clefable and its team and is used over Soft-Boiled, as Soft-Boiled is illegal with Unaware. Protect is great for safely receiving Wish healing and for scouting. Flamethrower is an alternate option for the second moveslot that deals with various Steel-types such as Scizor and Excadrill on the switch.
+
+However, if the team already has a dedicated cleric, alternate options can be run in the Heal Bell moveslot. Thunder Wave is a great utility move, crippling switch-ins such as Scizor, Talonflame and Heatran. Moonlight is an alternate way of healing, and it takes up only one moveslot as compared to Wish + Protect's two. However, Moonlight has fewer PP and is less reliable, due to healing a less amount in weather conditions such as sand and rain, and it also does not heal Clefable's teammates. Stealth Rock is a good support move candidate for the last moveslot to punish switches. Knock Off can also be used to cripple switch-ins such as Gengar and Heatran by removing their item.
+
+Set Details
+========
+
+The 248 HP investment minimizes entry hazard damage as well as any residual damage from status or sand. Maximum Defense investment allows Clefable to check a variety of physical attackers such as Mega Pinsir, Landorus-T, and Breloom; alternatively, Special Defense investment can be used instead to check special attackers or setup sweepers such as Mega Manectric and Manaphy. Leftovers gives Clefable passive healing. Unaware is Clefable's chosen ability to ignore any boosts the opponent's Pokemon has accumulated, making Clefable a good defensive wall. It is to be noted that even if Knock Off is run, Clefable should still use a Bold nature, because Knock Off is not meant to do damage but instead is used to remove the foes' items.
+
+Usage Tips
+========
+
+Unaware Clefable is a great fit on balanced and stall teams that need a check to powerful setup sweepers or a cleric with Wish support. Do not overestimate Clefable's bulk; it cannot repeatedly check sweepers such as Mega Charizard X or take powerful hits such as Crawdaunt's Crabhammer. Remember to keep Clefable healthy so that it can check many threats later on, as losing Clefable can be detrimental. Pivot Clefable in on weaker hits such as Heatran's Lava Plume, and take advantage of the switches Clefable forces to use support moves such as Heal Bell or Wish.
+
+Team Options
+========
+
+Getting rid of Steel-types such as Scizor and Excadrill is extremely beneficial to Clefable; Magnezone can trap and KO Steel-types effectively with Hidden Power Fire, as can various lures such as Hidden Power Fire or Earthquake Latios and Apicot Berry Jirachi. Heatran is a great partner, having great offensive and defensive synergy with Clefable, and deals with Steel-, Fire-, and Poison-types that check Clefable. Heatran also benefits from Wish support, as it does not have any reliable recovery of its own. Pokemon such as Hippowdon and Quagsire that can check the Pokemon that Clefable struggle with such as Mega Charizard X, Talonflame, and Bisharp are great partners. Teammates that appreciate Clefable's ability to easily check foes such as Mega Pinsir, Mega Gallade, Mega Lopunny, and a multitude of Dragon-types are great partners; examples are Heatran and Latios.
+
+Unaware + Calm Mind
+########
+name: Unaware + Calm Mind
+move 1: Calm Mind
+move 2: Moonblast
+move 3: Moonlight / Wish
+move 4: Heal Bell / Protect / Flamethrower
+ability: Unaware
+item: Leftovers
+evs: 248 HP / 252 Def / 8 SpD
+nature: Bold
+
+Moves
+========
+
+Due to Unaware, Clefable can set up Calm Mind on setup sweepers such as Garchomp , which it cannot do with Magic Guard. Moonblast is the obligatory STAB move, providing great coverage against a multitude of Fighting-, Dark-, and Dragon-types. Moonlight is used over Wish, as it frees up a moveslot and Soft-Boiled is incompatible with Unaware; however, Moonlight has fewer PP and is less effective under most weather conditions, which is a major drawback. Wish and Protect can be opted for in place of Moonlight, providing more reliable recovery than Moonlight, the ability to heal teammates, and the ability to scout. However, Wish + Protect takes up two moveslots, which is quite detrimental given that Clefable really enjoys having Heal Bell or another coverage move. Heal Bell clears Clefable and its team of status, as without Magic Guard, Clefable is easily worn down by status such as burn or Toxic. Finally, Flamethrower deals with Steel-types such as Scizor, Skarmory, and Ferrothorn, which take Moonblast easily.
+
+Set Details
+========
+
+The 248 HP investment minimizes residual damage, including from status and entry hazards. Maximum Defense investment is used so that Clefable can use physical setup sweepers, such as Garchomp, as setup fodder; however, Special Defense investment can be used instead to set up on special sweepers such as Quiver Dance Volcarona, Nasty Plot Thundurus, and Tail Glow Manaphy more easily. Leftovers gives Clefable gradual recovery to set up Calm Mind more easily. Unaware allows Clefable to boost in the face of setup sweepers, a perk it has over Magic Guard.
+Alternatively, an EV spread of 248 HP / 248 Def / 12 Spe can be used to allow Clefable to outspeed minimum Speed Tyranitar. More Speed can also be run to outrun Pokemon such as Azumarill, Sylveon, and Skarmory.
+
+Usage Tips
+========
+
+Clefable fits in on more defensively oriented teams in need of Wish or cleric support or on balanced teams needing a solid check for setup sweepers. Clefable can easily pivot into a multitude of threats such as Mega Lopunny and Mega Gallade, and it can utilize the switches caused to set up Calm Mind. However, though solid, Clefable's bulk should not be overestimated; do not repeatedly throw Clefable into powerful attacks. Be careful with Moonlight's PP, as Clefable is often dead weight and useless without recovery. With Unaware, Clefable can win Calm Mind wars easily against opposing Gothitelle, Magic Guard Clefable, Slowbro, and Manaphy.
+
+Team Options
+========
+
+Getting rid of Steel-, Poison-, and Fire-types is beneficial to Clefable; specially defensive Gliscor and Heatran are good teammates in this respect, as they can take on a variety of Poison-types, including Mega Venusaur, Dragalge, Gengar, and Tentacruel. Tyranitar and Thunder Wave Rotom-W check Talonflame and Mega Charizard X at the same time with ease, both Pokemon Clefable struggles with tremendously. Conkeldurr, Mega Gallade, and Mega Lopunny check Steel-types for Clefable; Conkeldurr easily deals with Heatran, Ferrothorn, and Empoleon, taking advantage of burns because of Guts, as well as a few Poison-types such as Gengar because of its high defenses combined with an Assault Vest. Similarly, Mega Gallade deals with Steel-types such as Heatran and Ferrothorn, as well as Poison-types such as Mega Venusaur and Tentacruel, while Mega Lopunny smashes Steel-types, Gengar, and Mega Charizard Y.
+
+Tank-Fable
+########
+name: Tank-Fable
+move 1: Moonblast
+move 2: Fire Blast
+move 3: Soft-Boiled
+move 4: Focus Blast / Thunderbolt / Ice Beam
+ability: Magic Guard
+item: Life Orb
+evs: 252 HP / 252 SpA / 4 SpD
+nature: Modest
+
+Moves
+========
+
+Moonblast is Clefable's main STAB move and hits quite hard with a Life Orb, dealing with the plethora of Fighting-, Dark-, and Dragon-types in the tier, such as Mega Lopunny, Tyranitar, and Garchomp. Fire Blast allows Clefable to get past Steel-types such as Scizor and Ferrothorn, which can shrug off Moonblast easily; however, Flamethrower is an option for more reliability in terms of accuracy. Soft-Boiled lets Clefable stay healthy so that it can consistently tank hits and dish out powerful hits of its own. Focus Blast allows Clefable to 2HKO Heatran and Empoleon, which otherwise wall Clefable utterly. Thunderbolt , similarly, 2HKOes stallbreaker Talonflame and Mega Charizard Y. Lastly, Ice Beam OHKOes specially defensive Gliscor as well as both Landorus formes. Psyshock can also be considered, as it deals with Poison-types such as Amoonguss, Mega Venusaur, and Tentacruel, as well as dealing more damage to Chansey.
+
+Set Details
+========
+
+Maximum HP investment lets Clefable comfortably tank hits, and maximum Special Attack investment allows Clefable to hit as hard as possible. Magic Guard prevents Clefable from being worn down by status and entry hazards so it can switch in numerous times without requiring Rapid Spin or Defog support. A Life Orb capitalizes on Magic Guard, increasing Clefable's damage output significantly without inflicting recoil.
+Lastly, Speed investment can be run to outspeed threats such as Tyranitar and Sylveon. An additional 12 EVs in Speed allow Clefable to outspeed uninvested Tyranitar, while 16 EVs will creep Sylveon.
+
+Usage Tips
+========
+
+Clefable can easily pivot into Pokemon such as Mega Sceptile and Mega Lopunny and dish out powerful hits immediately. Due to Magic Guard, Clefable can also pivot easily into walls that typically rely on status, such as Chansey, Seismitoad, and Alomomola. However, because this set does not run any Defense or Special Defense investment, keep in mind that Clefable is not particularly bulky and thus cannot be thrown into numerous attacks. Use Soft-Boiled on predicted switches, so as to not lose momentum. If using moves such as Thunderbolt, Ice Beam, and Psyshock to deal with the Pokemon Clefable lures in, one must pretend to not have these moves early-game and strike only when the opponent's guard is down.
+
+Team Options
+========
+
+Because Clefable has various coverage moves in its arsenal, Pokemon that appreciate various threats Pokemon lured in and KOed are ideal partners. Mega Pidgeot and Volcarona appreciate Clefable's ability to lure in Empoleon and Heatran and 2HKO them with Focus Blast, while Fighting-, Grass-, and Bug-types such as Mega Lopunny, Serperior, and Scizor value Clefable's ability to lure in and 2HKO stallbreaker Talonflame with Thunderbolt. In addition, Clefable can lure in opposing Gliscor and Landorus and OHKO them with Ice Beam, making Gengar and Landorus not running Hidden Power Ice great partners. Lastly, Mega Lopunny and Mega Manectric appreciate Clefable's ability to weaken Mega Venusaur and Amoonguss with Psyshock. Pivots such as Tornadus-T and Rotom-W can bring in Clefable easily with VoltTurn support so that it can come in without taking unnecessary damage.
 
 Other Options
 ########
 
-Clefable has a slew of other supportive and disruptive tactics, including Encore, Healing Wish, Trick + Flame Orb, Magic Coat, Counter, and Cosmic Power. Encore works effectively with Magic Guard variants by halting boosting sweepers, and it is also useful for locking slower entry hazard setters into one move. However, Clefable should best stick to Unaware if it wants to combat boosting sweepers, and outside of the previously mentioned applications, Encore has limited use. Healing Wish can be a game-changing move on more offensively based teams by restoring the health of an injured sweeper, although sacrificing Clefable is generally imprudent given its vital role as a team player. Trick + Flame Orb in tandem with Magic Guard is a great way to cripple many of Clefable's common switch-ins such as Bisharp, Excadrill, and Scizor, among others. Another way Clefable can become even more of an annoyance is with Magic Coat, as it deflects entry hazards and gives faster Taunt users a taste of their own medicine. Counter also finds use by getting a surprise KO on physical attackers that want to try their luck with Clefable, but this option is an immediate giveaway and subsequent waste if used carelessly. Cosmic Power may be used on the Calm Mind sets to ease set up, but lacks any other use outside of that. Keep in mind that sets geared towards accumulating multiple Cosmic Power boosts in tandem with Stored Power are a complete waste of Clefable's potential.
+On the Calm Mind + Magic Guard set, various other coverage moves such as Ice Beam and Thunderbolt can be used to deal with Clefable's checks, such as Gliscor and Talonflame. Dual screens is an option to provide invaluable support to various sweepers on offensive builds, but dedicated screeners such as Azelf and Klefki outperform Clefable in this role. Knock Off is a great utility move to cripple switch-ins such as Gengar and Talonflame. Rain Dance is a good support option to replenish rain on weather teams, as well as checking Fire-type switch-ins such as Talonflame, Victini, and Mega Charizard Y. Encore locks setup sweepers and status inducers into only one move, allowing easy setup or switch opportunities for Clefable. Stored Power is a good option as well to stallbreak much more effectively and efficiently; at +6, Clefable 2HKOes Chansey and slaughters various Steel-, Fire-, and Poison-types such as Heatran, Talonflame, and Mega Venusaur, all of which it fails to do with Moonblast. Heal Bell on the Stealth Rock set is also an option, clearing teammates of the crippling effects of status. Lastly, it is to be highlighted that Cosmic Power is a really bad move for Clefable; it takes many turns to set up and to do damage, and even if Clefable does manage to get to +6, a non-STAB Stored Power still hits like a wet bag, not to mention Clefable is prone to being struck by a critical hit and knocked out.
 
-In regard to more offensive options, Clefable's vast offensive movepool includes Focus Blast, Charge Beam, Ice Beam, Seismic Toss, and Knock Off. Focus Blast may be used over Flamethrower on the Calm Mind sets to break past Heatran, but its low PP and unappealing accuracy might be a turnoff. Charge Beam may also be used to simultaneously attack and potentially bestow Clefable with a Special Attack boost, but it is laughably weak. Ice Beam works effectively by destroying Gliscor, Zapdos, and Landorus-T, but it has limited use outside of that. Seismic Toss is an option on the defensive sets for a consistent damaging move. Lastly, Knock Off's disruptive shenanigans work well in crippling many of Clefable's opponents, but again, it is quite weak.
 
 Checks & Counters
 ########
 
-**Bulky Taunt Users**: In order to take Clefable down, Taunt users that naturally outspeed it are necessary to both keep Clefable from supporting its teammates and grabbing multiple Calm Mind boosts. Heatran, Mew, and specially defensive Talonflame easily come in on just about every one of Clefable's attacks; prevent it from boosting, spreading status, or recovering via Taunt, recover off any damage they might have attained upon switching in, then slowly but surely wear Clefable down with their own attacks. However, the latter three are instantaneously crippled by an incoming Toxic on the switch, though the only thing that stops Taunt Heatran from countering Clefable is a surprise coverage move specifically aimed to beat it.
+**Fire-types**: Fire-types such as Talonflame, Victini, and Heatran can take Moonblast and Flamethrower easily, and they can threaten Clefable with strong Fire-type STAB attacks in return. Talonflame can shut down Clefable with Taunt, set up on it with Swords Dance, and retaliate with Brave Bird. Similarly, Victini can hit back with an extremely powerful V-create. Heatran deserves a special mention as well, as it 4x resists Moonblast and is immune to Flamethrower; in return, it can deal lots of damage to Clefable with Flash Cannon, wear down its Unaware set with Toxic, or phaze it with Roar. However, Heatran is susceptible to Focus Blast and Thunder Wave.
 
-**Poison-types**: Clefable's most notable check is Mega Venusaur, as it easily switches in on all of Clefable's standard attacks and 2HKOes it with Sludge Bomb; however, Clefable can muscle through it with the Calm Mind set. Other checks are Amoonguss, Gengar, and Scolipede. Amoonguss only has to watch out for a Life Orb-boosted Fire Blast; otherwise, it's a solid check to Clefable for reasons similar to Mega Venusaur, but in contrast, it does not lose to the Calm Mind sets because of Clear Smog. In the case of Gengar and Scolipede, neither of them enjoy switching in on a Fire-type move, but should they get in safely, they can easily destroy Clefable with their STAB-boosted Poison-type attacks.
+**Steel-types**: Fast and powerful Steel-types such as Scizor, Mega Metagross, and Magnezone can all come in on a predicted Moonblast and threaten Clefable with their respective STAB moves; Scizor and Mega Scizor deal a hefty chunk to Clefable with Bullet Punch, but they get OHKOed by a +1 Flamethrower; Mega Metagross easily comes in on a Moonblast or a Calm Mind and straight up OHKOes Clefable with Meteor Mash; and Choice Scarf Magnezone can switch into Moonblast or Thunder Wave and 2HKO Clefable with Flash Cannon. Bulky Steel-types such as Empoleon are big problems for Clefable as well; Empoleon can phaze Clefable out with Roar and wear it down with Scald.
 
-**Steel-types**: Just about every offensive Steel-type checks Clefable fairly well by virtue of their natural type advantage and brute strength. These Pokemon include Bisharp, Mega Scizor, and Excadrill. However, it is precautionary that all these avoid directly switching in on Clefable, as it frequently carries a Fire-type move that 3HKOes them at the very least or, as in a few cases, OHKOes them at a moment's notice.
+**Poison-types**: Poison-types such as Gengar, Mega Venusaur, and Tentacruel check Clefable relatively well. Gengar OHKOes Clefable with Sludge Wave and can switch into any move bar Thunder Wave and Stored Power; Mega Venusaur can heal off any damage sustained, has Thick Fat to ward off Flamethrower and Ice Beam, and can 2HKO Clefable with Sludge Bomb; and Tentacruel can wear Clefable down with Acid Spray and Scald and is not crippled much by Thunder Wave.
+
+**Trappers**: Trappers such as Gothitelle and Wobbuffet can really cripple Clefable. Gothitelle can Trick its Choice Scarf or Choice Specs onto Clefable, thus locking it into one move, use Clefable as setup fodder with its own Calm Mind, heal off any damage sustained with Rest, and take out Clefable with Psychic or Psyshock. Wobbuffet can Encore Clefable into one move, allowing easy predictions or switches, and use Mirror Coat to reflect Moonblast.
+
+**Stallbreakers**: Stallbreakers such as Gengar, Gliscor, Mew, and Heatran can stop Clefable from setting up Calm Mind. They also prevent Clefable from using a recovery move with Taunt or have the bulk to use Clefable as setup bait. Specially defensive Gliscor can take any hit from Clefable bar Ice Beam, use Swords Dance to set up, heal off any damage with Roost, and cripple Clefable with Knock Off and Earthquake. Gengar, Heatran, and Mew can use Taunt to deny Clefable's recovery and use of Calm Mind; however, the former two despise Thunder Wave. 

@@ -1,65 +1,126 @@
 Overview
 ########
 
-Rock Arceus carves itself a unique niche in Ubers by virtue of its typing and solid all-around base stats. Its resistances to both of Ho-Oh's STAB moves differentiate it from its counterparts as one of few quality checks to the phoenix. In addition to hitting Ho-Oh, Yveltal, and Rayquaza super effectively, Rock is a good offensive typing that gets excellent neutral coverage within the tier, thus freeing up moveslots for Rock Arceus to support itself and its teammates with moves such as Will-O-Wisp and Defog. Unfortunately, weaknesses to common and potent offensive types such as Water, Ground, and Fighting render it vulnerable to many prominent offensive threats. Overall, Rock Arceus provides very specialized team support, even if it requires plenty of support itself.
+Rock typing allows Rock Arceus to carve out a niche in the Ubers tier as one of the most solid switch-ins to Ho-Oh available. In addition, this typing grants Rock Arceus the capability to check some other relevant threats such as Yveltal, Mega Salamence, and Rayquaza. Rock is an offensive type that is quite solid and is not hampered by type immunities, while on the defensive end it has both key resistances to Flying- and Normal-types. All Arceus formes have bulky defensive stats thanks to base 120 HP, Defense, and Special Defense, as well as access to an effective support movepool in the form of instant recovery, status, and Defog. The metagame's loss of focus on Kyogre and Palkia when compared to XY helped Rock Arceus's viability significantly, as they greatly threaten any set. Despite the useful resistances given by pure Rock typing, however, it has exploitable weaknesses to common Ground- and Steel-types. Furthermore, the increased use of Ground-type coverage moves in ORAS negatively impacts Rock Arceus, with Pokemon such as Rayquaza now running Earthquake. Although the Calm Mind set rectifies Rock Arceus's lack of offensive presence to an extent, it is still a passive Pokemon that can be destroyed by some stallbreakers and users of Shadow Tag. Lastly, there is an inherent opportunity cost associated with using an Arceus forme, as it means that your team cannot run a potentially better Arceus.
 
-Support
+
+
+Bird Antidote
 ########
-name: Support
-move 1: Judgment
-move 2: Defog
+name: Bird Antidote
+move 1: Defog
+move 2: Will-O-Wisp
 move 3: Recover
-move 4: Will-O-Wisp
+move 4: Judgment
 item: Stone Plate
-evs: 252 HP / 4 SpA / 252 Spe
+ability: Multitype
+evs: 248 HP / 8 SpA / 252 Spe
 nature: Timid
+
 
 Moves
 ========
 
-Judgment is a powerful, reliable STAB move, striking down the tier's Flying-types and hitting neutral targets quite hard. Defog wipes entry hazards from the field; Rock Arceus is an effective user of the move as it can utilize its Speed and typing to find free turns to use it. Recover replenishes Rock Arceus's health, ensuring it does not get whittled down by attacks over the course of the match. Will-O-Wisp cripples physical attackers, notably helping with Rock Arceus's Ground- and Steel-type weaknesses.
+Rock typing, along with solid base 120 HP, Defense, and Special Defense, allows Rock Arceus to function as a user of Defog. This is reinforced by its base 120 Speed, which makes it difficult to Taunt. Will-O-Wisp is used to burn the Steel- and Ground-types that typically come in against Rock Arceus, and also allows it to neuter Extreme Killer Arceus. Recover gives Rock Arceus the ability to last for the duration of a match, which is important for ensuring that your side remains free of entry hazards. Judgment is Rock Arceus's best attacking move for this set, allowing it to OHKO Ho-Oh, Rayquaza, and Mega Salamence while taking advantage of Rock Arceus's STAB type and the 1.2x damage bonus from Stone Plate.
+
 
 Set Details
 ========
 
-An EV spread of 252 HP / 4 SpA / 252 Spe with a Timid nature makes good use of Rock Arceus's excellent natural bulk while giving it its best odds against Extreme Killer Arceus; Jolly 252 Speed variants risk losing a Speed tie and getting burned by Will-O-Wisp, while anything slower is outsped. Another viable EV spread is 252 HP / 64 Def / 192 Spe. 192 Speed EVs with a Timid nature allow Rock Arceus to outspeed and OHKO Thundurus with Judgment. Notably, Gengar is also outsped before it Mega Evolves. 252 EVs are used to maximize HP, and the remaining 64 EVs are placed in Defense to give Rock Arceus a small buffer against physical attackers such as Ho-Oh and Zekrom.
+A Stone Plate is necessary to determine Arceus's type and further boosts the power of Judgment. 252 Speed EVs with a Timid nature allow Rock Arceus to outspeed a large chunk of the Ubers tier and Speed tie with other maximum Speed Arceus and Mega Salamence. 248 HP EVs help Rock Arceus stomach powerful attacks from the Pokemon it intends to check, such as avoiding the OHKO from +1 Mega Salamence's Earthquake. The remaining 8 EVs go into Special Attack to guarantee the OHKO on standard Dragon Dance Mega Salamence. An alternate spread of 248 HP / 164 Def / 96 Spe with a Timid nature gives up some Speed to be more physically bulky, while still beating maximum base 100 Speed Pokemon.
+
 
 Usage Tips
 ========
 
-This set has a 94% chance of OHKOing 248 HP / 0 SpD Ho-Oh with Judgment while resisting both of its STAB moves. It goes without saying, then, that this set's primary aim is to check Ho-Oh, if you see it in Team Preview. It is important to scout what Ho-Oh set the opponent is using early on in the game and proceed to play around it accordingly. Leftovers variants are generally safe to switch into, as their damage output is relatively lower: 0 Atk Ho-Oh's Brave Bird does a mere 16-18% damage to Rock Arceus. Just note that Toxic is a viable, albeit uncommon move on these Ho-Oh variants. However, Life Orb and Choice Band Ho-Oh are progressively harder to switch into; a Life Orb-boosted Brave Bird caps out at 32% damage and a Choice Band-boosted one at 36%. Therefore, it is wise to be liberal in your usage of Recover after switching into more offensive variants of Ho-Oh. Also, bear in mind that once Rock Arceus is revealed, Ho-Oh will actively attempt to burn it with Sacred Fire on the switch-in, and a burned Rock Arceus is worn down more quickly as it takes an additional 12.5% residual damage every turn. Your main priority should be keeping Rock Arceus as healthy as possible so it can effectively check and dispatch Ho-Oh when the need arises, especially later in the game.
+In general, support Arceus formes dislike burns and poison, as the passive damage forces increased use of Recover; Pokemon immune to either of these statuses can be used to pivot from Rock Arceus. One of the main draws of using Rock Arceus, however, is the fact that it is a Ho-Oh check, which inevitably leads to burns from Sacred Fire. When burned, Rock Arceus can still escape the 2HKO from any of Ho-Oh's moves other than a Choice Banded Earthquake, and it can function as a status sponge until a time when it is advantageous for a cleric to remove the burn. A standard Choice Banded Ho-Oh Earthquake deals a minimum of 68%, meaning that switching Rock Arceus into a Choice Band Ho-Oh at this percent or less can mean that it will be KOed. Even though Choice Band Ho-Oh 2HKOes Rock Arceus with Earthquake, this is not an issue so long as Rock Arceus is above this percentage, because it is faster than Ho-Oh and can OHKO it with Judgment.
 
-Keep in mind that offensive variants of Ho-Oh often carry Earthquake as a coverage move. A Life Orb-boosted Earthquake does 60-71% damage to Rock Arceus and a Choice Band-boosted one does 70-82%, meaning Rock Arceus cannot switch in on one of these at all. After revealing Rock Arceus by switching into Ho-Oh initially and discovering from its damage output that it is an offensive variant, you should be mindful that Ho-Oh will likely begin to use Earthquake in anticipation of future Rock Arceus switch-ins. A wise move from then on might be to switch to a Ground-resistant or immune teammate against Ho-Oh, or else a dispensable teammate that you can afford to sacrifice at worst. Rock Arceus will most probably be required to land a swift OHKO on Ho-Oh at some point later in the game, meaning that you cannot afford to lose it by hastily switching it in on a super effective coverage move.
+Rock Arceus can also switch into Yveltal granted it is not at a low HP percentage; however, the user of Rock Arceus must be wary of Yveltal that U-turn into Mega Gengar. This set can punish several common types of switch-ins; Will-O-Wisp can neuter physical Steel- and Ground-types that may be temped to switch in, while Judgment can deal respectable damage, whittlling down Pokemon such as Primal Groudon, offensive Kyogre, and Mega Blaziken. Even though Rock Arceus resists Extreme Speed, has Will-O-Wisp, and Speed ties with standard Extreme Killer Arceus, it is a very shaky check, as Extreme Killer Arceus typically runs Earthquake, which OHKOes Rock Arceus at +2. Lastly, when using any Arceus forme, it is often advantageous to keep the type hidden from your opponent.
 
-Possessing weaknesses to common types, Rock may be a poor defensive typing overall, but it does allow Rock Arceus to switch into attacks such as Yveltal's Oblivion Wing, Mega Kangaskhan's Return, and Rayquaza's V-create. Offensively, Rock is a great typing that gets excellent neutral coverage across the tier, while Pokemon resistant to it generally loathe getting burned, so be smart in your usage of Judgment and Will-O-Wisp to wear down Rock Arceus's switch-ins. Will-O-Wisp can also be used to check Extreme Killer Arceus and Ground-types in a pinch, although Rock Arceus should never be your primary option versus these threats. Defog should be used with discretion, as it allows opponents to either get in a free attack or switch into one of Rock Arceus's checks. This is particularly pertinent given Rock Arceus's vulnerability to many common attacks from the likes of Palkia, Groudon, and even its counterparts in Water and Grass Arceus.
 
 Team Options
 ========
 
-A dedicated Kyogre check is beneficial, making Palkia a great teammate. On more stall-oriented teams, Pokemon such as Gastrodon and specially defensive Kyogre are viable options. A Palkia check is also required, as unlike its support Arceus counterparts, Rock Arceus cannot deal with Palkia well at all. Fairy-types such as Xerneas and Sylveon are particularly notable as they double as clerics (see below). Stalltwo beats all Palkia variants one-on-one, while Rock Arceus helps it against Yveltal. Blissey is a prime Palkia check on defensive teams. A cleric is highly recommended to rid Rock Arceus of status conditions, notably Sacred Fire burns from Ho-Oh. This can prove particularly useful as Life Orb or Choice Band Ho-Oh can combine burn damage with Brave Bird or sun-boosted Sacred Fire to do well over 50% damage to Rock Arceus on the switch-in, pressuring it immensely. Shaymin-S is an interesting offensive teammate that benefits greatly from Rock Arceus checking Ho-Oh; in return, it deals with many of Rock Arceus's checks, such as Ground-types, non-Choice Scarf Kyogre, and Water and Grass Arceus. In the same vein, Mega Blaziken can decimate Steel- and Grass-types. Defensively, Fire-weak Pokemon such as Scizor and Ferrothorn enjoy Rock Arceus's support, but note that Mega Blaziken threatens such cores immensely. Ironically enough, Ho-Oh is a good partner as it checks Grass- and Steel-types brilliantly while Rock Arceus provides it with Defog support. However, it does compound a troubling weakness to Kyogre and Palkia. Giratina-O checks Ground- and Fighting-types and appreciates Rock Arceus checking Ho-Oh and Yveltal. On defensive builds, Lugia is a good teammate for the same reasons.
+Primal Groudon is a great partner for Rock Arceus due to its ability to check several threats such as Kyogre, Palkia, Dialga, Clefable, and Blissey. Both Latias and Latios are great checks to Kyogre, Palkia, and Primal Groudon and benefit from Rock Arceus's ability to check Yveltal. Mewtwo can offensively threaten several checks to Rock Arceus and break several passive checks to Rock Arceus such as Clefable and Blissey. A Pursuit trapper such as Mega Scizor appreciates Rock Arceus checking Ho-Oh and can be used to trap Mega Gengar and Gothitelle. Xerneas can function as a cleric to remove Sacred Fire burns from Rock Arceus and serves as a check to Palkia. Rock Arceus appreciates cleric support in general because of its dislike for Toxic and frequent burns from Sacred Fire; Clefable and Blissey can both provide this support while checking Palkia.
 
-Finally, it is worth highlighting that due to its poor defensive typing, Rock Arceus's usage over another Arceus forme should be well-justified. For example, Water Arceus and Electric Arceus are, on the whole, defensively sturdier fomes that can check many of the same threats as Rock Arceus, albeit not nearly as well or consistently.
+Despite creating a stacked Ground weakness, Dialga can set up Stealth Rock, which places further pressure on Ho-Oh when paired with Rock Arceus; Dialga can also check Calm Mind Arceus, Clefable, and Ferrothorn. Lugia greatly appreciates Rock Arceus checking Yveltal; in return, it checks Primal Groudon and offers a Ground immunity. Similarly, Giratina-O benefits from the check to Yveltal while providing a Ground immunity and check to Primal Groudon. Mega Sableye can provide a more solid check to Extreme Killer Arceus while also being able to check Mewtwo and deflect Toxic and Taunt for Rock Arceus. Kyogre can be used to wash away Ground-types that threaten Rock Arceus and benefits from entry hazard removal, although it does stack a weakness to some checks such as Palkia and Ferrothorn. Zekrom can outright destroy Kyogre and threaten Pokemon such as Mewtwo and Mega Gengar, while Steel-types benefit from Rock Arceus's check to Ho-Oh. Lastly, Shaymin-S can offensively check several of Rock Arceus's checks such as Kyogre and Ground-types, while benefiting from Rock Arceus's check to Ho-Oh.
+
+
+
+Calm Mind
+########
+name: Calm Mind
+move 1: Calm Mind
+move 2: Will-O-Wisp
+move 3: Recover
+move 4: Judgment
+item: Stone Plate
+ability: Multitype
+evs: 248 HP / 8 SpA / 252 Spe
+nature: Timid
+
+
+Moves
+========
+
+Calm Mind helps give Rock Arceus more of an offensive presence. While Rock Arceus still loses to several common Pokemon employed on stall teams, Rock is an offensive type that nothing is immune to, making it a solid choice as a user of Calm Mind. Will-O-Wisp neuters some Ground- and Steel-types that might attempt to break Rock Arceus as types are typically physical attackers. Recover not only gives Rock Arceus staying potential, but assists its endeavors to set up Calm Mind. Judgment is the most powerful special attack available to Rock Arceus; Rock is generally effective as an offensive typing.
+
+
+Set Details
+========
+
+A Stone Plate is mandatory or Arceus isn't Rock Arceus; it also makes Judgment hit a bit harder. 252 Speed EVs with a Timid nature allow Rock Arceus to beat relevant Pokemon with base 110 Speed and tie with opposing maximum Speed Arceus and Mega Salamence. 248 HP EVs are used to increase Rock Arceus's overall bulk, making it easier to set up Calm Mind and tank special attacks once set up. The remaining 8 EVs are used to slightly boost Special Attack.
+
+
+Usage Tips
+========
+
+Calm Mind Rock Arceus plays differently from other Calm Mind Arceus such as Dark Arceus. This set is used to pivot into Pokemon that Rock Arceus can check such as Ho-Oh, Yveltal, Rayquaza, and Mega Kangaskhan. From there, depending on what your opponent has, the set can be played offensively or defensively; offensively if your opponent's Calm Mind Arceus check is damaged or KOed, defensively if your opponent still has a healthy switch-in available. Because this set lacks the raw power or ability to circumvent some types of passive Pokemon, it is pointless to set up Calm Mind until these are removed or damaged enough to where you can blow through them.
+
+Will-O-Wisp is primarily used to prevent physical Ground- and Steel-types from being able to break you, so don't always switch out just because one of these types of threats comes in. Will-O-Wisp also has the utility to punish Pokemon that come in due to how Rock Arceus causes switches, so choose to Will-O-Wisp or attack with Judgment based on what you think your opponent will bring in. Status conditions, especially poison and burns, are a great threat to Calm Mind Arceus that lack Refresh or Substitute, so keep Rock Arceus away from these through use of status absorbers and / or cleric support. Never become too greedy with the use of Calm Mind; carefully boost only as necessary to break what you need to and Recover frequently so a surprise critical hit doesn't ruin what should have been a victory.
+
+
+Team Options
+========
+
+Primal Groudon is an excellent offensive choice that can break through many of Calm Mind Rock Arceus's checks such as Kyogre, Palkia, Dialga, Clefable, and Blissey. Latias and Latios can function as Defog support for a team while serving as checks to Kyogre and Palkia because this set forgoes running Defog; Latios and Latias further benefit from Rock Arceus's check to Yveltal. Xerneas is a great cleric option to keep Calm Mind Rock Arceus free of status; it can also break Palkia and appreciates the check to Ho-Oh. Mewtwo can shatter a wide variety of defensive checks to Calm Mind Rock Arceus and can even outspeed Gengar before it Mega Evolves, while Rock Arceus takes care of Yveltal.
+
+Dialga with appropriate coverage can beat Clefable and Ferrothorn, which are two common and effective checks to Calm Mind Arceus and Palkia. With its powerful Water-type moves, Kyogre can destroy the Ground-types that frequently threaten Rock Arceus. Zekrom is an offensive Pokemon that can threaten Kyogre and Mega Gengar for Rock Arceus while Giratina-O adds a handy immunity to Ground-type moves, benefits from the check to Yveltal, and can be used to fit Defog on the team. Most Steel-types greatly appreciate having a solid switch-in to Ho-Oh, as does Shaymin-S; Shaymin-S can also offensively check Kyogre and Ground-types. Lastly, anti-status support such as Mega Sableye can be helpful for deflecting Taunt and Toxic, while a cleric can remove status entirely.
+
 
 
 Other Options
 ########
 
-A Calm Mind all-out attacker with Fire Blast and Grass Knot as coverage moves is a viable, though niche set that is very hard to wall at +1 Special Attack. It is encouraged to use 252 Special Attack EVs with a Modest nature on such a set to maximize damage output, although a Timid nature can be used to outspeed Thundurus and Gengar. Recover can be used over Calm Mind on more balanced teams in order to preserve Rock Arceus's longevity. Secondly, a mono-attacking set with Calm Mind can be used with Will-O-Wisp and Recover, making Rock Arceus an effective late-game sweeper that is very hard to break with both physical and special attacks after it has picked up a Calm Mind boost. Refresh can also be used over Will-O-Wisp to shrug off status afflictions as Rock Arceus sets up. However, weaknesses to many common types make this a rather mediocre set that should only be used over another Calm Mind Arceus forme for its ability to reliably check Ho-Oh at any point in the game — a feat that most other Arceus formes cannot accomplish.
+Substitute is an option, especially on the Calm Mind set, to allow Rock Arceus to avoid being hit by status. Similarly, Refresh can be used to remove status rather than block it. Toxic can be used instead of Will-O-Wisp on the support set to punish support Arceus much harder, although it prevents Rock Arceus from being able to neuter physical Ground- and Steel-type Pokemon. Thunder Wave is a status option that can nail fast switch-ins and setup sweepers; however, Will-O-Wisp is typically better to allow Rock Arceus to halt several physical attackers. Stealth Rock is a great option for Pokemon that cause Flying-types such as Ho-Oh and Yveltal to switch out; however, Rock Arceus struggles to find room for it. Grass Knot is a coverage move that can be employed on the Calm Mind set to hit Water- and Ground-types, although it still struggles against Steel-types and Palkia. Fire Blast is another coverage option for the Calm Mind set to hit Steel-types, although Will-O-Wisp appropriately punishes most Steel-types already while retaining more utility. Earth Power can hit some Steel-types in addition to Primal Groudon; however, for the same reasons as the other coverage moves, Will-O-Wisp is typically better.
+
+Magic Coat is an interesting option to bounce back Toxic, Taunt, and even entry hazards, although it is a niche move reliant on good prediction. Perish Song puts a timer on setup sweepers and can force a trade with Gothitelle, but it is a difficult move to fit on the support set. Roar can also be used to stop setup sweepers and Gothitelle; however, the utility of the standard moves on the support set is generally better. Rock Arceus does have the capability to set up Tailwind, which can be an interesting method of support for appropriate teams able to reap the benefit, but generally this is not worth the move slot. Psych Up can allow Rock Arceus to copy opposing stat boosts, but most of the time these aren't very beneficial. Lastly, Rock Arceus can potentially run a Swords Dance set; however, it must rely on Stone Edge for a physical STAB move and its typing does not particularly allow it to circumvent a large number of typical Swords Dance Arceus checks.
+
 
 
 Checks & Counters
 ########
 
-**Water-types**: Due to their ubiquity and usage of specially based STAB moves, Water-types are the prime checks to Rock Arceus. Offensive Kyogre and Palkia threaten to OHKO it right off the bat, while defensive variants, along with Water Arceus and Gastrodon, wear it down quickly.
+**Kyogre and Palkia**: Both Kyogre and Palkia have a large Special Defense that can shrug off Rock Arceus's Judgment. In return, their massive Special Attack, combined with a type advantage, blows right through Rock Arceus. Being special attackers, these Pokemon do not mind being burned much either, and common use of Rest means that the cumulative damage from Judgments and burns is not an issue.
 
-**Blissey**: The pink blob counters Rock Arceus with her enormous Special Defense and access to Toxic.
+**Mega Gengar and Gothitelle**: Both Mega Gengar and Gothitelle have the ability Shadow Tag, which reduces the battle to a one-on-one. This is an issue because both of these threats have the ability to beat Rock Arceus one-on-one; Mega Gengar has access to Taunt, Destiny Bond, or even Focus Blast while Gothitelle has access to Calm Mind, Rest, and Psyshock.
 
-**Grass-types**: Grass Arceus and Ferrothorn can both take down Rock Arceus while staying relatively healthy with Recover and Leech Seed respectively. Shaymin-S outspeeds Rock Arceus and threatens to OHKO it with a Life Orb-boosted Seed Flare, but is OHKOed itself by Judgment.
+**Dialga**: Dialga resists Rock Arceus's Judgment and can retaliate with Toxic or Flash Cannon. Specially defensive sets can Toxic and / or Roar out Calm Mind Rock Arceus.
 
-**Fighting-types**: Mega Blaziken and Mega Mewtwo X can OHKO Rock Arceus with a STAB Low Kick, while Mega Lucario can do the same with STAB Close Combat. However, note that the latter two cannot switch into Will-O-Wisp. Fighting Arceus can easily beat Rock Arceus one-on-one due to its type advantage.
+**Arceus With a Type Advantage**: Ground Arceus, Water Arceus, Grass Arceus, Steel Arceus, and Fighting Arceus can all threaten Rock Arceus because they have an inherent typing advantage.
 
-**Offensive Ground-types**: Groudon, Landorus-T, and Ground Arceus all detest burns, but the former two can viably carry Lum Berry to bypass Will-O-Wisp and severely cripple Rock Arceus with a STAB Earthquake, while the latter has a 50% chance of winning Speed ties with it.
+**Primal Groudon and Gliscor**: Both Primal Groudon and Gliscor are immune to Will-O-Wisp and can threaten Rock Arceus. Offensive Primal Groudon can OHKO Rock Arceus through powerful Ground-type moves, while Gliscor can make use of Toxic, Taunt, and Earthquake.
 
-**Steel-types**: Most Steel-types are large hindrances to Rock Arceus. While uncommon, Steel Arceus is the best of these checks as it has reliable recovery and a super effective STAB Judgment. Scizor, Aegislash, Jirachi, Klefki, and Bronzong are all relatively common Pokemon that can check Rock Arceus with their typing and STAB/status moves. However, all of these Pokemon dislike burns, as their STAB move of choice is often physical. Mega Mawile deserves a mention as a niche Steel-type that can severely dent Rock Arceus with STAB Iron Head. Heatran is a shakier check; it is immune to Will-O-Wisp but takes neutral damage from Judgment and can at best cripple Rock Arceus with Toxic.
+**Mega Blaziken**: While Mega Blaziken takes significant damage from Judgment, it is faster than Rock Arceus and deals high damage with 120 Base Power Low Kick.
 
-**Status**: Rock Arceus loathes status of any sort; paralysis destroys its Speed advantage over many Pokemon, while poison and burns greatly limit its longevity.
+**Mewtwo**: Mega Mewtwo X dislikes burns but can otherwise crush Rock Arceus with its Fighting-type moves. Mega Mewtwo Y can break down Rock Arceus with Taunt, Recover, and Psystrike due to its high Speed and Special Defense stats. More offensive Mewtwo sets can also threaten Rock Arceus with Focus Blast.
+
+**Clefable and Blissey**: Both Clefable and Blissey have massive special bulk that let them comfortably tank Judgment; they also do not mind being burned. In return, they can Toxic Rock Arceus, and Clefable might be running Calm Mind.
+
+**Ferrothorn**: While it doesn't like being burned, Ferrothorn can Toxic Rock Arceus, assuming it runs the move. Ferrothorn that lack Toxic can force a stalemate through Leech Seed and Leftovers recovery.
+
+**Offensive Steel-types**: Pokemon such as Mega Scizor, Excadrill, Genesect, Mega Metagross, and Mega Lucario cannot afford to switch into Will-O-Wisp, but can potentially revenge kill Rock Arceus, as they are either faster or have access to priority moves.
+
+**Heatran**: Heatran takes some damage from Judgment, but can absorb Will-O-Wisp with Flash Fire and retaliate with Toxic and Taunt.
+
+**Shaymin-S**: Shaymin-S cannot directly switch into Rock Arceus because of the threat of Judgment; however, it can OHKO Rock Arceus with Seed Flare.

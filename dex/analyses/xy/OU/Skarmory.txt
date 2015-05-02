@@ -8,14 +8,15 @@ However, Skarmory has several shortcomings. It possesses relatively low HP and S
 
 Defensive
 ########
+name: Defensive
 move 1: Roost
 move 2: Defog / Spikes
 move 3: Brave Bird / Counter
 move 4: Whirlwind / Taunt
 ability: Sturdy
 item: Leftovers / Rocky Helmet
-nature: Impish / Bold
 evs: 252 HP / 252 Def / 4 SpD
+nature: Impish / Bold
 
 Moves
 ========

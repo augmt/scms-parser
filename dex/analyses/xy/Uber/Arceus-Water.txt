@@ -1,92 +1,60 @@
 Overview
 ########
 
-Water Arceus has always been a jack of all trades as far as Arceus formes go, mainly because of its typing. Being a pure Water-type is a blessing for Water Arceus as it resists Ice-, Water-, and Fire-type moves, all of which are common attacking types in Ubers. This generation also turned Steel, its fourth resistance, into a common attacking type in order to deal with the threat of Fairy-types, thus making it more useful. Water Arceus's Judgment is nothing to laugh at either, as only three types resist it and nothing is immune to it as far as typing goes, making Water Arceus a potent mono-attacker. Drought has also been nerfed, meaning that Water Arceus can now be paired with Groudon without its Judgment being cut to 50% damage most of the time. It doesn't just rely on its typing and STAB, though; it is still an Arceus forme, which means it sports a base 120 in all stats and has a gigantic movepool including the strongest 100% accurate Water-type move in the game. Water Arceus was also able to capitalize on the buff to Defog, and like many of its other formes, now runs Defog on all of their support sets. It still does its old jobs quite well, checking the now prominent bulky Ground-types that litter XY Ubers and being a great pivot due to its typing, bulk, and access to Recover. However, Water Arceus still competes with its old rival Palkia as a Water-type and check to Ground- and Fire-types, which can make fitting it on a team difficult. Its most dangerous checks, Electric Arceus and Zekrom, are now much more common, and the Toxic it despises is now the most used move in Ubers. Competition between Water Arceus and more specialized Arceus formes has not changed, either. However, despite the increasingly hostile environment Water Arceus still functions very well in Ubers and should not be underestimated.
+Water Arceus is a bit of an odd Pokemon in ORAS Ubers. The high usage of Primal Groudon is a bit of a mixed bag for it: while its immunity to Water-type Judgment greatly reduces the effectiveness of Water Arceus as a mono-attacker, Primal Groudon checks a lot of Water Arceus's own checks, such as Zekrom, Ferrothorn, and other Electric- and Grass-types. Water Arceus has great 120 / 120 / 120 bulk and a wide movepool with an array of useful support moves, but is also prone to Toxic, which tends to be thrown around frequently.
 
 Support
 ########
 name: Support
-move 1: Judgment
-move 2: Will-O-Wisp
-move 3: Recover
-move 4: Defog
+move 1: Recover
+move 2: Toxic
+move 3: Ice Beam / Defog
+move 4: Judgment / Defog
+ability: Multitype
 item: Splash Plate
-evs: 248 HP / 164 SpD / 96 Spe
-nature: Timid
+evs: 252 HP / 200 Def / 56 Spe
+nature: Bold
 
 Moves
 ========
 
-The moves here are pretty self-explanatory. Judgment is Water Arceus's best STAB move with relatively high Base Power and zero drawbacks. Will-O-Wisp is to discourage any Zekrom from switching in unless it wants to get heavily crippled in the process. Zekrom will 2HKO Water Arceus even after the burn though, so keep that in mind. Toxic can be used over Will-O-Wisp to surprise other support Arceus formes and Calm Mind Electric Arceus, but discouraging a Zekrom switch-in is normally the higher priority. Recover is to keep Water Arceus healthy and able to consistently soft-check the Pokemon it needs to, also increasing its overall longevity. Defog is there to remove all entry hazards on the field and gives Water Arceus some utility in general. Grass Knot can be used to better check Kyogre and Groudon, but there is generally not enough room for it on this set. The same goes for Roar or Perish Song as they can be used to prevent Water Arceus from becoming setup bait, and the latter is excellent for situations where Water Arceus is facing down your opponent's last Pokemon. Once again, there is usually no room for either of these.
+Recover is a necessary means of reliable recovery that improves longevity and allows Water Arceus to take repeated hits. Toxic puts a timer on Stealth Rock setters, especially Primal Groudon, which does not mind Ice Beam too much but can be worn down throughout the course of a match by Toxic. Ice Beam hits Salamence super effectively and hits Primal Groudon through harsh sunlight. Judgment is a decently powerful STAB move that hits Ho-Oh, Diancie, and most Steel-types harder. With the decline of Gothitelle, Water Arceus is a reliable Defog user, and it can offer valuable support for a team by clearing entry hazards; Defog can be used over either Ice Beam or Judgment, but Water Arceus will struggle to hit certain targets if lacking either of these moves.
 
 Set Details
 ========
 
-248 HP EVs fill out Water Arceus's overall bulk while still retaining an odd HP number to mess with entry hazard, burn, and poison calculations. 96 Speed EVs and a Timid nature ensures that Water Arceus outspeeds all maximum Speed base 100s. The rest of the EVs are placed in Special Defense in order to avoid a 2HKO from Choice Scarf Kyogre's Water Spout after Stealth Rock damage and take neutral special attacks better in general. These Special Defense EVs can be relocated to Defense in order to turn Water Arceus into a soft check to Ho-Oh and Mega Blaziken, but in a metagame where Choice Scarf Kyogre is dominant, it is almost always better to put these EVs in Special Defense. Having zero Attack IVs will reduce damage taken from Foul Play and confusion, with the former being a relatively common move on Yveltal.
+Splash Plate is the mandatory item in order to become Water Arceus. 252 HP EVs maximize mixed bulk, and 56 Speed EVs allow Water Arceus to outpace Adamant Rayquaza. The rest of the investment is put into Defense, with a Bold nature to help against the strong physical attackers that dominate the Ubers metagame such as Ho-Oh, Primal Groudon, and Salamence. Other usable Speed benchmarks include 124 Speed with a Bold nature for outspeeding positive-natured max Speed base 90s, and 176 Speed with a Timid Nature for outspeeding positive-natured max Speed base 110s, such as Gengar and some Latios.
 
 Usage Tips
 ========
 
-You should only switch Water Arceus in on Choice Scarf Kyogre once. Once Arceus's forme has been revealed, your opponent will be more tempted to use Thunder in order to catch Water Arceus on the switch instead of mindlessly spamming Water Spout, which will get them no where without a critical hit. This particular Water Arceus can check many dangerous Pokemon that roam the Ubers metagame, but it can only check them at full health or close to it. Be sure to use Recover whenever it is safe to do so in order to make sure that Water Arceus can still check Landorus-T, Groudon, and Kyogre to an extent. However, this particular Arceus has a major problem when it comes to checking certain Pokemon. Water Arceus's typing allows it to check some threats offensively, but it cannot switch in directly, let alone take repeated hits from said Pokemon. Even when using the alternate defensive spread, Ho-Oh and Mega Blaziken are massive demonstrators of this problem, as Water Arceus cannot switch into a Choice Band boosted Brave Bird from Ho-Oh and still hope to win against it without being heavily crippled in the process. Mega Blaziken gets OHKOed by Judgment, but it can OHKO Water Arceus after a Swords Dance with Low Kick after Stealth Rock damage. There are quite a few more examples of these on the special side, but both sets must be played extremely carefully in order to avoid being destroyed by Pokemon this Arceus is supposed to deal with. Never Defog if Zekrom or Electric Arceus are still in good health, as the momentum loss will almost ensure that you lose the game right away if one of these two comes in and their respective checks have been weakened or removed. Lastly, like other support Arceus sets, this Arceus absolutely loathes Toxic. Toxic will ruin any kind of longevity Water Arceus had and basically makes Recover a useless moveslot if Water Arceus has been in for three or more turns and your team has no cleric support. This Arceus relies on Recover more than almost any other support Arceus, and being unable to Recover back to full health makes it unable to check many threats that it used to be able to. Toxic is used excessively in Ubers and is a decent option on almost any Pokemon including this Arceus set, so keeping Toxic away from it requires carefully planned switches and making sure that there isn't a random Toxic being carried by the Pokemon in front of Water Arceus.
+Switch Water Arceus in aggressively on Pokemon that it can check, such as Primal Groudon, and spread Toxic, as Defog in conjunction with Toxic often can keep entry hazards off your side fairly well. Avoid getting hit by Toxic; this includes not using it too liberally against a team with a Mega Diancie or Mega Sableye in the back. Try to stay healthy with Recover, as after taking a hit or two with entry hazards up, it becomes increasingly difficult to check the things Water Arceus needs to check. Switching into Primal Kyogre can work on a predicted Ice Beam, Origin Pulse, or Scald, but because of Thunder it is not advisable to stay in, but rather to use Water Arceus to pivot safely into Primal Groudon.
 
 Team Options
 ========
 
-Bulky Ground-types are some of the best partners that Water Arceus has because they allow it to Defog without the risk of Zekrom coming in on it and doing massive amounts of damage to your team. Most Ground-types such as Landorus-T, Groudon, and Gliscor also have the option of running Stealth Rock to help Water Arceus pick up a KO on Ho-Oh. Speaking of which, Ho-Oh is also an excellent partner for this particular Arceus as it can check the Ferrothorn and Grass Arceus without Stone Edge that plague Water Arceus. Cleric support is a massive help to any support Arceus, and this one is no exception. Xerneas, Blissey, Sylveon, and Clefable can all remove the Toxic that Water Arceus hates so much. Defensive cleric Xerneas deserves a special mention since it also serves as a soft check to Zekrom. If there is no room for clerics on your team, status sponges can also be very good partners with Water Arceus. Examples of these that have good synergy with Water Arceus are Heatran, RestTalk Giratina, Ferrothorn, and Excadrill. Ferrothorn and Excadrill in the sand are also able to check Zekrom and Electric Arceus, Water Arceus's two most dangerous checks. Last but not least, Water Arceus's nemesis, Zekrom, is also one of its best teammates. It can make opposing Choice Scarf Zekrom think twice about locking themselves into Bolt Strike in fear of either being set up on by Substitute + Hone Claws Zekrom, or being forced out without doing anything notable. It is also an offensive check to Kyogre unlike Water Arceus.
-
-Calm Mind
-########
-name: Calm Mind
-move 1: Calm Mind
-move 2: Judgment
-move 3: Recover
-move 4: Refresh / Will-O-Wisp
-item: Splash Plate
-evs: 248 HP / 8 SpA / 252 Spe
-nature: Timid
-
-Moves
-========
-
-Calm Mind is Water Arceus's best boosting move and is fairly easy to use in conjunction with the rest of the set. Water-type Judgment has no immunities against it other than the rarely seen Water Absorb, Dry Skin, and Storm Drain abilities, which makes Water Arceus a great candidate for a mono-attacking setup sweeper. Recover is there to shrug off damage taken while setting up. Refresh makes sure that random Toxic users, or Toxic users in general, will not be ruining Water Arceus's sweep any time soon. It will also allow Water Arceus to shrug off any inconvenient paralysis or burn inflicted on it. Alternatively, Will-O-Wisp can be used to discourage Zekrom from switching in, although Water Arceus is still 2HKOed by Bolt Strike from a burned Zekrom. Grass Knot can also be used here in order to defeat Calm Mind Kyogre and 2HKO Palkia a good amount of the time. This will also hit Groudon and many other Pokemon harder than Judgment in the sun.
-
-Set Details
-========
-
-248 HP is, once again, to fill out Water Arceus's overall bulk while still having an odd maximum HP number to mess with residual damage calculations. Having maximum Speed with a Timid nature allows this Arceus to outspeed Gengar before it Mega Evolves and Speed tie with other maximum Speed Arceus formes, with the most important one being Electric Arceus. The leftover 8 EVs are put in Special Attack to slightly boost Judgment. Remember that these two additional points in Special Attack will compound when boosting with Calm Mind. Minimal Attack IVs are optimal for reducing Foul Play and confusion damage but doesn't do too much for Water Arceus outside of that. An alternative spread of 248 HP / 64 SpD / 188 Spe with a Timid nature can also be used to make sure Water Arceus has some sponging capability before boosting while also still being faster than Gengar, before Mega Evolving, and Thundurus, but a Speed tie with Electric Arceus is generally more important than the added bulk.
-
-Usage Tips
-========
-
-This particular Arceus can actually take on some special attackers better than the previous one because of Calm Mind. Palkia is just one example of these, and Refresh means that this Arceus doesn't need to fear Toxic or Thunder Wave from Palkia either. Water Arceus needs six Calm Mind boosts to get past teams with healthy special sponges such as specially defensive Palkia, Blissey, and specially defensive Giratina among others. These boosts are not hard to acquire late-game when Zekrom and Electric Arceus are absent, but it is critical that these two Pokemon are removed before setting up. If you carry Will-O-Wisp, this set can actually be an effective lure for Zekrom once Calm Mind is revealed. Burning Zekrom is always nice because of how ridiculous its physical STAB moves are, but don't keep Water Arceus in on Zekrom because even after it is burned, Bolt Strike will 2HKO Water Arceus regardless. If you do forego Refresh for Will-O-Wisp though, make sure to keep Toxic away from this Arceus at all costs since it effectively ruins Water Arceus's sweeping potential.
-
-Team Options
-========
-
-Ground-types to check Zekrom are always welcome alongside Water Arceus, and Ferrothorn is another option for this role; it also checks Electric Arceus with Toxic setting up Spikes. Excadrill deserves a special mention since it can Rapid Spin away an opposing Ferrothorn's entry hazards as well as check Electric Arceus and Zekrom to an extent. Cleric support from Pokemon like Xerneas, Blissey, and Sylveon is very useful if Water Arceus is not carrying Refresh. Zekrom is also a fantastic partner due to its ability to check Palkia offensively and make opposing Choice Scarf Zekrom hesitate before locking themselves into Bolt Strike. Mixed Zekrom is a particularly good teammate since it lures in Ferrothorn and can 2HKO it with Focus Blast. Spikes users such as Klefki and Forretress are also welcome when using this set, and Forretress can also serve as a Rapid Spin user. Entry hazard support helps this Arceus, and just about any sweeper, get its job done much easier.
+Primal Groudon is an effective teammate that checks Electric-types and helps check Kyogre, which takes pressure off of Water Arceus. Clerics, such as Clefable, Blissey, Diancie, and Xerneas, can heal status that can annoy Water Arceus, especially Toxic. Ho-Oh appreciates Defog and also can freely switch into Grass-type Pokemon, which Water Arceus may bait, such as Ferrothron. Ferrothorn takes off pressure from Kyogre and checks Electric-types. Finally, Tyranitar can check Darkrai and Gengar, which can heavily pressure Water Arceus.
 
 Other Options
 ########
 
-Stealth Rock is always an option on just about any support Arceus but so many other Pokemon use it better that it is almost not worth mentioning. Water Arceus can also make use of coverage moves like Spacial Rend for Palkia and Fire Blast for Grass-types but both of these moves have limited use, and Water Arceus usually will not have room for them on its moveset. Thunder Wave can be used to cripple offensive Kyogre and Palkia but it has no use against Water Arceus's switch-ins, and for this reason Will-O-Wisp and Toxic are preferred over Thunder Wave. Lastly, a Swords Dance set can be used with a spread of 252 Atk / 252 4 Def / 252 Spe and a Jolly nature, with Aqua Tail or Waterfall, Dragon Claw, and Recover as moves. The set itself got hit hard by the Drizzle nerf though and generally isn't worth running because of how little it offers over other Swords Dance Arceus formes and how much opportunity cost comes with using it.
+Will-O-Wisp is a viable alternative to Toxic, and while it is blocked by Primal Groudon, it can still cripple Salamence and other physical attackers. Stealth Rock can be used by Water Arceus in the case that no other member of the team can use it, as Stealth Rock is an essential move on any team. Payback can deal respectable damage to Latias, Latios, and Gengar. Lastly, Grass Knot is a viable move to deal heavy damage to Kyogre, which otherwise takes little from Water Arceus.
 
 Checks & Counters
 ########
 
-**Palkia**: Palkia will beat support Water Arceus varients one-on-one if it carries Toxic or Choice Specs and Thunder, but non-Rest variants must watch out for the status move Water Arceus carries, and it is also beaten by Calm Mind variants if it doesn't have Dragon Tail.
+**Steel-types**: While they might not necessarily be able to do too much back to Water Arceus, Steel-types are good checks to Water Arceus, as they resist Ice Beam and are immune to Toxic. Klefki can Toxic Water Arceus and put it on a timer before setting Spikes, though it takes a decent amount of damage from Judgment. Aegislash can also Toxic Water Arceus. Dialga is especially notable, as its secondary Dragon typing grants it a resistance to Judgment as well.
 
-**Electric Arceus**: Electric Arcues can set up on Water Arceus and KO it while only fearing the rare Toxic, which will only cut its sweep short.  It doesn't mind Will-O-Wisp at all.
+**Grass-types**: Ferrothorn can use Leech Seed and Toxic, set up Stealth Rock or Spikes, and hit Water Arceus fairly hard with a potential Power Whip. It also takes neutral damage from Ice Beam, resists Judgment, and is immune to Toxic. Grass Arceus is prone to Toxic, but it does not take too much from Ice Beam and can threaten back with a powerful Grass Knot or Grass-type Judgment.
 
-**Ferrothorn**: Ferrothorn will set up entry hazards all day on Water Arceus and can eventually KO it with the combination of Leech Seed, Power Whip, and, if Refresh isn't carried, Toxic.
+**Latias and Latios**: Latias and Latios are very solid checks to Water Arceus, in spite of being weak to Ice Beam. They resist a possible Water-type Judgment, can Roost off damage, and, if they are Calm Mind variants, set up and possibly fire off an extremely powerful Draco Meteor. At +1, Latios has a chance to straight up OHKO Water Arceus with Draco Meteor. Additionally, the uncommon Grass Knot deals a lot of damage. However, both Latias and Latios dislike Toxic and struggle to overpower Water Arceus without Calm Mind or Grass Knot.
 
-**Zekrom**: Zekrom can switch into and KO Water Arceus but it absolutely loathes Will-O-Wisp. It still has a chance to 2HKO Water Arceus when burned and will always 2HKO Water Arceus without Defense investment.  However, it is also worn down on repeated switch-ins by entry hazards and Judgment, so Water Arceus can outlast it easily.
+**Palkia**: While not very common, Palkia only takes neutral damage Ice Beam and has a quadruple resistance to Judgment. Offensive variants can paralyze Water Arceus with Thunder Wave and proceed to spam Spacial Rend in hopes of a full paralysis or hit Water Arceus with a super effective Thunder. More defensively inclined Palkia variants can Rest off Water Arceus's Toxic and cripple Water Arceus with a Toxic of its own.
 
-**Shadow Tag Users**: Mega Gengar will put an end to Water Arceus 99% of the time but hates Thunder Wave and will faint alongside Arceus most of the time. Gothitelle can set up Calm Minds on support variants and 2HKO Water Arceus after six with Psyshock but it has trouble versus Calm Mind Water Arceus variants. Wobbuffet can turn Water Arceus into setup fodder for another Pokemon with Encore or Mirror Coat it into oblivion assuming it doesn't have five Calm Mind boosts when Wobbuffet is brought in. Wobbuffet must watch out for the status move Water Arceus is carrying though.
+**Electric-types**: Zekrom heavily pressures Water Arceus with a super effective Bolt Strike and can retain momentum with Volt Switch; however, it dislikes Ice Beam and Will-O-Wisp. Electric Arceus fears Toxic, but still threatens with an Electric-type Judgment and can possibly set up a Calm Mind or two.
 
-**Dialga**: Dialga resists Judgment and can Toxic, Thunder, or phaze Water Arceus with Roar. However, it is worn down by repeated switch-ins to Judgment and entry hazards, and variants without Thunder or Toxic will lose to Water Arceus in a last Pokemon situation.
+**Shadow Tag**: Gothitelle is the most dangerous Shadow Tag user for Water Arceus, because Gothitelle can trap it with ease and proceed to set up six Calm Minds, defeat Water Arceus, and threaten the remainder of Water Arceus's team. Mega Gengar can use Taunt and force a double KO with Destiny Bond, or it can use Perish Song to trap and KO Water Arceus. Wobbuffet might not be able to directly beat Water Arceus, but it can create a free setup opportunity for another member of its team.
 
-**Grass Arceus**: Grass Arceus cannot take on Calm Mind Refresh variants of Water Arceus but it beats support variants one-on-one, although it may be poisoned or burned in the process.
+**Primal Groudon**: Primal Groudon does not take too much from Ice Beam and is immune to Judgment; however, it hates Toxic. Support variants cannot beat Water Arceus, as they will be quickly worn down by Toxic, but Rock Polish and Swords Dance variants can set up on Water Arceus and attempt to overwhelm it.
 
-**Toxic Spam**: Toxic is carried on a large amount of Pokemon in the Ubers tier and will heavily cripple any Water Arceus without Refresh.
-
-**Phazing**: Phazers like Giratina, specially defensive Kyogre, and Lugia can take boosted hits from Water Arceus, and the former two can Rest off status.  All three of them will phaze Water Arceus out, but the latter two will lose if Calm Mind Refresh Water Arceus is the last Pokemon standing.
+**Toxic**: Toxic puts Water Arceus on a timer, limiting the turns it can stay in and Recover off damage or Defog. It is a major annoyance and can make Water Arceus easier to defeat, but should not be relied on as a means to beat Water Arceus.

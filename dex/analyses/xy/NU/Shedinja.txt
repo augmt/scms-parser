@@ -1,7 +1,7 @@
 Overview
 ########
 
-Shedinja has an amazing ability in Wonder Guard that leaves it immune to anything it isn't weak to, giving it loads of switch-in opportunities against some very threatening Pokemon such as Feraligatr, Kangaskhan, Klinklang, and Ludicolo. It also has a decent Attack stat backed by STAB priority in Shadow Sneak to somewhat make up for its lack of Speed. Thanks to Wonder Guard, Shedinja forces a lot of switches because many foes don't carry coverage moves to hit it with, rendering them helpless. Unfortunately, not only does Shedinja have a number of common weaknesses and a pathetic 1 HP that can't even be invested in, but it is also weak to all entry hazards, meaning that it cannot even switch in if they're on the field. Therefore, in order for Shedinja to be effective, it needs support in the form of Pokemon that resist its weaknesses, status absorbers, and hazard control in some from, whether that be Magic Bounce, Rapid Spin, Defog, or any combination of the three.
+Shedinja has an amazing ability in Wonder Guard that leaves it immune to anything it isn't weak to, giving it loads of switch-in opportunities against some very threatening Pokemon such as Samurott, Kangaskhan, Klinklang, and Ludicolo. It also has a decent Attack stat backed by STAB priority in Shadow Sneak to somewhat make up for its lack of Speed. Thanks to Wonder Guard, Shedinja forces a lot of switches because many foes don't carry coverage moves to hit it with, rendering them helpless. Unfortunately, not only does Shedinja have a number of common weaknesses and a pathetic 1 HP that can't even be invested in, but it is also weak to all entry hazards, meaning that it cannot even switch in if they're on the field. Therefore, in order for Shedinja to be effective, it needs support in the form of Pokemon that resist its weaknesses, status absorbers, and hazard control in some from, whether that be Magic Bounce, Rapid Spin, Defog, or any combination of the three.
 
 Pivot
 ########
@@ -12,7 +12,7 @@ move 3: X-Scissor
 move 4: Shadow Sneak
 ability: Wonder Guard
 item: Focus Sash
-evs: 4 HP / 252 Atk / 252 Spe
+evs: 252 Atk / 252 Spe / 4 Spe
 nature: Adamant
 
 Moves
@@ -28,7 +28,7 @@ As Shedinja's defenses aren't possible to increase, all of the EVs are put into 
 Usage Tips
 ========
 
-It's important to play conservatively against Pokemon such as Sceptile or Vileplume that might have a move that hits Shedinja. If possible, scout which coverage moves the foe is running. However, both Sceptile and Vileplume don't like switching in on Shedinja, which can be used to your advantage. While Baton Pass should mainly be used to grab momentum, it's a good idea to use Will-O-Wisp on a predicted switch if the foe could be hindered by a burn. Always look out for Pokemon such as Sandslash and Seismitoad that might carry Toxic or Knock Off as a filler move. Strive to keep Shedinja's Focus Sash intact for as long as possible, but if it can grab an important KO or burn a dangerous threat, it can be worth it to waste its Focus Sash to do so. Using X-Scissor instead of Baton Pass on a predicted switch is a decent option if Shedinja can OHKO or 2HKO the switch-in with a combination of it and Shadow Sneak. However, misjudging this means that your team will have to take more damage, so it's not always the best option.
+It's important to play conservatively against Pokemon such as Lilligant, Mesprit or Vileplume that might have a move that hits Shedinja. If possible, scout which coverage moves the foe is running. However, Lilligant and Mesprit don't like switching in on Shedinja, which can be used to your advantage. While Baton Pass should mainly be used to grab momentum, it's a good idea to use Will-O-Wisp on a predicted switch if the foe could be hindered by a burn. Always look out for Pokemon such as Sandslash and Seismitoad that might carry Toxic or Knock Off as a filler move. Strive to keep Shedinja's Focus Sash intact for as long as possible, but if it can grab an important KO or burn a dangerous threat, it can be worth it to waste its Focus Sash to do so. Using X-Scissor instead of Baton Pass on a predicted switch is a decent option if Shedinja can OHKO or 2HKO the switch-in with a combination of it and Shadow Sneak. However, misjudging this means that your team will have to take more damage, so it's not always the best option.
 
 Team Options
 ========
@@ -53,4 +53,4 @@ Checks & Counters
 
 **Coverage Moves**: Anything with a super effective move such as Knock Off, Hidden Power Rock, and Hidden Power Fire is a decent check to Shedinja. Pokemon that Shedinja could otherwise deal with, such as Hariyama, Lilligant, and Audino, have a way past it with their coverage moves.
 
-**Passive Damage**: Sandstorm, hail, and Leech Seed all deal damage to Shedinja and prevent it from even being able to switch in. Pokemon that carry Rocky Helmet such as Garbodor, Granbull, and Xatu all stop Shedinja from attacking, however, Shedinja can still spread burns.
+**Passive Damage**: Sandstorm, Hail, and Leech Seed all deal damage to Shedinja and prevent it from even being able to switch in. Pokemon that carry Rocky Helmet such as Garbodor, Granbull, and Xatu all stop Shedinja from attacking, however, Shedinja can still spread burns.

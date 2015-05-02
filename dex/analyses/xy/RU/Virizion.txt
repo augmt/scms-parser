@@ -1,6 +1,7 @@
 Overview
 ########
-Virizion is one of the fastest attackers in the tier and also is arguably the best offensive Grass-type available. Its STAB moves strike a lot of common defensive Pokemon for heavy damage and have respectable power behind them as well. Virizion has a many resistances, most notably to Dark-type moves, which, when combined with Justified, makes Virizion one of the best Knock Off absorbers in the tier. It also has great boosting moves in Swords Dance and Calm Mind, which increases its unpredictability factor. However, Virizion is somewhat reliant on its boosts to do damage, as it is fairly weak without them. Its STAB moves are also resisted by a good deal of threats in the tier, while Virizion has only adequate coverage at best to attempt to cover them. For all its great resistances, Virizion has some common weaknesses that are further compounded by its low Defense.
+
+Virizion has great Special Defense and typing, which allows it to check Electric-, Water- and Dark-types such as Jolteon, Alomomola, and Shiftry. Furthermore, it is a reliable Knock Off absorber due to its resistance to Dark-type moves and its ability, Justified, which increases its Attack by one stage when it is hit by one. Virizion also sits at a fantastic Speed tier that outspeeds a majority of the tier. In addition, Virizion has access to great boosting moves such as Swords Dance and Calm Mind, which complement its high Base Power STAB moves. Unfortunately, Virizion relies heavily on its boosting moves to do damage due to its subpar attacking stats. Also, its STAB combination has poor coverage that is resisted by a fair amount of threats in the tier such as Amoonguss, Doublade, and Sigilyph, and its limited coverage moves also hinder it. Virizion's poor Defense stat and weaknesses to common types make it weak to threats that are very good in the metagame at the moment, such as Durant and Whimsicott.
 
 Swords Dance
 ########
@@ -8,7 +9,7 @@ name: Swords Dance
 move 1: Swords Dance
 move 2: Leaf Blade
 move 3: Close Combat
-move 4: Stone Edge / Zen Headbutt
+move 4: Zen Headbutt
 ability: Justified
 item: Lum Berry / Life Orb
 evs: 4 HP / 252 Atk / 252 Spe
@@ -16,19 +17,25 @@ nature: Jolly
 
 Moves
 ========
-Swords Dance doubles Virizion's Attack, greatly making up for its lack of immediate power. Leaf Blade is Virizion's reliable STAB move, dealing a decent amount of damage without any downside. Close Combat is for when Virizion wants the extra kick to finish off a foe, although its side effect of lowering Virizion's defenses and low PP means one would be advised not to use it liberally. The last move is for coverage against Pokemon that resist Virizion's dual STAB attacks: Stone Edge nails Flying-types such as Moltres and Braviary, as well as Delphox, while Zen Headbutt hits Poison-types such as Amoonguss and Weezing, while still retaining coverage against Golbat.
+
+Swords Dance boosts Virizion's Attack by two stages. Leaf Blade is a STAB move that has no drawbacks and allows Virizion to beat bulky Water-types. Close Combat is another STAB move that allows Virizion to hit foes harder than it would with Leaf Blade, most notably hitting Fire- and Steel-types harder, but it lowers Virizion's defenses. Zen Headbutt is used as a coverage move against Poison-types such as Amoonguss, Garbodor, and Weezing which would otherwise wall Virizion. Stone Edge is an alternative over Zen Headbutt in order to hit Delphox as well as Sigilyph, but overall Zen Headbutt is preferred in the current metagame, as it hits more important targets.
 
 Set Details
 ========
-Maximum Speed investment and a Jolly nature allow Virizion to outrun as much as possible, as well as to Speed tie with Cobalion. Maximum Attack grants Virizion the power it really needs. The item choice is important; Lum Berry allows Virizion to set up safely against status, most notably Scald and Thunder Wave, whereas Life Orb gives Virizion a notable boost in power, snagging OHKOs after a Swords Dance boost on Pokemon that it could not before, such as Delphox after Stealth Rock and Escavalier.
+
+Maximum Attack investment gives Virizion as much power as possible. Maximum Speed investment and a Jolly nature are used to take advantage of Virizion's fantastic Speed tier and to let Virizion Speed tie with Cobalion and opposing Virizion. Lum Berry is used for Virizion to set up on foes with status moves and avoid random Scald burns, but it can only be used once. Life Orb is a viable option for more damage output, but it makes Virizion susceptible to statuses that could hinder its sweep. Furthermore, Life Orb's recoil can bother Virizion and makes its ability to tank special hits less effective. Overall, Lum Berry is the superior option over Life Orb, as being able to switch into bulky Water-types without risking a burn is very crucial to its primary niche.
 
 Usage Tips
 ========
-Virizion's resistances allow it to switch in rather easily and use its powerful STAB moves to threaten the opponent and attain a boost. One should scout out the opponent's Grass- and Fighting-resistant Pokemon and determine whether Virizion's coverage move can bring them down. If it can, set up using Virizion's resistances and hit them with the coverage move to sweep unhindered. If it cannot, then do not attempt to boost with Virizion at all and just throw out an unboosted attack to test the waters. As such, Virizion works best as a late-game cleaner after its counters and faster Pokemon have been removed, but it can still function as a hole puncher thanks to its STAB moves.
+
+Make use of Virizion's ability to force out switches against Alomomola, Shiftry, Jolteon, and Rhyperior to set up a Swords Dance. Even though Virizion's niche is in checking bulky Water-types, it cannot reliably switch into Slowking because most of them pack Psyshock or Fire Blast, both of which can heavily damage it or knock it out when it is weakened. It is encouraged for players to set up Swords Dance with Virizion once its checks and counters are either weakened or knocked out, or else they would stop Virizion's sweep and all the boosts would be ultimately for nothing.
 
 Team Options
 ========
-Teammates that can defeat Doublade are essential as Virizion has no way around it; Moltres makes a good partner, as it is one of the best Doublade answers in the tier. Special Zoroark makes a great teammate, disguising itself to lure out Doublade for a swift KO with Dark Pulse. Choice Specs Zoroark even deals with other Virizion counters with its powerful coverage and access to Trick. Powerful attackers such as Emboar, Clawitzer, and Exploud can threaten to KO Doublade. Fighting-type Pokemon with Knock Off, Escavalier, and Crunch Durant can lure Doublade out and soften it up for Virizion. Stealth Rock users, such as Rhyperior and Druddigon, help keep Virizion's checks and counters, such as Moltres, Delphox, Fletchinder, and Yanmega, at bay and can even take them on to a certain extent. Slowking has decent defensive synergy with Virizion, providing a safety net against Fire-, Ice-, and Psychic-type attacks while luring in Electric-, Grass-, and Dark-types for it to set up on; Slowking can provide either defensive or offensive support depending on its set. Ideally, teammates should cover the threats that Virizion's coverage move does not beat. If using Stone Edge, Zen Headbutt targets should be covered with Psychic-type teammates: Delphox, Reuniclus, Meloetta, and Cresselia can easily handle Poison-types, while Virizion, in return, covers their Dark weakness. If using Zen Headbutt, Stealth Rock can keep Stone Edge targets in check, as they are overall trickier to counter.
+
+Fire-types such as Houndoom and Mega Camerupt are good partners, as they can deal with Virizion's checks and counters, such as Doublade, Tangrowth, Amoonguss; Mega Camerupt can also provide Stealth Rock support. Psychic-types such as Cresselia, Mesprit, and Reuniclus are great partners, as they can handle Poison-types while Virizion handles Dark-types, and the former two are able to provide Lunar Dance and Healing Wish support, respectively, for Virizion to gain a second chance at sweeping. Entry hazard support from Rhyperior, Qwilfish, or Drapion can greatly benefit Virizion, and these Pokemon can also soften up Virizion's checks and counters. Pursuit trappers such as Skuntank and Spiritomb are good options to deal with Cresselia and Doublade, which wall Virizion. Teammates that can beat Fletchinder, which easily revenge kills Virizion, such as Eelektross make for good partners.
+
+
 
 Calm Mind
 ########
@@ -36,37 +43,42 @@ name: Calm Mind
 move 1: Calm Mind
 move 2: Giga Drain
 move 3: Focus Blast
-move 4: Hidden Power Fire / Hidden Power Rock
+move 4: Hidden Power Fire
 ability: Justified
-item: Life Orb
+item: Life Orb / Leftovers
 evs: 4 HP / 252 SpA / 252 Spe
 nature: Timid
 
 Moves
 ========
-Calm Mind boosts Virizion's Special Attack and Special Defense, which works well with Giga Drain to steal a lot of the opponent's health while being harder to take down due to increased bulk. Focus Blast is inaccurate but necessary, as it serves as a powerful STAB move and an emergency nuke, especially considering this set's slower boosting pace when compared to Swords Dance. Hidden Power Fire hits Steel- and Grass-types, such as Doublade, Amoonguss, and Escavalier, while Hidden Power Rock strikes Fire- and Flying-types, such as Delphox, Moltres, and Yanmega.
+
+Calm Mind increases Virizion's Special Attack and Special Defense. Giga Drain is used for a STAB move as well as recovery. Focus Blast is a stronger STAB move that can damage foes more than Giga Drain does, although it is unreliable, as it has low accuracy. Hidden Power Fire allows Virizion to hit Steel- and Grass-types such as Escavalier, Doublade, and Whimsicott.
+
 
 Set Details
 ========
-Maximum Speed investment and a Timid nature let Virizion outrun as much as possible, and maximum Special Attack gives Virizion's attacks a much-needed punch, so as to maximize health gained by boosted Giga Drains.
+
+Maximum Special Attack investment provides as much damage output as Virizion can possibly get. Maximum Speed investment and a Timid nature are used to take advantage of Virizion's fantastic Speed tier. Life Orb is used for extra damage output, and Giga Drain is somewhat able to mitigate its recoil. Leftovers is an option over Life Orb in order to gain extra recovery alongside Giga Drain's recovery and lets Virizion set up more efficiently.
 
 Usage Tips
 ========
-Virizion can find time to set up by virtue of its great resistances. Ideally, Virizion should set up once or twice and proceed to spam Life Orb-boosted Giga Drains as much as possible. The lack of immediate power is made up for by longevity granted by Giga Drain, which keeps Virizion's health high while wearing the opponent down. Virizion is best saved until mid- or late-game, but can act as a pivot using its resistances and Giga Drain to take attacks.
+
+Virizion can be used as a pivot early-game to take hits for its teammates, with Giga Drain providing longevity to help it do its job. Because of Virizion's great number of resistances, it can set up at least one or two Calm Minds and proceed to sweep teams. Virizion should only attempt to set up around mid- or late-game, when its checks and counters are either severely weakened or eliminated, as otherwise, they would easily stop Virizion and all the boosts would be wasted when it is either knocked out or forced to switch.
 
 Team Options
 ========
-Stealth Rock is helpful for Virizion as most of its counters are weak to it, softening them up for a possible KO. Slowking can take Fire-, Ice-, and Psychic-type attacks while luring in Electric-, Grass-, and Dark-types for Virizion, making it a great teammate. Optimal teammates can vary, depending on the Hidden Power of choice. Hidden Power Fire Virizion wants Fire-types out of the way, so bulky Pokemon that resist Fire-type moves such as Slowking, Jellicent, and Druddigon can take them on, while offensive responses such as Sharpedo and Dugtrio can quickly finish them off. Hidden Power Rock Virizion would face trouble against Steel-types and Amoonguss, making Fire-type teammates such as Moltres, Delphox, and Emboar great choices.
+
+Pokemon such as Dugtrio, Druddigon, and Slowking can assist Virizion by taking on Fire-types such as Emboar and Mega Camerupt. Virizion also appreciates wallbreakers such as Mega Glalie and Tyrantrum to weaken its checks and counters. Stealth Rock support can also greatly help Virizion, as it turns 2HKOs into OHKOs and 3HKOs into 2HKOs. For instance, Virizion's Life Orb-boosted Hidden Power Fire 2HKOes offensive Whimsicott, but it can OHKO after Stealth Rock damage. Rhyperior stands out as a great Virizion partner, as it can beat Virizion's checks and counters, such as Fletchinder, while Virizion can beat Rhyperior's checks and counters, such as Rotom-C. It is also able to provide Virizion with Stealth Rock support.
 
 
 Other Options
 ########
-Virizion has an incredibly barren movepool that is essentially devoid of other worthwhile attacking options. Sacred Sword is the only one worth a look, but Virizion desperately wants a stronger attack in Close Combat, especially when Leaf Blade already takes the role of a reliable attack. Taunt can stop foes from healing, but is useless against Virizion's counters and does not change the outcome of any matchups significantly. Synthesis provides healing, but Giga Drain already does this, and Virizion cannot afford to drop coverage. Defensive Virizion mainly focuses on using its resistances, but it has limited support options, and Virizion has better things to be doing than to compete with Amoonguss and Tangrowth. Virizion has access to dual screens, but other users of dual screens such as Meowstic, Cresselia, and Bronzong have better support movepools than Virizion.
+
+Sacred Sword is a decent replacement for Close Combat on the Swords Dance set, as it does not lower Virizion's defenses and ignores the foe's Defense boosts, though the power difference is noticeable. Taunt turns Virizion into a stallbreaker that can break defensive Pokemon, but it has no use outside of that. A set with Substitute and Calm Mind with Leftovers is an option to block status and allows Virizion to set up on defensive Pokemon that cannot break its Substitute, such as Alomomola, with greater ease.
 
 Checks & Counters
 ########
-**Bulky Psychic-types**: Regardless of Virizion's coverage option, bulky Psychic-types tend to be the most consistent counters to Virizion, as they resist its stronger STAB move. Delphox and Sigilyph have the benefit of resisting both of Virizion's STAB types, but must be wary of Stone Edge, although Delphox is pretty shaky against Swords Dance Virizion. Reuniclus and Cresselia shrug off Virizion's attacks with ease. They can also bypass Calm Mind by hitting Virizion's weaker Defense with Psyshock. Meloetta and Gallade can take on Calm Mind Virizion, but are defeated quickly by Swords Dance Virizion.
 
-**Grass- and Fighting-type-Resistant Pokemon**: Plenty of Pokemon resist Virizion's STAB types, although how well they handle Virizion depends on the coverage move it uses. Flying-types can easily deal with Virizion if no Rock-type move is present, whereas Poison-types only really fear Zen Headbutt. Moonblast Whimsicott can prove to be annoying, especially when Encore disrupts any setup attempts on Virizion's part. The only move Doublade would fear from Virizion is +1 Hidden Power Fire, although Doublade can still do a lot of damage to Virizion in the process.
+**Revenge Killers**: Virizion can be easily revenge killed due to its low Defense. Priority such as Mega Abomasnow and Mega Glalie's Ice Shard can heavily damage it, while Fletchinder's priority Acrobatics OHKOes it. Choice Scarf users such as Emboar, Meloetta, and Medicham can easily knock out Virizion. In addition, naturally faster Pokemon such as Durant can easily revenge kill it.
 
-**Faster Physical Attackers**: Virizion is not easy to outspeed, but its low Defense means that it is quite vulnerable to revenge killing. Almost every physical attacker that is naturally faster than Virizion can threaten it in some way. Sticky Web is rare, but does put Virizion at a huge risk. Unburden users such as Hitmonlee and Slurpuff or Choice Scarf users such as Emboar, Psyshock Delphox, and Gallade can get the drop on Virizion as well. Virizion resists most forms of priority, but Mega Abomasnow's Ice Shard hurts, and Fletchinder's Acrobatics instantly KOes Virizion.
+**Pokemon that Resist Virizion's STAB Moves**: Doublade is able to effectively counter the Swords Dance set and set up a Swords Dance of its own and knock out Virizion. Whimsicott can switch in on a predicted STAB attack or boosting move and proceed to Encore it. It can then use its STAB Moonblast to heavily dent Virizion. It can then use its STAB Moonblast to heavily dent Virizion. Poison-types such as Weezing, Garbodor, and Amoonguss resist both of Virizion's STAB moves, though they have to be cautious with Zen Headbutt variants. Psychic-types can also check Virizion easily. Delphox, Sigilyph and Xatu resist both of its STAB moves but should be careful of Stone Edge variants. Bulkier Psychic-types such as Cresselia and Reuniclus can take Virizion's hits with ease and retaliate with a STAB Psyshock.

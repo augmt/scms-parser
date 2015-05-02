@@ -1,14 +1,14 @@
 Overview
 ########
 
-Primeape is a very powerful Fighting-type, due to its strong base 105 Attack and 95 Speed. It has a very good ability in Defiant, which deters the opponent from using Defog and also punishes Intimidate users. In addition, it has a fairly diverse move pool, with coverage options such as Ice Punch, Stone Edge, Earthquake, and Gunk Shot. However, unlike other Fighting-types, it does not have access to Knock Off and is forced to use the weaker Punishment to hit Ghost-types. Primeape's main flaw is its frail defenses, which can be taken advantage of through drops from its main STAB move, Close Combat. Overall, Primeape could be a large threat if used to its full potential.
+Primeape is a very powerful Fighting-type, due to its strong base 105 Attack and 95 Speed. It has a very good ability in Defiant, which deters the opponent from using Defog and also punishes Intimidate users. In addition, it has a fairly diverse movepool, with coverage options such as Ice Punch, Stone Edge, Earthquake, and Gunk Shot. However, unlike other Fighting-types, it does not have access to Knock Off and is forced to use the weaker Punishment to hit Ghost-types. Primeape's main flaw is its frail defenses, which can be taken advantage of through drops from its main STAB move, Close Combat. 
 
 Offensive Support
 ########
 name: Offensive Support
 move 1: Close Combat
 move 2: U-turn
-move 3: Ice Punch / Gunk Shot
+move 3: Stone Edge / Gunk Shot
 move 4: Encore
 ability: Defiant
 item: Black Belt / Expert Belt
@@ -18,7 +18,7 @@ nature: Jolly
 Moves
 ========
 
-Close Combat boasts a high Base Power of 120 and is boosted by STAB; however, the defense drops are very detrimental. U-turn is a good coverage move that hits Psychic- and Grass-types, as well as gaining momentum and escaping from unfavorable situations. Ice Punch provides very good coverage alongside Close Combat, as it hits bulky Grass- and Flying-types such as Vileplume, Scyther, and Togetic for super effective damage. Gunk Shot can be used with Expert Belt to deal more damage to Fairy-types, scoring an OHKO on standard Granbull after Stealth Rock damage. Encore locks defensive Pokemon into moves like Stealth Rock or Wish and cripples them for three turns. It can also lock slower sweepers into unfavorable moves, but that is a less common situation.
+Close Combat boasts a high Base Power of 120 and is boosted by STAB; however, the defense drops are very detrimental. U-turn is a good coverage move that hits Psychic- and Grass-types, as well as gaining momentum and escaping from unfavorable situations. Stone Edge provides very good coverage alongside Close Combat, targeting Flying-types such as Pelipper, Xatu, Scyther, Rotom-S, and Mantine. Gunk Shot can be used with Expert Belt to deal more damage to Fairy-types, scoring an OHKO on standard Granbull after Stealth Rock damage. Encore locks defensive Pokemon into moves like Stealth Rock or Wish and cripples them for three turns. It can also lock slower sweepers into unfavorable moves, but that is a less common situation. Encore also works very weill in tandem with U-turn due to the fact that when a Pokemon is locked into an unfavorable move they are often inclined to switch out, thus allowing Primape to maintain offensive momentum with U-turn. Alternatively, Ice Punch can be used to hit Grass-types such as Vileplume and Gourgeist formes. 
 
 Set Details
 ========
@@ -28,19 +28,19 @@ Black Belt and Expert Belt act as a bluff for a choice item; the former increase
 Usage Tips
 ========
 
-This set works best as a bluff for either of the Choice item sets, but don't worry about revealing it early on, as using Encore on a defensive Pokemon and locking them into an unfavorable move such as Stealth Rock or Heal Bell is always helpful. However, be sure not to lock your opponent into Spikes, as that will only hinder your team and not help. Once you have successfully locked the opponent into an unfavorable move, be sure to take advantage of it by switching into other hard hitters or setup sweepers. Also, if you manage to switch into a Defog and get a Defiant boost, it is best to Encore them into Defog in the event that they stay in, in order to get yet another massive boost to punch holes in the opposing team or sweep.
+This set works best as a bluff for either of the Choice item sets, but don't worry about revealing it early on, as using Encore on a defensive Pokemon and locking them into an unfavorable move such as Stealth Rock or Heal Bell is always helpful. Once you have successfully locked the opponent into an unfavorable move, be sure to take advantage of it by switching into other hard hitters or setup sweepers. Also, if you manage to switch into a Defog and get a Defiant boost, it is best to Encore them into Defog in the event that they stay in, in order to get yet another massive boost to punch holes in the opposing team or sweep. In addition, U-turn is great to keep up offensive momentum after using Encore.
 
 Team Options
 ========
 
-Powerful wall breakers and setup sweepers that can take advantage of the free switches Primeape creates with Encore are good teammates. These include Feraligatr, Gurdurr, Kangaskhan, and many others. Partners that can handle Ghost-types such as Mismagius and Rotom are needed, as neither are 2HKOed by this set's coverage moves. Examples include Fairy-types, such as Slurpuff and Granbull, but they must be wary of switching into Will-O-Wisp. Entry hazard support from Pokemon such as Seismitoad, Qwilfish, and Rhydon is important for Primeape because it is not strong enough to score some OHKOs or 2HKOs. For example, this set needs Stealth Rock up in order to guarantee a 2HKO on physically defensive Seismitoad with Close Combat. Also, with entry hazard support and an Expert Belt, Primeape can OHKO defensive Granbull with Gunk Shot.
+Powerful wall breakers and setup sweepers that can take advantage of the free switches Primeape creates with Encore are good teammates. These include Samurott, Gurdurr, Kangaskhan, and many others. Partners that can handle Ghost-types such as Mismagius and Rotom are needed, as neither are 2HKOed by this set's coverage moves. Examples include Dark-types such as Pawniard, Sneasel, and Liepard, but they must be wary of switching into Will-O-Wisp. Entry hazard support from Pokemon such as Seismitoad, Cacturne, and Rhydon is important for Primeape because it is not strong enough to score some OHKOs or 2HKOs. For example, this set needs Stealth Rock up in order to guarantee a 2HKO on physically defensive Seismitoad with Close Combat. Also, with entry hazard support and an Expert Belt, Primeape can OHKO defensive Granbull with Gunk Shot.
 
 Choice Band
 ########
 name: Choice Band
 move 1: Close Combat
 move 2: U-turn
-move 3: Ice Punch
+move 3: Stone Edge / Ice Punch
 move 4: Gunk Shot / Earthquake
 ability: Defiant
 item: Choice Band
@@ -50,7 +50,7 @@ nature: Jolly
 Moves
 ========
 
-Close Combat is a very powerful STAB attack with high Base Power, but the defense drops that result from it are very detrimental. U-turn is a helpful coverage move that recovers momentum from bad situations and hits Psychic-types for super effective damage. Ice Punch provides very good coverage alongside Close Combat, smacking Grass- and Flying-types such as Vileplume and Scyther on predicted switches. Gunk Shot is the preferred choice for the last slot, as it scores an OHKO on standard Granbull after a Defiant boost and 2HKOes Tangela. However, Earthquake is a viable option to hit Poison-types such as Qwilfish, Muk, and Garbodor harder than any of its other moves. Alternatively, Stone Edge can be used to hit Flying- and Bug-types such as Accelgor, Mantine, Pelipper, and Scyther super effectively. Lastly, you can opt for Punishment in the last slot for a fairly reliable way to hit Ghost-types and to deal massive amounts of damage to setup sweepers.
+Close Combat is a very powerful STAB attack with high Base Power, but the defense drops that result from it are very detrimental. U-turn is a helpful coverage move that recovers momentum from bad situations and hits Psychic-types for super effective damage. Stone Edge provides very good coverage alongside Close Combat, targeting Flying-types such as Pelipper, Xatu, Scyther, Rotom-S, and Mantine. Alternatively, Ice Punch can be used to hit Grass-types such as Vileplume and Gourgeist formes. Gunk Shot is the preferred choice for the last slot, as it scores an OHKO on standard Granbull after a Defiant boost and 2HKOes Tangela. However, Earthquake is a viable option to hit Poison-types such as Muk and Garbodor harder than any of its other moves. Lastly, you can opt for Punishment in the last slot for a fairly reliable way to hit Ghost-types and to deal massive amounts of damage to setup sweepers.
 
 Set Details
 ========
@@ -60,59 +60,26 @@ Defiant is the chosen ability for this set, as it allows Primeape to gain a boos
 Usage Tips
 ========
 
-Primeape should use U-turn early-game to keep momentum or to get out of unfavorable situations. However, don't be afraid to spam Close Combat, as it will OHKO or 2HKO most targets that are hit for at least neutral damage. Try to nail Pokemon that are weak to Ice Punch such as Vileplume and Dragalge on predicted switches, or Fairy-types such as Granbull with Gunk Shot.
+Primeape should use U-turn early-game to keep momentum or to get out of unfavorable situations. However, don't be afraid to spam Close Combat, as it will OHKO or 2HKO most targets that are hit for at least neutral damage. Utilize Primape's coverage movepool to hit their respective targets, such as hitting Scyther with Stone Edge or Tangela with Gunk Shot.
 
 Team Options
 ========
 
-Entry hazard support is very helpful for this set, as it turns many 2HKOs into OHKOs; for example after Stealth Rock damage Qwilfish is 2HKOed by Close Combat, and Muk is OHKOed with Earthquake. In order to eliminate Ghost-types, a Pursuit trapper such as Liepard or Pawniard is helpful, because Mismagius and Rotom are a nuisance for Primeape since it does not have access to Knock Off. In addition, late-game cleaners appreciate Primeape's ability to easily break down walls. Some sweepers that fit this role are Feraligatr, Mismagius, Slurpuff, and many others.
-
-Choice Scarf
-########
-name: Choice Scarf
-move 1: Close Combat
-move 2: U-turn
-move 3: Ice Punch
-move 4: Stone Edge / Earthquake
-ability: Defiant
-item: Choice Scarf
-evs: 252 Atk / 4 Def / 252 Spe
-nature: Jolly
-
-Moves
-========
-
-Close Combat is a very powerful STAB move with a high Base Power, but the defense drops allow Primeape to be revenge killed easily. U-turn is good to use early-game, as it maintains offensive mometum and can get Primeape out of unfavorable situations. Ice Punch provides great coverage alongside Close Combat, as it hits Grass-, Dragon-, and Flying-types, such as Vileplume, Dragalge, Scyther, and Tangela. Stone Edge deals large amounts of damage to Bug-and Flying-types that are not hit super effectively by Ice Punch, such as Accelgor, Mantine, and Pelipper. Earthquake is an option for bulky Poison-types such as Muk, Qwilfish, and Garbodor. Punishment can be used in the last slot to capitalize on Choice Scarf Primeape's ability to revenge kill threats, notably boosting sweepers such as Mismagius and Mesprit.
-
-Set Details
-========
-
-Defiant is the chosen ability for this set, as it allows Primeape to gain a free boost from Defog and Intimidate users. A Jolly nature is used to outspeed all positive natured max Speed base 90 Pokemon at +1 Speed and everything slower.
-
-Usage Tips
-========
-
-Primeape works best as a scout early-game with U-turn. When needed, use Close Combat to revenge kill a foe or to hit a target for super effective damage. Try to nail Pokemon weak to Ice Punch such as Vileplume or Dragalge on the switch with, or Flying-types such as Scyther with Stone Edge. Choice Scarf Primeape works very well against Sticky Web teams, as it will deter the opponent from setting up Sticky Web and giving Primeape a Defiant boost. Even with the Speed drop, Primeape can outspeed common Sticky Web team Pokemon such as Zangoose.
-
-Team Options
-========
-
-Good teammates for Primeape include strong special or mixed attackers, such as Magmortar, Electivire, Mismagius, and Mesprit, that can break down or weaken walls, so Primeape has an easier time late-game. This support is important due to the fact that, without a boosting item like the previous sets, Choice Scarf Primeape is significantly weaker. A Dark-type Pokemon such as Liepard or Pawniard can help trap or defeat Ghost-types, which are troublesome for Primeape. Volt Switch users such as Probopass or Rotom can create a VoltTurn core to keep offensive momentum, and the former can also provide Stealth Rock support.
-
+Entry hazard support is very helpful for this set, as it turns many 2HKOs into OHKOs; for example after Stealth Rock damage Prinplup is 2HKOed by Close Combat, and Muk is OHKOed with Earthquake. In order to eliminate Ghost-types, a Pursuit trapper such as Liepard, Sneasel or Pawniard is helpful, because Mismagius and Rotom are a nuisance for Primeape since it does not have access to Knock Off. In addition, late-game cleaners appreciate Primeape's ability to easily break down walls. Some sweepers that fit this role are Samurott, Mismagius, Lilligant, and many others. If Earthquake is chosen, Pokemon such as Swords Dance Mawile and Swords Dance Scyther appreciate Garbodor being lured in.
 
 Other Options
 ########
 
-Primeape has a fair amount of other support moves to utilize. These include Final Gambit, which deals massive damage to one Pokemon while sacrificing itself; Endeavor, which can weaken a foe for revenge killing; Focus Energy, which works alongside the less accurate Cross Chop; and Taunt, used to stop walls from using their non attacking moves. Night Slash can be used instead of Punishment, but stopping setup sweepers in their tracks is generally more useful. Seed Bomb is an option that leaves a huge dent in Rhydon and Seismitoad, but it is fairly situational. Facade can be used to ignore the Attack drop from burn, but it provides no extra coverage. Life Orb can be used over Expert Belt on the Encore set, but it defeats the purpose of bluffing a Choice item. Lastly, Vital Spirit is an option on the Choice Scarf set so Primeape can ignore sleep-inducing moves from Pokemon such as Jynx, Vileplume, Vivillon, and others.
+Primeape has a fair amount of other support moves to utilize. These include Final Gambit, which deals massive damage to one Pokemon while sacrificing itself; Endeavor, which can weaken a foe for revenge killing; Focus Energy, which works alongside the less accurate Cross Chop; and Taunt, used to stop walls from using their non attacking moves. Night Slash can be used instead of Punishment, but stopping setup sweepers in their tracks is generally more useful. Seed Bomb is an option that leaves a huge dent in Rhydon and Seismitoad, but it is fairly situational. Facade can be used to ignore the Attack drop from burn, but it provides no extra coverage. Life Orb can be used over Expert Belt on the Encore set, but it defeats the purpose of bluffing a Choice item. A Choice Scarf set can be used but Primeape is extremely weak without a power boosting item.
 
 Checks & Counters
 ########
 
-**Ghost-types**: Due to Primeape's inability to use Knock Off or a reliable Dark-type attack, it usually has no way to hit Ghost-types, such as Mismagius and Rotom, for decent damage. The best it can do it U-turn out of the situation to avoid being burned.
+**Ghost-types**: Due to Primeape's inability to use Knock Off or a reliable Dark-type attack, it usually has no way to hit Ghost-types, such as Mismagius and Rotom, for decent damage. The best it can do it U-turn out of the situation to avoid being burned .
 
-**Faster Attackers**: Faster attackers such Archeops, Mismagius, Sceptile, Tauros, and Choice Scarf users, such as Mesprit and Rotom, can all KO Primeape when it is not holding Choice Scarf. However, not all Choice Scarf users can outpace Choice Scarf variants of Primeape, but those that can, such as Tauros and Typhlosion, could greatly damage it.
+**Faster Attackers**: Faster attackers such Archeops, Mismagius, Pyroar, Tauros, and Choice Scarf users, such as Mesprit and Rotom, can all KO Primeape when it is not holding Choice Scarf. However, not all Choice Scarf users can outpace Choice Scarf variants of Primeape, but those that can, such as Tauros and Pyroar, could greatly damage it. Note that none of these Pokemon have any business switching into Primape as they take heavy damage from its STAB or coverage moves.
 
-**Bulky Poison- types**: Primeape struggles against bulky Poison-types such as Weezing, Qwilfish, and Muk. However, the latter two have to watch out for Earthquake. Weezing walls Primeape exceptionally well.
+**Bulky Poison- types**: Primeape struggles against bulky Poison-types such as Weezing, Garbodor, and Muk. However, the latter two have to watch out for Earthquake. Weezing walls Primeape exceptionally well.
 
 **Psychic-types**: Most Psychic-type Pokemon can easily take a hit from Primeape and KO in return, but will take a decent chunk on the switch from U-turn with proper prediction. Some of these are Uxie, Musharna, and Mesprit. The former two have very respectable physical bulk, so they can shrug off most hits Primeape can throw at them.
 
@@ -120,4 +87,4 @@ Checks & Counters
 
 **Status**: Primeape is severely crippled by all forms of status, especially burn, which halves its Attack and renders it useless.
 
-**Priority**: After the Defense drops from Close Combat, Primeape is very susceptible to all forms of priority, such as Sucker Punch and Aqua Jet.
+**Priority**: After the Defense drops from Close Combat, Primeape is very susceptible to all forms of priority, such as Sucker Punch and Aqua Jet from the likes of Pawniard and Samurott respectively.

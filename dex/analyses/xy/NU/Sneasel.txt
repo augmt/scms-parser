@@ -1,89 +1,86 @@
 Overview
 ########
 
-With two great offensive types in Dark and Ice, an amazing Speed tier, and a relatively good Attack stat, Sneasel is a good Pokemon in the NU metagame. It also has access to the coveted Knock Off, and it even has priority in the form of Ice Shard. However, depending on whether it uses Life Orb or Eviolite, it lacks bulk or power, respectively. It has pitiful defensive stats and five weaknesses, and is further hindered by its weakness to Stealth Rock.
-
-All-Out Attacker
-########
-name: All-Out Attacker
-move 1: Knock Off
-move 2: Pursuit
-move 3: Ice Punch
-move 4: Ice Shard
-ability: Inner Focus
-item: Life Orb
-evs: 252 Atk / 4 Def / 252 Spe
-nature: Jolly
-
-Moves
-========
-
-Knock Off is a great STAB choice for any Dark-type, and Sneasel is no different. Boosted by Life Orb, Knock Off can take out lots of threats or severely damage and cripple them by removing their items. Pursuit is used to catch Pokemon switching out off-guard, and when boosted, it really packs a punch. Ice Punch is a great secondary STAB move with great coverage, hitting Grass-, Flying-, and Ground-types hard, while also getting good neutral damage on anything resisting Knock Off. Ice Shard is another Ice-type move, but it has priority, which allows Sneasel to hit faster Pokemon such as Sceptile and Swellow which would otherwise beat it. Ice Shard also allows it to pick off weakened opponents that carry Choice Scarf or carry priority moves. Low Kick can be used used to round off its coverage and hit troublesome Steel-types such as Steelix and Pawniard hard, while also having a chance to OHKO Hariyama at +2, which would otherwise resist both of Sneasel's STAB moves.
-
-Set Details
-========
-
-A Jolly nature is used because Sneasel's Speed tier is just so important. Life Orb is used to increase damage output so that Sneasel hits just about everything hard. Finally, the ability of choice is Inner Focus because it can block flinches from the likes of Fake Out, while its other abilities don't offer much benefit.
-
-Usage Tips
-========
-
-Entry hazards should be removed because Sneasel is vulnerable to them, especially Stealth Rock. Sneasel should not be switching into attacks, even resisted ones, as it is very frail. Sneasel likes picking off opponents as a revenge killer, as it isn't going to be sweeping many teams. It can also be used as a nice hole-puncher mid-game, as it hits really hard. Knock Off should always be the first option to use. Prediction is key, however, as Sneasel doesn't want to be switching in and out often.
-
-Team Options
-========
-
-Pokemon that set entry hazards make good teammates because they give Sneasel an easier time picking off opponents. Accelgor, Crustle, and Roselia make good teammates for this role. For example, after Stealth Rock damage, Swellow is OHKOed by Ice Shard. Pokemon that can beat Fighting-types, especially Poliwrath, work well. Psychic-types are good for this role, as they beat Fighting-types for Sneasel, while Sneasel beats Ghost-types for them. Poison-types make for good teammates, as they can deal with Granbull, which is a huge threat to Sneasel. Garbodor and Qwilfish can switch into Bug-, Fighting-, and Fairy-type moves, set up hazards, and lure in Psychic-types for Sneasel to switch into. Vileplume makes for a good choice, as it can put threatening foes to sleep and beat Rock-types and Poliwrath. Psychic-types such as Exeggutor and Mesprit can deal with physical walls and appreciate Sneasel weakening special walls with Knock Off and Pursuit. Hazard removers work well as teammates, as Sneasel does not appreciate hazards. Swanna and Kabutops are good options for this role because they both resist Sneasel's Fire-type weakness, and Swanna resists its Fighting-type weakness. Lastly, status absorbers such as Gurdurr, Hariyama, and Roselia work well as they don't mind burn, paralysis, or poison very much.
+Sneasel is one of the best offensive Pokemon in NU thanks to its high base 115 Speed, allowing it to outrun almost the entire unboosted metagame including, most importantly, Archeops. Sneasel also has a decent Attack stat, which, when combined with its Speed, makes it a solid late-game cleaner. Access to STAB Knock Off and STAB priority gives Sneasel plenty of powerful utility, allowing it to remove opposing items and pick off weakened Pokemon. However, Sneasel is fairly frail, so it finds it difficult to switch in and set up against opposing offensive pressure without an Eviolite. Sneasel is also susceptible to all entry hazards, so it needs a lot of support to enter the battlefield and sweep. However, with the right support, Sneasel is an offensive powerhouse capable of sweeping entire teams.
 
 Swords Dance
 ########
 name: Swords Dance
 move 1: Swords Dance
 move 2: Knock Off
-move 3: Ice Punch / Ice Shard
-move 4: Ice Shard / Low Kick
+move 3: Ice Shard
+move 4: Icicle Crash / Low Kick
 ability: Inner Focus
 item: Eviolite
-evs: 252 Atk / 4 Def / 252 Spe
+evs: 252 Atk / 4 SpD / 252 Spe
 nature: Jolly
 
 Moves
 ========
 
-Swords Dance allows Sneasel to boost up its Attack to extremely high levels and tear through teams. Knock Off is a great STAB choice for Sneasel. Boosted by Swords Dance, Sneasel can take out or severely damage lots of threats, and cripple them by removing their items. Ice Punch is a great secondary STAB move with great coverage, hitting Grass-, Flying-, Dragon-, and Ground-types hard. Ice Shard is another Ice-type move, but is a priority move, so it can hit faster Pokemon such as Sceptile and Swellow which would otherwise beat Sneasel. It also allows Sneasel to pick off weakened opponents that carry Choice Scarf or may have their own priority. Low Kick is used to round off the coverage and hit Steel-types that pose a threat, such as Steelix and Pawniard.
+Swords Dance boosts Sneasel's Attack to immense levels, allowing it to function as a sweeper. Knock Off is a reliable STAB move that removes the foe's item and is Sneasel's main STAB move due to its high power and perfect accuracy. The move fares very well against the Psychic-types of NU, such as Xatu and Mesprit. Ice Shard is a STAB priority attack that nails faster foes such as Swellow, +1 Lilligant, and Choice Scarf Rotom-S. Icicle Crash can be used for a more powerful Ice-type STAB move against Archeops, Cacturne, Vileplume, and unboosted Lilligant. If you dislike the chance to miss, Ice Punch can be used, but the drop in power is noticeable. Alternatively, Low Kick nails Steel-types, Normal-types, and, most importantly, Hariyama, which resists Sneasel's STAB moves thanks to Thick Fat.
 
 Set Details
 ========
 
-252 EVs go into Sneasel's best stats, Speed and Attack, to maximize them, while the remaining 4 EVs are put in Defense instead of HP to minimize Stealth Rock damage. A Jolly nature is used because Sneasel's Speed tier is very important. An Adamant nature can be used if you don't mind the Speed loss and want the power boost. Eviolite is used to provide just enough bulk to reliably set up. Inner Focus is the ability of choice and is used to block flinch chances from the likes of Fake Out.
+Full investment in Speed and Attack maximizes Sneasel's potential to sweep. Eviolite provides it with just enough bulk to set up against weaker foes. Life Orb can be used to boost Sneasel's offensive presence, but the item wears Sneasel down quickly and makes it tougher to set up a Swords Dance. Inner Focus prevents Sneasel from flinching due to Fake Out from the likes of Hariyama and Kangaskhan.
 
 Usage Tips
 ========
 
-Do not stay in against Fighting-types, as Sneasel has a very bad matchup against them. Take out any Fighting-types before attempting a sweep. Always switch in as little as possible, as Sneasel really hates residual damage. Set up on bulky Pokemon that may not be attacking, or on predicted switches. Eviolite gives enough bulk for Sneasel to use Swords Dance and rip a team apart. Mid-game, Sneasel can still do work by spamming Knock Off and softening up opponents, so don't feel restricted to sweeping late-game.
+Try to set up on a Pokemon that Sneasel can force out, preferably a Psychic-type or a defensive Pokemon, as Sneasel can only afford to take one hit as it sets up a Swords Dance. Even though most Psychic-types run Signal Beam, Eviolite allows Sneasel to survive a single Signal Beam and set up a Swords Dance. If Sneasel cannot force its foe out, it can only set up if the foe lacks high offensive stats or a status-inducing move such as Toxic. Try to bring Sneasel in the battlefield after a teammate faints or with a U-turn or Volt Switch in order to prevent it from taking too much damage as it enters. Once it has set up, Sneasel is free to use its STAB attacks, though it should usually use Ice Shard against faster Pokemon and Choice Scarf users. The combination of a +2 Knock Off and Ice Shard is enough to 2HKO Sawk on the switch, but it does negligible damage to Hariyama, Gurdurr, and Poliwrath. Icicle Crash will not save Sneasel against Gurdurr, which will threaten Sneasel with a STAB Mach Punch.
 
 Team Options
 ========
 
-Pokemon that set entry hazards, such as Crustle, Roselia, and Accelgor, make for good teammates as they give Sneasel an easier time picking off opponents. For example, after two layers of Spikes, a Swords Dance-boosted Ice Punch will always OHKO Sawk. Pokemon that can beat Fighting-types, especially Poliwrath, work well. Psychic-types are good for this role, as they beat Fighting-types for Sneasel, while Sneasel beats Ghost-types for them. Poison-types make for good teammates, as they can deal with Granbull, which is a huge threat to Sneasel. Garbodor and Qwilfish are able to switch into Bug-, Fighting-, and Fairy-type moves, set up hazards, and lure in Psychic-types for Sneasel to switch in on. Vileplume makes a good choice as it beats Rock-types, Poliwrath, and can put threatening foes to sleep. Psychic-types such as Exeggutor and Mesprit can deal with physical walls and appreciate Sneasel's ability to weaken special walls with Knock Off and Pursuit. Hazard removers work well, as Sneasel does not appreciate hazards. Swanna and Kabutops are good options, as Swanna resists Sneasel's Fighting-type weakness, while both resist its Fire-type weakness. Finally, status absorbers such as Gurdurr, Hariyama, and Roselia work well as they do not mind burn, paralysis, or poison.
+A wallbreaker such as Zangoose or Typhlosion can weaken the opposing team so that Sneasel can have an easier time cleaning up. Typhlosion also enjoys having Hariyama weakened by Sneasel's Low Kick, allowing Typhlosion to spam its Fire-type moves more effectively. Psychic-types such as Mesprit can check the Fighting-types that Sneasel struggles with. Entry hazard removal from the likes of Mantine and Claydol can give Sneasel a much easier time switching in. Vileplume handles the Rock-, Fairy-, and Fighting-types that wall Sneasel and can aid Sneasel's sweep by putting foes to sleep with Sleep Powder. Entry hazard setters such as Garbodor can wear down opposing Pokemon in order to aid Sneasel in its attempt at a late-game sweep, and a status absorber such as Gurdurr prevents burn, poison, and paralysis from cutting Sneasel's sweep short.
+
+All-Out Attacker
+########
+name: All-Out Attacker
+move 1: Knock Off
+move 2: Icicle Crash / Ice Punch
+move 3: Ice Shard
+move 4: Pursuit / Low Kick
+ability: Inner Focus
+item: Life Orb / Choice Band
+evs: 252 Atk / 4 SpD / 252 Spe
+nature: Jolly
+
+Moves
+========
+
+Knock Off is a powerful and reliable STAB move that removes opposing items and hits several important Pokemon in NU hard including Uxie and Mismagius. Icicle Crash is another strong STAB attack that hits the offensive powerhouses Archeops and Scyther and can cause a foe to flinch before it can deal serious damage to Sneasel. It also hits Garbodor without making contact, so Sneasel does not take chip damage from Garbodor's Rocky Helmet or Aftermath. Alternatively, Ice Punch can be used for its perfect accuracy. Ice Shard gives Sneasel a strong priority move to deal with Choice Scarf users such as Rotom-S, as well as faster Pokemon such as Swellow. Pursuit is used on a predicted switch to deal serious damage to Mesprit, Cryogonal, Jynx, and Xatu, whereas Low Kick nails Hariyama in addition to Steel- and Normal-types.
+
+Set Details
+========
+
+Maximum Speed investment allows Sneasel to outspeed much of the unboosted metagame in addition to Archeops. Full Attack investment alongside Life Orb allows Sneasel to deal major damage and switch attacks, though Choice Band can be used if higher power is desired over the ability to change moves. Moreover, Choice Band does not wear Sneasel down with recoil damage.
+
+Usage Tips
+========
+
+This set is primarily used as a revenge killer or a mid-game wallbreaker. Keep entry hazards off the field at all times, as Sneasel does not like residual damage. Moreover, as Sneasel lacks Eviolite, it should not be switching into any attacks; always bring it in on a free switch. When facing a Psychic- or Ghost-type, be sure to Pursuit trap it should you be running the move. Otherwise, use Knock Off to cripple the predicted switch-in.
+
+Team Options
+========
+
+Entry hazard setters such as Crustle can wear down opposing Pokemon, making it easier for Sneasel to KO them. Fighting-types such as Hariyama appreciate Sneasel's ability to Pursuit trap Psychic-types, particularly Uxie and Musharna. Garbodor also enjoys having Xatu Pursuit trapped so that it can set up entry hazards more easily. Psychic- and Flying-types such as Mesprit and Rotom-S, respectively, check the Fighting-types that give Sneasel a hard time. Poison-types such as Garbodor and Vileplume have good defensive synergy with Sneasel, as they cover Fighting-, Bug-, and Fairy-type moves while Sneasel covers Psychic-type moves. Entry hazard removers such as Claydol and Prinplup make it easier for Sneasel to switch in and out of the battlefield, which it will be doing often.
 
 Other Options
 ########
 
-Sneasel does not have very many useful alternate options. Poison Jab can be used to hit Fairy-types, but Ice Punch will suffice most of the time. Taunt can be used to stop stall, but Sneasel would usually rather have coverage. A Choice Band set can be used, but Sneasel appreciates the ability to change moves. Focus Sash can be used effectively to ensure a Swords Dance boost, but should be used as a late-game cleaner only. Lastly, Fake Out can be used to hit faster opponents, but Ice Shard usually works just as well, and is boosted by STAB.
+Poison Jab or Iron Tail can be used to hit Granbull and Mega Audino, both of which wall Sneasel otherwise. Taunt can cripple foes attempting to give Sneasel a status problem, but Sneasel often can't afford to give up an attacking move for it.
 
 Checks & Counters
 ########
 
-**Poliwrath**: Poliwrath is the biggest counter to Sneasel, as it resists both of Sneasel's STAB moves, takes little damage from Low Kick, and can either OHKO Sneasel with a STAB Fighting-type move or set up on it.
+**Bulky Fighting-types**: Common Fighting-types such as Gurdurr, Hariyama, and Poliwrath are all major issues for Sneasel. Gurdurr's STAB Mach Punch OHKOes even Eviolite Sneasel, while Hariyama and Poliwrath resist both of Sneasel's STAB attacks. However, Gurdurr cannot switch into Sneasel or else it risks losing its Eviolite, and Hariyama is still hit hard by Low Kick.
 
-**Steelix**: Steelix is very physically bulky, takes minimal damage from any of Sneasel's moves bar Low Kick, and can OHKO Sneasel with a Steel-type STAB move. 
-**Granbull**: Granbull is one of the biggest checks to Sneasel, as it resists Sneasel's main STAB move, Knock Off, and has Intimidate to lower Sneasel's Attack. It can always OHKO with a super effective Play Rough in return.
+**Fairy-types**: Mawile hard walls all of Sneasel's moves and threatens it with Play Rough. Mega Audino and Granbull both take pitiful damage from all of Sneasel's moves bar the rare Iron Tail or Poison Jab. All three Fairy-types can effortlessly switch in on even a +2 Sneasel.
 
-**Fighting-types**: Fighting-types such as Choice Scarf Sawk, Choice Scarf Primeape, Hariyama, and Gurdurr can all reliably beat Sneasel with a super effective STAB move. The first two have trouble switching in, however, as they do not appreciate losing their item, or taking an Ice Punch.
+**Priority Users**: Sneasel's frailty and bad defensive typing leave it vulnerable to priority attackers such as Mach Punch Gurdurr, Aqua Jet Samurott, and Fake Out Kangaskhan. However, Eviolite helps mitigate this weakness somewhat. Moreover, Sneasel resists Sucker Punch and has STAB priority of its own, so priority users must have a significant amount of health to threaten Sneasel.
 
-**Bulky Pokemon**: Any Pokemon that is able to take a hit and retaliate, such as Seismitoad, Garbodor, Bouffalant, or Feraligatr can typically OHKO Sneasel with ease.
+**Bulky Pokemon**: Without a boost, Sneasel fails to break through several bulky Pokemon such as Weezing, Carracosta, Bouffalant, Quagsire. All four Pokemon can switch into Sneasel as it uses Swords Dance. Weezing can burn Sneasel and wear it down with Flamethrower. Carracosta and Bouffalant both can take a +2 Knock Off and OHKO Eviolite Sneasel with Stone Edge. Quagsire bypasses any stat boosts Sneasel accumulates thanks to Unaware, and it can Toxic stall Sneasel easily.
 
-**Status**: Status significantly hinders Sneasel, as burns halve its Attack, paralysis slows it down greatly, and poison whittles its health down.
-
-**Priority**: Gurdurr's Mach Punch, Feraligatr's and Samurott's Aqua Jet, Hariyama's Bullet Punch, and Kangaskhan's Fake Out can all quickly KO Life Orb Sneasel.
+**Status Ailments**: All status problems hinder Sneasel's ability to sweep. Weezing can switch in on Sneasel and use Will-O-Wisp to cut its damage output in half. Liepard and Lanturn can use Thunder Wave to make Sneasel's high Speed useless; Liepard outspeeds Sneasel because of Prankster and Lanturn can take a Knock Off from Sneasel easily. Toxic from defensive Pokemon such as Quagsire wears Sneasel down quickly, and as long as Sneasel cannot break through the Toxic staller, the poison damage will KO it quickly.

@@ -99,6 +99,38 @@ Team Options
 
 Bulky Fighting-types such as Hariyama and Gurdurr as well as Fairy-types such as Granbull make for good teammates, as they resist Dark-type moves which Mesprit is weak to. Entry hazard setters such as Crustle, Cacturne, and Garbodor tend to bait in in other Psychic-types, allowing Mesprit a free switch so it can force them out with a powerful Knock Off or U-turn. Priority users such as Pawniard, Kangaskhan, Gurdurr, and Samurott can be used to check Pokemon that outspeed Mesprit after a boost, such as Shell Smash users, Quiver Dance users, and Rock Polish users. Seismitoad, Poliwrath, Gourgeist-Super, and Encore Liepard are recommended, as Shell Smash users such as Barbaracle and Gorebyss still outspeed Choice Scarf Mesprit after a boost.
 
+Special Scarf
+########
+name: Special Scarf
+move 1: Psychic / Psyshock
+move 2: Thunderbolt / Signal Beam
+move 3: U-turn
+move 4: Healing Wish / Trick
+ability: Levitate
+item: Choice Scarf
+evs: 252 Spa / 4 SpD / 252 Spe
+nature: Timid / Modest
+
+Moves
+========
+
+Psychic is a powerful STAB move that hits Pokemon with weaker Special Defense, such as Gurdurr, Garbodor, and Mawile, harder than Psyshock. Psyshock is a slightly weaker STAB move that hits Pokemon with lower Defense, such as Hariyama and Cryogonal, harder than Psychic. Thunderbolt hits Flying- and Water-type Pokemon that commonly look to switch into Mesprit, such as Xatu and Mantine. Thunderbolt is also useful for picking off fast threats, such as Archeops and Swellow, which Mesprit outspeeds with Choice Scarf. Signal Beam hits opposing Dark-type Pokemon such as Liepard and Malamar for super effective damage. U-turn is great for revenge killing weakened Pokemon and nabbing momentum when the foe switches out. Healing Wish is a great move for bringing a weakened teammate back to full HP late-game. Trick can cripple bulky support Pokemon such as Mantine and Regirock. Ice Beam hits targets similar to those of Thunderbolt but trades the ability to hit Water-types for the ability to hit Grass-types such as Lilligant and Exeggutor. Energy Ball is a more niche option, as it specifically hits Pokemon that are 4x weak to it, such as Seismitoad and Rhydon. Hidden Power Fire can be used to hit Steel-type Pokemon that give Mesprit trouble, such as Pawniard and Ferroseed.
+
+Set Details
+========
+
+Maximum Speed and Special Attack investment gives Mesprit the ability to outpace a good portion of the tier with Choice Scarf and still hit relatively hard. Thanks to Choice Scarf, Mesprit acts as a great revenge killer, outpacing fast threats such as Swellow and Archeops. A Timid nature allows Mesprit to outpace threats with Speed boosts such as Chlorophyll Exeggutor, Shell Smash Crustle, Rock Polish Rhydon, and neutral-natured Choice Scarf Sawk and Lilligant; however, a Modest nature can be used if more power is desired. Levitate gives Mesprit a really useful Ground-type immunity that allows it to freely switch into Earthquake from the likes of Seismitoad, Rhydon, and Archeops.
+
+Usage Tips
+========
+
+Mesprit should spend the majority of its time revenge killing the opponent's Pokemon or using U-turn to gain momentum on switches. Thanks to its natural bulk, typing, and Levitate, Mesprit can act as a pivot into Fighting-, Psychic-, and Ground-type attacks. Healing Wish should be used when important teammates need to be restored to full HP to preserve a win condition. If the opponent has bulky Pokemon that easily switch into Mesprit, using Trick can limit their effectiveness throughout the game. Before Mesprit's Choice Scarf has been revealed, it can nab surprise KOs early-game.
+
+Team Options
+========
+
+Fairy- and Fighting-type Pokemon such as Granbull, Gurdurr, and Hariyama resist Dark-type attacks and can threaten out Pokemon such as Liepard and Pawniard, which scare Mesprit. Entry hazard setters such as Regirock, Crustle, and Garbodor can help turn 2HKOs into OHKOs by weakening the opposing team with Stealth Rock and Spikes. Mesprit appreciates physical attackers such as Sawk, Archeops, and Mawile, which can break down specially defensive walls such as Lickilicky and Audino. Mesprit can fit well on more offensive teams that find themselves needing a little more Speed, which value a pivot and revenge killer. Thanks to Healing Wish, Mesprit also pairs well with setup sweepers, as it can give them a second chance at a sweep after they weaken the opponent's team.
+
 Other Options
 ########
 

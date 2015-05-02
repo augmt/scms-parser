@@ -1,85 +1,54 @@
 Overview
 ########
 
-While Empoleon's UU status might leave it overlooked in OU, it actually has quite a notable niche in handling many prominent threats, such as Latios, Latias, Superpower-lacking Azumarill, and Clefable, all common roadblocks to many teams. Empoleon can also support its team with access to both Defog and Stealth Rock, and its typing and good natural bulk allow it to function effectively as a special wall. Empoleon's excellent movepool backed by a base 111 Special Attack also means that it can be used as a tank. However, its weaknesses to common offensive types such as Electric, Fighting, and Ground mean that it can be hard-pressed to switch in, and its lack of reliable recovery and low Speed mean that it can be easily worn down.
+By virtue of its great typing, Empoleon is able to check popular Dragon-, Fairy-, and Water-types such as Latios, Mega Altaria, and Manaphy. Access to both Stealth Rock and Defog is also very useful as Empoleon provides great entry hazard control in one teamslot, and it is one of the few Defog users with a resistance to Stealth Rock. However, Empoleon is somewhat passive; it often just sits there hoping for a Scald burn and phazing the foe. It also loses to some of the Pokemon it is supposed to check, such as Clefable, in a last Pokemon situation. Weaknesses to common offensive types in Fighting, Ground, and Electric also hold Empoleon back a little because Pokemon often carry coverage that hit it super effectively. Finally, no reliable recovery and low Speed means Empoleon is worn down pretty easily and cannot keep checking threats the whole game without Wish support.
 
 Specially Defensive
 ########
 name: Specially Defensive
 move 1: Scald
-move 2: Toxic
-move 3: Roar / Protect
-move 4: Stealth Rock / Defog
+move 2: Roar
+move 3: Toxic / Stealth Rock
+move 4: Defog / Stealth Rock
 ability: Torrent
-item: Leftovers
+item: Leftovers / Chople Berry
 evs: 248 HP / 8 Def / 252 SpD
 nature: Calm
 
 Moves
 ========
 
-Scald's 30% burn chance helps Empoleon handle physical attackers more easily and deters many of them from switching in. Toxic puts a timer on opponents, slowly wearing them down. Roar can be used to stop Pokemon such as Calm Mind Clefable from setting up for free, although Protect can be helpful for accumulating Leftovers recovery and racking up Toxic damage, as well as scouting for moves. Stealth Rock should be used if your team lacks an entry hazard setter. Defog can be used in this slot to clear hazards when facing Pokemon that cannot touch Empoleon.
+Scald has a 30% chance to burn the foe, making physical attackers hesitant to switch in. Roar phazes out setup sweepers such as Manaphy and Clefable that would otherwise set up on Empoleon despite the type disadvantage. Toxic helps in actually defeating Pokemon such as Latios that Empoleon walls but cannot deal a lot of damage against with Scald. Defog removes all entry hazards from the field, which is useful for teammates such as Talonflame and Mega Pinsir that are weak to them. Stealth Rock can be used over either Toxic or Defog depending on what your team needs. Protect grants Empoleon additional Leftovers recovery, racks up poison and burn damage, and can scout moves from Choice-locked Pokemon such as Landorus-T and Keldeo. Knock Off cripples common switch-ins such as Chansey and Ferrothorn, and gives Empoleon a way to deal a lot of damage against some of the Pokemon it walls, such as Latios and Starmie. Yawn can force switches because the opponent does not want their Pokemon asleep, makes Empoleon not a sitting duck against Pokemon such as Ferrothorn and last-Pokemon Clefable's, and grants setup opportunities for teammates.
 
 Set Details
 ========
 
-The given EV spread allows Empoleon to make the best of its excellent Special Defense, which is further bolstered by a Calm nature. Leftovers gives Empoleon some much-needed passive recovery.
+The given EV spread maximizes Empoleon's special bulk so it can effectively wall a lot of threatening Pokemon in OU, such as Latios, Latias, Sylveon, and Mega Altaria. An alternative EV spread of 248 HP / 200 Def / 60 SpD with a Bold nature can be used, as it enables Empoleon to live an Earthquake from Landorus-T and a Thunderbolt from Mega Manectric and hit them back with a Torrent-boosted Scald. Torrent is used as Defiant is completely useless, because Empoleon uses no physical attacks, and it can power up Empoleon's Scald in a pinch. Leftovers grants Empoleon passive recovery so it is harder to wear down. Chople Berry is an option as it helps Empoleon against Pokemon such as Mega Gardevoir, Terrakion, Keldeo, and Gengar by reducing the amount of damage taken from a Fighting-type attack for a turn.
 
 Usage Tips
 ========
 
-Empoleon works nicely as a pivot, switching into common threats such as Azumarill and Heatran. It can serve as a good answer to most rain teams, easily handling staples such as Azumarill without Superpower and Kabutops, while still handling many common threats such as Clefable. Stealth Rock and Defog can be used rather easily, as Empoleon forces quite a few switches, most notably on Heatran, one of the most common Stealth Rock users. Scald is a very spammable move, crippling many switch-ins and potentially whittling their health down for other teammates. Keep in mind that Empoleon has no access to reliable recovery, so keep it away from Knock Off and potential Will-O-Wisp users to let it do its job more effectively.
+Switch Empoleon in against Dragon-, Fairy-, and Water-type Pokemon such as Latios, Sylveon, and Manaphy, and set up Stealth Rock or use Defog against them. Empoleon works best as a defensive pivot, switching into common Pokemon such as non-Superpower Azumarill, Heatran, and Clefable, and forcing them out. Empoleon also does great against rain teams as it can check non-Low Kick Kabutops, Omastar, and Kingdra. It is important to avoid Knock Off and burns, because Empoleon has no reliable recovery and is thus not very hard to wear down. It is also favorable to not let the opponent stack too much layers of Spikes, as Empoleon is already worn down easily. Just clicking Scald is almost never a bad idea, as the 30% chance to burn is very useful in wearing the opponent down and crippling physical attackers that might try to switch in.
 
 Team Options
 ========
 
-Wish support from teammates is very helpful, as Empoleon lacks any reliable recovery of its own. Landorus-T and Gliscor appreciate Empoleon's ability to deal with threats such as Azumarill, Substitute + Dragon Dance Gyarados, and other Water- and Ice-types which they cannot handle, and can take Fighting-, Electric-, and Ground-type moves in return. Pokemon such as Mega Charizard X, Talonflame, and Latios appreciate Empoleon's ability to switch into Azumarill and Heatran.
-
-
-Choice Specs
-########
-name: Choice Specs
-move 1: Hydro Pump
-move 2: Flash Cannon
-move 3: Grass Knot
-move 4: Hidden Power Fire / Ice Beam
-ability: Torrent
-item: Choice Specs
-evs: 248 HP / 252 SpA / 8 Spe
-nature: Modest
-
-Moves
-========
-
-STAB Choice Specs-boosted Hydro Pump hits astonishingly hard coming off Empoleon's decent base 111 Special Attack, denting most Pokemon without a resistance. Flash Cannon is Empoleon's second STAB move, dispatching Fairy-types and 2HKOing Pokemon that resist Water such as the Lati twins. Grass Knot hits most opposing Water-types such as Keldeo, Suicune, and Azumarill. Hidden Power Fire takes care of Scizor and Ferrothorn, while Ice Beam can be used to defeat Dragon-types more easily.
-
-Set Details
-========
-
-A standard spread for a special attacker allows Empoleon to hit as hard as possible while maintaining enough Speed to outrun Clefable, Azumarill, and minimum Speed Tyranitar. Alternatively, a Timid nature can be used to get the jump on neutral-natured Heatran, Breloom, and Scizor. Choice Specs boosts the power of Empoleon's attacks, and Torrent enables it to do even more damage to opponents while on the brink of fainting.
-
-Usage Tips
-========
-
-The standard defensive set can easily be bluffed, allowing Empoleon to surprise the opponent with a powerful Choice Specs-boosted attack. Empoleon's STAB combination hits most of the tier neutrally, with Rotom-W and Chansey being the only common counters to it. This set is also a neat answer to Water-types in general, being able to easily switch into Choice-locked Keldeo and Azumarill, as well as bulkier Water-types such as Suicune and Slowbro.
-
-Team Options
-========
-
-Gliscor and Landorus-T have great synergy with Empoleon, resisting each other's weaknesses, and can act as offensive pivots to maintain momentum and keep applying offensive pressure. Healing Wish support from Latias is extremely helpful due to the fact that Latias also beats most of Empoleon's common checks, such as Mega Venusaur, Keldeo, and Rotom-W. Rotom-W and Chansey wall this set completely, so a teammate such as Mold Breaker Excadrill or Assault Vest Conkeldurr can patch up these problems. Talonflame also works decently as a teammate, as it can take care of Ferrothorn and most Fighting-types with ease, while Empoleon can switch into Heatran and Tyranitar in return.
+Clerics, especially Clefable as it has the best type synergy with Empoleon, are great teammates because they can keep Empoleon healthy with Wish and Heal Bell. Pokemon such as Talonflame and Victini appreciate Empoleon's ability to remove Stealth Rock and other entry hazards. Fire- and Grass-types such as Talonflame and Amoonguss can form a Fire / Water / Grass core together with Empoleon that covers each other's weaknesses very well. Similarly, Dragon- and Fairy-types such as Garchomp and Clefable can form a Dragon / Fairy / Steel core together with Empoleon that also covers each other's weaknesses very well. Empoleon also forms a good core with with Tangrowth and Zapdos as they have great type synergy. Empoleon and Landorus cover each other's weaknesses perfectly and can form a core together. Landorus can also set up on most of what forces Empoleon out, such as Landorus-T and Terrakion.
 
 Other Options
 ########
 
-Icy Wind, Yawn, and Knock Off can be used on the defensive set, but the given moves are generally more useful. A SubPetaya set can work decently, but there are still many Pokemon which can take a hit or outspeed and KO it. A physically based set with Defiant is usable, but Empoleon's lackluster physical movepool and low Speed leave it easily walled or revenge killed. Empoleon's low Speed can be somewhat remedied by using an Agility set, but such a set lacks power and can still be easily revenge killed.
+A Choice Specs set with the moves Hydro Pump, Flash Cannon, Grass Knot, and either Hidden Power Fire or Ice Beam hits very hard and can bluff the standard defensive set. Empoleon can be a suicide lead with Focus Sash to take advantage of Torrent to fire off powerful Hydro Pumps. It can also get surprise KOs against Pokemon such as Landorus-T and Excadrill, and act as an emergency check to Pokemon such as Mega Altaria with Flash Cannon. Agility and Substitute together with a Petaya Berry make Empoleon a decent sweeper, but one that is lacking in coverage. A physically offensive set with Defiant and Swords Dance can possibly sweep with boosted Aqua Jets, but is weak without a boost and just generally an inferior Defiant user. Flash Cannon hits Fairy-types such as Clefairy and Sylveon that Empoleon walls decently hard, but most of the time Empoleon is better off just using Roar as Calm Mind Clefable sets up on it and Sylveon will often switch out of Empoleon anyway. Icy Wind can slow down the foe for another teammate to defeat it.
 
 Checks & Counters
 ########
 
-**Electric-types**: Electric-types such as Raikou, Mega Manectric, and Thundurus can often threaten out Empoleon with a powerful STAB move, although they don't enjoy switching into the Choice Specs set. Rotom-W in particular takes pitiful damage from both of Empoleon's sets, but a Scald burn can force Rotom-W to use up its Chesto Berry early.
+**Electric-types**: Electric-types such as Raikou, Rotom-W, and Thundurus hit Empoleon for super effective damage with their STAB attacks. They do not like poison, however, as Electric-types are often relied upon to defeat Flying-types such as Talonflame and Mega Pinsir that often accompany Empoleon.
 
-**Fighting-types**: Fighting-types such as Keldeo, Mega Heracross, and Terrakion scare off Empoleon with a super effective STAB move, but they cannot switch in directly due to the risk of a burn or heavy damage. However, Conkeldurr can easily switch into any move that Empoleon wants to use courtesy of its Assault Vest and recover off the damage while OHKOing Empoleon with Drain Punch. Conkeldurr also doesn't mind being burned due to Guts .
+**Fighting-types**: Fighting-types such as Keldeo and Mega Gallade can easily take care of Empoleon with their STAB moves, and set up a Swords Dance or Calm Mind as Empoleon switches out. Assault Vest Conkeldurr can also switch in on anything Empoleon can do and defeat it.
 
-**Grass-types**: Most Grass-types don't fear a burn from the defensive set due to them being specially oriented, although Ice Beam and Flash Cannon will deal a hefty chunk to them. Mega Venusaur in particular walls both sets, being immune to Toxic and having a neutrality to Ice Beam thanks to Thick Fat.
+**Grass-types**: Grass-types such as Mega Venusaur and Breloom wall Empoleon and can do whatever they want against it.
 
-**Chansey**: Chansey's insane special bulk allows it to eat up any attack from Empoleon and stall Empoleon out with a combination of Seismic Toss and Soft-Boiled. Chansey also doesn't fear a Scald burn due to Natural Cure.
+**Trappers**: Magnezone does a very good job at switching into and defeating Empoleon with a STAB Thunderbolt. Dugtrio cannot switch in but can still defeat Empoleon with Earthquake, and Gothitelle can hit Empoleon very hard with Thunderbolt if it carries the move.
+
+**Chansey**: Due to its massive HP and Special Defense, Chansey can switch in without fear against any Empoleon lacking Knock Off and defeat Empoleon with Seismic Toss.

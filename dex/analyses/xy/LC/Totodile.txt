@@ -1,58 +1,84 @@
 Overview
 ########
-Totodile is a moderately powerful Pokemon that has access to Dragon Dance, which allows it to sweep through teams. However, Totodile is almost entirely outclassed by Corphish, only having the advantage in Speed and Special Defense. Even so, Totodile's Speed is abysmal at best, capping out at 14 with an Adamant nature. Another crippling trait Totodile possesses is the lack of coverage it can have, with only two moves of varying coverage. This leads it to being walled by a variety of different Pokemon. However, Totodile's high 16 Attack still makes it viable in the metagame.
 
+Totodile is a powerful wallbreaker thanks to Sheer Force, which boosts the power of moves without secondary effects, such as Waterfall and Ice Punch, by 30%. Totodile has access to two excellent boosting moves, Swords Dance and Dragon Dance, allowing it to boost its wallbreaking capabilities even further or act as a late-game sweeper. However, it faces stiff competition from Corphish in these roles, as Corphish has a higher Attack stat and Adaptability, as well as access to the coveted Knock Off. Totodile has a few advantages over Corphish, however, most notably its access to Ice Punch, which allows it to break past bulky Grass-types such as Foongus after a boost. Totodile also has a bit more bulk than Corphish, allowing it to set up more easily.
 
 Dragon Dance
 ########
 name: Dragon Dance
 move 1: Dragon Dance
 move 2: Waterfall
-move 3: Aqua Jet / Substitute
-move 4: Ice Punch / Brick Break
-ability: Torrent
-item: Eviolite
-evs: 36 HP / 156 Atk / 4 Def / 60 SpD / 252 Spe
+move 3: Ice Punch
+move 4: Superpower / Aqua Jet
+ability: Sheer Force
+item: Eviolite / Life Orb
+evs: 236 Atk / 4 Def / 252 Spe
 nature: Adamant
-
 
 Moves
 ========
-Dragon Dance raises Totodile's abysmal Speed and its already high Attack stat. As a primary STAB move, Waterfall does a good job of disposing of Eviolite-lacking Pokemon that are neutral to it, and gives Totodile a chance to flinch the opponent, which can be especially important when against Pokemon that otherwise wall Totodile. Aqua Jet can be used to polish off opposing Pokemon that can otherwise harm Totodile. Substitute lets Totodile set up with more ease, allowing it to take certain hits and retaliate accordingly. Ice Punch hits Grass-types, which resist Waterfall, solidly. Brick Break, however, allows Totodile to break through bulky Normal- and Steel-types such as Munchlax and Ferroseed, respectively, which can survive one of Totodile's hits and proceed to cripple and beat Totodile 1v1.
 
+Dragon Dance raises Totodile's Attack and Speed, letting it outspeed the entire unboosted metagame after one use and attempt a sweep. Waterfall gets boosted by Sheer Force and STAB, making it a very strong attacking option. After a single Dragon Dance, foes lacking a resistance or an immunity to the move will be taking massive damage. Ice Punch provides important coverage against bulky Grass- and Flying-types such as Foongus and Vullaby. After a Dragon Dance boost, Totodile can OHKO them both after Stealth Rock damage if it holds Life Orb. Superpower provides coverage against bulky Pokemon such as Ferroseed, Lileep, and Porygon. However, Totodile will require Knock Off support or prior damage to secure OHKOs on these Pokemon, or it risks being KOed or crippled. Aqua Jet can be used to hit opposing priority users such as Fletchling, Pawniard, and Timburr for decent damage before they can strike back with their own priority moves. Aqua Jet particularly messes with Sucker Punch users such as Pawniard, as Sucker Punch will fail if it goes last.
 
 Set Details
 ========
-156 Attack EVs leave Totodile with 16 Attack, allowing it to leave moderate dents in opposing Pokemon even before setting up. 252 EVs go into Speed to maximize it, ensuring that Totodile can outspeed certain threats while unboosted, such as Cottonee and Chespin. The remaining EVs boost HP, Defense, and Special Defense by one more full stat point. Eviolite further increases these stats, allowing Totodile to survive longer while it sets up.
 
+The EVs maximize Totodile's Attack and Speed. An Adamant nature is preferred so that Totodile hits as hard as possible. With maximum Speed investment, Totodile hits 21 Speed after a Dragon Dance boost, allowing it to outpace the entire unboosted metagame. A Jolly nature is an option to outspeed 14 Speed Choice Scarf users after a boost, such as Magnemite, Scraggy, and Snover. Sheer Force is a necessity, giving a nice power boost to Totodile's Waterfall and Ice Punch. Eviolite increases Totodile's bulk, which gives it more setup opportunities and makes it harder to revenge kill. Life Orb, on the other hand, gives Totodile a significant power boost and makes sweeping past bulky foes much easier. Thanks to Sheer Force, Life Orb recoil is negated for moves with secondary effects such as Waterfall and Ice Punch.
 
 Usage Tips
 ========
-Totodile is disposed of quite easily by a variety of hard-hitting Pokemon, such as Abra and Mienfoo. Be certain to only set up on Pokemon that are forced out by the presence of Totodile, such as Drilbur and Archen. Also be sure to remove or severely cripple Totodile's checks and counters as well as any status users before attempting to set up, as it has no way of removing status.
 
+Totodile functions as a late-game sweeper and should try to wait to set up until its checks and counters have been weakened or KOed. Totodile should attempt to set up a Dragon Dance on Pokemon it forces out, such as Archen, Drilbur, or Diglett. Keep in mind that Superpower lowers Totodile's Attack and Defense, making it easier for opposing priority users, Choice Scarf users, and bulky foes to revenge kill or cripple Totodile. Totodile hates all status effects, as they hamper its sweeping ability, so it shouldn't try to set up on Pokemon that commonly carry status moves, such as Porygon. Also, beware of Pokemon that can set up alongside Totodile, such as Timburr, which can boost with Bulk Up and defeat Totodile in a one-on-one situation.
 
 Team Options
 ========
-Seeing as Totodile is entirely shut down by status, having a Pokemon that is unafraid to be statused is immensely beneficial to Totodile, with Foongus playing this role quite nicely. Guts Timburr can also assist in this, being able to use such an infliction to its advantage and proceed to weaken the opposing team, leaving way for Totodile to do more work. However, if either you do not have a status absorber or it has failed to do its job, having a Pokemon such a Spritzee that can Aromatherapy away any negative effects is a nice backup to keep Totodile in fighting shape. Having the ability to pass a Wish off to Totodile to increase its longevity is also another nice factor that allows Totodile to attempt setting up again. Another type of Pokemon that helps Totodile set up is a fast Memento user, namely Diglett and Cottonee, can ensure that Totodile gets to set up at least once. The final piece to help ensure the best of a Totodile sweep would be fast Knock Off users, to remove Eviolites from nuisances to Totodile. Choice Scarf Pawniard plays this role expertly, being able to not only remove essential items from Pokemon but also deal respectable damage to a large variety of Pokemon.
 
+A Memento user such as Cottonee or Diglett can provide Totodile with an easy setup opportunity; this is especially important if Totodile is running Life Orb. Cottonee can also provide additional setup opportunies for Totodile with Encore, while Diglett can trap and KO Pokemon such as Chinchou and Croagunk, which are troublesome foes for Totodile. Clerics such as Spritzee can heal Totodile of status and pass Wishes to it. Entry hazard setters such as Dwebble, Ferroseed, and Archen can pair well with Totodile, allowing Totodile to obtain crucial OHKOs on bulky Pokemon such as Vullaby, Ferroseed, and Foongus. A Pokemon that can switch into status moves, such as Timburr or Foongus, can make for a good teammate, as Totodile is a target for all sorts of status moves. Timburr can benefit from status thanks to Guts and can provide Knock Off support, while Foongus doesn't particularly mind being statused and can put a foe to sleep with Spore. Other offensive Water-types including Tirtouga, Carvanha, Corphish, and Omanyte can pair up nicely with Totodile, as they weaken each other's checks and counters, allowing one to eventually pull off a sweep late-game. Drilbur can serve as an offensive check to Chinchou and Croagunk, two Pokemon that Totodile doesn't enjoy dealing with, and can also provide the team with Stealth Rock and Rapid Spin support. Gothita or Magnet Pull Magnemite can trap Ferroseed for Totodile, allowing it to safely run Aqua Jet over Superpower.
+
+Swords Dance
+########
+name: Swords Dance
+move 1: Swords Dance
+move 2: Waterfall
+move 3: Ice Punch
+move 4: Aqua Jet / Superpower
+ability: Sheer Force
+item: Eviolite / Life Orb
+evs: 236 Atk / 4 Def / 252 Spe
+nature: Adamant
+
+Moves
+========
+
+Swords Dance doubles Totodile's Attack, increasing its damage output even further and allowing Totodile to act as a powerful wallbreaker. Waterfall gets STAB and a Sheer Force boost, making it Totodile's strongest attacking option. Ice Punch hits Grass-types such as Foongus incredibly hard, easily KOing them at +2 with Life Orb, and KOing at +2 after Stealth Rock damage if Totodile opts for Eviolite. Aqua Jet allows Totodile to pick off faster weakened Pokemon and can be used in conjunction with Swords Dance late-game to clean up weakened teams. Superpower, on the other hand, provides important coverage against Ferroseed, Lileep, and Porygon; at +2, it OHKOes them all after Stealth Rock damage. Superpower also provides handy neutral coverage against Water-types, which otherwise resist Totodile's coverage.
+
+Set Details
+========
+
+Maximum Attack investment and an Adamant nature ensure that Totodile hits as hard as possible. A Jolly nature could be used to get the jump on Pokemon such as defensive Chinchou and defensive Archen, but Totodile usually prefers Adamant for the added damage output and ability to attain key guaranteed OHKOs at +2, such as Porygon and Foongus. Sheer Force is an amazing ability, giving a 1.3x power boost to Totodile's Waterfall and Ice Punch. Eviolite gives a nice boost to Totodile's bulk, making it easier for Totodile to set up and harder for it to be revenge killed, while still hitting very hard at +2 with Sheer Force. Life Orb can be used instead to hit harder right off the bat. Sheer Force also negates Life Orb recoil for moves with secondary effects such as Waterfall and Ice Punch.
+
+Usage Tips
+========
+
+Bring Totodile in mid- or late-game to break through walls, paving the way for another teammate to sweep. Alternatively, Totodile can potentially clean up on its own late-game if faster foes have been weakened into KO range for Totodile's Aqua Jet. Totodile should attempt to set up a Swords Dance on Pokemon it forces out, such as Archen, Drilbur, or Diglett. Keep in mind that Superpower lowers Totodile's Attack and Defense, making it easier for a foe to revenge kill Totodile. Totodile's offensive potential is seriously hampered by status effects, so try to avoid setting up on Pokemon that commonly carry status moves, such as Porygon. Note that Pokemon such as Timburr can boost alongside Totodile and defeat it one-on-one.
+
+Team Options
+========
+
+Clerics such as Spritzee make for good teammates, as they can heal Totodile of status and pass Wishes to it. Grass-types such as Ferroseed and Foongus have good synergy with Totodile, as they can cover its weaknesses to Grass- and Electric-type moves. Ferroseed can also provide entry hazard support, allowing Totodile to secure OHKOs on bulky Pokemon such as Porygon, Koffing, and Vullaby. Foongus doesn't mind most types of status, so it can switch into status moves aimed at Totodile and put a foe to sleep with Spore. Timburr can benefit from status moves aimed at Totodile thanks to Guts and provides Totodile with useful Knock Off support. Other offensive Water-types can pair up nicely with Totodile, as they can wear down each other's checks and counters, allowing one to pull off a sweep late-game. These include Tirtouga, Carvanha, Corphish, and Omanyte. Drilbur can serve as an offensive check to Chinchou and Croagunk, two Pokemon that Totodile doesn't enjoy dealing with, and can also provide the team with Stealth Rock and Rapid Spin support. Gothita or Magnet Pull Magnemite can trap Ferroseed for Totodile, allowing it to safely run Aqua Jet over Superpower.
 
 Other Options
 ########
-Most of the options that Totodile has are mainly for coverage, such as running Crunch for Psychic-types, namely Slowpoke. More examples are Aerial Ace for Croagunk and Mienfoo, Rock Slide for Mantyke, Iron Tail for Snubbull and Spritzee, Superpower for a hard-hitting move to dispose of Normal-types, and Double-Edge for a neutral coverage move that takes Totodile down to Torrent even quicker. In place of Dragon Dance, you can run a Swords Dance set, though the lack of Speed boosts is the greatest downfall of such a set.
 
+Crunch hits Slowpoke and Frillish super effectively, two Pokemon that could otherwise wall Totodile's entire set. Aerial Ace is a niche coverage option that hits Croagunk super effectively, but it's weak, doesn't receive a Sheer Force boost, and has little use outside of this. Rock Slide OHKOes Mantyke but provides rather redundant coverage in other situations. Iron Tail hits Snubbull and Spritzee hard and is able to OHKO both of them after a Swords Dance boost, but its accuracy is a bit of a letdown. Substitute can be used as a way to dodge status moves and Sucker Punch, potentially giving Totodile another turn to set up.
 
 Checks & Counters
 ########
-**Status Users**: Totodile has no real method of dealing with status once it begins to set up, as it cannot afford to remove it by switching out and having to attempt setting up again. That being said, burns and paralysis are extremely detrimental to Totodile, as they lower its Attack and Speed, respectively. Bulky Pokemon such as Porygon or Slowpoke are easily able to eat up an attack Totodile goes for and proceed to Thunder Wave it.
 
-**Powerful Choice Scarf Users**: Powerful Choice Scarf users, such as Pawniard and Gastly, are able to typically outspeed and revenge kill a weakened Totodile, even after a single Dragon Dance, assuming they are able to survive a boosted Aqua Jet.
+**Status Users**: Burn, paralysis, and sleep all heavily cripple Totodile, as they severely cut its offensive potential. Any status user capable of tanking a hit from Totodile can serve as a decent check.
 
-**Focus Sash / Sturdy Users**: Focus Sash or Sturdy users revenge kill Totodile easily. Magnemite falls into the second category, being able to take any hit Totodile may have, and proceed to OHKO it with its Electric-type STAB moves.
+**Fast Choice Scarf Users**: Fast Choice Scarf users such as Mienfoo, Chinchou, and Pawniard can serve as good checks to both the Swords Dance and Dragon Dance sets, as they can outspeed +1 Totodile and hit it hard with their STAB moves. Swords Dance sets are a bit harder to revenge kill, however, as a counter will need to be healthy enough to stomach a +2 Aqua Jet.
 
-**Bulky Water-types**: Bulky Water-types such as Slowpoke and Chinchou can easily switch in and retaliate with Psychic and an Electric-type move, respectively.
+**Bulky Water-types**: Bulky Water-types such as Chinchou, Skrelp, and Slowpoke can switch in without too much trouble, sponge a hit, and retaliate back with their STAB moves or cripple Totodile with Thunder Wave.
 
-**Croagunk**: Thanks to Dry Skin, Croagunk is able to take Waterfall and Aqua Jet while whittling Totodile down to the point where it can either finish it off on its own or have something else revenge kill it.
-
-**Bulky Grass-types**: Cottonee can prevent Totodile from setting up, Encoring it into Dragon Dance if it were to use it, and proceeding to 2HKO it with Giga Drain. Ferroseed, when healthy, can eat up any attack Totodile may throw at it, and proceed to paralyze, and 2HKO it. Foongus can eat up attacks, and then put Totodile to sleep, neutralizing it as a threat, and proceed to dispose of it with Giga Drain.
-
-**Timburr**: Timburr has the capability to set up alongside Totodile, being able to tank the boosted hits with the gained Defense from Bulk Up, something Totodile is unable to match. 
+**Croagunk**: Croagunk is immune to Waterfall and Aqua Jet thanks to Dry Skin, resists Superpower, and is only hit neutrally by Ice Punch. Croagunk can thus switch in on almost any move and retaliate with its STAB moves.

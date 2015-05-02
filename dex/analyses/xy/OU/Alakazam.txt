@@ -1,49 +1,85 @@
 Overview
 ########
 
-Mega Alakazam is an exceptional revenge killer, outspeeding most of the unboosted metagame, while possessing a deadly combination of coverage and power. Alakazam gains Trace upon Mega Evolution, an ability which allows it to revenge kill some of the most dangerous threats in the tier, notably Swift Swim sweepers and Sand Rush Excadrill. It can also be used to acquire Sheer Force and Protean to boost its power to even greater levels, acting as a terrifying late-game cleaner. However, its poor defensive typing and paper-thin defenses make it extremely susceptible to priority, hampering its effectiveness against offensive teams and making it difficult to Mega Evolve safely.
+Alakazam and its Mega Evolution both have an excellent Special Attack stat, coupled with a fantastic Speed tier, which allows it to function effectively as a wallbreaker, revenge killer, and late-game sweeper. In addition, both Alakazam and Mega Alakazam have access to stellar abilities in Magic Guard and Trace, respectively; Magic Guard allows Alakazam to be an excellent revenge killer, as a Focus Sash will stay intact regardless of entry hazards and damaging status, as well as negating Life Orb recoil, and Trace enables Mega Alakazam to copy the foe's ability, and thus it can revenge kill weather sweepers such as Mega Swampert, Kingdra, and Excadrill. Last but not least, Alakazam has a wide array of utility options in its arsenal such as Thunder Wave, Encore, and Taunt, letting it function well against both offensive and defensive teams.
 
-Mega Special Attacker
+However, Alakazam possesses a mediocre Psychic typing, leaving it vulnerable to the omnipresent Knock Off as well as Pursuit and U-turn users such as Bisharp and Scizor. To add insult to injury, Alakazam has paper-thin defenses due to its low HP and Defense stats, rendering it extremely susceptible to numerous priority attacks as well as reducing Alakazam's opportunities to switch in. Finally, Alakazam is also extremely reliant on entry hazard damage to nab some KOs.
+
+Mega Alakazam
 ########
-name: Mega Special Attacker
+name: Mega Alakazam
 move 1: Psychic
 move 2: Focus Blast
 move 3: Shadow Ball
-move 4: Hidden Power Fire / Substitute / Protect
+move 4: Encore / Substitute
 ability: Magic Guard
 item: Alakazite
-evs: 32 HP / 252 SpA / 224 Spe
-nature: Modest / Timid
+evs: 4 Def / 252 SpA / 252 Spe
+nature: Timid
 
 Moves
 ========
 
-Psychic is Mega Alakazam’s optimal STAB move, as it hits physically defensive Pokemon, such as Mega Vensaur, Landorus-T, and Hippowdon, harder than Psyshock while threatening everything else needed. Focus Blast is used in the second slot to threaten Dark- and Steel-types such as Tyranitar, Mega Gyarados, Heatran, and Excadrill. Opposing Psychic-types, which would otherwise wall Alakazam, are threatened by a super effective Shadow Ball, which deters opposing Psychic-types, such as Mew, Latios, Latias, Mega Gardevoir, and opposing Mega Alakazam, from switching in on Mega Alakazam. In the final moveslot, Mega Alakazam has a number of viable options. Hidden Power Fire is preferred to OHKO Scizor and Ferrothorn as well as hit other Steel-types more reliably. However, either Substitute or Protect can be used to ensure Mega Evolution, especially against offensive teams. Substitute shields Mega Alakazam from status and priority, prolonging its longevity, as well as acting as a buffer against possible revenge killers. Protect guarantees that Alakazam will Mega Evolve, giving it an immediate boost to its Speed and greater general flexibility. It is especially advantageous against rain offense before Mega Evolving, enabling Alakazam to revenge kill Swift Swim sweepers without having to Mega Evolve beforehand due to getting Trace.
+Psychic is Mega Alakazam's obligatory STAB move, and it is chosen to hit physically defensive foes such as Landorus-T and Mega Venusaur harder than Psyshock as well as the increased Base Power; however, Psyshock is an option to deal with specially defensive foes such as Chansey or Blissey. Focus Blast provides good coverage with Psychic and deals with Dark- and Steel-types that resist Psychic. Shadow Ball hits other Psychic-types, which Psychic and Focus Blast fail to hit, such as Celebi and Jirachi. The last slot is really team-dependent. Encore provides great utility by shutting down Pokemon such as Bisharp and Ferrothorn by locking them into only move; meanwhile, Substitute evades status and Sucker Punch and allows Mega Alakazam to scout.
+Dazzling Gleam is also an option to prevent Mega Alakazam from being hopelessly walled by Mega Sableye as well as dealing decent damage to Dark- and Dragon-types such as Latios and Tyranitar. Taunt shuts down defensive Pokemon such as Chansey, Alomomola, and Slowbro by denying their recovery and preventing them from inflicting status on Mega Alakazam. Hidden Power Fire allows Mega Alakazam to reliably 2HKO Scizor and Ferrothorn on the switch, as well as having more accuracy than Focus Blast to deal with Steel-types. Calm Mind allows Mega Alakazam to potentially sweep, especially against balanced or stall teams; however, due to its lackluster defenses, Mega Alakazam does not find many opportunities to set up.
 
-Taunt allows Mega Alakazam to shut down Chansey, specially defensive Heatran, Calm Mind Clefable, and entry hazard users. However, naturally strong Pokemon, such as Hippowdon, are able to hurt Alakazam even when Taunted. Additionally, if Prankster is copied by Trace, Taunt can prevent Thundurus from crippling Mega Alakazam with Thunder Wave. Hidden Power Ice is a great option to OHKO Landorus; Focus Sash-lacking Garchomp; specially defensive Gliscor, which avoids the 2HKO from Psychic; and Dragonite, provided Multiscale has been broken. Calm Mind can be used against balance and more defensive teams, punishing its switch-ins, but Mega Alakazam’s frailty hampers its ability to set up, and is still vulnerable to priority and physical attacks. Lastly, Encore can be used to help Alakazam deal with setup sweepers, defensive Pokemon, and Sucker Punch users.
 
 Set Details
 ========
 
-252 Special Attack EVs maximize Alakazam's Special Attack; upon Mega Evolution, its power is equivalent to a Life Orb user with base 123 Special Attack. 224 Speed EVs allow Modest Mega Alakazam to outspeed +1 Mega Gyarados, but more EVs can be invested into Speed if not running Hidden Power Fire to outspeed maximum Speed Garchomp. Magic Guard is the preferred ability, enabling Alakazam to switch into entry hazards without taking damage before Mega Evolving. Alakazite is needed to achieve Mega Evolution, boosting Alakazam's Special Attack and Speed to incredible levels. As the increase in power is more beneficial when wallbreaking, and base 150 Speed is often enough, Modest is the preferred nature to maximize Mega Alakazam's damage output. A Timid nature can be used to outspeed Adamant Mega Aerodactyl, Mega Manectric, Adamant Choice Scarf Landorus-T, and Timid Choice Scarf Heatran. When using a Timid nature, 224 Speed EVs should be used to outspeed Scarf Tyranitar and Pokemon with base 115 Speed before Mega Evolution. Protect is less effective on Timid Alakazam, as it is able to outspeed most of the metagame even before Mega Evolving.
+The EVs on the set are quite straightforward; maximum Special Attack and Speed EVs are so that Mega Alakazam can be as powerful and as fast as possible, Speed tying with opposing Mega Alakazam and Aerodactyl. A Timid nature is preferred so that Mega Alakazam can revenge kill Pokemon such as Mega Lopunny, Mega Manectric, Mega Beedrill, and Mega Sceptile, which Mega Alakazam misses out on if running a Modest nature. Magic Guard is the chosen ability before Mega Evolving to not get worn down by entry hazards and non-volatile status, and Trace is the only ability Mega Alakazam has and gives it the unique ability to revenge kill weather sweepers as well as potentially getting great abilities such as Adaptability or Prankster.
+
 
 Usage Tips
 ========
 
-It is imperative to consider Mega Alakazam's frailty both before and after Mega Evolution, taking into consideration it wants to Mega Evolve as soon as possible in order to receive Trace and the Speed needed to revenge kill effectively. As such, it should only be brought in after a teammate has been KOed or on an obvious switch by the opponent. Before Mega Evolution, Magic Guard allows Alakazam to switch into entry hazards, so Defog or Rapid Spin support is not a necessity. Alakazam’s primary role is to act as a revenge killer, and Trace allows Alakazam to accomplish this in a unique manner, enabling Alakazam to revenge kill Swift Swim sweepers and Sand Rush Excadrill. Additionally, Trace can be used to handle Unaware Calm Mind Clefable, as Unaware ignores accumulated boosts. Heatran sets lacking Earth Power are completely shut down by Taunt. However, it is only necessary to use Taunt when switching in to Heatran to prevent the use of Taunt and Roar; when Heatran switches in on Alakazam, it will be attacking directly. Thundurus is another notable threat that Alakazam is able to handle thanks to Trace, copying Prankster. While Alakazam is best used as a revenge killer, it has sufficient power and Speed to act as a late-game cleaner, especially against unprepared teams lacking priority.
+Because of Mega Alakazam's near non-existent defenses, it is unable to switch in on even resisted physical hits such as Close Combat and Zen Headbutt, so Mega Alakazam is best switched in after a teammate has fainted, by Volt Switch or U-turn support, or against extremely weak special attacks such as Alomomola's Scald. Mega Alakazam should be used as a late-game cleaner and/or revenge killer by virtue of its stellar offensive stats when the opposition is weakened, and it should use utility moves to cripple defensive foes such as Chansey and Clefable, plus it is great to Encore Bisharp into Sucker Punch.
+
 
 Team Options
 ========
 
-Strong wallbreakers, such as Landorus, Diggersby, and Crawdaunt, are important teammates for Alakazam, as they are able to cripple or check Chansey and Jirachi; Terrakion is notable for its access to both Stealth Rock and Swords Dance, to break defensive cores, making it one of Alakazam's best partners. Chansey, one of Alakazam’s top counters, is best handled by powerful Fighting-types, such as Breloom and Keldeo. Entry hazards are important to score crucial KOs, especially because Alakazam cannot afford to take a hit. As neither Latias nor Latios are KOed by Shadow Ball without significant prior damage, Pursuit Bisharp is a viable teammate, as is Tyranitar, which can lay down Stealth Rock, Pursuit trap Psychic- and Ghost-types, and handle Talonflame. Pokemon that are able to withstand common priority attacks are also essential teammates, so Heatran, which checks Talonflame, Scizor, and Bisharp, and Amoonguss, one of the few Pokemon that can tank Azumarill's Aqua Jet, are valuable partners to Mega Alakazam.
+Because Mega Alakazam struggles with Steel- and Dark- types the most, as it has to rely on an inaccurate Focus Blast to damage them, Fighting-types such as Keldeo and Terrakion are great partners for Mega Alakazam, as they can easily deal with Steel- and Dark-types. Fairy-types such as Clefable and Sylveon are also good partners that can also eliminate Dark-types such as Sableye and Tyranitar, which Mega Alakazam struggles with; they can also weaken Steel-types so that Alakazam can break through them more easily. Mega Alakazam also appreciates strong wallbreakers such as Landorus and Crawdaunt, which can wear down foes for a potential late-game sweep from Mega Alakazam. Entry hazard support is mandatory for Alakazam to get crucial KOs, particularly Latios after Stealth Rock with Shadow Ball, so Stealth Rock setters such as Ferrothorn and Heatran are greatly appreciated. Heatran in particular is a great partner because it deals with Scizor and Mega Sableye as well as checking most Talonflame. In addition, Pursuit support coming from Bisharp, Tyranitar, or Scizor is great because Mega Alakazam struggles with bulky Psychic-type Pokemon that can shrug off Shadow Ball easily, such as Jirachi and Reuniclus. Finally, because Mega Alakazam struggles to manually switch in due to abysmal bulk, pivots such as Scizor, Rotom-W, and Landorus-T can patch up this weakness by providing free switches.
+
+Offensive Zam
+########
+name: Offensive Zam
+move 1: Psychic
+move 2: Focus Blast
+move 3: Shadow Ball
+move 4: Hidden Power Ice / Encore
+ability: Magic Guard
+item: Life Orb
+evs: 4 Def / 252 SpA / 252 Spe
+nature: Timid
+
+Moves
+========
+
+Psychic is chosen over Psyshock for the increased damage output as well as the ability to hit physically defensive foes such as bulky Garchomp and Landorus-T much harder. Focus Blast deals with Dark- and Steel-types, which Psychic misses out on, such as Tyranitar and Bisharp. Shadow Ball provides great all-around coverage with Psychic and Focus Blast and hits bulky Psychic- and Ghost- types that the aforementioned two moves cannot deal with. Hidden Power Ice boasts the ability to OHKO both Landorus formes, specially defensive Gliscor, as well as Garchomp and Dragonite after Multiscale has been broken. Encore shuts down defensive cores such as Alomomola and Heatran effectively by locking them into only one move. Substitute can also be used, as it allows Alakazam to evade Sucker Punch, status, and scout the foe's moves.
+
+Set Details
+========
+
+Maximum Special Attack and Speed EVs with a Timid nature are used so that Alakazam can be as fast and hit as hard as possible, as well as tying with opposing Alakazam and Dugtrio and outspeeding Pokemon that hit base 110-115 Speed, such as Latios, Gengar, and Starmie. Magic Guard is the superior ability here so that Alakazam is not worn down by repeated switches into entry hazard and status. A Life Orb takes advantage of Magic Guard to give a recoil-less boost to Alakazam's offensives, making Alakazam a terrifying wallbreaker and late-game cleaner.
+
+Usage Tips
+========
+
+Because of Alakazam's frailty, it should only be brought in on extremely weak special attacks, by Volt Switch or U-turn support, or after a teammate has fainted. This set excels against stall archetypes because of Magic Guard preventing status, and, during the late-game, Alakazam should take advantage of this and switch in when possible and start dealing damage. Don't be afraid of using Encore to break stall-oriented archetypes as well as locking setup sweepers into one move, allowing for easy switches and predictions.
+
+Team Options
+========
+
+Because of Alakazam's frailty, Volt Switch or U-turn support is really appreciated so that Alakazam can switch in safely and grab free momentum. Users of said support include Pokemon such as Rotom-W and Landorus-T; they can also lure in and pivot out of Pokemon that Alakazam can beat easily, such as Chansey and Alomomola. Moreover, Pursuit support is really appreciated to weaken bulkier Psychic-types such as Metagross and Latias so that Alakazam can have an easier time dealing with them. As this set does great against stall-oriented Pokemon such as Chansey and Clefable, Pokemon that generally struggle against them are ideal partners. Examples include Mega Manetric and Latios, which struggle against stall in general.
 
 Revenge Killer
 ########
 name: Revenge Killer
 move 1: Psychic
 move 2: Focus Blast
-move 3: Shadow Ball
-move 4: Thunder Wave / Hidden Power Ice / Hidden Power Fire
+move 3: Hidden Power Ice / Grass Knot / Hidden Power Fire
+move 4: Thunder Wave
 ability: Magic Guard
 item: Focus Sash
 evs: 4 Def / 252 SpA / 252 Spe
@@ -52,33 +88,40 @@ nature: Timid
 Moves
 ========
 
-Generally outdamaging Psyshock, Psychic is chosen as the STAB move. Focus Blast provides necessary coverage against Dark-types, which are immune to Psychic, and Steel-types, which resist Psychic, whereas Shadow Ball hits Psychic-types, which resist both Psychic and Fighting. Thunder Wave is the optimal choice in the final moveslot, as, in tandem with Focus Sash, it enables Alakazam to cripple dangerous sweepers, such as Mega Charizard X and other Dragon Dance users that would otherwise outspeed Alakazam. However, depending on what threatens your team most, Alakazam can also utilize either Hidden Power Ice or Hidden Power Fire over Thunder Wave. Hidden Power Ice OHKOes both of the Landorus formes, Garchomp, Dragonite, provided Multiscale is broken, and other Pokemon 4x weak to Ice. For more reliable coverage against Steel-types, Hidden Power Fire can be used, notably hitting Ferrothorn and Scizor harder than Focus Blast does.
+Psychic has a higher Base Power than Psyshock and can break through physically defensive foes such as Mega Venusaur, Landorus-T and, Rotom-W much more easily. Focus Blast is a mandatory coverage move, as it deals with Dark- and Steel-types such as Bisharp, Tyranitar, and Ferrothorn, which Psychic cannot hit for much damage, or any at all in the case of Dark-types; however, its accuracy is a minor drawback. Hidden Power Ice OHKOes Garchomp and Landorus-T and 2HKOes specially defensive Gliscor. With Focus Sash, Alakazam is a great revenge killer to these Pokemon. Grass Knot deals with bulky Ground-, Rock-, and Water-types such as Hippowdon, Tyranitar, and Mega Gyarados and is chosen over Energy Ball for the increased damage output against them. Energy Ball is an option to hit Manaphy and Rotom-W much harder, but they do not appreciate a Psychic anyway, so Grass Knot is generally preferred. Hidden Power Fire is an option as well to 2HKO Ferrothorn and (Mega) Scizor, and it is a more reliable tool than Focus Blast to hit Steel-types bar Heatran with. Thunder Wave is a great utility option in general for the last slot, allowing Alakazam to cripple threats that it might not outright KO such as Mega Charizard X and Altaria, and it is also a great option to avoid Sucker Punch from Bisharp whilst crippling it in the process and thus is a great fail-safe. Though it might sound like a gimmick, Psych Up is a decent option to copy the stat boosts of the foe, such as Calm Mind boosts Landorus and Keldeo have obtained, revenge kill the foe after taking a hit with Focus Sash and proceed to sweep the opposing team unless they have priority moves. Lastly, Shadow Ball can also be used to hit bulkier Psychic-types, but without its Alakazite or Life Orb, Alakazam is relatively weak and does not 2HKO Shadow Ball's main targets, such as Celebi, Jirachi, and Cresselia.
 
 Set Details
 ========
 
-252 Special Attack and Speed EVs with a Timid nature allow Alakazam to act as a revenge killer, and a Timid nature lets Alakazam outspeed the majority of the unboosted metagame. Magic Guard protects Alakazam from all forms of residual damage, allowing its Focus Sash to stay preserved even against sand and entry hazard damage. Focus Sash is the preferred item, guaranteeing at least one hit on the foe if it is intact and letting Alakazam act as a revenge killer of sorts. Due to its Speed, Alakazam is often able to get off a second hit, provided it is not facing a Choice Scarf user.
+Because this set focuses on Alakazam's fantastic ability to revenge kill, Focus Sash is subsequently used to capitalize on such as stellar ability as Magic Guard, which will keep Focus Sash intact regardless of entry hazards or status, allowing Alakazam to reliably take any one hit and retaliate back. Maximum investment in Speed and Special Attack is for Alakazam to be as fast and hit as hard as possible, and with a Timid nature Alakazam outspeeds most of the metagame and thus can revenge kill more effectively. It is to be noted that because of its occupancy of a great Speed tier, Alakazam can usually get more than one hit on the foe.
 
 Usage Tips
 ========
 
-Due to its frailty, Alakazam is unable to switch into most attacks, and therefore should only be brought in after a teammate has fainted. Additionally, this serves to preserve Alakazam’s Focus Sash, which cannot be broken by entry hazards thanks to Magic Guard. Focus Sash guarantees that Alakazam will survive a hit, giving it the rather unique ability to revenge kill faster threats without a Choice Scarf attached or the ability to take a hit. Prior damage is often needed to score OHKOs, so entry hazard support is appreciated, but the nature of Focus Sash somewhat mitigates this requirement. When facing a Pokemon that outspeeds Alakazam and cannot be OHKOed by it, Thunder Wave can be used to cripple the foe, allowing a teammate to finish it off.
+Because this set is primarily a revenge killing set, Alakazam should only be switched in after a teammate faints or by the use of Volt Switch or U-turn to deal damage to the foe. Because of Alakazam's frailty in general, it cannot take even resisted physical hits such as Close Combat very well, so it is advised to not manually switch Alakazam aimlessly into such hits. Preserve Focus Sash so that Alakazam can still revenge kill Pokemon later on. Alakazam can act as a good emergency check to Pokemon such as Rock Polish Landorus and Substitute + Calm Mind Keldeo if the team doesn't have checks for those available. When facing a Pokemon that outspeeds Alakazam and cannot be OHKOed by it, or when Alakazam is at low health and cannot do much to the foe, Thunder Wave can be used to cripple the foe, allowing a teammate to finish it off more easily or leaving it near-useless for the rest of the match.
 
 Team Options
 ========
 
-Without Mega Evolving, Alakazam sees a significant drop in power, so more Dark-types threaten it, making Breloom, Keldeo, and Conkeldurr good teammates. Stealth Rock and other entry hazards are also greatly appreciated, allowing Alakazam to OHKO a greater number of threats. Terrakion is a great teammate, with access to both Stealth Rock and STAB Close Combat to hammer Chansey and other common counters to Alakazam. Pursuit trappers, such as Tyranitar and Bisharp, are also required to take on Latios, Latias, and other bulky Psychic-types.
+Without Alakazite, Alakazam struggles to break through bulkier Pokemon such as Chansey, so Pokemon that can take it out are good partners to Alakazam; Fighting-types such as Keldeo and Mega Lopunny can achieve this, and trappers such as Gothitelle and Wobbuffet can also do so as well. Entry hazards and some prior damage on the foe are important to score some crucial OHKOs, such as Hidden Power Fire on Scizor, which make Alakazam's late-game sweeping or revenge killing much easier; thus, Stealth Rock from the likes of Ferrothorn, Tyranitar, and Garchomp is really beneficial to Alakazam. Pursuit support from Bisharp, Tyranitar, and Scizor is also recommended because Alakazam struggles with bulkier Psychic-types such as Slowbro, Reuniclus, and Latias because it is relatively weak, especially when using a non-STAB Ghost-type move. Last but not least, Volt Switch or U-turn support is almost mandatory because of the near zero chances Alakazam has to come into battle; pivots such as Scizor and Rotom-W can score free momentum for Alakazam.
 
 Other Options
 ########
 
-While Psychic is the preferred STAB move, Psyshock can be used in conjunction with Taunt to defeat Chansey, one of Alakazam's top counters. When carrying either Substitute or Protect, Disable works well on Mega Alakazam, but requires it to forego important coverage. Grass Knot allows Mega Alakazam to reliably handle Gyarados, OHKOing and 2HKOing Mega Gyarados and Gyarados, respectively, helping with the mindgames. Grass Knot lets Alakazam OHKO both Omastar and Kabutops without having to resort to Focus Blast. Grass Knot also 2HKOes Tyranitar, specially defensive Hippowdon, and Calm Mind Suicune, provided Suicune uses Calm Mind on the first turn. Future Sight can be used to pressure some of Alakazam’s usual switch-ins, as in tandem with powerful teammates, Alakazam's hard counters can be forced into a checkmate position. Finally, Dazzling Gleam threatens Dragon-types, most notably Swift Swim Kingdra.
+A dedicated stallbreaker set with Taunt + Encore is great for shutting down defensive and balanced cores as well as having decent offensive presence, but Mega Sableye really is a thorn in its side, and Mega Alakazam is best used as a late-game cleaner anyway. Disable is an option as well to shut down defensive Pokemon such as Chansey and Alomomola. Additionally, Calm Mind is an option too, albeit sub-par, and allows Alakazam to break through defensive and balanced cores with greater ease, but against more offensive teams, Alakazam will really struggle to set up due to its lack of bulk. Recover can help Alakazam regain health especially for the Focus Sash set so that it can revenge kill more foes later on, but its poor bulk and typing means that Alakazam will be hard-pressed to find opportunities to recover. Protect allows Alakazam to safely Mega Evolve, but is strongly discouraged, as Mega Alakazam has many more useful utility or attacking moves for the fourth moveslot. Lastly, Signal Beam is an option to hit Celebi harder than Shadow Ball does, as well as dealing with Psychic-types such as Slowbro; however, it misses out on Jirachi, Bronzong, and Victini.
 
 Checks & Counters
 ########
 
-**Special Walls**: Chansey is able to wall both of Mega Alakazam's sets due to her high Special Defense and access to recovery, but Alakazam variants carrying Taunt can harass Chansey. Specially defensive Hippowdon is able to switch into Alakazam, survive the second hit, and respond with a strong Earthquake. Specially defensive Jirachi is only 3HKOed by Shadow Ball, while in return, Iron Head 2HKOes Mega Alakazam. Barely scratched by any of Alakazam's moves, specially defensive Togekiss can cripple it with Thunder Wave. Assault Vest Azumarill avoids the 2HKO and KOes Alakazam in return, as does Alomomola, which can then Toxic Alakazam in return. Cresselia comfortably tanks all of Alakazam's moves, crippling it with either Toxic or Thunder Wave.
+**Dark-types**: Because Alakazam typically relies on Focus Blast, a move with shaky accuracy, to actually damage Dark-types, they are one of the top checks to Alakazam, capable of OHKOing it with their respective STAB moves. Tyranitar's good special bulk coupled with sand allow it to take Focus Blast quite well and can proceed to trap Alakazam with Pursuit; Sableye is immune to Psychic and Focus Blast, is not 2HKOed by Shadow Ball, and can KO back with a Knock Off; and Mandibuzz resists both Psychic and Shadow Ball, is not 2HKOed by Focus Blast even after Stealth Rock, and can deal heavy damage with Foul Play or Knock Off.
 
-**Dark-types**: Bisharp can threaten Alakazam with both priority Sucker Punch and Pursuit, but must beware of Focus Blast. Sableye is notable, only fearing the rare Dazzling Gleam, being immune to Psychic and taking little damage from Shadow Ball. Mandibuzz is able to avoid the 2HKO from Alakazam and KO back with either Foul Play or Knock Off.
+**Pursuit**: Pokemon such as Scizor and Bisharp can easily Pursuit trap Alakazam, as it will normally switch out of them in these scenarios. Scizor is not really damaged by any of Alakazam's moves bar Hidden Power Fire, and Bisharp can play mind games with Alakazam with Sucker Punch and Pursuit.
 
-**Priority Attacks**: Due to its poor typing and general frailty, especially on the physical side, priority is the most efficient way of dealing with Alakazam. Talonflame is able to OHKO Alakazam with Brave Bird, and Mega Scizor fears only Hidden Power Fire, and can respond with a powerful Bullet Punch. Mega Pinsir needs only a little prior damage or a broken Focus Sash to pick off Alakazam, and Bisharp is able to utilize its STAB Sucker Punch against Alakazam once it has switched in.
+**Priority**: Powerful priority users such as Bisharp, Scizor, and Talonflame can all come in on Alakazam and easily OHKO it with their respective priority moves due to Alakazam's frail defenses.
+
+**Psychic-types**: Many Psychic-types such as Latios, Starmie, and Reuniclus can easily deal with Alakazam as well, resisting the Psychic/Fighting coverage that Alakazam most commonly uses. Shadow Ball is quite weak, as it is not STAB-boosted and fails to 2HKO Reuniclus, Cresselia, and Slowking.
+
+**Faster Pokemon**: Faster Choice Scarf users such as Latios and Landorus-T can revenge kill Mega Alakazam due to its dismal bulk, with Latios 2HKOing with Draco Meteor and Landorus-T grabbing an easy OHKO with Earthquake. Pokemon such as Tornadus-T and Mega Lopunny, which naturally outspeed Alakazam, can also score easy KOs with Knock Off and Return, respectively.
+
+
+

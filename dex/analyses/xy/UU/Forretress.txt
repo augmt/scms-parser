@@ -35,11 +35,44 @@ Team Options
 
 This set works extremely well with bulky Water-types such as Vaporeon or Suicune, and it appreciates additional utility support from pivots such as Gligar or Crobat. Slow Volt Switch works well with wallbreakers and stallbreakers, such as Mienshao, Darmanitan, and Hydreigon. Forretress works well with fast Taunt users that can help prevent opposing Pokemon from setting up entry hazards. It also appreciates Pokemon such as Krookodile that can take care of spinblockers. Forretress is perfectly suited for balanced teams, well-suited for bulky offense, and decently suited on semistall teams.
 
+Custap
+########
+name: Custap
+move 1: Stealth Rock
+move 2: Explosion
+move 3: Spikes / Toxic Spikes
+move 4: Rapid Spin / Gyro Ball
+ability: Sturdy
+item: Custap Berry
+evs: 252 Atk / 252 Spe
+ivs: 0 HP / 0 Def / 0 SpD
+nature: Hasty / Lonely
+
+Moves
+========
+
+Stealth Rock is a great entry hazard that damages all types of Pokemon. Explosion allows Forretress to get off a lot of damage on foes as well as prevent slower Pokemon from using Rapid Spin or Defog that turn, and it works well in conjunction with Custap Berry. Spikes is another amazing entry hazard that damages grounded foes and works great for wearing down walls, as it doesn't account for typing, unlike Stealth Rock. Toxic Spikes can also be used to wear down walls, as they don't appreciate being poisoned upon switching in. Rapid Spin allows Forretress to remove entry hazards for its teammates. On the other hand, Gyro Ball allows Forretress to beat quicker suicide leads, such as Azelf and Aerodactyl.
+
+Set Details
+========
+
+Maximum Attack EVs allow Forretress to hit as hard as possible with Explosion and Gyro Ball, while maximum Speed EVs allow Hasty Forretress to outspeed everything up to uninvested Blastoise and everything up to uninvested base 65 Speed Pokemon with a Lonely nature. While a Hasty nature does allow Forretress to hit a more significant Speed benchmark, a Lonely nature allows Forretress to hit harder with Explosion and Gyro Ball. Both natures are used with minimum HP, Defense, and Special Defense IVs to ensure Forretress gets knocked down to Sturdy or Custap Berry range as easily as possible. Custap Berry is used as the item to allow Forretress to outspeed foes using moves in the same priority bracket and either hit them with a powerful Explosion or Gyro Ball, set an entry hazard, or use Rapid Spin to remove opposing entry hazards for its teammates before Forretress is KOed.
+
+Usage Tips
+========
+
+This set should be used as a suicide lead on offensive teams most of the time, as it is able to set entry hazards, prevent their removal, and explode to bring it in its teammates safely. Should a potential Rapid Spin or Defog user attempt to remove entry hazards against Forretress, keep setting entry hazards until Forretress is knocked into range of Custap Berry and proceed to use Explosion to ensure the preservation of any hazards Forretress has previously set.
+
+Team Options
+========
+
+Offensive Pokemon, such as Lucario, Infernape, and Entei, capitalize on Forretress's ability to successfully set up entry hazards which weaken their checks and counters, making them good teammates. Mega Aerodactyl is a particularly good teammate to Forretress, as it is able to threaten every Defog user in the tier. Ghost-types, such as Doublade and Chandelure, also make for good teammates, as they are immune to Rapid Spin.
+
 
 Other Options
 ########
 
-Toxic Spikes is a rarely used option due to the plethora of Defog users and Poison-types; however, it is still an option if one opts to use it. An alternate spread of 80 or 120 Attack EVs can be used for harder hitting Gyro Balls on the defensive set. One can opt to use Earthquake in order to hit Fire-types on the switch. Counter can also be utilized with Sturdy on the defensive spread in order to better take on Haxorus, Machamp, and other bulky physical attackers; however, Gyro Ball is generally the superior option against Mega Aerodactyl and frail attackers.
+Toxic Spikes is a rarely used option due to the plethora of Defog users and Poison-types; however, it is still an option if one opts to use it. An alternate spread of 80 or 120 Attack EVs can be used for harder hitting Gyro Balls on the defensive set. One can opt to use Earthquake in order to hit Fire-types on the switch. Counter can also be utilized with Sturdy on the defensive spread in order to better take on Haxorus, Machamp, and other bulky physical attackers; however, Gyro Ball is generally the superior option against Mega Aerodactyl and frail attackers. On the Custap set, a bulkier EV spread of 252 Atk / 252 Def along with 0 Special Defense IVs can be used to ensure Forretress takes on physical attackers well while still easily getting put into Custap Berry range.
 
 
 Checks & Counters

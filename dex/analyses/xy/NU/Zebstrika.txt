@@ -1,13 +1,52 @@
-Choice Scarf
+Overview
 ########
-name: Choice Scarf
+
+Zebstrika resides in a great Speed tier, allowing it to outpace and check common offensive Pokemon such as Tauros, Archeops, and Sneasel. In addition, Zebstrika is a great momentum gainer due to its access to Volt Switch; Overheat also complements its Electric-type STAB moves quite well. Zebstrika also has two good abilities that provide it with useful immunities to either Electric or Grass moves.
+
+However, Zebstrika is plagued by a lackluster Special Attack stat, meaning it requires quite a lot of support to net some KOs. It also has a barren movepool that only consists of Electric- and Fire-type coverage moves. Zebstrika also is quite frail and easily picked off by faster Pokemon such as Swellow and Choice Scarf Mesprit, as well as priority users such as Kangaskhan, when weakened.
+
+Fast Special Attacker
+########
+name: Fast Special Attacker
 move 1: Volt Switch
 move 2: Thunderbolt
 move 3: Overheat
 move 4: Hidden Power Grass
-item: Choice Scarf
-ability: Lightningrod
+ability: Lightningrod / Sap Sipper
+item: Magnet / Life Orb
 evs: 252 SpA / 4 SpD / 252 Spe
-nature: Timid / Modest
+nature: Timid
 
-This is a sample set while we are currently working on analyses in the workshop.
+Moves
+========
+
+Volt Switch gains valuable momentum and is quite hard to block because of the difficulty of switching into Zebstrika. Thunderbolt is the most reliable Electric-type STAB move Zebstrika has because of its high power and perfect accuracy. Overheat destroys Grass-types looking to switch in on Zebstrika's Electric-type STAB moves, such as Vileplume, Tangela, and Lilligant, with the added bonus of roasting Ice- and Steel-types, such as Sneasel and Ferroseed, which would otherwise take neutral or resisted damage from Zebstrika's other attacks. Hidden Power Grass deals with Ground-types such as Rhydon, Seismitoad, and Sandslash, especially as they might try to block Zebstrika's Volt Switch.
+
+Set Details
+========
+
+Zestrika benefits from maximum Speed investment in tandem with a Timid nature so that it outpaces base 115s, such as Floatzel, Sneasel, and Archeops. Full Special Attack investment is necessary to maximize Zebstrika's damage output, as it is weak otherwise. Magnet powers up Zebstrika's Electric-type STAB moves, and the lack of recoil is generally preferred, as Zebstrika will be switching in and out a lot. However, Life Orb could be used, gaining a 2HKO with Hidden Power Grass on Rhydon, which Magnet does not allow, but as a result Zebstrika becomes easier to wear down between the recoil inflicted and repeated switches into entry hazards. Lightningrod gives Zebstrika an Electric-type immunity and a +1 Special Attack boost whenever it takes an Electric-type attack, while Sap Sipper grants Zebstrika the ability to absorb Sleep Powders and Grass-type moves from the likes of Vivillon and Lilligant.
+
+Usage Tips
+========
+
+Due to Zebstrika's impressive Speed stat, it can generate momentum for your team with Volt Switch during the early- or mid-game. The best targets for this are offensive Pokemon that are weakened or threatened by Volt Switch, such as Sneasel and Archeops. If the opponent has a Pokemon immune to Electric, such as Lanturn, it is sometimes better to soften them up with Zebstrika's coverage moves for teammates. After using Overheat, Zebstrika is setup fodder for the likes of Malamar and Mesprit because of its lowered damage output, so Overheat should be used sparingly, especially if the opponent has a bulky setup sweeper such as Mismagius or Musharna.
+
+Team Options
+========
+
+Zebstrika fits best on offensive teams, consisting of the likes of Sawk and Tauros, that appreciate the momentum and free switches it provides with Volt Switch. Offensive Grass-types, such as Lilligant and Exeggutor, are great partners for Zebstrika, as they beat a lot of Electric-immune Pokemon, such as Claydol, Lanturn, and Sandslash, and enjoy the momentum Zebstrika provides. Stealth Rock or Spikes setters such as Rhydon and Cacturne are great partners, because the entry hazards they set allow Zebstrika to net some crucial KOs, such as an OHKO on Vileplume after Stealth Rock and one layer of Spikes, and also rack up damage on Zebstrika's checks and counters, such as Mega Audino. Other Pokemon that can create VoltTurn cores alongside Zebstrika, such as Mesprit, Primeape, and Scyther, fit well with Zebstrika to pressure the opposing team with its teammates' coverage moves and momentum.
+
+Other Options
+########
+
+Wild Charge benefits from a Sap Sipper boost, is a great move to use after Overheat because it isn't affected by the Special Attack drop, and hits specially bulky Pokemon, such as Assault Vest Hariyama and Cryogonal, for more damage.
+
+Checks & Counters
+########
+
+**Bulky Ground-types**: Claydol and Piloswine, among others, can switch into Zebstrika comfortably, as they are immune to its Electric-type STAB moves, are bulky enough to take its coverage moves, and can in turn hit back with super effective Ground-type STAB moves.
+
+**Specially Bulky Pokemon**: Zebstrika's low Special Attack makes it a free switch opportunity for Pokemon with great special bulk, such as Mega Audino, Malamar, and Musharna. The former can use Zebstrika as fodder for support moves such as Wish and Heal Bell, the middle can use Zebstrika as an opportunity to set up with Superpower and heal any damage sustained with Rest, and the latter uses Zebstrika as setup fodder for Calm Mind.
+
+**Faster Attacks**: Faster Pokemon such as Ninjask and Swellow can all come in on a free switch and KO weakened Zebstrika with their respective STAB moves due to Zebstrika's poor bulk; Choice Scarf users such as Mesprit and Rotom also can KO a weakened Zebstrika. Similarly, priority users such as Kangaskhan, Hariyama, and Sneasel can KO Zebstrika when it is weakened; in particular, Kangaskhan and Hariyama can easily shrug off Zebstrika's attacks due to their high bulk.

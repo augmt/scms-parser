@@ -1,71 +1,71 @@
 Overview
 ########
 
-Zekrom is the quintessential anti-metagame Pokemon, capable of keeping staples such as Kyogre, Ho-Oh, and Yveltal in check with its powerful Bolt Strike. Its excellent offensive typing, 150 / 120 attacking stats, and new-found immunity to paralysis make it an exemplary Choice Scarf user and grant it the ability to 2HKO almost anything in Ubers with the correct move. Moreover, the heavy decline in usage of Ferrothorn and Excadrill since BW eliminates the need for Zekrom to run any coverage moves whatsoever, allowing it to function with nothing but its powerful STAB attacks. However, Zekrom does not appreciate the introduction of the Fairy typing, and it remains unable to break through many Ground-types without the aid of a Choice Band. Its Speed is also decidedly average without a boost. These minor flaws notwithstanding, Zekrom is a fantastic addition to nearly any team.
+Zekrom is a force to be reckoned with in the Ubers metagame, as it possesses an excellent STAB combination along with high-Base Power moves and a great Attack stat. Immunity to paralysis makes it an excellent revenge killer along with a Choice Scarf. Zekrom can lure in Ground-types and deal damage, either for itself or for another teammate, while simultaneously forcing out nearly all Flying- and Water-types. Unfortunately, Zekrom is one of many Pokemon that struggles against Primal Groudon. Though Zekrom can deal damage to Primal Groudon, the latter's bulk makes it a tough opponent for Zekrom. Moreover, Zekrom has trouble spamming its STAB attacks because Fairy- and Ground-type Pokemon are each immune to one of them. Base 90 Speed is also not good enough, as Zekrom needs a Choice Scarf to outspeed important threats such as Arceus, Latios, Latias, and Mewtwo.
 
 Choice Scarf
 ########
 name: Choice Scarf
 move 1: Bolt Strike
-move 2: Volt Switch
+move 2: Outrage
 move 3: Draco Meteor
-move 4: Outrage
+move 4: Volt Switch
 ability: Teravolt
 item: Choice Scarf
 evs: 252 Atk / 4 SpA / 252 Spe
-nature: Naughty / Lonely
+nature: Naughty
 
 Moves
 ========
 
-Bolt Strike is what makes Zekrom so deadly and is capable of 2HKOing nearly anything that doesn't resist it; the move has great coverage in Ubers thanks to the scarcity of opposing Grass- and Electric-types. Volt Switch allows Zekrom to switch out to a teammate after the opponent switches or before they attack, building momentum while simultaneously dealing damage. Draco Meteor is used primarily to hit Ground-types, most of which are physically defensive. Outrage is chosen in the last slot to clean up weakened teams late-game, though Dragon Claw can be used instead to circumvent the inability to switch caused by the use of Outrage. Sleep Talk is also an option that turns Zekrom into an ideal switch-in to Darkrai and Smeargle, granting it the ability to absorb a Dark Void or Spore and retaliate unpredictably.
+Bolt Strike demolishes anything that isn't a Ground-type. Outrage hits Pokemon that resist or are immune to Bolt Strike such as Grass Arceus and Landorus-T and gives Zekrom a fighting chance against offensive variants of Primal Groudon. Draco Meteor hits physically defensive Ground-types such as Gliscor, and Volt Switch allows Zekrom to maintain momentum for its team while simultaneously inflicting decent damage.
 
 Set Details
 ========
 
-The given EVs and nature are fairly straightforward. Maximum Attack investment with a boosting nature enables Zekrom to hit as hard as possible with Bolt Strike and Outrage, while maximum Speed investment coupled with the boost from Choice Scarf allows Zekrom to outspeed the entire unboosted metagame bar Deoxys-A and Deoxys-S. Using a Speed-boosting nature is viable in order to outpace Deoxys-A, but doing this relinquishes Zekrom's ability to 2HKO 252 / 0 Arceus.
+Maximum investment in Attack and Speed is necessary for Zekrom to hit as hard and as quickly as possible. A Naughty nature is preferred over Naive in order to 2HKO Electric-neutral, bulky variants of Arceus with Bolt Strike. Teravolt is useful for dealing serious damage to Lugia through Multiscale.
 
 Usage Tips
 ========
 
-Aside from functioning as a revenge killer, Zekrom should generally be switched in on one of its resistances or a predicted Thunder Wave and proceed to use Bolt Strike. Each of its other moves are useful in specific situations. Volt Switch should be used on predicted switches in order to accumulate momentum for your team, while Draco Meteor and Outrage hit nearly anything neutrally that the other two moves do not. Because there are immunities to each of Zekrom's STAB attacks, prediction is key, even when using Volt Switch.
+This set is typically used on offensive teams that desire both a revenge killer and a dedicated late-game cleaner, as well as a Pokemon that has the ability to outspeed common threats such as Latios, Latias, and Extreme Killer Arceus. Zekrom will be switching in and out often, so don't let it get worn down by repeated attacks and passive damage. Generally, Zekrom should only enter the battlefield on a free switch or a predicted Thunder Wave. When in doubt, scout with Volt Switch, but don't abuse it because Ground-types can block it completely. As all of Zekrom's moves have common immunities, prediction is very important in order to conserve momentum for your team. Predict incorrectly and Zekrom will be unable to effectively deal damage.
 
 Team Options
 ========
 
-Stealth Rock support is particularly useful for this variant of Zekrom, as it turns many 2HKOs into OHKOs with Bolt Strike. Examples of this include OHKOs secured against defensive Yveltal, Mega Mewtwo Y, and Skarmory. Thus, reliable Stealth Rock setters make good teammates. Landorus-T, Gliscor, and Bronzong are particularly helpful for their ability to defeat opposing Ground-types. Support Arceus formes that can cover Zekrom's weaknesses, such as Water and Grass Arceus, can also accomplish this. Outside of providing Stealth Rock support, several other Pokemon are valuable teammates for Zekrom. Kyogre has excellent defensive synergy with Zekrom and can OHKO every single relevant Ground-type. Mega Gengar can trap and eliminate opposing Pokemon that resist Bolt Strike as well as Fairy-types, and it can also switch in on Ground-type moves before Mega Evolving thanks to Levitate. Ho-Oh threatens Ground- and Grass-types with Sacred Fire, has a useful Ground-type immunity, and can take practically any special Fairy-, Ice-, or Dragon-type move aimed at Zekrom. Skarmory can wall Ground- and Grass-types and provide entry hazard support. Finally, Genesect, Scizor, and Thundurus pair well with Zekrom thanks to U-turn and Volt Switch. The former two are also able to take Fairy-, Ice-, and Dragon-type moves.
+Stealth Rock support will turn some of Zekrom's 2HKOs into OHKOs, particularly against Lugia, Skarmory, and defensive variants of Yveltal. Landorus-T and Gliscor are two Stealth Rock users that can also absorb Ground-type attacks for Zekrom. Primal Kyogre takes on the Ground-types that give Zekrom a hard time in Ubers, particularly Primal Groudon. Ho-Oh also has great defensive synergy with Zekrom due to its massive Special Defense, resistances to Fairy- and Grass-type moves, and immunity to Ground-type moves. Mega Gengar can switch in on Ground-type moves thanks to Levitate before it Mega Evolves and can trap and KO most other threats to Zekrom such as Xerneas. Zekrom also forms a great VoltTurn core with Mega Scizor, which can be switched into Xerneas or Mega Diancie.
 
 Life Orb
 ########
 name: Life Orb
 move 1: Bolt Strike
-move 2: Draco Meteor
-move 3: Outrage / Dragon Claw
-move 4: Tailwind / Volt Switch
+move 2: Outrage / Dragon Claw
+move 3: Draco Meteor
+move 4: Volt Switch / Tailwind
 ability: Teravolt
 item: Life Orb
 evs: 252 Atk / 4 SpA / 252 Spe
-nature: Naughty / Lonely
+nature: Naughty
 
 Moves
 ========
 
-Backed by a Life Orb boost, Bolt Strike deals a tremendous amount of damage to any Pokemon that doesn't resist it. Draco Meteor complements it nicely, tearing off a hefty chunk of health from physically defensive Ground-types. Outrage is the superior physical Dragon-type STAB option for its high Base Power, but Dragon Claw carries the benefit of not locking Zekrom into one attack. Running Tailwind gives Zekrom the ability to outspeed practically everything and provides team support. However, Volt Switch can be used instead, as it allows Zekrom to switch out to a teammate while racking up damage in the process. Roost is a viable option in the last slot in order to increase Zekrom's longevity.
+Bolt Strike is an incredibly powerful STAB attack that plows through anything that it hits neutrally. Outrage is the best choice for a secondary STAB attack, hitting Grass-, Dragon-, and Ground-types such as Grass Arceus, Kyurem-W, and Landorus-T, respectively, which have no trouble taking a Bolt Strike. Alternatively, Dragon Claw can be used if Zekrom does not wish to be locked into Outrage and confused, though Zekrom usually prefers Outrage's power. Volt Switch is the best option in the fourth slot to help Zekrom pivot around and maintain momentum for its team. Tailwind can act as a pseudo-Agility and help Zekrom outspeed the entire unboosted metagame while giving its teammates a temporary Speed boost. However, Focus Blast can be used instead if your team struggles against Ferrothorn.
 
 Set Details
 ========
 
-The EVs and nature provided require little explanation. Maximizing Zekrom's Attack stat makes Bolt Strike and Outrage or Dragon Claw as strong as possible while 252 Speed EVs allow Zekrom to outrun particularly important foes that lack significant Speed investment, such as Groudon, Giratina-O, Landorus-T, Gliscor, and defensive Yveltal.
+Maximum investment in Attack and Speed is necessary for Zekrom to hit as hard and as quickly as possible. A Naughty nature is preferred over Naive because Zekrom finds maximum Attack to be more useful than maximum Speed. Teravolt is useful to OHKO Lugia through Multiscale. If running Focus Blast, an EV spread of 160 Atk / 96 SpA / 252 Spe can be used to always 2HKO Ferrothorn.
 
 Usage Tips
 ========
 
-Bolt Strike should be used whenever possible due to its tremendous power, while Draco Meteor and the physical Dragon-type move selected should only be used against Pokemon that resist Bolt Strike. Draco Meteor in particular allows Zekrom to act as a decent lure for Ground-types as it is capable of 2HKOing many of them, though entry hazard support is often needed. If Tailwind is used in the last slot, it should be set up when Zekrom can force a switch, or when it can take a hit and KO its opponent afterwards. If Volt Switch is chosen for the last slot, use it on predicted switch-ins to Pokemon that aren't immune to it.
+The one-two punch of Draco Meteor and Outrage is a great way to lure and KO most Ground-types, including Primal Groudon. Because Zekrom is not locked into a move, its attacks are much more spammable than usual, as Zekrom can Volt Switch out of an unfavorable matchup as long as the foe is not a Ground-type. If running Tailwind, use it on a predicted switch, when Zekrom is about to be KOed, or when facing a foe that does not threaten Zekrom. Be sure to lure and KO opposing Ground-types that attempt to block Volt Switch. After the opponent has lost their Ground-types, use Volt Switch primarily on predicted switch-ins.
 
 Team Options
 ========
 
-Entry hazard support is invaluable to Life Orb Zekrom. As such, Pokemon that can provide this while synergizing with Zekrom defensively make great teammates. Landorus-T, Gliscor, Bronzong, Skarmory, Grass Arceus, and Water Arceus are all capable of setting up Stealth Rock and taking care of Ground-types. Kyogre and Ho-Oh have good defensive synergy with Zekrom, and both can make good use of Tailwind. Mega Gengar can trap and KO opposing Ground-, Grass-, and Fairy-types that threaten Zekrom, and it possesses Levitate before it Mega Evolves. If Volt Switch is used in the final slot, Genesect, Scizor, and Thundurus pair well with Zekrom thanks to their typing and access to U-turn or Volt Switch. Lastly, Sticky Web support is highly beneficial to Zekrom lacking Tailwind, allowing it to outspeed and OHKO faster threats such as Kyurem-W and Palkia.
+Zekrom appreciates entry hazard support in order to help it sweep opposing teams more easily. Setters such as Landorus-T, Skarmory, Ferrothorn, and Gliscor can not only set up entry hazards but also take on the Ground-types that give Zekrom trouble. Ho-Oh and Primal Kyogre have great defensive and offensive synergy, respectively, with Zekrom and appreciate Tailwind support to alleviate their somewhat low Speed stats. If running Volt Switch, Zekrom forms a good VoltTurn core with Scizor, which can deal with the Fairy-types that block Zekrom's Outrage. Pokemon that lose to Primal Groudon one-on-one, such as Xerneas, Mewtwo, and Extreme Killer Arceus, enjoy having Zekrom use Outrage to heavily damage Primal Groudon. Fairy-weak Pokemon such as Mega Salamence and Dark Arceus appreciate Zekrom's ability to dent Fairy-types with Bolt Strike as well.
 
 Choice Band
 ########
@@ -77,44 +77,42 @@ move 4: Volt Switch
 ability: Teravolt
 item: Choice Band
 evs: 252 Atk / 4 SpA / 252 Spe
-nature: Naughty / Lonely
+nature: Adamant / Naughty
 
 Moves
 ========
 
-With the boost from Choice Band, Zekrom's Bolt Strike will absolutely maim anything that isn't outright immune to it. The move OHKOes a large portion of the metagame, including key threats such as offensive Xerneas and Palkia. Outrage hits anything Bolt Strike does not for an obscene amount of damage and is able to 2HKO most of Zekrom's usual checks including Groudon, Landorus-T, Hippowdon, and Grass Arceus, even with maximum defensive investment. Dragon Claw softens up Zekrom's checks without locking it into a move, allowing it or a teammate to come in later and finish the job. Finally, Volt Switch is used to gather momentum for Zekrom's team.
+Bolt Strike is a very spammable STAB move that 2HKOes nearly everything that it hits neutrally. Outrage is Zekrom's second best bet against Pokemon that it cannot 2HKO with Bolt Strike, such as defensive Dialga. Dragon Claw is noticeably weaker than Outrage, but it does not prevent Zekrom from switching, so it can be more easily spammed in the presence of Steel-types such as Skarmory. Volt Switch maintains momentum, allowing Zekrom to pivot out of a predicted switch-in or a bad matchup.
 
 Set Details
 ========
 
-Once again, the listed EV spread needs little explanation. Maximum Attack investment causes Zekrom's attacks to hit with devastating force, and 252 Speed EVs allow Zekrom to outspeed and safely 2HKO Pokemon such as Groudon and Landorus-T with Outrage on the switch. An Adamant nature can be used to keep Zekrom's defenses intact, though this weakens Volt Switch.
+Maximum investment in Attack and Speed make Zekrom hit as hard and as quickly as possible. An Adamant nature is preferred to boost Zekrom's Attack and not lower its defenses, though Naughty can be used if you do not wish to lower the power of Volt Switch. Teravolt allows Zekrom's Bolt Strike to OHKO Lugia through Multiscale.
 
 Usage Tips
 ========
 
-Choice Band Zekrom aims to remove its usual checks through the sheer power of its attacks, paving the way for a teammate or Zekrom itself to sweep. It should therefore be played aggressively, with Bolt Strike and Outrage being selected the majority of the time. However, as an immunity to each of its STAB types exists, this Zekrom variant requires careful prediction to utilize to its fullest extent.
+This set has the role of an extremely powerful wallbreaker, denting the defensive Pokemon that hyper offense teams struggle against. Because Ground- and Fairy-types stop Zekrom cold, you can't be reckless with this set despite its sheer power. Expert prediction is absolutely required to ensure Zekrom can break through opposing walls. Conversely, if you have eliminated your opponent's Fairy- and Ground-types, feel free to spam Outrage and Bolt Strike. To maximize your chances of landing a KO with Zekrom, bring it in against a slower Pokemon that it forces out, particularly Primal Kyogre, Giratina-O, or Blissey, then use prediction to hit the switch-in with the proper STAB attack.
 
 Team Options
 ========
 
-As previously mentioned, Pokemon that appreciate the removal of opponents that can check Zekrom make great teammates. In this regard, setup sweepers such as Blaziken, Rayquaza, and Normal Arceus pair well with Choice Band Zekrom, as they often cannot get past bulky Ground-types and/or defensive Xerneas. Aside from this, Pokemon that have good defensive synergy with Zekrom are also acceptable teammates. Kyogre, Ho-Oh, Grass Arceus, and Water Arceus all share this trait. Landorus-T, Gliscor, Bronzong, and Skarmory do as well, and all of them have access to Stealth Rock. Genesect, Scizor, and Thundurus can use U-turn or Volt Switch to get Zekrom in safely and complement Zekrom's own Volt Switch nicely. Due to Zekrom's average Speed, Sticky Web support is extremely useful for this set; it enables Zekrom to 2HKO Ground and Grass Arceus on the switch without taking an Earthquake or Will-O-Wisp. It also allows Zekrom to outpace unboosted Kyurem-W and Palkia and OHKO them with a Dragon-type move.
+Pokemon that appreciate the removal of Zekrom's usual checks make for good partners. For example, Giratina-O and Blaziken enjoy having Xerneas and Primal Groudon defeated, respectively. Ho-Oh and Primal Kyogre have great defensive and offensive synergy, respectively, with Zekrom, so both can take on the walls that Zekrom struggles against, such as Ferrothorn and Ground Arceus. A Ground-immune Stealth Rock user such as Landorus-T, Skarmory, or Gliscor can take Ground-type attacks aimed at Zekrom and wear down opposing walls, making it easier for Zekrom to break them. A pivot such as Genesect or Mega Scizor can form a VoltTurn core with Zekrom and get it in the battlefield unscathed.
 
 Other Options
 ########
 
-Zekrom has several other options. Fusion Bolt is a powerful STAB move that can be run alongside Bolt Strike for use in situations where Zekrom cannot afford to miss. Focus Blast hits Ferrothorn and Excadrill super effectively, though they are uncommon. Substitute eases prediction and can be used in conjunction with Hone Claws in order to set up on Pokemon such as Ferrothorn and Giratina-O. Thunder Wave cripples faster opponents but is not very useful as Zekrom's main switch-ins are Ground-types. Finally, Magnet Rise can be used to foil Ground-types attempting to hit Zekrom with Earthquake. However, as most of them carry Toxic, Magnet Rise does not allow Zekrom to bypass them completely.
+Sleep Talk allows Zekrom to switch into Darkrai and Smeargle easily and subsequently annihilate them with any move that Sleep Talk selects. Earth Power 2HKOes most variants of Primal Groudon on the switch, but it requires prediction and significant Special Attack investment to use. Magnet Rise can be used on a predicted switch in order to make Zekrom immune to Ground-type moves. Fusion Bolt is an alternative STAB attack with perfect accuracy, but it is significantly less powerful than Bolt Strike and cannot paralyze the foe. Substitute with Hone Claws gives Zekrom a way to boost its Attack stat. In combination with Shuca Berry, Hone Claws also allows Zekrom to act as a great lure to Primal Groudon and a check to Mega Salamence.
 
 Checks & Counters
 ########
 
-**Ground-types**: These include Ground Arceus, Groudon, Gliscor, Landorus-T, Hippowdon, and Excadrill. However, many of them need to watch out for Draco Meteor and Choice Band Outrage. Only Ground Arceus can completely counter any Zekrom set.
+**Ferrothorn**: Aside from the occasional Focus Blast, Ferrothorn resists all of Zekrom's moves and walls it to no end.
 
-**Grass-types**: These include Ferrothorn and Grass Arceus. Ferrothorn can use Leech Seed and set up entry hazards, while Grass Arceus can threaten Zekrom with a burn or a Ground-type move. Though very rare, Whimsicott also checks Zekrom by virtue of its typing.
+**Ground-types**: Ground-types such as Primal Groudon, Landorus-T, Excadrill, Gliscor, Hippowdon, and Ground Arceus all prevent Zekrom from safely using Bolt Strike. However, most Ground-types, even Primal Groudon, struggle to switch into Zekrom's Dragon-type attacks. The exception is Ground Arceus, which beats all of Zekrom's sets except for the Choice Scarf set if the Zekrom player predicts correctly.
 
-**Fairy-types**: These are limited to Xerneas and Fairy Arceus, as most other relevant Fairy-types take too much damage from Bolt Strike. Physically defensive Xerneas can take any attack from Zekrom and strike back with Moonblast, while Choice Scarf Xerneas can outspeed and OHKO Zekrom. Neither variant can switch into a Bolt Strike from the Choice Band set, though. Fairy Arceus can survive a Bolt Strike from even the Choice Band set and use Will-O-Wisp or Judgment in return, but it is 2HKOed by Bolt Strike from the Choice Scarf set.
+**Fairy-types**: Xerneas, Mega Diancie, and Fairy Arceus all block Zekrom's Dragon-type moves and OHKO it back with a STAB attack. However, none of them can switch into even an unboosted Bolt Strike, especially if entry hazards are set up.
 
-**Faster Dragon-types**: These include Palkia, Rayquaza, and Kyurem-W, all of which can KO Zekrom with the appropriate move. However, they will lose to the Choice Scarf set one-on-one unless they also have a Choice Scarf equipped.
+**Fast Dragon-types**: Kyurem-W, Palkia, Latios, and Latias all outspeed non-Choice Scarf Zekrom and OHKO it with their Dragon-type STAB moves.
 
-**Deoxys-A**: Naive Deoxys-A outspeeds any variant of Zekrom other than the Choice Scarf set with a positive Speed nature and OHKOes with Psycho Boost or Ice Beam.
-
-**Will-O-Wisp**: Burning Zekrom almost completely incapacitates it. The best way to accomplish this is with Will-O-Wisp from a bulky Arceus.
+**Deoxys-A**: Deoxys-A outspeeds even Choice Scarf Zekrom and OHKOes Zekrom with Psycho Boost or Ice Beam.

@@ -1,40 +1,78 @@
 Overview
 ########
 
-Wielding a Spooky Plate, Arceus's spectral incarnation remains a stellar Arceus forme and a top-tier threat in Ubers. Steel-type Pokemon now no longer resist Ghost-type moves, increasing the potency of Ghost as an offensive typing and augmenting Ghost Arceus's prowess as both a physically and a specially based setup sweeper. Defensively, Ghost Arceus can take advantage of its neutrality to most types and excellent base 120 / 120 / 120 defenses to run a viable support set that still retains significant offensive presence, handling Pokemon like Mewtwo with relative ease. With its typing giving it immunities to Normal- and Fighting-type moves, in conjunction with the move Will-O-Wisp getting an accuracy raise from 75% to 85%, Ghost Arceus also checks some of the best physical attackers in Ubers, including Mega Mewtwo X, Mega Kangaskhan, and Extreme Killer Arceus. In addition, Ghost Arceus can prevent entry hazard removal by blocking Rapid Spin, a move that has decreased in usage with the Defog buff but is nonetheless still viable in Ubers. Lastly, Ghost Arceus can use its typing to switch out of Shadow Tag unhindered, rendering it incapable of being trapped by another top-tier threat, Mega Gengar. However, Dark-types such as Darkrai and the newly introduced Yveltal significantly inhibit Ghost Arceus's potential and can easily exploit it to gain momentum. Still, all things considered, it must be reinforced that Ghost Arceus remains a versatile and very threatening Pokemon.
+Ghost Arceus is one of the foremost Arceus formes due to its slew of positive traits. Its excellent typing, both defensively and offensively, allows it to take on a number of different roles, with support, Calm Mind, and Swords Dance sets all being viable. Latias and Latios have returned to the Ubers tier, and Ghost Arceus stands out as a solid check to them. It still deals with everything that it used to in XY, with it being able to take on Extreme Killer Arceus and Kangaskhan like nothing else can due to its immunity to Ghost, its high Speed, and access to Will-O-Wisp. Ghost Arceus is also not weak to Primal Groudon like other support formes are and is also immune to the effects of Shadow Tag thanks to its typing.
+
+However, Ghost Arceus's weakness to Dark can cause it severe issues, with Dark Arceus, Yveltal, and Darkrai all being prominent members of the tier. Its weakness to Ho-Oh, like that of many other support and Calm Mind Arceus, can also be difficult to deal with, but, overall, Ghost Arceus is a fantastic choice for many Ubers teams due to its incredible versatility and the ability to cover its few flaws with the rest of its team.
+
+Support
+########
+name: Support
+move 1: Defog
+move 2: Will-O-Wisp
+move 3: Judgment
+move 4: Recover
+ability: Multitype
+item: Spooky Plate
+evs: 248 HP / 8 Def / 252 Spe
+nature: Timid
+
+Moves
+========
+
+Defog allows Ghost Arceus to clear entry hazards for its teammates. Will-O-Wisp is used to burn opposing physical attackers such as Extreme Killer Arceus and Kangaskhan. Judgment deals fair damage and hits Latias and Latios in particular super effectively, with Recover being in the last slot to recover health.
+
+Set Details
+========
+
+Full investment in Speed is used to Speed tie with Extreme Killer Arceus and physical Ground Arceus, potentially burning them with Will-O-Wisp before they can hit Ghost Arceus with Swords Dance-boosted attacks. Maximum HP investment grants Ghost Arceus a solid amount of bulk. It is possible to drop to 176 Speed EVs to outspeed Latias and Latios, or even 96 Speed EVs for outspeeding base 100 Speed Pokemon, with the rest poured into Defense.
+
+Usage Tips
+========
+
+Support Ghost Arceus should be used to check Kangaskhan, Extreme Killer Arceus, Mega Mewtwo X, and other physical attackers. It is also possible to use Ghost Arceus's typing to check threats such as Palkia and Genesect. Entry hazards should be removed with Defog when necessary, although it is wise to burn hazard setters that can give Ghost Arceus a hard time otherwise, such as Dialga. Fairly liberal use of Judgment is recommended, as it hits almost everything solidly; however, it is better to burn Dark-type switch-ins such as Yveltal and Darkrai and double switch out of predicted Ho-Oh switch-ins.
+
+Team Options
+========
+
+Fairy-types pair well with Ghost Arceus, as they can take on the Dark-types that cause it problems. Choice Scarf Xerneas absorbs Dark Void, immensely threatens Darkrai, can surprise Ho-Oh with Rock Slide, and also checks Dark Arceus. Defensive Xerneas with Rest can pivot into Dark Void and can also wall Life Orb Yveltal. Clefable hard walls Calm Mind Dark Arceus, can take an unboosted Sludge Bomb from Darkrai, and also checks Life Orb Yveltal fairly well; it must use Moonblast, however.
+
+Ho-Oh appreciates the Defog support, and Sleep Talk variants are able to absorb Dark Void. It also tramples any Yveltal without Foul Play, if Ghost Arceus can burn Yveltal on the switch-in with Will-O-Wisp. Primal Groudon sets up Stealth Rock to keep away opposing Ho-Oh, can snipe it with Stone Edge, and can also take on Geomancy Xerneas, which can set up on Ghost Arceus.
 
 Calm Mind
 ########
 name: Calm Mind
 move 1: Calm Mind
 move 2: Judgment
-move 3: Recover
-move 4: Will-O-Wisp / Focus Blast
+move 3: Will-O-Wisp / Focus Blast / Thunder
+move 4: Recover
+ability: Multitype
 item: Spooky Plate
-evs: 252 HP / 4 SpA / 252 Spe
+evs: 248 HP / 8 Def / 252 Spe
 nature: Timid
 
 Moves
 ========
 
-Calm Mind boosts Ghost Arceus's Special Attack and Special Defense by one stage each; at +1 Special Attack, Judgment hits most neutral targets very hard, making this set a formidable mid- to late-game cleaner. Judgment is Ghost Arceus's reliable, powerful STAB move. Recover aids Ghost Arceus in setting up multiple Calm Mind boosts. Will-O-Wisp allows Ghost Arceus to check physical threats like Groudon and Mega Kangaskhan, even as it sets up. In conjunction with its max HP EVs, Ghost Arceus can also burn Extreme Killer Arceus and switch out to a relevant teammate relatively unscathed. Note that with its respectable natural bulk, possible Calm Mind boosts, and lack of weaknesses to most common offensive types, running Will-O-Wisp can make Ghost Arceus very difficult to break with both physical and special attacks, enhancing its ability to accrue multiple boosts (watch out for opposing status-inducing moves though). Also, with the buff to the Ghost typing, forgoing a coverage move becomes much less of an issue. Focus Blast can be run for hitting Arceus-Normal super effectively (also allowing Ghost Arceus to check Refresh variants more effectively), and landing a stronger hit on Ferrothorn and Heatran, possibly preventing them from using a status move or, in Heatran's case, Roar. However, its rather high 30% miss chance, along with the fact that Steel-type Pokemon now take neutral damage from Ghost-type moves, make it a less desirable option.
+Calm Mind boosts Ghost Arceus's Special Attack and Special Defense simultaneously, and Judgment provides it with a strong STAB attack. Will-O-Wisp allows Ghost Arceus to double up as a supporting team member that can cripple physical attackers. With Will-O-Wisp and Calm Mind, Ghost Arceus becomes very difficult to break. Focus Blast hits Extreme Killer Arceus and Dark Arceus in particular super effectively, and also deals heavy damage to Dialga and Darkrai, making it more difficult for them to switch in; Focus Blast can potentially OHKO Darkrai after Stealth Rock damage. Thunder is also usable to deal with certain Pokemon Ghost Arceus lures in, such as Ho-Oh and Yveltal, with a +1 Thunder potentially OHKOing Ho-Oh and always OHKOing offensive Rash Yveltal after Stealth Rock damage. Recover allows Ghost Arceus to stay at a high amount of health so that it can continue to set up more Calm Minds.
 
-Thunder can be run over Focus Blast as it hits important targets in Kyogre, Yveltal, and Ho-Oh significantly harder, potentially killing them before they can damage Ghost Arceus. Keep in mind though that Thunder has similar accuracy to Focus Blast, and that running it means you miss out on running Will-O-Wisp/Focus Blast, which might be more useful for your team. Rain support from Kyogre is recommended if Thunder is used. Substitute can be used over Recover to foil enemy attempts to cripple Ghost Arceus with status or Leech Seed
+There are other options that can be used. Fire Blast hits Steel-types super effectively, and Substitute allows Ghost Arceus to evade status and revenge killing, meaning that Ghost Arceus can set up quickly. Refresh can be used to absorb status, although this means that Ghost Arceus can no longer check Normal Arceus at all. An offensive spread with full Special Attack investment can be used, which works reasonably nicely alongside Substitute and a second attack.
 
 Set Details
 ========
 
-Maximum HP investment preserves Ghost Arceus's natural bulk, allowing it to comfortably take moderately powerful hits as it sets up, such as Hydro Pump from Palkia in neutral weather. Maximum Speed with a Timid nature allows Ghost Arceus to outspeed everything below its Speed tier and Speed tie with other Arceus formes. An alternative spread of 144 HP / 252 SpA / 112 Spe with a Timid nature can be used to let Arceus outspeed everything up to Jolly Garchomp; maximum Special Attack EVs allow Judgment to hit as hard as possible from the get-go. The remaining 144 EVs are invested in HP in order to let Ghost Arceus take hits a little better as it sets up. A third possible set would be 252 SpA / 252 Spe for maximum Speed and initial power. It is advised to use it along with Substitute and Focus Blast, which capitalizes on predicted uses of status inducing moves to set up a Substitute and in turn, rapidly pick up a Calm Mind boost or two. This set is more oriented toward posing an immediate offensive threat, while 252 HP / 252 Spe increases Ghost Arceus's ability to take hits while accruing multiple boosts.
+Full investment in Speed at worst allows Ghost Arceus to Speed tie Extreme Killer Arceus, Swords Dance Ground Arceus, and Mega Salamence and burn them or hit them with Judgment or Focus Blast; additionally, this lets Ghost Arceus tie with other miscellaneous maximum Speed Arceus formes. Full HP investment grants Ghost Arceus a solid amount of bulk. It is possible to drop to 176 Speed EVs for outspeeding Latias and Latios, but no lower.
 
 Usage Tips
 ========
 
-If you see weakened threats, pick them off with Judgment. Also, use Judgment to ensure opposing sweepers vulnerable to it, such as Mewtwo, don't set up on Arceus. Basically, don't be hesitant to spam Judgment. Secondly, it is effective to actively make aggressive double switches. If the opponent is likely to switch to their Mewtwo, don't be afraid to double switch into Ghost Arceus. Ghost Arceus can take most unboosted hits comfortably, so one should not be too worried about the occasional mispredict (again, watch out for status, though). On the other hand, don't be too eager to set up Calm Mind rashly early-to-mid-game. While being gifted with natural bulk, Ghost Arceus is no damage sponge. For example, an unboosted Ghost Arceus might be able to set up a Calm Mind and come out on top of a skirmish with an Adamant-natured Groudon, but it will accomplish this with at most 24% of its HP to spare, leaving it prone to being revenge killed by threats it could otherwise beat, such as Mewtwo or Aegislash running Shadow Sneak. That aside, this set also loathes status, as mentioned above. Burn and poison limit its longevity greatly, and paralysis gimps its great Speed. This makes it unwise to set up on threats you can ultimately kill but which will cripple you with status in the process, limiting your staying power and sweeping potential. Examples include Ferrothorn and Heatran. Also, be very wary of Yveltal and Darkrai; both are Pokemon that can rapidly snatch momentum away. Yveltal can switch into a Judgment and proceed to threaten your team massively with its possible Life Orb-boosted dual STAB moves. While Darkrai is too frail to be switching into Judgment repeatedly, it can take one and threaten to put something to sleep or set up.
+If using Will-O-Wisp, Ghost Arceus can be used as a hybrid setup sweeper and check to opposing physical attackers. Using Will-O-Wisp on Dark-type switch-ins such as Yveltal and Darkrai cripples them and wears them down significantly. Will-O-Wisp and Calm Mind should be used in tandem to make Ghost Arceus unbreakable on both defenses. Focus Blast and Thunder should be used to take out foes that Ghost Arceus lures in so that Ghost Arceus can set up Calm Mind more easily later on in the game.
 
 Team Options
 ========
 
-Make sure Dark-types like Yveltal and Darkrai are adequately dealt with. Fairy-types pair well with Ghost Arceus. Xerneas can take hits directed at it, as well as rid it of status with a bulky cleric set. Other Fairy-types such as Sylveon and Clefable are also viable teammates as they, too, provide type synergy and cleric support. However, do note that Fairy-types are both friend and foe to Ghost Arceus; it is crucial to have a reliable answer to a boosted Geomancy Xerneas as it can set up alongside with and overpower this set. Scizor can use Bullet Punch to pick off Xerneas that have taken prior damage from Judgment. Pokemon such as Bronzong and Jirachi can also reliably handle Geomancy Xerneas, but note that these compound the team's Ghost-type weakness. Ho-Oh is problematic for this set as its powerful dual STAB moves outdamage Ghost Arceus and prevent it from setting up; have teammates that can set up Stealth Rock reliably such that Ho-Oh loses 50% of its total HP upon each switch-in. Pokemon such as Landorus-T and Gliscor are good Stealth Rock setters that can also check Ho-Oh with their physical bulk when the need arises. However, note that neither can switch into Brave Bird/Sacred Fire repeatedly and the best way to keep Ho-Oh in check is really to make sure Stealth Rock stays up; a Judgment at +1 Special Attack from 0 SpA Ghost Arceus will always kill 248 HP Ho-Oh after it takes Stealth Rock damage and a round of Life Orb recoil. Thirdly, Ghost Arceus is vulnerable to powerful Choice Scarf users after it has gotten a kill. Choice Scarf Zekrom is a threat that can be dealt with by the aforementioned Landorus-T and Gliscor. Groudon can also be used if its lack of a Ground immunity is not an issue, and if teammates can take advantage of the sun it provides. Choice Scarf Kyogre is less of a threat if Ghost Arceus has gotten at least one Calm Mind boost, but a Water Spout at full or near-full HP is nonetheless incredibly threatening; Palkia is a good teammate to handle Kyogre. Finally, it would be pertinent to mention that this set's usage over another Arceus forme should be well-justified. For example, this set checks Mewtwo, so it would be a good addition to teams that are weak to Mewtwo. On the other hand, this set might not be the best addition to teams already vulnerable to opportunistic Dark-types like Darkrai. Notably, this set's draws over another Calm Mind Arceus forme should be evaluated. For example, if a team were weak to Mega Kangaskhan, running this set over a Calm Mind Arceus-Electric would be a good decision.
+Primal Groudon sets up Stealth Rock to limit Ho-Oh and Yveltal's effectiveness and can also run Stone Edge for the former. Choice Scarf and RestTalk Xerneas can switch into Darkrai and Yveltal, with Choice Scarf variants also being able to surprise Ho-Oh with Rock Slide. Xerneas also piles heavy pressure on Dark Arceus, preventing it from setting up on Ghost Arceus. Diancie checks Ho-Oh, Darkrai, and Yveltal and can bounce back entry hazards and status for the rest of the team. Ho-Oh can take on Dark Arceus if Stealth Rock is not up, absorb Dark Void if it runs Sleep Talk, and potentially win against Yveltal that don't run Foul Play. Latias and Latios can take Primal Kyogre to an extent, which could otherwise take on Ghost Arceus one-on-one and overpower it with Origin Pulse.
+
 
 Swords Dance
 ########
@@ -43,89 +81,64 @@ move 1: Swords Dance
 move 2: Shadow Force
 move 3: Shadow Claw
 move 4: Brick Break
+ability: Multitype
 item: Spooky Plate
-evs: 4 HP / 252 Atk / 252 Spe
-nature: Jolly
+evs: 252 Atk / 4 Def / 252 Spe
+nature: Jolly / Adamant
 
 Moves
 ========
 
-Swords Dance instantly doubles Ghost Arceus's attack, skyrocketing its sweeping potential. Augmented by the Ghost buff, Shadow Force hits like a nuke, and at +2 Attack will KO virtually all Pokemon that do not resist or are immune to it, especially after Stealth Rock. Shadow Claw prevents Substitute/Protect users, such as Substitute Ho-Oh, from taking advantage of Shadow Force. With the buff to Ghost typing, running two Ghost-type moves is very viable, akin to not running a coverage move on the Calm Mind set. Brick Break in the last slot allows Ghost Arceus to hit Normal-types like Blissey and Kangaskhan that are immune to Ghost Arceus's STAB moves. It also hits Ferrothorn super effectively, and allows Ghost Arceus to come out on top against Extreme Killer Arceus. Recover can be used in the third or fourth moveslot, but it is not recommended, as running it in either slot will give you Arceus sub-optimal coverage. This set aims to pull off a quick, brutal sweep late-game, making Recover an inferior option, as opposed to on Calm Mind Ghost Arceus, which aims to stay healthy while possibly accruing multiple boosts. Extreme Speed can be run over Shadow Claw, as it hits pretty hard at +2 and can pick off annoying, fast but frail threats like Deoxys-A, Darkrai, and Blaziken, as well as weaknened Choice Scarf users. However, note that even after a Swords Dance, Extreme Speed is still a relatively weak move that does not hit anything super effectively, and is generally outclassed in usefulness by the listed moves. Stone Edge can be used in the third moveslot to nail Yveltal and Ho-Oh, notably the physically defensive variant; this is situationally useful and should only be run if one's team dearly needs these Pokemon out of the way.
+Swords Dance allows Ghost Arceus to break opposing teams and sweep. Shadow Force OHKOes almost everything at +2, and Shadow Claw is a consistent STAB move, preventing foes from being able to take advantage of Shadow Force's charge turn. Brick Break provides weak, but necessary, coverage against Dark- and Normal-types.
 
 Set Details
 ========
 
-Maximum Attack investment optimizes damage output. Maximum Speed investment with a Jolly nature allows Ghost Arceus to at least Speed tie other Arceus formes; this is very important as they can threaten a burn with Will-O-Wisp. An Adamant nature can be used as it achieves certain notable KOs, such as a guaranteed KO after Stealth Rock damage with a boosted Shadow Force against 252 HP / 0 Def Arceus formes. Note that on teams with Sticky Web support, it is highly advised to use an Adamant nature as it allows Ghost Arceus to become a phenomenal wallbreaker.
+Full investment in Attack and Speed grants Ghost Arceus significant offensive prowess and lets it, at worst, Speed tie with opposing Arceus formes. It is also feasible to run Adamant for more power, although this might allow Ghost Arceus to be burned by opposing support Arceus formes and outsped by Latias and Latios.
 
 Usage Tips
 ========
 
-Try only to reveal and use this set late-game after the opponent's Arceus forme has been revealed, any Choice Scarf users have been taken down, and the opposing team has been generally weakened to a level where this set can clean up. One of the main contributing factors to this set's effectiveness is the element of surprise, so try not to foil your opportunity. However, if the opponent's Choice Scarf Pokemon is likely to stick around (for example, if they are saving their Kyogre for a late-game sweep),  the best course of action would be to sneak Ghost Arceus in whenever opportunities present themselves, either by double switching or on weaker hits, and spam Shadow Force, or otherwise attempt to do as much damage as possible. Again, be very wary of Dark-types like Yveltal and Darkrai. Don't spam Shadow Force if they are healthy, as they can take a hit and force you to relinquish momentum.
+Ghost Arceus can easily set up a Swords Dance and sweep with Shadow Force, as a large amount of physical walls, such as Lugia, Giratina-O, and Ghost Arceus, are weak to Ghost; however, it is necessary to get rid of defensive Yveltal before a sweep is attempted, as it hard walls this Ghost Arceus variant.
+
+This variant of Ghost Arceus can easily be used as a check to Latias and Latios, as it is able to outspeed and OHKO them easily with Shadow Claw, potentially surprising them should they have set up several Calm Minds beforehand and stay in expecting to take little damage from Judgment.
+
+Choice Scarf users, although rare, should be scouted and removed before setting up, as they can outspeed and deal significant damage due to Ghost Arceus's lack of defensive investment. It is also necessary to weaken Primal Groudon slightly, as it is not OHKOed by +2 Shadow Force and can either cripple Ghost Arceus with Thunder Wave, burn it with Lava Plume, or phaze it with Roar or Dragon Tail.
+
+It is necessary to be careful with Shadow Force, as the charge turn can give Dark-types free turns to switch in should the opponent predict your use of the move. If setting up is not possible, liberal use of Shadow Force and Shadow Claw works nicely. It is wise to weaken Dark- and Normal-types beforehand, as Brick Break is rather weak even when boosted.
 
 Team Options
 ========
 
-Make sure Dark-types can be reliably handled. Again, Fairy-types make good partners. Secondly, have a plan for Geomancy Xerneas, as with the Calm Mind set. Thirdly, make sure Stealth Rock can be set up, reliably and repeatedly. This is instrumental as Ghost Arceus can achieve many notable KOs at +2 Attack with Stealth Rock up. Sticky Web support is huge for this set, as it ensures that Choice Scarf users cannot revenge kill it, and provides it a lot more room to maneuver around the opponent. There is a chance that this set will lose to Extreme Killer Arceus one-on-one, and if so, there needs to be a reliable contingency plan. Support Groudon with Roar can phaze Extreme Killer in a pinch, and can also set up Stealth Rock for the team. On more offensive teams, Ditto is a good option to revenge kill a boosted Extreme Killer. Also, evaluate the effectiveness of using this over another Arceus set. This set is especially good at heaping immediate offensive pressure on the opponent, and is a good fit on teams that need an opportunistic wallbreaker/sweeper, but the opportunity cost of using it is that you forgo the advantages another Arceus set might provide.
-
-Support
-########
-name: Support
-move 1: Judgment
-move 2: Recover
-move 3: Defog
-move 4: Will-O-Wisp
-item: Spooky Plate
-evs: 252 HP / 144 Def / 112 Spe
-nature: Timid
-
-Moves
-========
-
-Judgment is the obligatory STAB move. Recover ensures that Ghost Arceus has staying power and does not get whittled down by attacks. Defog provides team support by wiping entry hazards from the field, and Will-O-Wisp neuters physical attackers and checks physically based setup sweepers. Notably, Will-O-Wisp, in conjunction with the Defense investment, allow this set to check Extreme Killer Arceus.
-
-Set Details
-========
-
-Max HP EVs and 144 Defense EVs allow Ghost Arceus to better stomach Mewtwo's Psystrike, as well as buffer against physical attacks that it might have to switch in on, or take in the event of Will-O-Wisp missing. 112 Speed EVs with a Timid nature outspeeds everything up to Jolly Garchomp.
-
-Usage Tips
-========
-
-As with the other sets, try not to let Dark-types like Yveltal and Darkrai switch in on Arceus. Also, avoid switching in on strong special attacks, such as from a Palkia that you know has Choice Specs equipped. However, if users of such attacks have been weakened and are slower than Ghost Arceus, it can switch in, take a hit, and pick off the threat. Thirdly, a Ghost typing is much more offensively potent than most other support Arceus types, so it would be wise to take advantage of this by spamming Judgment. If the opponent is switching out their Pokemon, using Judgment twice is in many cases better than using Defog + Judgment, especially when the opponent's entry hazard setter can set up hazards again with relative ease.
-
-Team Options
-========
-
-This section mirrors that of Calm Mind Ghost Arceus, really. One thing to add would be that support Ghost Arceus is a very reliable Defogger. Notably, it cannot be trapped by Mega Gengar, so teammates such as Ho-Oh that benefit greatly from the absence of entry hazards are much-appreciated.
+Xerneas can hit defensive and offensive Yveltal and Dark Arceus with Moonblast, which is greatly appreciated due to their ability to deal heavy damage with Sucker Punch, Foul Play, and Dark-type Judgment, respectively, to Ghost Arceus. Choice Scarf Xerneas switches into Darkrai, which outspeeds Ghost Arceus and deals damage with Dark Pulse or puts it to sleep. Salamence and offensive Primal Groudon can weaken or KO defensive Yveltal, with offensive Stealth Rock Primal Groudon in particular pairing well with Swords Dance Ghost Arceus due to its ability to KO defensive Yveltal, set up Stealth Rock, and check potential Choice Scarf users such as Xerneas and Kyogre.
 
 Other Options
 ########
 
-An anti-lead set with Magic Coat, Judgment, and Extreme Speed can be used to combat common leads like Deoxys-A/Deoxys-S. Flamethrower or Fire Blast can be used on the Calm Mind, support, and anti-lead sets to hit Steel-types like Ferrothorn and Scizor. Note though, that with Ghost-type attacks hitting Steel-type Pokemon neutrally this generation, Fire-type coverage has decreased significantly in importance. Stone Edge can be run on the support set to nail Ho-Oh and hit Yveltal harder, as can Toxic to cripple walls or Thunder Wave to cripple setup sweepers. Ghost Arceus can take most +1 hits and retaliate by crippling its foe with status.
+Stone Edge can be used on support Ghost Arceus to deal 82-94% damage to Ho-Oh, OHKOing it after a Judgment or any prior damage. Support sets can also use Shadow Claw to be able to check Calm Mind Latias and Latios more easily, as support Ghost Arceus with Judgment can actually lose if Latios and Latias have set up with Calm Mind. Extreme Speed lets Ghost Arceus snipe Deoxys-A and provides, albeit weak, priority. Stealth Rock can be used if there is no other entry hazard setter available. Magic Coat bounces back entry hazards and status, Thunder Wave cripples Darkrai switch-ins and generally spreads paralysis, and Toxic cripples defensive Yveltal and severely irritates Ho-Oh.
+
 
 Checks & Counters
 ########
 
-**Dark-types**: Most notably, Yveltal and Darkrai can switch in on Ghost Arceus's STAB Judgment and threaten it hugely with STAB Dark Pulse, or in Darkrai's case, put it to sleep with Dark Void and possibly proceed to set up. Other Dark-type Pokemon like Dark Arceus and Mandibuzz with Toxic also prevent Ghost Arceus from sweeping, or at least limit its longevity with status, as their STAB moves are super effective on Ghost Arceus. Tyranitar is less of a threat as Ghost Arceus commonly carries Will-O-Wisp, but it should not be ignored. Mega Gyarados also deserves a mention as it can harass Swords Dance Ghost Arceus in the interim; regular Gyarados can lower Ghost Arceus's Attack with Intimidate, following which it Mega Evolves to gain a resistance to Ghost-type moves and possibly proceed to set up with Dragon Dance and inflict significant damage before going down.
+**Yveltal**: Offensive Yveltal can OHKO Ghost Arceus with Dark Pulse or snipe an even slightly weakened one with Sucker Punch. Defensive variants can easily OHKO Swords Dance Ghost Arceus with Foul Play and cripple support and Calm Mind variants with Toxic. Yveltal intensely dislikes being burned by Will-O-Wisp and can be surprised by Thunder, however.
 
-**Kyogre**: Specially defensive Kyogre can phaze the Calm Mind set; Kyogre in general can deal heavy damage to all sets with its rain-boosted STAB moves.
+**Dark Arceus**: Dark Arceus absorbs Will-O-Wisp thanks to Refresh and can start setting up Calm Minds easily, allowing it to KO Ghost Arceus with Judgment. It can be caught off guard by a boosted Focus Blast, however, and also takes a fair amount of damage from a +2 Brick Break.
 
-**Xerneas**: As with Kyogre, specially defensive Xerneas can phaze the Calm Mind set or cripple it with moves like Thunder Wave if it chooses to run that. In a one-on-one situation, Geomancy Xerneas can boost and come out on top against all sets.
+**Darkrai**: Darkrai outspeeds Ghost Arceus and can either put it to sleep, set up Nasty Plot, or simply beat it up with Dark Pulse. Darkrai does not appreciate the residual damage from Will-O-Wisp either, however, and can be sniped by a well-timed Focus Blast.
 
-**Unaware**: The two main users of this ability in Ubers, Clefable and Quagsire, are big thorns in Ghost Arceus's side, as they check the Calm Mind and Swords Dance sets respectively by ignoring any boosts Ghost Arceus might have gained and wearing it down with Toxic damage coupled with self-recovery.
+**Ho-Oh**: Ho-Oh eats support Ghost Arceus alive and can switch in for free on Will-O-Wisp. The rainbow phoenix can also take on Calm Mind Ghost Arceus, burning it with Sacred Fire and applying a huge amount of pressure with its attacks, preventing Ghost Arceus from boosting further and dealing more damage than Recover can heal. Ho-Oh gets OHKOed by +2 Shadow Force, however, and can also be sniped by the rare Thunder or Stone Edge, which Ghost Arceus specifically carries for it.
 
-**Ho-Oh**: Ho-Oh can cripple most sets with its STAB moves, especially under sun. Sacred Fire's 50% burn rate is also really nasty. If running Substitute, it can really mess around with the Swords Dance set if it does not run both Shadow Force and Shadow Claw.
+**Refresh Extreme Killer Arceus**: With some luck, Refresh Extreme Killer Arceus can break through Will-O-Wisp Ghost Arceus due to its immunity to Ghost-type Judgment and its ability to heal off burns with Refresh, allowing it to boost further. Refresh Extreme Killer Arceus's Shadow Claws are very weak even when boosted, however, meaning that it will need to win and lose Speed ties at the right moments to be able to get through Ghost Arceus without being burned at the end of the exchange.
 
-**Blissey**: The pink blob counters the Calm Mind and support sets by virtue of its enormous Special Defense and access to Toxic.
+**Primal Kyogre**: Primal Kyogre deals heavy damage to Ghost Arceus with Origin Pulse and can easily win a Calm Mind war due to its huge Special Attack, Special Defense, and the boost from rain. Rest variants do not care about Will-O-Wisp either, but even the most physically defensive of Kyogre is OHKOed by +2 Shadow Force after Stealth Rock.
 
-**Status**: Ghost Arceus loathes status of any sort; paralysis gimps all its sets and burn/poison limit its longevity greatly, deterring it from spamming Judgment or setting up.
+**Blissey**: Blissey can easily poison Ghost Arceus with Toxic, is immune to Judgment, does not care about Will-O-Wisp in the slightest, and easily takes even boosted Focus Blasts. It gets taken apart by +2 Brick Break, however, and is completely set up on by Substitute + Calm Mind Ghost Arceus.
 
-**Choice Scarf Users**: The commonly seen threatening ones are Zekrom and Kyogre, the latter especially if it is at high health. Choice Scarf Genesect with an Attack boost from Download can pose a threat with Iron Head and its 30% flinch rate.
+**Mega Gengar**: Mega Gengar outspeeds Ghost Arceus, deals heavy damage with Shadow Ball, and can also Taunt it to prevent the use of Defog if absolutely necessary. All Ghost Arceus will outspeed Gengar if it has not Mega Evolved, however, blowing it away with Judgment.
 
-**Kyurem-W**: Choice Specs Kyurem-W is very dangerous to support Ghost Arceus, threatening to OHKO with Draco Meteor (62.5% chance) after Stealth Rock damage. This is compounded by the fact that it can switch in after Ghost Arceus has used Defog, and has respectable 125 base HP and 100 base Special Defense with which it can stomach an uninvested Judgment rather comfortably.
+**Unaware Clefable**: Unaware Clefable can either poison Calm Mind Ghost Arceus, PP stall it, or set up Calm Mind alongside it. It cannot take on Swords Dance Ghost Arceus at all unless it is fully physically defensive, however, and still struggles to take repeated Shadow Forces.
 
-**Groudon**: Physically defensive Groudon checks the Swords Dance set to an extent; it can stomach even a +2 Shadow Force and proceed to phaze Ghost Arceus with Roar, undoing its efforts in setting up. However, note that, especially against sets with Will-O-Wisp, it is fighting a losing battle.
+**Giratina-O**: Giratina-O can snipe a very weak Ghost Arceus with Shadow Sneak but cannot switch in at all.
 
-**Mega Gengar**: Mega Gengar can revenge kill most sets with Shadow Ball. No matter how many boosts they might have attained, Calm Mind/Swords Dance Ghost Arceus is still threatened by Destiny Bond. Note that it can switch out of Shadow Tag though, so the only disadvantage will be that Arceus's sweep will be interrupted.
-
-**Priority**: Although Ghost Arceus is immune to priority in Extreme Speed, Shadow Sneak from the likes of Giratina and Aegislash can pick it off if it has been significantly weakened. Sucker Punch from the aforementioned Yveltal, Mega Kangaskhan, and even lesser-seen Pokemon like Bisharp can do the same. This, however, is mitigated if Ghost Arceus has Will-O-Wisp.
+**Ditto**: Choice Scarf Ditto can revenge kill physical sets with Shadow Claw, but it is worse than useless against Calm Mind variants, as the lack of Spooky Plate on Ditto makes its Judgment Normal-type.

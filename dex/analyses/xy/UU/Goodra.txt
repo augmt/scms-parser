@@ -1,51 +1,133 @@
 Overview
 ########
 
-Goodra's monstrous 150 base Special Defense and 90 base HP help it excel at taking special attacks; it can also hit quite hard with its base 110 Special Attack. Goodra also has access to a wide movepool that allows it to break through many threats. Its ability, Sap Sipper, adds an immunity to Grass-type moves like Giga Drain and Sleep Powder. However, one downside of using Goodra is that it's outsped by all other Dragon-type Pokemon in the tier, making it easy to revenge kill. Also, Goodra lacks a more reliable recovery option other than Rest.
+Goodra's incredible Special Defense allows it to serve as an effective special tank while still being able to dish out decent damage thanks to its base 100 Attack and 110 Special Attack stats. Its useful defensive typing and ability Sap Sipper back up Goodra's natural bulk, giving it three resistances and one immunity. Goodra has great coverage options; fortunately, Goodra also has the stat distribution to run both physically and specially oriented sets. However, its mediocre Defense stat combined with a lack of reliable recovery outside of Rest gives it stiff competition in its roles when compared to other Dragon-types such as Hydreigon and Noivern, both of which have greater Speed and reliable recovery in Roost.
 
-Assault Vest
+
+Choice Band
 ########
-name: Assault Vest
-move 1: Draco Meteor
-move 2: Fire Blast
-move 3: Sludge Bomb
-move 4: Dragon Tail / Thunderbolt / Power Whip
+name: Choice Band
+move 1: Outrage
+move 2: Earthquake / Fire Punch
+move 3: Power Whip
+move 4: Iron Tail
 ability: Sap Sipper
-item: Assault Vest
-nature: Modest
-evs: 252 HP / 4 Def / 252 SpA
+item: Choice Band
+evs: 212 HP / 252 Atk / 44 Spe
+nature: Adamant
+
 
 Moves
 ========
 
-Draco Meteor is a STAB move that has tremendous power and is Goodra's main move. However, you can't spam Draco Meteor, as it drops Goodra's Special Attack by 2 stages, weakening all of its special moves. Fire Blast has high Base Power and grants coverage against Steel-type Pokemon, such as Forretress and Jirachi, that are otherwise eager to switch in. Sludge Bomb covers Goodra's weakness to Fairy-types a bit, and can also spread poison. Dragon Tail is a good phazing move that does a decent amount of damage and stops most special threats from setting up. Thunderbolt also has great Base Power and grants coverage against Water- and Flying-type Pokemon. Power Whip hits Ground-type Pokemon such as Swampert and Quagsire harder.
+Outrage is Goodra's main STAB attack and hits extremely hard in combination of Goodra's decent Attack and a Choice Band; however, it should only be used freely once Steel- and Fairy-type Pokemon have been KOed. Earthquake hits the Steel-types that resist Goodra's STAB, such as Mega Aggron. Fire Punch is another option to hit Whimsicott and Forretress, which are not damaged badly by Goodra's other attacks, for more reliable damage. Superpower is an option to hit Blissey and Mega Aggron more powerfully; however, the Attack and Defense drops can be problematic. Power Whip provides good coverage against bulky Water-type Pokemon such as Vaporeon, Alomomola, Swampert and Suicune, hitting them for super effective damage. Iron Tail hits Fairy-type Pokemon such as Florges and Aromatisse which are immune to Goodra's STAB moves.
+
 
 Set Details
 ========
 
-Sap Sipper is chosen over Gooey because it grants Goodra an immunity to Grass-type moves, as well as an Attack boost. Assault Vest allows Goodra to tank any unboosted special hit in any matchup. 252 EVs invested in Special Attack and a Modest Nature ensure that Goodra hits as hard as it can. The EVs invested in HP and Defense augment Goodra's terrifying bulk.
+Choice Band gives Goodra a massive Attack stat, letting it hit incredibly hard with all of its attacks. Maximum Attack investment and an Adamant nature allows Goodra to dish out a lot of damage from its physical attacks. 44 Speed EVs allow Goodra to outspeed uninvested 85 base Speed Pokemon such as Gligar, Suicune, and Cresselia. Sap Sipper gives Goodra an immunity to Grass-type attacks as well as a free Attack boost upon switching into one. An alternate EV spread of 72 HP / 252 Atk / 184 Spe can be used to outspeed Adamant Honchkrow and OHKO it with Outrage. The remaining EVs are placed into HP, allowing Goodra to tank hits more efficiently.
+
 
 Usage Tips
 ========
 
-Switch Goodra in when a specially based Pokemon, such as Roserade and Milotic, is on the field, as it can tank their hits and strike back with a super effective move. Another good time to switch in Goodra is when the opposing special threat, such as Suicune, is boosting their stats, because it can force switches by using Dragon Tail. Goodra is a good switch-in to Grass-types, as their STAB moves do no damage and boost Goodra's Dragon Tail.
+Goodra can freely switch into Grass-type attacks to get a free Attack boost, which, in tandem with Choice Band, makes Goodra an incredibly fearsome wallbreaker with the power to break down even the sturdiest of physical walls. Goodra also works as a great switch-in to special Water- and Electric-type attacks thanks to its phenomenal special bulk and good defensive typing.
+
 
 Team Options
 ========
 
-Pokemon that can easily switch into physical Dragon-type attackers, such as Forretress and Granbull, will work as well; Goodra really can't stand up to these Pokemon. Entry hazard setters, such as Swampert and Roserade, are excellent, as Goodra can easily phaze with Dragon Tail. low Volt Switch or U-turn users will help Goodra too, as they grant Goodra a safe switch in, allowing it to launch a powerful attack next turn.
+Mega Blastoise is a great teammate that can lure in common Grass- and Electric-type Pokemon and attacks, while also providing entry hazard support with Rapid Spin. Mega Aggron can provide a switch-in to physical attacks that Goodra might have problems tanking, while also providing Stealth Rock support. Fairy-type Pokemon such as Aromatisse and Florges are free switch ins to the Dragon-type attacks targeted at Goodra. Alomomola is a good teammate to Goodra, as it can lure Grass-type attacks to activate Goodra's Sap Sipper and provides Wish support if Goodra gets low on HP. Fast revenge killers such as Mienshao and Krookodile can beat faster threats that Goodra would be too slow to deal with.
+
+
+Choice Specs
+########
+name: Choice Specs
+move 1: Draco Meteor
+move 2: Fire Blast
+move 3: Sludge Bomb
+move 4: Thunderbolt / Muddy Water
+ability: Sap Sipper
+item: Choice Specs
+evs: 212 HP / 252 SpA / 44 Spe
+nature: Modest
+
+
+Moves
+========
+
+Draco Meteor is Goodra's main STAB and hits with monstrous power in combination with Goodra's decent Special Attack and Choice Specs. Fire Blast hits Steel-types such as Forretress, which resist Goodra's STAB moves. Sludge Bomb hits Fairy-type Pokemon such as Florges and Aromatisse, which are immune to Goodra's STAB moves, for super effective damage. Thunderbolt hits bulky Water-type Pokemon such as Vaporeon, Empoleon, and Suicune, while Muddy Water can be used to hit Ground- and Fire-type Pokemon such as Krookodile and Chandelure for super effective damage.
+
+
+Set Details
+========
+
+Choice Specs gives Goodra a massive Special Attack stat, letting it hit as hard as possible in combination with a Modest nature and maximum Special Attack EVs. 44 Speed EVs allow Goodra to outspeed uninvested base 85 Speed Pokemon such as Gligar, Suicune and Cresselia. Sap Sipper is the ability of choice, giving Goodra an immunity to all Grass-type attacks. An alternate EV spread of 72 HP / 252 SpA / 184 Spe can be utilized to outspeed Adamant Honchkrow and OHKO it with Draco Meteor. The remaining EVs are placed into Goodra's HP stat to help back up its natural bulk, thus allowing it to take incoming attacks better.
+
+
+Usage Tips
+========
+
+Goodra's phenomenal special bulk makes it a fantastic pivot into special attacks, and Goodra's strong offensive presence allows it to hit whatever switches in decently hard. Goodra likes to switch into Pokemom it can handle extremely easily, such as Shaymin and Chandelure. Be wary of staying in against strong physical attacks, as Goodra's mediocre Defense leaves it extremely vulnerable to strong physical attacks.
+
+
+Team Options
+========
+
+Alomomola is a fantastic teammate that can not only pass Wishes to Goodra but can also switch in on physical attacks that Goodra would have trouble tanking. Similarly, Goodra can switch in on threatening special hits, such as Shaymin's Seed Flare, that Alomomola does not like to stay in against. Swampert can provide Stealth Rock support to help wear down foes for Goodra, while also providing good type synergy. Florges and Aromatisse are good partners as well, as they can provide cleric support and Goodra cannot recover HP on its own. Mega Aggron not only has fantastic physical bulk but can also provide Stealth Rock support.
+
+
+Assault Vest
+########
+name: Assault Vest
+move 1: Draco Meteor / Dragon Pulse
+move 2: Fire Blast / Flamethrower
+move 3: Sludge Bomb
+move 4: Dragon Tail / Thunderbolt / Muddy Water
+ability: Sap Sipper
+item: Assault Vest
+evs: 248 HP / 252 SpA / 8 SpD
+nature: Modest
+
+
+Moves
+========
+
+Draco Meteor is Goodra's most powerful STAB attack, and it hits like a truck even without a boosting item. However, this attack lowers Goodra's Special Attack by two stages, and has a 10% change of missing. Dragon Pulse is an option, providing less power than Draco Meteor but not having the nasty side effects that come along with it. Fire Blast hits Steel types, such as Mega Aggron, Forretress and Mega Steelix, which resist Goodra's main STAB move, for super effective damage. Flamethrower can be used over this for perfect accuracy but less power. Thunderbolt hits bulky Water-type Pokemon such as Alomomola and Empoleon for super effective damage and provides unresisted coverage with Fire and Dragon. Dragon Tail is useful for phazing opposing Pokemon that might attempt to set up. Sludge Bomb hits Fairy-type Pokemon such as Florges and Aromatisse which are immune to Goodra's main STAB move, while Muddy Water hits bulky Ground- and Water-type Pokemon. Ice Beam can be used to hit Gligar, while Power Whip is mainly used to hit Swampert.
+
+
+Set Details
+========
+
+An Assault Vest boosts Goodra's already high natural Special Defense to extraordinary levels, taking even certain super effective hits incredibly well. Sap Sipper is the ability of choice, giving Goodra a free switch into Grass-type attacks and boosting Dragon Tail's power. Maximum Special Attack investment with a Modest nature lets Goodra hit as hard as possible. 248 HP EVs boost Goodra's good natural bulk, while reducing residual damage.
+
+
+Usage Tips
+========
+
+Goodra has free reign to switch into the majority of special attacks, taking most of them fantastically well, which makes it a fantastic pivot into special attackers such as Mega Pidgeot and Shaymin; take this advantage to hit whatever switches in extremely hard with one of Goodra's attacks. Be extremely wary about attempting to stay in against physical attacks, as even with investment into bulk, Goodra's mediocre Defense leaves much to be desired.
+
+
+Team Options
+========
+
+Alomomola can switch freely in to most physical attacks aimed at Goodra while also giving Wish support. Goodra can also switch into a plethora special attacks that might threaten Alomomola. Swampert not only provides fantastic type synergy with Goodra, but it can also lay down Stealth Rock to help it wear down its foes. Florges and Aromatisse can provide Wish support as well, as Goodra can get worn down easily throughout the battle. Mega Aggron has phenomenal physical Defense, being able to comfortably switch into many physical hits that threaten Goodra. It can also provide Stealth Rock support so Goodra has an easier time wearing down its foes.
+
 
 Other Options
 ########
 
-Running both Rest and Sleep Talk gives Goodra recovery and can be used in combination with Dragon Tail, as Sleep Talk can use Dragon Tail without negative priority. Thunder offers the same coverage as Thunderbolt, but with higher base power, more chance to paralyze, and less accuracy. The same option exists with Flamethrower; it has less power than Fire Blast but is more accurate. Ice Beam or Blizzard can be used as additional coverage, but they are mostly redundant. Sludge Wave, on the other hand, has more power than Sludge Bomb, but less chance to poison. Dragon Pulse can be chosen over Draco Meteor; it has less power, but is more dependable and doesn't cripple Goodra with the Special Attack drop after. A physical Choice Band set is decent, as Goodra has good base Attack and a good movepool for it, but Goodra's special sets are generally better. Choice Specs is also a decent option, but being locked into one move is generally unreliable. Curse is an option to boost Goodra's Attack and Defense, but it isn't really worth it because the Speed drop makes Goodra more vulnerable against slow, offensive attackers. Gooey is an option to slow down physical attackers, or Hydration can be used on a Rain team in conjuction with Rest.
+Curse can boost Goodra's Attack and Defense at the cost of losing Speed upon use. Rain Dance and Hydration provides support for dedicated Rain teams, and it allows Goodra to freely abuse Rest. Toxic cripples common switch-ins such as Florges, Blissey, Suicune, Swampert, and Alomomola. Gooey can help against offensive teams, however, due to Goodra's mediocre Defense, it will often struggle staying in against strong physical attacks.
 
 
 Checks & Counters
 ########
 
-**Bulky Fairy types** Fairy-types such as Florges can easily stall Goodra out, or just threaten it directly with a Fairy-type move.
+**Special Walls**: Assault Vest Goodra has a very difficult time getting past special walls if it does not carry Superpower. Even then, Superpower damage is easily mitigated with reliable recovery. They have to be wary of the Choice Band set, however.
 
-**Special walls** Special walls, such as Blissey, tank Goodra's hits and can stall it out.
+**Physical Attackers**: Pokemon such as Mienshao and Machamp do a large portion of damage to Goodra. Choice Band Infernape will OHKO Goodra with the help of Stealth Rock damage. Pokemon such as Mega Swampert have an easy time getting past the Assault Vest set.
 
-**Strong physical attackers** Strong, physical attackers with an advantage over Goodra such as Haxorus, Krookodile, and Mienshao can easily get rid of it. The same applies for special moves that target Goodra's Defense, such as Alakazam's Psyshock.
+**Status**: Common Toxic users such as Tentacruel pose a risk to Goodra, preventing it from remaining for the long haul. Scald and Will-O-Wisp users also threaten Goodra to slowly whittle down its HP.
+
+**Fairy-types**: Fairy types threaten Goodra with their STAB moves and prevent its Choice Band set from using its most powerful attack.

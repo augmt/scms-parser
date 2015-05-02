@@ -1,15 +1,48 @@
 Overview
 ########
 
-Rayquaza returns to Ubers from a well-deserved vacation in the ozone layer and is ready to show off its power once again. In terms of power, base 150 offenses in both stats is definitely something to be feared, and Rayquaza has powerful moves to back it up, such as V-create, Outrage, and the coveted Extreme Speed. Also, its decent base 95 Speed and access to boosting moves such as Dragon Dance and Swords Dance differentiates Rayquaza from most of the Dragons in the tier. As for the cherry on top, Defoggers can remove hazards easier than before, giving Rayquaza some much-needed switch-in opportunities. However, most Dragon-types now have to deal with Fairy-types such as Xerneas and Fairy Arceus, and Rayquaza's primary cleaning move Outrage practically gives them a free turn. Its typing isn't that great either, limiting the number of attacks it can switch into. In addition, its useful ability in Air Lock was heavily nerfed due to the lack of perma-weather, but Rayquaza is probably the sole Pokemon able to defeat Steel-types regardless of weather conditions, in addition to being able to switch in or set up on a Kyogre's Water Spout. Finally, Rayquaza is now facing very stiff competition for a sweeping spot from threats such as Extreme Killer Arceus and Mega Blaziken. Despite the new generation shifting away from Rayquaza's favor, do not disregard it at all when teambuilding, unless you wish to have it rip a hole bigger than the Antarctic ozone depletion in your team.
+Rayquaza has gained many new abilities upon returning to its home of yore in ORAS. Having been bestowed its own signature move, Dragon Ascent, Rayquaza can wallbreak much more efficiently without relying on V-create, something it greatly appreciates. Air Lock has also gotten a buff, being able to quell Desolate Land and Primordial Sea, something which is valuable for teams that need a soft check to both Primal Groudon and Primal Kyogre. As a wallbreaker, Rayquaza is more than happy to help the whole new slew of Mega Evolutions, particularly Mega Salamence, giving them more opportunities to fill up teamslots. Another unseen boon for Rayquaza is that most of its original checks and counters have decreased dramatically in usefulness due to the addition of Primal Reversion, letting it rip through teams all the easier. However, most of Rayquaza's old flaws are still noticeable. Most notably, its Stealth Rock weakness coupled with its iffy overall bulk leaves it prone to being revenge killed. Furthermore, its Speed stat is relatively mediocre, leaving it outsped by a multitude of offensive threats such as Latios, Latias, and the base 100 Speed tier. However, don't discount Rayquaza's power for a second, for it could be your team's last flight of glory.
 
-Swords Dance
+MixQuaza
 ########
-name: Swords Dance
+name: MixQuaza
+move 1: Draco Meteor
+move 2: Earthquake / Fire Blast
+move 3: Dragon Ascent
+move 4: Extreme Speed / Earthquake
+ability: Air Lock
+item: Life Orb
+evs: 252 Atk / 40 SpA / 216 Spe
+nature: Naive
+
+Moves
+========
+
+Draco Meteor is what makes MixQuaza what it is, as it is deadly against physical walls, support Arceus, and even Primal Groudon, smacking them for massive damage. Earthquake rounds out the coverage with Dragon Ascent, hitting Aegislash, Klefki, and Heatran hard in addition to having a large amount of super effective targets. Fire Blast is also a nice choice over Earthquake if Skarmory, Bronzong, Ferrothorn, and Scizor are major hindrances to a sweeper on Rayquaza's team. Dragon Ascent is Rayquaza's obligatory STAB move and provides a strong physical attack for Rayquaza to utilize alongside Draco Meteor. Extreme Speed is a very helpful tool against offensive teams if revenge killing is lacking on Rayquaza's team at the cost of losing a coverage move for stall or balance teams.
+
+Set Details
+========
+
+The above EV spread provides the ability to outspeed positive-natured base 90 Speed Pokemon, including both Groudon and Kyogre, while donating some power to Special Attack to boost Draco Meteor. However, the Special Attack and Attack EVs can be flipped to do more damage with Draco Meteor to snipe bulky Primal Groudon and support Arceus formes at the cost of decreasing Dragon Ascent's power. A Naughty or Rash nature can also be utilized for extra power, as Rayquaza gets outsped by support Arceus formes anyway while being naturally faster than other walls it can break.
+
+Usage Tips
+========
+
+Rayquaza is first and foremost a wallbreaker, so smash down walls when you get the chance and pave the way for a sweeper. However, a crucial factor when playing MixQuaza is watching its HP bar from Life Orb recoil, something that leaves it open to being revenge killed by the base 100 or higher Speed tier if it gets too low, so try to keep Rayquaza healthy by the occasional double switch or pivoting with other team members. Also, don't feel too pressured to choose between using Dragon Ascent and Draco Meteor, as neither completely force Rayquaza out and both 2HKO most of the metagame anyway, taking a nice chunk out of tanks and walls.
+
+Team Options
+========
+
+If the team's Mega evolution slot is open, Mega Salamence is without a doubt one of Rayquaza's best partners, as the two apply ludicrous offensive pressure on multiple team archetypes, though the two have little defensive synergy. Stealth Rock support is also a major factor of Rayquaza's overall success as a wallbreaker, as Stealth Rock breaks Lugia's Multiscale; Primal Groudon, Dialga, and Landorus-T are great partners for MixQuaza. In order to give opportunities for Rayquaza to come in safely, users of Volt Switch and U-turn, such as Genesect, Zekrom, and Mega Scizor, allow Rayquaza to come in on a switch and likely snag a KO. Defog users such as Latios, Latias, Giratina-O, and Arceus can remove Stealth Rock for Rayquaza, relieving the pressure of losing a quarter of its health every time it switches in. Mega Gengar can cripple support Arceus formes with Taunt, giving an opportunity for Rayquaza to come in on them without fearing a stray Will-O-Wisp, and can also trap and KO faster revenge killers that can threaten Rayquaza.
+
+Dance Dance Rayvolution
+########
+name: Dance Dance Rayvolution
 move 1: Swords Dance
-move 2: V-create
-move 3: Dragon Claw
-move 4: Extreme Speed
+move 2: Dragon Ascent
+move 3: Earthquake
+move 4: Extreme Speed / Dragon Dance
+ability: Air Lock
 item: Life Orb
 evs: 252 Atk / 4 SpD / 252 Spe
 nature: Adamant / Jolly
@@ -17,105 +50,71 @@ nature: Adamant / Jolly
 Moves
 ========
 
-With Swords Dance and Life Orb in tow, Rayquaza essentially becomes a physical wallbreaker that pretty much takes no prisoners with a whopping 876 Attack after a boost and an Adamant nature. V-create is basically Rayquaza's ultimate nuke and will desolate anything and everything that does not resist it after a boost; even physically defensive Groudon is at risk of being OHKOed, especially after Stealth Rock. Dragon Claw is Rayquaza's STAB move of choice, as it hits Water- and Rock-types such as Kyogre, Water Arceus, and Rock Arceus that resist V-create. Extreme Speed is an important part of the Swords Dance set, as not only can it revenge kill weakened sweepers, it can also finish off Pokemon that aren't immediately OHKOed by a +2 V-create or +2 Dragon Claw.
+Swords Dance turns Rayquaza into an extremely powerful wallbreaker in a single turn and absolutely smashes walls combined with Dragon Ascent. Earthquake is extremely potent with Dragon Ascent in terms of coverage, hitting Aegislash, Heatran, Klefki, and Rock Arceus where it hurts. Extreme Speed specifically functions as a backup revenge killer against offensive teams, and it can even OHKO most frail offensive Pokemon after a single Swords Dance, such as Darkrai. However, Dragon Dance is a viable alternative to Extreme Speed to be more flexible against offense, something that Swords Dance lacks. V-create can also be used over Extreme Speed or Earthquake if Steel-types such as Scizor, Skarmory, Bronzong, and Ferrothorn are of concern to Rayquaza's team.
 
 Set Details
 ========
 
-The main draw of Swords Dance Rayquaza is its sheer power with V-create and massive base 150 Attack, and because of this, Adamant is the recommended nature to deal the most damage. However, Jolly is still a very viable alternative, as you can defeat positive base 90 Speed Pokemon without resorting to Extreme Speed, but the power drop is noticeable. Also, maximum EVs in Attack and Speed can let Rayquaza hit extremely hard and relatively fast, and you should not deviate from these two stats in any case.
+Max Attack and Speed EVs are imperative for Rayquaza's wallbreaking efficiency, and an Adamant nature maximizes Rayquaza's power output with Swords Dance and/or Dragon Dance. However, a Jolly nature is an acceptable alternative to Adamant in order to outspeed positive-natured base 90 Speed Pokemon. The 4 EVs in Special Defense give Genesect an Attack boost from Download, giving it an incentive to use U-turn instead of Ice Beam, lowering the risk of Rayquaza being revenge killed.
 
 Usage Tips
 ========
 
-First and foremost, Swords Dance Rayquaza is not a sweeper by any means, and should be treated as a wallbreaker first, as it has no sweeping moves whatsoever, and the ability to smash almost any physical wall in the game with a +2 V-create can pave the way for another sweeper instead. Also, unless the opposing team is severely weakened, refrain from using Extreme Speed as a cleaning tool; use it more as a revenge killing tool or a finishing move on a target that does not immediately vaporize from a +2 V-create, even though a +2 Extreme Speed can deal heavy damage. Finally, even though V-create is your primary nuke button, be extremely careful when using it, as it will force Rayquaza out because of its secondary effects of lowering its own defenses and Speed.
+If Dragon Dance is used over Extreme Speed, boost appropriately with either Dragon Dance to clean offensive teams or Swords Dance to wallbreak balance and stall. Given the possibility that Extreme Speed is used instead, don't attempt to clean with it unless the opponent's team is sufficiently weakened; Dragon Ascent is Rayquaza's most powerful attack, so use it as such. Also, Dragon Ascent doesn't always force Rayquaza out like V-create does, as Dragon Ascent only lowers Rayquaza's defenses, but be wary of Rayquaza's HP bar and possible Choice Scarf carriers or revenge killers after Dragon Ascent has been used.
 
 Team Options
 ========
 
-Volt Switch users such as Thundurus and Zekrom and U-turn users like Genesect can bring in Rayquaza on predicted switches for free and can give it an opportunity to wreak havoc on the nearest wall with ease. Mega Gengar is also Rayquaza's primary ally as it can defeat the Fairy-types that make Rayquaza angry, such as Xerneas and Fairy Arceus. Steel-types like Bronzong, Klefki, Aegislash, and Mega Scizor can also deal with Fairy-types if needed, and Klefki can paralyze faster Pokemon, leaving them vulnerable to V-create. Stealth Rock removal is important for Rayquaza's success. Defog users like Arceus and Giratina and Rapid Spinners like Excadrill and Forretress can remove these easily. Anything that likes having Steel-types utterly annihilated is definitely a friend of Rayquaza. Lugia and even Geomancy Xerneas and Calm Mind Fairy Arceus enjoy Rayquaza's company and Steel-type-destroying ability. Last but not least, Stealth Rock setters such as Landorus-T, Dialga, and Groudon can help Rayquaza pull off some neat KOs, such as a 56.3% chance to OHKO physically defensive Groudon with a +2 Adamant V-create, and Darkrai with a +2 Extreme Speed.
+Mega Salamence is one of the best teammates to Rayquaza in general, as both can put extreme amounts of pressure on the opposing team's walls at the cost of not offering that much defensively to the team and having difficulty switching with each other. Primal Groudon is also a solid support partner for Rayquaza, as it can set up Stealth Rock and can run Fire Punch to cover Skarmory and Scizor for Rayquaza. Other Stealth Rock users such as Landorus-T, Dialga, and Ferrothorn also assist Rayquaza in wallbreaking or cleaning with either Swords Dance or Dragon Dance. Klefki in particular also has great type synergy with Rayquaza in addition to checking Latios, Latias, support Arceus formes, and Xerneas, along with Spikes support. Volt Switch or U-turn support from Pokemon such as Mega Scizor or Zekrom respectively can bring in Rayquaza safely on a predicted switch while keeping its health in pristine condition. Defog users such as Latios, Latias, Giratina-O, and Arceus also help out Rayquaza in coming in on a Stealth Rock-free field, and Latias can help bring back Rayquaza's HP and remove a possible status condition with Healing Wish. Mega Gengar can trap support Arceus formes or sacrifice itself against non-Scarfed revenge killers, lessening the threat of having Rayquaza picked off.
 
-MixQuaza
+Choice Band
 ########
-name: MixQuaza
-move 1: Draco Meteor
-move 2: V-create
-move 3: Extreme Speed
-move 4: Dragon Claw / Earthquake
-item: Life Orb
-evs: 4 Atk / 252 SpA / 252 Spe
-nature: Hasty / Naive
-
-Moves
-========
-
-When one sees MixQuaza, one immediately thinks Draco Meteor, which lets Rayquaza bypass physically bulky Ground-types and support Arceus formes. This also makes this set a lure for the above, letting it act as a supporter for sweepers that are checked or countered by these. V-create is also very useful, as it can get past opposing Steel-types and still do good damage in general with Life Orb. Extreme Speed is still a very important joint piece for Draco Meteor and V-create, as it can finish off opponents that are not KOed by the two aforementioned moves. Dragon Claw is a very useful STAB move to spam in situations where Draco Meteor is not ideal. Earthquake can cover more threats that can effectively wall MixQuaza, such as Heatran, Dialga, and Tyranitar, but it leaves Rayquaza vulnerable to Ho-Oh.
-
-Set Details
-========
-
-Despite the fact that three of the four moves in this set are physical, the EVs are diverted into Special Attack for Draco Meteor, as without it, there is no reason to run MixQuaza. The above natures are based on team composition and personal preference. Hasty lets Rayquaza take special attacks better and give a Download boost in Attack, while Naive lets it take less damage from priority.
-
-Usage Tips
-========
-
-MixQuaza's number 1 priority is to lure defensive Pokemon like the support Arceus formes, Groudon, and Lugia provided Multiscale is broken, and it should thus feign a different set in order to succeed at this. As an extra reminder, be particularly careful with V-create's usage, but don't be too scared if Draco Meteor is used, as Rayquaza has three other physical moves at its disposal. Speaking of V-create, try catching Fairy-types that are immune to Draco Meteor on the switch, so you can do some significant damage to them before switching out.
-
-Team Options
-========
-
-Volt Switch and U-turn still can assist Rayquaza when coming onto the battlefield, as they catch switches to threats like Groudon (U-turn only) and Lugia, giving Rayquaza the edge. Mega Gengar can once again help in removing Fairy-types and Taunting support Arceus formes that would otherwise burn or paralyze Rayquaza, crippling it. Defoggers like Arceus and Giratina, in addition to Rapid Spinner users like Excadrill and Forretress can remove Stealth Rock which annoys Rayquaza and support the rest of the team. Stealth Rock setters like Landorus-T, Dialga, and Groudon will also help in breaking Lugia's Multiscale and letting Rayquaza KO foes with Draco Meteor. Also, the important thing when making a team with MixQuaza is to have attackers that like having the Pokemon that Rayquaza's Draco Meteor can defeat gone. Blaziken likes having Giratina, Lugia, and some support Arceus formes out of the picture, while Zekrom loves having Groudon out of the way, all of which MixQuaza can take down if played correctly. Heatran however is a large problem for MixQuaza if it does not run Earthquake, so having a Ground-type coverage move or Ground-types like Garchomp and Ground Arceus should remedy this if you choose Dragon Claw.
-
-Dragon Dance
-########
-name: Dragon Dance
-move 1: Dragon Dance
-move 2: Outrage
+name: Choice Band
+move 1: Dragon Ascent
+move 2: Earthquake
 move 3: V-create
 move 4: Extreme Speed
-item: Life Orb
-evs: 252 Atk / 4 SpD / 252 Spe
-nature: Jolly
+ability: Air Lock
+item: Choice Band
+evs: 252 Atk / 4 Def / 252 Spe
+nature: Adamant / Jolly
 
 Moves
 ========
 
-With Dragon Dance, Rayquaza can become a fearsome late-game sweeper, and that sweeping power is provided by Outrage. With Fairy-types and Steel-types out of the picture, Rayquaza will quite literally go on a rampage with Outrage, cleaning up weakened teams with ease, especially with Life Orb backing it up. However, the other two moves are to make sure a sweep with Outrage is a reality. Though it may seem weird on a setup sweeper, V-create can be used for immediate power, as it can help Rayquaza get past Steel-types and most support Arceus formes before initiating a sweep. Extreme Speed can also help Rayquaza defeat weakened Choice Scarf users and sweepers, giving it an opportunity to set up a Dragon Dance. However, if you are legitimately scared of being locked into Outrage to the point it becomes a phobia, then Dragon Claw is an alternative, but it hits like a pansy compared to Outrage.
+Choice Banded Dragon Ascent is the main draw of this set, as it nearly annihilates anything other than dedicated physical walls such as Lugia and support Arceus formes. Earthquake can also cover grounded Steel-types and Primal Groudon without resorting to Dragon Ascent in addition to rounding out the majority of Rayquaza's coverage. V-create incinerates the targets that Earthquake can't, which includes Skarmory, Scizor, and the occasional Genesect. Extreme Speed is also very threatening with a Choice Band, cleanly 2HKOing speedy attackers such as Shaymin-S and Darkrai; it even has a chance to 2HKO Mega Mewtwo X after Stealth Rock. Waterfall is a possible choice over V-create or Extreme Speed to immediately OHKO Primal Groudon with little to no risk, and it can deal with Landorus-T and Hippowdon without using Dragon Ascent or V-create.
 
 Set Details
 ========
 
-Maximum Attack and Speed EVs are practically required in order for Rayquaza to hit like a truck before and after a Dragon Dance. Adamant is a viable alternate nature and can ensure sweeps, but a Jolly nature lets Rayquaza get the jump on base 90 Choice Scarf users such as Kyogre and Zekrom. Lum Berry can ensure Rayquaza is not crippled by status and thus let it defeat support Arceus formes without any repercussions, but the power drop compared to Life Orb is very noticeable.
+An Adamant nature maximizes Choice Band's power and makes Dragon Ascent hit as hard as it can get unboosted. A Jolly nature can also be an option to outspeed positive-natured base 90 Speed Pokemon, and Speed tie with maximum Speed Kyurem-W. Maximum Attack and Speed EVs assist all of the aforementioned attributes, letting Rayquaza be as powerful and as fast as possible.
 
 Usage Tips
 ========
 
-There are many things to remember when using Dragon Dance Rayquaza; they are unparalleled in importance. Firstly, do not attempt to sweep early-game, especially if there is a Fairy-type, Steel-type, or unknown Arceus forme lurking around. This is because Rayquaza's only sweeping tool is Outrage, so unless you can take all of the above mentioned Pokemon down with V-create without trouble, or if the opponent has none of the above team members, do not attempt an early-game sweep with Outrage. However, V-create and Dragon Dance lets Rayquaza function as a sweeper or a wallbreaker, giving it extra utility to the team. Also, it is particularly difficult for Rayquaza to get a Dragon Dance off safely, but the set closely mimics the Swords Dance set, so try to imitate its playstyles until you find an opportunity to set up. Also, if revenge killers are on the prowl, try to predict switches and hit them hard with V-create or Extreme Speed, and then switch out. This is a particularly safe style if Rayquaza has not received too much residual damage from Life Orb or Stealth Rock, increasing the probability of a sweep.
+Locking into Dragon Ascent isn't as reckless a move as one would think, as even resisted hits do savage amounts of damage. V-create and Earthquake on the other hand need to be used wisely and sparingly, as a single V-create will force you out after a Speed drop, while Earthquake can be taken advantage of by Flying-types or levitating Steel-types. Also, the lack of Life Orb recoil is very nice for Rayquaza's efficiency, but still pay attention to Rayquaza's health, especially if Stealth Rock is up on Rayquaza's side of the field. Extreme Speed is a very deceiving move in terms of power; if the opposing team is weak enough, cleaning up with Choice Banded Extreme Speed is a cinch late-game.
 
 Team Options
 ========
 
-VoltTurn users such as Genenect, Thundurus, and Zekrom and Fairy-type removers like Mega Gengar are imperative for Rayquaza to come in safely and set up Dragon Dance as their ability to gain momentum and remove threats respectively help Rayquaza greatly. Defensively oriented Steel-types like Aegislash, Bronzong, Klefki, and Mega Scizor can help remove Fairy-types from the game easier than most, and Klefki can paralyze faster Pokemon with Thunder Wave, easing Rayquaza's sweep. Rapid Spin is preferred over Defog as entry hazard removal as Rayquaza likes having weakened teams with Stealth Rock and Spikes under their feet. Excadrill and Forretress will remove entry hazards on your side only, and can set up their own Stealth Rock and Spikes, respectively. Other Stealth Rock setters such as Landorus-T, Dialga, and Groudon can also get them up when needed. In terms of weakening teams, entry hazard shufflers like Giratina, Lugia, and Groudon can rack up residual damage to the point where Rayquaza can sweep with a +1 Outrage. Wobbuffet is also a very helpful partner to Rayquaza, as not only can it trap and remove support Arceus formes and Choice Scarf revenge killers like Xerneas, it can also provide Rayquaza a setup opportunity with Encore.
+Mega Salamence is a solid partner to Rayquaza, especially becuase Rayquaza can run all of its coverage options, so both can wallbreak whatever they wish while exhuming a large amount of offensive pressure. Primal Groudon and other Stealth Rock setters such as Dialga and Landorus-T can help Rayquaza seize some OHKOs on frailer Pokemon with Extreme Speed or 2HKO Lugia with Dragon Ascent. Klefki also provides solid type synergy and Spikes support, letting Rayquaza wreck support Arceus formes with a single Dragon Ascent. Defog users such as Latios, Latias, Giratina-O, and Arceus let Rayquaza worry little about residual damage as a whole, letting it spam Dragon Ascent to its heart's content. Mega Gengar can trap and KO support Arceus and other Pokemon faster than Rayquaza, which can safeguard Rayquaza from a Will-O-Wisp out of left field.
+
 
 Other Options
 ########
 
-Focus Sash can let Rayquaza take a hit and live regardless of damage outside of multi-hit moves, but Rayquaza really likes having Life Orb on its side. Rayquaza also can use Choice Band and Choice Scarf, which can hurt with its powerful Outrage and V-create. However, locking itself into a specific move is something Rayquaza does not like this generation, and it therefore prefers the flexibility of Life Orb. Leftovers is a passable option for recovery, but Rayquaza isn't bulky enough to utilize it and really likes Life Orb instead. A Tailwind support set is a useful option for assisting slower teams, but as mentioned before, Rayquaza isn't bulky enough to take on a supporting role. However, leading with Rayquaza&mdash;commonly called "LeadQuaza"&mdash;can disrupt many teams, letting it wreak havoc on dedicated leads and rip teams up turn 1.
+Rayquaza's movepool and item choices are relatively straightforward, but there are some options for those who wish to go off the beaten path. Tailwind is a devious support move for Rayquaza, and it can be used on the boosting wallbreaking set to either clean or help a sweeper at the cost of not increasing Rayquaza's power in any way. Dragon Claw and Outrage are also acceptable STAB moves to use, but their targets and objectives are mostly overshadowed by Dragon Ascent. Iron Tail can immediately dent Fairy-types and Rock Arceus without using Earthquake, but the accuracy and coverage of this move is very poor. Surf is an optional coverage move on MixQuaza to immediately OHKO Primal Groudon, but it overlaps with Draco Meteor in terms of utility. Dragon Tail can be utilized against Mega Sableye defensive cores to pressure walls with residual damage and dupe Lugia's Multiscale on a switch, but doesn't offer as much coverage and can be troublesome with its negative priority and Rayquaza's minor bulk issues.
 
-Overheat, Flamethrower, and Fire Blast are safer alternatives to V-create when it comes to hitting Steel-types, but the sheer power of V-create overshadows all of these options. Iron Tail is a powerful option to hit Fairy-types, but is inaccurate and offers little coverage. Dragon Tail can phaze sweepers that want to set up alongside Rayquaza, but takes up a slot that can be used to run other Dragon-type moves, as the combination of V-create and Extreme Speed is a niche Rayquaza calls its own. On the other hand, Substitute is a solid option for Rayquaza to gain boosts behind a Substitute and shield itself from chip damage and status.
+Choice Scarf Rayquaza can be very useful for revenge killing with Dragon Ascent, but the lack of power is extremely glaring when using it. Lum Berry can also help Rayquaza shake off a burn or paralysis immediately, but it also has a large lack of power that Life Orb or Choice Band offers. Focus Sash makes Rayquaza function as an anti-lead, limiting most dedicated leads to a single layer of entry hazards, but power is everything when Rayquaza is involved, and Focus Sash restricts Rayquaza's role as a wallbreaker.
 
-Checks and Counters
+
+Checks & Counters
 ########
 
-**Fairy-types**: The biggest thorn in Rayquaza's side are Fairy-types like Fairy Arceus and Xerneas, as they prevent Rayquaza from using Outrage and threaten to KO it with Fairy-type attacks. However, basically every Fairy-type bar Clefable gets destroyed by either a boosted Iron Tail or V-create.
+**Lugia**: Lugia can take any hit Rayquaza has to offer and either force it out with Whirlwind or 2HKO it with Ice Beam. However, Rayquaza can 2HKO Lugia after Stealth Rock with Dragon Ascent, and Lugia absolutely needs Multiscale to check Rayquaza.
 
-**Heatran**: Now that most Rayquaza variants do not run Earthquake, Heatran can outtank Rayquaza's hits, threaten to burn it with Lava Plume and nullify boosts with Roar. However, Heatran gets 2HKOed by a +2 Dragon Claw, and if Rayquaza runs Earthquake, Heatran is history.
+**Support Arceus**: Support Arceus formes such as Rock Arceus and Fairy Arceus can outspeed Rayquaza and either cripple it with Will-O-Wisp or outright KO it with a super effective Judgment. MixQuaza can bypass the burn and 2HKO most support Arceus formes with Draco Meteor and Dragon Ascent, leaving only the aforementioned formes as the most effective checks.
 
-**Bulky support Arceus formes**: Water Arceus and Rock Arceus can take a V-create and threaten to burn with Will-O-Wisp. These are probably the closest things to a tangible counter to Rayquaza.
+**Primal Groudon**: Though it does not like particularly taking any hit Rayquaza has to offer, Primal Groudon can immediately threaten to OHKO Rayquaza with Stone Edge, cripple it with Lava Plume, or set up Stealth Rock as Rayquaza gets forced out, discouraging it from switching back in.
 
-**Lugia**: Provided Multiscale is intact, Lugia can take a hit from Rayquaza, cripple it with Thunder Wave, and phaze it out with Whirlwind.
-
-**Groudon**: As Rayquaza does not benefit from the sun, Groudon can take a hit from Rayquaza, threaten to paralyze with Thunder Wave, and severely damage Rayquaza with Stone Edge, or phaze it out with Roar. However, Groudon cannot take a +2 V-create if it has taken a bit of damage.
-
-**Revenge Killers**: Probably the safest answers to Rayquaza, priority users such as Extreme Killer Arceus, Yveltal, Mega Lucario, and Scizor, in addition to Choice Scarf users like Kyogre, Genesect, and Zekrom, can dispose of Rayquaza with their respective moves. However, they will not appreciate taking either a Dragon Claw, Outrage, or V-create and may be KOed if the attack is boosted.
-
-**Status**: Burn makes Rayquaza deadweight, as it cannot use its powerful attacks to great effect anymore, and paralysis cripples its once above-average base 95 Speed, leaving it vulnerable to being revenge killed. Rayquaza does not appreciate being hit with Toxic either, as the residual damage of Life Orb and Toxic can end Rayquaza's sweep early.
+**Revenge Killers**: Due to Rayquaza's average bulk, faster Pokemon such as Darkrai, Mewtwo, Mega Gengar, Latios, Latias, Palkia, and Choice Scarf Genesect can outspeed and OHKO Rayquaza with the right coverage move. None of these Pokemon can switch into Rayquaza safely, however.

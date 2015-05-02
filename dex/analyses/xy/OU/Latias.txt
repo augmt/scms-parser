@@ -37,6 +37,43 @@ Team Options
 
 Fighting-types such as Keldeo, Conkeldurr, and Mega Lopunny make for excellent teammates, as they check Dark-types, particularly Bisharp. Fairy-types such as Clefable and Azumarill threaten opposing Dragons and check most Dark-types apart from Bisharp. Azumarill also appreciates Latias's ability to switch into Grass- and Electric-type attacks. Setup sweepers such as Mega Charizard X, Calm Mind Keldeo, Swords Dance Mega Scizor, Dragon Dance Gyarados, Belly Drum Azumarill, and Manaphy value the support provided by Healing Wish.
 
+Overview
+########
+
+With its Mega Evolution having increased bulk and offenses, as well as keeping its good Speed stat, Latias can be quite a troublesome Pokemon to deal with. Thanks to its great defensive typing, which grants it many useful resistances, and access to Calm Mind and reliable recovery, Latias is a certainly force to be reckoned with. Unfortunately, it struggles to beat common Steel- and Dark-types, due to mostly being limited to its STAB moves when it comes to coverage. In addition to this, Unaware Clefable completely walls it, lowering Latias's usefulness.
+
+Mega Calm Mind
+########
+name: Mega Calm Mind
+move 1: Calm Mind
+move 2: Roost
+move 3: Reflect Type / Substitute
+move 4: Stored Power / Psyshock
+ability: Levitate
+item: Latiasite
+evs: 248 HP / 84 Def / 176 Spe
+nature: Bold
+
+Moves
+========
+
+With Calm Mind boosting its Special Attack and Special Defense, Mega Latias can turn into a fearsome sweeper after just a few boosts. Roost gives Mega Latias reliable recovery, which goes very well alongside its good bulk, giving it great longevity. Reflect Type enables Latias to freely set up on Pokemon that would normally force it out, such as Ferrothorn, Mega Metagross, Tyranitar, and most Fairy-types. Substitute is an option over Reflect Type, as it lets Mega Latias avoid status conditions, such as burn, paralysis, and poison, and play mind games with Sucker Punch users. Stored Power is Latias's primary choice of a Psychic-type STAB move, as it is incredibly powerful after many Calm Mind boosts and is capable of breaking through even the bulkiest Pokemon. However, its damage output is low without any boosts, which is unwanted in many scenarios. Therefore, Psyshock is an option over Stored Power if having immediate power is preferred over the ability to easily sweep after multiple Calm Mind boosts. Running mono-Psychic coverage leaves Mega Latias unable to damage Dark-types, which are moderately common in the current metagame. Therefore, Dragon Pulse is an option over Reflect Type or Substitute to be able to hit most Dark-types for neutral damage. Hidden Power Fighting and Hidden Power Fire are also options over Reflect Type or Substitute if OHKOing Bisharp, 2HKOing Tyranitar, and dealing massive damage to Mega Scizor and Ferrothorn is more valuable to your team than Reflect Type and Substitute's utility or a Dragon-type STAB move.
+
+Set Details
+========
+
+The given EVs in Speed let Latias outspeed neutral-natured base 100s, while the remaining EVs are put in HP and Defense to make setting up an easier task. For even more bulk, some EVs can be moved from Speed to Defense. A spread of 248 HP / 180 Def / 80 Speed outspeeds Adamant Excadrill and has an incredible amount of physical bulk. Latiasite is necessary for Latias to Mega Evolve and get the increased bulk it needs to act as a setup sweeper.
+
+Usage Tips
+========
+
+If Latias is running Stored Power as its only attacking move, all Dark-types need to be taken care of before Latias can try to set up. Pokemon with Taunt also shut Latias down, so removing these foes before trying to sweep is advised. Mega Evolving as early as possible to gain the increased bulk is smart, as switching in and out becomes easier. However, if there is another potential Mega Evolution on Latias's team, waiting to Mega Evolve may confuse the opponent. Mega Latias fits well on defensive teams, thanks to being a great win condition with the ability to sweep many teams late-game. Using teammates that complement it defensively rather than offensively can lead to success.
+
+Team Options
+========
+
+Fighting-types such as Keldeo, Infernape, Breloom, Chesnaught, and Terrakion make for great teammates, thanks to their ability to take on the Dark-types that threaten Latias. Strong physical attackers such as Swords Dance Mega Scizor, Swords Dance Diggersby, and Choice Band Tyranitar are also capable of breaking through Latias. Therefore, defensive Landorus-T, Hippowdon, and Keldeo make for good teammates, as they are capable of taking these threats on. Pokemon that complement Mega Latias defensively by taking on some of the Pokemon Latias is unable to handle make for good teammates. Jirachi and Dragalge are capable of beating Clefable, while Hippowdon and Gliscor can handle Bisharp. Lastly, entry hazard support is greatly appreciated, as Latias forces many switches during a battle. Good setters of entry hazards include Ferrothorn, Hippowdon, and Chesnaught.
+
 Other Options
 ########
 

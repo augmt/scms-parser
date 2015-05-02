@@ -1,15 +1,15 @@
 Overview
 ########
 
-Mega Gardevoir is a force to be reckoned with in the OU metagame thanks to a number of qualities. For starters, it has an excellent base 165 Special Attack, and when this is paired with an expansive offensive movepool, including Pixilate Hyper Voice, Mega Gardevoir can do a lot of damage to opposing teams. Its Psychic / Fairy typing is pretty useful defensively, giving it many important resistances and immunities, especially to Fighting and Dragon. Its relatively good base 100 Speed is also a plus, allowing Mega Gardevoir to outspeed a decent portion of the metagame. Hyper Voice's ability to bypass Substitute is also very useful, allowing Gardevoir to better handle Pokemon such as Substitute Kyurem-B. Unfortunately, its lack of physical bulk leaves it vulnerable to many common physical attackers, such as Talonflame. While Mega Gardevoir's Speed is certainly not bad, it is still outsped by a good number of Pokemon including Garchomp and Mega Metagross. Lastly, a mere base 80 Speed prior to Mega Evolving further limits Gardevoir's usefulness in battle.
+By virtue of its base 165 Special Attack and its ability, Pixilate, Mega Gardevoir is a very strong wallbreaker. Unlike most wallbreakers, Gardevoir also has a decent base 100 Speed, which doesn't make it dead weight against offensive teams. Gardevoir also has a solid typing with an immunity to Dragon, which all teams enjoy, and a great movepool which lets it potentially hit anything neutrally or super effectively. However, Steel-types are very common in OU, and they can switch in quite easily on any of Gardevoir's moves except Focus Blast. An only decent base 100 Speed coupled with terrible Defense also makes Gardevoir very easy to revenge kill with physical attackers and common strong priority moves, especially Bullet Punch.
 
-Offensive
+Wallbreaker
 ########
-name: Offensive
+name: Wallbreaker
 move 1: Hyper Voice
 move 2: Psyshock
 move 3: Focus Blast
-move 4: Will-O-Wisp / Substitute / Taunt
+move 4: Calm Mind / Taunt / Will-O-Wisp
 ability: Trace
 item: Gardevoirite
 evs: 24 Def / 232 SpA / 252 Spe
@@ -18,65 +18,69 @@ nature: Timid / Modest
 Moves
 ========
 
-Hyper Voice is a strong and reliable Fairy-type STAB move thanks to Pixilate and its ability to bypass Substitutes. Psyshock is a secondary STAB move that hits Chansey, Venusaur, and Scolipede for high damage. Focus Blast hits Steel-types such as Heatran and Ferrothorn that might try to come in on Gardevoir. Hidden Power Ground is a more accurate alternative that hits Heatran and Jirachi for as much damage as Focus Blast. Will-O-Wisp is generally preferred in the last slot to cripple Mega Gardevoir answers such as Jirachi, Mega Scizor, Ferrothorn, and Doublade. Substitute allows Gardevoir to take advantage of forced switches and provides a buffer against status and revenge killers; it also eases prediction heavily. Taunt is a very useful utility move that allows Gardevoir to go toe-to-toe with walls such as Chansey and Heatran.
+Hyper Voice hits incredibly hard and does a huge chunk of damage against any Pokemon that does not resist it. Psyshock hits special walls, most notably Chansey, on their Defense, allowing Gardevoir to break through them. Focus Blast hits the Steel-types that resist Gardevoir's STAB moves, such as Ferrothorn. Calm Mind makes Gardevoir a powerful setup sweeper that can threaten bulky and fast teams alike. Taunt allows Gardevoir to break through defensive Pokemon such as Chansey and Cresselia, and it stops Pokemon such as Bisharp from setting up on Gardevoir. Will-O-Wisp is great for burning Mega Scizor, Mega Metagross, Bronzong, and Jirachi on the switch. Substitute can also be used, as Gardevoir forces a ton of switches, and it makes Gardevoir harder to revenge kill, eases prediction, and protects it from status moves.
 
 Set Details
 ========
 
-Trace is Gardevoir's most useful ability prior to Mega Evolution because it allows Gardevoir to utilize useful opposing abilities such as Dragonite's Multiscale, Heatran's Flash Fire, Kabutops's Swift Swim, and Scolipede's Speed Boost. A Timid nature is preferred to revenge kill Swift Swim sweepers and Sand Rush Excadrill with Trace as well as at least tie with opposing base 100s. However, a Modest nature is also an option to maximize power and OHKO opponents such as Landorus. The given EV spread allows Gardevoir to survive two Psyshocks from Latios while achieving good Speed and power.
+Trace is the preferred ability before Mega Evolution, as it makes Gardevoir capable of turning a foe's ability against them. Some example of this include countering specially defensive Heatran with Taunt, stealing Regenerator from Pokemon such as Amoonguss and Slowbro, utilizing Magic Bounce from Mega Sableye to reflect Will-O-Wisp, taking advantage of Manectric's Lightning Rod, Intimidating Landorus-T and Gyarados, and trapping Magnezone locked into a Hidden Power. Additionally, Trace lets Gardevoir revenge kill weakened Dragonite with the aid of Multiscale, revenge kill weather sweepers such as Modest Kingdra and Adamant Excadrill if it is using a Timid nature, and Synchronize burn Mew as well in case you lack another Pokemon to absorb a burn from it. 24 EVs in Defense let Gardevoir avoid the 2HKO from Life Orb Latios's Psyshock. The rest of the EVs are put into Speed, to make Gardevoir capable of outspeeding all defensive Pokemon and some slower offensive ones, such as Breloom and Tyranitar, and into Special Attack, to make Gardevoir hit very hard. A Timid nature improves Gardevoir's matchup against offensive teams by allowing it to outspeed Pokemon such as Jolly Excadrill, Pinsir on the turn it Mega Evolves, Jolly Landorus-T, and Timid Heatran. It also makes Gardevoir faster than Jolly Breloom and Jolly Bisharp on the turn it Mega Evolves, meaning Gardevoir can burn them with Will-O-Wisp before they can attack it, and makes Gardevoir capable of revenge killing most weather sweepers, as they usually do not run Speed-boosting natures. A Modest nature is, however, definitely viable if you would prefer the extra power instead.
 
 Usage Tips
 ========
 
-This particular set does very well against offensive teams, using its high power and good Speed to make quick work of opposing Pokemon. Gardevoir also excels against stall teams, as its high damage output in conjunction with either Taunt or Will-O-Wisp allow it to pester most defensive Pokemon. Prior to Mega Evolving, Trace can be used to provide switch-in opportunities and grab useful abilities such as Flash Fire, Poison Heal, Natural Cure, and Multiscale, as well as enable Gardevoir to revenge kill Excadrill and Kabutops in sand and rain, respectively. As Gardevoir has poor physical bulk, trying to come in on physical attackers such as Talonflame is not advised. However, it can switch into threats whose moves it resists such as Latias, Latios, and Mandibuzz, so it is advisable to take advantage of such opportunities.
+This set works best against stall and balance, destroying a lot of teams by just clicking Hyper Voice, using Focus Blast against Steel-types, and using Psyshock together with Taunt to get past dedicated special walls such as Chansey and Poison-types such as Mega Venusaur. Gardevoir is not deadweight against offensive teams, however, because they usually have little to no switch-ins for it. Avoid physical attackers such as Azumarill, Talonflame, and Landorus-T, as Gardevoir has very poor physical bulk. Gardevoir actually has very good Special Defense, though, and it can use that to check Pokemon such as Tornadus-T, Raikou, and Substitute + Calm Mind Keldeo. Gardevoir can also use its typing to switch into Dragon-types and threaten them out with Pixilate-boosted Hyper Voice, although it has to watch out for coverage moves.
 
 Team Options
 ========
 
-Bisharp and Mandibuzz are both viable teammates due to their type synergy with Gardevoir. The former also appreciates the removal of Fighting-types that often trouble it, and it can Pursuit trap Chansey. Heatran and Tyranitar are both useful to defeat Talonflame, while also setting up Stealth Rock. Heatran also handles Mega Scizor effectively. Magnezone makes an excellent teammate for Mega Gardevoir, especially for Hidden Power Ground variants, since Magnezone can trap and remove Ferrothorn and Mega Scizor. Since Gardevoir is a little slow, a Sticky Web user such as Shuckle can be useful to aid Gardevoir in handling faster Pokemon. Thundurus, with its access to Prankster Thunder Wave, can also be a useful teammate for the same reason.
+Pursuit support from Pokemon such as Bisharp, Weavile, and Tyranitar is very helpful to remove Jirachi, Bronzong, Victini, and Mega Metagross, which are common answers to Gardevoir. Pokemon that help Mega Gardevoir outspeed the foe are also great teammates, as its Speed is only decent. Tailwind support from Pokemon such as Talonflame, Latios, Mew, and Zapdos or Sticky Web support from Shuckle is also appreciated, as is Prankster Thunder Wave, which Thundurus and Klefki can dish out. Magnezone is a good teammate to remove bulky Steel-types such as Ferrothorn so Gardevoir does not have to rely on Focus Blast's low accuracy to defeat them. Partners to check Flying-types such as Raikou, Zapdos, and Tyranitar are mandatory because Gardevoir's Defense stat is horrible, and it is thus easily KOed by Talonflame's Brave Bird, as well as Mega Pinsir's Aerilate Quick Attack if weakened. Steel- and Dragon-types such as Heatran, Bisharp, Garchomp, Latios, and Latias are good teammates as well, because together with Gardevoir they can form a Dragon-Steel-Fairy core, which has great type synergy. Pokemon that can take advantage of Gardevoir's wallbreaking prowess are also good teammates. Talonflame pressures many of Gardevoir's checks, while Gardevoir pressures Talonflame's checks back in return. Sand Rush Excadrill handles all of Gardevoir's checks except for Bronzong, which is easy to take advantage of and not that difficult to accommodate for. In return, Gardevoir handles Chesnaught, Slowbro, Hippowdon, and Rotom-W.
 
-Calm Mind
+Support
 ########
-name: Calm Mind
-move 1: Calm Mind
-move 2: Hyper Voice
-move 3: Psyshock
-move 4: Focus Blast
+name: Support
+move 1: Hyper Voice
+move 2: Will-O-Wisp / Calm Mind
+move 3: Wish
+move 4: Protect
 ability: Trace
 item: Gardevoirite
-evs: 24 Def / 232 SpA / 252 Spe
-nature: Modest
+evs: 248 HP / 244 Def / 16 Spe
+nature: Timid
 
 Moves
 ========
 
-Calm Mind boosts Mega Gardevoir's high Special Attack and Special Defense to formidable levels. Hyper Voice provides a strong and reliable Fairy STAB move and the ability to defeat Substitute users, notably Kyurem-B. Psyshock is a good secondary STAB move that breaks through Venusaur, Scolipede, and Chansey quite well. Focus Blast is a great coverage move to hit Heatran and Ferrothorn, which both otherwise wall Gardevoir. Taunt prevents opposing defensive Pokemon, such as Chansey, from pulling off status moves. Substitute is an alternative over Taunt to avoid status while allowing Gardevoir to attain more opportunities to set up Calm Mind, but Taunt is usually a more viable alternative.
+A strong Pixilate-boosted Hyper Voice coming from a base 165 Special Attack stat and access to Will-O-Wisp to cripple physical attackers such as Mega Metagross, Scizor, and Jirachi that like switching in against Gardevoir are enough reason to use Gardevoir over other similar walls. Calm Mind is another option over Will-O-Wisp if your team needs a win condition, and it augments Gardevoir's uninvested Special Defense, which can be crucial against powerful special attackers such as Landorus and Choice Specs Keldeo. Wish provides Gardevoir with recovery, and Protect gives Gardevoir a shield to hide behind as it receives its own Wish and scouts for moves.
 
 Set Details
 ========
 
-The EV spread allows Gardevoir to survive at least two Psyshocks from Latios in order to check it more easily. Trace is the chosen ability in order to allow Gardevoir to obtain some useful abilities prior to Mega Evolution, such as Multiscale and Speed Boost, as well as some potential switch-in opportunities, such as against Heatran.
+The given EV spread optimizes Gardevoir's ability to wall Pokemon such as Latios, Raikou, and Mega Sableye, while outspeeding Pokemon with base 70 Speed and a boosting nature such as Bisharp and Breloom, so Gardevoir can burn them or attack with Hyper Voice before they can move. An alternative EV spread consisting of 248 HP / 84 Def / 176 Spe with a Timid nature can also be used to outspeed the aforementioned Pokemon before Gardevoir has Mega Evolved.
 
 Usage Tips
 ========
 
-This Gardevoir set is an excellent stallbreaker, being able to use common stall threats, such as Chansey, as setup fodder while using its great power to overwhelm teams. Its immediate power also gives it an edge against offense, as this team archetype has very few Pokemon that are capable of safely switching in. Gardevoir should use Calm Mind against weaker opponents that cannot outright break it, such as Chansey. Gardevoir should avoid switching into physical attackers such as Talonflame due to its poor physical bulk. However, it can use its typing to effectively switch into common threats such as Latias, Keldeo, Mandibuzz, and Kyurem-B.
+Make good use of Gardevoir's typing and bulk to pivot into Dragon-types and pass Wishes to teammates in need of them. This set works well against VoltTurn teams, as Gardevoir walls the typical Electric-types in those teams, including Raikou, Mega Manectric, and Rotom-W, and it can cripple Scizor on the switch with Will-O-Wisp. However, after the VoltTurn gets started Gardevoir has a hard time staying alive. Despite having Defense investment, Gardevoir should still avoid strong physical attackers that it cannot outspeed and burn, such as Talonflame, Landorus-T, and Mega Pinsir. Although not always necessary, it can be important to Mega Evolve as soon as possible if the opponent has a Pokemon with base 70 Speed, as otherwise the Speed EVs could be for naught.
 
 Team Options
 ========
 
-Bisharp and Tyranitar can keep Gengar and Doublade at bay, and trap them with Pursuit. A Pokemon to handle Mega Scizor, such as Talonflame, is also useful. Terrakion, Keldeo, and Conkeldurr can also dismantle Ferrothorn and Heatran, while Heatran itself can also counter Talonflame and Mega Scizor. Landorus-T is also useful to take on Excadrill and Mega Scizor, provide crucial Stealth Rock support, and get Gardevoir in safely with U-turn.
+Because of Gardevoir's horrible Defense stat, it needs teammates to take on Flying-types such as Talonflame and Mega Pinsir, as they can easily take care of it. Good options would be Heatran, Landorus-T, Hippowdon, and Rotom-W. Gardevoir can be part of a Dragon-Steel-Fairy core, which has great type synergy; good choices for such a core are Heatran, Scizor, Latias, Latios, and defensive Garchomp. Other defensive Pokemon such as Skarmory, Hippowdon, Ferrothorn, Heatran, Chansey, and Chesnaught are good teammates for Gardevoir because they can form a stall team together and take on the threats that Gardevoir loses to, most notably fast physical attackers.
 
 Other Options
 ########
 
-Gardevoir has an expansive movepool, so there are quite a few more moves available for use. Hypnosis could be used if you want to use Gardevoir as a sleep inducer, but its poor accuracy makes it a shaky option. Gardevoir can also support its team with Sunny Day or Rain Dance, but there are more reliable options for such roles, and sun is a mediocre playstyle to begin with. Gardevoir could run a defensive set with Will-O-Wisp, Heal Bell, and Wish, but such a set is outclassed by Clefable, Sylveon, and Togekiss. A Choice Scarf set could be workable, as Gardevoir is the fastest Fairy-type in OU and has a wide offensive movepool and Healing Wish. However, this set is relatively easy to deal with and outclassed by Latias at using Healing Wish. Thunderbolt is an option if hitting Talonflame and Mega Pinsir is important, but it does not provide anything useful beyond that. Lastly, Memento is a viable option to allow a teammate a free setup opportunity; however, Gardevoir will rarely have the time for this, and Healing Wish often has greater utility.
+Shadow Ball hits Jirachi, Bronzong, Victini, and Mega Metagross, which would otherwise counter or check Gardevoir, super effectively. Future Sight works very well with a strong physical attacker as your opponent may have nothing to take a strong physical attack and a strong Future Sight simultaneously, usually leading to a Pokemon getting sacked if you play correctly. Destiny Bond can get rid of threats such as Mega Metagross, Ferrothorn, Bisharp, Manaphy, and a boosted Clefable in a pinch. Memento is an interesting move that creates setup opportunities for teammates, and Healing Wish can give a teammate a second chance to sweep. Hidden Power Ground is an option to hit Heatran hard with 100% accuracy, but misses out on hitting other Steel-types such as Ferrothorn. Hidden Power Fire lures in Mega Scizor and almost OHKOes it on the switch, but leaves Gardevoir walled by Heatran. Choice Scarf Gardevoir is an interesting set that can revenge kill weather sweepers with Trace, as well as Pokemon such as Mega Gyarados and Mega Altaria. Additionally, Life Orb is an option over Gardevoirite if you already have a Mega Evolution on your team but still need an offensive Fairy-type.
 
-Checks and Counters
+Checks & Counters
 ########
 
-**Steel-types**: Scizor, Heatran, and Ferrothorn can take hits from Mega Gardevoir relatively well and hit it hard with their moves. Scizor also has priority in Bullet Punch, allowing it to weaken Mega Gardevoir before it retaliates. However, only Mega Scizor can avoid getting 2HKOed by Focus Blast, and even then it can be crippled by Will-O-Wisp. Jirachi, Klefki, Bronzong, and Doublade all fall into a similar boat, as they are able to counter Gardevoir but are also crippled by Will-O-Wisp. Choice Scarf Heatran and Sand Rush Excadrill can both revenge kill Mega Gardevoir.
+**Steel-types**: Although some of them fear Focus Blast or Will-O-Wisp and thus can't switch in safely, if they get a free switch in, Steel-types such as Scizor, Mega Metagross, Jolly Excadrill, Jirachi, Bronzong, and Choice Scarf Magnezone can easily force Gardevoir out with their super effective STAB moves.
 
-**Fire-types**: Fire-type Pokemon are capable of enduring Hyper Voice from Mega Gardevoir, and they are able to overwhelm it as well. Victini takes many of Gardevoir's moves bar Shadow Ball well and can OHKO it with V-create. Entei is in a similar boat, being able to OHKO Gardevoir with Sacred Fire or revenge kill it with Extreme Speed. Talonflame can overwhelm Mega Gardevoir, while its Bulk Up set takes Hyper Voice and Psyshock relatively well. Physically defensive Mega Charizard Y can also wall Mega Gardevoir.
+**Poison-types**: Gardevoir's Psyshock hits Poison-types for a huge amount of damage, but faster Poison-types, specifically Gengar and Mega Beedrill, can both easily KO it, provided they get a free switch in.
 
-**Chansey**: Thanks to its astronomical special bulk, Chansey can take anything Mega Gardevoir can muster and stall it out with recovery, Toxic, and Seismic Toss. However, it loses to Taunt and Calm Mind variants.
+**Fire-types**: Fire-types resist Gardevoir's Fairy-type STAB, and most Fire-types can hit back very hard. The most notable ones are Victini, which is a good answer to non-Shadow Ball sets, and Heatran, which can take one Focus Blast and hit back with its Fire-type STAB moves, Flash Cannon, or use Toxic, depending on the set it uses. Both resist Psyshock as well, which is what makes them especially good checks.
+
+**Physical attackers**: Gardevoir's Defense stat is very low, so physical attackers that can live a hit from it or simply outspeed it, such as Mega Metagross, Terrakion, Victini, Weavile, and Choice Scarf Landorus-T, can easily KO it with just a little prior damage as long as they are not burned.
+
+**Faster Pokemon**: Although Gardevoir's Speed is far from horrible, it still leaves it vulnerable to being revenge killed by faster Pokemon such as Landorus, Mega Lopunny, and Gengar. Strong priority moves such as Bisharp's Sucker Punch, Talonflame's Brave Bird, and Crawdaunt's Aqua Jet also do a ton of damage to Gardevoir because of its horrible Defense stat. However, the support set has a better matchup against them as it can usually survive a hit and use Will-O-Wisp to defeat them, granted Gardevoir is at good health.

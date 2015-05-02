@@ -35,10 +35,43 @@ Team Options
 
 Hippopotas is a required teammate for Stoutland, as it can set up both sand and Stealth Rock. Entry hazards such as Toxic Spikes can quickly wear down an opponent's team when coupled with sand, so Pokemon that can set Toxic Spikes such as Roselia make for good teammates. Serperior synergizes well with Stoutland, as it can check opposing Rock-type Pokemon. Rock-type Pokemon such as Carracosta or Golem can take advantage of sand's boost to their Special Defense. Pursuit trappers such as Sneasel can take out the opponent's Ghost-types so that Stoutland is free to spam its Normal-type attacks. Other powerful Normal-type Pokemon such as Tauros make for good partners, as they have similar checks which they can wear down and can open up a sweeping opportunity for one another.
 
+Scrappy Wallbreaker
+########
+name: Scrappy Wallbreaker
+move 1: Return
+move 2: Superpower
+move 3: Facade
+move 4: Pursuit / Toxic / Play Rough
+ability: Scrappy
+item: Choice Band / Silk Scarf
+evs: 252 Atk / 4 SpD / 252 Spe
+nature: Adamant
+
+Moves
+========
+
+Return is Stoutland's main STAB move. Superpower gives Stoutland perfect neutral coverage in two moves, taking on Rock- and Steel-types, which resist Return. Facade allows Stoutland to absorb burns while still maintaining offensive presence. In the last slot, Pursuit can be used as a way to trap and remove Pokemon such as Misdreauvs, Toxic can cripple defensive switch-ins to Stoutland that can take two Returns, and Play Rough does more immediate damage to Poliwrath and Machoke.
+
+
+Set Details
+========
+
+Attack and Speed are maximized for Stoutland to be as powerful as possible and outspeed everything up to Jolly Barbaracle. An Adamant nature and Choice Band further increase Stoutland's attacking power, allowing it to smash through most walls by strength alone, although Silk Scarf can be used to raise the power of Return and Facade while not locking Stoutland into a single move.
+
+Usage Tips
+========
+
+Return is Stoutland's strongest attack and should be used every single turn unless specifically trying to hit a Pokemon with a different coverage move or if Stoutland has a status ailment. Return is enough to break down most walls without a resistance to it or incredible natural bulk and is easily spammable due to Scrappy. Stoutland should be brought in on a double switch or a slow Volt Switch, U-turn, or Baton Pass as often as possible to keep up offensive pressure and force switches, which can wear down opposing teams quite quickly and rack up entry hazard damage. However, switching Stoutland even into uninvested walls such as Pelipper can quickly wear it down in conjunction with entry hazards due to its only passable bulk and lack of resistances, so avoid switching it into strong moves. Even with Facade, don't aim to get Stoutland crippled with status unless it isn't needed for the late-game, as burn and poison wear it down quickly and paralysis makes it slow and easy to KO. However, Stoutland can still be used to absorb status on offensive teams. If running Pursuit, use it for team support rather than super effective coverage, as its power isn't close to Return's unless it's super effective and used on a switch. Be aware that being locked into Pursuit or Toxic can make Stoutland setup fodder, so use them carefully.
+
+Team Options
+========
+
+Stealth Rock and Spikes are incredibly beneficial for Stoutland, as they can wear down the few things that can switch into Stoutland. Most notably, Stealth Rock guarantees the 2HKO on Avalugg and Pawniard with Return and boosts the odds of 2HKOing physically defensive Poliwrath to over 50%. Toxic Spikes is also useful for crippling defensive Pokemon forced to switch into Stoutland such as Carracosta or Gourgeist-XL. Slow pivots such as Volt Switch Probopass and Baton Pass Togetic can also give Stoutland more free switches for extra wallbreaking opportunities. Paralysis support from Pokemon such as Grumpig or Stunfisk or Sticky Web support from Leavanny can help patch up Stoutland's average Speed, allowing it to take out the Pokemon that would normally revenge kill it such as Simipour. Spinners appreciate the Pursuit support provided by Stoutland, as it allows them to freely spin without being blocked by Ghost-types such as Misdreavus. Most physical sweepers pair well with Stoutland due to its incredible wallbreaking capabilities. In particular, Rapidash appreciates Stoutland weakening defensive Carracosta and Poliwrath, and Shell Smash Carracosta enjoys the removal of Poliwrath and bulky Grass-types such as Gourgeist. Jumpluff can support Stoutland by taking on the Fighting- and Rock-types that give it trouble and also using U-turn to get Stoutland free switches, in addition to Swords Dance variants enjoying Stoutland's wallbreaking. Arbok can also help Stoutland take on Fighting-types while appreciating the removal of Piloswine and Torterra for Coil sweeps.
+
 Other Options
 ########
 
-Some other options include Fire Fang and Ice Fang, which are useful for getting coverage on Grass-types. Pursuit can be used to trap opposing Ghost- and Psychic-types, but that is best left to a teammate. Play Rough can be useful coverage to hit Fighting-types. Sleep Talk can be used if you need a Pokemon that can handle being asleep on your team. Substitute can be used to prevent status and ease prediction, but it tends to waste sand turns and is thus not recommended. Work Up can be used to boost Stoutland's Attack. Scrappy is also an option on Normal spam teams.
+Some other options include Fire Fang and Ice Fang, which are useful for getting coverage on Grass-types. Pursuit can be used to trap opposing Ghost- and Psychic-types, but that is best left to a teammate. Play Rough can be useful coverage to hit Fighting-types. Sleep Talk can be used if you need a Pokemon that can handle being asleep on your team. Substitute can be used to prevent status and ease prediction, but it tends to waste sand turns and is thus not recommended. Work Up can be used to boost Stoutland's Attack.
 
 Checks & Counters
 ########

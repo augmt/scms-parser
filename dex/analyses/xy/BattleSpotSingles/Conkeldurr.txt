@@ -1,0 +1,55 @@
+Overview
+########
+
+Conkeldurr is not a common sight in Battle Spot Singles, but it is still a force to be reckoned with. It's well-known as one of the best users of Assault Vest in the game, thanks to the perfect combination of Drain Punch, a move that recovers Conkeldurr's health without conflicting with Assault Vest's requirements; the increased-priority move Mach Punch, which can be used for revenge killing; Knock Off, a useful coverage option that also removes the foe's item; and its ability Guts, which allows it to switch in on status moves such as Will-O-Wisp, Scald, Thunder Wave, and Toxic for its teammates without any fear of being completely crippled. Unfortunately, while Assault Vest does give Conkeldurr impressive mixed bulk, it is usually overly reliant on Drain Punch to keep itself healthy, and Conkeldurr can find itself taking more damage than it can recover against foes that take little from this attack. On top of this, its power can be somewhat lacking if it's not inflicted with a status or hitting a foe for super effective damage. However, despite these flaws, Conkeldurr is a very useful utility option and a worthy Fighting-type Pokemon to consider to combat the Porygon2, Kangaskhan, and Ferrothorn that run rampant in the format.
+
+Assault Vest
+########
+name: Assault Vest
+move 1: Drain Punch
+move 2: Mach Punch
+move 3: Knock Off
+move 4: Ice Punch
+ability: Guts
+item: Assault Vest
+evs: 252 HP / 252 Atk / 4 Def
+nature: Adamant
+
+Moves
+========
+
+Drain Punch is Conkeldurr's primary STAB attack; it hits hard against Pokemon such as Chansey, Mega Kangaskhan, Porygon2, Ferrothorn, Tyranitar, and Heatran and replenishes Conkeldurr's health in the process. Mach Punch is an increased-priority move and serves as Conkeldurr's secondary STAB attack. It's mainly used to bypass Conkeldurr's low Speed and pick off weakened offensive Pokemon such as Bisharp and Focus Sash Garchomp. Knock Off hits Ghost- and Psychic-types, which are immune to or resist Conkeldurr's Fighting-type STAB moves, super effectively. It also has utility in removing items such as Porygon2's Eviolite. However, it does little to Cresselia, which doesn't usually mind having its item removed. Ice Punch is Conkeldurr's most useful coverage option for removing threats such as Landorus-T, Garchomp, and Mega Salamence, which take little damage from Conkeldurr's other attacks. Poison Jab or Rock Tomb could be used over Ice Punch to hit threatening Fairy-types such as Sylveon and Clefable or to hit Talonflame and Charizard on the switch, respectively.
+
+Set Details
+========
+
+The Assault Vest set aims to take advantage of Conkeldurr's best traits while patching its one big flaw — its special frailty. With this in mind, an EV spread that emphasizes Conkeldurr's natural attacking power and bulk is recommended. A simple spread of 252 HP / 252 Atk / 4 Def is the most efficient for maximizing both power and mixed bulk; however, a number of different spreads can be used to improve Conkeldurr's matchup against Mega Kangaskhan, the main threat that Conkeldurr needs to beat as a Fighting-type. 4 HP / 252 Atk / 252 Def can be used to take Double-Edge better and heal more of Conkeldurr's HP with Drain Punch due to the relative lack of HP investment; however, it compromises Conkeldurr's special bulk significantly, especially if its Assault Vest is removed by a foe's Knock Off. 148 HP / 108 Atk / 252 Def is an interesting spread that can be used to survive Mega Kangaskhan's Fake Out and Double-Edge 100% of the time while still being near-guaranteed to 2HKO back with Drain Punch and Mach Punch. It also makes Conkeldurr slightly more specially resilient than the above spread does. Finally, a Brave nature can be used to underspeed 0 Spe IV Aegislash and OHKO it in Blade Forme with Knock Off. Brave is also useful on Trick Room teams to ensure that Conkeldurr outspeeds as many Pokemon as possible under Trick Room's effect.
+
+Usage Tips
+========
+
+Conkeldurr is a versatile Pokemon with a lot of applications and uses on a team. It makes a fine switch-in for otherwise very threatening Pokemon such as Greninja and Thundurus, but it also has a couple of counters that can turn it into a liability or outright KO it, among them such common sights as Azumarill and Cresselia. Also, while it is very bulky with Assault Vest, Conkeldurr's bulk isn't insurmountable, so care must be taken around strong attackers to ensure that Conkeldurr isn't overwhelmed. Conkeldurr's ability to turn status ailments into a benefit with Guts makes it a good switch-in for common status move users such as Rotom-W, Porygon2, Cresselia, Thundurus, and Suicune — however, keep in mind that the sight of Conkeldurr in Team Preview may deter the opponent from recklessly using status, so be careful when switching into a Pokemon that may instead use a super effective move and cut into Conkeldurr's HP. Against many foes, Conkeldurr is more or less safe to just spam Drain Punch, lowering their pool of HP while keeping Conkeldurr's relatively full; however, don't underestimate the utility of Knock Off, as even aside from its good type matchup against Ghost- and Psychic-types such as Aegislash and Cresselia, most Pokemon in the format don't appreciate losing their item, making Knock Off a very safe move to use if you predict a foe to switch in. Mach Punch is a fantastic tool for revenge killing, especially if Conkeldurr is statused. This move alone can make Conkeldurr an unexpectedly useful cleaner, as many of the threats in the format only need to be weakened a little bit to make Mach Punch an OHKO. 
+Lastly, Ice Punch is purely a coverage move, but the targets it hits, mainly the myriad Flying-types in the format such as Togekiss, Zapdos, and Mega Salamence, are important targets that Conkeldurr appreciates being able to remove.
+
+Team Options
+========
+
+Conkeldurr is definitely a Pokemon that is at its best when it's supporting its teammates; however, that doesn't mean it needs no support to function properly. Many of its issues stem from Pokemon that resist Fighting-type moves, such as Zapdos, Talonflame, Cresselia, and Azumarill, as they take little damage from Drain Punch, thereby preventing Conkeldurr from healing back much of the damage it has taken, and are able to wear it down. As such, Pokemon that can efficiently deal with these threats, such as Raikou, Mega Gengar, Mega Manectric, and Steel-types such as Aegislash and Heatran, are useful Pokemon for Conkeldurr to be paired with to allow it to support the team more efficiently. One of Conkeldurr's main flaws is its low Speed stat, so it especially appreciates speed control such as Thunder Wave or Trick Room; Thundurus and Cresselia are excellent users of these respective moves and have good type synergy with Conkeldurr. As for Pokemon that benefit from Conkeldurr's presence, fast offensive Pokemon such as Greninja and Mega Salamence appreciate its help in dealing with status abusers such as Rotom-W, Thundurus, and Porygon, which can cripple them with Thunder Wave or Will-O-Wisp. Conkeldurr can use the Guts boost to muscle through them with ease and remove them from the battle. Pokemon that appreciate the removal of Rock- and Steel-types, such as Sylveon and Talonflame, appreciate Conkeldurr's powerful STAB Drain Punch for clearing those threats.
+
+Other Options
+########
+
+Conkeldurr has two other fantastic abilities aside from Guts that it can use with some effectiveness — the first, Iron Fist, strengthens punching moves, giving a great power boost to Drain Punch, Mach Punch, and Ice Punch. While good, Iron Fist is usually a less attractive option than Guts due to the latter's status-absorbing utility, despite its more situational nature. The second ability, Sheer Force, can be used well in conjunction with Life Orb to grant a significant boost in power to most of Conkeldurr's coverage moves; however, none of Conkeldurr's Fighting-type moves receive the boost from Sheer Force, aside from the weak Force Palm and the unreliable Dynamic Punch, so if Conkeldurr needs to hit an opposing Pokemon with a STAB move or Knock Off, it has to take Life Orb recoil and compromise its HP. Conkeldurr gets a few other useful moves aside from those listed: Bulk Up can be used well in conjunction with a specially defensive spread and Rocky Helmet to punish physical attackers and capitalize on Conkeldurr's above-average physical bulk. However, it's slow to set up and it can be difficult to find an opportunity to use it as a win condition. Thunder Punch is a niche but useful move for hitting Gyarados extremely hard while also covering Flying-type switch-ins. Damage-boosting items such as Choice Band and Flame Orb (with Guts) are viable on Conkeldurr; however, the latter puts Conkeldurr on a timer, whereas the former has a lock-in effect that can make Conkeldurr a liability when paired with its slowness and relative special frailty compared to that of the Assault Vest set. However, the damage boost makes Conkeldurr's moves a force to be reckoned with, particularly the increased-priority Mach Punch.
+
+Checks & Counters
+########
+
+**Talonflame**: Talonflame is capable of cleanly OHKOing all but the most physically bulky Conkeldurr with STAB Brave Bird and only fears Rock Tomb or Thunder Punch on the switch in. Thanks to Brave Bird's increased priority, Conkeldurr can't even hope to score a surprise counter-KO with Mach Punch.
+
+**Mega Salamence**: Mega Salamence is capable of surviving Ice Punch after Intimidate even without investment and OHKOes Conkeldurr with an Aerilate-boosted Double-Edge or Return. Salamence can also turn Conkeldurr into setup fodder if it is a bulky variant with Roost.
+
+**Mega Mawile**: While Mega Mawile doesn't resist Conkeldurr's STAB moves, it is bulky enough to take a Drain Punch with ease and obliterate Conkeldurr with Play Rough. Intimidate also neuters Conkeldurr's offensive capability against Mawile, meaning that it can safely set up Swords Dances in front of Conkeldurr with little consequence.
+
+**Physically Bulky Psychic-types**: Slowbro and Cresselia take paltry damage from Knock Off and can sit in front of Conkeldurr and spam Psychic-type attacks or set up Calm Mind while also passively damaging Conkeldurr with Rocky Helmet at least once.
+
+**Pokemon That Resist Fighting**: Offensive Pokemon such as Azumarill, Gyarados, Sylveon, Mega Gallade, Mega Gengar, and Mega Latias take little damage from Conkeldurr's STAB moves and can overwhelm Conkeldurr with powerful attacks. Some of these fall to coverage moves such as Knock Off and Poison Jab, but their superior Speed allows them to do significant damage to Conkeldurr if they survive, weakening it and making it setup fodder for another member of their team.

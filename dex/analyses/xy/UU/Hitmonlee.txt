@@ -1,85 +1,90 @@
 Overview
 ########
 
-Hitmonlee has an interesting niche in the UU metagame in that it's one of the few Pokemon with access to Unburden, which it can make great use of with its great Attack stat, and good movepool. It also is one of the few offensive spinners in the tier, which is another thing that sets it apart from other Fighting-types, such as Mienshao and Machamp. However, it faces severe competition from them and also has terrible Defense, along with a mediocre Speed stat that lets it get revenge killed fairly easily by the likes of Jirachi. Hitmonlee also has a hard time with Crobat, which is able to switch into it multiple times and force it out. However, Hitmonlee is an interesting pick for a Fighting-type and should be still considered on offensive teams.
+With a great Attack stat, solid abilities, and a well-rounded movepool, Hitmonlee is a fearsome Fighting-type whose Reckless STAB High Jump Kick severely dents nearly all Pokemon that are not outright immune to it. Ghost-types are not safe from Hitmonlee either, however, thanks to his access to Knock Off. Combine the aforementioned traits with Mach Punch and Rapid Spin, and Hitmonlee becomes a solid candidate for any offensive team. Unburden can also be used to make Hitmonlee an excellent revenge killer. Unfortunately, Hitmonlee's disappointing base 87 Speed allows a myriad of faster Pokemon to damage him before he can get an attack off. Additionally, Hitmonlee's pitiful HP and Defense are no match for his solid Special Defense, which means that he is easily picked off by opposing priority attacks. Most importantly, Hitmonlee faces fierce competition as a Fighting-type wallbreaker from Mienshao, which is noticeably faster and has access to Regenerator to promote its longevity. Even so, Hitmonlee's access to priority, Rapid Spin, and Unburden are all he needs to differentiate himself from Mienshao.
 
-Reckless
+Wallbreaker
 ########
-name: Reckless
+name: Wallbreaker
 move 1: High Jump Kick
 move 2: Knock Off
 move 3: Rapid Spin
 move 4: Mach Punch
 ability: Reckless
-EVs: 4 HP / 252 Atk / 252 Spe
 item: Life Orb
+evs: 252 Atk / 4 Def / 252 Spe
 nature: Adamant / Jolly
 
 Moves
 ========
 
-High Jump Kick is a hard-hitting STAB move thanks to Life Orb and Reckless, although it's somewhat risky to use due to its miss chance and the massive recoil if it fails to land. Knock Off hits Ghost- and Psychic-types that don't care about High Jump Kick, and can cripple Pokemon reliant on their item. Rapid Spin lets Hitmonlee clear entry hazards, which is one of the things that sets it apart from the likes of Mienshao and Machamp. Mach Punch lets Hitmonlee pick off weakened threats. Sucker Punch can be used to smack Jirachi, which can be a large problem otherwise.
+High Jump Kick is an incredibly powerful STAB move that gets a damage boost from Reckless. Knock Off hits the Psychic- and Ghost-types that resist or are immune to High Jump Kick and punishes switch-ins by removing their items. Rapid Spin allows Hitmonlee to support his team by removing entry hazards from his side of the field; he makes for a solid offensive spinner because of his resistance to Stealth Rock. Mach Punch is a decently powerful STAB priority move that can pick off a weakened foe.
 
 Set Details
 ========
 
-Reckless is the preferred ability, as it boosts High Jump Kick's power. Life Orb is used to increase Hitmonlee's damage output, and it turns High Jump Kick into an extremely threatening STAB move. The EVs maximize Hitmonlee's Speed and damage output. An Adamant nature is preferred, as with it Hitmonlee still outspeeds Modest Chandelure and 2HKOes physically defensive Hippowdon, whereas Jolly Hitmonlee only has a 32% chance to do this. Jolly lets Hitmonlee outspeed more Pokemon, however.
+Maximum investment in Attack and Speed makes Hitmonlee hit as hard and as quickly as possible. Reckless increases the power of High Jump Kick, while Life Orb further increases the power of all of Hitmonlee's moves. An Adamant nature is necessary to let Hitmonlee 2HKO Florges and Chesnaught on the switch, though a Jolly nature can be used to outspeed maximum Speed Chandelure, Rotom-H, Rotom-C, and Kingdra.
 
 Usage Tips
 ========
 
-Hitmonlee can switch into very few physical attacks, due to its terrible bulk. When using Hitmonlee, you should know when to use High Jump Kick; it shouldn't be spammed when there are Pokemon on the other side that are Ghost-types or carry Protect.
+Hitmonlee is a solid choice early- or mid-game in order to wear down opposing walls, thus paving the way for one of his teammates to switch in and clean up the opposing team. Do not use High Jump Kick too recklessly, however, as Hitmonlee will be punished dearly if the foe uses Protect or a Ghost-type switches in. Generally, Knock Off should be used on predicted switch-ins in order to remove the foe's item, as well as against Pokemon that commonly carry Protect. Though Hitmonlee makes for a decent late-game cleaner with Mach Punch, the somewhat low Base Power of Mach Punch and Hitmonlee's average Speed mean that he should not be your team's primary cleaner.
 
 Team Options
 ========
 
-Pokemon that appreciate having Stealth Rock cleared, such as Mega Houndoom, Mega Aerodactyl, and Darmanitan, are good partners for Hitmonlee; Darmanitan is able to put a huge dent in the Fairy-types that make Hitmonlee miserable in return. Pokemon that can't get through Steel-types, such as Crobat and Cloyster, are also good partners for Hitmonlee, as they have a much easier time doing their job without Steel-types on the field. Pokemon such as Shaymin and Roserade that can check physical walls are also good partners for Hitmonlee.
+Dedicated late-game sweepers such as Crobat and Mega Beedrill benefit from Hitmonlee's wallbreaking, which gives them an easier time finishing off the opposing team. Pokemon weak to Stealth Rock, such as Mega Aerodactyl, Salamence, Entei, and Crobat, appreciate Hitmonlee's Rapid Spin support. Clerics such as Florges and Umbreon rid Hitmonlee of crippling status effects and also restore his HP, making it easier for him to break down opposing walls. Entry hazard setters such as Empoleon and Forretress allow Hitmonlee to land crucial KOs that he could not achieve otherwise. For example, High Jump Kick is guaranteed to 2HKO physically defensive Hippowdon and Florges when Hitmonlee has Stealth Rock support. Sticky Web support from Galvantula or Shuckle can be used to allow Hitmonlee to outspeed some of his offensive checks. Electric-types such as Mega Ampharos and Rotom-H can counter the Flying-types that give Hitmonlee trouble. Psychic-types such as Alakazam and Espeon deal with the Poison-types that resist High Jump Kick. A slow user of Volt Switch, U-turn, or Baton Pass, such as Forretress or Vaporeon, can provide a free switch for Hitmonlee so that he does not have to take a hit when he enters the battlefield.
 
-Unburden
+Endure + Reversal
 ########
-name: Unburden
+name: Endure + Reversal
 move 1: Endure
 move 2: Reversal
 move 3: Knock Off
-move 4: Mach Punch
+move 4: Stone Edge / Mach Punch
 ability: Unburden
 item: Liechi Berry
-evs: 252 Atk / 4 SpD / 252 Spe
-nature: Adamant
+evs: 252 Atk / 252 Spe
+ivs: 0 HP / 0 Def / 0 SpD
+nature: Lonely
 
 Moves
 ========
 
-Endure ensures that Hitmonlee's Liechi Berry is activated as soon as possible, letting Hitmonlee get the Unburden boost. At 1 HP, Reversal becomes a 200 BP move, OHKOing virtually anything that doesn't resist it. Knock Off smacks Psychic- and Ghost-types that resist Reversal, such as Chandelure, for super effective damage. Mach Punch is used to punish Pokemon such as Infernape that try to revenge kill Hitmonlee with their own priority, although it usually will not OHKO many Pokemon unless they're weakened by a fair amount or it hits them for super effective damage.
+Endure guarantees that Hitmonlee will survive any attack and be left with at least 1 HP. It has great synergy with Reversal, which becomes more powerful as Hitmonlee's HP decreases. Knock Off hits the Psychic- and Ghost-types that do not fear Reversal and removes the items of opposing switch-ins. Stone Edge hits Flying-types such as Salamence and Crobat, which would otherwise wall this set. Alternatively, Mach Punch allows Hitmonlee to land some damage against opposing priority users, particularly Feraligatr and Infernape.
 
 Set Details
 ========
 
-Hitmonlee's EVs are used to maximize its Attack and Speed. Liechi Berry increases Hitmonlee's Attack, making it a very potent threat when combined with Endure and Unburden. An Adamant nature is used to give Hitmonlee as much power as possible. Due to Unburden, Hitmonlee doesn't need a Speed-boosting nature, as it will already have all the Speed it needs to function.
+Full investment in Attack and Speed is necessary to maximize Hitmonlee's offensive presence. 0 IVs in HP, Defense, and Special Defense make Hitmonlee as frail as possible so that he will be brought to low health after Enduring an attack. Liechi Berry raises Hitmonlee's Attack once he is brought down to low HP, while Unburden doubles Hitmonlee's Speed after he consumes his Liechi Berry. A Lonely nature is necessary for Hitmonlee to hit even harder; he does not need a Hasty nature because he already outspeeds the entire unboosted metagame and Choice Scarf users with up to base 115 Speed after he loses his item.
 
 Usage Tips
 ========
 
-Hitmonlee should usually be attempting a sweep late-game, when most of its common switch-ins are off the field or are weakened enough to be KOed by Reversal. Hitmonlee should avoid residual damage at all costs, as it will render Endure useless, and thus its sweep short-lived. Hitmonlee should also avoid Pokemon with Extreme Speed, which outprioritizes Mach Punch.
+This set is best used as a dedicated late-game cleaner. Before attempting a Hitmonlee sweep, try to eliminate or at least wear down the foes that resist Fighting and Ghost. Pokemon that can inflict status ailments should also be removed quickly because poison and burn damage will KO Hitmonlee after Endure brings him down to 1 HP, while paralysis renders the Speed boost from Unburden moot. When predicting an attack, use Endure in order to ensure that Hitmonlee will survive it. Conversely, use Knock Off against predicted switch-ins in order to remove their items.
 
 Team Options
 ========
 
-Hitmonlee appreciates entry hazard support, which makes it easier for Hitmonlee to clean. Froslass is a great partner, as it prevents Toxic Spikes from being set up with Taunt, and it sets up its own hazards easily. Azelf is also a good partner as, like Froslass, it stops opposing setup with Taunt, and can cripple Pokemon dependent on their item early-game with Knock Off. Pokemon that can KO Fairy-types are a godsend for Hitmonlee, as it has a lot of trouble with the likes of Aromatisse and Granbull. Nidoking and Nidoqueen are very good partners, as they can force the aforementioned Fairies out, set up hazards on them, and absorb Toxic Spikes. Pokemon that can take on Sableye, such as Infernape, work well with Hitmonlee, as they can switch into Sableye's Will-O-Wisp and threaten it out. Pokemon that can beat common Flying-types, such as Crobat, are great partners for Hitmonlee. Mega Ampharos counters Crobat and lures in Blissey, which Hitmonlee loves. Mega Ampharos also sponges common priority attacks.
+Entry hazard support from the likes of Nidoqueen and Forretress allows Hitmonlee to land KOs more easily. Heal Bell support from Florges, Umbreon, or Vaporeon prevents poison and burn damage from KOing Hitmonlee through Endure and prevents paralysis from ruining the Speed boost provided by Unburden. A powerful wallbreaker such as Darmanitan can wear down the opposing team, making it easier for Hitmonlee to come in and sweep. Entry hazard removers and grounded Poison-types such as Forretress and Dragalge, respectively, can remove Toxic Spikes in order to prevent Hitmonlee from becoming poisoned. Fairy-types are huge problems for this Hitmonlee variant, so Steel- and Poison-types such as Mega Aggron and Nidoking, respectively, make for good partners. Pokemon that resist Flying, such as Rotom-H and Mega Aerodactyl, can take on the Flying-types that check Hitmonlee. Poison-types resist Hitmonlee's STAB moves and usually do not take much from Knock Off, so Ground- and Psychic-types such as Swampert and Alakazam can deal with them.
 
 Other Options
 ########
 
-Stone Edge is an option for Hitmonlee to hit Flying-types such as Crobat and Noivern hard, but it can mostly only hit them on the switch-in, as unless Hitmonlee has an Unburden boost, it will just be revenged by any faster Flying-type. Poison Jab can hit Fairy-types such as Florges and Aromatisse, but Hitmonlee usually doesn't have the room to run it. Close Combat is a more reliable STAB move that doesn't have the risk of missing and Hitmonlee losing half its health, but it doesn't get the damage boost from Reckless that High Jump Kick does. Double-Edge is a move that is surprisingly powerful thanks to Reckless, and it can 2HKO a lot of physical walls that would resist High Jump Kick. However, the recoil is usually too much for Hitmonlee to bear, and you would want it alive as much as possible.
+Bulk Up is an option to boost Hitmonlee's Attack and Defense, but Hitmonlee finds barely any setup opportunities due to his frailty. Fake Out + Normal Gem alongside Unburden is an option to quickly double Hitmonlee's Speed, but he prefers the power given by Liechi Berry. Poison Jab hits Fairy-types super effectively, but Hitmonlee lacks room for the move, and Florges is 2HKOed by High Jump Kick anyway. Sucker Punch can be used for a stronger priority move, but it is easy to play around and incompitable with Unburden. Earthquake hits Poison-types for decent damage, but it is difficult to fit the move into Hitmonlee's moveset. Double-Edge is very powerful alongside Reckless and can 2HKO a lot of physical walls, including Weezing, Nidoqueen, and Amoonguss, but the recoil will wear Hitmonlee down very quickly.
 
 
 Checks & Counters
 ########
 
-**Bulky Fighting-type Resists**: Pokemon that can repeatedly take attacks from Hitmonlee, heal off any damage, and retaliate easily, such as Aromatisse, Gligar, and Granbull, are very problematic for Hitmonlee, although Gligar hates getting its item Knocked Off.
+**Bulky Psychic-types**: Bulky Psychic-types such as Cresselia, Reuniclus, and Slowking can easily take Hitmonlee's STAB attacks and even repeated Knock Offs. However, none of them can switch into Knock Off, and they all despise having their items removed.
 
-**Sableye** Sableye can take a Knock Off, burn Hitmonlee with a Prankster Will-O-Wisp, and prevent it from spinning thanks to its typing.
+**Fairy-types**: Fairy-types such as Florges, Whimsicott, and Aromatisse can take one hit from Hitmonlee and KO it back with their STAB moves. However, all of them are 2HKOed by High Jump Kick.
 
-**Faster Pokemon** Pokemon that can tank a Mach Punch and outspeed non-Endure Hitmonlee, such as Alakazam and Crobat, can easily beat it. Most of them must be wary of Knock Off and Stone Edge, however.
+**Flying-types**: Offensive Flying-types such as Mega Aerodactyl and Crobat can beat Hitmonlee with their STAB attacks but must be wary of Stone Edge. Gligar resists High Jump Kick and can Toxic stall Hitmonlee, but Knock Off removes its Eviolite, taking away much of its walling potential.
 
-**Priority** Hitmonlee despises priority, as it really hates being hit. Pokemon such as Fletchinder, Entei, and Lucario can all bypass Hitmonlee's own priority and severely dent, if not KO, it.
+**Poison-types**: Poison-types such as Crobat, Nidoqueen, and Amoonguss resist Hitmonlee's STAB attacks and usually don't take much damage from Knock Off.
+
+**Status Ailments**: Toxic poison damage from the likes of Hippowdon and Vaporeon quickly wears down Hitmonlee. Paralysis from Thunder Wave users such as Mega Aggron and Galvantula leaves Hitmonlee unable to sweep through teams without taking a hit. Will-O-Wisp users such as Arcanine and Rotom-H can burn Hitmonlee, cutting his Attack in half while inflicting passive damage.
+
+**Priority Attacks**: As Hitmonlee is very physically frail, strong priority moves such as Fletchinder's Acrobatics, Feraligatr's Aqua Jet, and Infernape's Mach Punch can KO or severely damage him. However, none of these priority attackers enjoy taking a High Jump Kick.

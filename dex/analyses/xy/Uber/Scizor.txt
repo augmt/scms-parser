@@ -1,92 +1,74 @@
 Overview
 ########
 
-Scizor is a useful Pokemon in the Ubers metagame; it is very capable of checking Xerneas, a key threat, through the use of its strong, super effective priority in the form of Bullet Punch. It possesses a lot of utility for more defensive teams, as it is capable of checking Mega Gengar with Pursuit and Bullet Punch. It also has an useful Mega Evolution, which is a bit bulkier and slightly faster while retaining its offensive capabilities. However, the prominence of Ho-Oh and the birth of Mega Blaziken are significant drawbacks for Scizor, as is its loss of its Dark and Ghost resistances. Overall, despite its clear weaknesses, its strong typing and utility give Scizor a meaningful place in the metagame.
+Mega Scizor is known for being a great Xerneas check thanks to access to Bullet Punch and a strong base 150 Attack. It also has a great movepool, with access to Roost, Pursuit, U-turn, and a variety of other tricks. U-turn and Roost in particular help Mega Scizor to differentiate itself from other Xerneas checks such as Aegislash; U-turn helps Mega Scizor keep momentum for an offensive team and Roost provides reliable recovery. Mega Scizor is also one of the few viable Pursuit trappers, which is one of the best methods for checking threats such as Mega Gengar, Latios, and Latias. Technician is an ability that would be ineffective on most Pokemon; however, for Mega Scizor it works well due to the low Base Power of its moves. Its Steel / Bug typing has always been an effective defensive typing, granting several resistances and an immunity while leaving a single exploitable 4x weakness to Fire-type moves. Mega Scizor's immunity to Poison allows it to switch into a variety of threats without the fear of being hit with Toxic, which is a great asset to both offensive and defensive teams. However, due to Mega Scizor's exploitable weakness, several Pokemon run Fire-type coverage moves almost exclusively for Mega Scizor, meaning that potential danger is always present. Mega Scizor is also bait to powerful threats such as Ho-Oh and Kyogre and it can be passive because Steel and Bug are poor types offensively. The lack of Leftovers recovery means that Mega Scizor struggles to maintain ample HP when burned in addition to loosing all offensive presence.
 
-Support
+
+
+Red Menace
 ########
-name: Support
+name: Red Menace
 move 1: Bullet Punch
 move 2: Roost
-move 3: Superpower / Pursuit
-move 4: U-turn / Toxic / Knock Off
-ability: Light Metal
+move 3: Pursuit
+move 4: Toxic / U-turn
 item: Scizorite
-evs: 248 HP / 252 Atk / 8 SpD
-nature: Adamant
-
-Moves
-========
-
-Bullet Punch does at least 54% to bulky Geomancy Xerneas. Roost provides consistent recovery. Superpower deals heavy damage to Extreme Killer Arceus and Chansey, while Pursuit gives Scizor the opportunity to handle Mega Gengar, though for this, Scizor should run the specially defensive spread mentioned in Set Details. U-turn and Toxic are both useful moves for hitting opposing switch-ins; Toxic is especially useful for handling Calm Mind Arceus formes. Knock Off removes foes' items. Defog, while not listed, is a fantastic support move that Mega Scizor can use, but it may struggle with pulling it off against more offensive teams. Scizor can rarely afford the moveslot to run Swords Dance, but it can help to Pursuit trap Aegislash and also clean up late-game.
-
-Set Details
-========
-
-Light Metal is used to reduce the power of the rare Low Kick or Grass Knot that Scizor switches into, since when it Mega Evolves, it regains Technician anyway. It is also useful when Ditto switches in before Scizor, as it is left without the boost of Technician. It is difficult to bluff a Choice Band set with Technician since there is such a drop in power, so Light Metal is generally the most useful. A spread of 248 HP / 16 Atk / 116 Def / 128 SpD with an Adamant nature can be used as an exchange of power for bulk without losing the ability to check Xerneas and Extreme Killer Arceus sufficiently. A spread of 248 HP / 16 Atk / 244 SpD with an Adamant nature is still capable of almost always 2HKOing standard Geomancy Xerneas, but because of the increased special bulk, it is the recommended spread for trapping Mega Gengar. It should also be noted that it can deal at least 54% to bulky Extreme Killer Arceus with Superpower. 248 HP EVs reduces the damage taken from Stealth Rock by Scizor.
-
-Usage Tips
-========
-
-Unless Scizor is using a specially defensive spread, it can still have difficulty switching directly into Xerneas, but can deal significant damage to it before being attacked. The main spread can deal a minimum of about 57% to standard Geomancy Xerneas. If possible, you should inflict prior damage upon Xerneas in order to bring it into the KO range of Scizor's Bullet Punch. Likewise, Extreme Killer Arceus should be brought into the KO range for Scizor's Superpower; the main spread can deal at least 63% to bulky Extreme Killer Arceus whilst doing at least 71% to offensive Extreme Killer Arceus. When using Scizor to trap Mega Gengar, it in general works best when double switched into it, and must be wary of Hidden Power Fire as well as Destiny Bond. Bullet Punch can also be used to revenge kill heavily weakened Pokemon. Scizor has few other opportunities to come in against offensively oriented teams, whilst against less offensive teams it should use any free turns to disrupt the foe.
-
-Team Options
-========
-
-Choice Scarf Zekrom pairs nicely with Scizor, as it can take care of Ho-Oh and Kyogre, whilst Mega Scizor checks both Extreme Killer Arceus and Xerneas, and they also can form a VoltTurn core. For a team relying on it to Pursuit trap Mega Gengar, options that require that form of support, such as defensive Xerneas, pair well with it. Other teammates that can handle Fire-types and other threats that get a free switch on Scizor, such as Kyogre, are ideal. You should also carry a second check to Geomancy Xerneas, such as Ho-Oh, if you are using Scizor to Pursuit trap Mega Gengar, in case you lose Scizor to Destiny Bond.
-
-Choice Band
-########
-name: Choice Band
-move 1: Bullet Punch
-move 2: Superpower
-move 3: U-turn
-move 4: Knock Off
 ability: Technician
-item: Choice Band
-evs: 248 HP / 212 Atk / 48 Def
+evs: 248 HP / 60 Atk / 200 SpD
 nature: Adamant
+
 
 Moves
 ========
 
-Bullet Punch allows Scizor to check Xerneas and revenge kill weakened threats. Superpower allows it to heavily damage Extreme Killer Arceus, as well as other Pokemon that are weak to Fighting-type attacks, such as Blissey, Mega Kangaskhan, and Rock Arceus. U-turn and Knock Off are for gaining momentum and disrupting switch-ins. Pursuit is an option for trapping opponents, primarily Mega Gengar, but Scizor doesn't enjoy being locked into it, and this version of Scizor is inferior to the Support set at performing this role.
+Bullet Punch serves as Mega Scizor's primary STAB attack. Technician combined with STAB raises Bullet Punch to a more respectable 90 Base Power and checks common Fairy-types such as Xerneas and Diancie. Although Bullet Punch isn't that strong and common types resist Steel-type attacks, the priority of the move has useful utility. Roost is used to give Mega Scizor some staying power, as it is unable to receive passive recovery though Leftovers. Pursuit allows Mega Scizor to forcibly remove threats such as Latios, Latias, Lugia, and Mega Gengar, as Pursuit will hit even if the opponent switches them out. Toxic is a solution to threats such as Lugia and Ghost Arceus, which cannot be taken down by Mega Scizor's offensive moves alone. U-turn is an option in place of Toxic for more offensively oriented teams that helps keep momentum and prevents Mega Scizor from becoming bait to threats such as Ho-Oh. Lastly, Superpower is a coverage option which nails Extreme Killer Arceus and Mega Kangaskhan and can finish some Steel-types such as Ferrothorn.
+
 
 Set Details
 ========
 
-Choice Band gives Scizor a lot of power. It is guaranteed to 2HKO most variants of Xerneas with Bullet Punch. The defensive EVs allow it to not be OHKOed by Jolly Life Orb +2 Extreme Killer Arceus's Earthquake after a switch into Stealth Rock from full health. A spread of 248 HP / 20 Atk / 48 Def / 192 SpD and a Careful nature can take Focus Blast, or even a Hidden Power Fire in the rain, from Xerneas after a Geomancy boost and 2 Stealth Rocks, whilst still hitting hard. 248 HP EVs reduce Stealth Rock damage.
+248 HP EVs are used to raise Mega Scizor's overall bulk and help with the ability to use Roost. 60 Attack EVs with an Adamant nature guarantee that Mega Scizor can 2HKO 200HP Xerneas. The remaining 200 EVs are allocated into Special Defense to compensate for Mega Scizor's lower special bulk and to grant it the ability to tank Hidden Power Fire from Mega Gengar.
+
 
 Usage Tips
 ========
 
-Unless using the bulkier spread, this set struggles to switch in on opposing Xerneas and still requires some prior damage to defeat it; however, it can deal a minimum of 75% to Geomancy Xerneas with Bullet Punch. Superpower deals a minimum of 83% to bulky Extreme Killer Arceus. It tends to not switch in during many other parts of the game due to its relative frailty, especially since it requires the bulk it does have to defeat certain threats. Bullet Punch can also be used for revenge killing. Knock Off and U-turn allow Scizor to disrupt more defensive teams.
+Although Hidden Power Fire usage on Xerneas has decreased, it is still a possible danger. This set has no qualms about switching into defensive or Choice Scarf Xerneas sets so long as it doesn't have Hidden Power Fire. However, unlike Xerneas checks such as Klefki, you do not necessarily want to switch Mega Scizor into a Geomancy Xerneas on the turn it sets up. The reason being that although Mega Scizor has priority with Bullet Punch, Xerneas will survive if it is at full health and can proceed to knock out Mega Scizor if it has Hidden Power Fire. An alternative approach is to damage Xerneas enough on its setup turn to where Mega Scizor's Bullet Punch can revenge kill the boosted Xerneas; then either sack your least useful Pokemon to get Mega Scizor in for free or directly switch Mega Scizor into a predicted Moonblast if it has enough HP to survive the attack. Xerneas is not the only Pokemon that runs Fire-type coverage moves because of Mega Scizor; even Pokemon such as Blissey have the potential to hit Mega Scizor as it comes in, so scouting for these type of moves is paramount.
+
+Because Mega Scizor is immune to Toxic, it can be used as a pivot against defensive threats such as Lugia and serve as an offensive team's solution to opposing Toxic use. Although Bullet Punch is not very strong and has poor offensive typing, Mega Scizor's access to priory should not be overlooked. Keeping Mega Scizor around to threaten Focus Sash users and fast, frail Pokemon such as Deoxys-A can be of great assistance. Mega Scizor should be kept away from burns at all cost, as it will become significantly more difficult to revenge kill Xerneas; the loss of HP each turn also makes keeping Mega Scizor healthy enough to check intended threats very difficult if not impossible. This set is massive bait to Ho-Oh and Kyogre, therefore Mega Scizor's best option if you foresee these threats coming in is either to U-turn out or slap them with Toxic and switch out, assuming you can afford to give these threats a free turn.
+
 
 Team Options
 ========
 
-The best Pokemon to pair with Scizor are those that can check Pokemon that obtain a free switch on it, such as Ho-Oh and Kyogre. Because of this, Pokemon such as Palkia and Zekrom pair well with it, as they are able to come in on some of these Pokemon and threaten them. Zekrom forms a VoltTurn core with Scizor, which is of great benefit to a team for the momentum it can provide.
+Often a team's greatest weapon against Ho-Oh is Stealth Rock, and because Mega Scizor tends to draw in Ho-Oh, it is best to have a setter of this move that can force Ho-Oh out. Primal Groudon can check both Ho-Oh and Kyogre, which are two of the greatest threats to Mega Scizor, while in return Mega Scizor can check Lugia, Latias, and Latios. Dark-types such as Yveltal, Darkrai, and Dark Arceus can all be excellent teammates because they annihilate Ghost-types such as Ghost Arceus and Giratina while they benefit from Mega Scizor's ability to check Fairy-types. Latias and Latios can provide anti-entry hazard support for Mega Scizor while they appreciate Mega Scizor's ability to switch into Fairy-type attacks. Kyogre can crush the Fire-types that give Mega Scizor trouble. Rock Arceus pairs well with Mega Scizor, as it is one of the best checks to Ho-Oh. Tyranitar can also check Ho-Oh and appreciates Mega Scizor's immunity to Toxic and check to Fairy-types. Palkia can beat several Fire-types and also gives Mega Scizor a switch-in to Kyogre. Lastly, Zekrom can smash Ho-Oh and Kyogre, which are two of the biggest threats to Mega Scizor.
+
 
 Other Options
 ########
 
-Thanks to Technician, Bug Bite is a stronger Bug-type STAB than U-turn. Tailwind is quite gimmicky, but in combination with U-turn, it could be quite powerful, providing sweeping opportunities for teammates. Lum Berry is also an option to soak up a Will-O-Wisp. Assault Vest could be used, but the drop in damage output is significant. Baton Pass is an option, but it suits very few players or teams. Thief deserves a small mention for its consistency, and for being stronger than Knock Off against Mega Evolutions and Arceus formes (factoring in the boost from Technician), most particularly Arceus-Ghost. Finally, Counter deserves a mention, as it is more reliable against Extreme Killer Arceus if it attacks with a physical attack.
+Knock Off is a possible option over Pursuit. However, in general the utility provided by Pursuit is more useful. A set making use of Swords Dance can help to make Mega Scizor a bit less passive, but with common threats such as Primal Groudon resisting Bullet Punch, it is less viable than in was in previous Generations. Mega Scizor does have the potential to run Defog, which can potentially free up a moveslot for another Pokemon, but in general other Defoggers in Ubers such as Arceus, Latios, Latias, and Giratina-O are more effective. A Choice Band set can give Mega Scizor a bit more power and doesn't forfeit the Mega Evolution slot, but the inability to use support moves and the decreased bulk hurts. Lastly, a Life Orb set can still give Mega Scizor a bit more power and the ability to change moves at the cost of taking recoil damage and being slightly weaker than a Choice Band set.
+
 
 Checks & Counters
 ########
 
-**Fire types**: Ho-Oh is a particularly potent threat, although it dislikes Knock Off and Toxic, while other users of Fire-type attacks such as Blaziken and Mega Charizard X can find opportunities to set up against Scizor.
+**Ho-Oh**: Other than with Toxic and Knock Off, Mega Scizor cannot punish Ho-Oh while it can easily OHKO Mega Scizor with Sacred Fire.
 
-**Physically Bulky Pokemon**: Rocky Helmet Skarmory punishes U-turn spam, and if Scizor doesn't carry Defog, Skarmory can set up Spikes on it. Aegislash hates Knock Off, Swords Dance, and Pursuit, but it is otherwise a solid check. Landorus-T and Gyarados fear only Toxic and Knock Off, whilst Gliscor fears nothing from Scizor and can also Taunt it. Mega-Aggron laughs at anything that Scizor tries to do.
+**Primal Groudon**: Primal Groudon resists Mega Scizor's STAB moves and often runs Fire-type moves such as Lava Plume and Fire Punch, which completely wreck Mega Scizor.
 
-**Will-O-Wisp**: Support Arceus formes and Giratina can burn Scizor, neutering it, although cleric support can remedy this.
+**Fire-type Pokemon**: All Fire-types pose an obvious danger to Mega Scizor due to its exploitable weakness. Blaziken can easily OHKO Mega Scizor with Flare Blitz as can Victini with V-Create.
 
-**Kyogre**: Physically defensive Kyogre doesn't care about Scizor, whilst other sets only mind Toxic, Knock Off, and U-turn.
+**Kyogre**: Due to Kyogre's sheer mightm it can rip through Mega Scizor with neutral Water-type moves. Offensive sets do not like being hit with Toxic or U-turn as they come in, however.
 
-**Thundurus**: Thundurus can use Taunt to stop Roost and Defog, whilst hitting hard with an unresisted Electric-type STAB attack, although it dislikes taking too many hits from Scizor.
+**Ghost Arceus**: Support and Calm Mind Ghost Arceus can burn Mega Scizor with Will-O-Wisp and deal solid damage with Judgment. However, they dislike being poisoned by Toxic.
 
-**Forretress**: Forretress doesn't mind Scizor's attacks and can set up hazards unless Scizor carries Defog, although it dislikes Knock Off.
+**Palkia and Dialga**: Palkia and Dialga commonly run Fire Blast and resist Mega Scizor's STAB attacks.
 
-**Fire-type Attacks**: Other Fire-type attack users include Genesect, Palkia, and Dialga, which can use powerful Fire-type attacks to destroy Scizor. Hidden Power Fire and Overheat from unexpected Pokemon, such as Mega Gengar, Extreme Killer Arceus, and Xerneas, can really cause it trouble.
+**Sableye**: Sableye is bulky enough to comfortable tank Mega Scizor's attacks and can punish it with Will-O-Wisp.
 
-**Zekrom**: Zekrom can 2HKO Scizor but fears Toxic and Knock Off. It also dislikes taking U-turns.
+**Ferrothorn, Forretress, and Skarmory**: Ferrothorn, Forretress, and Skarmory can comfortably take any move Mega Scizor has except for Superpower and can proceed to stack Spikes.
+
+**Burns**: Will-O-Wisp and Scald are the two most common sources of burns on Mega Scizor, both of which hamper Mega Scizor from checking its intended threats by halving its Attack stat and dealing passive damage.
+
+**Fire-type Coverage Moves**: Many Pokemon have the potential to be running Fire-type coverage moves that can potentially knock out Mega Scizor. Some examples include Hidden Power Fire Xerneas, Hidden Power Fire Latios, Overheat Extreme Killer Arceus, and Flamethrower Blissey.

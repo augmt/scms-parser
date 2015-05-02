@@ -1,0 +1,54 @@
+Overview
+########
+Persian is one of the fastest Pokemon in PU thanks to its excellent base 115 Speed, which lets it outspeed most of the unboosted tier. However, in terms of being a physical Normal-type attacker, it is generally outclassed by Purugly, which has a higher base Attack and a great ability in Defiant. Persian does carve out a niche for itself thanks to its access to Nasty Plot and Technician. However, outside of its Speed, all of Persian's other stats are pretty mediocre, meaning that Persian won't be hitting as hard off the bat. This, combined with Persian's lack of resistances and its frail defenses, makes Persian hard to set up and easy to revenge kill.
+
+Nasty Plot
+########
+name: Nasty Plot
+move 1: Nasty Plot
+move 2: Hyper Voice
+move 3: Hidden Power Ghost
+move 4: Water Pulse / Substitute
+ability: Technician
+item: Life Orb
+evs: 4 Def / 252 SpA / 252 Spe
+nature: Timid
+
+Moves
+========
+
+Nasty Plot provides a boost to Persian's Special Attack, allowing it to hit as hard as possible. Hyper Voice is Persian's main STAB move, hitting for respectable damage while also hitting opposing foes behind Substitute. Hidden Power Ghost provides coverage against Ghost-types such as Misdreavus and Haunter, which are immune to Hyper Voice as well as Psychic-types such as Kadabra, Beheeyem, and Soundproof Mr. Mime, which is immune to Hyper Voice. Water Pulse provides Persian with coverage against Rock-types such as Golem and Probopass, which resist Persian's Normal-type STAB attack, and also OHKOes Pawniard and Piloswine after a Nasty Plot and Stealth Rock damage. Substitute is an option in the last moveslot, as it allows Persian to set up Nasty Plot easier while dodging Sucker Punch and status.
+
+Set Details
+========
+
+Maximum Special Attack EVs allow Persian to hit as hard as possible. Maximum Speed investment along with a Timid nature allows Persian to Speed tie with Floatzel and opposing Persian while outspeeding everything below that. The rest of the EVs are placed into Defense to let Persian take slightly less damage from priority attacks while maintaining an odd HP number to minimize entry hazard damage. Life Orb is the preferred item to boost the power of all of Persian's attacks at the cost of longevity. Technician is Persian's preferred ability, providing a boost to Persian's coverage moves with 60 Base Power or less.
+
+Usage Tips
+========
+
+As Persian is frail and has a bad defensive typing, it shouldn't be switching into attacks. Instead, bring Persian in after a teammate has fainted; from a slow Volt Switch, U-Turn, or Baton Pass; or on a predicted Ghost-type attack. Try to set up Nasty Plot on predicted switches or against Pokemon that Persian can force out, such as Kadabra and Haunter. Be mindful of using attacks that opposing Pokemon resist or are immune to, as Life Orb recoil wears Persian down over time. Also keep in mind that being poisoned or paralyzed hampers Persian immensely, so keep Persian as healthy as possible. Persian is best used as a late-game sweeper once bulkier foes, Pokemon faster than Persian, and priority users such as Poliwrath are eliminated or weak enough to the point where Persian can take them out.
+
+Team Options
+========
+
+Persian appreciates entry hazard support from Pokemon such as Golem, Roselia, Whirlipede, and Carracosta, as they turn 2HKOs into OHKOs on Pokemon such as Regice and Jumpluff with Hyper Voice after a boost. Wallbreakers that can weaken bulkier Pokemon, such as Simipour, can wear down the opposing team, allowing Persian to sweep more efficiently. Psychic- and Flying-types, such as Beheeyem and Dodrio, can handle Fighting-types for Persian. Meowstic and Solrock can provide dual screen support for Persian, making it easier for Persian to set up Nasty Plot. Support from Healing Wish Mr. Mime revives a weakened Persian, giving Persian a second chance at sweeping. Rapid Spin support from Pokemon such as Armaldo, Avalugg, and Torkoal helps out Persian, as Persian is to all forms of entry hazards.
+
+
+Other Options
+########
+
+Taunt allows Persian to function as a fast anti-lead, but Persian doesn't have the moveslot for it. Choice Specs with Switcheroo can surprise bulkier threats and walls, but Persian is still weak even with Choice Specs and also doesn't have a moveslot for Switcheroo. Hypnosis can put a foe to sleep so that Persian can set up Nasty Plot easier, but the inaccuracy is a problem. Thunderbolt can be used to hit Water-types such as Carracosta and Barbaracle harder. A physical set with Fake Out / Return / Knock Off / U-turn can be run, but it is outclassed by Purugly which has more power and access to Defiant. Hidden Power Fighting OHKOes Probopass after a Nasty Plot boost while also hitting Carracosta, Barbaracle, and Golem super effectively.
+
+Checks & Counters
+########
+
+**Specially Defensive Pokemon**: Special walls and tanks such as Lickilicky, Regice, and Grumpig can take any unboosted attack with ease and either recover health, cripple Persian with status, or just deal more damage to Persian and capitalize on its poor defenses.
+
+**Fighting-types**: Fighting-types such as Poliwrath and Machoke can survive any unboosted hit from Persian and OHKO with their respective STAB attacks. The former can carry Vacuum Wave to weaken Persian to the point where it can't efficiently sweep.
+
+**Faster Pokemon**: Faster Pokemon such as Zebstrika, as well as Choice Scarf Pokemon such as Mr. Mime and Rotom-F, can beat Persian with their STAB attacks because of Persian's low defenses combined with Life Orb recoil.
+
+**Status**: Toxic wears down Persian over time, whereas paralysis lowers Persian's Speed, allowing slower Pokemon to outspeed and KO it.
+
+**Residual Damage**: Persian is frail and relies on Life Orb for maximum damage output, and this combined with Persian's susceptibility to all forms of entry hazards means that priority attacks such as Piloswine's Ice Shard, Mightyena's and Pawniard's Sucker Punch, Purugly's Fake Out, and Basculin's and Carracosta's Aqua Jet can KO Persian or at least put it in range to be KOed next turn.

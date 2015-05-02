@@ -35,6 +35,37 @@ Team Options
 
 Simipour greatly appreciates entry hazard support from Pokemon such as Golem and Roselia, as they turn 2HKOs into OHKOs on Pokemon such as Togetic and Pelipper. Simipour's coverage is resisted by Water-types, so Grass- and Electric-types, such as Raichu and Leafeon, are helpful in order to beat them. Strong wallbreakers, such as Ursaring and Heatmor, can wear down the opposing team, allowing Simipour to sweep. Of these, Tauros is particularly effective, as it can bait and KO Poliwrath. Simipour also works well with Bug-types, such as Ninjask and Leavanny, which enjoys the removal of Rock- and Fire-types.
 
+Mixed Attacker
+##########
+name: Mixed Attacker
+move 1: Hydro Pump
+move 2: Ice Beam
+move 3: Grass Knot
+move 4: Low Kick
+ability: Torrent
+item: Life Orb
+evs: 4 Atk / 252 SpA / 252 Spe
+nature: Naive
+
+Moves
+=========
+
+Hydro Pump is Simipour's strongest STAB move, dealing heavy damage to any foe that doesn't resist it. Ice Beam provides good neutral coverage with Hydro Pump, as it hits Grass-types, such as Tangela, which resist Water. Grass Knot provides perfect neutral coverage, hitting Water-types, such as Poliwrath, for super effective damage. Low Kick can 2HKO Lickilicky and Regice, Simipour's best switch-ins. Taunt can be used in the last slot with a Timid nature, making Simipour an effective anti-lead that outspeeds every common entry hazard lead.
+
+Set Details
+=========
+
+Simipour's EVs are standard for a special attacker, but a Naive nature is used for a higher damage output for Low Kick. Life Orb increases Simipour's power, allowing it to 2HKO Regice and OHKO Dodrio. Torrent is Simipour's only relevant ability, powering up Simipour's Water-type STAB move when Simipour is weakened. If chosen, Taunt should be accompanied by a Timid nature.
+
+Usage Tips:
+==========
+
+Simipour should be used early- and mid-game as a wallbreaker to allow teammates to sweep more easily later in the game. Simipour has low bulk and no recovery, so it prefers to come after KOs or from a pivot such as Baton Pass Togetic or Volt Switch Probopass. Simipour should usually go for the safe move, unless the opponent has a healthy Lickilicky; then, Low Kick should be used on a predicted switch. However, Simipour should be careful if the opponent switches between Pokemon that resist its moves, trying to Life Orb stall it. If Simipour runs Taunt and the opponent has common entry hazard leads such as Monferno and Whirlipede, Simipour can be used as a lead to prevent them from setting up entry hazards and 2HKO all of them; however, many other leads can OHKO or 2HKO it in response. 
+
+Team Options
+==========
+
+Simipour fits best in offensively based teams which appreciate its ability to wear down of walls. Setup sweepers, such as Carracosta and Regice, particularly appreciate this; the former especially appreciates the removal of Poliwrath. Other special attackers, such as Haunter and Mr. Mime, enjoy Simipour's ability to bait and KO Lickilicky. Entry hazard setters, such as Golem and Whirlipede, wear the opposing team down; note that even one layer of Spikes allows Simipour to 2HKO Lickilicky on the switch. Torterra and Roselia are particularly good examples, as they can check Electric-types.
 
 Other Options
 ########
