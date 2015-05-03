@@ -17,7 +17,8 @@ def parse_scms(directory):
                 tier = subdir[len(directory)+1:]
                 pokemon = name_pokemon(filename)
                 gen = subdir[subdir.rfind("/")-2:subdir.rfind("/")]
-                if tier != "VGC12" and tier != "VGC11" and pokemon != "Ditto":
+                if (tier != "VGC12" and tier != "VGC11" and
+                        tier != "BattleSpotSingles" and pokemon != "Ditto"):
                     while True:
                         line = analysis.readline()
                         if not line:
